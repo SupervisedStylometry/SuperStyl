@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>162301</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Sei tanto graziosa</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Godts volck is als die <rhyme label="a" type="f">Bijle</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Die wel versonck tot op den vloer der <rhyme label="b" type="f">stroomen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Maer na een korte <rhyme label="a" type="f" corresp="#s1:l1">wijle</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Is door Elisa's handt om hoogh <rhyme label="b" type="f" corresp="#s1:l2">ghekomen</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">En swom doe <rhyme label="c" type="m">weer</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Ghelijck een <rhyme label="c" type="m" corresp="#s1:l5">Veêr</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">En gingh niet weer te <rhyme label="d" type="f">gronde</rhyme>.</l>
+        <l id="s1:l8" met="2" type="-+">Lof zy u <rhyme label="e" type="f">Heere</rhyme>!</l>
+        <l id="s1:l9" met="3" type="-+">Geeft dat wy uwe <rhyme label="e" type="f" corresp="#s1:l8">eere</rhyme></l>
+        <l id="s1:l10" met="2" type="+-">Staegh <rhyme label="d" type="f" corresp="#s1:l7">verkonden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

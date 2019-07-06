@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176982</id>
+    <date>
+      <year-start>1757</year-start>
+      <year-end>1757</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Ik heb u zo lange tijd</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">MYn lief, uw zoet <rhyme label="a" type="m">gezicht</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">En 't blozen uwer <rhyme label="b" type="f">wangen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Myn lief uw zoet <rhyme label="a" type="m" corresp="#s1:l1">gezicht</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Heeft my tot min <rhyme label="a" type="m" corresp="#s1:l1">verplicht</rhyme>:</l>
+        <l id="s1:l5" met="3" type="-+">Uw lonkjes, lagchjes, <rhyme label="c" type="f">kusjes</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Ontfonken myne <rhyme label="c" type="f" corresp="#s1:l5">lusjes</rhyme>:</l>
+        <l id="s1:l7" met="2" type="-+">Uwe heusche <rhyme label="d" type="m">aard</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Met deugd <rhyme label="d" type="m" corresp="#s1:l7">gepaard</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Is wederliefde <rhyme label="d" type="m" corresp="#s1:l7">waard</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Zoo ras als myne <rhyme label="a" type="m">hand</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Drukt op uw blanke <rhyme label="b" type="f">borsjes</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Zoo ras als myne <rhyme label="a" type="m" corresp="#s2:l1">hand</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Die globetjes <rhyme label="a" type="m" corresp="#s2:l1">omspand</rhyme>;</l>
+        <l id="s2:l5" met="3" type="-+">Voelt myn Natuur een' <rhyme label="c" type="f">neiging</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Een' wondren opwaards <rhyme label="c" type="f" corresp="#s2:l5">steiging</rhyme>,</l>
+        <l id="s2:l7" met="2" type="-+">Een zekren <rhyme label="d" type="m">gloed</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Die my het <rhyme label="d" type="m" corresp="#s2:l7">bloed</rhyme></l>
+        <l id="s2:l9" met="3" type="-+">In min ontbranden <rhyme label="d" type="m" corresp="#s2:l7">doet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Ik kniel dan, dus <rhyme label="a" type="m">ontfonkt</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Voor 't altaar uwer <rhyme label="b" type="f">liefde</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Ik kniel dan, dus <rhyme label="a" type="m" corresp="#s3:l1">ontfonkt</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Daar Cupido my <rhyme label="a" type="m" corresp="#s3:l1">lonkt</rhyme>;</l>
+        <l id="s3:l5" met="3" type="-+">Daar kan ik offrend <rhyme label="c" type="f">kusschen</rhyme>:</l>
+        <l id="s3:l6" met="3" type="-+">Myn minnevonken <rhyme label="c" type="f" corresp="#s3:l5">blusschen</rhyme>:</l>
+        <l id="s3:l7" met="2" type="-+">En moê <rhyme label="d" type="m">gekust</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">Genieten <rhyme label="d" type="m" corresp="#s3:l7">rust</rhyme>,</l>
+        <l id="s3:l9" met="3" type="-+">Tot weêr ontbrand myn <rhyme label="d" type="m" corresp="#s3:l7">lust</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

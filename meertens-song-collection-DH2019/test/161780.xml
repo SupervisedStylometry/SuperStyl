@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>161780</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="mythologisch lied" translation="mythological song">mythologisch lied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Tranquilles coeurs</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O schoone, die mijn hert en <rhyme label="a" type="m">sin</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Beheerscht door kragt van uwe <rhyme label="b" type="f">Ogen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Die my verpligten   tot de <rhyme label="a" type="m" corresp="#s1:l1">min</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Als   ik beschouwde haer <rhyme label="b" type="f" corresp="#s1:l2">vermogen</rhyme>,</l>
+        <l id="s1:l5" met="6" type="-+">Laat af van uwe rouw, besteed met my uw <rhyme label="c" type="m">Jeugd</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">In volle lust en <rhyme label="c" type="m" corresp="#s1:l5">vreugd</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Siet eens hoe schitterd uwe <rhyme label="a" type="m">Kroon</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Herschept   in tintelende <rhyme label="b" type="f">sterren</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Beschouw hoe aangenaam en <rhyme label="a" type="m" corresp="#s2:l1">schoon</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Vertoond sig dat gesigt van <rhyme label="b" type="f" corresp="#s2:l2">verre</rhyme>.</l>
+        <l id="s2:l5" met="6" type="-+">Omhels dan, ja omhels, voor stervens bitter <rhyme label="c" type="m">lot</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">De vrindelijke <rhyme label="c" type="m" corresp="#s2:l5">God</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

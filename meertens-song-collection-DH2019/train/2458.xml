@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2458</id>
+    <date>
+      <year-start>1622</year-start>
+      <year-end>1622</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="dialectlied" translation="dialect song">dialectlied</tag>
+    </tags>
+    <melody>Pots honderdduizend slapperment</melody>
+    <categories>
+      <category translation="groups">groepen</category>
+      <category translation="formal genres">formele genres</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>G.A. Bredero</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Nu Heereman, nu <rhyme label="a" type="m">Jong-gesel</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Hoort toe, en houwt wat <rhyme label="b" type="m">stal</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Nou laet mijn gaen jy ouwe <rhyme label="a" type="m" corresp="#s1:l1">vel</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Wat schortje? sinje <rhyme label="b" type="m" corresp="#s1:l2">mal</rhyme>?</l>
+        <l id="s1:l5" met="4" type="-+">Hoe komt dat ghy u soo <rhyme label="c" type="m">verhaest</rhyme>?</l>
+        <l id="s1:l6" met="3" type="-+">Ay lieve houwt wat <rhyme label="d" type="m">stee</rhyme>.</l>
+        <l id="s1:l7" met="4" type="-+">Wegh, ouwe Totebel, ghy <rhyme label="c" type="m" corresp="#s1:l5">raest</rhyme>:</l>
+        <l id="s1:l8" met="3" type="-+">Dat jy soeckt, soeck ick <rhyme label="d" type="m" corresp="#s1:l6">mee</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hoe valt u dit so euvel <rhyme label="a" type="m">in</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Dat ghy my soo <rhyme label="b" type="m">versmaed</rhyme>?</l>
+        <l id="s2:l3" met="4" type="-+">Wegh quijl-bab met u <rhyme label="a" type="m" corresp="#s2:l1">kevel-kin</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Wegh met u malle <rhyme label="b" type="m" corresp="#s2:l2">praet</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Ay Jonghman geeft my wat <rhyme label="c" type="m">gehoor</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Het is mijn eerste <rhyme label="d" type="m">bee</rhyme>.</l>
+        <l id="s2:l7" met="4" type="-+">En prevelt my niet meer an 't <rhyme label="c" type="m" corresp="#s2:l5">oor</rhyme>:</l>
+        <l id="s2:l8" met="3" type="-+">Dat jy soeckt, soeck ick <rhyme label="d" type="m" corresp="#s2:l6">mee</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Dit schenck ick u, o ionger <rhyme label="a" type="m">Helt</rhyme>!</l>
+        <l id="s3:l2" met="3" type="-+">Daer toe mijn lijf, en <rhyme label="b" type="m">goed</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Nu Besje, laet mijn <rhyme label="a" type="m" corresp="#s3:l1">ongequelt</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">En soeckt een gierigh <rhyme label="b" type="m" corresp="#s3:l2">bloed</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Ick maeck u Jongeling soo <rhyme label="c" type="m">rijck</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Als 't water vande <rhyme label="d" type="m">Zee</rhyme>.</l>
+        <l id="s3:l7" met="4" type="-+">Ghy zijt my al te <rhyme label="c" type="m" corresp="#s3:l5">ongelijck</rhyme>:</l>
+        <l id="s3:l8" met="3" type="-+">Dat jy soeckt, soeck ick <rhyme label="d" type="m" corresp="#s3:l6">mee</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ick sal u houden als een <rhyme label="a" type="m">Graef</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">In 't gouwt, in 't silver <rhyme label="b" type="m">stijf</rhyme>.</l>
+        <l id="s4:l3" met="4" type="-+">Daer voor souw ick dan zijn een <rhyme label="a" type="m" corresp="#s4:l1">slaaf</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Van een verschrompelt <rhyme label="b" type="m" corresp="#s4:l2">wijf</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Dat kleuter is te <rhyme label="c" type="m">wispeltuur</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Al is sy blanck as <rhyme label="d" type="m">snee</rhyme>.</l>
+        <l id="s4:l7" met="4" type="-+">En ghy zijt my te goons en <rhyme label="c" type="m" corresp="#s4:l5">suur</rhyme>:</l>
+        <l id="s4:l8" met="3" type="-+">Dat jy soeckt, soeck ick <rhyme label="d" type="m" corresp="#s4:l6">mee</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Wech taye tandeloose <rhyme label="a" type="m">Best</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Wegh druyp-neus, wech <rhyme label="b" type="m">root-oogh</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Gaet haelt ien kooltje in u <rhyme label="a" type="m" corresp="#s5:l1">test</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">En settet vry wat <rhyme label="b" type="m" corresp="#s5:l2">hoogh</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">En raest en blaest daer leven <rhyme label="c" type="m">in</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">En laet mijn in mijn <rhyme label="d" type="m">vree</rhyme>.</l>
+        <l id="s5:l7" met="4" type="-+">Dit is een Meysjen na myn <rhyme label="c" type="m" corresp="#s5:l5">sin</rhyme>!</l>
+        <l id="s5:l8" met="3" type="-+">Dat jy soeckt, soeck ick <rhyme label="d" type="m" corresp="#s5:l6">mee</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Den ouderdom, is wijs van <rhyme label="a" type="m">raet</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Daer toe suynigh en <rhyme label="b" type="m">vroet</rhyme>.</l>
+        <l id="s6:l3" met="4" type="-+">Ghelijckheyd in den Echten <rhyme label="a" type="m" corresp="#s6:l1">staet</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Baerd vruntschap in 't <rhyme label="b" type="m" corresp="#s6:l2">gemoet</rhyme>:</l>
+        <l id="s6:l5" met="4" type="-+">Wat is hier lieffelijcker <rhyme label="c" type="m">dingh</rhyme>,</l>
+        <l id="s6:l6" met="3" type="-+">Of 't alderdroefste <rhyme label="d" type="m">wee</rhyme>,</l>
+        <l id="s6:l7" met="4" type="-+">Als goe, of geen <rhyme label="c" type="m" corresp="#s6:l5">vereenigingh</rhyme>?</l>
+        <l id="s6:l8" met="3" type="-+">Dat jy soeckt, soeck ick <rhyme label="d" type="m" corresp="#s6:l6">mee</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Al waer de Rijckdom van u <rhyme label="a" type="m">schat</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Als al de wereld <rhyme label="b" type="m">groot</rhyme>:</l>
+        <l id="s7:l3" met="4" type="-+">En eer ickse met u <rhyme label="a" type="m" corresp="#s7:l1">besat</rhyme>,</l>
+        <l id="s7:l4" met="3" type="-+">Ick was veel liever <rhyme label="b" type="m" corresp="#s7:l2">doot</rhyme>:</l>
+        <l id="s7:l5" met="4" type="-+">Wech Morssebel gy hebt een <rhyme label="c" type="m">gongs</rhyme>:</l>
+        <l id="s7:l6" met="3" type="-+">Gaet door ghy ouwe <rhyme label="d" type="m">quee</rhyme>,</l>
+        <l id="s7:l7" met="4" type="-+">Och Beste-moer ghy soeckt wat <rhyme label="c" type="m" corresp="#s7:l5">iongs</rhyme></l>
+        <l id="s7:l8" met="3" type="-+">Dat jy soeckt, soeck ick <rhyme label="d" type="m" corresp="#s7:l6">mee</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174530</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Ei roosje kijk eens uit uw knop</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ei roosje! kijk eens uit uw' <rhyme label="a" type="m">knop</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Of 't niet haast dag zal <rhyme label="b" type="f">wezen</rhyme>!</l>
+        <l id="s1:l3" met="4" type="-+">Kom, steek uw kopje veilig <rhyme label="a" type="m" corresp="#s1:l1">op</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Ge hebt geen leed te <rhyme label="b" type="f" corresp="#s1:l2">vreezen</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Of ziet ge mij niet voor u <rhyme label="c" type="m">staan</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Met al mijn beste kleêrtjes <rhyme label="c" type="m" corresp="#s1:l5">aan</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Had Moeder gistren niet <rhyme label="a" type="m">gewed</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Dat gij al lang zoudt <rhyme label="b" type="f">prijken</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Eer ik, nog domlend in het <rhyme label="a" type="m" corresp="#s2:l1">bed</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Uit mijn gordijn zou <rhyme label="b" type="f" corresp="#s2:l2">kijken</rhyme>! -</l>
+        <l id="s2:l5" met="4" type="-+">Ei, sliep uit! 'k ben al lang <rhyme label="c" type="m">gekleed</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">En gij zijt nog niet half <rhyme label="c" type="m" corresp="#s2:l5">gereed</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Maar 'k ben ook vroeg naar bed <rhyme label="a" type="m">gegaan</rhyme>:</l>
+        <l id="s3:l2" met="3" type="-+">Daar zal het wel van <rhyme label="b" type="f">komen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Dat ik het eerst nu op kon <rhyme label="a" type="m" corresp="#s3:l1">staan</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">En gij nog staat te <rhyme label="b" type="f" corresp="#s3:l2">droomen</rhyme>: -</l>
+        <l id="s3:l5" met="4" type="-+">Och, Moederlief! och zeg me <rhyme label="c" type="m">noû</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Wie dacht u, dat het winnen <rhyme label="c" type="m" corresp="#s3:l5">zoû</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>114601</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+    </tags>
+    <melody>Je rencontrais endormie</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Guilielmus Bolognino</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">SErvati, die d' <rhyme label="a" type="f">Arrianen</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Hebt ghelevert grooten <rhyme label="b" type="m">strijdt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Inghedruckt u <rhyme label="a" type="f" corresp="#s1:l1">onderdanen</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Christi Godtheydt t' alle <rhyme label="b" type="m" corresp="#s1:l2">tijdt</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Die ghy eeuwich nu <rhyme label="c" type="m">gheniet</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Wilt ontfanghen dit nieuw <rhyme label="c" type="m" corresp="#s1:l5">liedt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Doen Arius quade <rhyme label="a" type="f">vlaghen</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Waeren over nu <rhyme label="b" type="m">ghegaen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Heeft den Heer u ander <rhyme label="a" type="f" corresp="#s2:l1">plaghen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Die aenstonden, doen <rhyme label="b" type="m" corresp="#s2:l2">verstaen</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Van den Hun en den <rhyme label="c" type="m">Wandal'</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Voorschickt van Godt over <rhyme label="c" type="m" corresp="#s2:l5">al</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Doen hebdy met duysent <rhyme label="a" type="f">tranen</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Aenghehouden by den <rhyme label="b" type="m">Heer</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Die ghy stadich bleeft <rhyme label="a" type="f" corresp="#s3:l1">bemanen</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">By sijn goedtheyt, die soo <rhyme label="b" type="m" corresp="#s3:l2">seer</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">Op de werelt was <rhyme label="c" type="m">ghestoort</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Dat u be bleef <rhyme label="c" type="m" corresp="#s3:l5">onverhoort</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Doen zijt ghy ghegaen nae <rhyme label="a" type="f">Roomen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Om door Petrus, Paulus <rhyme label="b" type="m">be</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">'s Heeren thoren in te <rhyme label="a" type="f" corresp="#s4:l1">toomen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Maer niet anders 't op en <rhyme label="b" type="m" corresp="#s4:l2">de</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">Dan dat 't landt in uwen <rhyme label="c" type="m">tijdt</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">Van de Hunnen wert <rhyme label="c" type="m" corresp="#s4:l5">bevrijt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Die stracks naer u <rhyme label="a" type="f">overlyden</rhyme></l>
+        <l id="s5:l2" met="4" type="+-">Hebben al te <rhyme label="b" type="m">wreedelijck</rhyme></l>
+        <l id="s5:l3" met="4" type="+-">'t Al vermoort aen alle <rhyme label="a" type="f" corresp="#s5:l1">zijden</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">En verwoest 't heel <rhyme label="b" type="m" corresp="#s5:l2">Christenrijck</rhyme>,</l>
+        <l id="s5:l5" met="4" type="+-">Dat ghy saeght uyt 't hemelsch <rhyme label="c" type="m">hof</rhyme>,</l>
+        <l id="s5:l6" met="4" type="+-">En gaeft Godt van alles <rhyme label="c" type="m" corresp="#s5:l5">lof</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Wilt van daer nu van ons <rhyme label="a" type="f">weiren</rhyme></l>
+        <l id="s6:l2" met="4" type="+-">Die te vreesschelijcke <rhyme label="b" type="m">straf</rhyme></l>
+        <l id="s6:l3" met="4" type="+-">Die ons aen de ziel sou <rhyme label="a" type="f" corresp="#s6:l1">deiren</rhyme>,</l>
+        <l id="s6:l4" met="4" type="+-">Keert den vyandt van ons <rhyme label="b" type="m" corresp="#s6:l2">af</rhyme>,</l>
+        <l id="s6:l5" met="4" type="+-">Die berooft van 't hoochste <rhyme label="c" type="m">goedt</rhyme></l>
+        <l id="s6:l6" met="4" type="+-">t' Allen eeuwen branden <rhyme label="c" type="m" corresp="#s6:l5">doet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

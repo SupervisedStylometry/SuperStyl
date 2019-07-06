@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174930</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="avondlied" translation="evening song">avondlied</tag>
+    </tags>
+    <melody>Kinders zult ge slapen gaan</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Kinders! zult ge slapen <rhyme label="a" type="m">gaan</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Bidt met zulk een vroom <rhyme label="b" type="m">gemoed</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Of ge 't voor het leste <rhyme label="b" type="m" corresp="#s1:l2">doet</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">En misschien niet op zult <rhyme label="a" type="m" corresp="#s1:l1">staan</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Dankt voor 't goeds, wat God u <rhyme label="a" type="m">gaf</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Hem, die 't u geschonken <rhyme label="b" type="m">heeft</rhyme>;</l>
+        <l id="s2:l3" met="4" type="+-">Smeekt voor 't kwaad, wat gij <rhyme label="b" type="m" corresp="#s2:l2">bedreeft</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Onzen Heer vergeving <rhyme label="a" type="m" corresp="#s2:l1">af</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">De oogjes, door den slaap <rhyme label="a" type="m">bezwaard</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Mogen dan ter ruste <rhyme label="b" type="m">gaan</rhyme>;</l>
+        <l id="s3:l3" met="4" type="+-">Vrolijk zult ge ze <rhyme label="b" type="m" corresp="#s3:l2">openslaan</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">In den Hemel of op <rhyme label="a" type="m" corresp="#s3:l1">aard'</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

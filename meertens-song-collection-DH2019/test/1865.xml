@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1865</id>
+    <date>
+      <year-start>1615</year-start>
+      <year-end>1615</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Phoebus is lang over de zee</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GHelijck een Iagher in het <rhyme label="a" type="m">veldt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Staet vroegh op om 't vvildt te <rhyme label="b" type="f">bekomen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Gheen quaet vveer maeckt hem <rhyme label="a" type="m" corresp="#s1:l1">ontstelt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Noch geen vvreedt vvildt dat doet hem <rhyme label="b" type="f" corresp="#s1:l2">schromen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Met VVinden en met Bracken <rhyme label="c" type="m">voor</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Tot dat hy vindt het vvildt sijn <rhyme label="c" type="m" corresp="#s1:l5">spoor</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Gheen tijdt gaet daer te <rhyme label="c" type="m" corresp="#s1:l5">loor</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Aldus moet ick my oock ter <rhyme label="a" type="m">jacht</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">In't amoreuse vvoudt <rhyme label="b" type="f">begheven</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Ghy Bracken neemt op 't vvildt vvel <rhyme label="a" type="m" corresp="#s2:l1">acht</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Ghy VVinden seer snel daer <rhyme label="b" type="f" corresp="#s2:l2">beneven</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">En vanght dat VVildt dat ick dus <rhyme label="c" type="m">jaegh</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Dat ick mach nemen een groot <rhyme label="c" type="m" corresp="#s2:l5">behaegh</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Te jaghen alle <rhyme label="c" type="m" corresp="#s2:l5">daegh</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Gaet voor, gaet voor ghy VVinden <rhyme label="a" type="m">snel</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Mijn Bracken die hebben het vvildt <rhyme label="b" type="f">ghevonden</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">En vvilt u niet toonen <rhyme label="a" type="m" corresp="#s3:l1">rebel</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Maer volght haer ras tot allen <rhyme label="b" type="f" corresp="#s3:l2">stonden</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">Helaes! helaes! ick ben <rhyme label="c" type="m">beducht</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">My dunckt mijn Brack heeft gheen meer <rhyme label="c" type="m" corresp="#s3:l5">lucht</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Het vvildt moet zijn <rhyme label="c" type="m" corresp="#s3:l5">ghevlucht</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Schoon lief ghy zijt het vvildt <rhyme label="a" type="m">alleen</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Dat mijn jonck hert aldus doet <rhyme label="b" type="f">jaghen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">VVant gheen ander vvildt ick <rhyme label="a" type="m" corresp="#s4:l1">meen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">In mijn jacht neemt toch <rhyme label="b" type="f" corresp="#s4:l2">behagen</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Mijn lijden is u vvel <rhyme label="c" type="m">bekent</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Ick hoop 't sal nemen haest een <rhyme label="c" type="m" corresp="#s4:l5">endt</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Te zijn in dit <rhyme label="c" type="m" corresp="#s4:l5">ellendt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Mijn Bracken zijn <rhyme label="a" type="m">ghestadicheyt</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Mijn VVinden moet ick hope <rhyme label="b" type="f">noemen</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Ghestadich hopen alsmen <rhyme label="a" type="m" corresp="#s5:l1">seyt</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Doet somvvijlen gramschap <rhyme label="b" type="f" corresp="#s5:l2">versoenen</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">Ghestadich moet ick hoopen <rhyme label="c" type="m">siet</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">VVil ick komen uyt dit <rhyme label="c" type="m" corresp="#s5:l5">verdriet</rhyme>,</l>
+        <l id="s5:l7" met="3" type="-+">Uyt Cupidos <rhyme label="c" type="m" corresp="#s5:l5">ghebiedt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

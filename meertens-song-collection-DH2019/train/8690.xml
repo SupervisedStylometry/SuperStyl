@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8690</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">OU alles vous bon <rhyme label="a" type="m">Compangion</rhyme>?</l>
+        <l id="s1:l2" met="4" type="-+">Wilse vous geven een Potte <rhyme label="b" type="m">bier</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">Ons weet d'Englies bier is <rhyme label="a" type="m" corresp="#s1:l1">bon</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Pour drie stuver, 'tis te <rhyme label="b" type="m" corresp="#s1:l2">dier</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Bon faro maeck <rhyme label="c" type="f">couragie</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Ick drinckse sonder <rhyme label="d" type="m">leet</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Bon faro dat ick <rhyme label="d" type="m" corresp="#s1:l6">sweet</rhyme>,</l>
+        <l id="s1:l8" met="5" type="+-">Het is pour drinck en eet, bon <rhyme label="c" type="f" corresp="#s1:l5">potagie</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wilse vous mee al na die <rhyme label="a" type="m">mart</rhyme>?</l>
+        <l id="s2:l2" met="4" type="-+">Ons sel kijck een wonder <rhyme label="b" type="m">spel</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Van Iean Pottagie drollich <rhyme label="a" type="m" corresp="#s2:l1">part</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Luycker wael vous kense <rhyme label="b" type="m" corresp="#s2:l2">wel</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Hy stel een groot <rhyme label="c" type="f">stellagie</rhyme>:</l>
+        <l id="s2:l6" met="3" type="-+">Hy koocht soo datse <rhyme label="d" type="m">sweet</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Die vier die brant soo <rhyme label="d" type="m" corresp="#s2:l6">heet</rhyme>,</l>
+        <l id="s2:l8" met="5" type="+-">Hy roerte al in de keet, bon <rhyme label="c" type="f" corresp="#s2:l5">potagie</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">O! sijn roode salf is <rhyme label="a" type="m">goet</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Pour un nieu gehoude <rhyme label="b" type="m">wont</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Als vous maer uytnijsde die <rhyme label="a" type="m" corresp="#s3:l1">bloet</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">En pour die sinckingh in de <rhyme label="b" type="m" corresp="#s3:l2">mont</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Strijcke aen u <rhyme label="c" type="f">visage</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Aen alle bey jou <rhyme label="d" type="m">kaeck</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">In slaep, dan komt die <rhyme label="d" type="m" corresp="#s3:l6">vaeck</rhyme>:</l>
+        <l id="s3:l8" met="5" type="+-">O! meester Iannis maeck, bon <rhyme label="c" type="f" corresp="#s3:l5">potagie</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Sy is goet pour die <rhyme label="a" type="m">verbrant</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">De groen salf, ons heb <rhyme label="b" type="m">gesie</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Als vous heb verbrant jou <rhyme label="a" type="m" corresp="#s4:l1">hant</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Pour die meysje brant haer <rhyme label="b" type="m" corresp="#s4:l2">knie</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Pour kack-hiel en <rhyme label="c" type="f">krauwagie</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">En pour meer andere <rhyme label="d" type="m">dinge</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Dees genees <rhyme label="d" type="m" corresp="#s4:l6">sonderlinghe</rhyme>,</l>
+        <l id="s4:l8" met="5" type="+-">Iannis maeck wonderlinge, bon <rhyme label="c" type="f" corresp="#s4:l5">potagie</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Ons mach die potagie <rhyme label="a" type="m">oock</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Speck gekoockt met die <rhyme label="b" type="m">warmoes</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Soete Koe-melck brocke met <rhyme label="a" type="m" corresp="#s5:l1">Loock</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Neems daer van een volle <rhyme label="b" type="m" corresp="#s5:l2">kroes</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">Hy smaeck bet dan <rhyme label="c" type="f">formage</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">Van die Hollant <rhyme label="d" type="m">propijs</rhyme>,</l>
+        <l id="s5:l7" met="3" type="-+">Een Hoen ekoockt met <rhyme label="d" type="m" corresp="#s5:l6">Rijs</rhyme>,</l>
+        <l id="s5:l8" met="5" type="+-">Savoyen met Saucijs, bon <rhyme label="c" type="f" corresp="#s5:l5">potagie</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

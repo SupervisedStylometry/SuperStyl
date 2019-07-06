@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182537</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>J'étais gisant à cette place</melody>
+  <author>Hendrik Riemsnijder</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Een wufte musch, die hupp'lend <rhyme label="a" type="f">pikte</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Zag eens een Tortelduifje, en <rhyme label="b" type="m">sprak</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">De mensch is dwaas; waarom <rhyme label="a" type="f" corresp="#s1:l1">beschikte</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Hy u meer voorrecht, meer <rhyme label="b" type="m" corresp="#s1:l2">gemak</rhyme>?</l>
+        <l id="s1:l5" met="4" type="-+">Gy word gevoedt, ik word <rhyme label="c" type="f">verdreven</rhyme>;</l>
+        <l id="s1:l6" met="4" type="-+">En evenwel, beken het <rhyme label="d" type="m">vry</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Dat ik, veel listiger dan <rhyme label="d" type="m" corresp="#s1:l6">gy</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Meer vrolykheid bezit en <rhyme label="c" type="f" corresp="#s1:l5">leven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Dat komt, (liet zig het duifje <rhyme label="a" type="f">hooren</rhyme>:)</l>
+        <l id="s2:l2" met="4" type="-+">Om dat ge een stouten roover <rhyme label="b" type="m">zyt</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Ik neem alleen 't geen me is <rhyme label="a" type="f" corresp="#s2:l1">beschooren</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">En krenk den mensch in goed noch <rhyme label="b" type="m" corresp="#s2:l2">vlyt</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Zy, die hunn' waaren pligt niet <rhyme label="c" type="f">kenden</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Zyn nimmermeer bemind <rhyme label="d" type="m">geweest</rhyme>.</l>
+        <l id="s2:l7" met="4" type="-+">Wat voordeel geeft vernuft en <rhyme label="d" type="m" corresp="#s2:l6">geest</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Als men 't niet nuttig aan wil <rhyme label="c" type="f" corresp="#s2:l5">wenden</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

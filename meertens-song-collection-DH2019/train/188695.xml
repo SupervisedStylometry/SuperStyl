@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188695</id>
+    <date>
+      <year-start>1795</year-start>
+      <year-end>1795</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Peut-on affliger ce qu'on aime</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Vaar wel, vaar wel Bataafsche <rhyme label="a" type="f">Telgen</rhyme>!</l>
+        <l id="s1:l2" met="2" type="-+">Wij zongen <rhyme label="b" type="m">blij</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Ons Land is <rhyme label="b" type="m" corresp="#s1:l2">vrij</rhyme>!</l>
+        <l id="s1:l4" met="4" type="-+">O Nakroost der aloude <rhyme label="a" type="f" corresp="#s1:l1">Belgen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Kon Bato 't hoofd ten graf uit <rhyme label="c" type="f">steeken</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Hij zoude u moed in 't harte <rhyme label="c" type="f" corresp="#s1:l5">spreeken</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">En zeggen: Gij zijt echte <rhyme label="d" type="f">Zoonen</rhyme>,</l>
+        <l id="s1:l8" met="5" type="-+">Die eindlijk eens mijn trouw, mijn moed wilt <rhyme label="d" type="f" corresp="#s1:l7">loonen</rhyme>;</l>
+        <l id="s1:l9" met="4" type="+-">Ga voort, verplet de <rhyme label="e" type="m">dwinglandij</rhyme>,</l>
+        <l id="s1:l10" met="4" type="-+">En leef, of sterf als Bato, vrij! (da <rhyme label="e" type="m" corresp="#s1:l9">Capo</rhyme>)</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Vaar wel, vaar wel Bataafsche <rhyme label="a" type="f">Telgen</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">Verliest geen <rhyme label="b" type="m">moed</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Het dierbaar <rhyme label="b" type="m" corresp="#s2:l2">goed</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Der Vrijheid, voegt u, dappre <rhyme label="a" type="f" corresp="#s2:l1">Belgen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Blijf, blijf dat edel pand <rhyme label="c" type="f">bewaaren</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Dan zal den duistren nevel <rhyme label="c" type="f" corresp="#s2:l5">klaaren</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Van tegenspoed, dan treed den <rhyme label="d" type="f">zegen</rhyme></l>
+        <l id="s2:l8" met="5" type="-+">Uw Vaderland en dappre Burgers <rhyme label="d" type="f" corresp="#s2:l7">tegen</rhyme>,</l>
+        <l id="s2:l9" met="4" type="+-">Ga voort, verplet de <rhyme label="e" type="m">Dwinglandij</rhyme>,</l>
+        <l id="s2:l10" met="4" type="-+">En leest als ware Belgen, vrij! (da <rhyme label="e" type="m" corresp="#s2:l9">Capo</rhyme>)</l>
+      </lg>
+    </lg>
+  </text>
+</song>

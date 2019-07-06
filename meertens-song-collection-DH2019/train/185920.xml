@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185920</id>
+    <date>
+      <year-start>1790</year-start>
+      <year-end>1790</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Ach wat zal ik nu <rhyme label="a" type="f">beginnen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Ik durf myn Philis niet meer <rhyme label="a" type="f" corresp="#s1:l1">minne</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Ik ben uit haer gunst <rhyme label="b" type="f">gestooten</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Zy heeft haer hart voor <rhyme label="b" type="f" corresp="#s1:l3">geslooten</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">O! wat uitgezogte <rhyme label="c" type="m">pyn</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Van zyn Lief gehaet te <rhyme label="c" type="m" corresp="#s1:l5">zyn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Philis U te moeten <rhyme label="a" type="f">derven</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Doet my duizend dooden <rhyme label="a" type="f" corresp="#s2:l1">sterven</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Maer helaes, waer zal ik <rhyme label="b" type="f">vlieden</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Wie, wie zal my hulpe <rhyme label="b" type="f" corresp="#s2:l3">bieden</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Ik ben ten einde van myn <rhyme label="c" type="m">raed</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Want myn Liefde word <rhyme label="c" type="m" corresp="#s2:l5">versmaed</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

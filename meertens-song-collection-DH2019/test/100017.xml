@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100017</id>
+    <date>
+      <year-start>1652</year-start>
+      <year-end>1652</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Enfin l'amour est mon vainqueur</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">EN fin l'Amour est mon <rhyme label="a" type="m">vainqueur</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Ie suis prest de <rhyme label="b" type="m">souffrir</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">Plus de <rhyme label="a" type="m" corresp="#s1:l1">rigeur</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Qu'il n'en faut pour <rhyme label="b" type="m" corresp="#s1:l2">mourir</rhyme> :</l>
+        <l id="s1:l5" met="4" type="-+">Climeine m'a mis sous sa <rhyme label="c" type="m">loy</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Et mesprise ma <rhyme label="c" type="m" corresp="#s1:l5">foy</rhyme> ;</l>
+        <l id="s1:l7" met="2" type="-+">Quoy que je <rhyme label="d" type="m">face</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Elle est de <rhyme label="d" type="m" corresp="#s1:l7">glace</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Et se mocque de <rhyme label="c" type="m" corresp="#s1:l5">moy</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Amour ne me tient pas <rhyme label="a" type="m">pourtant</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Sortant de sa <rhyme label="b" type="m">prison</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Pour <rhyme label="a" type="m" corresp="#s2:l1">inconstant</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Ie le fai par <rhyme label="b" type="m" corresp="#s2:l2">raison</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Climene m'à mis sous sa <rhyme label="c" type="m">loy</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Et m'esprise ma <rhyme label="c" type="m" corresp="#s2:l5">foy</rhyme> :</l>
+        <l id="s2:l7" met="2" type="-+">Quoy que je <rhyme label="d" type="m">face</rhyme></l>
+        <l id="s2:l8" met="2" type="-+">Elle est de <rhyme label="d" type="m" corresp="#s2:l7">glace</rhyme></l>
+        <l id="s2:l9" met="3" type="-+">Et se mocque de <rhyme label="c" type="m" corresp="#s2:l5">moi</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

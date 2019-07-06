@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111265</id>
+    <date>
+      <year-start>1785</year-start>
+      <year-end>1785</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Zwygt nu, zwygt, o woesten <rhyme label="a" type="f">Winden</rhyme>!</l>
+        <l id="s1:l2" met="4" type="+-">Wrange Buijen! woed niet <rhyme label="b" type="m">meer</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Zoud ge ons thans ook nog <rhyme label="a" type="f" corresp="#s1:l1">verslinden</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">En verdooven Hartsincks <rhyme label="b" type="m" corresp="#s1:l2">eer</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Daar gy hem byna op 't <rhyme label="c" type="m">strand</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Van het lieven <rhyme label="c" type="m" corresp="#s1:l5">Vaderland</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Doet vergaan, betoomt uw <rhyme label="d" type="f">woede</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Neemt dien Held toch in uw <rhyme label="d" type="f" corresp="#s1:l7">hoede</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">Havengoden! bergt dit <rhyme label="c" type="m" corresp="#s1:l5">pand</rhyme>.</l>
+        <l id="s1:l10" met="4" type="+-">Neemt dien Held toch in uw <rhyme label="d" type="f" corresp="#s1:l7">hoede</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Kon hy de Engelschen niet <rhyme label="a" type="f">vinden</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">'t Was 's Mans schuld voor zeker <rhyme label="b" type="m">niet</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Zwygt dan, zwygt ô woeste <rhyme label="a" type="f" corresp="#s2:l1">winden</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Toont ontzag voor 's Helds <rhyme label="b" type="m" corresp="#s2:l2">gebied</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Dat men eert op Neêrlands <rhyme label="c" type="m">Vloot</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Waarlyk Hartincks daên zyn <rhyme label="c" type="m" corresp="#s2:l5">groot</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Hy dorst Noorderstormen <rhyme label="d" type="f">tergen</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">[...] hem dan goedgunstig <rhyme label="d" type="f" corresp="#s2:l7">bergen</rhyme>,</l>
+        <l id="s2:l9" met="4" type="+-">[...]ven Goôn! in Tessels <rhyme label="c" type="m" corresp="#s2:l5">schoot</rhyme>.</l>
+        <l id="s2:l10" met="4" type="+-">Wilt hem dan goedgunstig <rhyme label="d" type="f" corresp="#s2:l7">bergen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

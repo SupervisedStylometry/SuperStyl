@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182674</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Jolietje, myn Hondjen, is <rhyme label="a" type="f">willig</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Hy doet wat ik van hem <rhyme label="b" type="m">verlang</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Doch is hy zomtyds eens wat <rhyme label="a" type="f" corresp="#s1:l1">grillig</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Dan dreig ik hem, 't Beest is gedwee en <rhyme label="b" type="m" corresp="#s1:l2">bang</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Doch is hy zomtyds eens wat <rhyme label="a" type="f" corresp="#s1:l1">grillig</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Dan dreig ik hem, 't Beest is gedwee en <rhyme label="b" type="m" corresp="#s1:l2">bang</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">En zou het my verdriet <rhyme label="c" type="f">verschaffen</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Als ik, verdient, my zie <rhyme label="c" type="f" corresp="#s1:l7">bestraffen</rhyme>?</l>
+        <l id="s1:l9" met="4" type="-+">Dit zou gewis my niet <rhyme label="d" type="f">betaamen</rhyme>:</l>
+        <l id="s1:l10" met="4" type="-+">Myn hond zou my alsdan <rhyme label="d" type="f" corresp="#s1:l9">beschaamen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

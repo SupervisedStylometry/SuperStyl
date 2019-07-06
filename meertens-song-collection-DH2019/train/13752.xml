@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13752</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Rozemond die lag gedoken</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>anoniem</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">NU gae ick mijn beesjens <rhyme label="a" type="f">leyden</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Door het groen bedouwde <rhyme label="b" type="m">gras</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Naer de Claver-rijcke <rhyme label="a" type="f" corresp="#s1:l1">weyde</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Daer ick lestent vrolijck <rhyme label="b" type="m" corresp="#s1:l2">was</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Met de gantsche <rhyme label="c" type="m">Harderschaer</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Die der doen was by den <rhyme label="c" type="m" corresp="#s1:l5">aer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Tyter speelde op sijn <rhyme label="a" type="f">fluytje</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">En Philander op de <rhyme label="b" type="m">veel</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Amarilles op haer <rhyme label="a" type="f" corresp="#s2:l1">luytje</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">En Philida met haer <rhyme label="b" type="m" corresp="#s2:l2">keel</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Sangh, soo aerdigh dat het <rhyme label="c" type="m">klongh</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">En door al de Velden <rhyme label="c" type="m" corresp="#s2:l5">drongh</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Daer wy sprongen doen om <rhyme label="a" type="f">heenen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Met een over-groote <rhyme label="b" type="m">vreught</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Dat wy ons niet kosten <rhyme label="a" type="f" corresp="#s3:l1">speenen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Van de soetheyt, en <rhyme label="b" type="m" corresp="#s3:l2">geneucht</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Want als tijdt was om te <rhyme label="c" type="m">gaen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Konden wy ‘t nauw laten <rhyme label="c" type="m" corresp="#s3:l5">staen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Maer ik hoope weer te <rhyme label="a" type="f">vinden</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Al ‘t geselschap by den <rhyme label="b" type="m">aer</rhyme>.</l>
+        <l id="s4:l3" met="4" type="+-">Of daer ginder by de <rhyme label="a" type="f" corresp="#s4:l1">Linden</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Daer sy veel zijn by <rhyme label="b" type="m" corresp="#s4:l2">malkaer</rhyme>.</l>
+        <l id="s4:l5" met="4" type="+-">Nu mijn beesjens treet wat <rhyme label="c" type="m">voor</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Mits my dunckt, ick hun al <rhyme label="c" type="m" corresp="#s4:l5">hoor</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

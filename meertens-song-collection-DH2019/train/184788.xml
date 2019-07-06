@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184788</id>
+    <date>
+      <year-start>1740</year-start>
+      <year-end>1740</year-end>
+    </date>
+    <location>
+      <orginal-name>leuven</orginal-name>
+      <standard-name>Leuven, Belgium</standard-name>
+      <coordinates>
+        <lon>50.879202</lon>
+        <lat>4.7011675</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Petits oiseaux rassurez-vous</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">SIet, hoe den Heer in Doodt-strydt <rhyme label="a" type="m">beeft</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">De droef heydt doet syn Ziel <rhyme label="b" type="f">beswycken</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Het bloedigh sweet laet d'hert-sweer <rhyme label="b" type="f" corresp="#s1:l2">blycken</rhyme>:</l>
+        <l id="s1:l4" met="4" type="-+">Hy, die het al geschaepen <rhyme label="a" type="m" corresp="#s1:l1">heeft</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Light door den anghst ter aerd' <rhyme label="c" type="f">geslaegen</rhyme>;</l>
+        <l id="s1:l6" met="5" type="-+">De vreese met de liefde saemen <rhyme label="d" type="m">strydt</rhyme>,</l>
+        <l id="s1:l7" met="5" type="-+">Syn gemoedt door t'geweldt soo bitter pynen <rhyme label="d" type="m" corresp="#s1:l6">lydt</rhyme>,</l>
+        <l id="s1:l8" met="3" type="+-">Ah! hy en kan dees <rhyme label="e" type="m">smert</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">Niet langer meer <rhyme label="c" type="f" corresp="#s1:l5">verdraegen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Verdryft den schrick, die u <rhyme label="a" type="m">bevecht</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Myn saeligheydt wacht naer uw' <rhyme label="b" type="f">lyden</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Stelt dees benouwtheyt doch ter <rhyme label="b" type="f" corresp="#s2:l2">syden</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">En laet uw' liefde <rhyme label="a" type="m" corresp="#s2:l1">vast-gehecht</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Om uwe vrees te <rhyme label="c" type="f">overwinnen</rhyme>;</l>
+        <l id="s2:l6" met="5" type="-+">O Jesu, neemt een nieuwen moet weer <rhyme label="d" type="m">aen</rhyme>,</l>
+        <l id="s2:l7" met="5" type="-+">Ah! staet op, den verraeder komt tot u <rhyme label="d" type="m" corresp="#s2:l6">gegaen</rhyme>:</l>
+        <l id="s2:l8" met="3" type="+-">Maeckt, dat tot uwen <rhyme label="e" type="m">troost</rhyme></l>
+        <l id="s2:l9" met="3" type="-+">myn liefd' oock brandt van <rhyme label="c" type="f" corresp="#s2:l5">binnen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

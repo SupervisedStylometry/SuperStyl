@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36060</id>
+    <date>
+      <year-start>1685</year-start>
+      <year-end>1685</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Verblijd u gij Batavieren</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">VErheugt u <rhyme label="a" type="f">Batavieren</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Maeckt blijdtschap om en <rhyme label="b" type="m">tom</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Kroont hem met <rhyme label="a" type="f" corresp="#s1:l1">Lauwerieren</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Den Prins d'Orangie <rhyme label="b" type="m" corresp="#s1:l2">blom</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Die daer sijn trouw Aen een <rhyme label="c" type="m">Vrouw</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Van Konings bloet heeft <rhyme label="d" type="f">verbonden</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Aen Duc de Iorcks <rhyme label="e" type="m">kint</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Die hy der <rhyme label="e" type="m" corresp="#s1:l7">bemint</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Dien gaf hy sijn trouw te <rhyme label="f" type="m">pant</rhyme>,</l>
+        <l id="s1:l10" met="3" type="+-">Binnen <rhyme label="f" type="m" corresp="#s1:l9">Enghelandt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Maria de Edel <rhyme label="a" type="f">Princesse</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Daer alle deught in <rhyme label="b" type="m">blinck</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Is nu Wilhelmus <rhyme label="a" type="f" corresp="#s2:l1">meestresse</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Sa haer gesontheyt <rhyme label="b" type="m" corresp="#s2:l2">drinck</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Steeckt Pecktonnen <rhyme label="c" type="m">aen</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">En laet <rhyme label="d" type="f">gaen</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">Den vuer-pijl tot door de <rhyme label="e" type="m">wolcken</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Want siet den weg <rhyme label="e" type="m" corresp="#s2:l7">aenvaert</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">Maeria Stuaert, Al met u <rhyme label="f" type="m">Oranjeblom</rhyme>,</l>
+        <l id="s2:l10" met="3" type="+-">Haren <rhyme label="f" type="m" corresp="#s2:l9">Bruydegom</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Een treyn wel van twintig <rhyme label="a" type="f">Carossen</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Al met ses peerden <rhyme label="b" type="m">in</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Onder't Canon te <rhyme label="a" type="f" corresp="#s3:l1">lossen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Daer Coninck, <rhyme label="b" type="m" corresp="#s3:l2">Coningin</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">In d' eerst Coets <rhyme label="c" type="m">sat</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">die door't <rhyme label="d" type="f">Stat</rhyme></l>
+        <l id="s3:l7" met="2" type="-+">Dees edel Bruyt <rhyme label="e" type="m">Convoyeerden</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">In d'ander Coets <rhyme label="e" type="m" corresp="#s3:l7">naer</rhyme>,</l>
+        <l id="s3:l9" met="3" type="-+">Daer sat openbaer, Die jonge <rhyme label="f" type="m">Oranjeblom</rhyme>,</l>
+        <l id="s3:l10" met="3" type="+-">Met veele <rhyme label="f" type="m" corresp="#s3:l9">edeldom</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Al met een <rhyme label="a" type="f">magnificente</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Reden te Kerck <rhyme label="b" type="m">alwaer</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Sy in Conincx <rhyme label="a" type="f" corresp="#s4:l1">presentie</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Beloofden trou <rhyme label="b" type="m" corresp="#s4:l2">malkaer</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Trompet en Tamboer gaf <rhyme label="c" type="m">rammoer</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">De Klocken luyden met <rhyme label="d" type="f">vreugde</rhyme>,</l>
+        <l id="s4:l7" met="2" type="-+">Al om dit edel <rhyme label="e" type="m">paer</rhyme>,</l>
+        <l id="s4:l8" met="2" type="-+">Dan trouden te <rhyme label="e" type="m" corresp="#s4:l7">ghaer</rhyme>,</l>
+        <l id="s4:l9" met="3" type="-+">Toens reedt men met ghrooten <rhyme label="f" type="m">lof</rhyme>,</l>
+        <l id="s4:l10" met="3" type="+-">Daer naer Conincx <rhyme label="f" type="m" corresp="#s4:l9">Hof</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Alle die Heeren van <rhyme label="a" type="f">Londen</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Meenigh Marquies en <rhyme label="b" type="m">Duck</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Als dees Trou was <rhyme label="a" type="f" corresp="#s5:l1">gebonden</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Boden hun veel <rhyme label="b" type="m" corresp="#s5:l2">geluck</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">De Tafel gheset vol <rhyme label="c" type="m">bancket</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">Violen en Bassen <rhyme label="d" type="f">kloncken</rhyme>,</l>
+        <l id="s5:l7" met="2" type="-+">Men dansten paer en <rhyme label="e" type="m">paer</rhyme>,</l>
+        <l id="s5:l8" met="2" type="-+">Men dronk den wijn <rhyme label="e" type="m" corresp="#s5:l7">klaer</rhyme>,</l>
+        <l id="s5:l9" met="3" type="-+">Al op de gesontheyt <rhyme label="f" type="m">uyt</rhyme>,</l>
+        <l id="s5:l10" met="3" type="+-">Van Bruydegom en <rhyme label="f" type="m" corresp="#s5:l9">Bruyt</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Ghy Staten wilt <rhyme label="a" type="f">versieren</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">V Schepen t' <rhyme label="b" type="m">allekant</rhyme>,</l>
+        <l id="s6:l3" met="3" type="-+">Laet nu de winpels <rhyme label="a" type="f" corresp="#s6:l1">swieren</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Haelt de Prins weer te <rhyme label="b" type="m" corresp="#s6:l2">Lant</rhyme>,</l>
+        <l id="s6:l5" met="4" type="-+">Die met sijn schoon Bruyt in een <rhyme label="c" type="m">schuyt</rhyme>,</l>
+        <l id="s6:l6" met="3" type="-+">Oft Gulden Schip is <rhyme label="d" type="f">geseten</rhyme>,</l>
+        <l id="s6:l7" met="2" type="-+">Hy brenght sijn liefste <rhyme label="e" type="m">mee</rhyme>,</l>
+        <l id="s6:l8" met="2" type="-+">Die ons haest den <rhyme label="e" type="m" corresp="#s6:l7">vre</rhyme>,</l>
+        <l id="s6:l9" met="3" type="-+">Sal maecken met <rhyme label="f" type="m">Vrankrijck</rhyme>,</l>
+        <l id="s6:l10" met="3" type="+-">Door dit <rhyme label="f" type="m" corresp="#s6:l9">Houwelijck</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Princen wilt u <rhyme label="a" type="f">verblijden</rhyme>,</l>
+        <l id="s7:l2" met="3" type="-+">Maekt vreugt aen alle <rhyme label="b" type="m">kant</rhyme>:</l>
+        <l id="s7:l3" met="3" type="-+">V naecken beter <rhyme label="a" type="f" corresp="#s7:l1">tijden</rhyme>,</l>
+        <l id="s7:l4" met="3" type="-+">Heden door <rhyme label="b" type="m" corresp="#s7:l2">Engelant</rhyme>,</l>
+        <l id="s7:l5" met="4" type="-+">Dit Edel verbont, Sal de <rhyme label="c" type="m">Lont</rhyme>:</l>
+        <l id="s7:l6" met="3" type="-+">Van d'Orelogh haest uyt <rhyme label="d" type="f">blussen</rhyme>,</l>
+        <l id="s7:l7" met="2" type="-+">Sa roept dan al <rhyme label="e" type="m">viva</rhyme>,</l>
+        <l id="s7:l8" met="2" type="-+">Met vreugden sa <rhyme label="e" type="m" corresp="#s7:l7">sa</rhyme>,</l>
+        <l id="s7:l9" met="3" type="-+">Viva ons <rhyme label="f" type="m">Oranjen-spruydt</rhyme>,</l>
+        <l id="s7:l10" met="3" type="+-">Met sijn Eedelen <rhyme label="f" type="m" corresp="#s7:l9">Bruyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

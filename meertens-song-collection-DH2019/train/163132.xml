@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>163132</id>
+    <date>
+      <year-start>1813</year-start>
+      <year-end>1813</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Wie Nederlands bloed</melody>
+  <author>Katharina Wilhelmina Bilderdijk-Schweickhardt</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Waar eer en vrijheid roept in 't <rhyme label="a" type="m">veld</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Daar bruischt het Hollandsch <rhyme label="b" type="m">bloed</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Daar voelt, daar toont zich ieder, <rhyme label="a" type="m" corresp="#s1:l1">held</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En vlamt van oorlogs <rhyme label="b" type="m" corresp="#s1:l2">moed</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Daar huppelt hart en <rhyme label="c" type="m">ingewand</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Op 't gonzen van de <rhyme label="d" type="m">trom</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">‘Voor Vrijheid, Eer en <rhyme label="c" type="m" corresp="#s1:l5">Vaderland</rhyme>!</l>
+        <l id="s1:l8" met="3" type="-+">En glorierijk <rhyme label="d" type="m" corresp="#s1:l6">weerom</rhyme>!’</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Zo zwaait men Hollands <rhyme label="a" type="m">Leeuwbanier</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Den Franschman in 't <rhyme label="b" type="m">gezicht</rhyme>!</l>
+        <l id="s2:l3" met="4" type="-+">Zo streeft men dwars door staal en <rhyme label="a" type="m" corresp="#s2:l1">vier</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Geleid door moed en <rhyme label="b" type="m" corresp="#s2:l2">pligt</rhyme>!</l>
+        <l id="s2:l5" met="4" type="-+">De sabel klinkt, het roer <rhyme label="c" type="m">ontbrandt</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Bij dondrend schut <rhyme label="d" type="m">gebrom</rhyme>:</l>
+        <l id="s2:l7" met="4" type="-+">‘Voor Vrijheid, Eer en <rhyme label="c" type="m" corresp="#s2:l5">Vaderland</rhyme>!</l>
+        <l id="s2:l8" met="3" type="-+">En glorierijk <rhyme label="d" type="m" corresp="#s2:l6">weerom</rhyme>!’</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Door Nassaus bloed tot eer <rhyme label="a" type="m">genoopt</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Is Holland zijner <rhyme label="b" type="m">waard</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Den vrêe, waar heel Euroop op <rhyme label="a" type="m" corresp="#s3:l1">hoopt</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Verkrijgt men door het <rhyme label="b" type="m" corresp="#s3:l2">zwaard</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Wij vechten om dat edel <rhyme label="c" type="m">pand</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Waar ooit onswapen <rhyme label="d" type="m">glom</rhyme>.</l>
+        <l id="s3:l7" met="4" type="-+">‘Voor Vrijheid, Eer en <rhyme label="c" type="m" corresp="#s3:l5">Vaderland</rhyme>!</l>
+        <l id="s3:l8" met="3" type="-+">‘En glorierijk <rhyme label="d" type="m" corresp="#s3:l6">weerom</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

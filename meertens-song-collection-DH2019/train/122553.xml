@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>122553</id>
+    <date>
+      <year-start>1854</year-start>
+      <year-end>1864</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Ik zal u eeuwig minnen</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Ik zal u eeuwig <rhyme label="a" type="f">minnen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Voorwerp mij zoo <rhyme label="b" type="m">waard</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Gij speelt staâg in mijn <rhyme label="a" type="f" corresp="#s1:l1">zinnen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Gij zijt mijn schat op <rhyme label="b" type="m" corresp="#s1:l2">aard</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Gij zijt mijn vreugd, En <rhyme label="c" type="m">zielsgeneugt</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Wie moet u niet <rhyme label="d" type="f">waardeeren</rhyme>?</l>
+        <l id="s1:l7" met="4" type="-+">Uw deugd, uw schoonheid en <rhyme label="e" type="m">verstand</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Bindt mij met een onbreekbre <rhyme label="e" type="m" corresp="#s1:l7">band</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">Ach, zielsvriendin, Schenk mij uw <rhyme label="f" type="m">min</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">Ik zal u eeuwig <rhyme label="a" type="f" corresp="#s1:l1">minnen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">'k Heb daarvoor niets te <rhyme label="a" type="f">vreezen</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Dan is mijn heil <rhyme label="b" type="m">volmaakt</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Dan is, mijn <rhyme label="a" type="f" corresp="#s2:l1">Uitgelezen</rhyme>!</l>
+        <l id="s2:l4" met="3" type="-+">Mijn vreugd in top <rhyme label="b" type="m" corresp="#s2:l2">geraakt</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Dan zal mijn hart, Bevrijdt van <rhyme label="c" type="m">smart</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">'t Genot der liefde <rhyme label="d" type="f">smaken</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Ach, dat altoos het <rhyme label="e" type="m">minnevuur</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Zoolang ik leef, ja eeuwig <rhyme label="e" type="m" corresp="#s2:l7">duur</rhyme>,</l>
+        <l id="s2:l9" met="4" type="+-">'t Genot groeit aan van uur tot <rhyme label="f" type="m">uur</rhyme>,</l>
+        <l id="s2:l10" met="3" type="-+">O min uw min doet <rhyme label="a" type="f" corresp="#s2:l1">blaken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

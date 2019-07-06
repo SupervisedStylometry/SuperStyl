@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35790</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+    </tags>
+    <melody>Het voer een scheepje over Rijn</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ALs de Sonne-blom na de <rhyme label="a" type="m">Zon</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Keert uw' altijdt met Sint <rhyme label="a" type="m" corresp="#s1:l1">Symon</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Na Goods wil en <rhyme label="b" type="f">geboden</rhyme>;</l>
+        <l id="s1:l4" met="2" type="-+">Neemt noyt uw <rhyme label="c" type="m">keer</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">Van Godt uw <rhyme label="c" type="m" corresp="#s1:l4">Heer</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Hoe 't vlees en Werck <rhyme label="b" type="f" corresp="#s1:l3">noden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Met Thaddaeus 't geloof <rhyme label="a" type="m">belijdt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Voor Godes eer, en name <rhyme label="a" type="m" corresp="#s2:l1">strijdt</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">De sonden wilt <rhyme label="b" type="f">versaken</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">Na deughden <rhyme label="c" type="m">tracht</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">By dagh en <rhyme label="c" type="m" corresp="#s2:l4">nacht</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Wilt 't Hemels alleen <rhyme label="b" type="f" corresp="#s2:l3">smaecken</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Sint Simon en Iuda! Keert <rhyme label="a" type="m">af</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Van Zee en Landt al Godes <rhyme label="a" type="m" corresp="#s3:l1">straf</rhyme>.</l>
+        <l id="s3:l3" met="3" type="-+">Wilt wesen onse <rhyme label="b" type="f">Broeders</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">En inde <rhyme label="c" type="m">noot</rhyme>.</l>
+        <l id="s3:l5" met="2" type="-+">En inde <rhyme label="c" type="m" corresp="#s3:l4">doot</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Onse trouwe <rhyme label="b" type="f" corresp="#s3:l3">behoeders</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Geeft Jesu! dat wy wil en <rhyme label="a" type="m">oor</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Buygen, om in uw' wet en <rhyme label="a" type="m" corresp="#s4:l1">spoor</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Te wand'len en <rhyme label="b" type="f">treden</rhyme></l>
+        <l id="s4:l4" met="2" type="-+">Met ziel en <rhyme label="c" type="m">lijf</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">Tot uw <rhyme label="c" type="m" corresp="#s4:l4">gerijf</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Met 't hart en al de <rhyme label="b" type="f" corresp="#s4:l3">leden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

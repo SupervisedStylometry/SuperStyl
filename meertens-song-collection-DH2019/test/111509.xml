@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111509</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>A table avec mes amis</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WAnneer ik by myn Phillis <rhyme label="a" type="m">sit</rhyme>.</l>
+        <l id="s1:l2" met="4" type="-+">Denk ik noit aan myn droeve <rhyme label="b" type="f">kwalen</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Als zy haar oog, zo swart als <rhyme label="a" type="m" corresp="#s1:l1">git</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Vol Ziels-verwinnend Vuur, met gunst laat op myn <rhyme label="b" type="f" corresp="#s1:l2">dalen</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Dan tart ik de Goon met myn <rhyme label="c" type="m">Lot</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Dan tart ik de Goon met myn <rhyme label="c" type="m" corresp="#s1:l5">Lot</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Dan zwemt myn ziel in <rhyme label="d" type="f">minnelusjes</rhyme>.</l>
+        <l id="s1:l8" met="3" type="-+">Geef ik haar eens een <rhyme label="e" type="m">Kus</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">Zy drukt my met haar <rhyme label="f" type="f">lipjes</rhyme>,</l>
+        <l id="s1:l10" met="2" type="-+">Dus Off' ...... <rhyme label="g" type="f">ren</rhyme>,</l>
+        <l id="s1:l11" met="4" type="+-">Dus Off' ... ren w'aan den <rhyme label="c" type="m" corresp="#s1:l5">Minne-God</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

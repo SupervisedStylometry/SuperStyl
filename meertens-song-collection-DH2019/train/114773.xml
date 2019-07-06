@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>114773</id>
+    <date>
+      <year-start>1656</year-start>
+      <year-end>1656</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="vreugdelied" translation="joyful song">vreugdelied</tag>
+    </tags>
+    <melody>Boksvoetje</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anthony Jansen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ZOo deugde, de vreugde, des menschen <rhyme label="a" type="m">bepaalt</rhyme>,</l>
+        <l id="s1:l2" met="1" type="-+">Als 't <rhyme label="b" type="f">herte</rhyme> //</l>
+        <l id="s1:l3" met="1" type="-+">in <rhyme label="b" type="f" corresp="#s1:l2">smerte</rhyme> //</l>
+        <l id="s1:l4" met="2" type="-+">noch jammer meer <rhyme label="a" type="m" corresp="#s1:l1">dwaalt</rhyme>:</l>
+        <l id="s1:l5" met="2" type="-+">Dan is het <rhyme label="c" type="m">vermaak</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">een heerlijke <rhyme label="c" type="m" corresp="#s1:l5">zaak</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Die voorige droefheit met blijdschap <rhyme label="a" type="m" corresp="#s1:l1">betaalt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Een vroome die, zedigh en lieflijk van <rhyme label="a" type="m">aart</rhyme>,</l>
+        <l id="s2:l2" met="1" type="-+">Zich <rhyme label="b" type="f">matigh</rhyme> //</l>
+        <l id="s2:l3" met="1" type="-+">en <rhyme label="b" type="f" corresp="#s2:l2">statigh</rhyme> //</l>
+        <l id="s2:l4" met="2" type="-+">noit angstigh <rhyme label="a" type="m" corresp="#s2:l1">bezwaart</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Is lustigh en <rhyme label="c" type="m">zoet</rhyme> //</l>
+        <l id="s2:l6" met="2" type="-+">en fris van <rhyme label="c" type="m" corresp="#s2:l5">gemoet</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Doch onder zijn vrolijkheit blijft hy <rhyme label="a" type="m" corresp="#s2:l1">bewaart</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Geen Amfions snaren en dartele <rhyme label="a" type="m">luit</rhyme>,</l>
+        <l id="s3:l2" met="1" type="-+">Noch 't <rhyme label="b" type="f">streelen</rhyme> //</l>
+        <l id="s3:l3" met="1" type="-+">en <rhyme label="b" type="f" corresp="#s3:l2">speelen</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">van Orféus <rhyme label="a" type="m" corresp="#s3:l1">fluit</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">Apollos <rhyme label="c" type="m">getier</rhyme> //</l>
+        <l id="s3:l6" met="2" type="-+">op harpe noch <rhyme label="c" type="m" corresp="#s3:l5">lier</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Verlokken zijn lusten ter zonde niet <rhyme label="a" type="m" corresp="#s3:l1">uit</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Zoo weinich als de droefheit uit deugde <rhyme label="a" type="m">ontstaat</rhyme>,</l>
+        <l id="s4:l2" met="1" type="-+">Zoo <rhyme label="b" type="f">groeyen</rhyme> //</l>
+        <l id="s4:l3" met="1" type="-+">noch <rhyme label="b" type="f" corresp="#s4:l2">vloeyen</rhyme></l>
+        <l id="s4:l4" met="2" type="-+">geen vreugden van 't <rhyme label="a" type="m" corresp="#s4:l1">quaat</rhyme>.</l>
+        <l id="s4:l5" met="2" type="-+">Geen wijsheit <rhyme label="c" type="m">belet</rhyme> //</l>
+        <l id="s4:l6" met="2" type="-+">de blijdschap, maar <rhyme label="c" type="m" corresp="#s4:l5">zett</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">De vreugde op reden die nimmer <rhyme label="a" type="m" corresp="#s4:l1">vergaat</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">De wegen des Heeren volstandigh te <rhyme label="a" type="m">gaan</rhyme></l>
+        <l id="s5:l2" met="1" type="-+">Doen <rhyme label="b" type="f">klaarlijk</rhyme> //</l>
+        <l id="s5:l3" met="1" type="-+">en <rhyme label="b" type="f" corresp="#s5:l2">waarlijk</rhyme></l>
+        <l id="s5:l4" met="2" type="-+">zijn goetheit <rhyme label="a" type="m" corresp="#s5:l1">verstaen</rhyme>:</l>
+        <l id="s5:l5" met="2" type="-+">Die kennis baart <rhyme label="c" type="m">vreugt</rhyme> //</l>
+        <l id="s5:l6" met="2" type="-+">die heiligh <rhyme label="c" type="m" corresp="#s5:l5">verheugt</rhyme>,</l>
+        <l id="s5:l7" met="4" type="-+">Gelijk ook het tegendeel droefheit brengt <rhyme label="a" type="m" corresp="#s5:l1">aan</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Dus wilt ghy God dienen, behoudens uw <rhyme label="a" type="m">lust</rhyme>,</l>
+        <l id="s6:l2" met="1" type="-+">Hout <rhyme label="b" type="f">grondigh</rhyme> //</l>
+        <l id="s6:l3" met="1" type="-+">het <rhyme label="b" type="f" corresp="#s6:l2">zondig'</rhyme>//</l>
+        <l id="s6:l4" met="2" type="-+">bewegen <rhyme label="a" type="m" corresp="#s6:l1">geblust</rhyme>:</l>
+        <l id="s6:l5" met="2" type="-+">Voor d'ader des <rhyme label="c" type="m">quaads</rhyme> //</l>
+        <l id="s6:l6" met="2" type="-+">dan 't goed in de <rhyme label="c" type="m" corresp="#s6:l5">plaatz'</rhyme>,</l>
+        <l id="s6:l7" met="4" type="-+">Zoo leeft ghy geduurigh in blijdschap en <rhyme label="a" type="m" corresp="#s6:l1">rust'</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

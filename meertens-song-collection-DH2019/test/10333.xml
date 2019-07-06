@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10333</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>C'est trop courir les eaux</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Hoe seer ick mijn <rhyme label="a" type="m">gesucht</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Doe klatren door de <rhyme label="a" type="m" corresp="#s1:l1">lucht</rhyme>,</l>
+        <l id="s1:l3" met="6" type="-+">De ooren zijn gestopt, van haer die my <rhyme label="b" type="m">gebiet</rhyme>.</l>
+        <l id="s1:l4" met="6" type="-+">Sy hoort na mijn gebeen, noch droeve klachten <rhyme label="b" type="m" corresp="#s1:l3">niet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ick kniel, ick buck, ick <rhyme label="a" type="m">buygh</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Soo dickwils, tot <rhyme label="a" type="m" corresp="#s2:l1">getuygh</rhyme></l>
+        <l id="s2:l3" met="6" type="-+">Van al mijn sware pijn, voor heure voeten <rhyme label="b" type="m">neer</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Maer al verlooren, 't schijnt sy acht mijn smart geen <rhyme label="b" type="m" corresp="#s2:l3">meer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">O overwreede <rhyme label="a" type="m">Maeghd</rhyme>!</l>
+        <l id="s3:l2" met="3" type="-+">Soo u mijn doodt <rhyme label="a" type="m" corresp="#s3:l1">behaeghd</rhyme>,</l>
+        <l id="s3:l3" met="6" type="-+">Hoe toeftge dan dus langh, eer ghy u lust <rhyme label="b" type="m">voldoet</rhyme>?</l>
+        <l id="s3:l4" met="6" type="-+">Daer ick wel hondert mael toch om u sterven <rhyme label="b" type="m" corresp="#s3:l3">moet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Mijn leven is <rhyme label="a" type="m">verdriet</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Ick acht de werelt <rhyme label="a" type="m" corresp="#s4:l1">niet</rhyme>,</l>
+        <l id="s4:l3" met="6" type="-+">Als ick het by-zijn mis van u, o <rhyme label="b" type="m">Amaril</rhyme>!</l>
+        <l id="s4:l4" met="6" type="-+">Ay doodme, doodme vry, mijn schoonste ist uw <rhyme label="b" type="m" corresp="#s4:l3">wil</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">'t Sal voor mijn droeve <rhyme label="a" type="m">pijn</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">O lief, verlichtingh <rhyme label="a" type="m" corresp="#s5:l1">zijn</rhyme>,</l>
+        <l id="s5:l3" met="6" type="-+">Wanneer ick in uw schoot, maer geef de leste <rhyme label="b" type="m">snack</rhyme>,</l>
+        <l id="s5:l4" met="6" type="-+">Soo rust mijn bange ziel te degen in <rhyme label="b" type="m" corresp="#s5:l3">gemack</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

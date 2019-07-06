@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>33685</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Het viel een hemelse dauw</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">SOo wie met 's harten <rhyme label="a" type="f">gronde</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Wil scheppen groot <rhyme label="b" type="m">geneught</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Die magh op deser <rhyme label="a" type="f" corresp="#s1:l1">stonde</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Bemerken dese <rhyme label="b" type="m" corresp="#s1:l2">vreught</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Die Godt den Heer <rhyme label="c" type="f">opreghte</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Na sijn beloften <rhyme label="d" type="m">trouw</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Geeft Simeon sijn <rhyme label="c" type="f" corresp="#s1:l5">kneghte</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">En Anna d'oude <rhyme label="d" type="m" corresp="#s1:l6">Vrouw</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">In vasten en <rhyme label="a" type="f">gebeeden</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">By dage en by <rhyme label="b" type="m">naght</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Waren haer oude <rhyme label="a" type="f" corresp="#s2:l1">zeeden</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Dus Godt haer waerdigh <rhyme label="b" type="m" corresp="#s2:l2">aght</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Dat sy omhelsen <rhyme label="c" type="f">souwen</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Die Goddelijke <rhyme label="d" type="m">Son</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">En die met vreught <rhyme label="c" type="f" corresp="#s2:l5">aenschouwen</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Daerom singht <rhyme label="d" type="m" corresp="#s2:l6">Simeon</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

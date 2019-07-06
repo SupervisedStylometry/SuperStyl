@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1726</id>
+    <date>
+      <year-start>1544</year-start>
+      <year-end>1544</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>O waarde mond</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">O Waerde <rhyme label="a" type="m">mont</rhyme>.</l>
+        <l id="s1:l2" met="2" type="-+">Ghi maect <rhyme label="a" type="m" corresp="#s1:l1">ghesont</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">Mijns herten <rhyme label="a" type="m" corresp="#s1:l1">gront</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Tot alder <rhyme label="a" type="m" corresp="#s1:l1">stont</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Als ick bi v mach <rhyme label="b" type="f">wesen</rhyme>.</l>
+        <l id="s1:l6" met="3" type="-+">So ben ick al <rhyme label="b" type="f" corresp="#s1:l5">genesen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Mer tscheyden <rhyme label="a" type="m">quaet</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Van tfier <rhyme label="a" type="m" corresp="#s2:l1">gelaet</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">maect mi <rhyme label="a" type="m" corresp="#s2:l1">disperaet</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Ten baet gheenen <rhyme label="a" type="m" corresp="#s2:l1">raet</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Wilt si mi nv <rhyme label="b" type="f">begheuen</rhyme> |</l>
+        <l id="s2:l6" met="3" type="-+">Van vruechden moet ic <rhyme label="b" type="f" corresp="#s2:l5">sneuen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Haer schoon ghelu <rhyme label="a" type="m">hayr</rhyme>.</l>
+        <l id="s3:l2" met="2" type="-+">Haer oochskens <rhyme label="a" type="m" corresp="#s3:l1">claer</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">Breghen mi in <rhyme label="a" type="m" corresp="#s3:l1">vaer</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">Nv hier nv <rhyme label="a" type="m" corresp="#s3:l1">daer</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">dat icse soude <rhyme label="b" type="f">verliesen</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Oft si een ander soude <rhyme label="b" type="f" corresp="#s3:l5">kiesen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">Haer lippekens <rhyme label="a" type="m">root</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">Haer borstkens <rhyme label="a" type="m" corresp="#s4:l1">bloot</rhyme></l>
+        <l id="s4:l3" met="2" type="-+">Al sonder <rhyme label="a" type="m" corresp="#s4:l1">ghenoot</rhyme></l>
+        <l id="s4:l4" met="2" type="-+">Maken mi vroecht <rhyme label="a" type="m" corresp="#s4:l1">groot</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Als ic bi haer mach <rhyme label="b" type="f">rusten</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Boete ic mijns herten <rhyme label="b" type="f" corresp="#s4:l5">lusten</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="2" type="-+">Schoon lief doet <rhyme label="a" type="m">wel</rhyme></l>
+        <l id="s5:l2" met="2" type="-+">Ende kiest niemant <rhyme label="a" type="m" corresp="#s5:l1">el</rhyme>.</l>
+        <l id="s5:l3" met="2" type="-+">In narst in <rhyme label="a" type="m" corresp="#s5:l1">spel</rhyme></l>
+        <l id="s5:l4" met="2" type="-+">Doet mijn <rhyme label="a" type="m" corresp="#s5:l1">beuel</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">Ende hout gelofte in <rhyme label="b" type="f">trouwen</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Het en sal v niet <rhyme label="b" type="f" corresp="#s5:l5">berouwen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

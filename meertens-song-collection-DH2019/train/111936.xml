@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111936</id>
+    <date>
+      <year-start>1650</year-start>
+      <year-end>1660</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="nieuwjaarslied" translation="new year's song">nieuwjaarslied</tag>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+    </tags>
+    <melody>Ga hem toe</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">'t OUwe Jaer dat is <rhyme label="a" type="m">vergaen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">'t Nieuwe dat komt weder <rhyme label="a" type="m" corresp="#s1:l1">aen</rhyme>.</l>
+        <l id="s1:l3" met="3" type="+-">Elck gaet hem seer <rhyme label="b" type="f">verblije</rhyme></l>
+        <l id="s1:l4" met="3" type="+-">In dees vrolijcke <rhyme label="b" type="f" corresp="#s1:l3">tije</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Men brast en schenckt, met stort en <rhyme label="c" type="m">plenkt</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Men stelt nu druck ter <rhyme label="b" type="f" corresp="#s1:l3">zije</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Men om geen kommer <rhyme label="c" type="m" corresp="#s1:l5">denckt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Lijsje, Joosje met <rhyme label="a" type="m">menkaer</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Singen nu het <rhyme label="a" type="m" corresp="#s2:l1">Nieuwe-Jaer</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">Om daer meer mee te <rhyme label="b" type="f">winnen</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">Als sy wel doen met <rhyme label="b" type="f" corresp="#s2:l3">spinnen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Voort sietmen var, slecht volckje <rhyme label="c" type="m">bar</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Die mee met blije <rhyme label="b" type="f" corresp="#s2:l3">sinnen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Vast loopen met de <rhyme label="c" type="m" corresp="#s2:l5">Star</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Alle deuntjes zijn voor <rhyme label="a" type="m">handt</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Men speult Koninckjen in ons <rhyme label="a" type="m" corresp="#s3:l1">Landt</rhyme>,</l>
+        <l id="s3:l3" met="3" type="+-">Elck gaet een Briefjen <rhyme label="b" type="f">trecken</rhyme>,</l>
+        <l id="s3:l4" met="3" type="+-">Om soetheydt te <rhyme label="b" type="f" corresp="#s3:l3">verwecken</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">d'Een wert de Sot,, d'ander <rhyme label="c" type="m">Marot</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Met die gaetmen dan <rhyme label="b" type="f" corresp="#s3:l3">gecken</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Die sulcks krijght tot een <rhyme label="c" type="m" corresp="#s3:l5">lot</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">d'Kopper-dagen komen <rhyme label="a" type="m">voort</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Men doet niet dan me snijt en <rhyme label="a" type="m" corresp="#s4:l1">moort</rhyme></l>
+        <l id="s4:l3" met="3" type="+-">An Hoed'ren en <rhyme label="b" type="f">Cappoenen</rhyme>,</l>
+        <l id="s4:l4" met="3" type="+-">An Duyven en <rhyme label="b" type="f" corresp="#s4:l3">Kalkoenen</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Men braet, men went,, men kerft, men <rhyme label="c" type="m">ent</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Pasteijen, <rhyme label="b" type="f" corresp="#s4:l3">Venesoenen</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Blijven niet <rhyme label="c" type="m" corresp="#s4:l5">ongeschent</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">d'Vastelavont die komt <rhyme label="a" type="m">an</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Geeftme ien Pankoeck uyt de <rhyme label="a" type="m" corresp="#s5:l1">Pan</rhyme>,</l>
+        <l id="s5:l3" met="3" type="+-">Danst Joosje, 't arge <rhyme label="b" type="f">krotje</rhyme></l>
+        <l id="s5:l4" met="3" type="+-">Op 't romle van sijn <rhyme label="b" type="f" corresp="#s5:l3">Potje</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">Met menigh kluyt, heel over <rhyme label="c" type="m">luyt</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">Tromt Sibrich op het <rhyme label="b" type="f" corresp="#s5:l3">schotje</rhyme>,</l>
+        <l id="s5:l7" met="3" type="-+">Komt uyt jou vuyle <rhyme label="c" type="m" corresp="#s5:l5">Bruyt</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Voor den dagh springht smeer'ge <rhyme label="a" type="m">Els</rhyme></l>
+        <l id="s6:l2" met="4" type="+-">Mid en om ekeerde <rhyme label="a" type="m" corresp="#s6:l1">Pels</rhyme>,</l>
+        <l id="s6:l3" met="3" type="+-">Gaet dansse ende <rhyme label="b" type="f">springe</rhyme>,</l>
+        <l id="s6:l4" met="3" type="+-">d'Andere boertigh <rhyme label="b" type="f" corresp="#s6:l3">singe</rhyme>,</l>
+        <l id="s6:l5" met="4" type="-+">Het bommetje slaet, en 't tangetje <rhyme label="c" type="m">gaet</rhyme>,</l>
+        <l id="s6:l6" met="3" type="-+">Jae sulcke drollige <rhyme label="b" type="f" corresp="#s6:l3">dinge</rhyme>,</l>
+        <l id="s6:l7" met="3" type="-+">Sietmen dan by de <rhyme label="c" type="m" corresp="#s6:l5">straet</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">Dus gaen we de tijdt vast <rhyme label="a" type="m">quijt</rhyme>,</l>
+        <l id="s7:l2" met="4" type="+-">Geurtje die heel yvrigh <rhyme label="a" type="m" corresp="#s7:l1">vrijt</rhyme>,</l>
+        <l id="s7:l3" met="3" type="+-">Gaet hem dan <rhyme label="b" type="f">verstouten</rhyme></l>
+        <l id="s7:l4" met="3" type="+-">Om sijn Liefste te <rhyme label="b" type="f" corresp="#s7:l3">souten</rhyme>,</l>
+        <l id="s7:l5" met="4" type="-+">Met suycker goet, van 't beste <rhyme label="c" type="m">soet</rhyme>,</l>
+        <l id="s7:l6" met="3" type="-+">Op hoop hy in haer <rhyme label="b" type="f" corresp="#s7:l3">bouten</rhyme></l>
+        <l id="s7:l7" met="3" type="-+">Mocht raecken die <rhyme label="c" type="m" corresp="#s7:l5">goe-bloet</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="+-">Prins ten lest soo roeptmen <rhyme label="a" type="m">dan</rhyme></l>
+        <l id="s8:l2" met="4" type="+-">Leelijck en luyt met alle <rhyme label="a" type="m" corresp="#s8:l1">man</rhyme>,</l>
+        <l id="s8:l3" met="3" type="+-">Helpt houwen en helpt <rhyme label="b" type="f">knoopen</rhyme>,</l>
+        <l id="s8:l4" met="3" type="+-">Vastelavont wil ons <rhyme label="b" type="f" corresp="#s8:l3">ontloopen</rhyme>,</l>
+        <l id="s8:l5" met="4" type="-+">Dan seytmen daer,, d'een met den <rhyme label="c" type="m">aer</rhyme>,</l>
+        <l id="s8:l6" met="3" type="-+">Dus ver gaetmen hem <rhyme label="b" type="f" corresp="#s8:l3">doopen</rhyme></l>
+        <l id="s8:l7" met="3" type="-+">In 't soete <rhyme label="c" type="m" corresp="#s8:l5">Nieuwe-Jaer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

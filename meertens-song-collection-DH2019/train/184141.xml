@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184141</id>
+    <date>
+      <year-start>1828</year-start>
+      <year-end>1828</year-end>
+    </date>
+    <location>
+      <orginal-name>monickendam</orginal-name>
+      <standard-name>Monnickendam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.4570766</lon>
+        <lat>5.0373214</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Wat is ons al vreugde gegeven</melody>
+  <author>Js. M. Pfeil</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Laat ons eens blijmoedig <rhyme label="a" type="f">schenken</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Dat wij onzen vorst <rhyme label="a" type="f" corresp="#s1:l1">gedenken</rhyme>!</l>
+        <l id="s1:l3" met="4" type="+-">Zulk een vorst als de onzen <rhyme label="b" type="m">is</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Prijkt in geen <rhyme label="b" type="m" corresp="#s1:l3">geschiedenis</rhyme>:</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Op dan, vrienden! dat wij <rhyme label="a" type="f">klinken</rhyme>!</l>
+        <l id="s2:l2" met="4" type="+-">'t Welzijn onzes Konings <rhyme label="a" type="f" corresp="#s2:l1">drinken</rhyme>!</l>
+        <l id="s2:l3" met="4" type="+-">Lang nog voer' hij 't <rhyme label="b" type="m">staatsbewind</rhyme>!:</l>
+        <l id="s2:l4" met="4" type="+-">Ja, dit wenschen we <rhyme label="b" type="m" corresp="#s2:l3">eensgezind</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

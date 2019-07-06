@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188509</id>
+    <date>
+      <year-start>1751</year-start>
+      <year-end>1752</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Ik verslyt myn jonge <rhyme label="a" type="f">dagen</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Met een meisje hups van <rhyme label="b" type="f">leden</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Dat haer schoon my wil <rhyme label="b" type="f" corresp="#s1:l2">besteden</rhyme>.</l>
+        <l id="s1:l4" met="3" type="-+">Dus leef ik steeds <rhyme label="c" type="m">verheugd</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">'k Heb geen reden om te <rhyme label="a" type="f" corresp="#s1:l1">klagen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Ze is steeds vroolyk, wil 'k haer <rhyme label="d" type="f">kusschen</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">'k Mag myn vlammen altydt <rhyme label="d" type="f" corresp="#s1:l6">blusschen</rhyme>.</l>
+        <l id="s1:l8" met="3" type="-+">Dus leef ik steeds in <rhyme label="c" type="m" corresp="#s1:l4">vreugd'</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Schoon de Jaren snel <rhyme label="a" type="f">verdwynen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Blonde Kloris doet my <rhyme label="b" type="f">hoopen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Dat 'k myn' tyd zal duur <rhyme label="b" type="f" corresp="#s2:l2">verkoopen</rhyme>.</l>
+        <l id="s2:l4" met="3" type="-+">Dus leef ik steeds <rhyme label="c" type="m">verheugd</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">Waerom zou ik droevig <rhyme label="a" type="f" corresp="#s2:l1">kwynen</rhyme>?</l>
+        <l id="s2:l6" met="4" type="+-">Laet ik Wyn en tyd <rhyme label="d" type="f">genieten</rhyme>.</l>
+        <l id="s2:l7" met="4" type="+-">'k Vrees geen rampen of <rhyme label="d" type="f" corresp="#s2:l6">verdrieten</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">En leef altydt in <rhyme label="c" type="m" corresp="#s2:l4">vreugd</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

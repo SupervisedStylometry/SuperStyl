@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184452</id>
+    <date>
+      <year-start>1738</year-start>
+      <year-end>1738</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Johan Deknatel</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">DEr Oudsten gansche <rhyme label="a" type="m">Schaar</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Die voor den Throone <rhyme label="b" type="f">woonen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Die werpen hunne <rhyme label="b" type="f" corresp="#s1:l2">kroonen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Voor 's Lammes voeten <rhyme label="a" type="m" corresp="#s1:l1">neer</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Wy vallen met Hen <rhyme label="c" type="f">needer</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">En zingen Lof, zeer <rhyme label="c" type="f" corresp="#s1:l5">teeder</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Hy is 't alleen <rhyme label="a" type="m" corresp="#s1:l1">voorwaar</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Zo roept der Oudsten <rhyme label="a" type="m" corresp="#s1:l1">Schaar</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Dank, wysheit, sterkt' en <rhyme label="a" type="m">pracht</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Lof, heerlykheit en <rhyme label="b" type="f">leeven</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Zy onzen God <rhyme label="b" type="f" corresp="#s2:l2">gegeven</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Die tot de Liefd' ons <rhyme label="a" type="m" corresp="#s2:l1">bragt</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">Het Lam, dat ons <rhyme label="c" type="f">bevryet</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Zy hoog <rhyme label="c" type="f" corresp="#s2:l5">gebenedyet</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Hem zy Lof, prys en <rhyme label="a" type="m" corresp="#s2:l1">macht</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Dank, wysheit, sterkt' en <rhyme label="a" type="m" corresp="#s2:l1">pracht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

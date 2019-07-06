@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111710</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="meilied" translation="May song">meilied</tag>
+    </tags>
+    <melody>Ik geef de min de zak</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">JUicht, uitgelaten <rhyme label="a" type="m">Jeugt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Met keelmuzyk en <rhyme label="b" type="f">snaaren</rhyme>:</l>
+        <l id="s1:l3" met="3" type="-+">Breng aan de Zon, van <rhyme label="a" type="m" corresp="#s1:l1">vreugt</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Een krans van <rhyme label="b" type="f" corresp="#s1:l2">Lauwerblaaren</rhyme>:</l>
+        <l id="s1:l5" met="6" type="-+">Wildt uwe tas verzien Met takjes dun en <rhyme label="c" type="f">teder</rhyme>;</l>
+        <l id="s1:l6" met="6" type="-+">Om't Vogeltje te bien, Zo ras hy sig set <rhyme label="c" type="f" corresp="#s1:l5">neder</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Als Bode van goed <rhyme label="c" type="f" corresp="#s1:l5">weder</rhyme>:</l>
+        <l id="s1:l8" met="3" type="-+">het zwaluwtje is <rhyme label="d" type="m">gezien</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19555</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Courante monsieur</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Thomas Fonteyn</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HA! poezle Maagd! zo schoon, en <rhyme label="a" type="m">wit</rhyme></l>
+        <l id="s1:l2" met="6" type="-+">Als leenig Elp, daar zuiver mild robijn in <rhyme label="a" type="m" corresp="#s1:l1">zit</rhyme>:</l>
+        <l id="s1:l3" met="5" type="-+">Wiens dartle flonk mijn zieltje zo <rhyme label="b" type="m">bestraald</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Dat het in al de glans <rhyme label="b" type="m" corresp="#s1:l3">verdwaald</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Ha! Schone Nimf, wiens <rhyme label="c" type="f">ledematen</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Bekroond, zijn deftig <rhyme label="c" type="f" corresp="#s1:l5">uittermaten</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Gelijk als <rhyme label="c" type="f" corresp="#s1:l5">paarlemoereplaten</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Gelijk dien krans ons ons handen <rhyme label="a" type="m">strikt</rhyme>:</l>
+        <l id="s2:l2" met="6" type="-+">Zo wens ik dat den grooten All’ ons harten <rhyme label="a" type="m" corresp="#s2:l1">schikt</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Zo zuiver, en, zo onderling <rhyme label="b" type="m">vermengt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Van geen ongure twist <rhyme label="b" type="m" corresp="#s2:l3">verzengt</rhyme>;</l>
+        <l id="s2:l5" met="4" type="-+">Maar daar de liefde om te <rhyme label="c" type="f">znoeien</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">En al ‘et onheil uit te <rhyme label="c" type="f" corresp="#s2:l5">roeien</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Staat geurig op ‘et schoost te <rhyme label="c" type="f" corresp="#s2:l5">bloeien</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>192687</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Réveillez-vous belle endormie</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">EY sta, Ey sta, bevallig <rhyme label="a" type="f">meisje</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En, luister maar eens wat ick <rhyme label="b" type="m">ken</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Wat helpt dat vlugten, zie een <rhyme label="a" type="f" corresp="#s1:l1">reisje</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Of ik wel zoo afschuw'lyk <rhyme label="b" type="m" corresp="#s1:l2">ben</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Gy Oordeelt om dit oude <rhyme label="a" type="f">sletje</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">En om myn kleur zoo slegt van <rhyme label="b" type="m">my</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Maar weet uw oogjes, lief <rhyme label="a" type="f" corresp="#s2:l1">Bruinetje</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Vry slimmer diefjes zyn als <rhyme label="b" type="m" corresp="#s2:l2">wy</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

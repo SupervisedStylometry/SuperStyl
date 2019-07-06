@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111692</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Phyllis mijn doorluchtige zon</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">GALATHEETJE, de <rhyme label="a" type="m">Zeegodin</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Spot met myn smert en vierige <rhyme label="a" type="m" corresp="#s1:l1">min</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Als zy my ziet, Zy van my <rhyme label="b" type="m">vlied</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">En kan haar lach niet <rhyme label="c" type="f">staken</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Echter ben ik zo afschuw'lyk <rhyme label="b" type="m" corresp="#s1:l3">niet</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Als zy me wel schynt te <rhyme label="c" type="f" corresp="#s1:l4">maken</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">'k heb my nog onlangs in een <rhyme label="a" type="m">bron</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Daar ik myn wezen spieg'len <rhyme label="a" type="m" corresp="#s2:l1">kon</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Zeer naauw bezien; Dies ik <rhyme label="b" type="m">verdien</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Dat zy my eens komt <rhyme label="c" type="f">beschouwen</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Zy sal me niet so afschuw'lyk <rhyme label="b" type="m" corresp="#s2:l3">zien</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Als zy me wel schynd te <rhyme label="c" type="f" corresp="#s2:l4">houwen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

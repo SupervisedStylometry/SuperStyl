@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175174</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Kindren, brandt je bekje <rhyme label="a" type="m">niet</rhyme>!</l>
+        <l id="s1:l2" met="4" type="+-">Beter is 't wat hard <rhyme label="b" type="f">geblazen</rhyme>,</l>
+        <l id="s1:l3" met="2" type="+-">Kleine <rhyme label="b" type="f" corresp="#s1:l2">bazen</rhyme>!</l>
+        <l id="s1:l4" met="4" type="+-">En een beetje meer <rhyme label="c" type="m">geduld</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Dan te krijgen door uw <rhyme label="c" type="m" corresp="#s1:l4">schuld</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Hier een blaar en daar een' <rhyme label="c" type="m" corresp="#s1:l4">bult</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Kindren, brandt je handjes <rhyme label="a" type="m">niet</rhyme>!</l>
+        <l id="s2:l2" met="4" type="+-">Beter is 't niets aan te <rhyme label="b" type="f">raken</rhyme>,</l>
+        <l id="s2:l3" met="2" type="+-">Kleine <rhyme label="b" type="f" corresp="#s2:l2">snaken</rhyme>!</l>
+        <l id="s2:l4" met="4" type="+-">Dan te merken <rhyme label="c" type="m">naderhand</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Tot uw schaê en tot uw <rhyme label="c" type="m" corresp="#s2:l4">schand'</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Dat ge uw pootjes hebt <rhyme label="c" type="m" corresp="#s2:l4">gebrand</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Kindren, brandt je hartjes <rhyme label="a" type="m">niet</rhyme>!</l>
+        <l id="s3:l2" met="4" type="+-">Dat zou 'k nog het ergste <rhyme label="b" type="f">vinden</rhyme>,</l>
+        <l id="s3:l3" met="2" type="+-">Kleine <rhyme label="b" type="f" corresp="#s3:l2">vrinden</rhyme>!</l>
+        <l id="s3:l4" met="4" type="+-">Dat geeft vlekken, bruin en <rhyme label="c" type="m">zwart</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Dat geeft plekken, ruw en <rhyme label="c" type="m" corresp="#s3:l4">hard</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Dat geeft eeuw'ge rouw en <rhyme label="c" type="m" corresp="#s3:l4">smart</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

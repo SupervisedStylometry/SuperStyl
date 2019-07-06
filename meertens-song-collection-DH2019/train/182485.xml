@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182485</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Dans un bois solitaire</melody>
+  <author>Hendrik Riemsnijder</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Waarom bloeit gy zoo <rhyme label="a" type="f">afgeleegen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Zagt veldviooltje, in 't eenzaam <rhyme label="b" type="m">dal</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">Waarom verschuilt ge u, <rhyme label="a" type="f" corresp="#s1:l1">ongeneegen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Te pryken in der bloemen <rhyme label="b" type="m" corresp="#s1:l2">tal</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">En toch, zoo ras gy zyt <rhyme label="a" type="f">geplokken</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Schenkt ge ons een liefelyker <rhyme label="b" type="m">geur</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Dan veele, die het oog <rhyme label="a" type="f" corresp="#s2:l1">verlokken</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Alleen door sierlykheid en <rhyme label="b" type="m" corresp="#s2:l2">kleur</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Gy kunt het beeld des Ootmoeds <rhyme label="a" type="f">heeten</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Die need'rig in de stilte <rhyme label="b" type="m">woont</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">En elk, die hem te schatten <rhyme label="a" type="f" corresp="#s3:l1">weeten</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Met vroome dankbaarheid <rhyme label="b" type="m" corresp="#s3:l2">beloont</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

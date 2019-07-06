@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>28075</id>
+    <date>
+      <year-start>1599</year-start>
+      <year-end>1599</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Onder een prieel vol ruikende rozen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">O CALLIOPE helpt my <rhyme label="a" type="f">dicteren</rhyme></l>
+        <l id="s1:l2" met="5" type="+-">Den Lof narreren // van d'Edel <rhyme label="b" type="m">Bataviers</rhyme>,</l>
+        <l id="s1:l3" met="5" type="+-">Die de Romeynen verre <rhyme label="a" type="f" corresp="#s1:l1">passeren</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Des sy Trijumpheren,, in alle <rhyme label="b" type="m" corresp="#s1:l2">d'uwiers</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">Sy hebben ghewaecht als helden veel <rhyme label="b" type="m" corresp="#s1:l2">dangiers</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Teghen die Tyrannen // hun boghen <rhyme label="c" type="f">ghespannen</rhyme>,</l>
+        <l id="s1:l7" met="5" type="-+">En hun overwonnen als vrome <rhyme label="b" type="m" corresp="#s1:l2">soldaniers</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

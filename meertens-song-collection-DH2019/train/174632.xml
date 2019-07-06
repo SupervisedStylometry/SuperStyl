@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174632</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Zeg baasje wat staat er uw tuintje fris</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Zeg, Baasje! wat staat er uw tuintje <rhyme label="a" type="m">frisch</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Wat is er uw hofje toch <rhyme label="b" type="f">keurig</rhyme>!</l>
+        <l id="s1:l3" met="4" type="-+">Het mijne dat lijkt wel een <rhyme label="a" type="m" corresp="#s1:l1">wildernis</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Mijn bloempjes zijn half niet zoo <rhyme label="b" type="f" corresp="#s1:l2">fleurig</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Zoo wit is uw zand en zoo groen is uw <rhyme label="c" type="m">gras</rhyme>;</l>
+        <l id="s1:l6" met="4" type="-+">Ik gaf er wat om, als het mijne zoo <rhyme label="c" type="m" corresp="#s1:l5">was</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">- Wel, geef dan een' zoen... en ik leer je <rhyme label="a" type="m">gaauw</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Uw tuintje zoo netjes te <rhyme label="b" type="f">hoûen</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Maar dan uit de veêren vóór dag en <rhyme label="a" type="m" corresp="#s2:l1">dauw</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">De handjes wel flink uit de <rhyme label="b" type="f" corresp="#s2:l2">mouwen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">En waar ge dan spruitjes van onkruid mogt <rhyme label="c" type="m">zien</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Daar ga je maar vlijtig aan 't harken en <rhyme label="c" type="m" corresp="#s2:l5">wiên</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">- Dat Onkruid, melievert! daar zit de <rhyme label="a" type="m">plaag</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Daar kunnen geen bloempjes in <rhyme label="b" type="f">groeijen</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">En daarom, dat rooi je maar alle <rhyme label="a" type="m" corresp="#s3:l1">daag</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Dan zal eerst uw tuintje gaan <rhyme label="b" type="f" corresp="#s3:l2">bloeijen</rhyme>!</l>
+        <l id="s3:l5" met="4" type="-+">En, groeit in uw hartje misschien van dat <rhyme label="c" type="m">kruid</rhyme>....</l>
+        <l id="s3:l6" met="4" type="-+">Och! doe me plêzier, trek meteen het maar <rhyme label="c" type="m" corresp="#s3:l5">uit</rhyme>! -</l>
+      </lg>
+    </lg>
+  </text>
+</song>

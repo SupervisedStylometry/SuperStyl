@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22147</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Es ist das Heil uns kommen her</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ICk wacht op Godt en zijn <rhyme label="a" type="m">salicheyt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Onder den toeuerlaet ick <rhyme label="b" type="f">blijue</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Hoe lang doet ghi den eenigen Man <rhyme label="a" type="m" corresp="#s1:l1">leydt</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En woudt hem gheren <rhyme label="b" type="f" corresp="#s1:l2">ontlijuen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Oock maken hem een muer, en thuyn <rhyme label="c" type="m">gelijck</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Ghy stiedt hem gheren wt zijn <rhyme label="c" type="m" corresp="#s1:l5">rijck</rhyme>:</l>
+        <l id="s1:l7" met="3" type="-+">Want ghy bemindt de <rhyme label="d" type="f">loeghenen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hun hert vloeckt, maer hun mont spreeckt <rhyme label="a" type="m">schoon</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Mijn Siel houdt haer aenden <rhyme label="b" type="f">Heere</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Die is mijn Steenrotz, en toeulucht <rhyme label="a" type="m" corresp="#s2:l1">schoon</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Op hem staet mijn hope <rhyme label="b" type="f" corresp="#s2:l2">seere</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Lichtueerdich so zijn de menschen <rhyme label="c" type="m">al</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Het lieghen is ghemeyn ouer <rhyme label="c" type="m" corresp="#s2:l5">al</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">By tghemeyn volck, en byden <rhyme label="d" type="f">Heeren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Sy weghen altemael lichter dan <rhyme label="a" type="m">niet</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Op gheen macht en wilt u <rhyme label="b" type="f">betrouwen</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Als ghy rijck wordt, dan wel <rhyme label="a" type="m" corresp="#s3:l1">toesiet</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Datter u hert niet op en <rhyme label="b" type="f" corresp="#s3:l2">betrouwe</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Want by Godt alleen de macht is <rhyme label="c" type="m">schoon</rhyme>:</l>
+        <l id="s3:l6" met="4" type="-+">Nae een yglijckx wercken gheeft hy <rhyme label="c" type="m" corresp="#s3:l5">loon</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">By hem is goetheyt, en <rhyme label="d" type="f">gnade</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

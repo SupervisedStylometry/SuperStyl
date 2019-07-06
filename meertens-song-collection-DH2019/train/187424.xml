@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>187424</id>
+    <date>
+      <year-start>1790</year-start>
+      <year-end>1790</year-end>
+    </date>
+    <location>
+      <orginal-name>zaandam</orginal-name>
+      <standard-name>Zaandam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.4424926</lon>
+        <lat>4.8298607</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Je suis Lindor</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Denkt nimmermeer, dat ik uw zal <rhyme label="a" type="f">verlaten</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Neen Coridon, ik heb 't uw meer <rhyme label="b" type="m">gezegt</rhyme>!</l>
+        <l id="s1:l3" met="5" type="-+">Schoon Damon myn, wel iets aan 't harte <rhyme label="b" type="m" corresp="#s1:l2">legdt</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Nog zullen zyne klagte hem niet <rhyme label="a" type="f" corresp="#s1:l1">baten</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Ik ben getrouw, aan uwe Liefde <rhyme label="a" type="f">banden</rhyme>.</l>
+        <l id="s2:l2" met="5" type="-+">Denk dus dog nooit aan <rhyme label="b" type="m">onstandvastigheid</rhyme>;</l>
+        <l id="s2:l3" met="5" type="-+">Gy hebt uw niet vergeef- met hoop <rhyme label="b" type="m" corresp="#s2:l2">gevleid</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Om in de haven uwer wensch te <rhyme label="a" type="f" corresp="#s2:l1">landen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Maar hoe ik sweer, gy twyveld aan myn <rhyme label="a" type="f">eden</rhyme>.</l>
+        <l id="s3:l2" met="5" type="-+">Heb ik nog ooit een trouwloosheid <rhyme label="b" type="m">getoond</rhyme>.</l>
+        <l id="s3:l3" met="5" type="-+">Schoon ik Damon met achting heb <rhyme label="b" type="m" corresp="#s3:l2">bekroond</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Heb ik hem echter nooit myn min <rhyme label="a" type="f" corresp="#s3:l1">beleden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Denk echter niet, dat ik uw hier koom <rhyme label="a" type="f">smeeken</rhyme>!</l>
+        <l id="s4:l2" met="5" type="-+">Om uwe trouw te schenken weêr aan <rhyme label="b" type="m">my</rhyme>;</l>
+        <l id="s4:l3" met="5" type="-+">Neen gaâ vry heen pronk aan een anders <rhyme label="b" type="m" corresp="#s4:l2">zy</rhyme>.</l>
+        <l id="s4:l4" met="5" type="-+">En schuw mij, wyl gy myn verdenkt van <rhyme label="a" type="f" corresp="#s4:l1">streeken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>115851</id>
+    <date>
+      <year-start>1694</year-start>
+      <year-end>1694</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Ogni dardo</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Cornelis Sweerts</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="+-">O wat <rhyme label="a" type="f">straalen</rhyme></l>
+        <l id="s1:l2" met="2" type="+-">Schieten <rhyme label="b" type="f">d'oogen</rhyme>!</l>
+        <l id="s1:l3" met="4" type="+-">Schoon- der dan het <rhyme label="c" type="m">zonnelicht</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Schoon- der dan het <rhyme label="c" type="m" corresp="#s1:l3">zonnelicht</rhyme>,</l>
+        <l id="s1:l5" met="2" type="+-">Die 'er <rhyme label="a" type="f" corresp="#s1:l1">daalen</rhyme></l>
+        <l id="s1:l6" met="2" type="+-">Van die <rhyme label="b" type="f" corresp="#s1:l2">boogen</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">I- der is een min- <rhyme label="d" type="m">neschicht</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">I- der is een min- <rhyme label="d" type="m" corresp="#s1:l7">neschicht</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="+-">O die <rhyme label="a" type="f">pylen</rhyme>!</l>
+        <l id="s2:l2" met="2" type="+-">Ach die <rhyme label="b" type="f">booren</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">My door hert en nieren <rhyme label="c" type="m">heen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">My door hert en nieren <rhyme label="c" type="m" corresp="#s2:l3">heen</rhyme>.</l>
+        <l id="s2:l5" met="2" type="+-">Wilt <rhyme label="a" type="f" corresp="#s2:l1">bywylen</rhyme>,</l>
+        <l id="s2:l6" met="2" type="+-">My toch <rhyme label="b" type="f" corresp="#s2:l2">hooren</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">En verdryft eens myn <rhyme label="d" type="m">geween</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">En verdryft eens myn <rhyme label="d" type="m" corresp="#s2:l7">geween</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="+-">Venus <rhyme label="a" type="f">wichjes</rhyme>,</l>
+        <l id="s3:l2" met="2" type="+-">In de <rhyme label="b" type="f">hemel</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Daar twee oogen zonnen <rhyme label="c" type="m">zyn</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Daar twee oogen zonnen <rhyme label="c" type="m" corresp="#s3:l3">zyn</rhyme>:</l>
+        <l id="s3:l5" met="2" type="+-">Spaart uw <rhyme label="a" type="f" corresp="#s3:l1">schichjes</rhyme>:</l>
+        <l id="s3:l6" met="2" type="+-">Al 't <rhyme label="b" type="f" corresp="#s3:l2">gewemel</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Doet my schier vergaan van <rhyme label="d" type="m">pyn</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">Doet my schier vergaan van <rhyme label="d" type="m" corresp="#s3:l7">pyn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="+-">Neen, uw <rhyme label="a" type="f">oogen</rhyme>,</l>
+        <l id="s4:l2" met="2" type="+-">Lieve <rhyme label="b" type="f">lichten</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Die aanbid ik in myn <rhyme label="c" type="m">ziel</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Die aanbid ik in myn <rhyme label="c" type="m" corresp="#s4:l3">ziel</rhyme>,</l>
+        <l id="s4:l5" met="2" type="+-">Schoon 't <rhyme label="a" type="f" corresp="#s4:l1">vermogen</rhyme>,</l>
+        <l id="s4:l6" met="2" type="+-">My dêe <rhyme label="b" type="f" corresp="#s4:l2">zwichten</rhyme>,</l>
+        <l id="s4:l7" met="4" type="+-">Stervend' ik noch <rhyme label="d" type="m">nederkniel</rhyme>,</l>
+        <l id="s4:l8" met="4" type="+-">Stervende ik noch <rhyme label="d" type="m" corresp="#s4:l7">nederkniel</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

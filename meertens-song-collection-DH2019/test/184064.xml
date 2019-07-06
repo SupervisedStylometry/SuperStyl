@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184064</id>
+    <date>
+      <year-start>1806</year-start>
+      <year-end>1806</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>L'amour se plaît parmi les feux</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">A votre poste, <rhyme label="a" type="m">compagnons</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Du Maître écoutez les <rhyme label="a" type="m" corresp="#s1:l1">leçons</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Un nouveau grade, en toute <rhyme label="b" type="f">chose</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Oblige à des devoirs <rhyme label="c" type="m">nouveaux</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Pressez, redoublez les <rhyme label="c" type="m" corresp="#s1:l4">travaux</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Qu'un surcroît d'honneur vous <rhyme label="b" type="f" corresp="#s1:l3">impose</rhyme>.</l>
+        <l id="s1:l7" met="3" type="+-">Tôt, tôt, <rhyme label="d" type="m">tôt</rhyme>,</l>
+        <l id="s1:l8" met="2" type="+-">Battez <rhyme label="d" type="m" corresp="#s1:l7">chaud</rhyme>;</l>
+        <l id="s1:l9" met="3" type="+-">Tôt, tôt, <rhyme label="d" type="m" corresp="#s1:l7">tôt</rhyme>,</l>
+        <l id="s1:l10" met="2" type="+-">Bon <rhyme label="e" type="f">courage</rhyme>!</l>
+        <l id="s1:l11" met="4" type="-+">Il faut avoir coeur à <rhyme label="e" type="f" corresp="#s1:l10">l'ouvrage</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Dans l'art, qui fait le <rhyme label="a" type="m">Franc-Maçon</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Jamais un lâche <rhyme label="a" type="m" corresp="#s2:l1">compagnon</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">N'èst décoré du nom de <rhyme label="b" type="f">maître</rhyme>;</l>
+        <l id="s2:l4" met="4" type="-+">Ce n'est qu'au prix de son <rhyme label="c" type="m">ardeur</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Qu'il obtient ce titre <rhyme label="c" type="m" corresp="#s2:l4">flatteur</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Ses seuls travaux le font <rhyme label="b" type="f" corresp="#s2:l3">connoître</rhyme>.</l>
+        <l id="s2:l7" met="3" type="+-">Tôt, tôt, <rhyme label="d" type="m">tôt</rhyme>,</l>
+        <l id="s2:l8" met="2" type="+-">Battez <rhyme label="d" type="m" corresp="#s2:l7">chaud</rhyme>;</l>
+        <l id="s2:l9" met="3" type="+-">Tôt, tôt, <rhyme label="d" type="m" corresp="#s2:l7">tôt</rhyme>,</l>
+        <l id="s2:l10" met="2" type="+-">Bon <rhyme label="e" type="f">courage</rhyme>!</l>
+        <l id="s2:l11" met="4" type="-+">Il faut avoir coeur à <rhyme label="e" type="f" corresp="#s2:l10">l'ouvrage</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>114270</id>
+    <date>
+      <year-start>1745</year-start>
+      <year-end>1745</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Belle brune que j'adore</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">MInnelyke roze <rhyme label="a" type="f">Lipjes</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Daer myn ziel gestaeg nae <rhyme label="b" type="m">dorst</rhyme>.</l>
+        <l id="s1:l3" met="4" type="+-">Coralyne <rhyme label="a" type="f" corresp="#s1:l1">tepeltipjes</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Malse mellik witte <rhyme label="b" type="m" corresp="#s1:l2">borst</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">Poesel sagte yvoire <rhyme label="c" type="f">Leden</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Fulpe koontjes Lieflyk <rhyme label="d" type="m">root</rhyme>.</l>
+        <l id="s1:l7" met="4" type="+-">Oogjes die vol <rhyme label="c" type="f" corresp="#s1:l5">tederheden</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">My op 't aldersoetste <rhyme label="d" type="m" corresp="#s1:l6">Dood</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Phillis ach! myn lieven <rhyme label="a" type="f">Engel</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Pronkbeeld van een frisse <rhyme label="b" type="m">Jeugd</rhyme>.</l>
+        <l id="s2:l3" met="4" type="+-">Ach! laet ons door soet <rhyme label="a" type="f" corresp="#s2:l1">gestrengel</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Woelen in een gulle <rhyme label="b" type="m" corresp="#s2:l2">vreugd</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">Laet ons door veel <rhyme label="c" type="f">dertelheden</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Smelten in de Minne <rhyme label="d" type="m">gloed</rhyme>;</l>
+        <l id="s2:l7" met="4" type="+-">Laet ons aen malkaer <rhyme label="c" type="f" corresp="#s2:l5">ontleden</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Hoe de liefde wert <rhyme label="d" type="m" corresp="#s2:l6">gevoed</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Laet ons door veel <rhyme label="a" type="f">Minnelusjes</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Klimmen tot de wellust <rhyme label="b" type="m">op</rhyme>;</l>
+        <l id="s3:l3" met="4" type="+-">En door veelderhande <rhyme label="a" type="f" corresp="#s3:l1">kusjes</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Voeren ons geluk in <rhyme label="b" type="m" corresp="#s3:l2">Top</rhyme>.</l>
+        <l id="s3:l5" met="4" type="+-">'k Ben uyt Hollands bloed <rhyme label="c" type="f">gerezen</rhyme>;</l>
+        <l id="s3:l6" met="4" type="+-">Maer als ik op 't zagt <rhyme label="d" type="m">Robyn</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Van uw Mond mag kusjes <rhyme label="c" type="f" corresp="#s3:l5">lezen</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">Werd ik straks een <rhyme label="d" type="m" corresp="#s3:l6">Florentyn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

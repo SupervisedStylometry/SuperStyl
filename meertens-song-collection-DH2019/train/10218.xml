@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10218</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Ach droom hoe kwelt gij mijn gedachten</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ach droom! hoe quelt ghy mijn <rhyme label="a" type="f">ghedachten</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">En drijft my uyt, in ongewisse <rhyme label="a" type="f" corresp="#s1:l1">klachten</rhyme>,</l>
+        <l id="s1:l3" met="7" type="+-">Langhst de kant, Van het Strandt, Om mijn I te <rhyme label="b" type="f">vinden</rhyme>?</l>
+        <l id="s1:l4" met="6" type="+-">Woeste zee, Dit's mijn be'e: Laet dees <rhyme label="c" type="m">Ree</rhyme></l>
+        <l id="s1:l5" met="5" type="+-">Mijn verstorven Liefjes Gif op <rhyme label="b" type="f" corresp="#s1:l3">dringhen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Dat ick hem noch na sijn <rhyme label="d" type="m">doot</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Mach beweenen in mijn <rhyme label="d" type="m" corresp="#s1:l6">schoot</rhyme>,</l>
+        <l id="s1:l8" met="5" type="-+">En om zyn kouwen Hals mijn armen <rhyme label="b" type="f" corresp="#s1:l3">wringhen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O wee! o wee! ick sie de <rhyme label="a" type="f">baren</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Sich steyg'ren op, en flucx ten Hemel <rhyme label="a" type="f" corresp="#s2:l1">varen</rhyme>:</l>
+        <l id="s2:l3" met="7" type="+-">Dan verstindt // in de grondt // weer ter neder <rhyme label="b" type="f">dalen</rhyme>.</l>
+        <l id="s2:l4" met="6" type="+-">'k Hoor de windt // staegh begint // als <rhyme label="c" type="m">ontsint</rhyme>,</l>
+        <l id="s2:l5" met="5" type="+-">Met een naer gheruysch sijn Adam <rhyme label="b" type="f" corresp="#s2:l3">t'erhalen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Dat de droeve Locht en <rhyme label="d" type="m">zee</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">Drijft vol jammer, en vol <rhyme label="d" type="m" corresp="#s2:l6">wee</rhyme>,</l>
+        <l id="s2:l8" met="5" type="-+">En boven haer voor langh-gestelde <rhyme label="b" type="f" corresp="#s2:l3">palen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ick sie, ick sie, daer yets <rhyme label="a" type="f">beweghen</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Dat sich verheft, en drijft de golven <rhyme label="a" type="f" corresp="#s3:l1">teghen</rhyme></l>
+        <l id="s3:l3" met="7" type="+-">Komt vast aen // dies ick gaen // vol benauwt <rhyme label="b" type="f">verlanghen</rhyme>:</l>
+        <l id="s3:l4" met="6" type="+-">Ick beswijck // 't is ghelijck // als een <rhyme label="c" type="m">Lijck</rhyme>,</l>
+        <l id="s3:l5" met="5" type="+-">De storm dees' Oever aen doet <rhyme label="b" type="f" corresp="#s3:l3">pranghen</rhyme>:</l>
+        <l id="s3:l6" met="4" type="+-">Ach het is mijn waerde <rhyme label="d" type="m">Vrient</rhyme>!</l>
+        <l id="s3:l7" met="4" type="+-">Hemel! 'k heb dit <rhyme label="d" type="m" corresp="#s3:l6">wel-verdient</rhyme>:</l>
+        <l id="s3:l8" met="5" type="-+">Dies blijf ick aen sijn Lichaem eeuwigh <rhyme label="b" type="f" corresp="#s3:l3">hanghen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

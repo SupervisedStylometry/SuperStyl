@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>158127</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+    </tags>
+    <melody>Stil uw wreedheid</melody>
+    <categories>
+      <category translation="theatre">theater</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Gun, o waardste der <rhyme label="a" type="f">vrindinnen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Die ik immer heb <rhyme label="b" type="m">vertrouwd</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">En 't geheim van mijne <rhyme label="a" type="f" corresp="#s1:l1">sinnen</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Openhertig heb <rhyme label="b" type="m" corresp="#s1:l2">ontfoud</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Iets dat ik van u <rhyme label="c" type="f">begere</rhyme>:</l>
+        <l id="s1:l6" met="4" type="+-">Dat u <rhyme label="d" type="m">tegenwoordigheyd</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Dit ons Egt-feest   mag <rhyme label="c" type="f" corresp="#s1:l5">vereren</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">En dat Damon u <rhyme label="d" type="m" corresp="#s1:l6">geleid</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

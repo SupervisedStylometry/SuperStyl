@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24820</id>
+    <date>
+      <year-start>1425</year-start>
+      <year-end>1430</year-end>
+    </date>
+    <tags>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Tsu myr sprach tzwifel: "dou zalt van der goten <rhyme label="a" type="m">laen</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">daer dou haest ye ghezonghen, want yr has yst werende <rhyme label="b" type="f">stete</rhyme>."</l>
+        <l id="s1:l3" met="5" type="-+">Das hoffen sprach: "dÜ ne zalt noch niet ave <rhyme label="a" type="m" corresp="#s1:l1">staen</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">du hettes dan tsu vyl verloren, unt hes were oech nu tsu <rhyme label="b" type="f" corresp="#s1:l2">spade</rhyme>."</l>
+        <l id="s1:l5" met="4" type="-+">Der tswifel sprach: "ze toet zo <rhyme label="c" type="m">wee</rhyme></l>
+        <l id="s1:l6" met="6" type="-+">ont nemmer wol, welich hertz mÜcht dan <rhyme label="d" type="f">vertraghen</rhyme>?"</l>
+        <l id="s1:l7" met="4" type="-+">Des hoffen sprach: "du zalt <rhyme label="c" type="m" corresp="#s1:l5">ghewee</rhyme></l>
+        <l id="s1:l8" met="6" type="-+">yr yummer ziin unt stetentlichen nach yren hulden <rhyme label="d" type="f" corresp="#s1:l6">iaghen</rhyme>."</l>
+        <l id="s1:l9" met="6" type="-+">Die tswifel sprach: "zist onghenedich vyl zÜ <rhyme label="e" type="m">vyl</rhyme>."</l>
+        <l id="s1:l10" met="6" type="-+">Der hoffen sprach: "wie weys, wie zi das enden <rhyme label="e" type="m" corresp="#s1:l9">wil</rhyme>."</l>
+        <l id="s1:l11" met="6" type="+-">Des tswifel sprach: "ich vrucht, etz zi der <rhyme label="f" type="m">toyt</rhyme>."</l>
+        <l id="s1:l12" met="6" type="-+">Der hoffen sprach: "neyn, volghe bas, du kÜmes noch us zender <rhyme label="f" type="m" corresp="#s1:l11">noet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

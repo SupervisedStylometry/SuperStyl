@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184487</id>
+    <date>
+      <year-start>1785</year-start>
+      <year-end>1785</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Gelijk de schone bloempjes kwijnen</melody>
+  <author>Adriaan Loosjes Pzn.</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Daar thans de Fabrieken <rhyme label="a" type="f">kwynen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Zie ik myn groote winst <rhyme label="a" type="f" corresp="#s1:l1">verdwynen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">'k Sloeg jaaren lang een flesje <rhyme label="b" type="m">rood</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Op kermis in dees herberg <rhyme label="b" type="m" corresp="#s1:l3">dood</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Maar ach het zit 'er thans wat <rhyme label="a" type="f">pover</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Ik telde daar myn geld nog <rhyme label="a" type="f" corresp="#s2:l1">over</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Een flesje wyn? neen! 't kan niet <rhyme label="b" type="m">gaan</rhyme>.</l>
+        <l id="s2:l4" met="4" type="-+">Het zou niet met myn pligt <rhyme label="b" type="m" corresp="#s2:l3">bestaan</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Kom aan! best zet ik dan myn <rhyme label="a" type="f">teering</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Naar 't oude spreekwoord, naar myn <rhyme label="a" type="f" corresp="#s3:l1">neering</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Een vrolyk hart is 't grootst <rhyme label="b" type="m">plaisier</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">En 'k drink in plaats van wyn nu <rhyme label="b" type="m" corresp="#s3:l3">bier</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>125682</id>
+    <date>
+      <year-start>1767</year-start>
+      <year-end>1767</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+    </tags>
+    <melody>Mirliton</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">ALs ik zie haar geele <rhyme label="a" type="f">Keykers</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Oogjes als een <rhyme label="b" type="m">Koeke-pan</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Waar zy mee ziet Goud, voor <rhyme label="a" type="f" corresp="#s1:l1">Spijkers</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Maakt dat ik blijf in den <rhyme label="b" type="m" corresp="#s1:l2">Ban</rhyme>,</l>
+        <l id="s1:l5" met="3" type="+-">Haar Oogjes kleyn en <rhyme label="c" type="m">zoet</rhyme>,</l>
+        <l id="s1:l6" met="2" type="+-">Gelijk de <rhyme label="c" type="m" corresp="#s1:l5">Hoed</rhyme>,</l>
+        <l id="s1:l7" met="3" type="+-">Van Monsieur <rhyme label="d" type="f">d'Kwaker</rhyme>,</l>
+        <l id="s1:l8" met="3" type="+-">Haar Oogjes kleyn en <rhyme label="c" type="m" corresp="#s1:l5">zoet</rhyme>,</l>
+        <l id="s1:l9" met="3" type="+-">Dien 'k roemen <rhyme label="c" type="m" corresp="#s1:l5">moet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1921</id>
+    <date>
+      <year-start>1615</year-start>
+      <year-end>1615</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+    </tags>
+    <melody>Sei tanto graziosa</melody>
+    <categories>
+      <category translation="theatre">theater</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">WYs zijnse die’t <rhyme label="a" type="f">begheven</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Wt weelderij der steden, en haer <rhyme label="b" type="f">wenschen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">’T lucksalich boere <rhyme label="a" type="f" corresp="#s1:l1">leven</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">In heylleloosheyt begeert van alle <rhyme label="b" type="f" corresp="#s1:l2">menschen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Den boer gherust, leeft na sijn <rhyme label="c" type="m">lust</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Wt ’s Hofs <rhyme label="d" type="f">oneenicheden</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">By zijn <rhyme label="e" type="f">ghebueren</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">De voghels <rhyme label="e" type="f" corresp="#s1:l7">tureluren</rhyme></l>
+        <l id="s1:l9" met="2" type="+-">Hem de <rhyme label="d" type="f" corresp="#s1:l6">vrede</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Hy wil sijn hut niet <rhyme label="a" type="f">ruylen</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Hoe slecht s’ ooc is met gulden Princen <rhyme label="b" type="f">Hoven</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Om datser moylijck <rhyme label="a" type="f" corresp="#s2:l1">pruylen</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Als d’een in staet den andren gaet te <rhyme label="b" type="f" corresp="#s2:l2">boven</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Want haer begheer, wil altijdt <rhyme label="c" type="m">meer</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">En hy heeft goet <rhyme label="d" type="f">ghenoeghen</rhyme>,</l>
+        <l id="s2:l7" met="2" type="-+">Hy danckt de <rhyme label="e" type="f">Goden</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">En leeft na haer <rhyme label="e" type="f" corresp="#s2:l7">gheboden</rhyme>,</l>
+        <l id="s2:l9" met="2" type="+-">Hoe zijt <rhyme label="d" type="f" corresp="#s2:l6">voeghen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Noch Princelijcke <rhyme label="a" type="f">wooningh</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Noch Keysers hoed hoe lastigh om te <rhyme label="b" type="f">dragen</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">En maeckt den mensch gheen <rhyme label="a" type="f" corresp="#s3:l1">Koningh</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Gerust van hert, so soudt ’t gemoet doen <rhyme label="b" type="f" corresp="#s3:l2">knaghen</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">En qua begeert, de ziel <rhyme label="c" type="m">verheert</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Ey neen ’t en kan niet <rhyme label="d" type="f">missen</rhyme>,</l>
+        <l id="s3:l7" met="2" type="-+">Of sonden <rhyme label="e" type="f">woonen</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Int midden van de <rhyme label="e" type="f" corresp="#s3:l7">kroonen</rhyme>,</l>
+        <l id="s3:l9" met="2" type="+-">Na mijn <rhyme label="d" type="f" corresp="#s3:l6">gissen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

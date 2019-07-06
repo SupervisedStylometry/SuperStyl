@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111439</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Menuet van Locatelli</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">STierd myn Sin, Liefdes <rhyme label="a" type="m">Godin</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Dat ik eeuwig myn Cloris <rhyme label="a" type="m" corresp="#s1:l1">bemin</rhyme>:</l>
+        <l id="s1:l3" met="6" type="-+">Het vermogen, Van haar Oogen, Ik <rhyme label="a" type="m" corresp="#s1:l1">ondervin</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">De deugd en manieren, Die haar wezen <rhyme label="b" type="f">cieren</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Haar zoet by-zyn, Zal altyd <rhyme label="c" type="m">zyn</rhyme></l>
+        <l id="s1:l6" met="3" type="+-">Groote vreugd voor <rhyme label="c" type="m" corresp="#s1:l5">myn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Maar Godin, Stierd ook haar <rhyme label="a" type="m">sin</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Dat ik mag hopen op <rhyme label="a" type="m" corresp="#s2:l1">Wedermin</rhyme>:</l>
+        <l id="s2:l3" met="6" type="-+">Dat na 't stryden, En myn lyden, Ik <rhyme label="a" type="m" corresp="#s2:l1">overwin</rhyme>.</l>
+        <l id="s2:l4" met="4" type="-+">Alles kan ik vinden In 't oog myns <rhyme label="b" type="f">Beminde</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Ach! vond ook zy Alles in <rhyme label="c" type="m">my</rhyme>,</l>
+        <l id="s2:l6" met="3" type="+-">Ik was eeuwig <rhyme label="c" type="m" corresp="#s2:l5">bly</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

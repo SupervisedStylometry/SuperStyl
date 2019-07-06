@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12674</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>medemblick</orginal-name>
+      <standard-name>Medemblik, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.768691</lon>
+        <lat>5.106195</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+    </tags>
+    <melody>Il est vrai je le confesse</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>C. Rhijnenburgh</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Gaat ghy Lupaart tot de <rhyme label="a" type="f">Mieren</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">En besiet <rhyme label="b" type="m">aldaar</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">’t Leven van die kleyne <rhyme label="a" type="f" corresp="#s1:l1">Dieren</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Ende leer van <rhyme label="b" type="m" corresp="#s1:l2">haar</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Wakker wesen in den <rhyme label="c" type="f">morgen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Van u jongge <rhyme label="d" type="m">Ieucht</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Dat ghy niet en hebt te <rhyme label="c" type="f" corresp="#s1:l5">sorgen</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">Als ghy niet en <rhyme label="d" type="m" corresp="#s1:l6">meught</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Siet de Beesjes reppen, <rhyme label="a" type="f">roeren</rhyme>,</l>
+        <l id="s2:l2" met="3" type="+-">Met gesta’ge <rhyme label="b" type="m">vlijt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Om haar noodruft in te <rhyme label="a" type="f" corresp="#s2:l1">voeren</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">Voor de barre <rhyme label="b" type="m" corresp="#s2:l2">tijt</rhyme>:</l>
+        <l id="s2:l5" met="4" type="+-">Als ‘er niet en valt te <rhyme label="c" type="f">soekken</rhyme></l>
+        <l id="s2:l6" met="3" type="+-">Schoon men harde <rhyme label="d" type="m">loopt</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">O! dan hebben sy haer <rhyme label="c" type="f" corresp="#s2:l5">hoekken</rhyme></l>
+        <l id="s2:l8" met="3" type="+-">Vol en <rhyme label="d" type="m" corresp="#s2:l6">opgehoopt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Soo ghy dan soekt wel te <rhyme label="a" type="f">varen</rhyme>,</l>
+        <l id="s3:l2" met="3" type="+-">Slaat de handen <rhyme label="b" type="m">an</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Om in tijdts wat op te <rhyme label="a" type="f" corresp="#s3:l1">garen</rhyme></l>
+        <l id="s3:l4" met="3" type="+-">Voor den Oude <rhyme label="b" type="m" corresp="#s3:l2">Man</rhyme>:</l>
+        <l id="s3:l5" met="4" type="+-">Want die in haar Ieught niet <rhyme label="c" type="f">sparen</rhyme>,</l>
+        <l id="s3:l6" met="3" type="+-">O! wat baet veel <rhyme label="d" type="m">goets</rhyme>:</l>
+        <l id="s3:l7" met="4" type="+-">In haar oude koude <rhyme label="c" type="f" corresp="#s3:l5">Iaren</rhyme></l>
+        <l id="s3:l8" met="3" type="+-">Gaan sy <rhyme label="d" type="m" corresp="#s3:l6">barre-voets</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10239</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Tous les soldats de France</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Op lievers die mijn <rhyme label="a" type="f">minne</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">De locht verheu, heu, heu, heu, heugt mijn <rhyme label="b" type="m">geest</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Hier swiert doch 't koor uws <rhyme label="a" type="f" corresp="#s1:l1">fame</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Dits minnaers ke, ker, ker, kermis <rhyme label="b" type="m" corresp="#s1:l2">feest</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">V Amstels gladde <rhyme label="c" type="f">straetjes</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Soo cierlijck zijn <rhyme label="d" type="m">gedeckt</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">'t Is lust vrolijcke <rhyme label="c" type="f" corresp="#s1:l5">maetjes</rhyme>,</l>
+        <l id="s1:l8" met="5" type="-+">Die na mins we, we, we, we, wellust <rhyme label="d" type="m" corresp="#s1:l6">treckt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Het sneeu door kou <rhyme label="a" type="f">bevroore</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Lockt 't na, na, na, na, na, narre sleetje <rhyme label="b" type="m">uyt</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Om daer door te <rhyme label="a" type="f" corresp="#s2:l1">bekoore</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Een lang gewen, wen, wen, wen, wenste <rhyme label="b" type="m" corresp="#s2:l2">Bruydt</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">Nu laet u Paertjes <rhyme label="c" type="f">drave</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Met strickjes <rhyme label="d" type="m">toegerust</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">V hertjes sullen <rhyme label="c" type="f" corresp="#s2:l5">laven</rhyme></l>
+        <l id="s2:l8" met="5" type="-+">Door dese lie, lie, lie, lie, lieve <rhyme label="d" type="m" corresp="#s2:l6">lust</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Elck soeckt sijn lieve <rhyme label="a" type="f">liefje</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Gaet na u Ro, Ro, Ro, Ro, <rhyme label="b" type="m">Rosimont</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">De, de, de min <rhyme label="a" type="f" corresp="#s3:l1">geriefje</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Mides liefd' 't u he, he, he, he, heden <rhyme label="b" type="m" corresp="#s3:l2">jont</rhyme>.</l>
+        <l id="s3:l5" met="3" type="-+">V vreught na vreught sal <rhyme label="c" type="f">helle</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Soo dra u Paertje <rhyme label="d" type="m">gaet</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Op 't rammelen van de <rhyme label="c" type="f" corresp="#s3:l5">Belle</rhyme>,</l>
+        <l id="s3:l8" met="5" type="-+">Wiens toon steets mi, mi, mi, mi, mi, minne <rhyme label="d" type="m" corresp="#s3:l6">slaet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Ick sal de Voerman <rhyme label="a" type="f">strecken</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">En voeren u, u, u, u, u, uw op 't <rhyme label="b" type="m">padt</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Daerick u sal <rhyme label="a" type="f" corresp="#s4:l1">ontdecken</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">'t Lief minne va, va, va, va, va, van ons <rhyme label="b" type="m" corresp="#s4:l2">Stadt</rhyme>.</l>
+        <l id="s4:l5" met="3" type="-+">Set aen u Struys en <rhyme label="c" type="f">Swanen</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Draeck, Schulp en <rhyme label="d" type="m">Mereman</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Neptunus spoor wilt <rhyme label="c" type="f" corresp="#s4:l5">banen</rhyme>,</l>
+        <l id="s4:l8" met="5" type="-+">Doch leght som wij, wij, wij, wij, wijl eens <rhyme label="d" type="m" corresp="#s4:l6">an</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

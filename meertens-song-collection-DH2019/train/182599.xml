@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182599</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Ah vous dirai-je maman</melody>
+  <author>Hendrik Riemsnijder</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">O, wat hoor ik van elk <rhyme label="a" type="m">een</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Mynen makker <rhyme label="a" type="m" corresp="#s1:l1">ongemeen</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Om zyn vlyt en yver <rhyme label="b" type="f">roemen</rhyme>;</l>
+        <l id="s1:l4" met="4" type="+-">Hem bekwaam en schrander <rhyme label="b" type="f" corresp="#s1:l3">noemen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">En verheffen boven <rhyme label="c" type="m">my</rhyme>!</l>
+        <l id="s1:l6" met="2" type="+-">boven <rhyme label="c" type="m" corresp="#s1:l5">my</rhyme>!</l>
+        <l id="s1:l7" met="4" type="+-">Zoo, dat ik hem schier <rhyme label="c" type="m" corresp="#s1:l5">beny'</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Maar wat baat my mynen <rhyme label="a" type="m">nyd</rhyme>?</l>
+        <l id="s2:l2" met="4" type="+-">Stil ik dus 't gegrond <rhyme label="a" type="m" corresp="#s2:l1">verwyt</rhyme>?</l>
+        <l id="s2:l3" met="4" type="+-">Zal men dààrom my meer <rhyme label="b" type="f">pryzen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Minder achting hem <rhyme label="b" type="f" corresp="#s2:l3">bewyzen</rhyme>?</l>
+        <l id="s2:l5" met="4" type="+-">Neen; maar streeve ik hem <rhyme label="c" type="m">voorby</rhyme></l>
+        <l id="s2:l6" met="2" type="+-">Hem <rhyme label="c" type="m" corresp="#s2:l5">voorby</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Dan ook pryst men zeeker <rhyme label="c" type="m" corresp="#s2:l5">my</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

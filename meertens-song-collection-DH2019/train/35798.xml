@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35798</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+    </tags>
+    <melody>Edele artiesten koen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Albertus Buitendyck</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">EY! volght Martinum <rhyme label="a" type="m">na</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Die zijne in <rhyme label="b" type="f">armoeden</rhyme>.</l>
+        <l id="s1:l3" met="3" type="-+">Wilt defen helpen <rhyme label="a" type="m" corresp="#s1:l1">dra</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En wilt u haestigh <rhyme label="b" type="f" corresp="#s1:l2">spoeden</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">En wilt u niet <rhyme label="c" type="f">verschoonen</rhyme>;</l>
+        <l id="s1:l6" met="3" type="-+">U aelmis ende <rhyme label="d" type="m">deughdt</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Sal Jesus daer na <rhyme label="c" type="f" corresp="#s1:l5">toone</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">En geven 's Hemels <rhyme label="d" type="m" corresp="#s1:l6">vreughdt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Sint Maertijn, waerde <rhyme label="a" type="m">man</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Van Jesu wilt <rhyme label="b" type="f">begeeren</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Voor ons, dat noyt <rhyme label="a" type="m" corresp="#s2:l1">Satan</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Ons hind'ren mach of <rhyme label="b" type="f" corresp="#s2:l2">deeren</rhyme>:</l>
+        <l id="s2:l5" met="3" type="-+">En boven alle <rhyme label="c" type="f">saecken</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Dat wy in 's Hemels <rhyme label="d" type="m">landt</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">By u alle <rhyme label="c" type="f" corresp="#s2:l5">geraecken</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Dit smeecken wy, ô <rhyme label="d" type="m" corresp="#s2:l6">Sant</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">O Jesu! t' is ons <rhyme label="a" type="m">leet</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Gelijck wy al <rhyme label="b" type="f">beklagen</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Dat wy hebben <rhyme label="a" type="m" corresp="#s3:l1">besteedt</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">In boosheydt veele <rhyme label="b" type="f" corresp="#s3:l2">dagen</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Als nu met hart en <rhyme label="c" type="f">sinnen</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Hoopen uw', met <rhyme label="d" type="m">Maertijn</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Altijdt trouw te <rhyme label="c" type="f" corresp="#s3:l5">beminnen</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Sonder bedrogh of <rhyme label="d" type="m" corresp="#s3:l6">schijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

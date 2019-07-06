@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36644</id>
+    <date>
+      <year-start>1631</year-start>
+      <year-end>1631</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>Een hart ootmoedig is overvloedig</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Lucas van Mechelen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">EEn hert' ootmoedich is <rhyme label="a" type="f">overvloedich</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Is selsaem seer, is <rhyme label="b" type="f">wonderlijcke</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">In trouw tot Godt, in liefde <rhyme label="b" type="f" corresp="#s1:l2">rijcke</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Meest' minnende altijdt daer't meeste cruys van <rhyme label="c" type="m">lijdt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">In dese minne, stondt Godts <rhyme label="a" type="f">vriendinne</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Die in dat Dal der <rhyme label="b" type="f">soeticheden</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Oprechte rust' daer vondt <rhyme label="b" type="f" corresp="#s2:l2">beneden</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Die volghende veel eer, die haer verdruckten <rhyme label="c" type="m">meer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">O troost der sielen! die op haer <rhyme label="a" type="f">vielen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Die waren haer die <rhyme label="b" type="f">aenghenaemste</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Die deden haer die hulp <rhyme label="b" type="f" corresp="#s3:l2">bequaemste</rhyme>,</l>
+        <l id="s3:l4" met="6" type="-+">Om in den waren grondt te blijven, daer sy <rhyme label="c" type="m">stondt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Sy wou' s'ontmoeten, sy wouse <rhyme label="a" type="f">groeten</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Sy wou t'hun al ten besten <rhyme label="b" type="f">bieden</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Daer schimpen meest' haer van <rhyme label="b" type="f" corresp="#s4:l2">gheschieden</rhyme>:</l>
+        <l id="s4:l4" met="6" type="-+">Want om in Godt te staen, moest sy haer self <rhyme label="c" type="m">uytgaen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Die uytvercoren was lanck <rhyme label="a" type="f">verloren</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Naer haren wil' in den <rhyme label="b" type="f">gheminden</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Daer druck noch leet haer en kost <rhyme label="b" type="f" corresp="#s5:l2">vinden</rhyme>,</l>
+        <l id="s5:l4" met="6" type="-+">Hoe lastich oft hoe suer, dat t'scheen voor die <rhyme label="c" type="m">natuer</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Die haer de' lijden, ded' haer <rhyme label="a" type="f">verblijden</rhyme>;</l>
+        <l id="s6:l2" met="4" type="-+">S'en kost niet dan ghetroost <rhyme label="b" type="f">ghewesen</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Daer sy gheleeck den <rhyme label="b" type="f" corresp="#s6:l2">Vytghelesen</rhyme>,</l>
+        <l id="s6:l4" met="6" type="-+">Die aen dat cruyce honck, daer sy troost van <rhyme label="c" type="m">ontfonck</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

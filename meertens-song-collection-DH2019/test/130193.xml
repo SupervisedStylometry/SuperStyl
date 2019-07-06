@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>130193</id>
+    <date>
+      <year-start>1710</year-start>
+      <year-end>1710</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
+    </tags>
+    <melody>O doelwit van mijn min</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">‘Schoon dat gy mijn al <rhyme label="a" type="m">prijst</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Daar is niet mee te <rhyme label="b" type="f">winnen</rhyme>.</l>
+        <l id="s1:l3" met="3" type="-+">Ik bid u doch, <rhyme label="a" type="m" corresp="#s1:l1">verryst</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En wilt een ander <rhyme label="b" type="f" corresp="#s1:l2">Minnen</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Gy schijnt bedroeft van <rhyme label="b" type="f" corresp="#s1:l2">zinnen</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Wyl men u dit Vonnis <rhyme label="a" type="m" corresp="#s1:l1">wyst</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Want gy kunt mijn niet <rhyme label="c" type="f">behagen</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Schoon gy Vryde alle <rhyme label="c" type="f" corresp="#s1:l7">dagen</rhyme>.</l>
+        <l id="s1:l9" met="4" type="+-">Daarom keert, Daarom <rhyme label="d" type="m">keert</rhyme></l>
+        <l id="s1:l10" met="2" type="+-">En stelt dees <rhyme label="e" type="m">Min</rhyme></l>
+        <l id="s1:l11" met="2" type="-+">Maar vryelijk uyt uw <rhyme label="e" type="m" corresp="#s1:l10">zin</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Gy   krijgt geen   Kusje <rhyme label="a" type="m">meer</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Wilt mijn niet langer <rhyme label="b" type="f">tergen</rhyme>.</l>
+        <l id="s2:l3" met="3" type="-+">Mijn Min die is te <rhyme label="a" type="m" corresp="#s2:l1">teer</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Sy sou sig gaan <rhyme label="b" type="f" corresp="#s2:l2">verbergen</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">Wilt ook u lusjens <rhyme label="b" type="f" corresp="#s2:l2">vergen</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Dat   sy komen nimmer <rhyme label="a" type="m" corresp="#s2:l1">weer</rhyme>:</l>
+        <l id="s2:l7" met="4" type="+-">Want dat gy een Kus soud <rhyme label="c" type="f">steele</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Sal noch kan mijn hert niet <rhyme label="c" type="f" corresp="#s2:l7">veele</rhyme>.</l>
+        <l id="s2:l9" met="4" type="+-">Gy en sult, Gy en <rhyme label="d" type="m">sult</rhyme></l>
+        <l id="s2:l10" met="2" type="+-">Oyt dese <rhyme label="e" type="m">eer</rhyme></l>
+        <l id="s2:l11" met="2" type="-+">Genieten <rhyme label="e" type="m" corresp="#s2:l10">nimmermeer</rhyme>.’</l>
+      </lg>
+    </lg>
+  </text>
+</song>

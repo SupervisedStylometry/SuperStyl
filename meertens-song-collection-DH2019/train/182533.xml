@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182533</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Je t'aime sans détours</melody>
+  <author>Hendrik Riemsnijder</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Beschouw deez' Tulp! hoe <rhyme label="a" type="m">schoon</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Spreidt zy ten <rhyme label="a" type="m" corresp="#s1:l1">toon</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Haar' kleuren! Zie! 't kan elk <rhyme label="b" type="f">verrukken</rhyme>!</l>
+        <l id="s1:l4" met="3" type="-+">Maar neen, slegts schoon van <rhyme label="c" type="m">kleur</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Doch zonder <rhyme label="c" type="m" corresp="#s1:l4">geur</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Wekt zy geen lust tot <rhyme label="b" type="f" corresp="#s1:l3">plukken</rhyme>.</l>
+        <l id="s1:l7" met="4" type="-+">Vergeefsch is 't, dat, door ryk <rhyme label="d" type="m">gewaad</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Een Zot naar achting <rhyme label="d" type="m" corresp="#s1:l7">staat</rhyme>;</l>
+        <l id="s1:l9" met="2" type="-+">Hy moog' zig <rhyme label="e" type="f">smukken</rhyme>;</l>
+        <l id="s1:l10" met="3" type="-+">De dwaas word toch <rhyme label="d" type="m" corresp="#s1:l7">versmaad</rhyme>,</l>
+        <l id="s1:l11" met="2" type="+-">'t Kan niet <rhyme label="e" type="f" corresp="#s1:l9">lukken</rhyme>,</l>
+        <l id="s1:l12" met="3" type="-+">De dwaas word toch <rhyme label="d" type="m" corresp="#s1:l7">versmaad</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

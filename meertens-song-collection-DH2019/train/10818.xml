@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10818</id>
+    <date>
+      <year-start>1605</year-start>
+      <year-end>1605</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Het regende zeer en ik word nat</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Dees wijn maeckt vrolijck ende <rhyme label="a" type="m">rijck</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Ick min een meysken <rhyme label="a" type="m" corresp="#s1:l1">suyverlijck</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Soo suyverlijck van <rhyme label="b" type="f">wesen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">My dunct ic vind geen haers <rhyme label="a" type="m" corresp="#s1:l1">gelijc</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wel op laet ons maken goede <rhyme label="a" type="m">chier</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Myn liefken is niet verre van <rhyme label="a" type="m" corresp="#s2:l1">hier</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Niet verre van hier <rhyme label="b" type="f">gheseten</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Ick ben in duysent vreuchden <rhyme label="a" type="m" corresp="#s2:l1">schier</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">O Venus geeft my volle <rhyme label="a" type="m">macht</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Dat ick mach rusten eenen <rhyme label="a" type="m" corresp="#s3:l1">nacht</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Den eenen nacht nae den <rhyme label="b" type="f">anderen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">In haren blancken armen <rhyme label="a" type="m" corresp="#s3:l1">sacht</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Princesse als ghy wat vreuchts <rhyme label="a" type="m">bereyt</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Bedrijf ick niet dan <rhyme label="a" type="m" corresp="#s4:l1">vrolijckheyt</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Dan vrolijckheyt moet <rhyme label="b" type="f">wijcken</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Als myn jonck harteken treurich <rhyme label="a" type="m" corresp="#s4:l1">schreyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

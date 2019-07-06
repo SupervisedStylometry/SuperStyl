@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>157530</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Boksvoetje</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">HEer Bruydegom, siet my hier oock met een <rhyme label="a" type="m">swier</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">'k Sal spelen, 'k sal <rhyme label="b" type="f">quelen</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Voor u op mijn <rhyme label="a" type="m" corresp="#s1:l1">Lier</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En, ô <rhyme label="c" type="m">Bruydje-maet</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Ick wensch dat die <rhyme label="c" type="m" corresp="#s1:l4">staet</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Daer ghy nu in treedt, 't Min-Goodtje <rhyme label="a" type="m" corresp="#s1:l1">bestier</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

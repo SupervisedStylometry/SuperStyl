@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111808</id>
+    <date>
+      <year-start>1745</year-start>
+      <year-end>1745</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Pots honderdduizend slapperment</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WEl wat of Cupido weer <rhyme label="a" type="m">schord</rhyme>?</l>
+        <l id="s1:l2" met="3" type="-+">Zeg Beuling is 't geen <rhyme label="b" type="m">deeg</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">Of zyn u vleugeltjes <rhyme label="a" type="m" corresp="#s1:l1">gekort</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Is 't kookertje weer <rhyme label="b" type="m" corresp="#s1:l2">leeg</rhyme>?</l>
+        <l id="s1:l5" met="4" type="-+">Of zyn u Schigjes zonder <rhyme label="c" type="m">klem</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Ey zeg mistroostig <rhyme label="d" type="m">kind</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Of is u Minnezieke <rhyme label="c" type="m" corresp="#s1:l5">Mem</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Met Mars weer aen de <rhyme label="d" type="m" corresp="#s1:l6">wind</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Of scheeld het aen u boogje <rhyme label="a" type="m">Kwandt</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Is 't peesje weer aen <rhyme label="b" type="m">stuk</rhyme>?</l>
+        <l id="s2:l3" met="4" type="-+">'k Zie dat u Fakkel niet en <rhyme label="a" type="m" corresp="#s2:l1">brandt</rhyme>:</l>
+        <l id="s2:l4" met="3" type="-+">ô Ja gy zyt vol <rhyme label="b" type="m" corresp="#s2:l2">druk</rhyme>!</l>
+        <l id="s2:l5" met="4" type="-+">Het Minne-vuur is <rhyme label="c" type="m">uytgedooft</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">De Mingod heel <rhyme label="d" type="m">onsteld</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Cupido van geweer <rhyme label="c" type="m" corresp="#s2:l5">ontrooft</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Wie Treurd niet met dien <rhyme label="d" type="m" corresp="#s2:l6">Heldt</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Maer kleyne Dwergje schreid zoo <rhyme label="a" type="m">niet</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Hou moed myn beste <rhyme label="b" type="m">Maet</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Ey spaer u Traentjes van <rhyme label="a" type="m" corresp="#s3:l1">verdriet</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Kom kom ik weet nog <rhyme label="b" type="m" corresp="#s3:l2">Raedt</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Onsteek u Toorsjen aen de <rhyme label="c" type="m">vlam</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Die Phillis heeft <rhyme label="d" type="m">gestookt</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Door 't vuur dat uyt haer oogjes <rhyme label="c" type="m" corresp="#s3:l5">kwam</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">En in myn hart nog <rhyme label="d" type="m" corresp="#s3:l6">smookt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ontbreekt u dan nog Pyl en <rhyme label="a" type="m">Boog</rhyme>?</l>
+        <l id="s4:l2" met="3" type="-+">Ontleend die uyt het <rhyme label="b" type="m">licht</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Van myn Godin haer straelend <rhyme label="a" type="m" corresp="#s4:l1">Oog</rhyme>:</l>
+        <l id="s4:l4" met="3" type="-+">Elk lonkjen is een <rhyme label="b" type="m" corresp="#s4:l2">Schigt</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Die zeeker treft, wat wilje <rhyme label="c" type="m">meer</rhyme>!</l>
+        <l id="s4:l6" met="3" type="-+">Zoo raekt gy in <rhyme label="d" type="m">Postuur</rhyme>,</l>
+        <l id="s4:l7" met="4" type="-+">De heele Weereld brand dan <rhyme label="c" type="m" corresp="#s4:l5">weer</rhyme>,</l>
+        <l id="s4:l8" met="3" type="-+">Door u gestoolen <rhyme label="d" type="m" corresp="#s4:l6">vuur</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

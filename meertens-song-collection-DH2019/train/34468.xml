@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34468</id>
+    <date>
+      <year-start>1653</year-start>
+      <year-end>1653</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Albertus Ignatius d'Hanins</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">SChoonste Nymphe <rhyme label="a" type="m">Galathé</rhyme>!</l>
+        <l id="s1:l2" met="4" type="+-">Herderinn’ // (Die ick <rhyme label="b" type="m">minn</rhyme>’)</l>
+        <l id="s1:l3" met="3" type="+-">Hoort eens naer mijn’ <rhyme label="a" type="m" corresp="#s1:l1">bé</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Wilt my weder-minne <rhyme label="c" type="f">draghen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Helpt dijn’ dienaer uyt de <rhyme label="d" type="m">pijn</rhyme>;</l>
+        <l id="s1:l6" met="5" type="+-">Kan mijn’ bede, lief, u niet <rhyme label="c" type="f" corresp="#s1:l4">behaghen</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Sal ick haest begraven <rhyme label="d" type="m" corresp="#s1:l5">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Waerom praetje van de <rhyme label="a" type="m">doodt</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Tyter vrindt? // Die my <rhyme label="b" type="m">mindt</rhyme></l>
+        <l id="s2:l3" met="3" type="+-">Die en heeft gheen’ <rhyme label="a" type="m" corresp="#s2:l1">noodt</rhyme>:</l>
+        <l id="s2:l4" met="4" type="+-">Hy en sal van rouw’ niet <rhyme label="c" type="f">sterven</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">‘k Sal hem helpen uyt den <rhyme label="d" type="m">druck</rhyme>,</l>
+        <l id="s2:l6" met="5" type="+-">Tyter ghy sult weder-minn’ <rhyme label="c" type="f" corresp="#s2:l4">verwerven</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Is dit niet een groot <rhyme label="d" type="m" corresp="#s2:l5">gheluck</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Seker Galathetjen <rhyme label="a" type="m">jae</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Ghy verblijt // My, en <rhyme label="b" type="m">zijt</rhyme></l>
+        <l id="s3:l3" met="3" type="+-">Heel vol van <rhyme label="a" type="m" corresp="#s3:l1">ghenae</rhyme>:</l>
+        <l id="s3:l4" met="4" type="+-">Daerom sal ick nimmer <rhyme label="c" type="f">swichten</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">Van dijn’ lof tot d’hemels <rhyme label="d" type="m">toe</rhyme></l>
+        <l id="s3:l6" met="5" type="+-">Te verheffen (door mijn’ soete <rhyme label="c" type="f" corresp="#s3:l4">dichten</rhyme>:)</l>
+        <l id="s3:l7" met="4" type="+-">Soo ick alle daghen <rhyme label="d" type="m" corresp="#s3:l5">doe</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

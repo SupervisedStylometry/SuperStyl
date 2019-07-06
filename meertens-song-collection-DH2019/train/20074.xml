@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20074</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Si vous ne voulez me guérir</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ICk, die met Zee-geweld, mijn <rhyme label="a" type="m">luck</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Heb, by Livorno, konnen <rhyme label="b" type="f">halen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Her-besoeck uw <rhyme label="b" type="f" corresp="#s1:l2">palen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Na dat <rhyme label="a" type="m" corresp="#s1:l1">Helden-stuck</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Ontfang, o danckbaar <rhyme label="c" type="m">Vaderland</rhyme>!</l>
+        <l id="s1:l6" met="5" type="-+">Ten dank, mijn een-gebeende Rif te <rhyme label="c" type="m" corresp="#s1:l5">pand</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Godt stuwde in ’t graf het <rhyme label="d" type="m">lijck</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">De ziel in ’t <rhyme label="d" type="m" corresp="#s1:l7">Hemel-Rijck</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ai! gruw niet voor een schorre <rhyme label="a" type="m">stem</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">O voester-vrou van mijne <rhyme label="b" type="f">vroomheyd</rhyme>!</l>
+        <l id="s2:l3" met="3" type="+-">’t  Oorlog aan den toom <rhyme label="b" type="f" corresp="#s2:l2">leyd</rhyme>;</l>
+        <l id="s2:l4" met="3" type="+-">D’ eer-basuyn heeft <rhyme label="a" type="m" corresp="#s2:l1">klem</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Waar meê ghy uwer kind’ren <rhyme label="c" type="m">lof</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">Doet klaet’ren tot in in ’t hoogst van ’t <rhyme label="c" type="m" corresp="#s2:l5">starren-Hof</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Nu geeft de Vreê haar <rhyme label="d" type="m">band</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">O roem van <rhyme label="d" type="m" corresp="#s2:l7">Nederland</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Sie hier mee tydt myn geest te <rhyme label="a" type="m">rust</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">En gunt u heyl, en gunst, en <rhyme label="b" type="f">zegen</rhyme>,</l>
+        <l id="s3:l3" met="3" type="+-">Spaar myn waarde <rhyme label="b" type="f" corresp="#s3:l2">degen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="+-">Nu men ’t krijgs-vuur <rhyme label="a" type="m" corresp="#s3:l1">blust</rhyme>;</l>
+        <l id="s3:l5" met="4" type="-+">Mijn lichaem, in uwe aarde, <rhyme label="c" type="m">rot</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">O Gijsbrechts-Stadt! maar ’t leven is by <rhyme label="c" type="m" corresp="#s3:l5">Godt</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">En ‘k heb u danck <rhyme label="d" type="m">geseyt</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Voor hechte <rhyme label="d" type="m" corresp="#s3:l7">danckbaerheyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

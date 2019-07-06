@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>30101</id>
+    <date>
+      <year-start>1591</year-start>
+      <year-end>1591</year-end>
+    </date>
+    <location>
+      <orginal-name>middelburg</orginal-name>
+      <standard-name>Middelburg, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.4997302</lon>
+        <lat>3.6136962</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 100 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Philips van Marnix van Sint Aldegonde</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ICk roep tot God met mijne <rhyme label="a" type="m">stem</rhyme>:</l>
+        <l id="s1:l2" met="4" type="-+">Al mijn gebeden gaen tot <rhyme label="a" type="m" corresp="#s1:l1">hem</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Ick stort mijn hert in sijnen <rhyme label="b" type="m">schoot</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Ontdeckend hem al mijnen <rhyme label="b" type="m" corresp="#s1:l3">noot</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als my den geest beswijmet <rhyme label="a" type="m">werdt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">So dat ick lach in sware <rhyme label="a" type="m" corresp="#s2:l1">smert</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Heer, mijnen weg was dy <rhyme label="b" type="m">bekendt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Du wistst van mijnen anxt het <rhyme label="b" type="m" corresp="#s2:l3">endt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Op mijne wegen wandeld' <rhyme label="a" type="m">ick</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Daer leyden sy my eenen <rhyme label="a" type="m" corresp="#s3:l1">strick</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">End als ick d'oog alomme <rhyme label="b" type="m">keer</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">So wilt my niemandt kennen, <rhyme label="b" type="m" corresp="#s3:l3">Heer</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Hulp ende troost sijn van my <rhyme label="a" type="m">veir</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Ick hebbe niemandt die my <rhyme label="a" type="m" corresp="#s4:l1">weir</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Oft die my inden noot <rhyme label="b" type="m">bystae</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Noch mijne siele gade <rhyme label="b" type="m" corresp="#s4:l3">slae</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Maer voir dy, Heer, comt mijn <rhyme label="a" type="m">geschrey</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Ick seg, du bist mijn vry <rhyme label="a" type="m" corresp="#s5:l1">geley</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Al mijnen troost, mijn <rhyme label="b" type="m">toeverlaet</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Het deel daer op mijn leven <rhyme label="b" type="m" corresp="#s5:l3">staet</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Merck op mijn schreyen end <rhyme label="a" type="m">gebet</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Ick ben verslagen end <rhyme label="a" type="m" corresp="#s6:l1">ontset</rhyme>.</l>
+        <l id="s6:l3" met="4" type="-+">Loss' my van mijnes vyandts <rhyme label="b" type="m">schrick</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Die vele stercker is dan <rhyme label="b" type="m" corresp="#s6:l3">ick</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Verloss' my uyt den kercker <rhyme label="a" type="m">swaer</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">Op dat ick dijnen Naem <rhyme label="a" type="m" corresp="#s7:l1">verclaer</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">End dat de vromen om my <rhyme label="b" type="m">staen</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">End dese weldaet gade <rhyme label="b" type="m" corresp="#s7:l3">slaen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

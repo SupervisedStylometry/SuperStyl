@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32806</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Amarilli mia bella</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">MAria Maghet schoone, ick my heel tot u <rhyme label="a" type="m">keer</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Naest uwen Sonde, in als gy spant die <rhyme label="b" type="f">croone</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">Och hoe vol vreught moest toch u ztele <rhyme label="c" type="f">wesen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Als den Enghel <rhyme label="c" type="f" corresp="#s1:l3">ghepresen</rhyme></l>
+        <l id="s1:l5" met="5" type="-+">V bracht die tijdingh dat ghy van hier soud <rhyme label="d" type="f">scheyden</rhyme></l>
+        <l id="s1:l6" met="8" type="+-">O Maria! ô Maria ô Maria! ghy u <rhyme label="d" type="f" corresp="#s1:l5">verblijden</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">V ziel met vrolijckheden scheydt wt dit tranen <rhyme label="a" type="m">dal</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Och wel met reden, want sy is vol van <rhyme label="b" type="f">vrede</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Siet uwen Soon, u selver compt <rhyme label="c" type="f">inhaelen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Al in des hemels <rhyme label="c" type="f" corresp="#s2:l3">saelen</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Die Engelen <rhyme label="d" type="f">gepresen</rhyme> [...]</l>
+        <l id="s2:l6" met="8" type="+-">Wat triumphe, wat triumphe, wat triumphe, moest dit <rhyme label="d" type="f" corresp="#s2:l5">wesen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">Den hemel wert onsteken met vreught aen allen <rhyme label="a" type="m">kant</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">Wie sal uytspreken, die blijschap <rhyme label="b" type="f">ongeleken</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">Met soet jolijt, Gods vrienden haer <rhyme label="c" type="f">veheugen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Comen haer Coninghinne <rhyme label="c" type="f" corresp="#s3:l3">teghen</rhyme></l>
+        <l id="s3:l5" met="5" type="-+">Die negen chooren lieten haer stemmekens <rhyme label="d" type="f">hooren</rhyme></l>
+        <l id="s3:l6" met="8" type="+-">Alleluia, Alleluia, Alleluia, die wt <rhyme label="d" type="f" corresp="#s3:l5">vercoren</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">Den Vader groot van weerden, u minnelijck <rhyme label="a" type="m">ontfanckt</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">Vwen soon begeerd' u, den H. Geest vereerd' <rhyme label="b" type="f">u</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">Gy wert gecroont der Engelen <rhyme label="c" type="f">Coninginne</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">T'is recht dat wy u <rhyme label="c" type="f" corresp="#s4:l3">beminnen</rhyme>,</l>
+        <l id="s4:l5" met="5" type="-+">Wilt toch ontfangen, ons suchten met <rhyme label="d" type="f">verlanghen</rhyme>,</l>
+        <l id="s4:l6" met="8" type="+-">En aensiet toch, en aensiet toch, en aensiet toch ons <rhyme label="d" type="f" corresp="#s4:l5">ghevanghen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

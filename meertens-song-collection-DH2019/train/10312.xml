@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10312</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>C'est trop courir les eaux</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Der Goden <rhyme label="a" type="m">dwingelandt</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">En 's werelts <rhyme label="a" type="m" corresp="#s1:l1">stoockebrant</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Is met sen vlam en <rhyme label="b" type="m">gloed</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Geslopen in 't <rhyme label="c" type="m">ghesicht</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Van Carinel, en <rhyme label="b" type="m" corresp="#s1:l3">doet</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Elck beven voor sen <rhyme label="c" type="m" corresp="#s1:l4">schicht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Want die haer <rhyme label="a" type="m">onverhoets</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Aensiet, terstont vol <rhyme label="a" type="m" corresp="#s2:l1">gloets</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Tot haer onsteken <rhyme label="b" type="m">wert</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">En moet de kleyne <rhyme label="c" type="m">guyt</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Laten sen jonge <rhyme label="b" type="m" corresp="#s2:l3">hert</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Tot offer en <rhyme label="c" type="m" corresp="#s2:l4">tribuyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Recht tegendeel des <rhyme label="a" type="m">grijns</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Met slanghen vol <rhyme label="a" type="m" corresp="#s3:l1">fenijns</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Omswaddert en <rhyme label="b" type="m">beknoopt</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Want wie daer voor <rhyme label="c" type="m">verscheen</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Wierd van verstand <rhyme label="b" type="m" corresp="#s3:l3">gesloopt</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">En verandert in <rhyme label="c" type="m" corresp="#s3:l4">steen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Daer hier het ruwste <rhyme label="a" type="m">hart</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Knedich en leenigh <rhyme label="a" type="m" corresp="#s4:l1">wert</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Wanneer haer oogjens <rhyme label="b" type="m">brandt</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Het onversiens <rhyme label="c" type="m">ontmoet</rhyme>:</l>
+        <l id="s4:l5" met="3" type="-+">En leert aen boersch <rhyme label="b" type="m" corresp="#s4:l3">verstant</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Al meed een hoofsche <rhyme label="c" type="m" corresp="#s4:l4">groet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

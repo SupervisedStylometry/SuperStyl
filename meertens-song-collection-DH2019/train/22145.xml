@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22145</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Aus tiefer Not schrei ich zu dir</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Al hebt ghy ons Heer gheschuert <rhyme label="a" type="m">seer</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Noch hebt ghy onse leden, <rhyme label="b" type="f">ghenesen</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Deertrijck hebt ghi geschuert: dies <rhyme label="a" type="m" corresp="#s1:l1">Heer</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Maeckt toe haer schueren <rhyme label="b" type="f" corresp="#s1:l2">mispresen</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Herte tropen gheeft ghy, en sueren <rhyme label="c" type="m">Wijn</rhyme>:</l>
+        <l id="s1:l6" met="4" type="-+">Gheeft uwen volck sulck teecken <rhyme label="c" type="m" corresp="#s1:l5">fijn</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Dat hun vyanden daer voor <rhyme label="d" type="f">vlieden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Laet ons van uwen beminden <rhyme label="a" type="m">zijn</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">U recht handt ghenese ons <rhyme label="b" type="f">gheele</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Godt sprack (dies ick verblijde <rhyme label="a" type="m" corresp="#s2:l1">fijn</rhyme>)</l>
+        <l id="s2:l4" met="3" type="-+">Ick wil die landen <rhyme label="b" type="f" corresp="#s2:l2">wtdeelen</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Sichem, Suchoth, Gilead <rhyme label="c" type="m">schoon</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Manasse, en Ephraim is mijn <rhyme label="c" type="m" corresp="#s2:l5">Soon</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Juda is mijnen Raet, en <rhyme label="d" type="f">Hooftman</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Mijnen grooten waschketel Moab <rhyme label="a" type="m">is</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">In Edom ick vrij <rhyme label="b" type="f">gane</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Tot my comt Palestina <rhyme label="a" type="m" corresp="#s3:l1">ghewis</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Godt helptz wt den noodt <rhyme label="b" type="f" corresp="#s3:l2">altsamen</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Want smenschen macht is gheel <rhyme label="c" type="m">onnut</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Nu de cracht Godts ons soo <rhyme label="c" type="m" corresp="#s3:l5">beschudt</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Die treedt oock tonder die <rhyme label="d" type="f">vyanden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

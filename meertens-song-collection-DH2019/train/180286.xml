@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>180286</id>
+    <date>
+      <year-start>1783</year-start>
+      <year-end>1783</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Schoone Bruynette uw stuurse <rhyme label="a" type="m">gemoet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Dat doet 'er myn hert, bersten van <rhyme label="b" type="m">smert</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Schoonste <rhyme label="c" type="f">uitgelesen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Die ik zoo lange <rhyme label="d" type="m">tyd</rhyme>:</l>
+        <l id="s1:l5" met="3" type="+-">Om uw zoet <rhyme label="c" type="f" corresp="#s1:l3">wesen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Bemind heb zoete <rhyme label="d" type="m" corresp="#s1:l4">Meid</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Met vlyt <rhyme label="e" type="m">Godin</rhyme>!</l>
+        <l id="s1:l8" met="3" type="+-">Moet ik derve uw <rhyme label="e" type="m" corresp="#s1:l7">min</rhyme>,</l>
+        <l id="s1:l9" met="5" type="+-">Gy doet myn jeugdig jonkhert weerstand <rhyme label="f" type="m">aen</rhyme>,</l>
+        <l id="s1:l10" met="4" type="+-">Dat doet my maken een droevig <rhyme label="f" type="m" corresp="#s1:l9">misbaer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

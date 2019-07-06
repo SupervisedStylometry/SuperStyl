@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34243</id>
+    <date>
+      <year-start>1650</year-start>
+      <year-end>1650</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+    </tags>
+    <melody>Labberdaantje</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Galathea, mijn soete <rhyme label="a" type="f">Goddinne</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">O schoonste Nymphe van dit <rhyme label="b" type="m">wout</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Waerom is ’t dat ghy u <rhyme label="a" type="f" corresp="#s1:l1">weder-minne</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Van my soo langh af-keerigh <rhyme label="b" type="m" corresp="#s1:l2">houdt</rhyme>?</l>
+        <l id="s1:l5" met="4" type="-+">Daer ghy van binnen // uw’ sinnen wel <rhyme label="c" type="m">siet</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Dat u van Phyllis,, noyt gril is <rhyme label="c" type="m" corresp="#s1:l5">geschiedt</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Daer ick van landen // van panden, van <rhyme label="d" type="m">wey</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Ben on-gelijcker // en rijcker dan <rhyme label="d" type="m" corresp="#s1:l7">ghy</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ey! rijcken Phyllis, wat sal hier af <rhyme label="a" type="f">komen</rhyme>?</l>
+        <l id="s2:l2" met="4" type="-+">Houdt vry uw’ Ossen en Schapen op <rhyme label="b" type="m">stal</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Al komt ghy over u kudde te <rhyme label="a" type="f" corresp="#s2:l1">roemen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Daerom ick u niet minnen en <rhyme label="b" type="m" corresp="#s2:l2">sal</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Hierom dan Herder // niet verder en <rhyme label="c" type="m">denckt</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Eer ghy mede // u reden <rhyme label="c" type="m" corresp="#s2:l5">verkrenckt</rhyme>:</l>
+        <l id="s2:l7" met="4" type="-+">Want yeder Maget // bestaget soo <rhyme label="d" type="m">vry</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Yemandt met sinnen // te minnen als <rhyme label="d" type="m" corresp="#s2:l7">dy</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Stadigh ontfangh ick u trotsige <rhyme label="a" type="f">reden</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Wat ick u oyt heb <rhyme label="b" type="m">voor-geleydt</rhyme>?</l>
+        <l id="s3:l3" met="4" type="-+">Gelijck ghy over dry dagen <rhyme label="a" type="f" corresp="#s3:l1">geleden</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Een arrem kusjen my hebt <rhyme label="b" type="m" corresp="#s3:l2">ontseydt</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Als Amarillis, naer Phyllis <rhyme label="c" type="m">vertreck</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Met uwen luste // u kuste uyt <rhyme label="c" type="m" corresp="#s3:l5">geck</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Daer ick gave // als slave mij <rhyme label="d" type="m">handt</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Dat ick mijn leven // sou geven tot <rhyme label="d" type="m" corresp="#s3:l7">pandt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Is dat, ô Phyllis! uw’ eerste <rhyme label="a" type="f">ontmoeten</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Dat ghy my voor belooningh <rhyme label="b" type="m">thoont</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Dat Amarillis my selve quam <rhyme label="a" type="f" corresp="#s4:l1">groeten</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Dan een soentjen my heeft <rhyme label="b" type="m" corresp="#s4:l2">gejont</rhyme>?</l>
+        <l id="s4:l5" met="4" type="-+">Daer ick doch immer // hem nimmer en <rhyme label="c" type="m">sagh</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Hoe soud’ ick konnen // hem jonnen een <rhyme label="c" type="m" corresp="#s4:l5">lach</rhyme>?</l>
+        <l id="s4:l7" met="4" type="-+">Daerom, ô Phyllis,, mijn wil is dat <rhyme label="d" type="m">ghy</rhyme></l>
+        <l id="s4:l8" met="4" type="-+">Laet dees gepeysen // nu reysen op <rhyme label="d" type="m" corresp="#s4:l7">zijd</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Heb ick u Galathea doen <rhyme label="a" type="f">spreken</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">‘k Bidd’ u neemt dat niet qualijck <rhyme label="b" type="m">af</rhyme>.</l>
+        <l id="s5:l3" met="4" type="-+">O neen, ô Phyllis! maer wildy u <rhyme label="a" type="f" corresp="#s5:l1">wreken</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Omhelst my, dat is voor een <rhyme label="b" type="m" corresp="#s5:l2">straf</rhyme>.</l>
+        <l id="s5:l5" met="4" type="-+">O Herderinne // uw’ minne <rhyme label="c" type="m">beleeft</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">Maeckt dat u Strijder // wat blijder nu <rhyme label="c" type="m" corresp="#s5:l5">leeft</rhyme>.</l>
+        <l id="s5:l7" met="4" type="-+">Herder volherdy // soo werdy <rhyme label="d" type="m">bemindt</rhyme>,</l>
+        <l id="s5:l8" met="4" type="-+">Want het verblijden // het strijden <rhyme label="d" type="m" corresp="#s5:l7">verwint</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

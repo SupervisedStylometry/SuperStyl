@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>120373</id>
+    <date>
+      <year-start>1800</year-start>
+      <year-end>1800</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Bei Männer welche Liebe fühlen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wy Mannen die voor liefde <rhyme label="a" type="f">blaaken</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Vind men doorgaans een goedig <rhyme label="b" type="m">hart</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">De Vrouwepligt is steeds te <rhyme label="a" type="f" corresp="#s1:l1">wraaken</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Voor ’t onheil welk de mannen <rhyme label="b" type="m" corresp="#s1:l2">tart</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">De liefde maakt ons wel te <rhyme label="c" type="m">vreên</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Wy leeven door de liefde <rhyme label="c" type="m" corresp="#s1:l5">alleen</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">De min verzagt de grootste <rhyme label="d" type="f">plaagen</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Haar offert ieder <rhyme label="e" type="m">Creatuur</rhyme>,</l>
+        <l id="s1:l9" met="4" type="-+">Zy streelt ons alle onze <rhyme label="d" type="f" corresp="#s1:l7">dagen</rhyme>,</l>
+        <l id="s1:l10" met="4" type="-+">En werkt reeds vroeg in de <rhyme label="e" type="m" corresp="#s1:l8">Natuur</rhyme>,</l>
+        <l id="s1:l11" met="4" type="+-">Dus dat men nooit iets vinden <rhyme label="f" type="m">kan</rhyme>,</l>
+        <l id="s1:l12" met="4" type="-+">Zo aangenaam als Vrouw en <rhyme label="f" type="m" corresp="#s1:l11">Man</rhyme>,</l>
+        <l id="s1:l13" met="4" type="-+">Man en Vrouw en Vrouw en <rhyme label="f" type="m" corresp="#s1:l11">Man</rhyme></l>
+        <l id="s1:l14" met="4" type="-+">Is ’t eêlste dat men vinden <rhyme label="f" type="m" corresp="#s1:l11">kan</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

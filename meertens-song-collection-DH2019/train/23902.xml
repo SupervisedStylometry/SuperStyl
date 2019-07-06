@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>23902</id>
+    <date>
+      <year-start>1678</year-start>
+      <year-end>1678</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="driekoningenlied" translation="Epiphany song">driekoningenlied</tag>
+      <tag standard-name="welkomstlied" translation="welcome song">welkomstlied</tag>
+    </tags>
+    <melody>Na dertien droeve nachten</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">NAer derthien droeven nachten noyt soo blijden <rhyme label="a" type="m">dagh</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Dan alsmen de dry Coninghen te Bethleem <rhyme label="a" type="m" corresp="#s1:l1">sagh'</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Gheleyt van <rhyme label="b" type="m">verr'</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Door eene <rhyme label="b" type="m" corresp="#s1:l3">sterr'</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Tot aenden <rhyme label="c" type="m">stal</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Willecom willecom willecom <rhyme label="c" type="m" corresp="#s1:l5">al</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Willecom willecom in desen <rhyme label="c" type="m" corresp="#s1:l5">stal</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Sy quamen aen met Kemels en met groote <rhyme label="a" type="m">pracht</rhyme>,</l>
+        <l id="s2:l2" met="6" type="-+">De staerre scheen soo wel by daghen als by <rhyme label="a" type="m" corresp="#s2:l1">nacht</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Sy knielen <rhyme label="b" type="m">neer</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">Voor haren <rhyme label="b" type="m" corresp="#s2:l3">Heer</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Den Godt van <rhyme label="c" type="m">al</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Willecom willecom willecom <rhyme label="c" type="m" corresp="#s2:l5">al</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Willecom willecom in desen <rhyme label="c" type="m" corresp="#s2:l5">stal</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">Wat seght ghy nu o Bethleem ondanckbaer <rhyme label="a" type="m">stadt</rhyme>,</l>
+        <l id="s3:l2" met="6" type="-+">Die laestmael voor dit kindeken geen plaets en <rhyme label="a" type="m" corresp="#s3:l1">hadt</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">Als ghy d'eer <rhyme label="b" type="m">siet</rhyme>,</l>
+        <l id="s3:l4" met="2" type="-+">Die hem <rhyme label="b" type="m" corresp="#s3:l3">geschiet</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">In desen <rhyme label="c" type="m">stal</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Willecom willecom willecom <rhyme label="c" type="m" corresp="#s3:l5">al</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Willecom willecom in desen <rhyme label="c" type="m" corresp="#s3:l5">stal</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

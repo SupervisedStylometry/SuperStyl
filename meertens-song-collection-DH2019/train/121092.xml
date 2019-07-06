@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>121092</id>
+    <date>
+      <year-start>1725</year-start>
+      <year-end>1725</year-end>
+    </date>
+    <tags>
+      <tag standard-name="mythologisch lied" translation="mythological song">mythologisch lied</tag>
+    </tags>
+    <melody>Courante simple</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">De Min vermeten op zyn <rhyme label="a" type="m">kragt</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Braveerden laastmaal al de Goon haar <rhyme label="a" type="m" corresp="#s1:l1">magt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">By llagje met het <rhyme label="b" type="m">Blixem-vier</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">En Mars zyn dolheyt agt hy niry een <rhyme label="b" type="m" corresp="#s1:l3">zier</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hy zwetste van zyn glory <rhyme label="a" type="m">op</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Hy haalde zyn triumph zo hoog in <rhyme label="a" type="m" corresp="#s2:l1">top</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Dat zy uyt spijt de kleene <rhyme label="b" type="m">guyt</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">En jonge dreven tot haar Hemel <rhyme label="b" type="m" corresp="#s2:l3">uyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Gebannen vloog hy na de <rhyme label="a" type="m">aart</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">En toornig zag hy dikwils <rhyme label="a" type="m" corresp="#s3:l1">hemelwaart</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Hy zwoer hier wraak te nemen <rhyme label="b" type="m">af</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Waar op hy vaardig zig vol moet <rhyme label="b" type="m" corresp="#s3:l3">begaf</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Veragtende zyn pyl en <rhyme label="a" type="m">boog</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">In Cloris over al verwinnend <rhyme label="a" type="m" corresp="#s4:l1">oog</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Wagtig genoeg om daar van <rhyme label="b" type="m">daan</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">De Goden self te doen den Oorlog <rhyme label="b" type="m" corresp="#s4:l3">aan</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Maar also haast het toornig <rhyme label="a" type="m">wigt</rhyme>,</l>
+        <l id="s5:l2" met="5" type="-+">Gelegert was in Cloris soet <rhyme label="a" type="m" corresp="#s5:l1">gezigt</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Zo dagt het noyt meer aan de <rhyme label="b" type="m">Goon</rhyme>,</l>
+        <l id="s5:l4" met="5" type="-+">Nog aan den Hemel nog gelede <rhyme label="b" type="m" corresp="#s5:l3">hoon</rhyme>,</l>
+      </lg>
+    </lg>
+  </text>
+</song>

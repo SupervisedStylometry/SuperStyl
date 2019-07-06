@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111417</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Dat een wijs man soldaat kan wezen</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">TErwyl de Jeugd in onse <rhyme label="a" type="f">dagen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">De Min ontsteekt en geeft haar <rhyme label="b" type="m">bot</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Kom laat ons dan het zoet <rhyme label="b" type="m" corresp="#s1:l2">genot</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Dat het geval u met <rhyme label="a" type="f" corresp="#s1:l1">behagen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Ons aanbied, smaken, dat geen <rhyme label="c" type="m">dag</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Dit ongeproeft voorby gaan <rhyme label="c" type="m" corresp="#s1:l5">mag</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Het zoet getytje van het <rhyme label="a" type="f">leven</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Nood ons, dat wy't geluk dog <rhyme label="b" type="m">niet</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Nu dat het sig zoo schoon <rhyme label="b" type="m" corresp="#s2:l2">aanbied</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Ontslippen laten, maar <rhyme label="a" type="f" corresp="#s2:l1">begeven</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Ons te genieten, yder <rhyme label="c" type="m">dag</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">De vreugd die ons gebeuren <rhyme label="c" type="m" corresp="#s2:l5">mag</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Laat ons hem die door vieze <rhyme label="a" type="f">grepen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Voor deze lusten is <rhyme label="b" type="m">verdooft</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">En steeds van alle vreugd <rhyme label="b" type="m" corresp="#s3:l2">berooft</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Van Nyd en Wangunst werd <rhyme label="a" type="f" corresp="#s3:l1">genepen</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Niet vollegen maar yder <rhyme label="c" type="m">dag</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Hier in besteen, terwyl men  <rhyme label="c" type="m" corresp="#s3:l5">mag</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

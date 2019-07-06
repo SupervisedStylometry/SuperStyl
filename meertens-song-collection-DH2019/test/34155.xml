@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34155</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Die van ons <rhyme label="a" type="f">vrinden</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Van Bacchus Broeders <rhyme label="b" type="m">zyt</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">'kBid u laet u <rhyme label="a" type="f" corresp="#s1:l1">vinden</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Komt met Bacchus ten <rhyme label="b" type="m" corresp="#s1:l2">stryt</rhyme></l>
+        <l id="s1:l5" met="3" type="+-">Om Cupido <rhyme label="c" type="m">gaen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Uyt het Velt te <rhyme label="c" type="m" corresp="#s1:l5">slaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Wat sal dit <rhyme label="a" type="f">wichtken</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Met boogh en pyltjes <rhyme label="b" type="m">doen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">Hy sal moeten <rhyme label="a" type="f" corresp="#s2:l1">swichten</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Soo haest hem Bacchus <rhyme label="b" type="m" corresp="#s2:l2">Koen</rhyme>,</l>
+        <l id="s2:l5" met="3" type="+-">Met een Fles vol <rhyme label="c" type="m">sop</rhyme>,</l>
+        <l id="s2:l6" met="3" type="+-">Treffen sal den <rhyme label="c" type="m" corresp="#s2:l5">kop</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Dat al de <rhyme label="a" type="f">Minnaers</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Vry ruymen uyt het <rhyme label="b" type="m">Velt</rhyme>,</l>
+        <l id="s3:l3" met="3" type="+-">Wy sullen <rhyme label="a" type="f" corresp="#s3:l1">verwinnaers</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Toch wesen met <rhyme label="b" type="m" corresp="#s3:l2">gewelt</rhyme>,</l>
+        <l id="s3:l5" met="3" type="+-">Want ons wapens <rhyme label="c" type="m">zyn</rhyme>,</l>
+        <l id="s3:l6" met="3" type="+-">Volle Flessen <rhyme label="c" type="m" corresp="#s3:l5">wyn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">Bacchus <rhyme label="a" type="f">pistolen</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Zyn van Venets <rhyme label="b" type="m">ghelas</rhyme>,</l>
+        <l id="s4:l3" met="3" type="+-">Gevult met Rensche <rhyme label="a" type="f" corresp="#s4:l1">olie</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Oft soeten <rhyme label="b" type="m" corresp="#s4:l2">Hypocras</rhyme>,</l>
+        <l id="s4:l5" met="3" type="+-">Treft u menigh <rhyme label="c" type="m">scheut</rhyme>,</l>
+        <l id="s4:l6" met="3" type="+-">'tEn maeckt u maer <rhyme label="c" type="m" corresp="#s4:l5">teut</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="2" type="-+">'tGeschut op <rhyme label="a" type="f">Raders</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Gevoert wort 'tsynen <rhyme label="b" type="m">kost</rhyme></l>
+        <l id="s5:l3" met="3" type="+-">'tWelck oock onse <rhyme label="a" type="f" corresp="#s5:l1">vaders</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Heel kloeck hebben <rhyme label="b" type="m" corresp="#s5:l2">geloft</rhyme></l>
+        <l id="s5:l5" met="3" type="+-">'tIs een dobbel <rhyme label="c" type="m">vat</rhyme>,</l>
+        <l id="s5:l6" met="3" type="+-">Vol van't Reynsche <rhyme label="c" type="m" corresp="#s5:l5">nat</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="2" type="-+">'tIs vreucht om <rhyme label="a" type="f">stryden</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Met desen goeden <rhyme label="b" type="m">Godt</rhyme>,</l>
+        <l id="s6:l3" met="3" type="+-">Niemant hem <rhyme label="a" type="f" corresp="#s6:l1">gheleyden</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">Magh sonder vollen <rhyme label="b" type="m" corresp="#s6:l2">pot</rhyme>,</l>
+        <l id="s6:l5" met="3" type="+-">Die best drincken <rhyme label="c" type="m">kan</rhyme>,</l>
+        <l id="s6:l6" met="3" type="+-">Is den vroomsten <rhyme label="c" type="m" corresp="#s6:l5">man</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

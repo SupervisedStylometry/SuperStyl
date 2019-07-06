@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182683</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Faut attendre avec patience</melody>
+  <author>Hendrik Riemsnijder</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Lief Beekje, die, zagt <rhyme label="a" type="f">voortgedreeven</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Voorby my stroomt! hoe minne ik <rhyme label="b" type="m">u</rhyme>!</l>
+        <l id="s1:l3" met="4" type="-+">Mogt toch altoos myn gantsche <rhyme label="a" type="f" corresp="#s1:l1">leven</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Aan u gelyk zyn, zoo als <rhyme label="b" type="m" corresp="#s1:l2">nu</rhyme>!</l>
+        <l id="s1:l5" met="4" type="-+">Schoon gy geen goudzand op doet <rhyme label="c" type="f">wellen</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Noch parel op uw' bodem <rhyme label="d" type="m">groeit</rhyme>:</l>
+        <l id="s1:l7" met="4" type="-+">Van ryker zegen ziet m' u <rhyme label="c" type="f" corresp="#s1:l5">zwellen</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Daar ge akker, woud en beemd <rhyme label="d" type="m" corresp="#s1:l6">besproeit</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Moet ge eens langs bogtige oevers <rhyme label="a" type="f">stroomen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Dan baant gy, kronk'lend, u een <rhyme label="b" type="m">spoor</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">En schoon gy spoelt langs dorre <rhyme label="a" type="f" corresp="#s2:l1">zoomen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Komt hier en daar een bloempje u <rhyme label="b" type="m" corresp="#s2:l2">voor</rhyme>!</l>
+        <l id="s2:l5" met="4" type="-+">Uw' golfjes kabb'len <rhyme label="c" type="f">ongedwongen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Onstuimig nooit, altoos <rhyme label="d" type="m">gedwee</rhyme>;</l>
+        <l id="s2:l7" met="4" type="-+">Zoo klaar als ze uit de bron <rhyme label="c" type="f" corresp="#s2:l5">ontsprongen</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Zoo zuiver vloeyen ze ook in <rhyme label="d" type="m" corresp="#s2:l6">zee</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

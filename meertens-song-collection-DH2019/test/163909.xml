@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>163909</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
+    </tags>
+    <melody>Mars van Oxenstern</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="1" type="-+">Weg <rhyme label="a" type="m">Min</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Wiens laffe drift wel eer mijn <rhyme label="b" type="m">ziel</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Soo slaafs gevangen <rhyme label="b" type="m" corresp="#s1:l2">hiel</rhyme>!</l>
+        <l id="s1:l4" met="2" type="-+">Want uwe <rhyme label="c" type="m">kragt</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">- Die yder <rhyme label="c" type="m" corresp="#s1:l4">agt</rhyme> -</l>
+        <l id="s1:l6" met="3" type="+-">Heeft op my geen meer <rhyme label="c" type="m" corresp="#s1:l4">magt</rhyme>.</l>
+        <l id="s1:l7" met="3" type="-+">Ik leef nu buyten <rhyme label="d" type="m">pijn</rhyme>:</l>
+        <l id="s1:l8" met="3" type="-+">Uw streelend ziels <rhyme label="d" type="m" corresp="#s1:l7">fenijn</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">Kan mijn vermaak niet <rhyme label="d" type="m" corresp="#s1:l7">zyn</rhyme>.</l>
+        <l id="s1:l10" met="3" type="-+">Ik lag met uw <rhyme label="e" type="m">gevly</rhyme></l>
+        <l id="s1:l11" met="3" type="+-">En agt voor <rhyme label="e" type="m" corresp="#s1:l10">sotterny</rhyme></l>
+        <l id="s1:l12" met="3" type="-+">De kragt van uwe <rhyme label="f" type="m">gloed</rhyme>,</l>
+        <l id="s1:l13" met="3" type="-+">Die 't ligt verhitte <rhyme label="f" type="m" corresp="#s1:l12">bloed</rhyme></l>
+        <l id="s1:l14" met="4" type="-+">Met soo veel dulle vlammen <rhyme label="f" type="m" corresp="#s1:l12">voed</rhyme>.</l>
+        <l id="s1:l15" met="3" type="-+">'k Lag met Kupidoos <rhyme label="g" type="m">schigt</rhyme></l>
+        <l id="s1:l16" met="3" type="-+">Daar elk soo laf voor <rhyme label="g" type="m" corresp="#s1:l15">swigt</rhyme></l>
+        <l id="s1:l17" met="3" type="-+">En met het schoon <rhyme label="g" type="m" corresp="#s1:l15">gezigt</rhyme></l>
+        <l id="s1:l18" met="3" type="-+">Daar hy sijn throon in <rhyme label="g" type="m" corresp="#s1:l15">stigt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

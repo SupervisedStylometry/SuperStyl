@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188472</id>
+    <date>
+      <year-start>1751</year-start>
+      <year-end>1752</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Antoine Mahaut, Kornelis Elzevier</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Waer dwalen toch uw <rhyme label="a" type="f">schapen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">O schoone <rhyme label="b" type="m">Herderin</rhyme>?</l>
+        <l id="s1:l3" met="3" type="-+">Gebied slechts myne <rhyme label="a" type="f" corresp="#s1:l1">knapen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Volmaekte die ik <rhyme label="b" type="m" corresp="#s1:l2">Min</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">k Heb u een krans doen <rhyme label="c" type="f">vlechten</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Van Roos en <rhyme label="d" type="m">Eglantier</rhyme>.</l>
+        <l id="s1:l7" met="3" type="-+">Dat 'k op uw hoofd zal <rhyme label="c" type="f" corresp="#s1:l5">hechten</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Ontvangt het <rhyme label="d" type="m" corresp="#s1:l6">Dianier</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Wil u hier neder <rhyme label="a" type="f">zetten</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">In 't malsche <rhyme label="b" type="m">Klavergroen</rhyme>.</l>
+        <l id="s2:l3" met="3" type="-+">De Zon zal u niet <rhyme label="a" type="f" corresp="#s2:l1">letten</rhyme>;</l>
+        <l id="s2:l4" met="3" type="-+">Uw schoon geen hinder <rhyme label="b" type="m" corresp="#s2:l2">doen</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">Hier dekken ons de <rhyme label="c" type="f">Linden</rhyme>;</l>
+        <l id="s2:l6" met="3" type="-+">'k Zal zeggen dat ge in 't <rhyme label="d" type="m">rondt</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Nooit trouwer Knaep zult <rhyme label="c" type="f" corresp="#s2:l5">vinden</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Dan, dien ge uw byzyn <rhyme label="d" type="m" corresp="#s2:l6">gondt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

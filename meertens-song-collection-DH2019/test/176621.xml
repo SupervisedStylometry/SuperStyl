@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176621</id>
+    <date>
+      <year-start>1697</year-start>
+      <year-end>1697</year-end>
+    </date>
+    <location>
+      <orginal-name>monnikendam</orginal-name>
+      <standard-name>Monnickendam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.4570766</lon>
+        <lat>5.0373214</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Courante simple</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Myn Fileda vermoey van <rhyme label="a" type="f">klagen</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">Heeft van dese <rhyme label="b" type="m">Nacht</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">Door soete <rhyme label="a" type="f" corresp="#s1:l1">vlagen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Al mijn druck <rhyme label="b" type="m" corresp="#s1:l2">versacht</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">Ha nacht vol kusjes, lagjes en <rhyme label="c" type="f">gebeden</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Bleef ik in dat holtje <rhyme label="d" type="m">doot</rhyme></l>
+        <l id="s1:l7" met="5" type="-+">Het Was een eynd omset met <rhyme label="c" type="f" corresp="#s1:l5">vrolijckheden</rhyme></l>
+        <l id="s1:l8" met="5" type="-+">Ick moet doch sterven in Vrouw Venus <rhyme label="d" type="m" corresp="#s1:l6">schoot</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

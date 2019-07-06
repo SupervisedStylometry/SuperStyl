@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13125</id>
+    <date>
+      <year-start>1644</year-start>
+      <year-end>1644</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Beata immaculata</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Christianus Vermeulen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="+-">BEata immaculata virgo <rhyme label="a" type="m">puerpera</rhyme>:</l>
+        <l id="s1:l2" met="6" type="-+">Quam pura sunt creatura, tam digna <rhyme label="a" type="m" corresp="#s1:l1">viscera</rhyme></l>
+        <l id="s1:l3" met="8" type="-+">Concipere, induere lucem paternae <rhyme label="b" type="m">gloriae</rhyme>.</l>
+        <l id="s1:l4" met="8" type="-+">Concipere, induere lucem paternae <rhyme label="b" type="m" corresp="#s1:l3">gloriae</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="+-">O matrem, quae tuum patrem fundis in <rhyme label="a" type="m">aethera</rhyme>!</l>
+        <l id="s2:l2" met="6" type="-+">O florem, quae caeli rotem trahis ad <rhyme label="a" type="m" corresp="#s2:l1">ubera</rhyme>!</l>
+        <l id="s2:l3" met="8" type="-+">Lactas Deum, infantulum, caeli retraque <rhyme label="b" type="m">Dominum</rhyme>.</l>
+        <l id="s2:l4" met="8" type="-+">Lactas Deum, infantulum, caeli retraque <rhyme label="b" type="m" corresp="#s2:l3">Dominum</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="+-">O nate pro nobis date noster <rhyme label="a" type="m">Emmanuel</rhyme></l>
+        <l id="s3:l2" met="6" type="-+">De fruge Mariae suge butyrum lac &amp; <rhyme label="a" type="m" corresp="#s3:l1">mel</rhyme>;</l>
+        <l id="s3:l3" met="8" type="-+">Sunt dulcia, sunt lactea, sunt Pura matris <rhyme label="b" type="m">ubera</rhyme>.</l>
+        <l id="s3:l4" met="8" type="-+">Sunt dulcia, sunt lactea, sunt Pura matris <rhyme label="b" type="m" corresp="#s3:l3">ubera</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="+-">Primaeva seduxit Eva, Dux <rhyme label="a" type="m">morientium</rhyme>:</l>
+        <l id="s4:l2" met="6" type="-+">Tu plena salutis vena, ater <rhyme label="a" type="m" corresp="#s4:l1">viventium</rhyme>:</l>
+        <l id="s4:l3" met="8" type="-+">Tu reseras; tu revocas ad Paradisi <rhyme label="b" type="m">januas</rhyme>.</l>
+        <l id="s4:l4" met="8" type="-+">Tu reseras; tu revocas ad Paradisi <rhyme label="b" type="m" corresp="#s4:l3">januas</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="6" type="+-">Nos dentis mali serpentis morsus <rhyme label="a" type="m">invaserat</rhyme>;</l>
+        <l id="s5:l2" met="6" type="-+">Divina sed medicina venena <rhyme label="a" type="m" corresp="#s5:l1">dissipat</rhyme>:</l>
+        <l id="s5:l3" met="8" type="-+">Tu medicum das puerum, cujus est nomen <rhyme label="b" type="m">oleum</rhyme>.</l>
+        <l id="s5:l4" met="8" type="-+">Tu medicum das puerum, cujus est nomen <rhyme label="b" type="m" corresp="#s5:l3">oleum</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="6" type="+-">Laudemus &amp; invocemus fortem <rhyme label="a" type="m">mulierem</rhyme>,</l>
+        <l id="s6:l2" met="6" type="-+">Mariam dulcem &amp; piam, quae vicit <rhyme label="a" type="m" corresp="#s6:l1">daemonem</rhyme>;</l>
+        <l id="s6:l3" met="8" type="-+">Hanc cordibus, hanc vocibus, hanc veneremur <rhyme label="b" type="m">moribus</rhyme>.</l>
+        <l id="s6:l4" met="8" type="-+">Hanc cordibus, hanc vocibus, hanc veneremur <rhyme label="b" type="m" corresp="#s6:l3">moribus</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="6" type="+-">Sic bona nobis patrona in ista <rhyme label="a" type="m">Bethlehem</rhyme>,</l>
+        <l id="s7:l2" met="6" type="-+">Regina, ô Heroina, novae <rhyme label="a" type="m" corresp="#s7:l1">Ierusalem</rhyme>:</l>
+        <l id="s7:l3" met="8" type="-+">Te Cherubim, te Seraphim laudent Maria <rhyme label="b" type="m">perpetint</rhyme>.</l>
+        <l id="s7:l4" met="8" type="-+">Te Cherubim, te Seraphim laudent Maria <rhyme label="b" type="m" corresp="#s7:l3">perpetint</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

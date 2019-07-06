@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20815</id>
+    <date>
+      <year-start>1664</year-start>
+      <year-end>1664</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+    </tags>
+    <melody>O zalig heilig Bethlehem</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Willem de Swaen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">LAet ons met Beth-le-mijtsche <rhyme label="a" type="m">toon</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Den Leeraer Sint Hieroen gaen <rhyme label="b" type="f">loven</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Die langh verkregen heeft sijn <rhyme label="a" type="m" corresp="#s1:l1">kroon</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">In 't schoone He-mel-rijck hier <rhyme label="b" type="f" corresp="#s1:l2">boven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Want desen heeft het <rhyme label="a" type="m">Bethlehem</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Bewoont, en waerdiger <rhyme label="b" type="f">gehouden</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Dan d' hoochste Stad <rhyme label="a" type="m" corresp="#s2:l1">Jerusalem</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Daer David sich heeft <rhyme label="b" type="f" corresp="#s2:l2">onderhouden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Dees man, 't zy dat Hy at, of <rhyme label="a" type="m">dronck</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">'t Zy dat Hy stondt, of was <rhyme label="b" type="f">geseten</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Hy sey dat in sijn ooren <rhyme label="a" type="m" corresp="#s3:l1">klonck</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Een stem, die noyt Hy kon <rhyme label="b" type="f" corresp="#s3:l2">vergeten</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Hy seyde, dat Hy dit <rhyme label="a" type="m">geluyt</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Staeghs hoorden: Wilt ten oordeel <rhyme label="b" type="f">komen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">,, Komt dooden, komt de graven <rhyme label="a" type="m" corresp="#s4:l1">uyt</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Dees stemme heeft Hy staechs <rhyme label="b" type="f" corresp="#s4:l2">vernomen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Sijn bedd' was d' aerd, waer op Hy <rhyme label="a" type="m">sliep</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Als Hy tot slaep sich heeft <rhyme label="b" type="f">begeven</rhyme>.</l>
+        <l id="s5:l3" met="4" type="-+">In all' sijn strijdt Hy Jesum <rhyme label="a" type="m" corresp="#s5:l1">riep</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Tot Jesum wierdt sijn hart <rhyme label="b" type="f" corresp="#s5:l2">gedreven</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Met eenen steen sloegh Hy sijn <rhyme label="a" type="m">borst</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Om te voldoen voor sijne <rhyme label="b" type="f">sonden</rhyme>.</l>
+        <l id="s6:l3" met="4" type="-+">Sijn saligheyd was sijne <rhyme label="a" type="m" corresp="#s6:l1">dorst</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Hy socht genesingh voor sijn <rhyme label="b" type="f" corresp="#s6:l2">wonden</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Hieroen heeft Paulam vroom <rhyme label="a" type="m">geleert</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">En haere Dochter <rhyme label="b" type="f">onderwesen</rhyme>:</l>
+        <l id="s7:l3" met="4" type="-+">Hy wiert als Vader seer <rhyme label="a" type="m" corresp="#s7:l1">ge-eert</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Haer wonden zijn door Hem <rhyme label="b" type="f" corresp="#s7:l2">genesen</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">De Ketters haten Hy <rhyme label="a" type="m">altijd</rhyme>,</l>
+        <l id="s8:l2" met="4" type="-+">G'lijck als getuygen sijne <rhyme label="b" type="f">Boecken</rhyme>,</l>
+        <l id="s8:l3" met="4" type="-+">Sy waren voor Hem seer <rhyme label="a" type="m" corresp="#s8:l1">vermijdt</rhyme>,</l>
+        <l id="s8:l4" met="4" type="-+">Sy dorsten Hem niet gaen <rhyme label="b" type="f" corresp="#s8:l2">besoecken</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">G'lijck van de Sonn' de schaduw' <rhyme label="a" type="m">vlijdt</rhyme>,</l>
+        <l id="s9:l2" met="4" type="-+">Soo gingen Ketters van Hem <rhyme label="b" type="f">vluchten</rhyme>.</l>
+        <l id="s9:l3" met="4" type="-+">Hy heeft, Hy heeft haer <rhyme label="a" type="m" corresp="#s9:l1">uytgewijdt</rhyme></l>
+        <l id="s9:l4" met="4" type="-+">Als onkruyd, en als quade <rhyme label="b" type="f" corresp="#s9:l2">vruchten</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Ten laetsten heeft 't gelieft den <rhyme label="a" type="m">Heer</rhyme></l>
+        <l id="s10:l2" met="4" type="-+">Uyt dese werelt Hem te <rhyme label="b" type="f">halen</rhyme>;</l>
+        <l id="s10:l3" met="4" type="-+">Hy reysden met een groot <rhyme label="a" type="m" corresp="#s10:l1">begeer</rhyme></l>
+        <l id="s10:l4" met="4" type="-+">Van d' aerde na des Hemels <rhyme label="b" type="f" corresp="#s10:l2">palen</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="-+">Hy de'e vermaningh tot de <rhyme label="a" type="m">deughd</rhyme></l>
+        <l id="s11:l2" met="4" type="-+">Aen die in 't sterven by Hem <rhyme label="b" type="f">waren</rhyme>.</l>
+        <l id="s11:l3" met="4" type="-+">Toen reysden Hy na 's Hemels <rhyme label="a" type="m" corresp="#s11:l1">vreughd</rhyme>,</l>
+        <l id="s11:l4" met="4" type="-+">Waer all' de vrienden Goods <rhyme label="b" type="f" corresp="#s11:l2">vergaren</rhyme>.</l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="4" type="-+">Hieronyme! Goods lieve <rhyme label="a" type="m">vrind</rhyme>,</l>
+        <l id="s12:l2" met="4" type="-+">Die in dees werelt bitter <rhyme label="b" type="f">schreyden</rhyme>,</l>
+        <l id="s12:l3" met="4" type="-+">Wilt mijne oogen (die zijn <rhyme label="a" type="m" corresp="#s12:l1">blind</rhyme>)</l>
+        <l id="s12:l4" met="4" type="-+">Door u gebed het Licht <rhyme label="b" type="f" corresp="#s12:l2">bereyden</rhyme>.</l>
+      </lg>
+      <lg id="s13" type="stanza">
+        <l id="s13:l1" met="4" type="-+">Bereydt, bereydt my 't eeuwigh <rhyme label="a" type="m">Licht</rhyme>:</l>
+        <l id="s13:l2" met="4" type="-+">Maeckt dat ick 't eeuwich Licht <rhyme label="b" type="f">aenschouwe</rhyme>:</l>
+        <l id="s13:l3" met="4" type="-+">Dat Licht, aen 't welck ick ben <rhyme label="a" type="m" corresp="#s13:l1">verplicht</rhyme>,</l>
+        <l id="s13:l4" met="4" type="-+">Door 't welcken ick moet zijn <rhyme label="b" type="f" corresp="#s13:l2">behouwen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32494</id>
+    <date>
+      <year-start>1667</year-start>
+      <year-end>1667</year-end>
+    </date>
+    <location>
+      <orginal-name>mechelen</orginal-name>
+      <standard-name>Mechelen, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0281381</lon>
+        <lat>4.4803453</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Eerste musketier</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WAt lijden, en wat groot <rhyme label="a" type="m">verdriet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En baert de Minne-plicht my <rhyme label="a" type="m" corresp="#s1:l1">niet</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Om een die k'had <rhyme label="b" type="f">verkoren</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Helaci? die voor my soo <rhyme label="a" type="m" corresp="#s1:l1">vliet</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Als 't hinde dat de honden <rhyme label="a" type="m" corresp="#s1:l1">siet</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Die my had trouw <rhyme label="b" type="f" corresp="#s1:l3">gesworen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Mijne ziel langh blijft <rhyme label="a" type="m">gewont</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Als sy met lagghen my wel <rhyme label="a" type="m" corresp="#s2:l1">jont</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">En haer geniet langh <rhyme label="b" type="f">derven</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Ick haer Robynen Rooden <rhyme label="a" type="m" corresp="#s2:l1">Mont</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Met haer witte borstjens <rhyme label="a" type="m" corresp="#s2:l1">ront</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Soo moet ick droevigh <rhyme label="b" type="f" corresp="#s2:l3">sterven</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Orloff mijn soete <rhyme label="a" type="m">Engelin</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Die k'acht meer als Diaen <rhyme label="a" type="m" corresp="#s3:l1">Goddin</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Blijft toch mijn <rhyme label="b" type="f">Troostersse</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">En verandert uwen <rhyme label="a" type="m" corresp="#s3:l1">sin</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Gedenckt eens ons voor-lede <rhyme label="a" type="m" corresp="#s3:l1">MIN</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Want gy syt mijn <rhyme label="b" type="f" corresp="#s3:l3">Vooghdersse</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

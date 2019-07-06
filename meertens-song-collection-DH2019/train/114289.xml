@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>114289</id>
+    <date>
+      <year-start>1745</year-start>
+      <year-end>1745</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Menuet van Geminiani</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">KOm myn Dianier, myn <rhyme label="a" type="f">waerde</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Kom ey kom myn tweede <rhyme label="b" type="m">Ziel</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Gy strekt me een Godin op <rhyme label="a" type="f" corresp="#s1:l1">Aerde</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Als ik voor u <rhyme label="b" type="m" corresp="#s1:l2">nederkniel</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Ziet gy dan <rhyme label="c" type="m">niet</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Hoe door 't verdriet, myn jeugt <rhyme label="d" type="m">verdwynt</rhyme>,</l>
+        <l id="s1:l7" met="6" type="-+">Als 't ligt van uw schoon oogen my niet en <rhyme label="d" type="m" corresp="#s1:l6">beschynd</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Gun dat ik u aen mag <rhyme label="a" type="f">spreken</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Met een Minnelyke <rhyme label="b" type="m">tael</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Myn hert schynd van Min te <rhyme label="a" type="f" corresp="#s2:l1">breken</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Neem Leander tot <rhyme label="b" type="m" corresp="#s2:l2">gemael</rhyme>:</l>
+        <l id="s2:l5" met="2" type="-+">'k Geef u myn <rhyme label="c" type="m">hand</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Tot onderpandt van myne <rhyme label="d" type="m">trouw</rhyme>,</l>
+        <l id="s2:l7" met="6" type="-+">Laet ik u eens bepraeten, en word dog myn <rhyme label="d" type="m" corresp="#s2:l6">Vrouw</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Kom laet ons te zaem <rhyme label="a" type="f">verbinden</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">En voor Hymens Altaer <rhyme label="b" type="m">treen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">En daer nae myn ziel <rhyme label="a" type="f" corresp="#s3:l1">beminden</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Zmelten Ziel en Zin in <rhyme label="b" type="m" corresp="#s3:l2">een</rhyme>:</l>
+        <l id="s3:l5" met="2" type="-+">'k Wed dat gy <rhyme label="c" type="m">zegt</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Als gy den Echt eens hebt <rhyme label="d" type="m">beproeft</rhyme>,</l>
+        <l id="s3:l7" met="6" type="-+">Dat gy geen meerder vreugde op aerde <rhyme label="d" type="m" corresp="#s3:l6">behoeft</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22273</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Gelobt seist du Jesu Christ</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HEer mijn hert niet hoouaerdich en <rhyme label="a" type="m">is</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Mijn ooghen, en syn niet stout <rhyme label="a" type="m" corresp="#s1:l1">gewis</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">In te groote dinghen ick niet <rhyme label="b" type="m">wandle</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Die  my te hooch syn, om te handlen. <rhyme label="c" type="m">Alleluya</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">En ick niet en stilde de Siele <rhyme label="a" type="m">mijn</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">So werdt sy ghespeendt, wel also <rhyme label="a" type="m" corresp="#s2:l1">fijn</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Ghelijck eenen die fraey wordt <rhyme label="b" type="m">ghespeendt</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Van syne lieue Moedere gheendt. <rhyme label="c" type="m">Alleluya</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Inden Heeren hope <rhyme label="a" type="m">Israel</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">En betroudt hem, lijf en Siele <rhyme label="a" type="m" corresp="#s3:l1">wel</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Want by hem is schoon de hulpe <rhyme label="b" type="m">bereydt</rhyme>,</l>
+        <l id="s3:l4" met="6" type="-+">Van nu aff, tot inder eewicheyt. <rhyme label="c" type="m">Alleluya</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

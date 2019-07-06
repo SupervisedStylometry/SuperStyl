@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>159094</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Gezwinde bode van de min</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Kloris, die alleen 't <rhyme label="a" type="m">vermaak</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Van myn   zinnen <rhyme label="b" type="m">zijt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Wist gy eens hoe fel ik <rhyme label="a" type="m" corresp="#s1:l1">blaak</rhyme></l>
+        <l id="s1:l4" met="3" type="+-">Vol <rhyme label="b" type="m" corresp="#s1:l2">standvastigheid</rhyme>;</l>
+        <l id="s1:l5" met="2" type="+-">Hoe ik <rhyme label="c" type="m">kwijn</rhyme></l>
+        <l id="s1:l6" met="2" type="+-">En vol <rhyme label="c" type="m" corresp="#s1:l5">pijn</rhyme></l>
+        <l id="s1:l7" met="2" type="+-">Uw <rhyme label="d" type="m">genot</rhyme></l>
+        <l id="s1:l8" met="2" type="+-">Tot mijn <rhyme label="d" type="m" corresp="#s1:l7">lot</rhyme></l>
+        <l id="s1:l9" met="1" type="-+"><rhyme label="e" type="m">Begeer</rhyme>:</l>
+        <l id="s1:l10" met="4" type="-+">Voorwaar uw hert en sou niet <rhyme label="e" type="m" corresp="#s1:l9">meer</rhyme></l>
+        <l id="s1:l11" met="3" type="+-">Twyffelen <rhyme label="f" type="m">voortaan</rhyme>,</l>
+        <l id="s1:l12" met="3" type="+-">Nog door losse   <rhyme label="f" type="m" corresp="#s1:l11">waan</rhyme></l>
+        <l id="s1:l13" met="3" type="+-">Vresen voor mijn <rhyme label="g" type="m">trouw</rhyme></l>
+        <l id="s1:l14" met="4" type="+-">Die ik ongeschonden <rhyme label="g" type="m" corresp="#s1:l13">houw</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Mijn min veragt al het <rhyme label="a" type="m">gevaar</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Dat haar oit <rhyme label="b" type="m">belaagdt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Geen felle rampen, self hoe <rhyme label="a" type="m" corresp="#s2:l1">swaar</rhyme>,</l>
+        <l id="s2:l4" met="3" type="+-">Daar sy door <rhyme label="b" type="m" corresp="#s2:l2">versaagd</rhyme>;</l>
+        <l id="s2:l5" met="2" type="+-">Sy <rhyme label="c" type="m">veragt</rhyme></l>
+        <l id="s2:l6" met="2" type="+-">En <rhyme label="c" type="m" corresp="#s2:l5">belagt</rhyme></l>
+        <l id="s2:l7" met="2" type="+-">Het <rhyme label="d" type="m">verwyt</rhyme></l>
+        <l id="s2:l8" met="2" type="+-">Dat de <rhyme label="d" type="m" corresp="#s2:l7">Nijd</rhyme></l>
+        <l id="s2:l9" met="1" type="-+">Haar <rhyme label="e" type="m">doet</rhyme>.</l>
+        <l id="s2:l10" met="4" type="-+">De dwang bevryt vergeefs haar <rhyme label="e" type="m" corresp="#s2:l9">gloet</rhyme>:</l>
+        <l id="s2:l11" met="3" type="+-">Laat van vreesen <rhyme label="f" type="m">af</rhyme>,</l>
+        <l id="s2:l12" met="3" type="+-">Want geen dwang, hoe <rhyme label="f" type="m" corresp="#s2:l11">straf</rhyme>,</l>
+        <l id="s2:l13" met="3" type="+-">Nog geen bitse <rhyme label="g" type="m">nyd</rhyme></l>
+        <l id="s2:l14" met="4" type="+-">Keerd oit haar <rhyme label="g" type="m" corresp="#s2:l13">stantvastigheid</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

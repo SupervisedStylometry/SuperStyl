@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13857</id>
+    <date>
+      <year-start>1646</year-start>
+      <year-end>1646</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Psalm 116 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">HOe slaeft den mensch in onrust alle <rhyme label="a" type="m">daegh</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Sijn leven is als d’ alderwoeste <rhyme label="b" type="f">baren</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Die tot de locht, en weer in d’afgront <rhyme label="b" type="f" corresp="#s1:l2">varen</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Gelijckmen siet door een verwarde <rhyme label="a" type="m" corresp="#s1:l1">vlaegh</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">O arme dwaes! O romp van enckel <rhyme label="a" type="m">slijck</rhyme>!</l>
+        <l id="s2:l2" met="5" type="-+">O wormenspijs! die d’Aerd’ is <rhyme label="b" type="f">toegewesen</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Komt uyt den slaep der sonden eens <rhyme label="b" type="f" corresp="#s2:l2">geresen</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">En heft u Ziel om hoogh na ‘t <rhyme label="a" type="m" corresp="#s2:l1">Hemelrijck</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Daer onsen Godt met alle goetheyt <rhyme label="a" type="m">woont</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">En geeft sijn Rijck aen die hen maer en <rhyme label="b" type="f">keeren</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">Tot waer berouw, en naer de rechte <rhyme label="b" type="f" corresp="#s3:l2">Leere</rhyme>:</l>
+        <l id="s3:l4" met="5" type="-+">Die wert hier na met groote vreugt <rhyme label="a" type="m" corresp="#s3:l1">gekroont</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Bouwt al u doen op dit vast <rhyme label="a" type="m">Fondament</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">So sal u huys voor storm en zwaren <rhyme label="b" type="f">regen</rhyme></l>
+        <l id="s4:l3" met="5" type="-+">In’t minste niet eens schudden of <rhyme label="b" type="f" corresp="#s4:l2">bewegen</rhyme>:</l>
+        <l id="s4:l4" met="5" type="-+">So blijft het heel en suyver, <rhyme label="a" type="m" corresp="#s4:l1">ongeschendt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Schoon of de Nijt spoogh uytgebraeckte <rhyme label="a" type="m">gal</rhyme>,</l>
+        <l id="s5:l2" met="5" type="-+">En dat dit spoock een yder quam <rhyme label="b" type="f">verschricken</rhyme>,</l>
+        <l id="s5:l3" met="5" type="-+">Ia scheen of ‘t al wou scheuren los aen <rhyme label="b" type="f" corresp="#s5:l2">sticken</rhyme>:</l>
+        <l id="s5:l4" met="5" type="-+">Vertrouwt op Godt, so isset niet met <rhyme label="a" type="m" corresp="#s5:l1">al</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

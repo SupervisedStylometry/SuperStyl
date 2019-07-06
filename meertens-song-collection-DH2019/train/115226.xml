@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>115226</id>
+    <date>
+      <year-start>1679</year-start>
+      <year-end>1689</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Laatstmaal twee geliefden</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">DOchters, <rhyme label="a" type="f">Jonckgesellen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">Staet wat by <rhyme label="b" type="m">malkaer</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Ick sal u <rhyme label="a" type="f" corresp="#s1:l1">vertellen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Eenen poets seer <rhyme label="b" type="m" corresp="#s1:l2">raer</rhyme>,</l>
+        <l id="s1:l5" met="3" type="+-">Hoe dat een <rhyme label="c" type="f">Sinjoortje</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Gaf en kreeg ’t <rhyme label="c" type="f" corresp="#s1:l5">Jawoortje</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Aen een dochter <rhyme label="d" type="m">t’Amsterdam</rhyme>,</l>
+        <l id="s1:l8" met="3" type="+-">Maer hy schuert sijn <rhyme label="c" type="f" corresp="#s1:l5">poortje</rhyme>,</l>
+        <l id="s1:l9" met="3" type="+-">Doen den Troudagh <rhyme label="d" type="m" corresp="#s1:l7">quam</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">’t Jawoort was <rhyme label="a" type="f">ghegeven</rhyme>,</l>
+        <l id="s2:l2" met="3" type="+-">Bruytje in de <rhyme label="b" type="m">Schuyt</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">En noch daer <rhyme label="a" type="f" corresp="#s2:l1">beneven</rhyme>,</l>
+        <l id="s2:l4" met="3" type="+-">Drie Geboden <rhyme label="b" type="m" corresp="#s2:l2">uyt</rhyme>,</l>
+        <l id="s2:l5" met="3" type="+-">Waren al <rhyme label="c" type="f">verkondigh</rhyme>,</l>
+        <l id="s2:l6" met="3" type="+-">Van de stoel <rhyme label="c" type="f" corresp="#s2:l5">volmondig</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Bruyt, en Bruygoms kleeren <rhyme label="d" type="m">ree</rhyme>,</l>
+        <l id="s2:l8" met="3" type="+-">Yder wenst <rhyme label="c" type="f" corresp="#s2:l5">volmondigh</rhyme></l>
+        <l id="s2:l9" met="3" type="+-">Aen haer peys en <rhyme label="d" type="m" corresp="#s2:l7">Vree</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="+-">Bruylofs maeltijt <rhyme label="a" type="f">reede</rhyme>,</l>
+        <l id="s3:l2" met="3" type="+-">Was oock al <rhyme label="b" type="m">bereyt</rhyme>,</l>
+        <l id="s3:l3" met="3" type="+-">Ja Bruyts Kroon oock <rhyme label="a" type="f" corresp="#s3:l1">meede</rhyme>,</l>
+        <l id="s3:l4" met="3" type="+-">Hingh op met <rhyme label="b" type="m" corresp="#s3:l2">bescheyt</rhyme>:</l>
+        <l id="s3:l5" met="3" type="+-">Glasen en <rhyme label="c" type="f">Schenck-kannen</rhyme>,</l>
+        <l id="s3:l6" met="3" type="+-">Wijn, Bancket, en <rhyme label="c" type="f" corresp="#s3:l5">Hammen</rhyme></l>
+        <l id="s3:l7" met="4" type="+-">Tam, en Wilt Gebraet al <rhyme label="d" type="m">mee</rhyme>,</l>
+        <l id="s3:l8" met="3" type="+-">Ja tot Haene <rhyme label="c" type="f" corresp="#s3:l5">Kammen</rhyme>,</l>
+        <l id="s3:l9" met="3" type="+-">Was het aldaer <rhyme label="d" type="m" corresp="#s3:l7">ree</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="+-">Wel Toe-sleetjens <rhyme label="a" type="f">dartigh</rhyme>,</l>
+        <l id="s4:l2" met="3" type="+-">Waren op den <rhyme label="b" type="m">Dam</rhyme>,</l>
+        <l id="s4:l3" met="3" type="+-">Maer Bruygom <rhyme label="a" type="f" corresp="#s4:l1">lafhartigh</rhyme></l>
+        <l id="s4:l4" met="3" type="+-">Niet omkijcken <rhyme label="b" type="m" corresp="#s4:l2">quam</rhyme>,</l>
+        <l id="s4:l5" met="3" type="+-">maer liet Bruytje <rhyme label="c" type="f">weten</rhyme>,</l>
+        <l id="s4:l6" met="3" type="+-">Dat men hem uyt <rhyme label="c" type="f" corresp="#s4:l5">meten</rhyme>,</l>
+        <l id="s4:l7" met="4" type="+-">most tien duysent Kroone <rhyme label="d" type="m">ree</rhyme>,</l>
+        <l id="s4:l8" met="3" type="+-">Eer hy wou <rhyme label="c" type="f" corresp="#s4:l5">discreten</rhyme>,</l>
+        <l id="s4:l9" met="3" type="+-">met haer Trouwe <rhyme label="d" type="m" corresp="#s4:l7">mee</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="+-">Bruytjes Ouders <rhyme label="a" type="f">deftigh</rhyme></l>
+        <l id="s5:l2" met="3" type="+-">Waren dapper <rhyme label="b" type="m">quaet</rhyme>,</l>
+        <l id="s5:l3" met="3" type="+-">En sy spraken <rhyme label="a" type="f" corresp="#s5:l1">heftigh</rhyme>,</l>
+        <l id="s5:l4" met="3" type="+-">Steyl Oor, rechte <rhyme label="b" type="m" corresp="#s5:l2">Vraet</rhyme>,</l>
+        <l id="s5:l5" met="3" type="+-">Soeckt ghy Bruytjes <rhyme label="c" type="f">deeltje</rhyme>,</l>
+        <l id="s5:l6" met="3" type="+-">Meer als Bruytjes <rhyme label="c" type="f" corresp="#s5:l5">Beeltje</rhyme>,</l>
+        <l id="s5:l7" met="4" type="+-">Soo een Swager dient ons <rhyme label="d" type="m">niet</rhyme></l>
+        <l id="s5:l8" met="3" type="+-">Zoeckt ghy soo een <rhyme label="c" type="f" corresp="#s5:l5">speeltje</rhyme></l>
+        <l id="s5:l9" met="3" type="+-">Wegh van hier dan <rhyme label="d" type="m" corresp="#s5:l7">vliet</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="+-">Dit gerucht <rhyme label="a" type="f">verspreyden</rhyme></l>
+        <l id="s6:l2" met="3" type="+-">Rontom door de <rhyme label="b" type="m">Stadt</rhyme>,</l>
+        <l id="s6:l3" met="3" type="+-">Veel Wijven die <rhyme label="a" type="f" corresp="#s6:l1">tijden</rhyme></l>
+        <l id="s6:l4" met="3" type="+-">Hem achter sijn <rhyme label="b" type="m" corresp="#s6:l2">Gat</rhyme>,</l>
+        <l id="s6:l5" met="3" type="+-">Wilden hem <rhyme label="c" type="f">verleeren</rhyme>,</l>
+        <l id="s6:l6" met="3" type="+-">Zijn min-eedigh <rhyme label="c" type="f" corresp="#s6:l5">Sweeren</rhyme></l>
+        <l id="s6:l7" met="4" type="+-">maer hy sloop van achter <rhyme label="d" type="m">uyt</rhyme>,</l>
+        <l id="s6:l8" met="3" type="+-">En gongh <rhyme label="c" type="f" corresp="#s6:l5">Haseleeren</rhyme>,</l>
+        <l id="s6:l9" met="3" type="+-">met een langen <rhyme label="d" type="m" corresp="#s6:l7">snuyt</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="+-">Banket, <rhyme label="a" type="f">Pastey-Backer</rhyme></l>
+        <l id="s7:l2" met="3" type="+-">Hielden lustigh <rhyme label="b" type="m">aen</rhyme>,</l>
+        <l id="s7:l3" met="3" type="+-">By bruyts Ouders <rhyme label="a" type="f" corresp="#s7:l1">wacker</rhyme>,</l>
+        <l id="s7:l4" met="3" type="+-">Om haer Gelt <rhyme label="b" type="m" corresp="#s7:l2">t’ontfaen</rhyme>,</l>
+        <l id="s7:l5" met="3" type="+-">Maer bruyts Vrinden <rhyme label="c" type="f">schrandigh</rhyme></l>
+        <l id="s7:l6" met="3" type="+-">Zonden dees <rhyme label="c" type="f" corresp="#s7:l5">valjandigh</rhyme></l>
+        <l id="s7:l7" met="4" type="+-">Met de Reeckeningh weer <rhyme label="d" type="m">heen</rhyme>,</l>
+        <l id="s7:l8" met="3" type="+-">Na Bruygom <rhyme label="c" type="f" corresp="#s7:l5">behandigh</rhyme>,</l>
+        <l id="s7:l9" met="3" type="+-">Om haer Geltje <rhyme label="d" type="m" corresp="#s7:l7">reen</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="3" type="+-">Backer ende <rhyme label="a" type="f">brouwer</rhyme>,</l>
+        <l id="s8:l2" met="3" type="+-">Spreecken bruygom <rhyme label="b" type="m">aen</rhyme>,</l>
+        <l id="s8:l3" met="3" type="+-">Boutwijf en <rhyme label="a" type="f" corresp="#s8:l1">Vleyshouwer</rhyme></l>
+        <l id="s8:l4" met="3" type="+-">Zijn oock niet <rhyme label="b" type="m" corresp="#s8:l2">voldaen</rhyme>,</l>
+        <l id="s8:l5" met="3" type="+-">Den Wijnkoper <rhyme label="c" type="f">heden</rhyme></l>
+        <l id="s8:l6" met="3" type="+-">Brenght sijn Reeck’ningh <rhyme label="c" type="f" corresp="#s8:l5">meden</rhyme></l>
+        <l id="s8:l7" met="4" type="+-">Maer bruyt wilt betalen <rhyme label="d" type="m">niet</rhyme>,</l>
+        <l id="s8:l8" met="3" type="+-">Dus komt yder <rhyme label="c" type="f" corresp="#s8:l5">treden</rhyme>,</l>
+        <l id="s8:l9" met="3" type="+-">Al naer Bruygom <rhyme label="d" type="m" corresp="#s8:l7">siet</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="3" type="+-">De Verciersters <rhyme label="a" type="f">mede</rhyme></l>
+        <l id="s9:l2" met="3" type="+-">Spreecken om haer <rhyme label="b" type="m">Geldt</rhyme>,</l>
+        <l id="s9:l3" met="3" type="+-">Zoo dat bruygom <rhyme label="a" type="f" corresp="#s9:l1">hede</rhyme>,</l>
+        <l id="s9:l4" met="3" type="+-">Altijt wert <rhyme label="b" type="m" corresp="#s9:l2">ghequelt</rhyme>,</l>
+        <l id="s9:l5" met="3" type="+-">Noch komen <rhyme label="c" type="f">aenblasen</rhyme>,</l>
+        <l id="s9:l6" met="3" type="+-">Die schenck-kannen, <rhyme label="c" type="f" corresp="#s9:l5">glasen</rhyme>,</l>
+        <l id="s9:l7" met="4" type="+-">Ter Bruyloft hebben <rhyme label="d" type="m">geschickt</rhyme></l>
+        <l id="s9:l8" met="3" type="+-">En eyschen als <rhyme label="c" type="f" corresp="#s9:l5">basen</rhyme></l>
+        <l id="s9:l9" met="3" type="+-">Haer betalingh <rhyme label="d" type="m" corresp="#s9:l7">strick</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="3" type="+-">Huerders van <rhyme label="a" type="f">Toe-sleejen</rhyme></l>
+        <l id="s10:l2" met="3" type="+-">Wel dartigh <rhyme label="b" type="m">ontrent</rhyme>,</l>
+        <l id="s10:l3" met="3" type="+-">Komen mee aen <rhyme label="a" type="f" corresp="#s10:l1">treejen</rhyme>,</l>
+        <l id="s10:l4" met="3" type="+-">En seggen ghy <rhyme label="b" type="m" corresp="#s10:l2">Vent</rhyme>,</l>
+        <l id="s10:l5" met="3" type="+-">Sa, ghy moet <rhyme label="c" type="f">betalen</rhyme></l>
+        <l id="s10:l6" met="3" type="+-">Of den droes magh <rhyme label="c" type="f" corresp="#s10:l5">halen</rhyme>,</l>
+        <l id="s10:l7" met="4" type="+-">Gy soeckt ’t Gelt, maer niet de <rhyme label="d" type="m">bruyt</rhyme>,</l>
+        <l id="s10:l8" met="3" type="+-">Dockt dan sonder <rhyme label="c" type="f" corresp="#s10:l5">falen</rhyme>,</l>
+        <l id="s10:l9" met="3" type="+-">Aen ons hier <rhyme label="d" type="m" corresp="#s10:l7">Duym-kruyt</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="3" type="+-">Maer de <rhyme label="a" type="f">Speelgenoden</rhyme>,</l>
+        <l id="s11:l2" met="3" type="+-">Waren seer <rhyme label="b" type="m">ghestoort</rhyme>,</l>
+        <l id="s11:l3" met="3" type="+-">Doch haer dienst sy <rhyme label="a" type="f" corresp="#s11:l1">booden</rhyme></l>
+        <l id="s11:l4" met="3" type="+-">Aen haer Juffers <rhyme label="b" type="m" corresp="#s11:l2">voort</rhyme>,</l>
+        <l id="s11:l5" met="3" type="+-">En gongen <rhyme label="c" type="f">bekroonen</rhyme>,</l>
+        <l id="s11:l6" met="3" type="+-">Bruygom braef <rhyme label="c" type="f" corresp="#s11:l5">beloonen</rhyme></l>
+        <l id="s11:l7" met="4" type="+-">Voor sijn onstantvaste <rhyme label="d" type="m">min</rhyme>,</l>
+        <l id="s11:l8" met="3" type="+-">Dien hy sijn bruyt <rhyme label="c" type="f" corresp="#s11:l5">toonen</rhyme></l>
+        <l id="s11:l9" met="3" type="+-">Gingh door <rhyme label="d" type="m" corresp="#s11:l7">Gelt-gewin</rhyme>.</l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="3" type="+-">Eenen Kroon sy <rhyme label="a" type="f">vlechten</rhyme>,</l>
+        <l id="s12:l2" met="3" type="+-">Ghelijck dat <rhyme label="b" type="m">behoort</rhyme>,</l>
+        <l id="s12:l3" met="3" type="+-">Doch van Stroo wel <rhyme label="a" type="f" corresp="#s12:l1">slechte</rhyme></l>
+        <l id="s12:l4" met="3" type="+-">Stroo Bruygom was’t <rhyme label="b" type="m" corresp="#s12:l2">Woort</rhyme>.</l>
+        <l id="s12:l5" met="3" type="+-">Noch soo hongh daer <rhyme label="c" type="f">binnen</rhyme></l>
+        <l id="s12:l6" met="3" type="+-">Een beurs wilt <rhyme label="c" type="f" corresp="#s12:l5">versinnen</rhyme>,</l>
+        <l id="s12:l7" met="4" type="+-">Twee bockshoorens noch daer <rhyme label="d" type="m">by</rhyme>,</l>
+        <l id="s12:l8" met="3" type="+-">Dat sijn bockigh <rhyme label="c" type="f" corresp="#s12:l5">minnen</rhyme></l>
+        <l id="s12:l9" met="3" type="+-">Geeft te kennen <rhyme label="d" type="m" corresp="#s12:l7">vry</rhyme>.</l>
+      </lg>
+      <lg id="s13" type="stanza">
+        <l id="s13:l1" met="3" type="+-">Dese Kroon sy <rhyme label="a" type="f">hangen</rhyme></l>
+        <l id="s13:l2" met="3" type="+-">Voor dees bruygoms <rhyme label="b" type="m">deur</rhyme>,</l>
+        <l id="s13:l3" met="3" type="+-">De Jonges <rhyme label="a" type="f" corresp="#s13:l1">aenvangen</rhyme></l>
+        <l id="s13:l4" met="3" type="+-">Doen met groot <rhyme label="b" type="m" corresp="#s13:l2">gesteur</rhyme>,</l>
+        <l id="s13:l5" met="3" type="+-">Riepen, beurse <rhyme label="c" type="f">Vrijer</rhyme>,</l>
+        <l id="s13:l6" met="3" type="+-">Jocker, bockigh <rhyme label="c" type="f" corresp="#s13:l5">vleyer</rhyme>:</l>
+        <l id="s13:l7" met="4" type="+-">Bruygom die van stroo <rhyme label="d" type="m">gemaackt</rhyme></l>
+        <l id="s13:l8" met="3" type="+-">Zijt, gaet <rhyme label="c" type="f" corresp="#s13:l5">Esel-ryer</rhyme>,</l>
+        <l id="s13:l9" met="3" type="+-">En het Vryen <rhyme label="d" type="m" corresp="#s13:l7">staeckt</rhyme>.</l>
+      </lg>
+      <lg id="s14" type="stanza">
+        <l id="s14:l1" met="3" type="+-">Oorlof Jonck <rhyme label="a" type="f">Gesellen</rhyme></l>
+        <l id="s14:l2" met="3" type="+-">Wie ghy wesen <rhyme label="b" type="m">meught</rhyme>,</l>
+        <l id="s14:l3" met="3" type="+-">Komt de min u <rhyme label="a" type="f" corresp="#s14:l1">quellen</rhyme>:</l>
+        <l id="s14:l4" met="3" type="+-">Soeckt dan Eer en <rhyme label="b" type="m" corresp="#s14:l2">deught</rhyme>,</l>
+        <l id="s14:l5" met="3" type="+-">En set reyne <rhyme label="c" type="f">Sinnen</rhyme></l>
+        <l id="s14:l6" met="3" type="+-">Op uwe <rhyme label="c" type="f" corresp="#s14:l5">Vrindinnen</rhyme>,</l>
+        <l id="s14:l7" met="4" type="+-">Soo en wort ghy niet <rhyme label="d" type="m">gekroont</rhyme>,</l>
+        <l id="s14:l8" met="3" type="+-">Maer dan wert u <rhyme label="c" type="f" corresp="#s14:l5">minnen</rhyme>,</l>
+        <l id="s14:l9" met="3" type="+-">Deughdelijck <rhyme label="d" type="m" corresp="#s14:l7">beloont</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

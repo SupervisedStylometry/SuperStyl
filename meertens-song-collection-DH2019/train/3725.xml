@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3725</id>
+    <date>
+      <year-start>1566</year-start>
+      <year-end>1566</year-end>
+    </date>
+    <location>
+      <orginal-name>heidelberg</orginal-name>
+      <standard-name>Heidelberg, Germany</standard-name>
+      <coordinates>
+        <lon>49.4093582</lon>
+        <lat>8.694724</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 122 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Pieter Datheen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">SO haest' als ick hoore <rhyme label="a" type="f">spreken</rhyme>:</l>
+        <l id="s1:l2" met="4" type="-+">Welaen laett ons alle seer <rhyme label="b" type="m">saen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">In dat huys onses Heeren <rhyme label="b" type="m" corresp="#s1:l2">gaen</rhyme>.</l>
+        <l id="s1:l4" met="4" type="+-">Met vrueghdt is myn hert' <rhyme label="a" type="f" corresp="#s1:l1">ontsteken</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Dat ons voeten sullen hier <rhyme label="c" type="m">naer</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Staen binnen die poorten <rhyme label="c" type="m" corresp="#s1:l5">eerbaer</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Van Ierusalem wel <rhyme label="d" type="f">gestichtet</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Ierusalem is ghebauwt <rhyme label="e" type="m">vast</rhyme>,</l>
+        <l id="s1:l9" met="4" type="-+">End doer vrede t'saemen <rhyme label="e" type="m" corresp="#s1:l8">ghepast</rhyme>,</l>
+        <l id="s1:l10" met="4" type="-+">End tot een stadt Godts fyn <rhyme label="d" type="f" corresp="#s1:l7">gherichtet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Daer sal dat volck kommen <rhyme label="a" type="f">tesaem</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Die stammen Israels met <rhyme label="b" type="m">een</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Om Godt te prysen in't <rhyme label="b" type="m" corresp="#s2:l2">ghemeen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Nae sijn lieflick ghebodt <rhyme label="a" type="f" corresp="#s2:l1">bequaem</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Dit is die plaetse die Godt <rhyme label="c" type="m">goet</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Dauid gheeft, end wil dat men <rhyme label="c" type="m" corresp="#s2:l5">doet</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Recht end gherechticheit <rhyme label="d" type="f">daerbinnen</rhyme>.</l>
+        <l id="s2:l8" met="4" type="-+">Laett ons wenschen <rhyme label="e" type="m">Ierusalem</rhyme>,</l>
+        <l id="s2:l9" met="4" type="-+">Gheluck, het moet oock welgaen <rhyme label="e" type="m" corresp="#s2:l8">hem</rhyme>,</l>
+        <l id="s2:l10" met="4" type="-+">Die onses Godts stadt sal <rhyme label="d" type="f" corresp="#s2:l7">beminnen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Binnen v' mueren wonen <rhyme label="a" type="f">sal</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Liefde, vrede, met <rhyme label="b" type="m">eenicheit</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Die huysen end palaeysen <rhyme label="b" type="m" corresp="#s3:l2">breydt</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Sijn vol van Godts seghening' <rhyme label="a" type="f" corresp="#s3:l1">al</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Om den will' der broederen <rhyme label="c" type="m">myn</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">End der vrienden die binnen <rhyme label="c" type="m" corresp="#s3:l5">sijn</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Wensch'ick v vred' in allen <rhyme label="d" type="f">hoecken</rhyme>.</l>
+        <l id="s3:l8" met="4" type="-+">Om dat oock Godts tempel seer <rhyme label="e" type="m">reyn</rhyme></l>
+        <l id="s3:l9" met="4" type="-+">Staet binnen v' mueren niet <rhyme label="e" type="m" corresp="#s3:l8">kleyn</rhyme>,</l>
+        <l id="s3:l10" met="4" type="-+">Wil ick steedts uwen voorspoet <rhyme label="d" type="f" corresp="#s3:l7">soecken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

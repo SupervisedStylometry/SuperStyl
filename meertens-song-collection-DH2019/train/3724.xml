@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3724</id>
+    <date>
+      <year-start>1566</year-start>
+      <year-end>1566</year-end>
+    </date>
+    <location>
+      <orginal-name>heidelberg</orginal-name>
+      <standard-name>Heidelberg, Germany</standard-name>
+      <coordinates>
+        <lon>49.4093582</lon>
+        <lat>8.694724</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 121 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Pieter Datheen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">TOT den berghen heff' ick op <rhyme label="a" type="m">myn</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Oogen: ende van <rhyme label="b" type="m">daer</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Verwacht' ick hulp' <rhyme label="b" type="m" corresp="#s1:l2">eenpaer</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Maer op Godt die ghemaeckt heeft <rhyme label="a" type="m" corresp="#s1:l1">fyn</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Hemel end d'eerd' in't <rhyme label="c" type="f">ronde</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Wil ick my vastlick <rhyme label="c" type="f" corresp="#s1:l5">gronden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Godt sal niet laeten uwen <rhyme label="a" type="m">voet</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Struyckelen, want <rhyme label="b" type="m">altydt</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Waeckt hy, end v <rhyme label="b" type="m" corresp="#s2:l2">bevrydt</rhyme>:</l>
+        <l id="s2:l4" met="4" type="-+">Hy slaept niet die Israel <rhyme label="a" type="m" corresp="#s2:l1">hoedt</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Maer waeckt aen allen <rhyme label="c" type="f">zyden</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">End sluymt tot gheenen <rhyme label="c" type="f" corresp="#s2:l5">tyden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Godt sal van bouen v <rhyme label="a" type="m">bystaen</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Die v ter <rhyme label="b" type="m">rechterhandt</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Staet tot uwen <rhyme label="b" type="m" corresp="#s3:l2">bystandt</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">S'daeghs sal v die Sonne niet <rhyme label="a" type="m" corresp="#s3:l1">slaen</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Die Maene koudt met <rhyme label="c" type="f">schaeden</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Sal v s'nachts niet <rhyme label="c" type="f" corresp="#s3:l5">belaeden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Godt behoedt v voortaen van <rhyme label="a" type="m">quaet</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Hy sal v' siel' <rhyme label="b" type="m">voorwaer</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Behoeden voor <rhyme label="b" type="m" corresp="#s4:l2">gheuaer</rhyme>:</l>
+        <l id="s4:l4" met="4" type="-+">End' als ghy wt of oock <rhyme label="a" type="m" corresp="#s4:l1">ingaet</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Sal hy v steedts <rhyme label="c" type="f">bevryden</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">End met gaeuen <rhyme label="c" type="f" corresp="#s4:l5">verblyden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

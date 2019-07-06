@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>37015</id>
+    <date>
+      <year-start>1677</year-start>
+      <year-end>1677</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>J'aime rarement</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Livinus van der Minnen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">AL die vreught <rhyme label="a" type="m">bemindt</rhyme>.</l>
+        <l id="s1:l2" met="3" type="-+">Die moeten Pot en <rhyme label="a" type="m" corresp="#s1:l1">Pint</rhyme></l>
+        <l id="s1:l3" met="1" type="-+"><rhyme label="b" type="f">Beminnen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Den Wyn maeckt bly de <rhyme label="b" type="f" corresp="#s1:l3">sinnen</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Die willen vrolyck <rhyme label="c" type="m">zyn</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Die moeten Bier en <rhyme label="c" type="m" corresp="#s1:l5">Wyn</rhyme></l>
+        <l id="s1:l7" met="1" type="-+"><rhyme label="b" type="f" corresp="#s1:l3">Beminnen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Zyt ghy out en <rhyme label="a" type="m">cout</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Soo sal u 't nobel <rhyme label="a" type="m" corresp="#s2:l1">Mout</rhyme></l>
+        <l id="s2:l3" met="1" type="-+"><rhyme label="b" type="f">Verwermen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Sa lapt het in u <rhyme label="b" type="f" corresp="#s2:l3">dermen</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Den Wyn is soet en <rhyme label="c" type="m">goet</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Den Wyn die moet het <rhyme label="c" type="m" corresp="#s2:l5">bloet</rhyme></l>
+        <l id="s2:l7" met="1" type="-+"><rhyme label="b" type="f" corresp="#s2:l3">Verwermen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="+-">Zyt ghy jongh en <rhyme label="a" type="m">fris</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">En jeughdigh als groen <rhyme label="a" type="m" corresp="#s3:l1">Lis</rhyme></l>
+        <l id="s3:l3" met="1" type="-+">Van <rhyme label="b" type="f">lyve</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Drinckt dan om fris te <rhyme label="b" type="f" corresp="#s3:l3">blyven</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Set den Pot aen den <rhyme label="c" type="m">mondt</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Op dat ghy blyft <rhyme label="c" type="m" corresp="#s3:l5">ghesondt</rhyme></l>
+        <l id="s3:l7" met="1" type="-+">Van <rhyme label="b" type="f" corresp="#s3:l3">lyve</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="+-">Zyt ghy droef van <rhyme label="a" type="m">gheest</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Soo moet ghy om het <rhyme label="a" type="m" corresp="#s4:l1">meest</rhyme></l>
+        <l id="s4:l3" met="1" type="-+">Gaen <rhyme label="b" type="f">drincken</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">En 't Wyntjen laten <rhyme label="b" type="f" corresp="#s4:l3">sincken</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Ghy moet u droeve <rhyme label="c" type="m">pyn</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">En tranen in den <rhyme label="c" type="m" corresp="#s4:l5">Wyn</rhyme></l>
+        <l id="s4:l7" met="1" type="-+"><rhyme label="b" type="f" corresp="#s4:l3">Verdrincken</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="+-">Als g'in blydtschap <rhyme label="a" type="m">vloeyt</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Ghelyck een Roos <rhyme label="a" type="m" corresp="#s5:l1">besproeyt</rhyme></l>
+        <l id="s5:l3" met="1" type="-+">Met <rhyme label="b" type="f">dauwe</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Drinckt om u bly te <rhyme label="b" type="f" corresp="#s5:l3">houwen</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">Het jeughdigh Kruyt <rhyme label="c" type="m">verdort</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">Dat niet besproeyt en <rhyme label="c" type="m" corresp="#s5:l5">wort</rhyme></l>
+        <l id="s5:l7" met="1" type="-+">Met <rhyme label="b" type="f" corresp="#s5:l3">dauwe</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="+-">Hebt ghy goedt <rhyme label="a" type="m">verstandt</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">g'En meugt den Pot uyt <rhyme label="a" type="m" corresp="#s6:l1">d'hant</rhyme></l>
+        <l id="s6:l3" met="1" type="-+">Niet <rhyme label="b" type="f">werpen</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">'t Verstant moet hy <rhyme label="b" type="f" corresp="#s6:l3">verscherpen</rhyme>,</l>
+        <l id="s6:l5" met="3" type="-+">Wilt ghy verstandigh <rhyme label="c" type="m">zyn</rhyme>,</l>
+        <l id="s6:l6" met="3" type="-+">g'En meugt noyt <rhyme label="c" type="m" corresp="#s6:l5">geenen</rhyme></l>
+        <l id="s6:l7" met="1" type="-+">Wyn <rhyme label="b" type="f" corresp="#s6:l3">Verwerpen</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="+-">Zyt ghy plomp en <rhyme label="a" type="m">bot</rhyme>,</l>
+        <l id="s7:l2" met="3" type="-+">Ghy moet u met den <rhyme label="a" type="m" corresp="#s7:l1">Pot</rhyme></l>
+        <l id="s7:l3" met="1" type="-+">Gaen <rhyme label="b" type="f">slypen</rhyme>,</l>
+        <l id="s7:l4" met="3" type="-+">Ghy moet den Wyn-pot <rhyme label="b" type="f" corresp="#s7:l3">grypen</rhyme>,</l>
+        <l id="s7:l5" met="3" type="-+">Den Wet-steen met den <rhyme label="c" type="m">Wyn</rhyme>,</l>
+        <l id="s7:l6" met="3" type="-+">Moet u verstandt heel <rhyme label="c" type="m" corresp="#s7:l5">fyn</rhyme></l>
+        <l id="s7:l7" met="1" type="-+">Gaen <rhyme label="b" type="f" corresp="#s7:l3">slypen</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="3" type="+-">Jonck, out, groot en <rhyme label="a" type="m">klyn</rhyme>,</l>
+        <l id="s8:l2" met="3" type="-+">Drinckt al-te-mael den <rhyme label="a" type="m" corresp="#s8:l1">Wyn</rhyme></l>
+        <l id="s8:l3" met="1" type="-+"><rhyme label="b" type="f">Fonck-uyte</rhyme>,</l>
+        <l id="s8:l4" met="3" type="-+">Brenght Roomers ende <rhyme label="b" type="f" corresp="#s8:l3">Fluyten</rhyme>,</l>
+        <l id="s8:l5" met="3" type="-+">Set die aen uwen <rhyme label="c" type="m">mondt</rhyme>,</l>
+        <l id="s8:l6" met="3" type="-+">En drinckt-se tot den <rhyme label="c" type="m" corresp="#s8:l5">grondt</rhyme></l>
+        <l id="s8:l7" met="1" type="-+"><rhyme label="b" type="f" corresp="#s8:l3">Fonck-uyte</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

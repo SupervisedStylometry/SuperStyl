@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188477</id>
+    <date>
+      <year-start>1751</year-start>
+      <year-end>1752</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">o Beek waer in ik tranen <rhyme label="a" type="m">stort</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Aen uwen groenen kant <rhyme label="b" type="f">gezeten</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Laet my, door snel te vloeyen <rhyme label="b" type="f" corresp="#s1:l2">weten</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Of gydoor my bewogen <rhyme label="a" type="m" corresp="#s1:l1">wordt</rhyme>!</l>
+        <l id="s1:l5" met="4" type="-+">Myn Fillis tracht myn min te <rhyme label="c" type="f">ontvluchten</rhyme>.</l>
+        <l id="s1:l6" met="4" type="-+">Zy spot met mynen teedren <rhyme label="d" type="m">gloed</rhyme>.</l>
+        <l id="s1:l7" met="4" type="-+">Voer heen, ô Beekje, myne <rhyme label="c" type="f" corresp="#s1:l5">zuchten</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Gelyk gy myne tranen <rhyme label="d" type="m" corresp="#s1:l6">doet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Maer ach! ik zucht, en ween om <rhyme label="a" type="m">niet</rhyme>.</l>
+        <l id="s2:l2" met="4" type="-+">Wat is my in dees' staet <rhyme label="b" type="f">geboren</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Een ongelukkig lot <rhyme label="b" type="f" corresp="#s2:l2">beschoren</rhyme>!</l>
+        <l id="s2:l4" met="4" type="-+">Ik smoor helaes in Ziels <rhyme label="a" type="m" corresp="#s2:l1">verdriet</rhyme>!</l>
+        <l id="s2:l5" met="4" type="-+">ô Fillis, zoo gy blyft <rhyme label="c" type="f">verachten</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Een Ziel die u zoo teêr <rhyme label="d" type="m">bemint</rhyme>:</l>
+        <l id="s2:l7" met="4" type="-+">'k Strooi dan vergeefs myn droeve <rhyme label="c" type="f" corresp="#s2:l5">klagten</rhyme>.</l>
+        <l id="s2:l8" met="4" type="-+">En bittre zuchten in den <rhyme label="d" type="m" corresp="#s2:l6">Wind</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

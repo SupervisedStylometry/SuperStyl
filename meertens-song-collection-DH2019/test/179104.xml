@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>179104</id>
+    <date>
+      <year-start>1866</year-start>
+      <year-end>1866</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>De vrienden zitten hier of daar</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">De vrienden zitten hier of <rhyme label="a" type="m">daar</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Nu lustig drinkend bij <rhyme label="a" type="m" corresp="#s1:l1">elkaar</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">En zingen: kan men beter <rhyme label="b" type="m">dan</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Bij glas en lied <rhyme label="c" type="f">vertoeven</rhyme>!</l>
+        <l id="s1:l5" met="4" type="-+">De meisjes dansen vroolijk <rhyme label="d" type="m">thans</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Bij 't lokkend spel des <rhyme label="d" type="m" corresp="#s1:l5">vedelmans</rhyme>;</l>
+        <l id="s1:l7" met="4" type="-+">En kwa-me er niet een einde aan 't <rhyme label="e" type="m">lied</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Het zou hen niet <rhyme label="c" type="f" corresp="#s1:l4">bedroeven</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hoe lief mij ook de vrienden <rhyme label="a" type="m">zijn</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Hoe frisch het bier, hoe fijn de <rhyme label="a" type="m" corresp="#s2:l1">wijn</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Wat is er mij zoo lief als <rhyme label="b" type="m">gij</rhyme>?</l>
+        <l id="s2:l4" met="3" type="-+">Wat smaakt als uwe <rhyme label="c" type="f">kussen</rhyme>?</l>
+        <l id="s2:l5" met="4" type="-+">Wat scheelt mij vedelklank en <rhyme label="d" type="m">wals</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Wat geef ik om de vreugd des <rhyme label="d" type="m" corresp="#s2:l5">bals</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Als gij me in de armen neemt en, <rhyme label="e" type="m">warm</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Me zoenend, drukt er <rhyme label="c" type="f" corresp="#s2:l4">tusschen</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Te minnen, ach! wat is dat <rhyme label="a" type="m">goed</rhyme>!</l>
+        <l id="s3:l2" met="4" type="-+">Te minnen, ach! wat is dat <rhyme label="a" type="m" corresp="#s3:l1">goed</rhyme>!</l>
+        <l id="s3:l3" met="4" type="-+">Bemind te zijn, wat is dat <rhyme label="b" type="m">zoet</rhyme>!</l>
+        <l id="s3:l4" met="3" type="-+">Gebenedijd, o liefde, zijt <rhyme label="c" type="f">Gij</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">bronne reiner <rhyme label="d" type="m">wonne</rhyme>!</l>
+        <l id="s3:l6" met="4" type="-+">Bemind te zijn, wat is dat <rhyme label="d" type="m" corresp="#s3:l5">zoet</rhyme>!</l>
+        <l id="s3:l7" met="4" type="-+">Gebenedijd, o liefde, zijt <rhyme label="e" type="m">Gij</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">bronne reiner <rhyme label="c" type="f" corresp="#s3:l4">wonne</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34199</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+    </tags>
+    <melody>A quoi sert-il de vous dire ma peine</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Petrus Suetmans, Eustachius de Meyer</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Seght my schoon Silvia waer uwe <rhyme label="a" type="f">ganghen</rhyme>?</l>
+        <l id="s1:l2" met="5" type="-+">Hier zyn geleghen langhs dees groene <rhyme label="b" type="m">wey</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">'kWensch my met u, ô liefste uyt <rhyme label="a" type="f" corresp="#s1:l1">verlanghen</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Ach! Herderinne gaen wy met ons <rhyme label="b" type="m" corresp="#s1:l2">bey</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Laet ghy my <rhyme label="c" type="m">gaen</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Langhst desen groenen <rhyme label="d" type="m">kant</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Silvia gheeft de <rhyme label="d" type="m" corresp="#s1:l6">hant</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Aen die <rhyme label="c" type="m" corresp="#s1:l5">voort-aen</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">U schaepkens mette <rhyme label="e" type="m">myn</rhyme>,</l>
+        <l id="s1:l10" met="5" type="-+">Sal vergheleyden, wilt myn liefste <rhyme label="e" type="m" corresp="#s1:l9">zyn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">'kBid u Leander, laet dees malle <rhyme label="a" type="f">reden</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">En wilt niet terghen soo een teere <rhyme label="b" type="m">Maeght</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Die ick bemin, daer ben ick me te <rhyme label="a" type="f" corresp="#s2:l1">vreden</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Dat zyn myn schaepkens daer ghy my naer <rhyme label="b" type="m" corresp="#s2:l2">vraeght</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Door hun <rhyme label="c" type="m">gheschrey</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Ghehuppel, ende <rhyme label="d" type="m">vreucht</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Maecken sy my <rhyme label="d" type="m" corresp="#s2:l6">verheucht</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Ja dickwils <rhyme label="c" type="m" corresp="#s2:l5">bly</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">Wanneer ick ben <rhyme label="e" type="m">bedroeft</rhyme>,</l>
+        <l id="s2:l10" met="5" type="-+">Gaet, gaet Leander hun geen Leyts-man <rhyme label="e" type="m" corresp="#s2:l9">hoeft</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">O soete Maeght met al te stuere <rhyme label="a" type="f">reden</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Onthaelt ghy hem die u syn jonste <rhyme label="b" type="m">biet</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">'kMeyn dat ick Silvia u oyt <rhyme label="a" type="f" corresp="#s3:l1">misdede</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">'tIs waer Leander sulcx is noyt <rhyme label="b" type="m" corresp="#s3:l2">gheschiet</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">Ach! <rhyme label="c" type="m">Herderin</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Leanders tweede <rhyme label="d" type="m">ziel</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Voor wie ick neder <rhyme label="d" type="m" corresp="#s3:l6">kniel</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">Ontfanght myn <rhyme label="c" type="m" corresp="#s3:l5">min</rhyme>,</l>
+        <l id="s3:l9" met="3" type="-+">Myn gonst, en myn jongh <rhyme label="e" type="m">hert</rhyme>,</l>
+        <l id="s3:l10" met="5" type="-+">'tGheen tot een offer u gheoffert <rhyme label="e" type="m" corresp="#s3:l9">wert</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Is't soo Leander laet ons voorder <rhyme label="a" type="f">treden</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">'kEn weygher niet 'tgheen ick u heb <rhyme label="b" type="m">ontseyt</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">O soete Maeght, u al te soete <rhyme label="a" type="f" corresp="#s4:l1">reden</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">Die maecken my tot in de ziel <rhyme label="b" type="m" corresp="#s4:l2">verbleyt</rhyme>,</l>
+        <l id="s4:l5" met="2" type="-+">Siet <rhyme label="c" type="m">Herderin</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Hoe dat ons beyde <rhyme label="d" type="m">veen</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Zyn vrolyck onder <rhyme label="d" type="m" corresp="#s4:l6">een</rhyme>,</l>
+        <l id="s4:l8" met="2" type="-+">'tScheynt dat den <rhyme label="c" type="m" corresp="#s4:l5">sin</rhyme>,</l>
+        <l id="s4:l9" met="3" type="-+">Van mynen wensch, en <rhyme label="e" type="m">vreught</rhyme>,</l>
+        <l id="s4:l10" met="5" type="-+">Ons byde schaepkens oock het hert <rhyme label="e" type="m" corresp="#s4:l9">verheught</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Laet hun vry spelen langhs de groene <rhyme label="a" type="f">Heyden</rhyme>,</l>
+        <l id="s5:l2" met="5" type="-+">Ghy weet Leander dat nu is den <rhyme label="b" type="m">tydt</rhyme>,</l>
+        <l id="s5:l3" met="5" type="-+">Dat al het jeudigh vee hun ´tsaem <rhyme label="a" type="f" corresp="#s5:l1">verbleyden</rhyme>,</l>
+        <l id="s5:l4" met="5" type="-+">Ach! Herderin ick ben met hun <rhyme label="b" type="m" corresp="#s5:l2">verbleyt</rhyme>,</l>
+        <l id="s5:l5" met="2" type="-+">'tKleyn <rhyme label="c" type="m">pluym-ghediert</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">Siet mé ons gonsten <rhyme label="d" type="m">aen</rhyme>,</l>
+        <l id="s5:l7" met="3" type="-+">Siet eens hoe langhst de <rhyme label="d" type="m" corresp="#s5:l6">baen</rhyme>,</l>
+        <l id="s5:l8" met="2" type="-+">Ghedurigh <rhyme label="c" type="m" corresp="#s5:l5">swiert</rhyme>,</l>
+        <l id="s5:l9" met="3" type="-+">Den lieven <rhyme label="e" type="m">Nachtergael</rhyme>,</l>
+        <l id="s5:l10" met="5" type="-+">De Mus, en Ceys, de Leeuwerck, en <rhyme label="e" type="m" corresp="#s5:l9">Carnael</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="5" type="-+">Herder 'tis tydt, ick moet naer huys nu <rhyme label="a" type="f">treden</rhyme>,</l>
+        <l id="s6:l2" met="5" type="-+">'kBid helpt my scheyden nu dat beyde <rhyme label="b" type="m">veen</rhyme>,</l>
+        <l id="s6:l3" met="5" type="-+">Ey, toeft noch wat, en stelt u noch te <rhyme label="a" type="f" corresp="#s6:l1">vreden</rhyme>,</l>
+        <l id="s6:l4" met="5" type="-+">Laet ghy Leander op het velt <rhyme label="b" type="m" corresp="#s6:l2">alleen</rhyme>,</l>
+        <l id="s6:l5" met="2" type="-+">Leander <rhyme label="c" type="m">gaet</rhyme>,</l>
+        <l id="s6:l6" met="3" type="-+">Ick segh u goeden <rhyme label="d" type="m">nacht</rhyme>,</l>
+        <l id="s6:l7" met="3" type="-+">Liefste aen-hoort myn <rhyme label="d" type="m" corresp="#s6:l6">klacht</rhyme>,</l>
+        <l id="s6:l8" met="2" type="-+">Het wordt te <rhyme label="c" type="m" corresp="#s6:l5">laet</rhyme>,</l>
+        <l id="s6:l9" met="3" type="-+">Ick wensch u goede <rhyme label="e" type="m">rust</rhyme>,</l>
+        <l id="s6:l10" met="5" type="-+">Godt ley u Silvia, noch eens <rhyme label="e" type="m" corresp="#s6:l9">ghekust</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

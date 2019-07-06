@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>115831</id>
+    <date>
+      <year-start>1694</year-start>
+      <year-end>1694</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Dans ces lieux tout rit sans cesse</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author>Cornelis Sweerts</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Gun my toch myn lief <rhyme label="a" type="f">Klorinde</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Maar een kus voor uwe <rhyme label="b" type="m">mond</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Op dat ik hier door <rhyme label="a" type="f" corresp="#s1:l1">bevinde</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Een artzeny, wyl gy my hebt <rhyme label="b" type="m" corresp="#s1:l2">gewond</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Wel wat of die Jonkers <rhyme label="a" type="f">meenen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Datmen juist moet zyn <rhyme label="b" type="m">gekust</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Is haar smert wel oit <rhyme label="a" type="f" corresp="#s2:l1">verdweenen</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Door eene kus, neen die geen vlammen <rhyme label="b" type="m" corresp="#s2:l2">blust</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Fillis ach! 't kan u niet <rhyme label="a" type="f">schaaden</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Dat gy my uw mondje <rhyme label="b" type="m">bied</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Dat Fonteintje vol <rhyme label="a" type="f" corresp="#s3:l1">genaden</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Dat altyd springt, en het vermindert <rhyme label="b" type="m" corresp="#s3:l2">niet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188549</id>
+    <date>
+      <year-start>1752</year-start>
+      <year-end>1752</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>J.W. Lustig</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Toen Orfeus zyne konst deed <rhyme label="a" type="f">hooren</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Getuigt men, dat het domme <rhyme label="b" type="m">vee</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Zig door die klanken liet <rhyme label="a" type="f" corresp="#s1:l1">bekooren</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">De fiere Leeuw was zelf <rhyme label="b" type="m" corresp="#s1:l2">gedwee</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">Hy zag d' allerdomste <rhyme label="c" type="f">dieren</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">By en om zig heenen <rhyme label="c" type="f" corresp="#s1:l5">zwieren</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Vil en ezel prees het <rhyme label="d" type="m">lied</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Zelfs het Varken knorde <rhyme label="d" type="m" corresp="#s1:l7">niet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ik wil dat spreukje graag <rhyme label="a" type="f">gelooven</rhyme>:</l>
+        <l id="s2:l2" met="4" type="-+">Want die deez daagen speelt of <rhyme label="b" type="m">digt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Belooft zig Orfeus te <rhyme label="a" type="f" corresp="#s2:l1">verdooven</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">En houdt zig voor een <rhyme label="b" type="m" corresp="#s2:l2">wonder-licht</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">Varkens, uilen, Midas - <rhyme label="c" type="f">zoonen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Tragten zulk een kruk te <rhyme label="c" type="f" corresp="#s2:l5">kroonen</rhyme>:</l>
+        <l id="s2:l7" met="4" type="+-">Dus ziet elk, wie heden <rhyme label="d" type="m">zingt</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Steeds door snorkers zig <rhyme label="d" type="m" corresp="#s2:l7">omringd</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

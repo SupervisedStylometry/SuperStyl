@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3314</id>
+    <date>
+      <year-start>1607</year-start>
+      <year-end>1607</year-end>
+    </date>
+    <location>
+      <orginal-name>zwolle</orginal-name>
+      <standard-name>Zwolle, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.5089759</lon>
+        <lat>6.0943765</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="theatre">theater</category>
+    </categories>
+  <author>Zacharias Heyns</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Ontwaeckt o mensch <rhyme label="a" type="f">ghetrouwe</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Die vergeet Gods <rhyme label="b" type="m">weldaet</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Eer dat ghy coomt in <rhyme label="a" type="f" corresp="#s1:l1">rouwe</rhyme>:</l>
+        <l id="s1:l4" met="3" type="-+">En den tijt van u <rhyme label="b" type="m" corresp="#s1:l2">gaet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Hoe hebt ghy dus <rhyme label="a" type="f">vergeeten</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Gods goetheyt o! ghy <rhyme label="b" type="m">mensch</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Dat ghy dus sijt <rhyme label="a" type="f" corresp="#s2:l1">gheseeten</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Is al naer Duyvels <rhyme label="b" type="m" corresp="#s2:l2">wensch</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Staet op en wilt <rhyme label="a" type="f">ontwaecken</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Bewijst nu lieft met <rhyme label="b" type="m">vlijt</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">d'Armen hier naer u <rhyme label="a" type="f" corresp="#s3:l1">haecken</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Hun doch barmhertich <rhyme label="b" type="m" corresp="#s3:l2">sijt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Wild doch o! mensch <rhyme label="a" type="f">verachten</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Des vergeetenheyt <rhyme label="b" type="m">boos</rhyme>:</l>
+        <l id="s4:l3" met="3" type="-+">En hoort der armen <rhyme label="a" type="f" corresp="#s4:l1">clachten</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Die voor u staen <rhyme label="b" type="m" corresp="#s4:l2">althoos</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

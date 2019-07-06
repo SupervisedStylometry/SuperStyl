@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8801</id>
+    <date>
+      <year-start>1625</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Es spricht der unweise Mund wohl</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Die gantsche Aerd' al vol end' <rhyme label="a" type="m">swaer</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Met al die daer op <rhyme label="b" type="f">woonen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Het is des HEEren <rhyme label="a" type="m" corresp="#s1:l1">allegaer</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Sijn Macht gaet hy <rhyme label="b" type="f" corresp="#s1:l2">bethoonen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Tis wonder boven alle <rhyme label="c" type="m">Maet</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Hoe doch die sware Last <rhyme label="c" type="m" corresp="#s1:l5">bestaet</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Fondeert alleen op <rhyme label="d" type="f">Water</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wie sal gaen op des HEEren <rhyme label="a" type="m">Bergh</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Staen in zijn Heyligh' <rhyme label="b" type="f">Stede</rhyme>?</l>
+        <l id="s2:l3" met="4" type="-+">Diens, Handen suyver sonder <rhyme label="a" type="m" corresp="#s2:l1">Argh</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Is Reyn van Herten <rhyme label="b" type="f" corresp="#s2:l2">mede</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Die sal in s'HEEren Segen <rhyme label="c" type="m">gaen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Gherechticheyt daer toe <rhyme label="c" type="m" corresp="#s2:l5">ontfaen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Van Godt syn Heylandt <rhyme label="d" type="f">milde</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Dat ist Geslacht dat nae hem <rhyme label="a" type="m">vraecht</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Gaet Jacobs Aensicht <rhyme label="b" type="f">soecken</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Des Werelts Princen <rhyme label="a" type="m" corresp="#s3:l1">Onvertzaecht</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Maeckt op in allen <rhyme label="b" type="f" corresp="#s3:l2">Hoecken</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Die Poorten wijt, die Deuren <rhyme label="c" type="m">hooch</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Dat daer mach in gaen met <rhyme label="c" type="m" corresp="#s3:l5">ghevoech</rhyme>?</l>
+        <l id="s3:l7" met="3" type="-+">Den Coninck groot van <rhyme label="d" type="f">Eeren</rhyme>,</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Wie is den Coninck groot van <rhyme label="a" type="m">Eer</rhyme>?</l>
+        <l id="s4:l2" met="3" type="-+">Hy sal niet blijven <rhyme label="b" type="f">buyten</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Het is een soo Almachtich  <rhyme label="a" type="m" corresp="#s4:l1">HEER</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Ghy moecht hem niet wt <rhyme label="b" type="f" corresp="#s4:l2">sluyten</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Het is de HEERE <rhyme label="c" type="m">Sebaoth</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Sterck in den Strijdt, end' onse <rhyme label="c" type="m" corresp="#s4:l5">Godt</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Een Coninck alder <rhyme label="d" type="f">Eeren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14051</id>
+    <date>
+      <year-start>1621</year-start>
+      <year-end>1621</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>La Vignonne</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Jan Jansz. Starter</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Ghy die hier sijt <rhyme label="a" type="m">vergaerd</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Als vrienden, van die den Hemel heeft <rhyme label="a" type="m" corresp="#s1:l1">gepaerd</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Om met geneughd, haer ionge <rhyme label="b" type="m">ieughd</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Te brengen door in eer en <rhyme label="b" type="m" corresp="#s1:l3">deughd</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Om sedigh, om vredigh, altijd in <rhyme label="c" type="m">spijt</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Van die 't <rhyme label="c" type="m" corresp="#s1:l5">benijd</rhyme>,</l>
+        <l id="s1:l7" met="2" type="+-">Te leven <rhyme label="d" type="m">beyd</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Met <rhyme label="d" type="m" corresp="#s1:l7">eerbaerheyd</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">In rust, in lust, en <rhyme label="d" type="m" corresp="#s1:l7">vrolijckheydt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Weest nu doch al <rhyme label="a" type="m">verheughd</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Toont teyckens van u gansch onbeveynsde <rhyme label="a" type="m" corresp="#s2:l1">vreughd</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En drinckt eens om, tot <rhyme label="b" type="m">wellekom</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Op d' heyl van Bruydt en <rhyme label="b" type="m" corresp="#s2:l3">Bruydegom</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Weest lustigh, weest rustigh, wenst haer te <rhyme label="c" type="m">gaer</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">So voor als <rhyme label="c" type="m" corresp="#s2:l5">naer</rhyme>,</l>
+        <l id="s2:l7" met="2" type="+-">Gheluck, <rhyme label="d" type="m">voorspoet</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Een bly <rhyme label="d" type="m" corresp="#s2:l7">gemoet</rhyme>,</l>
+        <l id="s2:l9" met="4" type="-+">Altijd gherust in suyr of <rhyme label="d" type="m" corresp="#s2:l7">soet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Wenscht dat de schoone <rhyme label="a" type="m">Bruydt</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Den Bruygom eer langh een liefelijcke <rhyme label="a" type="m" corresp="#s3:l1">spruyt</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Brengh voor den dagh, waer med' hy <rhyme label="b" type="m">mach</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Met haer om spelen nacht en <rhyme label="b" type="m" corresp="#s3:l3">dagh</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">En woelen, en koelen sijn lust, die <rhyme label="c" type="m">blust</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">Als sy hem <rhyme label="c" type="m" corresp="#s3:l5">kust</rhyme>,</l>
+        <l id="s3:l7" met="2" type="+-">En hy haer <rhyme label="d" type="m">weer</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">Dat 's leer om <rhyme label="d" type="m" corresp="#s3:l7">leer</rhyme>,</l>
+        <l id="s3:l9" met="4" type="-+">Nu holla Musa spreeckt niet <rhyme label="d" type="m" corresp="#s3:l7">meer</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Wel Maeghden wat is <rhyme label="a" type="m">dit</rhyme>?</l>
+        <l id="s4:l2" met="5" type="-+">Dat ghy nu dus spraeckloos en druloorigh <rhyme label="a" type="m" corresp="#s4:l1">sit</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Zijt ghy bedroeft, om dat <rhyme label="b" type="m">vertoeft</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">So langh, dien ghy tot troost <rhyme label="b" type="m" corresp="#s4:l3">behoeft</rhyme>?</l>
+        <l id="s4:l5" met="4" type="-+">Ey stelt ongequelt doch u geest, en <rhyme label="c" type="m">weest</rhyme></l>
+        <l id="s4:l6" met="2" type="-+">Vry <rhyme label="c" type="m" corresp="#s4:l5">onbevreest</rhyme>:</l>
+        <l id="s4:l7" met="2" type="+-">'t Sal metter <rhyme label="d" type="m">vaerd</rhyme></l>
+        <l id="s4:l8" met="2" type="-+">Wel sijn <rhyme label="d" type="m" corresp="#s4:l7">geklaerd</rhyme>;</l>
+        <l id="s4:l9" met="4" type="-+">Want d' eene Bruyloft d' ander <rhyme label="d" type="m" corresp="#s4:l7">baerd</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Wilt ghy u spieg'len <rhyme label="a" type="m">aen</rhyme></l>
+        <l id="s5:l2" met="5" type="-+">U Speelnood, de Bruydt, en oock dat pad in <rhyme label="a" type="m" corresp="#s5:l1">slaen</rhyme>.</l>
+        <l id="s5:l3" met="4" type="-+">Als u de ieughd, in eer en <rhyme label="b" type="m">deughd</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Aensoeckt, doet wat ghy wesen <rhyme label="b" type="m" corresp="#s5:l3">meughd</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">Weest garen, tot paren bereyd, men <rhyme label="c" type="m">seyd</rhyme></l>
+        <l id="s5:l6" met="2" type="-+">Dat <rhyme label="c" type="m" corresp="#s5:l5">eenigheyd</rhyme></l>
+        <l id="s5:l7" met="2" type="+-">Is <rhyme label="d" type="m">arremoed</rhyme>,</l>
+        <l id="s5:l8" met="2" type="-+">En selden <rhyme label="d" type="m" corresp="#s5:l7">goed</rhyme>,</l>
+        <l id="s5:l9" met="4" type="-+">Dus wild ghy wel doen, volghd die <rhyme label="d" type="m" corresp="#s5:l7">voet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185311</id>
+    <date>
+      <year-start>1790</year-start>
+      <year-end>1792</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>De wereld is in rep en roer</melody>
+  <author>Gerrit Manheer</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Uw schuld, tien duizend ponden <rhyme label="a" type="m">zwaar</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Geeft u een vrouw van zestig <rhyme label="a" type="m" corresp="#s1:l1">jaar</rhyme>;</l>
+        <l id="s1:l3" met="3" type="-+">Dit moet u 't hart <rhyme label="b" type="f">verscheuren</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Pas is uw huwlijk <rhyme label="c" type="m">aangegaan</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Of al uw schulden zijn <rhyme label="c" type="m" corresp="#s1:l4">voldaan</rhyme>;</l>
+        <l id="s1:l6" met="3" type="-+">Dit dient u op te <rhyme label="b" type="f" corresp="#s1:l3">beuren</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Op dat gij huiskrakeel <rhyme label="a" type="m">vermijd</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Wordt haar den uchtend <rhyme label="a" type="m" corresp="#s2:l1">toegewijd</rhyme>;</l>
+        <l id="s2:l3" met="3" type="-+">Dit moet u 't hart <rhyme label="b" type="f">verscheuren</rhyme>.</l>
+        <l id="s2:l4" met="4" type="-+">Hier door voldoet ge uw <rhyme label="c" type="m">huwlijksmin</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">En 's avonds haalt ge uw schaê weer <rhyme label="c" type="m" corresp="#s2:l4">in</rhyme>;</l>
+        <l id="s2:l6" met="3" type="-+">Dit dient u op te <rhyme label="b" type="f" corresp="#s2:l3">beuren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Met zagtheid moet gij <rhyme label="a" type="m">menigmaal</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Verdragen haar onheusche <rhyme label="a" type="m" corresp="#s3:l1">taal</rhyme>;</l>
+        <l id="s3:l3" met="3" type="-+">Dit moet u 't hart <rhyme label="b" type="f">verscheuren</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">Haar ouderdom valt zeker <rhyme label="c" type="m">naar</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Maar Cloé is pas twintig <rhyme label="c" type="m" corresp="#s3:l4">jaar</rhyme>;</l>
+        <l id="s3:l6" met="3" type="-+">Dit dient u op te <rhyme label="b" type="f" corresp="#s3:l3">beuren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

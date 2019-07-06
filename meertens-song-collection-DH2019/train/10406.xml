@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10406</id>
+    <date>
+      <year-start>1625</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Amarilli mia bella</melody>
+  <author>Joost van den Vondel en Johan van Heemskerck (etc.)</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">COmt wemoedige <rhyme label="a" type="f">tranen</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">O trouwe Companjy van myn <rhyme label="b" type="f">ellende</rhyme>,</l>
+        <l id="s1:l3" met="6" type="-+">Stort en vloeyt sonder ende, Stort en vloeyt sonder <rhyme label="b" type="f" corresp="#s1:l2">ende</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Droevighe stem verkracht nu myn <rhyme label="c" type="f">gedachten</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Met ontallycke <rhyme label="c" type="f" corresp="#s1:l4">klachten</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Troosteloos suchten berst uyt de gront myns <rhyme label="d" type="f">hertes</rhyme>,</l>
+        <l id="s1:l7" met="7" type="+-">En getuyget, en getuyget, en getuyget myn <rhyme label="d" type="f" corresp="#s1:l6">smerten</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Maer helaes! wat ick <rhyme label="a" type="f">segge</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Myn lichaem kan niet meer suchten of <rhyme label="b" type="f">klagen</rhyme>,</l>
+        <l id="s2:l3" met="6" type="-+">Of geen schreyen verdraghen, Of geen schreyen <rhyme label="b" type="f" corresp="#s2:l2">verdraghen</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Myn ad'ren die in 't minne-vier <rhyme label="c" type="f">verdroghen</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">VVeyg'ren nat in myn <rhyme label="c" type="f" corresp="#s2:l4">ooghen</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">'T flauw kloppend' herte, en geestelose <rhyme label="d" type="f">longhe</rhyme>,</l>
+        <l id="s2:l7" met="7" type="+-">Die begeven, die begeven, die begeven myn <rhyme label="d" type="f" corresp="#s2:l6">tonghe</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Corydon weest te <rhyme label="a" type="f">vreden</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">So vlammen sonder lucht, en groote <rhyme label="b" type="f">vuren</rhyme>,</l>
+        <l id="s3:l3" met="6" type="-+">In 't besloten niet duren, in 't besloten niet <rhyme label="b" type="f" corresp="#s3:l2">duren</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Zoo uwen brant syn hette niet kan <rhyme label="c" type="f">uyten</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Ofte roocken van <rhyme label="c" type="f" corresp="#s3:l4">buyten</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">(Spyt al de minne) dan sullen u <rhyme label="d" type="f">begeven</rhyme>,</l>
+        <l id="s3:l7" met="7" type="+-">Beyd' de liefde, beyd' de liefde, beyd' de liefde en <rhyme label="d" type="f" corresp="#s3:l6">leven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

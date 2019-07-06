@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>161105</id>
+    <date>
+      <year-start>1671</year-start>
+      <year-end>1671</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Belle Iris</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">NU is al mijn smert <rhyme label="a" type="m">gedaen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Wijl dat haer bevalligh <rhyme label="b" type="f">ooghjes</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Rechte pijl en <rhyme label="b" type="f" corresp="#s1:l2">minne-boogjes</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">My soo vriend'lijck loncken <rhyme label="a" type="m" corresp="#s1:l1">aen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">'k Set nu al het angstigh <rhyme label="c" type="f">vreesen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">En misgenoegen aen een <rhyme label="d" type="m">kant</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Wijl ick sie bemint te <rhyme label="c" type="f" corresp="#s1:l5">wesen</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Van mijn schoone <rhyme label="d" type="m" corresp="#s1:l6">Amarant</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Onse wedersijdse <rhyme label="a" type="m">gloet</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">En de kuyssche <rhyme label="b" type="f">Minne-kusjes</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">t'Saem gemenght met soo veel <rhyme label="b" type="f" corresp="#s2:l2">lusjes</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Dat ons Zieltjes vreught aen <rhyme label="a" type="m" corresp="#s2:l1">doet</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Hout ons vaeck soo <rhyme label="c" type="f">opgetogen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Met de lipjes tegen <rhyme label="d" type="m">een</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Dat wy wenschen soo te <rhyme label="c" type="f" corresp="#s2:l5">mogen</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Varen na den Hemel <rhyme label="d" type="m" corresp="#s2:l6">heen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

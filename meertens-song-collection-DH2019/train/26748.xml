@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26748</id>
+    <date>
+      <year-start>1557</year-start>
+      <year-end>1557</year-end>
+    </date>
+    <location>
+      <orginal-name>emden</orginal-name>
+      <standard-name>Emden, Germany</standard-name>
+      <coordinates>
+        <lon>53.3670442</lon>
+        <lat>7.2058004</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Lofzang van Maria</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jan Utenhove</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Siet hoe vroeylick en <rhyme label="a" type="m">goet</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">In der vromer <rhyme label="a" type="m" corresp="#s1:l1">ghemoedt</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Is d’eenicheyt der <rhyme label="b" type="f">herten</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">De welke t’samen <rhyme label="c" type="m">bindt</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">De broeders, end <rhyme label="c" type="m" corresp="#s1:l4">verwindt</rhyme>.</l>
+        <l id="s1:l6" met="3" type="-+">Doer t’ghelooue alle <rhyme label="b" type="f" corresp="#s1:l3">smerten</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Euen als d’oly <rhyme label="a" type="m">soet</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Op t hooft ghegoten <rhyme label="a" type="m" corresp="#s2:l1">vloyt</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">In Aarons baerdt <rhyme label="b" type="f">beneden</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">End in syn kleyders <rhyme label="c" type="m">daelt</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">So dat nerghens en <rhyme label="c" type="m" corresp="#s2:l4">faelt</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Den rueck in all de <rhyme label="b" type="f" corresp="#s2:l3">leden</rhyme>,</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Als den dau des berchs <rhyme label="a" type="m">Hermon</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">De berghen van <rhyme label="a" type="m" corresp="#s3:l1">Sion</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Uruchtbaer maeckt end <rhyme label="b" type="f">bedeghen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">So doet oock <rhyme label="c" type="m">d’eenicheyt</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Wiens volghers God <rhyme label="c" type="m" corresp="#s3:l4">bereydt</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Seghen end d’eewich <rhyme label="b" type="f" corresp="#s3:l3">leuen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

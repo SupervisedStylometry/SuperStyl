@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34571</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Guérissez-vous Sylvie</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Jan Mommaert</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">WIlt Phyllis u <rhyme label="a" type="f">ghenesen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">En voor het leedt <rhyme label="b" type="m">beho'en</rhyme>:</l>
+        <l id="s1:l3" met="3" type="-+">Als ghy ghesont sult <rhyme label="a" type="f" corresp="#s1:l1">wesen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Sult ghy ons beyd' <rhyme label="b" type="m" corresp="#s1:l2">voldoen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">2.Het Godtjen dat myn <rhyme label="a" type="f">plaghen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Veroorsaeckt, willet <rhyme label="b" type="m">doch</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Ghy moet hem dan <rhyme label="a" type="f" corresp="#s2:l1">behaghen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Oft vreesen syn <rhyme label="b" type="m" corresp="#s2:l2">bedrogh</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">3.Hy weet de li'en te <rhyme label="a" type="f">hebben</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Met kracht en <rhyme label="b" type="m">soetigheydt</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Verstrickt in syne <rhyme label="a" type="f" corresp="#s3:l1">webben</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Eer hy ghewelt <rhyme label="b" type="m" corresp="#s3:l2">bereydt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174021</id>
+    <date>
+      <year-start>1789</year-start>
+      <year-end>1789</year-end>
+    </date>
+    <tags>
+      <tag standard-name="politiek lied" translation="political song">politiek lied</tag>
+      <tag standard-name="vaderlands lied" translation="patriotic song">vaderlands lied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Waarom zou men niet vrolyk <rhyme label="a" type="f">weezen</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">Al schoon <rhyme label="b" type="m">gedrukt</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Doch niet <rhyme label="b" type="m" corresp="#s1:l2">gebukt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Word Vryheid! steeds door ons <rhyme label="a" type="f" corresp="#s1:l1">gepreezen</rhyme>;</l>
+        <l id="s1:l5" met="3" type="-+">Zoo lang de Koning <rhyme label="c" type="m">leeft</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Men voor geen onheil <rhyme label="c" type="m" corresp="#s1:l5">beeft</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Vernoegt en bly in onze <rhyme label="a" type="f">woning</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">Bevryd van <rhyme label="b" type="m">Slaaf</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Geëert van <rhyme label="b" type="m" corresp="#s2:l2">Graaf</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Beschermt ons thans een magtig <rhyme label="a" type="f" corresp="#s2:l1">Koning</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Die Edelmoedig <rhyme label="c" type="m">denkt</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">En ons de Vryheid <rhyme label="c" type="m" corresp="#s2:l5">schenkt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Daarom laat ons maar vrolyk <rhyme label="a" type="f">weezen</rhyme>,</l>
+        <l id="s3:l2" met="2" type="-+">De rust en <rhyme label="b" type="m">vrêe</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">De liefde <rhyme label="b" type="m" corresp="#s3:l2">mêe</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Die alle rampspoed doet <rhyme label="a" type="f" corresp="#s3:l1">geneezen</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Beminnen volgens <rhyme label="c" type="m">plicht</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Waar voor een Dwingland <rhyme label="c" type="m" corresp="#s3:l5">zwigt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">De twist het werktuig onzer <rhyme label="a" type="f">rampen</rhyme>,</l>
+        <l id="s4:l2" met="2" type="-+">Verdoemen <rhyme label="b" type="m">wy</rhyme>,</l>
+        <l id="s4:l3" met="2" type="-+">Aan onze <rhyme label="b" type="m" corresp="#s4:l2">zy</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Nooit moet 'er Bato's kroost mee <rhyme label="a" type="f" corresp="#s4:l1">kampen</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Zo lang de Waereld <rhyme label="c" type="m">slaat</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">De Vryheid boven <rhyme label="c" type="m" corresp="#s4:l5">gaat</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Laat ons dan onze vrye <rhyme label="a" type="f">handen</rhyme>,</l>
+        <l id="s5:l2" met="2" type="-+">ô Broeder <rhyme label="b" type="m">Schaar</rhyme>!</l>
+        <l id="s5:l3" met="2" type="-+">Slaan in <rhyme label="b" type="m" corresp="#s5:l2">elkaar</rhyme>;</l>
+        <l id="s5:l4" met="4" type="-+">Bevryden we ons van smert en <rhyme label="a" type="f" corresp="#s5:l1">banden</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">Lang leeft Louis de <rhyme label="c" type="m">Vorst</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">Die voor de Vryheid <rhyme label="c" type="m" corresp="#s5:l5">dorst</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

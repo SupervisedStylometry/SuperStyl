@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182604</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Sous le nom de l'amitié</melody>
+  <author>Hendrik Riemsnijder</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Schuuw, en als bevreest voor 't <rhyme label="a" type="m">licht</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Verbergt, in duistre <rhyme label="b" type="f">holen</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Verbergt, in duistre <rhyme label="b" type="f" corresp="#s1:l2">holen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Zig de Uil voor elks <rhyme label="a" type="m" corresp="#s1:l1">gezicht</rhyme>:</l>
+        <l id="s1:l5" met="3" type="-+">Waarom blyft hy <rhyme label="b" type="f" corresp="#s1:l2">verschoolen</rhyme>?</l>
+        <l id="s1:l6" met="3" type="-+">Om dat 't geen hy <rhyme label="a" type="m" corresp="#s1:l1">verricht</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Nooit den glans, nooit den <rhyme label="c" type="m">glans</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Dulden kan van 't helder <rhyme label="a" type="m" corresp="#s1:l1">licht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Laat ik vlieden elke <rhyme label="a" type="m">daad</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Die dwaas of boos kan <rhyme label="b" type="f">heeten</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Die dwaas of boos kan <rhyme label="b" type="f" corresp="#s2:l2">heeten</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">En wroeging <rhyme label="a" type="m" corresp="#s2:l1">agterlaat</rhyme>!</l>
+        <l id="s2:l5" met="3" type="-+">Een zuiver goed <rhyme label="b" type="f" corresp="#s2:l2">geweten</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Voedt voor het licht geen <rhyme label="a" type="m" corresp="#s2:l1">haat</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">En vreest nooit, en vreest <rhyme label="c" type="m">nooit</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">'t Onderzoek van eene <rhyme label="a" type="m" corresp="#s2:l1">daad</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

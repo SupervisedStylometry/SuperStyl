@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13076</id>
+    <date>
+      <year-start>1644</year-start>
+      <year-end>1644</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">Geestelijk lied</tag>
+    </tags>
+    <melody>C'est trop courir les eaux</melody>
+    <categories/>
+  <author>Christianus Vermeulen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">GEluckich desen <rhyme label="a" type="m">dan</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Een Schriftgeleerden <rhyme label="a" type="m" corresp="#s1:l1">man</rhyme></l>
+        <l id="s1:l3" met="6" type="-+">Die Christum vragen quam: welck is het groot <rhyme label="b" type="m">gebodt</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Dat lanck voor desen tijt gegeven is van <rhyme label="b" type="m" corresp="#s1:l3">Godt</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Maer Christus antwoordt <rhyme label="a" type="m">weer</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Ghy sult u Godt u <rhyme label="a" type="m" corresp="#s2:l1">Heer</rhyme></l>
+        <l id="s2:l3" met="6" type="-+">Wt gantscher ziel, en zin, en hert liefhebben, <rhyme label="b" type="m">en</rhyme></l>
+        <l id="s2:l4" met="6" type="-+">U Naesten als u selfs: dit schreef eens Godes <rhyme label="b" type="m" corresp="#s2:l3">pen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Aen dees' twee, hoort, en <rhyme label="a" type="m">let</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Hanght al de gantsche <rhyme label="a" type="m" corresp="#s3:l1">Wet</rhyme>:</l>
+        <l id="s3:l3" met="6" type="-+">Wel aen, bemint hem dan uyt gantscher herten <rhyme label="b" type="m">bly</rhyme>,</l>
+        <l id="s3:l4" met="6" type="-+">Op dat ghy noyt van hem en wijckt door <rhyme label="b" type="m" corresp="#s3:l3">kettery</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Staet in Godts-dienst doch <rhyme label="a" type="m">vast</rhyme>:</l>
+        <l id="s4:l2" met="3" type="-+">Want soet is all' zijn <rhyme label="a" type="m" corresp="#s4:l1">last</rhyme>,</l>
+        <l id="s4:l3" met="6" type="-+">Bedenckt den Hemel, maer vergeet doch niet de <rhyme label="b" type="m">Hell'</rhyme></l>
+        <l id="s4:l4" met="6" type="-+">Laet altijt ziel en zin, vast staen in Gods <rhyme label="b" type="m" corresp="#s4:l3">bevel</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Hier toe doch altijt <rhyme label="a" type="m">keert</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Eer desen tijt <rhyme label="a" type="m" corresp="#s5:l1">passeert</rhyme>,</l>
+        <l id="s5:l3" met="6" type="-+">En als ghy Godt bemint, u naesten mee <rhyme label="b" type="m">besindt</rhyme>,</l>
+        <l id="s5:l4" met="6" type="-+">'tIs anders al vergeefs, soomen geschreven <rhyme label="b" type="m" corresp="#s5:l3">vint</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

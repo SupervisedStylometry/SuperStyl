@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1606</id>
+    <date>
+      <year-start>1544</year-start>
+      <year-end>1544</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Arge winter gij zijt koud</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ARghe winter ghy zijt <rhyme label="a" type="m">cout</rhyme>.</l>
+        <l id="s1:l2" met="4" type="+-">Vergangen is ons tgroene <rhyme label="a" type="m" corresp="#s1:l1">wout</rhyme>.</l>
+        <l id="s1:l3" met="2" type="-+">Vergangen zijn ons <rhyme label="b" type="m">die</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">louerkens aender <rhyme label="c" type="f">heiden</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die loouerkens die aender heyden <rhyme label="a" type="m">staen</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">daer op singt die <rhyme label="a" type="m" corresp="#s2:l1">nachtegale</rhyme> |</l>
+        <l id="s2:l3" met="2" type="-+">Van minnen singhet <rhyme label="b" type="m">ons</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Die fiere <rhyme label="c" type="f">nachtegale</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Tsauonts als ick slapen <rhyme label="a" type="m">gae</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Vinde ic mijn bed alleine <rhyme label="a" type="m" corresp="#s3:l1">staen</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">daer op so <rhyme label="b" type="m">rust</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">die fiere <rhyme label="c" type="f">nachtegale</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Tsmorgens als ick op <rhyme label="a" type="m">stae</rhyme>.</l>
+        <l id="s4:l2" met="4" type="+-">Ende ick mi wel gheciert <rhyme label="a" type="m" corresp="#s4:l1">hae</rhyme></l>
+        <l id="s4:l3" met="2" type="-+">So coemt mijn <rhyme label="b" type="m">lief</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Ende biedt mi goeden <rhyme label="c" type="f">morghen</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Goede morghen so wil ick wel <rhyme label="a" type="m">voorwaer</rhyme></l>
+        <l id="s5:l2" met="4" type="+-">Ic seg vrou maecht bint op v <rhyme label="a" type="m" corresp="#s5:l1">hayr</rhyme></l>
+        <l id="s5:l3" met="2" type="-+">Met roode <rhyme label="b" type="m">gout</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Ende met groene <rhyme label="c" type="f">side</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Si ginc voor ic volchde <rhyme label="a" type="m">na</rhyme></l>
+        <l id="s6:l2" met="4" type="+-">si brochte my daer een schaecbert <rhyme label="a" type="m" corresp="#s6:l1">na</rhyme></l>
+        <l id="s6:l3" met="2" type="-+">In elcke <rhyme label="b" type="m">hant</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Twee <rhyme label="c" type="f">dobbelsteenen</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Si ley tsaecbert op <rhyme label="a" type="m">tvelt</rhyme></l>
+        <l id="s7:l2" met="4" type="+-">dye dobbelen wil die brenget <rhyme label="a" type="m" corresp="#s7:l1">gelt</rhyme></l>
+        <l id="s7:l3" met="2" type="-+">Anders mach <rhyme label="b" type="m">hi</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Tsoheyme wel <rhyme label="c" type="f">blijuen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

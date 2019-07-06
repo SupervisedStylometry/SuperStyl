@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>40732</id>
+    <date>
+      <year-start>1681</year-start>
+      <year-end>1681</year-end>
+    </date>
+    <location>
+      <orginal-name>leeuwarden</orginal-name>
+      <standard-name>Leeuwarden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>53.2005936</lon>
+        <lat>5.7918548</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="morgenlied" translation="morning song">morgenlied</tag>
+    </tags>
+    <melody>Sei tanto graziosa</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Gysbert Japicx</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O Glanz', mey salm-glanz' <rhyme label="a" type="f">glanzge</rhyme>!</l>
+        <l id="s1:l2" met="5" type="-+">O ljeacht, uwt ljeacht bern', buwtte' a tijdz <rhyme label="b" type="f">beginne</rhyme>!</l>
+        <l id="s1:l3" met="3" type="-+">Dy salm dy Sinne' om <rhyme label="a" type="f" corresp="#s1:l1">kransge</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Mey glanze', ô treast-ljeacht! ô gerjuechtheyt <rhyme label="b" type="f" corresp="#s1:l2">Sinne</rhyme>!</l>
+        <l id="s1:l5" met="2" type="-+">'t Nacht-tjuester <rhyme label="c" type="m">fljuecht</rhyme>;</l>
+        <l id="s1:l6" met="2" type="-+">For 't <rhyme label="c" type="m" corresp="#s1:l5">Moarn'-rjea-ljuecht</rhyme>;</l>
+        <l id="s1:l7" met="3" type="-+">Litte' eack also dy <rhyme label="d" type="f">grijmm'le</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">Dy swartte' <rhyme label="e" type="f">on-gruwne</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Fen uwz fordoarn-aerds <rhyme label="e" type="f" corresp="#s1:l8">suwn</rhyme></l>
+        <l id="s1:l10" met="2" type="-+">For jo <rhyme label="d" type="f" corresp="#s1:l7">forswijmm'le</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Holpje' uwz, ney' glanz'jons <rhyme label="a" type="f">wetten</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Eag, hannen, hert, siel, gaest in sinnen <rhyme label="b" type="f">draeyen</rhyme>.</l>
+        <l id="s2:l3" met="3" type="-+">Litt' jôn djoer bloed uwz <rhyme label="a" type="f" corresp="#s2:l1">bette</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Jon Hijmmelsch' sillig wijt klead uwz <rhyme label="b" type="f" corresp="#s2:l2">oer-klaeye</rhyme>.</l>
+        <l id="s2:l5" met="2" type="-+">Meytse' uwz <rhyme label="c" type="m">bejaen'</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">Dat w' alle' uwz <rhyme label="c" type="m" corresp="#s2:l5">dwaen</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">In litten ney jon <rhyme label="d" type="f">leere</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Az ljeachts bern, <rhyme label="e" type="f">stjoere</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">Az ny'-weer-bern, <rhyme label="e" type="f" corresp="#s2:l8">Cre'tuwre'</rhyme>,</l>
+        <l id="s2:l10" met="2" type="-+">O ljeave <rhyme label="d" type="f" corresp="#s2:l7">HEERE</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

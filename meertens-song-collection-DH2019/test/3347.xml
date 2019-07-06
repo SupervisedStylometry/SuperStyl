@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3347</id>
+    <date>
+      <year-start>1575</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+    </tags>
+    <melody>Psalm 008 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">HErtkennis zoeckt, die haat en liefd moet <rhyme label="a" type="f">baren</rhyme>.</l>
+        <l id="s1:l2" met="5" type="-+">Dees kennis leeft, en kan elx hert <rhyme label="a" type="f" corresp="#s1:l1">bewaren</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">Voor ydel waan, die doodlick zijnde, <rhyme label="b" type="m">dood</rhyme>.</l>
+        <l id="s1:l4" met="5" type="-+">Teen is maar kaf, tander ist levens <rhyme label="b" type="m" corresp="#s1:l3">brood</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">De dode waan teelt vruchteloze <rhyme label="a" type="f">bloemen</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Int hoofds vernuft, vol doodlick zot <rhyme label="a" type="f" corresp="#s2:l1">beroemen</rhyme>.</l>
+        <l id="s2:l3" met="5" type="-+">Maar tlevend zaad des waarheyds vruchten <rhyme label="b" type="m">gheeft</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Int vruchtbaar hert, daar ware kennis <rhyme label="b" type="m" corresp="#s2:l3">leeft</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Het waan wys hoofd, wanckt licht door waans <rhyme label="a" type="f">bedrieghen</rhyme>:</l>
+        <l id="s3:l2" met="5" type="-+">Maar waarheyds hert, staat vast, ten magh niet <rhyme label="a" type="f" corresp="#s3:l1">lieghen</rhyme>.</l>
+        <l id="s3:l3" met="5" type="-+">Hooftkennis quelt met onrust <rhyme label="b" type="m">rouwelick</rhyme>:</l>
+        <l id="s3:l4" met="5" type="-+">Hertkennis stelt in rust <rhyme label="b" type="m" corresp="#s3:l3">ghetrouwelick</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Want dees heeft grond, die dryft hoogh inder <rhyme label="a" type="f">luchten</rhyme>.</l>
+        <l id="s4:l2" met="5" type="-+">Dees maackt ghezond, die quetst met anxtigh <rhyme label="a" type="f" corresp="#s4:l1">duchten</rhyme>.</l>
+        <l id="s4:l3" met="5" type="-+">Hert kennis kent des dueghds en boosheyds <rhyme label="b" type="m">aart</rhyme>:</l>
+        <l id="s4:l4" met="5" type="-+">Tot dueghd zy went, vant quaad maackt zy <rhyme label="b" type="m" corresp="#s4:l3">vervaart</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Zo baart zy leifd tot dueghd en haat ten <rhyme label="a" type="f">quaden</rhyme>:</l>
+        <l id="s5:l2" met="5" type="-+">Door wyze kuer met waarheyds trouw <rhyme label="a" type="f" corresp="#s5:l1">aanraden</rhyme></l>
+        <l id="s5:l3" met="5" type="-+">Dit doet van tquaad afwycken <rhyme label="b" type="m">wysselick</rhyme>.</l>
+        <l id="s5:l4" met="5" type="-+">En theylzaam ghoed bejaghen <rhyme label="b" type="m" corresp="#s5:l3">prysselick</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="5" type="-+">Het vlien van tquaad doet ghoedheyd schoon <rhyme label="a" type="f">ghenaken</rhyme>.</l>
+        <l id="s6:l2" met="5" type="-+">Dueghds aanwenst eel is ghoed en moet ghoed <rhyme label="a" type="f" corresp="#s6:l1">maken</rhyme></l>
+        <l id="s6:l3" met="5" type="-+">tVerzochte hert daar zalicheyd by <rhyme label="b" type="m">paart</rhyme>.</l>
+        <l id="s6:l4" met="5" type="-+">Hert kennis zoeckt, die haat en liefde <rhyme label="b" type="m" corresp="#s6:l3">baart</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>173401</id>
+    <date>
+      <year-start>1802</year-start>
+      <year-end>1802</year-end>
+    </date>
+    <location>
+      <orginal-name>den haag</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Psalm 087 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Bij U is kragt! Bij U, mijn God! is <rhyme label="a" type="f">leven</rhyme>.</l>
+        <l id="s1:l2" met="5" type="-+">Wat was en is, blijft enkel door uw <rhyme label="b" type="m">magt</rhyme>.</l>
+        <l id="s1:l3" met="5" type="-+">Vraagt aan 't heel-al: wie is uw <rhyme label="b" type="m" corresp="#s1:l2">levenskragt</rhyme>?</l>
+        <l id="s1:l4" met="5" type="-+">En 't zal U; God alleen! ten antwoord <rhyme label="a" type="f" corresp="#s1:l1">geven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Waar 't wormpje kruipt; daar moet men U <rhyme label="a" type="f">verhogen</rhyme>.</l>
+        <l id="s2:l2" met="5" type="-+">De Seraf zelf, die voor uw troon mag <rhyme label="b" type="m">staan</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Is maar een beek uit uwen <rhyme label="b" type="m" corresp="#s2:l2">Oceaan</rhyme>:</l>
+        <l id="s2:l4" met="5" type="-+">Gij geeft; zij stroomt! Gij neemt; zij moet <rhyme label="a" type="f" corresp="#s2:l1">verdrogen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Aanbidt, mijn ziel! de sterke zal u <rhyme label="a" type="f">dragen</rhyme>.</l>
+        <l id="s3:l2" met="5" type="-+">Rust bij die bron! ga heen in deez' uw <rhyme label="b" type="m">kragt</rhyme>!</l>
+        <l id="s3:l3" met="5" type="-+">Uw zijn, en 't heil, dat gij in Jesus <rhyme label="b" type="m" corresp="#s3:l2">wagt</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Staan op de rots van 't magtig <rhyme label="a" type="f" corresp="#s3:l1">welbehagen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

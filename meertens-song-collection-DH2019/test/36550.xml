@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36550</id>
+    <date>
+      <year-start>1734</year-start>
+      <year-end>1735</year-end>
+    </date>
+    <location>
+      <orginal-name>gent</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>O zalig heilig Bethlehem</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Laet ons den Heere dankbaer <rhyme label="a" type="m">zyn</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Wilt hem hier loven ende <rhyme label="b" type="f">pryzen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Die ons al spyst op elk <rhyme label="a" type="m" corresp="#s1:l1">termyn</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">'t Is recht dat wy hem lof <rhyme label="b" type="f" corresp="#s1:l2">bewyzen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wilt zynen naeme <rhyme label="a" type="m">zoet</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Die ons door zyn' magt kan <rhyme label="b" type="f">verzaeden</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Elk hem met lofzang pryzen <rhyme label="a" type="m" corresp="#s2:l1">moet</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Die ons spyst door zyn' <rhyme label="b" type="f" corresp="#s2:l2">genaden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Vervolt zyn wy met spyz'en <rhyme label="a" type="m">drank</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Door zyn' goedheyd tot ons <rhyme label="b" type="f">weldaedig</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Dus moeten wy hem spreken <rhyme label="a" type="m" corresp="#s3:l1">dank</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Aenroepen zynen naem <rhyme label="b" type="f" corresp="#s3:l2">gestaedig</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Dus u met herten tot God <rhyme label="a" type="m">keert</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">En legt uw' handen al te <rhyme label="b" type="f">gader</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">En bid zoo God ons heeft <rhyme label="a" type="m" corresp="#s4:l1">geleert</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Godvruchtelyk eenen onzen <rhyme label="b" type="f" corresp="#s4:l2">Vader</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">O Heer! Wy zeggen nu voor 't <rhyme label="a" type="m">slot</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Wilt onze zielen mede <rhyme label="b" type="f">spyzen</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Op dat wy Heer na uw <rhyme label="a" type="m" corresp="#s5:l1">gebod</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Altyd getrouwigheyd <rhyme label="b" type="f" corresp="#s5:l2">bewyzen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Princelyk God genade <rhyme label="a" type="m">doet</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Op dat wy door Christus <rhyme label="b" type="f">verwerven</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Genade door zyn dierbaer <rhyme label="a" type="m" corresp="#s6:l1">Bloed</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Zalig leven en te <rhyme label="b" type="f" corresp="#s6:l2">sterven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

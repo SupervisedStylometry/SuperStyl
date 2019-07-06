@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10254</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Polyphemus aan de stranden</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Minne saetje // Snedich <rhyme label="a" type="f">blaetje</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Cnopje van een lieve <rhyme label="b" type="m">bloem</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Open bloempje // Hoven <rhyme label="c" type="f">roempje</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Gun my dat ick u soo <rhyme label="b" type="m" corresp="#s1:l2">noem</rhyme>,</l>
+        <l id="s1:l5" met="6" type="+-">Mijn pen weet aers niet te schryven // of te <rhyme label="d" type="f">vryven</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Maer dat meer als al te <rhyme label="b" type="m" corresp="#s1:l2">dom</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Minne Beekje // Sonder <rhyme label="a" type="f">vleckje</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Ongeveynsde open <rhyme label="b" type="m">hart</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Harten heelster // Harten <rhyme label="c" type="f">steelster</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Wisse heelster van mijn <rhyme label="b" type="m" corresp="#s2:l2">smart</rhyme>,</l>
+        <l id="s2:l5" met="6" type="+-">Mocht ick u ten vollen toonen // Ende <rhyme label="d" type="f">loonen</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">'t Geen ten tijdt verborgen <rhyme label="b" type="m" corresp="#s2:l2">wert</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Vwe vryers // Mijn <rhyme label="a" type="f">benyers</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Tegenstryers <rhyme label="b" type="m">Rosemont</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Loffe praters // Minnes <rhyme label="c" type="f">haters</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Even haters ruycken <rhyme label="b" type="m" corresp="#s3:l2">lont</rhyme>,</l>
+        <l id="s3:l5" met="6" type="+-">Dat u minne my vriendinne, Lockt te <rhyme label="d" type="f">binne</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Door een onderling <rhyme label="b" type="m" corresp="#s3:l2">verbont</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

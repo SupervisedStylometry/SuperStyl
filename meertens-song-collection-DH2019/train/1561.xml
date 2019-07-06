@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1561</id>
+    <date>
+      <year-start>1624</year-start>
+      <year-end>1624</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody>Psalm 100 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Samuel Ampzing</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">VVy dancken u met volle <rhyme label="a" type="m">mondt</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">O Heere Godt, uyt 'sherten <rhyme label="a" type="m" corresp="#s1:l1">grondt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Dat ghy ons so verscheyden <rhyme label="b" type="m">goedt</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Nae lijf en ziel geduerich <rhyme label="b" type="m" corresp="#s1:l3">doet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Dat ghy van alles ons <rhyme label="a" type="m">versiet</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">En met u segen <rhyme label="a" type="m" corresp="#s2:l1">overgiet</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En in dit leven <rhyme label="b" type="m">onderhoudt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">En onse huys in vrede <rhyme label="b" type="m" corresp="#s2:l3">bouwt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Maer meest, en wel <rhyme label="a" type="m">insonderheydt</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Dat ghy ons hebt een heyl <rhyme label="a" type="m" corresp="#s3:l1">bereydt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Dat dit so wijt te boven <rhyme label="b" type="m">gaet</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Als 'tAerdtrijck vanden Hemel <rhyme label="b" type="m" corresp="#s3:l3">staet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Dus laer niet toe (O lieve <rhyme label="a" type="m">Heer</rhyme>!)</l>
+        <l id="s4:l2" met="4" type="-+">Dat onse zielen <rhyme label="a" type="m" corresp="#s4:l1">immermeer</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Met lust van dese <rhyme label="b" type="m">wereldts-schijn</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Begochelt, en bevangen <rhyme label="b" type="m" corresp="#s4:l3">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Maer treck altijdt ons' hert en <rhyme label="a" type="m">oog</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Uan 't Aerdtsche Niet tot u om <rhyme label="a" type="m" corresp="#s5:l1">hoog</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Op dat van ons mach zijn <rhyme label="b" type="m">betracht</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">De plaets daer Christus ons <rhyme label="b" type="m" corresp="#s5:l3">verwacht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

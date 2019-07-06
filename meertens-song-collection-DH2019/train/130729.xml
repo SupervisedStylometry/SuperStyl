@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>130729</id>
+    <date>
+      <year-start>1711</year-start>
+      <year-end>1711</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="droomlied" translation="dream song">droomlied</tag>
+    </tags>
+    <melody>Laura zat laatst bij de beek</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="miscellaneous">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Laura sat laest aen de <rhyme label="a" type="m">beek</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Onder 't schauw van Else <rhyme label="b" type="f">Boomen</rhyme>.</l>
+        <l id="s1:l3" met="4" type="+-">Sagjes sy in 't water <rhyme label="a" type="m" corresp="#s1:l1">keek</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Is daer na in slaep <rhyme label="b" type="f" corresp="#s1:l2">gekomen</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">En begost heel zoet te <rhyme label="b" type="f" corresp="#s1:l2">dromen</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Van de liefde, van de <rhyme label="c" type="m">min</rhyme>.</l>
+        <l id="s1:l7" met="4" type="+-">Slapend is sy neer <rhyme label="d" type="f">gesegen</rhyme>:</l>
+        <l id="s1:l8" met="4" type="+-">Met haer boesem los <rhyme label="d" type="f" corresp="#s1:l7">ontregen</rhyme></l>
+        <l id="s1:l9" met="4" type="+-">Lag myn schoone Veld <rhyme label="c" type="m" corresp="#s1:l6">Godin</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Wijl sy daer alleenig <rhyme label="a" type="m">sat</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Ging ik by haer neder <rhyme label="b" type="f">sitten</rhyme>.</l>
+        <l id="s2:l3" met="4" type="+-">Mits ik na haer borsjes <rhyme label="a" type="m" corresp="#s2:l1">vat</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Roept mijn Laura: ‘Wat is <rhyme label="b" type="f" corresp="#s2:l2">ditte</rhyme>!</l>
+        <l id="s2:l5" met="4" type="+-">Ag, mijn boesem brand van <rhyme label="b" type="f" corresp="#s2:l2">hitte</rhyme>!’</l>
+        <l id="s2:l6" met="4" type="+-">Hier mee sijgt sy weder <rhyme label="c" type="m">neer</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">En begint op nieuw te <rhyme label="d" type="f">dromen</rhyme>:</l>
+        <l id="s2:l8" met="4" type="+-">‘Soo je wilt, soo meugje <rhyme label="d" type="f" corresp="#s2:l7">komen</rhyme>.</l>
+        <l id="s2:l9" met="4" type="+-">Neen, O neen, het krenkt mijn <rhyme label="c" type="m" corresp="#s2:l6">eer</rhyme>!’</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Mits neem ik een hand vol <rhyme label="a" type="m">groen</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">'t Geen doormengelt was met <rhyme label="b" type="f">roosen</rhyme>.</l>
+        <l id="s3:l3" met="4" type="+-">Laura roept: ‘Wat wilje <rhyme label="a" type="m" corresp="#s3:l1">doen</rhyme>?’</l>
+        <l id="s3:l4" met="4" type="+-">Ik begin van schaemt te <rhyme label="b" type="f" corresp="#s3:l2">bloosen</rhyme>.</l>
+        <l id="s3:l5" met="4" type="+-">Daer gaet sy een sugje <rhyme label="b" type="f" corresp="#s3:l2">losen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Valt weer soetjes neer in 't <rhyme label="c" type="m">gras</rhyme>.</l>
+        <l id="s3:l7" met="4" type="+-">‘Og, ik ben door droom <rhyme label="d" type="f">bedrogen</rhyme>’,</l>
+        <l id="s3:l8" met="4" type="+-">Riep sy met beslooten <rhyme label="d" type="f" corresp="#s3:l7">oogen</rhyme>,</l>
+        <l id="s3:l9" met="4" type="+-">’ 'k Meen, ik sonder maagdom <rhyme label="c" type="m" corresp="#s3:l6">was</rhyme>.’</l>
+      </lg>
+    </lg>
+  </text>
+</song>

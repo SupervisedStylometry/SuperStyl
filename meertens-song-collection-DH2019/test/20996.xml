@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20996</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
+    </tags>
+    <melody>Schoonste nimf van het woud</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">HEt ontelbaarste op de <rhyme label="a" type="m">aard</rhyme>,</l>
+        <l id="s1:l2" met="2" type="+-">'t Meest van <rhyme label="a" type="m" corresp="#s1:l1">waard</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">En het minst geacht by <rhyme label="b" type="f">menschen</rhyme>;</l>
+        <l id="s1:l4" met="4" type="+-">Na ik oordeel, is de <rhyme label="c" type="m">tijd</rhyme>,</l>
+        <l id="s1:l5" met="2" type="+-">Als die <rhyme label="c" type="m" corresp="#s1:l4">quijt</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Is, zal meening die weer <rhyme label="b" type="f" corresp="#s1:l3">wenschen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

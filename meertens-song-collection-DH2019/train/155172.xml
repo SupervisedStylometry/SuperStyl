@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>155172</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Wat is er groter vreugde op aarde</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="theatre">theater</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Buyg u dan, mijn <rhyme label="a" type="m">Engelin</rhyme>,</l>
+        <l id="s1:l2" met="2" type="+-">Voor mijn <rhyme label="a" type="m" corresp="#s1:l1">min</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Staak dit wrede <rhyme label="b" type="f">tegenpogen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Laat de grootheid van mijn <rhyme label="c" type="m">smert</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Eens verwekken in uw <rhyme label="c" type="m" corresp="#s1:l4">hert</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Een behoorlijk   <rhyme label="b" type="f" corresp="#s1:l3">mededogen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

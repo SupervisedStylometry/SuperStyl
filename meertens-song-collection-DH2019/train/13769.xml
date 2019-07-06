@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13769</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="meilied" translation="May song">meilied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author>anoniem</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">WY zijnde Winter <rhyme label="a" type="m">quijt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Met al haer koude <rhyme label="b" type="f">vlagen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">De soete <rhyme label="a" type="m" corresp="#s1:l1">Somer-tijt</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Toont ons veel schoone <rhyme label="b" type="f" corresp="#s1:l2">dagen</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">De Leeuwerick <rhyme label="c" type="m">soet</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Maeckt weer een velt <rhyme label="d" type="m">gheschrey</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Geen soeter tijt als in de <rhyme label="d" type="m" corresp="#s1:l6">Mey</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">’t Gevogelt swack en <rhyme label="a" type="m">teer</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Sit weer te <rhyme label="b" type="f">tierelieren</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">De Minnaer mach nu <rhyme label="a" type="m" corresp="#s2:l1">weer</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Met sijn Schoon-lief <rhyme label="b" type="f" corresp="#s2:l2">pleysieren</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">De beesjens <rhyme label="c" type="m">gaen</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Weer grasen in de <rhyme label="d" type="m">Wey</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Geen soeter tijdt als inde <rhyme label="d" type="m" corresp="#s2:l6">Mey</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Wanneer de Son <rhyme label="a" type="m">door-dringht</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Den dauw van ‘t lof te <rhyme label="b" type="f">droogen</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">En al ‘t gevogelt <rhyme label="a" type="m" corresp="#s3:l1">singht</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Dan sal den Minnaer <rhyme label="b" type="f" corresp="#s3:l2">poogen</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">Om Liefdens <rhyme label="c" type="m">lust</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Te krijgen door ‘t <rhyme label="d" type="m">gevley</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Geen soeter tijdt als in de <rhyme label="d" type="m" corresp="#s3:l6">Mey</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">O ghy Nimphjes <rhyme label="a" type="m">t’eenemael</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">En Venus <rhyme label="b" type="f">Iongelingen</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Kom hoort den <rhyme label="a" type="m" corresp="#s4:l1">Nachtegael</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">In ‘t Bosch hier buyten <rhyme label="b" type="f" corresp="#s4:l2">singen</rhyme>,</l>
+        <l id="s4:l5" met="2" type="-+">‘Tis nouw de <rhyme label="c" type="m">tijdt</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Kom voeght u aen de <rhyme label="d" type="m">Rey</rhyme>,</l>
+        <l id="s4:l7" met="4" type="-+">Geen soeter tijdt als in de <rhyme label="d" type="m" corresp="#s4:l6">Mey</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182609</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>C'est la fête du village</melody>
+  <author>Hendrik Riemsnijder</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Ha, wat heeft die Schimmel <rhyme label="a" type="f">gaaven</rhyme>!</l>
+        <l id="s1:l2" met="4" type="+-">(Riep een knaapje:) zie, ei <rhyme label="b" type="m">zie</rhyme>!</l>
+        <l id="s1:l3" met="5" type="+-">Zie, zie! zie, ei <rhyme label="b" type="m" corresp="#s1:l2">zie</rhyme>!</l>
+        <l id="s1:l4" met="4" type="+-">Och! laat ik 'er eens op <rhyme label="a" type="f" corresp="#s1:l1">draaven</rhyme>!</l>
+        <l id="s1:l5" met="4" type="+-">'k Bid, dat my die gunst <rhyme label="b" type="m" corresp="#s1:l2">geschiê</rhyme>.</l>
+        <l id="s1:l6" met="5" type="+-">Zie, zie! zie, ei <rhyme label="b" type="m" corresp="#s1:l2">zie</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Eer' ge een dwaazen wensch wilt <rhyme label="a" type="f">vieren</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">(Sprak de Ruiter:) toets uw <rhyme label="b" type="m">kragt</rhyme>!</l>
+        <l id="s2:l3" met="5" type="+-">Wagt, wagt! wagt! ei <rhyme label="b" type="m" corresp="#s2:l2">wagt</rhyme>!</l>
+        <l id="s2:l4" met="4" type="+-">Zoo ge een Paard reeds wilt <rhyme label="a" type="f" corresp="#s2:l1">bestieren</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Waagt ge uw leven <rhyme label="b" type="m" corresp="#s2:l2">onbedagt</rhyme>!</l>
+        <l id="s2:l6" met="5" type="+-">Wagt, wagt! wagt, ei <rhyme label="b" type="m" corresp="#s2:l2">wagt</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

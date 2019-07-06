@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184320</id>
+    <date>
+      <year-start>1785</year-start>
+      <year-end>1785</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Men zag Dametas lange tijd</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Veel zegen Buurman! met dit <rhyme label="a" type="m">feest</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Zie ras uw vrouw geheel <rhyme label="b" type="f">herstellen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Laat altoos u naar lyf en <rhyme label="a" type="m" corresp="#s1:l1">geest</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Des Hemels milde gunst <rhyme label="b" type="f" corresp="#s1:l2">verzellen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Win altoos geld in <rhyme label="c" type="m">overvloed</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Zo gaat het ook uw vrienden <rhyme label="c" type="m" corresp="#s1:l5">goed</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

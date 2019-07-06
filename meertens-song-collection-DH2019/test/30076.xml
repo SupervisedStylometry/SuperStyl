@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>30076</id>
+    <date>
+      <year-start>1591</year-start>
+      <year-end>1591</year-end>
+    </date>
+    <location>
+      <orginal-name>middelburg</orginal-name>
+      <standard-name>Middelburg, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.4997302</lon>
+        <lat>3.6136962</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 117 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">LOift alle Heydens God den <rhyme label="a" type="m">Heer</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Ghy volcken prijst hem, doet hem <rhyme label="a" type="m" corresp="#s1:l1">eer</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Want sijn genaed end gunste <rhyme label="b" type="m">goet</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Streckt over ons in <rhyme label="b" type="m" corresp="#s1:l3">overvloet</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">End sijne waerheyt vast <rhyme label="c" type="m">gegront</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Blijft eewich dueren t'alle <rhyme label="c" type="m" corresp="#s1:l5">stont</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

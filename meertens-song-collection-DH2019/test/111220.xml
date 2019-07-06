@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111220</id>
+    <date>
+      <year-start>1650</year-start>
+      <year-end>1660</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="seizoenslied" translation="seasonal song">seizoenslied</tag>
+    </tags>
+    <melody>Baise-moi ma Jeanneton</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">SIet de Winter kout en <rhyme label="a" type="m">bar</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Die komt seer fel <rhyme label="b" type="f">aendringen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Siet eens hoe sy even <rhyme label="a" type="m" corresp="#s1:l1">Nar</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Achter malkander <rhyme label="b" type="f" corresp="#s1:l2">wringen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Elck een zwiert en zwaeyt soo <rhyme label="c" type="m">heen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">En de Nar gaet lustigh <rhyme label="c" type="m" corresp="#s1:l5">treen</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Komt rammelend' <rhyme label="d" type="f">aenstooten</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Op wackere stijve <rhyme label="d" type="f" corresp="#s1:l7">kooten</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Fobert draeyt met Trijn op't <rhyme label="a" type="m">Ys</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Met nieu fatsoen van <rhyme label="b" type="f">kleeren</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Elck pocht om de beste <rhyme label="a" type="m" corresp="#s2:l1">prijs</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">De Paerden te <rhyme label="b" type="f" corresp="#s2:l2">trotseeren</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Nar, Nar, soo roeptmen <rhyme label="c" type="m">daer</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Schicken vast de baen heel <rhyme label="c" type="m" corresp="#s2:l5">klaer</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Men doet sijn best in't <rhyme label="d" type="f">rijen</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Om lieflijck te <rhyme label="d" type="f" corresp="#s2:l7">bedijen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Wie is maller seytmen <rhyme label="a" type="m">dan</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">De Rijer of de <rhyme label="b" type="f">Trecker</rhyme>?</l>
+        <l id="s3:l3" met="4" type="+-">Dit spottende, seyt de Meyt of <rhyme label="a" type="m" corresp="#s3:l1">Man</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">En broense noch veel <rhyme label="b" type="f" corresp="#s3:l2">gecker</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Die sijn Paert best is <rhyme label="c" type="m">verciert</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Met de Nar op't weytste <rhyme label="c" type="m" corresp="#s3:l5">giert</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">De Nar moetmen <rhyme label="d" type="f">prijsen</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">En veel eers <rhyme label="d" type="f" corresp="#s3:l7">bewijsen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Dan op 't Ys, in Schuyt of <rhyme label="a" type="m">Slee</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Doen een <rhyme label="b" type="f">omme-reysje</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">'t Is dan Heerschop, wilje <rhyme label="a" type="m" corresp="#s4:l1">mee</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Met dat moye <rhyme label="b" type="f" corresp="#s4:l2">Meysje</rhyme>:</l>
+        <l id="s4:l5" met="4" type="+-">Soo het dan in als <rhyme label="c" type="m">gevalt</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Dan op 't aldersoetst <rhyme label="c" type="m" corresp="#s4:l5">gemalt</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Nar, Nar, Nar, wy <rhyme label="d" type="f">krijten</rhyme>,</l>
+        <l id="s4:l8" met="3" type="-+">Met sonderlingh <rhyme label="d" type="f" corresp="#s4:l7">verwijten</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">'t Paertje brunst met groot <rhyme label="a" type="m">gedruys</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Met op-gesteken <rhyme label="b" type="f">ooren</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Den Avont valt, elck spoet na <rhyme label="a" type="m" corresp="#s5:l1">huys</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">'t Is jeughdigh om te <rhyme label="b" type="f" corresp="#s5:l2">hooren</rhyme>,</l>
+        <l id="s5:l5" met="4" type="+-">Nar, Nar, Nar, soo klinckt de <rhyme label="c" type="m">Bel</rhyme>,</l>
+        <l id="s5:l6" met="4" type="+-">Heel soet past dit Narren <rhyme label="c" type="m" corresp="#s5:l5">wel</rhyme>,</l>
+        <l id="s5:l7" met="3" type="-+">Van weyts en steetse <rhyme label="d" type="f">pronckers</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">Gelijck oft waren <rhyme label="d" type="f" corresp="#s5:l7">Jonckers</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Elck noch een bravade <rhyme label="a" type="m">doet</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">Met heen en weer te <rhyme label="b" type="f">draven</rhyme>,</l>
+        <l id="s6:l3" met="4" type="+-">Elck sijn lusten noch eens <rhyme label="a" type="m" corresp="#s6:l1">boet</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">En laten 't Paertjen <rhyme label="b" type="f" corresp="#s6:l2">slaven</rhyme>,</l>
+        <l id="s6:l5" met="4" type="+-">Nar, Nar, Nar, soo is 't <rhyme label="c" type="m">gerucht</rhyme>,</l>
+        <l id="s6:l6" met="4" type="+-">Met een dreunende <rhyme label="c" type="m" corresp="#s6:l5">gevlucht</rhyme>,</l>
+        <l id="s6:l7" met="3" type="-+">By Rijers en by <rhyme label="d" type="f">Rijsters</rhyme>,</l>
+        <l id="s6:l8" met="3" type="-+">By Vrijers en by <rhyme label="d" type="f" corresp="#s6:l7">Vrijsters</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">Dan men malt, met jockt en <rhyme label="a" type="m">speelt</rhyme>,</l>
+        <l id="s7:l2" met="3" type="-+">Met lacchen, en met <rhyme label="b" type="f">kussen</rhyme>,</l>
+        <l id="s7:l3" met="4" type="+-">Menigh soentjen men haest <rhyme label="a" type="m" corresp="#s7:l1">steelt</rhyme>,</l>
+        <l id="s7:l4" met="3" type="-+">Om 't Ry-loon te <rhyme label="b" type="f" corresp="#s7:l2">versuffen</rhyme>,</l>
+        <l id="s7:l5" met="4" type="+-">Blijven Nar, Nar, tot het <rhyme label="c" type="m">ent</rhyme>,</l>
+        <l id="s7:l6" met="4" type="+-">Ja zijn gantschelijck <rhyme label="c" type="m" corresp="#s7:l5">afgement</rhyme></l>
+        <l id="s7:l7" met="3" type="-+">Door 't loopen en door 't <rhyme label="d" type="f">hijgen</rhyme>,</l>
+        <l id="s7:l8" met="3" type="-+">Als sy maer soentjens <rhyme label="d" type="f" corresp="#s7:l7">krijgen</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="+-">'t Savonts by de lichte <rhyme label="a" type="m">Maen</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">Moet noch't Paertjen <rhyme label="b" type="f">trecken</rhyme>,</l>
+        <l id="s8:l3" met="4" type="+-">Maken soo de straet <rhyme label="a" type="m" corresp="#s8:l1">ruym-baen</rhyme>,</l>
+        <l id="s8:l4" met="3" type="-+">'t Is al om lusts <rhyme label="b" type="f" corresp="#s8:l2">verwecken</rhyme>,</l>
+        <l id="s8:l5" met="4" type="+-">En 't luyt al Nar uyt, Nar <rhyme label="c" type="m">in</rhyme></l>
+        <l id="s8:l6" met="4" type="+-">Om een hant vol kleyn <rhyme label="c" type="m" corresp="#s8:l5">gewin</rhyme></l>
+        <l id="s8:l7" met="3" type="-+">'t Narretjen men gaet <rhyme label="d" type="f">jagen</rhyme>,</l>
+        <l id="s8:l8" met="3" type="-+">Om 't Meysjen te <rhyme label="d" type="f" corresp="#s8:l7">behagen</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="+-">Maer eer dat een Jaer is <rhyme label="a" type="m">om</rhyme></l>
+        <l id="s9:l2" met="3" type="-+">Siet men veel met <rhyme label="b" type="f">hoopen</rhyme></l>
+        <l id="s9:l3" met="4" type="+-">Banckerot als Narren <rhyme label="a" type="m" corresp="#s9:l1">dol</rhyme></l>
+        <l id="s9:l4" met="3" type="-+">Nae Vyanen <rhyme label="b" type="f" corresp="#s9:l2">loopen</rhyme>:</l>
+        <l id="s9:l5" met="4" type="+-">Dan besuchten 't Weeuw' en <rhyme label="c" type="m">Wees</rhyme>,</l>
+        <l id="s9:l6" met="4" type="+-">Die haer goet missen met <rhyme label="c" type="m" corresp="#s9:l5">vrees</rhyme>;</l>
+        <l id="s9:l7" met="3" type="-+">'t Zijn Goddeloose <rhyme label="d" type="f">dingen</rhyme>,</l>
+        <l id="s9:l8" met="3" type="-+">Die 't goet spot'lijck <rhyme label="d" type="f" corresp="#s9:l7">door-brengen</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="+-">Prins, soo gecklijck niet <rhyme label="a" type="m">bemint</rhyme>,</l>
+        <l id="s10:l2" met="3" type="-+">Dat ghy u laet <rhyme label="b" type="f">vervoeren</rhyme>,</l>
+        <l id="s10:l3" met="4" type="+-">Van het eunjer wulpse <rhyme label="a" type="m" corresp="#s10:l1">kint</rhyme>,</l>
+        <l id="s10:l4" met="3" type="-+">Wilt u lusten <rhyme label="b" type="f" corresp="#s10:l2">snoeren</rhyme>,</l>
+        <l id="s10:l5" met="4" type="+-">Nar, Nar, Nar, soo sturfje <rhyme label="c" type="m">dan</rhyme>,</l>
+        <l id="s10:l6" met="4" type="+-">Houdje lustigh als een <rhyme label="c" type="m" corresp="#s10:l5">Man</rhyme>,</l>
+        <l id="s10:l7" met="3" type="-+">Neemt geen Paert met <rhyme label="d" type="f">Bellen</rhyme>,</l>
+        <l id="s10:l8" met="3" type="-+">Soo sal men u niet <rhyme label="d" type="f" corresp="#s10:l7">quellen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

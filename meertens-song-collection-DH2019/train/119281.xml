@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>119281</id>
+    <date>
+      <year-start>1730</year-start>
+      <year-end>1730</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Boksvoetje</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Jakobus Rosseau</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">IK wenschje <rhyme label="a" type="m">geluk</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Heer Bruigom en <rhyme label="b" type="m">Bruit</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Nooit ramp nog <rhyme label="a" type="m" corresp="#s1:l1">druk</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">In de Egte <rhyme label="b" type="m" corresp="#s1:l2">Schuit</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Maar zoete <rhyme label="c" type="f">geneugde</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">En vrolyk <rhyme label="d" type="m">vermaak</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Zeg, vatje de <rhyme label="c" type="f" corresp="#s1:l5">vreugde</rhyme>?</l>
+        <l id="s1:l8" met="2" type="-+">De Min is een <rhyme label="d" type="m" corresp="#s1:l6">Snaak</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Ja leeft 'er <rhyme label="a" type="m">gelyk</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">Tisbe met <rhyme label="b" type="m">Piraam</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Wind schatte, werd <rhyme label="a" type="m" corresp="#s2:l1">ryk</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">En een goede <rhyme label="b" type="m" corresp="#s2:l2">naam</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Het kwelen, en <rhyme label="c" type="f">strelen</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">En zulke <rhyme label="d" type="m">pret</rhyme>,</l>
+        <l id="s2:l7" met="2" type="-+">Moet nimmer <rhyme label="c" type="f" corresp="#s2:l5">vervelen</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Op 't Huwelyks <rhyme label="d" type="m" corresp="#s2:l6">Bed</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">'k Wensch dat je <rhyme label="a" type="m">verwind</rhyme>,</l>
+        <l id="s3:l2" met="2" type="-+">Ja binne het <rhyme label="b" type="m">jaar</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">Te zamen een <rhyme label="a" type="m" corresp="#s3:l1">kind</rhyme>,</l>
+        <l id="s3:l4" met="2" type="-+">In alles heel <rhyme label="b" type="m" corresp="#s3:l2">raar</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">Heel blankjes van <rhyme label="c" type="f">leden</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">Met oogjes als <rhyme label="d" type="m">git</rhyme>,</l>
+        <l id="s3:l7" met="2" type="-+">Daar heb je de <rhyme label="c" type="f" corresp="#s3:l5">reden</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">Verstaje lui <rhyme label="d" type="m" corresp="#s3:l6">dit</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3386</id>
+    <date>
+      <year-start>1575</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Psalm 013 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>D.V. Coornhert</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HY doolt die op zyn wercken <rhyme label="a" type="m">staat</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Oock al die Gode boven <rhyme label="a" type="m" corresp="#s1:l1">maat</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Of min dan na zyn woord <rhyme label="b" type="f">betrouwen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Want God deckt niemands zonden <rhyme label="a" type="m" corresp="#s1:l1">quaad</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Dan dien zy grontlick <rhyme label="b" type="f" corresp="#s1:l3">berouwen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Verzochtheyd meer dan boecken <rhyme label="a" type="m">leert</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Verstaan ons oordeel, dats <rhyme label="a" type="m" corresp="#s2:l1">verkeert</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Dit moet de rust zeker <rhyme label="b" type="f">begheven</rhyme>.</l>
+        <l id="s2:l4" met="4" type="-+">Om door berouw zulck quaad <rhyme label="a" type="m" corresp="#s2:l1">verheert</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Int woord te roven zy <rhyme label="b" type="f" corresp="#s2:l3">leven</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Die tquaad meer dan de straffe <rhyme label="a" type="m">vreest</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Oock om dueghds derven droef is <rhyme label="a" type="m" corresp="#s3:l1">meest</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">En dorst om rechtvaardigh te <rhyme label="b" type="f">wezen</rhyme>:</l>
+        <l id="s3:l4" met="4" type="-+">Dees is recht droef en arm van <rhyme label="a" type="m" corresp="#s3:l1">gheest</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Hy hoopt in Christo <rhyme label="b" type="f" corresp="#s3:l3">tghenezen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Wie tquaad verstaat en hertlick <rhyme label="a" type="m">haat</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Verlaat dat waarlick metter <rhyme label="a" type="m" corresp="#s4:l1">daad</rhyme>.</l>
+        <l id="s4:l3" met="4" type="-+">En sabbateert van eyghen <rhyme label="b" type="f">wille</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Hy zit by tpat en wacht met <rhyme label="a" type="m" corresp="#s4:l1">raad</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Christum ghelaten en <rhyme label="b" type="f" corresp="#s4:l3">stille</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

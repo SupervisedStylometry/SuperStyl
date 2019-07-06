@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14495</id>
+    <date>
+      <year-start>1638</year-start>
+      <year-end>1638</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+    </tags>
+    <melody>Was ik er een koning</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Aegidius Haeffacker</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MYn ziele, wilt looven des Heeren <rhyme label="a" type="m">vriendt</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">Seer hoogh <rhyme label="b" type="f">verheven</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Sint' Bonifaes, die het wel heeft <rhyme label="a" type="m" corresp="#s1:l1">verdiendt</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Hier in sijn <rhyme label="b" type="f" corresp="#s1:l2">leven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Sijn edelen stam, en Koninghs <rhyme label="a" type="m">gheslacht</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">Rijckdom, lust, <rhyme label="b" type="f">eere</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Heeft hyder verlaeten, met 's wereldts <rhyme label="a" type="m" corresp="#s2:l1">pracht</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">Om Jezus <rhyme label="b" type="f" corresp="#s2:l2">leere</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ghehoorsaemheydt, armoe', en <rhyme label="a" type="m">suyverheyt</rhyme>,</l>
+        <l id="s3:l2" met="2" type="-+">Ginck hy <rhyme label="b" type="f">aenveerden</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Ontsteken met liefde, met licht <rhyme label="a" type="m" corresp="#s3:l1">bereyt</rhyme>,</l>
+        <l id="s3:l4" met="2" type="-+">Vol van <rhyme label="b" type="f" corresp="#s3:l2">eerweerden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Hy gincker als saey-man uyt sayen <rhyme label="a" type="m">saedt</rhyme>,</l>
+        <l id="s4:l2" met="2" type="-+">Het woordt des <rhyme label="b" type="f">Heeren</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Hy sayde het vroegh, en hy saeyde 't <rhyme label="a" type="m" corresp="#s4:l1">laet</rhyme>,</l>
+        <l id="s4:l4" met="2" type="-+">Tot Godes <rhyme label="b" type="f" corresp="#s4:l2">eere</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Sijn acker die wasser geheel <rhyme label="a" type="m">Duytslandt</rhyme>,</l>
+        <l id="s5:l2" met="2" type="-+">Dor, droogh, <rhyme label="b" type="f">onvruchtbaer</rhyme>:</l>
+        <l id="s5:l3" met="4" type="-+">Hy heefter de deugt abondant <rhyme label="a" type="m" corresp="#s5:l1">geplant</rhyme>,</l>
+        <l id="s5:l4" met="2" type="-+">Ghemaeckt oock <rhyme label="b" type="f" corresp="#s5:l2">ruchtbaer</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Noch heeft hy den acker, met sijnen <rhyme label="a" type="m">bloedt</rhyme>,</l>
+        <l id="s6:l2" met="2" type="-+">Heel nat <rhyme label="b" type="f">begooten</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Om vruchten te draghen met <rhyme label="a" type="m" corresp="#s6:l1">overvloedt</rhyme>,</l>
+        <l id="s6:l4" met="2" type="-+">Gants <rhyme label="b" type="f" corresp="#s6:l2">onverdrooten</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Dus menschen, den Heere nu eere <rhyme label="a" type="m">gheeft</rhyme>,</l>
+        <l id="s7:l2" met="2" type="-+">Voor sijn <rhyme label="b" type="f">weldaden</rhyme>.</l>
+        <l id="s7:l3" met="4" type="-+">Sijn leere, die hy u ghesonden <rhyme label="a" type="m" corresp="#s7:l1">heeft</rhyme>,</l>
+        <l id="s7:l4" met="2" type="-+">Wilt niet <rhyme label="b" type="f" corresp="#s7:l2">versmaden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

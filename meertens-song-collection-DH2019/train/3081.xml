@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3081</id>
+    <date>
+      <year-start>1633</year-start>
+      <year-end>1634</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacob Cats</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">NV Heer mijn Schepper, licht-van mijn <rhyme label="a" type="f">leven</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Tot wien mijn ziele staegh wert <rhyme label="a" type="f" corresp="#s1:l1">op-gedreven</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Op wiens heyligh <rhyme label="b" type="m">Bont</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Mijn hoop en heyl voor eeuwigh staet <rhyme label="b" type="m" corresp="#s1:l3">gegront</rhyme>:</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Laet vry u dienaer nu gaen in <rhyme label="a" type="f">vreden</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Naer u woort, en naer ick heb <rhyme label="a" type="f" corresp="#s2:l1">gebeden</rhyme>:</l>
+        <l id="s2:l3" met="3" type="+-">D'wijl my nu ter <rhyme label="b" type="m">tijt</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Het soet gesicht mijns Heylants heeft <rhyme label="b" type="m" corresp="#s2:l3">verblijt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">O licht vol luysters, vol helle <rhyme label="a" type="f">stralen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Dat van den Hemelkomt op aerden <rhyme label="a" type="f" corresp="#s3:l1">dalen</rhyme>!</l>
+        <l id="s3:l3" met="3" type="+-">Licht voor yder <rhyme label="b" type="m">mensch</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Maer aen u volck een vollen <rhyme label="b" type="m" corresp="#s3:l3">herten-wensch</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

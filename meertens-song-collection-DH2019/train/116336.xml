@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>116336</id>
+    <date>
+      <year-start>1681</year-start>
+      <year-end>1681</year-end>
+    </date>
+    <location>
+      <orginal-name>alkmaar</orginal-name>
+      <standard-name>Alkmaar, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.6312592</lon>
+        <lat>4.7503798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody>Lofzang van Maria</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Claes Stapel</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">KOm Iesus Goodes <rhyme label="a" type="m">Zoon</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Kom Heer van alle <rhyme label="a" type="m" corresp="#s1:l1">Goo'n</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Door-wond mijn ziel van <rhyme label="b" type="f">binnen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Opdat ik vry van <rhyme label="c" type="m">zond'</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Uit mijner zielen <rhyme label="c" type="m" corresp="#s1:l4">grond</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">U vuurig mag <rhyme label="b" type="f" corresp="#s1:l3">beminnen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">O waare <rhyme label="a" type="m">zielen-rust</rhyme>!</l>
+        <l id="s2:l2" met="3" type="-+">O bron van alle <rhyme label="a" type="m" corresp="#s2:l1">lust</rhyme>!</l>
+        <l id="s2:l3" met="3" type="-+">O rijkdom der <rhyme label="b" type="f">genaade</rhyme>!</l>
+        <l id="s2:l4" met="3" type="-+">Geef dat ik om uw <rhyme label="c" type="m">min</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">En kennis al 't <rhyme label="c" type="m" corresp="#s2:l4">gewin</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Des Weerelds acht voor <rhyme label="b" type="f" corresp="#s2:l3">schaade</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">O volheid alles <rhyme label="a" type="m">goeds</rhyme>!</l>
+        <l id="s3:l2" met="3" type="-+">O Zonne mijns <rhyme label="a" type="m" corresp="#s3:l1">gemoeds</rhyme>!</l>
+        <l id="s3:l3" met="3" type="-+">O Iesus mijn <rhyme label="b" type="f">beminde</rhyme>!</l>
+        <l id="s3:l4" met="3" type="-+">Zend in mijn ziel een <rhyme label="c" type="m">blik</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Uws klaarheids, op dat <rhyme label="c" type="m" corresp="#s3:l4">ik</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">U zoekende mag <rhyme label="b" type="f" corresp="#s3:l3">vinden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">O waarde <rhyme label="a" type="m">Bruidegom</rhyme>!</l>
+        <l id="s4:l2" met="3" type="-+">O zoete Iesus! <rhyme label="a" type="m" corresp="#s4:l1">kom</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Kom noit genoeg <rhyme label="b" type="f">verheeven</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Trek my uit 's Weerelds <rhyme label="c" type="m">slijk</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">En doe my <rhyme label="c" type="m" corresp="#s4:l4">eeuwiglijk</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">In vreugde by u <rhyme label="b" type="f" corresp="#s4:l3">leeven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

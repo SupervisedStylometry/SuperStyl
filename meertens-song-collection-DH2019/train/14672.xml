@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14672</id>
+    <date>
+      <year-start>1633</year-start>
+      <year-end>1633</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Diei solemnia</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Pieter van Gelre</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">D' Hemelsche Prins, leyt op wat <rhyme label="a" type="m">hoy</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">Te <rhyme label="b" type="m">Bethlehem</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Anders geensins, dan Beesten <rhyme label="a" type="m" corresp="#s1:l1">stroy</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Soo ons is seyt van <rhyme label="b" type="m" corresp="#s1:l2">hem</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Sijn doeckjes zijn, heel oudt en <rhyme label="a" type="m">of</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">Te <rhyme label="b" type="m">Bethlehem</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Geen lijnwaet fijn, maer slecht, en <rhyme label="a" type="m" corresp="#s2:l1">grof</rhyme>.</l>
+        <l id="s2:l4" met="3" type="-+">Soo ons is seyt van <rhyme label="b" type="m" corresp="#s2:l2">hem</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Hy leyt benaut, in een <rhyme label="a" type="m">Eet-back</rhyme>,</l>
+        <l id="s3:l2" met="2" type="-+">Te <rhyme label="b" type="m">Bethlehem</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Schreyend van koudt, en <rhyme label="a" type="m" corresp="#s3:l1">onghemack</rhyme>.</l>
+        <l id="s3:l4" met="3" type="-+">Soo ons is seyt van <rhyme label="b" type="m" corresp="#s3:l2">hem</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Hagel, en snee, en gijse <rhyme label="a" type="m">vorst</rhyme>,</l>
+        <l id="s4:l2" met="2" type="-+">Te <rhyme label="b" type="m">Bethlehem</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Doet hem heel wee, sijn kleyne <rhyme label="a" type="m" corresp="#s4:l1">borst</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Soo ons is seyt van <rhyme label="b" type="m" corresp="#s4:l2">hem</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Laet ons lof, de Moer van't <rhyme label="a" type="m">kindt</rhyme>,</l>
+        <l id="s5:l2" met="2" type="-+">Te <rhyme label="b" type="m">Bethlehem</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">En geven stof, daers' hem in <rhyme label="a" type="m" corresp="#s5:l1">windt</rhyme>.</l>
+        <l id="s5:l4" met="3" type="-+">Soo ons is seyt van <rhyme label="b" type="m" corresp="#s5:l2">hem</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21805</id>
+    <date>
+      <year-start>1580</year-start>
+      <year-end>1580</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 054 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Philips van Marnix</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Hoor mijn ghebet end' droeue <rhyme label="a" type="m">clacht</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">End' neyge my dijn gunstigh' <rhyme label="b" type="f">ooren</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Om myne woorden aen te <rhyme label="b" type="f" corresp="#s1:l2">hooren</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">End' op de selue te slaen <rhyme label="a" type="m" corresp="#s1:l1">acht</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">5. * Want vremde teghen my <rhyme label="c" type="m">opstaen</rhyme>:</l>
+        <l id="s1:l6" met="4" type="-+">Een grousaem volck stout end' <rhyme label="d" type="f">hoomoedich</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Staen my na t'leuen seer <rhyme label="d" type="f" corresp="#s1:l6">verwoedich</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">End' willen d'oogh op Godt niet <rhyme label="c" type="m" corresp="#s1:l5">slaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Nochtans is Godt mijn helper <rhyme label="a" type="m">groot</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">De Heer is aen der ghener <rhyme label="b" type="f">syde</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Die my staen by, in desen <rhyme label="b" type="f" corresp="#s2:l2">stryde</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">End' m'onderstutten inden <rhyme label="a" type="m" corresp="#s2:l1">noot</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">7. * Hy sal mijn vyant ghelden <rhyme label="c" type="m">we'er</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Het quaet dat hy m'heeft <rhyme label="d" type="f">toebereydet</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Heer nae dijn trouwe lang' <rhyme label="d" type="f" corresp="#s2:l6">verbeydet</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Verniels' end' slaef' al t'saem ter <rhyme label="c" type="m" corresp="#s2:l5">ne'er</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Soo sal ick uyt ghewill'ghen <rhyme label="a" type="m">moet</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Dy offers aenghenaem <rhyme label="b" type="f">voortdraghen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">End' dynes naemens loff <rhyme label="b" type="f" corresp="#s3:l2">ghewaghen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Die lieflijck is end' machtich <rhyme label="a" type="m" corresp="#s3:l1">goet</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">9. * Want du hebst my uyt all' <rhyme label="c" type="m">onrust</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">End' ancxt verlost self nae mijn <rhyme label="d" type="f">wensschen</rhyme>:</l>
+        <l id="s3:l7" met="4" type="-+">Mijn ooghe siet aen dese <rhyme label="d" type="f" corresp="#s3:l6">menschen</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Die my vervolgden, mynen <rhyme label="c" type="m" corresp="#s3:l5">lust</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

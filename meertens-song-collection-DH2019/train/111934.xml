@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111934</id>
+    <date>
+      <year-start>1650</year-start>
+      <year-end>1660</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>In Den Haag in het Voorhout</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">WAck're Harders <rhyme label="a" type="f">vrolijck</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">Luchtigh aen der <rhyme label="b" type="f">Heyde</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Laet den grijsen <rhyme label="a" type="f" corresp="#s1:l1">molijck</rhyme></l>
+        <l id="s1:l4" met="3" type="+-">'t Vee alleenlijck <rhyme label="b" type="f" corresp="#s1:l2">weyde</rhyme>,</l>
+        <l id="s1:l5" met="2" type="+-">Want 't is <rhyme label="c" type="m">tijt</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Dat ghy der <rhyme label="c" type="m" corresp="#s1:l5">zijt</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Daer men 's Wijngaerts looten <rhyme label="c" type="m" corresp="#s1:l5">snijt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Siet hoe dicht de <rhyme label="a" type="f">heuvele</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">Vol zijn van <rhyme label="b" type="f">Najaden</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">Laet u Nimph nieu <rhyme label="a" type="f" corresp="#s2:l1">sneuvele</rhyme>,</l>
+        <l id="s2:l4" met="3" type="+-">'t Mocht haer ergens <rhyme label="b" type="f" corresp="#s2:l2">schaden</rhyme>,</l>
+        <l id="s2:l5" met="2" type="+-">Want het <rhyme label="c" type="m">stof</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Te swaer en <rhyme label="c" type="m" corresp="#s2:l5">grof</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">Plucken sy 't gereetste <rhyme label="c" type="m" corresp="#s2:l5">of</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="+-">Tijter laet u <rhyme label="a" type="f">Schaepjes</rhyme></l>
+        <l id="s3:l2" met="3" type="+-">Onder d'holle <rhyme label="b" type="f">Eycken</rhyme>,</l>
+        <l id="s3:l3" met="3" type="+-">Voeght u by de <rhyme label="a" type="f" corresp="#s3:l1">Knaepjes</rhyme></l>
+        <l id="s3:l4" met="3" type="+-">Die vast opwaerts <rhyme label="b" type="f" corresp="#s3:l2">reycken</rhyme>,</l>
+        <l id="s3:l5" met="2" type="+-">Nae de <rhyme label="c" type="m">kuyn</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">De pop'le <rhyme label="c" type="m" corresp="#s3:l5">bruyn</rhyme></l>
+        <l id="s3:l7" met="4" type="+-">Gelijck d'Harderinnetjes in 't <rhyme label="c" type="m" corresp="#s3:l5">Duyn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="+-">Van 't gewas der <rhyme label="a" type="f">Velden</rhyme></l>
+        <l id="s4:l2" met="3" type="+-">Gaen ons schueren <rhyme label="b" type="f">swanger</rhyme>,</l>
+        <l id="s4:l3" met="3" type="+-">Dus dat wy <rhyme label="a" type="f" corresp="#s4:l1">uyt-stelden</rhyme>,</l>
+        <l id="s4:l4" met="3" type="+-">Onse Jaer-feest <rhyme label="b" type="f" corresp="#s4:l2">langer</rhyme>,</l>
+        <l id="s4:l5" met="2" type="+-">'t Waer een <rhyme label="c" type="m">schant</rhyme>,</l>
+        <l id="s4:l6" met="2" type="-+">Komt hant aen <rhyme label="c" type="m" corresp="#s4:l5">hant</rhyme>,</l>
+        <l id="s4:l7" met="4" type="+-">Moet den Ooft-May zijn <rhyme label="c" type="m" corresp="#s4:l5">geplant</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="+-">Coridon is <rhyme label="a" type="f">wacker</rhyme>,</l>
+        <l id="s5:l2" met="3" type="+-">Siet hem inde <rhyme label="b" type="f">Kuypen</rhyme></l>
+        <l id="s5:l3" met="3" type="+-">Parssen op den <rhyme label="a" type="f" corresp="#s5:l1">Acker</rhyme></l>
+        <l id="s5:l4" met="3" type="+-">Dat de Besjes <rhyme label="b" type="f" corresp="#s5:l2">druypen</rhyme></l>
+        <l id="s5:l5" met="2" type="+-">Van het <rhyme label="c" type="m">nat</rhyme>,</l>
+        <l id="s5:l6" met="2" type="-+">'t Geen Jaerlijcks <rhyme label="c" type="m" corresp="#s5:l5">wat</rhyme></l>
+        <l id="s5:l7" met="4" type="+-">Bacchus ons geschoncken <rhyme label="c" type="m" corresp="#s5:l5">hadt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

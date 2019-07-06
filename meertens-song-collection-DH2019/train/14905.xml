@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14905</id>
+    <date>
+      <year-start>1622</year-start>
+      <year-end>1622</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Het zou een fier Margrietelijn</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">VVAer zijn Helenaes wond’ren <rhyme label="a" type="m">nu</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En ‘tkuys Penelope roem <rhyme label="b" type="f">gheruchten</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Oock ’t schoon Daphne die in’t loopen <rhyme label="a" type="m" corresp="#s1:l1">schuw</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Soect Phoebus te <rhyme label="b" type="f" corresp="#s1:l2">ontvluchten</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">En al Narcissus <rhyme label="b" type="f" corresp="#s1:l2">suchten</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">’T is al maer wint // die’t wel <rhyme label="a" type="m">besind</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Haer roem // haer bloem // haer lof niet <rhyme label="b" type="f">allen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Die teghen mijn, wiens schijn ick <rhyme label="a" type="m" corresp="#s2:l1">vind</rhyme>’</l>
+        <l id="s2:l4" met="3" type="-+">Hun al kan <rhyme label="b" type="f" corresp="#s2:l2">over-brallen</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">En doen den hooghmoet <rhyme label="b" type="f" corresp="#s2:l2">vallen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Mijn schoon Goddin // mijn soete <rhyme label="a" type="m">Min</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Voor u ick nu wil buyghen mijn <rhyme label="b" type="f">knien</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Aenhoort // een woort // verstaet den <rhyme label="a" type="m" corresp="#s3:l1">sin</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Op datse mach <rhyme label="b" type="f" corresp="#s3:l2">gheschien</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">En mijn quaet te <rhyme label="b" type="f" corresp="#s3:l2">ontvlien</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Dat is dat lust // u en mijn <rhyme label="a" type="m">rust</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Ons mach, voor dach, noch doen te samen <rhyme label="b" type="f">paeren</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Seght Jae // en drae // my daer op <rhyme label="a" type="m" corresp="#s4:l1">kust</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Soo niet, denckt mijn <rhyme label="b" type="f" corresp="#s4:l2">beswaeren</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">My haest de doodt sal <rhyme label="b" type="f" corresp="#s4:l2">baeren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

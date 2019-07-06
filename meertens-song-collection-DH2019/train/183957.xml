@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>183957</id>
+    <date>
+      <year-start>1806</year-start>
+      <year-end>1806</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Jan Steven van Esveldt Holtrop, Willem Holtrop</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Qui sait mieux que notre <rhyme label="a" type="f">Maître</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">L'art de faire des <rhyme label="b" type="m">heureux</rhyme>?</l>
+        <l id="s1:l3" met="4" type="+-">Si-tôt qu'on le voit <rhyme label="a" type="f" corresp="#s1:l1">paroitre</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Chacun sent combler ses <rhyme label="b" type="m" corresp="#s1:l2">voeux</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">Chéri de l'aimable <rhyme label="c" type="f">Loge</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Dont il fait tout le <rhyme label="d" type="m">bonheur</rhyme>; -</l>
+        <l id="s1:l7" met="4" type="+-">Mais je laisse son <rhyme label="c" type="f" corresp="#s1:l5">éloge</rhyme>.</l>
+        <l id="s1:l8" met="4" type="+-">Ma voix sert trop mal mon <rhyme label="d" type="m" corresp="#s1:l6">coeur</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Dans ma dignité de <rhyme label="a" type="f">Maître</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Je dois m'estimer <rhyme label="b" type="m">heureux</rhyme>;</l>
+        <l id="s2:l3" met="4" type="+-">Chacun de vous fait <rhyme label="a" type="f" corresp="#s2:l1">paroître</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Un zéle aux gré de mes <rhyme label="b" type="m" corresp="#s2:l2">voeux</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">Je trouve au sein de la <rhyme label="c" type="f">Loge</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Le centre de mon <rhyme label="d" type="m">bonheur</rhyme>;</l>
+        <l id="s2:l7" met="4" type="+-">C'est trop peu d'un vain <rhyme label="c" type="f" corresp="#s2:l5">éloge</rhyme>.</l>
+        <l id="s2:l8" met="4" type="+-">Je vous consacre mon <rhyme label="d" type="m" corresp="#s2:l6">coeur</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22447</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="avondlied" translation="evening song">avondlied</tag>
+    </tags>
+    <melody>Vom Himmel hoch da komm ich her</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">NU wil hem scheyden Nacht van <rhyme label="a" type="m">Dach</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Op dat het Lichaem rusten  <rhyme label="a" type="m" corresp="#s1:l1">mach</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Dit laet ons coemen Godt tot <rhyme label="b" type="m">goet</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Die ons door syn ghenade <rhyme label="b" type="m" corresp="#s1:l3">behoet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Tis schrickelijck met groote <rhyme label="a" type="m">vaer</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Des nachts int duyster dat is <rhyme label="a" type="m" corresp="#s2:l1">waer</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Och Godt sorcht ghy en hout die <rhyme label="b" type="m">wacht</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">So syn wy vry dach ende <rhyme label="b" type="m" corresp="#s2:l3">nacht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Vergheeft ons sonden en <rhyme label="a" type="m">misual</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Dat wy ons beteren <rhyme label="a" type="m" corresp="#s3:l1">oueral</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">En leert ons voor die ooghen <rhyme label="b" type="m">dijn</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Recht wandelen, zedich en <rhyme label="b" type="m" corresp="#s3:l3">fijn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Bewaert ons Bedde <rhyme label="a" type="m">onbesmet</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">En leert ons houden zeden <rhyme label="a" type="m" corresp="#s4:l1">net</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Den swaren droom van ons toch <rhyme label="b" type="m">staet</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">En allen bedroch des duyuels <rhyme label="b" type="m" corresp="#s4:l3">quaet</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Wat ick dan noch hier schuldich <rhyme label="a" type="m">ben</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Voor my en oock voor den <rhyme label="a" type="m" corresp="#s5:l1">naesten</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Te bidden om ghenaden <rhyme label="b" type="m">fier</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Helpt ons die noch syn belaeden <rhyme label="b" type="m" corresp="#s5:l3">hier</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

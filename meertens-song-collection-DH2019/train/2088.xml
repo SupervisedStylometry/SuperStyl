@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2088</id>
+    <date>
+      <year-start>1674</year-start>
+      <year-end>1674</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="christuslied" translation="Christ song">Christuslied</tag>
+    </tags>
+    <melody>La pastourelle</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Daniel Bellemans</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Soeten JESU, Godt,en <rhyme label="a" type="m">Mensch</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Doet my die jonst daer ick naer <rhyme label="a" type="m" corresp="#s1:l1">wensch</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Komt, spant myn hert' eens op de <rhyme label="b" type="m">Raem</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Borduert daer uwen soeten <rhyme label="b" type="m" corresp="#s1:l3">Naem</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Beschryft het wit van myn <rhyme label="a" type="m">ghemoet</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Met 't Purper van uw dierbaer <rhyme label="a" type="m" corresp="#s2:l1">Bloedt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Schryft uwen Naem die ick <rhyme label="b" type="m">bemin</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Daer hondert-duysendt keeren <rhyme label="b" type="m" corresp="#s2:l3">in</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">O JESU Naem! ô soeten <rhyme label="a" type="m">Naem</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">O Naem van honingh soete <rhyme label="a" type="m" corresp="#s3:l1">faem</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Waer isser Naem soo <rhyme label="b" type="m">aen-ghenaern</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Als JESUS alder-soetsten <rhyme label="b" type="m" corresp="#s3:l3">Naem</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">O soeten Naem die suycker <rhyme label="a" type="m">spreyt</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Op alle onse <rhyme label="a" type="m" corresp="#s4:l1">bitterheydt</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">O soeter Naem als <rhyme label="b" type="m">honingh-raet</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Die alle soet te-boven <rhyme label="b" type="m" corresp="#s4:l3">gaet</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">O groender Naem als <rhyme label="a" type="m">levens-hout</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">O rycker Naem als 't fynste <rhyme label="a" type="m" corresp="#s5:l1">gout</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">O sachter Naem als <rhyme label="b" type="m">Tortel-duyf</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">O verscher Naem als <rhyme label="b" type="m" corresp="#s5:l3">Wyngaert-druyf</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">O klaerder Naem als <rhyme label="a" type="m">Sonne-strael</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">O stercker Naem als lauter <rhyme label="a" type="m" corresp="#s6:l1">stael</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">O grooter Naem als <rhyme label="b" type="m">Keyser-ryck</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">O Naem die noyt hadd' syns <rhyme label="b" type="m" corresp="#s6:l3">ghelyck</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Duyckt Bloemekens wie ghy meught <rhyme label="a" type="m">zyn</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">Want ghy verliest hier uwen <rhyme label="a" type="m" corresp="#s7:l1">schyn</rhyme>;</l>
+        <l id="s7:l3" met="4" type="-+">En ghy Revierkens loopt van <rhyme label="b" type="m">my</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Gheen silv'ren nat en heefter <rhyme label="b" type="m" corresp="#s7:l3">by</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Houdt Vogheltjens uw' beckxkens <rhyme label="a" type="m">toe</rhyme>,</l>
+        <l id="s8:l2" met="4" type="-+">Ick ben u finghen nu al <rhyme label="a" type="m" corresp="#s8:l1">moe</rhyme>:</l>
+        <l id="s8:l3" met="4" type="-+">O Nachtegael en singht niet <rhyme label="b" type="m">meer</rhyme>,</l>
+        <l id="s8:l4" met="4" type="-+">Gh'en singht soo soet niet als den <rhyme label="b" type="m" corresp="#s8:l3">Heer</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Al wat ick sagh oft hebb' <rhyme label="a" type="m">ghehoort</rhyme>,</l>
+        <l id="s9:l2" met="4" type="-+">Dat is vergheten door een <rhyme label="a" type="m" corresp="#s9:l1">woort</rhyme>,</l>
+        <l id="s9:l3" met="4" type="-+">En dat is JESUS, JESUS <rhyme label="b" type="m">soet</rhyme>,</l>
+        <l id="s9:l4" met="4" type="-+">O Naem ghedruckt in myn <rhyme label="b" type="m" corresp="#s9:l3">ghemoet</rhyme>!</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Als iemandt van Heer JESUS <rhyme label="a" type="m">songh</rhyme></l>
+        <l id="s10:l2" met="4" type="-+">Was 't dat Franciscus hert <rhyme label="a" type="m" corresp="#s10:l1">op-sprongh</rhyme>;</l>
+        <l id="s10:l3" met="4" type="-+">Hy leckten en hy soogh syn' <rhyme label="b" type="m">tongh</rhyme>,</l>
+        <l id="s10:l4" met="4" type="-+">Al oft syn' tongh vol Honingh <rhyme label="b" type="m" corresp="#s10:l3">hongh</rhyme>,</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="-+">Den Honingh-vloeyenden <rhyme label="a" type="m">Doctoor</rhyme>,</l>
+        <l id="s11:l2" met="4" type="-+">Die JESUS boven al <rhyme label="a" type="m" corresp="#s11:l1">verkoor</rhyme>,</l>
+        <l id="s11:l3" met="4" type="-+">Die seyd' dat hy noyt Boeck en <rhyme label="b" type="m">las</rhyme></l>
+        <l id="s11:l4" met="4" type="-+">Daer JESUS Naem niet in en <rhyme label="b" type="m" corresp="#s11:l3">was</rhyme>.</l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="4" type="-+">O JESU Naem, ô zielen <rhyme label="a" type="m">oost</rhyme>,</l>
+        <l id="s12:l2" met="4" type="-+">O soeten Naem, ô hertjens <rhyme label="a" type="m" corresp="#s12:l1">troost</rhyme>,</l>
+        <l id="s12:l3" met="4" type="-+">O JESU Naem ghy zyt soo <rhyme label="b" type="m">soet</rhyme>,</l>
+        <l id="s12:l4" met="4" type="-+">Dat ghy versoet myn droef <rhyme label="b" type="m" corresp="#s12:l3">ghemoet</rhyme>.</l>
+      </lg>
+      <lg id="s13" type="stanza">
+        <l id="s13:l1" met="4" type="-+">O JESU Naem ghy maeckt my <rhyme label="a" type="m">blyd</rhyme></l>
+        <l id="s13:l2" met="4" type="-+">Als ick om uwen Naem iet <rhyme label="a" type="m" corresp="#s13:l1">lyd'</rhyme>:</l>
+        <l id="s13:l3" met="4" type="-+">Myn Kruys en kruyst my dan niet <rhyme label="b" type="m">seer</rhyme></l>
+        <l id="s13:l4" met="4" type="-+">Als ick peys op u Kruys ô <rhyme label="b" type="m" corresp="#s13:l3">Heer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

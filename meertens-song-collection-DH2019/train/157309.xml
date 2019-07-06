@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>157309</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Ah vous dirai-je maman</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Benje dan zo hart van <rhyme label="a" type="m">zin</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Datje niet bent te <rhyme label="b" type="f">beweegen</rhyme>?</l>
+        <l id="s1:l3" met="4" type="+-">Zo versmoor ik in de <rhyme label="a" type="m" corresp="#s1:l1">Min</rhyme>.</l>
+        <l id="s1:l4" met="4" type="+-">Adieu dan, myn <rhyme label="b" type="f" corresp="#s1:l2">Engelin</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">'k Zal dan al myn Levens <rhyme label="c" type="m">tyd</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Eenzaam door het velt gaan <rhyme label="d" type="f">zweeven</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Ach! Ach! met <rhyme label="e" type="m">geklag</rhyme>.</l>
+        <l id="s1:l8" met="4" type="+-">Ben ik myn Climene <rhyme label="c" type="m" corresp="#s1:l5">quyt</rhyme>?</l>
+        <l id="s1:l9" met="4" type="+-">Waar toe wil ik langer <rhyme label="d" type="f" corresp="#s1:l6">leeven</rhyme>.</l>
+        <l id="s1:l10" met="4" type="+-">'k Heb dog, tot in <rhyme label="c" type="m" corresp="#s1:l5">Eeuwigheid</rhyme>,</l>
+        <l id="s1:l11" met="4" type="+-">U myn Liefde <rhyme label="c" type="m" corresp="#s1:l5">toegewyd</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

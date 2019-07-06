@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3753</id>
+    <date>
+      <year-start>1566</year-start>
+      <year-end>1566</year-end>
+    </date>
+    <location>
+      <orginal-name>heidelberg</orginal-name>
+      <standard-name>Heidelberg, Germany</standard-name>
+      <coordinates>
+        <lon>49.4093582</lon>
+        <lat>8.694724</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 150 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">LAETT nu Godt ghepresen <rhyme label="a" type="m">sijn</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">In syn heylighdom seer <rhyme label="a" type="m" corresp="#s1:l1">fyn</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Gheloeft sy hy end <rhyme label="b" type="m">gheacht</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Wt den hemel die vol <rhyme label="b" type="m" corresp="#s1:l3">kracht</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">In heerlickheit hoogh' <rhyme label="c" type="f">verheuen</rhyme>.</l>
+        <l id="s1:l6" met="4" type="+-">Loeft hem in sijn wercken <rhyme label="d" type="m">reyn</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Die hy ghewrocht heeft <rhyme label="d" type="m" corresp="#s1:l6">alleyn</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Die van syn macht tuyghnis <rhyme label="c" type="f" corresp="#s1:l5">gheuen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Van herten louet doch <rhyme label="a" type="m">hem</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Oock met der basuynen <rhyme label="a" type="m" corresp="#s2:l1">stem</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">End met der Psalteren <rhyme label="b" type="m">toon</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Met trommels end harpen <rhyme label="b" type="m" corresp="#s2:l3">schoon</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">Wilt sijnen lof end prys <rhyme label="c" type="f">singhen</rhyme>:</l>
+        <l id="s2:l6" met="4" type="+-">Met der fluyten soet <rhyme label="d" type="m">gheklangh</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">End der orghelen <rhyme label="d" type="m" corresp="#s2:l6">ghesangh</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Laett sijn eere nu <rhyme label="c" type="f" corresp="#s2:l5">voortbringhen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Syn goetheit sij <rhyme label="a" type="m">openbaer</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Ghemaeckt, doer t'gheluydt seer <rhyme label="a" type="m" corresp="#s3:l1">klaer</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Der Cymbalen t'aller <rhyme label="b" type="m">tydt</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Welcke seer breedt ende <rhyme label="b" type="m" corresp="#s3:l3">wydt</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Syns naems eer moeten <rhyme label="c" type="f">bewysen</rhyme>:</l>
+        <l id="s3:l6" met="4" type="+-">Dies alles dat daer nu <rhyme label="d" type="m">leeft</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Dat hem roert end aesem <rhyme label="d" type="m" corresp="#s3:l6">heeft</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">Moet onsen Godt heerlick <rhyme label="c" type="f" corresp="#s3:l5">prysen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

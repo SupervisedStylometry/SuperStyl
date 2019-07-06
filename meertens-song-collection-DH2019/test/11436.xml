@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>11436</id>
+    <date>
+      <year-start>1627</year-start>
+      <year-end>1627</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Plutôt que je te dis la cause</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">DOolt Schaepjes, laet my <rhyme label="a" type="f">rusten</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">En snoept de spruytjens <rhyme label="b" type="m">of</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Die den dagheraet <rhyme label="a" type="f" corresp="#s1:l1">kusten</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Ontrent ons Leuser <rhyme label="b" type="m" corresp="#s1:l2">Hof</rhyme>:</l>
+        <l id="s1:l5" met="2" type="-+">En laet my <rhyme label="c" type="m">hier</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">By dees <rhyme label="c" type="m" corresp="#s1:l5">rivier</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Nu verbeyden mijn <rhyme label="d" type="m">Goddin</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Die op den <rhyme label="e" type="m">dagh</rhyme></l>
+        <l id="s1:l9" met="2" type="-+">Haer meest wel <rhyme label="e" type="m" corresp="#s1:l8">plach</rhyme></l>
+        <l id="s1:l10" met="4" type="+-">Te baden waer ick nu <rhyme label="d" type="m" corresp="#s1:l7">bin</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ghy gladde Reemse <rhyme label="a" type="f">baertjes</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Een spiegel van 't <rhyme label="b" type="m">geboomt</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Mijn Nymphjens soete <rhyme label="a" type="f" corresp="#s2:l1">kaertjes</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Ay! hoort nu <rhyme label="b" type="m" corresp="#s2:l2">onbeschroomt</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">Mijn ruys-Pijps <rhyme label="c" type="m">Liedt</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">Ter eer u <rhyme label="c" type="m" corresp="#s2:l5">Vliet</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">En mijn Nimph', mijn <rhyme label="d" type="m">Harderin</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Als sy haer <rhyme label="e" type="m">baed</rhyme>,</l>
+        <l id="s2:l9" met="2" type="-+">En my <rhyme label="e" type="m" corresp="#s2:l8">versaed</rhyme>,</l>
+        <l id="s2:l10" met="4" type="+-">Oock u, en het Woud niet <rhyme label="d" type="m" corresp="#s2:l7">min</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Wat denckt ghy schoone <rhyme label="a" type="f">stroompjes</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Als ghy mijn Lief <rhyme label="b" type="m">omringht</rhyme>?</l>
+        <l id="s3:l3" met="3" type="-+">Dan dertel, dan wat <rhyme label="a" type="f" corresp="#s3:l1">loompjes</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">En is 't geen Sterr' die <rhyme label="b" type="m" corresp="#s3:l2">blinckt</rhyme>?</l>
+        <l id="s3:l5" met="2" type="-+">Haer naeckte <rhyme label="c" type="m">le'en</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">So schoon <rhyme label="c" type="m" corresp="#s3:l5">besneen</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">V bekoren, meen ick <rhyme label="d" type="m">wel</rhyme></l>
+        <l id="s3:l8" met="2" type="-+">Oock de God <rhyme label="e" type="m">Pan</rhyme>,</l>
+        <l id="s3:l9" met="2" type="-+">Satyrs en <rhyme label="e" type="m" corresp="#s3:l8">Silvan</rhyme>,</l>
+        <l id="s3:l10" met="4" type="+-">Met Silenus haer <rhyme label="d" type="m" corresp="#s3:l7">gesel</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

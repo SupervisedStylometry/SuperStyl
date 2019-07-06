@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>51</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Amarilli mia bella</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">AMaril-li mia <rhyme label="a" type="f">bella</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Non credi del mio cor dolce <rhyme label="a" type="f" corresp="#s1:l1">desio</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">d' esser tu l' amor <rhyme label="a" type="f" corresp="#s1:l1">mio</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">credilo <rhyme label="b" type="f">pur</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">e – s el timor t' assa- <rhyme label="b" type="f" corresp="#s1:l4">le</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">prendi que sto mio <rhyme label="c" type="f">strale</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">apprim' il <rhyme label="d" type="f">perto</rhyme>,</l>
+        <l id="s1:l8" met="2" type="+-">e vedrai scritt' al <rhyme label="e" type="f">core</rhyme>.</l>
+        <l id="s1:l9" met="2" type="+-">Ama-ril-li, <rhyme label="e" type="f" corresp="#s1:l8">Ama-rilli</rhyme>,</l>
+        <l id="s1:l10" met="2" type="+-"><rhyme label="e" type="f" corresp="#s1:l8">Amarilli</rhyme>,</l>
+        <l id="s1:l11" met="1" type="+-">mio <rhyme label="d" type="f" corresp="#s1:l7">amore</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

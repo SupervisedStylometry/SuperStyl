@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10018</id>
+    <date>
+      <year-start>1649</year-start>
+      <year-end>1649</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Amis mon destin est d'aller combattre</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MYn Vriendt, ick ben ghesint te <rhyme label="a" type="m">gaen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">ten Strijde, en met kracht te <rhyme label="b" type="f">vechten</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">'k Gae heen, te laten schrijven <rhyme label="a" type="m" corresp="#s1:l1">aen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">mijn Naem ter Rolle der <rhyme label="b" type="f" corresp="#s1:l2">Krijghs-knechten</rhyme></l>
+        <l id="s1:l5" met="6" type="-+">Volght my dewijl Bachus door zijne macht <rhyme label="c" type="m">Divin</rhyme></l>
+        <l id="s1:l6" met="7" type="-+">helpt, die met al zijn kracht wil vechten, wil vechten om de <rhyme label="d" type="m">Wijn</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">wil vechten om de <rhyme label="d" type="m" corresp="#s1:l6">Wijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Mijn Trommels sullen Tonnen <rhyme label="a" type="m">zijn</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">'t Canon veel Glasen (waerdt te <rhyme label="b" type="f">prijsen</rhyme>)</l>
+        <l id="s2:l3" met="4" type="-+">Gelaen met d'alderbesten <rhyme label="a" type="m" corresp="#s2:l1">Wijn</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">De Lonten Worsten en <rhyme label="b" type="f" corresp="#s2:l2">Saussysen</rhyme>.</l>
+        <l id="s2:l5" met="6" type="-+">Volght my dewijl Bachus door sijne macht <rhyme label="c" type="m">Divin</rhyme></l>
+        <l id="s2:l6" met="7" type="-+">Helpt, die met al sijn Hert wil vechten, wil vechten om de <rhyme label="d" type="m">Wijn</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Wil vechten om de <rhyme label="d" type="m" corresp="#s2:l6">Wijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

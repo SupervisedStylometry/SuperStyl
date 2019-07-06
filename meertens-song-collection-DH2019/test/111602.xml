@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111602</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Tranquilles coeurs</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">EY Amarantje! seg my <rhyme label="a" type="m">tog</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Waarom dekt gy de Roose <rhyme label="b" type="f">tipjes</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Van uw volmaakte Boesem <rhyme label="a" type="m" corresp="#s1:l1">nog</rhyme>?</l>
+        <l id="s1:l4" met="4" type="-+">Daar gy u Wangen en uw <rhyme label="b" type="f" corresp="#s1:l2">lipjes</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Aan uwen Minnaar <rhyme label="c" type="m">gund</rhyme>:</l>
+        <l id="s1:l6" met="3" type="-+">Of slaat g' ontbloot van <rhyme label="d" type="m">Re'en</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Geen ag top zyn <rhyme label="d" type="m" corresp="#s1:l6">gebe'en</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Waar uyt spruyt dees <rhyme label="a" type="m">Verandering</rhyme>?</l>
+        <l id="s2:l2" met="4" type="-+">Gy gunde my vaak onder 't <rhyme label="b" type="f">Vryen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Dat hand en oog vry weiden <rhyme label="a" type="m" corresp="#s2:l1">ging</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Ontrent uw Elpenbeene <rhyme label="b" type="f" corresp="#s2:l2">dyen</rhyme>;</l>
+        <l id="s2:l5" met="3" type="-+">Of weet gy schoone <rhyme label="c" type="m">niet</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Dat al uw Leden <rhyme label="d" type="m">myn</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Als Minnaar eygen <rhyme label="d" type="m" corresp="#s2:l6">zyn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

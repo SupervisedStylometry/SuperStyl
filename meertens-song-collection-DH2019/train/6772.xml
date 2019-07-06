@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6772</id>
+    <date>
+      <year-start>1620</year-start>
+      <year-end>1620</year-end>
+    </date>
+    <location>
+      <orginal-name>gent</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="sonnet" translation="sonnet">sonnet</tag>
+    </tags>
+    <melody>De zeebaren gestoord met het schuim</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author>Justus de Harduwijn</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">DE zee-baeren ghestoort, met ‘tschuym daer op <rhyme label="a" type="m">ghehoopt</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Uyt ‘tNoort-gat ghesnuyf der scherp-snijdende <rhyme label="b" type="f">winden</rhyme>,</l>
+        <l id="s1:l3" met="6" type="-+">Den haeghel ruyd’, en grof die eycken velt en <rhyme label="b" type="f" corresp="#s1:l2">linden</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Den blicksem die God’s handt soo grammelijck <rhyme label="a" type="m" corresp="#s1:l1">ontknoopt</rhyme>.</l>
+        <l id="s1:l5" met="6" type="-+">En vrees’ ick, noch den Hond die ‘sHemels baen <rhyme label="a" type="m" corresp="#s1:l1">beloopt</rhyme>,</l>
+        <l id="s1:l6" met="6" type="-+">Noch eenigh aerds ghediert bereet my te <rhyme label="b" type="f" corresp="#s1:l2">verslinden</rhyme>;</l>
+        <l id="s1:l7" met="6" type="-+">Nogh Mars, dul en verroet die hem all-om gaet <rhyme label="b" type="f" corresp="#s1:l2">vinden</rhyme></l>
+        <l id="s1:l8" met="6" type="-+">Om te wasschen in ’t bloed zijn aermen op <rhyme label="a" type="m" corresp="#s1:l1">ghestroopt</rhyme>.</l>
+        <l id="s1:l9" met="6" type="-+">‘K en vrees’ noch pijck, noch roer, noch poingnaert, noch <rhyme label="c" type="f">rapiere</rhyme>;</l>
+        <l id="s1:l10" met="6" type="-+">Noch oock de scherpe schaer van Parca <rhyme label="c" type="f" corresp="#s1:l9">ongoedertiere</rhyme>:</l>
+        <l id="s1:l11" met="6" type="+-">Noch gheenderley ghewelt, noch gheenderley <rhyme label="d" type="m">aenstoot</rhyme>:</l>
+        <l id="s1:l12" met="6" type="-+">Maer ick vrees’ boven al dien dagh, en die <rhyme label="e" type="f">huere</rhyme>,</l>
+        <l id="s1:l13" met="6" type="-+">Als’t al sal sijn ghestelt in schrickel, en in <rhyme label="e" type="f" corresp="#s1:l12">ruere</rhyme>:</l>
+        <l id="s1:l14" met="6" type="-+">Om voor altijt t’ontfaen of ‘tleven of de <rhyme label="d" type="m" corresp="#s1:l11">doot</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25652</id>
+    <date>
+      <year-start>1598</year-start>
+      <year-end>1598</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="acrostichon" translation="acrostic song">acrostichon</tag>
+    </tags>
+    <melody>Dies est laetitiae in ortu regali</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Leenaert Clock</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Ick wenscht u veel vredens <rhyme label="a" type="m">goet</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">In u oude <rhyme label="b" type="f">daghen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Der stadt Ierusalem <rhyme label="a" type="m" corresp="#s1:l1">voorspoet</rhyme></l>
+        <l id="s1:l4" met="3" type="+-">Nae Gods <rhyme label="b" type="f" corresp="#s1:l2">welbehaghen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Dat Salomon regeer <rhyme label="c" type="m">aldaer</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Met sijner wijsheyt <rhyme label="c" type="m" corresp="#s1:l5">openbaer</rhyme></l>
+        <l id="s1:l7" met="3" type="+-">Als een Vorst vol <rhyme label="d" type="f">vreden</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Dat de Borghers int <rhyme label="e" type="m">ghetal</rhyme></l>
+        <l id="s1:l9" met="4" type="+-">Vrede houden over <rhyme label="e" type="m" corresp="#s1:l8">al</rhyme></l>
+        <l id="s1:l10" met="3" type="+-">Nu naer Christi <rhyme label="d" type="f" corresp="#s1:l7">zeden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Anders niet en zijn <rhyme label="a" type="m">ghesint</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">Dan sijne lijfs <rhyme label="b" type="f">lidtmaten</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Dat ghy als Gods lieve <rhyme label="a" type="m" corresp="#s2:l1">kindt</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">Meucht zijn <rhyme label="b" type="f" corresp="#s2:l2">inghelaten</rhyme>:</l>
+        <l id="s2:l5" met="4" type="+-">Als die woecker heeft <rhyme label="c" type="m">ghedaen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Met ponden van hem <rhyme label="c" type="m" corresp="#s2:l5">ontfaen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="+-">Als een knecht des <rhyme label="d" type="f">Heeren</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">In sijnen ooghste seer <rhyme label="e" type="m">groot</rhyme></l>
+        <l id="s2:l9" met="4" type="+-">Gheleden menighen <rhyme label="e" type="m" corresp="#s2:l8">noot</rhyme></l>
+        <l id="s2:l10" met="3" type="+-">Sijn Rijck te <rhyme label="d" type="f" corresp="#s2:l7">vermeeren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Heeft ghehouden by der <rhyme label="a" type="m">handt</rhyme>,</l>
+        <l id="s3:l2" met="3" type="+-">V in groot <rhyme label="b" type="f">beswaren</rhyme>:</l>
+        <l id="s3:l3" met="4" type="+-">Godt, die nu can doen <rhyme label="a" type="m" corresp="#s3:l1">bystandt</rhyme></l>
+        <l id="s3:l4" met="3" type="+-">Sijn trouwe <rhyme label="b" type="f" corresp="#s3:l2">dienaren</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Die wil u verstrecken // <rhyme label="c" type="m">doch</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Neerstich te bewercken // <rhyme label="c" type="m" corresp="#s3:l5">noch</rhyme></l>
+        <l id="s3:l7" met="3" type="+-">Ierusalems <rhyme label="d" type="f">mueren</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">Datse worden <rhyme label="e" type="m">opghericht</rhyme>,</l>
+        <l id="s3:l9" met="4" type="+-">En haer luycken sluyten <rhyme label="e" type="m" corresp="#s3:l8">dicht</rhyme></l>
+        <l id="s3:l10" met="3" type="+-">Vrolijck sonder <rhyme label="d" type="f" corresp="#s3:l7">treuren</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Neerstich weest een cleyne <rhyme label="a" type="m">tijt</rhyme>,</l>
+        <l id="s4:l2" met="3" type="+-">Soo sal de Heer <rhyme label="b" type="f">comen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Brengt den loon des seker <rhyme label="a" type="m" corresp="#s4:l1">zijt</rhyme></l>
+        <l id="s4:l4" met="3" type="+-">Met, en prijst de <rhyme label="b" type="f" corresp="#s4:l2">vromen</rhyme>:</l>
+        <l id="s4:l5" met="4" type="+-">Hoe sullen daer luchten <rhyme label="c" type="m">schier</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">Die d’ander nu leerden <rhyme label="c" type="m" corresp="#s4:l5">hier</rhyme>,</l>
+        <l id="s4:l7" met="3" type="+-">Als de Sterren <rhyme label="d" type="f">blincken</rhyme>.</l>
+        <l id="s4:l8" met="4" type="+-">D’een claerder als d’ander <rhyme label="e" type="m">schoon</rhyme>,</l>
+        <l id="s4:l9" met="4" type="+-">Soo sal in des Hemels <rhyme label="e" type="m" corresp="#s4:l8">troon</rhyme></l>
+        <l id="s4:l10" met="3" type="+-">Godt u claerheyt <rhyme label="d" type="f" corresp="#s4:l7">schincken</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Rijcklijck met <rhyme label="a" type="m">barmherticheyt</rhyme></l>
+        <l id="s5:l2" met="3" type="+-">Moet hy by u <rhyme label="b" type="f">wesen</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">V met verstande <rhyme label="a" type="m" corresp="#s5:l1">bereyt</rhyme></l>
+        <l id="s5:l4" met="3" type="+-">Begaven tot <rhyme label="b" type="f" corresp="#s5:l2">desen</rhyme>,</l>
+        <l id="s5:l5" met="4" type="+-">Op dat ghy meucht sien met <rhyme label="c" type="m">lust</rhyme></l>
+        <l id="s5:l6" met="4" type="+-">Ierusalem wel <rhyme label="c" type="m" corresp="#s5:l5">gherust</rhyme></l>
+        <l id="s5:l7" met="3" type="+-">In veel deuchden <rhyme label="d" type="f">groeyen</rhyme>,</l>
+        <l id="s5:l8" met="4" type="+-">Versamen, soo dat <rhyme label="e" type="m">behoort</rhyme>,</l>
+        <l id="s5:l9" met="4" type="+-">Met een Christelijck <rhyme label="e" type="m" corresp="#s5:l8">accoort</rhyme>,</l>
+        <l id="s5:l10" met="3" type="+-">En u liefde <rhyme label="d" type="f" corresp="#s5:l7">bloeyen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Soo dat ghy voortaen u <rhyme label="a" type="m">tijdt</rhyme></l>
+        <l id="s6:l2" met="3" type="+-">Meucht met vreuchd’ <rhyme label="b" type="f">doorbringhen</rhyme>,</l>
+        <l id="s6:l3" met="4" type="+-">T’aller steden waer ghy <rhyme label="a" type="m" corresp="#s6:l1">zijt</rhyme></l>
+        <l id="s6:l4" met="3" type="+-">Godt danck en lof <rhyme label="b" type="f" corresp="#s6:l2">singhen</rhyme>,</l>
+        <l id="s6:l5" met="4" type="+-">T’zy met stemmen ofte <rhyme label="c" type="m">mondt</rhyme>,</l>
+        <l id="s6:l6" met="4" type="+-">Spelen uyt des herten <rhyme label="c" type="m" corresp="#s6:l5">grondt</rhyme>,</l>
+        <l id="s6:l7" met="3" type="+-">Soo u tijdt <rhyme label="d" type="f">verbeyden</rhyme></l>
+        <l id="s6:l8" met="4" type="+-">Tot de Heere comt <rhyme label="e" type="m">ghelijck</rhyme></l>
+        <l id="s6:l9" met="4" type="+-">V te halen in sijn <rhyme label="e" type="m" corresp="#s6:l8">Rijck</rhyme>,</l>
+        <l id="s6:l10" met="3" type="+-">Hy wil u <rhyme label="d" type="f" corresp="#s6:l7">gheleyden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

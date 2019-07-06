@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13291</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Ach wie eine unaussprechliche Pein</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Joannes van Sambeeck</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">TOt de Fontein van 't eeuwigh <rhyme label="a" type="f">leven</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Mijn dorstigh hert wiert <rhyme label="a" type="f" corresp="#s1:l1">opgedreven</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Als ick onlanghs in een <rhyme label="b" type="m">Fontein</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Die vloeide door een groene <rhyme label="b" type="m" corresp="#s1:l3">plein</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Afwies mijn aengesicht <rhyme label="b" type="m" corresp="#s1:l3">onrein</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ick riep beschaemt om mijn vuil <rhyme label="a" type="f">leven</rhyme>:</l>
+        <l id="s2:l2" met="4" type="-+">Wie sal mijn oogen water <rhyme label="a" type="f" corresp="#s2:l1">geven</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Dat ick beschreyen nacht, en <rhyme label="b" type="m">dagh</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Met David al mijn sonden <rhyme label="b" type="m" corresp="#s2:l3">mach</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Waer in soo menich jaer ick <rhyme label="b" type="m" corresp="#s2:l3">lach</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">O Jesu laet mijn hert,en <rhyme label="a" type="f">sinnen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">U liefde wederom <rhyme label="a" type="f" corresp="#s3:l1">beminnen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Soo langen tijt van my <rhyme label="b" type="m">veracht</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Die my soo langen tijt <rhyme label="b" type="m" corresp="#s3:l3">verwacht</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">En niet verrast hebt in de <rhyme label="b" type="m" corresp="#s3:l3">nacht</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ghy laet my vloeyen all' u <rhyme label="a" type="f">wonden</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Om te wasschen al mijn <rhyme label="a" type="f" corresp="#s4:l1">sonden</rhyme>.</l>
+        <l id="s4:l3" met="4" type="-+">Hoe is u liefde noch soo <rhyme label="b" type="m">groot</rhyme>?</l>
+        <l id="s4:l4" met="4" type="-+">Ghy my bemint hebt tot de <rhyme label="b" type="m" corresp="#s4:l3">doot</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">En noch ontfanght in uwen <rhyme label="b" type="m" corresp="#s4:l3">schoot</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

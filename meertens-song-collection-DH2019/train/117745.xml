@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>117745</id>
+    <date>
+      <year-start>1741</year-start>
+      <year-end>1741</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>De zuiderzon liet haar stralen</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">De Zuyder-zon liet zyne <rhyme label="a" type="f">stralen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Op Veld en Akkers <rhyme label="a" type="f" corresp="#s1:l1">nederdalen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Wanneer Pylander <rhyme label="b" type="m">adem-togt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">In 't lommeren en de schaduw <rhyme label="b" type="m" corresp="#s1:l3">zogt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">In 't naaste Woud, om 't Zonne-ligt te <rhyme label="a" type="f">ontvlugten</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">En uyt de Borst van zyne Min te <rhyme label="a" type="f" corresp="#s2:l1">zugten</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Daar hy zyn <rhyme label="b" type="m">Rozemond</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">In 't groen al slapend <rhyme label="b" type="m" corresp="#s2:l3">vond</rhyme>,</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Als opgetogen door <rhyme label="a" type="f">verwonderingen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Begon de Harder dus te <rhyme label="a" type="f" corresp="#s3:l1">zingen</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Waar vond men schoonder <rhyme label="b" type="m">Tafereel</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">Gemaald, door 's Kunstenaars <rhyme label="b" type="m" corresp="#s3:l3">Penceel</rhyme>,</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Als my hier werd vertoond in 't <rhyme label="a" type="f">leven</rhyme>;</l>
+        <l id="s4:l2" met="4" type="-+">'k Zie Rozemond hier rusten by een <rhyme label="a" type="f" corresp="#s4:l1">Bron</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">In 't lommer van de groene <rhyme label="b" type="m">Dreven</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Voor 't steken van de Middag <rhyme label="b" type="m" corresp="#s4:l3">Zon</rhyme>:</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Terwyl haar blonde ontsnoerde <rhyme label="a" type="f">Haren</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Doorvlogten zyn met Bloemen en <rhyme label="a" type="f" corresp="#s5:l1">Blaren</rhyme>:</l>
+        <l id="s5:l3" met="4" type="-+">Gy Pluym-gedierd, ontwekt haar <rhyme label="b" type="m">niet</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Laat die bekoorelyke <rhyme label="b" type="m" corresp="#s5:l3">rusten</rhyme>,</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Myn Oog moet zig nog wat <rhyme label="a" type="f">verlusten</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">In 't schoon dat my 't hier <rhyme label="a" type="f" corresp="#s6:l1">bied</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">O lief geval! dat voor myn <rhyme label="b" type="m">Ogen</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Komt zo veel schoonheyd t'zaam <rhyme label="b" type="m" corresp="#s6:l3">vertogen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

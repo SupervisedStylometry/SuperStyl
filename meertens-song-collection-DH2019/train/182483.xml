@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182483</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Quand la bergère vient des champs</melody>
+  <author>Hendrik Riemsnijder</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DIt Boompje, dat zoo tierig <rhyme label="a" type="m">groeit</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En reeds zoo vol en welig <rhyme label="a" type="m" corresp="#s1:l1">bloeit</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Is hier geplant met my <rhyme label="b" type="m">gelyk</rhyme>;</l>
+        <l id="s1:l4" met="2" type="-+">'t Verheft zyn' <rhyme label="c" type="f">topjes</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">En is aan <rhyme label="c" type="f" corresp="#s1:l4">knopjes</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Vol vruchten <rhyme label="b" type="m" corresp="#s1:l3">ryk</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Het loont alreeds de nyv're <rhyme label="a" type="m">hand</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Van den Tuinier, die 't heeft <rhyme label="a" type="m" corresp="#s2:l1">geplant</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">En die zyn' vreugd vergroot zal <rhyme label="b" type="m">zien</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">Als 't eens, <rhyme label="c" type="f">volwassen</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Hem zal <rhyme label="c" type="f" corresp="#s2:l4">verrassen</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">En vruchten <rhyme label="b" type="m" corresp="#s2:l3">biên</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Deez' kleinen boom ben ik <rhyme label="a" type="m">gelyk</rhyme>:</l>
+        <l id="s3:l2" met="4" type="-+">Ook nog, als hy, aan hoop slegts <rhyme label="a" type="m" corresp="#s3:l1">rijk</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Bloei ik, beloovende, in myn' <rhyme label="b" type="m">jeugd</rhyme>;</l>
+        <l id="s3:l4" met="2" type="-+">In ryper <rhyme label="c" type="f">dagen</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">Zal 'k vruchten <rhyme label="c" type="f" corresp="#s3:l4">draagen</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">Van Eer en <rhyme label="b" type="m" corresp="#s3:l3">Deugd</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

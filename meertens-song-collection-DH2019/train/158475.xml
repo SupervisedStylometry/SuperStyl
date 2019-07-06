@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>158475</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>De minnevreugd</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="theatre">theater</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Ik heb 't geluk u, wel gepaarde <rhyme label="a" type="f">herten</rhyme>,</l>
+        <l id="s1:l2" met="5" type="+-">Die u nu zyt ten einde van u <rhyme label="a" type="f" corresp="#s1:l1">smerten</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Te wenschen alle <rhyme label="b" type="m">vreugd</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Die immermeer de <rhyme label="b" type="m" corresp="#s1:l3">jeugd</rhyme></l>
+        <l id="s1:l5" met="6" type="-+">Kan strelen, of waarmee de min het hert <rhyme label="b" type="m" corresp="#s1:l3">verheugd</rhyme>;</l>
+        <l id="s1:l6" met="3" type="-+">Schoon my het wrede <rhyme label="c" type="m">lot</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Ontroofd dat soet <rhyme label="c" type="m" corresp="#s1:l6">genot</rhyme></l>
+        <l id="s1:l8" met="6" type="-+">Dat u gewillig schenkt de groote <rhyme label="c" type="m" corresp="#s1:l6">Minne-god</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Ag, dat ik ook mogt so gelukkig <rhyme label="a" type="f">wesen</rhyme></l>
+        <l id="s2:l2" met="5" type="+-">Dat mijne Ziel, vervult met duysent <rhyme label="a" type="f" corresp="#s2:l1">vresen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Het eind sag van de <rhyme label="b" type="m">pyn</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Waar door ik nu <rhyme label="b" type="m" corresp="#s2:l3">verkwyn</rhyme>;</l>
+        <l id="s2:l5" met="6" type="-+">Wat soete balsem sou dat voor mijn wonden <rhyme label="b" type="m" corresp="#s2:l3">zijn</rhyme>!</l>
+        <l id="s2:l6" met="3" type="-+">Maar ag, mijn felle <rhyme label="c" type="m">straf</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Laat noit van klagen <rhyme label="c" type="m" corresp="#s2:l6">af</rhyme>,</l>
+        <l id="s2:l8" met="6" type="-+">Die   my de Min-godin voor mijne trotsheid <rhyme label="c" type="m" corresp="#s2:l6">gaf</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

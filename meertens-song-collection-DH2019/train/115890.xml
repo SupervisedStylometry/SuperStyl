@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>115890</id>
+    <date>
+      <year-start>1694</year-start>
+      <year-end>1694</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Cornelis Sweerts</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Gelukkige uur vol on- <rhyme label="a" type="f">gelukken</rhyme>!</l>
+        <l id="s1:l2" met="4" type="-+">Komt gy myn Schoone my <rhyme label="a" type="f" corresp="#s1:l1">ontrukken</rhyme>?</l>
+        <l id="s1:l3" met="6" type="-+">Sy gunt aan my haar gunst, terwyl sy van my <rhyme label="b" type="m">vlied</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En ik verkryg haar <rhyme label="b" type="m" corresp="#s1:l3">niet</rhyme>!</l>
+        <l id="s1:l5" met="4" type="-+">Gewenschte vreugd vol smert en <rhyme label="c" type="m">pyn</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Is 't droom? of enk'le <rhyme label="c" type="m" corresp="#s1:l5">schyn</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

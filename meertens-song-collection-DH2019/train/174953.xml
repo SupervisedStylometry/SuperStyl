@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174953</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ik wou wel als een <rhyme label="a" type="m">vogeltje</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Zoo vliegen en zoo <rhyme label="b" type="f">springen</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Ik woû wel als een <rhyme label="c" type="m">vogeltje</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Een vrolijk liedje <rhyme label="b" type="f" corresp="#s1:l2">zingen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">En iedereen' vertelde ik <rhyme label="d" type="m">graag</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Dat ik zoo vrolijk ben van <rhyme label="d" type="m" corresp="#s1:l5">daag</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">En wilt ge weten hoe dat <rhyme label="a" type="m">komt</rhyme>?</l>
+        <l id="s2:l2" met="3" type="-+">Och, luister dan maar <rhyme label="b" type="f">even</rhyme>!</l>
+        <l id="s2:l3" met="4" type="-+">Ik heb het best mijn les <rhyme label="c" type="m">gekend</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Het best mijn schrift <rhyme label="b" type="f" corresp="#s2:l2">geschreven</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">En Moeder trok mij op haar' <rhyme label="d" type="m">schoot</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">En zoende beî mijn wangen <rhyme label="d" type="m" corresp="#s2:l5">rood</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

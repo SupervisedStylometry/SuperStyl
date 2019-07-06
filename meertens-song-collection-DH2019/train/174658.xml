@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174658</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Groene bladen spits van punt</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Groene bladen, spits van <rhyme label="a" type="m">punt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">Hoekig aan de <rhyme label="b" type="f">randen</rhyme>!</l>
+        <l id="s1:l3" met="4" type="+-">Zeg eens hoe ge groeijen <rhyme label="a" type="m" corresp="#s1:l1">kunt</rhyme></l>
+        <l id="s1:l4" met="3" type="+-">Aan die naakte <rhyme label="b" type="f" corresp="#s1:l2">wanden</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">- 'k Lag versmeten voor de <rhyme label="a" type="m">deur</rhyme>,</l>
+        <l id="s2:l2" met="3" type="+-">Vuil en <rhyme label="b" type="f">overloopen</rhyme>;</l>
+        <l id="s2:l3" met="4" type="+-">Vond ik hier of daar een <rhyme label="a" type="m" corresp="#s2:l1">scheur</rhyme>,</l>
+        <l id="s2:l4" met="3" type="+-">'k Ben er in <rhyme label="b" type="f" corresp="#s2:l2">gekropen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Ieder straaltje, dat ik <rhyme label="a" type="m">ving</rhyme>,</l>
+        <l id="s3:l2" met="3" type="+-">Gaf mij kracht en <rhyme label="b" type="f">leven</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Ieder druppel, die er <rhyme label="a" type="m" corresp="#s3:l1">hing</rhyme>,</l>
+        <l id="s3:l4" met="3" type="+-">Deed mij hooger <rhyme label="b" type="f" corresp="#s3:l2">streven</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Dankend onzen Lieven <rhyme label="a" type="m">Heer</rhyme></l>
+        <l id="s4:l2" met="3" type="+-">Voor zijn zon en <rhyme label="b" type="f">regen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Groeide ik daaglijks meer en <rhyme label="a" type="m" corresp="#s4:l1">meer</rhyme></l>
+        <l id="s4:l4" met="3" type="+-">In des Hemels <rhyme label="b" type="f" corresp="#s4:l2">zegen</rhyme>. -</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Wie het kleinste niet <rhyme label="a" type="m">versmaadt</rhyme>,</l>
+        <l id="s5:l2" met="3" type="+-">Wat hem God wil <rhyme label="b" type="f">geven</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Die kan groeijen naar zijn' <rhyme label="a" type="m" corresp="#s5:l1">staat</rhyme></l>
+        <l id="s5:l4" met="3" type="+-">En tevreden <rhyme label="b" type="f" corresp="#s5:l2">leven</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

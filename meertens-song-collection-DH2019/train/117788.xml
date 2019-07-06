@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>117788</id>
+    <date>
+      <year-start>1741</year-start>
+      <year-end>1741</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="wiegelied" translation="lullaby">wiegelied</tag>
+    </tags>
+    <melody>Jenneke thuis</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wie drommel Klop hier aan myn <rhyme label="a" type="m">Huys</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Is het een Rot of is 't een <rhyme label="a" type="m" corresp="#s1:l1">Muys</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Myn Man is t'huys, myn Man is <rhyme label="a" type="m" corresp="#s1:l1">t'huys</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Myn Man, myn Man, myn <rhyme label="b" type="m">Mannetje</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Slaap myn zoete <rhyme label="b" type="m" corresp="#s1:l4">Kinnetje</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">En doet u Oogjes <rhyme label="c" type="m">toe</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als het Regent dan is het <rhyme label="a" type="m">Nat</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Dan gaat 'er myn Man niet uyt de <rhyme label="a" type="m" corresp="#s2:l1">Stad</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Myn Man is t'huys, myn Man is <rhyme label="a" type="m" corresp="#s2:l1">t'huys</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Myn Man, myn Man, myn <rhyme label="b" type="m">Mannetje</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Slaap myn Lieve <rhyme label="b" type="m" corresp="#s2:l4">Kinnetje</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">En doet u Oogjes <rhyme label="c" type="m">toe</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Als het Regent dan is 't Vuyl <rhyme label="a" type="m">weer</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Gaat na je Huys, en komt Morgen <rhyme label="a" type="m" corresp="#s3:l1">weer</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Myn Man is t'huys, myn Man is <rhyme label="a" type="m" corresp="#s3:l1">t'huys</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Myn Man, myn Man, myn <rhyme label="b" type="m">Mannetje</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Slaap myn zoete <rhyme label="b" type="m" corresp="#s3:l4">Lammetje</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">En doet u Oogjes <rhyme label="c" type="m">toe</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Vrouwtje Lief, wat Zingt gy <rhyme label="a" type="m">dan</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Og myn alderliefste <rhyme label="a" type="m" corresp="#s4:l1">Man</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Myn Man is t'huys, myn Man is <rhyme label="a" type="m" corresp="#s4:l1">t'huys</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Myn Man, myn Man, myn <rhyme label="b" type="m">Mannetje</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">Slaap myn zoete <rhyme label="b" type="m" corresp="#s4:l4">Kinnetje</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">En doet u Oogjes <rhyme label="c" type="m">toe</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Onder mynen <rhyme label="a" type="m">Wentel-trap</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Daar staat 'er een Bort met Wyn <rhyme label="a" type="m" corresp="#s5:l1">getapt</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Myn Man is t'huys, myn Man is <rhyme label="a" type="m" corresp="#s5:l1">t'huys</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Myn Man, myn Man, myn <rhyme label="b" type="m">Mannetje</rhyme>,</l>
+        <l id="s5:l5" met="4" type="+-">Slaap myn kleyne <rhyme label="b" type="m" corresp="#s5:l4">Kinnetje</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">En doet u Oogjes <rhyme label="c" type="m">toe</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

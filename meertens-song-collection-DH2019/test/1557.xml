@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1557</id>
+    <date>
+      <year-start>1624</year-start>
+      <year-end>1624</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Psalm 119 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Twee dingen bid ick u mijn Godt! mijn <rhyme label="a" type="m">Heer</rhyme>!</l>
+        <l id="s1:l2" met="5" type="-+">Laet my die doch van uwe Handt <rhyme label="b" type="f">verwerven</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Eer dat ick van hier gae, en vaer om <rhyme label="a" type="m" corresp="#s1:l1">neer</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">In 'tswarte graf den aerden-schoot te <rhyme label="b" type="f" corresp="#s1:l2">erven</rhyme>:</l>
+        <l id="s1:l5" met="5" type="-+">Laet my dan niet, o Laet my <rhyme label="a" type="m" corresp="#s1:l1">nimmermeer</rhyme></l>
+        <l id="s1:l6" met="5" type="-+">In afval, en Afgoderij <rhyme label="b" type="f" corresp="#s1:l2">verderven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Mijn mondt, en lippen oock met een <rhyme label="a" type="m">behoedt</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Dat sy met liegen niemant en <rhyme label="b" type="f">bedroeven</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Geef my geen Schatten, en geen <rhyme label="a" type="m" corresp="#s2:l1">Overvloedt</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">En wil my oock met Armoe niet <rhyme label="b" type="f" corresp="#s2:l2">beproeven</rhyme>:</l>
+        <l id="s2:l5" met="5" type="-+">Maer geef my slechts van dit verganck'lijck <rhyme label="a" type="m" corresp="#s2:l1">goedt</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">So veel dit tijdtlijck leven sal <rhyme label="b" type="f" corresp="#s2:l2">behoeven</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">'K mocht anders zijnde nu so vet, en <rhyme label="a" type="m">sade</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Mijns selfs niet zijn, en al te hooge <rhyme label="b" type="f">sweven</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">En Godt versma'en die my verheven <rhyme label="a" type="m" corresp="#s3:l1">hadt</rhyme>:</l>
+        <l id="s3:l4" met="5" type="-+">Of my in mijn gebreck tot stelen <rhyme label="b" type="f" corresp="#s3:l2">geven</rhyme>,</l>
+        <l id="s3:l5" met="5" type="-+">En tre'en so af van 's Heeren rechte <rhyme label="a" type="m" corresp="#s3:l1">padt</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">En brengen toe in sond'en schand' mijn <rhyme label="b" type="f" corresp="#s3:l2">leven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

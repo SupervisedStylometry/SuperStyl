@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4550</id>
+    <date>
+      <year-start>1667</year-start>
+      <year-end>1667</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Ballet à Vlooswijk 10</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Pieter Elsevier</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Ick leef altijdt ge- rus- <rhyme label="a" type="f">jes</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Daar-men-als no- ble ba- <rhyme label="a" type="f" corresp="#s1:l1">sen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Wanneer ick maar door <rhyme label="a" type="f" corresp="#s1:l1">kusjes</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Weet hel- der uyt te <rhyme label="b" type="m">bla-sen</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Voldoe mijn grage <rhyme label="c" type="f">lusjes</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">De pints en mengels <rhyme label="c" type="f" corresp="#s1:l5">glasen</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">En somtijts eens mach <rhyme label="c" type="f" corresp="#s1:l5">zijn</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Ge-vult met Rijn- se <rhyme label="b" type="m" corresp="#s1:l4">wijn</rhyme>:</l>
+        <l id="s1:l9" met="3" type="-+">Want maakt Veirus mijn de <rhyme label="d" type="f">zinnen</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">Maar wat te vol van <rhyme label="e" type="m">lust</rhyme>,</l>
+        <l id="s1:l11" met="3" type="+-">Laat ick straks Bacchus <rhyme label="d" type="f" corresp="#s1:l9">binnen</rhyme>,</l>
+        <l id="s1:l12" met="3" type="-+">Dan is 't weer al ge- <rhyme label="e" type="m" corresp="#s1:l10">sust</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Dan raakt de keel aan 't <rhyme label="a" type="f">singen</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">De voeten willen <rhyme label="a" type="f" corresp="#s2:l1">springen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">De geest baert wond're <rhyme label="a" type="f" corresp="#s2:l1">dingen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Ja 't hert is soo <rhyme label="b" type="m">verheugt</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Dat het geen <rhyme label="c" type="f">veynseryen</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Kan in sijn boesem <rhyme label="c" type="f" corresp="#s2:l5">lyen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Maer stelt die Pest ter <rhyme label="c" type="f" corresp="#s2:l5">syen</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">En wil een lout're <rhyme label="b" type="m" corresp="#s2:l4">vreugt</rhyme>.</l>
+        <l id="s2:l9" met="3" type="-+">Ter eeren van bey de <rhyme label="d" type="f">Goden</rhyme>,</l>
+        <l id="s2:l10" met="3" type="-+">'k Meen Bacchus en <rhyme label="e" type="m">Vulcaen</rhyme>,</l>
+        <l id="s2:l11" met="3" type="+-">Die strax mijn min-zucht <rhyme label="d" type="f" corresp="#s2:l9">dooden</rhyme>,</l>
+        <l id="s2:l12" met="3" type="-+">Als sy met hoornen <rhyme label="e" type="m" corresp="#s2:l10">slaen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

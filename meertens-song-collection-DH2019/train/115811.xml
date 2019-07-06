@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>115811</id>
+    <date>
+      <year-start>1681</year-start>
+      <year-end>1681</year-end>
+    </date>
+    <location>
+      <orginal-name>alkmaar</orginal-name>
+      <standard-name>Alkmaar, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.6312592</lon>
+        <lat>4.7503798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Het daagt in de oosten</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Claes Stapel</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">AL ruiszen all' de <rhyme label="a" type="f">wouden</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Al ruisd het wilde <rhyme label="b" type="m">meer</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Al beefd het al van <rhyme label="a" type="f" corresp="#s1:l1">donder</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Al slaat de bliksem <rhyme label="b" type="m" corresp="#s1:l2">ne'er</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Mijn hart blijft zonder <rhyme label="c" type="f">vreezen</rhyme></l>
+        <l id="s1:l6" met="2" type="+-">In zijn <rhyme label="c" type="f" corresp="#s1:l5">weesen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Het kan ons niet <rhyme label="a" type="f">verschrikken</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Al wat van buiten <rhyme label="b" type="m">woeld</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Wanneer men maar van <rhyme label="a" type="f" corresp="#s2:l1">binnen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">De zoete ruste <rhyme label="b" type="m" corresp="#s2:l2">voeld</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">De schoonste rust van <rhyme label="c" type="f">binnen</rhyme></l>
+        <l id="s2:l6" met="2" type="+-">Kan 't <rhyme label="c" type="f" corresp="#s2:l5">verwinnen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Als Iesus zig in 't <rhyme label="a" type="f">herte</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Te rusten heeft <rhyme label="b" type="m">gezet</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Laat eens een on-we'er <rhyme label="a" type="f" corresp="#s3:l1">koomen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Dat deeze rust <rhyme label="b" type="m" corresp="#s3:l2">belet</rhyme>:</l>
+        <l id="s3:l5" met="3" type="-+">Al 't quaad versmelt in <rhyme label="c" type="f">vreeze</rhyme></l>
+        <l id="s3:l6" met="2" type="+-">Voor zijn <rhyme label="c" type="f" corresp="#s3:l5">weezen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">O Menschen! Woud gy <rhyme label="a" type="f">leeren</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Waar in uw heil <rhyme label="b" type="m">bestaat</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">'t Is hier in , dat gy <rhyme label="a" type="f" corresp="#s4:l1">weelde</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">En aardze rijkdom <rhyme label="b" type="m" corresp="#s4:l2">haat</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">En dat gy tragt te <rhyme label="c" type="f">winnen</rhyme></l>
+        <l id="s4:l6" met="2" type="+-">Rust van <rhyme label="c" type="f" corresp="#s4:l5">binnen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

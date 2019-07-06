@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175165</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Zwaantje, met uw witte <rhyme label="a" type="f">pluimen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Met uw vlerken groot en <rhyme label="b" type="m">wijd</rhyme>!</l>
+        <l id="s1:l3" met="4" type="+-">'k Zie het wel, hoe trotsch ge <rhyme label="b" type="m" corresp="#s1:l2">zijt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Als ge 't water zoo doet <rhyme label="a" type="f" corresp="#s1:l1">schuimen</rhyme>!</l>
+        <l id="s1:l5" met="4" type="+-">Al de vogels klein en <rhyme label="c" type="m">teêr</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Jaagt gij weg van beek en <rhyme label="d" type="f">vlieten</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">En de schuchtre vischjes <rhyme label="d" type="f" corresp="#s1:l6">schieten</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Haastig in de diepte <rhyme label="c" type="m" corresp="#s1:l5">neêr</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Mooi, dat zijt ge boven <rhyme label="a" type="f">velen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Slank en statig buiten <rhyme label="b" type="m">kijf</rhyme>;</l>
+        <l id="s2:l3" met="4" type="+-">Kostbaar dons bedekt uw <rhyme label="b" type="m" corresp="#s2:l2">lijf</rhyme>;</l>
+        <l id="s2:l4" met="4" type="+-">Maar, wat kan dat andren <rhyme label="a" type="f" corresp="#s2:l1">schelen</rhyme>?</l>
+        <l id="s2:l5" met="4" type="+-">Zie dien kleinen <rhyme label="c" type="m">nachtegaal</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Graauw en pover in de <rhyme label="d" type="f">veêren</rhyme>, -</l>
+        <l id="s2:l7" met="4" type="+-">Maar wat kan hij <rhyme label="d" type="f" corresp="#s2:l6">kwinkeleren</rhyme>....</l>
+        <l id="s2:l8" met="4" type="+-">Zwaanlief! hè! dat 's meer dan <rhyme label="c" type="m" corresp="#s2:l5">praal</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Zwaantje! wilt gij nedrig <rhyme label="a" type="f">wezen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">'k Wed, dat gij, door heel de <rhyme label="b" type="m">streek</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Als het siersel van de <rhyme label="b" type="m" corresp="#s3:l2">beek</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Wordt bewonderd en <rhyme label="a" type="f" corresp="#s3:l1">geprezen</rhyme>:</l>
+        <l id="s3:l5" met="4" type="+-">Maar blijft gij zoo trotsch en <rhyme label="c" type="m">fier</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">'k Zeg dan, als ik u hoor <rhyme label="d" type="f">gagglen</rhyme></l>
+        <l id="s3:l7" met="4" type="+-">En op ganzenpoot zie <rhyme label="d" type="f" corresp="#s3:l6">wagglen</rhyme>....</l>
+        <l id="s3:l8" met="4" type="+-">Och, 't is toch een ak'lig <rhyme label="c" type="m" corresp="#s3:l5">dier</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

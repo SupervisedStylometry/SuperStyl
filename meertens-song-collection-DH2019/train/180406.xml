@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>180406</id>
+    <date>
+      <year-start>1660</year-start>
+      <year-end>1660</year-end>
+    </date>
+    <location>
+      <orginal-name>leuven</orginal-name>
+      <standard-name>Leuven, Belgium</standard-name>
+      <coordinates>
+        <lon>50.879202</lon>
+        <lat>4.7011675</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Quam Mariam dulcibus</melody>
+  <author>Gaudentius van Loemel</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">Zy kloeckmoedich, wilde niet <rhyme label="a" type="f">verbeyden</rhyme>;</l>
+        <l id="s1:l2" met="5" type="+-">Maer heeft spoedich haer willen <rhyme label="a" type="f" corresp="#s1:l1">bereyden</rhyme>,</l>
+        <l id="s1:l3" met="5" type="+-">Daer de woorden die haed had’ <rhyme label="b" type="f">genesen</rhyme>,</l>
+        <l id="s1:l4" met="5" type="+-">Sy aenhoorden, dat hy was <rhyme label="b" type="f" corresp="#s1:l3">verresen</rhyme>,</l>
+        <l id="s1:l5" met="7" type="+-">Dit heeft haer gepresen, d’Engel Godts alsoo <rhyme label="c" type="m">bediet</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Sy te vreden door de <rhyme label="d" type="f">reden</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Seydt ons wat daer is <rhyme label="c" type="m" corresp="#s1:l5">geschiet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Siet de liefde, dit in haer niet <rhyme label="a" type="f">bluste</rhyme>;</l>
+        <l id="s2:l2" met="5" type="+-">Maer door-kliefde ‘t hert daer hy in <rhyme label="a" type="f" corresp="#s2:l1">ruste</rhyme>,</l>
+        <l id="s2:l3" met="5" type="+-">Kost niet vinden dat haer sou <rhyme label="b" type="f">vermaecken</rhyme>;</l>
+        <l id="s2:l4" met="5" type="+-">Watn ‘s hem minden boven alle <rhyme label="b" type="f" corresp="#s2:l3">saecken</rhyme>,</l>
+        <l id="s2:l5" met="7" type="+-">Wilt in liefd’ oock blaecken, gelijck Magdalena <rhyme label="c" type="m">doet</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">In sijn wonden heeft sy <rhyme label="d" type="f">vonden</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Alle lust in <rhyme label="c" type="m" corresp="#s2:l5">overvloet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">Iesu stiert oock soo ons hert en <rhyme label="a" type="f">sinnen</rhyme></l>
+        <l id="s3:l2" met="5" type="+-">Dat wy als Maria u <rhyme label="a" type="f" corresp="#s3:l1">beminnen</rhyme>,</l>
+        <l id="s3:l3" met="5" type="+-">Wilt ons Heere soo u grati <rhyme label="b" type="f">geven</rhyme>,</l>
+        <l id="s3:l4" met="5" type="+-">Dat wy maer alleen in en <rhyme label="b" type="f" corresp="#s3:l3">leven</rhyme></l>
+        <l id="s3:l5" met="7" type="+-">Doet tot u gedreven, ons verachten <rhyme label="c" type="m">d’ydelheyt</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">En met suchten tot u <rhyme label="d" type="f">vluchten</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Iesu onse <rhyme label="c" type="m" corresp="#s3:l5">saligheyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

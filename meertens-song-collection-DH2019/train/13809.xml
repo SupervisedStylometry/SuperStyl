@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13809</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Amarilli mia bella</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>anoniem</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">ACh woud’ d’Hemel my <rhyme label="a" type="f">gheven</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Dat dit verslagen hert van straf en <rhyme label="b" type="f">sonden</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Weird los en <rhyme label="b" type="f" corresp="#s1:l2">onghebonden</rhyme>:</l>
+        <l id="s1:l4" met="5" type="-+">Soo souden dan mijn nat betraende <rhyme label="c" type="f">ooghen</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Voor ‘t Sonne licht op <rhyme label="c" type="f" corresp="#s1:l4">drooghen</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Dan mocht ick wenschen om tot mijn waerde <rhyme label="d" type="f">Vader</rhyme>,</l>
+        <l id="s1:l7" met="7" type="-+">Op te stijghen, op te stijghen, op te stijghen noch <rhyme label="d" type="f" corresp="#s1:l6">nader</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Maer mijn leven is <rhyme label="a" type="f">sondigh</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Ick ben noch onbequaem om daer te <rhyme label="b" type="f">woonen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Daer d’Hemel wil <rhyme label="b" type="f" corresp="#s2:l2">beloonen</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Haer maer alleenigh, wiens lusten boven <rhyme label="c" type="f">steyg’ren</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">En die de sonde <rhyme label="c" type="f" corresp="#s2:l4">weyg’ren</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">Och mocht ick schreyen! en soo mijn liefde <rhyme label="d" type="f">stelpen</rhyme>,</l>
+        <l id="s2:l7" met="7" type="-+">Ach mijn Vader! Ach mijn Vader! Ach mijn Vader wilt <rhyme label="d" type="f" corresp="#s2:l6">helpen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="+-">Lionora u suchjes en tranen die ghy <rhyme label="a" type="f">schreydt</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Zijn rechte <rhyme label="b" type="f">tolcken</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Die ghy sendt door de <rhyme label="b" type="f" corresp="#s3:l2">wolcken</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Al kont ghy schoon u Bruydegom niet <rhyme label="c" type="f">spreecken</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Wie kan sijn liefde <rhyme label="c" type="f" corresp="#s3:l4">breecken</rhyme>?</l>
+        <l id="s3:l6" met="5" type="-+">Ghy zijt soo waerdigh, en van d’ hooghste <rhyme label="d" type="f">verkoren</rhyme>,</l>
+        <l id="s3:l7" met="7" type="-+">Lionora, Lionora, Lionora wilt <rhyme label="d" type="f" corresp="#s3:l6">hooren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

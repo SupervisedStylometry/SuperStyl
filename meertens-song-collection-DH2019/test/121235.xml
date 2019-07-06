@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>121235</id>
+    <date>
+      <year-start>1786</year-start>
+      <year-end>1786</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+    </tags>
+    <melody>C'est la fille à Simonette</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Truytje Buur een aardig <rhyme label="a" type="f">meisje</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Riep met Eyere vers en <rhyme label="b" type="m">klaar</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Onderweeg zag zy een <rhyme label="a" type="f" corresp="#s1:l1">Sysje</rhyme>.</l>
+        <l id="s1:l4" met="4" type="+-">En zy liep het agter <rhyme label="b" type="m" corresp="#s1:l2">na</rhyme>;</l>
+        <l id="s1:l5" met="4" type="+-">Lopende door de struyk en <rhyme label="c" type="f">hegge</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Valt 't Meisje, wat droevig <rhyme label="d" type="m">lot</rhyme>;</l>
+        <l id="s1:l7" met="4" type="+-">Wat zal zy aan haar Moeder <rhyme label="c" type="f" corresp="#s1:l5">zeggen</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Al haar Eyere zyn <rhyme label="d" type="m" corresp="#s1:l6">kapot</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Moeder Griet die oude <rhyme label="a" type="f">kwezel</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Kreeg een druyve tros in het <rhyme label="b" type="m">oog</rhyme>;</l>
+        <l id="s2:l3" met="4" type="+-">zy klom strak op haare <rhyme label="a" type="f" corresp="#s2:l1">Ezel</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Greep een tak en sprong om <rhyme label="b" type="m" corresp="#s2:l2">hoog</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">De tak die brak en was zoo <rhyme label="c" type="f">teder</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">'t Ezel verschrikte en nam de <rhyme label="d" type="m">vlugt</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">'t Besje viel ter aarde <rhyme label="c" type="f" corresp="#s2:l5">neder</rhyme>;</l>
+        <l id="s2:l8" met="4" type="+-">Met haar beentjes in de <rhyme label="d" type="m" corresp="#s2:l6">lugt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

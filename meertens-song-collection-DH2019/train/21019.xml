@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21019</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Ach schone Cariclea</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jan Zoet</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">WAt is 't een eedele <rhyme label="a" type="m">saeck</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Daer 't huys-gesin soo met elkander <rhyme label="b" type="m">leeft</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Dat Godt daar in <rhyme label="a" type="m" corresp="#s1:l1">vermaeck</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Ia waere vreugt en rechte blijtschap <rhyme label="b" type="m" corresp="#s1:l2">heeft</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Het is een saeck soo wel op <rhyme label="c" type="m">aerdt</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Als in den Hemel prijsens <rhyme label="c" type="m" corresp="#s1:l5">waerdt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Godt sal dat <rhyme label="a" type="m">huys-gesin</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Seer mildelijk, door sijnen milde <rhyme label="b" type="m">hant</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Sijn segen storten <rhyme label="a" type="m" corresp="#s2:l1">in</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Geen onlust sal haer muyr, noch dak, noch <rhyme label="b" type="m" corresp="#s2:l2">want</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Bespringen, want dat hollent <rhyme label="c" type="m">paert</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Is voor de eedele vre' <rhyme label="c" type="m" corresp="#s2:l5">vervaert</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Gelukkig is die <rhyme label="a" type="m">Man</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Die soo sijn huys in vree, te vooren <rhyme label="b" type="m">gaet</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">De bitse nijdt, die <rhyme label="a" type="m" corresp="#s3:l1">kan</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Op hem niet hechten, want nadien hy <rhyme label="b" type="m" corresp="#s3:l2">staat</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Op sijnen Schepper vast <rhyme label="c" type="m">gegront</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Beswijkt hy niet tot geener <rhyme label="c" type="m" corresp="#s3:l5">stondt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

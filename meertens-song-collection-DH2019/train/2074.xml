@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2074</id>
+    <date>
+      <year-start>1674</year-start>
+      <year-end>1674</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>L'étrenne d'ici bas</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Daniel Bellemans</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O Hoe seer <rhyme label="a" type="m">minnelyck</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Zyt ghy ô <rhyme label="b" type="f">Jesu</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">O Soeten <rhyme label="b" type="f" corresp="#s1:l2">Jesu</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Hoe seer <rhyme label="a" type="m" corresp="#s1:l1">ghenuchelyck</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">Zyt ghy ô <rhyme label="b" type="f" corresp="#s1:l2">Jesu</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">O hertjens <rhyme label="c" type="m">vrolyckheydt</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Vreught, blydtschap, en <rhyme label="c" type="m" corresp="#s1:l6">jolyt</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">O goeden <rhyme label="b" type="f" corresp="#s1:l2">Jesu</rhyme>,</l>
+        <l id="s1:l9" met="2" type="-+">O soeten <rhyme label="b" type="f" corresp="#s1:l2">Jesu</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Hoe Groot en <rhyme label="a" type="m">Wonderbaer</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Zyt ghy ô <rhyme label="b" type="f">Jesu</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">O soeten <rhyme label="b" type="f" corresp="#s2:l2">Jesu</rhyme>!</l>
+        <l id="s2:l4" met="3" type="-+">Hoe weerdigh, en <rhyme label="a" type="m" corresp="#s2:l1">achtbaer</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">Zyt ghy ô <rhyme label="b" type="f" corresp="#s2:l2">Jesu</rhyme>!</l>
+        <l id="s2:l6" met="3" type="-+">O hertjens <rhyme label="c" type="m">vrolyckheydt</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Vreught, blydtschap, en <rhyme label="c" type="m" corresp="#s2:l6">jolyt</rhyme></l>
+        <l id="s2:l8" met="2" type="-+">O goeden <rhyme label="b" type="f" corresp="#s2:l2">Jesu</rhyme>,</l>
+        <l id="s2:l9" met="2" type="-+">O soeten <rhyme label="b" type="f" corresp="#s2:l2">Jesu</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Aen elck gheloovigh <rhyme label="a" type="m">Mensch</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">O goeden <rhyme label="b" type="f">Jesu</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">O soeten <rhyme label="b" type="f" corresp="#s3:l2">Jesu</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Gheeft Saligheydt naer <rhyme label="a" type="m" corresp="#s3:l1">wensch</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">O goeden <rhyme label="b" type="f" corresp="#s3:l2">Jesu</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Maeckt ons met u <rhyme label="c" type="m">verheught</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">En gheeft ons 's Hemels <rhyme label="c" type="m" corresp="#s3:l6">vreught</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">O goeden <rhyme label="b" type="f" corresp="#s3:l2">Jesu</rhyme>,</l>
+        <l id="s3:l9" met="2" type="-+">O soeten <rhyme label="b" type="f" corresp="#s3:l2">Jesu</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

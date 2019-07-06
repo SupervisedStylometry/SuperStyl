@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10008</id>
+    <date>
+      <year-start>1649</year-start>
+      <year-end>1649</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Cette cruelle</melody>
+  <author>Isaak A. van Vaerlen en Jan Jansz. van Asten</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ICk zie de Son in't Oosten <rhyme label="a" type="f">rijsen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">In desen soeten <rhyme label="b" type="m">Morghen-stondt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Die ons zijn Godtheydt komt <rhyme label="a" type="f" corresp="#s1:l1">bewijsen</rhyme>;</l>
+        <l id="s1:l4" met="4" type="-+">Ick tradt in 't Bos, al waer ick <rhyme label="b" type="m" corresp="#s1:l2">vont</rhyme></l>
+        <l id="s1:l5" met="5" type="+-">Mijn Herderesje, droevigh staen <rhyme label="c" type="m">alleen</rhyme>,</l>
+        <l id="s1:l6" met="5" type="+-">Mijn Ziels vooghdesje, vond' ick in 't <rhyme label="c" type="m" corresp="#s1:l5">gheween</rhyme>;</l>
+        <l id="s1:l7" met="3" type="-+">Doch ick haer haest <rhyme label="c" type="m" corresp="#s1:l5">verscheen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ach Herderin wat droeve <rhyme label="a" type="f">suchten</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Ontslippen uwen boesem <rhyme label="b" type="m">reyn</rhyme>?</l>
+        <l id="s2:l3" met="4" type="-+">Wie doet u hier soo schielijck <rhyme label="a" type="f" corresp="#s2:l1">vluchten</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Met uwe Schaepjens groot en <rhyme label="b" type="m" corresp="#s2:l2">kleyn</rhyme>?</l>
+        <l id="s2:l5" met="5" type="+-">Siet hier u Herder, Coridon doch <rhyme label="c" type="m">staen</rhyme>,</l>
+        <l id="s2:l6" met="5" type="+-">Die met u verder, wil ten Bos waert <rhyme label="c" type="m" corresp="#s2:l5">gaen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Om u van druck <rhyme label="c" type="m" corresp="#s2:l5">t'onlaen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ach Coridon laet ons wat <rhyme label="a" type="f">rusten</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Hier by malkander in dit <rhyme label="b" type="m">groen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Om soo ons jeugdigh hert met <rhyme label="a" type="f" corresp="#s3:l1">lusten</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Met Nectars soetigheydt te <rhyme label="b" type="m" corresp="#s3:l2">voen</rhyme>;</l>
+        <l id="s3:l5" met="5" type="+-">Treen wy ten offer, met malkander <rhyme label="c" type="m">hier</rhyme>,</l>
+        <l id="s3:l6" met="5" type="+-">Ontsluyt Ziels-koffer, van het <rhyme label="c" type="m" corresp="#s3:l5">Minne-vier</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Treedt met mijn in't <rhyme label="c" type="m" corresp="#s3:l5">pleysier</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ach Sylvia mijn Bruyt <rhyme label="a" type="f">verkooren</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Die ick heb in mijn hert <rhyme label="b" type="m">bemint</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Veel stercker als oyt van te <rhyme label="a" type="f" corresp="#s4:l1">voren</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">U Zieltjen doch aen mijn <rhyme label="b" type="m" corresp="#s4:l2">verbint</rhyme>:</l>
+        <l id="s4:l5" met="5" type="+-">Dan sult ghy wesen, sonder druck of <rhyme label="c" type="m">pijn</rhyme>,</l>
+        <l id="s4:l6" met="5" type="+-">En wilt niet vreesen, voor het Helsch <rhyme label="c" type="m" corresp="#s4:l5">fenijn</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">'t Is maer een ydel <rhyme label="c" type="m" corresp="#s4:l5">schijn</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Ach Coridon gins komt een <rhyme label="a" type="f">Jaegher</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Drijven wy ons Vee naer de <rhyme label="b" type="m">Stal</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Eer dat zijn winden worden <rhyme label="a" type="f" corresp="#s5:l1">graegher</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">En rooven onse Schaepjens <rhyme label="b" type="m" corresp="#s5:l2">al</rhyme>:</l>
+        <l id="s5:l5" met="5" type="+-">'k Salse bevrijen, Sylvia mijn <rhyme label="c" type="m">Bruyt</rhyme>,</l>
+        <l id="s5:l6" met="5" type="+-">Voor droevigh lijen, pluckt vry Bloem en <rhyme label="c" type="m" corresp="#s5:l5">Kruyt</rhyme>.</l>
+        <l id="s5:l7" met="3" type="-+">Daer mee ons trouw <rhyme label="c" type="m" corresp="#s5:l5">besluyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188778</id>
+    <date>
+      <year-start>1676</year-start>
+      <year-end>1676</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Benedicta sit</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">O Eeuwigen Godt, groot zy uwen <rhyme label="a" type="m">naem</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">God Vader, God Soon, en God Heylig Geest te <rhyme label="a" type="m" corresp="#s1:l1">saem</rhyme>.</l>
+        <l id="s1:l3" met="5" type="+-">Eer, en lof zy u inder <rhyme label="b" type="m">eeuwigheyt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Weest gelooft <rhyme label="b" type="m" corresp="#s1:l3">Dryvuldigheyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Wy loven u, ô Heer, die ons <rhyme label="a" type="m">mede-deelt</rhyme></l>
+        <l id="s2:l2" met="6" type="-+">U eeuwigh Woord en gelijckformigh <rhyme label="a" type="m" corresp="#s2:l1">evenbeelt</rhyme>,</l>
+        <l id="s2:l3" met="5" type="+-">Eer en lof zy u inder <rhyme label="b" type="m">eeuwigheyt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Weest gelooft <rhyme label="b" type="m" corresp="#s2:l3">Dryvuldigheyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Komt mensch, en alle die'r buyght u ter aerde <rhyme label="a" type="m">neer</rhyme></l>
+        <l id="s3:l2" met="6" type="-+">Voor den Nieuw-geboren Soon van Godt den grooten <rhyme label="a" type="m" corresp="#s3:l1">Heer</rhyme>.</l>
+        <l id="s3:l3" met="5" type="+-">Eer en lof zy u inder <rhyme label="b" type="m">eeugheyt</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Weest gelooft <rhyme label="b" type="m" corresp="#s3:l3">Dryvuldigheyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

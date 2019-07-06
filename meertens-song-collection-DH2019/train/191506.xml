@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>191506</id>
+    <date>
+      <year-start>1736</year-start>
+      <year-end>1736</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Zult gij dan Jezus zijn de achtste dag besneden</melody>
+  <author>Joannes de Lixbona</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">SUlt gy dan Jesus <rhyme label="a" type="m">zijn</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Den achtsten dagh <rhyme label="b" type="f">Besneden</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">En voelen dese <rhyme label="a" type="m" corresp="#s1:l1">pijn</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">In uw' soete teere <rhyme label="b" type="f" corresp="#s1:l2">leden</rhyme>?</l>
+        <l id="s1:l5" met="3" type="-+">O steen, o harden <rhyme label="c" type="m">steen</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Wilt toch het Kindt wat <rhyme label="d" type="f">mijden</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">t' Is noch, t' is al te <rhyme label="c" type="m" corresp="#s1:l5">kleen</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">t' Is noch, t' is al te <rhyme label="c" type="m" corresp="#s1:l5">kleen</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Om soo voor ons te <rhyme label="d" type="f" corresp="#s1:l6">lijden</rhyme>:</l>
+        <l id="s1:l10" met="4" type="-+">Waerom geeft gy ons u <rhyme label="e" type="m">Bloedt</rhyme></l>
+        <l id="s1:l11" met="4" type="-+">In't nieuw jaer, in't nieuwe <rhyme label="f" type="m">jaer</rhyme>,</l>
+        <l id="s1:l12" met="4" type="-+">In't nieuwe jaer, o Jesu <rhyme label="e" type="m" corresp="#s1:l10">soet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">O waeren <rhyme label="a" type="m">Pellicaen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Der menschen bloedigh <rhyme label="b" type="f">voeder</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Gy treckt ons kleeren <rhyme label="a" type="m" corresp="#s2:l1">aen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Om te zijn ons <rhyme label="b" type="f" corresp="#s2:l2">behoeder</rhyme>:</l>
+        <l id="s2:l5" met="3" type="-+">Op dat gy soo Godt <rhyme label="c" type="m">mensch</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Voor ons soudt konnen <rhyme label="d" type="f">lijden</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">En naer soo langen <rhyme label="c" type="m" corresp="#s2:l5">wensch</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">En naer soo langen <rhyme label="c" type="m" corresp="#s2:l5">wensch</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">Ons van de doodt <rhyme label="d" type="f" corresp="#s2:l6">bevryden</rhyme>:</l>
+        <l id="s2:l10" met="4" type="-+">Bewaert ons dan door u <rhyme label="e" type="m">Bloedt</rhyme>,</l>
+        <l id="s2:l11" met="4" type="-+">In't nieuw jaer, in't nieuwe <rhyme label="f" type="m">jaer</rhyme>,</l>
+        <l id="s2:l12" met="4" type="-+">In't nieuwe jaer, o Jesu <rhyme label="e" type="m" corresp="#s2:l10">soet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20271</id>
+    <date>
+      <year-start>1612</year-start>
+      <year-end>1612</year-end>
+    </date>
+    <location>
+      <orginal-name>franeker</orginal-name>
+      <standard-name>Franeker</standard-name>
+      <coordinates>
+        <lon>53.1904513</lon>
+        <lat>5.5417414</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Boerinnetje</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Boudewijn Jansen Wellens</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">ACh my <rhyme label="a" type="f">Diane</rhyme>!</l>
+        <l id="s1:l2" met="2" type="-+">Wie roept my <rhyme label="a" type="f" corresp="#s1:l1">ane</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">Ach t’is u slaef, die u comt <rhyme label="b" type="f">smeken</rhyme>.</l>
+        <l id="s1:l4" met="5" type="-+">Wel Coridon, wat’s u clacht en <rhyme label="b" type="f" corresp="#s1:l3">ghebreken</rhyme>?</l>
+        <l id="s1:l5" met="3" type="-+">Een groote smert van <rhyme label="c" type="m">min</rhyme>!</l>
+        <l id="s1:l6" met="3" type="-+">Leyt liefd u inden <rhyme label="c" type="m" corresp="#s1:l5">sin</rhyme>?</l>
+        <l id="s1:l7" met="3" type="-+">Och jae mijn Vrou, en <rhyme label="c" type="m" corresp="#s1:l5">bin</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">Gheheel <rhyme label="b" type="f" corresp="#s1:l3">ontsteken</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Ghy moet die <rhyme label="a" type="f">uytten</rhyme>.</l>
+        <l id="s2:l2" met="2" type="-+">Iae waect van <rhyme label="a" type="f" corresp="#s2:l1">buyten</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Is die dan in u hert <rhyme label="b" type="f">gheleghen</rhyme>?</l>
+        <l id="s2:l4" met="5" type="-+">Iae: want ick hebs al lang, al lang <rhyme label="b" type="f" corresp="#s2:l3">ghecregen</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Liet ghy die soo voort <rhyme label="c" type="m">gaen</rhyme>?</l>
+        <l id="s2:l6" met="3" type="-+">Ick cons niet <rhyme label="c" type="m" corresp="#s2:l5">weder-staen</rhyme>.</l>
+        <l id="s2:l7" met="3" type="-+">Soo ben ick seer <rhyme label="c" type="m" corresp="#s2:l5">belaen</rhyme></l>
+        <l id="s2:l8" met="2" type="-+">Van uwent <rhyme label="b" type="f" corresp="#s2:l3">weghen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Och oft dat waer <rhyme label="a" type="f">was</rhyme>!</l>
+        <l id="s3:l2" met="2" type="-+">t’Blijckt aen my clear <rhyme label="a" type="f" corresp="#s3:l1">ras</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Zijt ghy beweeght door <rhyme label="b" type="f">medelijden</rhyme>?</l>
+        <l id="s3:l4" met="5" type="-+">Ia: want ghy claegt van smert en min by <rhyme label="b" type="f" corresp="#s3:l3">tijden</rhyme>.</l>
+        <l id="s3:l5" met="3" type="-+">Och wist ghy wat ick <rhyme label="c" type="m">ly</rhyme>!</l>
+        <l id="s3:l6" met="3" type="-+">Wel wat ist? segghet <rhyme label="c" type="m" corresp="#s3:l5">my</rhyme>.</l>
+        <l id="s3:l7" met="3" type="-+">Och! t’is een <rhyme label="c" type="m" corresp="#s3:l5">slaverny</rhyme></l>
+        <l id="s3:l8" met="2" type="-+">d’Ick niet can <rhyme label="b" type="f" corresp="#s3:l3">myden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">Ghy mocht vry <rhyme label="a" type="f">warden</rhyme>.</l>
+        <l id="s4:l2" met="2" type="-+">Hoe? Doort <rhyme label="a" type="f" corresp="#s4:l1">vol-herden</rhyme>?</l>
+        <l id="s4:l3" met="4" type="-+">Neen: maer soo g’u van my wilt <rhyme label="b" type="f">wachten</rhyme>.</l>
+        <l id="s4:l4" met="5" type="-+">Ach! sonder u mijn vrou, ic zoud <rhyme label="b" type="f" corresp="#s4:l3">versmachten</rhyme>!</l>
+        <l id="s4:l5" met="3" type="-+">Dat seghdy al <rhyme label="c" type="m">ghelijck</rhyme>.</l>
+        <l id="s4:l6" met="3" type="-+">Ick ben tot tuygh, en <rhyme label="c" type="m" corresp="#s4:l5">blijck</rhyme>.</l>
+        <l id="s4:l7" met="3" type="-+">Maer naemdy eens de <rhyme label="c" type="m" corresp="#s4:l5">wijck</rhyme>,</l>
+        <l id="s4:l8" met="2" type="-+">t’Zou wel <rhyme label="b" type="f" corresp="#s4:l3">versachten</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="2" type="-+">Seer herdt salt <rhyme label="a" type="f">vlieden</rhyme>.</l>
+        <l id="s5:l2" met="2" type="-+">Wilt voort <rhyme label="a" type="f" corresp="#s5:l1">bedieden</rhyme>.</l>
+        <l id="s5:l3" met="4" type="-+">Een jaghers pijl blieft in my <rhyme label="b" type="f">steken</rhyme>!</l>
+        <l id="s5:l4" met="5" type="-+">Dat mach also (by u) niet zijn <rhyme label="b" type="f" corresp="#s5:l3">gheleken</rhyme>.</l>
+        <l id="s5:l5" met="3" type="-+">Iae, blief daer aen wel <rhyme label="c" type="m">doot</rhyme>!</l>
+        <l id="s5:l6" met="3" type="-+">Maer ghy en hebt gheen <rhyme label="c" type="m" corresp="#s5:l5">noot</rhyme>.</l>
+        <l id="s5:l7" met="3" type="-+">Dats waer: maer soo ick <rhyme label="c" type="m" corresp="#s5:l5">vloot</rhyme>,</l>
+        <l id="s5:l8" met="2" type="-+">Daer wy af <rhyme label="b" type="f" corresp="#s5:l3">spreken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

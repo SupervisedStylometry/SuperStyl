@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8689</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="stotterlied" translation="stutter song">stotterlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">DE de de de duysent hael de <rhyme label="a" type="m">Meer</rhyme>,</l>
+        <l id="s1:l2" met="5" type="+-">Be be be begeeftse mijn nu <rhyme label="a" type="m" corresp="#s1:l1">weer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Le le le le lestmael vond ick <rhyme label="a" type="m">haer</rhyme></l>
+        <l id="s2:l2" met="5" type="+-">Boe boe boerten met een <rhyme label="a" type="m" corresp="#s2:l1">Hagenaer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">No no no non ist weer aen 'tselve <rhyme label="a" type="m">spul</rhyme>,</l>
+        <l id="s3:l2" met="5" type="+-">Beu beu beurt het weer ick wort schier <rhyme label="a" type="m" corresp="#s3:l1">dul</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="+-">So so somstijt schijnt het dat haer <rhyme label="a" type="m">hart</rhyme></l>
+        <l id="s4:l2" met="5" type="+-">Wa wa was door liefd op my <rhyme label="a" type="m" corresp="#s4:l1">verwart</rhyme>,</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="+-">Ma ma maer wanneer sy van mijn <rhyme label="a" type="m">is</rhyme></l>
+        <l id="s5:l2" met="5" type="+-">Lo lo loopt sy 'tMaegde paedje <rhyme label="a" type="m" corresp="#s5:l1">mis</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="5" type="+-">Sie sie siet ick sweert die loose <rhyme label="a" type="m">pry</rhyme></l>
+        <l id="s6:l2" met="5" type="+-">'tSa 'tsa 'tsal haer rouwen laetse <rhyme label="a" type="m" corresp="#s6:l1">my</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="5" type="+-">Ho ho ho ho holla <rhyme label="a" type="m">Rosemond</rhyme>:</l>
+        <l id="s7:l2" met="5" type="+-">So so soujet doen? ey wat een <rhyme label="a" type="m" corresp="#s7:l1">kond</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="5" type="+-">Da da dat komt nymmermeer in <rhyme label="a" type="m">my</rhyme>,</l>
+        <l id="s8:l2" met="5" type="+-">Die die dies ick u als vooren <rhyme label="a" type="m" corresp="#s8:l1">vry</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="5" type="+-">La la laet dan Tijtir noch sijn <rhyme label="a" type="m">min</rhyme></l>
+        <l id="s9:l2" met="5" type="+-">Ne ne niet verderven (ach <rhyme label="a" type="m" corresp="#s9:l1">Godin</rhyme>.)</l>
+      </lg>
+    </lg>
+  </text>
+</song>

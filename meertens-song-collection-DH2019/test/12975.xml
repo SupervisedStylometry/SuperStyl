@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12975</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Ik drink de nieuwe most</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">IK daagde op een <rhyme label="a" type="m">tijd</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Mijn Rozelijn ten <rhyme label="a" type="m" corresp="#s1:l1">strijd</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">Van kusjes zoet: (door 't stooken van de <rhyme label="b" type="m">Min</rhyme>)</l>
+        <l id="s1:l4" met="5" type="-+">Maar ik verwonnen wierd van dees <rhyme label="b" type="m" corresp="#s1:l3">Godin</rhyme>;</l>
+        <l id="s1:l5" met="3" type="-+">Want ik heb in mijn <rhyme label="c" type="m">hert</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Een wond <rhyme label="d" type="f">ontfangen</rhyme>,</l>
+        <l id="s1:l7" met="3" type="+-">Ja mijn vryheidt <rhyme label="c" type="m" corresp="#s1:l5">werd</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Gerooft van haar, ik wierd <rhyme label="d" type="f" corresp="#s1:l6">gevangen</rhyme>;</l>
+        <l id="s1:l9" met="3" type="+-">Dies ik nu moet <rhyme label="e" type="m">zijn</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">De slaaf van <rhyme label="e" type="m" corresp="#s1:l9">Rozelijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

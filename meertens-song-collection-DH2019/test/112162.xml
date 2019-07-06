@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>112162</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Dans nos bois</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">DIt's Toov'ry! zie al weer <rhyme label="a" type="f">geboogen</rhyme>.</l>
+        <l id="s1:l2" met="2" type="-+">Dit's <rhyme label="b" type="m">Toovery</rhyme>!</l>
+        <l id="s1:l3" met="3" type="-+">Ey ziet, hoe vlied het <rhyme label="c" type="m">my</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Ey ziet, hoe vlied het <rhyme label="c" type="m" corresp="#s1:l3">my</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Wat kruit mag 't zyn dat dus yder <rhyme label="d" type="m">vlied'</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Zoo ras, geraakt, maar wordt <rhyme label="a" type="f" corresp="#s1:l1">bewoogen</rhyme>.</l>
+        <l id="s1:l7" met="5" type="+-">Hoe of men dit kregelkruitje <rhyme label="d" type="m" corresp="#s1:l5">hiet</rhyme>?</l>
+        <l id="s1:l8" met="4" type="+-">Ha, Ha, 't is kruytje roer me <rhyme label="d" type="m" corresp="#s1:l5">niet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

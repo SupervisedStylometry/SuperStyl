@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>180018</id>
+    <date>
+      <year-start>1757</year-start>
+      <year-end>1757</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Verstand waar is uw trouw gebleven</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ach! schoonheid, zyt gy weg <rhyme label="a" type="f">gevlogen</rhyme>?</l>
+        <l id="s1:l2" met="4" type="-+">Zeg my, wat heb ik u <rhyme label="b" type="m">misdaan</rhyme>?</l>
+        <l id="s1:l3" met="6" type="-+">Zeg of ik mynen pligt te buiten heb <rhyme label="b" type="m" corresp="#s1:l2">gegaan</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Dat gy myn vormsel al te haastig zyt <rhyme label="a" type="f" corresp="#s1:l1">onttogen</rhyme>?</l>
+        <l id="s1:l5" met="4" type="-+">Ik bid u, wilt uw haat <rhyme label="c" type="f">versmoren</rhyme>,</l>
+        <l id="s1:l6" met="5" type="+-">Beminnelyk voorwerp, keer, keer, <rhyme label="d" type="m">keer</rhyme>;</l>
+        <l id="s1:l7" met="6" type="-+">Maar ach! 't is al vergeefsch, de fiere keerd niet <rhyme label="d" type="m" corresp="#s1:l6">weêr</rhyme>:</l>
+        <l id="s1:l8" met="6" type="-+">Zy wil, ô bittre smart! myn zuchten niet <rhyme label="c" type="f" corresp="#s1:l5">verhoren</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Vaar wel dan, eeuwig zal ik <rhyme label="a" type="f">klagen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Omdat uw byzyn van my <rhyme label="b" type="m">wierd</rhyme></l>
+        <l id="s2:l3" met="6" type="-+">Te veel geroemd, geërd, geliefkoost en <rhyme label="b" type="m" corresp="#s2:l2">gevierd</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">En my geen deelgenoot kon in myn vreugd <rhyme label="a" type="f" corresp="#s2:l1">behagen</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Gehate trotsheid, gy zyt <rhyme label="c" type="f">schuldig</rhyme></l>
+        <l id="s2:l6" met="5" type="+-">Aan al myn hartzeer, zwicht, zwicht, <rhyme label="d" type="m">zwicht</rhyme>.</l>
+        <l id="s2:l7" met="6" type="-+">Gy en Verwaandheid, deed my wyken van myn' <rhyme label="d" type="m" corresp="#s2:l6">pligt</rhyme>;</l>
+        <l id="s2:l8" met="6" type="-+">Doch 't is te laat, ik ly', ik ly', helaas! <rhyme label="c" type="f" corresp="#s2:l5">geduldig</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

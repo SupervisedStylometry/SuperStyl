@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>177644</id>
+    <date>
+      <year-start>1774</year-start>
+      <year-end>1774</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Psalm 006 Datheen</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O HEER! Gij zijt <rhyme label="a" type="f">weldaadig</rhyme>;</l>
+        <l id="s1:l2" met="3" type="-+">Straf mij niet <rhyme label="a" type="f" corresp="#s1:l1">ongenadig</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">In uwen <rhyme label="b" type="m">toornegloed</rhyme>.</l>
+        <l id="s1:l4" met="3" type="-+">Ai! maatig uw <rhyme label="c" type="f">kastijden</rhyme>;</l>
+        <l id="s1:l5" met="3" type="-+">Sla mij met <rhyme label="c" type="f" corresp="#s1:l4">medelijden</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Gelijk een vader <rhyme label="b" type="m" corresp="#s1:l3">doet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

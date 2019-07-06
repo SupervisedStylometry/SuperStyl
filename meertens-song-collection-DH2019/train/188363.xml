@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188363</id>
+    <date>
+      <year-start>1651</year-start>
+      <year-end>1651</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Stupet hodie natura</melody>
+  <author>Philippus Jennyn</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">STupet hodie <rhyme label="a" type="f">natura</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Nam Creator, <rhyme label="a" type="f" corresp="#s1:l1">creatura</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Stabulum <rhyme label="b" type="m">incoluit</rhyme>:</l>
+        <l id="s1:l4" met="4" type="+-">Cum de ventre <rhyme label="c" type="f">virginali</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Ut de thoro <rhyme label="c" type="f" corresp="#s1:l4">nuptiali</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Sponsus, ire <rhyme label="b" type="m" corresp="#s1:l3">voluit</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Qui immensus est, <rhyme label="a" type="f">locatur</rhyme>;</l>
+        <l id="s2:l2" met="4" type="+-">Quique Deus, <rhyme label="a" type="f" corresp="#s2:l1">incarnatur</rhyme>;</l>
+        <l id="s2:l3" met="4" type="+-">Quanta <rhyme label="b" type="m">mirabilia</rhyme> !</l>
+        <l id="s2:l4" met="4" type="+-">Fit aeternus noster <rhyme label="c" type="f">Pater</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Temporalis noster <rhyme label="c" type="f" corresp="#s2:l4">Frater</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Genitus ex <rhyme label="b" type="m" corresp="#s2:l3">Filiâ</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Hic in sinu plorat <rhyme label="a" type="f">Matris</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Qui in sinu gaudet <rhyme label="a" type="f" corresp="#s3:l1">Patris</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">In coelesti <rhyme label="b" type="m">curiâ</rhyme>:</l>
+        <l id="s3:l4" met="4" type="+-">Qui in coelo <rhyme label="c" type="f">opulentus</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Hic in terris est <rhyme label="c" type="f" corresp="#s3:l4">inventus</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Magnâ in <rhyme label="b" type="m" corresp="#s3:l3">penuriâ</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Venit in hunc mundum <rhyme label="a" type="f">Numen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Venit in hunc mundum <rhyme label="a" type="f" corresp="#s4:l1">Lumen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Coelica <rhyme label="b" type="m">clementiâ</rhyme>;</l>
+        <l id="s4:l4" met="4" type="+-">Deo in <rhyme label="c" type="f">humanitate</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">(Occultatâ <rhyme label="c" type="f" corresp="#s4:l4">Majestate</rhyme>)</l>
+        <l id="s4:l6" met="4" type="+-">Non sit <rhyme label="b" type="m" corresp="#s4:l3">reverentia</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

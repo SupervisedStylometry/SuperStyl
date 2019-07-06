@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36702</id>
+    <date>
+      <year-start>1631</year-start>
+      <year-end>1631</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>Geneugte onverwacht</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Lucas van Mechelen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">GHenuchten <rhyme label="a" type="m">onverwacht</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Ghetroost ghesalft naer haer <rhyme label="b" type="f">verlanghen</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Quam die siel' dach en <rhyme label="a" type="m" corresp="#s1:l1">nacht</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Van haren Godt bly' te <rhyme label="b" type="f" corresp="#s1:l2">ontfanghen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">In trouw' volcomen wierdt <rhyme label="c" type="f">opghenomen</rhyme></l>
+        <l id="s1:l6" met="5" type="-+">Inden speel-hof haren verclaerden <rhyme label="d" type="m">gheest</rhyme>,</l>
+        <l id="s1:l7" met="6" type="-+">Daer Godt haer smaken de' des opgancks soete <rhyme label="d" type="m" corresp="#s1:l6">feest'</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">S'en ghinck niet, maer sy <rhyme label="a" type="m">vloogh</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Tot het gheniet van Godt daer <rhyme label="b" type="f">boven</rhyme>;</l>
+        <l id="s2:l3" met="3" type="-+">Want hy haer herte <rhyme label="a" type="m" corresp="#s2:l1">toogh</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">In't gheluck groot van die <rhyme label="b" type="f" corresp="#s2:l2">speel-hoven</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Sy wierdt verheven, sy wierdt <rhyme label="c" type="f">ghedreven</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">Sy wierdt gheset van haren Godt <rhyme label="d" type="m">ghetrouw'</rhyme>,</l>
+        <l id="s2:l7" met="6" type="-+">Daer sijn ghenade groot haer over-voeren <rhyme label="d" type="m" corresp="#s2:l6">wouw'</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Ontloken wierdt haer <rhyme label="a" type="m">hert'</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Haer crachten al, wierden <rhyme label="b" type="f">ontsloten</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Haer siel' gheopent <rhyme label="a" type="m" corresp="#s3:l1">werdt</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Tot die daer quam in haer <rhyme label="b" type="f" corresp="#s3:l2">ghe-vloten</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">Godt woud' versaden met sijn <rhyme label="c" type="f">ghenaden</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">Met sijnen troost, met sijnen <rhyme label="d" type="m">over-vloedt</rhyme>,</l>
+        <l id="s3:l7" met="6" type="-+">Die t'hemwaerts over-vloogh soo open van <rhyme label="d" type="m" corresp="#s3:l6">ghemoet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Haer <rhyme label="a" type="m">Opghetoghentheydt</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Wierdt overstromt met vollen <rhyme label="b" type="f">seghen</rhyme>;</l>
+        <l id="s4:l3" met="3" type="-+">Sy wierdt in Godt <rhyme label="a" type="m" corresp="#s4:l1">gheleydt</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">En Godt die wierdt t'haerwaerts <rhyme label="b" type="f" corresp="#s4:l2">gheneghen'</rhyme>:</l>
+        <l id="s4:l5" met="4" type="-+">In alle welde Godt die siel' <rhyme label="c" type="f">stelde</rhyme>,</l>
+        <l id="s4:l6" met="5" type="-+">Godt sijn vriendin' ghenuchelijck <rhyme label="d" type="m">verdronck</rhyme>,</l>
+        <l id="s4:l7" met="6" type="-+">Die met opganghen claer hem blootelijck aen <rhyme label="d" type="m" corresp="#s4:l6">honck</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">O Godt <rhyme label="a" type="m">ghebenedijdt</rhyme>!</l>
+        <l id="s5:l2" met="4" type="-+">Hoe stondt in hem die <rhyme label="b" type="f">Vytghelesen</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Verheught, vermaeckt, <rhyme label="a" type="m" corresp="#s5:l1">verblijdt</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Ghelijck gheheel vernieuwt van <rhyme label="b" type="f" corresp="#s5:l2">wesen</rhyme>?</l>
+        <l id="s5:l5" met="4" type="-+">Wel mocht' sy spreken ontfonckt, <rhyme label="c" type="f">ontsteken</rhyme>:</l>
+        <l id="s5:l6" met="5" type="-+">O schoonheydt schoon spaed' hebb' ick v <rhyme label="d" type="m">bemindt</rhyme>!</l>
+        <l id="s5:l7" met="6" type="-+">Die v lanck elders socht', dan daermen v <rhyme label="d" type="m" corresp="#s5:l6">bevindt</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Van buyten socht' ick <rhyme label="a" type="m">v</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Ende ghy waert al verr' van <rhyme label="b" type="f">binnen</rhyme>;</l>
+        <l id="s6:l3" met="3" type="-+">Niet v en socht' ick <rhyme label="a" type="m" corresp="#s6:l1">nu</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Die niet en wist' v te <rhyme label="b" type="f" corresp="#s6:l2">beminnen</rhyme>:</l>
+        <l id="s6:l5" met="4" type="-+">Seer wijt ghescheyden waren wy <rhyme label="c" type="f">beyden</rhyme>;</l>
+        <l id="s6:l6" met="5" type="-+">My hielen verr' schepsels van v <rhyme label="d" type="m">aenschijn</rhyme>,</l>
+        <l id="s6:l7" met="6" type="-+">Die, waren sy daer niet, souden te niete <rhyme label="d" type="m" corresp="#s6:l6">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Nu dan o schoonheydt <rhyme label="a" type="m">schoon'</rhyme>!</l>
+        <l id="s7:l2" met="4" type="-+">Mijn eeuwich goedt, mijn eyghen <rhyme label="b" type="f">stede</rhyme>,</l>
+        <l id="s7:l3" met="3" type="-+">Mijn blijschap, mijne <rhyme label="a" type="m" corresp="#s7:l1">croon'</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Mijn salicheydt, mijns herten <rhyme label="b" type="f" corresp="#s7:l2">vrede</rhyme>,</l>
+        <l id="s7:l5" met="4" type="-+">In v wellusten doet ghy my <rhyme label="c" type="f">rusten</rhyme>,</l>
+        <l id="s7:l6" met="5" type="-+">In v gheniet doet ghy mijn siele <rhyme label="d" type="m">staen</rhyme>;</l>
+        <l id="s7:l7" met="6" type="-+">Die dat sy uyt v gonck, soude te niete <rhyme label="d" type="m" corresp="#s7:l6">gaen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

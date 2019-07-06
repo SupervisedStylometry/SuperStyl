@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>23553</id>
+    <date>
+      <year-start>1572</year-start>
+      <year-end>1572</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen [=alkmaar]</orginal-name>
+      <standard-name>Alkmaar, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.6312592</lon>
+        <lat>4.7503798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
+    </tags>
+    <melody>Christe qui lux es et dies</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Het gheviel op eenen <rhyme label="a" type="m">donderdagh</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Daer Christus hoorde ons <rhyme label="a" type="m" corresp="#s1:l1">gheclagh</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">In Schriftueren was <rhyme label="b" type="f">ghesloten</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Dat hy een nieu Testament <rhyme label="a" type="m" corresp="#s1:l1">versagh</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Dat oude heeft hy <rhyme label="b" type="f" corresp="#s1:l3">ghebroken</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hy heeft daer, waer ist ende <rhyme label="a" type="m">openbaer</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Die uyt den Hemel was ghecomen <rhyme label="a" type="m" corresp="#s2:l1">claer</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Ghebooren van eener <rhyme label="b" type="f">Maghet</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Ende heeft dryendertigh <rhyme label="a" type="m" corresp="#s2:l1">Iaer</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Die zielen ghesocht, <rhyme label="b" type="f" corresp="#s2:l3">verslaghet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Hem selven ghelaten al in dat <rhyme label="a" type="m">schijn</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Van den broode, ende van den <rhyme label="a" type="m" corresp="#s3:l1">Wijn</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Gaf hy met zijnen <rhyme label="b" type="f">handen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Sijn lichaem gelevert, ‘tbloet moeste gestort <rhyme label="a" type="m" corresp="#s3:l1">zijn</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Dat waren twee diere <rhyme label="b" type="f" corresp="#s3:l3">panden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Hy gaf hem selven in een <rhyme label="a" type="m">present</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">In spijse, en dranck, seer <rhyme label="a" type="m" corresp="#s4:l1">excellent</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Der zielen, om te <rhyme label="b" type="f">schencken</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Ontspringht, ende singht lof <rhyme label="a" type="m" corresp="#s4:l1">Sacrament</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Wy willen ws <rhyme label="b" type="f" corresp="#s4:l3">ghedincken</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Aenschout dat broot der Enghelen <rhyme label="a" type="m">soet</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Ghegheven den Mensche voor haer <rhyme label="a" type="m" corresp="#s5:l1">behoet</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Het sal u ziele <rhyme label="b" type="f">stercken</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Verwaren in allen <rhyme label="a" type="m" corresp="#s5:l1">teghenspoet</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">Ende leeren u deughden <rhyme label="b" type="f" corresp="#s5:l3">wercken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

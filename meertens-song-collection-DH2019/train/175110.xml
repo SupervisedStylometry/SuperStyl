@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175110</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Kort en krachtig in het <rhyme label="a" type="f">goede</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Kort en krachtig tegen 't <rhyme label="b" type="m">kwaad</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">In den voorspoed kalm te <rhyme label="a" type="f" corresp="#s1:l1">moede</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Dubbel flink als 't kwalijk <rhyme label="b" type="m" corresp="#s1:l2">gaat</rhyme>....</l>
+        <l id="s1:l5" met="4" type="+-">Zoo ge dàt leert, <rhyme label="c" type="m">kameraad</rhyme>!</l>
+        <l id="s1:l6" met="4" type="+-">Zult ge zien, dat - kort en <rhyme label="c" type="m" corresp="#s1:l5">krachtig</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Meer nog is, dan rijk en <rhyme label="c" type="m" corresp="#s1:l5">magtig</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Stil en zedig in het <rhyme label="a" type="f">goede</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Stil en zedig bij het <rhyme label="b" type="m">kwaad</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">In den voorspoed kalm te <rhyme label="a" type="f" corresp="#s2:l1">moede</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Dubbel zacht als 't kwalijk <rhyme label="b" type="m" corresp="#s2:l2">gaat</rhyme>....</l>
+        <l id="s2:l5" met="4" type="+-">Zoo ge dàt leert, <rhyme label="c" type="m">meisjemaat</rhyme>!</l>
+        <l id="s2:l6" met="4" type="+-">Zult ge zien, hoe - stil en <rhyme label="c" type="m" corresp="#s2:l5">zedig</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">'t Best eens ieders wensch <rhyme label="c" type="m" corresp="#s2:l5">bevredig'</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Knapen, Meisjes! - <rhyme label="a" type="f">Uitgelezen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Vol van heil en vol van <rhyme label="b" type="m">vreê</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Zou de heele wereld <rhyme label="a" type="f" corresp="#s3:l1">wezen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Hoorde een ieder naar mijn <rhyme label="b" type="m" corresp="#s3:l2">beê</rhyme>;</l>
+        <l id="s3:l5" met="4" type="+-">Doch! - doen ze Allen ligt niet <rhyme label="c" type="m">meê</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">'k Waar tevreê, wierdt Gij, <rhyme label="c" type="m" corresp="#s3:l5">eendragtig</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Stil en zedig, kort en <rhyme label="c" type="m" corresp="#s3:l5">krachtig</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

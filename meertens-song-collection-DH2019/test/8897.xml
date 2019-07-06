@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8897</id>
+    <date>
+      <year-start>1625</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Fröhlich wollen wir Halleluja singen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">VRolijck willen wy Alleluia <rhyme label="a" type="f">singhen</rhyme>,</l>
+        <l id="s1:l2" met="5" type="+-">Wt heeten begheert' onses Herten <rhyme label="a" type="f" corresp="#s1:l1">springhen</rhyme>,</l>
+        <l id="s1:l3" met="6" type="-+">Want syn Ghenaed' verdelget heeft all' onse <rhyme label="b" type="f">Sonden</rhyme>,</l>
+        <l id="s1:l4" met="6" type="+-">In hem hebben wy rijcke schatte <rhyme label="b" type="f" corresp="#s1:l3">gevonden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Al wat Leeft op Aerden, sal Godt Lof <rhyme label="a" type="f">gheven</rhyme>,</l>
+        <l id="s2:l2" met="5" type="+-">Rijcklijc is syn G'naed over ons <rhyme label="a" type="f" corresp="#s2:l1">verheven</rhyme>,</l>
+        <l id="s2:l3" met="6" type="-+">Vreucht, Leven, Sterckheyt door syn Macht, hebben wy <rhyme label="b" type="f">Ervet</rhyme>,</l>
+        <l id="s2:l4" met="6" type="+-">Hel, Doot, des Duyvels Crachten heeft hy <rhyme label="b" type="f" corresp="#s2:l3">Verdervet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">GOdt seydt ghenae' toe dien, die hem <rhyme label="a" type="f">Vertrouwen</rhyme>,</l>
+        <l id="s3:l2" met="5" type="+-">Troost, Hulp, schickt hy all' dien, die op hem <rhyme label="a" type="f" corresp="#s3:l1">bouwen</rhyme>,</l>
+        <l id="s3:l3" met="6" type="-+">Vast, Trouw'lijck houdt al sonder List ende <rhyme label="b" type="f">Bedrieghen</rhyme>,</l>
+        <l id="s3:l4" met="6" type="+-">Wat syn Woort vermaent, want hy can Jae niet <rhyme label="b" type="f" corresp="#s3:l3">Lieghen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="+-">Godt sy Loff met synen Eenighen <rhyme label="a" type="f">Sone</rhyme>,</l>
+        <l id="s4:l2" met="5" type="+-">Heyl'gen Geest Godt van aert in eenen <rhyme label="a" type="f" corresp="#s4:l1">Throone</rhyme>,</l>
+        <l id="s4:l3" met="6" type="-+">Van Aenbegin hy was, Blijft oock al sonder <rhyme label="b" type="f">Eynde</rhyme>,</l>
+        <l id="s4:l4" met="6" type="+-">Men siet hem nu claer, HEERE van ons niet <rhyme label="b" type="f" corresp="#s4:l3">weynde</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

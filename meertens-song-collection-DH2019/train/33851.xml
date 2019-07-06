@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>33851</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>O nacht jaloerse nacht</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacob Rosant</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">IK loof u Vader, Heer van Hemel en van <rhyme label="a" type="f">Aerde</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Dat gy, na uwen wil, dit al verborgen <rhyme label="b" type="m">houdt</rhyme></l>
+        <l id="s1:l3" met="6" type="-+">Die wijs sijn en vernuft; dierhalven vol <rhyme label="a" type="f" corresp="#s1:l1">hovaerde</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Maer aen de kleynen gy dit opentlik <rhyme label="b" type="m" corresp="#s1:l2">betrouwt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Den Vader alle ding gelevert heeft sijn <rhyme label="a" type="f">Sone</rhyme>,</l>
+        <l id="s2:l2" met="6" type="-+">Dien hy alleene kent; niemant den Vader <rhyme label="b" type="m">kent</rhyme></l>
+        <l id="s2:l3" met="6" type="-+">Dan als den Soon, en die den Soone hem wil <rhyme label="a" type="f" corresp="#s2:l1">tone</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Komt tot mijn die belast en die beladen <rhyme label="b" type="m" corresp="#s2:l2">bent</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">Ik u verquicken sal, mijn jok neemt op u <rhyme label="a" type="f">spoedigh</rhyme>,</l>
+        <l id="s3:l2" met="6" type="-+">En gy sult in uw siel wel werden fray <rhyme label="b" type="m">verlight</rhyme>,</l>
+        <l id="s3:l3" met="6" type="-+">En leert van mijn, want ik ben saght en ook <rhyme label="a" type="f" corresp="#s3:l1">ootmoedigh</rhyme>,</l>
+        <l id="s3:l4" met="6" type="-+">Want mijne jok is soet, mijn last kleyn van <rhyme label="b" type="m" corresp="#s3:l2">gewigt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">O Iesu, Soone Goodts, tot u wy koomen <rhyme label="a" type="f">loopen</rhyme>,</l>
+        <l id="s4:l2" met="6" type="-+">Wy weeten geenen raedt, ons tot uw' Vader <rhyme label="b" type="m">leydt</rhyme>,</l>
+        <l id="s4:l3" met="6" type="-+">Op uw saghtmoedigheyt alleenelijk wy <rhyme label="a" type="f" corresp="#s4:l1">hoopen</rhyme>,</l>
+        <l id="s4:l4" met="6" type="-+">Wy sijn uw' last, uw' jok, te dragen al <rhyme label="b" type="m" corresp="#s4:l2">bereydt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188811</id>
+    <date>
+      <year-start>1880</year-start>
+      <year-end>1880</year-end>
+    </date>
+    <location>
+      <orginal-name>nijmegen</orginal-name>
+      <standard-name>Nijmegen, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.8427385</lon>
+        <lat>5.8634696</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Wees gegroet gij stille avond</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Zijt gegroet, o stille <rhyme label="a" type="f">avond</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Gij schenkt rust aan mijn <rhyme label="b" type="m">gemoed</rhyme>;</l>
+        <l id="s1:l3" met="4" type="+-">Als uw sluier d'aard <rhyme label="c" type="f">omvademt</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">En de zon verbleeken <rhyme label="b" type="m" corresp="#s1:l2">doet</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Als de bloem heur knop gaat <rhyme label="d" type="f">sluiten</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Zachtkens door zefiers <rhyme label="e" type="m">gekust</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Als het vogeltje van 't <rhyme label="f" type="f">kweelen</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Moede naast het gaaike <rhyme label="e" type="m" corresp="#s1:l6">rust</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Als ik dan met mijn <rhyme label="a" type="f">beminde</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Door geliefde dreven <rhyme label="b" type="m">dwaal</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Onze zielen <rhyme label="c" type="f">samenvloeien</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">In een stil verheven <rhyme label="b" type="m" corresp="#s2:l2">taal</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">Onze harten sneller <rhyme label="d" type="f">kloppen</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">En een zucht 't welsprekendst <rhyme label="e" type="m">is</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Dan waardeer ik, lieve <rhyme label="f" type="f">avond</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Eerst uw stille <rhyme label="e" type="m" corresp="#s2:l6">duisternis</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

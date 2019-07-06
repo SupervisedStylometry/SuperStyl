@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>155503</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Van Helena</melody>
+  <author>Cornelis Maertsz.</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">DOe Israel niet <rhyme label="a" type="m">meer</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Een Smit in 't Landt en <rhyme label="b" type="m">vant</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Sleep yder sijn <rhyme label="a" type="m" corresp="#s1:l1">Gheweer</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">In't Philestijnsche <rhyme label="b" type="m" corresp="#s1:l2">Landt</rhyme>:</l>
+        <l id="s1:l5" met="3" type="-+">Elck sochte waer hy <rhyme label="c" type="m">kond</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">'tGheen dat hy self niet <rhyme label="d" type="f">hadde</rhyme>:</l>
+        <l id="s1:l7" met="3" type="-+">Doet soo oock met de <rhyme label="c" type="m" corresp="#s1:l5">sond</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Soo sal 't u niet <rhyme label="d" type="f" corresp="#s1:l6">bekladden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Die nu na voorgangh <rhyme label="a" type="m">siet</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Op dat hy haer na <rhyme label="b" type="m">gaet</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Vint die in 't goede <rhyme label="a" type="m" corresp="#s2:l1">niet</rhyme>:</l>
+        <l id="s2:l4" met="3" type="-+">Maer rijckelijck in 't <rhyme label="b" type="m" corresp="#s2:l2">quaedt</rhyme>:</l>
+        <l id="s2:l5" met="3" type="-+">Siet wat de Boose <rhyme label="c" type="m">doet</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">In sijnen quaden <rhyme label="d" type="f">yver</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">En gaet ghy soo in't <rhyme label="c" type="m" corresp="#s2:l5">goedt</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Hoe langer voort hoe <rhyme label="d" type="f" corresp="#s2:l6">stijver</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

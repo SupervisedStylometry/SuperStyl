@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34267</id>
+    <date>
+      <year-start>1650</year-start>
+      <year-end>1650</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">HOort eens den slimmen <rhyme label="a" type="m">aert</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Van onse <rhyme label="b" type="f">jongh-gesellen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Al zijn sy jongh en <rhyme label="a" type="m" corresp="#s1:l1">onbejaert</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Hoe sy de meyskens <rhyme label="b" type="f" corresp="#s1:l2">quellen</rhyme>:</l>
+        <l id="s1:l5" met="2" type="-+">Het hert vol <rhyme label="c" type="m">vyer</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Dat berst hun <rhyme label="c" type="m" corresp="#s1:l5">schier</rhyme>:</l>
+        <l id="s1:l7" met="3" type="-+">’t Is weerdigh te <rhyme label="b" type="f" corresp="#s1:l2">vertellen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">’t Schijnt aen hun <rhyme label="a" type="m">vyerigheyt</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Sy willen ’t meysken <rhyme label="b" type="f">trouwen</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Het woort en is noch nauws <rhyme label="a" type="m" corresp="#s2:l1">geseyt</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Het is hun weer <rhyme label="b" type="f" corresp="#s2:l2">berouwen</rhyme>:</l>
+        <l id="s2:l5" met="2" type="-+">Dus licht <rhyme label="c" type="m">gespuys</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Treckt naer u <rhyme label="c" type="m" corresp="#s2:l5">huys</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Men magh op u niet <rhyme label="b" type="f" corresp="#s2:l2">bouwen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Meynt gy een soete <rhyme label="a" type="m">Maeght</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Met woorden te <rhyme label="b" type="f">verleyden</rhyme>?</l>
+        <l id="s3:l3" met="4" type="-+">Sy heeft haer stuck al <rhyme label="a" type="m" corresp="#s3:l1">ondervraeght</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Ghy moet noch wat <rhyme label="b" type="f" corresp="#s3:l2">verbeyden</rhyme>:</l>
+        <l id="s3:l5" met="2" type="-+">Te deuren <rhyme label="c" type="m">uyt</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">Ghy vuylen <rhyme label="c" type="m" corresp="#s3:l5">guyt</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Ghy sult noch schande <rhyme label="b" type="f" corresp="#s3:l2">lijden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

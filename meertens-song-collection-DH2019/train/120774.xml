@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>120774</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Je t'aime sans détours</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Betje Wolff en Aagje Deken</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Ei zie dees Pronker <rhyme label="a" type="m">eens</rhyme>!</l>
+        <l id="s1:l2" met="2" type="-+">'t Is <rhyme label="a" type="m" corresp="#s1:l1">ongemeens</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Al wat hy draagt; 't is wonder <rhyme label="b" type="f">keurig</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Hy's prachtig <rhyme label="c" type="m">gechambreert</rhyme>;</l>
+        <l id="s1:l5" met="3" type="+-">Wel <rhyme label="c" type="m" corresp="#s1:l4">gecoëffeert</rhyme>;</l>
+        <l id="s1:l6" met="3" type="-+">En o wat riekt hy <rhyme label="b" type="f" corresp="#s1:l3">geurig</rhyme>!</l>
+        <l id="s1:l7" met="4" type="-+">Hy zet ook zynen Franschen <rhyme label="d" type="m">hoed</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Gelyk een Krygsheld <rhyme label="d" type="m" corresp="#s1:l7">doet</rhyme>,</l>
+        <l id="s1:l9" met="3" type="+-">Hy lispt in zyn <rhyme label="e" type="f">spreeken</rhyme>;</l>
+        <l id="s1:l10" met="3" type="-+">Maar heeft hy ook <rhyme label="f" type="m">verstand</rhyme>?</l>
+        <l id="s1:l11" met="2" type="+-">'t Is nooit <rhyme label="e" type="f" corresp="#s1:l9">gebleken</rhyme>.</l>
+        <l id="s1:l12" met="3" type="-+">Weg met hem aan een <rhyme label="f" type="m" corresp="#s1:l10">kant</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

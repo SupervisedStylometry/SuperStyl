@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111644</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Het sinjeurtje</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">EEn Minnaar leyd veel <rhyme label="a" type="f">smarten</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Maar 't gaat hem niet ter <rhyme label="a" type="f" corresp="#s1:l1">harte</rhyme>;</l>
+        <l id="s1:l3" met="5" type="-+">Want is hy tusschen beiden eens <rhyme label="b" type="m">vry</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Hy krygt zijn oude <rhyme label="a" type="f" corresp="#s1:l1">parten</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">En klaagd van meet af aan zyn <rhyme label="c" type="m">leed</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Zo dat ik by mijn hiel niet <rhyme label="c" type="m" corresp="#s1:l5">weet</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Wat in de <rhyme label="b" type="m" corresp="#s1:l3">minnebruijery</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Het best is Slaaf, of <rhyme label="b" type="m" corresp="#s1:l3">vry</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Of liever nog geen van <rhyme label="b" type="m" corresp="#s1:l3">bey</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Daar is my laast <rhyme label="a" type="f">verweten</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">En 't heeft my zeer <rhyme label="a" type="f" corresp="#s2:l1">gespeten</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Dat my Roosje niet meer en <rhyme label="b" type="m">bemind</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">En egter wouw ik 't niet <rhyme label="a" type="f" corresp="#s2:l1">weten</rhyme>;</l>
+        <l id="s2:l5" met="4" type="-+">Maar als het die shoone my selver <rhyme label="c" type="m">seid</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Dan ga ik weer na een and're <rhyme label="c" type="m" corresp="#s2:l5">meid</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">En haal op nieuw een blaauwe <rhyme label="b" type="m" corresp="#s2:l3">scheen</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">By spijtige <rhyme label="b" type="m" corresp="#s2:l3">Clorimeen</rhyme>;</l>
+        <l id="s2:l9" met="3" type="-+">Eer ben ik tog niet te <rhyme label="b" type="m" corresp="#s2:l3">vreen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Zoo tobt men in dit <rhyme label="a" type="f">leven</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Door hoop of vrees <rhyme label="a" type="f" corresp="#s3:l1">gedreven</rhyme>;</l>
+        <l id="s3:l3" met="5" type="-+">Maar als men aan Hymens touwtje <rhyme label="b" type="m">raakt</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Dan is de Kaart <rhyme label="a" type="f" corresp="#s3:l1">vergeven</rhyme>;</l>
+        <l id="s3:l5" met="4" type="-+">Daar raakt men aan alle kanten <rhyme label="c" type="m">beeft</rhyme>.</l>
+        <l id="s3:l6" met="4" type="-+">ô! Droevig denkbeeld voor de <rhyme label="c" type="m" corresp="#s3:l5">geest</rhyme>!</l>
+        <l id="s3:l7" met="4" type="-+">Van buyten schijnd men wel te <rhyme label="b" type="m" corresp="#s3:l3">vree</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Van binnen is 't ach en <rhyme label="b" type="m" corresp="#s3:l3">wee</rhyme>!</l>
+        <l id="s3:l9" met="3" type="-+">O Libera nos <rhyme label="b" type="m" corresp="#s3:l3">Domine</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13750</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Gij die in dit wankel leven</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">’K voel de min gestadigh <rhyme label="a" type="f">blaken</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Even als die hitte <rhyme label="a" type="f" corresp="#s1:l1">raken</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Daerom roep ick met <rhyme label="b" type="m">geween</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Ach! ach! ach ick smelt daer <rhyme label="b" type="m" corresp="#s1:l3">heen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Nimphje hoor de brant klock <rhyme label="a" type="f">kleppen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Wilt u teere voetjens <rhyme label="a" type="f" corresp="#s2:l1">reppen</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Om te blussen dese <rhyme label="b" type="m">brant</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Die mijn boesem heeft <rhyme label="b" type="m" corresp="#s2:l3">vermant</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Komt doch haest dit vyer <rhyme label="a" type="f">verkoelen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Dat ick innerlijck <rhyme label="a" type="f" corresp="#s3:l1">gevoelen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Op dat dese strenge <rhyme label="b" type="m">pijn</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Door u Liefde heel <rhyme label="b" type="m" corresp="#s3:l3">verdwijn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Soo sal ick u moede <rhyme label="a" type="f">leden</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Die heel aemloos sijn <rhyme label="a" type="f" corresp="#s4:l1">gestreden</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Brengen tot de soete <rhyme label="b" type="m">rust</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Daer sy krijgen loon nae <rhyme label="b" type="m" corresp="#s4:l3">lust</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">En mijn danck sal altijt <rhyme label="a" type="f">wesen</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Lieve kusjens <rhyme label="a" type="f" corresp="#s5:l1">uytgelesen</rhyme>.</l>
+        <l id="s5:l3" met="4" type="+-">(Alsoo soet als <rhyme label="b" type="m">Honigh-raet</rhyme>,)</l>
+        <l id="s5:l4" met="4" type="+-">Voor u heerelicke <rhyme label="b" type="m" corresp="#s5:l3">daet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

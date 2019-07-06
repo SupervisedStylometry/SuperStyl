@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184275</id>
+    <date>
+      <year-start>1815</year-start>
+      <year-end>1815</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Il pleut il pleut bergère</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Het regend <rhyme label="a" type="f">Herderinne</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Al wat het Land <rhyme label="b" type="m">bekoord</rhyme>;</l>
+        <l id="s1:l3" met="3" type="-+">Laat myn uw hert steeds <rhyme label="a" type="f" corresp="#s1:l1">minne</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Dryft toch uw Kudde <rhyme label="b" type="m" corresp="#s1:l2">voort</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Het vogt druipt door de <rhyme label="a" type="f">Boomen</rhyme>;</l>
+        <l id="s2:l2" met="3" type="-+">Hoor hoe het Windje <rhyme label="b" type="m">ruist</rhyme>:</l>
+        <l id="s2:l3" met="3" type="-+">Het Weer schynt op te <rhyme label="a" type="f" corresp="#s2:l1">komen</rhyme>;</l>
+        <l id="s2:l4" met="3" type="-+">Daar barst het Weerlicht <rhyme label="b" type="m" corresp="#s2:l2">uit</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Men hoord den Donder <rhyme label="a" type="f">dreunen</rhyme>!</l>
+        <l id="s3:l2" met="3" type="-+">'t Is hier nog ver van <rhyme label="b" type="m">daan</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Ik bid u ondersteun <rhyme label="a" type="f" corresp="#s3:l1">me</rhyme>;</l>
+        <l id="s3:l4" met="3" type="-+">ô Goôn wilt myn <rhyme label="b" type="m" corresp="#s3:l2">bystaan</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Myn hert schynt steeds <rhyme label="a" type="f">geruster</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Ik zie myn woning <rhyme label="b" type="m">aan</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Myn Moeder en myn <rhyme label="a" type="f" corresp="#s4:l1">Zuster</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Die bieden ons steeds <rhyme label="b" type="m" corresp="#s4:l2">aan</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

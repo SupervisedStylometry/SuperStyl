@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>11392</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>De stille nacht genaakt</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">WEl gemanierde <rhyme label="a" type="m">Maagd</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Ik doe dit <rhyme label="a" type="m" corresp="#s1:l1">ongevraagd</rhyme>;</l>
+        <l id="s1:l3" met="3" type="-+">Doch 'k ben daar toe <rhyme label="b" type="f">gedreeven</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Door uwe goede <rhyme label="c" type="m">gunst</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">En heerelijke <rhyme label="c" type="m" corresp="#s1:l4">kunst</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Die eeuwiglijk zal <rhyme label="b" type="f" corresp="#s1:l3">leeven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Gy prijst mijn veel te <rhyme label="a" type="m">hoog</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Doch schijn ik, in u <rhyme label="a" type="m" corresp="#s2:l1">oog</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Zoo konstigrijk te <rhyme label="b" type="f">leeven</rhyme>;</l>
+        <l id="s2:l4" met="3" type="-+">Zo bid ik, wilt die <rhyme label="c" type="m">eer</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Die ik toch niet <rhyme label="c" type="m" corresp="#s2:l4">begeer</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Vry aan een ander <rhyme label="b" type="f" corresp="#s2:l3">geeven</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Neen, Pronk - beeld van <rhyme label="a" type="m">Jupijn</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Uw' konsten zijn niet <rhyme label="a" type="m" corresp="#s3:l1">klein</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Die gy doet met de <rhyme label="b" type="f">Verve</rhyme>;</l>
+        <l id="s3:l4" met="3" type="-+">'k Loof waarlijk dat gy <rhyme label="c" type="m">zint</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Het alderwijste <rhyme label="c" type="m" corresp="#s3:l4">Kindt</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Van de Goddin <rhyme label="b" type="f" corresp="#s3:l3">Minerve</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

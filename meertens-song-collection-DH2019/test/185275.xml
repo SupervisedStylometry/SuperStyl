@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185275</id>
+    <date>
+      <year-start>1805</year-start>
+      <year-end>1805</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Van de jaloerse vrouw</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Al wie in Slaverny wil <rhyme label="a" type="f">leeven</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En leiden meer dan 't winter <rhyme label="b" type="m">graan</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Moet zig slegts in den echt <rhyme label="a" type="f" corresp="#s1:l1">begeeven</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">En staan een wyf als 't myne is <rhyme label="b" type="m" corresp="#s1:l2">aan</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wie 't niet gelooft kan slechts <rhyme label="a" type="f">beschouwen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Het leed dat ik verdraagen <rhyme label="b" type="m">moet</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En die nog zal willen <rhyme label="a" type="f" corresp="#s2:l1">trouwen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Zit zelfs de zotheid al in 't <rhyme label="b" type="m" corresp="#s2:l2">bloed</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Myn huis serpent doet niet dan <rhyme label="a" type="f">kyven</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Op meid, en knegt, en kat en <rhyme label="b" type="m">hond</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Die gaan, maar ik helaas moet <rhyme label="a" type="f" corresp="#s3:l1">blyven</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Al noemt zy myn een <rhyme label="b" type="m" corresp="#s3:l2">vagebond</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">'t Schoonmaaken is maar enkel <rhyme label="a" type="f">larie</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Ik zit 'er waarlyk mee <rhyme label="b" type="m">gebruid</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">'t Begint den eerste <rhyme label="a" type="f" corresp="#s4:l1">Januarie</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">En met December scheid zy 'er <rhyme label="b" type="m" corresp="#s4:l2">uit</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">En ach ik heb geen woord te <rhyme label="a" type="f">zeggen</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">'k Moet spreeken wat myn wyf <rhyme label="b" type="m">begeerd</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Wil zy my slaan, 'k moet maar gaan <rhyme label="a" type="f" corresp="#s5:l1">leggen</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">'t Mag gaan zoo 't wil, maar 't gaat <rhyme label="b" type="m" corresp="#s5:l2">verkeerd</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

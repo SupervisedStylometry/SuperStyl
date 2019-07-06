@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>183918</id>
+    <date>
+      <year-start>1806</year-start>
+      <year-end>1806</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Un matin brusquement</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">Laat ons, vol <rhyme label="a" type="m">ijvergloed</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Altijd deugd en vriendschap <rhyme label="b" type="f">minnen</rhyme>;</l>
+        <l id="s1:l3" met="3" type="+-">Daar eendragt, trouw en <rhyme label="a" type="m" corresp="#s1:l1">moed</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Ons biên den Schotschen <rhyme label="a" type="m" corresp="#s1:l1">lauwerhoed</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">Prent, dappren! steeds, in aller <rhyme label="b" type="f" corresp="#s1:l2">zinnen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Het loslijk werk, door u <rhyme label="c" type="m">verricht</rhyme>:</l>
+        <l id="s1:l7" met="4" type="+-">Schotsche Ridders! 't is uw <rhyme label="c" type="m" corresp="#s1:l6">pligt</rhyme>;</l>
+        <l id="s1:l8" met="4" type="+-">Leert hun ook strijdende <rhyme label="b" type="f" corresp="#s1:l2">overwinnen</rhyme>!</l>
+        <l id="s1:l9" met="4" type="+-">Schotsche Ridders! 't is uw <rhyme label="c" type="m" corresp="#s1:l6">pligt</rhyme>.</l>
+        <l id="s1:l10" met="4" type="+-">Zoo voert gij hen naar 't glansrijkst <rhyme label="c" type="m" corresp="#s1:l6">licht</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Elk onzer kiest een <rhyme label="a" type="m">deugd</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Om die heilig naar te <rhyme label="b" type="f">streeven</rhyme>;</l>
+        <l id="s2:l3" met="3" type="+-">Elk vinde, in smart of <rhyme label="a" type="m" corresp="#s2:l1">vreugd</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Geen heil dan door die <rhyme label="a" type="m" corresp="#s2:l1">zielsgeneugt'</rhyme>!</l>
+        <l id="s2:l5" met="4" type="+-">Och! moog' hiervan elk blijken <rhyme label="b" type="f" corresp="#s2:l2">geeven</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Verheven tot den Schotschen <rhyme label="c" type="m">graad</rhyme>!</l>
+        <l id="s2:l7" met="4" type="+-">Metslaarij! uw <rhyme label="c" type="m" corresp="#s2:l6">gloriestaat</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Blijv' bij ons in top <rhyme label="b" type="f" corresp="#s2:l2">verheven</rhyme>:</l>
+        <l id="s2:l9" met="4" type="+-">Metslaarij! uw' <rhyme label="c" type="m" corresp="#s2:l6">gloriestaat</rhyme></l>
+        <l id="s2:l10" met="4" type="+-">Zie zelf de jongste <rhyme label="c" type="m" corresp="#s2:l6">dageraad</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

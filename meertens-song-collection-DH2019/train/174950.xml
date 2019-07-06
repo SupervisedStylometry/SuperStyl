@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174950</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Mijn allerliefste zusje</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Mijn allerliefste <rhyme label="a" type="f">zusje</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Dat zit op Moeders <rhyme label="b" type="m">schoot</rhyme>;</l>
+        <l id="s1:l3" met="3" type="-+">Ik geef haar van mijn <rhyme label="c" type="f">eten</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Dan wordt ze spoedig <rhyme label="b" type="m" corresp="#s1:l2">groot</rhyme>;</l>
+        <l id="s1:l5" met="3" type="-+">Ik zing haar al mijn <rhyme label="d" type="f">liedjes</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Dan wordt ze spoedig <rhyme label="e" type="m">zoet</rhyme>;</l>
+        <l id="s1:l7" met="3" type="-+">Ik leer haar al mijn <rhyme label="f" type="f">lesjes</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Dan wordt ze wijs en <rhyme label="e" type="m" corresp="#s1:l6">goed</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Mijn allerliefste <rhyme label="a" type="f">zusje</rhyme>!</l>
+        <l id="s2:l2" met="3" type="-+">Wat zal dat aardig <rhyme label="b" type="m">staan</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Als wij met ons twee <rhyme label="c" type="f">beidjes</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Te zaam naar school toe <rhyme label="b" type="m" corresp="#s2:l2">gaan</rhyme>!</l>
+        <l id="s2:l5" met="3" type="-+">Dan op de kleine <rhyme label="d" type="f">steentjes</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Parmantig <rhyme label="e" type="m">voortgestapt</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Ik zal wel op u <rhyme label="f" type="f">passen</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Dat ge in geen plassen <rhyme label="e" type="m" corresp="#s2:l6">trapt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Mijn allerliefste <rhyme label="a" type="f">zusje</rhyme>!</l>
+        <l id="s3:l2" met="3" type="-+">Och, zeg! geloof-je <rhyme label="b" type="m">nou</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Hoe dat ik in mijn <rhyme label="c" type="f">hartje</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Zoo magtig van u <rhyme label="b" type="m" corresp="#s3:l2">hoû</rhyme>?</l>
+        <l id="s3:l5" met="3" type="-+">Toe, lach 'reis tegen broertje <rhyme label="d" type="f">(zusje</rhyme>)</l>
+        <l id="s3:l6" met="3" type="-+">En geef me 'reis een' <rhyme label="e" type="m">kus</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">En pak me eens in je <rhyme label="f" type="f">boutjes</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Mijne allerliefste <rhyme label="e" type="m" corresp="#s3:l6">zus</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

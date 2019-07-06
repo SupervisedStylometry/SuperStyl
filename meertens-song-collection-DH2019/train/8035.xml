@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8035</id>
+    <date>
+      <year-start>1644</year-start>
+      <year-end>1644</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>O Gott wir danken deiner Güt</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jan Jansz. Deutel</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Godt wy dancken dijner <rhyme label="a" type="m">goedt</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Door Christum onsen <rhyme label="b" type="f">Heere</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Van dijner weldaets <rhyme label="a" type="m" corresp="#s1:l1">overvloedt</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Door 't welck ghy doet <rhyme label="b" type="f" corresp="#s1:l2">gheneren</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Al wat den adem heeft <rhyme label="c" type="m">onfaen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Ghy hen haer noodtdruft hebt <rhyme label="c" type="m" corresp="#s1:l5">ghedaen</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Dy zy lof, prijs en <rhyme label="b" type="f" corresp="#s1:l2">eere</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als du nu Heere ghespijset <rhyme label="a" type="m">hast</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Dat lichaem 't welck <rhyme label="b" type="f">verdervet</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Soo laet de Siel oock zijn dijn <rhyme label="a" type="m" corresp="#s2:l1">gast</rhyme>:</l>
+        <l id="s2:l4" met="3" type="-+">Die voor dy nimmer <rhyme label="b" type="f" corresp="#s2:l2">stervet</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Dijn heylsaem woordt haer spijse <rhyme label="c" type="m">zy</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Tot datse oock gantsch erlanghe <rhyme label="c" type="m" corresp="#s2:l5">dy</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">In eeuwighen <rhyme label="b" type="f" corresp="#s2:l2">vertrouwen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Lof, eer en danck tot aller <rhyme label="a" type="m">tijdt</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Zy dy vader van <rhyme label="b" type="f">boven</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Die ons de sonden maket <rhyme label="a" type="m" corresp="#s3:l1">quijt</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Door dat ghy gheeft <rhyme label="b" type="f" corresp="#s3:l2">'tgelooven</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">In dijn eenigh geboren <rhyme label="c" type="m">Soon</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Soo dat wy, met hem in den <rhyme label="c" type="m" corresp="#s3:l5">throon</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Dy eeuwigh prijsen, <rhyme label="b" type="f" corresp="#s3:l2">Amen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Eer zy den Vader en den <rhyme label="a" type="m">Soon</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">En oock den Heylighen <rhyme label="b" type="f">Gheeste</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Die gheweest is van <rhyme label="a" type="m" corresp="#s4:l1">aenbegin</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">En eeuwigh <rhyme label="b" type="f" corresp="#s4:l2">d'aldermeeste</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Hy help ons wandelen <rhyme label="c" type="m">algelijck</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Dat wy komen in 't <rhyme label="c" type="m" corresp="#s4:l5">Hemelrijck</rhyme>?</l>
+        <l id="s4:l7" met="3" type="-+">Wie dit begheert spreeck, <rhyme label="b" type="f" corresp="#s4:l2">Amen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

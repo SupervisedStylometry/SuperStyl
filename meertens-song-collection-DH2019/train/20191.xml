@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20191</id>
+    <date>
+      <year-start>1647</year-start>
+      <year-end>1647</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="mythologisch lied" translation="mythological song">mythologisch lied</tag>
+    </tags>
+    <melody>Laura zat laatst bij de beek</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">PHœbus, by een Boom, en <rhyme label="a" type="m">Bron</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Was in 't groen ter ne'er <rhyme label="b" type="f">geseten</rhyme>:</l>
+        <l id="s1:l3" met="4" type="+-">Cupid' seyde, heeft de <rhyme label="a" type="m" corresp="#s1:l1">Son</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">'t Wreede Pithon ne'er <rhyme label="b" type="f" corresp="#s1:l2">gesmeten</rhyme>?</l>
+        <l id="s1:l5" met="4" type="+-">Hy sal me'e van Cypres <rhyme label="b" type="f" corresp="#s1:l2">weten</rhyme>;</l>
+        <l id="s1:l6" met="4" type="+-">Sondt hy Pijlen op den <rhyme label="c" type="m">Draek</rhyme>:</l>
+        <l id="s1:l7" met="4" type="+-">Draegt Diaen haer Boog voor <rhyme label="d" type="f">Dieren</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">'k Tors mijn schichten, om te <rhyme label="d" type="f" corresp="#s1:l7">stieren</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">Niet tot rouw, maer <rhyme label="c" type="m" corresp="#s1:l6">vermaek</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Mits soo torst hy Iupijns  <rhyme label="a" type="m">Soon</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Die hy in sijn Daphne <rhyme label="b" type="f">wonde</rhyme>:</l>
+        <l id="s2:l3" met="4" type="+-">Toen sprak 't Boefje, by de <rhyme label="a" type="m" corresp="#s2:l1">Go'on</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">'k Weet hy voelt 't geen ik hem <rhyme label="b" type="f" corresp="#s2:l2">gonde</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">Maer de Maegt, die gantsch geen <rhyme label="b" type="f" corresp="#s2:l2">wonde</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Voelde, vlood voor hem <rhyme label="c" type="m">ras</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Langs de Bosschen (voor het <rhyme label="d" type="f">kussen</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Welk Apol om lust te <rhyme label="d" type="f" corresp="#s2:l7">blussen</rhyme></l>
+        <l id="s2:l9" met="4" type="+-">Socht) of s' een der winden <rhyme label="c" type="m" corresp="#s2:l6">was</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Peneus maekt haer tot een <rhyme label="a" type="m">Boom</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Van Heym wetende <rhyme label="b" type="f">Laurieren</rhyme>.</l>
+        <l id="s3:l3" met="4" type="+-">Dies Apollo swoer, dat <rhyme label="a" type="m" corresp="#s3:l1">Room'</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Al haer Helden souw <rhyme label="b" type="f" corresp="#s3:l2">vercieren</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Met dat Loof, en Feesten <rhyme label="b" type="f" corresp="#s3:l2">vieren</rhyme>.</l>
+        <l id="s3:l6" met="4" type="+-">Dat sijn Kooker, Lier, en <rhyme label="c" type="m">Kruyn</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Souw' die Telgen eeuwig <rhyme label="d" type="f">dragen</rhyme>:</l>
+        <l id="s3:l8" met="4" type="+-">Theben souw' haer <rhyme label="d" type="f" corresp="#s3:l7">Segen-wagen</rhyme>,</l>
+        <l id="s3:l9" met="4" type="+-">Vol besteeken als een <rhyme label="c" type="m" corresp="#s3:l6">ruyn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">'t Dwergje, siende dat sijn <rhyme label="a" type="m">pijl</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Recht een Treurspel had <rhyme label="b" type="f">gebrouwen</rhyme>;</l>
+        <l id="s4:l3" met="4" type="+-">Slaet sijn wieken, inder <rhyme label="a" type="m" corresp="#s4:l1">yl</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Na de schoonste aller <rhyme label="b" type="f" corresp="#s4:l2">Vrouwen</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">Daer sy heerlijk sat t' <rhyme label="b" type="f" corresp="#s4:l2">aenschouwen</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Voor Tapijt van Mirts en <rhyme label="c" type="m">Roos</rhyme>.</l>
+        <l id="s4:l7" met="4" type="+-">Moeder riep hy, ach mijn <rhyme label="d" type="f">schichten</rhyme>,</l>
+        <l id="s4:l8" met="4" type="+-">Zijn die om de Trouw' te <rhyme label="d" type="f" corresp="#s4:l7">stichten</rhyme>!</l>
+        <l id="s4:l9" met="4" type="+-">Hoe quam 't dan dat sy 't niet <rhyme label="c" type="m" corresp="#s4:l6">koos</rhyme>?</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Soontje, seydse, weest <rhyme label="a" type="m">gerust</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Gy sult noch de grootste <rhyme label="b" type="f">raken</rhyme>:</l>
+        <l id="s5:l3" met="4" type="+-">Hier me'e heefts' hem eens <rhyme label="a" type="m" corresp="#s5:l1">gekust</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Aen sijn lippen ende <rhyme label="b" type="f" corresp="#s5:l2">kaken</rhyme>,</l>
+        <l id="s5:l5" met="4" type="+-">Om haer seggen vast te <rhyme label="b" type="f" corresp="#s5:l2">maken</rhyme>.</l>
+        <l id="s5:l6" met="4" type="+-">Dus hy we'er met even <rhyme label="c" type="m">graegt</rhyme>,</l>
+        <l id="s5:l7" met="4" type="+-">Menig hartje heeft <rhyme label="d" type="f">doorschooten</rhyme>.</l>
+        <l id="s5:l8" met="4" type="+-">Wie heeft 't minnen oyt <rhyme label="d" type="f" corresp="#s5:l7">verdrooten</rhyme>,</l>
+        <l id="s5:l9" met="4" type="+-">Als de liefd' we'er gunste <rhyme label="c" type="m" corresp="#s5:l6">draegt</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

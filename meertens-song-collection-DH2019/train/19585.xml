@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19585</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Belle qui me vas martyrisant</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Thomas Fonteyn</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">ALs ik <rhyme label="a" type="m">bemerk</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">Wat liefd den Dieren// <rhyme label="b" type="m">voed</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Zo well’ ik in den <rhyme label="c" type="m">druk</rhyme>;</l>
+        <l id="s1:l4" met="2" type="-+">Wijl ‘t <rhyme label="a" type="m" corresp="#s1:l1">wonderwerk</rhyme></l>
+        <l id="s1:l5" met="3" type="+-">Van haar, wiens fieren// <rhyme label="b" type="m" corresp="#s1:l2">moed</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">My torst vol <rhyme label="c" type="m" corresp="#s1:l3">ongeluk</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Wijl zy dit <rhyme label="c" type="m" corresp="#s1:l3">stuk</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">Niet toe en <rhyme label="d" type="m">staat</rhyme>,</l>
+        <l id="s1:l9" met="2" type="+-">O! zwaare <rhyme label="c" type="m" corresp="#s1:l3">nukk</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">Zo weet ik geenen <rhyme label="d" type="m" corresp="#s1:l8">raad</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Vrouwvenus <rhyme label="a" type="m">Zoon</rhyme>,</l>
+        <l id="s2:l2" met="3" type="+-">Stookt in mijn <rhyme label="b" type="m">binnegrond</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Een onuitdampbren <rhyme label="c" type="m">gloed</rhyme>:</l>
+        <l id="s2:l4" met="2" type="-+">En off ik <rhyme label="a" type="m" corresp="#s2:l1">schoon</rhyme>,</l>
+        <l id="s2:l5" met="3" type="+-">Voor mijnnen <rhyme label="b" type="m" corresp="#s2:l2">Minnewond</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Hem bidde dat hy <rhyme label="c" type="m" corresp="#s2:l3">doet</rhyme>,</l>
+        <l id="s2:l7" met="2" type="-+">Dat haar <rhyme label="c" type="m" corresp="#s2:l3">gemoed</rhyme></l>
+        <l id="s2:l8" met="2" type="-+">Tot mywaarts <rhyme label="d" type="m">held</rhyme>:</l>
+        <l id="s2:l9" met="2" type="+-">Hy, zo, <rhyme label="c" type="m" corresp="#s2:l3">verwoed</rhyme></l>
+        <l id="s2:l10" met="3" type="-+">Doet my alleen <rhyme label="d" type="m" corresp="#s2:l8">geweld</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Ik, zugt, en <rhyme label="a" type="m">quijn</rhyme></l>
+        <l id="s3:l2" met="3" type="+-">Als een die treurig// <rhyme label="b" type="m">leeft</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">En zmeek ‘er nacht en <rhyme label="c" type="m">dag</rhyme>.</l>
+        <l id="s3:l4" met="2" type="-+">Zy, teegens <rhyme label="a" type="m" corresp="#s3:l1">mijn</rhyme>,</l>
+        <l id="s3:l5" met="3" type="+-">Is, als die ‘t deur <rhyme label="b" type="m" corresp="#s3:l2">bestreeft</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Wat immer letten <rhyme label="c" type="m" corresp="#s3:l3">mag</rhyme>.</l>
+        <l id="s3:l7" met="2" type="-+">Wat baadt <rhyme label="c" type="m" corresp="#s3:l3">geklach</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">Die niet en <rhyme label="d" type="m">hoord</rhyme>:</l>
+        <l id="s3:l9" met="2" type="+-">Off die nooit <rhyme label="c" type="m" corresp="#s3:l3">zag</rhyme>,</l>
+        <l id="s3:l10" met="3" type="-+">Word door geen oog <rhyme label="d" type="m" corresp="#s3:l8">bekoord</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>183566</id>
+    <date>
+      <year-start>1774</year-start>
+      <year-end>1774</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">HErlijk ligt <rhyme label="a" type="m">zwigt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Voor Tirsis schoone <rhyme label="b" type="f">ogen</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Uw Glans, uw glans, uw glans heeft veel <rhyme label="b" type="f" corresp="#s1:l2">vermogen</rhyme>;</l>
+        <l id="s1:l4" met="4" type="-+">Aengenaem is de <rhyme label="c" type="m">dageraed</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Veel schoonder is het soet <rhyme label="c" type="m" corresp="#s1:l4">gelaet</rhyme>,</l>
+        <l id="s1:l6" met="7" type="+-">Van Tersiis, van Tersis die in myn herte <rhyme label="c" type="m" corresp="#s1:l4">staet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Maer ag ik sal 't <rhyme label="a" type="m">besterven</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Hy is niet meer by <rhyme label="b" type="f">myn</rhyme>:</l>
+        <l id="s2:l3" met="5" type="-+">Ik moet, ik moet, ik moet altyd gaen <rhyme label="b" type="f" corresp="#s2:l2">zwerven</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Heeft Liefde in ons hart <rhyme label="c" type="m">gestigt</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Het vermoogen dat voor hem ook <rhyme label="c" type="m" corresp="#s2:l4">swigt</rhyme>,</l>
+        <l id="s2:l6" met="7" type="+-">Om ons om ons te doen <rhyme label="c" type="m" corresp="#s2:l4">scheiden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

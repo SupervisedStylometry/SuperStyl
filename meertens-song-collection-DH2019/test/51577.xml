@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>51577</id>
+    <date>
+      <year-start>1701</year-start>
+      <year-end>1900</year-end>
+    </date>
+    <location>
+      <orginal-name>gend</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Wy zaegen lest een jongen <rhyme label="a" type="f">schouwvaeger</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">In Gend, wandelen langst de <rhyme label="b" type="m">straet</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Een jongen schoulde busse <rhyme label="a" type="f" corresp="#s1:l1">draeger</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Die riep altyd vroeg ende <rhyme label="b" type="m" corresp="#s1:l2">laet</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Op, op doet u Schouwe <rhyme label="c" type="f">vaegen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Op, op gy en zult niet <rhyme label="c" type="f" corresp="#s1:l5">klaegen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">'K ben van Savoyen <rhyme label="a" type="f">afgekomen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">'K zoek om werk by man en <rhyme label="b" type="m">vrouw</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">En 'k heb myn schreper mé <rhyme label="a" type="f" corresp="#s2:l1">genomen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">En peits en 'k vaeg menige <rhyme label="b" type="m" corresp="#s2:l2">schouw</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Op, op wie zal my werk <rhyme label="c" type="f">geven</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Op, op doet den werkman <rhyme label="c" type="f" corresp="#s2:l5">leven</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">'K werke rechtveirdig in de <rhyme label="a" type="f">schouwen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Niemand heeft my met kwaed <rhyme label="b" type="m">betraept</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">En men zou my mogen <rhyme label="a" type="f" corresp="#s3:l1">betrouwen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">In de kamer waer 't meysken <rhyme label="b" type="m" corresp="#s3:l2">slaept</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Komt, komt schouwe vaeger <rhyme label="c" type="f">binnen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Komt, komt gy zult hier wat <rhyme label="c" type="f" corresp="#s3:l5">winnen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">'t Meysken den savoyar kwam <rhyme label="a" type="f">vraegen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Of hy voor eenen schoonen <rhyme label="b" type="m">loon</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Haer schouw g'heel proper zoude <rhyme label="a" type="f" corresp="#s4:l1">vaegen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">'T welk hy deed voor dit vrouws <rhyme label="b" type="m" corresp="#s4:l2">persoon</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">Op, op riep hy met <rhyme label="c" type="f">behaegen</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Op, op kroop hy om te <rhyme label="c" type="f" corresp="#s4:l5">vaegen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Hy begonst met zyn peirse te <rhyme label="a" type="f">werken</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Van onder op zoo menig <rhyme label="b" type="m">mael</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Men kwam zyn gtooten herrebeyd <rhyme label="a" type="f" corresp="#s5:l1">merken</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Door 't vallen van de roeste <rhyme label="b" type="m" corresp="#s5:l2">gal</rhyme>,</l>
+        <l id="s5:l5" met="4" type="+-">Op, op riep dien jongon <rhyme label="c" type="f">keirel</rhyme>,</l>
+        <l id="s5:l6" met="4" type="+-">Op, op zoo zwart als een <rhyme label="c" type="f" corresp="#s5:l5">meirel</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

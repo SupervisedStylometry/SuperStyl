@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182670</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Lubin est d'une figure</melody>
+  <author>Hendrik Riemsnijder</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">'k Zag een' man van sneeuw laatst <rhyme label="a" type="f">maaken</rhyme>;</l>
+        <l id="s1:l2" met="4" type="+-">O, geen fraaier zag men <rhyme label="b" type="m">ooit</rhyme>!</l>
+        <l id="s1:l3" met="4" type="+-">Maar de zon begon te <rhyme label="a" type="f" corresp="#s1:l1">blaaken</rhyme>:</l>
+        <l id="s1:l4" met="4" type="+-">Straks versmolt hy, pas <rhyme label="b" type="m" corresp="#s1:l2">voltooit</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">Hem geiykt een zotte <rhyme label="c" type="f">pronker</rhyme>:</l>
+        <l id="s1:l6" met="4" type="+-">Slegts van verre schynt hy <rhyme label="d" type="m">kloek</rhyme>;</l>
+        <l id="s1:l7" met="4" type="+-">Maar hoe ras versmelt de <rhyme label="c" type="f" corresp="#s1:l5">jonker</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Voor verstandig <rhyme label="d" type="m" corresp="#s1:l6">onderzoek</rhyme>.</l>
+        <l id="s1:l9" met="2" type="-+">Hy blinke <rhyme label="e" type="f">uitwendig</rhyme>,</l>
+        <l id="s1:l10" met="2" type="-+">Zyn' pracht, en <rhyme label="f" type="m">magt</rhyme></l>
+        <l id="s1:l11" met="2" type="+-">Is nimmer <rhyme label="e" type="f" corresp="#s1:l9">bestendig</rhyme>,</l>
+        <l id="s1:l12" met="2" type="-+">En heeft geen <rhyme label="f" type="m" corresp="#s1:l10">kragt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34591</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Parlerons-nous toujours de boire</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Jan Mommaert</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">SAl-men dan staegh van drincken <rhyme label="a" type="f">spreken</rhyme>?</l>
+        <l id="s1:l2" met="4" type="-+">En sal het nimmer zyn <rhyme label="b" type="m">ghedaen</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">Silenus herssens zyn <rhyme label="a" type="f" corresp="#s1:l1">bezweken</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">En wilt hy 'r nat al weder <rhyme label="b" type="m" corresp="#s1:l2">aen</rhyme>?</l>
+        <l id="s1:l5" met="2" type="+-">Siet hy <rhyme label="c" type="m">gaept</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">'t Is dat hy <rhyme label="c" type="m" corresp="#s1:l5">slaept</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Klopt op den pot om hem te <rhyme label="d" type="f">wecken</rhyme>;</l>
+        <l id="s1:l8" met="5" type="-+">Helaes! helaes! siet hem de leden <rhyme label="d" type="f" corresp="#s1:l7">recken</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Treckt hem eens lustigh by de <rhyme label="a" type="f">ooren</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Een vaeght den vloer by hem <rhyme label="b" type="m">bedrest</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Siet hy begint ons re'en te <rhyme label="a" type="f" corresp="#s2:l1">hooren</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Helpt hem, goed' vrienden, doch voor 't <rhyme label="b" type="m" corresp="#s2:l2">lest</rhyme>:</l>
+        <l id="s2:l5" met="2" type="+-">Siet hy <rhyme label="c" type="m">gaept</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">'t Is dat hy <rhyme label="c" type="m" corresp="#s2:l5">slaept</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Klopt op den pot om hem te <rhyme label="d" type="f">wecken</rhyme>;</l>
+        <l id="s2:l8" met="5" type="-+">Helaes! helaes! siet hem de leden <rhyme label="d" type="f" corresp="#s2:l7">recken</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Maer vriendt, ghy kent de <rhyme label="a" type="f">medecynen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Ey dat ghy hem den pols eens <rhyme label="b" type="m">tast</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Oft moet den sieckens pis <rhyme label="a" type="f" corresp="#s3:l1">verschynen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Treedt toe, want sy hier wacker <rhyme label="b" type="m" corresp="#s3:l2">wast</rhyme>;</l>
+        <l id="s3:l5" met="2" type="+-">Siet hy <rhyme label="c" type="m">gaept</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">'t Is dat hy <rhyme label="c" type="m" corresp="#s3:l5">slaept</rhyme>:</l>
+        <l id="s3:l7" met="4" type="-+">Seght ons nu, is 't een sieckt' der <rhyme label="d" type="f">gheesten</rhyme>?</l>
+        <l id="s3:l8" met="5" type="-+">Neen, 't is een sieckte van de <rhyme label="d" type="f" corresp="#s3:l7">beesten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

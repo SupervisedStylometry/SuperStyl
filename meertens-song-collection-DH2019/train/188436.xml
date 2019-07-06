@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188436</id>
+    <date>
+      <year-start>1751</year-start>
+      <year-end>1752</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Antoine Mahaut, Kornelis Elzevier</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Wilt, O schelle <rhyme label="a" type="f">Nachtegalen</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Myn gehoor op zang <rhyme label="a" type="f" corresp="#s1:l1">onthalen</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Zingt, o Vogels in het <rhyme label="b" type="m">groen</rhyme>;</l>
+        <l id="s1:l4" met="4" type="+-">Wilt myn gragen lust <rhyme label="b" type="m" corresp="#s1:l3">voldoen</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">Kloris is met my <rhyme label="c" type="f">bewogen</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">'k Mag my spieglen in haer <rhyme label="c" type="f" corresp="#s1:l5">Oogen</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Zingt, hoe Kloris my <rhyme label="d" type="m">bemint</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Die my aen haer schoonheid <rhyme label="d" type="m" corresp="#s1:l7">bindt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Zy laeft my met malsche <rhyme label="a" type="f">kusjes</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">'t Voedzel van myn grage <rhyme label="a" type="f" corresp="#s2:l1">lusjes</rhyme>.</l>
+        <l id="s2:l3" met="4" type="+-">Ik omhels myn schoone <rhyme label="b" type="m">blom</rhyme>;</l>
+        <l id="s2:l4" met="4" type="+-">Zy omhelst my <rhyme label="b" type="m" corresp="#s2:l3">wederom</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">Wilt, o Vogels, aen de <rhyme label="c" type="f">Velden</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Het geluk van Dafnis <rhyme label="c" type="f" corresp="#s2:l5">melden</rhyme>.</l>
+        <l id="s2:l7" met="4" type="+-">Kloris schenkt my hare <rhyme label="d" type="m">jeugd</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Deelt o vogels in myn <rhyme label="d" type="m" corresp="#s2:l7">vreugd</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

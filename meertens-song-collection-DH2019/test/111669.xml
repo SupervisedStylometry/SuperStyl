@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111669</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Wanneer de zon het morgenrood</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">IS 't Waarheid dat gy my <rhyme label="a" type="m">bemind</rhyme>?</l>
+        <l id="s1:l2" met="4" type="-+">Zo als ik uyt uw drift moet <rhyme label="b" type="f">gissen</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">Laat Gloorroos, laat dan eens de <rhyme label="a" type="m" corresp="#s1:l1">wind</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Van uwe <rhyme label="b" type="f" corresp="#s1:l2">Mins-geheymenissen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Maar slegts verkondigen, hoe <rhyme label="c" type="m">gy</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Dan sugten kund aan myne <rhyme label="c" type="m" corresp="#s1:l5">sy</rhyme>?</l>
+        <l id="s1:l7" met="3" type="-+">Ach! Glooroos Lief, laat uw <rhyme label="d" type="f">oogen</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">My slegts verkondigen, hoe <rhyme label="c" type="m" corresp="#s1:l5">gy</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Dan sugten kund aan myne <rhyme label="c" type="m" corresp="#s1:l5">sy</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">Of Liefde's groot <rhyme label="d" type="f" corresp="#s1:l7">vermogen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">^tab|2. Om dat ik, zey zy, u <rhyme label="a" type="m">geheel</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">En redelyk bemin myn <rhyme label="b" type="f">Floris</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Soo vrees ik eens het dierbaar <rhyme label="a" type="m" corresp="#s2:l1">deel</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Te smetten van het geen myn Gloor <rhyme label="b" type="f" corresp="#s2:l2">is</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Want eerb're liefde werd ligt <rhyme label="c" type="m">geyl</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Wanneer men 't al voor haar heeft <rhyme label="c" type="m" corresp="#s2:l5">veyl</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Sie Floris, dat 's de <rhyme label="d" type="f">reden</rhyme>:</l>
+        <l id="s2:l8" met="4" type="-+">Want eerb're Liefde werd ligt <rhyme label="c" type="m" corresp="#s2:l5">geyl</rhyme>,</l>
+        <l id="s2:l9" met="4" type="-+">Wanneer men 't al voor haar heeft <rhyme label="c" type="m" corresp="#s2:l5">veyl</rhyme>,</l>
+        <l id="s2:l10" met="3" type="-+">Door haar <rhyme label="d" type="f" corresp="#s2:l7">aanlok'lykheden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Hier op ontrok zy my haar <rhyme label="a" type="m">hand</rhyme>:</l>
+        <l id="s3:l2" met="4" type="-+">Hoe, vroeg ik, kan myn Hand uw <rhyme label="b" type="f">krenken</rhyme>?</l>
+        <l id="s3:l3" met="4" type="-+">Neen zey zy, 'k vrees myn eygen <rhyme label="a" type="m" corresp="#s3:l1">brand</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">En die mag ik met re'en <rhyme label="b" type="f" corresp="#s3:l2">verdenken</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Myn liefde heeft geen <rhyme label="c" type="m">weder-gâ</rhyme>:,</l>
+        <l id="s3:l6" met="4" type="-+">Maar vuur en Strô diend niet te <rhyme label="c" type="m" corresp="#s3:l5">nâ</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Of 't raakt ligt aan 't <rhyme label="d" type="f">branden</rhyme>.</l>
+        <l id="s3:l8" met="4" type="-+">Myn liefde heeft geen <rhyme label="c" type="m" corresp="#s3:l5">wedergâ</rhyme>:</l>
+        <l id="s3:l9" met="4" type="-+">Maar Vuur en Strô diend niet te <rhyme label="c" type="m" corresp="#s3:l5">nâ</rhyme>.</l>
+        <l id="s3:l10" met="3" type="-+">De Min vleid door uw <rhyme label="d" type="f" corresp="#s3:l7">handen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

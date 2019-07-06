@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>33831</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Ik heb de groene straten</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacob Rosant</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">G' Hebt d'Ouden hooren <rhyme label="a" type="f">leeren</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Volbrenght den Heer uw' <rhyme label="b" type="m">Eedt</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Gy sult geen valsheydt <rhyme label="a" type="f" corresp="#s1:l1">sweeren</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Ik doe u meerder <rhyme label="b" type="m" corresp="#s1:l2">weet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Gy sult al heel niet <rhyme label="a" type="f">sweeren</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Nogh by den Hemel <rhyme label="b" type="m">schoon</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Onthoudt wel deese <rhyme label="a" type="f" corresp="#s2:l1">leeren</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Want het is Goodes <rhyme label="b" type="m" corresp="#s2:l2">Troon</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Nogh ook niet by 't <rhyme label="a" type="f">Aerdtrijke</rhyme>;</l>
+        <l id="s3:l2" met="3" type="-+">Want sijn voet-bank is <rhyme label="b" type="m">dat</rhyme>.</l>
+        <l id="s3:l3" met="3" type="-+">Jerusalem <rhyme label="a" type="f" corresp="#s3:l1">gelijke</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Want 't is des Koninks <rhyme label="b" type="m" corresp="#s3:l2">Stat</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">By 't hooft en wilt niet <rhyme label="a" type="f">sweeren</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Want gy en mooght, <rhyme label="b" type="m">voorwaer</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">In swart of wit <rhyme label="a" type="f" corresp="#s4:l1">verkeeren</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Door uw kraght niet een <rhyme label="b" type="m" corresp="#s4:l2">haer</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Ja, ja, neen, neen, laet <rhyme label="a" type="f">weesen'</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Genoeghsaem voor uw' <rhyme label="b" type="m">woort</rhyme>.</l>
+        <l id="s5:l3" met="3" type="-+">Al dat men voeght by <rhyme label="a" type="f" corresp="#s5:l1">deesen</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Komt van den quaden <rhyme label="b" type="m" corresp="#s5:l2">voort</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

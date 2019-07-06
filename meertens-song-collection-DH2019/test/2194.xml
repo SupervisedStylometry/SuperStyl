@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2194</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>La Linjène</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">Celestinaas <rhyme label="a" type="f">Oogen</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">Vol lief <rhyme label="b" type="m">gesicht</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Toonen geen <rhyme label="a" type="f" corresp="#s1:l1">meedoogen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Schoon ik voor haar <rhyme label="b" type="m" corresp="#s1:l2">swicht</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Dat in mijn fiel een wanhoop <rhyme label="b" type="m" corresp="#s1:l2">sticht</rhyme>.</l>
+        <l id="s1:l6" met="4" type="-+">Maar so ik eens beleef dien <rhyme label="c" type="m">dag</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Dat ik mijn Hart doen blijkken <rhyme label="c" type="m" corresp="#s1:l6">mag</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Dan sal ik seggen <rhyme label="d" type="f">Schoone</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Wilt my geen wreetheyd <rhyme label="d" type="f" corresp="#s1:l8">toone</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">Maar Liefd' met Liefde <rhyme label="d" type="f" corresp="#s1:l8">loone</rhyme>,</l>
+        <l id="s1:l11" met="5" type="+-">En wilt u eens ontfermen op mijn <rhyme label="e" type="m">gebeên</rhyme></l>
+        <l id="s1:l12" met="4" type="-+">Nu dat ik blijf uw Slaaf <rhyme label="e" type="m" corresp="#s1:l11">alleen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Doch om niet te <rhyme label="a" type="f">beyden</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Mijn <rhyme label="b" type="m">Engellin</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">Laat ons huyden <rhyme label="a" type="f" corresp="#s2:l1">weyden</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">Met geneegen <rhyme label="b" type="m" corresp="#s2:l2">sin</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">In de Lands-douwen van de <rhyme label="b" type="m" corresp="#s2:l2">min</rhyme>.</l>
+        <l id="s2:l6" met="4" type="-+">Twijffel doch aan mijn Liefde <rhyme label="c" type="m">niet</rhyme>.</l>
+        <l id="s2:l7" met="4" type="-+">Maar so gy my slechts niet <rhyme label="c" type="m" corresp="#s2:l6">verstiet</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">En daarom my niet <rhyme label="d" type="f">doemde</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">Om dat ik op u <rhyme label="d" type="f" corresp="#s2:l8">roemde</rhyme>,</l>
+        <l id="s2:l10" met="3" type="-+">En u mijn Engel <rhyme label="d" type="f" corresp="#s2:l8">noemde</rhyme>,</l>
+        <l id="s2:l11" met="5" type="+-">So ruyld' ik dat gelukje noit voor een <rhyme label="e" type="m">kroon</rhyme>,</l>
+        <l id="s2:l12" met="4" type="-+">Noch voor Augustus <rhyme label="e" type="m" corresp="#s2:l11">Marmor-troon</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

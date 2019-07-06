@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6857</id>
+    <date>
+      <year-start>1637</year-start>
+      <year-end>1637</year-end>
+    </date>
+    <location>
+      <orginal-name>emmerick</orginal-name>
+      <standard-name>Emmerik, Germany</standard-name>
+      <coordinates>
+        <lon>51.8322137</lon>
+        <lat>6.2428283</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Courageuse violette</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="8" type="+-">Glorieuse violette // Koninginn’ van <rhyme label="a" type="m">Hemelrijck</rhyme>,</l>
+        <l id="s1:l2" met="8" type="+-">Suyver vat vry sonder smette // Inden geur <rhyme label="a" type="m" corresp="#s1:l1">aromatijck</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Soeticheyt sonder <rhyme label="a" type="m" corresp="#s1:l1">ghelijck</rhyme>,</l>
+        <l id="s1:l4" met="6" type="+-">Sulck een vreucht ghy sijt // die vermeucht <rhyme label="b" type="m">altijt</rhyme></l>
+        <l id="s1:l5" met="3" type="+-">Smert en leet te <rhyme label="c" type="f">scheuren</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Met vreucht, jolijt // verheucht, <rhyme label="b" type="m" corresp="#s1:l4">verblijt</rhyme></l>
+        <l id="s1:l7" met="3" type="+-">Ons weemoedich <rhyme label="c" type="f" corresp="#s1:l5">trueren</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="8" type="+-">Precieus Paleys van trooste // blinckend’ als den <rhyme label="a" type="m">dagheraet</rhyme>,</l>
+        <l id="s2:l2" met="8" type="+-">Sterre lichtend’ uyt den ooste, als de Sonne claer <rhyme label="a" type="m" corresp="#s2:l1">opgaet</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Uwen lof elck metter <rhyme label="a" type="m" corresp="#s2:l1">daet</rhyme></l>
+        <l id="s2:l4" met="6" type="+-">Hondertsout verclaert // als een goe <rhyme label="b" type="m">bewaert</rhyme></l>
+        <l id="s2:l5" met="3" type="+-">Iun der Hemels <rhyme label="c" type="f">throone</rhyme>:</l>
+        <l id="s2:l6" met="4" type="-+">Benaut, vervaert // verstaut, <rhyme label="b" type="m" corresp="#s2:l4">beswaert</rhyme></l>
+        <l id="s2:l7" met="3" type="+-">Is nu elck <rhyme label="c" type="f" corresp="#s2:l5">persoone</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="8" type="+-">Alderheylichste Princesse // Maria Gods Moeder <rhyme label="a" type="m">reyn</rhyme>,</l>
+        <l id="s3:l2" met="8" type="+-">Ons aller Advocatersse // Siet ons in dit droevich <rhyme label="a" type="m" corresp="#s3:l1">pleyn</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Tot u roepen wy <rhyme label="a" type="m" corresp="#s3:l1">ghemeyn</rhyme>:</l>
+        <l id="s3:l4" met="6" type="+-">Voor u dienaers doet // der genaeden <rhyme label="b" type="m">vloet</rhyme></l>
+        <l id="s3:l5" met="3" type="+-">Vwen Soon <rhyme label="c" type="f">ghedencken</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Dat hy ons ‘tgoet // sijns rijcke <rhyme label="b" type="m" corresp="#s3:l4">soet</rhyme></l>
+        <l id="s3:l7" met="3" type="+-">Will’ hier naemaels <rhyme label="c" type="f" corresp="#s3:l5">schencken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

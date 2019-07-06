@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14392</id>
+    <date>
+      <year-start>1638</year-start>
+      <year-end>1638</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>L'étrenne d'ici bas</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O quam <rhyme label="a" type="m">amabilis</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">Es bone <rhyme label="b" type="f">Iesu</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">O dulcis <rhyme label="b" type="f" corresp="#s1:l2">Iesu</rhyme>.</l>
+        <l id="s1:l4" met="3" type="-+">Quam <rhyme label="a" type="m" corresp="#s1:l1">delectabilis</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">Es pie <rhyme label="b" type="f" corresp="#s1:l2">Jesu</rhyme>:</l>
+        <l id="s1:l6" met="3" type="-+">O cordis <rhyme label="c" type="m">jubilum</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Mentis <rhyme label="c" type="m" corresp="#s1:l6">solatium</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">O bone Jesu, O bone <rhyme label="b" type="f" corresp="#s1:l2">Iesu</rhyme>.</l>
+        <l id="s1:l9" met="2" type="-+">O Quam <rhyme label="b" type="f" corresp="#s1:l2">amabilis</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Es bone <rhyme label="a" type="m">Iesu</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">O dulcis <rhyme label="b" type="f">Iesu</rhyme>:</l>
+        <l id="s2:l3" met="2" type="-+">Quam <rhyme label="b" type="f" corresp="#s2:l2">delectabilis</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Es pie <rhyme label="a" type="m" corresp="#s2:l1">Jesu</rhyme>.</l>
+        <l id="s2:l5" met="2" type="-+">O cordis <rhyme label="b" type="f" corresp="#s2:l2">jubilum</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Mentis <rhyme label="c" type="m">solatium</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">O bone <rhyme label="c" type="m" corresp="#s2:l6">Jesu</rhyme>.</l>
+        <l id="s2:l8" met="2" type="-+">Quam <rhyme label="b" type="f" corresp="#s2:l2">admirabilis</rhyme></l>
+        <l id="s2:l9" met="2" type="-+">Es bone <rhyme label="b" type="f" corresp="#s2:l2">Iesu</rhyme>,</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">O dulcis <rhyme label="a" type="m">Iesu</rhyme>:</l>
+        <l id="s3:l2" met="2" type="-+">Quam <rhyme label="b" type="f">honorabilis</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">Es pie <rhyme label="b" type="f" corresp="#s3:l2">Iesu</rhyme>.</l>
+        <l id="s3:l4" met="3" type="-+">O cordis <rhyme label="a" type="m" corresp="#s3:l1">jubilum</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">Quam <rhyme label="b" type="f" corresp="#s3:l2">venerabilis</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Es bone <rhyme label="c" type="m">Iesu</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">O dulcis <rhyme label="c" type="m" corresp="#s3:l6">Iesu</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">Semper <rhyme label="b" type="f" corresp="#s3:l2">laudabilis</rhyme></l>
+        <l id="s3:l9" met="2" type="-+">Es pie <rhyme label="b" type="f" corresp="#s3:l2">Iesu</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">O cordis <rhyme label="a" type="m">jubilum</rhyme>,</l>
+        <l id="s4:l2" met="2" type="-+">Gregi <rhyme label="b" type="f">fidelium</rhyme></l>
+        <l id="s4:l3" met="2" type="-+">Da bone <rhyme label="b" type="f" corresp="#s4:l2">Iesu</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">O dulcis <rhyme label="a" type="m" corresp="#s4:l1">Iesu</rhyme>:</l>
+        <l id="s4:l5" met="2" type="-+">Salutis <rhyme label="b" type="f" corresp="#s4:l2">exitum</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Da pie <rhyme label="c" type="m">Iesu</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Post vitae <rhyme label="c" type="m" corresp="#s4:l6">terminum</rhyme></l>
+        <l id="s4:l8" met="2" type="-+">Perenne <rhyme label="b" type="f" corresp="#s4:l2">gaudium</rhyme></l>
+        <l id="s4:l9" met="2" type="-+">O bone <rhyme label="b" type="f" corresp="#s4:l2">Iesu</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

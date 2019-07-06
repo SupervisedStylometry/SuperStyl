@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19186</id>
+    <date>
+      <year-start>1611</year-start>
+      <year-end>1611</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 128 Datheen</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jan Jansz. Orlers</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">WElsalich zijn te <rhyme label="a" type="f">achten</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Die God den Heer <rhyme label="b" type="m">ontsien</rhyme>;</l>
+        <l id="s1:l3" met="3" type="-+">En nae sijn weghen <rhyme label="a" type="f" corresp="#s1:l1">trachten</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En dwalen noyt van <rhyme label="b" type="m" corresp="#s1:l2">dien</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">V handen sullen <rhyme label="a" type="f">voeden</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Dijn huysghesin met <rhyme label="b" type="m">vreucht</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Sult wesen in <rhyme label="a" type="f" corresp="#s2:l1">voorspoeden</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Ghezeghent en <rhyme label="b" type="m" corresp="#s2:l2">verheucht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Dus sal aen alle <rhyme label="a" type="f">zijden</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Als eenen vvijnstock <rhyme label="b" type="m">groen</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Dijn Huysvrouw dy <rhyme label="a" type="f" corresp="#s3:l1">verblijden</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">En groote vreucht <rhyme label="b" type="m" corresp="#s3:l2">aendoen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Als planten van <rhyme label="a" type="f">Olijven</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Sult sien wel <rhyme label="b" type="m">ghemaniert</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Dijn kindren met den <rhyme label="a" type="f" corresp="#s4:l1">vvijve</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">V tafel om <rhyme label="b" type="m" corresp="#s4:l2">verciert</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Siet soo wort hy <rhyme label="a" type="f">ghezeghent</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Die nae Gods wetten <rhyme label="b" type="m">leeft</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Sulck weldaet hem <rhyme label="a" type="f" corresp="#s5:l1">bejeghent</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Die hem tot Godt <rhyme label="b" type="m" corresp="#s5:l2">begheeft</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Gods hant die sal u <rhyme label="a" type="f">gheven</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">VVt Syon menich <rhyme label="b" type="m">goet</rhyme>:</l>
+        <l id="s6:l3" met="3" type="-+">En sult sien al u <rhyme label="a" type="f" corresp="#s6:l1">leven</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Ierusalems <rhyme label="b" type="m" corresp="#s6:l2">voorspoet</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Ghy sult uyt uwen <rhyme label="a" type="f">zade</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Kints kind'ren mede <rhyme label="b" type="m">sien</rhyme>,</l>
+        <l id="s7:l3" met="3" type="-+">Iae vreed' en oock <rhyme label="a" type="f" corresp="#s7:l1">ghenade</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Aen Israel <rhyme label="b" type="m" corresp="#s7:l2">gheschien</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

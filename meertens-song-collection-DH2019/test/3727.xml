@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3727</id>
+    <date>
+      <year-start>1566</year-start>
+      <year-end>1566</year-end>
+    </date>
+    <location>
+      <orginal-name>heidelberg</orginal-name>
+      <standard-name>Heidelberg, Germany</standard-name>
+      <coordinates>
+        <lon>49.4093582</lon>
+        <lat>8.694724</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 124 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">MEN magh nu wel segghen in <rhyme label="a" type="m">Israel</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Hadd' ons de Heer' selue niet <rhyme label="b" type="m">byghestaen</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Hadd' hy ons saeken niet ghenomen <rhyme label="b" type="m" corresp="#s1:l2">aen</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Als ons die volcken ouervielen <rhyme label="a" type="m" corresp="#s1:l1">fel</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">Om ons wt te roeyen end te <rhyme label="b" type="m" corresp="#s1:l2">verslaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Leuendigh waeren wy verslonden <rhyme label="a" type="m">wreedt</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Want in toorne waeren sy seer <rhyme label="b" type="m">verstoort</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Wy waeren langh' in dat water <rhyme label="b" type="m" corresp="#s2:l2">versmoort</rhyme>:</l>
+        <l id="s2:l4" met="5" type="-+">Want die baeren ghinghen hoogh' ende <rhyme label="a" type="m" corresp="#s2:l1">breedt</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Die hadden ons ouerdeckt <rhyme label="b" type="m" corresp="#s2:l2">rechtevoort</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Die stroomen hadden gegaen met <rhyme label="a" type="m">ghewelt</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Ouer onse hoofden ter seluer <rhyme label="b" type="m">tydt</rhyme>:</l>
+        <l id="s3:l3" met="5" type="-+">Maer ghedanckt sij Godt die ons heeft <rhyme label="b" type="m" corresp="#s3:l2">bevrydt</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">End syn volck in der macht niet heeft <rhyme label="a" type="m" corresp="#s3:l1">ghestelt</rhyme></l>
+        <l id="s3:l5" met="5" type="-+">Sijner vianden vol van haet end <rhyme label="b" type="m" corresp="#s3:l2">nydt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">So die voghel den voghelvangher <rhyme label="a" type="m">snel</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">Ontkomt: so is onse siel' ontgaen <rhyme label="b" type="m">reyn</rhyme>:</l>
+        <l id="s4:l3" met="5" type="-+">T'strick is ontwee, t'welck'ons omvingh' <rhyme label="b" type="m" corresp="#s4:l2">ghemeyn</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">Wy sijn vry, Godt helpt ons, end niemant <rhyme label="a" type="m" corresp="#s4:l1">el</rhyme>,</l>
+        <l id="s4:l5" met="5" type="-+">Die hemel end d'ęerd' heeft ghemaeckt <rhyme label="b" type="m" corresp="#s4:l2">alleyn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

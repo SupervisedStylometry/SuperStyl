@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174912</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Sneeuw bedekt de landen</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">Sneeuw bedekt de <rhyme label="a" type="f">landen</rhyme>:</l>
+        <l id="s1:l2" met="3" type="+-">Wascht de kille <rhyme label="a" type="f" corresp="#s1:l1">handen</rhyme></l>
+        <l id="s1:l3" met="3" type="+-">Dat ze tintlend <rhyme label="a" type="f" corresp="#s1:l1">branden</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Kneedt den sneeuwbal <rhyme label="b" type="m">vast</rhyme>;</l>
+        <l id="s1:l5" met="3" type="+-">Krachtig de' arm <rhyme label="c" type="f">geheven</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Fiksch den bal <rhyme label="c" type="f" corresp="#s1:l5">gedreven</rhyme>:</l>
+        <l id="s1:l7" met="3" type="+-">Ha! dat is een <rhyme label="c" type="f" corresp="#s1:l5">leven</rhyme>,</l>
+        <l id="s1:l8" met="3" type="+-">Dat aan jongens <rhyme label="b" type="m" corresp="#s1:l4">past</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Koudkleum mag zich <rhyme label="a" type="f">warmen</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">In zijn Moeders <rhyme label="a" type="f" corresp="#s2:l1">armen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">Schreijen om <rhyme label="a" type="f" corresp="#s2:l1">erbarmen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="+-">Als de bal hem <rhyme label="b" type="m">raakt</rhyme>;</l>
+        <l id="s2:l5" met="3" type="+-">Laat de kagchel <rhyme label="c" type="f">gloeijen</rhyme>,....</l>
+        <l id="s2:l6" met="3" type="+-">Ons zal door het <rhyme label="c" type="f" corresp="#s2:l5">stoeijen</rhyme></l>
+        <l id="s2:l7" met="3" type="+-">'t Bloed wel sneller <rhyme label="c" type="f" corresp="#s2:l5">vloeijen</rhyme>,</l>
+        <l id="s2:l8" met="3" type="+-">Waar de sneeuwbal <rhyme label="b" type="m" corresp="#s2:l4">kraakt</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

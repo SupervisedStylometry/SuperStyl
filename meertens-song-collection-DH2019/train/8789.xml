@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8789</id>
+    <date>
+      <year-start>1625</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Aus tiefer Not schrei ich zu dir</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ACh HEEr hoe langh v'geet ghy <rhyme label="a" type="m">mijn</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">By nae tot aen den <rhyme label="b" type="f">Eynde</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">End' waerom wilt ghy u <rhyme label="a" type="m" corresp="#s1:l1">Aenschijn</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Dus langh' doch van my <rhyme label="b" type="f" corresp="#s1:l2">weynden</rhyme>?</l>
+        <l id="s1:l5" met="4" type="-+">Hoe langh' sal ick mijn selven <rhyme label="c" type="m">raen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Mijn Siel met Ancxt moet syn <rhyme label="c" type="m" corresp="#s1:l5">belaen</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">End mijn hert vol <rhyme label="b" type="f" corresp="#s1:l2">elende</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hoe langhe sal mijn Vyandt <rhyme label="a" type="m">syn</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Verhoocht, over my <rhyme label="b" type="f">prachtich</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Och Heer mijn Godt verhoort doch <rhyme label="a" type="m" corresp="#s2:l1">mijn</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Verlucht mijn Ooghen <rhyme label="b" type="f" corresp="#s2:l2">crachtich</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Op dat ick niet ontslaep ter <rhyme label="c" type="m">Doot</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Mijn Vyandt hem niet Roem' so <rhyme label="c" type="m" corresp="#s2:l5">groot</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Dat hy my sy te <rhyme label="b" type="f" corresp="#s2:l2">machtich</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">So ick vertzaegh' in mijn <rhyme label="a" type="m">verdriet</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Van vreucht mijn Vyandt sou <rhyme label="b" type="f">springhen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Maer mijn Hoep is aen dijn <rhyme label="a" type="m" corresp="#s3:l1">Goetheyt</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">End' daer van wil ick <rhyme label="b" type="f" corresp="#s3:l2">singhen</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Mijn Hert hem in dijn Hulp <rhyme label="c" type="m">verbly</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Met veel goets ghy begavet <rhyme label="c" type="m" corresp="#s3:l5">my</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Dijn Weldaet ick <rhyme label="b" type="f" corresp="#s3:l2">bekenne</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34234</id>
+    <date>
+      <year-start>1650</year-start>
+      <year-end>1650</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Gelukkig is de mens</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Jan Mommaert</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">GOdlijck-vercierde // <rhyme label="a" type="m">Vrouw</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Die vierig in mijn sinnen // <rhyme label="b" type="m">staet</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Vw’ hoogh-gevierde // <rhyme label="a" type="m" corresp="#s1:l1">trouw</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Mee-doogend’, my gewinnen // <rhyme label="b" type="m" corresp="#s1:l2">laet</rhyme>,</l>
+        <l id="s1:l5" met="3" type="+-">Op hem ’t beminnen // <rhyme label="b" type="m" corresp="#s1:l2">slaet</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Die door dijn leven // <rhyme label="c" type="m">leeft</rhyme>,</l>
+        <l id="s1:l7" met="3" type="+-">En ’t sijn begeven // <rhyme label="c" type="m" corresp="#s1:l6">heeft</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Dijn leven leeft // in <rhyme label="a" type="m">my</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">En heeft het mijn gedreven // <rhyme label="b" type="m">neer</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Mijn leven sweeft // in <rhyme label="a" type="m" corresp="#s2:l1">dy</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">En soeckt sijn s’levens leven // <rhyme label="b" type="m" corresp="#s2:l2">weer</rhyme>,</l>
+        <l id="s2:l5" met="3" type="+-">Daer u verheven // <rhyme label="b" type="m" corresp="#s2:l2">eer</rhyme></l>
+        <l id="s2:l6" met="3" type="+-">Mijn trouwe deughden // <rhyme label="c" type="m">loont</rhyme>,</l>
+        <l id="s2:l7" met="3" type="+-">En ’t hert met vreughden // <rhyme label="c" type="m" corresp="#s2:l6">kroont</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="+-">Verflaude krachten // <rhyme label="a" type="m">rijst</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">En lof-sanght u verkoren // <rhyme label="b" type="m">Bruyt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Die uw’ gedachten // <rhyme label="a" type="m" corresp="#s3:l1">spijst</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Met vreugt, en haren toren // <rhyme label="b" type="m" corresp="#s3:l2">sluyt</rhyme>:</l>
+        <l id="s3:l5" met="3" type="+-">O wel-geboren // <rhyme label="b" type="m" corresp="#s3:l2">spruyt</rhyme>!</l>
+        <l id="s3:l6" met="3" type="+-">Dijn weerdt-gepresen // <rhyme label="c" type="m">aert</rhyme></l>
+        <l id="s3:l7" met="3" type="+-">Mijn ziels genesen // <rhyme label="c" type="m" corresp="#s3:l6">baert</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="+-">Den schoon gehulden // <rhyme label="a" type="m">Krans</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">V voor-hooft heeft om-dreven // <rhyme label="b" type="m">wis</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Die vol van gulden // <rhyme label="a" type="m" corresp="#s4:l1">glans</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Der Goden, selfs door-weven // <rhyme label="b" type="m" corresp="#s4:l2">is</rhyme>,</l>
+        <l id="s4:l5" met="3" type="+-">Door u gegeven // <rhyme label="b" type="m" corresp="#s4:l2">is</rhyme></l>
+        <l id="s4:l6" met="3" type="+-">Den geur van Floras,, <rhyme label="c" type="m">schat</rhyme>,</l>
+        <l id="s4:l7" met="3" type="+-">Met ’t eel Pandoras,, <rhyme label="c" type="m" corresp="#s4:l6">vat</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="+-">Den nijdt sijn herte // <rhyme label="a" type="m">knaeght</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Om dat uw’ deught victory // <rhyme label="b" type="m">vecht</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Daer sy haer smerte // <rhyme label="a" type="m" corresp="#s5:l1">klaeght</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Ghy teeckens der gelory // <rhyme label="b" type="m" corresp="#s5:l2">recht</rhyme>,</l>
+        <l id="s5:l5" met="3" type="+-">’t Welck in memory // <rhyme label="b" type="m" corresp="#s5:l2">hecht</rhyme></l>
+        <l id="s5:l6" met="3" type="+-">Des tijdts <rhyme label="c" type="m">geweteniss</rhyme>’,</l>
+        <l id="s5:l7" met="3" type="+-">Vry van <rhyme label="c" type="m" corresp="#s5:l6">vergeteniss</rhyme>’.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="+-">Princes, die boven // <rhyme label="a" type="m">all</rhyme>’</l>
+        <l id="s6:l2" met="4" type="+-">Wat aerts is, uwen throone // <rhyme label="b" type="m">plant</rhyme>,</l>
+        <l id="s6:l3" met="4" type="+-">Daer elck u loven // <rhyme label="a" type="m" corresp="#s6:l1">sal</rhyme>,</l>
+        <l id="s6:l4" met="4" type="+-">Dat gy der maegden kroone // <rhyme label="b" type="m" corresp="#s6:l2">spant</rhyme>:</l>
+        <l id="s6:l5" met="3" type="+-">Jont my uw’ schoone // <rhyme label="b" type="m" corresp="#s6:l2">handt</rhyme></l>
+        <l id="s6:l6" met="3" type="+-">Die my voor ’t sneven // <rhyme label="c" type="m">hoet</rhyme>,</l>
+        <l id="s6:l7" met="3" type="+-">En stervend’, leven,, <rhyme label="c" type="m" corresp="#s6:l6">doet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

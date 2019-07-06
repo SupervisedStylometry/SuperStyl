@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188410</id>
+    <date>
+      <year-start>1751</year-start>
+      <year-end>1752</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="1" type="-+">Vliegt <rhyme label="a" type="m">heen</rhyme>.</l>
+        <l id="s1:l2" met="3" type="-+">O snel gewiekte <rhyme label="b" type="f">Winden</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Gaet myne Schoone <rhyme label="b" type="f" corresp="#s1:l2">vinden</rhyme>;</l>
+        <l id="s1:l4" met="1" type="-+">Vliegt <rhyme label="a" type="m" corresp="#s1:l1">heen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">O winden naer myn <rhyme label="a" type="m" corresp="#s1:l1">Klorimeen</rhyme>.</l>
+        <l id="s1:l6" met="4" type="-+">Zegt: Schoone! Damon zal u <rhyme label="c" type="f">wachten</rhyme>.</l>
+        <l id="s1:l7" met="4" type="-+">Hy uit in 't Bosch verlief-de <rhyme label="c" type="f" corresp="#s1:l6">klagten</rhyme>.</l>
+        <l id="s1:l8" met="4" type="-+">Hy kwynt van Liefde, <rhyme label="d" type="m">Klorimeen</rhyme>!</l>
+        <l id="s1:l9" met="4" type="-+">Vliegt haestig Winden vliegt toch <rhyme label="d" type="m" corresp="#s1:l8">heen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

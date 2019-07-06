@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20045</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Tweede Carileen</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">LAet ons vrolick wesen <rhyme label="a" type="m">nou</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Elck schud den aep eens uyt den <rhyme label="a" type="m" corresp="#s1:l1">mou</rhyme>,</l>
+        <l id="s1:l3" met="6" type="+-">Wacker drinckt, lustigh singht, dat het <rhyme label="b" type="m">klinckt</rhyme>,</l>
+        <l id="s1:l4" met="6" type="+-">Wat soo ziet, nou Speelmeysjes, ’t sa men hoort jou <rhyme label="c" type="m">niet</rhyme>,</l>
+        <l id="s1:l5" met="6" type="+-">Kom, singh deur, of singh veur, ghy hebt <rhyme label="d" type="m">keur</rhyme>;</l>
+        <l id="s1:l6" met="6" type="+-">Wel je prijckt, dat het niet met al en <rhyme label="e" type="m">lijckt</rhyme>;</l>
+        <l id="s1:l7" met="6" type="+-">Doch men siet, en bespiet, schoonje <rhyme label="c" type="m" corresp="#s1:l4">niet</rhyme></l>
+        <l id="s1:l8" met="2" type="+-">Een woort <rhyme label="d" type="m" corresp="#s1:l5">uyt</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">datje me graegh waert de <rhyme label="d" type="m" corresp="#s1:l5">Bruyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

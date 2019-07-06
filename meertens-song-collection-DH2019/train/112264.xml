@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>112264</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ALs ik Lieftallig <rhyme label="a" type="m">Herderskint</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Begin van myne min te <rhyme label="b" type="f">spreken</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Zegt gy wel, dat gy <rhyme label="a" type="m" corresp="#s1:l1">wedermint</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">En dat die keeten nooit zal <rhyme label="b" type="f" corresp="#s1:l2">breken</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Die met een Diamanten <rhyme label="c" type="m">strik</rhyme></l>
+        <l id="s1:l6" met="6" type="-+">Ons hertjes, ons hertjes vast sloot in een <rhyme label="c" type="m" corresp="#s1:l5">oogenblik</rhyme>.</l>
+        <l id="s1:l7" met="4" type="-+">Maar, honingbytje van myn <rhyme label="d" type="m">jeugt</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">In dees' verrukking onzer <rhyme label="e" type="f">zinnen</rhyme></l>
+        <l id="s1:l9" met="4" type="+-">Die wederzyds ons zo <rhyme label="d" type="m" corresp="#s1:l7">verheugt</rhyme>,</l>
+        <l id="s1:l10" met="6" type="-+">Is dat genoeg gedaan, te zeggen, wy <rhyme label="e" type="f" corresp="#s1:l8">beminnen</rhyme>?</l>
+        <l id="s1:l11" met="4" type="-+">Gy schreit myn roosje, ach! ach! ick <rhyme label="f" type="m">weet</rhyme></l>
+        <l id="s1:l12" met="4" type="-+">De reeden van dat <rhyme label="f" type="m" corresp="#s1:l11">bitterleet</rhyme>.</l>
+        <l id="s1:l13" met="4" type="-+">Weg, weg, met eeden. Onze <rhyme label="g" type="m">min</rhyme></l>
+        <l id="s1:l14" met="4" type="-+">Stelt geenzints daar verzekering <rhyme label="g" type="m" corresp="#s1:l13">in</rhyme>.</l>
+        <l id="s1:l15" met="6" type="-+">Een zucht, een Kusje zegt genoeg hoe wy <rhyme label="e" type="f" corresp="#s1:l8">beminnen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>123412</id>
+    <date>
+      <year-start>1717</year-start>
+      <year-end>1717</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="theatre">theater</category>
+    </categories>
+  <author>Andries Pels</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">'k Verstaa het vlooijen uit de <rhyme label="a" type="m">kunst</rhyme>;</l>
+        <l id="s1:l2" met="2" type="-+">Ut, ré, mi, <rhyme label="b" type="m">fa</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Ik doe 't uit liefde, en zoek jouw <rhyme label="a" type="m" corresp="#s1:l1">gunst</rhyme>;</l>
+        <l id="s1:l4" met="2" type="-+">Mi, fa, sól, <rhyme label="b" type="m" corresp="#s1:l2">la</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Schoon lief wil my <rhyme label="c" type="f">verhooren</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Ré, mi, fa, <rhyme label="d" type="m">sól</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Of Broershart gaat <rhyme label="c" type="f" corresp="#s1:l5">verlooren</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Ré, mi, fa, <rhyme label="d" type="m" corresp="#s1:l6">sól</rhyme>,</l>
+        <l id="s1:l9" met="4" type="-+">En met B duur, en met B <rhyme label="d" type="m" corresp="#s1:l6">mól</rhyme>,</l>
+        <l id="s1:l10" met="2" type="-+">Ré, mi, fa, <rhyme label="d" type="m" corresp="#s1:l6">sól</rhyme>,</l>
+        <l id="s1:l11" met="4" type="+-">En met B duur, en met B <rhyme label="d" type="m" corresp="#s1:l6">mól</rhyme>,</l>
+        <l id="s1:l12" met="2" type="-+">Ré, mi, fa, <rhyme label="d" type="m" corresp="#s1:l6">sól</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

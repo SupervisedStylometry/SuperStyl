@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111690</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Rozemondje troeteldiertje</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">'t LOos gevleugelt <rhyme label="a" type="f">Minnewichtje</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Schoot vergeefs zyn laatste <rhyme label="a" type="f" corresp="#s1:l1">schichtje</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Onlangs op myn yser <rhyme label="b" type="m">hert</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Als hy, met bekreeten <rhyme label="c" type="f">oogen</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Klaagden aan Venus syne <rhyme label="b" type="m" corresp="#s1:l3">smert</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

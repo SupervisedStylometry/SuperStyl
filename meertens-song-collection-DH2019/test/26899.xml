@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26899</id>
+    <date>
+      <year-start>1561</year-start>
+      <year-end>1561</year-end>
+    </date>
+    <location>
+      <orginal-name>londen</orginal-name>
+      <standard-name>London, England</standard-name>
+      <coordinates>
+        <lon>51.5073219</lon>
+        <lat>-0.1276474</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Nun freut euch liebe Christen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HEer, hoe syn myn vyanden <rhyme label="a" type="m">veel</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Die my te hoop <rhyme label="b" type="f">aenuallen</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">Vele segghen tot myner <rhyme label="a" type="m" corresp="#s1:l1">siel</rhyme>:</l>
+        <l id="s1:l4" met="3" type="-+">Gods heyl is hem <rhyme label="b" type="f" corresp="#s1:l2">misuallen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Męr du, O Heer, bist myne <rhyme label="c" type="m">schild</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Die my tot eeren setten <rhyme label="c" type="m" corresp="#s1:l5">wilt</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">End myn hoofd oock <rhyme label="d" type="f">oprichten</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Tot den Heeren ick roupen <rhyme label="a" type="m">wil</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Hem myn stem niet <rhyme label="b" type="f">verbęrghen</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">End hy sal my andwoorden <rhyme label="a" type="m" corresp="#s2:l1">stil</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Van synen heylghen <rhyme label="b" type="f" corresp="#s2:l2">bęrghe</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Ick sliep sorghloos end bin <rhyme label="c" type="m">ontweckt</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Mit syner hulp thien duysent <rhyme label="c" type="m" corresp="#s2:l5">knecht</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Moghen my niet <rhyme label="d" type="f">beschaden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Sta op, O Heer, behoud doch <rhyme label="a" type="m">my</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Want du all myn <rhyme label="b" type="f">vyanden</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Heefst gheslaen, end ghebroken <rhyme label="a" type="m" corresp="#s3:l1">vry</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Oock der godloosen <rhyme label="b" type="f" corresp="#s3:l2">tanden</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">De saligheyt, Heer, is van <rhyme label="c" type="m">dy</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">End dynen volcke stedes <rhyme label="c" type="m" corresp="#s3:l5">by</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Is dyns seghens <rhyme label="d" type="f">ghenade</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

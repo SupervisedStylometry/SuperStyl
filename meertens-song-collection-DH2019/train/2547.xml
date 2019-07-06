@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2547</id>
+    <date>
+      <year-start>1622</year-start>
+      <year-end>1622</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Phoebe qui ce même jour</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>G.A. Bredero</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Als ick in myn <rhyme label="a" type="m">gedacht</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Der scheps'len aart <rhyme label="b" type="m">deur-schouw</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">'k En vind geen meerder <rhyme label="a" type="m" corresp="#s1:l1">macht</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Als 't vermogen van de <rhyme label="b" type="m" corresp="#s1:l2">Vrouw</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Die met haer <rhyme label="c" type="m">ghesicht</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">'s Mans moed <rhyme label="c" type="m" corresp="#s1:l5">verlicht</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Die met haer <rhyme label="c" type="m" corresp="#s1:l5">ghesicht</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">'s Mans moed <rhyme label="c" type="m" corresp="#s1:l5">verlicht</rhyme>,</l>
+        <l id="s1:l9" met="2" type="-+">Van haer last, van haer <rhyme label="d" type="m">leyt</rhyme>,</l>
+        <l id="s1:l10" met="2" type="-+">Van haar smart, van haer <rhyme label="e" type="m">smaet</rhyme>,</l>
+        <l id="s1:l11" met="2" type="+-">Van haer quael, van haer <rhyme label="e" type="m" corresp="#s1:l10">quaet</rhyme>,</l>
+        <l id="s1:l12" met="2" type="-+">Van haer hoon, van haer <rhyme label="e" type="m" corresp="#s1:l10">haet</rhyme></l>
+        <l id="s1:l13" met="2" type="-+">Die sick ter vlucht <rhyme label="d" type="m" corresp="#s1:l9">verspreyt</rhyme>,</l>
+        <l id="s1:l14" met="5" type="-+">Door een swenkje van haer <rhyme label="d" type="m" corresp="#s1:l9">vriendelijcheyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">O Vrou! o's werelts <rhyme label="a" type="m">pracht</rhyme>!</l>
+        <l id="s2:l2" met="3" type="-+">O Aerd-rijckx prael en <rhyme label="b" type="m">pronck</rhyme>!</l>
+        <l id="s2:l3" met="3" type="-+">Ghy smoort der Reusen <rhyme label="a" type="m" corresp="#s2:l1">cracht</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Met een minlijcke <rhyme label="b" type="m" corresp="#s2:l2">lonck</rhyme>:</l>
+        <l id="s2:l5" met="2" type="-+">De moedichste <rhyme label="c" type="m">Heldt</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">Of man in't <rhyme label="c" type="m" corresp="#s2:l5">velt</rhyme>,</l>
+        <l id="s2:l7" met="2" type="-+">De moedichste <rhyme label="c" type="m" corresp="#s2:l5">Heldt</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Of man in't <rhyme label="c" type="m" corresp="#s2:l5">velt</rhyme>,</l>
+        <l id="s2:l9" met="2" type="-+">Die verschrickt, die <rhyme label="d" type="m">verschiet</rhyme>,</l>
+        <l id="s2:l10" met="2" type="-+">Die verblickt, die <rhyme label="e" type="m">verblauwt</rhyme>,</l>
+        <l id="s2:l11" met="2" type="+-">Die verloomt, die <rhyme label="e" type="m" corresp="#s2:l10">verlauwt</rhyme>,</l>
+        <l id="s2:l12" met="2" type="-+">Die verflout, die <rhyme label="e" type="m" corresp="#s2:l10">verflaauwt</rhyme>,</l>
+        <l id="s2:l13" met="2" type="-+">En sackt in soet <rhyme label="d" type="m" corresp="#s2:l9">verdriet</rhyme>,</l>
+        <l id="s2:l14" met="5" type="-+">So haest als hy u schoone oogen <rhyme label="d" type="m" corresp="#s2:l9">siet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">De Koningh vol <rhyme label="a" type="m">ghewelt</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Of d'aldergrootste <rhyme label="b" type="m">Prins</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Van moghentheyt, en <rhyme label="a" type="m" corresp="#s3:l1">gelt</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Is nietich, kleyn, en <rhyme label="b" type="m" corresp="#s3:l2">kints</rhyme>;</l>
+        <l id="s3:l5" met="2" type="-+">Al schijnt hy <rhyme label="c" type="m">verwoet</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">Of groots van <rhyme label="c" type="m" corresp="#s3:l5">moet</rhyme>,</l>
+        <l id="s3:l7" met="2" type="-+">Al schijnt hy <rhyme label="c" type="m" corresp="#s3:l5">verwoet</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">Of groots van <rhyme label="c" type="m" corresp="#s3:l5">moet</rhyme>,</l>
+        <l id="s3:l9" met="2" type="-+">Op syn macht, op't <rhyme label="d" type="m">gebien</rhyme>,</l>
+        <l id="s3:l10" met="2" type="-+">Op syn staf, op syn <rhyme label="e" type="m">staet</rhyme>,</l>
+        <l id="s3:l11" met="2" type="+-">Op zyn rijck, op zyn <rhyme label="e" type="m" corresp="#s3:l10">raed</rhyme>,</l>
+        <l id="s3:l12" met="2" type="-+">Op zyn deughd', op zyn <rhyme label="e" type="m" corresp="#s3:l10">daed</rhyme>,</l>
+        <l id="s3:l13" met="2" type="-+">Op zyn land, op zyn <rhyme label="d" type="m" corresp="#s3:l9">lien</rhyme>,</l>
+        <l id="s3:l14" met="5" type="-+">Hy word gedweeg door't Vrouwe-Beeld te <rhyme label="d" type="m" corresp="#s3:l9">sien</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Ist te verwond'ren <rhyme label="a" type="m">dan</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Dat ick verwonnen <rhyme label="b" type="m">ben</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Daer dwinger noch <rhyme label="a" type="m" corresp="#s4:l1">Tyran</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Geensins bestaen en <rhyme label="b" type="m" corresp="#s4:l2">ken</rhyme>?</l>
+        <l id="s4:l5" met="2" type="-+">Al waer ick een <rhyme label="c" type="m">Graaf</rhyme>,</l>
+        <l id="s4:l6" met="2" type="-+">Ick wierd een <rhyme label="c" type="m" corresp="#s4:l5">slaaf</rhyme>,</l>
+        <l id="s4:l7" met="2" type="-+">Al waer ick een <rhyme label="c" type="m" corresp="#s4:l5">Graaf</rhyme>,</l>
+        <l id="s4:l8" met="2" type="-+">Ick wierd een <rhyme label="c" type="m" corresp="#s4:l5">slaaf</rhyme>,</l>
+        <l id="s4:l9" met="2" type="-+">Van de Vrouw die ick <rhyme label="d" type="m">min</rhyme>,</l>
+        <l id="s4:l10" met="2" type="-+">Die ick lief, die ick <rhyme label="e" type="m">loof</rhyme>,</l>
+        <l id="s4:l11" met="2" type="+-">Die ick stroock, die ick <rhyme label="e" type="m" corresp="#s4:l10">stoof</rhyme>,</l>
+        <l id="s4:l12" met="2" type="-+">Die ick huys, die ick <rhyme label="e" type="m" corresp="#s4:l10">hoof</rhyme></l>
+        <l id="s4:l13" met="2" type="-+">In myn ziel, in mijn <rhyme label="d" type="m" corresp="#s4:l9">sin</rhyme>:</l>
+        <l id="s4:l14" met="5" type="-+">Want in mijn hart daer vvoont een Ionghvrou <rhyme label="d" type="m" corresp="#s4:l9">in</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25058</id>
+    <date>
+      <year-start>1425</year-start>
+      <year-end>1430</year-end>
+    </date>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Och, zal min hoffen ende miin langher <rhyme label="a" type="f">leyden</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">nicht helfen, zo ist miin heyl <rhyme label="b" type="f">verloren</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Miin leyt das ist gezworen by dem <rhyme label="a" type="f" corresp="#s1:l1">eyden</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">tso zucher noet ich waert <rhyme label="b" type="f" corresp="#s1:l2">gheboren</rhyme>!</l>
+        <l id="s1:l5" met="3" type="-+">Das mach eyn wijf wal <rhyme label="c" type="m">wenden</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">van yr ghenaden <rhyme label="d" type="f">zint</rhyme>.</l>
+        <l id="s1:l7" met="3" type="-+">Mit ter liever en kÜnde ich nie <rhyme label="c" type="m" corresp="#s1:l5">wenden</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">daer van miin vrude <rhyme label="d" type="f" corresp="#s1:l6">zwint</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Och, wolde die hertz lieve zich <rhyme label="a" type="f">erbarmen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">onde helfen mer tso zinne <rhyme label="b" type="f">weder</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">des weer eyn zelijch stont mich zenden <rhyme label="a" type="f" corresp="#s2:l1">armen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">want al miin hoffen leghz <rhyme label="b" type="f" corresp="#s2:l2">neder</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">Ich neem des al voer <rhyme label="c" type="m">gÜete</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">was mer die lieve <rhyme label="d" type="f">dÜet</rhyme>.</l>
+        <l id="s2:l7" met="3" type="-+">Zi haet mer gheholden in den <rhyme label="c" type="m" corresp="#s2:l5">gloeden</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">das ich yr dienen <rhyme label="d" type="f" corresp="#s2:l6">moyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">VÜer die lÜde haen ich zulch <rhyme label="a" type="f">ghebere</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">of mer nicht leydes <rhyme label="b" type="f">weereby</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">unde leve gaer zÜÜerlich an alle <rhyme label="a" type="f" corresp="#s3:l1">zwere</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">daer tso van menigher zorghen <rhyme label="b" type="f" corresp="#s3:l2">vry</rhyme>.</l>
+        <l id="s3:l5" met="3" type="-+">Mer god weys al miin <rhyme label="c" type="m">hertz</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">wye ich verdruevet <rhyme label="d" type="f">byn</rhyme>.</l>
+        <l id="s3:l7" met="3" type="-+">Zi hayt mer ghelayzen in der <rhyme label="c" type="m" corresp="#s3:l5">smertz</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">miin zuetz rosen <rhyme label="d" type="f" corresp="#s3:l6">gaerdeliin</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

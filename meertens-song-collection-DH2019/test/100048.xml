@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100048</id>
+    <date>
+      <year-start>1652</year-start>
+      <year-end>1652</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Mascarade</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">TRijntje, Kijntje, slaap niet <rhyme label="a" type="m">meer</rhyme>,</l>
+        <l id="s1:l2" met="2" type="+-">Alsoo <rhyme label="a" type="m" corresp="#s1:l1">zeer</rhyme></l>
+        <l id="s1:l3" met="5" type="+-">Of ik wekje, met ien trekje, <rhyme label="a" type="m" corresp="#s1:l1">weer</rhyme>,</l>
+        <l id="s1:l4" met="2" type="+-">Hei za <rhyme label="b" type="m">dan</rhyme>,</l>
+        <l id="s1:l5" met="2" type="+-">'t Rokjen <rhyme label="b" type="m" corresp="#s1:l4">an</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Of Teunis zal betonen, wat hy <rhyme label="b" type="m" corresp="#s1:l4">kan</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Maatje, praatje noch zo <rhyme label="a" type="m">mal</rhyme>,</l>
+        <l id="s2:l2" met="2" type="+-">Wat een <rhyme label="a" type="m" corresp="#s2:l1">kal</rhyme>,</l>
+        <l id="s2:l3" met="5" type="+-">Laat me leggen, tot ik 't zeggen <rhyme label="a" type="m" corresp="#s2:l1">zal</rhyme>,</l>
+        <l id="s2:l4" met="2" type="+-">Holla <rhyme label="b" type="m">Trijn</rhyme>,</l>
+        <l id="s2:l5" met="2" type="+-">'t Magh niet <rhyme label="b" type="m" corresp="#s2:l4">zijn</rhyme>:</l>
+        <l id="s2:l6" met="5" type="-+">Kom proef eens van dit zoopje <rhyme label="b" type="m" corresp="#s2:l4">Brandewijn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">'t Glaasje, Baasje, by me <rhyme label="a" type="m">keel</rhyme>,</l>
+        <l id="s3:l2" met="2" type="+-">Dat is <rhyme label="a" type="m" corresp="#s3:l1">eel</rhyme>.</l>
+        <l id="s3:l3" met="5" type="+-">Nou dan Susje; neem je lusjen <rhyme label="a" type="m" corresp="#s3:l1">heel</rhyme>.</l>
+        <l id="s3:l4" met="2" type="+-">Hei! dats <rhyme label="b" type="m">uit</rhyme>.</l>
+        <l id="s3:l5" met="2" type="+-">Maar wat <rhyme label="b" type="m" corresp="#s3:l4">bruit</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">Wat bijt daar in mijn beenen, by mijn <rhyme label="b" type="m" corresp="#s3:l4">kuit</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">'t Vlootje, stootje, zoete <rhyme label="a" type="m">Schaap</rhyme>,</l>
+        <l id="s4:l2" met="2" type="+-">In je <rhyme label="a" type="m" corresp="#s4:l1">slaap</rhyme>,</l>
+        <l id="s4:l3" met="5" type="+-">Dat het eten, deur de spleten <rhyme label="a" type="m" corresp="#s4:l1">raap</rhyme>.</l>
+        <l id="s4:l4" met="2" type="+-">Waar ik <rhyme label="b" type="m">mee</rhyme>,</l>
+        <l id="s4:l5" met="2" type="+-">In zijn <rhyme label="b" type="m" corresp="#s4:l4">stee</rhyme>,</l>
+        <l id="s4:l6" met="5" type="-+">Mocht ik een Vlootje wezen, 'k waar al <rhyme label="b" type="m" corresp="#s4:l4">ree</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

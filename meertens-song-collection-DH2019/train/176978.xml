@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176978</id>
+    <date>
+      <year-start>1757</year-start>
+      <year-end>1757</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Zie van uw troon</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">ô Ongeluk! dat ons meest alle <rhyme label="a" type="f">dagen</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Zoo wreed vervolgt waar men zig keert of <rhyme label="b" type="m">wend</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Wie word niet moê uw onophoudlyk <rhyme label="a" type="f" corresp="#s1:l1">plagen</rhyme>?</l>
+        <l id="s1:l4" met="5" type="-+">Geen stervling daar gy by in waarde <rhyme label="b" type="m" corresp="#s1:l2">bent</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Komt gy ons weêr op dezen dag <rhyme label="a" type="f">bestormen</rhyme>?</l>
+        <l id="s2:l2" met="5" type="-+">Indien ge ô wrede! langer met ons <rhyme label="b" type="m">spot</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Zie 'k haast myn kast met Porçelein <rhyme label="a" type="f" corresp="#s2:l1">hervormen</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">In eenen spint, ô al te deerlyk <rhyme label="b" type="m" corresp="#s2:l2">lot</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Myn blauwe kom hebt gy thans weêr <rhyme label="a" type="f">gebroken</rhyme>;</l>
+        <l id="s3:l2" met="5" type="-+">Waar uit wy aten, in dit middag <rhyme label="b" type="m">uur</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Groen erten sop, dat ik met spek liet <rhyme label="a" type="f" corresp="#s3:l1">koken</rhyme>:</l>
+        <l id="s3:l4" met="5" type="-+">Weg snode pest en monster der <rhyme label="b" type="m" corresp="#s3:l2">natuur</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

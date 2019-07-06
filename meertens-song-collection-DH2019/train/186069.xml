@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>186069</id>
+    <date>
+      <year-start>1717</year-start>
+      <year-end>1717</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>A Paris sur le petit pont</melody>
+  <author>Hermanus van den Burg</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HEi Vrienden, ziet hoe stout ik <rhyme label="a" type="m">drink</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">En zwellig op uw <rhyme label="b" type="f">wenken</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Daar ik als een Kalkoenskam <rhyme label="a" type="m" corresp="#s1:l1">blink</rhyme>,</l>
+        <l id="s1:l4" met="5" type="+-">Klink klink, klink klink, 'k zal <rhyme label="b" type="f" corresp="#s1:l2">schenken</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Schoon ik al wat stamer en wat <rhyme label="a" type="m" corresp="#s1:l1">hink</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Dat kan myn' keel niet <rhyme label="b" type="f" corresp="#s1:l2">krenken</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Zoo, dat is weêr een volle <rhyme label="a" type="m">pul</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Nu moeten wy weêr <rhyme label="b" type="f">nappen</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Schoon ik 't al wat heb in myn <rhyme label="a" type="m" corresp="#s2:l1">hul</rhyme>,</l>
+        <l id="s2:l4" met="5" type="+-">Vul vul, vul vul, laat <rhyme label="b" type="f" corresp="#s2:l2">tappen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Die nu niet drinkt, is maar een <rhyme label="a" type="m" corresp="#s2:l1">prul</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">'k Zal by Bachus hem <rhyme label="b" type="f" corresp="#s2:l2">beklappen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Zoo goê vrienden dat 's ter <rhyme label="a" type="m">deeg</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Nu weêr eens <rhyme label="b" type="f">ingeschonken</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Saa lustig maakt. maar gaauw weêr <rhyme label="a" type="m" corresp="#s3:l1">leêg</rhyme>,</l>
+        <l id="s3:l4" met="5" type="+-">Veeg veeg, veeg veeg, 'k word <rhyme label="b" type="f" corresp="#s3:l2">dronken</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Zoo haast ons 't glas staat in de <rhyme label="a" type="m" corresp="#s3:l1">weeg</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Begeeven w' ons tot <rhyme label="b" type="f" corresp="#s3:l2">ronken</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Bloet, wat stygt die Wyn naar myn <rhyme label="a" type="m">kop</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Hei, 't glas is al <rhyme label="b" type="f">gebroken</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">'k Heb hier Tabak, zoo ligt als <rhyme label="a" type="m" corresp="#s4:l1">Hop</rhyme>,</l>
+        <l id="s4:l4" met="5" type="+-">Stop stop, stop stop, die <rhyme label="b" type="f" corresp="#s4:l2">smooken</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">Zy baart weêr dorst, en droogt den <rhyme label="a" type="m" corresp="#s4:l1">krop</rhyme>.</l>
+        <l id="s4:l6" met="3" type="-+">Maar eerst drinken, eer wy <rhyme label="b" type="f" corresp="#s4:l2">rooken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

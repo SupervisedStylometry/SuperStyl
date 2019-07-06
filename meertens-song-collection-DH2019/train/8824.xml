@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8824</id>
+    <date>
+      <year-start>1625</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Nun freut euch liebe Christen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GHy alle Volck in alle <rhyme label="a" type="m">Landt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Juycht Godt met bly <rhyme label="b" type="f">gheschalle</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">De Alderhoochste Heer <rhyme label="a" type="m" corresp="#s1:l1">bekant</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Is schricklijck over <rhyme label="b" type="f" corresp="#s1:l2">alle</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Een Coninck opt gheheel <rhyme label="c" type="m">Aertrijck</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Seer sterck, Jae niemant syns <rhyme label="c" type="m" corresp="#s1:l5">ghelijck</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Al hier int Aertsche <rhyme label="b" type="f" corresp="#s1:l2">Dalle</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hy onder ons bedwonghen <rhyme label="a" type="m">gheeft</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Die Volcken al te <rhyme label="b" type="f">samen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Wt Lieffd' hy ons Vercoren <rhyme label="a" type="m" corresp="#s2:l1">heeft</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Tot syne <rhyme label="b" type="f" corresp="#s2:l2">Erffghenamen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Met Vreuchden en met grooter <rhyme label="c" type="m">Eer</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Is op ghevaren Godt de <rhyme label="c" type="m" corresp="#s2:l5">HEER</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Loffsingt hem al te <rhyme label="b" type="f" corresp="#s2:l2">samen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Loffsinghet Godt die Coninck <rhyme label="a" type="m">is</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Loffsingt hem al u <rhyme label="b" type="f">Leven</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Des Werelts HEER is hy <rhyme label="a" type="m" corresp="#s3:l1">ghewis</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Den Loffsangh' hem wilt <rhyme label="b" type="f" corresp="#s3:l2">gheven</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Godt is een Coninck nae t' <rhyme label="c" type="m">Betaem</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Hooch over alle Heyden <rhyme label="c" type="m" corresp="#s3:l5">tsaem</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Op synen Heyl'ghen <rhyme label="b" type="f" corresp="#s3:l2">Stoele</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Die Heyden en die Vorsten <rhyme label="a" type="m">vroom</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Die moeten haer <rhyme label="b" type="f">begheven</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Den rechten Godt des <rhyme label="a" type="m" corresp="#s4:l1">Abraham</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Wel Eenich te <rhyme label="b" type="f" corresp="#s4:l2">verheven</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Want onsen Godt betaemt die <rhyme label="c" type="m">Eer</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">En wort nu wel verhooghet <rhyme label="c" type="m" corresp="#s4:l5">seer</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">By Princen hier op <rhyme label="b" type="f" corresp="#s4:l2">Aerden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

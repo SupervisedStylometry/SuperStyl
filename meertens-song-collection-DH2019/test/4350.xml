@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4350</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Granida prinses</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">OP, mijn <rhyme label="a" type="f">wit-gehairde</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">Swart-gebekte <rhyme label="b" type="f">bode</rhyme>!</l>
+        <l id="s1:l3" met="5" type="+-">Metter vaart, dit blankke velt <rhyme label="c" type="m">door-rent</rhyme>;</l>
+        <l id="s1:l4" met="3" type="+-">Op, mijn brein! te <rhyme label="a" type="f" corresp="#s1:l1">paarde</rhyme>;</l>
+        <l id="s1:l5" met="3" type="+-">'t Is op 't hoogst van <rhyme label="b" type="f" corresp="#s1:l2">node'</rhyme>;</l>
+        <l id="s1:l6" met="5" type="+-">VVekt de Faam; op dat haar gansche <rhyme label="c" type="m" corresp="#s1:l3">bend'</rhyme>,</l>
+        <l id="s1:l7" met="5" type="-+">Zig spoei te post, voor 't krieken van den <rhyme label="d" type="m">dag</rhyme>;</l>
+        <l id="s1:l8" met="6" type="-+">Op dat het twede Athenen zie waar 't op roe men <rhyme label="d" type="m" corresp="#s1:l7">mag</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

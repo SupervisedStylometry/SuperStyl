@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188350</id>
+    <date>
+      <year-start>1780</year-start>
+      <year-end>1780</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">FOntaines, arbres &amp; <rhyme label="a" type="m">Ruisseaux</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Vous qui sçavez mes <rhyme label="a" type="m" corresp="#s1:l1">maux</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Et pour qui je <rhyme label="b" type="f">soupire</rhyme>:</l>
+        <l id="s1:l4" met="2" type="-+">Gardez vous <rhyme label="c" type="m">bien</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Gardez vous <rhyme label="c" type="m" corresp="#s1:l4">bien</rhyme>,</l>
+        <l id="s1:l6" met="2" type="+-">De <rhyme label="b" type="f" corresp="#s1:l3">Ledire</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Ou dites le si <rhyme label="d" type="m">bas</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Que les Echos des <rhyme label="d" type="m" corresp="#s1:l7">Bois</rhyme>:</l>
+        <l id="s1:l9" met="3" type="-+">Ne vous entendent <rhyme label="d" type="m" corresp="#s1:l7">pas</rhyme>,</l>
+        <l id="s1:l10" met="3" type="+-">Oserai je <rhyme label="b" type="f" corresp="#s1:l3">dire</rhyme>,</l>
+        <l id="s1:l11" met="3" type="+-">Pour qui je <rhyme label="b" type="f" corresp="#s1:l3">soupire</rhyme>,</l>
+        <l id="s1:l12" met="3" type="+-">O serai je <rhyme label="b" type="f" corresp="#s1:l3">dire</rhyme>,</l>
+        <l id="s1:l13" met="3" type="+-">Qui m'at sçu <rhyme label="e" type="m">charmer</rhyme>:</l>
+        <l id="s1:l14" met="4" type="-+">Non, non je n'ôserai <rhyme label="e" type="m" corresp="#s1:l13">nommer</rhyme>,</l>
+        <l id="s1:l15" met="3" type="-+">L'object de mon <rhyme label="b" type="f" corresp="#s1:l3">Martire</rhyme>,</l>
+        <l id="s1:l16" met="3" type="-+">Je crains votre <rhyme label="f" type="m">couroux</rhyme>,</l>
+        <l id="s1:l17" met="3" type="-+">Si je dis... que c'est <rhyme label="f" type="m" corresp="#s1:l16">vous</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

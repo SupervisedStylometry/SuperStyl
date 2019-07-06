@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36913</id>
+    <date>
+      <year-start>1677</year-start>
+      <year-end>1677</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Comtesse de Corsol</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O Lockaes van myn <rhyme label="a" type="m">jeught</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">O voetfel van myn <rhyme label="a" type="m" corresp="#s1:l1">vreugt</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">O blytschap van myn <rhyme label="b" type="f">leven</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">O Zeyl-steen van myn <rhyme label="c" type="m">hert</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">O Troosters' van myn <rhyme label="c" type="m" corresp="#s1:l4">smert'</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Van Godt aen my <rhyme label="b" type="f" corresp="#s1:l3">ghegheven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">O Noort-sterr' van myn <rhyme label="a" type="m">schip</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">O Honinck van myn <rhyme label="a" type="m" corresp="#s2:l1">lip</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">O eynde van myn <rhyme label="b" type="f">suchten</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">O roem van mynen <rhyme label="c" type="m">naem</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">O ziel van myn <rhyme label="c" type="m" corresp="#s2:l4">lichaem</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">O haef van myn <rhyme label="b" type="f" corresp="#s2:l3">ghenuchten</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">O schoonheydt sonder <rhyme label="a" type="m">pleck</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">O Maghet sonder <rhyme label="a" type="m" corresp="#s3:l1">vleck</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">O Leli' sonder <rhyme label="b" type="f">doren</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">O Druyfken sonder <rhyme label="c" type="m">mal</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">O Duyfken sonder <rhyme label="c" type="m" corresp="#s3:l4">gal</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Ghy zyt myn <rhyme label="b" type="f" corresp="#s3:l3">uyt-verkoren</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Myn Leven leeft door <rhyme label="a" type="m">u</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Dies ick myn leven <rhyme label="a" type="m" corresp="#s4:l1">nu</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Aen u wil <rhyme label="b" type="f">over-gheven</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Op dat uw leven <rhyme label="c" type="m">zy</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Gheneghen om met <rhyme label="c" type="m" corresp="#s4:l4">my</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">In trouwe min te <rhyme label="b" type="f" corresp="#s4:l3">leven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

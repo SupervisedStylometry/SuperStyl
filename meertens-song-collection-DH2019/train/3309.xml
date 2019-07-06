@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3309</id>
+    <date>
+      <year-start>1607</year-start>
+      <year-end>1607</year-end>
+    </date>
+    <location>
+      <orginal-name>zwolle</orginal-name>
+      <standard-name>Zwolle, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.5089759</lon>
+        <lat>6.0943765</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+    </tags>
+    <melody>Schoon lief wil mij troost geven</melody>
+    <categories>
+      <category translation="theatre">theater</category>
+    </categories>
+  <author>Zacharias Heyns</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O Werelts machtich <rhyme label="a" type="f">Rycke</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Waer is nu dyns <rhyme label="a" type="f" corresp="#s1:l1">gelycke</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Die 'thooft so steket <rhyme label="b" type="m">op</rhyme>?</l>
+        <l id="s1:l4" met="3" type="-+">Dyn overhogen <rhyme label="c" type="f">Throone</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">staet heerlick nu ten <rhyme label="c" type="f" corresp="#s1:l4">thoone</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Geresen inden <rhyme label="b" type="m" corresp="#s1:l3">top</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Nu breket door het <rhyme label="a" type="f">duyster</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Den glants en schonen <rhyme label="a" type="f" corresp="#s2:l1">luyster</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">van dyne <rhyme label="b" type="m">heerlickheyt</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Den neveldamp moet <rhyme label="c" type="f">swichten</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Dyn daeg'raet sietmen <rhyme label="c" type="f" corresp="#s2:l4">lichten</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">In voller <rhyme label="b" type="m" corresp="#s2:l3">eerlickheyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Noyt waerdy so <rhyme label="a" type="f">verheven</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Men sach noyt hoger <rhyme label="a" type="f" corresp="#s3:l1">sweven</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">dyns groten schepters <rhyme label="b" type="m">macht</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Als Aertrycks <rhyme label="c" type="f">Burgeryen</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Dy vleyen ende <rhyme label="c" type="f" corresp="#s3:l4">vryen</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">door dyns aenlockens <rhyme label="b" type="m" corresp="#s3:l3">cracht</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Nu syn des werelts <rhyme label="a" type="f">Booden</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Nu syn des menschen <rhyme label="a" type="f" corresp="#s4:l1">Gooden</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Gemack, Rijckdom en <rhyme label="b" type="m">Eer</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Die synt daer sy voor <rhyme label="c" type="f">knyelen</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Daer sy rust harer <rhyme label="c" type="f" corresp="#s4:l4">zyelen</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">By soucken meer en <rhyme label="b" type="m" corresp="#s4:l3">meer</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">O Werelt, nae dyn <rhyme label="a" type="f">wensche</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Selfs Menich Christen <rhyme label="a" type="f" corresp="#s5:l1">mensche</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Nu slapet <rhyme label="b" type="m">sorgeloos</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">In Vleyslickheyt <rhyme label="c" type="f">geseten</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">Syn plicht heeft hy <rhyme label="c" type="f" corresp="#s5:l4">vergeten</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Door dyne lusten <rhyme label="b" type="m" corresp="#s5:l3">broos</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

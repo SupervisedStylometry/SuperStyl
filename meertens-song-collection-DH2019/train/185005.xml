@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185005</id>
+    <date>
+      <year-start>1669</year-start>
+      <year-end>1669</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Aanhoor toch mijn geklaag gij ruiters</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">DE kronkelende swier van uw strikdartle <rhyme label="a" type="f">hairen</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Die langs u schouderen, als goutdraat, swieren <rhyme label="b" type="m">neêr</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">O Hageroos, schijnt <rhyme label="b" type="m" corresp="#s1:l2">eer</rhyme></l>
+        <l id="s1:l4" met="6" type="-+">Een Minnezee, die golft met Venus gulde <rhyme label="a" type="f" corresp="#s1:l1">baren</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Uw blakende oogen, die mijn siel in min <rhyme label="a" type="f">verwarren</rhyme>,</l>
+        <l id="s2:l2" met="6" type="-+">Als goude Zonnen aan uw zilvren Hemel <rhyme label="b" type="m">staan</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Ik loof gy zijt <rhyme label="b" type="m" corresp="#s2:l2">Diaan</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Of zijt gy 't niet, gy zijt dan een van hare <rhyme label="a" type="f" corresp="#s2:l1">starren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">O purpre Roosemont, wie souw voor u niet <rhyme label="a" type="f">buigen</rhyme>?</l>
+        <l id="s3:l2" met="6" type="-+">Hoe lukkig zal hy zijn die u geniet tot <rhyme label="b" type="m">loon</rhyme>!</l>
+        <l id="s3:l3" met="3" type="-+">O mont daar <rhyme label="b" type="m" corresp="#s3:l2">Minnegoôn</rhyme>,</l>
+        <l id="s3:l4" met="6" type="-+">Het Hemels Nektar en Ambroos uit koomen <rhyme label="a" type="f" corresp="#s3:l1">zuigen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">Mijn schone, die mijn hart geboeit hout aan u <rhyme label="a" type="f">hairen</rhyme>,</l>
+        <l id="s4:l2" met="6" type="-+">Wanneer uw harder hoort uw hemelsche <rhyme label="b" type="m">muzijk</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Dan neemt zijn ziel de <rhyme label="b" type="m" corresp="#s4:l2">wijk</rhyme>;</l>
+        <l id="s4:l4" met="6" type="-+">En wil uit zijne mont in uwe boezem <rhyme label="a" type="f" corresp="#s4:l1">varen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="6" type="-+">Zing met uw schelle keel vol duizent <rhyme label="a" type="f">nachtegalen</rhyme></l>
+        <l id="s5:l2" met="6" type="-+">Dat d'Echo weergalm op uw schelle en brave <rhyme label="b" type="m">toon</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Tot dat al d' <rhyme label="b" type="m" corresp="#s5:l2">Akkergoôn</rhyme>,</l>
+        <l id="s5:l4" met="6" type="-+">Van vreugden hupplen in de Dimermeerse <rhyme label="a" type="f" corresp="#s5:l1">dalen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

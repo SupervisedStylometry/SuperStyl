@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>114483</id>
+    <date>
+      <year-start>1745</year-start>
+      <year-end>1745</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="kermislied" translation="fairground song">kermislied</tag>
+    </tags>
+    <melody>Dragonder mars</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">MAertje kom jy zo van <rhyme label="a" type="m">gins</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Om met my te gaen <rhyme label="b" type="f">plaizieren</rhyme>?</l>
+        <l id="s1:l3" met="4" type="+-">Kom dan buisje na de <rhyme label="a" type="m" corresp="#s1:l1">Prins</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Daer de Boertjes <rhyme label="b" type="f" corresp="#s1:l2">tierelieren</rhyme>.</l>
+        <l id="s1:l5" met="2" type="+-">Fa la la <rhyme label="c" type="f">la</rhyme> .....</l>
+        <l id="s1:l6" met="2" type="+-">Fa la la <rhyme label="c" type="f" corresp="#s1:l5">la</rhyme> .....</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Zie jy daer dat Volkje <rhyme label="a" type="m">wel</rhyme>?</l>
+        <l id="s2:l2" met="4" type="+-">Groote Dames met heur <rhyme label="b" type="f">Hanssen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Die gaen mee al even <rhyme label="a" type="m" corresp="#s2:l1">snel</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Op het Jong Spul nu eens <rhyme label="b" type="f" corresp="#s2:l2">Danssen</rhyme>.</l>
+        <l id="s2:l5" met="2" type="+-">Fa la la <rhyme label="c" type="f">la</rhyme> .....</l>
+        <l id="s2:l6" met="2" type="+-">Fa la la <rhyme label="c" type="f" corresp="#s2:l5">la</rhyme> .....</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Stap wat rasjes, het wort <rhyme label="a" type="m">laet</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Wilt u aen die Zwier niet <rhyme label="b" type="f">kreunen</rhyme>:</l>
+        <l id="s3:l3" met="4" type="+-">Kanjert is myn <rhyme label="a" type="m" corresp="#s3:l1">bestemaet</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Hy zal eerst voor my <rhyme label="b" type="f" corresp="#s3:l2">opdreunen</rhyme>.</l>
+        <l id="s3:l5" met="2" type="+-">Fa la la la <rhyme label="c" type="f">la</rhyme> .....</l>
+        <l id="s3:l6" met="2" type="+-">Fa la la la <rhyme label="c" type="f" corresp="#s3:l5">la</rhyme> .....</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Kanjert, daer 's een <rhyme label="a" type="m">Dikketon</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Speul nu reys de Stichtse <rhyme label="b" type="f">Vreede</rhyme>.</l>
+        <l id="s4:l3" met="4" type="+-">'k Wist wel, Maertje, dat je 't <rhyme label="a" type="m" corresp="#s4:l1">kon</rhyme>;</l>
+        <l id="s4:l4" met="4" type="+-">Want jou Oogjes Danssen <rhyme label="b" type="f" corresp="#s4:l2">meede</rhyme>.</l>
+        <l id="s4:l5" met="2" type="+-">Fa la la la <rhyme label="c" type="f">la</rhyme> .....</l>
+        <l id="s4:l6" met="2" type="+-">Fa la la la <rhyme label="c" type="f" corresp="#s4:l5">la</rhyme> .....</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Luister! de Fiool roept <rhyme label="a" type="m">piep</rhyme>:</l>
+        <l id="s5:l2" met="4" type="+-">Nu eens lustig aen het <rhyme label="b" type="f">kussen</rhyme>;</l>
+        <l id="s5:l3" met="4" type="+-">Maer my dogt, de Speulman <rhyme label="a" type="m" corresp="#s5:l1">riep</rhyme></l>
+        <l id="s5:l4" met="4" type="+-">Weer aen 't Dansse <rhyme label="b" type="f" corresp="#s5:l2">ondertussen</rhyme>.</l>
+        <l id="s5:l5" met="2" type="+-">Fa la la la <rhyme label="c" type="f">la</rhyme> .....</l>
+        <l id="s5:l6" met="2" type="+-">Fa la la la <rhyme label="c" type="f" corresp="#s5:l5">la</rhyme> .....</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Speul dan de Dragonders <rhyme label="a" type="m">Mars</rhyme>,</l>
+        <l id="s6:l2" met="4" type="+-">Hoe de Meisjes gaen <rhyme label="b" type="f">spanceeren</rhyme>:</l>
+        <l id="s6:l3" met="4" type="+-">Yder avondtje wat <rhyme label="a" type="m" corresp="#s6:l1">vars</rhyme>.</l>
+        <l id="s6:l4" met="4" type="+-">Daer is nu verschot van <rhyme label="b" type="f" corresp="#s6:l2">Heeren</rhyme>.</l>
+        <l id="s6:l5" met="2" type="+-">Fa la la la <rhyme label="c" type="f">la</rhyme> .....</l>
+        <l id="s6:l6" met="2" type="+-">Fa la la la <rhyme label="c" type="f" corresp="#s6:l5">la</rhyme> .....</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">Hoe wat duiker wat doet <rhyme label="a" type="m">Styn</rhyme>?</l>
+        <l id="s7:l2" met="4" type="+-">Gaet zy met dien Heer <rhyme label="b" type="f">laveyen</rhyme>?</l>
+        <l id="s7:l3" met="4" type="+-">Wel voor eerst zal 't lachen <rhyme label="a" type="m" corresp="#s7:l1">zyn</rhyme>:</l>
+        <l id="s7:l4" met="4" type="+-">Maer zy kon daer na wel <rhyme label="b" type="f" corresp="#s7:l2">schreyen</rhyme>.</l>
+        <l id="s7:l5" met="2" type="+-">Fa la la la <rhyme label="c" type="f">la</rhyme> .....</l>
+        <l id="s7:l6" met="2" type="+-">Fa la la la <rhyme label="c" type="f" corresp="#s7:l5">la</rhyme> .....</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="+-">Krelis, wel dat 's leelyk, <rhyme label="a" type="m">Vrindt</rhyme>,</l>
+        <l id="s8:l2" met="4" type="+-">Laet jy zo jou Meisje <rhyme label="b" type="f">glyen</rhyme>?</l>
+        <l id="s8:l3" met="4" type="+-">Laet jy zo die maegre <rhyme label="a" type="m" corresp="#s8:l1">smint</rhyme></l>
+        <l id="s8:l4" met="4" type="+-">Met heur na zyn zin <rhyme label="b" type="f" corresp="#s8:l2">betyen</rhyme>?</l>
+        <l id="s8:l5" met="2" type="+-">Fa la la la <rhyme label="c" type="f">la</rhyme> .....</l>
+        <l id="s8:l6" met="2" type="+-">Fa la la la <rhyme label="c" type="f" corresp="#s8:l5">la</rhyme> .....</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="+-">Wel! wat brust my tog die <rhyme label="a" type="m">Meit</rhyme></l>
+        <l id="s9:l2" met="4" type="+-">Laet zy aen de Priktol <rhyme label="b" type="f">loopen</rhyme>:</l>
+        <l id="s9:l3" met="4" type="+-">Zy zal duske <rhyme label="a" type="m" corresp="#s9:l1">Vroolykheit</rhyme></l>
+        <l id="s9:l4" met="4" type="+-">Wel met groote Schangt <rhyme label="b" type="f" corresp="#s9:l2">bekoopen</rhyme>.</l>
+        <l id="s9:l5" met="2" type="+-">Fa la la la <rhyme label="c" type="f">la</rhyme> .....</l>
+        <l id="s9:l6" met="2" type="+-">Fa la la la <rhyme label="c" type="f" corresp="#s9:l5">la</rhyme> .....</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="+-">Maertje, gaen wy nu na <rhyme label="a" type="m">huys</rhyme></l>
+        <l id="s10:l2" met="4" type="+-">Mêe met brokken zitten <rhyme label="b" type="f">Schranssen</rhyme>.</l>
+        <l id="s10:l3" met="4" type="+-">Het wordt hier voor ons niet <rhyme label="a" type="m" corresp="#s10:l1">pluys</rhyme>;</l>
+        <l id="s10:l4" met="4" type="+-">Al dat Volkje moet nog <rhyme label="b" type="f" corresp="#s10:l2">Danssen</rhyme>.</l>
+        <l id="s10:l5" met="2" type="+-">Fa la la la <rhyme label="c" type="f">la</rhyme> .....</l>
+        <l id="s10:l6" met="2" type="+-">Fa la la la <rhyme label="c" type="f" corresp="#s10:l5">la</rhyme> .....</l>
+      </lg>
+    </lg>
+  </text>
+</song>

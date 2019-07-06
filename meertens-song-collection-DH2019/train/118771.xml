@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>118771</id>
+    <date>
+      <year-start>1687</year-start>
+      <year-end>1687</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="ratelaarslied" translation="nightwatchman's song">ratelaarslied</tag>
+    </tags>
+    <melody>Psalm 100 Datheen</melody>
+    <categories>
+      <category translation="work">werk</category>
+    </categories>
+  <author>Willem Sluiter</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">De klock heeft twaalf, het is <rhyme label="a" type="m">mid-nagt</rhyme>.</l>
+        <l id="s1:l2" met="4" type="-+">Godt houd' nu over ons de <rhyme label="a" type="m" corresp="#s1:l1">wagt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Die nimmermeer en slaept nog <rhyme label="b" type="m">sluimt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Maer waekt door 's werelds heele <rhyme label="b" type="m" corresp="#s1:l3">ruimt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

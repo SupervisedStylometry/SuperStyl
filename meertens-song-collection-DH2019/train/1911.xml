@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1911</id>
+    <date>
+      <year-start>1615</year-start>
+      <year-end>1615</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">ICk vveet een seer schoon <rhyme label="a" type="m">Godin</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">VVaerom ick lijd veel <rhyme label="b" type="m">smert</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">En sy houdt my met haer <rhyme label="a" type="m" corresp="#s1:l1">min</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Dus lijd ick pijn in ’t <rhyme label="b" type="m" corresp="#s1:l2">hert</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Om dees vrou, daer ich <rhyme label="c" type="m">trou</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Om dees vrou daer ick seer <rhyme label="d" type="m">goet</rhyme></l>
+        <l id="s1:l7" met="3" type="+-">Veel om lijden <rhyme label="d" type="m" corresp="#s1:l6">moet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Maer als ick aensach die <rhyme label="a" type="m">deucht</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">En edelheyt van <rhyme label="b" type="m">haer</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Soo vverde ick seer <rhyme label="a" type="m" corresp="#s2:l1">verheucht</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">En bracht in't <rhyme label="b" type="m" corresp="#s2:l2">openbaer</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Haer manier, en <rhyme label="c" type="m">bestier</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Haer manier ende haer <rhyme label="d" type="m">deucht</rhyme></l>
+        <l id="s2:l7" met="3" type="+-">VVracht in mijn veel <rhyme label="d" type="m" corresp="#s2:l6">vreucht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Och mocht ick met lusten <rhyme label="a" type="m">vry</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">VVesen u Herder <rhyme label="b" type="m">teer</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Dan soo soud ick hoeden <rhyme label="a" type="m" corresp="#s3:l1">bly</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">V schapen met veel <rhyme label="b" type="m" corresp="#s3:l2">eer</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">In een vvey, en <rhyme label="c" type="m">valey</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">In een vvey die staet seer <rhyme label="d" type="m">groen</rhyme></l>
+        <l id="s3:l7" met="3" type="+-">Soud ick mijn gaen <rhyme label="d" type="m" corresp="#s3:l6">spoen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Daer soud ickse voeden <rhyme label="a" type="m">vvel</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Na u believen <rhyme label="b" type="m">reyn</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">En ick soud mijn spoeden <rhyme label="a" type="m" corresp="#s4:l1">snel</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Tot u vee in't <rhyme label="b" type="m" corresp="#s4:l2">gemeyn</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">En ick sou, edel <rhyme label="c" type="m">vrou</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">En ick soude dan seer <rhyme label="d" type="m">eel</rhyme></l>
+        <l id="s4:l7" met="3" type="+-">V vee maken <rhyme label="d" type="m" corresp="#s4:l6">veel</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Daerom mijn Princes doch <rhyme label="a" type="m">jont</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Te vvesen u <rhyme label="b" type="m">dienaer</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Soo sal ick in corten <rhyme label="a" type="m" corresp="#s5:l1">stondt</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Onse schapen te <rhyme label="b" type="m" corresp="#s5:l2">gaer</rhyme></l>
+        <l id="s5:l5" met="4" type="+-">Hoeden bly, int vvoudt <rhyme label="c" type="m">vry</rhyme>,</l>
+        <l id="s5:l6" met="4" type="-+">Hoeden bly voor ons <rhyme label="d" type="m">Godin</rhyme>,</l>
+        <l id="s5:l7" met="3" type="+-">Tot onser <rhyme label="d" type="m" corresp="#s5:l6">ghevvin</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176158</id>
+    <date>
+      <year-start>1640</year-start>
+      <year-end>1640</year-end>
+    </date>
+    <location>
+      <orginal-name>deventer</orginal-name>
+      <standard-name>Deventer, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.2532272</lon>
+        <lat>6.1584725</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 150 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacobus Revius</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">GEeft den Heere danck en <rhyme label="a" type="m">lof</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Prijst hem in syn heylich <rhyme label="a" type="m" corresp="#s1:l1">hof</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Inden hemel schoon <rhyme label="b" type="m">gewracht</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Wtgespannen door syn <rhyme label="b" type="m" corresp="#s1:l3">macht</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">God den Heere zy <rhyme label="c" type="f">verheven</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">In syn daden <rhyme label="d" type="m">ongetelt</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Daden, die van syn <rhyme label="d" type="m" corresp="#s1:l6">gewelt</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Claer getuygenisse <rhyme label="c" type="f" corresp="#s1:l5">geven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Looft den Heere met de <rhyme label="a" type="m">stem</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Der basuyne. lovet <rhyme label="a" type="m" corresp="#s2:l1">hem</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Met het roeren vande <rhyme label="b" type="m">luyt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Op de harpe, op de <rhyme label="b" type="m" corresp="#s2:l3">fluyt</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Op de trommel wilt hem <rhyme label="c" type="f">loven</rhyme>.</l>
+        <l id="s2:l6" met="4" type="+-">Met het soete <rhyme label="d" type="m">snaren-spel</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Met de orgels claer en <rhyme label="d" type="m" corresp="#s2:l6">hel</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Prijst den Heere van hier <rhyme label="c" type="f" corresp="#s2:l5">boven</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Geeft den Heere roem en <rhyme label="a" type="m">danck</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Met der cymbalen <rhyme label="a" type="m" corresp="#s3:l1">geclanck</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Met der cymbalen <rhyme label="b" type="m">geschal</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Prijst hem, vrolijck, boven <rhyme label="b" type="m" corresp="#s3:l3">al</rhyme>.</l>
+        <l id="s3:l5" met="4" type="+-">Alles moet hem eer <rhyme label="c" type="f">bewijsen</rhyme>:</l>
+        <l id="s3:l6" met="4" type="+-">Alles wat ter werelt <rhyme label="d" type="m">leeft</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Alles wat een adem <rhyme label="d" type="m" corresp="#s3:l6">heeft</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">Moet den Heere eeuwich <rhyme label="c" type="f" corresp="#s3:l5">prijsen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

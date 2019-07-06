@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100105</id>
+    <date>
+      <year-start>1652</year-start>
+      <year-end>1652</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Arnold Bon</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">BEaux lieux, sejour <rhyme label="a" type="m">delicieux</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Des Nimphes d'Amour &amp; des <rhyme label="a" type="m" corresp="#s1:l1">dieux</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Rochers, bocages &amp; <rhyme label="b" type="f">fonteynes</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Pardonnez moi si ma <rhyme label="c" type="m">douleur</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Vous rend pour tesmoigner mes <rhyme label="b" type="f" corresp="#s1:l3">peines</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Secretaires de mon <rhyme label="c" type="m" corresp="#s1:l4">malheur</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Permettez moy qu'en <rhyme label="a" type="m">liberté</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Le silence &amp; <rhyme label="a" type="m" corresp="#s2:l1">l'obscurité</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Scache le mal que je <rhyme label="b" type="f">soupire</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Puis que l'object de mon <rhyme label="c" type="m">tourment</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">N'a pas des voeux pour mon <rhyme label="b" type="f" corresp="#s2:l3">martire</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Ny pour mes feux du <rhyme label="c" type="m" corresp="#s2:l4">sentiment</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Echo vive image des <rhyme label="a" type="m">bois</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Fille de l'air &amp; de la <rhyme label="a" type="m" corresp="#s3:l1">voix</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Porteze lui ma plainte <rhyme label="b" type="f">mourante</rhyme>;</l>
+        <l id="s3:l4" met="4" type="-+">Fais lui paroistre <rhyme label="c" type="m">qu'aujourd'huy</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Ie ne meurs que pour <rhyme label="b" type="f" corresp="#s3:l3">Amaranthe</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">De respect, d'Amour &amp; <rhyme label="c" type="m" corresp="#s3:l4">d'ennuy</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

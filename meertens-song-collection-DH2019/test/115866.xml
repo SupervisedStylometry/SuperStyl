@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>115866</id>
+    <date>
+      <year-start>1694</year-start>
+      <year-end>1694</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Gelosia non posse più</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Amarillis ach wat een <rhyme label="a" type="m">pyn</rhyme>!</l>
+        <l id="s1:l2" met="2" type="-+">Ach wat een <rhyme label="a" type="m" corresp="#s1:l1">pyn</rhyme>!</l>
+        <l id="s1:l3" met="2" type="-+">Zult gy, Van <rhyme label="b" type="m">my</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Afkee- rig <rhyme label="a" type="m" corresp="#s1:l1">zyn</rhyme>?</l>
+        <l id="s1:l5" met="4" type="-+">Amaril- lis ach wat een <rhyme label="a" type="m" corresp="#s1:l1">pyn</rhyme>!</l>
+        <l id="s1:l6" met="4" type="-+">Amaril- lis ach wat een <rhyme label="a" type="m" corresp="#s1:l1">pyn</rhyme>!</l>
+        <l id="s1:l7" met="4" type="-+">Ik die uw gunst eer kon <rhyme label="c" type="f">verwerven</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Moet nu door uwe wreedheid <rhyme label="c" type="f" corresp="#s1:l7">sterven</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">Zie ay zie hoe 'k reeds <rhyme label="a" type="m" corresp="#s1:l1">verkwyn</rhyme>,</l>
+        <l id="s1:l10" met="4" type="+-">Zie ay zie hoe 'k reeds <rhyme label="a" type="m" corresp="#s1:l1">verkwyn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>160735</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>De verlopen soldaat</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Myn alderliefste <rhyme label="a" type="f">Herderin</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Gy zyt alleen, die ik <rhyme label="a" type="f" corresp="#s1:l1">bemin</rhyme>:</l>
+        <l id="s1:l3" met="3" type="-+">En buiten u is 'er <rhyme label="b" type="m">geen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Die ik zo opregtelyk <rhyme label="b" type="m" corresp="#s1:l3">meen</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Ik weet'er van Kloris nog <rhyme label="c" type="m">Amarant</rhyme>.</l>
+        <l id="s1:l6" met="4" type="-+">Die zaken die bennen al aan een <rhyme label="c" type="m" corresp="#s1:l5">kant</rhyme>.</l>
+        <l id="s1:l7" met="2" type="-+">'k Min u <rhyme label="b" type="m" corresp="#s1:l3">alleen</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">En anders <rhyme label="b" type="m" corresp="#s1:l3">geen</rhyme>:</l>
+        <l id="s1:l9" met="3" type="-+">Al zogt ik door't gantsche <rhyme label="c" type="m" corresp="#s1:l5">Land</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

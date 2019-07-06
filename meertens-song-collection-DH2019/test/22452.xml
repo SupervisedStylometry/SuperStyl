@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22452</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody>Psalm 068 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">NU bidden wy u, o lieue <rhyme label="a" type="m">Heer</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Sterckt nu in ons die reyne <rhyme label="a" type="m" corresp="#s1:l1">Leer</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">En laet ons daer by <rhyme label="b" type="f">blijuen</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Want dit is waer, hoe boos wy <rhyme label="c" type="m">syn</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Begheeren wy u kinderen <rhyme label="c" type="m" corresp="#s1:l4">fyn</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Te syn, en te <rhyme label="b" type="f" corresp="#s1:l3">beclijuen</rhyme>.</l>
+        <l id="s1:l7" met="4" type="-+">So toocht nu Godt, dijn ghenade <rhyme label="d" type="m">soet</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Veruult ons herte met rechte <rhyme label="d" type="m" corresp="#s1:l7">goet</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Der liefden en <rhyme label="e" type="f">ghelouen</rhyme>:</l>
+        <l id="s1:l10" met="4" type="-+">Op dat wy moeghen alst u wel <rhyme label="f" type="m">greyt</rhyme>,</l>
+        <l id="s1:l11" met="4" type="+-">Dat leuen eynden, recht <rhyme label="f" type="m" corresp="#s1:l10">bereyt</rhyme>,</l>
+        <l id="s1:l12" met="3" type="-+">Om u te vinden hier <rhyme label="e" type="f" corresp="#s1:l9">bouen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

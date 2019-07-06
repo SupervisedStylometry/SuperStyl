@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>116315</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>deventer</orginal-name>
+      <standard-name>Deventer, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.2532272</lon>
+        <lat>6.1584725</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 093 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">DE Heer regeert, hy is met <rhyme label="a" type="m">Majesteyt</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">En kracht bekleedt, hy heeft sich <rhyme label="a" type="m" corresp="#s1:l1">toebereydt</rhyme>:</l>
+        <l id="s1:l3" met="5" type="-+">De werelt is bevestight door den <rhyme label="b" type="m">Heer</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Dies sy en sal niet wank'len <rhyme label="b" type="m" corresp="#s1:l3">immermeer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Van doe aen is bevest uw throon en <rhyme label="a" type="m">staf</rhyme>;</l>
+        <l id="s2:l2" met="5" type="-+">Ghy zijt geweest van eeuwigheyt al <rhyme label="a" type="m" corresp="#s2:l1">af</rhyme>:</l>
+        <l id="s2:l3" met="5" type="-+">De stroomen, Heer, verheffen haer <rhyme label="b" type="m">gebruys</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Haer aenstoot sy verheffen met <rhyme label="b" type="m" corresp="#s2:l3">gedruys</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Doch onse Godt, die in der hooghte <rhyme label="a" type="m">woont</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Met meer gewelt syn groote krachten <rhyme label="a" type="m" corresp="#s3:l1">toont</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Dan 't bruysen van een groote <rhyme label="b" type="m">watervloedt</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Of baren van de zee fel en <rhyme label="b" type="m" corresp="#s3:l3">verwoedt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Geheel getrouw is uw <rhyme label="a" type="m">getuygenis</rhyme>;</l>
+        <l id="s4:l2" met="5" type="-+">Voor uwe schaer, die in uw huysingh <rhyme label="a" type="m" corresp="#s4:l1">is</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">Is 't best cieraet, ô Heer, de <rhyme label="b" type="m">heyligheyt</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">Tot langen tijt, ja tot in <rhyme label="b" type="m" corresp="#s4:l3">eeuwigheyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

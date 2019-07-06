@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174746</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Roodborstje geestige dief</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Roodborstje, roodborstje, geestige <rhyme label="a" type="m">dief</rhyme>!</l>
+        <l id="s1:l2" met="4" type="+-">Hebje wel ooit zoo te pronken <rhyme label="b" type="f">gezeten</rhyme>?</l>
+        <l id="s1:l3" met="4" type="+-">'t Kooitje van koper en 't bakje vol <rhyme label="b" type="f" corresp="#s1:l2">eten</rhyme>:</l>
+        <l id="s1:l4" met="4" type="+-">Aardige springer! wat heb ik je <rhyme label="a" type="m" corresp="#s1:l1">lief</rhyme>!</l>
+        <l id="s1:l5" met="4" type="+-">Toch kweelt uw keeltje geen lustige <rhyme label="c" type="f">zangen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Vogeltje! zeg me, wat is er <rhyme label="d" type="m">gebeurd</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Dat ge de veêrtjes zoo slapjes laat <rhyme label="c" type="f" corresp="#s1:l5">hangen</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Roodborstje! zeg me waarom dat ge <rhyme label="d" type="m" corresp="#s1:l6">treurt</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">- Knaapje lief, knaapje lief! was er mijn <rhyme label="a" type="m">kooi</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Was er mijn eten ook lekker en <rhyme label="b" type="f">keurig</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Buiten in 't bosch is het eens nog zoo <rhyme label="b" type="f" corresp="#s2:l2">fleurig</rhyme>:</l>
+        <l id="s2:l4" met="4" type="+-">Vrij te zijn, lievert! is beter dan <rhyme label="a" type="m" corresp="#s2:l1">mooi</rhyme>!</l>
+        <l id="s2:l5" met="4" type="+-">Och! laat mij los, laat in vrijheid mij <rhyme label="c" type="f">springen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Ginds op dien boom, waar geen tralie mij <rhyme label="d" type="m">stoort</rhyme>;</l>
+        <l id="s2:l7" met="4" type="+-">Vriendje! dan zal ik een lied voor u <rhyme label="c" type="f" corresp="#s2:l5">zingen</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Zoo als ge nimmer of nooit hebt <rhyme label="d" type="m" corresp="#s2:l6">gehoord</rhyme>! -</l>
+      </lg>
+    </lg>
+  </text>
+</song>

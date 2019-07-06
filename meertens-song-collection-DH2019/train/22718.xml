@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22718</id>
+    <date>
+      <year-start>1576</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>David Joris</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Heer waerom treedt ghy soo verd' unde <rhyme label="a" type="m">swijcht</rhyme>/</l>
+        <l id="s1:l2" met="4" type="-+">Unde verbercht u inden tijt der <rhyme label="b" type="m">noot</rhyme>/</l>
+        <l id="s1:l3" met="4" type="-+">Als die ongodlijcke d'overhandt <rhyme label="a" type="m" corresp="#s1:l1">crijcht</rhyme>/</l>
+        <l id="s1:l4" met="4" type="-+">Soo sijn die Armen In lyden <rhyme label="b" type="m" corresp="#s1:l2">bloot</rhyme>/</l>
+        <l id="s1:l5" met="4" type="-+">Unde In druck met grooten <rhyme label="c" type="m">vaer</rhyme>:</l>
+        <l id="s1:l6" met="4" type="-+">Wandt sy bedryven haren moetwille <rhyme label="b" type="m" corresp="#s1:l2">groot</rhyme>/</l>
+        <l id="s1:l7" met="3" type="-+">soo sijt vernemen <rhyme label="c" type="m" corresp="#s1:l5">swaer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

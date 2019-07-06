@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22372</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Es spricht der unweise Mund wohl</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">SIngt den Heer, een nieu Liedt seer <rhyme label="a" type="m">wel</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">In de heylighe <rhyme label="b" type="f">Ghemeynte</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Dies verhuecht hem seer <rhyme label="a" type="m" corresp="#s1:l1">Israel</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Omdat hy hem maeckt soo <rhyme label="b" type="f" corresp="#s1:l2">reyne</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Vrolijck zijn de kindren van <rhyme label="c" type="m">Zyoon</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Om haren edelen Coninck <rhyme label="c" type="m" corresp="#s1:l5">schoon</rhyme>:</l>
+        <l id="s1:l7" met="3" type="-+">Loeft zijnen name met <rhyme label="d" type="f">danssen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Met Tamboeren, en Harpen, speelt <rhyme label="a" type="m">hem</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Want de Heer heeft wel <rhyme label="b" type="f">behaghen</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Aen zijn volck: ende hy helpt <rhyme label="a" type="m" corresp="#s2:l1">hun</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Oock dallendighe tallen <rhyme label="b" type="f" corresp="#s2:l2">daghen</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">De Heylighen die zijn vrolijck <rhyme label="c" type="m">seer</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Hun mondt, die sal verhooghen de <rhyme label="c" type="m" corresp="#s2:l5">Heer</rhyme>:</l>
+        <l id="s2:l7" met="3" type="-+">In hun handen hebben sy <rhyme label="d" type="f">sweerden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Om te doen wraeck onder de <rhyme label="a" type="m">Heyden</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">En om tvolck te straffen met <rhyme label="b" type="f">roeyen</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">De Coninghen met ketens ghebonden <rhyme label="a" type="m" corresp="#s3:l1">leyden</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">En hun Edele met ijsere <rhyme label="b" type="f" corresp="#s3:l2">boeyen</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Op dat sy aen hun voldoen te <rhyme label="c" type="m">recht</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Doordeel dwelck dus gheschreuen staet <rhyme label="c" type="m" corresp="#s3:l5">slecht</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">(Sulck eer sullen zijn heylighen <rhyme label="d" type="f">hebben</rhyme>.)</l>
+      </lg>
+    </lg>
+  </text>
+</song>

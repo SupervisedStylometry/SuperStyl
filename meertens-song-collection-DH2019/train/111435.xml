@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111435</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Als ik mijn Phyllis kussen mag</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ALs Thirsis zag 't zoet <rhyme label="a" type="m">Ooggestraal</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Van Phillis, riep hy, kan men <rhyme label="b" type="f">vinde</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Wel anders dan in 's Hemels <rhyme label="a" type="m" corresp="#s1:l1">Zaal</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Een zulken Schoon' als myn <rhyme label="b" type="f" corresp="#s1:l2">beminde</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Soo haast dit Phillis had <rhyme label="a" type="m">gehoord</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Wierd zy nog schoonder door het <rhyme label="b" type="f">bloosen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Ik ben al sonder dat <rhyme label="a" type="m" corresp="#s2:l1">bekoord</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Zey hy, laat daarom vry dees <rhyme label="b" type="f" corresp="#s2:l2">Roosen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">En als zy met een lieve <rhyme label="a" type="m">lach</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Aanhoorende 't minnelyke <rhyme label="b" type="f">vlyen</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">Ik geef het Phillis, riep hy, <rhyme label="a" type="m" corresp="#s3:l1">ach</rhyme>!</l>
+        <l id="s3:l4" met="4" type="-+">Myn Ziel, wat wil ik langer <rhyme label="b" type="f" corresp="#s3:l2">by'en</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Hoor zey zy Thirsis, gy <rhyme label="a" type="m">beklaagd</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Uw Vryheyd, ik wil s'u dan weer <rhyme label="b" type="f">geven</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Ach! (sugt hy) Engel lief, gy <rhyme label="a" type="m" corresp="#s4:l1">plaagd</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Vergeefs, 'k wil in uw Banden <rhyme label="b" type="f" corresp="#s4:l2">leven</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Ô Aangenaam' <rhyme label="a" type="m">gevangenis</rhyme>!</l>
+        <l id="s5:l2" met="4" type="-+">Hoe lieflyk streeld gy myn <rhyme label="b" type="f">gedagten</rhyme>;</l>
+        <l id="s5:l3" met="4" type="-+">Myn eenigste verlangen <rhyme label="a" type="m" corresp="#s5:l1">is</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Gestadig in u te <rhyme label="b" type="f" corresp="#s5:l2">vernagten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

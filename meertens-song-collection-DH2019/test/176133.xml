@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176133</id>
+    <date>
+      <year-start>1640</year-start>
+      <year-end>1640</year-end>
+    </date>
+    <location>
+      <orginal-name>deventer</orginal-name>
+      <standard-name>Deventer, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.2532272</lon>
+        <lat>6.1584725</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 134 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GHy knechten van den hoochsten <rhyme label="a" type="m">Heer</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Wilt altesaem hem geven <rhyme label="a" type="m" corresp="#s1:l1">eer</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Die in syn tempel alle <rhyme label="b" type="m">nacht</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Als syne dienaers hout de <rhyme label="b" type="m" corresp="#s1:l3">wacht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Na 'tHeylichdom u handen <rhyme label="a" type="m">streckt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">En beyde hert en mont <rhyme label="a" type="m" corresp="#s2:l1">opweckt</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Om synen name t'aller <rhyme label="b" type="m">tijt</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Te roemen door de werelt <rhyme label="b" type="m" corresp="#s2:l3">wijt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">De groote God die eeuwich <rhyme label="a" type="m">leeft</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Van wien het al syn wesen <rhyme label="a" type="m" corresp="#s3:l1">heeft</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Die segen u in <rhyme label="b" type="m">overvloet</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Wt Zion met het beste <rhyme label="b" type="m" corresp="#s3:l3">goet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

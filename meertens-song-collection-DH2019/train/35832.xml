@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35832</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody>O zalig heilig Bethlehem</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Albertus Buitendyck</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MIjn Iesu! ghy den Maeght <rhyme label="a" type="m">verkiest</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Voor u waerden Bruyt hier <rhyme label="b" type="f">beneden</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Geeft, dat sy haer trouw niet <rhyme label="a" type="m" corresp="#s1:l1">verliest</rhyme>:</l>
+        <l id="s1:l4" met="4" type="-+">Dats' is heyligh aen Geest en <rhyme label="b" type="f" corresp="#s1:l2">leden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">U graty, soetigheydt, en <rhyme label="a" type="m">kracht</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Gheeft aen de Maeght, o Godes <rhyme label="b" type="f">Soone</rhyme>!</l>
+        <l id="s2:l3" met="4" type="-+">En dat sy krijght, waer na sy <rhyme label="a" type="m" corresp="#s2:l1">wacht</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Haer Maeghde kroon in s' Hemels <rhyme label="b" type="f" corresp="#s2:l2">Throone</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

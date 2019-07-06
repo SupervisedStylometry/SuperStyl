@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14000</id>
+    <date>
+      <year-start>1566</year-start>
+      <year-end>1566</year-end>
+    </date>
+    <location>
+      <orginal-name>emden</orginal-name>
+      <standard-name>Emden, Germany</standard-name>
+      <coordinates>
+        <lon>53.3670442</lon>
+        <lat>7.2058004</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Aus tiefer Not schrei ich zu dir</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WT dieper noot schiep ick tot <rhyme label="a" type="m">dy</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Heer God aenhoort mijn <rhyme label="b" type="f">roepen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Dijn ghenadighe ooren keert tot <rhyme label="a" type="m" corresp="#s1:l1">my</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">En mijner bede si <rhyme label="b" type="f" corresp="#s1:l2">open</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Want ist dat du wilt mercken <rhyme label="c" type="m">aen</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Hoe menigh sonde ick hebbe <rhyme label="c" type="m" corresp="#s1:l5">ghedaen</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Wie can Heer voor dy <rhyme label="d" type="f">blijuen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Het staetby dijner macht <rhyme label="a" type="m">alleyn</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Die sonden te <rhyme label="b" type="f">vergheuen</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Dies vreesen wy by alle <rhyme label="a" type="m" corresp="#s2:l1">ghemeyn</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Oock in het beste <rhyme label="b" type="f" corresp="#s2:l2">leuen</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Daerom op God wil ick hopen <rhyme label="c" type="m">vast</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Mijn herte op hem sal zijn <rhyme label="c" type="m" corresp="#s2:l5">ghepast</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Op sijn Woort wil ick <rhyme label="d" type="f">rusten</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Al waer het schoon tot inder <rhyme label="a" type="m">Nacht</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">En weder tot den <rhyme label="b" type="f">morghen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">So sal mijn hert aen sHeeren <rhyme label="a" type="m" corresp="#s3:l1">macht</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Vertwijfelen niet noch <rhyme label="b" type="f" corresp="#s3:l2">sorghen</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">So doet Israel <rhyme label="c" type="m">taldertijt</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Die wt den Gheest Herboren <rhyme label="c" type="m" corresp="#s3:l5">zijt</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">En op zijn Woort <rhyme label="d" type="f">betrouwet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">By ons seer veel misdaden <rhyme label="a" type="m">zijn</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Maer by God veel meer <rhyme label="b" type="f">ghenaden</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Sijn helpen is sonder <rhyme label="a" type="m" corresp="#s4:l1">termijn</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Hoe swaer wi sijn <rhyme label="b" type="f" corresp="#s4:l2">beladen</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Hy is alleyn de Herder <rhyme label="c" type="m">goet</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Die Israel verlossen <rhyme label="c" type="m" corresp="#s4:l5">moet</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Wt sijnen sonden <rhyme label="d" type="f">alle</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

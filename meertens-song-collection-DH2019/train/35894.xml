@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35894</id>
+    <date>
+      <year-start>1678</year-start>
+      <year-end>1678</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="marialied" translation="Maria song">Marialied</tag>
+    </tags>
+    <melody>La princesse</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Johanna de Gavre</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">O Maria weerde <rhyme label="a" type="m">Maeght</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Siet ick kom u hier <rhyme label="b" type="f">begroeten</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Ghy sijt die mijn Ziel <rhyme label="a" type="m" corresp="#s1:l1">behaeght</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Ick kom met een diep <rhyme label="c" type="m">oodtmoedt</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Nedervallen voor u <rhyme label="b" type="f" corresp="#s1:l2">voeten</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Want ghy ons groot weldaet <rhyme label="c" type="m" corresp="#s1:l4">doet</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Ghy zijt ons hop’ ons <rhyme label="d" type="f">leven</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">voorspraeckerse vroegh en <rhyme label="e" type="m">spaey</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">Ey en wilt ons noyt <rhyme label="d" type="f" corresp="#s1:l7">begheven</rhyme>,</l>
+        <l id="s1:l10" met="4" type="+-">T’hoont u kinders u <rhyme label="e" type="m" corresp="#s1:l8">ghenaey</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Wy roepen met droef <rhyme label="a" type="m">gheschal</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Met de traenen in <rhyme label="b" type="f">d’ooghen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Hier beneden in dit <rhyme label="a" type="m" corresp="#s2:l1">dal</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">En wilt ons verstooten <rhyme label="c" type="m">niet</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Thoont u Moederlijck <rhyme label="b" type="f" corresp="#s2:l2">medooghen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Wilt ons helpen uyt <rhyme label="c" type="m" corresp="#s2:l4">verdriet</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Den Duyvel van der <rhyme label="d" type="f">hellen</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Die en slaept noch dagh noch <rhyme label="e" type="m">nacht</rhyme>,</l>
+        <l id="s2:l9" met="4" type="+-">Om ons arm Ziel te <rhyme label="d" type="f" corresp="#s2:l7">quellen</rhyme>,</l>
+        <l id="s2:l10" met="4" type="+-">Houdt hy stadighlijck de <rhyme label="e" type="m" corresp="#s2:l8">wacht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Soo ghy maer u ooghen <rhyme label="a" type="m">slaet</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Om die over ons te <rhyme label="b" type="f">buyghen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Stracks den vyant vluchten <rhyme label="a" type="m" corresp="#s3:l1">gaet</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Hoe ick my op u <rhyme label="c" type="m">betrouw</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Dat sal mijne Ziel <rhyme label="b" type="f" corresp="#s3:l2">betuyghen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Want ghy zijt die weerde <rhyme label="c" type="m" corresp="#s3:l4">Vrouw</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Ghy glorieuse <rhyme label="d" type="f">Moeder</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">Die den al draeght in u <rhyme label="e" type="m">handt</rhyme>,</l>
+        <l id="s3:l9" met="4" type="+-">Vwen Soon is ons <rhyme label="d" type="f" corresp="#s3:l7">behoeder</rhyme>,</l>
+        <l id="s3:l10" met="4" type="+-">Gheeft ons uwe <rhyme label="e" type="m" corresp="#s3:l8">onderstandt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

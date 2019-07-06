@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3734</id>
+    <date>
+      <year-start>1566</year-start>
+      <year-end>1566</year-end>
+    </date>
+    <location>
+      <orginal-name>heidelberg</orginal-name>
+      <standard-name>Heidelberg, Germany</standard-name>
+      <coordinates>
+        <lon>49.4093582</lon>
+        <lat>8.694724</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 100 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Pieter Datheen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MYN hert' is Heer' in groot <rhyme label="a" type="m">eenvoudt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Ootmoedigh: oock en sijn niet <rhyme label="a" type="m" corresp="#s1:l1">stout</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Myn ooghen: Ick derr' niet <rhyme label="b" type="m">bestaen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Dinghen die my te bouen <rhyme label="b" type="m" corresp="#s1:l3">gaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hebb' ick myn boose lusten <rhyme label="a" type="m">wilt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Niet ouerwonnen end <rhyme label="a" type="m" corresp="#s2:l1">ghestilt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Hebb' ick my also niet <rhyme label="b" type="m">verkleent</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Als een kindt dat die moeder <rhyme label="b" type="m" corresp="#s2:l3">speent</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Hebb' ick my niet ghelyck O <rhyme label="a" type="m">Heer</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Gheacht als een kindeken <rhyme label="a" type="m" corresp="#s3:l1">teer</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Iae als een ghespeent kindt seer <rhyme label="b" type="m">fyn</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Met recht' magh ick verstooten <rhyme label="b" type="m" corresp="#s3:l3">sijn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Israel sal van nu voort <rhyme label="a" type="m">aen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Op den Heer sijnen Godt vast <rhyme label="a" type="m" corresp="#s4:l1">staen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">End hopen op sijn <rhyme label="b" type="m">goedicheit</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Van nu tot in der <rhyme label="b" type="m" corresp="#s4:l3">eewicheit</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2216</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Suédoise royale</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Joan Blasius</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">T'Oen <rhyme label="a" type="m">Fidamant</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Die Trowhart in het <rhyme label="b" type="f">lieven</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Geperst door <rhyme label="b" type="f" corresp="#s1:l2">minne-grieven</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Betrad het Suyder <rhyme label="a" type="m" corresp="#s1:l1">pekel-strand</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">En voort de vruchtbre <rhyme label="c" type="m">Beemster-grond</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Alwaar hy met een stamelende <rhyme label="c" type="m" corresp="#s1:l5">mond</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Sijn Engels wreedheyd <rhyme label="d" type="m">song</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Die hy door <rhyme label="b" type="f" corresp="#s1:l2">Brieven</rhyme></l>
+        <l id="s1:l9" met="3" type="+-">Noch door woorden <rhyme label="d" type="m" corresp="#s1:l7">dwong</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Och! riep hy, <rhyme label="a" type="m">och</rhyme>!</l>
+        <l id="s2:l2" met="3" type="-+">Waar is mijn <rhyme label="b" type="f">Celestyne</rhyme>?</l>
+        <l id="s2:l3" met="3" type="-+">Sy die my so veel <rhyme label="b" type="f" corresp="#s2:l2">pijne</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Veroorsaakt door haar <rhyme label="a" type="m" corresp="#s2:l1">minne-sorg</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Och! mocht die Son hier by my <rhyme label="c" type="m">sijn</rhyme>.</l>
+        <l id="s2:l6" met="5" type="-+">Mocht uwe mond van mijne, <rhyme label="c" type="m" corresp="#s2:l5">Celestyn</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Eens hartig sijn <rhyme label="d" type="m">gekust</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">'k Moet anders <rhyme label="b" type="f" corresp="#s2:l2">quijne</rhyme></l>
+        <l id="s2:l9" met="3" type="+-">So ik derf die <rhyme label="d" type="m" corresp="#s2:l7">lust</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">O vry <rhyme label="a" type="m">Gediert</rhyme>!</l>
+        <l id="s3:l2" met="3" type="-+">O smerteloose <rhyme label="b" type="f">Vissen</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Segt my, ik kant niet <rhyme label="b" type="f" corresp="#s3:l2">gissen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Wat is de vryheid? sint ik <rhyme label="a" type="m" corresp="#s3:l1">wierd</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Een Dienaar van mijn <rhyme label="c" type="m">Engellin</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">Vergat ik hoe de vryheid is van <rhyme label="c" type="m" corresp="#s3:l5">sin</rhyme>.</l>
+        <l id="s3:l7" met="3" type="-+">Ik wensch, om eens mijn <rhyme label="d" type="m">staat</rhyme></l>
+        <l id="s3:l8" met="2" type="-+">Voor d' uw te <rhyme label="b" type="f" corresp="#s3:l2">missen</rhyme>,</l>
+        <l id="s3:l9" met="3" type="+-">Die onvryheid <rhyme label="d" type="m" corresp="#s3:l7">haat</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">Wat middel <rhyme label="a" type="m">voor</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Mijn Hartje so vol <rhyme label="b" type="f">smarten</rhyme>?</l>
+        <l id="s4:l3" met="3" type="-+">Ging haar mijn smart ter <rhyme label="b" type="f" corresp="#s4:l2">harten</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">En gunde sy mijn klacht <rhyme label="a" type="m" corresp="#s4:l1">gehoor</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Het gaf mijn Siel noch <rhyme label="c" type="m">lavenis</rhyme>.</l>
+        <l id="s4:l6" met="5" type="-+">Maar al mijn troost, nu ik dien Engel <rhyme label="c" type="m" corresp="#s4:l5">mis</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Is hoop slechts en <rhyme label="d" type="m">gedult</rhyme>,</l>
+        <l id="s4:l8" met="2" type="-+">Haar wreevle <rhyme label="b" type="f" corresp="#s4:l2">parten</rhyme></l>
+        <l id="s4:l9" met="3" type="+-">Ly ik sonder <rhyme label="d" type="m" corresp="#s4:l7">schuld</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="2" type="-+">Swijg, mondje <rhyme label="a" type="m">swijg</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Bedwing uw <rhyme label="b" type="f">moeylijkheede'</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Verkrop wat sy u <rhyme label="b" type="f" corresp="#s5:l2">deede</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Misschien of ik noch loon <rhyme label="a" type="m" corresp="#s5:l1">verkrijg</rhyme>:</l>
+        <l id="s5:l5" met="4" type="-+">En wijl gy sijt van my so <rhyme label="c" type="m">schuw</rhyme>,</l>
+        <l id="s5:l6" met="5" type="-+">So kan ik niet, dan bange suchjes <rhyme label="c" type="m" corresp="#s5:l5">U</rhyme></l>
+        <l id="s5:l7" met="3" type="-+">Toeschieten <rhyme label="d" type="m">Celestyn</rhyme>,</l>
+        <l id="s5:l8" met="2" type="-+">Van onder <rhyme label="b" type="f" corresp="#s5:l2">Eeden</rhyme></l>
+        <l id="s5:l9" met="3" type="+-">Altijd d'uw te <rhyme label="d" type="m" corresp="#s5:l7">sijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

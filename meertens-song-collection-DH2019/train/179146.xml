@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>179146</id>
+    <date>
+      <year-start>1866</year-start>
+      <year-end>1866</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Ik zou geen uurtje langer leven</melody>
+  <author>Frans de Cort</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">'k Zou geen uurtje langer <rhyme label="a" type="f">leven</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Zoo ik maar een touwken <rhyme label="b" type="m">vond</rhyme>:</l>
+        <l id="s1:l3" met="4" type="+-">Wilde er iemand een mij <rhyme label="a" type="f" corresp="#s1:l1">geven</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Zoo verhinge ik mij <rhyme label="b" type="m" corresp="#s1:l2">terstond</rhyme>!</l>
+        <l id="s1:l5" met="3" type="+-">Ja, ja, <rhyme label="c" type="m">ja</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Wilde er iemand een mij <rhyme label="a" type="f" corresp="#s1:l1">ge-ven</rhyme>,</l>
+        <l id="s1:l7" met="3" type="+-">Ha, ha, <rhyme label="c" type="m" corresp="#s1:l5">ha</rhyme>!</l>
+        <l id="s1:l8" met="4" type="+-">Zoo ver-hinge ik mij <rhyme label="b" type="m" corresp="#s1:l2">terstond</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Hier! ik zal een touwken <rhyme label="a" type="f">geven</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Slinger 't uwen hals maar <rhyme label="b" type="m">rond</rhyme>! -</l>
+        <l id="s2:l3" met="4" type="+-">Faalde er nu geen spijker <rhyme label="a" type="f" corresp="#s2:l1">neven</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Zoo verhinge ik mij <rhyme label="b" type="m" corresp="#s2:l2">terstond</rhyme>!</l>
+        <l id="s2:l5" met="3" type="+-">Ja, ja, <rhyme label="c" type="m">ja</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Faalde er nu geen spijker <rhyme label="a" type="f" corresp="#s2:l1">neven</rhyme>,</l>
+        <l id="s2:l7" met="3" type="+-">Ha, ha, <rhyme label="c" type="m" corresp="#s2:l5">ha</rhyme>!</l>
+        <l id="s2:l8" met="4" type="+-">Zoo verhinge ik mij <rhyme label="b" type="m" corresp="#s2:l2">terstond</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Hier! ik zal 'nen spijker <rhyme label="a" type="f">geven</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Al wat gij verlangen <rhyme label="b" type="m">kont</rhyme>! -</l>
+        <l id="s3:l3" met="4" type="+-">Faalde nu de lust niet <rhyme label="a" type="f" corresp="#s3:l1">even</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Zoo verhinge ik mij <rhyme label="b" type="m" corresp="#s3:l2">terstond</rhyme>!</l>
+        <l id="s3:l5" met="3" type="+-">Ja, ja, <rhyme label="c" type="m">ja</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Faalde nu de lust niet <rhyme label="a" type="f" corresp="#s3:l1">even</rhyme>.</l>
+        <l id="s3:l7" met="3" type="+-">Ha, ha, <rhyme label="c" type="m" corresp="#s3:l5">ha</rhyme>!</l>
+        <l id="s3:l8" met="4" type="+-">Zoo verhinge ik mij <rhyme label="b" type="m" corresp="#s3:l2">terstond</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

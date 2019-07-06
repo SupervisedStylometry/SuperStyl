@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6896</id>
+    <date>
+      <year-start>1637</year-start>
+      <year-end>1637</year-end>
+    </date>
+    <location>
+      <orginal-name>emmerick</orginal-name>
+      <standard-name>Emmerik, Germany</standard-name>
+      <coordinates>
+        <lon>51.8322137</lon>
+        <lat>6.2428283</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="marialied" translation="Maria song">Marialied</tag>
+    </tags>
+    <melody>Fortuin helaas</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Ons’ Vader Godt <rhyme label="a" type="f">almachtich</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Die in den Hemel <rhyme label="b" type="m">sijt</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Geheylight sy <rhyme label="a" type="f" corresp="#s1:l1">waerachtich</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">V naem <rhyme label="b" type="m" corresp="#s1:l2">gebenedijt</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Laet toe-komen met <rhyme label="b" type="m" corresp="#s1:l2">vlijt</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">V Rijck. V wille <rhyme label="c" type="m">schoon</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Geschieden moet <rhyme label="b" type="m" corresp="#s1:l2">altijdt</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Als in des Hemels <rhyme label="c" type="m" corresp="#s1:l6">throon</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Het dagh’lijcks broodt wilt <rhyme label="a" type="f">geven</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Ons huyden, Vader <rhyme label="b" type="m">goed</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">V woort, om by te <rhyme label="a" type="f" corresp="#s2:l1">leven</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">’t Vleisch Christi, ende <rhyme label="b" type="m" corresp="#s2:l2">bloedt</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Toont u genade <rhyme label="b" type="m" corresp="#s2:l2">soet</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Vergeeft al’ ons <rhyme label="c" type="m">mis’daedt</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Als wy met goeden <rhyme label="b" type="m" corresp="#s2:l2">moedt</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Vergeven alle <rhyme label="c" type="m" corresp="#s2:l6">quaedt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">En laet ons niet <rhyme label="a" type="f">bekoren</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Van den helschen <rhyme label="b" type="m">vyant</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Die neerstigh komt <rhyme label="a" type="f" corresp="#s3:l1">besporen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Ons’ wegen t’allen <rhyme label="b" type="m" corresp="#s3:l2">kant</rhyme>;</l>
+        <l id="s3:l5" met="3" type="-+">Maer, Heere, doet <rhyme label="b" type="m" corresp="#s3:l2">bystandt</rhyme>:</l>
+        <l id="s3:l6" met="3" type="-+">Verlost ons van het <rhyme label="c" type="m">quaet</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">En geeft ons <rhyme label="b" type="m" corresp="#s3:l2">overhand</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Van ’t duyvelsche <rhyme label="c" type="m" corresp="#s3:l6">verraaedt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

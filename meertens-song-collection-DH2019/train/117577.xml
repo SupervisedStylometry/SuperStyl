@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>117577</id>
+    <date>
+      <year-start>1741</year-start>
+      <year-end>1741</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Van de herder Pyramus en Thisbe</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Een grage Bey, had Venus Zoon <rhyme label="a" type="f">gesteken</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Wiens Rozelip met Honig scheen <rhyme label="a" type="f" corresp="#s1:l1">bestreken</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Het Guytje liep <rhyme label="b" type="m">Verwoed</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Zyn Moeder te <rhyme label="b" type="m" corresp="#s1:l3">gemoed</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">En zy Godinne <rhyme label="c" type="m">zie</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Wat doet die schelmze <rhyme label="c" type="m" corresp="#s1:l5">Bie</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Hoe maakt u zulk een kleyne wond <rhyme label="a" type="f">verlegen</rhyme>?</l>
+        <l id="s2:l2" met="5" type="-+">Zy Venus, van een çimpele Bey <rhyme label="a" type="f" corresp="#s2:l1">verkregen</rhyme>!</l>
+        <l id="s2:l3" met="3" type="-+">Denk Bengel, wat hy <rhyme label="b" type="m">leyd</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Wien uwe Pyl <rhyme label="b" type="m" corresp="#s2:l3">bestreyd</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">En hoe 't een Minnaar <rhyme label="c" type="m">smart</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Als gy hem priemt in 't <rhyme label="c" type="m" corresp="#s2:l5">Hart</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

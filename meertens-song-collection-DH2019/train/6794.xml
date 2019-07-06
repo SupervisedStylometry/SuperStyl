@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6794</id>
+    <date>
+      <year-start>1637</year-start>
+      <year-end>1637</year-end>
+    </date>
+    <location>
+      <orginal-name>emmerick</orginal-name>
+      <standard-name>Emmerik, Germany</standard-name>
+      <coordinates>
+        <lon>51.8322137</lon>
+        <lat>6.2428283</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+    </tags>
+    <melody>In dulci jubilo</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Met eenen soeten <rhyme label="a" type="m">schal</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Nu frolick singet <rhyme label="a" type="m" corresp="#s1:l1">al</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Onsers hertsen <rhyme label="b" type="f">wonne</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Ligt in die krib en <rhyme label="a" type="m" corresp="#s1:l1">stal</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">En lichtet als die <rhyme label="b" type="f" corresp="#s1:l3">sonne</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">In der Ionckfrouwen <rhyme label="c" type="m">saal</rhyme>,</l>
+        <l id="s1:l7" met="6" type="-+">Regieret over al, regieret over <rhyme label="a" type="m" corresp="#s1:l1">al</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">O Iesu <rhyme label="a" type="m">Kindeken</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">By u daer willen wy <rhyme label="a" type="m" corresp="#s2:l1">sijn</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">Troost doch ons <rhyme label="b" type="f">gemoede</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">O Hemelsch <rhyme label="a" type="m" corresp="#s2:l1">kindeken</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Door dijne groote <rhyme label="b" type="f" corresp="#s2:l3">goede</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Ghy sijt die Heer <rhyme label="c" type="m">alleen</rhyme>,</l>
+        <l id="s2:l7" met="6" type="-+">Wilt ons genadich sijn, Wilt ons genadich <rhyme label="a" type="m" corresp="#s2:l1">sijn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">By u ist vreugd en <rhyme label="a" type="m">singen</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Oock lust in <rhyme label="a" type="m" corresp="#s3:l1">eewicheyt</rhyme>,</l>
+        <l id="s3:l3" met="3" type="+-">Der Englen stemmen <rhyme label="b" type="f">klingen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Van dijner <rhyme label="a" type="m" corresp="#s3:l1">heylicheyt</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">V lof dat moet <rhyme label="b" type="f" corresp="#s3:l3">ontspringen</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">En nu werden <rhyme label="c" type="m">verbreyt</rhyme></l>
+        <l id="s3:l7" met="6" type="-+">Door alle Christenheyt, Door alle <rhyme label="a" type="m" corresp="#s3:l1">Christenheyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

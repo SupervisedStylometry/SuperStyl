@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175072</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Viooltje, zacht van <rhyme label="a" type="f">kleuren</rhyme>!</l>
+        <l id="s1:l2" met="3" type="-+">Gij siert mijn' kleinen <rhyme label="b" type="m">hof</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Viooltje, zoet van <rhyme label="a" type="f" corresp="#s1:l1">geuren</rhyme>!</l>
+        <l id="s1:l4" met="3" type="-+">Ik zing 'reis tot uw' <rhyme label="b" type="m" corresp="#s1:l2">lof</rhyme>;</l>
+        <l id="s1:l5" met="3" type="-+">Als alle bloempjes <rhyme label="c" type="f">rusten</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">En sluimren in heur' <rhyme label="d" type="m">knop</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Dan snuif ik nog met <rhyme label="c" type="f" corresp="#s1:l5">lusten</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Uw lekkre geurtjes <rhyme label="d" type="m" corresp="#s1:l6">op</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">En daarom steek uw <rhyme label="a" type="f">kopje</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Gerust maar uit het <rhyme label="b" type="m">gras</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Zoo goed alsof-je een <rhyme label="a" type="f" corresp="#s2:l1">knopje</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Van roos of lelie <rhyme label="b" type="m" corresp="#s2:l2">was</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">Ei, waarom weg te <rhyme label="c" type="f">schuilen</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Mijn kleine <rhyme label="d" type="m">hartedief</rhyme>!</l>
+        <l id="s2:l7" met="3" type="-+">Zeg, waarom zou-je <rhyme label="c" type="f" corresp="#s2:l5">pruilen</rhyme>?</l>
+        <l id="s2:l8" met="3" type="-+">Ik heb u net zoo <rhyme label="d" type="m" corresp="#s2:l6">lief</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Wie lieflijk is van <rhyme label="a" type="f">wezen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">En nedrig van <rhyme label="b" type="m">gemoed</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">(Dat heb ik laatst <rhyme label="a" type="f" corresp="#s3:l1">gelezen</rhyme>)</l>
+        <l id="s3:l4" met="3" type="-+">Is dubbel schoon en <rhyme label="b" type="m" corresp="#s3:l2">goed</rhyme>:</l>
+        <l id="s3:l5" met="3" type="-+">En daarom, zedig <rhyme label="c" type="f">bloempje</rhyme>!</l>
+        <l id="s3:l6" met="3" type="-+">Zing ik nu tot uw' <rhyme label="d" type="m">lof</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">En prijs u als het <rhyme label="c" type="f" corresp="#s3:l5">roempje</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Het roempje van mijn' <rhyme label="d" type="m" corresp="#s3:l6">hof</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

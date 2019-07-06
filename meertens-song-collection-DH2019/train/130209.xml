@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>130209</id>
+    <date>
+      <year-start>1710</year-start>
+      <year-end>1710</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Gelijk de beekjes vloeien</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Gelijk de Beekjes <rhyme label="a" type="f">vloejen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Met een stantvaste <rhyme label="b" type="m">vloed</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Soo sal de Min steeds <rhyme label="a" type="f" corresp="#s1:l1">groeyen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Binnen in mijn <rhyme label="b" type="m" corresp="#s1:l2">gemoed</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Ag, ag, hoe soet zyn de <rhyme label="a" type="f" corresp="#s1:l1">boeyen</rhyme></l>
+        <l id="s1:l6" met="3" type="+-">Die mijn de liefde <rhyme label="b" type="m" corresp="#s1:l2">doet</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Wel, waerom soo soud ik dan <rhyme label="a" type="f">vlugten</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Voor de geen dien ik <rhyme label="b" type="m">bemin</rhyme>?</l>
+        <l id="s2:l3" met="3" type="-+">Dat soud mijn jonk hert doen <rhyme label="a" type="f" corresp="#s2:l1">zugten</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Daer ik geen troost en <rhyme label="b" type="m" corresp="#s2:l2">verwin</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">Ag, ag, wat zyn dat <rhyme label="a" type="f" corresp="#s2:l1">genugten</rhyme>!</l>
+        <l id="s2:l6" met="3" type="+-">Niet is zoo soet als de <rhyme label="b" type="m" corresp="#s2:l2">Min</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Filis, in 't ruyssen der <rhyme label="a" type="f">bladeren</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Daer een klein beekje <rhyme label="b" type="m">doorvloeit</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Laet ons te samen <rhyme label="a" type="f" corresp="#s3:l1">vergaderen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Daer het kruyd weeldrig <rhyme label="b" type="m" corresp="#s3:l2">groeit</rhyme>.</l>
+        <l id="s3:l5" met="3" type="-+">Ag, ag, komt laet ons dan <rhyme label="a" type="f" corresp="#s3:l1">naderen</rhyme></l>
+        <l id="s3:l6" met="3" type="+-">Daer het gras weeldrig <rhyme label="b" type="m" corresp="#s3:l2">groeit</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

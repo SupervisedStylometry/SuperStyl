@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>189807</id>
+    <date>
+      <year-start>1794</year-start>
+      <year-end>1794</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Psalm 100 Datheen</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Komt! lieve Schaapjes! hier is 't <rhyme label="a" type="m">goed</rhyme>.</l>
+        <l id="s1:l2" met="4" type="-+">Hier steekt geen heete <rhyme label="a" type="m" corresp="#s1:l1">zonnegloed</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Een beekje vloeit dit veldjen <rhyme label="b" type="m">in</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Hier kunt gij drinken naar uw' <rhyme label="b" type="m" corresp="#s1:l3">zin</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ai zie! 't is of zij mij <rhyme label="a" type="m">verstaan</rhyme>!</l>
+        <l id="s2:l2" met="4" type="-+">Zij komen, op mijn roepen, <rhyme label="a" type="m" corresp="#s2:l1">aan</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Bewust, zoo wel als ik haar <rhyme label="b" type="m">ken</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Dat ik haar trouwe Herder <rhyme label="b" type="m" corresp="#s2:l3">ben</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ach! lieve Jesus! Gij zijt <rhyme label="a" type="m">mij</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Gelijk een trouwe Herder. <rhyme label="a" type="m" corresp="#s3:l1">Gij</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Die voor mijn ziel Uw leeven <rhyme label="b" type="m">liet</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">Ben ik dan ook Uw Schaapje <rhyme label="b" type="m" corresp="#s3:l3">niet</rhyme>?</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ach! hoorde ik naar Uw stemme <rhyme label="a" type="m">meer</rhyme>!</l>
+        <l id="s4:l2" met="4" type="-+">Dan leefde ik tot Uw lust en <rhyme label="a" type="m" corresp="#s4:l1">eer</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Dan leefde ik zonder zorg; en <rhyme label="b" type="m">blij</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Geiijk dit lieve vee bij <rhyme label="b" type="m" corresp="#s4:l3">mij</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

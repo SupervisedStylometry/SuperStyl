@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10866</id>
+    <date>
+      <year-start>1605</year-start>
+      <year-end>1605</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Het waren negen soldaten</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Dees Beker met de <rhyme label="a" type="f">Wijne</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Set ick al aen myn <rhyme label="b" type="m">mont</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">En drincs’ uyt sonder <rhyme label="a" type="f" corresp="#s1:l1">pyns</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Het is een <rhyme label="a" type="f" corresp="#s1:l1">medecyne</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Al voor mijn hart <rhyme label="b" type="m" corresp="#s1:l2">ghesont</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Als ick uyt heb <rhyme label="a" type="f">ghedroncken</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Al tot den gront seer <rhyme label="b" type="m">klaer</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Wert sy weer vol <rhyme label="a" type="f" corresp="#s2:l1">gheschoncken</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Voor die haer ooghskens <rhyme label="a" type="f" corresp="#s2:l1">loncken</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Tot my in’t <rhyme label="b" type="m" corresp="#s2:l2">openbaer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Ick meen myn liefste <rhyme label="a" type="f">greyne</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Die myn jong hert <rhyme label="b" type="m">bemint</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Om hare deught seer <rhyme label="a" type="f" corresp="#s3:l1">reyne</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Is sy mijn lief <rhyme label="a" type="f" corresp="#s3:l1">alleyns</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Also sy wel <rhyme label="b" type="m" corresp="#s3:l2">bevint</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Ick breng u liefste <rhyme label="a" type="f">schoone</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Princes seer <rhyme label="b" type="m">exelent</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Onder des Hemels <rhyme label="a" type="f" corresp="#s4:l1">Throone</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Spant ghy schoon lief de <rhyme label="a" type="f" corresp="#s4:l1">kroone</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Voor alle Vrouwen <rhyme label="b" type="m" corresp="#s4:l2">jent</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

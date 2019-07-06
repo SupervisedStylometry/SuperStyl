@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12939</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Laura zat laatst bij de beek</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">OF ik sneeu ben of <rhyme label="a" type="m">albast</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Raakt u weinig, riep zy, <rhyme label="b" type="f">booze</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Geile, en onbeschofte <rhyme label="a" type="m" corresp="#s1:l1">gast</rhyme>;</l>
+        <l id="s1:l4" met="4" type="+-">En zeeg neder, na het <rhyme label="b" type="f" corresp="#s1:l2">looze</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Van een zuchjen, in de <rhyme label="b" type="f" corresp="#s1:l2">Roozen</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Als een roerloos <rhyme label="c" type="m">Marmerbeeld</rhyme>.</l>
+        <l id="s1:l7" met="4" type="+-">Och! zey Pan, komt dit van <rhyme label="d" type="f">knippen</rhyme>?</l>
+        <l id="s1:l8" met="4" type="+-">En hy drukte haar mond en <rhyme label="d" type="f" corresp="#s1:l7">lippen</rhyme>.</l>
+        <l id="s1:l9" met="4" type="+-">Wond' een knipje, een kusjen <rhyme label="c" type="m" corresp="#s1:l6">heelt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

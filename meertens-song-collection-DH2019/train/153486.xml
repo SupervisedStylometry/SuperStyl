@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>153486</id>
+    <date>
+      <year-start>1686</year-start>
+      <year-end>1686</year-end>
+    </date>
+    <location>
+      <orginal-name>franeker</orginal-name>
+      <standard-name>Franeker</standard-name>
+      <coordinates>
+        <lon>53.1904513</lon>
+        <lat>5.5417414</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Wiete Ringers</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Loovt den hoogen <rhyme label="a" type="m">Opper-heer</rhyme>;</l>
+        <l id="s1:l2" met="4" type="+-">Deunt gesangen t' sijner <rhyme label="a" type="m" corresp="#s1:l1">eer</rhyme>;</l>
+        <l id="s1:l3" met="4" type="+-">Loovt hem in sijn werken <rhyme label="b" type="m">om</rhyme>;</l>
+        <l id="s1:l4" met="4" type="+-">Loovt hem in sijn <rhyme label="b" type="m" corresp="#s1:l3">heiligdom</rhyme>;</l>
+        <l id="s1:l5" met="4" type="+-">Loovt den God van grooter <rhyme label="c" type="f">machten</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">In 't uitspansel sijner <rhyme label="c" type="f" corresp="#s1:l5">krachten</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Loovt hem om sijn <rhyme label="a" type="m">mogendheid</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Om sijn groote <rhyme label="a" type="m" corresp="#s2:l1">heerlijkheid</rhyme>.</l>
+        <l id="s2:l3" met="4" type="+-">Bralt sijn lov met singen <rhyme label="b" type="m">uit</rhyme>;</l>
+        <l id="s2:l4" met="4" type="+-">Loovt hem met <rhyme label="b" type="m" corresp="#s2:l3">basuin-geluid</rhyme>;</l>
+        <l id="s2:l5" met="4" type="+-">Mengt daar harpe-toonen <rhyme label="c" type="f">onder</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">En des trommels grov <rhyme label="c" type="f" corresp="#s2:l5">gedonder</rhyme>:</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Laat het klinkend' <rhyme label="a" type="m">luiten-hout</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Soet eenstemmig sijn <rhyme label="a" type="m" corresp="#s3:l1">getrouwd</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Aan de pijpend' sijne <rhyme label="b" type="m">fleuit</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Dat de klang door 't land heen <rhyme label="b" type="m" corresp="#s3:l3">steuit</rhyme>;</l>
+        <l id="s3:l5" met="4" type="+-">Laat de sacht gekrabde <rhyme label="c" type="f">snaaren</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Met het orgel t' saamen <rhyme label="c" type="f" corresp="#s3:l5">paaren</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Loovt hem met het <rhyme label="a" type="m">wonder-schel</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Vrolijk-schat'tend <rhyme label="a" type="m" corresp="#s4:l1">cimbel-spel</rhyme>;</l>
+        <l id="s4:l3" met="4" type="+-">Deunt den lov des Heeren; <rhyme label="b" type="m">deunt</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Dat het lucht-gewelvsel <rhyme label="b" type="m" corresp="#s4:l3">dreunt</rhyme>.</l>
+        <l id="s4:l5" met="4" type="+-">Loovt hem al wat mond kan <rhyme label="c" type="f">reppen</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Al wat adem-lucht kan <rhyme label="c" type="f" corresp="#s4:l5">scheppen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

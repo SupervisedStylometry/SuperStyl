@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19981</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Windje daar het bos af drilt</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">OCh ick armen slechten <rhyme label="a" type="m">bloedt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">OCh ick armen slechten <rhyme label="a" type="m" corresp="#s1:l1">bloedt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Heb in ’t vrijen geen <rhyme label="a" type="m" corresp="#s1:l1">voorspoet</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Wint en Regen, Heyl en <rhyme label="b" type="f">Zegen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Loopt my tegen, (O <rhyme label="c" type="m">verdriet</rhyme>)</l>
+        <l id="s1:l6" met="4" type="+-">M’acht my geck, en anders <rhyme label="c" type="m" corresp="#s1:l5">niet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Hierom treur ick dagh en <rhyme label="a" type="m">nacht</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Hierom treur ick dagh en <rhyme label="a" type="m" corresp="#s2:l1">nacht</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Hemel hoort dees nare <rhyme label="a" type="m" corresp="#s2:l1">klacht</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">In ’t verheven, is dit <rhyme label="b" type="f">leven</rhyme>?</l>
+        <l id="s2:l5" met="4" type="+-">‘k Schijn vergheven, Goede <rhyme label="c" type="m">Goon</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Ach! ick sterf wel duysent <rhyme label="c" type="m" corresp="#s2:l5">doon</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Maer wat let doch ’t dom <rhyme label="a" type="m">verstant</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Maer wat let doch ’t dom <rhyme label="a" type="m" corresp="#s3:l1">verstant</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Dat ick ’t Rif niet met dees <rhyme label="a" type="m" corresp="#s3:l1">hant</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Gae vernielen, en <rhyme label="b" type="f">ontzielen</rhyme>?</l>
+        <l id="s3:l5" met="4" type="+-">Tot der kielen, Grage <rhyme label="c" type="m">lust</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Want ick leef hier sonder <rhyme label="c" type="m" corresp="#s3:l5">rust</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Kom, ey kom, o <rhyme label="a" type="m">Donderaer</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Kom, ey kom, o <rhyme label="a" type="m" corresp="#s4:l1">Donderaer</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Met u wreeden blicksem <rhyme label="a" type="m" corresp="#s4:l1">zwaer</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Plet mijn luyster, ‘k wil in het <rhyme label="b" type="f">duyster</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">By ’t ghekluyster, liever <rhyme label="c" type="m">zijn</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Dan te lijden des <rhyme label="c" type="m" corresp="#s4:l5">pijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

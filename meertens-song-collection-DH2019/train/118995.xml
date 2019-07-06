@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>118995</id>
+    <date>
+      <year-start>1745</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">AUjourd'hui l'Amour est a la <rhyme label="a" type="f">mode</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">A touts moments sujet a <rhyme label="b" type="m">changement</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Mairs mon coeur est a la veille <rhyme label="a" type="f" corresp="#s1:l1">mode</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Quand il aime, il aime, il aime, il <rhyme label="a" type="f" corresp="#s1:l1">aime</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">Quand il aime, il aime <rhyme label="b" type="m" corresp="#s1:l2">constamment</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Aujourd'hui je suis amant a <rhyme label="a" type="f">vendre</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Belle Mannon voulez vous <rhyme label="b" type="m">m'achetter</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Achetter moy belle venez me <rhyme label="a" type="f" corresp="#s2:l1">prendre</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Car demain je ne suis plus a <rhyme label="a" type="f" corresp="#s2:l1">vendre</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Car demain je ne veut plus <rhyme label="b" type="m" corresp="#s2:l2">aimer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Si vous changez permettez que je <rhyme label="a" type="f">change</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Je ne croy point que je suis a <rhyme label="b" type="m">blamer</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Quand vous serriez si belle qu'un <rhyme label="a" type="f" corresp="#s3:l1">ange</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Je n'aime point, je n'aime point qu'on <rhyme label="a" type="f" corresp="#s3:l1">change</rhyme>,</l>
+        <l id="s3:l5" met="5" type="-+">Je n'aime point quant on ne veut <rhyme label="b" type="m" corresp="#s3:l2">aimer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

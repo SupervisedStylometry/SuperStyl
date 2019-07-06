@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100258</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Folie d'Espagne</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">WY gaan u voor, O Juffers ryp van <rhyme label="a" type="f">jaaren</rhyme>!</l>
+        <l id="s1:l2" met="5" type="-+">Wy gaan u voor, Gy Heeren, die nog <rhyme label="b" type="m">vryd</rhyme>!</l>
+        <l id="s1:l3" met="5" type="-+">Volgt, volgt ons na, zoekt nevens ons te <rhyme label="a" type="f" corresp="#s1:l1">paren</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Wy gaan u voor, wat baat het of 't u <rhyme label="b" type="m" corresp="#s1:l2">spyt</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Wel waarom dus de Vryers te <rhyme label="a" type="f">trotszeeren</rhyme>?</l>
+        <l id="s2:l2" met="5" type="-+">Wy wenssen wel met u te zyn <rhyme label="b" type="m">gepaart</rhyme>;</l>
+        <l id="s2:l3" met="5" type="-+">Maar konnen haar nog niet tot min <rhyme label="a" type="f" corresp="#s2:l1">bekeeren</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Al zyn wy schoon de gunst der Juffers <rhyme label="b" type="m" corresp="#s2:l2">waard</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">De liefde mag ons tot haar doel wit <rhyme label="a" type="f">zetten</rhyme>;</l>
+        <l id="s3:l2" met="5" type="-+">Wy zien vast hoe eene ander zig <rhyme label="b" type="m">vervoegd</rhyme>.</l>
+        <l id="s3:l3" met="5" type="-+">Zy kan ons niet regeren door haar <rhyme label="a" type="f" corresp="#s3:l1">wetten</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Wy houden ons met onzen staat <rhyme label="b" type="m" corresp="#s3:l2">vernoegd</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Gy moogt u selfs, O zoete Juffers <rhyme label="a" type="f">vleyen</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">En geven zoo de weelt slegts wat <rhyme label="b" type="m">schyn</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">Om dat gy van u Speel-genoot moet <rhyme label="a" type="f" corresp="#s4:l1">scheyen</rhyme>;</l>
+        <l id="s4:l4" met="5" type="-+">Nogtans u wens is ons gelyk te <rhyme label="b" type="m" corresp="#s4:l2">zyn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

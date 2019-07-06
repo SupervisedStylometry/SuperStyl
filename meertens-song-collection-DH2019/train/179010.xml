@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>179010</id>
+    <date>
+      <year-start>1707</year-start>
+      <year-end>1707</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Lofzang van Simeon [Datheen]</melody>
+  <author>François Halma</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">NU laat gy, Heer, uw' <rhyme label="a" type="m">knecht</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Naar 't woordt hem <rhyme label="a" type="m" corresp="#s1:l1">toegezegt</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Gaan in een' vollen <rhyme label="b" type="f">vrede</rhyme>:</l>
+        <l id="s1:l4" met="3" type="-+">Omdat hy heeft <rhyme label="c" type="m">gezien</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Uw zaligheit, en <rhyme label="c" type="m" corresp="#s1:l4">dien</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Die komt, naar onze <rhyme label="b" type="f" corresp="#s1:l3">bede</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Het heil van u <rhyme label="a" type="m">bereidt</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Door uw <rhyme label="a" type="m" corresp="#s2:l1">barmhartigheit</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Voor 't aanschyn aller <rhyme label="b" type="f">volken</rhyme>;</l>
+        <l id="s2:l4" met="3" type="-+">Den Heidenen een <rhyme label="c" type="m">licht</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Tot Isrels eer <rhyme label="c" type="m" corresp="#s2:l4">gericht</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Straalt hoog tot aan de <rhyme label="b" type="f" corresp="#s2:l3">wolken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

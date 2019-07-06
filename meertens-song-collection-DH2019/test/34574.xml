@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34574</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Caliste mon désir</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">CLoris  mynen hooghsten <rhyme label="a" type="m">lust</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Ey verlaet u wreede <rhyme label="b" type="f">zeden</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Wat verstoort ghy myne <rhyme label="a" type="m" corresp="#s1:l1">rust</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">On-gegrondt en teghen <rhyme label="b" type="f" corresp="#s1:l2">reden</rhyme>:</l>
+        <l id="s1:l5" met="4" type="+-">Haest u, helpt my uyt den <rhyme label="c" type="m">noot</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Oft ghy sult my vinden <rhyme label="c" type="m" corresp="#s1:l5">doot</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Ah! een kusjen is te <rhyme label="a" type="m">zwack</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Om myn herte te <rhyme label="b" type="f">ghenesen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Ick en raeck niet van dat <rhyme label="a" type="m" corresp="#s2:l1">pack</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Oft ghy moet staegh myne <rhyme label="b" type="f" corresp="#s2:l2">wesen</rhyme>;</l>
+        <l id="s2:l5" met="4" type="+-">Haest u, helpt my uyt den <rhyme label="c" type="m">noodt</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Oft ghy sult my vinden <rhyme label="c" type="m" corresp="#s2:l5">doodt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">En stelt doch geen schutsel, <rhyme label="a" type="m">voor</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">'t Ghen' den Hemel wilt <rhyme label="b" type="f">ghehengen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Helpt my eer ick gantsch <rhyme label="a" type="m" corresp="#s3:l1">versmoor</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Oft ick sal aen 't vier <rhyme label="b" type="f" corresp="#s3:l2">verzenghen</rhyme>:</l>
+        <l id="s3:l5" met="4" type="+-">Haest u, helpt my uyt den <rhyme label="c" type="m">noodt</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Oft ghy sult my vinden <rhyme label="c" type="m" corresp="#s3:l5">doodt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

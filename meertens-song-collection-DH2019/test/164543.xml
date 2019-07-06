@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>164543</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Al wat men doet</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Sig selve om een schoone te <rhyme label="a" type="f">verkwijnen</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Voor een die de Armoed met haar stoet <rhyme label="b" type="m">verseld</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Is goud gesogt in schrale <rhyme label="a" type="f" corresp="#s1:l1">ysermijnen</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">En vrugtloos aan een 's doven deur <rhyme label="b" type="m" corresp="#s1:l2">gebeld</rhyme>.</l>
+        <l id="s1:l5" met="2" type="-+">Men agt op <rhyme label="c" type="f">heden</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Verstand nog <rhyme label="c" type="f" corresp="#s1:l5">zeden</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">De sterkste <rhyme label="c" type="f" corresp="#s1:l5">reden</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">Is het stomme <rhyme label="b" type="m" corresp="#s1:l2">geld</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Dit schoon metaal, so vol <rhyme label="a" type="f">aanminnigheden</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Heeft op de sinnen nu de meeste <rhyme label="b" type="m">magt</rhyme>;</l>
+        <l id="s2:l3" met="5" type="-+">Dat kost   veel meer als duyzend schoone <rhyme label="a" type="f" corresp="#s2:l1">reden</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Die immer heeft een minnaar <rhyme label="b" type="m" corresp="#s2:l2">voortgebragt</rhyme>.</l>
+        <l id="s2:l5" met="2" type="-+">Weg met het <rhyme label="c" type="f">praten</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">Dat kan niet <rhyme label="c" type="f" corresp="#s2:l5">baten</rhyme>:</l>
+        <l id="s2:l7" met="2" type="-+">Door goud en <rhyme label="c" type="f" corresp="#s2:l5">staten</rhyme></l>
+        <l id="s2:l8" met="3" type="+-">Werd het hert <rhyme label="b" type="m" corresp="#s2:l2">verkragt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

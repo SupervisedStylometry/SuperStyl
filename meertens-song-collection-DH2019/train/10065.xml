@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10065</id>
+    <date>
+      <year-start>1658</year-start>
+      <year-end>1658</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Une et deux et trois</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">LUitjen wouw, en zou aan 't <rhyme label="a" type="m">wijff</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Tot zyn gerijff, Tot zyn <rhyme label="a" type="m" corresp="#s1:l1">gerijff</rhyme></l>
+        <l id="s1:l3" met="6" type="+-">Wangt hy was nu twintich-jaar, dus ging hy <rhyme label="b" type="f">ontvouwe</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Ik wil, ja, zell an <rhyme label="b" type="f" corresp="#s1:l3">trouwe</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Wist ick maar een <rhyme label="a" type="m">braave-tas</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Ick zouwer ras, Ick zouwer <rhyme label="a" type="m" corresp="#s2:l1">ras</rhyme></l>
+        <l id="s2:l3" met="6" type="+-">(Byme Besjes onger-ziel) datelyk naa <rhyme label="b" type="f">loope</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Ia, stracx de Meid gaan <rhyme label="b" type="f" corresp="#s2:l3">stroope</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Niet: je miend ien <rhyme label="a" type="m">hallef-vat</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Vol Dellefs-nat, Vol <rhyme label="a" type="m" corresp="#s3:l1">Dellefs-nat</rhyme></l>
+        <l id="s3:l3" met="6" type="+-">(Sprak zyn Makker) slikkebreur om jouw keel te <rhyme label="b" type="f">zalleve</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Mit hiele, in mit <rhyme label="b" type="f" corresp="#s3:l3">halleven</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Mit deierste-teugh zoop <rhyme label="a" type="m">Luit</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Ien vaan schoon uit, Ien vaan schoon <rhyme label="a" type="m" corresp="#s4:l1">uit</rhyme>;</l>
+        <l id="s4:l3" met="6" type="+-">d'Oogen draaiden in sen kop, of hy stong en <rhyme label="b" type="f">weende</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">En respte, nukte en <rhyme label="b" type="f" corresp="#s4:l3">steende</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Lo wtje zey dat's miter <rhyme label="a" type="m">vaart</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Hiel wel eklaart, Hiel wel <rhyme label="a" type="m" corresp="#s5:l1">eklaart</rhyme></l>
+        <l id="s5:l3" met="6" type="+-">Jahet zoume, by me zy, al mijn leven <rhyme label="b" type="f">rouwen</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Alzoo niet mee te <rhyme label="b" type="f" corresp="#s5:l3">stouwen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Dit's de <rhyme label="a" type="m">tiende-pijp-roebak</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Al uit me zak, Al uit me <rhyme label="a" type="m" corresp="#s6:l1">zak</rhyme></l>
+        <l id="s6:l3" met="6" type="+-">Bloet! ik mien deus hiele doos noch wel lee'g te <rhyme label="b" type="f">rooken</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Ier my de kop zel <rhyme label="b" type="f" corresp="#s6:l3">kooken</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">Déér meê greep hy toen de <rhyme label="a" type="m">kan</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Ook snaarich an, Ook snaarich <rhyme label="a" type="m" corresp="#s7:l1">an</rhyme></l>
+        <l id="s7:l3" met="6" type="+-">En hy dochtse mee as Luit happich uit te <rhyme label="b" type="f">klare</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Maar hoor zyn <rhyme label="b" type="f" corresp="#s7:l3">wedervaare</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="+-">Nauwlijcx was de kan te <rhyme label="a" type="m">deegh</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">Noch hallef leegh, Noch hallef <rhyme label="a" type="m" corresp="#s8:l1">leegh</rhyme></l>
+        <l id="s8:l3" met="6" type="+-">Of het varken stort in 't vuur, dat me'r af most <rhyme label="b" type="f">grouwen</rhyme>,</l>
+        <l id="s8:l4" met="3" type="-+">En doofden 't uit, met <rhyme label="b" type="f" corresp="#s8:l3">spouwen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

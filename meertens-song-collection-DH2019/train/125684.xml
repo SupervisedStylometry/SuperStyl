@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>125684</id>
+    <date>
+      <year-start>1767</year-start>
+      <year-end>1767</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+    </tags>
+    <melody>De valsemunters</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">NAar 't fatzoen is haar <rhyme label="a" type="m">Neus</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Opgekrompen met een <rhyme label="b" type="f">Boghel</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Dat is raar, Ook een Kin met <rhyme label="c" type="m">Haar</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Is heel vol van Groene <rhyme label="d" type="m">Snot</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Op dees Meyd ben ik <rhyme label="d" type="m" corresp="#s1:l4">verzot</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Haar Neus omtrent een <rhyme label="c" type="m" corresp="#s1:l3">span</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">'k Wou dat ik al waar haar <rhyme label="c" type="m" corresp="#s1:l3">Man</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

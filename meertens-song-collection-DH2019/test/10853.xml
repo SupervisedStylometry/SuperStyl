@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10853</id>
+    <date>
+      <year-start>1605</year-start>
+      <year-end>1605</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+      <tag standard-name="tafellied" translation="dining song">tafellied</tag>
+    </tags>
+    <melody>Branle maîtresse</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Seer lustich fray van <rhyme label="a" type="f">gheeste</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Soo wilt hier alle <rhyme label="b" type="m">zyn</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">de minste met de <rhyme label="a" type="f" corresp="#s1:l1">meeste</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Elck met zyn Liefken <rhyme label="b" type="m" corresp="#s1:l2">fijn</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Al hier in desen <rhyme label="a" type="f" corresp="#s1:l1">feeste</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">En drincken die rode <rhyme label="b" type="m" corresp="#s1:l2">wijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Waerom so sullen wy <rhyme label="a" type="f">treuren</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Alhier op die <rhyme label="b" type="m">termijn</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Lanck moetet met ons <rhyme label="a" type="f" corresp="#s2:l1">dueren</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Aldus in dese <rhyme label="b" type="m" corresp="#s2:l2">schijn</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Laet ons den Beecker om <rhyme label="a" type="f" corresp="#s2:l1">vueren</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">En drincken de koele <rhyme label="b" type="m" corresp="#s2:l2">wijn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Die wijn die maeckt <rhyme label="a" type="f">coragieus</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Sy wast al aen den <rhyme label="b" type="m">Rijn</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Sy maeckt den Minnaers <rhyme label="a" type="f" corresp="#s3:l1">amoreus</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">dat Merck ick wel aen <rhyme label="b" type="m" corresp="#s3:l2">myn</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">daerom wilt altesamen <rhyme label="a" type="f" corresp="#s3:l1">heus</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">drincken die koele <rhyme label="b" type="m" corresp="#s3:l2">wijn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Met jocken locken <rhyme label="a" type="f">wincken</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Als minnaers <rhyme label="b" type="m">Medecijn</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">So laet die keeltgens <rhyme label="a" type="f" corresp="#s4:l1">clincken</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">want vreughd en is gheen <rhyme label="b" type="m" corresp="#s4:l2">pijn</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Laat Koeyen het water <rhyme label="a" type="f" corresp="#s4:l1">drincken</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">En wy die koele <rhyme label="b" type="m" corresp="#s4:l2">wijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14914</id>
+    <date>
+      <year-start>1622</year-start>
+      <year-end>1622</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Amarylletje mijn vriendin</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Beminde,, Larinde,, vvaer vind ick <rhyme label="a" type="m">uw</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Mijn Harder,, vvat varder,, in ’t Bosjen ist <rhyme label="a" type="m" corresp="#s1:l1">luw</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Ghegroet,, so moet,, mijn <rhyme label="b" type="m">Nimphelijn</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Van haer Eerbaren Harder <rhyme label="b" type="m" corresp="#s1:l3">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">ô Tyter,, ghy Myter,, ick kycker dick <rhyme label="a" type="m">om</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Dees Boomen,, en stroomen,, daer ick daghelicx <rhyme label="a" type="m" corresp="#s2:l1">com</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Ghy vliet,, ick siet,, myn by-zijn <rhyme label="b" type="m">vart</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Ach! ach! hoe mach,, het van u <rhyme label="b" type="m" corresp="#s2:l3">hart</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Hard’rinne,, mijn sinne,, die Minnen al <rhyme label="a" type="m">‘tgheen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Dat soetjes,, u voetjes,, soo vvacker <rhyme label="a" type="m" corresp="#s3:l1">betreen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">u Vee,, oock mee,, om uvven’t <rhyme label="b" type="m">vvil</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Mijn haeght,, ô Maeght,, dus swyght toch <rhyme label="b" type="m" corresp="#s3:l3">stil</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

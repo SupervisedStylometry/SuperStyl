@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>191647</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1746</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Schoon dat ik onder het groen</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Myn Hartje zyt te <rhyme label="a" type="m">vreen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Ik heb hier lang in <rhyme label="b" type="f">d'ooren</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Uw woorden kunnen <rhyme label="b" type="f" corresp="#s1:l2">horen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En 't merg van uwe <rhyme label="a" type="m" corresp="#s1:l1">reen</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">(Gelyk ik deed voor <rhyme label="a" type="m" corresp="#s1:l1">heen</rhyme>)</l>
+        <l id="s1:l6" met="3" type="-+">Uyt uwe zang <rhyme label="c" type="f">gezoogen</rhyme>.</l>
+        <l id="s1:l7" met="3" type="-+">Dog om eens te <rhyme label="c" type="f" corresp="#s1:l6">betoogen</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Of gy my vinden <rhyme label="d" type="m">zoud</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">Hier in dit weelig <rhyme label="d" type="m" corresp="#s1:l8">Woud</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">Komt vierd vry uwe <rhyme label="e" type="f">lusjes</rhyme>,</l>
+        <l id="s1:l11" met="3" type="+-">En geeft zelfs honderd <rhyme label="e" type="f" corresp="#s1:l10">kusjes</rhyme>,</l>
+        <l id="s1:l12" met="3" type="-+">Aan uwe <rhyme label="f" type="m">Rosemond</rhyme>,</l>
+        <l id="s1:l13" met="3" type="-+">Die uw hert heeft <rhyme label="f" type="m" corresp="#s1:l12">gewond</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

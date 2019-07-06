@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3736</id>
+    <date>
+      <year-start>1566</year-start>
+      <year-end>1566</year-end>
+    </date>
+    <location>
+      <orginal-name>heidelberg</orginal-name>
+      <standard-name>Heidelberg, Germany</standard-name>
+      <coordinates>
+        <lon>49.4093582</lon>
+        <lat>8.694724</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 133 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">SIET hoe fyn end lieflick is t'allen <rhyme label="a" type="f">stonden</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Dat broeders in eendrachticheit <rhyme label="a" type="f" corresp="#s1:l1">beuonden</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">T'saemen wonen in vrede <rhyme label="b" type="m">goet</rhyme>.</l>
+        <l id="s1:l4" met="5" type="-+">Sulcks is gantschlick ghelyck een balsem <rhyme label="b" type="m" corresp="#s1:l3">soet</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">Die op dat hooft Aarons was seer <rhyme label="c" type="m">klaer</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Wtghestortet in't <rhyme label="c" type="m" corresp="#s1:l5">openbaer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Die van sijn hooft lieuelick <rhyme label="a" type="f">nederdaelde</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">In sijnen baert, so dat s' oock niet en <rhyme label="a" type="f" corresp="#s2:l1">faelde</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">In den boort sijner kleydingh' <rhyme label="b" type="m">reyn</rhyme>.</l>
+        <l id="s2:l4" met="5" type="-+">Die vred' is den dauw ghelyck in't <rhyme label="b" type="m" corresp="#s2:l3">ghemeyn</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Die op Hermon end Zions bergh <rhyme label="c" type="m">eenpaer</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Valt, end t'landt omhęr maeckt <rhyme label="c" type="m" corresp="#s2:l5">vruchtbaer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

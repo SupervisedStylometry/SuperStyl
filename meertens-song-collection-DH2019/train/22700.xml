@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22700</id>
+    <date>
+      <year-start>1576</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <tags>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+      <tag standard-name="troostlied" translation="consolation song">troostlied</tag>
+    </tags>
+    <melody>Dat ik om een schoon beeld zoet</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>David Joris</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wel op wacker alle <rhyme label="a" type="f">Men-schen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Staet op van sonden, Christum <rhyme label="b" type="m">aenschouwt</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Verlaet al v quaede <rhyme label="a" type="f" corresp="#s1:l1">inventen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">U Heer, u Bruydegom vast <rhyme label="b" type="m" corresp="#s1:l2">betrouwt</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">T'Lam is bereyt, scheyt daer van <rhyme label="c" type="m">niet</rhyme>:</l>
+        <l id="s1:l6" met="2" type="-+">Hier wel op <rhyme label="c" type="m" corresp="#s1:l5">siet</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">T'is hier een kleyn vreucht na mennich <rhyme label="c" type="m" corresp="#s1:l5">verdriet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Boert op u herten, aenhoort noch <rhyme label="a" type="f">meer</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Doet waerde vruchten, penitentie <rhyme label="b" type="m">bloot</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Verlaet die Werlt unde volcht Godts <rhyme label="a" type="f" corresp="#s2:l1">leer</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Sterft u vleysch sijn begheerlijckheyt <rhyme label="b" type="m" corresp="#s2:l2">groot</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">S'Werlts wellusten nu doch <rhyme label="c" type="m">vliet</rhyme>:</l>
+        <l id="s2:l6" met="2" type="-+">Hier wel op <rhyme label="c" type="m" corresp="#s2:l5">siet</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">T'is hier een kleyn vreucht na mennich <rhyme label="c" type="m" corresp="#s2:l5">verdriet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Den wech des Levens ghetrouwelijck <rhyme label="a" type="f">gaet</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Die u totter rusten brenghen <rhyme label="b" type="m">moet</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Pijnt u te spoeden eert valt te <rhyme label="a" type="f" corresp="#s3:l1">laet</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Treckt aen dat Harnas van herten <rhyme label="b" type="m" corresp="#s3:l2">vroet</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">Strijdt mit dat Sweerdt des Geestes <rhyme label="c" type="m">bediet</rhyme>:</l>
+        <l id="s3:l6" met="2" type="-+">Hier wel op <rhyme label="c" type="m" corresp="#s3:l5">siet</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">T'is hier een kleyn vreucht na mennich <rhyme label="c" type="m" corresp="#s3:l5">verdriet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

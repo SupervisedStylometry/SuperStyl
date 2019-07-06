@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182578</id>
+    <date>
+      <year-start>1800</year-start>
+      <year-end>1800</year-end>
+    </date>
+    <tags/>
+    <melody/>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Kom lief meisje voor de <rhyme label="a" type="f">raamen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Liefde, liefde houd de <rhyme label="b" type="m">wagt</rhyme>:</l>
+        <l id="s1:l3" met="4" type="+-">Schim maar in verliefd te <rhyme label="a" type="f" corresp="#s1:l1">zamen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Dwaale, dwaale rond by <rhyme label="b" type="m" corresp="#s1:l2">nagt</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Zwart daar maan ossterre <rhyme label="a" type="f">schynen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Is voor het voor het <rhyme label="b" type="m">gezigt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Daar de minnende oogjes <rhyme label="a" type="f" corresp="#s2:l1">kwynen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">is het helder helder <rhyme label="b" type="m" corresp="#s2:l2">ligt</rhyme>,</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Wilt u minnares <rhyme label="a" type="f">verhooren</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Kom in zyne zyne <rhyme label="b" type="m">arm</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Zyne vingers zyn <rhyme label="a" type="f" corresp="#s3:l1">bevrooren</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Maar zyn hart zyn hart is <rhyme label="b" type="m" corresp="#s3:l2">warm</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Komt een lief meisje voor de <rhyme label="a" type="f">raamen</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Liefde, liefde houd de <rhyme label="b" type="m">wagt</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">Schim maar in verliefd te <rhyme label="a" type="f" corresp="#s4:l1">zaamen</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Dwaale, dwaale rond by <rhyme label="b" type="m" corresp="#s4:l2">nagt</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19977</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Ik prees weleer met minnelijk gedicht</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">ICk prees wel eer, met minnelijck <rhyme label="a" type="m">ghedicht</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">V flonckerende ooghen, een andere <rhyme label="b" type="f">glans</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">Heeft nu mijn oogh <rhyme label="a" type="m" corresp="#s1:l1">verlicht</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Nu rijm ick van een blinckend glas met <rhyme label="c" type="m">Wijn</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Wat konder schoonder <rhyme label="c" type="m" corresp="#s1:l4">zijn</rhyme>?</l>
+        <l id="s1:l6" met="6" type="-+">V ooghen dooden my, de Wijn is soo <rhyme label="b" type="f" corresp="#s1:l2">vermoghen</rhyme>,</l>
+        <l id="s1:l7" met="5" type="-+">Ik lever by, dat heeft een beter <rhyme label="c" type="m" corresp="#s1:l4">schijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">’t Was wat Cloris, als u corale <rhyme label="a" type="m">mont</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Naer lange vryerije, my aen mijn <rhyme label="b" type="f">mont</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Een vochtigh kusje <rhyme label="a" type="m" corresp="#s2:l1">sondt</rhyme>.</l>
+        <l id="s2:l4" met="5" type="-+">Nu stroomt mijn mont, van lieffelijcke <rhyme label="c" type="m">lust</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Als ick mijn glaesje <rhyme label="c" type="m" corresp="#s2:l4">kus</rhyme>,</l>
+        <l id="s2:l6" met="6" type="-+">Ick kusse soo mijn glas sich aen mijn mont quam <rhyme label="b" type="f" corresp="#s2:l2">vleye</rhyme>,</l>
+        <l id="s2:l7" met="5" type="-+">Kus ick mijn glas, mijn brant werdt <rhyme label="c" type="m" corresp="#s2:l4">uytgeblust</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">V ooghjes glans, de bloosjes van u <rhyme label="a" type="m">mont</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Zijn doch voor weynigh vree dies’ heden <rhyme label="b" type="f">sach</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Licht morgen niet en <rhyme label="a" type="m" corresp="#s3:l1">vont</rhyme>:</l>
+        <l id="s3:l4" met="5" type="-+">Och Wijn! och eele Wijn! u luyster sal <rhyme label="c" type="m">bestaen</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">En duyrt u glans <rhyme label="c" type="m" corresp="#s3:l4">altijdt</rhyme>,</l>
+        <l id="s3:l6" met="6" type="-+">Soo sal mijn liefde dure, tot dat ick <rhyme label="b" type="f" corresp="#s3:l2">sal</rhyme></l>
+        <l id="s3:l7" met="5" type="-+">In ’t graf vernachten <rhyme label="c" type="m" corresp="#s3:l4">gaen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

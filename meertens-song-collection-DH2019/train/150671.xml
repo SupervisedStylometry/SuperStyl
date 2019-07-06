@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>150671</id>
+    <date>
+      <year-start>1630</year-start>
+      <year-end>1630</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 150 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Dirk Rafaelsz. Camphuysen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">LOoft den Heer die heerlijck <rhyme label="a" type="m">leeft</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">En ten stoel den Hemel <rhyme label="a" type="m" corresp="#s1:l1">heeft</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Wiens verwulf, wijdt <rhyme label="b" type="m">uytgebreydt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Rust op sijn <rhyme label="b" type="m" corresp="#s1:l3">Al-mogentheydt</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">Looft hem in de groote <rhyme label="c" type="f">wercken</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Voormaels na de maet <rhyme label="d" type="m">gewracht</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Van sijn ongemeten <rhyme label="d" type="m" corresp="#s1:l6">kracht</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Veel, en waerdt om op te <rhyme label="c" type="f" corresp="#s1:l5">mercken</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Looft met alle spel en <rhyme label="a" type="m">sanck</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Looft hem met basuynen <rhyme label="a" type="m" corresp="#s2:l1">klanck</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Looft hem met het snaer <rhyme label="b" type="m">geluydt</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Van den Psalter en de <rhyme label="b" type="m" corresp="#s2:l3">Luyt</rhyme>;</l>
+        <l id="s2:l5" met="4" type="+-">Looft met trommen, en met <rhyme label="c" type="f">reyen</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Van een heyl’ge <rhyme label="d" type="m">Maeghden-kroon</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Looft met snaren soet van <rhyme label="d" type="m" corresp="#s2:l6">toon</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Mengter d’orgel tusschen <rhyme label="c" type="f" corresp="#s2:l5">bey’en</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Looft hem met het hel en <rhyme label="a" type="m">schel</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Oor-door-dringend <rhyme label="a" type="m" corresp="#s3:l1">cimbel-spel</rhyme>:</l>
+        <l id="s3:l3" met="4" type="+-">Cimbel-spel, vermaeck van <rhyme label="b" type="m">geest</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">In triumph en <rhyme label="b" type="m" corresp="#s3:l3">zege-feest</rhyme>.</l>
+        <l id="s3:l5" met="4" type="+-">Looft en singt, al wat kan <rhyme label="c" type="f">singen</rhyme>.</l>
+        <l id="s3:l6" met="4" type="+-">Looft, al wat de borst <rhyme label="d" type="m">beweeght</rhyme></l>
+        <l id="s3:l7" met="4" type="+-">En met adem vult en <rhyme label="d" type="m" corresp="#s3:l6">leeght</rhyme>:</l>
+        <l id="s3:l8" met="4" type="+-">Looft den Heere aller <rhyme label="c" type="f" corresp="#s3:l5">dingen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

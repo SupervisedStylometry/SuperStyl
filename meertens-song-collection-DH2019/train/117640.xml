@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>117640</id>
+    <date>
+      <year-start>1741</year-start>
+      <year-end>1741</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>In de min vind ik geneugten</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">In de Min vind ik <rhyme label="a" type="f">genugten</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">En ook in de koele <rhyme label="b" type="m">Wyn</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Die verdryft alle <rhyme label="a" type="f" corresp="#s1:l1">ongenuchten</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">By zyn Lieffje ‘is 't zoet te <rhyme label="b" type="m" corresp="#s1:l2">zyn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Zegt eens wat Plyzier kan 't <rhyme label="a" type="f">wezen</rhyme>?</l>
+        <l id="s2:l2" met="4" type="+-">Alle dagen vol en <rhyme label="b" type="m">zat</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">De Wyn kan ons van al <rhyme label="a" type="f" corresp="#s2:l1">genezen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Ik loop geen Meysjes ‘agter 't <rhyme label="b" type="m" corresp="#s2:l2">gat</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ik leef gerust en zonder <rhyme label="a" type="f">zorgen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">De Wyn versterkt myn Hert en <rhyme label="b" type="m">Zin</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Heb ik geen geld de Waard zal <rhyme label="a" type="f" corresp="#s3:l1">borgen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">En dan lag ik ‘met de <rhyme label="b" type="m" corresp="#s3:l2">Min</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Dat zyn al maar zotte <rhyme label="a" type="f">reden</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">En een regte Dronkaarts <rhyme label="b" type="m">praat</rhyme>;</l>
+        <l id="s4:l3" met="4" type="-+">Maar een Meysje fraay van <rhyme label="a" type="f" corresp="#s4:l1">Leden</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Dat is daar myn ‘hert na <rhyme label="b" type="m" corresp="#s4:l2">staat</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Dronkaarts zyn gelyk de <rhyme label="a" type="f">Beesten</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Wel wat zyn de Minnaars <rhyme label="b" type="m">dog</rhyme>?</l>
+        <l id="s5:l3" met="4" type="-+">Niet als ongeruste <rhyme label="a" type="f" corresp="#s5:l1">Geesten</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Vol van Listen en <rhyme label="b" type="m" corresp="#s5:l2">bedrog</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Laat ons niet meer <rhyme label="a" type="f">Disputeren</rhyme>,</l>
+        <l id="s6:l2" met="4" type="+-">Van de Liefde of van de <rhyme label="b" type="m">Wyn</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Laat ons zamen <rhyme label="a" type="f" corresp="#s6:l1">accorderen</rhyme>,</l>
+        <l id="s6:l4" met="4" type="+-">En dan lagchende vrolyk <rhyme label="b" type="m" corresp="#s6:l2">zyn</rhyme>:</l>
+      </lg>
+    </lg>
+  </text>
+</song>

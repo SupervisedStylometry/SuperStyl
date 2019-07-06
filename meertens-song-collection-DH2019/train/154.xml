@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>154</id>
+    <date>
+      <year-start>1589</year-start>
+      <year-end>1589</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Jeugd en deugd</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ic breng mijn naeste gebuer en <rhyme label="a" type="m">dronc</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Ick hoop hy sal dat <rhyme label="b" type="f">wachten</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Ick gunt hem wt mijns hertsen <rhyme label="a" type="m" corresp="#s1:l1">gront</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Met vrolicke <rhyme label="b" type="f" corresp="#s1:l2">ghedachten</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Mijn wijn, fijn eedelen <rhyme label="c" type="m">wijn</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Sober wilt ghy ghedroncken <rhyme label="c" type="m" corresp="#s1:l5">zijn</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Anders so zijt ghy <rhyme label="c" type="m" corresp="#s1:l5">fenijn</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Van wonderlicke <rhyme label="b" type="f" corresp="#s1:l2">crachten</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als ick den eedelen wijn <rhyme label="a" type="m">aenschou</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Vergheet ick mijn <rhyme label="b" type="f">labueren</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">En voeghet in die beste <rhyme label="a" type="m" corresp="#s2:l1">vou</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">En laet Fiolen <rhyme label="b" type="f" corresp="#s2:l2">trueren</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Wijn wijn, fijn eedelen <rhyme label="c" type="m">wijn</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Sober wilt ghy ghedroncken <rhyme label="c" type="m" corresp="#s2:l5">zijn</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Anders so zijt ghy <rhyme label="c" type="m" corresp="#s2:l5">fenijn</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Men moet v dick <rhyme label="b" type="f" corresp="#s2:l2">besueren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Den wijn proeftmen by den <rhyme label="a" type="m">smaeck</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Als ons die oude <rhyme label="b" type="f">leeren</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Hy verdrijft so menighe Mens den <rhyme label="a" type="m" corresp="#s3:l1">vaeck</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">By nacht te <rhyme label="b" type="f" corresp="#s3:l2">bancketeren</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Wijn wijn, fijn eedelen <rhyme label="c" type="m">wijn</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Sober wilt ghy ghedroncken <rhyme label="c" type="m" corresp="#s3:l5">zijn</rhyme></l>
+        <l id="s3:l7" met="4" type="+-">Anders so zijt ghy <rhyme label="c" type="m" corresp="#s3:l5">fenijn</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">En wilt den Mens <rhyme label="b" type="f" corresp="#s3:l2">regeren</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Die wijn is wt, den Croes is <rhyme label="a" type="m">leech</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Een ander doe ick <rhyme label="b" type="f">schencken</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Mijn dunckt ick creech so goeden <rhyme label="a" type="m" corresp="#s4:l1">deech</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Ick can gheen droefheyt <rhyme label="b" type="f" corresp="#s4:l2">dencken</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Wijn wijn, fijn eedelen <rhyme label="c" type="m">wijn</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">Sober wilt ghy ghedroncken <rhyme label="c" type="m" corresp="#s4:l5">zijn</rhyme></l>
+        <l id="s4:l7" met="4" type="+-">Anders so zijt ghy <rhyme label="c" type="m" corresp="#s4:l5">fenijn</rhyme>,</l>
+        <l id="s4:l8" met="3" type="-+">En doet den Hont wel <rhyme label="b" type="f" corresp="#s4:l2">hincken</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Ontfangt van my den Beeker <rhyme label="a" type="m">net</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Mijn vriendekens wt <rhyme label="b" type="f">vercooren</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">En drinckt het wt met eenen <rhyme label="a" type="m" corresp="#s5:l1">sedt</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Als ick v dee te <rhyme label="b" type="f" corresp="#s5:l2">voren</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">Wijn wijn, fijn eedelen <rhyme label="c" type="m">wijn</rhyme></l>
+        <l id="s5:l6" met="4" type="+-">Sober wilt ghy ghedroncken <rhyme label="c" type="m" corresp="#s5:l5">zijn</rhyme>,</l>
+        <l id="s5:l7" met="4" type="+-">Anders, so zijt ghy <rhyme label="c" type="m" corresp="#s5:l5">fenijn</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">Ghy doet ons vreucht <rhyme label="b" type="f" corresp="#s5:l2">oorbooren</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Noe die heeft den Wijn <rhyme label="a" type="m">gheplant</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">Al door beuel des <rhyme label="b" type="f">Heeren</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Godt den heer sy loff en <rhyme label="a" type="m" corresp="#s6:l1">danck</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Diet al hier doet <rhyme label="b" type="f" corresp="#s6:l2">vermeren</rhyme></l>
+        <l id="s6:l5" met="3" type="-+">Wijn wijn, fijn eedelen <rhyme label="c" type="m">wijn</rhyme>,</l>
+        <l id="s6:l6" met="4" type="+-">Des menschen hart verheucht ghy <rhyme label="c" type="m" corresp="#s6:l5">fijn</rhyme>,</l>
+        <l id="s6:l7" met="4" type="+-">Ghy zijt een goeden <rhyme label="c" type="m" corresp="#s6:l5">Medecijn</rhyme></l>
+        <l id="s6:l8" met="3" type="-+">Als ons die schrift doet <rhyme label="b" type="f" corresp="#s6:l2">leeren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

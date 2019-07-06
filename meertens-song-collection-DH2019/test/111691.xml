@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111691</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="dialectlied" translation="dialect song">dialectlied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Phyllis mijn doorluchtige zon</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="groups">groepen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">FILLIS, main doorluchtige <rhyme label="a" type="m">Zon</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Dat kik' ou eens veranderen <rhyme label="a" type="m" corresp="#s1:l1">kon</rhyme>!</l>
+        <l id="s1:l3" met="4" type="-+">Want ouw gezigt Main pain <rhyme label="b" type="m">verligt</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Als kik moar kus ouw <rhyme label="c" type="f">koâken</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">FILLIS, men zaud'er out ouw <rhyme label="b" type="m" corresp="#s1:l3">gezigt</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Ein dieven Lontoârentje <rhyme label="c" type="f" corresp="#s1:l4">moâken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

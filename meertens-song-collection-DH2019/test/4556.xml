@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4556</id>
+    <date>
+      <year-start>1667</year-start>
+      <year-end>1667</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Ma mère ik zeg</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MYn hartje bayt in minne <rhyme label="a" type="f">lusjes</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Als ick geniet u soete <rhyme label="a" type="f" corresp="#s1:l1">kusjes</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Mijn ziel, mijn boesem is <rhyme label="b" type="m">gewont</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Als ick insuygh den douw den <rhyme label="c" type="f">waesem</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Den Nectar, en den soeten <rhyme label="c" type="f" corresp="#s1:l4">aesem</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Van u besnede <rhyme label="b" type="m" corresp="#s1:l3">Rosemont</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als ick u keeltjen hoor aen 't <rhyme label="a" type="f">quelen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Soo klaer, gelijck een Orgel <rhyme label="a" type="f" corresp="#s2:l1">spelen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Als ick verneem u soet <rhyme label="b" type="m">geluyt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Trots al de Musen en <rhyme label="c" type="f">Syringen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Schoon dat se noch soo heerlijk <rhyme label="c" type="f" corresp="#s2:l4">singen</rhyme>.</l>
+        <l id="s2:l6" met="4" type="-+">Trots Cyter, Lier, Fiool en <rhyme label="b" type="m" corresp="#s2:l3">Fluyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Als ick u lonckjes d'een voor <rhyme label="a" type="f">d'ander</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Niet saem gebonden by <rhyme label="a" type="f" corresp="#s3:l1">elkander</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Zie swieren langs u schouders <rhyme label="b" type="m">heen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">En dat dees ses bruyn hayre <rhyme label="c" type="f">krullen</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">U swanen hals geheel <rhyme label="c" type="f" corresp="#s3:l4">vervullen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Sterf ick om u en anders <rhyme label="b" type="m" corresp="#s3:l3">geen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

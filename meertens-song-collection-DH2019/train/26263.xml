@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26263</id>
+    <date>
+      <year-start>1591</year-start>
+      <year-end>1591</year-end>
+    </date>
+    <location>
+      <orginal-name>middelburg</orginal-name>
+      <standard-name>Middelburg, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.4997302</lon>
+        <lat>3.6136962</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 015 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Philips van Marnix van Sint Aldegonde</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WIe is hy die verkeeren <rhyme label="a" type="m">sal</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">O Heer in dijne schoon <rhyme label="b" type="f">gebouwen</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">Oft wie sal zijn van dier <rhyme label="a" type="m" corresp="#s1:l1">getal</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Die haere wooning gantz end <rhyme label="a" type="m" corresp="#s1:l1">al</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Op dijnen heylgen berg vast <rhyme label="b" type="f" corresp="#s1:l2">houwen</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">De mensch die wandelt recht end <rhyme label="a" type="m">slecht</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">End sonder ergheyt te <rhyme label="b" type="f">versinnen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Doet eenen yegelijcken <rhyme label="a" type="m" corresp="#s2:l1">recht</rhyme>:</l>
+        <l id="s2:l4" met="4" type="-+">End metten mont de waerheyt <rhyme label="a" type="m" corresp="#s2:l1">segt</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">So hem sijn hert getuygt van <rhyme label="b" type="f" corresp="#s2:l2">binnen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Dien sijne tong haer niet <rhyme label="a" type="m">ontgaet</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">In achterclap end valsche <rhyme label="b" type="f">maren</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Die sijnen vrient niet brengt in <rhyme label="a" type="m" corresp="#s3:l1">schaed</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Noch op en neemt schimp ende <rhyme label="a" type="m" corresp="#s3:l1">smaet</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Om sijnen naesten te <rhyme label="b" type="f" corresp="#s3:l2">beswaren</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Die houdt in smaet end in <rhyme label="a" type="m">oneer</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Al die van God sijn <rhyme label="b" type="f">afgeweken</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">End eert den man die vreest den <rhyme label="a" type="m" corresp="#s4:l1">Heer</rhyme>.</l>
+        <l id="s4:l4" met="4" type="-+">Die sijnen eedt oock <rhyme label="a" type="m" corresp="#s4:l1">nimmermeer</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Al waert sijn schaed, soud willen <rhyme label="b" type="f" corresp="#s4:l2">breken</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Die gelt op woecker niet en <rhyme label="a" type="m">geeft</rhyme>:</l>
+        <l id="s5:l2" met="4" type="-+">End die om gaven noch <rhyme label="b" type="f">geschencken</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Der vromen recht niet veyl en <rhyme label="a" type="m" corresp="#s5:l1">heeft</rhyme>.</l>
+        <l id="s5:l4" met="4" type="-+">Voirwaer den mensch die also <rhyme label="a" type="m" corresp="#s5:l1">leeft</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">En sal geen saeck ter weirelt <rhyme label="b" type="f" corresp="#s5:l2">crencken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

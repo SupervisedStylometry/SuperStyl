@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32802</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="marialied" translation="Maria song">Marialied</tag>
+    </tags>
+    <melody>Ik ben niet als een pluim</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O Maeght der Maeghden <rhyme label="a" type="f">kroone</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Maria weest <rhyme label="b" type="m">ghegroet</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Klaer als de Sonne <rhyme label="a" type="f" corresp="#s1:l1">schoone</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Ghy zijt vol gracy <rhyme label="b" type="m" corresp="#s1:l2">soet</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Deur u ons de deucht <rhyme label="b" type="m" corresp="#s1:l2">toevloet</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Want ghy hebt met diep <rhyme label="b" type="m" corresp="#s1:l2">ootmoet</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Ghebaert ons 't hoochste <rhyme label="b" type="m" corresp="#s1:l2">goet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Den Heer is met u <rhyme label="a" type="f">reyne</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">O vrucht des werelts <rhyme label="b" type="m">wijt</rhyme>!</l>
+        <l id="s2:l3" met="3" type="-+">O troost bare <rhyme label="a" type="f" corresp="#s2:l1">Fonteyne</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Ghy zijt <rhyme label="b" type="m" corresp="#s2:l2">ghebenedijt</rhyme>:</l>
+        <l id="s2:l5" met="4" type="+-">Want noyt mensch tot gheender <rhyme label="b" type="m" corresp="#s2:l2">tijt</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Was soo salich als ghy <rhyme label="b" type="m" corresp="#s2:l2">zijt</rhyme>:</l>
+        <l id="s2:l7" met="3" type="-+">Deur u zijn wy <rhyme label="b" type="m" corresp="#s2:l2">bevrijdt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Ghedanckt, ghelooft, <rhyme label="a" type="f">ghepresen</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Moet zijn den weerden <rhyme label="b" type="m">pandt</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">V vrucht reyn uyt <rhyme label="a" type="f" corresp="#s3:l1">ghelesen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Iesus u kindt <rhyme label="b" type="m" corresp="#s3:l2">playsant</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Heeft ontdaen den helschen <rhyme label="b" type="m" corresp="#s3:l2">bandt</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Deur sijn machtighe <rhyme label="b" type="m" corresp="#s3:l2">handt</rhyme>.</l>
+        <l id="s3:l7" met="3" type="-+">Helpt ons in ons <rhyme label="b" type="m" corresp="#s3:l2">Vader-landt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Maria hooch <rhyme label="a" type="f">gheborene</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Wt Koninck Davids <rhyme label="b" type="m">saet</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Laet ons toch niet <rhyme label="a" type="f" corresp="#s4:l1">verloren</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Ghy zijt ons <rhyme label="b" type="m" corresp="#s4:l2">toeverlaet</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">Siet, wy zijn hier <rhyme label="b" type="m" corresp="#s4:l2">desolaet</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">En vervult met alle <rhyme label="b" type="m" corresp="#s4:l2">quaet</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">O ras comt ons te <rhyme label="b" type="m" corresp="#s4:l2">baet</rhyme>,</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Lof Moeder der <rhyme label="a" type="f">ghenaden</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Sy u in't aertsche <rhyme label="b" type="m">dal</rhyme>:</l>
+        <l id="s5:l3" met="3" type="-+">Wee hen die u <rhyme label="a" type="f" corresp="#s5:l1">versmaden</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Ghy ketters valsch <rhyme label="b" type="m" corresp="#s5:l2">ghetal</rhyme>:</l>
+        <l id="s5:l5" met="4" type="+-">Wilt ons toch bevrijden <rhyme label="b" type="m" corresp="#s5:l2">al</rhyme></l>
+        <l id="s5:l6" met="4" type="+-">Van der ketters boos <rhyme label="b" type="m" corresp="#s5:l2">gheschal</rhyme>,</l>
+        <l id="s5:l7" met="3" type="-+">En van den helschen <rhyme label="b" type="m" corresp="#s5:l2">val</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

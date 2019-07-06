@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21092</id>
+    <date>
+      <year-start>1649</year-start>
+      <year-end>1649</year-end>
+    </date>
+    <location>
+      <orginal-name>zaandam</orginal-name>
+      <standard-name>Zaandam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.4424926</lon>
+        <lat>4.8298607</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Polyphemus aan de stranden</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Hendrik Jacobz. Soetenboom</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">WAren nu (vereende <rhyme label="a" type="f">menschen</rhyme>)</l>
+        <l id="s1:l2" met="2" type="+-">Mijne <rhyme label="a" type="f" corresp="#s1:l1">wenschen</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Gaven, die in daedt <rhyme label="b" type="m">bestaen</rhyme>:</l>
+        <l id="s1:l4" met="4" type="+-">d'Alderbeste <rhyme label="c" type="f">Echts-versellingh</rhyme>,</l>
+        <l id="s1:l5" met="2" type="+-">Sonder <rhyme label="c" type="f" corresp="#s1:l4">quellingh</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Soud' ghy t'saem nu vangen <rhyme label="b" type="m" corresp="#s1:l3">aen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Liefd', de ziele van ons <rhyme label="a" type="f">leven</rhyme>,</l>
+        <l id="s2:l2" met="2" type="+-">Soud' ick <rhyme label="a" type="f" corresp="#s2:l1">geven</rhyme>;</l>
+        <l id="s2:l3" met="4" type="+-">Liefd', daer 't Huw'lijck door <rhyme label="b" type="m">bestaet</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Met haer Suster d'eed'le <rhyme label="c" type="f">Vreede</rhyme>,</l>
+        <l id="s2:l5" met="2" type="+-">Gaf 'k u <rhyme label="c" type="f" corresp="#s2:l4">heden</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Als een goet stuck <rhyme label="b" type="m" corresp="#s2:l3">Huys-geraet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">d'Eendrachts vaste sachte <rhyme label="a" type="f">banden</rhyme>,</l>
+        <l id="s3:l2" met="2" type="+-">En twee <rhyme label="a" type="f" corresp="#s3:l1">handen</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">t'Saem gevest door <rhyme label="b" type="m">trouwigheydt</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Lijfs gesontheydt, spoedt in <rhyme label="c" type="f">neeringh</rhyme>,</l>
+        <l id="s3:l5" met="2" type="+-">Of <rhyme label="c" type="f" corresp="#s3:l4">hanteeringh</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Soud' u werden <rhyme label="b" type="m" corresp="#s3:l3">by-geleydt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">By gebreck van gevens <rhyme label="a" type="f">krachten</rhyme>,</l>
+        <l id="s4:l2" met="2" type="+-">Sal ick <rhyme label="a" type="f" corresp="#s4:l1">trachten</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">Met een goet geneyght <rhyme label="b" type="m">gemoet</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Om, met u, dat van den <rhyme label="c" type="f">Heere</rhyme></l>
+        <l id="s4:l5" met="2" type="+-">Te <rhyme label="c" type="f" corresp="#s4:l4">begeere</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Hy's de gever van het <rhyme label="b" type="m" corresp="#s4:l3">goet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>166843</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="moralistisch lied" translation="moralistic song">moralistisch lied</tag>
+    </tags>
+    <melody>Tranquilles coeurs</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Hoe kan de schoonheid ooit uw <rhyme label="a" type="m">hert</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Of hare glans uw oog <rhyme label="b" type="f">vermaken</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Die namaals met berouw en <rhyme label="a" type="m" corresp="#s1:l1">smert</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Betaald u al te ydel <rhyme label="b" type="f" corresp="#s1:l2">blaken</rhyme>,</l>
+        <l id="s1:l5" met="6" type="-+">Wanneer de tyd haar glans gelijk een rook <rhyme label="c" type="m">verteerd</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">En u haar kennen <rhyme label="c" type="m" corresp="#s1:l5">leerd</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wat baat het ziels-verdervend <rhyme label="a" type="m">goud</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Hoe kan dat ooit uw hert <rhyme label="b" type="f">behagen</rhyme>!</l>
+        <l id="s2:l3" met="4" type="-+">Hy doold wie sig daar op <rhyme label="a" type="m" corresp="#s2:l1">vertrouwd</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">En moet te laat sijn drift <rhyme label="b" type="f" corresp="#s2:l2">beklagen</rhyme></l>
+        <l id="s2:l5" met="6" type="-+">Wanneer hem sijne schat waar in sijn hoop <rhyme label="c" type="m">bestaat</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Door ongeluk <rhyme label="c" type="m" corresp="#s2:l5">verlaat</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Maar noit verteerd de ware <rhyme label="a" type="m">deugd</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Die ziel en sinnen kan <rhyme label="b" type="f">bekooren</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Ja, streeld met een volmaakte <rhyme label="a" type="m" corresp="#s3:l1">deugd</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">Des agt nog hoog nog laag <rhyme label="b" type="f" corresp="#s3:l2">geboren</rhyme>:</l>
+        <l id="s3:l5" met="6" type="-+">Want rykdom, eer nog staat, hoe wyd, hoe hoog <rhyme label="c" type="m">vermaard</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Haar waarde <rhyme label="c" type="m" corresp="#s3:l5">Evenaard</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

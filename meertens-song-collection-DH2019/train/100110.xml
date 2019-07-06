@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100110</id>
+    <date>
+      <year-start>1652</year-start>
+      <year-end>1652</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Arnold Bon</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MYn Hertje mijn Beckje mijn <rhyme label="a" type="m">Engelin</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Mijn soete <rhyme label="a" type="m" corresp="#s1:l1">Herderin</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Comt Troosje waerste <rhyme label="b" type="m">pant</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Komt Peerel van ons <rhyme label="b" type="m" corresp="#s1:l3">lant</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Ey sit een lutje <rhyme label="c" type="m">neer</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Ey sit een lutje <rhyme label="c" type="m" corresp="#s1:l5">neer</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">'k Omhels jou suycker <rhyme label="d" type="f">doosje</rhyme>,</l>
+        <l id="s1:l8" met="3" type="+-">Doet het mijn nu <rhyme label="c" type="m" corresp="#s1:l5">weer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">V Lipjes u Borsjes u …. <rhyme label="a" type="m">soet</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Mijn Hert on Zieltjen <rhyme label="a" type="m" corresp="#s2:l1">voet</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Komt vatme foolt mijn <rhyme label="b" type="m">mee</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Ick wou je't oock eens <rhyme label="b" type="m" corresp="#s2:l3">dee</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Ey leght u noch eens <rhyme label="c" type="m">neer</rhyme>;</l>
+        <l id="s2:l6" met="3" type="-+">Ey leght u noch eens <rhyme label="c" type="m" corresp="#s2:l5">neer</rhyme>;</l>
+        <l id="s2:l7" met="3" type="-+">Hey nu soo lacht mijn <rhyme label="d" type="f">Geesje</rhyme>,</l>
+        <l id="s2:l8" met="3" type="+-">In u soetheyt <rhyme label="c" type="m" corresp="#s2:l5">weer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ey Graesjes ey Bloemtjes, ey <rhyme label="a" type="m">Claver-lof</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Wy bidden swijghter <rhyme label="a" type="m" corresp="#s3:l1">of</rhyme>;</l>
+        <l id="s3:l3" met="3" type="-+">Ey segtet niemant <rhyme label="b" type="m">niet</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Wat datter is <rhyme label="b" type="m" corresp="#s3:l3">geschiet</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">J'hebt mee van 't soet <rhyme label="c" type="m">gehadt</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">J'hebt mee van 't soet <rhyme label="c" type="m" corresp="#s3:l5">gehadt</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Adieu dan Groene <rhyme label="d" type="f">graesjes</rhyme>,</l>
+        <l id="s3:l8" met="3" type="+-">'k Keer my weer na <rhyme label="c" type="m" corresp="#s3:l5">stadt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

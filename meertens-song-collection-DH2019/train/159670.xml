@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>159670</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Verblijd u gij Batavieren</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Laat ons te samen <rhyme label="a" type="f">verbleiden</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">En lustig vrolijk <rhyme label="b" type="m">sijn</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Ons hert van droefheid <rhyme label="a" type="f" corresp="#s1:l1">bevryden</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Nu Baggus, vry van <rhyme label="b" type="m" corresp="#s1:l2">pijn</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Sig voeld, <rhyme label="c" type="m">geveld</rhyme></l>
+        <l id="s1:l6" met="2" type="+-">Door 't <rhyme label="c" type="m" corresp="#s1:l5">geweld</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Der min, hevig aan 't <rhyme label="d" type="f">blaken</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Als door het <rhyme label="e" type="m">genot</rhyme></l>
+        <l id="s1:l9" met="2" type="-+">Der lusten <rhyme label="e" type="m" corresp="#s1:l8">versot</rhyme>,</l>
+        <l id="s1:l10" met="4" type="+-">In de armen van sijn <rhyme label="f" type="m">Bruid</rhyme>,</l>
+        <l id="s1:l11" met="2" type="+-">Sig vrolijk <rhyme label="f" type="m" corresp="#s1:l10">sluit</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Kom, singen wy het <rhyme label="a" type="f">vermogen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Der groote <rhyme label="b" type="m">Minnegod</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Die Bachus heeft <rhyme label="a" type="f" corresp="#s2:l1">bewogen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Te eeren sijn <rhyme label="b" type="m" corresp="#s2:l2">genot</rhyme>.</l>
+        <l id="s2:l5" met="2" type="-+">Een yder <rhyme label="c" type="m">swigt</rhyme></l>
+        <l id="s2:l6" met="2" type="+-">Voor sijn <rhyme label="c" type="m" corresp="#s2:l5">schigt</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Die alles kan <rhyme label="d" type="f">ontsteken</rhyme>:</l>
+        <l id="s2:l8" met="2" type="-+">Het woedende <rhyme label="e" type="m">vee</rhyme></l>
+        <l id="s2:l9" met="2" type="-+">Maakt hy self   <rhyme label="e" type="m" corresp="#s2:l8">gedwee</rhyme>,</l>
+        <l id="s2:l10" met="4" type="+-">Wat aard of water <rhyme label="f" type="m">voed</rhyme>,</l>
+        <l id="s2:l11" met="2" type="+-">Omhelsd sijn <rhyme label="f" type="m" corresp="#s2:l10">gloed</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

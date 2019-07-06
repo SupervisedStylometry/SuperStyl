@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188559</id>
+    <date>
+      <year-start>1752</year-start>
+      <year-end>1752</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>J.W. Lustig</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Myn ziel hoe kan het <rhyme label="a" type="f">wezen</rhyme>?</l>
+        <l id="s1:l2" met="4" type="-+">hoe hoog, hoe hoog zyt gy <rhyme label="a" type="f" corresp="#s1:l1">gerezen</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">Gy zweefde in uw <rhyme label="b" type="m">bespiegeling</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Veel hooger dan de starre <rhyme label="b" type="m" corresp="#s1:l3">kring</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">My dunkt, o ja gy <rhyme label="c" type="m">hoort</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Al de Engelen <rhyme label="d" type="f">reyen</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Gods glorie <rhyme label="d" type="f" corresp="#s1:l6">verbreyen</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Dat ieders oor <rhyme label="c" type="m" corresp="#s1:l5">bekoort</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Hoe kunt gy aen de <rhyme label="a" type="f">zonden</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Zoo vast nog zyn <rhyme label="a" type="f" corresp="#s2:l1">verbonden</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Dat gy aen 's werelds <rhyme label="b" type="m">ydelheën</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Nog kleeft? dat past u niet, o <rhyme label="b" type="m" corresp="#s2:l3">neen</rhyme>:</l>
+        <l id="s2:l5" met="3" type="-+">Verbreek dien broosschen <rhyme label="c" type="m">band</rhyme>.</l>
+        <l id="s2:l6" met="3" type="-+">Wraek alle <rhyme label="d" type="f">ydelheden</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">En zet uwe <rhyme label="d" type="f" corresp="#s2:l6">schreden</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Naer 't Hemelsch <rhyme label="c" type="m" corresp="#s2:l5">vaderland</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

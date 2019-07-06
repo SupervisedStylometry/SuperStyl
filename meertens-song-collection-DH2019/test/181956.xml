@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>181956</id>
+    <date>
+      <year-start>1782</year-start>
+      <year-end>1782</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Een Vrouw is ligt, is ligt om te <rhyme label="a" type="f">verlyden</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Als die de reede plaetze <rhyme label="b" type="m">geeft</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Zy is niet zoo dwaes, zoo dwaes om haer te <rhyme label="a" type="f" corresp="#s1:l1">vlyen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Van iets dat haer geen schyn en <rhyme label="b" type="m" corresp="#s1:l2">geeft</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Men schenkt haer de rykdom staf en <rhyme label="a" type="f">kroonen</rhyme>;</l>
+        <l id="s2:l2" met="4" type="-+">Maer zy betragt wat men haer <rhyme label="b" type="m">biet</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">De gunst is zoo groot die ik haer wil <rhyme label="a" type="f" corresp="#s2:l1">toonen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Maer och zy en gelooft my <rhyme label="b" type="m" corresp="#s2:l2">niet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Aenvaert, aenvaert het offer der <rhyme label="a" type="f">waerdyen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Vorst u als een Vorst op deze <rhyme label="b" type="m">kust</rhyme>;</l>
+        <l id="s3:l3" met="5" type="-+">Schenkt haer jou teerheid, jou teerheid. al jou <rhyme label="a" type="f" corresp="#s3:l1">minnen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Maer laet myn arme slaef zyn <rhyme label="b" type="m" corresp="#s3:l2">rust</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

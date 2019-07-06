@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185506</id>
+    <date>
+      <year-start>1790</year-start>
+      <year-end>1792</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Où Ninette est-elle</melody>
+  <author>Gerrit Manheer</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Koomt Herders, koomt <rhyme label="a" type="f">Knapen</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">Niet langer <rhyme label="a" type="f" corresp="#s1:l1">geslapen</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Het uur is <rhyme label="b" type="f">gebooren</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Dat ons kan <rhyme label="b" type="f" corresp="#s1:l3">bekooren</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Nu Foebus <rhyme label="c" type="m">verschijnd</rhyme>.</l>
+        <l id="s1:l6" met="2" type="-+">De vaale <rhyme label="d" type="f">Godinnen</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Diaan's <rhyme label="d" type="f" corresp="#s1:l6">Priesterinnen</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Verlaaten de <rhyme label="e" type="f">transfen</rhyme>,</l>
+        <l id="s1:l9" met="2" type="-+">Daar zij voor de <rhyme label="e" type="f" corresp="#s1:l8">glanssen</rhyme></l>
+        <l id="s1:l10" met="2" type="-+">Der zonne, <rhyme label="c" type="m" corresp="#s1:l5">verdwijnd</rhyme>.</l>
+        <l id="s1:l11" met="2" type="+-">Rijst Nimpfen, rijst <rhyme label="f" type="f">schoonen</rhyme>,</l>
+        <l id="s1:l12" met="2" type="-+">Viert 't vrolijk <rhyme label="g" type="m">saizoen</rhyme>.</l>
+        <l id="s1:l13" met="2" type="-+">Gun dat we u <rhyme label="f" type="f" corresp="#s1:l11">bekroonen</rhyme>,</l>
+        <l id="s1:l14" met="2" type="-+">Met kranssen van <rhyme label="g" type="m" corresp="#s1:l12">groen</rhyme>.</l>
+        <l id="s1:l15" met="4" type="+-">Waarom, waarom, zouden, <rhyme label="h" type="f">zouden</rhyme></l>
+        <l id="s1:l16" met="4" type="+-">Wij 't niet op het Meijfeest <rhyme label="g" type="m" corresp="#s1:l12">doen</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

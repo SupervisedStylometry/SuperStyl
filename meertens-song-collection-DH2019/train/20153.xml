@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20153</id>
+    <date>
+      <year-start>1647</year-start>
+      <year-end>1647</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>O Galathea mijn schoonste veldgodin</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">SChoonst' Angelette, die mijn ziele <rhyme label="a" type="m">boeyt</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Waerom belet gy dat u rankje <rhyme label="a" type="m" corresp="#s1:l1">groeyt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Dient u sijn pijne// Tot <rhyme label="b" type="f">medecijne</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Klare <rhyme label="b" type="f" corresp="#s1:l3">Fonteyne</rhyme>,</l>
+        <l id="s1:l5" met="3" type="+-">Dien met vreugden <rhyme label="a" type="m" corresp="#s1:l1">sproeyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Zijt gy gebooren tot mijn <rhyme label="a" type="m">ongeluk</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Hebt gy geswooren, mijn soo eynden <rhyme label="a" type="m" corresp="#s2:l1">druk</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Maer al te teeren// Soo sal ik <rhyme label="b" type="f">sweeren</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">Dat u sal <rhyme label="b" type="f" corresp="#s2:l3">deeren</rhyme></l>
+        <l id="s2:l5" met="3" type="+-">Een soo grusaem <rhyme label="a" type="m" corresp="#s2:l1">stuk</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Mijn hoop die was als <rhyme label="a" type="m">Fielamon</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Op u mijn hoop, mijn troost, mijn waerde <rhyme label="a" type="m" corresp="#s3:l1">Son</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Te leven stille// Naer Godes <rhyme label="b" type="f">wille</rhyme>,</l>
+        <l id="s3:l4" met="2" type="-+">Noyt geen <rhyme label="b" type="f" corresp="#s3:l3">verschille</rhyme></l>
+        <l id="s3:l5" met="3" type="+-">Gy by mijn <rhyme label="a" type="m" corresp="#s3:l1">bevon</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Ik bid Princesse doet mijn <rhyme label="a" type="m">onderstant</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">En biedt u Dienaer dan toch eens de <rhyme label="a" type="m" corresp="#s4:l1">hant</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">Ey spaer sijn leven// En wilt mijn <rhyme label="b" type="f">geven</rhyme></l>
+        <l id="s4:l4" met="2" type="-+">V troost daer <rhyme label="b" type="f" corresp="#s4:l3">neven</rhyme>;</l>
+        <l id="s4:l5" met="3" type="+-">Ach mijn hertje <rhyme label="a" type="m" corresp="#s4:l1">brant</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

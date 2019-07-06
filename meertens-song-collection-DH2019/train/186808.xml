@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>186808</id>
+    <date>
+      <year-start>1674</year-start>
+      <year-end>1674</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Psalm 133 Datheen</melody>
+  <author>Joannes Six van Chandelier</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Ai sie, hoe goed, hoe lieflik is 't <rhyme label="a" type="f">bedryven</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Daar broeders saam, ook vreedsaam, woonen <rhyme label="a" type="f" corresp="#s1:l1">blyven</rhyme>!</l>
+        <l id="s1:l3" met="4" type="-+">Dat is zo lieflik in myn <rhyme label="b" type="m">sin</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Als d'oli, die, niet op het hoofd <rhyme label="c" type="m">gespaart</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">Al daalende quam sypen in den <rhyme label="c" type="m" corresp="#s1:l4">baard</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Den heilgen baard om Aarons <rhyme label="b" type="m" corresp="#s1:l3">kin</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Ja, 't is gelyk die goede vette <rhyme label="a" type="f">straalen</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Die op den soom syns halskleeds gingen <rhyme label="a" type="f" corresp="#s2:l1">daalen</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">'t Is als de daauw, die dicht <rhyme label="b" type="m">verspreidt</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Den Hermon dekt, en breeder, uit de <rhyme label="c" type="m">lucht</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Alom gedaalt, ook al 't gebergt <rhyme label="c" type="m" corresp="#s2:l4">bevrucht</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Dat rondom Zions daalen <rhyme label="b" type="m" corresp="#s2:l3">leit</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

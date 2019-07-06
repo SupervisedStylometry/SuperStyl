@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>9016</id>
+    <date>
+      <year-start>1625</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="danklied" translation="gratitude song">danklied</tag>
+    </tags>
+    <melody>O Gott wir danken deiner Güt</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Godt wy Dancken dijner <rhyme label="a" type="m">Goet</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Door Christum onsen <rhyme label="b" type="f">Heeren</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Voor dijne Weldaet <rhyme label="a" type="m" corresp="#s1:l1">Overvloet</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Door welck ghy gaet <rhyme label="b" type="f" corresp="#s1:l2">gheneeren</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">All' wat Aesem ontfanghen <rhyme label="c" type="m">heeft</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Ghy die hen haer behoefte <rhyme label="c" type="m" corresp="#s1:l5">gheeft</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Dy geschiet Loff, Prijs, end Eere, <rhyme label="d" type="f">(Eere</rhyme>.)</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als ghy nu HEER gespijset <rhyme label="a" type="m">vast</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Het Lichaem dat <rhyme label="b" type="f">verdervet</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Soo laet de Siel oock zijn dijn <rhyme label="a" type="m" corresp="#s2:l1">gast</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Die door dy nimmermeer <rhyme label="b" type="f" corresp="#s2:l2">stervet</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Dijn heylsaem Woort haer Spijse <rhyme label="c" type="m">sy</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Tot dat sy heel vercrijghe <rhyme label="c" type="m" corresp="#s2:l5">dy</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">In Eewicheyt <rhyme label="d" type="f">betrouwen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Loff, Eer en Danck tot alder <rhyme label="a" type="m">Tijt</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Dy Vader hooch hier <rhyme label="b" type="f">boven</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Ghy die ons maeckt de Sonde <rhyme label="a" type="m" corresp="#s3:l1">quijt</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Door een Oprecht <rhyme label="b" type="f" corresp="#s3:l2">Gheloove</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Aen dijnen Eengheboren <rhyme label="c" type="m">Soon</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Dat wy met hem in HEmel <rhyme label="c" type="m" corresp="#s3:l5">schoon</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Dy Eewich prijsen <rhyme label="d" type="f">Amen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

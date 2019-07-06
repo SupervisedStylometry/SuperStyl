@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>115840</id>
+    <date>
+      <year-start>1694</year-start>
+      <year-end>1694</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="seizoenslied" translation="seasonal song">seizoenslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author>Cornelis Sweerts</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Schoon de boomen en velden <rhyme label="a" type="m">staan</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Zonder vreugt, met ryp en met sneeuw zyn <rhyme label="a" type="m" corresp="#s1:l1">belaân</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">En den Amstel bevrozen <rhyme label="b" type="m">is</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Laat ons evenwel zyn vrolyk en <rhyme label="b" type="m" corresp="#s1:l3">fris</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Zou 't vernoegen, Zou 't <rhyme label="c" type="f">vernoegen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">daarom juist by de jonkheid niet <rhyme label="d" type="m">zyn</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Noch keeren de <rhyme label="e" type="f">jaaren</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">De bloemen en <rhyme label="e" type="f" corresp="#s1:l7">blaâren</rhyme>,</l>
+        <l id="s1:l9" met="4" type="-+">Maar oudheid vergaat doch in droefheid en <rhyme label="d" type="m" corresp="#s1:l6">pyn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

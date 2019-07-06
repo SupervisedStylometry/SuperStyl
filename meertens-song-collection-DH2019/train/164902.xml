@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>164902</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Aux armes camarades</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">En wild u niet <rhyme label="a" type="f">beswaren</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Met sorgen in u <rhyme label="b" type="m">Levenstijd</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Maar slijt u jonge <rhyme label="a" type="f" corresp="#s1:l1">Jaren</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">In lust en <rhyme label="b" type="m" corresp="#s1:l2">vrolijkheid</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Wat baten al de <rhyme label="c" type="f">sorgen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Als innig Ziel <rhyme label="d" type="m">verdriet</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Die van den koele <rhyme label="c" type="f" corresp="#s1:l5">morgen</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Syn smert draagt in 't <rhyme label="c" type="f" corresp="#s1:l5">verborgen</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Die van den koelen <rhyme label="c" type="f" corresp="#s1:l5">morgen</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">Tot 's nagts noit rust <rhyme label="d" type="m" corresp="#s1:l6">geniet</rhyme>.</l>
+        <l id="s1:l11" met="2" type="+-">Des, o <rhyme label="e" type="m">Jeugd</rhyme>,</l>
+        <l id="s1:l12" met="2" type="+-">Soekt gy <rhyme label="e" type="m" corresp="#s1:l11">vreugd</rhyme>,</l>
+        <l id="s1:l13" met="2" type="+-">Vry   uw <rhyme label="f" type="m">hert</rhyme></l>
+        <l id="s1:l14" met="2" type="+-">Van die <rhyme label="f" type="m" corresp="#s1:l13">smert</rhyme>,</l>
+        <l id="s1:l15" met="3" type="+-">En wild met yver <rhyme label="g" type="f">haken</rhyme></l>
+        <l id="s1:l16" met="4" type="+-">Na het altoos bestendig <rhyme label="h" type="m">goed</rhyme></l>
+        <l id="s1:l17" met="3" type="+-">Dat regt de Ziel <rhyme label="h" type="m" corresp="#s1:l16">voldoet</rhyme></l>
+        <l id="s1:l18" met="4" type="+-">En, buyten sorgen,   het <rhyme label="h" type="m" corresp="#s1:l16">gemoed</rhyme></l>
+        <l id="s1:l19" met="3" type="+-">Met rust en vreugde <rhyme label="h" type="m" corresp="#s1:l16">voed</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

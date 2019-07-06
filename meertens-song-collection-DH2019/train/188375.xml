@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188375</id>
+    <date>
+      <year-start>1751</year-start>
+      <year-end>1752</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Nu poëzie met maatzang paart</melody>
+  <author>Antoine Mahaut, Kornelis Elzevier</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Nu Poëzy met Maetzang <rhyme label="a" type="m">paert</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Door konstige uitgevoerde <rhyme label="b" type="f">stukken</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Voelt zich het Zangziek Hart <rhyme label="b" type="f" corresp="#s1:l2">verrukken</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Dat opdien galm ten Hemel <rhyme label="a" type="m" corresp="#s1:l1">vaert</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Nu moet elk een met dankbre <rhyme label="c" type="f">klanken</rhyme>.</l>
+        <l id="s1:l6" met="4" type="-+">De Poëzy en Maetzang <rhyme label="c" type="f" corresp="#s1:l5">danken</rhyme>.</l>
+        <l id="s1:l7" met="4" type="-+">Zingt, zingt nu Nimfjes, zoo <rhyme label="d" type="m">beklyf</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Het Musikale <rhyme label="d" type="m" corresp="#s1:l7">Tydverdryf</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

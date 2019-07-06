@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1503</id>
+    <date>
+      <year-start>1613</year-start>
+      <year-end>1613</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam?</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>De nachtegaal die zong een lied</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">VErblijt den Geest, in desen <rhyme label="a" type="m">Feest</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Wie dat ghy <rhyme label="b" type="m">zijt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Heel onbevreest, doch singht en <rhyme label="a" type="m" corresp="#s1:l1">queest</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">V niet en <rhyme label="b" type="m" corresp="#s1:l2">mijt</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">En wilt melancolijen // nu <rhyme label="c" type="f">mijen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Door liefde soet, soo wilt den <rhyme label="d" type="m">groet</rhyme></l>
+        <l id="s1:l7" met="3" type="+-">Van u schoon liefken <rhyme label="c" type="f" corresp="#s1:l5">lijden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die Bruyt begeert, dat elck hem <rhyme label="a" type="m">weert</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">En schaemt <rhyme label="b" type="m">verlaet</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">V daer toe keert, en vreught <rhyme label="a" type="m" corresp="#s2:l1">vermeert</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">neemt geen <rhyme label="b" type="m" corresp="#s2:l2">beraet</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">En wilt melancolijen // nu <rhyme label="c" type="f">mijen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Set mont aen mont, En gaet <rhyme label="d" type="m">terstont</rhyme></l>
+        <l id="s2:l7" met="3" type="+-">Int bosch der minnen <rhyme label="c" type="f" corresp="#s2:l5">rijen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Want hy gantsch fier, wy moeten <rhyme label="a" type="m">hier</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Bedrijven <rhyme label="b" type="m">vreught</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Drinckt wijn en bier, en maeckt goet <rhyme label="a" type="m" corresp="#s3:l1">chier</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">Soo ghy best <rhyme label="b" type="m" corresp="#s3:l2">meught</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">En wilt melancolijen // nu <rhyme label="c" type="f">mijen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Laet reyne lieft, hier zijn <rhyme label="d" type="m">ghebrieft</rhyme></l>
+        <l id="s3:l7" met="3" type="+-">Door amoreuslijck <rhyme label="c" type="f" corresp="#s3:l5">vrijen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ter eeren de Bruyt, heeft dese <rhyme label="a" type="m">guyt</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">Dit feyt <rhyme label="b" type="m">bestaen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Een soet geluyt, sal haest zijn <rhyme label="a" type="m" corresp="#s4:l1">uyt</rhyme></l>
+        <l id="s4:l4" met="2" type="-+">Een aer daer <rhyme label="b" type="m" corresp="#s4:l2">aen</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Maer wilt melancolijen // nu <rhyme label="c" type="f">mijen</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Verheught in deught, Wanneer ghy <rhyme label="d" type="m">meught</rhyme></l>
+        <l id="s4:l7" met="3" type="+-">Wilt sware droefheyt <rhyme label="c" type="f" corresp="#s4:l5">mijen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

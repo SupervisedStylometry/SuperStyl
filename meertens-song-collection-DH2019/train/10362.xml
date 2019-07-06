@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10362</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Repicaban</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="+-">God der <rhyme label="a" type="f">minne</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Ziet hoe een teere <rhyme label="b" type="m">maeght</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Blyft voor myn droeve sughjes <rhyme label="b" type="m" corresp="#s1:l2">onvertsaeght</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Blyft voor myn droeve sughjes <rhyme label="b" type="m" corresp="#s1:l2">onvertsaeght</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Klaegh ik, zy laght, om mijn herte vol <rhyme label="c" type="f">smerte</rhyme>,</l>
+        <l id="s1:l6" met="5" type="+-">O wreede Phillis, die myn ziel door <rhyme label="d" type="m">knaeght</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">O wreede <rhyme label="e" type="f">Phillis</rhyme></l>
+        <l id="s1:l8" met="5" type="+-">O wreede Phillis, die myn ziel door <rhyme label="d" type="m" corresp="#s1:l6">knaeght</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="+-">Sy in haer <rhyme label="a" type="f">zieltje</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Sit barrevoets int <rhyme label="b" type="m">groen</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">En derft u groote Godtheyt trotsen <rhyme label="b" type="m" corresp="#s2:l2">koen</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">En derft u groote Godheyt trotsen <rhyme label="b" type="m" corresp="#s2:l2">koen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Ghy gewapent, doet Wraecken, en <rhyme label="c" type="f">raecken</rhyme>,</l>
+        <l id="s2:l6" met="5" type="+-">En brant haer hertje tot het krijghen <rhyme label="d" type="m">soet</rhyme>,</l>
+        <l id="s2:l7" met="2" type="-+">En brant haer <rhyme label="e" type="f">hertje</rhyme>,</l>
+        <l id="s2:l8" met="5" type="+-">En brant haer hertje tot het krijghen <rhyme label="d" type="m" corresp="#s2:l6">soet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="+-">Soete <rhyme label="a" type="f">kusjes</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Indien ick u <rhyme label="b" type="m">geniet</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Hoe sou dan weelde worden mijn <rhyme label="b" type="m" corresp="#s3:l2">verdriet</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Hoe sou dan weelde worden mijn <rhyme label="b" type="m" corresp="#s3:l2">verdriet</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Wiert mijn het rijck der Goden <rhyme label="c" type="f">geboden</rhyme></l>
+        <l id="s3:l6" met="5" type="+-">Voor uwe lipjes gaf ick al 't <rhyme label="d" type="m">gebiet</rhyme></l>
+        <l id="s3:l7" met="2" type="-+">Voor uwe <rhyme label="e" type="f">lipjes</rhyme></l>
+        <l id="s3:l8" met="5" type="+-">Voor uwe lipjes gaf ick al 't <rhyme label="d" type="m" corresp="#s3:l6">gebiet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

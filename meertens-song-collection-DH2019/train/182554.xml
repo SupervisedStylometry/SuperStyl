@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182554</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Vous avez toutes des attraits</melody>
+  <author>Hendrik Riemsnijder</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ik wil eens in dit donker <rhyme label="a" type="m">woud</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">My eenzaam stil <rhyme label="b" type="f">vermaaken</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">En 't zoet der Lente <rhyme label="b" type="f" corresp="#s1:l2">smaaken</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Door niemand <rhyme label="a" type="m" corresp="#s1:l1">beschouwt</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Ja, dat nu hier myn <rhyme label="c" type="m">zang</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Des Nachtegaals <rhyme label="d" type="m">toon</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Zoo streelend zoo <rhyme label="d" type="m" corresp="#s1:l6">schoon</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Al luisterend <rhyme label="c" type="m" corresp="#s1:l5">vervang'</rhyme>!</l>
+        <l id="s1:l9" met="4" type="-+">Ik zal... maar... zacht... 'k hoor iets!... <rhyme label="e" type="m">helaas</rhyme>!...</l>
+        <l id="s1:l10" met="3" type="-+">Wat is dat? welken <rhyme label="e" type="m" corresp="#s1:l9">geraas</rhyme>!...</l>
+        <l id="s1:l11" met="3" type="+-">Ja... 't komt... waar zal ik nu <rhyme label="f" type="m">vlién</rhyme>?</l>
+        <l id="s1:l12" met="2" type="-+">Daar laat het zig <rhyme label="f" type="m" corresp="#s1:l11">zien</rhyme>!</l>
+        <l id="s1:l13" met="2" type="-+">Wat is het?... een <rhyme label="e" type="m" corresp="#s1:l9">Haas</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

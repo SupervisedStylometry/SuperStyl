@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36024</id>
+    <date>
+      <year-start>1664</year-start>
+      <year-end>1664</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen [=amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+    </tags>
+    <melody>La moutarde réformée</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">Bethleem, Godt geeft U veel <rhyme label="a" type="m">geluck</rhyme>,</l>
+        <l id="s1:l2" met="5" type="+-">Want te nacht in U is <rhyme label="b" type="f">voortgekomen</rhyme>,</l>
+        <l id="s1:l3" met="5" type="+-">Hy die ons verlost van pijn en <rhyme label="a" type="m" corresp="#s1:l1">druck</rhyme>.</l>
+        <l id="s1:l4" met="5" type="+-">Seght ons doch wat ghy hebt <rhyme label="b" type="f" corresp="#s1:l2">vernomen</rhyme>?</l>
+        <l id="s1:l5" met="4" type="+-">Een groot licht verscheen ons <rhyme label="c" type="m">naest</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">D’Engelen wy <rhyme label="d" type="f">hoorden</rhyme>,</l>
+        <l id="s1:l7" met="3" type="+-">Een met soete <rhyme label="d" type="f" corresp="#s1:l6">woorden</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Sprack ons aen, wy liepen <rhyme label="c" type="m" corresp="#s1:l5">verbaest</rhyme>,</l>
+        <l id="s1:l9" met="5" type="+-">Vreest niet meer, maer naer dees stal u <rhyme label="c" type="m" corresp="#s1:l5">haest</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Is de stal eens grooten Heeren <rhyme label="a" type="m">Hof</rhyme>?</l>
+        <l id="s2:l2" met="5" type="+-">In de Kribbe leyt hy in dees <rhyme label="b" type="f">kouwe</rhyme>,</l>
+        <l id="s2:l3" met="5" type="+-">D’Eng’len songen aen hem eer en <rhyme label="a" type="m" corresp="#s2:l1">lof</rhyme>!</l>
+        <l id="s2:l4" met="5" type="+-">Hoe een Coninck in armoe en <rhyme label="b" type="f" corresp="#s2:l2">rouwe</rhyme>?</l>
+        <l id="s2:l5" met="4" type="+-">Hoy en stroy dat is sijn <rhyme label="c" type="m">bedt</rhyme>.</l>
+        <l id="s2:l6" met="3" type="+-">Vondt ghy daer geen <rhyme label="d" type="f">hoeder</rhyme>?</l>
+        <l id="s2:l7" met="3" type="+-">Ia oock een <rhyme label="d" type="f" corresp="#s2:l6">Vrouwmoeder</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Die is Maeght suyver en <rhyme label="c" type="m" corresp="#s2:l5">net</rhyme>;</l>
+        <l id="s2:l9" met="5" type="+-">Want sy ‘t Serpents hooft gantsch heeft <rhyme label="c" type="m" corresp="#s2:l5">verplet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">Gaet dan Sondaers al na deese <rhyme label="a" type="m">Stal</rhyme>,</l>
+        <l id="s3:l2" met="5" type="+-">En wilt ‘t Kindt u sondich hert <rhyme label="b" type="f">ontblooten</rhyme>,</l>
+        <l id="s3:l3" met="5" type="+-">Want hy van den doot verlost ons <rhyme label="a" type="m" corresp="#s3:l1">al</rhyme>,</l>
+        <l id="s3:l4" met="5" type="+-">Heeft voor ons den Hemel oock <rhyme label="b" type="f" corresp="#s3:l2">ontsloten</rhyme>.</l>
+        <l id="s3:l5" met="4" type="+-">En schenckt hem u <rhyme label="c" type="m">herte</rhyme>,</l>
+        <l id="s3:l6" met="3" type="+-">Hy sal u <rhyme label="d" type="f">smerte</rhyme>,</l>
+        <l id="s3:l7" met="3" type="+-">Heelen door sijn Heyligh <rhyme label="d" type="f" corresp="#s3:l6">Bloedt</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">Nu komt met ons, en ‘t Kindeke <rhyme label="c" type="m" corresp="#s3:l5">groet</rhyme>.</l>
+        <l id="s3:l9" met="5" type="+-">Gedenct de <rhyme label="c" type="m" corresp="#s3:l5">uytersten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

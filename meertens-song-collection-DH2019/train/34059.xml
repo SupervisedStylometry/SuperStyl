@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34059</id>
+    <date>
+      <year-start>1660</year-start>
+      <year-end>1660</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Peeter de Vleeschoudere</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">AEn God sy glorie in 't alder-hooghst <rhyme label="a" type="f">ver-heven</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">En op der aerde peys de menschen, die wel <rhyme label="a" type="f" corresp="#s1:l1">leven</rhyme>,</l>
+        <l id="s1:l3" met="6" type="-+">En zyn van goeden will': wy loven u, ô <rhyme label="b" type="m">Heer'</rhyme>!</l>
+        <l id="s1:l4" met="6" type="-+">Ghebenedyden u, en gheven prys, en <rhyme label="b" type="m" corresp="#s1:l3">eer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Wy bidden u oock aen by nachten, en by <rhyme label="a" type="f">daghen</rhyme>;</l>
+        <l id="s2:l2" met="6" type="-+">Om uwe glori' wy u danck-seggingh' <rhyme label="a" type="f" corresp="#s2:l1">op-draghen</rhyme>;</l>
+        <l id="s2:l3" met="6" type="-+">Heer', God, en Koningh med', God, Vader vol van <rhyme label="b" type="m">macht</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Heer' Jesus eenigh Soon, groot boven al <rhyme label="b" type="m" corresp="#s2:l3">ghe-acht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">Heer' God, Gods weerdigh Lam, des Vaders Soon <rhyme label="a" type="f">gepresen</rhyme>,</l>
+        <l id="s3:l2" met="6" type="-+">Die 's werelds sonden neemt, vvilt ons berm-hertigh <rhyme label="a" type="f" corresp="#s3:l1">wesen</rhyme>.</l>
+        <l id="s3:l3" met="6" type="-+">Die 's werelds sondẽ dempt, aen-hoort ons, en <rhyme label="b" type="m">be-schermt</rhyme>;</l>
+        <l id="s3:l4" met="6" type="-+">Die sit aen 's Vaders syd', u over ons <rhyme label="b" type="m" corresp="#s3:l3">ont-fermt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">Want g'alleen heyligh zyt, ghy zyt alleen den <rhyme label="a" type="f">Heere</rhyme>,</l>
+        <l id="s4:l2" met="6" type="-+">Ghy Jesu Christe zyt alleen den hooghst' in <rhyme label="a" type="f" corresp="#s4:l1">eere</rhyme>;</l>
+        <l id="s4:l3" met="6" type="-+">Met God den heyl'ghen Gheest al-tyd <rhyme label="b" type="m">ghebenedydt</rhyme>,</l>
+        <l id="s4:l4" met="6" type="-+">Ghy alder-grootsten God in s'Vaders glori' <rhyme label="b" type="m" corresp="#s4:l3">zyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36519</id>
+    <date>
+      <year-start>1674</year-start>
+      <year-end>1674</year-end>
+    </date>
+    <location>
+      <orginal-name>leuven</orginal-name>
+      <standard-name>Leuven, Belgium</standard-name>
+      <coordinates>
+        <lon>50.879202</lon>
+        <lat>4.7011675</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+    </tags>
+    <melody>Courante monsieur</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Herman Harts</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">BErst Luther! u quae <rhyme label="a" type="m">leer</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">En heeft geen vatten <rhyme label="a" type="m" corresp="#s1:l1">meer</rhyme>.</l>
+        <l id="s1:l3" met="5" type="-+">Soo als de heele Werelt heeft <rhyme label="b" type="m">gesien</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">En Roomen self met eene blyde <rhyme label="b" type="m" corresp="#s1:l3">mien</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Ignatius Loyola <rhyme label="c" type="m">is</rhyme></l>
+        <l id="s1:l6" met="5" type="-+">Van Godt gesonden tot <rhyme label="c" type="m" corresp="#s1:l5">behoedenis</rhyme></l>
+        <l id="s1:l7" met="5" type="-+">Van zyne Bruydt de algemeene <rhyme label="d" type="m">kerck</rhyme>,</l>
+        <l id="s1:l8" met="5" type="-+">Een vestingh, of gelyck een <rhyme label="d" type="m" corresp="#s1:l7">bollewerck</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">O Man! naer zyne <rhyme label="a" type="m">naem</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Vol vier, en goede <rhyme label="a" type="m" corresp="#s2:l1">faem</rhyme>.</l>
+        <l id="s2:l3" met="5" type="-+">Die om 't Volck t'onderwysen in de <rhyme label="b" type="m">wet</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Zyn eyge salighyt ter zyde <rhyme label="b" type="m" corresp="#s2:l3">set</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">En voor zyn deel, en voor zyn <rhyme label="c" type="m">lodt</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">Nempt suyverlyck de glorië van <rhyme label="c" type="m" corresp="#s2:l5">Godt</rhyme>.</l>
+        <l id="s2:l7" met="5" type="-+">Die hy dan in zyn hert, en op zyn <rhyme label="d" type="m">tongh</rhyme></l>
+        <l id="s2:l8" met="5" type="-+">Draeght altyt, en leert voort, aen oudt, en <rhyme label="d" type="m" corresp="#s2:l7">jongh</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">De Geest ryck, ende <rhyme label="a" type="m">milt</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Geeft, en blaest daer hy <rhyme label="a" type="m" corresp="#s3:l1">wilt</rhyme>.</l>
+        <l id="s3:l3" met="5" type="-+">Een wonder saeck! eer hy noch schole <rhyme label="b" type="m">gingh</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Loyola vat, en schryft een <rhyme label="b" type="m" corresp="#s3:l3">Oeffeningh</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">De welcke de <rhyme label="c" type="m">Societyt</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">En al de Werelt diendt tot groot <rhyme label="c" type="m" corresp="#s3:l5">profyt</rhyme>.</l>
+        <l id="s3:l7" met="5" type="-+">Maer 't gene hy gevat heeft <rhyme label="d" type="m">naderhandt</rhyme>,</l>
+        <l id="s3:l8" met="5" type="-+">Wie kent dat als een innich diep <rhyme label="d" type="m" corresp="#s3:l7">verstandt</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

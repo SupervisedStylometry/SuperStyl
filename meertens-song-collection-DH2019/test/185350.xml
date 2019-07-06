@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185350</id>
+    <date>
+      <year-start>1790</year-start>
+      <year-end>1792</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Amour amour achève ton ouvrage</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">o Wicht! o wicht! o dartle God der <rhyme label="a" type="f">Liefde</rhyme>!</l>
+        <l id="s1:l2" met="4" type="-+">Dacht ik op uwe list? Hoe <rhyme label="b" type="m">snood</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Waart gij, toen gij mijn boezem <rhyme label="a" type="f" corresp="#s1:l1">griefde</rhyme>! -</l>
+        <l id="s1:l4" met="4" type="-+">Mij uwe pijl in 't harte <rhyme label="b" type="m" corresp="#s1:l2">schoot</rhyme>:</l>
+        <l id="s1:l5" met="2" type="+-">Looze <rhyme label="c" type="m">guit</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Ik Mogt uw <rhyme label="d" type="f">kragten</rhyme>,</l>
+        <l id="s1:l7" met="2" type="+-">Stout <rhyme label="d" type="f" corresp="#s1:l6">verachten</rhyme>;</l>
+        <l id="s1:l8" met="2" type="-+">Maar het is <rhyme label="c" type="m" corresp="#s1:l5">uit</rhyme>! -</l>
+        <l id="s1:l9" met="2" type="+-">Uwe <rhyme label="e" type="f">schichten</rhyme></l>
+        <l id="s1:l10" met="2" type="+-">Doen mij <rhyme label="e" type="f" corresp="#s1:l9">zwichten</rhyme>.</l>
+        <l id="s1:l11" met="4" type="+-">Liefdestooker, 'k word de <rhyme label="c" type="m" corresp="#s1:l5">Bruid</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Colijn, Colijn, zal nu zijn wensch <rhyme label="a" type="f">erlangen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">'k Moet bezwijken voor zijn <rhyme label="b" type="m">min</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">'k Zal Hem nu in mijn arm <rhyme label="a" type="f" corresp="#s2:l1">ontvangen</rhyme>;</l>
+        <l id="s2:l4" met="4" type="-+">'k Tree met Hem Junoo's tempel <rhyme label="b" type="m" corresp="#s2:l2">in</rhyme>.</l>
+        <l id="s2:l5" met="2" type="+-">Ja o <rhyme label="c" type="m">guit</rhyme>!</l>
+        <l id="s2:l6" met="2" type="-+">'t Lieve <rhyme label="d" type="f">Roosje</rhyme>,</l>
+        <l id="s2:l7" met="2" type="+-">'t Maagde <rhyme label="d" type="f" corresp="#s2:l6">bloosje</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Is nu zijn <rhyme label="c" type="m" corresp="#s2:l5">buit</rhyme>.</l>
+        <l id="s2:l9" met="2" type="+-">Kom mijn <rhyme label="e" type="f">Minnaar</rhyme>,</l>
+        <l id="s2:l10" met="2" type="+-">Zijt <rhyme label="e" type="f" corresp="#s2:l9">verwinnaar</rhyme>.</l>
+        <l id="s2:l11" met="4" type="+-">'k Smelt in Liefde en word de <rhyme label="c" type="m" corresp="#s2:l5">Bruid</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

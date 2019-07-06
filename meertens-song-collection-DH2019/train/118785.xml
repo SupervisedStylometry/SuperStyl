@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>118785</id>
+    <date>
+      <year-start>1730</year-start>
+      <year-end>1730</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Boksvoetje</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Jakobus Rosseau</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WYk potten en pannen wat aan een <rhyme label="a" type="m">zei</rhyme>,</l>
+        <l id="s1:l2" met="1" type="-+">Kom <rhyme label="b" type="f">Bazen</rhyme>,</l>
+        <l id="s1:l3" met="1" type="-+">Vat <rhyme label="b" type="f" corresp="#s1:l2">glazen</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Weeft vrolyk en <rhyme label="a" type="m" corresp="#s1:l1">bly</rhyme>,</l>
+        <l id="s1:l5" met="1" type="-+">En <rhyme label="c" type="f">zingter</rhyme>,</l>
+        <l id="s1:l6" met="1" type="-+">En <rhyme label="c" type="f" corresp="#s1:l5">springter</rhyme>,</l>
+        <l id="s1:l7" met="1" type="-+">En <rhyme label="c" type="f" corresp="#s1:l5">drinkter</rhyme>,</l>
+        <l id="s1:l8" met="1" type="-+">En <rhyme label="c" type="f" corresp="#s1:l5">klinkter</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">En weeft verheugd met <rhyme label="a" type="m" corresp="#s1:l1">my</rhyme>,</l>
+        <l id="s1:l10" met="1" type="-+">Laat <rhyme label="d" type="f">loopen</rhyme>,</l>
+        <l id="s1:l11" met="1" type="+-">By <rhyme label="d" type="f" corresp="#s1:l10">stoopen</rhyme>,</l>
+        <l id="s1:l12" met="1" type="-+">Geen <rhyme label="d" type="f" corresp="#s1:l10">knoopen</rhyme>,</l>
+        <l id="s1:l13" met="3" type="-+">Zyn in de wyn, de <rhyme label="e" type="m">wyn</rhyme>,</l>
+        <l id="s1:l14" met="2" type="-+">En laat <rhyme label="f" type="m">Sileen</rhyme>,</l>
+        <l id="s1:l15" met="2" type="-+">Ons nader <rhyme label="f" type="m" corresp="#s1:l14">treên</rhyme>,</l>
+        <l id="s1:l16" met="2" type="-+">Met Fluiten en <rhyme label="g" type="f">Pompen</rhyme>,</l>
+        <l id="s1:l17" met="2" type="-+">Al sprong hy op <rhyme label="g" type="f" corresp="#s1:l16">klompen</rhyme>,</l>
+        <l id="s1:l18" met="3" type="-+">Wy zyn daar meê te <rhyme label="f" type="m" corresp="#s1:l14">vreên</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

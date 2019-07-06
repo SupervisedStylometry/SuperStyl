@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185329</id>
+    <date>
+      <year-start>1795</year-start>
+      <year-end>1795</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">Blyft ô lieve <rhyme label="a" type="f">Vriendschap</rhyme>!</l>
+        <l id="s1:l2" met="3" type="-+">Altoos myn <rhyme label="b" type="m">Gesellin</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Voor my, in dit <rhyme label="c" type="f">leeven</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Ten uwen Tempel <rhyme label="b" type="m" corresp="#s1:l2">in</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">Wees gy steeds myn <rhyme label="d" type="m">toeverlaat</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Bestuur gy al myn <rhyme label="e" type="m">Paên</rhyme>!</l>
+        <l id="s1:l7" met="3" type="+-">Laat ik op uw' <rhyme label="f" type="f">voorgang</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Verheugt ten reie <rhyme label="e" type="m" corresp="#s1:l6">gaan</rhyme>:</l>
+        <l id="s1:l9" met="3" type="-+">Bestuur gy lieve <rhyme label="a" type="f" corresp="#s1:l1">Vriendschap</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">Gestadig al myn <rhyme label="e" type="m" corresp="#s1:l6">daên</rhyme>,</l>
+        <l id="s1:l11" met="2" type="+-">Al myn <rhyme label="e" type="m" corresp="#s1:l6">daên</rhyme>,</l>
+        <l id="s1:l12" met="2" type="+-">Al myn <rhyme label="e" type="m" corresp="#s1:l6">daên</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Dansent door 't Huys te <rhyme label="a" type="f">springen</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Is 't geene dat ik <rhyme label="b" type="m">min</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">Altoos vrolyk, altoos <rhyme label="c" type="f">bly</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Te leeven is myn <rhyme label="b" type="m" corresp="#s2:l2">zin</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">'t Is het beste, 't is het <rhyme label="d" type="m">liefste</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Dat ik ooit op Aarde <rhyme label="e" type="m">vond</rhyme>,</l>
+        <l id="s2:l7" met="3" type="+-">Altoos bly en altoos <rhyme label="f" type="f">vrolyk</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Altoos vrolyk met de <rhyme label="e" type="m" corresp="#s2:l6">mond</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">Dausend door 't Huys te <rhyme label="a" type="f" corresp="#s2:l1">springen</rhyme>,</l>
+        <l id="s2:l10" met="3" type="-+">Huplend zingent met de <rhyme label="e" type="m" corresp="#s2:l6">mond</rhyme>,</l>
+        <l id="s2:l11" met="2" type="+-">Met de <rhyme label="e" type="m" corresp="#s2:l6">mond</rhyme>,</l>
+        <l id="s2:l12" met="2" type="+-">Met de <rhyme label="e" type="m" corresp="#s2:l6">mond</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

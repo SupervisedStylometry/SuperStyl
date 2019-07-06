@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100101</id>
+    <date>
+      <year-start>1652</year-start>
+      <year-end>1652</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Petite royale</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Phebi Zon ey rent wat <rhyme label="a" type="m">voort</rhyme>!</l>
+        <l id="s1:l2" met="3" type="-+">En graeft u aen de <rhyme label="b" type="f">kimmen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Want u hittigh <rhyme label="b" type="f" corresp="#s1:l2">klimmen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Ons ons vryheyt <rhyme label="a" type="m" corresp="#s1:l1">stoort</rhyme>:</l>
+        <l id="s1:l5" met="3" type="+-">Liefdens offer <rhyme label="c" type="f">stoocken</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Wil by <rhyme label="d" type="m">duysterheyt</rhyme>.</l>
+        <l id="s1:l7" met="3" type="-+">Hen Hert met tranen <rhyme label="c" type="f" corresp="#s1:l5">koocken</rhyme>,</l>
+        <l id="s1:l8" met="3" type="+-">Daer haer <rhyme label="d" type="m" corresp="#s1:l6">Maejesteyt</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">De Minn': haer Altaer <rhyme label="d" type="m" corresp="#s1:l6">heyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hoe joockt mijn afgeslooft <rhyme label="a" type="m">gedacht</rhyme>?</l>
+        <l id="s2:l2" met="3" type="-+">Mijn Oogen zijn vol <rhyme label="b" type="f">Sterren</rhyme>;</l>
+        <l id="s2:l3" met="3" type="+-">Waerom al dit <rhyme label="b" type="f" corresp="#s2:l2">werren</rhyme>?</l>
+        <l id="s2:l4" met="3" type="+-">Siet hier is de <rhyme label="a" type="m" corresp="#s2:l1">Nacht</rhyme>:</l>
+        <l id="s2:l5" met="3" type="+-">'k Wil dan spoedigh <rhyme label="c" type="f">draven</rhyme>,</l>
+        <l id="s2:l6" met="3" type="+-">Eer Bellinda <rhyme label="d" type="m">rust</rhyme>;</l>
+        <l id="s2:l7" met="3" type="-+">En my met Kusjes <rhyme label="c" type="f" corresp="#s2:l5">laven</rhyme>,</l>
+        <l id="s2:l8" met="3" type="+-">Soo't haer Schoonheyt <rhyme label="d" type="m" corresp="#s2:l6">lust</rhyme>;</l>
+        <l id="s2:l9" met="3" type="-+">'t Is my noch <rhyme label="d" type="m" corresp="#s2:l6">onbewust</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ay me! wat ramp wat droef <rhyme label="a" type="m">belet</rhyme>!</l>
+        <l id="s3:l2" met="3" type="-+">Mijn Engel leyt <rhyme label="b" type="f">gedoocken</rhyme>,</l>
+        <l id="s3:l3" met="3" type="+-">D'oogjes zijn <rhyme label="b" type="f" corresp="#s3:l2">geloocken</rhyme>,</l>
+        <l id="s3:l4" met="3" type="+-">In het Pluymigh <rhyme label="a" type="m" corresp="#s3:l1">Bedt</rhyme>:</l>
+        <l id="s3:l5" met="3" type="+-">Sa verliefde <rhyme label="c" type="f">Handen</rhyme>.</l>
+        <l id="s3:l6" met="3" type="+-">Klopt dan aen het <rhyme label="d" type="m">glas</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Ick sie haer kaersje <rhyme label="c" type="f" corresp="#s3:l5">branden</rhyme>,</l>
+        <l id="s3:l8" met="3" type="+-">Of sy besig <rhyme label="d" type="m" corresp="#s3:l6">was</rhyme></l>
+        <l id="s3:l9" met="3" type="-+">En in een Boeckje <rhyme label="d" type="m" corresp="#s3:l6">las</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176097</id>
+    <date>
+      <year-start>1640</year-start>
+      <year-end>1640</year-end>
+    </date>
+    <location>
+      <orginal-name>deventer</orginal-name>
+      <standard-name>Deventer, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.2532272</lon>
+        <lat>6.1584725</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 100 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GHy volckeren des aerdrijcx <rhyme label="a" type="m">al</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Iuycht onsen Gode met <rhyme label="a" type="m" corresp="#s1:l1">geschal</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">En dient hem hertelijck <rhyme label="b" type="m">verheucht</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Comt voor syn aengesicht met <rhyme label="b" type="m" corresp="#s1:l3">vreucht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Bedenckt dat hy de Heere <rhyme label="a" type="m">sy</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Die ons gemaeckt heeft, en niet <rhyme label="a" type="m" corresp="#s2:l1">wy</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Het volck tot synen roem <rhyme label="b" type="m">bereydt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">De schapen van syn groene <rhyme label="b" type="m" corresp="#s2:l3">weyd'</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wilt tot syn poorten <rhyme label="a" type="m">inne-gaen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Heft daer u lof-gesangen <rhyme label="a" type="m" corresp="#s3:l1">aen</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">In syn voorhoven <rhyme label="b" type="m">wel-gebout</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Prijst syne daden <rhyme label="b" type="m" corresp="#s3:l3">menichvout</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Want God is in genade <rhyme label="a" type="m">rijck</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Syn goedicheyt duert <rhyme label="a" type="m" corresp="#s4:l1">eeuwichlijck</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">De waerheyt van syn godlijck <rhyme label="b" type="m">woort</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Blijft onverandert voort en <rhyme label="b" type="m" corresp="#s4:l3">voort</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

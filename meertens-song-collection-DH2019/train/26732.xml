@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26732</id>
+    <date>
+      <year-start>1557</year-start>
+      <year-end>1557</year-end>
+    </date>
+    <location>
+      <orginal-name>emden</orginal-name>
+      <standard-name>Emden, Germany</standard-name>
+      <coordinates>
+        <lon>53.3670442</lon>
+        <lat>7.2058004</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 043 Utenhove</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jan Utenhove</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Richt my Heer, end grypt myn  saeck <rhyme label="a" type="m">an</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Teghen d’onheylghe <rhyme label="b" type="f">schare</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Uerlost my van den valschen <rhyme label="a" type="m" corresp="#s1:l1">man</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">End van den boosen <rhyme label="b" type="f" corresp="#s1:l2">alle</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Du bist de God der sterckheyt <rhyme label="c" type="m">myn</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Waerom laetstu my truerich <rhyme label="c" type="m" corresp="#s1:l5">syn</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Als myn viandt my <rhyme label="d" type="f">quellet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Sendt dijn klaer licht, end dijn <rhyme label="a" type="m">waerheyt</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Dat sy my rechte <rhyme label="b" type="f">leyden</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Tot dynen heylghen berch <rhyme label="a" type="m" corresp="#s2:l1">bereydt</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Den vromen, end dyne <rhyme label="b" type="f" corresp="#s2:l2">tenten</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Dat ick ingae tot Gods <rhyme label="c" type="m">aultaer</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Tot den God myner vruechden <rhyme label="c" type="m" corresp="#s2:l5">gaer</rhyme>.</l>
+        <l id="s2:l7" met="3" type="-+">End dy dancke op de <rhyme label="d" type="f">harpe</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Waerom truerdy o siele <rhyme label="a" type="m">myn</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Wat beroerstu dy van <rhyme label="b" type="f">binnen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Betraut op God <rhyme label="a" type="m" corresp="#s3:l1">Emmanuel</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Dien ick noch prysen <rhyme label="b" type="f" corresp="#s3:l2">wille</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Du bist myns aenschyns <rhyme label="c" type="m">salicheyt</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">End myn God, die daer syt <rhyme label="c" type="m" corresp="#s3:l5">bereyt</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Doer Christum onsen <rhyme label="d" type="f">Heere</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

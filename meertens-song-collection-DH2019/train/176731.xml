@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176731</id>
+    <date>
+      <year-start>1683</year-start>
+      <year-end>1683</year-end>
+    </date>
+    <location>
+      <orginal-name>leeuwarden</orginal-name>
+      <standard-name>Leeuwarden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>53.2005936</lon>
+        <lat>5.7918548</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody>Dies est laetitiae in ortu regali</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Hendrik Rintjes</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Weest willekom in desen <rhyme label="a" type="m">tijdt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Ghy Send-Bode des <rhyme label="b" type="f">Heeren</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Dat ghy tot ons ghekomen <rhyme label="a" type="m" corresp="#s1:l1">zijt</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Doet ons vreughde <rhyme label="b" type="f" corresp="#s1:l2">vermeeren</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Te recht seyt de Schriftuyr met <rhyme label="c" type="m">schijn</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Dat de voeten lieffelijck <rhyme label="c" type="m" corresp="#s1:l5">zijn</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Van haer die komen <rhyme label="d" type="f">spoedigh</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Over de Berghen <rhyme label="e" type="m">bequaem</rhyme>,</l>
+        <l id="s1:l9" met="4" type="-+">Vrede Preken <rhyme label="e" type="m" corresp="#s1:l8">aen-ghenaem</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">Heerlijck ende <rhyme label="d" type="f" corresp="#s1:l7">goedigh</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die ons verkondighen het <rhyme label="a" type="m">goet</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">De zaligheyt <rhyme label="b" type="f">verbreyden</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Die ons toe-komt door Christum <rhyme label="a" type="m" corresp="#s2:l1">soet</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Die ‘t heyl ons ginck <rhyme label="b" type="f" corresp="#s2:l2">bereyden</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Deet ons kont maken sijne <rhyme label="c" type="m">kracht</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Dat hy sijn Vyandt nam sijn <rhyme label="c" type="m" corresp="#s2:l5">macht</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">En eeuwich sal <rhyme label="d" type="f">regheeren</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Als een Koningh, die oock <rhyme label="e" type="m">sal</rhyme>,</l>
+        <l id="s2:l9" met="4" type="-+">Met sijn seer lieffelijck <rhyme label="e" type="m" corresp="#s2:l8">ghetal</rhyme>,</l>
+        <l id="s2:l10" met="3" type="-+">Heerlijck <rhyme label="d" type="f" corresp="#s2:l7">triumpheeren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">U boodtschap moet worden <rhyme label="a" type="m">vruchtbaer</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Door den zeghen des <rhyme label="b" type="f">Heeren</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Dat wy t’samen de goede <rhyme label="a" type="m" corresp="#s3:l1">maer</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Aennemen met <rhyme label="b" type="f" corresp="#s3:l2">begheeren</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">En ons daer in verblijden <rhyme label="c" type="m">seer</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">En onsen tijdt nae Godts <rhyme label="c" type="m" corresp="#s3:l5">begheer</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Soecken soo door te <rhyme label="d" type="f">bringhen</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Dat sijnen naem worde <rhyme label="e" type="m">ghe-eert</rhyme></l>
+        <l id="s3:l9" met="4" type="-+">En sijn Rijck altijdt <rhyme label="e" type="m" corresp="#s3:l8">vermeert</rhyme>,</l>
+        <l id="s3:l10" met="3" type="-+">Amen wy nu <rhyme label="d" type="f" corresp="#s3:l7">singhen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

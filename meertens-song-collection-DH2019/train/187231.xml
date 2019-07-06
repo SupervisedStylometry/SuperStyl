@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>187231</id>
+    <date>
+      <year-start>1794</year-start>
+      <year-end>1794</year-end>
+    </date>
+    <tags/>
+    <melody>Ohne Lieb und ohne Wein</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Wat toch is het vry te <rhyme label="a" type="m">zyn</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">Als m' alleen moet <rhyme label="b" type="f">zwerven</rhyme>;</l>
+        <l id="s1:l3" met="4" type="+-">Is 't het teder hart geen <rhyme label="a" type="m" corresp="#s1:l1">pyn</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Als 't de min moet <rhyme label="b" type="f" corresp="#s1:l2">derven</rhyme>?</l>
+        <l id="s1:l5" met="4" type="+-">Maar vereend van ziel en <rhyme label="c" type="m">zin</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Smaakt men waar <rhyme label="d" type="f">genoegen</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Zalig is 't, wanneer de <rhyme label="c" type="m" corresp="#s1:l5">min</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">Twee kan samen <rhyme label="d" type="f" corresp="#s1:l6">voegen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

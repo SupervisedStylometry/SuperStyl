@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22276</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Gelobt seist du Jesu Christ</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">SIet: ende loeft den Heeren <rhyme label="a" type="m">recht</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Alle die syn Godts sHeeren <rhyme label="a" type="m" corresp="#s1:l1">knecht</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Niet genoech en looftmen mit alle <rhyme label="b" type="m">macht</rhyme></l>
+        <l id="s1:l4" met="6" type="-+">In sHeeren huys de gheheele nacht. <rhyme label="c" type="m">Alleluya</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Heft u handen op int <rhyme label="a" type="m">Heylichdom</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Den gheheelen hoop loue den Heer <rhyme label="a" type="m" corresp="#s2:l1">schoon</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">De Heere die seegne u wt <rhyme label="b" type="m">Zyon</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Die hemel en deerd gemaect heeft schoon. <rhyme label="c" type="m">Alleluya</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>117754</id>
+    <date>
+      <year-start>1741</year-start>
+      <year-end>1741</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Tranquilles coeurs</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Daar Rozemond, daar is een <rhyme label="a" type="m">Roos</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">De waardste van de <rhyme label="b" type="f">Lente-Bloemen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Hoewel ik, voor haar glans, <rhyme label="a" type="m" corresp="#s1:l1">verkoos</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">De Roosjes waardiger te <rhyme label="b" type="f" corresp="#s1:l2">roemen</rhyme>,</l>
+        <l id="s1:l5" met="6" type="-+">Die met een Frisser geur, en Schoner glans <rhyme label="c" type="m">belaân</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Op byd' uw Kaakjes <rhyme label="c" type="m" corresp="#s1:l5">staan</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Dat zyn de Roosjes <rhyme label="a" type="m">Engelin</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Die Minnaars Sterven doen of <rhyme label="b" type="f">Leven</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Om dat Gebloemt heb ik vol <rhyme label="a" type="m" corresp="#s2:l1">Min</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Myn Hart in u Gebiet <rhyme label="b" type="f" corresp="#s2:l2">gegeven</rhyme>,</l>
+        <l id="s2:l5" met="6" type="-+">Behaagt deez' Roos u Oog? sta my 'er weer een <rhyme label="c" type="m">toe</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Die zulk een Offer <rhyme label="c" type="m" corresp="#s2:l5">doe</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">'t Zou Gunst om Gunst zyn, waardste <rhyme label="a" type="m">Schat</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">En 't zal u Hartje niet <rhyme label="b" type="f">bezwaren</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Het waardste Roosje boven <rhyme label="a" type="m" corresp="#s3:l1">dat</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Dient afgeplukt, of stroy zyn <rhyme label="b" type="f" corresp="#s3:l2">Blaren</rhyme>.</l>
+        <l id="s3:l5" met="6" type="-+">Uw Rozengaard zal (laat g'er nu) en dan een <rhyme label="c" type="m">gaan</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Hier na te Schoner <rhyme label="c" type="m" corresp="#s3:l5">staan</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6930</id>
+    <date>
+      <year-start>1627</year-start>
+      <year-end>1627</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Si c'est pour mon pucelage</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Cho, Hemelsche druppelen wenschen wy <rhyme label="a" type="f">moeten</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Zalige Bruydegom: d'heylighe <rhyme label="b" type="m">staet</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Stadelijck dadelijck zeghenen <rhyme label="b" type="m" corresp="#s1:l2">maet</rhyme>.</l>
+        <l id="s1:l4" met="4" type="+-">Boter uw solen, uw treden, uw <rhyme label="a" type="f" corresp="#s1:l1">voeten</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Wasschen moet, t'vruchtbare klippeghe <rhyme label="c" type="m">welf</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Levere u olye, en tarwe van <rhyme label="c" type="m" corresp="#s1:l5">self</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Rey, t'gOddelijck Houwelijck nimmer <rhyme label="a" type="f">ghescheyen</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Zeghene d'oppersten Harder <rhyme label="b" type="m">altijd</rhyme>.</l>
+        <l id="s2:l3" met="4" type="+-">t'Vrouwelijck aenghesicht vrolijck, en <rhyme label="b" type="m" corresp="#s2:l2">blijd</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Daghelijcx noodighe ons zuyvere <rhyme label="a" type="f" corresp="#s2:l1">reyen</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Eenmael ghewilligh te leenen het <rhyme label="c" type="m">oor</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">t'Herderlijck slavenbde en dravende <rhyme label="c" type="m" corresp="#s2:l5">Choor</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">t'Grazende kuddeken eeuwigh moet <rhyme label="a" type="f">dancken</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">d'Herder diet bloeyende klaver <rhyme label="b" type="m">verspied</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">d'Hemel die gunstigh de beemden <rhyme label="b" type="m" corresp="#s3:l2">begiet</rhyme>:</l>
+        <l id="s3:l4" met="4" type="+-">Huppelende alsser de Lammerkens <rhyme label="a" type="f" corresp="#s3:l1">bancken</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Lammerkens sijnde soo weeldigh van <rhyme label="c" type="m">vacht</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Datter de vrolijcke Schaper om <rhyme label="c" type="m" corresp="#s3:l5">lacht</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">t'Eerstelingh popetje wenschen Wy <rhyme label="a" type="f">spertel</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Vroegher eer t'Sonnetje d'Hemel <rhyme label="b" type="m">omrol</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">t'Moederlijc lipje vroech <rhyme label="b" type="m" corresp="#s4:l2">t'claecchende-bol</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Kusse van t'zuyghelingh, weeldigh en <rhyme label="a" type="f" corresp="#s4:l1">dertel</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">Koozende boter, en stremmel, en <rhyme label="c" type="m">room</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">Vloeyende uyt memmetjes <rhyme label="c" type="m" corresp="#s4:l5">tweelinghe-stroom</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

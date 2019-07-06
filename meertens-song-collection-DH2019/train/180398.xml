@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>180398</id>
+    <date>
+      <year-start>1660</year-start>
+      <year-end>1660</year-end>
+    </date>
+    <location>
+      <orginal-name>leuven</orginal-name>
+      <standard-name>Leuven, Belgium</standard-name>
+      <coordinates>
+        <lon>50.879202</lon>
+        <lat>4.7011675</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Herders hij is geboren</melody>
+  <author>Gaudentius van Loemel</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Comt siet hy is <rhyme label="a" type="f">verresen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Soo d’Engel ons <rhyme label="b" type="m">verklaert</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Die ons al heeft <rhyme label="a" type="f" corresp="#s1:l1">genesen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Van dat ons had’ <rhyme label="b" type="m" corresp="#s1:l2">beswaert</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Comt nu en vreest dan <rhyme label="c" type="m">niet</rhyme>;</l>
+        <l id="s1:l6" met="3" type="-+">Maer singht het blyde <rhyme label="c" type="m" corresp="#s1:l5">liedt</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Singht nu bly voor en <rhyme label="d" type="m">na</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Met vreughd’ <rhyme label="d" type="m" corresp="#s1:l7">Alleluia</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Laet ons hem dan gaen <rhyme label="a" type="f">soecken</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Met Maria in ‘t <rhyme label="b" type="m">graff</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">‘T sa lustich met <rhyme label="a" type="f" corresp="#s2:l1">verkloecken</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Den steen die is daer <rhyme label="b" type="m" corresp="#s2:l2">aff</rhyme>;</l>
+        <l id="s2:l5" met="3" type="-+">Daer is geen <rhyme label="c" type="m">swaricheyt</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Maer sonder <rhyme label="c" type="m" corresp="#s2:l5">arebeydt</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Ghy hem nu vinden <rhyme label="d" type="m">kondt</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Die vander doodt <rhyme label="d" type="m" corresp="#s2:l7">opstondt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Den hemel ende <rhyme label="a" type="f">aerde</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Zijn nu vol vreuchden <rhyme label="b" type="m">groot</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Om dat die ons <rhyme label="a" type="f" corresp="#s3:l1">bewaerde</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Verwonnen heeft de <rhyme label="b" type="m" corresp="#s3:l2">doodt</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">O Mensch u dan <rhyme label="c" type="m">verblydt</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Door desen vromen <rhyme label="c" type="m" corresp="#s3:l5">strydt</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Die Christus heeft <rhyme label="d" type="m">gedaen</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Voor u die waert <rhyme label="d" type="m" corresp="#s3:l7">vergaen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Glori zy u o <rhyme label="a" type="f">Vader</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">En oock u eenigh <rhyme label="b" type="m">Soon</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Die ons hebt <rhyme label="a" type="f" corresp="#s4:l1">altegader</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Bereydt des hemelsch <rhyme label="b" type="m" corresp="#s4:l2">Throon</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">En oock u heyligh <rhyme label="c" type="m">Geest</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Op dese blijde <rhyme label="c" type="m" corresp="#s4:l5">feest</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Die ons leere voor en <rhyme label="d" type="m">na</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Singen <rhyme label="d" type="m" corresp="#s4:l7">Alleluia</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

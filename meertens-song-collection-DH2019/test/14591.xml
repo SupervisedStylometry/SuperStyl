@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14591</id>
+    <date>
+      <year-start>1638</year-start>
+      <year-end>1638</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Te mei als alle vogels zingen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">AL lijd' ick druck en swaer <rhyme label="a" type="m">gequel</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Al is mijn lijden noch soo <rhyme label="a" type="m" corresp="#s1:l1">fel</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Rebel wil ick niet <rhyme label="b" type="f">wesen</rhyme>:</l>
+        <l id="s1:l4" met="4" type="-+">Want Godt is goet // Sijn oordeel <rhyme label="c" type="m">moet</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Altijdt worden <rhyme label="b" type="f" corresp="#s1:l3">ghepresen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Al wordt ghy nu bespot, <rhyme label="a" type="m">versmaet</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Begeckt, beklapt,verdruckt, <rhyme label="a" type="m" corresp="#s2:l1">behaet</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Hoe 't gaet weest wel te <rhyme label="b" type="f">vreden</rhyme>:</l>
+        <l id="s2:l4" met="4" type="-+">Maeckt geen gekrijt // Verduldigh <rhyme label="c" type="m">zijt</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">'t Werdt al tot <rhyme label="b" type="f" corresp="#s2:l3">saligheden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Al slaet u Godt in gelt, in <rhyme label="a" type="m">goedt</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">In naem, in faem, in vleesch, in <rhyme label="a" type="m" corresp="#s3:l1">bloedt</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Houdt moedt in uw' vijf <rhyme label="b" type="f">sinnen</rhyme>:</l>
+        <l id="s3:l4" met="4" type="-+">Den Heer verbeyt // Lief volght na <rhyme label="c" type="m">leyt</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">'t Komt al uyt rechter <rhyme label="b" type="f" corresp="#s3:l3">minnen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Behout inwendigh stercken <rhyme label="a" type="m">moedt</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">In lief, in leet, in suer, in <rhyme label="a" type="m" corresp="#s4:l1">soet</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">In hebben, en in <rhyme label="b" type="f">derven</rhyme>:</l>
+        <l id="s4:l4" met="4" type="-+">Hout dese leer // In sucht, in <rhyme label="c" type="m">seer</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">In leven, en in <rhyme label="b" type="f" corresp="#s4:l3">sterven</rhyme>,</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Geen quader dingh als eyghen <rhyme label="a" type="m">wil</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">'t Maeckt tusschen ons, en God <rhyme label="a" type="m" corresp="#s5:l1">geschil</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">'t Belet sijn soet <rhyme label="b" type="f">in-vloeyen</rhyme>!</l>
+        <l id="s5:l4" met="4" type="-+">Den wil versaect // En God <rhyme label="c" type="m">gesmaect</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">Dat doet in deughden <rhyme label="b" type="f" corresp="#s5:l3">groeyen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

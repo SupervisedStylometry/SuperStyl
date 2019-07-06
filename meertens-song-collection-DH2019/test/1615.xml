@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1615</id>
+    <date>
+      <year-start>1544</year-start>
+      <year-end>1544</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="wachterlied" translation="watchman's song">wachterlied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="dageraadslied" translation="dawn song">dageraadslied</tag>
+    </tags>
+    <melody>De dag en wil niet verborgen zijn het is schoon dag</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DEn dach en wil niet verborghen <rhyme label="a" type="m">zijn</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Het is schoon dach dat duncket <rhyme label="a" type="m" corresp="#s1:l1">mi</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Mer wie verborghen heeft zijn <rhyme label="b" type="m">lief</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Hoe noode ist dat si <rhyme label="c" type="f">scheyden</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wachter nv laet v schimpen <rhyme label="a" type="m">zijn</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Ende laet hi slapen die alder liefste <rhyme label="a" type="m" corresp="#s2:l1">mijn</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">een vingerlinck root sal ic v <rhyme label="b" type="m">schincken</rhyme>.</l>
+        <l id="s2:l4" met="3" type="-+">Wildy den dach niet <rhyme label="c" type="f">melden</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Och melt hem niet rampsalich <rhyme label="a" type="m">wijf</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Het gaet den iongelinck aen zijn <rhyme label="a" type="m" corresp="#s3:l1">lijf</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Hebdy den schilt ick hebbe die <rhyme label="b" type="m">speyr</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">daer mede maect v van <rhyme label="c" type="f">heyr</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Die ionghelinck sliep ende hi <rhyme label="a" type="m">ontspranck</rhyme>.</l>
+        <l id="s4:l2" met="4" type="-+">Die liefste hi in zijn armen <rhyme label="a" type="m" corresp="#s4:l1">nam</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">En latet v niet so na ter herten <rhyme label="b" type="m">gaen</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Ick come noch tauont <rhyme label="c" type="f">weder</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Die ionghelinck op zijn vale ros <rhyme label="a" type="m">tradt</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Die vrouwe op hooger sinnen <rhyme label="a" type="m" corresp="#s5:l1">lach</rhyme>.</l>
+        <l id="s5:l3" met="4" type="-+">Si sach so verre noortuwaert <rhyme label="b" type="m">inne</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Den dach door die wolcken op <rhyme label="c" type="f">dringhen</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Had ick den slotel vanden <rhyme label="a" type="m">daghe</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Ic weerpen in gheender wilder <rhyme label="a" type="m" corresp="#s6:l1">masen</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Oft vander masen tot inden <rhyme label="b" type="m">rijn</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Al en soude hi nemmeer vonden <rhyme label="c" type="f">zijn</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

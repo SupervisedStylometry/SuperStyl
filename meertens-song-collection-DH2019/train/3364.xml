@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3364</id>
+    <date>
+      <year-start>1575</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+    </tags>
+    <melody>Psalm 008 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>D.V. Coornhert</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">ZO kryght men God met al zyn schatten <rhyme label="a" type="f">Godlick</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Voort waan-ghoed quaad, daar elx verkiezen <rhyme label="a" type="f" corresp="#s1:l1">zotlick</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">Zyn God afmaackt, recht ofmen zonder <rhyme label="b" type="m">God</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">God hebben mocht dits waan en zotheyd <rhyme label="b" type="m" corresp="#s1:l3">zot</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Want zonder ziel magh niemand levend <rhyme label="a" type="f">wezen</rhyme>:</l>
+        <l id="s2:l2" met="5" type="-+">En zonder dueghd wert niemands dueghd <rhyme label="a" type="f" corresp="#s2:l1">gheprezen</rhyme>:</l>
+        <l id="s2:l3" met="5" type="-+">Oock zonder God is niemand ghoed <rhyme label="b" type="m">ghenaamt</rhyme>.</l>
+        <l id="s2:l4" met="5" type="-+">Ziel, dueghd en tghoed, zyn al in God <rhyme label="b" type="m" corresp="#s2:l3">verzaamt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Het leven Goods is alder ghoeden <rhyme label="a" type="f">leven</rhyme>.</l>
+        <l id="s3:l2" met="5" type="-+">Goods edel dueghd maackt elck in dueghd <rhyme label="a" type="f" corresp="#s3:l1">verheven</rhyme>.</l>
+        <l id="s3:l3" met="5" type="-+">Goods ghoedheyd ghoed maackt al de menschen <rhyme label="b" type="m">ghoed</rhyme>:</l>
+        <l id="s3:l4" met="5" type="-+">Die zich tot God verheven in <rhyme label="b" type="m" corresp="#s3:l3">ootmoed</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Die God verkryght kryght al dees <rhyme label="a" type="f">ghoedicheyden</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">Wants in God zyn en blyven <rhyme label="a" type="f" corresp="#s4:l1">onverscheyden</rhyme></l>
+        <l id="s4:l3" met="5" type="-+">Als licht en wermt int vier zulx zyn <rhyme label="b" type="m">ghemeen</rhyme>:</l>
+        <l id="s4:l4" met="5" type="-+">Dat wie tvier heeft, heeft licht en wermt met <rhyme label="b" type="m" corresp="#s4:l3">een</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Maar die tvier derft moet die oock beyde <rhyme label="a" type="f">derven</rhyme>.</l>
+        <l id="s5:l2" met="5" type="-+">Wie God oock derft die magh niet ghoeds <rhyme label="a" type="f" corresp="#s5:l1">verwerven</rhyme>:</l>
+        <l id="s5:l3" met="5" type="-+">Al had hy oock al taardsche ghoed na <rhyme label="b" type="m">wensch</rhyme>.</l>
+        <l id="s5:l4" met="5" type="-+">Want zonder God niet ghoeds is inden <rhyme label="b" type="m" corresp="#s5:l3">mensch</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="5" type="-+">Zo ydelt nu, o mensch van dydel <rhyme label="a" type="f">ghoeden</rhyme></l>
+        <l id="s6:l2" met="5" type="-+">Veel ghemoed, na tware ghoed wilt <rhyme label="a" type="f" corresp="#s6:l1">spoeden</rhyme>.</l>
+        <l id="s6:l3" met="5" type="-+">Dats na God zelf om worden ghoed en <rhyme label="b" type="m">ryck</rhyme></l>
+        <l id="s6:l4" met="5" type="-+">Zo kryghtmen God met al zyn schat <rhyme label="b" type="m" corresp="#s6:l3">ghelyck</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

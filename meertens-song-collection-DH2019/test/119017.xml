@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>119017</id>
+    <date>
+      <year-start>1745</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Aimable vainqueur</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">TOutes vos <rhyme label="a" type="m">leçons</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">Ne sont que <rhyme label="a" type="m" corresp="#s1:l1">chansons</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Je suis dans un <rhyme label="b" type="f">age</rhyme>.</l>
+        <l id="s1:l4" met="2" type="-+">On <rhyme label="b" type="f" corresp="#s1:l3">l'esclavage</rhyme>,</l>
+        <l id="s1:l5" met="3" type="+-">Est hors de <rhyme label="a" type="m" corresp="#s1:l1">façon</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Ma Fierté <rhyme label="c" type="f">cesse</rhyme>,</l>
+        <l id="s1:l7" met="3" type="+-">Mon Amour me <rhyme label="c" type="f" corresp="#s1:l6">presse</rhyme>,</l>
+        <l id="s1:l8" met="3" type="+-">j' Aime tout de <rhyme label="a" type="m" corresp="#s1:l1">bon</rhyme>,</l>
+        <l id="s1:l9" met="3" type="+-">Lasce du <rhyme label="d" type="m">couvent</rhyme>,</l>
+        <l id="s1:l10" met="3" type="+-">Raisterai je <rhyme label="e" type="f">fille</rhyme>.</l>
+        <l id="s1:l11" met="3" type="+-">A qui suit la <rhyme label="e" type="f" corresp="#s1:l10">grille</rhyme>,</l>
+        <l id="s1:l12" met="3" type="+-">Il faut un <rhyme label="d" type="m" corresp="#s1:l9">Amant</rhyme>,</l>
+        <l id="s1:l13" met="2" type="+-">j' Ai des a <rhyme label="f" type="m">pas</rhyme>,</l>
+        <l id="s1:l14" met="3" type="+-">Que d'autre n'ont <rhyme label="f" type="m" corresp="#s1:l13">pas</rhyme>,</l>
+        <l id="s1:l15" met="3" type="+-">Ma gorge &amp; tres <rhyme label="g" type="f">belle</rhyme>,</l>
+        <l id="s1:l16" met="3" type="+-">Et j'amais <rhyme label="g" type="f" corresp="#s1:l15">pucelle</rhyme>,</l>
+        <l id="s1:l17" met="3" type="+-">En eut de si beaux <rhyme label="f" type="m" corresp="#s1:l13">bras</rhyme></l>
+        <l id="s1:l18" met="2" type="+-">Tout est <rhyme label="h" type="m">mignon</rhyme>,</l>
+        <l id="s1:l19" met="3" type="+-">Depuis mon <rhyme label="i" type="f">oreille</rhyme>,</l>
+        <l id="s1:l20" met="3" type="+-">Jusqu'a mon <rhyme label="j" type="f">Talen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

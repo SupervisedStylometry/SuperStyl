@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>151828</id>
+    <date>
+      <year-start>1682</year-start>
+      <year-end>1682</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen [=amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Och ik mag wel droevig schreien</melody>
+  <author>Christianus de Placker</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Joseph en Maria <rhyme label="a" type="f">heden</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">In den Tempel Godts <rhyme label="a" type="f" corresp="#s1:l1">getreden</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Hoorden met verwonder <rhyme label="b" type="m">beyd'</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">'t Geen van Jesus wert <rhyme label="b" type="m" corresp="#s1:l3">geseyt</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">Simeon quam daer seer <rhyme label="c" type="f">blijde</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">En haer al <rhyme label="c" type="f" corresp="#s1:l5">gebenedijde</rhyme>.</l>
+        <l id="s1:l7" met="4" type="+-">Hy sprack Jesus Moeder <rhyme label="d" type="m">aen</rhyme>:</l>
+        <l id="s1:l8" met="4" type="+-">Uw ziel sal een sweert <rhyme label="d" type="m" corresp="#s1:l7">doorgaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">O! laet ons hem loven, <rhyme label="a" type="f">prijsen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Alle eer, en danck <rhyme label="a" type="f" corresp="#s2:l1">bewijsen</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Met dees' twee bejaerde <rhyme label="b" type="m">Lien</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">En ons hert en ziel hem <rhyme label="b" type="m" corresp="#s2:l3">bien</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">Lieve Iesu! stoockt van <rhyme label="c" type="f">binnen</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">In ons herte 't vyer der <rhyme label="c" type="f" corresp="#s2:l5">minnen</rhyme>;</l>
+        <l id="s2:l7" met="4" type="+-">Dat het brande t' allen <rhyme label="d" type="m">tijd'</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">En u Naem <rhyme label="d" type="m" corresp="#s2:l7">gebenedijd'</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

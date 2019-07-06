@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174726</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Jongens ginder zitten spreeuwen</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Jongens! ginder zitten <rhyme label="a" type="f">spreeuwen</rhyme>!</l>
+        <l id="s1:l2" met="4" type="+-">Laat ons klimmen om het <rhyme label="b" type="m">best</rhyme>;</l>
+        <l id="s1:l3" met="4" type="+-">Ziet, ze kijken over 't <rhyme label="b" type="m" corresp="#s1:l2">nest</rhyme>:</l>
+        <l id="s1:l4" met="4" type="+-">Hoort dat jonge goed eens <rhyme label="a" type="f" corresp="#s1:l1">schreeuwen</rhyme>!</l>
+        <l id="s1:l5" met="4" type="+-">'t Oudje dat vliegt af en <rhyme label="c" type="m">ân</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Net alsof hij 't raden <rhyme label="c" type="m" corresp="#s1:l5">kan</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Och! wat kijkt dat beest <rhyme label="a" type="f">verslagen</rhyme>;</l>
+        <l id="s2:l2" met="4" type="+-">'k Vind het wel een beetje <rhyme label="b" type="m">naar</rhyme>: -</l>
+        <l id="s2:l3" met="4" type="+-">Jongens! of 't niet beter <rhyme label="b" type="m" corresp="#s2:l2">waar'</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">'t Arme dier maar niet te <rhyme label="a" type="f" corresp="#s2:l1">plagen</rhyme>?</l>
+        <l id="s2:l5" met="4" type="+-">Denkt eens als er iemand <rhyme label="c" type="m">kwam</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Die ons zoo van Moeder <rhyme label="c" type="m" corresp="#s2:l5">nam</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

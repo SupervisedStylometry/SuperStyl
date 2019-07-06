@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20181</id>
+    <date>
+      <year-start>1647</year-start>
+      <year-end>1647</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
+    </tags>
+    <melody>O kerstnacht schoner dan de dagen</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O! Wreede: niet om te <rhyme label="a" type="f">versmaden</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Roept heyl, Ia heyl, u wreeden <rhyme label="a" type="f" corresp="#s1:l1">daden</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Gedompelt in jonk Lamm'tjes <rhyme label="b" type="m">bloet</rhyme>;</l>
+        <l id="s1:l4" met="4" type="-+">'t Welk u te speenen was <rhyme label="c" type="f">bevolen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Gaet nu in dorre Beemde <rhyme label="c" type="f" corresp="#s1:l4">doolen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Verteert als een ontsteeken <rhyme label="b" type="m" corresp="#s1:l3">gloet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ey Gallis! betoomd dit maet'loos <rhyme label="a" type="f">suchten</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">V Lycoris wil enkel <rhyme label="a" type="f" corresp="#s2:l1">vluchten</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">'t Is Codro die de ziel <rhyme label="b" type="m">bestrijt</rhyme>:</l>
+        <l id="s2:l4" met="4" type="-+">Wanhoopend' Dier, kost gy niet <rhyme label="c" type="f">vroeden</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Dat u den veynsert wort <rhyme label="c" type="f" corresp="#s2:l4">behoeden</rhyme>:</l>
+        <l id="s2:l6" met="4" type="-+">Als Lely tot een rijpe <rhyme label="b" type="m" corresp="#s2:l3">tijt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wie docht, doen gy u swanger <rhyme label="a" type="f">toonden</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Dat sulk een mis-dracht by u <rhyme label="a" type="f" corresp="#s3:l1">woonden</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Daer ik den oorspronk docht te <rhyme label="b" type="m">zijn</rhyme>:</l>
+        <l id="s3:l4" met="4" type="-+">Wy teelden vreugd' als wulpsche <rhyme label="c" type="f">kalven</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Gy toonden 't heel, en ik ten <rhyme label="c" type="f" corresp="#s3:l4">halven</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Nu houd gy niet, ik heb moch 't <rhyme label="b" type="m" corresp="#s3:l3">mijn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ik sijg! mijn krachten zijn <rhyme label="a" type="f">verdweenen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Mijn loop ten end', mijn vreugd' daer <rhyme label="a" type="f" corresp="#s4:l1">heenen</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Wijk' van mijn telg, en groen <rhyme label="b" type="m">gespruyt</rhyme>:</l>
+        <l id="s4:l4" met="4" type="-+">Ik wil voort aen verschooven <rhyme label="c" type="f">blijven</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Geveynsde trou, ontrou <rhyme label="c" type="f" corresp="#s4:l4">aenklijven</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Tot ik verwerf d' eewige <rhyme label="b" type="m" corresp="#s4:l3">Bruyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

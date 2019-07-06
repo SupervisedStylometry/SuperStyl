@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10842</id>
+    <date>
+      <year-start>1605</year-start>
+      <year-end>1605</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="danslied" translation="dancing song">danslied</tag>
+    </tags>
+    <melody>Een meisje had een bootsman lief</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ghebuertghen wilt u belghen <rhyme label="a" type="m">niet</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Datter een Dochter op u <rhyme label="a" type="m" corresp="#s1:l1">siet</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Om vriendelijck te <rhyme label="b" type="f">bringhen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Dit Beckertgen, met een <rhyme label="a" type="m" corresp="#s1:l1">Liet</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Dat vrolijck om te <rhyme label="b" type="f" corresp="#s1:l3">singhen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wat isser beter voor die <rhyme label="a" type="m">Ieught</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Dan bly te zijn in eer en <rhyme label="a" type="m" corresp="#s2:l1">deught</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Met dansen en met <rhyme label="b" type="f">springhen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Den tijt verdrijven met <rhyme label="a" type="m" corresp="#s2:l1">geneught</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">En vrolijck om te <rhyme label="b" type="f" corresp="#s2:l3">singhen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">En of hier yemant waer <rhyme label="a" type="m">misschien</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Die gheen gheneucht noch wit mach <rhyme label="a" type="m" corresp="#s3:l1">sien</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Die moet hem nu <rhyme label="b" type="f">bedwinghen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Want hy en mach ons niet <rhyme label="a" type="m" corresp="#s3:l1">verbien</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Dus vrolijck om te <rhyme label="b" type="f" corresp="#s3:l3">singhen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Siet dat u ons <rhyme label="a" type="m">vryposticheyt</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Ionck heer niet in becoring <rhyme label="a" type="m" corresp="#s4:l1">leyt</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Om dencken ander <rhyme label="b" type="f">dinghen</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Oft van ons eenich schandich <rhyme label="a" type="m" corresp="#s4:l1">seyt</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Dan vrolijck om te <rhyme label="b" type="f" corresp="#s4:l3">singhen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Ghy Prince daer ick my toe <rhyme label="a" type="m">kere</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Wacht u voor schande oft <rhyme label="a" type="m" corresp="#s5:l1">oneer</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Die Vroukens op te <rhyme label="b" type="f">dringhen</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">En roert u tong niet al te <rhyme label="a" type="m" corresp="#s5:l1">seer</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">Dan vrolijck om te <rhyme label="b" type="f" corresp="#s5:l3">singhen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

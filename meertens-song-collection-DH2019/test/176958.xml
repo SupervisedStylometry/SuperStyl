@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176958</id>
+    <date>
+      <year-start>1757</year-start>
+      <year-end>1757</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Mars van Dessau</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="1" type="-+"><rhyme label="a" type="m">Avous</rhyme>,</l>
+        <l id="s1:l2" met="1" type="-+"><rhyme label="a" type="m" corresp="#s1:l1">Carpoes</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Ei zing nu op myn <rhyme label="b" type="f">wysje</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Grand mesys maat <rhyme label="b" type="f" corresp="#s1:l3">Tysje</rhyme>,</l>
+        <l id="s1:l5" met="3" type="+-">Kom volg maar myn <rhyme label="c" type="m">les</rhyme>;</l>
+        <l id="s1:l6" met="3" type="+-">Drinken wy ter <rhyme label="d" type="f">eeren</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">Van je <rhyme label="c" type="m" corresp="#s1:l5">matres</rhyme>;</l>
+        <l id="s1:l8" met="3" type="-+">Dat smaakt als spek met <rhyme label="d" type="f" corresp="#s1:l6">peren</rhyme>,</l>
+        <l id="s1:l9" met="3" type="+-">Vrind daar is de <rhyme label="c" type="m" corresp="#s1:l5">fles</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="1" type="-+">Zeg <rhyme label="a" type="m">zwik</rhyme>,</l>
+        <l id="s2:l2" met="1" type="-+">En <rhyme label="a" type="m" corresp="#s2:l1">ik</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Meen dan weêr zwak te <rhyme label="b" type="f">zeggen</rhyme>;</l>
+        <l id="s2:l4" met="3" type="+-">Wel iets te <rhyme label="b" type="f" corresp="#s2:l3">overleggen</rhyme></l>
+        <l id="s2:l5" met="3" type="+-">Is 't halleve <rhyme label="c" type="m">werk</rhyme>;</l>
+        <l id="s2:l6" met="3" type="+-">Dat geld nu myn <rhyme label="d" type="f">poesje</rhyme>,</l>
+        <l id="s2:l7" met="2" type="-+">Naar ik <rhyme label="c" type="m" corresp="#s2:l5">merk</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Zoo krygt men ligt een <rhyme label="d" type="f" corresp="#s2:l6">roesje</rhyme>,</l>
+        <l id="s2:l9" met="3" type="+-">Als men zwikt te <rhyme label="c" type="m" corresp="#s2:l5">sterk</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="1" type="-+">Ha! 't <rhyme label="a" type="m">zaa</rhyme>!</l>
+        <l id="s3:l2" met="1" type="-+">Nu <rhyme label="a" type="m" corresp="#s3:l1">draa</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Den man het kurke <rhyme label="b" type="f">hoedje</rhyme>,</l>
+        <l id="s3:l4" met="3" type="+-">Weêr met een nieuw <rhyme label="b" type="f" corresp="#s3:l3">moedje</rhyme>,</l>
+        <l id="s3:l5" met="3" type="+-">Van zyn hoofd <rhyme label="c" type="m">geligt</rhyme>.</l>
+        <l id="s3:l6" met="3" type="+-">'k Wensch je wel te <rhyme label="d" type="f">varen</rhyme>,</l>
+        <l id="s3:l7" met="2" type="-+">'t Is myn <rhyme label="c" type="m" corresp="#s3:l5">plicht</rhyme>;</l>
+        <l id="s3:l8" met="3" type="-+">Wil jy het ook zoo <rhyme label="d" type="f" corresp="#s3:l6">klaren</rhyme>,</l>
+        <l id="s3:l9" met="3" type="+-">Dan is 't werk <rhyme label="c" type="m" corresp="#s3:l5">verricht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

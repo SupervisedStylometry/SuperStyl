@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>134614</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>alkmaar</orginal-name>
+      <standard-name>Alkmaar, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.6312592</lon>
+        <lat>4.7503798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Het gewas van het vlas en het weven dat</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">De wereldt heeft veel moeyten <rhyme label="a" type="m">an</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">De wereldt heeft veel moeyten <rhyme label="a" type="m" corresp="#s1:l1">an</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Eermen die dienstelijc dienen <rhyme label="a" type="m" corresp="#s1:l1">kan</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Soo doet dat <rhyme label="b" type="m">vleysch</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">In sijnen lust en <rhyme label="b" type="m" corresp="#s1:l4">eysch</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Doch hier is geen <rhyme label="a" type="m">bestendicheyt</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Doch hier is geen <rhyme label="a" type="m" corresp="#s2:l1">bestendicheyt</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">In schoonheydt noch <rhyme label="a" type="m" corresp="#s2:l1">behendigheyt</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">‘t Is al <rhyme label="b" type="m">gelijck</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Gras, hop, damp, mest en <rhyme label="b" type="m" corresp="#s2:l4">slijck</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Al wat men in de Wereldt <rhyme label="a" type="m">siet</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Al wat men in de Wereldt <rhyme label="a" type="m" corresp="#s3:l1">siet</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">En wat het vleesch geneug’lijck <rhyme label="a" type="m" corresp="#s3:l1">hiet</rhyme>,</l>
+        <l id="s3:l4" met="2" type="-+">Is niet soo <rhyme label="b" type="m">schoon</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Als ‘s Hemelsch minste <rhyme label="b" type="m" corresp="#s3:l4">loon</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Prince die met veel moeyten <rhyme label="a" type="m">groot</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Prince die met veel moeyten <rhyme label="a" type="m" corresp="#s4:l1">groot</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Arbeydt in ‘t vleesch tot sweeten <rhyme label="a" type="m" corresp="#s4:l1">root</rhyme>,</l>
+        <l id="s4:l4" met="2" type="-+">Hout dit voor <rhyme label="b" type="m">foy</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Al ‘s wereldts moy is <rhyme label="b" type="m" corresp="#s4:l4">hoy</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

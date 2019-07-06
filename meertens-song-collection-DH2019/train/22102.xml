@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22102</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Nun freut euch liebe Christen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DIe Aerd is Sheeren, en watter in <rhyme label="a" type="m">is</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">En alle die op daertrijck <rhyme label="b" type="f">woonen</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Aende Zee, daerd ghefondeert <rhyme label="a" type="m" corresp="#s1:l1">is</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En aenden Rivieren <rhyme label="b" type="f" corresp="#s1:l2">schoone</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Wie sal op Sheeren berghe <rhyme label="c" type="m">gaen</rhyme>?</l>
+        <l id="s1:l6" met="4" type="-+">En in zijn heylighe plaetse <rhyme label="c" type="m" corresp="#s1:l5">staen</rhyme>?</l>
+        <l id="s1:l7" met="3" type="-+">Diens hert en handen reyn <rhyme label="d" type="f">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die tot valsche, leer gheen lust en <rhyme label="a" type="m">heeft</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Niet valschelijck wilt <rhyme label="b" type="f">sweeren</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">In Godts seeghen den desen <rhyme label="a" type="m" corresp="#s2:l1">leeft</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Godt sal hem wel <rhyme label="b" type="f" corresp="#s2:l2">gheneeren</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Dat is thgeslacht dat nae hem <rhyme label="c" type="m">vraecht</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">En daenschijn van Jacobs Godt nae <rhyme label="c" type="m" corresp="#s2:l5">iaecht</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Dyt zijn de rechtueerdighe. <rhyme label="d" type="f">Sela</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ghy Princen opent u poorten <rhyme label="a" type="m">seer</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Nu coemt der glorien <rhyme label="b" type="f">Coninck</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">De machtighe Prince, ende <rhyme label="a" type="m" corresp="#s3:l1">Heer</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">De sterckste Heer, en <rhyme label="b" type="f" corresp="#s3:l2">Coninck</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">Wie is de selue Coninck <rhyme label="c" type="m">groot</rhyme>?</l>
+        <l id="s3:l6" met="4" type="-+">Het is de Heere <rhyme label="c" type="m" corresp="#s3:l5">Zebaoth</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Hy is de Coninck der <rhyme label="d" type="f">eeren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

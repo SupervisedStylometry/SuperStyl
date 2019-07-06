@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10871</id>
+    <date>
+      <year-start>1605</year-start>
+      <year-end>1605</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>De nachtegaal die zong een lied</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Tsa maeckt jolyt, wie dat ghy <rhyme label="a" type="m">zijt</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">in dese <rhyme label="b" type="m">Feest</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">weest hier verblijdt, t’is nu den <rhyme label="a" type="m" corresp="#s1:l1">tijt</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">minst ende <rhyme label="b" type="m" corresp="#s1:l2">meest</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Wilt vreugde en triumpheeren <rhyme label="c" type="f">vermeeren</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Bedrijft solaes met soet <rhyme label="d" type="m">gheraes</rhyme></l>
+        <l id="s1:l7" met="3" type="+-">Dees Vrijsters teer ter <rhyme label="c" type="f" corresp="#s1:l5">eeren</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Elc toont nu vreught, gebruyct sijn <rhyme label="a" type="m">jeught</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">dewijl hy <rhyme label="b" type="m">mach</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Met soet gheneught, dient lief in <rhyme label="a" type="m" corresp="#s2:l1">deught</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">in dit <rhyme label="b" type="m" corresp="#s2:l2">gelagh</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">wilt vrolijc jubileeren, als <rhyme label="c" type="f">Heeren</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Met liflijck singen, den tijt deur <rhyme label="d" type="m">beinghwn</rhyme></l>
+        <l id="s2:l7" met="3" type="+-">Dees Vrijsters teer ter <rhyme label="c" type="f" corresp="#s2:l5">eeren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Drinckt onbelaen, ghy siet hier <rhyme label="a" type="m">staen</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Veel Kroeskens <rhyme label="b" type="m">rondt</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Met d’edelen traen, om dorst <rhyme label="a" type="m" corresp="#s3:l1">verslaen</rhyme>,</l>
+        <l id="s3:l4" met="2" type="-+">set aen u <rhyme label="b" type="m" corresp="#s3:l2">mont</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">wilt droefheyt van u keeren, en <rhyme label="c" type="f">weeren</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">wilt jocken en spelen, singen en <rhyme label="d" type="m">quelen</rhyme>,</l>
+        <l id="s3:l7" met="3" type="+-">Dees Vrijsters teer ter <rhyme label="c" type="f" corresp="#s3:l5">eeren</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Prince maect goet cier, want wijn en <rhyme label="a" type="m">bier</rhyme>,</l>
+        <l id="s4:l2" met="2" type="-+">is bier van <rhyme label="b" type="m">als</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Met soet ghetier, een vriend’lijc <rhyme label="a" type="m" corresp="#s4:l1">dier</rhyme>,</l>
+        <l id="s4:l4" met="2" type="-+">valt om den <rhyme label="b" type="m" corresp="#s4:l2">hals</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Steelt kuskens sonder procken, wilt <rhyme label="c" type="f">loncken</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Wie dat begint, en eerst <rhyme label="d" type="m">verwint</rhyme></l>
+        <l id="s4:l7" met="3" type="+-">Die is dees Kroes <rhyme label="c" type="f" corresp="#s4:l5">gheschoncken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

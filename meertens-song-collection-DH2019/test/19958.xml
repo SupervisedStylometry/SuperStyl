@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19958</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="spotlied" translation="mocking song">spotlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">‘K Sie hier meer Neusen dan de <rhyme label="a" type="f">mijne</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Som krom, som recht, som blaeu, som <rhyme label="b" type="m">root</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Ghepuyst, geperelt al van <rhyme label="a" type="f" corresp="#s1:l1">Wijne</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Som schamen die om te dragen <rhyme label="b" type="m" corresp="#s1:l2">bloot</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Som heb een <rhyme label="c" type="m">kleen</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Neusje, geen <rhyme label="c" type="m" corresp="#s1:l5">been</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Som hebben een Neus soo kout als <rhyme label="b" type="m" corresp="#s1:l2">loot</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Dan vintmen noch alsulcke <rhyme label="a" type="f">snatse</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">De tip hanght haer over de <rhyme label="b" type="m">mondt</rhyme>"</l>
+        <l id="s2:l3" met="4" type="-+">Men souder een deur meed’ op <rhyme label="a" type="f" corresp="#s2:l1">flatse</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Als hy maer niet te vast en <rhyme label="b" type="m" corresp="#s2:l2">stondt</rhyme>.</l>
+        <l id="s2:l5" met="2" type="-+">Som heb een <rhyme label="c" type="m">soet</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Neusje, som <rhyme label="c" type="m" corresp="#s2:l5">doet</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Hun Neus verwagg’len, gelijck een <rhyme label="b" type="m" corresp="#s2:l2">hont</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Maer het beste van al de <rhyme label="a" type="f">Dompen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Of schoonen Gevels dat isser <rhyme label="b" type="m">een</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Van Harmen Gerrits, ’t aer zijn maer <rhyme label="a" type="f" corresp="#s3:l1">lompen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">By sijn kleyn Neusje heel <rhyme label="b" type="m" corresp="#s3:l2">ongemeen</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">Hyheeft geen <rhyme label="c" type="m">kleen</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">Neusje, maer <rhyme label="c" type="m" corresp="#s3:l5">een</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Wackere snavel, en sonder <rhyme label="b" type="m" corresp="#s3:l2">been</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>189361</id>
+    <date>
+      <year-start>1694</year-start>
+      <year-end>1694</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Hélàs une chaîne si belle</melody>
+  <author>Cornelis Sweerts</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Helaas! myne ziele met <rhyme label="a" type="f">zonden</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Te zwaar belaên <rhyme label="a" type="f" corresp="#s1:l1">bevonden</rhyme>!</l>
+        <l id="s1:l3" met="4" type="-+">Helaas! die is benauwt ter <rhyme label="b" type="m">dood</rhyme>.</l>
+        <l id="s1:l4" met="3" type="-+">Heer! u klaag ik myn <rhyme label="b" type="m" corresp="#s1:l3">nood</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Helaas! myne ziele met <rhyme label="a" type="f">zonden</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Te zwaar belaên <rhyme label="a" type="f" corresp="#s2:l1">bevonden</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Helaas! myne ziele met <rhyme label="b" type="m">zonden</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Te zwaar belaên <rhyme label="b" type="m" corresp="#s2:l3">bevonden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Helaas! myn ziele met <rhyme label="a" type="f">zonden</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Te zwaar belaên <rhyme label="a" type="f" corresp="#s3:l1">bevonden</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Helaas! die is benauwt ter <rhyme label="b" type="m">dood</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Heer u klaag ik myn <rhyme label="b" type="m" corresp="#s3:l3">nood</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

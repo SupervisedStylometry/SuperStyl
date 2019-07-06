@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>183903</id>
+    <date>
+      <year-start>1806</year-start>
+      <year-end>1806</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>De wereld is in rep en roer</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wanneer de Metslaar, Schoon <rhyme label="a" type="m">Geslacht</rhyme>!</l>
+        <l id="s1:l2" met="4" type="-+">Zijn' arbeid heeft ten eind <rhyme label="a" type="m" corresp="#s1:l1">gebragt</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Legt hij den truffel <rhyme label="b" type="f">neder</rhyme>:</l>
+        <l id="s1:l4" met="4" type="-+">Maar hoort hij 't seinschot, u <rhyme label="c" type="m">gewijd</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">ô Dan herneemt zijn hand, met <rhyme label="c" type="m" corresp="#s1:l4">vlijt</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Denzelfden truffel <rhyme label="b" type="f" corresp="#s1:l3">weder</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Met kracht bidt u de jongling <rhyme label="a" type="m">aan</rhyme>.</l>
+        <l id="s2:l2" met="4" type="-+">De grijsäart ziet zich die <rhyme label="a" type="m" corresp="#s2:l1">ontstaan</rhyme>.</l>
+        <l id="s2:l3" met="3" type="-+">Dit slaat zijn' moed ter <rhyme label="b" type="f">neder</rhyme>:</l>
+        <l id="s2:l4" met="4" type="-+">Maar hij herdenkt met welke <rhyme label="c" type="m">magt</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Hij u, welëer, zijne offers <rhyme label="c" type="m" corresp="#s2:l4">bragt</rhyme> -</l>
+        <l id="s2:l6" met="3" type="-+">En dit verheugt hem <rhyme label="b" type="f" corresp="#s2:l3">weder</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">ô Gij, die onze ziel <rhyme label="a" type="m">gebiedt</rhyme>!</l>
+        <l id="s3:l2" met="4" type="-+">Hoort hier des Metslaars wenschen <rhyme label="a" type="m" corresp="#s3:l1">niet</rhyme> -</l>
+        <l id="s3:l3" met="3" type="-+">Dit slaat zijn vreugd ter <rhyme label="b" type="f">neder</rhyme>:</l>
+        <l id="s3:l4" met="4" type="-+">Dan 't uur genaakt dat hij, met <rhyme label="c" type="m">moed</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">De blussching zien zal van zijn' <rhyme label="c" type="m" corresp="#s3:l4">gloed</rhyme>...</l>
+        <l id="s3:l6" met="3" type="-+">Dat uur, die gloed zij <rhyme label="b" type="f" corresp="#s3:l3">teder</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

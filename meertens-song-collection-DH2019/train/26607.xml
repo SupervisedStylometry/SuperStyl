@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26607</id>
+    <date>
+      <year-start>1599</year-start>
+      <year-end>1599</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="acrostichon" translation="acrostic song">acrostichon</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Schoon lief gij zijt prijs waard alleen</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Karel van Mander</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">LOeft onsen God alle sijn <rhyme label="a" type="f">knechten</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Verblijdt al die hem <rhyme label="b" type="m">vreest</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Want de bruyloft des Lams ten <rhyme label="a" type="f" corresp="#s1:l1">rechten</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Is comen in den <rhyme label="b" type="m" corresp="#s1:l2">Gheest</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">En tot der <rhyme label="b" type="m" corresp="#s1:l2">feest</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Heeft haer bereydt seer <rhyme label="c" type="f">blijde</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">De Bruyt met reyne witte <rhyme label="c" type="f" corresp="#s1:l6">zijde</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Dits van den Echt den rechten <rhyme label="b" type="m" corresp="#s1:l2">keest</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Adam die draeght hier van <rhyme label="a" type="f">figuere</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Want Godt hem Eva <rhyme label="b" type="m">schiep</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Van sijn Ribbe, vleesch en <rhyme label="a" type="f" corresp="#s2:l1">natuere</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Dewijl hy vaste <rhyme label="b" type="m" corresp="#s2:l2">sliep</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Aen't Cruyce, <rhyme label="b" type="m" corresp="#s2:l2">diep</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Christus zijde <rhyme label="c" type="f">doorsteken</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Om reynighen sijns Liefs <rhyme label="c" type="f" corresp="#s2:l6">ghebreken</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Bloedt en water daer uyt <rhyme label="b" type="m" corresp="#s2:l2">liep</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Van zonden heeft hy haer <rhyme label="a" type="f">ghewasschen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Door sijns lijdens <rhyme label="b" type="m">virtuyt</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Ghegheuen schoon cieraet voor <rhyme label="a" type="f" corresp="#s3:l1">asschen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Sy is sijn lieue <rhyme label="b" type="m" corresp="#s3:l2">spruyt</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">Ghewassen <rhyme label="b" type="m" corresp="#s3:l2">uyt</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Den Wijnstock <rhyme label="c" type="f">uytvercoren</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Beyde van Godt zijnde <rhyme label="c" type="f" corresp="#s3:l6">gheboren</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Is sy sijn Suster ende sijn <rhyme label="b" type="m" corresp="#s3:l2">Bruyt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Wy zijn leden aen sijn <rhyme label="a" type="f">lichame</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Schrijft Paulus <rhyme label="b" type="m">ouervloet</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Van sijn vleesch end' beenen <rhyme label="a" type="f" corresp="#s4:l1">bequaeme</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Daerom den Mensche <rhyme label="b" type="m" corresp="#s4:l2">vroet</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">Verlaten <rhyme label="b" type="m" corresp="#s4:l2">moet</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Sijn Vader ende Moeder, <rhyme label="c" type="f">Eph.5.31</rhyme>.</l>
+        <l id="s4:l7" met="4" type="-+">End' in Christum onsen <rhyme label="c" type="f" corresp="#s4:l6">behoeder</rhyme></l>
+        <l id="s4:l8" met="4" type="-+">Aencleuen sijn Huysvrouwe <rhyme label="b" type="m" corresp="#s4:l2">soet</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Ende twee sullen een vleesch <rhyme label="a" type="f">wesen</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Dus een <rhyme label="b" type="m">verborghentheyt</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Die groot is, en dierbaer <rhyme label="a" type="f" corresp="#s5:l1">ghepresen</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Maer met goet <rhyme label="b" type="m" corresp="#s5:l2">onderscheyt</rhyme></l>
+        <l id="s5:l5" met="2" type="-+">Alleen <rhyme label="b" type="m" corresp="#s5:l2">gheseyt</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Van Christo, ende <rhyme label="c" type="f">sijne</rhyme></l>
+        <l id="s5:l7" met="4" type="-+">Ghemeynte, heylich en <rhyme label="c" type="f" corresp="#s5:l6">divijne</rhyme>,</l>
+        <l id="s5:l8" met="4" type="-+">Daer den volcomen Echt in <rhyme label="b" type="m" corresp="#s5:l2">leyt</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Reyn kinderen uyt t'woordt des <rhyme label="a" type="f">Heeren</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Worden hier voort <rhyme label="b" type="m">ghebracht</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Oprechten wandel, cuysch <rhyme label="a" type="f" corresp="#s6:l1">verkeeren</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">Gheeft daerin oock sijn <rhyme label="b" type="m" corresp="#s6:l2">cracht</rhyme>:</l>
+        <l id="s6:l5" met="2" type="-+">Dus wel <rhyme label="b" type="m" corresp="#s6:l2">bedacht</rhyme></l>
+        <l id="s6:l6" met="3" type="-+">In de vreese Gods <rhyme label="c" type="f">trouwen</rhyme>,</l>
+        <l id="s6:l7" met="4" type="-+">Het helpt des Heeren huys op <rhyme label="c" type="f" corresp="#s6:l6">bouwen</rhyme>,</l>
+        <l id="s6:l8" met="4" type="-+">En t'vermeerdert Gods reyn <rhyme label="b" type="m" corresp="#s6:l2">gheslacht</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Schuwen moet men ende <rhyme label="a" type="f">verwaten</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Den lust der jonckheyt <rhyme label="b" type="m">fel</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Daerom is de Echt <rhyme label="a" type="f" corresp="#s7:l1">toeghelaten</rhyme>,</l>
+        <l id="s7:l4" met="3" type="-+">Maer ten is gheen <rhyme label="b" type="m" corresp="#s7:l2">bevel</rhyme>:</l>
+        <l id="s7:l5" met="2" type="-+">Die trout doet <rhyme label="b" type="m" corresp="#s7:l2">wel</rhyme>,</l>
+        <l id="s7:l6" met="3" type="-+">Dien niet en trout doet <rhyme label="c" type="f">beter</rhyme>,</l>
+        <l id="s7:l7" met="4" type="-+">Niemandt en mach wesen <rhyme label="c" type="f" corresp="#s7:l6">vergheter</rhyme></l>
+        <l id="s7:l8" met="4" type="-+">God den Heere te dienen <rhyme label="b" type="m" corresp="#s7:l2">snel</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Fundeert u al Mannen ende <rhyme label="a" type="f">Wijuen</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">Vast in den Echt <rhyme label="b" type="m">Christi</rhyme>,</l>
+        <l id="s8:l3" met="4" type="-+">Soo meucht ghy in den Echt <rhyme label="a" type="f" corresp="#s8:l1">beclijuen</rhyme>:</l>
+        <l id="s8:l4" met="3" type="-+">Maer ghy Mannen <rhyme label="b" type="m" corresp="#s8:l2">onvry</rhyme></l>
+        <l id="s8:l5" met="2" type="-+">V Wijuen <rhyme label="b" type="m" corresp="#s8:l2">ghy</rhyme></l>
+        <l id="s8:l6" met="3" type="-+">In liefden wilt <rhyme label="c" type="f">versinnen</rhyme>,</l>
+        <l id="s8:l7" met="4" type="-+">Want die hare Huysvrouwen <rhyme label="c" type="f" corresp="#s8:l6">beminnen</rhyme></l>
+        <l id="s8:l8" met="4" type="-+">Hebben haer seluen lief <rhyme label="b" type="m" corresp="#s8:l2">daerby</rhyme></l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Reghel der natueren <rhyme label="a" type="f">bewijset</rhyme></l>
+        <l id="s9:l2" met="3" type="-+">Sijn vleesch en haet <rhyme label="b" type="m">niemant</rhyme>:</l>
+        <l id="s9:l3" met="4" type="-+">Maer hy gheneeret, en hy <rhyme label="a" type="f" corresp="#s9:l1">spijset</rhyme></l>
+        <l id="s9:l4" met="3" type="-+">Als Christus sijn Bruydt, <rhyme label="b" type="m" corresp="#s9:l2">want</rhyme></l>
+        <l id="s9:l5" met="2" type="-+">Hy haer <rhyme label="b" type="m" corresp="#s9:l2">Heylant</rhyme></l>
+        <l id="s9:l6" met="3" type="-+">Is, ofte <rhyme label="c" type="f">Salichmaker</rhyme>,</l>
+        <l id="s9:l7" met="4" type="-+">Dus is den Man als neerstich <rhyme label="c" type="f" corresp="#s9:l6">waker</rhyme>,</l>
+        <l id="s9:l8" met="4" type="-+">Schuldich sijn Wijf alle <rhyme label="b" type="m" corresp="#s9:l2">bijstant</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Alsoo Christus hier sijn <rhyme label="a" type="f">Ghemeente</rhyme></l>
+        <l id="s10:l2" met="3" type="-+">Goet doet, ende gheen <rhyme label="b" type="m">quaet</rhyme>,</l>
+        <l id="s10:l3" met="4" type="-+">Hy gaf hem seluen in <rhyme label="a" type="f" corresp="#s10:l1">vercleente</rhyme></l>
+        <l id="s10:l4" met="3" type="-+">Voor sijn Bruyt <rhyme label="b" type="m" corresp="#s10:l2">delicaet</rhyme>:</l>
+        <l id="s10:l5" met="2" type="-+">In sulcken <rhyme label="b" type="m" corresp="#s10:l2">graet</rhyme></l>
+        <l id="s10:l6" met="3" type="-+">Is hier den man <rhyme label="c" type="f">begrepen</rhyme>,</l>
+        <l id="s10:l7" met="4" type="-+">T'Wijf hem tot een hulpe <rhyme label="c" type="f" corresp="#s10:l6">gheschepen</rhyme>,</l>
+        <l id="s10:l8" met="4" type="-+">Hem seer hooghe beuolen <rhyme label="b" type="m" corresp="#s10:l2">staet</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="-+">Nae dien de Vrouwe is <rhyme label="a" type="f">beseuen</rhyme></l>
+        <l id="s11:l2" met="3" type="-+">T'swackste vaetken <rhyme label="b" type="m">onstijf</rhyme>,</l>
+        <l id="s11:l3" met="4" type="-+">Moet den Man woonen haer <rhyme label="a" type="f" corresp="#s11:l1">beneden</rhyme></l>
+        <l id="s11:l4" met="3" type="-+">Met verstandich <rhyme label="b" type="m" corresp="#s11:l2">bedrijf</rhyme>,</l>
+        <l id="s11:l5" met="2" type="-+">Gheven <rhyme label="b" type="m" corresp="#s11:l2">t'Wijf</rhyme></l>
+        <l id="s11:l6" met="3" type="-+">Haer eere <rhyme label="c" type="f">onvermindert</rhyme>,</l>
+        <l id="s11:l7" met="4" type="-+">Op dat niet en worde <rhyme label="c" type="f" corresp="#s11:l6">behindert</rhyme>,</l>
+        <l id="s11:l8" met="4" type="-+">T'ghebedt door nijt, twist oft <rhyme label="b" type="m" corresp="#s11:l2">ghekijf</rhyme>.</l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="4" type="-+">S'ghelijcx de Vrouwen wesen <rhyme label="a" type="f">sullen</rhyme></l>
+        <l id="s12:l2" met="3" type="-+">Haer Mannen <rhyme label="b" type="m">onderdaen</rhyme>,</l>
+        <l id="s12:l3" met="4" type="-+">Daer in den wille Gods <rhyme label="a" type="f" corresp="#s12:l1">vervullen</rhyme>,</l>
+        <l id="s12:l4" met="3" type="-+">Ende niet <rhyme label="b" type="m" corresp="#s12:l2">wederstaen</rhyme>,</l>
+        <l id="s12:l5" met="2" type="-+">Op dat, die <rhyme label="b" type="m" corresp="#s12:l2">aen</rhyme></l>
+        <l id="s12:l6" met="3" type="-+">T'woordt niet gheloouen <rhyme label="c" type="f">connen</rhyme>,</l>
+        <l id="s12:l7" met="4" type="-+">Sonder t'woordt moghen zijn <rhyme label="c" type="f" corresp="#s12:l6">ghewonnen</rhyme>,</l>
+        <l id="s12:l8" met="4" type="-+">Als sy acht op den wandel <rhyme label="b" type="m" corresp="#s12:l2">slaen</rhyme>.</l>
+      </lg>
+      <lg id="s13" type="stanza">
+        <l id="s13:l1" met="4" type="-+">Onder den man moet zijn <rhyme label="a" type="f">gheboghen</rhyme></l>
+        <l id="s13:l2" met="3" type="-+">Des Vrouwen wil en <rhyme label="b" type="m">macht</rhyme>:</l>
+        <l id="s13:l3" met="4" type="-+">Want laetst gheschapen eerst <rhyme label="a" type="f" corresp="#s13:l1">bedroghen</rhyme>,</l>
+        <l id="s13:l4" met="3" type="-+">Sy die misdaet in <rhyme label="b" type="m" corresp="#s13:l2">bracht</rhyme>,</l>
+        <l id="s13:l5" met="2" type="-+">Sara <rhyme label="b" type="m" corresp="#s13:l2">gheslacht</rhyme></l>
+        <l id="s13:l6" met="3" type="-+">Int Houwelijck <rhyme label="c" type="f">ghespannen</rhyme>,</l>
+        <l id="s13:l7" met="4" type="-+">Eert, vreest, ende hebt lief u <rhyme label="c" type="f" corresp="#s13:l6">Mannen</rhyme></l>
+        <l id="s13:l8" met="4" type="-+">Met stillen gheest, die Godt groot <rhyme label="b" type="m" corresp="#s13:l2">acht</rhyme>.</l>
+      </lg>
+      <lg id="s14" type="stanza">
+        <l id="s14:l1" met="4" type="-+">Yeghelijck Vrouwe <rhyme label="a" type="f">ydoone</rhyme></l>
+        <l id="s14:l2" met="3" type="-+">In echt verbonden <rhyme label="b" type="m">draeght</rhyme></l>
+        <l id="s14:l3" met="4" type="-+">Het Beeldt van de Ghemeynte <rhyme label="a" type="f" corresp="#s14:l1">schoone</rhyme></l>
+        <l id="s14:l4" met="3" type="-+">Die onbevleckte <rhyme label="b" type="m" corresp="#s14:l2">maeght</rhyme>,</l>
+        <l id="s14:l5" met="2" type="-+">Die wel <rhyme label="b" type="m" corresp="#s14:l2">behaeght</rhyme></l>
+        <l id="s14:l6" met="3" type="-+">Haer Bruydegom en <rhyme label="c" type="f">Heere</rhyme>,</l>
+        <l id="s14:l7" met="4" type="-+">Dus in der swackheyt Vroukens <rhyme label="c" type="f" corresp="#s14:l6">teere</rhyme>,</l>
+        <l id="s14:l8" met="4" type="-+">Yverich nae dit exempel <rhyme label="b" type="m" corresp="#s14:l2">jaeght</rhyme>.</l>
+      </lg>
+      <lg id="s15" type="stanza">
+        <l id="s15:l1" met="4" type="-+">Salich te zijn door't <rhyme label="a" type="f">Kinder-baren</rhyme></l>
+        <l id="s15:l2" met="3" type="-+">Is de Vrou <rhyme label="b" type="m">toegheseyt</rhyme>,</l>
+        <l id="s15:l3" met="4" type="-+">Maer t'gheloove moet sy <rhyme label="a" type="f" corresp="#s15:l1">bewaren</rhyme>,</l>
+        <l id="s15:l4" met="3" type="-+">En de liefde <rhyme label="b" type="m" corresp="#s15:l2">planteyt</rhyme></l>
+        <l id="s15:l5" met="2" type="-+">Met <rhyme label="b" type="m" corresp="#s15:l2">heylicheyt</rhyme></l>
+        <l id="s15:l6" met="3" type="-+">End' eerbaerheyt <rhyme label="c" type="f">volheerden</rhyme>,</l>
+        <l id="s15:l7" met="4" type="-+">Vrienden wilt danckelijck <rhyme label="c" type="f" corresp="#s15:l6">aenveerden</rhyme></l>
+        <l id="s15:l8" met="4" type="-+">Om, Een dat noodich is <rhyme label="b" type="m" corresp="#s15:l2">arbeyt</rhyme>.</l>
+      </lg>
+      <lg id="s16" type="stanza">
+        <l id="s16:l1" met="4" type="-+">Broeders die t'Huwelijck <rhyme label="a" type="f">beleuen</rhyme>,</l>
+        <l id="s16:l2" met="3" type="-+">Beneersticht u <rhyme label="b" type="m">eenpaer</rhyme>,</l>
+        <l id="s16:l3" met="4" type="-+">V lesse van Godt u <rhyme label="a" type="f" corresp="#s16:l1">ghegheuen</rhyme></l>
+        <l id="s16:l4" met="3" type="-+">Volght die ghestadich <rhyme label="b" type="m" corresp="#s16:l2">naer</rhyme>:</l>
+        <l id="s16:l5" met="2" type="-+">Susters <rhyme label="b" type="m" corresp="#s16:l2">eerbaer</rhyme></l>
+        <l id="s16:l6" met="3" type="-+">Schickt u aen alle <rhyme label="c" type="f">zijden</rhyme></l>
+        <l id="s16:l7" met="4" type="-+">Om in s'Lams Bruyloft te <rhyme label="c" type="f" corresp="#s16:l6">verblijden</rhyme></l>
+        <l id="s16:l8" met="4" type="-+">Naemaels met der Enghelen <rhyme label="b" type="m" corresp="#s16:l2">schaer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

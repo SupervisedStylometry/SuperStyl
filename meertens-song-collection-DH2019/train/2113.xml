@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2113</id>
+    <date>
+      <year-start>1674</year-start>
+      <year-end>1674</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Grande princesse</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Daniel Bellemans</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">VLucht soeten Jesu, vlucht mynen <rhyme label="a" type="f">Beminde</rhyme>;</l>
+        <l id="s1:l2" met="3" type="+-">Vlucht snel als een' <rhyme label="a" type="f" corresp="#s1:l1">Hinde</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Vlucht van my, myn <rhyme label="b" type="m">licht</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En gaet uyt myn <rhyme label="b" type="m" corresp="#s1:l3">ghesicht</rhyme>;</l>
+        <l id="s1:l5" met="2" type="-+">Want door uw' <rhyme label="c" type="f">schichten</rhyme></l>
+        <l id="s1:l6" met="3" type="+-">Branden myn <rhyme label="c" type="f" corresp="#s1:l5">ghevrichten</rhyme>,</l>
+        <l id="s1:l7" met="6" type="+-">Ick en kan den brandt niet langher lyden <rhyme label="d" type="m">meer</rhyme>.</l>
+        <l id="s1:l8" met="3" type="+-">Sonder te <rhyme label="e" type="f">verdwynen</rhyme></l>
+        <l id="s1:l9" met="2" type="+-">Door de <rhyme label="e" type="f" corresp="#s1:l8">pynen</rhyme>,</l>
+        <l id="s1:l10" met="3" type="+-">Vlucht dan soeten <rhyme label="d" type="m" corresp="#s1:l7">Heer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Komt my ô Jesu uyt dit leven <rhyme label="a" type="f">halen</rhyme>,</l>
+        <l id="s2:l2" met="3" type="+-">Oft wel borght de <rhyme label="a" type="f" corresp="#s2:l1">stralen</rhyme></l>
+        <l id="s2:l3" met="3" type="+-">Van uw' vlam en <rhyme label="b" type="m">vier</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Die my doen sterven <rhyme label="b" type="m" corresp="#s2:l3">schier</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">'t Vier was te <rhyme label="c" type="f">krachtigh</rhyme>,</l>
+        <l id="s2:l6" met="3" type="+-">Uw' vlam was te <rhyme label="c" type="f" corresp="#s2:l5">machtigh</rhyme>,</l>
+        <l id="s2:l7" met="6" type="+-">Oock voor eenen heylighen <rhyme label="d" type="m">Xaverius</rhyme>;</l>
+        <l id="s2:l8" met="3" type="+-">Wat soud' ick dan <rhyme label="e" type="f">maken</rhyme></l>
+        <l id="s2:l9" met="2" type="+-">In het <rhyme label="e" type="f" corresp="#s2:l8">blaken</rhyme>,</l>
+        <l id="s2:l10" met="3" type="+-">Als ick brand' <rhyme label="d" type="m" corresp="#s2:l7">aldus</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Ick sterf van rouw en kouw in uw' <rhyme label="a" type="f">absenti'</rhyme>,</l>
+        <l id="s3:l2" met="3" type="+-">En in uw' <rhyme label="a" type="f" corresp="#s3:l1">presenti'</rhyme>,</l>
+        <l id="s3:l3" met="3" type="+-">Sterf ick van <rhyme label="b" type="m">playsier</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">In d'hitte van uw <rhyme label="b" type="m" corresp="#s3:l3">vier</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">Moet ick u <rhyme label="c" type="f">derven</rhyme>.</l>
+        <l id="s3:l6" met="3" type="+-">Soo moet ick oock <rhyme label="c" type="f" corresp="#s3:l5">sterven</rhyme>,</l>
+        <l id="s3:l7" met="6" type="+-">Houdt ghy by my standt, soo brandt myn <rhyme label="d" type="m">in-ghewant</rhyme>,</l>
+        <l id="s3:l8" met="3" type="+-">Wilt dan 't vier soo <rhyme label="e" type="f">maken</rhyme>,</l>
+        <l id="s3:l9" met="2" type="+-">Dat ick <rhyme label="e" type="f" corresp="#s3:l8">blake</rhyme>,</l>
+        <l id="s3:l10" met="3" type="+-">Maer niet en <rhyme label="d" type="m" corresp="#s3:l7">verbrandt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

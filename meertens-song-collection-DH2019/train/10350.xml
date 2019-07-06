@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10350</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Die mint die lijdt veel pijn</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Myn soete <rhyme label="a" type="m">Velt-Goddin</rhyme></l>
+        <l id="s1:l2" met="6" type="-+">Die Barrevoets te velt u lieve Schaepkes <rhyme label="b" type="m">weydt</rhyme>.</l>
+        <l id="s1:l3" met="3" type="-+">Oft drijftse Bos-waert <rhyme label="a" type="m" corresp="#s1:l1">in</rhyme></l>
+        <l id="s1:l4" met="6" type="-+">Als noch de koele dauw, op gras en bloempjes <rhyme label="b" type="m" corresp="#s1:l2">leydt</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Daer ghy met <rhyme label="c" type="m">lust</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">V inde groente <rhyme label="c" type="m" corresp="#s1:l5">rust</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Het sy by Beeck, oft <rhyme label="d" type="m">Brou</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">In het rijsen van de <rhyme label="d" type="m" corresp="#s1:l7">Son</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Alwaer 't ghevogelt <rhyme label="a" type="m">soet</rhyme></l>
+        <l id="s2:l2" met="6" type="-+">Met blijdelijck gesangh, en lieffelijck <rhyme label="b" type="m">gequeel</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Mijn Amaril <rhyme label="a" type="m" corresp="#s2:l1">begroet</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Geen Bloempjes aen syn struyck, geen bloempjes op syn <rhyme label="b" type="m" corresp="#s2:l2">steel</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">Of 't is <rhyme label="c" type="m">verheught</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">En toont de meeste <rhyme label="c" type="m" corresp="#s2:l5">vreught</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Als ghy het Bosch <rhyme label="d" type="m">belonckt</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Hout het sich als op <rhyme label="d" type="m" corresp="#s2:l7">gepronckt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">In Roosjes en <rhyme label="a" type="m">Cruyt</rhyme>,</l>
+        <l id="s3:l2" met="6" type="-+">Op soete morgen-stondt geseten in het <rhyme label="b" type="m">Woudt</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Munt Amarillis <rhyme label="a" type="m" corresp="#s3:l1">uyt</rhyme></l>
+        <l id="s3:l4" met="6" type="-+">Ghelijck een Diamant in 't midden van het <rhyme label="b" type="m" corresp="#s3:l2">gout</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">Of als sy <rhyme label="c" type="m">leyt</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">In bloempjes neer <rhyme label="c" type="m" corresp="#s3:l5">gespreyt</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Soo is het anders <rhyme label="d" type="m">niet</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">Of men Flora selver <rhyme label="d" type="m" corresp="#s3:l7">siet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

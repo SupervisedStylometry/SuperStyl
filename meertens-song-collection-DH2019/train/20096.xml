@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20096</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="zeemanslied" translation="sailor's song">zeemanslied</tag>
+    </tags>
+    <melody>Mijn hartje is heel doorwond</melody>
+    <categories>
+      <category translation="work">werk</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">WAnneer den grijsen <rhyme label="a" type="m">Winter-Godt</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">Sijn dwing’landy ten <rhyme label="b" type="f">ende</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Was, scheen mijn dart’le lust <rhyme label="a" type="m" corresp="#s1:l1">versot</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Om zeewaert in te wenden, hoo <rhyme label="c" type="m">soo</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Hoo soo, soo, soo, soo, soo, <rhyme label="c" type="m" corresp="#s1:l4">soo</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Van ‘t Volck-rijck <rhyme label="a" type="m">Amsterdam</rhyme>,</l>
+        <l id="s2:l2" met="3" type="+-">Door-kliefde wy de <rhyme label="b" type="f">Baren</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Tot dat ons Scheepje <rhyme label="a" type="m" corresp="#s2:l1">quam</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">In ’t Vlie, daer ’t uyt sou varen, Hoo <rhyme label="c" type="m">soo</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Hoo soo, soo, soo, soo, soo, <rhyme label="c" type="m" corresp="#s2:l4">soo</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Een swoele <rhyme label="a" type="m">Weste-wint</rhyme>,</l>
+        <l id="s3:l2" met="3" type="+-">Die deed ons ancker <rhyme label="b" type="f">winden</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">En ’t Zeyl gaen, Matroosje <rhyme label="a" type="m" corresp="#s3:l1">ontbint</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Het Marsse, en groot Seyl en blinde, hoo <rhyme label="c" type="m">soo</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Hoo soo, soo, soo, soo, soo, <rhyme label="c" type="m" corresp="#s3:l4">soo</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Naeuw kregen wy diepte van <rhyme label="a" type="m">Zee</rhyme>,</l>
+        <l id="s4:l2" met="3" type="+-">En ruymte van peeckel <rhyme label="b" type="f">plassen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Of ’t wintje schoot om, Ree, <rhyme label="a" type="m" corresp="#s4:l1">Ree</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Hael voor u Boeljens en Brassen, hoo <rhyme label="c" type="m">soo</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">Hoo soo, soo, soo, soo, soo, <rhyme label="c" type="m" corresp="#s4:l4">soo</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Neptunis gunst en <rhyme label="a" type="m">stroom</rhyme>,</l>
+        <l id="s5:l2" met="3" type="+-">Die deed ons Vaertuygh <rhyme label="b" type="f">landen</rhyme></l>
+        <l id="s5:l3" met="4" type="+-">Behouwen reys, men <rhyme label="a" type="m" corresp="#s5:l1">koom</rhyme></l>
+        <l id="s5:l4" met="4" type="+-">Tot voor de Deensche stranden, Hoo <rhyme label="c" type="m">soo</rhyme>,</l>
+        <l id="s5:l5" met="4" type="+-">Hoo soo, soo, soo, soo, soo, <rhyme label="c" type="m" corresp="#s5:l4">soo</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Zeyl in, ‘tza opwaert <rhyme label="a" type="m">uyt</rhyme>,</l>
+        <l id="s6:l2" met="3" type="+-">En laet uw’ anckers <rhyme label="b" type="f">vallen</rhyme>,</l>
+        <l id="s6:l3" met="4" type="+-">Wy hebben terstont <rhyme label="a" type="m" corresp="#s6:l1">verduyt</rhyme></l>
+        <l id="s6:l4" met="4" type="+-">Dicht onder de Deensche wallen, hoo <rhyme label="c" type="m">soo</rhyme>,</l>
+        <l id="s6:l5" met="4" type="+-">Hoo soo, soo, soo, soo, soo, <rhyme label="c" type="m" corresp="#s6:l4">soo</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">De Boots-luy maeckten goet <rhyme label="a" type="m">cier</rhyme>,</l>
+        <l id="s7:l2" met="3" type="+-">Den Kapiteyn wy <rhyme label="b" type="f">kenden</rhyme>,</l>
+        <l id="s7:l3" met="4" type="+-">En vraeghden om vry <rhyme label="a" type="m" corresp="#s7:l1">quartier</rhyme>,</l>
+        <l id="s7:l4" met="4" type="+-">Soo liep dat reysje ten enden, hoo <rhyme label="c" type="m">soo</rhyme>,</l>
+        <l id="s7:l5" met="4" type="+-">Hoo soo, soo, soo, soo, soo, <rhyme label="c" type="m" corresp="#s7:l4">soo</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

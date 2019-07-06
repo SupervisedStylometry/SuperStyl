@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35969</id>
+    <date>
+      <year-start>1674</year-start>
+      <year-end>1674</year-end>
+    </date>
+    <location>
+      <orginal-name>leuven</orginal-name>
+      <standard-name>Leuven, Belgium</standard-name>
+      <coordinates>
+        <lon>50.879202</lon>
+        <lat>4.7011675</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="marialied" translation="Maria song">Marialied</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+    </tags>
+    <melody>A la fin ma peine est finie</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Herman Harts</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O! Moeder Maeght ô! Bruydt der <rhyme label="a" type="f">Sangen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Hoe net, hoe schoon syn uwe <rhyme label="a" type="f" corresp="#s1:l1">gangen</rhyme>!</l>
+        <l id="s1:l3" met="4" type="-+">Hoe grondigh u <rhyme label="b" type="m">ootmoedighyt</rhyme>!</l>
+        <l id="s1:l4" met="4" type="-+">Gyhoudt de VVet en lydt de <rhyme label="c" type="f">schande</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Daer nochtans self u <rhyme label="c" type="f" corresp="#s1:l4">Offerande</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Toont dat gy sonder smette <rhyme label="b" type="m" corresp="#s1:l3">syt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Gy dragh'et Duyfken, soet van <rhyme label="a" type="f">seden</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Of 't Tortelduyfken, reyn van <rhyme label="a" type="f" corresp="#s2:l1">leden</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Soo presenteert g'u liefste <rhyme label="b" type="m">Kindt</rhyme>.</l>
+        <l id="s2:l4" met="4" type="-+">Dat Israël komt saligh <rhyme label="c" type="f">maken</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">En al wie naer zyn komste <rhyme label="c" type="f" corresp="#s2:l4">haken</rhyme>.</l>
+        <l id="s2:l6" met="4" type="-+">Nu Simeon syt wel <rhyme label="b" type="m" corresp="#s2:l3">gesindt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Coragiê Simeon laet <rhyme label="a" type="f">varen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Den wensch, den sucht van soo veel <rhyme label="a" type="f" corresp="#s3:l1">jaren</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">En voedt niet meer, ja voelt geen <rhyme label="b" type="m">mer</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Dem Heere komt zyn volck <rhyme label="c" type="f">ontfermen</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">Nu nempt gy, nempt hem in u <rhyme label="c" type="f" corresp="#s3:l4">ermen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Ras nempt, en druckt hem aen u <rhyme label="b" type="m" corresp="#s3:l3">hert</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Soo werde ick oock net van <rhyme label="a" type="f">gangen</rhyme>;</l>
+        <l id="s4:l2" met="4" type="-+">O! Moeder Maeght ô! Bruydt der <rhyme label="a" type="f" corresp="#s4:l1">Sangen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Ick bidde door u sweert, en <rhyme label="b" type="m">pyn</rhyme>;</l>
+        <l id="s4:l4" met="4" type="-+">VVilt maer een woordt ten beste <rhyme label="c" type="f">spreken</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Dat Jesus hem niet en mach <rhyme label="c" type="f" corresp="#s4:l4">vreken</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Noch my tot val, maer opstaen <rhyme label="b" type="m" corresp="#s4:l3">syn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

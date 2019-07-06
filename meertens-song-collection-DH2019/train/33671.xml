@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>33671</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
+      <tag standard-name="marialied" translation="Maria song">Marialied</tag>
+    </tags>
+    <melody>Sei tanto graziosa</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacob Rosant</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">BRenght Mariae de <rhyme label="a" type="f">maren</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Aerdts-Engel <rhyme label="b" type="m">Gabriël</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">'t Is Goodts <rhyme label="c" type="f">behagen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Dat sy Goodts Soon sal <rhyme label="a" type="f" corresp="#s1:l1">baren</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">En Maeght sijn <rhyme label="b" type="m" corresp="#s1:l2">evenwel</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Al hare <rhyme label="c" type="f" corresp="#s1:l3">dagen</rhyme>:</l>
+        <l id="s1:l7" met="2" type="-+">Want <rhyme label="d" type="m">nimmermeer</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">Sal hare <rhyme label="d" type="m" corresp="#s1:l7">eer</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">Van Man worden <rhyme label="e" type="f">vermindert</rhyme>;</l>
+        <l id="s1:l10" met="2" type="-+">Maer sal haer <rhyme label="f" type="f">vinde</rhyme></l>
+        <l id="s1:l11" met="3" type="+-">Bevrucht met eenen <rhyme label="f" type="f" corresp="#s1:l10">Kinde</rhyme>,</l>
+        <l id="s1:l12" met="2" type="+-"><rhyme label="e" type="f" corresp="#s1:l9">Onverhindert</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

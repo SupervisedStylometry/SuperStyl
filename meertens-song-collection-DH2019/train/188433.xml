@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188433</id>
+    <date>
+      <year-start>1751</year-start>
+      <year-end>1752</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Antoine Mahaut, Kornelis Elzevier</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Ik die op dees Steenen <rhyme label="a" type="m">bank</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Als een loopsen Rekel <rhyme label="a" type="m" corresp="#s1:l1">jank</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Wacht de dochter van Jaep <rhyme label="b" type="f">Floren</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">zou ze my niet hoesten <rhyme label="b" type="f" corresp="#s1:l3">hooren</rhyme>?</l>
+        <l id="s1:l5" met="2" type="-+">Ik word reeds <rhyme label="c" type="m">flaeuw</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Komt ze niet <rhyme label="c" type="m" corresp="#s1:l5">gaeuw</rhyme>.</l>
+        <l id="s1:l7" met="3" type="+-">Zou ze my niet' <rhyme label="d" type="f">achten</rhyme>?</l>
+        <l id="s1:l8" met="2" type="-+">Hoor je niet <rhyme label="e" type="m">Tryn</rhyme>?</l>
+        <l id="s1:l9" met="2" type="-+">Want uwe <rhyme label="e" type="m" corresp="#s1:l8">Kryn</rhyme>,</l>
+        <l id="s1:l10" met="3" type="+-">Zit u reeds te <rhyme label="d" type="f" corresp="#s1:l7">wachten</rhyme>.</l>
+        <l id="s1:l11" met="4" type="+-">Zeg wat zal het einde <rhyme label="e" type="m" corresp="#s1:l8">zyn</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Toen het t'ongzend Kermis <rhyme label="a" type="m">was</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Schonk ik haer een fulpen <rhyme label="a" type="m" corresp="#s2:l1">tas</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Met een Neerstik vol met <rhyme label="b" type="f">Kanten</rhyme>:</l>
+        <l id="s2:l4" met="4" type="+-">Nu laet zy my <rhyme label="b" type="f" corresp="#s2:l3">lanterfanten</rhyme>.</l>
+        <l id="s2:l5" met="2" type="-+">Och zy blyft <rhyme label="c" type="m">weg</rhyme>!</l>
+        <l id="s2:l6" met="2" type="-+">Ia wel ik <rhyme label="c" type="m" corresp="#s2:l5">zeg</rhyme>,</l>
+        <l id="s2:l7" met="3" type="+-">Ga nu vry naer <rhyme label="d" type="f">Spanje</rhyme>!</l>
+        <l id="s2:l8" met="2" type="-+">Blyf weg, vry <rhyme label="e" type="m">Tryn</rhyme>,</l>
+        <l id="s2:l9" met="2" type="-+">Want uwe <rhyme label="e" type="m" corresp="#s2:l8">Kryn</rhyme></l>
+        <l id="s2:l10" met="3" type="+-">Heeft den drommel <rhyme label="d" type="f" corresp="#s2:l7">vanje</rhyme>;</l>
+        <l id="s2:l11" met="4" type="+-">En hy kiest een fles met <rhyme label="e" type="m" corresp="#s2:l8">Wyn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

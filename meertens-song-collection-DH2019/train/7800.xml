@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>7800</id>
+    <date>
+      <year-start>1615</year-start>
+      <year-end>1615</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="passielied" translation="passion song">passielied</tag>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
+    </tags>
+    <melody>Pange lingua</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">S 'Avonds als de Son gingh <rhyme label="a" type="f">duycken</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">In de Zee haar gouden <rhyme label="b" type="m">Hoofdt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">IOSEPH tijdigh liet <rhyme label="a" type="f" corresp="#s1:l1">ont-luycken</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">'Tgeen hy hadd' in't hert <rhyme label="b" type="m" corresp="#s1:l2">gelooft</rhyme>:</l>
+        <l id="s1:l5" met="4" type="+-">En ont-gingh des SATANS <rhyme label="a" type="f" corresp="#s1:l1">fuycken</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Hoe wel 't Volck noch bleeff <rhyme label="b" type="m" corresp="#s1:l2">verdooft</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Tot PILATVM seer <rhyme label="a" type="f">vry-moedigh</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Gingh hy eer den Sabbath <rhyme label="b" type="m">quam</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Badt hem om het Licchaam <rhyme label="a" type="f" corresp="#s2:l1">bloedigh'</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Van ons' HEER 'tonnoosel <rhyme label="b" type="m" corresp="#s2:l2">Lam</rhyme>:</l>
+        <l id="s2:l5" met="4" type="+-">Dies soo gingh PILATVS <rhyme label="a" type="f" corresp="#s2:l1">spoedigh</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">En na CHRISTI Doodt <rhyme label="b" type="m" corresp="#s2:l2">vernam</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Als hy hadde nu <rhyme label="a" type="f">vernomen</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">CHRISTVS dat gestorven <rhyme label="b" type="m">was</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">IOSEPH 'tLicchaam heeft <rhyme label="a" type="f" corresp="#s3:l1">becomen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">En nam't van-den Cruyce <rhyme label="b" type="m" corresp="#s3:l2">ras</rhyme>:</l>
+        <l id="s3:l5" met="4" type="+-">In een fijn Doeck sonder <rhyme label="a" type="f" corresp="#s3:l1">schromen</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Wondt hy't op het selve <rhyme label="b" type="m" corresp="#s3:l2">pas</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">In een Nieuw Graff <rhyme label="a" type="f">uyt-gehouwen</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Van een Steen-rots in-den <rhyme label="b" type="m">Hoff</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Daar noyt Mannen ofte <rhyme label="a" type="f" corresp="#s4:l1">Vrouwen</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Aerd' en wierden ofte <rhyme label="b" type="m" corresp="#s4:l2">stoff</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">Leyd' hy CHRISTVM met <rhyme label="a" type="f" corresp="#s4:l1">betrouwen</rhyme>:</l>
+        <l id="s4:l6" met="4" type="+-">Eeuwigh moet hy hebben <rhyme label="b" type="m" corresp="#s4:l2">loff</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Noch hoe quam, men moet <rhyme label="a" type="f">verconden</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">NICODEMVS. Die daar <rhyme label="b" type="m">braght</rhyme></l>
+        <l id="s5:l3" met="4" type="+-">Specery by d'honderd <rhyme label="a" type="f" corresp="#s5:l1">ponden</rhyme>:</l>
+        <l id="s5:l4" met="4" type="+-">(GODES Rijck hy heeft <rhyme label="b" type="m" corresp="#s5:l2">verwacht</rhyme>)</l>
+        <l id="s5:l5" met="4" type="+-">Daar zy CHRISTVM <rhyme label="a" type="f" corresp="#s5:l1">inne-wonden</rhyme></l>
+        <l id="s5:l6" met="4" type="+-">Eer hun over-viel den <rhyme label="b" type="m" corresp="#s5:l2">Nacht</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Voor die Duer met sorgh zy <rhyme label="a" type="f">leyden</rhyme></l>
+        <l id="s6:l2" met="4" type="+-">Van het Graff een swaren <rhyme label="b" type="m">Steen</rhyme>,</l>
+        <l id="s6:l3" met="4" type="+-">Soo de Schriften ons <rhyme label="a" type="f" corresp="#s6:l1">verbreyden</rhyme>,</l>
+        <l id="s6:l4" met="4" type="+-">MAGDALENA, en met <rhyme label="b" type="m" corresp="#s6:l2">een</rhyme></l>
+        <l id="s6:l5" met="4" type="+-">Ander Vrouwen die daar <rhyme label="a" type="f" corresp="#s6:l1">beyden</rhyme>,</l>
+        <l id="s6:l6" met="4" type="+-">Dit aan-sagen met <rhyme label="b" type="m" corresp="#s6:l2">geween</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">O GODT geeft wy wel <rhyme label="a" type="f">bewaren</rhyme></l>
+        <l id="s7:l2" met="4" type="+-">In't hert CHRISTVM onsen <rhyme label="b" type="m">HEER</rhyme>.</l>
+        <l id="s7:l3" met="4" type="+-">Doet de Sonden in't Graff <rhyme label="a" type="f" corresp="#s7:l1">varen</rhyme>,</l>
+        <l id="s7:l4" met="4" type="+-">En begraaftse door u <rhyme label="b" type="m" corresp="#s7:l2">Leer</rhyme>,</l>
+        <l id="s7:l5" met="4" type="+-">Dat-se tot des Ziels <rhyme label="a" type="f" corresp="#s7:l1">beswaren</rhyme></l>
+        <l id="s7:l6" met="4" type="+-">Ons doch niet en quellen <rhyme label="b" type="m" corresp="#s7:l2">meer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

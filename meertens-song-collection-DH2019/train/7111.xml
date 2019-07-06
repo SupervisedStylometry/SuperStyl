@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>7111</id>
+    <date>
+      <year-start>1577</year-start>
+      <year-end>1577</year-end>
+    </date>
+    <location>
+      <orginal-name>leuven</orginal-name>
+      <standard-name>Leuven, Belgium</standard-name>
+      <coordinates>
+        <lon>50.879202</lon>
+        <lat>4.7011675</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Ave Maria gratia plena</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ave Maria gratia <rhyme label="a" type="f">plena</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Den Ingel die vantter die maghet <rhyme label="a" type="f" corresp="#s1:l1">alleene</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">In haere ghebekens maer die sij <rhyme label="b" type="m">las</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Godt groet v Maria eel <rhyme label="a" type="f">Coninghinne</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Ghy sult den sone Gods <rhyme label="a" type="f" corresp="#s2:l1">vortbringen</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Die Heere van alde werelt sal <rhyme label="b" type="m">sijn</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Heer Ingel hoe soude Godt dat <rhyme label="a" type="f">ghehinghen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Dat ick den sone Godts sou <rhyme label="a" type="f" corresp="#s3:l1">vortbringen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Die heere van alde werelt sal <rhyme label="b" type="m">sijn</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Heer Ingel mocht dat woort aen mij <rhyme label="a" type="f">beclyuen</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Dat ick een moeder en maecht mocht <rhyme label="a" type="f" corresp="#s4:l1">blyuen</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Ic soude soo geerne Godts dienstmaecht <rhyme label="b" type="m">sijn</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Den Ingel die vlooch wederom tot <rhyme label="a" type="f">Gode</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Weest willecom mijn getrouwe <rhyme label="a" type="f" corresp="#s5:l1">bode</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">En hoe heeft v die maghet <rhyme label="b" type="m">ontfaen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">O Heere sij heeft mij soo wel <rhyme label="a" type="f">ontfangen</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Des wuns en wille is mij soo <rhyme label="a" type="f" corresp="#s6:l1">vergangen</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Sij wilde soo geerne Godts dienstmaecht <rhyme label="b" type="m">sijn</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Heer Inghel nv vliecht wederom tot <rhyme label="a" type="f">hare</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">En voert den vader den soon in <rhyme label="a" type="f" corresp="#s7:l1">haere</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">Den vader den soon den heylighen <rhyme label="b" type="m">gheest</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Godt groet v Maria edel <rhyme label="a" type="f">Coninghinne</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">Ic vont v een maget, ick laet v met <rhyme label="a" type="f" corresp="#s8:l1">kinde</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">Nu siet dat ghij bij gode <rhyme label="b" type="m">blijft</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111639</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>J'avais juré que l'amour</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">CLimeen! myn Levens-Son, <rhyme label="a" type="m">wanneer</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Sal ik weer 't geluk <rhyme label="b" type="f">genieten</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Dat uw oog, gelyk wel <rhyme label="a" type="m" corresp="#s1:l1">eer</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Sal haer Stralen op my <rhyme label="b" type="f" corresp="#s1:l2">schieten</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Wanneer sal ik als <rhyme label="c" type="m">voorheen</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Zien het eind van myn <rhyme label="d" type="m">verdrieten</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Wanneer sal ik als <rhyme label="c" type="m" corresp="#s1:l5">voorheen</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Zien uw zoet gesigt, <rhyme label="d" type="m" corresp="#s1:l6">Climeen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Gy, die ik alleen <rhyme label="a" type="m">bemin</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Zyt het doelwit van mijn <rhyme label="b" type="f">pogen</rhyme>;</l>
+        <l id="s2:l3" met="4" type="+-">Gy, myn eenigst' <rhyme label="a" type="m" corresp="#s2:l1">Afgodin</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Boeid my door uw zoet <rhyme label="b" type="f" corresp="#s2:l2">vermogen</rhyme>:</l>
+        <l id="s2:l5" met="4" type="+-">Maak dan dat ik als <rhyme label="c" type="m">voorheen</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Zie het Sonligt van uw <rhyme label="d" type="m">oogen</rhyme>.</l>
+        <l id="s2:l7" met="4" type="+-">Maak dan dat ik als <rhyme label="c" type="m" corresp="#s2:l5">voorheen</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Zie uw zoet gesigt, <rhyme label="d" type="m" corresp="#s2:l6">Climeen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

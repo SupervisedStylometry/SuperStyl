@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10376</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Laura zat laatst bij de beek</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Overwreede <rhyme label="a" type="m">Galathe</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Die de guyre suyre <rhyme label="b" type="f">stranden</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Die den Oever van de <rhyme label="a" type="m" corresp="#s1:l1">Zee</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Die de kille natte <rhyme label="b" type="f" corresp="#s1:l2">zanden</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Kiest voor Bloemen, en voor <rhyme label="b" type="f" corresp="#s1:l2">Landen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Kouwe klippen, voor de <rhyme label="c" type="m">Hey</rhyme>;</l>
+        <l id="s1:l7" met="4" type="+-">Daer u bleecke geest gaet <rhyme label="d" type="f">waren</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Kiest de soute water <rhyme label="d" type="f" corresp="#s1:l7">baren</rhyme></l>
+        <l id="s1:l9" met="4" type="+-">Voor een groene <rhyme label="c" type="m" corresp="#s1:l6">Klaver-wey</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Kiest de rotsen voor <rhyme label="a" type="m">gheboomt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Kiest de baaren voor de <rhyme label="b" type="f">beecken</rhyme>;</l>
+        <l id="s2:l3" met="4" type="+-">Mits u koele ziele <rhyme label="a" type="m" corresp="#s2:l1">schroomt</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Vande min te hooren <rhyme label="b" type="f" corresp="#s2:l2">spreecken</rhyme>:</l>
+        <l id="s2:l5" met="4" type="+-">Ghy (om minne-lust te <rhyme label="b" type="f" corresp="#s2:l2">wreecken</rhyme>)</l>
+        <l id="s2:l6" met="4" type="+-">Hout u op de guure <rhyme label="c" type="m">strandt</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">Schuw voort minnen, angh voor <rhyme label="d" type="f">t'kussen</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Soeckt met golven wt te <rhyme label="d" type="f" corresp="#s2:l7">blussen</rhyme>,</l>
+        <l id="s2:l9" met="4" type="+-">t'Soete vuyr van minne <rhyme label="c" type="m" corresp="#s2:l6">Brandt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Ach! hoe magh mijn domme <rhyme label="a" type="m">sin</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Haer nogh soecken te <rhyme label="b" type="f">bekooren</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Daer de haet en wraeck tot <rhyme label="a" type="m" corresp="#s3:l1">min</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Haer van Ionghs is <rhyme label="b" type="f" corresp="#s3:l2">aengebooren</rhyme>;</l>
+        <l id="s3:l5" met="4" type="+-">Sy wil van geen minnen <rhyme label="b" type="f" corresp="#s3:l2">hooren</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Waerom haer dan <rhyme label="c" type="m">aengebeen</rhyme>?</l>
+        <l id="s3:l7" met="4" type="+-">Waerom dan tot haer <rhyme label="d" type="f">gheneghen</rhyme>?</l>
+        <l id="s3:l8" met="4" type="+-">Mits men eerder souw <rhyme label="d" type="f" corresp="#s3:l7">beweeghen</rhyme></l>
+        <l id="s3:l9" met="4" type="+-">Herde rootzen, klip, oft <rhyme label="c" type="m" corresp="#s3:l6">steen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

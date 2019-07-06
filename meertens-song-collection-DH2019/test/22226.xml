@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22226</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>O Herr Gott begnade mich</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GOdt bemindt die poorten van <rhyme label="a" type="m">Zyoon</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Sy zijn gfondeert, op de bergen <rhyme label="a" type="m" corresp="#s1:l1">schoon</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Hoogher dan Jacobs <rhyme label="b" type="f">Tabernaclen</rhyme>:</l>
+        <l id="s1:l4" met="4" type="-+">Heerlijcke dinghen seytmen <rhyme label="c" type="m">pladt</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Altijts van u, o Heere Godts <rhyme label="c" type="m" corresp="#s1:l4">stadt</rhyme>:</l>
+        <l id="s1:l6" met="3" type="-+">Aen Rahab, wil ick <rhyme label="b" type="f" corresp="#s1:l3">ghedencken</rhyme>:</l>
+        <l id="s1:l7" met="4" type="-+">Dat is, dat gheheel Egypten <rhyme label="d" type="m">landt</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Oock ben ick in Babylon <rhyme label="d" type="m" corresp="#s1:l7">becandt</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">En in hun Steden <rhyme label="e" type="f">wtuercoren</rhyme>,</l>
+        <l id="s1:l10" met="4" type="-+">Palestiner, en <rhyme label="f" type="m">Tirianen</rhyme>,</l>
+        <l id="s1:l11" met="4" type="+-">En oock de swarte <rhyme label="f" type="m" corresp="#s1:l10">Morianen</rhyme>,</l>
+        <l id="s1:l12" met="3" type="-+">Die worden aldaer <rhyme label="e" type="f" corresp="#s1:l9">gheboren</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Men sal tot lof, en prijs, van <rhyme label="a" type="m">Zyoon</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">En op alle plaetsen segghen <rhyme label="a" type="m" corresp="#s2:l1">schoon</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Die Stadt, en sal niet gaen te <rhyme label="b" type="f">niete</rhyme>:</l>
+        <l id="s2:l4" met="4" type="-+">De hoochste, diese optimmert <rhyme label="c" type="m">gladt</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Die is gheboren in dese <rhyme label="c" type="m" corresp="#s2:l4">Stadt</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Hy bereytse hem sonder <rhyme label="b" type="f" corresp="#s2:l3">verdriete</rhyme>:</l>
+        <l id="s2:l7" met="4" type="-+">De Heer sal dat oock laten hupsch, en <rhyme label="d" type="m">fijn</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">In alle spraken schrijuende <rhyme label="d" type="m" corresp="#s2:l7">zijn</rhyme>:</l>
+        <l id="s2:l9" met="3" type="-+">Men sal hem dies oock <rhyme label="e" type="f">verhueghen</rhyme>, (..)</l>
+        <l id="s2:l10" met="4" type="-+">Om dat dien daer in gheboren <rhyme label="f" type="m">is</rhyme>:</l>
+        <l id="s2:l11" met="4" type="+-">De Sanghers oock aenden dansse <rhyme label="f" type="m" corresp="#s2:l10">ghewis</rhyme>,</l>
+        <l id="s2:l12" met="3" type="-+">Sullen singhen, met groote <rhyme label="e" type="f" corresp="#s2:l9">vruechde</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

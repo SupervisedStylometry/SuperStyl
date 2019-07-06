@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184146</id>
+    <date>
+      <year-start>1828</year-start>
+      <year-end>1828</year-end>
+    </date>
+    <location>
+      <orginal-name>monickendam</orginal-name>
+      <standard-name>Monnickendam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.4570766</lon>
+        <lat>5.0373214</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Wilhelmus</melody>
+  <author>Js. M. Pfeil</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Hem waar 't verstand <rhyme label="a" type="f">benomen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Die u geen welkom <rhyme label="b" type="m">bood</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Want waart gij niet <rhyme label="a" type="f" corresp="#s1:l1">gekomen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Wij waren niet <rhyme label="b" type="m" corresp="#s1:l2">genood</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Wel aan, een vollen <rhyme label="c" type="f">beker</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Uwe intogt <rhyme label="d" type="m">toegewijd</rhyme>!</l>
+        <l id="s1:l7" met="3" type="-+">Gij lust hem niet, dat 's <rhyme label="c" type="f" corresp="#s1:l5">zeker</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Wij lusten hem <rhyme label="d" type="m" corresp="#s1:l6">altijd</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Maar eens, in later <rhyme label="a" type="f">jaren</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Indien gij hooren <rhyme label="b" type="m">wilt</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Laat gij de melk-kost <rhyme label="a" type="f" corresp="#s2:l1">varen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">En lijft u in ons <rhyme label="b" type="m" corresp="#s2:l2">gild</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">Leef vrij van 's levens <rhyme label="c" type="f">plagen</rhyme>!</l>
+        <l id="s2:l6" met="3" type="-+">Groei in verstand en <rhyme label="d" type="m">deugd</rhyme>!</l>
+        <l id="s2:l7" met="3" type="-+">Zijt vaders <rhyme label="c" type="f" corresp="#s2:l5">welbehagen</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">En uwer moeders <rhyme label="d" type="m" corresp="#s2:l6">vreugd</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19620</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Amarilli mia bella</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Thomas Fonteyn</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O Gelukkig! zoet <rhyme label="a" type="f">leeven</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Dat heilig us vernougd in zijn <rhyme label="b" type="f">verkiezen</rhyme>.</l>
+        <l id="s1:l3" met="3" type="-+">Daar ‘t keuren doet <rhyme label="b" type="f" corresp="#s1:l2">verliezen</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Zulks, tgun de Trouw noch zuivre Min ken <rhyme label="a" type="f" corresp="#s1:l1">geeven</rhyme>;</l>
+        <l id="s1:l5" met="3" type="-+">Maar daar int Marg <rhyme label="a" type="f" corresp="#s1:l1">geschreven</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Staet, <rhyme label="c" type="f">lustvermaken</rhyme>!</l>
+        <l id="s1:l7" met="3" type="-+">Hoe deftig zietme ‘t <rhyme label="d" type="f">noegen</rhyme>,</l>
+        <l id="s1:l8" met="6" type="+-">Thart zoo voegen, en deurploegen, en <rhyme label="d" type="f" corresp="#s1:l7">deurploegen</rhyme>,</l>
+        <l id="s1:l9" met="1" type="+-">Door ‘t <rhyme label="c" type="f" corresp="#s1:l6">zmaken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

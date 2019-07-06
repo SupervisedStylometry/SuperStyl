@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10848</id>
+    <date>
+      <year-start>1605</year-start>
+      <year-end>1605</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="danslied" translation="dancing song">danslied</tag>
+    </tags>
+    <melody>Ga hem toe</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Wilt ontspringhen, na myn <rhyme label="a" type="m">hoort</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Ic sal u singen t’oude spreec <rhyme label="a" type="m" corresp="#s1:l1">woort</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Hoe wijn en schoone <rhyme label="b" type="f">Vrouwen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Tgeselschap by een <rhyme label="b" type="f" corresp="#s1:l3">houwen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Verdriet, en smart, uyt sinnen <rhyme label="c" type="m">hart</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Alsoomen mach <rhyme label="b" type="f" corresp="#s1:l3">aenschouwen</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Deur hun verdreven <rhyme label="c" type="m" corresp="#s1:l5">wert</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Wel is waer, dat wijn <rhyme label="a" type="m">verblijt</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Spel, en snaar, dansen met <rhyme label="a" type="m" corresp="#s2:l1">vlijt</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Oock sanck niet om <rhyme label="b" type="f">verschoonen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Kan veel vreuchden <rhyme label="b" type="f" corresp="#s2:l3">betoonen</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Maer Vrouken Ieucht, Noch meer <rhyme label="c" type="m">verheucht</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">want onghelijcke <rhyme label="b" type="f" corresp="#s2:l3">persoonen</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Maken de meeste <rhyme label="c" type="m" corresp="#s2:l5">vreught</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Dies tghesicht, op dander <rhyme label="a" type="m">siet</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">En verlicht, de harte <rhyme label="a" type="m" corresp="#s3:l1">yet</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">ghelijck de roode <rhyme label="b" type="f">roosen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Doet het de wangen <rhyme label="b" type="f" corresp="#s3:l3">bloosen</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Schaempt, liefd ontdeckt, eer, lust <rhyme label="c" type="m">verweckt</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Maer het hert grontlijck is <rhyme label="b" type="f" corresp="#s3:l3">koosen</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Tot meer begeerte <rhyme label="c" type="m" corresp="#s3:l5">streckt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Al het geene voor <rhyme label="a" type="m">verhaelt</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Baert ghemeene, <rhyme label="a" type="m" corresp="#s4:l1">onghefaalt</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Niet dan te meerder <rhyme label="b" type="f">pynen</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">So elck mach <rhyme label="b" type="f" corresp="#s4:l3">bevynen</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">wie bevon’ oyt, t’hert vol <rhyme label="c" type="m">verstroyt</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Dan achter die <rhyme label="b" type="f" corresp="#s4:l3">gordynen</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Daer wertet spel <rhyme label="c" type="m" corresp="#s4:l5">volsoyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

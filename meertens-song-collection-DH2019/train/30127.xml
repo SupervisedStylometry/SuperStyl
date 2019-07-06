@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>30127</id>
+    <date>
+      <year-start>1591</year-start>
+      <year-end>1591</year-end>
+    </date>
+    <location>
+      <orginal-name>middelburg</orginal-name>
+      <standard-name>Middelburg, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.4997302</lon>
+        <lat>3.6136962</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Lofzang van Simeon [Datheen]</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Philips van Marnix van Sint Aldegonde</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">LAet dijnen knecht <rhyme label="a" type="m">voortaen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">O Heer, in vrede <rhyme label="a" type="m" corresp="#s1:l1">gaen</rhyme>.</l>
+        <l id="s1:l3" met="3" type="-+">Nae dijnen woird vol <rhyme label="b" type="f">trouwen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Want mijn gesicht <rhyme label="c" type="m">verheugt</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Mach met volcomen <rhyme label="c" type="m" corresp="#s1:l4">vreugt</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Nu dijnen Heylant <rhyme label="b" type="f" corresp="#s1:l3">schouwen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Den Heylant lang <rhyme label="a" type="m">verbeyt</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">End claerlijck <rhyme label="a" type="m" corresp="#s2:l1">voirbereyt</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Den volckren, vanden <rhyme label="b" type="f">Heere</rhyme>:</l>
+        <l id="s2:l4" met="3" type="-+">Een licht dwelck <rhyme label="c" type="m">openbaer</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Den Heydnen schijnt seer <rhyme label="c" type="m" corresp="#s2:l4">claer</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Dijns volcks Israels <rhyme label="b" type="f" corresp="#s2:l3">eere</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

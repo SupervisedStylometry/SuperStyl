@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34577</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Voulez-vous que je vous dise</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Jan Mommaert</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">NV dat ick u moet <rhyme label="a" type="f">vertooghen</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Wat myn liefd' verwecken <rhyme label="b" type="m">kan</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">'t Zyn myn Cloris lieve <rhyme label="a" type="f" corresp="#s1:l1">ooghen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Die meer lichten als de <rhyme label="b" type="m" corresp="#s1:l2">Son</rhyme>:</l>
+        <l id="s1:l5" met="3" type="-+">Wat ben ick vol <rhyme label="c" type="f">ghenoeghen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Wilt sy naer my die <rhyme label="c" type="f" corresp="#s1:l5">voeghen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Niet en heefter by haer <rhyme label="a" type="f">soetheyt</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Onder 's hemels ronde <rhyme label="b" type="m">kap</rhyme>;</l>
+        <l id="s2:l3" met="4" type="+-">Want haer montjen onder voet <rhyme label="a" type="f" corresp="#s2:l1">leyt</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Alle wereldts <rhyme label="b" type="m" corresp="#s2:l2">wetenschap</rhyme>:</l>
+        <l id="s2:l5" met="3" type="-+">Wat ben ick vol <rhyme label="c" type="f">ghenoeghen</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Wil sy naer my die <rhyme label="c" type="f" corresp="#s2:l5">voeghen</rhyme>:</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Al het ghen' men komt te <rhyme label="a" type="f">seggen</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Van Dianes <rhyme label="b" type="m">schoonigheydt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Is met niet te <rhyme label="a" type="f" corresp="#s3:l1">weder-legghen</rhyme>:</l>
+        <l id="s3:l4" met="4" type="+-">Doch wie is't die haer <rhyme label="b" type="m" corresp="#s3:l2">verleydt</rhyme>?</l>
+        <l id="s3:l5" met="3" type="-+">Wat ben ick vol <rhyme label="c" type="f">ghenoeghen</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Wilt sy naer my haer <rhyme label="c" type="f" corresp="#s3:l5">voeghen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

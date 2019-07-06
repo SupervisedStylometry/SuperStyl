@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175111</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Een lapje hier, een lapje <rhyme label="a" type="m">daar</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Waar ik ze maar kan <rhyme label="b" type="f">vinden</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Die gaâr ik netjes bij <rhyme label="a" type="m" corresp="#s1:l1">malkaar</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Van buurtjes en van <rhyme label="b" type="f" corresp="#s1:l2">vrinden</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">En geef voor chits, - ja, voor <rhyme label="c" type="m">katoen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Een hand, een lachje, en soms een' <rhyme label="c" type="m" corresp="#s1:l5">zoen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Een lapje hier, een lapje <rhyme label="a" type="m">daar</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Die snij ik dan tot <rhyme label="b" type="f">ruiten</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En stik ze netjes aan <rhyme label="a" type="m" corresp="#s2:l1">malkaâr</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">De mooiste zĳ̂ naar <rhyme label="b" type="f" corresp="#s2:l2">buiten</rhyme>;</l>
+        <l id="s2:l5" met="4" type="-+">En, zijn dan alle hoekjes <rhyme label="c" type="m">vol</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Dan voer ik ze met warme <rhyme label="c" type="m" corresp="#s2:l5">wol</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Een lapje hier, een lapje <rhyme label="a" type="m">daar</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Ging anders toch <rhyme label="b" type="f">verloren</rhyme>....</l>
+        <l id="s3:l3" met="4" type="-+">Nu ben ik menig' winter <rhyme label="a" type="m" corresp="#s3:l1">klaar</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">En warm me naar <rhyme label="b" type="f" corresp="#s3:l2">behooren</rhyme>: -</l>
+        <l id="s3:l5" met="4" type="-+">'k Ben met dien mantel dubbel <rhyme label="c" type="m">blijd'</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Want 'k heb hem door mijne eigen <rhyme label="c" type="m" corresp="#s3:l5">vlijt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

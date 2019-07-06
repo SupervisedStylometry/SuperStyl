@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185964</id>
+    <date>
+      <year-start>1717</year-start>
+      <year-end>1717</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Phyllis ben je kwaad</melody>
+  <author>Hermanus van den Burg</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">FIllis ben je <rhyme label="a" type="m">kwaad</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Staak zulks, en volg wysen <rhyme label="a" type="m" corresp="#s1:l1">raad</rhyme>.</l>
+        <l id="s1:l3" met="3" type="+-">Want een dorstig <rhyme label="b" type="m">Man</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Stoort zich nimmer <rhyme label="b" type="m" corresp="#s1:l3">ân</rhyme>,</l>
+        <l id="s1:l5" met="3" type="+-">Een' nortige <rhyme label="c" type="m">Vrouw</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Maar wel aan een lêge <rhyme label="b" type="m" corresp="#s1:l3">Kan</rhyme>,</l>
+        <l id="s1:l7" met="5" type="+-">En gy wint doch niet, dan <rhyme label="d" type="m">verdriet</rhyme>,</l>
+        <l id="s1:l8" met="3" type="+-">en vergeefs <rhyme label="c" type="m" corresp="#s1:l5">berouw</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

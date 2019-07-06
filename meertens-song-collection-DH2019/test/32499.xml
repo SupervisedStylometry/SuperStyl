@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32499</id>
+    <date>
+      <year-start>1667</year-start>
+      <year-end>1667</year-end>
+    </date>
+    <location>
+      <orginal-name>mechelen</orginal-name>
+      <standard-name>Mechelen, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0281381</lon>
+        <lat>4.4803453</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>La Vignonne</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">NU ben ick in grooten <rhyme label="a" type="m">druck</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">Want ick <rhyme label="a" type="m" corresp="#s1:l1">mis-luck</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">Mijn vreught,, en <rhyme label="b" type="m">jeught</rhyme>,,</l>
+        <l id="s1:l4" met="2" type="-+">O droef-saem <rhyme label="a" type="m" corresp="#s1:l1">stuck</rhyme>!</l>
+        <l id="s1:l5" met="4" type="-+">Ach Herderin,, laet mijnen <rhyme label="c" type="m">sin</rhyme>,,</l>
+        <l id="s1:l6" met="4" type="-+">Dogh eens volherden in u soete <rhyme label="c" type="m" corresp="#s1:l5">MIN</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Gy weet,, het bescheed,, het Mijn <rhyme label="c" type="m" corresp="#s1:l5">Engelin</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Seght Herder,, niet <rhyme label="d" type="f">verder</rhyme>,,</l>
+        <l id="s1:l9" met="3" type="+-">En sucht,, noch en <rhyme label="e" type="m">ducht</rhyme>,,</l>
+        <l id="s1:l10" met="3" type="+-">Nemt rust,, nae u <rhyme label="f" type="m">lust</rhyme>,,</l>
+        <l id="s1:l11" met="3" type="+-">Komt vindt uwe <rhyme label="e" type="m" corresp="#s1:l9">vrucht</rhyme></l>
+        <l id="s1:l12" met="2" type="-+">Kompt hede,, nu <rhyme label="g" type="f">mede</rhyme>,,</l>
+        <l id="s1:l13" met="3" type="+-">In die schoone <rhyme label="e" type="m" corresp="#s1:l9">lucht</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Ach wilt blijven my <rhyme label="a" type="m">getrauw</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Schoon Jonge <rhyme label="a" type="m" corresp="#s2:l1">Vrauw</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Op u,, als <rhyme label="b" type="m">nu</rhyme>,,</l>
+        <l id="s2:l4" met="2" type="-+">Mijn herte <rhyme label="a" type="m" corresp="#s2:l1">bauw</rhyme>;</l>
+        <l id="s2:l5" met="4" type="-+">Dogh u gelaet,, schynt dat my <rhyme label="c" type="m">haet</rhyme>,,</l>
+        <l id="s2:l6" met="4" type="-+">Om geene reden dat gy my <rhyme label="c" type="m" corresp="#s2:l5">versmaet</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">'t Soet leven,, te geven,, Achti even,, als <rhyme label="c" type="m" corresp="#s2:l5">niet</rhyme></l>
+        <l id="s2:l8" met="2" type="-+">Jonck-vrouwe,, mijn <rhyme label="d" type="f">Trouwe</rhyme>,</l>
+        <l id="s2:l9" met="3" type="+-">En rouwe,, <rhyme label="e" type="m">aen-siet</rhyme>,</l>
+        <l id="s2:l10" met="3" type="+-">Gedenckt,, die my <rhyme label="f" type="m">krenckt</rhyme>,,</l>
+        <l id="s2:l11" met="3" type="+-">Die tot MIN u <rhyme label="e" type="m" corresp="#s2:l9">wenckt</rhyme>,</l>
+        <l id="s2:l12" met="2" type="-+">Die heden,, sijn <rhyme label="g" type="f">leden</rhyme>,,</l>
+        <l id="s2:l13" met="3" type="+-">En sijn Ziel u <rhyme label="e" type="m" corresp="#s2:l9">schenckt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

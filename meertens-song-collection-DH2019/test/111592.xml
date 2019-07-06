@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111592</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Al wat men doet</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">DIt is het plaatsje daar ik moet <rhyme label="a" type="f">verwagten</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Myn waarde Philida, myn <rhyme label="b" type="m">Herderin</rhyme>:</l>
+        <l id="s1:l3" met="5" type="-+">Weg nu, weg nu met droeve <rhyme label="a" type="f" corresp="#s1:l1">Minne-klagten</rhyme>:</l>
+        <l id="s1:l4" met="5" type="-+">De zoete Vreugd regeerd nu in myn <rhyme label="b" type="m" corresp="#s1:l2">Sin</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Al myn Elende,, Zyn nu ten <rhyme label="c" type="f">ende</rhyme></l>
+        <l id="s1:l6" met="6" type="-+">En rykelyk betaald, Nu my haar gunst <rhyme label="d" type="m">bestraald</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">ô Pluym-gediert! dat op dees' groene <rhyme label="a" type="f">Blad'ren</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Door Duysend toonen Hert en Ooren <rhyme label="b" type="m">streeld</rhyme>:</l>
+        <l id="s2:l3" met="5" type="-+">Gy ziet van ver myn Philida al <rhyme label="a" type="f" corresp="#s2:l1">nad'ren</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Des is het al van Liefde dat gy <rhyme label="b" type="m" corresp="#s2:l2">kweeld</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Laat Bosch en Boomen,, Rivier en <rhyme label="c" type="f">Stroomen</rhyme></l>
+        <l id="s2:l6" met="6" type="-+">Getuygen zyn van 't zoet, Dat zy my smaken <rhyme label="d" type="m">doet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Het ruyschend Beekje kust alreeds de <rhyme label="a" type="f">Zomen</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">Van dit zo Ryk gebloemde <rhyme label="b" type="m">Veld-Tapyt</rhyme>:</l>
+        <l id="s3:l3" met="5" type="-+">Het Windje derteld en omhelst de <rhyme label="a" type="f" corresp="#s3:l1">Bomen</rhyme>:</l>
+        <l id="s3:l4" met="5" type="-+">'t Schynd alles aan de liefde <rhyme label="b" type="m" corresp="#s3:l2">toegewyd</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">Kom dan myn Engel,, myn lief! ik <rhyme label="c" type="f">hengel</rhyme>,</l>
+        <l id="s3:l6" met="6" type="-+">En haak alleenig na Myn schoone <rhyme label="d" type="m">Philida</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

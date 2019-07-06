@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100251</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">BEminde, waarom keert g' uw <rhyme label="a" type="m">oog</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Van my, die u zoo angstig <rhyme label="b" type="f">minne</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">'t Gezigt nooit na het geene <rhyme label="a" type="m" corresp="#s1:l1">boog</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Daar 't hart afkeerig is van <rhyme label="b" type="f" corresp="#s1:l2">binne</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">'k Sag ooit een hart dat zoo <rhyme label="a" type="m">verstaald</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Was, of een Minnaar zoo <rhyme label="b" type="f">vermoorde</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">'k Sag ooit een Harder die zoo <rhyme label="a" type="m" corresp="#s2:l1">dwaald'</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Of minder na de reden <rhyme label="b" type="f" corresp="#s2:l2">hoorde</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wat liefde zoud uw <rhyme label="a" type="m">vinnigheid</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">In 't minste konnen <rhyme label="b" type="f">overmagten</rhyme>?</l>
+        <l id="s3:l3" met="4" type="-+">De redelose liefde <rhyme label="a" type="m" corresp="#s3:l1">leid</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">In eige wil: zy heeft geen <rhyme label="b" type="f" corresp="#s3:l2">kragten</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">De reden zelf leerde, dat <rhyme label="a" type="m">gy</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Behoord myn smarten te <rhyme label="b" type="f">verzagten</rhyme>.</l>
+        <l id="s4:l3" met="4" type="-+">De reden zellef leerde <rhyme label="a" type="m" corresp="#s4:l1">my</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Van alle liefde-treken <rhyme label="b" type="f" corresp="#s4:l2">wagten</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">O schoonste Harderesje, <rhyme label="a" type="m">ik</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Ben schoonder als gy kond <rhyme label="b" type="f">gelooven</rhyme>.</l>
+        <l id="s5:l3" met="4" type="-+">Syt gy hier mee te payen? <rhyme label="a" type="m" corresp="#s5:l1">ik</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Kan dit, en noch al meer <rhyme label="b" type="f" corresp="#s5:l2">gelooven</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Vleyd gy dan myn bedroefde <rhyme label="a" type="m">ziel</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Om meer in liefde te doen <rhyme label="b" type="f">blaken</rhyme>?</l>
+        <l id="s6:l3" met="4" type="-+">Of uwe lust op woorden <rhyme label="a" type="m" corresp="#s6:l1">viel</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">'k Mag dit gesprek niet langer <rhyme label="b" type="f" corresp="#s6:l2">maken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

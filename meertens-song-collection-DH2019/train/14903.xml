@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14903</id>
+    <date>
+      <year-start>1622</year-start>
+      <year-end>1622</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Aux logettes de ces bois</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">ICk heb dickmaels inde <rhyme label="a" type="m">sin</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">V schoonst aen te <rhyme label="b" type="f">spreecken</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Van myn pijne, van myn <rhyme label="a" type="m" corresp="#s1:l1">min</rhyme></l>
+        <l id="s1:l4" met="3" type="+-">En Liefd’s loose <rhyme label="b" type="f" corresp="#s1:l2">treecken</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Maer wat ick doch praet of <rhyme label="c" type="m">mal</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">By u heeftet pit of <rhyme label="c" type="m" corresp="#s1:l5">val</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Dus merck ick tot myn <rhyme label="d" type="m">verdriet</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">En u te stuere <rhyme label="e" type="f">wesen</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">Dat myn doen in ydel <rhyme label="d" type="m" corresp="#s1:l7">niet</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">Verandert haest sal <rhyme label="e" type="f" corresp="#s1:l8">wesen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Sal dan al myn smeecken <rhyme label="a" type="m">eens</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">V hert niet <rhyme label="b" type="f">vermurwen</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Wreede, noch het staech <rhyme label="a" type="m" corresp="#s2:l1">gheween</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">Van myn aenschijn <rhyme label="b" type="f" corresp="#s2:l2">durven</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">V wt jonst om myn <rhyme label="c" type="m">ghenae</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Bidden, daer ick aers <rhyme label="c" type="m" corresp="#s2:l5">vergae</rhyme>:</l>
+        <l id="s2:l7" met="4" type="+-">Dus merck ick tot myn <rhyme label="d" type="m">verdriet</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">En u te stuere <rhyme label="e" type="f">wesen</rhyme>,</l>
+        <l id="s2:l9" met="4" type="+-">Dat myn doen in ydel <rhyme label="d" type="m" corresp="#s2:l7">niet</rhyme></l>
+        <l id="s2:l10" met="3" type="-+">Verandert haest sal <rhyme label="e" type="f" corresp="#s2:l8">wesen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Ick mach vry vol droef <rhyme label="a" type="m">ghepijns</rhyme></l>
+        <l id="s3:l2" met="3" type="+-">Nu de Gooden <rhyme label="b" type="f">smeecken</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">En Liefd’s suer bitter <rhyme label="a" type="m" corresp="#s3:l1">schijns</rhyme></l>
+        <l id="s3:l4" met="3" type="+-">In myn boesem <rhyme label="b" type="f" corresp="#s3:l2">steecken</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">Daer alles wat ick doe of <rhyme label="c" type="m">laet</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">My niet vordert noch en <rhyme label="c" type="m" corresp="#s3:l5">baet</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Dus merck ick tot myn <rhyme label="d" type="m">verdriet</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">En u te stuere <rhyme label="e" type="f">wesen</rhyme>,</l>
+        <l id="s3:l9" met="4" type="+-">Dat myn doen in ydel <rhyme label="d" type="m" corresp="#s3:l7">niet</rhyme></l>
+        <l id="s3:l10" met="3" type="-+">Verandert haest sal <rhyme label="e" type="f" corresp="#s3:l8">wesen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

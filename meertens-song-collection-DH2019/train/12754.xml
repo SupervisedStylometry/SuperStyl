@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12754</id>
+    <date>
+      <year-start>1658</year-start>
+      <year-end>1658</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Psalm 100 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Franciscus Ridderus</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GOdt Vader! Soon! en Heyl'ge <rhyme label="a" type="m">Geest</rhyme>!</l>
+        <l id="s1:l2" met="4" type="-+">Ghy sijt van eeuwigheyt <rhyme label="a" type="m" corresp="#s1:l1">gemeest</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Maer Ghy hebt d'aerde en de <rhyme label="b" type="m">tijt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Gemaeckt, en oock den Hemel <rhyme label="b" type="m" corresp="#s1:l3">wijt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Uyt niet soo bracht ghy alles <rhyme label="a" type="m">voort</rhyme>:</l>
+        <l id="s2:l2" met="4" type="-+">Als ghy maer gaeft u machtigh <rhyme label="a" type="m" corresp="#s2:l1">woort</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Soo was het alles schoon na <rhyme label="b" type="m">wensch</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Selfs Engelen en oock den <rhyme label="b" type="m" corresp="#s2:l3">Mensch</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ghy hebt die Geesten voort <rhyme label="a" type="m">gebracht</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Vol wijsheyt, Goetheyt, en vol <rhyme label="a" type="m" corresp="#s3:l1">macht</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Ten dienst alleen, niet om de <rhyme label="b" type="m">eer</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Die 'tPausdom af neemt van haer <rhyme label="b" type="m" corresp="#s3:l3">Heer</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">De Mensch geschapen, wiert <rhyme label="a" type="m">gestelt</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">In Edens schoon, en vruchtbaer <rhyme label="a" type="m" corresp="#s4:l1">velt</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">Het lichaem was uyt slechte <rhyme label="b" type="m">slijck</rhyme>:</l>
+        <l id="s4:l4" met="4" type="-+">En evenwel, <rhyme label="b" type="m" corresp="#s4:l3">onsterffelijck</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Onsterfelijck, indien de <rhyme label="a" type="m">sond</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Niet brack met zijnen Godt <rhyme label="a" type="m" corresp="#s5:l1">'tverbond</rhyme>:</l>
+        <l id="s5:l3" met="4" type="-+">Maer deed hy eens een quade <rhyme label="b" type="m">beet</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Terstont soo stont de doot <rhyme label="b" type="m" corresp="#s5:l3">gereet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

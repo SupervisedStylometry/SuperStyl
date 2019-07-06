@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>112111</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Verstand waar is uw trouw gebleven</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MYn Siel heeft nu geen stof tot <rhyme label="a" type="f">treuren</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Nu my myn lieve faon <rhyme label="b" type="m">ziet</rhyme>.</l>
+        <l id="s1:l3" met="6" type="-+">Syn gunstig oog en mont verdryven myn <rhyme label="b" type="m" corresp="#s1:l2">verdriet</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Mogt my dat heil altyd <rhyme label="a" type="f" corresp="#s1:l1">gebeuren</rhyme>!</l>
+        <l id="s1:l5" met="4" type="-+">Een heilig vuur doorkruipt myn <rhyme label="c" type="f">aaren</rhyme></l>
+        <l id="s1:l6" met="5" type="+-">En roert myn hert om. Ach, ach, <rhyme label="d" type="m">ach</rhyme>!</l>
+        <l id="s1:l7" met="6" type="-+">'t Word duister voor my oog ten midden van den <rhyme label="d" type="m" corresp="#s1:l6">dag</rhyme>;</l>
+        <l id="s1:l8" met="4" type="+-">Hoe zal ik van die weeld <rhyme label="c" type="f" corresp="#s1:l5">bedaren</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Daar zie ik 't oogenblik <rhyme label="a" type="f">verschynen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Dat faon my alleenig <rhyme label="b" type="m">laat</rhyme>!</l>
+        <l id="s2:l3" met="6" type="-+">Ik beef, ik schrik, ik ys: myn lust, myn rust <rhyme label="b" type="m" corresp="#s2:l2">vergaat</rhyme>.</l>
+        <l id="s2:l4" met="4" type="-+">Sla, sla, myn Siel, sla nu aan 't <rhyme label="a" type="f" corresp="#s2:l1">quynen</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Helaas! ik moet myn heilzon <rhyme label="c" type="f">derven</rhyme>!</l>
+        <l id="s2:l6" met="5" type="+-">Zie my bezwymen. Ach. ach. <rhyme label="d" type="m">ach</rhyme>!</l>
+        <l id="s2:l7" met="6" type="-+">Myn aassem stuit. myn hert klopt feller, slag op <rhyme label="d" type="m" corresp="#s2:l6">slag</rhyme>.</l>
+        <l id="s2:l8" met="4" type="+-">Eer faon scheid, zal ik nog <rhyme label="c" type="f" corresp="#s2:l5">sterven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

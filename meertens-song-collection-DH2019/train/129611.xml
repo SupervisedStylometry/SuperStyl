@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>129611</id>
+    <date>
+      <year-start>1708</year-start>
+      <year-end>1708</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Troosje mijn uitverkoren</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">‘Troosje,   myn <rhyme label="a" type="f">uitverkooren</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Hoe komt dat gy zo wreet <rhyme label="b" type="m">zyt</rhyme>?</l>
+        <l id="s1:l3" met="3" type="+-">Troost myn, of ik ga <rhyme label="a" type="f" corresp="#s1:l1">verlooren</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Al door de minne <rhyme label="b" type="m" corresp="#s1:l2">spyt</rhyme>.</l>
+        <l id="s1:l5" met="5" type="+-">In ’t Graf, schoon Lief, in ’t <rhyme label="c" type="m">Graf</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Ag, ag, in ’t <rhyme label="c" type="m" corresp="#s1:l5">Graf</rhyme>,</l>
+        <l id="s1:l7" met="3" type="+-">Myn leven snyd <rhyme label="c" type="m" corresp="#s1:l5">af</rhyme>.’</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">‘Jonkman, schep nu der <rhyme label="a" type="f">genugten</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">En laat varen al uwe <rhyme label="b" type="m">smert</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">Want alle u <rhyme label="a" type="f" corresp="#s2:l1">minne-suchten</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Die leggen in mijn jong <rhyme label="b" type="m" corresp="#s2:l2">hert</rhyme>.</l>
+        <l id="s2:l5" met="5" type="+-">En ik zal, schoon lief, en ik <rhyme label="c" type="m">sal</rhyme>,</l>
+        <l id="s2:l6" met="3" type="+-">Ag, ag, en ik <rhyme label="c" type="m" corresp="#s2:l5">sal</rhyme>,</l>
+        <l id="s2:l7" met="3" type="+-">U minnen voor <rhyme label="c" type="m" corresp="#s2:l5">al</rhyme>.’</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="+-">‘Wel, nu mag ik gelukkig <rhyme label="a" type="f">wesen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Al door dat <rhyme label="b" type="m">minne-vier</rhyme>,</l>
+        <l id="s3:l3" met="3" type="+-">Dat ik ‘er u bloempje mag <rhyme label="a" type="f" corresp="#s3:l1">lezen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Eer dat ik sal scheiden van <rhyme label="b" type="m" corresp="#s3:l2">hier</rhyme>.</l>
+        <l id="s3:l5" met="5" type="+-">En u blom, schoon Lief, en u <rhyme label="c" type="m">blom</rhyme>,</l>
+        <l id="s3:l6" met="3" type="+-">Ag, ag, en u <rhyme label="c" type="m" corresp="#s3:l5">blom</rhyme>,</l>
+        <l id="s3:l7" met="3" type="+-">Daar ik ‘er om <rhyme label="c" type="m" corresp="#s3:l5">kom</rhyme>.’</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="+-">‘Die zal ik u laten <rhyme label="a" type="f">plukken</rhyme>.</l>
+        <l id="s4:l2" met="3" type="-+">Schoon isse van grooter <rhyme label="b" type="m">waart</rhyme>.</l>
+        <l id="s4:l3" met="3" type="+-">Die sal ik u laaten <rhyme label="a" type="f" corresp="#s4:l1">doorschieten</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Al met eenen minnen <rhyme label="b" type="m" corresp="#s4:l2">swaart</rhyme>.</l>
+        <l id="s4:l5" met="5" type="+-">Op myn eer, ach, soetjes, mijn <rhyme label="c" type="m">Heer</rhyme>,</l>
+        <l id="s4:l6" met="3" type="+-">Ach, ach, myn <rhyme label="c" type="m" corresp="#s4:l5">Heer</rhyme>,</l>
+        <l id="s4:l7" met="3" type="+-">Jy doet myn zo <rhyme label="c" type="m" corresp="#s4:l5">seer</rhyme>.’</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="+-">‘Lief als men de weg gaat <rhyme label="a" type="f">maken</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Soo moetje wat pyn <rhyme label="b" type="m">doorstaan</rhyme>.</l>
+        <l id="s5:l3" met="3" type="+-">’t Is om wat vreugde te <rhyme label="a" type="f" corresp="#s5:l1">rapen</rhyme>.</l>
+        <l id="s5:l4" met="3" type="-+">De pijn is seer haast <rhyme label="b" type="m" corresp="#s5:l2">gedaan</rhyme>.</l>
+        <l id="s5:l5" met="5" type="+-">’t Is om min, schoon lief, ’t is om <rhyme label="c" type="m">min</rhyme>,</l>
+        <l id="s5:l6" met="3" type="+-">Ach, ach, ’t is om <rhyme label="c" type="m" corresp="#s5:l5">min</rhyme>,</l>
+        <l id="s5:l7" met="3" type="+-">Het gaat naar myn <rhyme label="c" type="m" corresp="#s5:l5">sin</rhyme>.’</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="+-">‘Nu hebje mijn eertje <rhyme label="a" type="f">gestoolen</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">En gy blust uwen <rhyme label="b" type="m">brand</rhyme>,</l>
+        <l id="s6:l3" met="3" type="+-">Waar door wy sijn t’samen <rhyme label="a" type="f" corresp="#s6:l1">gekomen</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Al in den echten <rhyme label="b" type="m" corresp="#s6:l2">verband</rhyme>.</l>
+        <l id="s6:l5" met="5" type="+-">Met verblyd, schoon Lief, met <rhyme label="c" type="m">verblyd</rhyme>,</l>
+        <l id="s6:l6" met="3" type="+-">Ach, ach, met <rhyme label="c" type="m" corresp="#s6:l5">verblyd</rhyme>,</l>
+        <l id="s6:l7" met="3" type="+-">Spyt die ’t <rhyme label="c" type="m" corresp="#s6:l5">benyd</rhyme>.’</l>
+      </lg>
+    </lg>
+  </text>
+</song>

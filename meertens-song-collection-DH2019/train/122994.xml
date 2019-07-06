@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>122994</id>
+    <date>
+      <year-start>1717</year-start>
+      <year-end>1717</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="theatre">theater</category>
+    </categories>
+  <author>Andries Pels</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O lang gewénschte <rhyme label="a" type="f">heerschappyen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Wat rust en zégen baart <rhyme label="b" type="m">gy</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">niet, Nu Eigenbaat niet meer <rhyme label="b" type="m" corresp="#s1:l2">gebiedt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Al 't land is vry van <rhyme label="a" type="f" corresp="#s1:l1">schélmeryen</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">En ieder onder rei-ne <rhyme label="c" type="m">Wil</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Aanbidt zyn huisgoôn vry en <rhyme label="c" type="m" corresp="#s1:l5">stil</rhyme>.</l>
+        <l id="s1:l7" met="4" type="-+">En ieder onder reine Wil, Aanbidt <rhyme label="c" type="m" corresp="#s1:l5">zyn</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">huisgoôn vry en <rhyme label="c" type="m" corresp="#s1:l5">stil</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Geen vyand zal in 't eiland <rhyme label="a" type="f">dringen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">En zétten 't weer in lichten <rhyme label="b" type="m">vlam</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Ik zie d' aloude <rhyme label="b" type="m" corresp="#s2:l2">héldenstam</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Zeeghaftig Eigenbaat <rhyme label="a" type="f" corresp="#s2:l1">bedwingen</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Ik zie den Landman bly <rhyme label="c" type="m">gemoed</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">En ieder stad vol <rhyme label="c" type="m" corresp="#s2:l5">overvloed</rhyme>.</l>
+        <l id="s2:l7" met="4" type="-+">Ik zie den Landman bly <rhyme label="c" type="m" corresp="#s2:l5">gemoed</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">En ieder stad vol <rhyme label="c" type="m" corresp="#s2:l5">overvloed</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Elk vólgt met vreugd des vryheids <rhyme label="a" type="f">wétten</rhyme>;</l>
+        <l id="s3:l2" met="4" type="-+">Bedróg wykt voor <rhyme label="b" type="m">Geréchtigheid</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">En Schyndeugd voor <rhyme label="b" type="m" corresp="#s3:l2">Opréchtigheid</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">Wie zal 't geluk nu paalen <rhyme label="a" type="f" corresp="#s3:l1">zétten</rhyme>?</l>
+        <l id="s3:l5" met="4" type="-+">O klein, maar groot gezégend <rhyme label="c" type="m">land</rhyme>!</l>
+        <l id="s3:l6" met="4" type="-+">Gy houd de Dwinglandy in <rhyme label="c" type="m" corresp="#s3:l5">band</rhyme>.</l>
+        <l id="s3:l7" met="4" type="-+">O klein, maar groot gezégend <rhyme label="c" type="m" corresp="#s3:l5">land</rhyme>!</l>
+        <l id="s3:l8" met="4" type="-+">Gy houd de Dwinglandy in <rhyme label="c" type="m" corresp="#s3:l5">band</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

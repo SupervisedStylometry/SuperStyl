@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>118747</id>
+    <date>
+      <year-start>1687</year-start>
+      <year-end>1687</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody>Vous qui de peur d'un mépris</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Iesu, als gy by my <rhyme label="a" type="m">zijt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Is mijn hert en ziel <rhyme label="a" type="m" corresp="#s1:l1">verblijdt</rhyme>.</l>
+        <l id="s1:l3" met="4" type="+-">Ik gevoel geen tegen <rhyme label="b" type="f">heeden</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Noch en vreese geen <rhyme label="c" type="m">gevaer</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">'k Ben in alles wel te <rhyme label="b" type="f" corresp="#s1:l3">vreeden</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Als ick u mag hebben <rhyme label="c" type="m" corresp="#s1:l4">maer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Maer als gy eens van my <rhyme label="a" type="m">wijckt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Mijne ziel terstondt <rhyme label="a" type="m" corresp="#s2:l1">beswijckt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Iesu, ick kan u niet <rhyme label="b" type="f">derven</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Of ick leide groote <rhyme label="c" type="m">pijn</rhyme>;</l>
+        <l id="s2:l5" met="4" type="+-">'t Is als een geduurigh <rhyme label="b" type="f" corresp="#s2:l3">sterven</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Sonder uwe gunst te <rhyme label="c" type="m" corresp="#s2:l4">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Mijne ziel en heeft geen <rhyme label="a" type="m">lust</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">En vindt nergens hier haer <rhyme label="a" type="m" corresp="#s3:l1">rust</rhyme>:</l>
+        <l id="s3:l3" met="4" type="+-">Ick begeer s' oock niet te <rhyme label="b" type="f">vinden</rhyme>;</l>
+        <l id="s3:l4" met="4" type="+-">'s Wereldts rust, lust en <rhyme label="c" type="m">gemack</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">En is niet voor uw <rhyme label="b" type="f" corresp="#s3:l3">beminden</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Dan alleen een lastigh <rhyme label="c" type="m" corresp="#s3:l4">pack</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Maer daer gy in 't herte <rhyme label="a" type="m">werckt</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Is het wonderlick <rhyme label="a" type="m" corresp="#s4:l1">versterckt</rhyme>:</l>
+        <l id="s4:l3" met="4" type="+-">Uwe gunst kan blijdtschap <rhyme label="b" type="f">geven</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Midden in den swaersten <rhyme label="c" type="m">noodt</rhyme>:</l>
+        <l id="s4:l5" met="4" type="+-">Gy zijt onse kracht en <rhyme label="b" type="f" corresp="#s4:l3">leven</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">Oock in 't midden van de <rhyme label="c" type="m" corresp="#s4:l4">doodt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22110</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Aus tiefer Not schrei ich zu dir</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Gheeft den Heere zijn eer, en <rhyme label="a" type="m">macht</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Ghy Princen, en machtighe <rhyme label="b" type="f">Heeren</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Dalmachticheyt des Heeren hooch <rhyme label="a" type="m" corresp="#s1:l1">acht</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">In ciraet aenbidt hem <rhyme label="b" type="f" corresp="#s1:l2">seere</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Den watren ghebiedt hy wat hy <rhyme label="c" type="m">wil</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Hy dondert, en blixemt, luy, en <rhyme label="c" type="m" corresp="#s1:l5">stil</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">En die Zee, die regiert <rhyme label="d" type="f">hy</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Des Heeren woort heeft macht, en <rhyme label="a" type="m">cracht</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Den Ceder: breeckt zijn <rhyme label="b" type="f">stemme</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Hy doet die in Libans, oock met <rhyme label="a" type="m" corresp="#s2:l1">macht</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Opspinghen, door synen <rhyme label="b" type="f" corresp="#s2:l2">grimme</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Oock springhen de berghen <rhyme label="c" type="m">Sirioen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Ghelijck dEenhorens, en Calueren <rhyme label="c" type="m" corresp="#s2:l5">doen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Sijn stem clieft vierighe <rhyme label="d" type="f">vlammen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Dies verwondert haer Kades <rhyme label="a" type="m">Woestijn</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Sijn stem die maeckt flau de <rhyme label="b" type="f">Hinden</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Sy ontbloodt Velden, en Bosschen <rhyme label="a" type="m" corresp="#s3:l1">fijn</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Sijn Eer soudmen <rhyme label="b" type="f" corresp="#s3:l2">vercondghen</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Den plasreghen de Heere <rhyme label="c" type="m">stilt</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Een eewich Concinck hy blijuen <rhyme label="c" type="m" corresp="#s3:l5">wilt</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Hy gheft salicheyt, en <rhyme label="d" type="f">vrede</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

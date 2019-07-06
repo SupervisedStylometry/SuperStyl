@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>15</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Courante Bourbon</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">LIeve <rhyme label="a" type="f">Herderinne</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">Hoe langh sal ick <rhyme label="a" type="f" corresp="#s1:l1">minne</rhyme>:</l>
+        <l id="s1:l3" met="3" type="-+">Eer gy my <rhyme label="b" type="m">wedermind</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Is het u <rhyme label="c" type="f">behage</rhyme></l>
+        <l id="s1:l5" met="3" type="+-">My noch meer te <rhyme label="c" type="f" corresp="#s1:l4">plagen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Daer ghy my soo stantvastich <rhyme label="b" type="m" corresp="#s1:l3">vind</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Werd trouwe minne soo <rhyme label="d" type="m">beloont</rhyme>:</l>
+        <l id="s1:l8" met="4" type="-+">Gelijck mijn Herderin <rhyme label="d" type="m" corresp="#s1:l7">betoont</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Soo bid ick minne Godt dat <rhyme label="e" type="m">gy</rhyme>:</l>
+        <l id="s1:l10" met="4" type="-+">U Pijltjens niet meer spilt op <rhyme label="e" type="m" corresp="#s1:l9">my</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Ach ach 't is <rhyme label="a" type="f">sterven</rhyme>,</l>
+        <l id="s2:l2" met="3" type="+-">Als het hert moet <rhyme label="a" type="f" corresp="#s2:l1">derven</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">'t Geen dat het meest <rhyme label="b" type="m">betracht</rhyme>,</l>
+        <l id="s2:l4" met="3" type="+-">Dat ick dit most <rhyme label="c" type="f">beminde</rhyme></l>
+        <l id="s2:l5" met="3" type="+-">Dat ick dit most <rhyme label="c" type="f" corresp="#s2:l4">beminde</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Dat had ick noyt van u <rhyme label="b" type="m" corresp="#s2:l3">verwacht</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Mits gy wel weet ô lieve <rhyme label="d" type="m">maecht</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Wat trouwe min u Herder <rhyme label="d" type="m" corresp="#s2:l7">draecht</rhyme>,</l>
+        <l id="s2:l9" met="4" type="-+">ô Min ick noem u soeticheyt <rhyme label="e" type="m">wreedt</rhyme>,</l>
+        <l id="s2:l10" met="4" type="-+">Mits ghy mijn trouheyd loont met <rhyme label="e" type="m" corresp="#s2:l9">leet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="+-">ô Bedroefde <rhyme label="a" type="f">zuchjes</rhyme></l>
+        <l id="s3:l2" met="3" type="+-">Trouwe minne <rhyme label="a" type="f" corresp="#s3:l1">vruchjes</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Getuyge van mijn <rhyme label="b" type="m">smert</rhyme>,</l>
+        <l id="s3:l4" met="3" type="+-">Meld mijn droevich <rhyme label="c" type="f">lijden</rhyme>,</l>
+        <l id="s3:l5" met="3" type="+-">En mijn treurich <rhyme label="c" type="f" corresp="#s3:l4">strijden</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Ontstaen door min in 't lievend <rhyme label="b" type="m" corresp="#s3:l3">Hert</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Meld bid ick aen mijn <rhyme label="d" type="m">Herderin</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Dat ick haer tot er doodt <rhyme label="d" type="m" corresp="#s3:l7">bemin</rhyme>,</l>
+        <l id="s3:l9" met="4" type="-+">En dat ick in mijn <rhyme label="e" type="m">ongeval</rhyme>,</l>
+        <l id="s3:l10" met="4" type="-+">Haer trouwe minnaer blijven <rhyme label="e" type="m" corresp="#s3:l9">sal</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

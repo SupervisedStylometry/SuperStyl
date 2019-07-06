@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2168</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Courante simple</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Joan Blasius</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">BEminde siel, mijn waarde <rhyme label="a" type="m">Lief</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Wiens beeltenis ik in mijn boesem <rhyme label="a" type="m" corresp="#s1:l1">grief</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Gevalt het u, dat ik noch langer <rhyme label="b" type="m">klaag</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">En een onheelbre wond in 't harte <rhyme label="b" type="m" corresp="#s1:l3">draag</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ik kan niet klagen, neen ô <rhyme label="a" type="m">neen</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Hoe veel mijn Liefde heeft om u <rhyme label="a" type="m" corresp="#s2:l1">geleen</rhyme>.</l>
+        <l id="s2:l3" met="5" type="-+">En of ik klaag, gy lacht om mijn <rhyme label="b" type="m">geluyd</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Mijn klacht helaas my op mijn lipjes <rhyme label="b" type="m" corresp="#s2:l3">stuyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wanneer wy sitten zy aan <rhyme label="a" type="m">zy</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">Voel ik een brand, die gloeyend is, in <rhyme label="a" type="m" corresp="#s3:l1">my</rhyme>:</l>
+        <l id="s3:l3" met="5" type="-+">Mijn lichgaam blaakt en sweet door heete <rhyme label="b" type="m">min</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Gy niet een droppel slurpt ten boesem <rhyme label="b" type="m" corresp="#s3:l3">in</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ik heb nu al mijn wil <rhyme label="a" type="m">ontbloot</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">En u door suyv're Trow ten Echt <rhyme label="a" type="m" corresp="#s4:l1">genoot</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">U schoon gelaat, dat ik eerbiedig <rhyme label="b" type="m">smeek</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">Om weedermin, noyt uyt mijn oogen <rhyme label="b" type="m" corresp="#s4:l3">week</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Dat ik u derf valt my te <rhyme label="a" type="m">suur</rhyme>,</l>
+        <l id="s5:l2" met="5" type="-+">Uw droevig afsijn stookt mijn <rhyme label="a" type="m" corresp="#s5:l1">minne-vuur</rhyme>,</l>
+        <l id="s5:l3" met="5" type="-+">Ik volg alleen u, als mijn Noord-star, <rhyme label="b" type="m">na</rhyme>,</l>
+        <l id="s5:l4" met="5" type="-+">Ey geef my, of ik sterf, het blijde <rhyme label="b" type="m" corresp="#s5:l3">Ja</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

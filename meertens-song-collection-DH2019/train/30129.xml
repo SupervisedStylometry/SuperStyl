@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>30129</id>
+    <date>
+      <year-start>1591</year-start>
+      <year-end>1591</year-end>
+    </date>
+    <location>
+      <orginal-name>middelburg</orginal-name>
+      <standard-name>Middelburg, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.4997302</lon>
+        <lat>3.6136962</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gezongen onze vader" translation="sung Lord's prayer">gezongen onze vader</tag>
+    </tags>
+    <melody>Psalm 023 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Philips van Marnix van Sint Aldegonde</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">ONs' Vader trou end vol <rhyme label="a" type="f">barmherticheden</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Die bist om hoog ind' hemelsche <rhyme label="a" type="f" corresp="#s1:l1">woinsteden</rhyme>:</l>
+        <l id="s1:l3" met="5" type="-+">Geheylicht werd' hier dijnen Naem <rhyme label="b" type="f">hoogweirdich</rhyme>.</l>
+        <l id="s1:l4" met="5" type="-+">Toekoim' dijn rijck end heerschappy <rhyme label="b" type="f" corresp="#s1:l3">rechtveirdich</rhyme>.</l>
+        <l id="s1:l5" met="5" type="-+">Laet dijnen wil op d'eird hier by ons <rhyme label="c" type="f">lieden</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Gelijck om hoog ind' Hemelen <rhyme label="c" type="f" corresp="#s1:l5">geschieden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Ons' daeglijcx broot geef ons den dach van <rhyme label="a" type="f">heden</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">End wil met ons in dijn gericht niet <rhyme label="a" type="f" corresp="#s2:l1">treden</rhyme>:</l>
+        <l id="s2:l3" met="5" type="-+">Maer ons vergeef ons' sonden <rhyme label="b" type="f">menichvuldich</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Also wy doen aen dien, die ons sijn <rhyme label="b" type="f" corresp="#s2:l3">schuldich</rhyme>.</l>
+        <l id="s2:l5" met="5" type="-+">End wil ons voorts in geen bekoring <rhyme label="c" type="f">vueren</rhyme>:</l>
+        <l id="s2:l6" met="5" type="-+">Maer vanden quaed' ons losse telcker <rhyme label="c" type="f" corresp="#s2:l5">ueren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Want dijn is trijck verr' over alle <rhyme label="a" type="f">rijcken</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Dijn is de cracht end macht aen alle <rhyme label="a" type="f" corresp="#s3:l1">wijcken</rhyme>:</l>
+        <l id="s3:l3" met="5" type="-+">End dy komt toe, lof, prijs end <rhyme label="b" type="f">heerlicheden</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Van eewicheyt tot alle <rhyme label="b" type="f" corresp="#s3:l3">eewicheden</rhyme>.</l>
+        <l id="s3:l5" met="5" type="-+">Verhoor ons dan, want wy dit al te <rhyme label="c" type="f">samen</rhyme></l>
+        <l id="s3:l6" met="5" type="-+">In Christi naem ootmoedich bidden: <rhyme label="c" type="f" corresp="#s3:l5">Amen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

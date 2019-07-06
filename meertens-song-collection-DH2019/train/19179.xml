@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19179</id>
+    <date>
+      <year-start>1611</year-start>
+      <year-end>1611</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Schoon lief wil mij troost geven</melody>
+  <author>Jan Jansz. Orlers</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">TIs noch gheen tijt van <rhyme label="a" type="f">scheyden</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Men moet noch langher <rhyme label="a" type="f" corresp="#s1:l1">beyden</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Die Bruydt is noch <rhyme label="b" type="m">present</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Tspul sal noch eerst <rhyme label="c" type="f">beginnen</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Apollo slacht met <rhyme label="c" type="f" corresp="#s1:l4">sinnen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Op snaren <rhyme label="b" type="m" corresp="#s1:l3">diligent</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Elck een sedt hem aen't <rhyme label="a" type="f">springhen</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Om vreuchde voort te <rhyme label="a" type="f" corresp="#s2:l1">bringhen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">T'is noch gheen tijt van <rhyme label="b" type="m">gaen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Die Bruydt moet eerst <rhyme label="c" type="f">besyden</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Dus wilt u doch <rhyme label="c" type="f" corresp="#s2:l4">verblyden</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Elck maeck hem op de <rhyme label="b" type="m" corresp="#s2:l3">baen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Comt Hymen blijdt van <rhyme label="a" type="f">gheeste</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Spoet u tot dese <rhyme label="a" type="f" corresp="#s3:l1">feeste</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Haest u niet lang en <rhyme label="b" type="m">toeft</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Verlicht der gasten <rhyme label="c" type="f">herten</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Van droefheyt en van <rhyme label="c" type="f" corresp="#s3:l4">smerten</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Laet niemant zijn <rhyme label="b" type="m" corresp="#s3:l3">bedroeft</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

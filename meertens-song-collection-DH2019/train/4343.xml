@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4343</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Pieter Dubbels</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">MIjn suik're Iaapje <rhyme label="a" type="m">Slurf</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">As ik de stroop mag <rhyme label="b" type="f">likken</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Uit jou konfijte <rhyme label="a" type="m" corresp="#s1:l1">murf</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Zo dangst men hart op <rhyme label="b" type="f" corresp="#s1:l2">krikken</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">'k Sweer bij men droge <rhyme label="a" type="m">keel</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">En al de <rhyme label="b" type="f">schelementen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Iou zelschop is zo <rhyme label="a" type="m" corresp="#s2:l1">eel</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Zo eel as kool mit <rhyme label="b" type="f" corresp="#s2:l2">krenten</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">As stremlis uit een <rhyme label="a" type="m">nap</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">As bolle veur een <rhyme label="b" type="f">slapert</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">As botter in de <rhyme label="a" type="m" corresp="#s3:l1">pap</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">As beuling in de <rhyme label="b" type="f" corresp="#s3:l2">gapert</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Mijn daget uit den <rhyme label="a" type="m">oost</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Slaet Lammert-oom niet heel <rhyme label="b" type="f">of</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">VVangt laetj' hem <rhyme label="a" type="m" corresp="#s4:l1">ongetroost</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Hij bijt hem zelfs de keel <rhyme label="b" type="f" corresp="#s4:l2">of</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

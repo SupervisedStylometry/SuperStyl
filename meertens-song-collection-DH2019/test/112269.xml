@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>112269</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">VRaag tog niet, wat myn treurende <rhyme label="a" type="f">oogjes</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Doet smelten in haar teere <rhyme label="a" type="f" corresp="#s1:l1">boogjes</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">Helaas! uw oogjes zie ik <rhyme label="b" type="m">niet</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Maar Roosje, zo ik die moet <rhyme label="c" type="f">derven</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Vergun tog. dat in myn <rhyme label="b" type="m" corresp="#s1:l3">verdriet</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Uw oogjes zien voor wie ik <rhyme label="c" type="f" corresp="#s1:l4">sterve</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

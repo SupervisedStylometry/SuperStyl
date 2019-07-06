@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>129643</id>
+    <date>
+      <year-start>1708</year-start>
+      <year-end>1708</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>C'est le dieu des eaux qui va paraître</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">Ag, wat is het zoet daar twee <rhyme label="a" type="f">beminne</rhyme>!</l>
+        <l id="s1:l2" met="4" type="+-">‘k Zou het haast wel me   <rhyme label="a" type="f" corresp="#s1:l1">beginnen</rhyme></l>
+        <l id="s1:l3" met="5" type="+-">Als ik zie de Liefjes saam <rhyme label="b" type="f">vergaaren</rhyme></l>
+        <l id="s1:l4" met="5" type="+-">En hoese in hun schik zyn en <rhyme label="c" type="m">verheugd</rhyme></l>
+        <l id="s1:l5" met="6" type="-+">En even bly An wederzy: Hoe zoet is ‘t <rhyme label="b" type="f" corresp="#s1:l3">paren</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Als men mint in eer en <rhyme label="c" type="m" corresp="#s1:l4">deugd</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Wel, ik wil ‘er my dan na gaan <rhyme label="a" type="f">stellen</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Om een Schoone te <rhyme label="a" type="f" corresp="#s2:l1">verzellen</rhyme></l>
+        <l id="s2:l3" met="5" type="+-">En de zoetigheên mê te <rhyme label="b" type="f">genieten</rhyme></l>
+        <l id="s2:l4" met="5" type="+-">Van het zuiver maagdelyk <rhyme label="c" type="m">geslagt</rhyme></l>
+        <l id="s2:l5" met="6" type="-+">Dat aan geen mensch - Krygt hy zyn wensch – Ooit kan <rhyme label="b" type="f" corresp="#s2:l3">verdrieten</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Daar men anders met ons <rhyme label="c" type="m" corresp="#s2:l4">lagt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

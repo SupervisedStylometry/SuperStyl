@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6150</id>
+    <date>
+      <year-start>1621</year-start>
+      <year-end>1621</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Psalm 008 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Hugo de Groot</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">'K Gheloof in God, die't al vermagh den <rhyme label="a" type="f">vader</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Die hemel, aerd' end' ons schiep <rhyme label="a" type="f" corresp="#s1:l1">allegader</rhyme>.</l>
+        <l id="s1:l3" met="5" type="-+">In Iesus oock zijn eenghebooren <rhyme label="b" type="m">kind</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Van hem ghesalft, ons Heer die ons <rhyme label="b" type="m" corresp="#s1:l3">bemint</rhyme>:</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Ontfanghen uyt den Geest der <rhyme label="a" type="f">prophetie</rhyme>:</l>
+        <l id="s2:l2" met="5" type="-+">Gheboren uyt de reyne maeghd <rhyme label="a" type="f" corresp="#s2:l1">Marie</rhyme>:</l>
+        <l id="s2:l3" met="5" type="-+">Dien Pontius Pilatus lijden <rhyme label="b" type="m">dee'</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">So dat hy is ghekruyst ghestorven <rhyme label="b" type="m" corresp="#s2:l3">mee'</rhyme>,</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">In't graf geleyt, als t'hellewaert <rhyme label="a" type="f">ghesegen</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Maer 'sderdendaegs weer levend' <rhyme label="a" type="f" corresp="#s3:l1">opgestegen</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Ten hemelwaert ghevoert, gheseten <rhyme label="b" type="m">by</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Zijns vaders Gods Almachtigh <rhyme label="b" type="m" corresp="#s3:l3">rechterzy</rhyme>,</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Van waer hy weer sal comen vonnis <rhyme label="a" type="f">gheven</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">Aen allen die of dood zijn of noch <rhyme label="a" type="f" corresp="#s4:l1">leven</rhyme>.</l>
+        <l id="s4:l3" met="5" type="-+">Oock in den geest die werct al 'theyligh <rhyme label="b" type="m">werck</rhyme>:</l>
+        <l id="s4:l4" met="5" type="-+">Ende datter is een alghemeyne <rhyme label="b" type="m" corresp="#s4:l3">kerck</rhyme>:</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Dat d'heyllighen te samen zijn <rhyme label="a" type="f">ghebonden</rhyme>:</l>
+        <l id="s5:l2" met="5" type="-+">Vergiffenis gheloof ick van de <rhyme label="a" type="f" corresp="#s5:l1">sonden</rhyme>:</l>
+        <l id="s5:l3" met="5" type="-+">'Topstaen des vleeschs: een leven sonder <rhyme label="b" type="m">pijn</rhyme></l>
+        <l id="s5:l4" met="5" type="-+">Ende sonder end': ja Amen 'tsal so <rhyme label="b" type="m" corresp="#s5:l3">zijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

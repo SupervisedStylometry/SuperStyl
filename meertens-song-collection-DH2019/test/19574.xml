@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19574</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">INdien ik wenkken darde’ u lieve <rhyme label="a" type="m">lonkkeroog</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Ik zoud ‘et doen; maar ‘tgaatme schier te <rhyme label="a" type="m" corresp="#s1:l1">hoog</rhyme>.</l>
+        <l id="s1:l3" met="5" type="-+">Ha oogjes, wenk my zelver, ik zal <rhyme label="b" type="f">naken</rhyme>;</l>
+        <l id="s1:l4" met="5" type="-+">Niet zlechts tot oogjes, maar tot mond, en <rhyme label="b" type="f" corresp="#s1:l3">kaken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

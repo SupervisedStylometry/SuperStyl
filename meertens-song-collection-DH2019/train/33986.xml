@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>33986</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
+    </tags>
+    <melody>Nerea schoonste van uw geburen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacob Rosant</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ALs Jesus van het <rhyme label="a" type="f">Avond-male</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Was op-gestaen, en wilde <rhyme label="b" type="m">gaen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Met sijn Discipels uyt de <rhyme label="a" type="f" corresp="#s1:l1">Sale</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Sprak hy haer voor het lest dus <rhyme label="b" type="m" corresp="#s1:l2">aen</rhyme>:</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als gy-lie hebben sult <rhyme label="a" type="f">gekreegen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Den Trooster, dien ik senden <rhyme label="b" type="m">sal</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Des Waerheyts Geest, die komt <rhyme label="a" type="f" corresp="#s2:l1">geseegen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Van mijn Vaêr, sal getuygen <rhyme label="b" type="m" corresp="#s2:l2">al</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">En gy-lie van mijn ook sult <rhyme label="a" type="f">geeven</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Getuyghenisse; om dat <rhyme label="b" type="m">gy</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Van eersten bent met mijn <rhyme label="a" type="f" corresp="#s3:l1">gebleeven</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Dus u togh niet ontstight in <rhyme label="b" type="m" corresp="#s3:l2">my</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Sy u uyt hare <rhyme label="a" type="f">Synagogen</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Nogh sullen doen, en meenen <rhyme label="b" type="m">meed'</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Dat men u wel sal dooden <rhyme label="a" type="f" corresp="#s4:l1">mogen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">En Godt soo doen <rhyme label="b" type="m" corresp="#s4:l2">gedienstigheed'</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Dus sullen sy u-lie <rhyme label="a" type="f">tracteere</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Want sy mijn Vader, noghte <rhyme label="b" type="m">mijn</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">En kennen, 'k seght u, dat <rhyme label="a" type="f" corresp="#s5:l1">wanneere</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">'t Geschiet, gy moght gedaghtigh <rhyme label="b" type="m" corresp="#s5:l2">sijn</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">In 't eerst gaf ik 't u niet te <rhyme label="a" type="f">kennen</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Om dat ik nogh met u-lie <rhyme label="b" type="m">bleef</rhyme>.</l>
+        <l id="s6:l3" met="4" type="-+">O Heer, wilt u niet van ons <rhyme label="a" type="f" corresp="#s6:l1">wennen</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Ons haestelik den Trooster <rhyme label="b" type="m" corresp="#s6:l2">geef</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

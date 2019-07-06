@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>11532</id>
+    <date>
+      <year-start>1627</year-start>
+      <year-end>1627</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ICk bid u, mijn goe <rhyme label="a" type="f">gesellen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Doet als ick, dit is mijn <rhyme label="b" type="m">wins</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Laet ons 't quaet ter syden <rhyme label="a" type="f" corresp="#s1:l1">stellen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">En roepen langh leeft de <rhyme label="b" type="m" corresp="#s1:l2">Prins</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Lang leeft de Prins, lang leeft de <rhyme label="b" type="m" corresp="#s1:l2">Prins</rhyme></l>
+        <l id="s1:l6" met="7" type="+-">Laet ons cieren met klim-op 't hooft van onse fraye <rhyme label="c" type="f">basen</rhyme></l>
+        <l id="s1:l7" met="5" type="+-">En roepen nacht en dag, oorlog, <rhyme label="d" type="m">oorlog</rhyme>,</l>
+        <l id="s1:l8" met="5" type="-+">Oorlogh, oorlogh, oorlogen wy met <rhyme label="c" type="f" corresp="#s1:l6">glasen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ghy Capiteyns en <rhyme label="a" type="f">Soldaten</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Wegh met 't Harnas, 't mach geen <rhyme label="b" type="m">scha</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Wilt voor u leveray <rhyme label="a" type="f" corresp="#s2:l1">an-vaten</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Een groote kan wijntje la <rhyme label="b" type="m" corresp="#s2:l2">la</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Wijntje la la, wijntje la <rhyme label="b" type="m" corresp="#s2:l2">la</rhyme>,</l>
+        <l id="s2:l6" met="7" type="+-">En roepen met luyder stem, wat quelt ons 't stormen, 't <rhyme label="c" type="f">rasen</rhyme>,</l>
+        <l id="s2:l7" met="5" type="+-">'t Is nu al nacht en dagh, oorlogh, <rhyme label="d" type="m">oorlogh</rhyme>,</l>
+        <l id="s2:l8" met="5" type="-+">Oorlogh, oorlogh, oorlogen wy met <rhyme label="c" type="f" corresp="#s2:l6">glasen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Langh leven de bloode <rhyme label="a" type="f">guylen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Sy zijn in geloof <rhyme label="b" type="m">geraeckt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Alle twist moet sich <rhyme label="a" type="f" corresp="#s3:l1">verschuylen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">'t Is belast, elck oorlogh <rhyme label="b" type="m" corresp="#s3:l2">staeckt</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Elck oorlogh staeckt, elck oorlogh <rhyme label="b" type="m" corresp="#s3:l2">staeckt</rhyme>,</l>
+        <l id="s3:l6" met="7" type="+-">Mars omhelst Cypria, hy schuwt het schieten, 't <rhyme label="c" type="f">blasen</rhyme>,</l>
+        <l id="s3:l7" met="5" type="+-">'t Is daerom nacht en dagh, oorlogh, <rhyme label="d" type="m">oorlogh</rhyme>,</l>
+        <l id="s3:l8" met="5" type="-+">Oorlogh, oorlogh, oorlogen wy met <rhyme label="c" type="f" corresp="#s3:l6">glasen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

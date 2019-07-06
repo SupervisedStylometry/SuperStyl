@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175131</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Roggebrood en <rhyme label="a" type="m">wittebrood</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">Dat 'hoort op <rhyme label="b" type="f">elkander</rhyme>!</l>
+        <l id="s1:l3" met="3" type="+-">Eet ge 't een vóór 't <rhyme label="b" type="f" corresp="#s1:l2">ander</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Och! gij brengt u zelv' in <rhyme label="a" type="m" corresp="#s1:l1">nood</rhyme>!</l>
+        <l id="s1:l5" met="4" type="+-">Roggebrood moet óók <rhyme label="c" type="f">gegeten</rhyme>;</l>
+        <l id="s1:l6" met="4" type="+-">Is er 't wittebrood <rhyme label="d" type="m">doorheen</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Dan, gij dient het maar te <rhyme label="c" type="f" corresp="#s1:l5">weten</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Eet ge 't roggebrood <rhyme label="d" type="m" corresp="#s1:l6">alléén</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Rust en werk - en werk en <rhyme label="a" type="m">rust</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">'Hooren bij <rhyme label="b" type="f">elkander</rhyme>!</l>
+        <l id="s2:l3" met="3" type="+-">Doet gij 't een vóór 't <rhyme label="b" type="f" corresp="#s2:l2">ander</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Och! gij maakt u last van <rhyme label="a" type="m" corresp="#s2:l1">lust</rhyme>!</l>
+        <l id="s2:l5" met="4" type="+-">Ieders taak moet <rhyme label="c" type="f">afgeweven</rhyme>:</l>
+        <l id="s2:l6" met="4" type="+-">Wie te gaauw te rusten <rhyme label="d" type="m">tracht</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Loopt gevaar zijn heele <rhyme label="c" type="f" corresp="#s2:l5">leven</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Dat hem nooit weêr rust <rhyme label="d" type="m" corresp="#s2:l6">verwacht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

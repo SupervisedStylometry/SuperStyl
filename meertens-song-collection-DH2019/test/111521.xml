@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111521</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Engelse bourrée</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Indien gy maar blyft <rhyme label="a" type="f">bestendig</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">By u eens gegeven <rhyme label="b" type="m">Woord</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Sal myn Min ook zyn <rhyme label="a" type="f" corresp="#s1:l1">on-endig</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Gy die my eens hebt <rhyme label="b" type="m" corresp="#s1:l2">bekoord</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Suld ook blyven myn <rhyme label="c" type="f">Meest'resse</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">En myn eenigste <rhyme label="c" type="f" corresp="#s1:l5">Voogdesse</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Schoon de Tyd die alles <rhyme label="b" type="m" corresp="#s1:l2">smoord</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Ons staag aanport tot <rhyme label="d" type="f">verand'ren</rhyme></l>
+        <l id="s1:l9" met="4" type="+-">Sullen wy in <rhyme label="e" type="m">eeuwigheid</rhyme>,</l>
+        <l id="s1:l10" met="4" type="+-">Even vuuriglyk, <rhyme label="d" type="f" corresp="#s1:l8">malkand'ren</rhyme></l>
+        <l id="s1:l11" met="4" type="+-">Minnen, tot de Dood ons <rhyme label="e" type="m" corresp="#s1:l9">scheid</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Maar wat mag uw zorg dog <rhyme label="a" type="f">baten</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Wyl ik u, myn <rhyme label="b" type="m">Engelin</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">In myn heengaan 't Hert wil <rhyme label="a" type="f" corresp="#s2:l1">laten</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Tot een pand van myne <rhyme label="b" type="m" corresp="#s2:l2">min</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Laat ik 't u dan ook mee <rhyme label="c" type="f">dragen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Staak dog uw onnodig <rhyme label="c" type="f" corresp="#s2:l5">klagen</rhyme>;</l>
+        <l id="s2:l7" met="4" type="+-">Gy heerscht eeuwig in myn <rhyme label="b" type="m" corresp="#s2:l2">sin</rhyme>.</l>
+        <l id="s2:l8" met="4" type="+-">Phillis! laat dan ook myn <rhyme label="d" type="f">afzyn</rhyme></l>
+        <l id="s2:l9" met="4" type="+-">Niet verdoven uwe <rhyme label="e" type="m">gloed</rhyme>,</l>
+        <l id="s2:l10" met="4" type="+-">Het zal my genoeg tot Straf <rhyme label="d" type="f" corresp="#s2:l8">zyn</rhyme>,</l>
+        <l id="s2:l11" met="4" type="+-">Dat ik uw dus missen <rhyme label="e" type="m" corresp="#s2:l9">moet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

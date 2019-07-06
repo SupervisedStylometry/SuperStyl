@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>40721</id>
+    <date>
+      <year-start>1681</year-start>
+      <year-end>1681</year-end>
+    </date>
+    <location>
+      <orginal-name>leeuwarden</orginal-name>
+      <standard-name>Leeuwarden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>53.2005936</lon>
+        <lat>5.7918548</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Si c'est pour mon pucelage</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Gysbert Japicx</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">LJeafke lit uwz sobbje' in <rhyme label="a" type="f">fabbje</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">t'Wijl 't uwz muwlket, ljoent, in <rhyme label="b" type="m">lest</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Dat iz immers fier' wey <rhyme label="b" type="m" corresp="#s1:l2">best</rhyme>.</l>
+        <l id="s1:l4" met="4" type="+-">Litse gnorje' in uwz <rhyme label="a" type="f" corresp="#s1:l1">belabbje</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Waems fjoer is oon yessche <rhyme label="c" type="m">terd</rhyme>.</l>
+        <l id="s1:l6" met="4" type="+-">Alle dwaen het tijd in <rhyme label="c" type="m" corresp="#s1:l5">berd</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Sinne in Moanne, rijzje' in <rhyme label="a" type="f">duwckje</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Simmer, Winter, Foar-jier, <rhyme label="b" type="m">Hearst</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Eynje', in libbje' alweer az <rhyme label="b" type="m" corresp="#s2:l2">eerst</rhyme>.</l>
+        <l id="s2:l4" met="4" type="+-">Tuwttelke', az w'uwz tijd naet <rhyme label="a" type="f" corresp="#s2:l1">bruwckje</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Nu-se' uwz tjienet, jae rint <rhyme label="c" type="m">t'eyn</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Mar wa till't weer holle' <rhyme label="c" type="m" corresp="#s2:l5">oer-eyn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Pajerke, mijn swiet <rhyme label="a" type="f">formeytsen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Dy my de Hijmmelsch' swietheyt <rhyme label="b" type="m">jout</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Jouw' my hondert paetkes, <rhyme label="b" type="m" corresp="#s3:l2">bout</rhyme>!</l>
+        <l id="s3:l4" met="4" type="+-">Dat it uwz yn 't hert môt <rhyme label="a" type="f" corresp="#s3:l1">reytse</rhyme>:</l>
+        <l id="s3:l5" met="4" type="+-">Pae my hondert reysen <rhyme label="c" type="m">tjien</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Tuwt du wistet het ick <rhyme label="c" type="m" corresp="#s3:l5">mien</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Hondert-tuwzen paetkes <rhyme label="a" type="f">jiette</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Tuwzen-tuwzen paeen dear <rhyme label="b" type="m">to</rhyme>:</l>
+        <l id="s4:l3" met="4" type="+-">Bin ick gick! het ealje' ick? <rhyme label="b" type="m" corresp="#s4:l2">ho</rhyme>!</l>
+        <l id="s4:l4" met="4" type="+-">Lit uwz paetke', ô liordigh' <rhyme label="a" type="f" corresp="#s4:l1">swiete</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">Oon uwz lust-eyn, buwtte <rhyme label="c" type="m">tol</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Swiet', uwz swiete buwck swiet <rhyme label="c" type="m" corresp="#s4:l5">fol</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

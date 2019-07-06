@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>114256</id>
+    <date>
+      <year-start>1745</year-start>
+      <year-end>1745</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Robin turelurelure</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">LAet ons lustig vrolyk <rhyme label="a" type="m">zyn</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">En de Vreugd doen altoos <rhyme label="b" type="f">dure</rhyme>;</l>
+        <l id="s1:l3" met="4" type="+-">Laet ons feppen van dees <rhyme label="a" type="m" corresp="#s1:l1">Wyn</rhyme>,</l>
+        <l id="s1:l4" met="2" type="+-">Ture <rhyme label="b" type="f" corresp="#s1:l2">Lure</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">En laet dat zoo altoos <rhyme label="b" type="f" corresp="#s1:l2">dure</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Robin Ture Lure <rhyme label="b" type="f" corresp="#s1:l2">Lure</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Wat is beter op der <rhyme label="a" type="m">Aerd</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Als de Vriendschap te doen <rhyme label="b" type="f">dure</rhyme>?</l>
+        <l id="s2:l3" met="4" type="+-">Waerom dan den Wyn <rhyme label="a" type="m" corresp="#s2:l1">gespaerd</rhyme>?</l>
+        <l id="s2:l4" met="2" type="+-">Ture <rhyme label="b" type="f" corresp="#s2:l2">Lure</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Die de Vreugd in 't hart kan <rhyme label="b" type="f" corresp="#s2:l2">sture</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Robin Ture Lure <rhyme label="b" type="f" corresp="#s2:l2">Lure</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">'k Brengt je dan myn Waerde <rhyme label="a" type="m">Vrint</rhyme>;</l>
+        <l id="s3:l2" met="4" type="+-">Maer wild ook de malle <rhyme label="b" type="f">kure</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Haten van het blinde <rhyme label="a" type="m" corresp="#s3:l1">Kint</rhyme>:</l>
+        <l id="s3:l4" met="2" type="+-">Ture <rhyme label="b" type="f" corresp="#s3:l2">Lure</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Die berouw en smart doen <rhyme label="b" type="f" corresp="#s3:l2">dure</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Robin Ture Lure <rhyme label="b" type="f" corresp="#s3:l2">Lure</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Veegt dit Glaesje tot de <rhyme label="a" type="m">gront</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Brengt het aen een van je <rhyme label="b" type="f">Bure</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Vuld en zet het aen je <rhyme label="a" type="m" corresp="#s4:l1">Mont</rhyme>,</l>
+        <l id="s4:l4" met="2" type="+-">Ture <rhyme label="b" type="f" corresp="#s4:l2">Lure</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">En laet dat zoo altoos <rhyme label="b" type="f" corresp="#s4:l2">dure</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Robin Ture Lure <rhyme label="b" type="f" corresp="#s4:l2">Lure</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

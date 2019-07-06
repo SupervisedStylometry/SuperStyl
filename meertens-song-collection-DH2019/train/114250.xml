@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>114250</id>
+    <date>
+      <year-start>1745</year-start>
+      <year-end>1745</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Attendez-moi sous l'orme</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">VErlaet nu <rhyme label="a" type="f">d'Eenzaemhede</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Bos Goon, ei toeft niet <rhyme label="b" type="m">lang</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Schiet toe met vlugge <rhyme label="a" type="f" corresp="#s1:l1">schreden</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Op 't zoet van myn <rhyme label="b" type="m" corresp="#s1:l2">gezang</rhyme>;</l>
+        <l id="s1:l5" met="3" type="-+">Wilt van myn schoone <rhyme label="c" type="f">zingen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">De lust van myne <rhyme label="d" type="m">jeugt</rhyme>;</l>
+        <l id="s1:l7" met="3" type="-+">Maekt zelfs de <rhyme label="c" type="f" corresp="#s1:l5">Hemelingen</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Jalours van myn <rhyme label="d" type="m" corresp="#s1:l6">geneugt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Gy Flora waert te <rhyme label="a" type="f">roemen</rhyme>!</l>
+        <l id="s2:l2" met="3" type="-+">Neemt uwe Glans weer <rhyme label="b" type="m">aen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Ziert u nogmaels met <rhyme label="a" type="f" corresp="#s2:l1">Bloemen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Zoo ze in de Lente <rhyme label="b" type="m" corresp="#s2:l2">staen</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Begeeft u met <rhyme label="c" type="f">Pomone</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Tot Ziering van dees <rhyme label="d" type="m">oort</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Wild dezen Herfst <rhyme label="c" type="f" corresp="#s2:l5">bekrone</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Dat hy elk een <rhyme label="d" type="m" corresp="#s2:l6">bekoort</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Vergaert by d'Eike <rhyme label="a" type="f">bomen</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Gy Nachtegaels des <rhyme label="b" type="m">Wouts</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Stel na 't geruis der <rhyme label="a" type="f" corresp="#s3:l1">Stromen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Uw keeltjes als van <rhyme label="b" type="m" corresp="#s3:l2">Outs</rhyme>;</l>
+        <l id="s3:l5" met="3" type="-+">Wilt van myn schoone <rhyme label="c" type="f">zingen</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">De Lust van myne <rhyme label="d" type="m">jeugt</rhyme>;</l>
+        <l id="s3:l7" met="3" type="-+">Maekt zelfs de <rhyme label="c" type="f" corresp="#s3:l5">Hemelingen</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Jalours van myn <rhyme label="d" type="m" corresp="#s3:l6">geneugt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

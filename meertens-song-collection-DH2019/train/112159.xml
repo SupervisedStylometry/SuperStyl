@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>112159</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="advieslied" translation="advice song">advieslied</tag>
+    </tags>
+    <melody>Pourquoi n'avoir pas le coeur tendre</melody>
+    <categories>
+      <category translation="miscellaneous">allerlei soorten liederen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">ZOtje, wat doeje? waar <rhyme label="a" type="f">benje</rhyme>?</l>
+        <l id="s1:l2" met="3" type="+-">Dat je gaat zoeken een <rhyme label="b" type="m">wyf</rhyme>.</l>
+        <l id="s1:l3" met="4" type="+-">Myn slap en kromme bloet beulingje <rhyme label="a" type="f" corresp="#s1:l1">kenje</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Wel zonder vouwen regt staan op je <rhyme label="b" type="m" corresp="#s1:l2">lyf</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Zy heeft, hoor ik, achtien <rhyme label="a" type="f">jaren</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">En hy tachtig na je <rhyme label="b" type="m">rug</rhyme>.</l>
+        <l id="s2:l3" met="4" type="+-">'t Is of met een spinnekop wou gaan <rhyme label="a" type="f" corresp="#s2:l1">paren</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Een vliegje, of met het kaarslicht een <rhyme label="b" type="m" corresp="#s2:l2">mug</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="+-">Zy zal jou wel ras <rhyme label="a" type="f">vermoorden</rhyme></l>
+        <l id="s3:l2" met="3" type="+-">En je pieren, waar ze <rhyme label="b" type="m">kan</rhyme>.</l>
+        <l id="s3:l3" met="4" type="+-">Die diertjes zyn nooit te payen met <rhyme label="a" type="f" corresp="#s3:l1">woorden</rhyme>;</l>
+        <l id="s3:l4" met="4" type="+-">Daar moet gezweet en gewerrikt zyn <rhyme label="b" type="m" corresp="#s3:l2">Man</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="+-">Aars zal zy'er ras een <rhyme label="a" type="f">vinden</rhyme></l>
+        <l id="s4:l2" met="3" type="+-">Die al die schade <rhyme label="b" type="m">vergoet</rhyme>.</l>
+        <l id="s4:l3" met="4" type="+-">Dies luister, nu 't tyd is, na raad van je <rhyme label="a" type="f" corresp="#s4:l1">vrinden</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">En trouw jy liever jou rochelpot, <rhyme label="b" type="m" corresp="#s4:l2">Bloet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

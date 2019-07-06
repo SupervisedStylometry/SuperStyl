@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2525</id>
+    <date>
+      <year-start>1622</year-start>
+      <year-end>1622</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Het waren twee gespelen stout</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Al ben ic schoon Liefje niet machtig <rhyme label="a" type="m">rijck</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Ick ben ten minsten als mijns <rhyme label="a" type="m" corresp="#s1:l1">ghelijck</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Wat geef ick om 't <rhyme label="b" type="m">goet</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Wat geef ick om 't <rhyme label="b" type="m" corresp="#s1:l3">goet</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">De beste rijckdommen leggen in 't <rhyme label="b" type="m" corresp="#s1:l3">gemoet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ick laet den gierigaert na schatten <rhyme label="a" type="m">sien</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">En den staet-suchtigen na het <rhyme label="a" type="m" corresp="#s2:l1">gebien</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Ick geer, o mijn <rhyme label="b" type="m">schoon</rhyme>!</l>
+        <l id="s2:l4" met="2" type="-+">Ick geer, o mijn <rhyme label="b" type="m" corresp="#s2:l3">schoon</rhyme>!</l>
+        <l id="s2:l5" met="4" type="-+">Geen Konings scepter, noch Keysers <rhyme label="b" type="m" corresp="#s2:l3">kroon</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Want de rust en opperste wel-lust <rhyme label="a" type="m">leyt</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">In een onbekommerde <rhyme label="a" type="m" corresp="#s3:l1">vernoegelijckheyt</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">En niet in het <rhyme label="b" type="m">geld</rhyme>,</l>
+        <l id="s3:l4" met="2" type="-+">En niet in het <rhyme label="b" type="m" corresp="#s3:l3">geld</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Dat staegh zijn meester met sorgen <rhyme label="b" type="m" corresp="#s3:l3">queld</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Daerom Princesse so acht ick <rhyme label="a" type="m">aldermeest</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">De gaven van u doorluchtigen <rhyme label="a" type="m" corresp="#s4:l1">geest</rhyme>,</l>
+        <l id="s4:l3" met="2" type="-+">En u hooch <rhyme label="b" type="m">vernuft</rhyme>,</l>
+        <l id="s4:l4" met="2" type="-+">En u hooch <rhyme label="b" type="m" corresp="#s4:l3">vernuft</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Dat al de werelt braveert en <rhyme label="b" type="m" corresp="#s4:l3">puft</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

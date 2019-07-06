@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34672</id>
+    <date>
+      <year-start>1651</year-start>
+      <year-end>1651</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
+    </tags>
+    <melody>O schone Jessebloem</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Philippus Jennyn</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O Schoone <rhyme label="a" type="m">Jesse-blom</rhyme> !</l>
+        <l id="s1:l2" met="3" type="-+">Ick heet' u <rhyme label="a" type="m" corresp="#s1:l1">willecom</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Die zijt <rhyme label="a" type="m" corresp="#s1:l1">alom</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Mijns ziele <rhyme label="a" type="m" corresp="#s1:l1">Bruydegom</rhyme>:</l>
+        <l id="s1:l5" met="2" type="-+">Mijns herte <rhyme label="b" type="m">lust</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">(Door liefde noyt <rhyme label="b" type="m" corresp="#s1:l5">gheblust</rhyme>)</l>
+        <l id="s1:l7" met="2" type="-+">Naer u soo <rhyme label="b" type="m" corresp="#s1:l5">dust</rhyme>;</l>
+        <l id="s1:l8" met="2" type="-+">Kom // <rhyme label="a" type="m" corresp="#s1:l1">Bruydegom</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">En in mijn' ziele <rhyme label="b" type="m" corresp="#s1:l5">rust</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">O alder-soetste <rhyme label="a" type="m">Kindt</rhyme> !</l>
+        <l id="s2:l2" met="3" type="-+">Terwijl' den stueren <rhyme label="a" type="m" corresp="#s2:l1">windt</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">(Die 't al <rhyme label="a" type="m" corresp="#s2:l1">verslint</rhyme>)</l>
+        <l id="s2:l4" met="3" type="-+">Sich noordt, of oost <rhyme label="a" type="m" corresp="#s2:l1">bevindt</rhyme>:</l>
+        <l id="s2:l5" met="2" type="-+">O teerste <rhyme label="b" type="m">Vrucht</rhyme> !</l>
+        <l id="s2:l6" met="3" type="-+">Verlaet de koude <rhyme label="b" type="m" corresp="#s2:l5">lucht</rhyme>,</l>
+        <l id="s2:l7" met="2" type="-+">En niet en <rhyme label="b" type="m" corresp="#s2:l5">sucht</rhyme>;</l>
+        <l id="s2:l8" met="2" type="-+">Kom // <rhyme label="a" type="m" corresp="#s2:l1">Bruydegom</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">En in mijn' ziele <rhyme label="b" type="m" corresp="#s2:l5">vlucht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Heeft u in't Huys van <rhyme label="a" type="m">Broodt</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Van wt des Vaders <rhyme label="a" type="m" corresp="#s3:l1">schoot</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">De liefde <rhyme label="a" type="m" corresp="#s3:l1">groot</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Ghebrocht in desen <rhyme label="a" type="m" corresp="#s3:l1">noot</rhyme> ?</l>
+        <l id="s3:l5" met="2" type="-+">Kindt, vol <rhyme label="b" type="m">ghedult</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Ick weet dat ghy mijn <rhyme label="b" type="m" corresp="#s3:l5">schult</rhyme></l>
+        <l id="s3:l7" met="2" type="-+">Vergheven <rhyme label="b" type="m" corresp="#s3:l5">sult</rhyme>;</l>
+        <l id="s3:l8" met="2" type="-+">Kom // <rhyme label="a" type="m" corresp="#s3:l1">Bruydegom</rhyme>,</l>
+        <l id="s3:l9" met="3" type="-+">En onse ziele <rhyme label="b" type="m" corresp="#s3:l5">vult</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Verlaet ghy het <rhyme label="a" type="m">ghesticht</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Des Hemels, soo <rhyme label="a" type="m" corresp="#s4:l1">verlicht</rhyme>,</l>
+        <l id="s4:l3" met="2" type="-+">Om het <rhyme label="a" type="m" corresp="#s4:l1">ghesicht</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Van uwe Bruydt, die <rhyme label="a" type="m" corresp="#s4:l1">ghicht</rhyme> ?</l>
+        <l id="s4:l5" met="2" type="-+">Maeckt haer <rhyme label="b" type="m">verschoont</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">En haer, die liefde <rhyme label="b" type="m" corresp="#s4:l5">toont</rhyme>,</l>
+        <l id="s4:l7" met="2" type="-+">Met liefde <rhyme label="b" type="m" corresp="#s4:l5">kroont</rhyme>;</l>
+        <l id="s4:l8" met="2" type="-+">Kom // <rhyme label="a" type="m" corresp="#s4:l1">Bruydegom</rhyme>,</l>
+        <l id="s4:l9" met="3" type="-+">En in mijn ziele <rhyme label="b" type="m" corresp="#s4:l5">woont</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Terwijl' Herodes <rhyme label="a" type="m">sweirt</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">(Dat uwe doodt <rhyme label="a" type="m" corresp="#s5:l1">begeirt</rhyme>)</l>
+        <l id="s5:l3" met="2" type="-+">Alsnu <rhyme label="a" type="m" corresp="#s5:l1">verteirt</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Soo veel bloedts, dat ons <rhyme label="a" type="m" corresp="#s5:l1">deirt</rhyme>;</l>
+        <l id="s5:l5" met="2" type="-+">Mijn' ziel' <rhyme label="b" type="m">ontluyckt</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">Voor schuyl-plaets' haer <rhyme label="b" type="m" corresp="#s5:l5">ghebruyckt</rhyme>,</l>
+        <l id="s5:l7" met="2" type="-+">Sy is <rhyme label="b" type="m" corresp="#s5:l5">ghemuyckt</rhyme>;</l>
+        <l id="s5:l8" met="2" type="-+">Kom // <rhyme label="a" type="m" corresp="#s5:l1">Bruydegom</rhyme>,</l>
+        <l id="s5:l9" met="3" type="-+">En in mijn' ziele <rhyme label="b" type="m" corresp="#s5:l5">duyckt</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Weest Iesu, met <rhyme label="a" type="m">jolijt</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Ghelooft, <rhyme label="a" type="m" corresp="#s6:l1">ghebenedijt</rhyme>,</l>
+        <l id="s6:l3" met="2" type="-+">Die langhen <rhyme label="a" type="m" corresp="#s6:l1">tijt</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Mijn ziele hebt <rhyme label="a" type="m" corresp="#s6:l1">bevrijt</rhyme>:</l>
+        <l id="s6:l5" met="2" type="-+">Sy is <rhyme label="b" type="m">benauwt</rhyme>,</l>
+        <l id="s6:l6" met="3" type="-+">Als sy blijft <rhyme label="b" type="m" corresp="#s6:l5">onbedauwt</rhyme>,</l>
+        <l id="s6:l7" met="2" type="-+">En sy <rhyme label="b" type="m" corresp="#s6:l5">verflauwt</rhyme>;</l>
+        <l id="s6:l8" met="2" type="-+">Kom // <rhyme label="a" type="m" corresp="#s6:l1">Bruydegom</rhyme>,</l>
+        <l id="s6:l9" met="3" type="-+">V Bruydt, mijn ziele <rhyme label="b" type="m" corresp="#s6:l5">trauwt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

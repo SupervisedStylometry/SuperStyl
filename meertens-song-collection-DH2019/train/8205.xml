@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8205</id>
+    <date>
+      <year-start>1678</year-start>
+      <year-end>1678</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>La marine</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">WAt sijnder lenght van <rhyme label="a" type="f">Vrysters</rhyme>;</l>
+        <l id="s1:l2" met="3" type="-+">Wat sijnder schaers <rhyme label="b" type="m">Galans</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Al singen sy als <rhyme label="a" type="f" corresp="#s1:l1">Lijsters</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Noch locken sy geen <rhyme label="b" type="m" corresp="#s1:l2">mans</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Sy suchten onder 't <rhyme label="c" type="m">kruys</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Men hoort'er noyt <rhyme label="c" type="m" corresp="#s1:l5">gedruys</rhyme>,</l>
+        <l id="s1:l7" met="2" type="+-">Dat sijn <rhyme label="d" type="f">d'armen</rhyme>,</l>
+        <l id="s1:l8" met="2" type="+-">te <rhyme label="d" type="f" corresp="#s1:l7">ontfarmen</rhyme></l>
+        <l id="s1:l9" met="2" type="+-">Altijdt t' <rhyme label="c" type="m" corresp="#s1:l5">huys</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Daer staen sy voor de <rhyme label="a" type="f">glasen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Gelijck als een <rhyme label="b" type="m">Goddin</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">En sien veel noble <rhyme label="a" type="f" corresp="#s2:l1">basen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Maer niemant komt'er <rhyme label="b" type="m" corresp="#s2:l2">in</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Dit druckt'er vry wat <rhyme label="c" type="m">hert</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Al decken sy die <rhyme label="c" type="m" corresp="#s2:l5">smert</rhyme></l>
+        <l id="s2:l7" met="2" type="+-">Met stil <rhyme label="d" type="f">kermen</rhyme>,</l>
+        <l id="s2:l8" met="2" type="+-">dat zijn <rhyme label="d" type="f" corresp="#s2:l7">d'armen</rhyme>,</l>
+        <l id="s2:l9" met="2" type="+-">In haer <rhyme label="c" type="m" corresp="#s2:l5">hert</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Wat sal dit Volck <rhyme label="a" type="f">versinnen</rhyme>?</l>
+        <l id="s3:l2" met="3" type="-+">Ick weet noch hulp, noch <rhyme label="b" type="m">raet</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Men sal voor haer <rhyme label="a" type="f" corresp="#s3:l1">beginnen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Een Collect langhs de <rhyme label="b" type="m" corresp="#s3:l2">straet</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Van Mantels en van <rhyme label="c" type="m">Hoen</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Die zijnder doch van <rhyme label="c" type="m" corresp="#s3:l5">doen</rhyme>,</l>
+        <l id="s3:l7" met="2" type="+-">Om die <rhyme label="d" type="f">armen</rhyme>,</l>
+        <l id="s3:l8" met="2" type="+-">te <rhyme label="d" type="f" corresp="#s3:l7">omarmen</rhyme>,</l>
+        <l id="s3:l9" met="2" type="+-">met een <rhyme label="c" type="m" corresp="#s3:l5">soen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

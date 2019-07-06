@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100262</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Zij woont te Lokeren aan de fontein</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">WIens brave schoonheid alle glans <rhyme label="a" type="m">verdoofd</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">En 't stoutste hart zyn moedigheid <rhyme label="a" type="m" corresp="#s1:l1">ontroofd</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Is gantsch mistrouwd. Maar voelde zy eens <rhyme label="b" type="m">pyn</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Van min, 't zou my een droevig treurspel <rhyme label="b" type="m" corresp="#s1:l3">zyn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">'k Geloof niet, dat de schoonheid in de <rhyme label="a" type="m">min</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Meer loon heeft als de botte boersheid; <rhyme label="a" type="m" corresp="#s2:l1">in</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">Uw liefde zie ik, dat, ô schoonste <rhyme label="b" type="m">beeld</rhyme>!</l>
+        <l id="s2:l4" met="5" type="-+">Natuur die heeft u nergens <rhyme label="b" type="m" corresp="#s2:l3">misgedeeld</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Gelyk my ook de heersche Min God <rhyme label="a" type="m">ag</rhyme>!</l>
+        <l id="s3:l2" met="5" type="-+">Na dat 'k u eens met een swenkje <rhyme label="a" type="m" corresp="#s3:l1">zag</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">O schoonste parel voelde gy de <rhyme label="b" type="m">smart</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Die my nu drukt, zoo zouw uw killig <rhyme label="b" type="m" corresp="#s3:l3">hart</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Op eigen schoon met regt verlieven. <rhyme label="a" type="m">Want</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">Op 't schoonste schoon zoud vallen uwen <rhyme label="a" type="m" corresp="#s4:l1">brand</rhyme>:</l>
+        <l id="s4:l3" met="5" type="-+">Dat is, op uw. En zoo j' min <rhyme label="b" type="m">versmoord</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">Zoo sturf ik ook, om dat 'k bleef <rhyme label="b" type="m" corresp="#s4:l3">onverhoord</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

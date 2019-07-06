@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>115822</id>
+    <date>
+      <year-start>1694</year-start>
+      <year-end>1694</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="meilied" translation="May song">meilied</tag>
+    </tags>
+    <melody>Rigaudon Nu wees verblijd</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Nu weest verblyd, jong hert, in <rhyme label="a" type="f">zoetigheden</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Nu weest verblyd in dese <rhyme label="b" type="m">Lentetyd</rhyme>,</l>
+        <l id="s1:l3" met="8" type="+-">Nu wel aan, Nu wel aan, Laat ons vrolyk zyn en te <rhyme label="a" type="f" corresp="#s1:l1">vreden</rhyme>,</l>
+        <l id="s1:l4" met="8" type="+-">Nu wel aan, Nu wel aan, Want de blydschap kan niet <rhyme label="c" type="m">schaên</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Wat zou het zyn dat wy nu zouden <rhyme label="a" type="f">treuren</rhyme>,</l>
+        <l id="s2:l2" met="6" type="-+">Wat zou het zyn te leven in die <rhyme label="b" type="m">pyn</rhyme>,</l>
+        <l id="s2:l3" met="8" type="+-">Daar het zingt, daar het zingt, Dat'er vliegt of nau weet te <rhyme label="a" type="f" corresp="#s2:l1">neuren</rhyme>.</l>
+        <l id="s2:l4" met="8" type="+-">Daar het zingt, daar het zingt, Dat noch pas daar heenen <rhyme label="c" type="m">springt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Ay zie hoe bly staat alles nu te <rhyme label="a" type="f">pryken</rhyme>,</l>
+        <l id="s3:l2" met="6" type="-+">Ay zie hoe bly! wat haalt in vreugd daar <rhyme label="b" type="m">by</rhyme>?</l>
+        <l id="s3:l3" met="8" type="+-">En het lacht, En het lacht, U uit die dit staat aan te <rhyme label="a" type="f" corresp="#s3:l1">kyken</rhyme>,</l>
+        <l id="s3:l4" met="8" type="+-">En het lacht, En het lacht, Om u die dit niet en <rhyme label="c" type="m">acht</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Wilt dan uw jeugd en Lentetyd <rhyme label="a" type="f">gebruiken</rhyme>,</l>
+        <l id="s4:l2" met="6" type="-+">Wilt dan uw jeugd besteên in zoete <rhyme label="b" type="m">vreugd</rhyme>,</l>
+        <l id="s4:l3" met="8" type="+-">En wanneer, En wanneer zal uw Lentetyd weer <rhyme label="a" type="f" corresp="#s4:l1">ontluiken</rhyme>?</l>
+        <l id="s4:l4" met="8" type="+-">En wanneer, En wanneer die eens wech is komt hy <rhyme label="c" type="m">weêr</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

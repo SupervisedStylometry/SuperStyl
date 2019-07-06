@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176444</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+    </tags>
+    <melody>Psalm 116 Datheen</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">DE Roosen diemen ontrent Zaron <rhyme label="a" type="m">vint</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Dat soet' en schoone Lant, en hare <rhyme label="b" type="f">Bloemen</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">Die inde Dalen staen, [en men moet <rhyme label="b" type="f" corresp="#s1:l2">roemen</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Van wegen haten reuck, soo seer <rhyme label="a" type="m" corresp="#s1:l1">bemint</rhyme>.]</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Ben Ick gelijck: en ghy mijn Lieve <rhyme label="a" type="m">Bruyt</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Hoort, soo't u lust, en er-renst is te <rhyme label="b" type="f">weten</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Hoe ver' V schoonen glans wert <rhyme label="b" type="f" corresp="#s2:l2">uytgemeten</rhyme>;</l>
+        <l id="s2:l4" met="5" type="-+">En ghy by andr' in Heerlickheyt <rhyme label="a" type="m" corresp="#s2:l1">uytmuyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Soo ver, is uwen glans, en Trotsen <rhyme label="a" type="m">Hoorn</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">By Bastert-Kind'ren glans, in glans <rhyme label="b" type="f">verheven</rhyme>.</l>
+        <l id="s3:l3" met="5" type="-+">Alsmen den glans der Lelien siet <rhyme label="b" type="f" corresp="#s3:l2">sweven</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Ver boven 'thooft, van Stekels, en den <rhyme label="a" type="m" corresp="#s3:l1">Doorn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Gelijck m'een Appel-boom in't woeste <rhyme label="a" type="m">Wout</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">In vrucht, in deugt, in geur, siet <rhyme label="b" type="f">overtreffen</rhyme></l>
+        <l id="s4:l3" met="5" type="-+">Het geen' in't wilde wast; soo wijt <rhyme label="b" type="f" corresp="#s4:l2">verheffen</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">Wy van gelijck'u, boven 't <rhyme label="a" type="m" corresp="#s4:l1">dorre-hout</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">(Ick spreeck van Adams onbesnoeyde <rhyme label="a" type="m">kint</rhyme>.)</l>
+        <l id="s5:l2" met="5" type="-+">Myn Lief, ick heb een grooten lust te <rhyme label="b" type="f">sitten</rhyme></l>
+        <l id="s5:l3" met="5" type="-+">Aen uwe Zijd' in't midden vande <rhyme label="b" type="f" corresp="#s5:l2">hitte</rhyme>,</l>
+        <l id="s5:l4" met="5" type="-+">Doch meest als dan, wanneer ick vruchten <rhyme label="a" type="m" corresp="#s5:l1">vind</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

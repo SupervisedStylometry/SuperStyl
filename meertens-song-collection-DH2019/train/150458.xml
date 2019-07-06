@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>150458</id>
+    <date>
+      <year-start>1630</year-start>
+      <year-end>1630</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 061 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Dirk Rafaelsz. Camphuysen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">HOort mijn roepen, vaet mijn <rhyme label="a" type="f">bidden</rhyme>,</l>
+        <l id="s1:l2" met="2" type="+-">Godt die <rhyme label="a" type="f" corresp="#s1:l1">midden</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">In mijn hert-swijm zijt de <rhyme label="b" type="m">geen</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Daer ick (’tzy uyt welcken <rhyme label="c" type="f">hoecken</rhyme>)</l>
+        <l id="s1:l5" met="2" type="+-">Troost sal <rhyme label="c" type="f" corresp="#s1:l4">soecken</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Breng mijn voet ten vasten <rhyme label="b" type="m" corresp="#s1:l3">steen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Want op u, ten stercken <rhyme label="a" type="f">tooren</rhyme></l>
+        <l id="s2:l2" met="2" type="+-">
+          <rhyme label="a" type="f" corresp="#s2:l1">uytverkoren</rhyme>
+        </l>
+        <l id="s2:l3" met="4" type="+-">Tegen ’svyandts macht en <rhyme label="b" type="m">konst</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Hoopt’ ick oyt. En sal u <rhyme label="c" type="f">throonen</rhyme></l>
+        <l id="s2:l5" met="2" type="+-">Steedts <rhyme label="c" type="f" corresp="#s2:l4">bewoonen</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Steunend’ op u diepe <rhyme label="b" type="m" corresp="#s2:l3">gonst</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Ghy, Godt, stemde t’mijnen <rhyme label="a" type="f">wenschen</rhyme>.</l>
+        <l id="s3:l2" met="2" type="+-">En den <rhyme label="a" type="f" corresp="#s3:l1">menschen</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Die u vreesen schenckt gh’een <rhyme label="b" type="m">erff</rhyme>.</l>
+        <l id="s3:l4" met="4" type="+-">Lengen sult ghy ’sKonings <rhyme label="c" type="f">jaren</rhyme></l>
+        <l id="s3:l5" met="2" type="+-">En <rhyme label="c" type="f" corresp="#s3:l4">bewaren</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Sijn geslacht-ry voor <rhyme label="b" type="m" corresp="#s3:l3">versterff</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Dat hem uwe gunst <rhyme label="a" type="f">beadem</rhyme>,</l>
+        <l id="s4:l2" met="2" type="+-">Trouw <rhyme label="a" type="f" corresp="#s4:l1">om-vadem</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">En bewaer. op dat ick <rhyme label="b" type="m">magh</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">’tLoff uws naems met sang <rhyme label="c" type="f">ontdecken</rhyme>,</l>
+        <l id="s4:l5" met="2" type="+-">En <rhyme label="c" type="f" corresp="#s4:l4">voltrecken</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">Mijn geloften dagh aen <rhyme label="b" type="m" corresp="#s4:l3">dagh</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22125</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Wo Gott der Herr nicht bei uns hält</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GHelijck een Hert nae dwater <rhyme label="a" type="m">haeckt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Alst fenijn heeft <rhyme label="b" type="f">ghegheten</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Mijn Siel ooc so roept, dorst, en <rhyme label="a" type="m" corresp="#s1:l1">snaect</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Nae Godt den Heer <rhyme label="b" type="f" corresp="#s1:l2">onghemeten</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Ja nae den rechten leuenden <rhyme label="c" type="m">Godt</rhyme>:</l>
+        <l id="s1:l6" met="4" type="-+">Wanneer com ick soo eens wt den <rhyme label="c" type="m" corresp="#s1:l5">noodt</rhyme>?</l>
+        <l id="s1:l7" met="3" type="-+">Dat ick u aensicht sal <rhyme label="d" type="f">aensien</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Het weenen is oock nacht, en <rhyme label="a" type="m">dach</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Mijn broot gheweest en <rhyme label="b" type="f">spijse</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Alsmen my vraechde alden <rhyme label="a" type="m" corresp="#s2:l1">dach</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Waer is uwen Godt? dat <rhyme label="b" type="f" corresp="#s2:l2">bewijse</rhyme>?</l>
+        <l id="s2:l5" met="4" type="-+">En als ick dan ghedenckten <rhyme label="c" type="m">daeraen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Mijn hert ick doen wtschudde <rhyme label="c" type="m" corresp="#s2:l5">zaen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Ende vertroosten my <rhyme label="d" type="f">seluen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ick hoep het sal noch commen daer <rhyme label="a" type="m">toe</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Datmen my sal <rhyme label="b" type="f">beurijden</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">En van ongluck hebben ruste <rhyme label="a" type="m" corresp="#s3:l1">goe</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">En eens commen wt allen mijn <rhyme label="b" type="f" corresp="#s3:l2">lijden</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Alsser veel met my sullen <rhyme label="c" type="m">gaen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Nae Godt des Heeren huys <rhyme label="c" type="m" corresp="#s3:l5">voordaen</rhyme>:</l>
+        <l id="s3:l7" met="3" type="-+">Daer salt recht Heylich dach <rhyme label="d" type="f">wesen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Mijn Siel waer om bedroeft ghy <rhyme label="a" type="m">u</rhyme>?</l>
+        <l id="s4:l2" met="3" type="-+">En beroert my dus <rhyme label="b" type="f">seere</rhyme>?</l>
+        <l id="s4:l3" met="4" type="-+">Op Godt hoept en verbeydt hem <rhyme label="a" type="m" corresp="#s4:l1">nu</rhyme>:</l>
+        <l id="s4:l4" met="3" type="-+">Ick wil noch dancken den <rhyme label="b" type="f" corresp="#s4:l2">Heere</rhyme>:</l>
+        <l id="s4:l5" met="4" type="-+">O Godt met droefheyt is mijn Siel <rhyme label="c" type="m">beuaen</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Ghy hebt veel goets aenden Jordaen <rhyme label="c" type="m" corresp="#s4:l5">ghedaen</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">En te Hermon, onsen <rhyme label="d" type="f">Vooruaders</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Deenen afgrondt, roept tot den <rhyme label="a" type="m">andren</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Een ongluck en coemt niet <rhyme label="b" type="f">alleene</rhyme>:</l>
+        <l id="s5:l3" met="4" type="-+">U watren en baren met <rhyme label="a" type="m" corresp="#s5:l1">eenandren</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Die gaen ouer my met <rhyme label="b" type="f" corresp="#s5:l2">eenen</rhyme>:</l>
+        <l id="s5:l5" met="4" type="-+">Des daechs bewijst zijn goetheyt de <rhyme label="c" type="m">Heer</rhyme>,</l>
+        <l id="s5:l6" met="4" type="-+">Daerom onderhoud ick snachs dees <rhyme label="c" type="m" corresp="#s5:l5">leer</rhyme>,</l>
+        <l id="s5:l7" met="3" type="-+">Dat ick Godt loue met <rhyme label="d" type="f">singhen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Vergheet my niet mynen Steen, en <rhyme label="a" type="m">Godt</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">Ick truer, mijn beenen <rhyme label="b" type="f">verderuen</rhyme>:</l>
+        <l id="s6:l3" met="4" type="-+">De vyandt praemt my in mijnen <rhyme label="a" type="m" corresp="#s6:l1">noodt</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">Als hy segt: en my coemt <rhyme label="b" type="f" corresp="#s6:l2">terghen</rhyme>:</l>
+        <l id="s6:l5" met="4" type="-+">Waer is u Godt? dat segt doch <rhyme label="c" type="m">my</rhyme>?</l>
+        <l id="s6:l6" met="4" type="-+">O Siel hoe gheheel verslaghen zijt <rhyme label="c" type="m" corresp="#s6:l5">ghy</rhyme>,</l>
+        <l id="s6:l7" met="3" type="-+">Betroudt Godt: dien wil ick <rhyme label="d" type="f">dancken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

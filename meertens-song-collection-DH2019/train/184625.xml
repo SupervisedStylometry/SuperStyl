@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184625</id>
+    <date>
+      <year-start>1740</year-start>
+      <year-end>1740</year-end>
+    </date>
+    <location>
+      <orginal-name>leuven</orginal-name>
+      <standard-name>Leuven, Belgium</standard-name>
+      <coordinates>
+        <lon>50.879202</lon>
+        <lat>4.7011675</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">HOe lanck moet, hoe lanck <rhyme label="a" type="m">moet</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Ick in dit vier noch <rhyme label="b" type="f">branden</rhyme>?</l>
+        <l id="s1:l3" met="4" type="+-">Hoe lanck moet, hoe lanck <rhyme label="a" type="m" corresp="#s1:l1">moet</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Ick derven t'hooghste <rhyme label="a" type="m" corresp="#s1:l1">goet</rhyme>!</l>
+        <l id="s1:l5" met="2" type="+-">Doet <rhyme label="c" type="f">verdwynen</rhyme>,</l>
+        <l id="s1:l6" met="2" type="+-">Myn bitter <rhyme label="c" type="f" corresp="#s1:l5">pynen</rhyme>;</l>
+        <l id="s1:l7" met="3" type="-+">Ah! hoe verlaet gy <rhyme label="d" type="m">my</rhyme>!</l>
+        <l id="s1:l8" met="4" type="+-">Maeckt my van dees vlammen <rhyme label="d" type="m" corresp="#s1:l7">vry</rhyme>.</l>
+        <l id="s1:l9" met="4" type="+-">Hoe lanck moet, Hoe lanck <rhyme label="a" type="m" corresp="#s1:l1">moet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Siet my aen, siet my <rhyme label="a" type="m">aen</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Myn Suster, ende <rhyme label="b" type="f">Broeder</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Siet my aen, siet my <rhyme label="a" type="m" corresp="#s2:l1">aen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Hoe ick van smert <rhyme label="a" type="m" corresp="#s2:l1">vergaen</rhyme>:</l>
+        <l id="s2:l5" met="2" type="+-">Wilt <rhyme label="c" type="f">ontfermen</rhyme></l>
+        <l id="s2:l6" met="2" type="+-">My in dit <rhyme label="c" type="f" corresp="#s2:l5">kermen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Gy onbermhertigh <rhyme label="d" type="m">syt</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Uw' Vader, uw' Moeder <rhyme label="d" type="m" corresp="#s2:l7">lydt</rhyme>,</l>
+        <l id="s2:l9" met="4" type="+-">Siet my aen, Siet my <rhyme label="a" type="m" corresp="#s2:l1">aen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Waert dat gy, waert dat <rhyme label="a" type="m">gy</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Maer eens en kost <rhyme label="b" type="f">aenschouwen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Waert dat gy, waert dat <rhyme label="a" type="m" corresp="#s3:l1">gy</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Eens kost aenschouwen <rhyme label="a" type="m" corresp="#s3:l1">my</rhyme>:</l>
+        <l id="s3:l5" met="2" type="+-">Steenigh <rhyme label="c" type="f">herte</rhyme>,</l>
+        <l id="s3:l6" met="2" type="+-">Gy soude <rhyme label="c" type="f" corresp="#s3:l5">smerte</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Gevoelen in myn <rhyme label="d" type="m">brandt</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">Dat gy weygert my uw' <rhyme label="d" type="m" corresp="#s3:l7">handt</rhyme>;</l>
+        <l id="s3:l9" met="4" type="+-">Waert dat gy, Waert dat <rhyme label="a" type="m" corresp="#s3:l1">gy</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

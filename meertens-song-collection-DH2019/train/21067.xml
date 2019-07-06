@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21067</id>
+    <date>
+      <year-start>1649</year-start>
+      <year-end>1649</year-end>
+    </date>
+    <location>
+      <orginal-name>zaandam</orginal-name>
+      <standard-name>Zaandam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.4424926</lon>
+        <lat>4.8298607</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+    </tags>
+    <melody>Een meisje had een ruiter lief</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Hendrik Jacobz. Soetenboom</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WIe voor het slooven van de <rhyme label="a" type="m">pijn</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Ten laetsten noch mach vrolijck <rhyme label="a" type="m" corresp="#s1:l1">zijn</rhyme>:</l>
+        <l id="s1:l3" met="3" type="-+">En wie voor al sijn <rhyme label="b" type="f">waecken</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Den Lauwer magh <rhyme label="b" type="f" corresp="#s1:l3">genaecken</rhyme>:</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die heldt kan arbeydt ende <rhyme label="a" type="m">blijdt</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Vergeten door de soete <rhyme label="a" type="m" corresp="#s2:l1">tijdt</rhyme>:</l>
+        <l id="s2:l3" met="3" type="-+">Hy kan de Palmen <rhyme label="b" type="f">plucken</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">En om sijn voorhooft <rhyme label="b" type="f" corresp="#s2:l3">drucken</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ghy Bruydegom verdient de <rhyme label="a" type="m">kroon</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Ghy krijght hier oock u lieve <rhyme label="a" type="m" corresp="#s3:l1">loon</rhyme>:</l>
+        <l id="s3:l3" met="3" type="-+">Den loon voor al u <rhyme label="b" type="f">draven</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">En voor u moeylijck <rhyme label="b" type="f" corresp="#s3:l3">slaven</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ghy Bruydt u soete lust <rhyme label="a" type="m">geniet</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Hier is u troost voor al 't <rhyme label="a" type="m" corresp="#s4:l1">verdriet</rhyme>:</l>
+        <l id="s4:l3" met="3" type="-+">Hier zijn al u <rhyme label="b" type="f">genuchten</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">En jeughdelijcke <rhyme label="b" type="f" corresp="#s4:l3">vruchten</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Vertreckt van hier, en schuylt in 't <rhyme label="a" type="m">groen</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">En wacht den zegen van u <rhyme label="a" type="m" corresp="#s5:l1">doen</rhyme>:</l>
+        <l id="s5:l3" met="3" type="-+">Wacht in de soete <rhyme label="b" type="f">Lenten</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Den zegen van u <rhyme label="b" type="f" corresp="#s5:l3">enten</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Wacht vruchten daer de soete <rhyme label="a" type="m">lust</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">In vinden mach vermaeck en <rhyme label="a" type="m" corresp="#s6:l1">rust</rhyme>:</l>
+        <l id="s6:l3" met="3" type="-+">De vrucht waerom wy <rhyme label="b" type="f">leven</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">En in dees Staet <rhyme label="b" type="f" corresp="#s6:l3">begeven</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Dat sy u disch, gelijck een <rhyme label="a" type="m">krans</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">Verstrecken voor een <rhyme label="a" type="m" corresp="#s7:l1">ronde-dans</rhyme>:</l>
+        <l id="s7:l3" met="3" type="-+">En datse steedts <rhyme label="b" type="f">beklijven</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Als tacxkens van <rhyme label="b" type="f" corresp="#s7:l3">Olijven</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">‘Wie Godes Woordt in eeren <rhyme label="a" type="m">houdt</rhyme>,</l>
+        <l id="s8:l2" met="4" type="-+">En op zijn heyl'ge Wetten <rhyme label="a" type="m" corresp="#s8:l1">boudt</rhyme>,</l>
+        <l id="s8:l3" met="3" type="-+">Die sal het Landt <rhyme label="b" type="f">be-erven</rhyme>,</l>
+        <l id="s8:l4" met="3" type="-+">En 's Hemels vreught <rhyme label="b" type="f" corresp="#s8:l3">verwerven</rhyme>.’</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Die Man sal al den zegen <rhyme label="a" type="m">sien</rhyme></l>
+        <l id="s9:l2" met="4" type="-+">Die Godt den vroomen aen komt <rhyme label="a" type="m" corresp="#s9:l1">bien</rhyme>,</l>
+        <l id="s9:l3" met="3" type="-+">Die erft oock al de <rhyme label="b" type="f">schatten</rhyme></l>
+        <l id="s9:l4" met="3" type="-+">Die 't Houwelijck <rhyme label="b" type="f" corresp="#s9:l3">om-vatten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34056</id>
+    <date>
+      <year-start>1660</year-start>
+      <year-end>1660</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="marialied" translation="Maria song">Marialied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Peeter de Vleeschoudere</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">DEs Hemels Koninginn', gegroet soo moet ghy <rhyme label="a" type="f">wesen</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Der Engelen Meesterss', de wortel <rhyme label="a" type="f" corresp="#s1:l1">hoogh-ghepresen</rhyme>,</l>
+        <l id="s1:l3" met="6" type="-+">Al-tyd ghesloten deur', Maria, zyt <rhyme label="b" type="m">ghegroet</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Waer uyt is op-ghestaen 't licht 't welck ver-lichten <rhyme label="b" type="m" corresp="#s1:l3">doet</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">De wereld; u ver-heught, aen wie is d'eer' <rhyme label="a" type="f">ghegheven</rhyme>,</l>
+        <l id="s2:l2" met="6" type="-+">Dat in de schoonheyd ghy zyt boven al <rhyme label="a" type="f" corresp="#s2:l1">ver-heven</rhyme>;</l>
+        <l id="s2:l3" met="6" type="-+">Vaert wel dan, schoonste Maeghd, voor ons bid uwen <rhyme label="b" type="m">Soôn</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Dat hy ons brengh' door u, hier naer in 's hemels <rhyme label="b" type="m" corresp="#s2:l3">throon</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

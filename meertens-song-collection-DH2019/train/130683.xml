@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>130683</id>
+    <date>
+      <year-start>1711</year-start>
+      <year-end>1711</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Flon flon la rira dondaine</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Geen mensch op aard <rhyme label="a" type="f">geschapen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Die niet graag met een <rhyme label="b" type="m">Vrouw</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Een nagje by sou <rhyme label="a" type="f" corresp="#s1:l1">slapen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En speelen in haar <rhyme label="b" type="m" corresp="#s1:l2">kouw</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Flon, flon, la rira don <rhyme label="c" type="f">daine</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Flon, flon, flon, la rira don <rhyme label="d" type="m">don</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">De Paters en <rhyme label="a" type="f">Begynen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Worden ook wel eens <rhyme label="b" type="m">groen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">En vol van minne <rhyme label="a" type="f" corresp="#s2:l1">pijnen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Wensten zy ook te <rhyme label="b" type="m" corresp="#s2:l2">doen</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Flon, flon, la rira don <rhyme label="c" type="f">daine</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Flon, flon, flon, la rira don <rhyme label="d" type="m">don</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Alle de <rhyme label="a" type="f">musikanten</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Gevoelen mêe die <rhyme label="b" type="m">plaag</rhyme>.</l>
+        <l id="s3:l3" met="3" type="-+">Het zyn ook brave <rhyme label="a" type="f" corresp="#s3:l1">Quanten</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Zy speelen mêe zo <rhyme label="b" type="m" corresp="#s3:l2">graag</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Flon, flon, la rira don <rhyme label="c" type="f">daine</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Flon, flon, flon, la rira don <rhyme label="d" type="m">don</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">En de Menniste <rhyme label="a" type="f">Susjes</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Die gaan voor al niet <rhyme label="b" type="m">vry</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Want na verscheide <rhyme label="a" type="f" corresp="#s4:l1">kusjes</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Speelen sy mêe als <rhyme label="b" type="m" corresp="#s4:l2">wy</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Flon, flon, la rira don <rhyme label="c" type="f">daine</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Flon, flon, slon, la rira don <rhyme label="d" type="m">don</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

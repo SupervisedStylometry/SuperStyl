@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>160454</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Wanneer de zon zijn paarden ment</melody>
+  <author>Cornelis Maertsz.</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MIchal heeft eens een proef <rhyme label="a" type="m">ghespeelt</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Van haer door-trapte <rhyme label="b" type="m">list</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Sy leydt op 't Bedt een Houten <rhyme label="a" type="m" corresp="#s1:l1">Beelt</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Daer David wordt <rhyme label="b" type="m" corresp="#s1:l2">ghemist</rhyme>;</l>
+        <l id="s1:l5" met="3" type="+-">Als Sauls knechten <rhyme label="c" type="f">quamen</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Op dat zy met <rhyme label="d" type="m">malkaer</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">David ghevangen <rhyme label="c" type="f" corresp="#s1:l5">namen</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Was 't hondt, en <rhyme label="d" type="m" corresp="#s1:l6">Geyten-haer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">De Wereldt gaet op Michals <rhyme label="a" type="m">voet</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">En in het selve <rhyme label="b" type="m">spoor</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Gaet, soeckt by haer eens waerdigh <rhyme label="a" type="m" corresp="#s2:l1">goedt</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Sy stelt u wel wat <rhyme label="b" type="m" corresp="#s2:l2">voor</rhyme>,</l>
+        <l id="s2:l5" met="3" type="+-">Maer als ghy 't hebt <rhyme label="c" type="f">verkregen</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Door afgepijnt <rhyme label="d" type="m">verdriet</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Besiet het dan te <rhyme label="c" type="f" corresp="#s2:l5">deghen</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Soo is 't een schrale <rhyme label="d" type="m" corresp="#s2:l6">niet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Gheluckigh is hy, wiens <rhyme label="a" type="m">ghemoet</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Hier door noyt werdt <rhyme label="b" type="m">verleydt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Maer die kan seggen: 't Wereldts, <rhyme label="a" type="m" corresp="#s3:l1">goed</rhyme>:</l>
+        <l id="s3:l4" met="3" type="-+">Is niet als <rhyme label="b" type="m" corresp="#s3:l2">ydelheydt</rhyme>:</l>
+        <l id="s3:l5" met="3" type="+-">'k Wil dan in 't aerts <rhyme label="c" type="f">ghewemel</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Niet soecken 's <rhyme label="d" type="m">herten-lust</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Vermits het in den <rhyme label="c" type="f" corresp="#s3:l5">Hemel</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Alleenelijck <rhyme label="d" type="m" corresp="#s3:l6">berust</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>162289</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Rozemond die lag gedoken</melody>
+    <categories>
+      <category translation="theatre">theater</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Spot gy Damon, met mijn <rhyme label="a" type="f">schigten</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Die voor mijn gevreest <rhyme label="b" type="m">geweld</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Doen de Hemel-goden <rhyme label="a" type="f" corresp="#s1:l1">swigten</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">En hun trotsheyd palen <rhyme label="b" type="m" corresp="#s1:l2">steld</rhyme>?</l>
+        <l id="s1:l5" met="4" type="+-">'k Sal u opgeblasen <rhyme label="c" type="m">moed</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Haast   doen buygen voor mijn <rhyme label="c" type="m" corresp="#s1:l5">gloed</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Kloris sal niet langer <rhyme label="a" type="f">klagen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">'k Sal u ingebeelde <rhyme label="b" type="m">rust</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Eerlang uyt uw hert <rhyme label="a" type="f" corresp="#s2:l1">verjagen</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">En u door een heete <rhyme label="b" type="m" corresp="#s2:l2">lust</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Steeds   ontsteken,   meer en <rhyme label="c" type="m">meer</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Werpen voor mijn voeten   <rhyme label="c" type="m" corresp="#s2:l5">neer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

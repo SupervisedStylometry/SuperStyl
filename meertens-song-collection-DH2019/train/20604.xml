@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20604</id>
+    <date>
+      <year-start>1628</year-start>
+      <year-end>1628</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Joan Ysermans</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HEt heeft een hups besneden <rhyme label="a" type="m">knecht</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Aen mygheleyt sijn <rhyme label="b" type="f">sinnen</rhyme>/</l>
+        <l id="s1:l3" met="4" type="-+">Maer al schijnt hy eenvoudich <rhyme label="a" type="m" corresp="#s1:l1">slecht</rhyme>/</l>
+        <l id="s1:l4" met="3" type="-+">Wie siet sijn hert van <rhyme label="b" type="f" corresp="#s1:l2">binnen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ist soo nochtans dat hy my <rhyme label="a" type="m">mint</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">En meynt van goeder <rhyme label="b" type="f">herten</rhyme>/</l>
+        <l id="s2:l3" met="4" type="-+">Soo ist wel reden dat hy <rhyme label="a" type="m" corresp="#s2:l1">vint</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Vernoeghingh tot sijn <rhyme label="b" type="f" corresp="#s2:l2">smerte</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Vernoeghingh neen; vernoeghingh <rhyme label="a" type="m">ja</rhyme>/</l>
+        <l id="s3:l2" met="3" type="-+">Vernoeghingh boven <rhyme label="b" type="f">maten</rhyme>/</l>
+        <l id="s3:l3" met="4" type="-+">Maer als hy sijn vernoeghingh <rhyme label="a" type="m" corresp="#s3:l1">ha</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Dan mocht hy my <rhyme label="b" type="f" corresp="#s3:l2">verlaten</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">De Herders clachten sijn maer <rhyme label="a" type="m">schijn</rhyme>/</l>
+        <l id="s4:l2" met="3" type="-+">Gheveyst is al hun <rhyme label="b" type="f">weenen</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Soo langh de meyskens weyg'rich <rhyme label="a" type="m" corresp="#s4:l1">sijn</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Soo langhe sijt recht <rhyme label="b" type="f" corresp="#s4:l2">meenen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Maer als het willeken is <rhyme label="a" type="m">ghedaen</rhyme>/</l>
+        <l id="s5:l2" met="3" type="-+">En onse jeucht <rhyme label="b" type="f">versleten</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Dan is de liefde haest <rhyme label="a" type="m" corresp="#s5:l1">vergaen</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">En al de moeyt <rhyme label="b" type="f" corresp="#s5:l2">vergeten</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Niet dat ick mijnen hier voor <rhyme label="a" type="m">houw</rhyme>/</l>
+        <l id="s6:l2" met="3" type="-+">Die ick ghetrouw moet <rhyme label="b" type="f">noemen</rhyme>:</l>
+        <l id="s6:l3" met="4" type="-+">Want hy is trouw/ ick vind' hem <rhyme label="a" type="m" corresp="#s6:l1">trouw</rhyme>/</l>
+        <l id="s6:l4" met="3" type="-+">Sijn trouwe doet my <rhyme label="b" type="f" corresp="#s6:l2">roemen</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">T'is minne dan die rust ons <rhyme label="a" type="m">gheeft</rhyme>/</l>
+        <l id="s7:l2" met="3" type="-+">Is rust in lust <rhyme label="b" type="f">gheleghen</rhyme>?</l>
+        <l id="s7:l3" met="4" type="-+">Die eenen trouwen vryer <rhyme label="a" type="m" corresp="#s7:l1">heeft</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Die heeft sijn ghenoeghen <rhyme label="b" type="f" corresp="#s7:l2">creghen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

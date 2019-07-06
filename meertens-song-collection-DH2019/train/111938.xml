@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111938</id>
+    <date>
+      <year-start>1650</year-start>
+      <year-end>1660</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Dimmi donna crudel</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">HOe lieff'lijck blinckt de <rhyme label="a" type="m">deught</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">In kuysche <rhyme label="b" type="f">Zielen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Even wanneer <rhyme label="a" type="m" corresp="#s1:l1">verheught</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">De snelle <rhyme label="b" type="f" corresp="#s1:l2">wielen</rhyme></l>
+        <l id="s1:l5" met="5" type="-+">Des grooten Hemel-vooghts sijn vier'ge <rhyme label="c" type="f">stralen</rhyme>:</l>
+        <l id="s1:l6" met="3" type="-+">Heft opwaerts uytter <rhyme label="d" type="m">Zee</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Verlicht Menschen end' <rhyme label="d" type="m" corresp="#s1:l6">Vee</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Oock Bergh en Boomen <rhyme label="d" type="m" corresp="#s1:l6">mee</rhyme>,</l>
+        <l id="s1:l9" met="2" type="-+">Dat sy niet <rhyme label="c" type="f" corresp="#s1:l5">dwalen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Vaert wel dwingent <rhyme label="a" type="m">gewaet</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">Scepters ende <rhyme label="b" type="f">Kroonen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Adieu verheven <rhyme label="a" type="m" corresp="#s2:l1">Staet</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">Wanckele <rhyme label="b" type="f" corresp="#s2:l2">Throonen</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Het Claver-weegjen kan my bet <rhyme label="c" type="f">vermaken</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Als al het grootste <rhyme label="d" type="m">goet</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">En 't schijn-menigh <rhyme label="d" type="m" corresp="#s2:l6">begroet</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Van menigh hoovaerdigh <rhyme label="d" type="m" corresp="#s2:l6">bloet</rhyme></l>
+        <l id="s2:l9" met="2" type="-+">Haer ydel <rhyme label="c" type="f" corresp="#s2:l5">kaken</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">De drupjes Lief die <rhyme label="a" type="m">van</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Uw' Hutje <rhyme label="b" type="f">droppen</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Meer soetheyt brengen <rhyme label="a" type="m" corresp="#s3:l1">an</rhyme>,</l>
+        <l id="s3:l4" met="2" type="-+">Als 't gulsigh <rhyme label="b" type="f" corresp="#s3:l2">kroppen</rhyme></l>
+        <l id="s3:l5" met="5" type="-+">Van Wijn uyt Guld' of Silv're <rhyme label="c" type="f">vaten</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Dees laegh in diepe <rhyme label="d" type="m">rust</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Is met geen sorgh <rhyme label="d" type="m" corresp="#s3:l6">gewust</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Als d'nimmer Sotte <rhyme label="d" type="m" corresp="#s3:l6">lust</rhyme></l>
+        <l id="s3:l9" met="2" type="-+">'s Princesse <rhyme label="c" type="f" corresp="#s3:l5">Staten</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Wel-booren Harder <rhyme label="a" type="m">schoon</rhyme>,</l>
+        <l id="s4:l2" met="2" type="-+">U Lief sal <rhyme label="b" type="f">komen</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Dewijl de groote <rhyme label="a" type="m" corresp="#s4:l1">Throon</rhyme></l>
+        <l id="s4:l4" met="2" type="-+">Met kreup'le <rhyme label="b" type="f" corresp="#s4:l2">Dromen</rhyme>,</l>
+        <l id="s4:l5" met="5" type="-+">En kommer-siecke slaep is heel <rhyme label="c" type="f">omvangen</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Ghy Nachtegaeltje <rhyme label="d" type="m">kleen</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Vliecht haestelijck voor <rhyme label="d" type="m" corresp="#s4:l6">heen</rhyme>,</l>
+        <l id="s4:l8" met="3" type="-+">Bootschapt Dayph'lo met <rhyme label="d" type="m" corresp="#s4:l6">een</rhyme>,</l>
+        <l id="s4:l9" met="2" type="-+">Niet te <rhyme label="c" type="f" corresp="#s4:l5">verlangen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Ick kom, mijn Lief, ick <rhyme label="a" type="m">kom</rhyme>,</l>
+        <l id="s5:l2" met="2" type="-+">Weest niet <rhyme label="b" type="f">verslegen</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">'k Heb mijn gesin <rhyme label="a" type="m" corresp="#s5:l1">wed'rom</rhyme>,</l>
+        <l id="s5:l4" met="2" type="-+">Na 't Hof <rhyme label="b" type="f" corresp="#s5:l2">gekregen</rhyme>,</l>
+        <l id="s5:l5" met="5" type="-+">O soete eensaemheyt vol alder <rhyme label="c" type="f">vreughden</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">Nu is Granida <rhyme label="d" type="m">veyl</rhyme>,</l>
+        <l id="s5:l7" met="3" type="-+">Mijn Troostertje, mijn <rhyme label="d" type="m" corresp="#s5:l6">Heyl</rhyme>,</l>
+        <l id="s5:l8" met="3" type="-+">Wegh met de Troppen <rhyme label="d" type="m" corresp="#s5:l6">steyl</rhyme></l>
+        <l id="s5:l9" met="2" type="-+">Van 's Hofs <rhyme label="c" type="f" corresp="#s5:l5">ondeughden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

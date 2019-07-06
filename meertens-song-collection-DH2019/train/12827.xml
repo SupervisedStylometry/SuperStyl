@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12827</id>
+    <date>
+      <year-start>1658</year-start>
+      <year-end>1658</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Psalm 012 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Franciscus Ridderus</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">IOsias betert, 'tgeen weer was <rhyme label="a" type="f">bedorven</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Door Amon: en hy brandt gestorven <rhyme label="b" type="m">been</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">Van afgodisten; nu al langh <rhyme label="a" type="f" corresp="#s1:l1">gestorven</rhyme>.</l>
+        <l id="s1:l4" met="5" type="-+">En soo vervult hy 'toude woort met <rhyme label="b" type="m" corresp="#s1:l2">een</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">'tVerlooren wet-bouck is weder <rhyme label="a" type="f">gevonden</rhyme>.</l>
+        <l id="s2:l2" met="5" type="-+">Dus maeckt de Vorst met 'tvolck een vast <rhyme label="b" type="m">verdrag</rhyme>.</l>
+        <l id="s2:l3" met="5" type="-+">Tegen afgodery en andre <rhyme label="a" type="f" corresp="#s2:l1">sonden</rhyme>.</l>
+        <l id="s2:l4" met="5" type="-+">Daer op soo volght die heerlijcke <rhyme label="b" type="m" corresp="#s2:l2">Paesdagh</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">d'Egyptenaer woud' door zijn Landt <rhyme label="a" type="f">marcheeren</rhyme>:</l>
+        <l id="s3:l2" met="5" type="-+">Hy weygert, tegen 'twoort van de <rhyme label="b" type="m">Propheet</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">De Vorst meynd' Pharao te <rhyme label="a" type="f" corresp="#s3:l1">overheeren</rhyme>.</l>
+        <l id="s3:l4" met="5" type="-+">Maer ah! seer haest was hem dit strijden <rhyme label="b" type="m" corresp="#s3:l2">leedt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">'tVolck wilde onder Pharo sigh niet <rhyme label="a" type="f">buygen</rhyme>:</l>
+        <l id="s4:l2" met="5" type="-+">Sy kiesen selfs een Coningh nae haer <rhyme label="b" type="m">wil</rhyme>.</l>
+        <l id="s4:l3" met="5" type="-+">Schoon dat haer Jeremias quam <rhyme label="a" type="f" corresp="#s4:l1">betuygen</rhyme>:</l>
+        <l id="s4:l4" met="5" type="-+">Dat her haer plicht was sigh te houden <rhyme label="b" type="m" corresp="#s4:l2">stil</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Nebucadnezar had nu <rhyme label="a" type="f">ingenomen</rhyme></l>
+        <l id="s5:l2" met="5" type="-+">Egyptenlandt: hy won daer Juda <rhyme label="b" type="m">by</rhyme>:</l>
+        <l id="s5:l3" met="5" type="-+">Hy dede veel Jooden na Babel <rhyme label="a" type="f" corresp="#s5:l1">komen</rhyme>.</l>
+        <l id="s5:l4" met="5" type="-+">Drie mannen weygerden <rhyme label="b" type="m" corresp="#s5:l2">afgodery</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

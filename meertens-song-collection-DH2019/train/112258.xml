@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>112258</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">KLORIS houd myn hert en ziel <rhyme label="a" type="f">gebonden</rhyme></l>
+        <l id="s1:l2" met="5" type="+-">Aan haar deugt en net geschikten <rhyme label="b" type="m">leest</rhyme></l>
+        <l id="s1:l3" met="5" type="+-">Ik heb u nooit meer zoetigheid <rhyme label="a" type="f" corresp="#s1:l1">gevonden</rhyme></l>
+        <l id="s1:l4" met="5" type="+-">Als sint ik haar minnaar ben <rhyme label="b" type="m" corresp="#s1:l2">geweest</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Honing vloeit van haar begaafde <rhyme label="a" type="f">lipjes</rhyme>,</l>
+        <l id="s2:l2" met="5" type="+-">Van haar tongje rold de <rhyme label="b" type="m">vrind'lykheid</rhyme>.</l>
+        <l id="s2:l3" met="5" type="+-">Op haar boezem staan twee <rhyme label="a" type="f" corresp="#s2:l1">minneklipjes</rhyme>,</l>
+        <l id="s2:l4" met="5" type="+-">Door de Liefde menigmaal <rhyme label="b" type="m" corresp="#s2:l2">beschreid</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">Hantjes heeft z'als pallas schoone <rhyme label="a" type="f">hantjes</rhyme>:</l>
+        <l id="s3:l2" met="5" type="+-">Oogjes heeft zy sneller als een <rhyme label="b" type="m">valk</rhyme>:</l>
+        <l id="s3:l3" met="5" type="+-">En de ryen van haar prop're <rhyme label="a" type="f" corresp="#s3:l1">tantjes</rhyme></l>
+        <l id="s3:l4" met="5" type="+-">Syn zo wit, als fyn gezifte <rhyme label="b" type="m" corresp="#s3:l2">kalk</rhyme>,</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="+-">Keurlyk weet zy op de maat te <rhyme label="a" type="f">zingen</rhyme>:</l>
+        <l id="s4:l2" met="5" type="+-">Zeer bevallig speelt zy op de <rhyme label="b" type="m">luit</rhyme>.</l>
+        <l id="s4:l3" met="5" type="+-">Maar helaas! met al die wond're <rhyme label="a" type="f" corresp="#s4:l1">dingen</rhyme></l>
+        <l id="s4:l4" met="5" type="+-">Min ik haar en zy lacht my wat <rhyme label="b" type="m" corresp="#s4:l2">uyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

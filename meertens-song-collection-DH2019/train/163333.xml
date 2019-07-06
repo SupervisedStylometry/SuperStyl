@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>163333</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+    </tags>
+    <melody>Ik stort nu mijn klachten</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="theatre">theater</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">Waarom wild gy <rhyme label="a" type="f">vlugten</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">O Kloris, mijn <rhyme label="b" type="m">lust</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Nu duysend <rhyme label="a" type="f" corresp="#s1:l1">sugten</rhyme></l>
+        <l id="s1:l4" met="3" type="+-">Roven mijne <rhyme label="b" type="m" corresp="#s1:l2">rust</rhyme>;</l>
+        <l id="s1:l5" met="3" type="+-">Nu gy myne <rhyme label="c" type="f">sinnen</rhyme></l>
+        <l id="s1:l6" met="3" type="+-">Hebt in u <rhyme label="d" type="m">gebied</rhyme>:</l>
+        <l id="s1:l7" met="3" type="+-">Wat tragt gy te <rhyme label="c" type="f" corresp="#s1:l5">winnen</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">Dat gy mijn <rhyme label="d" type="m" corresp="#s1:l6">ontvlied</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Ik moet u <rhyme label="a" type="f">bedanken</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">Voor soo een <rhyme label="b" type="m">eer</rhyme>;</l>
+        <l id="s2:l3" met="3" type="+-">Maar weet, uwe <rhyme label="a" type="f" corresp="#s2:l1">ranken</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">Gelden hier niet <rhyme label="b" type="m" corresp="#s2:l2">meer</rhyme>.</l>
+        <l id="s2:l5" met="3" type="+-">Waar toe dog dit <rhyme label="c" type="f">spotten</rhyme>,</l>
+        <l id="s2:l6" met="3" type="+-">Daar Damon 't <rhyme label="d" type="m">getal</rhyme></l>
+        <l id="s2:l7" met="3" type="+-">Der verliefde <rhyme label="c" type="f" corresp="#s2:l5">sotten</rhyme></l>
+        <l id="s2:l8" met="3" type="+-">Noit vermeren <rhyme label="d" type="m" corresp="#s2:l6">sal</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="+-">Des laat my <rhyme label="a" type="f">vertrekken</rhyme>,</l>
+        <l id="s3:l2" met="3" type="+-">Gy kund nu <rhyme label="b" type="m">voortaan</rhyme></l>
+        <l id="s3:l3" met="3" type="+-">Een ander <rhyme label="a" type="f" corresp="#s3:l1">begekken</rhyme>,</l>
+        <l id="s3:l4" met="3" type="+-">Die dat wil <rhyme label="b" type="m" corresp="#s3:l2">verstaan</rhyme>;</l>
+        <l id="s3:l5" met="3" type="+-">Gy kund met uw <rhyme label="c" type="f">vlyen</rhyme>,</l>
+        <l id="s3:l6" met="3" type="+-">Indien gy sulks <rhyme label="d" type="m">tragt</rhyme>,</l>
+        <l id="s3:l7" met="3" type="+-">Een ander <rhyme label="c" type="f" corresp="#s3:l5">verblyen</rhyme></l>
+        <l id="s3:l8" met="3" type="+-">Die uw woorden <rhyme label="d" type="m" corresp="#s3:l6">agt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

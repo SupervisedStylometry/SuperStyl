@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13793</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Bedroefde herder zie</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">VOoghdesse vande <rhyme label="a" type="m">Ziel</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Siet hoe ick voor u <rhyme label="a" type="m" corresp="#s1:l1">kniel</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Ey laet u tweede <rhyme label="a" type="m" corresp="#s1:l1">ziel</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Doch gunst <rhyme label="b" type="f">verwerve</rhyme>:</l>
+        <l id="s1:l5" met="3" type="-+">Want ick van droefheyts <rhyme label="c" type="m">pijn</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Gelijck den sneeuw <rhyme label="c" type="m" corresp="#s1:l5">verdwijn</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Van ‘t licht der Sonne <rhyme label="c" type="m" corresp="#s1:l5">schijn</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Door wreetheydt <rhyme label="b" type="f" corresp="#s1:l4">sterve</rhyme>,</l>
+        <l id="s1:l9" met="4" type="-+">Wat kan u strafheydt dan doch <rhyme label="d" type="f">baten</rhyme>,</l>
+        <l id="s1:l10" met="4" type="-+">Als ick daer ‘t leven door moet <rhyme label="d" type="f" corresp="#s1:l9">laten</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">WEl Herder wel, wat’s dit u <rhyme label="a" type="m">klacht</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Ick segh staet op, en neemt m’ in <rhyme label="a" type="m" corresp="#s2:l1">acht</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">De daghen die ghy <rhyme label="a" type="m" corresp="#s2:l1">leeft</rhyme>.</l>
+        <l id="s2:l4" met="2" type="-+">Wilt u Vee altijdt <rhyme label="b" type="f">voen</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">In het gras, ‘t klaver-groen, <rhyme label="c" type="m">gedenckt</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Dat de Beesjens vreughde <rhyme label="c" type="m" corresp="#s2:l5">schenckt</rhyme>:</l>
+        <l id="s2:l7" met="3" type="-+">Soo sal ick aen <rhyme label="c" type="m" corresp="#s2:l5">jouw</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Op offeren mijn <rhyme label="b" type="f" corresp="#s2:l4">trouw</rhyme>:</l>
+        <l id="s2:l9" met="4" type="-+">Op dat wy <rhyme label="d" type="f">alsdan</rhyme>,</l>
+        <l id="s2:l10" met="4" type="-+">Leven t’saem als Vrouw en <rhyme label="d" type="f" corresp="#s2:l9">Man</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

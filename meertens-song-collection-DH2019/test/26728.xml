@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26728</id>
+    <date>
+      <year-start>1557</year-start>
+      <year-end>1557</year-end>
+    </date>
+    <location>
+      <orginal-name>emden</orginal-name>
+      <standard-name>Emden, Germany</standard-name>
+      <coordinates>
+        <lon>53.3670442</lon>
+        <lat>7.2058004</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 015 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Heer wie sal ind’hutte <rhyme label="a" type="m">dyn</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Uerkeeren, mit allerley <rhyme label="b" type="f">lusten</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">wie sal doch so gheluckich <rhyme label="a" type="m" corresp="#s1:l1">syn</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Dat hy door dyn ghenade <rhyme label="a" type="m" corresp="#s1:l1">fyn</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">In dynen heylghen berch sal <rhyme label="b" type="f" corresp="#s1:l2">rusten</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Het sal de man syn, sonder <rhyme label="a" type="m">fael</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Die eenuaudich gaet in syn <rhyme label="b" type="f">leuen</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">End die daer recht doet ouer <rhyme label="a" type="m" corresp="#s2:l1">al</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">End wiens mont in syn herte <rhyme label="a" type="m" corresp="#s2:l1">sal</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Tot de waerheyt tuchnysse <rhyme label="b" type="f" corresp="#s2:l2">gheuen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Die door syn tonge niet en <rhyme label="a" type="m">doet</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Achterclap, tot eenes anders <rhyme label="b" type="f">schade</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Noch synen naesten niet <rhyme label="a" type="m" corresp="#s3:l1">mysdoet</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Die synen Nabuer oock <rhyme label="a" type="m" corresp="#s3:l1">behoet</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Dat men hem mit schande niet <rhyme label="b" type="f" corresp="#s3:l2">belade</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Die oock veracht de sondaers <rhyme label="a" type="m">quaet</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">End eert, die door s’Heeren <rhyme label="b" type="f">ghenaede</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">God alwech vreesen mit der <rhyme label="a" type="m" corresp="#s4:l1">daet</rhyme>:</l>
+        <l id="s4:l4" met="4" type="-+">Die syn belofte haudt, sonder <rhyme label="a" type="m" corresp="#s4:l1">baet</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Iae al waert schoon tot synder <rhyme label="b" type="f" corresp="#s4:l2">schade</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Die syn ghelt tot woecker niet <rhyme label="a" type="m">gheeft</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">End oock gheen gauen wilt <rhyme label="b" type="f">ontfanghen</rhyme>.</l>
+        <l id="s5:l3" met="4" type="-+">Ouer den onnooselen <rhyme label="a" type="m" corresp="#s5:l1">Man</rhyme>.</l>
+        <l id="s5:l4" met="4" type="-+">Die hem hierin so draghen <rhyme label="a" type="m" corresp="#s5:l1">kan</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">Sal stadich blijuen in syn <rhyme label="b" type="f" corresp="#s5:l2">ganghen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>187881</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Pronkje van de maagden</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">'t BLeten van de <rhyme label="a" type="f">Schapen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">De'e Ruben <rhyme label="b" type="f">bewegen</rhyme></l>
+        <l id="s1:l3" met="3" type="+-">Dat hy niet in 't <rhyme label="a" type="f" corresp="#s1:l1">Wapen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Met een Helm, en <rhyme label="b" type="f" corresp="#s1:l2">Degen</rhyme></l>
+        <l id="s1:l5" met="3" type="+-">Sissera gingh <rhyme label="b" type="f" corresp="#s1:l2">tegen</rhyme>:</l>
+        <l id="s1:l6" met="3" type="-+">Maer in't <rhyme label="c" type="m">Oorlooghs-gedruys</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">En onder // den <rhyme label="d" type="f">donderdag</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">Van 't vechten // der <rhyme label="e" type="f">Knechten</rhyme></l>
+        <l id="s1:l9" met="2" type="+-">Soo blijft hy <rhyme label="c" type="m" corresp="#s1:l6">t'huys</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">'t Vleyen van de <rhyme label="a" type="f">sonden</rhyme>,</l>
+        <l id="s2:l2" met="3" type="+-">Door het Oor <rhyme label="b" type="f">geswolgen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">Heeft'er veel <rhyme label="a" type="f" corresp="#s2:l1">gebonden</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">Datse niet <rhyme label="b" type="f" corresp="#s2:l2">(verbolgen</rhyme>,</l>
+        <l id="s2:l5" met="3" type="+-">Op het quade) <rhyme label="b" type="f" corresp="#s2:l2">volgen</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">'t Vaendel Christi <rhyme label="c" type="m">na</rhyme>,</l>
+        <l id="s2:l7" met="2" type="-+">Daer yder // een <rhyme label="d" type="f">strijder</rhyme></l>
+        <l id="s2:l8" met="2" type="-+">De sonde // <rhyme label="e" type="f">verwonde</rhyme>,</l>
+        <l id="s2:l9" met="2" type="+-">En <rhyme label="c" type="m" corresp="#s2:l6">nedersla</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

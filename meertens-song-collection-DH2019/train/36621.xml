@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36621</id>
+    <date>
+      <year-start>1631</year-start>
+      <year-end>1631</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>O schone jonkvrouw mocht mij gebeuren</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Lucas van Mechelen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">SOet ist voorwaer Godt aen te <rhyme label="a" type="f">hanghen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Te worden van sijn licht <rhyme label="a" type="f" corresp="#s1:l1">omvanghen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">In hem te staen, in hem te <rhyme label="b" type="m">gaen</rhyme>;</l>
+        <l id="s1:l4" met="4" type="-+">Daermen meer dan hert' kan <rhyme label="a" type="f" corresp="#s1:l1">verlanghen</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Troost mach <rhyme label="b" type="m" corresp="#s1:l3">ontfaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Dit wist sy wel, die was <rhyme label="a" type="f">gheseten</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">In die ghenuchten <rhyme label="a" type="f" corresp="#s2:l1">onghemeten</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Daer sy ontfonck dat Godt haer <rhyme label="b" type="m">schonck</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Dat sy met alles te <rhyme label="a" type="f" corresp="#s2:l1">vergheten</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">In hem <rhyme label="b" type="m" corresp="#s2:l3">versonck</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Daerom en mocht haer niet uyt <rhyme label="a" type="f">leyden</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Noch haer ghemoet van d'wesen <rhyme label="a" type="f" corresp="#s3:l1">scheyden</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Daer sy in stondt met haren <rhyme label="b" type="m">grondt</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Daer sy die oversoete <rhyme label="a" type="f" corresp="#s3:l1">weyden</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">Des gheeste <rhyme label="b" type="m" corresp="#s3:l3">vondt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Hier ende daer moest' sy dicks <rhyme label="a" type="f">wesen</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">By dien nu, en nu by <rhyme label="a" type="f" corresp="#s4:l1">desen</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">Nochtans met vlijt van die <rhyme label="b" type="m">altijt</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Stondt sy in haren <rhyme label="a" type="f" corresp="#s4:l1">uytghelesen</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">Ghescheyden <rhyme label="b" type="m" corresp="#s4:l3">wijt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Andwoorden moest' sy en <rhyme label="a" type="f">aen-spreken</rhyme>;</l>
+        <l id="s5:l2" met="4" type="-+">Nochtans en wou' sy noyt <rhyme label="a" type="f" corresp="#s5:l1">ontbreken</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Aen dien smaeck van die <rhyme label="b" type="m">aenspraeck</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Waer by dat allen troost <rhyme label="a" type="f" corresp="#s5:l1">gheleken</rhyme></l>
+        <l id="s5:l5" met="2" type="-+">Is <rhyme label="b" type="m" corresp="#s5:l3">onvermaeck</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Sy luysterde, waer sy haer <rhyme label="a" type="f">vonde</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Naer die stemm' die haer troosten <rhyme label="a" type="f" corresp="#s6:l1">konde</rhyme>;</l>
+        <l id="s6:l3" met="4" type="-+">Daer sy recht me', wat dat sy <rhyme label="b" type="m">de'</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Den wille Godt seer claer <rhyme label="a" type="f" corresp="#s6:l1">verstonde</rhyme></l>
+        <l id="s6:l5" met="2" type="-+">In alle <rhyme label="b" type="m" corresp="#s6:l3">ste'</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Een claer ghehoor hadd' haer <rhyme label="a" type="f">ghedachte</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Sy hadd' haer hert' in hare <rhyme label="a" type="f" corresp="#s7:l1">machte</rhyme>:</l>
+        <l id="s7:l3" met="4" type="-+">Die pure Bruyt, al ghinck sy <rhyme label="b" type="m">uyt</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Van binnen hiel sy scherpe <rhyme label="a" type="f" corresp="#s7:l1">wachte</rhyme></l>
+        <l id="s7:l5" met="2" type="-+">In dat <rhyme label="b" type="m" corresp="#s7:l3">besluyt</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Noyt en ghinck uyt die <rhyme label="a" type="f">uytvercooren</rhyme>,</l>
+        <l id="s8:l2" met="4" type="-+">Oft s'en ghinck in soo diep' te <rhyme label="a" type="f" corresp="#s8:l1">vooren</rhyme>;</l>
+        <l id="s8:l3" met="4" type="-+">Dat den uytganck naer haren <rhyme label="b" type="m">danck</rhyme></l>
+        <l id="s8:l4" met="4" type="-+">In d'ingaen bleef gheheel <rhyme label="a" type="f" corresp="#s8:l1">verlooren</rhyme></l>
+        <l id="s8:l5" met="2" type="-+">Haer leefdaegh' <rhyme label="b" type="m" corresp="#s8:l3">lanck</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

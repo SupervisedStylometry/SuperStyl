@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21005</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">'t GAat qualijk, daar dees <rhyme label="a" type="m">twee</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Niet eens zijn met <rhyme label="b" type="f">elkander</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Daar liefde, trou, en <rhyme label="a" type="m" corresp="#s1:l1">vree</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Noit planten haren <rhyme label="b" type="f" corresp="#s1:l2">stander</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Gelukkig sien sy <rhyme label="a" type="m">saam</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Haar huwlijx toors <rhyme label="b" type="f">ontsteeken</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Wanneer sich yder <rhyme label="a" type="m" corresp="#s2:l1">schaam</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">De liefdes knoop te <rhyme label="b" type="f" corresp="#s2:l2">breken</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Dan slijten sy haar <rhyme label="a" type="m">jeugd</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Den bloesem van 'er <rhyme label="b" type="f">jaren</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">In blijdschap, en in <rhyme label="a" type="m" corresp="#s3:l1">vreugd</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">En roemen 't wettigh <rhyme label="b" type="f" corresp="#s3:l2">paren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

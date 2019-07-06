@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184383</id>
+    <date>
+      <year-start>1785</year-start>
+      <year-end>1785</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Ik ben een Amsterdams Matroosje</melody>
+  <author>Adriaan Loosjes Pzn.</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Jaa de dag is weer aan 't <rhyme label="a" type="f">daagen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">'k Hoor 't aan kraayen van de <rhyme label="b" type="m">Haan</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">'t Wordt myn tyd om op te <rhyme label="b" type="m" corresp="#s1:l2">staan</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">En wat zou me in 't bed <rhyme label="a" type="f" corresp="#s1:l1">vertraagen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">'k Ben gezond gelyk een <rhyme label="c" type="m">visch</rhyme>.</l>
+        <l id="s1:l6" met="4" type="-+">Kom myn emmers kryg ik <rhyme label="d" type="m">maar</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Want ik wacht reeds <rhyme label="d" type="m" corresp="#s1:l6">Teunisvaêr</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">En het zou er anders <rhyme label="e" type="f">stinken</rhyme>. -</l>
+        <l id="s1:l9" met="4" type="+-">Zie myn mellekemmers <rhyme label="e" type="f" corresp="#s1:l8">blinken</rhyme>,</l>
+        <l id="s1:l10" met="4" type="-+">'k Ben er grootsch op, en dat <rhyme label="f" type="m">staat</rhyme></l>
+        <l id="s1:l11" met="4" type="+-">Aan geen mellekmeisje <rhyme label="f" type="m" corresp="#s1:l10">kwaad</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">'k Zie alree van ver de <rhyme label="a" type="f">koeyen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Kyk dat noem ik <rhyme label="b" type="m">ongemien</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Als zy maar myn emmers <rhyme label="b" type="m" corresp="#s2:l2">zien</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Dan beginnen ze al te <rhyme label="a" type="f" corresp="#s2:l1">loeyen</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">En dat hoor ik, ô zo <rhyme label="c" type="m">graag</rhyme>.</l>
+        <l id="s2:l6" met="4" type="-+">'k Zag een Juffrouw lest uit <rhyme label="d" type="m">steê</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Dat mensch was eerst bang voor <rhyme label="d" type="m" corresp="#s2:l6">vee</rhyme>.</l>
+        <l id="s2:l8" met="4" type="-+">'k Weet niet, hoe of dat kan <rhyme label="e" type="f">wezen</rhyme>,</l>
+        <l id="s2:l9" met="4" type="+-">Wie zou toch dees beestjes <rhyme label="e" type="f" corresp="#s2:l8">vreezen</rhyme>,</l>
+        <l id="s2:l10" met="4" type="-+">'t Is het makste vee van 't <rhyme label="f" type="m">Land</rhyme>.</l>
+        <l id="s2:l11" met="4" type="+-">Zie hoe likken zy myn <rhyme label="f" type="m" corresp="#s2:l10">hand</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111969</id>
+    <date>
+      <year-start>1650</year-start>
+      <year-end>1660</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Laura zat laatst bij de beek</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Phillis dreef op strant haer <rhyme label="a" type="m">vee</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Schort haer keursje tot de <rhyme label="b" type="f">knietjes</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Spoelt haer voetjes in de <rhyme label="a" type="m" corresp="#s1:l1">Zee</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Dies haer bracke <rhyme label="b" type="f" corresp="#s1:l2">water-vlietjes</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Met een snelle drift op <rhyme label="c" type="m">drongh</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Dat het aen haer borsjes <rhyme label="c" type="m" corresp="#s1:l5">sprongh</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Sy verbaest te rugh <rhyme label="d" type="f">geloopen</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Deed haer natte boesem <rhyme label="d" type="f" corresp="#s1:l7">open</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Coridon die quam op 't <rhyme label="a" type="m">slagh</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Sy beschaemt school in de <rhyme label="b" type="f">roosen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Om dat haer Herder <rhyme label="a" type="m" corresp="#s2:l1">sagh'</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Kregen bey haer kaeckjes <rhyme label="b" type="f" corresp="#s2:l2">blosen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Hy ontsteecken in de <rhyme label="c" type="m">min</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Riep: mijn lief, mijn <rhyme label="c" type="m" corresp="#s2:l5">Herderin</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Laet u Herder in sijn <rhyme label="d" type="f">armen</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">U verkleumde borst <rhyme label="d" type="f" corresp="#s2:l7">verwarmen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Phillis sey: waer ick <rhyme label="a" type="m">Diaen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">'k Soud u in een Hart <rhyme label="b" type="f">verkeeren</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Voor het leet aen my <rhyme label="a" type="m" corresp="#s3:l1">gedaen</rhyme>:</l>
+        <l id="s3:l4" met="4" type="+-">Dese wraeck op u <rhyme label="b" type="f" corresp="#s3:l2">begeeren</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Phillis 'k hoop niet dat ghy 't <rhyme label="c" type="m">mient</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Waer mee heb ick dit <rhyme label="c" type="m" corresp="#s3:l5">verdient</rhyme>?</l>
+        <l id="s3:l7" met="4" type="+-">Hebt ghy lust een hert te <rhyme label="d" type="f">plagen</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">'k Sal u 't mijn ten offer <rhyme label="d" type="f" corresp="#s3:l7">dragen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

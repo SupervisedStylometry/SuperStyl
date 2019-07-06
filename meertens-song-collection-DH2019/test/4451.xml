@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4451</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+    </tags>
+    <melody>Ik vrijde een vrouwtje</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ALsoo ghy best muecht telcker <rhyme label="a" type="m">tijt</rhyme>//</l>
+        <l id="s1:l2" met="3" type="-+">wilt het wijn suypen <rhyme label="b" type="f">vlieden</rhyme>//</l>
+        <l id="s1:l3" met="4" type="-+">Ist dat ghijt mijt// v naect <rhyme label="a" type="m" corresp="#s1:l1">profijt</rhyme>//</l>
+        <l id="s1:l4" met="5" type="-+">des zeker zijt// want wijn verderft veel <rhyme label="b" type="f" corresp="#s1:l2">lieden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ghelijck t'forneys proeft ijser <rhyme label="a" type="m">werck</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Soo proeft wijn door <rhyme label="b" type="f">d'ontfuncken</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Hier in dit perck// menich stout <rhyme label="a" type="m" corresp="#s2:l1">clerck</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Hoochmoedich sterck// als sy door hem sijn <rhyme label="b" type="f" corresp="#s2:l2">droncken</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Als ghy hier matich drinct den <rhyme label="a" type="m">wijn</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Vermakinghe sal hy <rhyme label="b" type="f">gheuen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">In sulcken schijn is hy seer <rhyme label="a" type="m" corresp="#s3:l1">fijn</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Ja medecijn// zeer nut tot t'smenschen <rhyme label="b" type="f" corresp="#s3:l2">leuen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Den wijn de schiep hier Godt ons <rhyme label="a" type="m">Heer</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Om ons vrolijck te <rhyme label="b" type="f">maken</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Maer bruyct niet meer// dan nootdrufts <rhyme label="a" type="m" corresp="#s4:l1">leer</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">Aen tsvreuchden keer// sal lijf en ziel <rhyme label="b" type="f" corresp="#s4:l2">gheraken</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Maer dijs hier oock te veele <rhyme label="a" type="m">drinct</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Bereyt hem leet int <rhyme label="b" type="f">herte</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Diet doet bedinct// dulheyt die <rhyme label="a" type="m" corresp="#s5:l1">crinct</rhyme>,</l>
+        <l id="s5:l4" met="5" type="-+">En voor Godt stinct// wijn gheeft wonden en <rhyme label="b" type="f" corresp="#s5:l2">smerte</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">In wijn v broeder niet en <rhyme label="a" type="m">schelt</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">In vreucht zijt niet <rhyme label="b" type="f">verwijtich</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Niemandt en quelt// gheen secreet <rhyme label="a" type="m" corresp="#s6:l1">melt</rhyme>,</l>
+        <l id="s6:l4" met="5" type="-+">Maer duecht vertelt// v woordt laet sijn niet <rhyme label="b" type="f" corresp="#s6:l2">spijtich</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

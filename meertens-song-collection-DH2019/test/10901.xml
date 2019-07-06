@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10901</id>
+    <date>
+      <year-start>1605</year-start>
+      <year-end>1605</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="meilied" translation="May song">meilied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>In een groot ongeluk ben ik geboren</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">De mey playsant, willen wy <rhyme label="a" type="f">planten</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Tis nu den tijt so dat <rhyme label="b" type="m">behoort</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">men siet nu vreucht alen alle <rhyme label="a" type="f" corresp="#s1:l1">canten</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">De voghelkens singhen met soet <rhyme label="b" type="m" corresp="#s1:l2">accoort</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">De bloemkens staen seer wijt <rhyme label="a" type="f">ontloken</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Al deur den dou en sonne <rhyme label="b" type="m">claer</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Sy staen ter velde met soete <rhyme label="a" type="f" corresp="#s2:l1">roken</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Coemt met u lieffkan paer aen <rhyme label="b" type="m" corresp="#s2:l2">paer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Comt met u liefken en wilt <rhyme label="a" type="f">inhalen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Den mey seer soet en wel <rhyme label="b" type="m">ghebloeyt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Men sal u loonen vry sonder <rhyme label="a" type="f" corresp="#s3:l1">falen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Want uyt de mey veel liefden <rhyme label="b" type="m" corresp="#s3:l2">groeyt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Den rechten tijt is nu voor <rhyme label="a" type="f">handen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Comt met u liefken vry <rhyme label="b" type="m">onverstoort</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Trect met u liefken in Venus <rhyme label="a" type="f" corresp="#s4:l1">banden</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Wt rechter liefden soo dat <rhyme label="b" type="m" corresp="#s4:l2">behoort</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Die liefste eerbaer wilt eer <rhyme label="a" type="f">bewijsen</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Het is voorwaer een schoon <rhyme label="b" type="m">kerssou</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Sy doet u harteken so dickmael <rhyme label="a" type="f" corresp="#s5:l1">rijsen</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Dus weest in liefden altijt <rhyme label="b" type="m" corresp="#s5:l2">ghetrou</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Op harpen snaren, wilt <rhyme label="a" type="f">triumpheren</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">En lustich singhen met blind <rhyme label="b" type="m">gheschal</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Voor u liefs vensterken: het is haer ter <rhyme label="a" type="f" corresp="#s6:l1">eeren</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Dees meyen tijt gaet boven <rhyme label="b" type="m" corresp="#s6:l2">al</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Adieu Princesse ontfangt dees <rhyme label="a" type="f">meye</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Die u ter eeren nu is <rhyme label="b" type="m">gheplant</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">d’Almogenden God wil u <rhyme label="a" type="f" corresp="#s7:l1">gheleye</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">En u vreucht vermeeren u en elcken <rhyme label="b" type="m" corresp="#s7:l2">cant</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32807</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>O zalig heilig Bethlehem</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Maria schoon weest nu <rhyme label="a" type="m">ghegroet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Verhoort Godts Moeder ons <rhyme label="b" type="f">gebeden</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Valt uwen Soon voor ons de <rhyme label="a" type="m" corresp="#s1:l1">voet</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">En thoont hem nu al ons <rhyme label="b" type="f" corresp="#s1:l2">droefheden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wij sijn in druck en swaer <rhyme label="a" type="m">verdriet</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Die ketters doen ons <rhyme label="b" type="f">lamenteren</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">O Moeder Godts en verlaet ons <rhyme label="a" type="m" corresp="#s2:l1">niet</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Wilt toch voor ons <rhyme label="b" type="f" corresp="#s2:l2">intercederen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wat soud' toch Moeder uwen <rhyme label="a" type="m">Soon</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Aen u toch <rhyme label="b" type="f">moghen</rhyme> [...]</l>
+        <l id="s3:l3" met="4" type="-+">Als ghy u soete borsten <rhyme label="a" type="m" corresp="#s3:l1">schoon</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Aen hem voor ons comt <rhyme label="b" type="f" corresp="#s3:l2">presenteren</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Och hoe dickwils en <rhyme label="a" type="m">menichmael</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Hadden wy Godes gratie <rhyme label="b" type="f">verloren</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Maer ghy verbindt ons <rhyme label="a" type="m" corresp="#s4:l1">altemael</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Ons droevich kermen wilt <rhyme label="b" type="f" corresp="#s4:l2">aenhooren</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Wie kan toch wesen soo <rhyme label="a" type="m">versteent</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Om u Gods Moeder niet te <rhyme label="b" type="f">beminnen</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Bidt Iesum dat hy ons <rhyme label="a" type="m" corresp="#s5:l1">verleent</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Sijn liefde in ons ziel van <rhyme label="b" type="f" corresp="#s5:l2">binnen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Mijn hert o mijn Gheest, ziel en <rhyme label="a" type="m">lichaem</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Stel ick Maria in u <rhyme label="b" type="f">handen</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Laet het u wesen <rhyme label="a" type="m" corresp="#s6:l1">aenghenaem</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">En doet my in Godts liefden <rhyme label="b" type="f" corresp="#s6:l2">branden</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Princess' van't Hemels <rhyme label="a" type="m">Vaderlandt</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Wilt ons ghebedt aen Godt <rhyme label="b" type="f">op-draghen</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">Wy sijn benout aen allen <rhyme label="a" type="m" corresp="#s7:l1">kandt</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">Och keert van ons toch alle <rhyme label="b" type="f" corresp="#s7:l2">plaghen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

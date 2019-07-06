@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>157795</id>
+    <date>
+      <year-start>1678</year-start>
+      <year-end>1678</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">HIer woonen twee <rhyme label="a" type="f">Maeghden</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">Of'er ymant na <rhyme label="a" type="f" corresp="#s1:l1">vraeghden</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">De laetsten van <rhyme label="b" type="f">elven</rhyme>;</l>
+        <l id="s1:l4" met="2" type="-+">Sy woonen <rhyme label="c" type="m">altans</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">By gebreck van <rhyme label="c" type="m" corresp="#s1:l4">Mans</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Helaes op haer <rhyme label="b" type="f" corresp="#s1:l3">selven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

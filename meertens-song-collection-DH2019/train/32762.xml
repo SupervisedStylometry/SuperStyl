@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32762</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="meilied" translation="May song">meilied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Est-ce Mars</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">ONsen Meyboom staet in't <rhyme label="a" type="f">groene</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">Tot een ieders <rhyme label="b" type="m">lust</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Siet hy groeyt, siet hy <rhyme label="c" type="m">vloeyt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Met Christus dierbaer <rhyme label="d" type="m">bloedt</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Is hy <rhyme label="c" type="m" corresp="#s1:l3">besproeyt</rhyme>:</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Laet ons de vruchten <rhyme label="a" type="f">plucken</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">Met ons herten <rhyme label="b" type="m">vreught</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Nieuwe jeught, nieuwe <rhyme label="c" type="m">vreught</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Sullen sy gheven <rhyme label="d" type="m">soet</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Naer sijn <rhyme label="c" type="m" corresp="#s2:l3">ghemoet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Weest o Sone Godts <rhyme label="a" type="f">verheven</rhyme></l>
+        <l id="s3:l2" met="3" type="+-">Deur u cruys <rhyme label="b" type="m">ghegroet</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Iesu soet, Iesu <rhyme label="c" type="m">goet</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Ghy sijt die vreught <rhyme label="d" type="m">uytghelesen</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">Ons <rhyme label="c" type="m" corresp="#s3:l3">soetigheydt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Ghy sijt die vreught uyt <rhyme label="a" type="f">ghelesen</rhyme></l>
+        <l id="s4:l2" met="3" type="+-">Die ons't leven <rhyme label="b" type="m">gheeft</rhyme>:</l>
+        <l id="s4:l3" met="4" type="+-">Deur u leeft, al dat <rhyme label="c" type="m">heeft</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Gheleghen is doots <rhyme label="d" type="m">noodt</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">De sonden <rhyme label="c" type="m" corresp="#s4:l3">groot</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">De sondaer het <rhyme label="a" type="f">ghenesen</rhyme></l>
+        <l id="s5:l2" met="3" type="+-">Deur wonden <rhyme label="b" type="m">swaer</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">O minnaer, u een <rhyme label="c" type="m">paer</rhyme></l>
+        <l id="s5:l4" met="4" type="+-">Moet loven het <rhyme label="d" type="m">aerdtrijck</rhyme></l>
+        <l id="s5:l5" met="2" type="-+">En <rhyme label="c" type="m" corresp="#s5:l3">t'Hemelrijck</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13801</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+      <tag standard-name="stotterlied" translation="stutter song">stotterlied</tag>
+    </tags>
+    <melody>Tous les soldats de France</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>anoniem</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">LAet ons een deuntje <rhyme label="a" type="f">singhen</rhyme>,</l>
+        <l id="s1:l2" met="5" type="+-">Vol van soe, soe, soe, soe <rhyme label="b" type="m">soetigheydt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">En, en, en, en met vreughden <rhyme label="c" type="f">drincken</rhyme>,</l>
+        <l id="s1:l4" met="5" type="+-">‘t Nat dat Ba, Ba, Ba, Ba Bachus <rhyme label="b" type="m" corresp="#s1:l2">schreyt</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Men mach wel vrolijck <rhyme label="d" type="f">wesen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Het zy by Wijn of <rhyme label="e" type="m">Bier</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Niet gulsigh: maer met <rhyme label="f" type="f">maten</rhyme>,</l>
+        <l id="s1:l8" met="5" type="-+">Te maken goe, goe, goe, goe goede <rhyme label="e" type="m" corresp="#s1:l6">cier</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ghebuer ick sal ‘t u <rhyme label="a" type="f">brenghen</rhyme>,</l>
+        <l id="s2:l2" met="5" type="+-">‘t Glaesje to, to, to, to tot den <rhyme label="b" type="m">boom</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Wi, wi, wi, wilt het vry <rhyme label="c" type="f">verwachten</rhyme>,</l>
+        <l id="s2:l4" met="5" type="+-">Hiet het we, we, we, we <rhyme label="b" type="m" corresp="#s2:l2">wellekoom</rhyme>:</l>
+        <l id="s2:l5" met="3" type="-+">‘t Is maer een proper <rhyme label="d" type="f">teughje</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Gheen groote kroes, noch <rhyme label="e" type="m">fluyt</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Segh maer stap wech, laet <rhyme label="f" type="f">komen</rhyme>,</l>
+        <l id="s2:l8" met="5" type="-+">Ick mach het me, me, me, me wel <rhyme label="e" type="m" corresp="#s2:l6">uyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Sie daer dat gaetje <rhyme label="a" type="f">voren</rhyme>,</l>
+        <l id="s3:l2" met="5" type="+-">Siet eens hoe, hoe, hoe, hoe, hoe ik ‘t <rhyme label="b" type="m">maeck</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Sie, sie, sie, sie, sie, siet hem <rhyme label="c" type="f">swelghen</rhyme>,</l>
+        <l id="s3:l4" met="5" type="+-">‘t Heeft een hu, hu, hu, hu hupse <rhyme label="b" type="m" corresp="#s3:l2">smaeck</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Nu weder om <rhyme label="d" type="f">gheschoncken</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Vol inde <rhyme label="e" type="m">reedlijckheydt</rhyme>:</l>
+        <l id="s3:l7" met="3" type="-+">Soo meught ghy ‘t glas <rhyme label="f" type="f">ontfanghen</rhyme>,</l>
+        <l id="s3:l8" met="5" type="-+">En wacker doe, doe, doe, doe, doen <rhyme label="e" type="m" corresp="#s3:l6">bescheydt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

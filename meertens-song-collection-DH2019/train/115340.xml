@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>115340</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>alkmaar</orginal-name>
+      <standard-name>Alkmaar, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.6312592</lon>
+        <lat>4.7503798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="danklied" translation="gratitude song">danklied</tag>
+    </tags>
+    <melody>Nu laat ons allegaar</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Nu laet ons allegaer danckbaer <rhyme label="a" type="m">zijn</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Godt die ons heugh’lijck <rhyme label="b" type="f">spijset</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Als Schapen sijner weyden <rhyme label="a" type="m" corresp="#s1:l1">fijn</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Soo sijn mildtheyt <rhyme label="b" type="f" corresp="#s1:l2">bewijset</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Die ons door ‘t Woort geschapen <rhyme label="c" type="m">heeft</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Alles leven en wesen <rhyme label="c" type="m" corresp="#s1:l5">geeft</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Ons door sijn geest <rhyme label="d" type="f">herboren</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Doen wy waren <rhyme label="d" type="f" corresp="#s1:l7">verloren</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Lof eere zy Godt den Vader <rhyme label="a" type="m">goedt</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Lof eere zy Godt den <rhyme label="b" type="f">Sone</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">God heylighe Geest ons troostet <rhyme label="a" type="m" corresp="#s2:l1">soet</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Een Godt in drie <rhyme label="b" type="f" corresp="#s2:l2">persoonen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Een Godt en geen Goden <rhyme label="c" type="m">dry</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Andere Goden versaecken <rhyme label="c" type="m" corresp="#s2:l5">wy</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Die Godt alsoo niet <rhyme label="d" type="f">eeren</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Die waerheyt sy <rhyme label="d" type="f" corresp="#s2:l7">verkeeren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

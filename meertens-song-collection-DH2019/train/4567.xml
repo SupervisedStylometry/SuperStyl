@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4567</id>
+    <date>
+      <year-start>1667</year-start>
+      <year-end>1667</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Ik voer al over zee</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Pieter Elsevier</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">WEl Vrienden al te <rhyme label="a" type="m">saem</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Wel Vrienden al te saem, te <rhyme label="a" type="m" corresp="#s1:l1">saem</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Hier zijn wy by <rhyme label="b" type="f">malkander</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Om een Fluyt Tiereliere <rhyme label="c" type="m">luyt</rhyme></l>
+        <l id="s1:l5" met="3" type="+-">Te veegen schoontjes <rhyme label="c" type="m" corresp="#s1:l4">uyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Breng dan dit nat eens <rhyme label="a" type="m">voort</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Breng dan dit nat eens voort, eens <rhyme label="a" type="m" corresp="#s2:l1">voort</rhyme>.</l>
+        <l id="s2:l3" met="3" type="-+">En wilt geen wijntjes <rhyme label="b" type="f">sparen</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Lustig dan, Vat maer <rhyme label="c" type="m">an</rhyme>,</l>
+        <l id="s2:l5" met="3" type="+-">En drinckt gelijck een <rhyme label="c" type="m" corresp="#s2:l4">man</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Zoo leeft men in de <rhyme label="a" type="m">vreugt</rhyme>!</l>
+        <l id="s3:l2" met="4" type="-+">Zo leeft men in de vreugt, de <rhyme label="a" type="m" corresp="#s3:l1">vreugt</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">De Wijn die maeckt ons <rhyme label="b" type="f">vrolijck</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Dobbe dobbe dob, Lustig <rhyme label="c" type="m">op</rhyme>,</l>
+        <l id="s3:l5" met="3" type="+-">Het glaesjen deur je <rhyme label="c" type="m" corresp="#s3:l4">krop</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Die niet en zuypt is <rhyme label="a" type="m">mal</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Die niet en zuypt is mal, is <rhyme label="a" type="m" corresp="#s4:l1">mal</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Hy is een kaere melcks <rhyme label="b" type="f">tot</rhyme>.</l>
+        <l id="s4:l4" met="5" type="-+">Dom en bot, En een <rhyme label="c" type="m">zot</rhyme>,</l>
+        <l id="s4:l5" met="3" type="+-">Daer Bacchus stoet meê <rhyme label="c" type="m" corresp="#s4:l4">spot</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Leeft als een eerlijck <rhyme label="a" type="m">man</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Leeft als een eerlijck man, ja <rhyme label="a" type="m" corresp="#s5:l1">man</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">En laet geen wijn <rhyme label="b" type="f">verschalen</rhyme>,</l>
+        <l id="s5:l4" met="5" type="-+">Tiere-liere luyt, Drinck maer <rhyme label="c" type="m">uyt</rhyme>,</l>
+        <l id="s5:l5" met="3" type="+-">Met eene teug een <rhyme label="c" type="m" corresp="#s5:l4">fluyt</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Zoo komt men voort, en <rhyme label="a" type="m">voort</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Zoo komt men voort, en voort, en <rhyme label="a" type="m" corresp="#s6:l1">voort</rhyme>.</l>
+        <l id="s6:l3" met="3" type="-+">Somtijts met droncken <rhyme label="b" type="f">drincken</rhyme>,</l>
+        <l id="s6:l4" met="5" type="-+">En sijn gat, Met dit <rhyme label="c" type="m">nat</rhyme></l>
+        <l id="s6:l5" met="3" type="+-">Wel helder vol en <rhyme label="c" type="m" corresp="#s6:l4">zat</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Zoo gaet den tijdt al <rhyme label="a" type="m">deur</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">Zoo gaet den tijdt al deur, al <rhyme label="a" type="m" corresp="#s7:l1">deur</rhyme>,</l>
+        <l id="s7:l3" met="3" type="-+">Met roocken en met <rhyme label="b" type="f">smoocken</rhyme>,</l>
+        <l id="s7:l4" met="5" type="-+">Dagh en nacht, Sonder <rhyme label="c" type="m">smacht</rhyme>,</l>
+        <l id="s7:l5" met="3" type="+-">Met vreugden deur <rhyme label="c" type="m" corresp="#s7:l4">gebracht</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="3" type="-+">Looft dan den Godt der <rhyme label="a" type="m">Wijn</rhyme>,</l>
+        <l id="s8:l2" met="4" type="-+">Looft dan den Godt der Wijn, der <rhyme label="a" type="m" corresp="#s8:l1">Wijn</rhyme>,</l>
+        <l id="s8:l3" met="3" type="-+">Die ons dat nobel <rhyme label="b" type="f">Wijntje</rhyme></l>
+        <l id="s8:l4" met="5" type="-+">Aen quam biên, En ons <rhyme label="c" type="m">liên</rhyme></l>
+        <l id="s8:l5" met="3" type="+-">Heeft met die vocht <rhyme label="c" type="m" corresp="#s8:l4">versien</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

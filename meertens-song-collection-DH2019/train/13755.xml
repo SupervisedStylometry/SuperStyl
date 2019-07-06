@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13755</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Ik peins om een persoon</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>anoniem</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">DE werelt heeft haer bly’en/ <rhyme label="a" type="m">tijt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">En oock haer noodigh <rhyme label="b" type="m">suer</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Ghy die nu noch te vryen/ <rhyme label="a" type="m" corresp="#s1:l1">zijt</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Wenst niet dat ‘t eeuwigh// <rhyme label="b" type="m" corresp="#s1:l2">duer</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Al schijnt het schier verlooren// <rhyme label="c" type="m">dan</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Het soet begint van vooren// <rhyme label="c" type="m" corresp="#s1:l5">an</rhyme>:</l>
+        <l id="s1:l7" met="4" type="-+">Dies kiest (o maeght) die u <rhyme label="d" type="m">behaeght</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Tot een verkoren <rhyme label="c" type="m" corresp="#s1:l5">man</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">De werelt heeft haer droeve/ <rhyme label="a" type="m">staet</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">En oock haer noodigh <rhyme label="b" type="m">soet</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Of u, uw’ vryster toeven// <rhyme label="a" type="m" corresp="#s2:l1">laet</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Hout echter goeden <rhyme label="b" type="m" corresp="#s2:l2">moet</rhyme>:</l>
+        <l id="s2:l5" met="4" type="+-">Wijck daerom niet te verder// <rhyme label="c" type="m">van</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Maer vryt haer des te herder// <rhyme label="c" type="m" corresp="#s2:l5">dan</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Ghy sult niet zijn// in staeghe <rhyme label="d" type="m">pijn</rhyme>:</l>
+        <l id="s2:l8" met="3" type="-+">Dat is wel verr’ daer <rhyme label="c" type="m" corresp="#s2:l5">van</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">De werelt heeft haer soeten// <rhyme label="a" type="m">vreught</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Dat speurt ghy aen dees <rhyme label="b" type="m">twee</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Maeckt dat ghy so oock boeten// <rhyme label="a" type="m" corresp="#s3:l1">meught</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Met vreught u herten <rhyme label="b" type="m" corresp="#s3:l2">wee</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Ghy Vryers, vryt de Vrysters// <rhyme label="c" type="m">sterck</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Ghy Vrysters, prijst des Vryers// <rhyme label="c" type="m" corresp="#s3:l5">werck</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Segh haestigh Iae// elck wachter <rhyme label="d" type="m">nae</rhyme>’:</l>
+        <l id="s3:l8" met="3" type="-+">Want Iae is ‘t Vryers <rhyme label="c" type="m" corresp="#s3:l5">merck</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">De werelt heeft haer staegen// <rhyme label="a" type="m">smert</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Maer alles neemt sijn <rhyme label="b" type="m">keer</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Al vallen u de dagen// <rhyme label="a" type="m" corresp="#s4:l1">hert</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">De nacht versoet het <rhyme label="b" type="m" corresp="#s4:l2">weer</rhyme>;</l>
+        <l id="s4:l5" met="4" type="+-">Een lieve lagh versoet het// <rhyme label="c" type="m">al</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">Dat u by daegh ontmoeten// <rhyme label="c" type="m" corresp="#s4:l5">sal</rhyme>,</l>
+        <l id="s4:l7" met="4" type="-+">Dies gaet gerust// daer min u <rhyme label="d" type="m">lust</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Met vreughde boeten <rhyme label="c" type="m" corresp="#s4:l5">sal</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

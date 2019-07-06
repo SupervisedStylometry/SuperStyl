@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13994</id>
+    <date>
+      <year-start>1670</year-start>
+      <year-end>1670</year-end>
+    </date>
+    <location>
+      <orginal-name>middelburg</orginal-name>
+      <standard-name>Middelburg, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.4997302</lon>
+        <lat>3.6136962</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Questa dolce sirena</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>M. van de Speybroek</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">HEyl, welvaert en <rhyme label="a" type="m">geluk</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Wenschen wy dat voor <rhyme label="a" type="m" corresp="#s1:l1">druk</rhyme></l>
+        <l id="s1:l3" met="2" type="+-">'t Jonge <rhyme label="b" type="m">paer</rhyme>,</l>
+        <l id="s1:l4" met="2" type="+-">Met <rhyme label="b" type="m" corresp="#s1:l3">malkaer</rhyme></l>
+        <l id="s1:l5" met="2" type="+-">Mach <rhyme label="c" type="f">genieten</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Hier tot een <rhyme label="a" type="m" corresp="#s1:l1">Bruylofts-stuck</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Wat is nu op der <rhyme label="a" type="m">Aerdt</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Het aldermeest van <rhyme label="a" type="m" corresp="#s2:l1">waerdt</rhyme>,</l>
+        <l id="s2:l3" met="2" type="+-">Als een <rhyme label="b" type="m">mensch</rhyme></l>
+        <l id="s2:l4" met="2" type="+-">Heel sijn <rhyme label="b" type="m" corresp="#s2:l3">wensch</rhyme></l>
+        <l id="s2:l5" met="2" type="+-">Soud' <rhyme label="c" type="f">verkrijghen</rhyme>?</l>
+        <l id="s2:l6" met="3" type="-+">Ey, ons dit eens <rhyme label="a" type="m" corresp="#s2:l1">verklaert</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Ist rijckdom, gelt of <rhyme label="a" type="m">goet</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Dat ons hier lustigh <rhyme label="a" type="m" corresp="#s3:l1">doet</rhyme></l>
+        <l id="s3:l3" met="2" type="+-">Heel <rhyme label="b" type="m">verheught</rhyme></l>
+        <l id="s3:l4" met="2" type="+-">Met <rhyme label="b" type="m" corresp="#s3:l3">geneught</rhyme></l>
+        <l id="s3:l5" met="2" type="+-">Stadigh <rhyme label="c" type="f">leven</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">En vrolijck van <rhyme label="a" type="m" corresp="#s3:l1">ghemoet</rhyme>?</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Of doet hoogheyt en <rhyme label="a" type="m">staet</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Hier toe de meeste <rhyme label="a" type="m" corresp="#s4:l1">baet</rhyme>,</l>
+        <l id="s4:l3" met="2" type="+-">Om in <rhyme label="b" type="m">lust</rhyme></l>
+        <l id="s4:l4" met="2" type="+-">Vreught en <rhyme label="b" type="m" corresp="#s4:l3">rust</rhyme></l>
+        <l id="s4:l5" met="2" type="+-">Hier te <rhyme label="c" type="f">blijven</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Heel vry van alle <rhyme label="a" type="m" corresp="#s4:l1">quaet</rhyme>?</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Neen, neen dat ist noch <rhyme label="a" type="m">niet</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Dat droefheyt en <rhyme label="a" type="m" corresp="#s5:l1">verdriet</rhyme></l>
+        <l id="s5:l3" met="2" type="+-">Heel en <rhyme label="b" type="m">vert</rhyme></l>
+        <l id="s5:l4" met="2" type="+-">Uyt ons <rhyme label="b" type="m" corresp="#s5:l3">hert</rhyme></l>
+        <l id="s5:l5" met="2" type="+-">Kan <rhyme label="c" type="f">verjaghen</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">Ghelijck men dickwils <rhyme label="a" type="m" corresp="#s5:l1">siet</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Wat heeft dan d' hooghste <rhyme label="a" type="m">stee</rhyme>?</l>
+        <l id="s6:l2" met="3" type="-+">Maer liefd', eendracht, en <rhyme label="a" type="m" corresp="#s6:l1">vree</rhyme>,</l>
+        <l id="s6:l3" met="2" type="+-">Want het <rhyme label="b" type="m">is</rhyme></l>
+        <l id="s6:l4" met="2" type="+-">Waer en <rhyme label="b" type="m" corresp="#s6:l3">wis</rhyme>,</l>
+        <l id="s6:l5" met="2" type="+-">Datse <rhyme label="c" type="f">brenghen</rhyme></l>
+        <l id="s6:l6" met="3" type="-+">'t Gewenschte leven <rhyme label="a" type="m" corresp="#s6:l1">mee</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Ghenooden wie ghy <rhyme label="a" type="m">zijt</rhyme>,</l>
+        <l id="s7:l2" met="3" type="-+">Wenscht met my dat <rhyme label="a" type="m" corresp="#s7:l1">altijdt</rhyme></l>
+        <l id="s7:l3" met="2" type="+-">Liefdens <rhyme label="b" type="m">kracht</rhyme>,</l>
+        <l id="s7:l4" met="2" type="+-">Met <rhyme label="b" type="m" corresp="#s7:l3">eendracht</rhyme>,</l>
+        <l id="s7:l5" met="2" type="+-">Ende <rhyme label="c" type="f">vrede</rhyme></l>
+        <l id="s7:l6" met="3" type="-+">Dees liefjens maeckt <rhyme label="a" type="m" corresp="#s7:l1">verblijt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175089</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">‘Lorretje, kaporretje, <rhyme label="a" type="m">kapoe</rhyme>!....’</l>
+        <l id="s1:l2" met="4" type="+-">Foei, ik hoû mijne ooren <rhyme label="a" type="m" corresp="#s1:l1">toe</rhyme>, -</l>
+        <l id="s1:l3" met="4" type="+-">Wat geschreeuw en wat <rhyme label="b" type="m">getier</rhyme>,</l>
+        <l id="s1:l4" met="2" type="+-">Leelijk <rhyme label="b" type="m" corresp="#s1:l3">dier</rhyme>!</l>
+        <l id="s1:l5" met="4" type="+-">Hè! mijn heele hoofd is <rhyme label="a" type="m" corresp="#s1:l1">moê</rhyme>....</l>
+        <l id="s1:l6" met="5" type="+-">‘Lorretje, kaporretje, <rhyme label="a" type="m" corresp="#s1:l1">kapoe</rhyme>!’</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">- Ja, mijn kind! al vindt ge het <rhyme label="a" type="m">verkeerd</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Ik heb anders niet <rhyme label="a" type="m" corresp="#s2:l1">geleerd</rhyme>;</l>
+        <l id="s2:l3" met="4" type="+-">Maar een kind, dat beter <rhyme label="b" type="m">weet</rhyme>,</l>
+        <l id="s2:l4" met="2" type="+-">En <rhyme label="b" type="m" corresp="#s2:l3">vergeet</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Hoe zijn snappen andren <rhyme label="a" type="m" corresp="#s2:l1">deert</rhyme>....</l>
+        <l id="s2:l6" met="5" type="+-">Doet dan willens dubbel zoo <rhyme label="a" type="m" corresp="#s2:l1">verkeerd</rhyme>. -</l>
+      </lg>
+    </lg>
+  </text>
+</song>

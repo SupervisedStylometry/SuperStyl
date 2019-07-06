@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111584</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Mars van Dessau</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">CLimeen,, waar <rhyme label="a" type="m">heen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Dog dwalen uwe <rhyme label="b" type="f">Sinnen</rhyme>?</l>
+        <l id="s1:l3" met="5" type="-+">'k Wil u wel beminnen, maar niet dat <rhyme label="c" type="m">ik</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">U meen te trouwen. Neen by <rhyme label="c" type="m" corresp="#s1:l3">me'swik</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Wild daar niet <rhyme label="d" type="f">opvertrouwen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">'k Heb daar voor een <rhyme label="c" type="m" corresp="#s1:l3">schrik</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">'k Wil in,, de <rhyme label="a" type="m">Min</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">En haar sagte <rhyme label="b" type="f">banden</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">U wel Offerhanden doen van myn <rhyme label="c" type="m">Hert</rhyme>;</l>
+        <l id="s2:l4" met="4" type="-+">Dog niet in 't Huw'lyk, want dat <rhyme label="c" type="m" corresp="#s2:l3">werd</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Door de tyd <rhyme label="d" type="f">afschuw'lyk</rhyme></l>
+        <l id="s2:l6" met="3" type="+-">En baerd ons veel <rhyme label="c" type="m" corresp="#s2:l3">smert</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Wild gy,, met <rhyme label="a" type="m">my</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Weer als voorhenen <rhyme label="b" type="f">leven</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">En uw hert weer geven, ik ben te <rhyme label="c" type="m">vre'en</rhyme>:</l>
+        <l id="s3:l4" met="4" type="-+">Maar zo is 't niet met je Wil is, seg vry <rhyme label="c" type="m" corresp="#s3:l3">neen</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">'k Hou dan met <rhyme label="d" type="f">Amarillis</rhyme></l>
+        <l id="s3:l6" met="3" type="+-">Bruy maar heen, <rhyme label="c" type="m" corresp="#s3:l3">Climeen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

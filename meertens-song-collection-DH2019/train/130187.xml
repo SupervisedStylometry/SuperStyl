@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>130187</id>
+    <date>
+      <year-start>1710</year-start>
+      <year-end>1710</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Hoe kan ik vrolijk wezen</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Hoe kan ik vrolijk <rhyme label="a" type="f">wesen</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">Als ik scheyden <rhyme label="b" type="m">moet</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Want duisent <rhyme label="a" type="f" corresp="#s1:l1">vresen</rhyme></l>
+        <l id="s1:l4" met="3" type="+-">Die de Liefde <rhyme label="b" type="m" corresp="#s1:l2">doet</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Wanneer de hoop ten Hemel <rhyme label="c" type="m">vaert</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Met vrezen staet te <rhyme label="a" type="f" corresp="#s1:l1">beven</rhyme></l>
+        <l id="s1:l7" met="3" type="+-">Hier te zijn op <rhyme label="c" type="m" corresp="#s1:l5">Aart</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">'k Vrees, Cupido, u <rhyme label="a" type="f">schigten</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">Komen mijn veel te <rhyme label="b" type="m">na</rhyme>.</l>
+        <l id="s2:l3" met="2" type="-+">Elk schijnt te <rhyme label="a" type="f" corresp="#s2:l1">zwigten</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">Voor uw <rhyme label="b" type="m" corresp="#s2:l2">ongena</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">De blinde Oorlog die gy <rhyme label="c" type="m">voert</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Die kan veel quaets <rhyme label="a" type="f" corresp="#s2:l1">verrigten</rhyme></l>
+        <l id="s2:l7" met="3" type="+-">Als hy 't Hert <rhyme label="c" type="m" corresp="#s2:l5">vervoert</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Ik wil niet meer <rhyme label="a" type="f">bewogen</rhyme></l>
+        <l id="s3:l2" met="3" type="+-">Wesen door de <rhyme label="b" type="m">min</rhyme>.</l>
+        <l id="s3:l3" met="2" type="-+">'k Sal haer <rhyme label="a" type="f" corresp="#s3:l1">vermogen</rhyme></l>
+        <l id="s3:l4" met="3" type="+-">Stellen uit mijn <rhyme label="b" type="m" corresp="#s3:l2">zin</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Op dat geen meerder pyn of <rhyme label="c" type="m">smert</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">De Stralen van haer <rhyme label="a" type="f" corresp="#s3:l1">oogen</rhyme></l>
+        <l id="s3:l7" met="3" type="+-">Schieten door mijn <rhyme label="c" type="m" corresp="#s3:l5">hert</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Adieu, adieu dan <rhyme label="a" type="f">Schoone</rhyme>,</l>
+        <l id="s4:l2" met="3" type="+-">Wrede myn <rhyme label="b" type="m">godin</rhyme>!</l>
+        <l id="s4:l3" met="2" type="-+">U Roose <rhyme label="a" type="f" corresp="#s4:l1">Koonen</rhyme></l>
+        <l id="s4:l4" met="3" type="+-">Hebben doornen <rhyme label="b" type="m" corresp="#s4:l2">in</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">U lieve lonkjes sijn te <rhyme label="c" type="m">dier</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Om hopeloos te <rhyme label="a" type="f" corresp="#s4:l1">leven</rhyme></l>
+        <l id="s4:l7" met="3" type="+-">In het Minne <rhyme label="c" type="m" corresp="#s4:l5">vier</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

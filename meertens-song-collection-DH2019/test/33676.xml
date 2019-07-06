@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>33676</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Elisabeth, 't Wijf van <rhyme label="a" type="m">Sacharias</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Die is verlost van eenen jongen <rhyme label="b" type="f">Soone</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Soo rassche als den tijdt verloopen <rhyme label="a" type="m" corresp="#s1:l1">was</rhyme>;</l>
+        <l id="s1:l4" met="5" type="-+">Dit hooren al die in de buerte <rhyme label="b" type="f" corresp="#s1:l2">woone</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">En altemael de Vrienden van 't <rhyme label="c" type="m">geslaght</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Die bieden haer geluk, en looven <rhyme label="d" type="f">meede</rhyme></l>
+        <l id="s1:l7" met="5" type="-+">Den Heer, om dat hy op haer heeft <rhyme label="c" type="m" corresp="#s1:l5">gebraght</rhyme></l>
+        <l id="s1:l8" met="5" type="-+">Seer grootelijk al sijn <rhyme label="d" type="f" corresp="#s1:l6">barmhartigheede</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Op d'aghsten dagh, soo is het ook <rhyme label="a" type="m">geschiet</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Dat men het Kindt souw' na de Wet <rhyme label="b" type="f">besnijden</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">En na sijn Vaêr men 't Sacharias <rhyme label="a" type="m" corresp="#s2:l1">hiet</rhyme>.</l>
+        <l id="s2:l4" met="5" type="-+">Elisabeth en wil dat geensins <rhyme label="b" type="f" corresp="#s2:l2">lijden</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">En seydt, het moet Joannes sijn <rhyme label="c" type="m">genaemt</rhyme>.</l>
+        <l id="s2:l6" met="5" type="-+">Sy seggen weer, niemant van uw <rhyme label="d" type="f">geslaghte</rhyme></l>
+        <l id="s2:l7" met="5" type="-+">Heeft sulken naem: daerom het niet <rhyme label="c" type="m" corresp="#s2:l5">betaemt</rhyme>,</l>
+        <l id="s2:l8" met="5" type="-+">'t Sal wesen best sijns Vaêrs bescheyt te <rhyme label="d" type="f" corresp="#s2:l6">waghte</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Den stommen Vaêr, wel wetende de <rhyme label="a" type="m">saek</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Een Schrijf-boek eyst, en gaet Joannes <rhyme label="b" type="f">schrijven</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">En datelijk krijght hy weerom sijn <rhyme label="a" type="m" corresp="#s3:l1">spraek</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">En seydt, sijn naem die sal Joannes <rhyme label="b" type="f" corresp="#s3:l2">blijven</rhyme>:</l>
+        <l id="s3:l5" met="5" type="-+">Een yegelijk die wordt nu seer <rhyme label="c" type="m">bevreest</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">En seydt, wat sal dit Kindt nogh voor een <rhyme label="d" type="f">weesen</rhyme>?</l>
+        <l id="s3:l7" met="5" type="-+">Sacharias, vervult met d'Heyl'gen <rhyme label="c" type="m" corresp="#s3:l5">Geest</rhyme>,</l>
+        <l id="s3:l8" met="5" type="-+">Als een Propheet, heeft Godt den Heer <rhyme label="d" type="f" corresp="#s3:l6">gepreesen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

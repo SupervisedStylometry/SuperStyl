@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>158832</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Wat is er groter vreugde op aarde</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">'t Is vergeefs met <rhyme label="a" type="m">redenstrijd</rhyme></l>
+        <l id="s1:l2" met="2" type="+-">En <rhyme label="a" type="m" corresp="#s1:l1">verwijt</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Voor en tegen trouw   te <rhyme label="b" type="f">spreken</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Nademaal dat   dat <rhyme label="c" type="m">geding</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Door geen reden <rhyme label="c" type="m" corresp="#s1:l4">onderling</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Ooit kan werden <rhyme label="b" type="f" corresp="#s1:l3">vergeleken</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">'t Huwlijk word by elk <rhyme label="a" type="m">ge-eerd</rhyme></l>
+        <l id="s2:l2" met="2" type="+-">En <rhyme label="a" type="m" corresp="#s2:l1">begeerd</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Self de redenloose <rhyme label="b" type="f">dieren</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Hoe verwoed en wreed van <rhyme label="c" type="m">aard</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Siet men nogtans steeds <rhyme label="c" type="m" corresp="#s2:l4">gepaard</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Het gesellig huwelijk <rhyme label="b" type="f" corresp="#s2:l3">vieren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Vryheid is vol vreugd en <rhyme label="a" type="m">soet</rhyme>,</l>
+        <l id="s3:l2" met="2" type="+-">Want sy <rhyme label="a" type="m" corresp="#s3:l1">doet</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Elk na haar besitting <rhyme label="b" type="f">haken</rhyme>;</l>
+        <l id="s3:l4" met="4" type="+-">Sy bekoort een yder   <rhyme label="c" type="m">hert</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Want waar sy gevonden <rhyme label="c" type="m" corresp="#s3:l4">werd</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Kan men waar genoegen <rhyme label="b" type="f" corresp="#s3:l3">smaken</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Maar al wat de sinnen <rhyme label="a" type="m">streeld</rhyme>,</l>
+        <l id="s4:l2" met="2" type="+-">Haast   <rhyme label="a" type="m" corresp="#s4:l1">verveeld</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">Door 't langduerige <rhyme label="b" type="f">genieten</rhyme>;</l>
+        <l id="s4:l4" met="4" type="+-">Ook is 't aldersoetste <rhyme label="c" type="m">soet</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">Vaak doormengd met bitter <rhyme label="c" type="m" corresp="#s4:l4">roet</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Dat ons alles doet <rhyme label="b" type="f" corresp="#s4:l3">verdrieten</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Des de wyse <rhyme label="a" type="m">Sokrates</rhyme></l>
+        <l id="s5:l2" met="2" type="+-">Dese <rhyme label="a" type="m" corresp="#s5:l1">les</rhyme></l>
+        <l id="s5:l3" met="4" type="+-">Heeft wel eertijds regt <rhyme label="b" type="f">gegeven</rhyme>:</l>
+        <l id="s5:l4" met="4" type="+-">Gy sult namaals met <rhyme label="c" type="m">berouw</rhyme></l>
+        <l id="s5:l5" met="4" type="+-">Of beklagen uwe <rhyme label="c" type="m" corresp="#s5:l4">trouw</rhyme>,</l>
+        <l id="s5:l6" met="4" type="+-">Of verwenschen 't eensaam <rhyme label="b" type="f" corresp="#s5:l3">leven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

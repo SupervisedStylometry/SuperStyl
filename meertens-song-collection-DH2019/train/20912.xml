@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20912</id>
+    <date>
+      <year-start>1664</year-start>
+      <year-end>1664</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+    </tags>
+    <melody>Engelse fortuin</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Willem de Swaen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">ALmogend' <rhyme label="a" type="m">Heer</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Die eertijds op dees <rhyme label="b" type="m">aerd'</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">Tot onser <rhyme label="a" type="m" corresp="#s1:l1">eer</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Ons' menscheyt hebt <rhyme label="b" type="m" corresp="#s1:l2">aenvaert</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Die <rhyme label="c" type="m">nederquam</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">In 's Maghets suyv're <rhyme label="d" type="m">schoot</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">Uyt Davids <rhyme label="c" type="m" corresp="#s1:l5">Stam</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Voor d' algemeene <rhyme label="d" type="m" corresp="#s1:l6">noot</rhyme>;</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Die onse <rhyme label="a" type="m">saeck</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Quam nemen by de <rhyme label="b" type="m">hand</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Die Godes <rhyme label="a" type="m" corresp="#s2:l1">wraeck</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Quam leggen aen een <rhyme label="b" type="m" corresp="#s2:l2">kant</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Die met u <rhyme label="c" type="m">bloed</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Als eenen <rhyme label="d" type="m">Pellicaen</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">Ons hebt <rhyme label="c" type="m" corresp="#s2:l5">gevoedt</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Op deses werelts <rhyme label="d" type="m" corresp="#s2:l6">baen</rhyme>;</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Die zijt <rhyme label="a" type="m">geweest</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Een trouw' <rhyme label="b" type="m">Samaritaen</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">Die ons <rhyme label="a" type="m" corresp="#s3:l1">geneest</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">(Die zijn met sond' <rhyme label="b" type="m" corresp="#s3:l2">belaen</rhyme>)</l>
+        <l id="s3:l5" met="2" type="-+">Die door 't <rhyme label="c" type="m">gebed</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Van uwen knecht Sint <rhyme label="d" type="m">Roock</rhyme>,</l>
+        <l id="s3:l7" met="2" type="-+">Dickmaels <rhyme label="c" type="m" corresp="#s3:l5">belet</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">De Pest hebt, en sijn <rhyme label="d" type="m" corresp="#s3:l6">smoock</rhyme>;</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">Die <rhyme label="a" type="m">menighreys</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Gesontheyd hebt <rhyme label="b" type="m">verleent</rhyme></l>
+        <l id="s4:l3" met="2" type="-+">Aen 't krancke <rhyme label="a" type="m" corresp="#s4:l1">vleys</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">(Door Hem) van uw' <rhyme label="b" type="m" corresp="#s4:l2">Gemeent'</rhyme>;</l>
+        <l id="s4:l5" met="2" type="-+">Welck uwen <rhyme label="c" type="m">vriend</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Sint Roock, met <rhyme label="d" type="m">vlijtigheyd</rhyme></l>
+        <l id="s4:l7" met="2" type="-+">Self heeft <rhyme label="c" type="m" corresp="#s4:l5">gedient</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">In groote <rhyme label="d" type="m" corresp="#s4:l6">vrind'lijckheyd</rhyme>;</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="2" type="-+">Die tot Hem <rhyme label="a" type="m">sondt</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Uw' Engel hier <rhyme label="b" type="m">bene'en</rhyme></l>
+        <l id="s5:l3" met="2" type="-+">Om sijne <rhyme label="a" type="m" corresp="#s5:l1">wond'</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Te g'nesen van sijn <rhyme label="b" type="m" corresp="#s5:l2">been</rhyme>;</l>
+        <l id="s5:l5" met="2" type="-+">Die dagh voor <rhyme label="c" type="m">dagh</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Hem spijsden met een <rhyme label="d" type="m">brood</rhyme>,</l>
+        <l id="s5:l7" met="2" type="-+">G'lijck Gh' eertijds <rhyme label="c" type="m" corresp="#s5:l5">plagh</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">Eliam in sijn <rhyme label="d" type="m" corresp="#s5:l6">noodt</rhyme>;</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="2" type="-+">Die door een <rhyme label="a" type="m">Hond</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">En niet door een <rhyme label="b" type="m">Raef</rhyme></l>
+        <l id="s6:l3" met="2" type="-+">(Tot dat <rhyme label="a" type="m" corresp="#s6:l1">gesont</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Wierdt uwen waerden <rhyme label="b" type="m" corresp="#s6:l2">slaef</rhyme>)</l>
+        <l id="s6:l5" met="2" type="-+">Hem hebt <rhyme label="c" type="m">versien</rhyme>,</l>
+        <l id="s6:l6" met="3" type="-+">Die nu in 's hemels <rhyme label="d" type="m">hof</rhyme></l>
+        <l id="s6:l7" met="2" type="-+">Met 's herts <rhyme label="c" type="m" corresp="#s6:l5">verblien</rhyme>,</l>
+        <l id="s6:l8" met="3" type="-+">Geduerigh singht uw' <rhyme label="d" type="m" corresp="#s6:l6">lof</rhyme>;</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="2" type="-+">Wy bidden <rhyme label="a" type="m">U</rhyme>,</l>
+        <l id="s7:l2" met="3" type="-+">Laet desen vromen <rhyme label="b" type="m">Man</rhyme></l>
+        <l id="s7:l3" met="2" type="-+">Ons helpen <rhyme label="a" type="m" corresp="#s7:l1">nu</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">In 't droevigh <rhyme label="b" type="m" corresp="#s7:l2">Pest-gestan</rhyme>.</l>
+        <l id="s7:l5" met="2" type="-+">Laet Hy ons <rhyme label="c" type="m">zijn</rhyme></l>
+        <l id="s7:l6" met="3" type="-+">In dese swaere <rhyme label="d" type="m">smert</rhyme></l>
+        <l id="s7:l7" met="2" type="-+">Een <rhyme label="c" type="m" corresp="#s7:l5">Medicijn</rhyme>,</l>
+        <l id="s7:l8" met="3" type="-+">Die troosten mach ons' <rhyme label="d" type="m" corresp="#s7:l6">hert</rhyme>;</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="2" type="-+">Laet dit <rhyme label="a" type="m">geluck</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">Heer Jesu! ons <rhyme label="b" type="m">geschie'n</rhyme>,</l>
+        <l id="s8:l3" met="2" type="-+">Dat in ons' <rhyme label="a" type="m" corresp="#s8:l1">druck</rhyme></l>
+        <l id="s8:l4" met="3" type="-+">Sint Roock ons komt <rhyme label="b" type="m" corresp="#s8:l2">verblien</rhyme>.</l>
+        <l id="s8:l5" met="2" type="-+">Neemt sijn <rhyme label="c" type="m">gebe'en</rhyme></l>
+        <l id="s8:l6" met="3" type="-+">Heer Jesu! voor ons <rhyme label="d" type="m">aen</rhyme>,</l>
+        <l id="s8:l7" met="2" type="-+">Laet ons <rhyme label="c" type="m" corresp="#s8:l5">gesteen</rhyme></l>
+        <l id="s8:l8" met="3" type="-+">Door sijn versoeck <rhyme label="d" type="m" corresp="#s8:l6">vergaen</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="2" type="-+">Ey Ghy, O <rhyme label="a" type="m">Sant</rhyme>,</l>
+        <l id="s9:l2" met="3" type="-+">O Roche, dienaer <rhyme label="b" type="m">Goods</rhyme>!</l>
+        <l id="s9:l3" met="2" type="-+">Reyckt uwe <rhyme label="a" type="m" corresp="#s9:l1">hand</rhyme></l>
+        <l id="s9:l4" met="3" type="-+">Aen ons in d' uur des <rhyme label="b" type="m" corresp="#s9:l2">doods</rhyme>:</l>
+        <l id="s9:l5" met="2" type="-+">Vrijdt ons van <rhyme label="c" type="m">Pest</rhyme></l>
+        <l id="s9:l6" met="3" type="-+">Die ziel, en lichaem <rhyme label="d" type="m">schendt</rhyme>;</l>
+        <l id="s9:l7" met="2" type="-+">Op 's levens <rhyme label="c" type="m" corresp="#s9:l5">lest</rhyme></l>
+        <l id="s9:l8" met="3" type="-+">Uw' oogen tot ons <rhyme label="d" type="m" corresp="#s9:l6">wend</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

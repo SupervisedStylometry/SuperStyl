@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>115828</id>
+    <date>
+      <year-start>1694</year-start>
+      <year-end>1694</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="spotlied" translation="mocking song">spotlied</tag>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="dialectlied" translation="dialect song">dialectlied</tag>
+    </tags>
+    <melody>Dronken boer</melody>
+    <categories>
+      <category translation="groups">groepen</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Cornelis Sweerts</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">Zie! zie, hoe men <rhyme label="a" type="m">kaikt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Dat ik nou wat vrolyk <rhyme label="b" type="m">bin</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Wel het giéétme náe men <rhyme label="b" type="m" corresp="#s1:l2">zin</rhyme>,</l>
+        <l id="s1:l4" met="5" type="+-">Of jy lui hierom al zit en <rhyme label="a" type="m" corresp="#s1:l1">praikt</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Héér! 't volkje schaint wel <rhyme label="c" type="f">viesjes</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Jáe en wel wongder <rhyme label="c" type="f" corresp="#s1:l5">kiesjes</rhyme>,</l>
+        <l id="s1:l7" met="5" type="+-">Om dat ik nou iens men flasje <rhyme label="d" type="m">leeg</rhyme>,</l>
+        <l id="s1:l8" met="7" type="-+">En dáer ait altemetsjes háelen gáe ien bráve <rhyme label="d" type="m" corresp="#s1:l7">veeg</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Scháem jou as je <rhyme label="a" type="m">drinkt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Jy Uffrouwen en <rhyme label="b" type="m">Sinjeurs</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Wat maak jy lui niet wel <rhyme label="b" type="m" corresp="#s2:l2">geurs</rhyme>,</l>
+        <l id="s2:l4" met="5" type="+-">As jy luitjes ook iens drinkt en <rhyme label="a" type="m" corresp="#s2:l1">klinkt</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">Hey! doenent groote <rhyme label="c" type="f">Heeren</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Laet ons de keel dan <rhyme label="c" type="f" corresp="#s2:l5">smeeren</rhyme>,</l>
+        <l id="s2:l7" met="5" type="+-">Wel ik wil niet loopen om een <rhyme label="d" type="m">hoek</rhyme>,</l>
+        <l id="s2:l8" met="7" type="-+">Want kaik ik draag men flasje altyd baime in men <rhyme label="d" type="m" corresp="#s2:l7">broek</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

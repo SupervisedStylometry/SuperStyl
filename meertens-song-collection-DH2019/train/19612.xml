@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19612</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="dialectlied" translation="dialect song">dialectlied</tag>
+    </tags>
+    <melody>Polyphemus aan de stranden</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="groups">groepen</category>
+    </categories>
+  <author>Thomas Fonteyn</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">MEisse, zalt tan nieuwers <rhyme label="a" type="f">lokke</rhyme></l>
+        <l id="s1:l2" met="2" type="+-">Datwe <rhyme label="a" type="f" corresp="#s1:l1">schokke</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Zulle, lustig mit <rhyme label="b" type="m">mekaer</rhyme>?</l>
+        <l id="s1:l4" met="4" type="+-">‘K sal em peerden in goo <rhyme label="c" type="f">spannen</rhyme>?</l>
+        <l id="s1:l5" met="2" type="+-">(Gort go’e <rhyme label="c" type="f" corresp="#s1:l4">mannen</rhyme>)</l>
+        <l id="s1:l6" met="4" type="+-">Sprikt, beget, we zinne <rhyme label="b" type="m" corresp="#s1:l3">klaer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Ba wat mag ouw hover <rhyme label="a" type="f">kome</rhyme>,</l>
+        <l id="s2:l2" met="2" type="+-">Tes  te <rhyme label="a" type="f" corresp="#s2:l1">schroome</rhyme>:</l>
+        <l id="s2:l3" met="4" type="+-">Door dijnd up te zein <rhyme label="b" type="m">gelet</rhyme>.</l>
+        <l id="s2:l4" met="4" type="+-">Wind ouw leun en reiier <rhyme label="c" type="f">doore</rhyme>,</l>
+        <l id="s2:l5" met="2" type="+-">Tes <rhyme label="c" type="f" corresp="#s2:l4">verloore</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Wag’ge mei te veure <rhyme label="b" type="m" corresp="#s2:l3">zet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Hommers, leete wilder <rhyme label="a" type="f">rotze</rhyme></l>
+        <l id="s3:l2" met="2" type="+-">
+          <rhyme label="a" type="f" corresp="#s3:l1">Otzebotze</rhyme>
+        </l>
+        <l id="s3:l3" met="4" type="+-">Deur de duinen, an de <rhyme label="b" type="m">strangt</rhyme>:</l>
+        <l id="s3:l4" met="4" type="+-">Lopt deer mitje witte <rhyme label="c" type="f">voetjes</rhyme>,</l>
+        <l id="s3:l5" met="2" type="+-">Zogt en <rhyme label="c" type="f" corresp="#s3:l4">zoetjes</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Deur ‘et natte, zoutte, <rhyme label="b" type="m" corresp="#s3:l3">zangt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Olla ‘t jen wat zals <rhyme label="a" type="f">gewerden</rhyme>,</l>
+        <l id="s4:l2" met="2" type="+-">‘k Wilt niet <rhyme label="a" type="f" corresp="#s4:l1">erden</rhyme>;</l>
+        <l id="s4:l3" met="4" type="+-">Ba wa peisde gy ba <rhyme label="b" type="m">keyk</rhyme>!</l>
+        <l id="s4:l4" met="4" type="+-">‘Kant ik kikke niet <rhyme label="c" type="f">bepeizen</rhyme></l>
+        <l id="s4:l5" met="2" type="+-">Dachge <rhyme label="c" type="f" corresp="#s4:l4">reizen</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">Zodde, met een goi <rhyme label="b" type="m" corresp="#s4:l3">pratteyk</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">’Kzalt wel doen nae joeu <rhyme label="a" type="f">begeeren</rhyme>;</l>
+        <l id="s5:l2" met="2" type="+-">En <rhyme label="a" type="f" corresp="#s5:l1">verteeren</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Ook met joeu een dapper <rhyme label="b" type="m">lach</rhyme>:</l>
+        <l id="s5:l4" met="4" type="+-">Geewe maar te waege <rhyme label="c" type="f">zitte</rhyme>,</l>
+        <l id="s5:l5" met="2" type="+-">‘Kzweerje <rhyme label="c" type="f" corresp="#s5:l4">ditte</rhyme></l>
+        <l id="s5:l6" met="4" type="+-">Tzalje zijnn en zoeten <rhyme label="b" type="m" corresp="#s5:l3">dag</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Ba tjen es dat <rhyme label="a" type="f">perzequeren</rhyme>,</l>
+        <l id="s6:l2" met="2" type="+-">En <rhyme label="a" type="f" corresp="#s6:l1">turberen</rhyme>,</l>
+        <l id="s6:l3" met="4" type="+-">Ats wa zijchge een <rhyme label="b" type="m">faszoen</rhyme>.</l>
+        <l id="s6:l4" met="4" type="+-">Kzal kik me gaen, um <rhyme label="c" type="f">plazieren</rhyme>,</l>
+        <l id="s6:l5" met="2" type="+-">Mit <rhyme label="c" type="f" corresp="#s6:l4">mannieren</rhyme>,</l>
+        <l id="s6:l6" met="4" type="+-">Ba wat zoe kik anders <rhyme label="b" type="m" corresp="#s6:l3">doen</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

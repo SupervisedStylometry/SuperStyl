@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188694</id>
+    <date>
+      <year-start>1795</year-start>
+      <year-end>1795</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Lubin aime sa bergère</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Eeuwig moet gij Vrijheid <rhyme label="a" type="f">zingen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Schoone Vaderlandsche <rhyme label="b" type="m">Jeugd</rhyme>!</l>
+        <l id="s1:l3" met="4" type="+-">Eeuwig zal haar heilbron <rhyme label="a" type="f" corresp="#s1:l1">springen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Paart gij Vrijheidsmin aan <rhyme label="b" type="m" corresp="#s1:l2">Deugd</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Belgen mine elkander <rhyme label="c" type="f">teder</rhyme>.....</l>
+        <l id="s1:l6" met="4" type="+-">Leer de Lootjes van die <rhyme label="d" type="m">min</rhyme>.....</l>
+        <l id="s1:l7" met="4" type="+-">Ook..... de trouw aan Vrijheid <rhyme label="c" type="f" corresp="#s1:l5">weder</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Stort haar die Deugd ook <rhyme label="d" type="m" corresp="#s1:l6">in</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Schenk den Staat Bataafsche <rhyme label="a" type="f">Zoonen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Uit de reinste min <rhyme label="b" type="m">geteeld</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Die uw deugd met deugd <rhyme label="a" type="f" corresp="#s2:l1">bekroonen</rhyme>;</l>
+        <l id="s2:l4" met="4" type="+-">In wien 't bloed der Belgen <rhyme label="b" type="m" corresp="#s2:l2">speelt</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">'t Bloed der lang verdrukte <rhyme label="c" type="f">Belgen</rhyme>,.....</l>
+        <l id="s2:l6" met="4" type="+-">Door wier dappre <rhyme label="d" type="m">Heldenvuist</rhyme>.....</l>
+        <l id="s2:l7" met="4" type="+-">Men..... de heerschzucht zag <rhyme label="c" type="f" corresp="#s2:l5">verdelgen</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">En haaren troon <rhyme label="d" type="m" corresp="#s2:l6">vergruist</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

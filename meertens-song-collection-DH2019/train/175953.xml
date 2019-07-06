@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175953</id>
+    <date>
+      <year-start>1640</year-start>
+      <year-end>1640</year-end>
+    </date>
+    <location>
+      <orginal-name>deventer</orginal-name>
+      <standard-name>Deventer, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.2532272</lon>
+        <lat>6.1584725</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 001 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacobus Revius</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">DIe niet en gaet in der godloosen <rhyme label="a" type="m">raet</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Die op den wech der sondaers niet en <rhyme label="a" type="m" corresp="#s1:l1">staet</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Noch op den stoel der spotters hem wil <rhyme label="b" type="f">setten</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Maer dach en nacht heeft in des Heeren <rhyme label="b" type="f" corresp="#s1:l3">wetten</rhyme></l>
+        <l id="s1:l5" met="5" type="-+">Al synen lust, ja spreect daer stadich <rhyme label="c" type="m">van</rhyme>:</l>
+        <l id="s1:l6" met="5" type="-+">Dat is voorwaer een wel-geluckich <rhyme label="c" type="m" corresp="#s1:l5">man</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Hy sal gelijc zijn eenen schoonen <rhyme label="a" type="m">boom</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Geplantet aen een claren <rhyme label="a" type="m" corresp="#s2:l1">water-stroom</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Die tsyner tijt veel goede vruchten <rhyme label="b" type="f">brenget</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Waer van geen blat en vallet noch <rhyme label="b" type="f" corresp="#s2:l3">versenget</rhyme>.</l>
+        <l id="s2:l5" met="5" type="-+">Soo crijcht die mensch geduerich heyl en <rhyme label="c" type="m">spoet</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">Van Godes hant in alles wat hy <rhyme label="c" type="m" corresp="#s2:l5">doet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">'t En is soo met de goddeloose <rhyme label="a" type="m">niet</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Maer als het caf dat heen en weder <rhyme label="a" type="m" corresp="#s3:l1">vlie't</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">Van stercken wint verstrooyt en <rhyme label="b" type="f">omgedreven</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">So sullen sy in Gods gerichte <rhyme label="b" type="f" corresp="#s3:l3">beven</rhyme>,</l>
+        <l id="s3:l5" met="5" type="-+">En niet bestaen, maer haest vergaen, <rhyme label="c" type="m">beschaemt</rhyme>;</l>
+        <l id="s3:l6" met="5" type="-+">Sy werden by de vroome niet <rhyme label="c" type="m" corresp="#s3:l5">versaemt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Der vromen wech den Heer bekennet <rhyme label="a" type="m">is</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Hy draget sorg' voor haer <rhyme label="a" type="m" corresp="#s4:l1">behoudenis</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">Dies sullen sy geluckich zijn en <rhyme label="b" type="f">blijven</rhyme>:</l>
+        <l id="s4:l4" met="5" type="-+">Maer die alhier een godloos wesen <rhyme label="b" type="f" corresp="#s4:l3">drijven</rhyme></l>
+        <l id="s4:l5" met="5" type="-+">En wandelen in een verkeerde <rhyme label="c" type="m">baen</rhyme></l>
+        <l id="s4:l6" met="5" type="-+">Sy en haer doen te gronde moeten <rhyme label="c" type="m" corresp="#s4:l5">gaen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

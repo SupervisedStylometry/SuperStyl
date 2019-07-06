@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>30073</id>
+    <date>
+      <year-start>1591</year-start>
+      <year-end>1591</year-end>
+    </date>
+    <location>
+      <orginal-name>middelburg</orginal-name>
+      <standard-name>Middelburg, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.4997302</lon>
+        <lat>3.6136962</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 114 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Philips van Marnix van Sint Aldegonde</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">DOe Israel los uyt Egypten <rhyme label="a" type="m">quam</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">End van den volck vertoge Iacobs <rhyme label="a" type="m" corresp="#s1:l1">stam</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Van lien, die hun vremt <rhyme label="b" type="f">waren</rhyme>.</l>
+        <l id="s1:l4" met="5" type="-+">Thuys Iuda wert des Heeren roem end <rhyme label="c" type="m">eer</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">d'Almachtig self werd' Coninck ende <rhyme label="c" type="m" corresp="#s1:l4">Heer</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Der Israelsche <rhyme label="b" type="f" corresp="#s1:l3">scharen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">De Zee sach toe, ende vlode seer <rhyme label="a" type="m">vervaert</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Den vloet Iordaen werdd' oock te <rhyme label="a" type="m" corresp="#s2:l1">ruggewart</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Uyt grooter vrees' <rhyme label="b" type="f">gedwongen</rhyme>.</l>
+        <l id="s2:l4" met="5" type="-+">Men sach tgebergt als Rammen springen <rhyme label="c" type="m">op</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Dat heuvels oock van onder tot aen <rhyme label="c" type="m" corresp="#s2:l4">tsop</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Als jonge Lammers <rhyme label="b" type="f" corresp="#s2:l3">sprongen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Wat hadstu zee, dat du weeckst so <rhyme label="a" type="m">bedicht</rhyme>?</l>
+        <l id="s3:l2" met="5" type="-+">Oft du Iordaen, dat du dus inde <rhyme label="a" type="m" corresp="#s3:l1">vlucht</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Van vreesen werdst <rhyme label="b" type="f">gedreven</rhyme>?</l>
+        <l id="s3:l4" met="5" type="-+">Ghy Bergen sprongt als Rammen gins end <rhyme label="c" type="m">weer</rhyme>,</l>
+        <l id="s3:l5" met="5" type="-+">Ghy heuvels moest van vrees' op ende <rhyme label="c" type="m" corresp="#s3:l4">neer</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Als ionge Lammers <rhyme label="b" type="f" corresp="#s3:l3">beven</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Du aertrijck beef, end sy van vrees <rhyme label="a" type="m">ontstelt</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">Voor d'aenschijn Gods, end voir sijn sterck <rhyme label="a" type="m" corresp="#s4:l1">gewelt</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Daer yeglijck moet voor <rhyme label="b" type="f">schroomen</rhyme>.</l>
+        <l id="s4:l4" met="5" type="-+">Voir God, segg' ick, dien Iacob vreest end <rhyme label="c" type="m">eert</rhyme>,</l>
+        <l id="s4:l5" met="5" type="-+">Die Rotzen hardt in Water-beken <rhyme label="c" type="m" corresp="#s4:l4">keert</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">End steen in stercke <rhyme label="b" type="f" corresp="#s4:l3">stroomen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

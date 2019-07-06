@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6077</id>
+    <date>
+      <year-start>1632</year-start>
+      <year-end>1632</year-end>
+    </date>
+    <location>
+      <orginal-name>emmerik</orginal-name>
+      <standard-name>Emmerik, Germany</standard-name>
+      <coordinates>
+        <lon>51.8322137</lon>
+        <lat>6.2428283</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ons is gheboren een <rhyme label="a" type="m">kindeken</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Van een schoon suyver <rhyme label="a" type="m" corresp="#s1:l1">Maeghdeken</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Dies vro sijn alle Enghelen <rhyme label="b" type="m">fijn</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Souden wy menschen niet vrolick <rhyme label="b" type="m" corresp="#s1:l3">sijn</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Lof, prijs, en eer zy Godt <rhyme label="c" type="m">bereyt</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Van nu aen tot in <rhyme label="c" type="m" corresp="#s1:l5">eeuwigheyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Siet aen, den Coninck der <rhyme label="a" type="m">heerlicheyt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Neemt nu aen onse <rhyme label="a" type="m" corresp="#s2:l1">sterflickheyt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Den Schepper van alle <rhyme label="b" type="m">creatuer</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Godts eenigh soon is ons <rhyme label="b" type="m" corresp="#s2:l3">natuer</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Lof, prijs, en eer zy Godt <rhyme label="c" type="m">bereyt</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Van nu aen tot in <rhyme label="c" type="m" corresp="#s2:l5">eeuwigheyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Daer met hy ons bracht eewigh <rhyme label="a" type="m">vreed</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">En mocht bevryden van 't eewigh <rhyme label="a" type="m" corresp="#s3:l1">leedt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Mochte genesen die dootlicke <rhyme label="b" type="m">wondt</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Gheschiet door 's Serpents seer listigen <rhyme label="b" type="m" corresp="#s3:l3">mondt</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Lof, prijs, en eer zy Godt <rhyme label="c" type="m">bereyt</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Van nu aen tot in <rhyme label="c" type="m" corresp="#s3:l5">eeuwigheyt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Singt lof hierom dat <rhyme label="a" type="m">kindeken</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Met allen lieven schoon <rhyme label="a" type="m" corresp="#s4:l1">Engelen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Geleyt seer arm in 't <rhyme label="b" type="m">kribbeken</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Singt Godt voor dit hart <rhyme label="b" type="m" corresp="#s4:l3">beddeken</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Lof, prijs, en eer zy Godt <rhyme label="c" type="m">bereyt</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Van nu aen tot in <rhyme label="c" type="m" corresp="#s4:l5">eeuwigheyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

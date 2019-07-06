@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>160931</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>La belle figure</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Neen Herder, je kunt maer <rhyme label="a" type="m">gaan</rhyme>;</l>
+        <l id="s1:l2" met="4" type="-+">Uw dingen zyn hier al <rhyme label="a" type="m" corresp="#s1:l1">afgedaan</rhyme>.</l>
+        <l id="s1:l3" met="4" type="+-">Neen Tircis, je kunt maar <rhyme label="a" type="m" corresp="#s1:l1">gaan</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">'t Verveeld my hier langer te <rhyme label="a" type="m" corresp="#s1:l1">staan</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Ik heb u reeds genoeg <rhyme label="b" type="m">gezeid</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Hoe dat de zaak tans by my <rhyme label="b" type="m" corresp="#s1:l5">leid</rhyme>.</l>
+        <l id="s1:l7" met="4" type="-+">En.. En.. En dag <rhyme label="c" type="m">gy</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">Niet op zult doen by <rhyme label="c" type="m" corresp="#s1:l7">my</rhyme>.</l>
+        <l id="s1:l9" met="2" type="-+">'k Zoek niet te <rhyme label="d" type="f">trouwen</rhyme>:</l>
+        <l id="s1:l10" met="4" type="-+">Ik houw niet van den Echten <rhyme label="e" type="m">staat</rhyme>.</l>
+        <l id="s1:l11" met="2" type="-+">'t Mogt my <rhyme label="d" type="f" corresp="#s1:l9">berouwen</rhyme>,</l>
+        <l id="s1:l12" met="2" type="-+">Als 't was te <rhyme label="e" type="m" corresp="#s1:l10">laat</rhyme>.</l>
+        <l id="s1:l13" met="2" type="-+">Des al uw <rhyme label="f" type="f">praaten</rhyme></l>
+        <l id="s1:l14" met="2" type="-+">Zal u niet <rhyme label="f" type="f" corresp="#s1:l13">baaten</rhyme>:</l>
+        <l id="s1:l15" met="2" type="-+">Wil dat vry <rhyme label="f" type="f" corresp="#s1:l13">laaten</rhyme>.</l>
+        <l id="s1:l16" met="3" type="+-">'k Bid u dat gy <rhyme label="e" type="m" corresp="#s1:l10">gaat</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

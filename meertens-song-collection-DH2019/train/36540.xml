@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36540</id>
+    <date>
+      <year-start>1734</year-start>
+      <year-end>1735</year-end>
+    </date>
+    <location>
+      <orginal-name>gent</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>François Foret</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Waer ik my keer', oft' waer ik my <rhyme label="a" type="f">wende</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Tot klaegen vind' ik my nu <rhyme label="b" type="m">gezind</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Och ed'le jonge aerdsche <rhyme label="a" type="f" corresp="#s1:l1">bende</rhyme>!</l>
+        <l id="s1:l4" met="4" type="-+">Hoe langen tyd hebbe ik u <rhyme label="b" type="m" corresp="#s1:l2">bemint</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Het dansen en springen en <rhyme label="c" type="m">vroylykheyd</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">De vreugd maer meest in <rhyme label="c" type="m" corresp="#s1:l5">stilligheyd</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Maer nu moet ik met <rhyme label="a" type="f">drukkigheden</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Beklaegen myn bitter <rhyme label="b" type="m">verdriet</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En all' myn' zwaer' <rhyme label="a" type="f" corresp="#s2:l1">ellendigheden</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">En pynen groot alzoo men <rhyme label="b" type="m" corresp="#s2:l2">ziet</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Och! Myn jong leven moet ik <rhyme label="c" type="m">voorwaer</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Verslyten in veel pynen <rhyme label="c" type="m" corresp="#s2:l5">zwaer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">En ook moet noch myn hert <rhyme label="a" type="f">betreuren</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Myn lief die ik te vryen <rhyme label="b" type="m">plag</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Dat zy my noyt en mag <rhyme label="a" type="f" corresp="#s3:l1">gebeuren</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Dit is voor my zoo bitter <rhyme label="b" type="m" corresp="#s3:l2">geklag</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Och! Liefste hoe hebb' ik u <rhyme label="c" type="m">bemint</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Zoo waert gy ook tot my <rhyme label="c" type="m" corresp="#s3:l5">gezint</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Waer is dien tyd, waer zyn die <rhyme label="a" type="f">dagen</rhyme>?</l>
+        <l id="s4:l2" met="4" type="-+">Waer is nu onze trouwe <rhyme label="b" type="m">min</rhyme>?</l>
+        <l id="s4:l3" met="4" type="-+">Och! Dat myn' oogen u oyt <rhyme label="a" type="f" corresp="#s4:l1">zagen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Het valt my zomtyds in den <rhyme label="b" type="m" corresp="#s4:l2">zin</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Dan was 't my vreugd zoo ik u <rhyme label="c" type="m">zeyd</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Nu is 't my dobbel <rhyme label="c" type="m" corresp="#s4:l5">pynelykheyd</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Ok klaer gezicht 't welk my <rhyme label="a" type="f">doorstraelde</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Uw wezen zoet, uw' vriendschap <rhyme label="b" type="m">groot</rhyme>:</l>
+        <l id="s5:l3" met="4" type="-+">Beleefdheyd in u niet en <rhyme label="a" type="f" corresp="#s5:l1">faelde</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Uw' minzaemheyd, uw' wangen <rhyme label="b" type="m" corresp="#s5:l2">rood</rhyme>;</l>
+        <l id="s5:l5" met="4" type="-+">Dit deed myn hert zoo menige <rhyme label="c" type="m">vreugd</rhyme>,</l>
+        <l id="s5:l6" met="4" type="-+">Met uw te wezen in eer' en <rhyme label="c" type="m" corresp="#s5:l5">deugd</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Myn dienst die ik u <rhyme label="a" type="f">presenteerde</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Dachte my te wezen u <rhyme label="b" type="m">aengenaem</rhyme>:</l>
+        <l id="s6:l3" met="4" type="-+">Getrouwigheyd in ons <rhyme label="a" type="f" corresp="#s6:l1">floreerde</rhyme>;</l>
+        <l id="s6:l4" met="4" type="-+">Met blydschap waeren wy te <rhyme label="b" type="m" corresp="#s6:l2">saem</rhyme>:</l>
+        <l id="s6:l5" met="4" type="-+">Wat ik u vraegde wierd niet <rhyme label="c" type="m">ontzeyt</rhyme>,</l>
+        <l id="s6:l6" met="4" type="-+">Als 't was in deugd en <rhyme label="c" type="m" corresp="#s6:l5">eerbaerheyd</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Geen tyd my deed by u <rhyme label="a" type="f">verlangen</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">Getrouw te wezen was mynen <rhyme label="b" type="m">zin</rhyme>:</l>
+        <l id="s7:l3" met="4" type="-+">Altyd vond ik myn hert <rhyme label="a" type="f" corresp="#s7:l1">bevangen</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Belust tot uwe zoete <rhyme label="b" type="m" corresp="#s7:l2">minn'</rhyme>:</l>
+        <l id="s7:l5" met="4" type="-+">Zoo was uw hert ook zoo 't <rhyme label="c" type="m">behoort</rhyme>,</l>
+        <l id="s7:l6" met="4" type="-+">Getrouw waeren wy, en een <rhyme label="c" type="m" corresp="#s7:l5">accoort</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Van droefheyd dunkt myn hert te <rhyme label="a" type="f">breken</rhyme>,</l>
+        <l id="s8:l2" met="4" type="-+">Waer heeft het misval my <rhyme label="b" type="m">gestelt</rhyme>,</l>
+        <l id="s8:l3" met="4" type="-+">De traenen my van d'oogen <rhyme label="a" type="f" corresp="#s8:l1">uytleken</rhyme>,</l>
+        <l id="s8:l4" met="4" type="-+">Dat ik my vind' heel <rhyme label="b" type="m" corresp="#s8:l2">neergevelt</rhyme>:</l>
+        <l id="s8:l5" met="4" type="-+">Och! Hoe moet ik in <rhyme label="c" type="m">bitterheyd</rhyme>,</l>
+        <l id="s8:l6" met="4" type="-+">In zwaeren druk nemen <rhyme label="c" type="m" corresp="#s8:l5">afscheyd</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Och liefste zoet, moeten wy <rhyme label="a" type="f">scheyden</rhyme>,</l>
+        <l id="s9:l2" met="4" type="-+">Het scheyden is my groot <rhyme label="b" type="m">verdriet</rhyme>:</l>
+        <l id="s9:l3" met="4" type="-+">Den Heer wilt ons altyd <rhyme label="a" type="f" corresp="#s9:l1">geleyden</rhyme>,</l>
+        <l id="s9:l4" met="4" type="-+">Na zynen wille die 't al <rhyme label="b" type="m" corresp="#s9:l2">voorziet</rhyme>;</l>
+        <l id="s9:l5" met="4" type="-+">Adieu myn lief, maekt geen' <rhyme label="c" type="m">droefheyd</rhyme>,</l>
+        <l id="s9:l6" met="4" type="-+">Maer peyst op uwe <rhyme label="c" type="m" corresp="#s9:l5">zaligheyd</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Oorlof nu all' in 't <rhyme label="a" type="f">generaele</rhyme>,</l>
+        <l id="s10:l2" met="4" type="-+">Bid God den Heer met <rhyme label="b" type="m">vlytigheyd</rhyme>,</l>
+        <l id="s10:l3" met="4" type="-+">Peyst op de ziel', 't is <rhyme label="a" type="f" corresp="#s10:l1">principaele</rhyme>,</l>
+        <l id="s10:l4" met="4" type="-+">Want 't moet van hier al worden <rhyme label="b" type="m" corresp="#s10:l2">gescheyd</rhyme>,</l>
+        <l id="s10:l5" met="4" type="-+">Dient God den Heer, 't is korten <rhyme label="c" type="m">tyd</rhyme>,</l>
+        <l id="s10:l6" met="4" type="-+">Om eeuwig te wezen met hem <rhyme label="c" type="m" corresp="#s10:l5">verblyd</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

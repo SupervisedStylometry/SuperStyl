@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12755</id>
+    <date>
+      <year-start>1658</year-start>
+      <year-end>1658</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Psalm 006 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">FOnteyn van alle <rhyme label="a" type="f">zegen</rhyme>!</l>
+        <l id="s1:l2" met="3" type="-+">Hoe goedigh zijn u <rhyme label="a" type="f" corresp="#s1:l1">wegen</rhyme>!</l>
+        <l id="s1:l3" met="3" type="-+">Het onreyne <rhyme label="b" type="m">gebouw</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Van Menschen, so seer <rhyme label="c" type="f">sondigh</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Vest ghy op d'aerd seer <rhyme label="c" type="f" corresp="#s1:l4">bondigh</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">En geeft haer <rhyme label="b" type="m" corresp="#s1:l3">onderhouw</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">'t Is waer, ghy hebt u <rhyme label="a" type="f">slagen</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Om Landt en Volck te <rhyme label="a" type="f" corresp="#s2:l1">plagen</rhyme>:</l>
+        <l id="s2:l3" met="3" type="-+">Nochtans al watter <rhyme label="b" type="m">leeft</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Al wat de lucht door <rhyme label="c" type="f">vlieget</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Al wat de Zee door <rhyme label="c" type="f" corresp="#s2:l4">klievet</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Ghy spijs en voedsel <rhyme label="b" type="m" corresp="#s2:l3">geeft</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">De Son rijst om te <rhyme label="a" type="f">lichten</rhyme>;</l>
+        <l id="s3:l2" met="3" type="-+">De donder werpt haer <rhyme label="a" type="f" corresp="#s3:l1">schichten</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">De regen stort : de <rhyme label="b" type="m">wint</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Wayt na u <rhyme label="c" type="f">wel-gevallen</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">En alles moet uyt <rhyme label="c" type="f" corresp="#s3:l4">vallen</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Nae dat ghy sijt <rhyme label="b" type="m" corresp="#s3:l3">gesint</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Ghy kleedt ons velt met <rhyme label="a" type="f">vruchten</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Ghy doet een ander <rhyme label="a" type="f" corresp="#s4:l1">suchten</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Over 'tonvruchtbaer <rhyme label="b" type="m">dal</rhyme>.</l>
+        <l id="s4:l4" met="3" type="-+">Dees doet ghy bitter <rhyme label="c" type="f">weenen</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">En die gaet bly daer <rhyme label="c" type="f" corresp="#s4:l4">henen</rhyme>.</l>
+        <l id="s4:l6" met="3" type="-+">Ghy zijt het al in <rhyme label="b" type="m" corresp="#s4:l3">al</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

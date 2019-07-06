@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10373</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Een meisje had een ruiter lief</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Van waer komt Phillis die <rhyme label="a" type="m">vooghdy</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Dat sy mach heerschen over <rhyme label="a" type="m" corresp="#s1:l1">my</rhyme>?</l>
+        <l id="s1:l3" met="3" type="-+">Wie heeft haer macht <rhyme label="b" type="f">gegheven</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Dat sy my dwinght te <rhyme label="b" type="f" corresp="#s1:l3">leven</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Te leven nae haer wil en <rhyme label="a" type="m">sin</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Die heerschappy gaf haer de <rhyme label="a" type="m" corresp="#s2:l1">min</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">De min heeft dat <rhyme label="b" type="f">vermoghen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Gegheven aen haer <rhyme label="b" type="f" corresp="#s2:l3">ooghen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Haer ooghjes hebben soo veel <rhyme label="a" type="m">kraght</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Haer lieve lonckjes sulcke <rhyme label="a" type="m" corresp="#s3:l1">maght</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Dat ick myn heele <rhyme label="b" type="f">leven</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Aen haer moet over <rhyme label="b" type="f" corresp="#s3:l3">geven</rhyme>,</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">De pyltjes die Cupido <rhyme label="a" type="m">schiet</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">En quetsen soo het herte <rhyme label="a" type="m" corresp="#s4:l1">niet</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Als wel die lieve <rhyme label="b" type="f">stralen</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Die wt haer ooghjes <rhyme label="b" type="f" corresp="#s4:l3">dalen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Geen sonne strael soo heet van <rhyme label="a" type="m">schijn</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Als wel haer lieve ooghjens <rhyme label="a" type="m" corresp="#s5:l1">zijn</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">'k Segh ooghjes die van <rhyme label="b" type="f">binne</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">My branden doen in 't <rhyme label="b" type="f" corresp="#s5:l3">minne</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">'t Is Venus die ick Phillis <rhyme label="a" type="m">hiet</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Want Phillis heeft die kraghten <rhyme label="a" type="m" corresp="#s6:l1">niet</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">Dat zy my door haer <rhyme label="b" type="f">ooghen</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Heeft ziel en hert <rhyme label="b" type="f" corresp="#s6:l3">ontooghen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

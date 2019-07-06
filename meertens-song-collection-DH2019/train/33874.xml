@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>33874</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
+    </tags>
+    <melody>Bedroefd hartje</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacob Rosant</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">VOorwaer, ik ben dat leevend' <rhyme label="a" type="f">Broode</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Dat van den Hemel ben <rhyme label="b" type="m">gedaelt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Die daer van eet, want 't is van <rhyme label="a" type="f" corresp="#s1:l1">noode</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Voor hem het eeuwigh leeven <rhyme label="b" type="m" corresp="#s1:l2">haelt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">En ook het Broodt dat ik sal <rhyme label="a" type="f">geeven</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Voor 's Weerelts leven, is mijn <rhyme label="b" type="m">vleysch</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">De Jooden onder ander <rhyme label="a" type="f" corresp="#s2:l1">keeven</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">En hadden wonderlijk <rhyme label="b" type="m" corresp="#s2:l2">gepeys</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ten sy dat gy mijn vleesche <rhyme label="a" type="f">eete</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Ten sy dat gy-lie drinkt mijn <rhyme label="b" type="m">bloet</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Soo mooght gy wel voorseeker <rhyme label="a" type="f" corresp="#s3:l1">weete</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Dat g' in u hebt geen leeven <rhyme label="b" type="m" corresp="#s3:l2">goet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Die eet mijn vleesch, en drinkt mijn <rhyme label="a" type="f">bloede</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Het leeven heeft, en ik hem <rhyme label="b" type="m">wel</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Weer in den Jonghsten-dagh ten <rhyme label="a" type="f" corresp="#s4:l1">goede</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Ter saligheydt verwecken <rhyme label="b" type="m" corresp="#s4:l2">sel</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

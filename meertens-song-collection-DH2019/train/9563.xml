@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>9563</id>
+    <date>
+      <year-start>1650</year-start>
+      <year-end>1650</year-end>
+    </date>
+    <location>
+      <orginal-name>medemblik</orginal-name>
+      <standard-name>Medemblik, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.768691</lon>
+        <lat>5.106195</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="morgenlied" translation="morning song">morgenlied</tag>
+    </tags>
+    <melody>Psalm 001 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Hendrick Jansz. Prins</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">O Godt, en Heer, wy dancken uwen <rhyme label="a" type="m">Naem</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Dat ghy al we'er hebt voor ons al te <rhyme label="a" type="m" corresp="#s1:l1">saem</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">In desen nacht so trouwelijck <rhyme label="b" type="f">gewaket</rhyme>:</l>
+        <l id="s1:l4" met="5" type="-+">Laet door u kracht, en Geest, ons geest <rhyme label="b" type="f" corresp="#s1:l3">gheraket</rhyme></l>
+        <l id="s1:l5" met="5" type="-+">Zijn, en geroert, op datse desen <rhyme label="c" type="m">dach</rhyme></l>
+        <l id="s1:l6" met="5" type="-+">Als opgevoert, u vrolijck loven <rhyme label="c" type="m" corresp="#s1:l5">mach</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Wy bidden dy, verleen ons uwe <rhyme label="a" type="m">Geest</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">O Godt! dat ghy van ons mocht zijn <rhyme label="a" type="m" corresp="#s2:l1">gevreest</rhyme>:</l>
+        <l id="s2:l3" met="5" type="-+">Dat wy bestaen in uw <rhyme label="b" type="f">gerechtigheden</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Van ons voortaen ons leven te <rhyme label="b" type="f" corresp="#s2:l3">besteden</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">O Heer! om hoogh, ons hoop en handel <rhyme label="c" type="m">schick</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">Op dat het oogh naer uwe eere <rhyme label="c" type="m" corresp="#s2:l5">mick</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Vw' gunste goedt bedecke onse <rhyme label="a" type="m">sond'</rhyme>;</l>
+        <l id="s3:l2" met="5" type="-+">En Christi bloedt genese onse <rhyme label="a" type="m" corresp="#s3:l1">wond'</rhyme>;</l>
+        <l id="s3:l3" met="5" type="-+">V Geest verlicht het duyster onser <rhyme label="b" type="f">ziele</rhyme>;</l>
+        <l id="s3:l4" met="5" type="-+">V aensicht maeck ons voor u te <rhyme label="b" type="f" corresp="#s3:l3">kniele</rhyme>;</l>
+        <l id="s3:l5" met="5" type="-+">V heylich Woort laet hoorn in u <rhyme label="c" type="m">Kerck</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">O Heer! verstoort des Duyvels boose <rhyme label="c" type="m" corresp="#s3:l5">werck</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">V heerschappy zy over onse <rhyme label="a" type="m">staet</rhyme>;</l>
+        <l id="s4:l2" met="5" type="-+">Geen tyranni ons over-kome <rhyme label="a" type="m" corresp="#s4:l1">laet</rhyme>;</l>
+        <l id="s4:l3" met="5" type="-+">V troost verquickt de recht benaude <rhyme label="b" type="f">herten</rhyme>;</l>
+        <l id="s4:l4" met="5" type="-+">V heyl beschick hun blijdtschap na veel <rhyme label="b" type="f" corresp="#s4:l3">smerten</rhyme>;</l>
+        <l id="s4:l5" met="5" type="-+">V zegen bly in al ons werck <rhyme label="c" type="m">betoon</rhyme>:</l>
+        <l id="s4:l6" met="5" type="-+">Dit bidden wy om uwen lieven <rhyme label="c" type="m" corresp="#s4:l5">Soon</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

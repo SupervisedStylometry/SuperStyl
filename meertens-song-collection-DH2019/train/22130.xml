@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22130</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Nun freut euch liebe Christen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Alle Natien Juycht Godt met <rhyme label="a" type="m">gheschal</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Want zijn vrees is hooch bouen <rhyme label="b" type="f">maten</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Eenen Coninck op aerden ouer <rhyme label="a" type="m" corresp="#s1:l1">al</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Is hy: sterck <rhyme label="b" type="f" corresp="#s1:l2">wtermaten</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">De volcken hy onder ons voeten <rhyme label="c" type="m">dwingt</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Hy kiest voor erfgnamen die hy <rhyme label="c" type="m" corresp="#s1:l5">bemint</rhyme>:</l>
+        <l id="s1:l7" met="3" type="-+">Godt is opgheuaren met <rhyme label="d" type="f">vreuchden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Lofsingt, Lofsingt, Godt in alle <rhyme label="a" type="m">landt</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Hy is Coninck ouer <rhyme label="b" type="f">deertrijcke</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Hem soudemen louen met <rhyme label="a" type="m" corresp="#s2:l1">verstandt</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">O Heyden hem vreesen alle <rhyme label="b" type="f" corresp="#s2:l2">ghelijcke</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Op synen heylighen Stoel sidt <rhyme label="c" type="m">Godt</rhyme>:</l>
+        <l id="s2:l6" met="4" type="-+">Tot hem commen veel Princen sonder <rhyme label="c" type="m" corresp="#s2:l5">spodt</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Want Godt is hooch <rhyme label="d" type="f">verheuen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

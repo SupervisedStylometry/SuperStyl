@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184071</id>
+    <date>
+      <year-start>1806</year-start>
+      <year-end>1806</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Notre reine est la <rhyme label="a" type="m">liberté</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Où tout notre bonheur se <rhyme label="b" type="f">fonde</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Sa compagne est <rhyme label="a" type="m" corresp="#s1:l1">l'égalité</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Que l'orgueil a banni du <rhyme label="b" type="f" corresp="#s1:l2">monde</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Toutes deux marquent de leur <rhyme label="c" type="m">sceau</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Nos divers <rhyme label="d" type="f">caractères</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Et, par la vertu du <rhyme label="c" type="m" corresp="#s1:l5">niveau</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Tous les Maçons sont <rhyme label="d" type="f" corresp="#s1:l6">frères</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Richesse, dignité, <rhyme label="a" type="m">grandeur</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Vous avouez votre <rhyme label="b" type="f">défaite</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Chez nous le véritable <rhyme label="a" type="m" corresp="#s2:l1">honneur</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Est la fraternité <rhyme label="b" type="f" corresp="#s2:l2">parfaite</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Tout sléchit sous les douces <rhyme label="c" type="m">loix</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">De sa volupté <rhyme label="d" type="f">pure</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Et le niveau, dans tous ses <rhyme label="c" type="m" corresp="#s2:l5">droits</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">A remis la <rhyme label="d" type="f" corresp="#s2:l6">nature</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

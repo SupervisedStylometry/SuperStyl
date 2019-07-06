@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20994</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="moralistisch lied" translation="moralistic song">moralistisch lied</tag>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
+    </tags>
+    <melody>Het vinnige stralen van de zon</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jan Zoet</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WIe dat, in tijdts, den tijd niet <rhyme label="a" type="m">acht</rhyme>;</l>
+        <l id="s1:l2" met="3" type="-+">Maar wil al willens blindt <rhyme label="b" type="f">zijn</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">En, na de tijd, noch tijd <rhyme label="a" type="m" corresp="#s1:l1">verwacht</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Zal, laas! te laat het kindt <rhyme label="b" type="f" corresp="#s1:l2">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Neemt waar den kostelijkken <rhyme label="a" type="m">tijdt</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Dewijl de daagen boos <rhyme label="b" type="f">zijn</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En dat, by na de deugd ten <rhyme label="a" type="m" corresp="#s2:l1">spijt</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">De menschen goddeloos <rhyme label="b" type="f" corresp="#s2:l2">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">De Swaluw en den <rhyme label="a" type="m">Oyevaar</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">De Tortelduif en <rhyme label="b" type="f">Kraanen</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Die neemen haare tijden <rhyme label="a" type="m" corresp="#s3:l1">waar</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Van koomen en van gaan: <rhyme label="b" type="f" corresp="#s3:l2">en</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Den afgerechten <rhyme label="a" type="m">Akker-man</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Die 't Land niet laat <rhyme label="b" type="f">verwoesten</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Slaat in de Sai-tijd, wakker <rhyme label="a" type="m" corresp="#s4:l1">an</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">En past weer op het <rhyme label="b" type="f" corresp="#s4:l2">oesten</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Den Schipper die zijn ty <rhyme label="a" type="m">vergist</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Van ebben en van <rhyme label="b" type="f">vloeien</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Zal hem, wanneer hy 't vind <rhyme label="a" type="m" corresp="#s5:l1">vermist</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Vervloeken en <rhyme label="b" type="f" corresp="#s5:l2">verfoeien</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Dat ons de tijd dan, eer men 't <rhyme label="a" type="m">weet</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">Niet onverhoedts <rhyme label="b" type="f">verrasse</rhyme>:</l>
+        <l id="s6:l3" met="4" type="-+">Maar dat wy 't vuil bezoedelt <rhyme label="a" type="m" corresp="#s6:l1">kleed</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">Der zonden zuiver <rhyme label="b" type="f" corresp="#s6:l2">wassen</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Om, naa 't verloop van deeze <rhyme label="a" type="m">tijd</rhyme>,</l>
+        <l id="s7:l2" met="3" type="-+">In 't endelooze bly <rhyme label="b" type="f">zijn</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">Te raaken, daar het al <rhyme label="a" type="m" corresp="#s7:l1">verblijdt</rhyme>,</l>
+        <l id="s7:l4" met="3" type="-+">Van tijd en pijn zal vry <rhyme label="b" type="f" corresp="#s7:l2">zijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

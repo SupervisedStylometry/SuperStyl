@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>186292</id>
+    <date>
+      <year-start>1672</year-start>
+      <year-end>1672</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Buurman 'k brengh u een <rhyme label="a" type="m">reys</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Buurman 'k brengh u een <rhyme label="a" type="m" corresp="#s1:l1">reys</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Buurman 'k brengh u een <rhyme label="a" type="m" corresp="#s1:l1">reys</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Van den Edelen t'jock, t'jock, <rhyme label="b" type="m">t'jock</rhyme>,</l>
+        <l id="s1:l5" met="3" type="+-">Soo goet als <rhyme label="a" type="m" corresp="#s1:l1">Schapen-Vleys</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Fransman van waer komt <rhyme label="a" type="m">ghy</rhyme>?</l>
+        <l id="s2:l2" met="3" type="-+">Fransman van waer komt <rhyme label="a" type="m" corresp="#s2:l1">ghy</rhyme>?</l>
+        <l id="s2:l3" met="3" type="-+">Fransman van waer komt <rhyme label="a" type="m" corresp="#s2:l1">ghy</rhyme>?</l>
+        <l id="s2:l4" met="5" type="-+">Van den Edelen t'jock, t'jock, <rhyme label="b" type="m">t'jock</rhyme>,</l>
+        <l id="s2:l5" met="3" type="+-">So goet als <rhyme label="a" type="m" corresp="#s2:l1">Rijs-en-bry</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Weest welkom groot <rhyme label="a" type="m">Monsieur</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Weest welkom groot <rhyme label="a" type="m" corresp="#s3:l1">Monsieur</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Weest welkom groot <rhyme label="a" type="m" corresp="#s3:l1">Monsieur</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Van den Edelen t'jock, t'jock, <rhyme label="b" type="m">t'jock</rhyme>,</l>
+        <l id="s3:l5" met="3" type="+-">Soo gaet de Fransman <rhyme label="a" type="m" corresp="#s3:l1">deur</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

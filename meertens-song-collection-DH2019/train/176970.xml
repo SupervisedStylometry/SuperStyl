@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176970</id>
+    <date>
+      <year-start>1757</year-start>
+      <year-end>1757</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Nous irons en Angleterre</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Geef nu wel acht om te <rhyme label="a" type="f">exerçeren</rhyme>:</l>
+        <l id="s1:l2" met="4" type="+-">Vat het glas in de <rhyme label="b" type="m">regterhand</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Schenk het nu vol tot aan de <rhyme label="b" type="m" corresp="#s1:l2">rand</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Schenk het nu vol tot aan de <rhyme label="b" type="m" corresp="#s1:l2">rand</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Klink nu te samen aan <rhyme label="c" type="f">weerskanten</rhyme>:</l>
+        <l id="s1:l6" met="3" type="+-">Draag u als <rhyme label="c" type="f" corresp="#s1:l5">Bagchanten</rhyme>,</l>
+        <l id="s1:l7" met="3" type="+-">Draag u als <rhyme label="c" type="f" corresp="#s1:l5">Bagchanten</rhyme>:</l>
+        <l id="s1:l8" met="4" type="-+">'t Glas aan de mond: geef vuur, pof, <rhyme label="d" type="m">paf</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">'t Is een wakkere <rhyme label="e" type="m">soldaat</rhyme>,</l>
+        <l id="s1:l10" met="4" type="+-">Die geen drop in 't glaasje <rhyme label="e" type="m" corresp="#s1:l9">laat</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ha! saa! helden zet af de <rhyme label="a" type="f">lading</rhyme>:</l>
+        <l id="s2:l2" met="4" type="+-">Blaas de kurk uit de Fles zyn <rhyme label="b" type="m">mond</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Vat de Boutelje: laad in 't <rhyme label="b" type="m" corresp="#s2:l2">rond</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Vat de Boutelje, laad in 't <rhyme label="b" type="m" corresp="#s2:l2">rond</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Nu eens een salvo voor <rhyme label="c" type="f">Oranje</rhyme>,</l>
+        <l id="s2:l6" met="3" type="+-">Nassouw en <rhyme label="c" type="f" corresp="#s2:l5">Brittanje</rhyme>,</l>
+        <l id="s2:l7" met="3" type="+-">Nassouw en <rhyme label="c" type="f" corresp="#s2:l5">Brittanje</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Maak je gereed: leg aan: geef <rhyme label="d" type="m">vuur</rhyme>:</l>
+        <l id="s2:l9" met="4" type="+-">Viva de Prins en zyn <rhyme label="e" type="m">Prinses</rhyme>!</l>
+        <l id="s2:l10" met="4" type="+-">Hoog nu het glas en laag de <rhyme label="e" type="m" corresp="#s2:l9">fles</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

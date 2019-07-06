@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8909</id>
+    <date>
+      <year-start>1625</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Fröhlich wollen wir Halleluja singen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">ALs de Heer syn gevangen Volck <rhyme label="a" type="f">bevrijdet</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Sullen wy so wonderlijck syn <rhyme label="a" type="f" corresp="#s1:l1">verblijdet</rhyme></l>
+        <l id="s1:l3" met="6" type="-+">Als een die wt den Droom ontwaeckt, gaet hem <rhyme label="b" type="f">verblijden</rhyme>,</l>
+        <l id="s1:l4" met="6" type="+-">Dat hy geraeckt is wt syn Noot ende <rhyme label="b" type="f" corresp="#s1:l3">lijden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Dan sal Lachens lusten onsen <rhyme label="a" type="f">Monde</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Dat ons Tong' des Heeren Roem <rhyme label="a" type="f" corresp="#s2:l1">verconde</rhyme>,</l>
+        <l id="s2:l3" met="6" type="-+">Daer sal men segghen Openbaer onder die <rhyme label="b" type="f">Heyden</rhyme>,</l>
+        <l id="s2:l4" met="6" type="+-">De Heer gaet groote Dinghen syn Volck <rhyme label="b" type="f" corresp="#s2:l3">bereyden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Wonder groot heeft de HEEr aen ons <rhyme label="a" type="f">bewesen</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Dies wy vrolick syn, van t'quade <rhyme label="a" type="f" corresp="#s3:l1">ghenesen</rhyme>,</l>
+        <l id="s3:l3" met="6" type="-+">HEEr weyndet ons' Gevanckenis, als ghy <rhyme label="b" type="f">verdroochden</rhyme></l>
+        <l id="s3:l4" met="6" type="+-">Die Roode Zee, en dijn Volck wert vol van <rhyme label="b" type="f" corresp="#s3:l3">Vreuchden</rhyme>,</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Die met Tranen nu gaen costlijck Zaet <rhyme label="a" type="f">saeyen</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Sullen met Vreuchden noch all' comen <rhyme label="a" type="f" corresp="#s4:l1">Maeyen</rhyme>,</l>
+        <l id="s4:l3" met="6" type="-+">De Werelt wil die Vromen hier altoos <rhyme label="b" type="f">bedroeven</rhyme>,</l>
+        <l id="s4:l4" met="6" type="+-">Maer eyndtlijck sy noch vrolijck brengen haer <rhyme label="b" type="f" corresp="#s4:l3">schooven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

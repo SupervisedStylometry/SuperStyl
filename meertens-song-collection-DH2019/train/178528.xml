@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>178528</id>
+    <date>
+      <year-start>1774</year-start>
+      <year-end>1774</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>O vader die al het leven voedt</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Vader! die al 't leven <rhyme label="a" type="m">voedt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Kroon onze tafel met uw' <rhyme label="b" type="f">zegen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">En spijs en drenk ons met dit <rhyme label="a" type="m" corresp="#s1:l1">goed</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Van uwe milde hand <rhyme label="b" type="f" corresp="#s1:l2">verkreegen</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Leer ons voor overdaad ons <rhyme label="c" type="f">wachten</rhyme>;</l>
+        <l id="s1:l6" met="4" type="-+">Dat w' ons gedraagen als 't <rhyme label="d" type="m">behoort</rhyme>;</l>
+        <l id="s1:l7" met="4" type="-+">Doe ons het hemelsche <rhyme label="c" type="f" corresp="#s1:l5">betrachten</rhyme>;</l>
+        <l id="s1:l8" met="4" type="-+">Sterk onze zielen door uw <rhyme label="d" type="m" corresp="#s1:l6">woord</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

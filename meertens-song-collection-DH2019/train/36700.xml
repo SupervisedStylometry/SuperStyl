@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36700</id>
+    <date>
+      <year-start>1631</year-start>
+      <year-end>1631</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>Hoor waar die liefste werd gelegd</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Lucas van Mechelen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HOort waer die liefste wierdt <rhyme label="a" type="m">gheleydt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Die uyt dit aerdtrijck was <rhyme label="a" type="m" corresp="#s1:l1">ghescheydt</rhyme>,</l>
+        <l id="s1:l3" met="6" type="-+">Om in troost ongheschapen den minnen slaep te <rhyme label="b" type="f">slapen</rhyme>:</l>
+        <l id="s1:l4" met="4" type="-+">O minne soet! wat <rhyme label="c" type="f">vrolijckheden</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Met Godt in rust' haer vallen <rhyme label="c" type="f" corresp="#s1:l4">deden</rhyme>?</l>
+        <l id="s1:l6" met="4" type="-+">Daer 't bly' vermaeck dat hy haer <rhyme label="d" type="m">schonck</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Die stilte pur daer sy <rhyme label="d" type="m" corresp="#s1:l6">versonck</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Haer sielen krachten al <rhyme label="d" type="m" corresp="#s1:l6">door-ghonck</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ghetoghen was sy <rhyme label="a" type="m">soetelijck</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">In haer inwendich <rhyme label="a" type="m" corresp="#s2:l1">hemelrijck</rhyme>,</l>
+        <l id="s2:l3" met="6" type="-+">Daer uytwendighe dinghen haer niet meer aen en <rhyme label="b" type="f">ghinghen</rhyme>;</l>
+        <l id="s2:l4" met="4" type="-+">Daer sy quijt was wat haer kost' <rhyme label="c" type="f">schaden</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Daer sy versmolt in Godts <rhyme label="c" type="f" corresp="#s2:l4">ghenaden</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Daer haren slaep was een <rhyme label="d" type="m">wellust'</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Een oversoete sielen <rhyme label="d" type="m" corresp="#s2:l6">rust'</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Waer allen on-vre' wierdt <rhyme label="d" type="m" corresp="#s2:l6">ghesust</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Den slaep die was een stilte <rhyme label="a" type="m">bly'</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Die haer van onrust maeckte <rhyme label="a" type="m" corresp="#s3:l1">vry</rhyme>;</l>
+        <l id="s3:l3" met="6" type="-+">Al, wat haer uyt Godt houde, sy met die ruste <rhyme label="b" type="f">schoude</rhyme>;</l>
+        <l id="s3:l4" met="4" type="-+">Die ruste hiel haer af <rhyme label="c" type="f">ghescheyden</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Van al, dat haer kost <rhyme label="c" type="f" corresp="#s3:l4">uyt-gheleyden</rhyme>:</l>
+        <l id="s3:l6" met="4" type="-+">Wat dat sy onder-vinden <rhyme label="d" type="m">mocht'</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Haer vreught wierdt in die rust' <rhyme label="d" type="m" corresp="#s3:l6">volbrocht</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Daer sy't al te verliesen <rhyme label="d" type="m" corresp="#s3:l6">socht'</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Dat slapen waeckte in den <rhyme label="a" type="m">Heer'</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Om daer niet uyt te dalen <rhyme label="a" type="m" corresp="#s4:l1">meer</rhyme>:</l>
+        <l id="s4:l3" met="6" type="-+">Haer herte was gheleghen, om rust' met Godt te <rhyme label="b" type="f">pleghen</rhyme>;</l>
+        <l id="s4:l4" met="4" type="-+">Sy liet het al, als niet met <rhyme label="c" type="f">allen</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Wat buyten was, om ruste <rhyme label="c" type="f" corresp="#s4:l4">vallen</rhyme>:</l>
+        <l id="s4:l6" met="4" type="-+">In haren vrede, daer sy <rhyme label="d" type="m">stondt</rhyme>,</l>
+        <l id="s4:l7" met="4" type="-+">In den slaep die sy onder <rhyme label="d" type="m" corresp="#s4:l6">vondt</rhyme>,</l>
+        <l id="s4:l8" met="4" type="-+">Was al 't vermaeck van haren <rhyme label="d" type="m" corresp="#s4:l6">grondt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Van als hiel haer den vrede <rhyme label="a" type="m">bloot</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Dat slapen gaf haer weelden <rhyme label="a" type="m" corresp="#s5:l1">groot</rhyme>;</l>
+        <l id="s5:l3" met="6" type="-+">Vyt al dat haer beroerde, haer die gherustheydt <rhyme label="b" type="f">voerde</rhyme>:</l>
+        <l id="s5:l4" met="4" type="-+">Die stilte moest' troost <rhyme label="c" type="f">veroorsaken</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">Den slaep moest' haer in Godt <rhyme label="c" type="f" corresp="#s5:l4">vermaken</rhyme>;</l>
+        <l id="s5:l6" met="4" type="-+">Als sy in die gherustheydt <rhyme label="d" type="m">claer</rhyme></l>
+        <l id="s5:l7" met="4" type="-+">Ontbloot, ontslaghen, merckte <rhyme label="d" type="m" corresp="#s5:l6">haer</rhyme></l>
+        <l id="s5:l8" met="4" type="-+">Van hindernissen <rhyme label="d" type="m" corresp="#s5:l6">altegaer</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">O blijden slaep! o soet <rhyme label="a" type="m">gheniet'</rhyme>!</l>
+        <l id="s6:l2" met="4" type="-+">Daer Godt haer in den speel-hof <rhyme label="a" type="m" corresp="#s6:l1">liet</rhyme>,</l>
+        <l id="s6:l3" met="6" type="-+">Daer't haer al wiert ontnomen, wat in haer was <rhyme label="b" type="f">ghecomen</rhyme>:</l>
+        <l id="s6:l4" met="4" type="-+">Daer in die rust' van't innich <rhyme label="c" type="f">leven</rhyme>,</l>
+        <l id="s6:l5" met="4" type="-+">Af-viel, wat aerdtrijck hadd' <rhyme label="c" type="f" corresp="#s6:l4">ghegheven</rhyme>;</l>
+        <l id="s6:l6" met="4" type="-+">En in die vrolijcke <rhyme label="d" type="m">ghenucht'</rhyme></l>
+        <l id="s6:l7" met="4" type="-+">Sy alle schepsels was <rhyme label="d" type="m" corresp="#s6:l6">ontvlucht</rhyme>,</l>
+        <l id="s6:l8" met="4" type="-+">Die niet en baren dan <rhyme label="d" type="m" corresp="#s6:l6">ghesucht'</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

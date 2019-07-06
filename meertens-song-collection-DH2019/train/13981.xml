@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13981</id>
+    <date>
+      <year-start>1670</year-start>
+      <year-end>1670</year-end>
+    </date>
+    <location>
+      <orginal-name>middelburg</orginal-name>
+      <standard-name>Middelburg, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.4997302</lon>
+        <lat>3.6136962</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Psalm 100 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>M. van de Speybroek</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DE werelt groot zy nu ter <rhyme label="a" type="m">tijt</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Met heylsaem blijdtschap seer <rhyme label="a" type="m" corresp="#s1:l1">verblijdt</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Want Jesus,siet, tot deser <rhyme label="b" type="m">stont</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">De Werelt maken komt <rhyme label="b" type="m" corresp="#s1:l3">gesont</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ses dagen eer het Paeschfeest <rhyme label="a" type="m">quam</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Bethania sijn komst <rhyme label="a" type="m" corresp="#s2:l1">vernam</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Alwaer hy Lazaro sijn <rhyme label="b" type="m">vriendt</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Tot troost sijns susters had' <rhyme label="b" type="m" corresp="#s2:l3">gedient</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Want als hy had vier dagen <rhyme label="a" type="m">lanck</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">In 't graf gelegen, en nu <rhyme label="a" type="m" corresp="#s3:l1">stanck</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Heeft Christus hem uyt 's doodts <rhyme label="b" type="m">geweldt</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">In 't leven wederom <rhyme label="b" type="m" corresp="#s3:l3">gestelt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Een Bus met Narden-zalve <rhyme label="a" type="m">reyn</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Maria opent met <rhyme label="a" type="m" corresp="#s4:l1">geweyn</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Die sy op 't Lichaem Christi <rhyme label="b" type="m">giet</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">'t Welck Judas gierigheyt <rhyme label="b" type="m" corresp="#s4:l3">verdriet</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Daer na, wiens magt streckt breet en <rhyme label="a" type="m">wijdt</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Op 't ongeachte Veulen <rhyme label="a" type="m" corresp="#s5:l1">rijdt</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Na 's Konings stadt <rhyme label="b" type="m">Jerusalem</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Hosanna riep der scharen <rhyme label="b" type="m" corresp="#s5:l3">stem</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

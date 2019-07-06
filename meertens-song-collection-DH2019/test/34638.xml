@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34638</id>
+    <date>
+      <year-start>1641</year-start>
+      <year-end>1641</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">SOete Lief en wilt niet <rhyme label="a" type="f">vluchten</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">'t Loopen is te groote <rhyme label="b" type="m">moeyt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Want ghy doet de aerd' <rhyme label="a" type="f" corresp="#s1:l1">versuchten</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Dat ghy haer met voeten <rhyme label="b" type="m" corresp="#s1:l2">schroeyt</rhyme>:</l>
+        <l id="s1:l5" met="5" type="-+">Ach ! blijft, ach ! blijft, eylaes ! ick sal <rhyme label="c" type="f">bezwijcken</rhyme>,</l>
+        <l id="s1:l6" met="6" type="-+">Ach ! siet, ick vall' onverr', laet eens uw' stuerheyt <rhyme label="c" type="f" corresp="#s1:l5">strijcken</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Seght ghy gheck, wie soud' niet <rhyme label="a" type="f">vlieden</rhyme> ?</l>
+        <l id="s2:l2" met="4" type="+-">'t Grijs hayr is noyt <rhyme label="b" type="m">aen-ghenaem</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Al te oudt en siet-men <rhyme label="a" type="f" corresp="#s2:l1">sieden</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Door liefd', want het dorr' <rhyme label="b" type="m" corresp="#s2:l2">lichaem</rhyme></l>
+        <l id="s2:l5" met="5" type="-+">Vermorght, vermorght tot geender stondt oft <rhyme label="c" type="f">tijden</rhyme>,</l>
+        <l id="s2:l6" met="6" type="-+">Waer taeyheydt daer sy is en soeckt noyt te <rhyme label="c" type="f" corresp="#s2:l5">ontglijden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Sult ghy van mijn grijsheydt <rhyme label="a" type="f">loopen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Daer de witte blommen <rhyme label="b" type="m">zijn</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Om een kransken te <rhyme label="a" type="f" corresp="#s3:l1">beknoopen</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Mits hun glinsterigh' <rhyme label="b" type="m" corresp="#s3:l2">aenschijn</rhyme></l>
+        <l id="s3:l5" met="5" type="-+">Veel meer, veel meer de purp're roode <rhyme label="c" type="f">rosen</rhyme></l>
+        <l id="s3:l6" met="6" type="-+">Met hunnen klaren glans als d'andere doen <rhyme label="c" type="f" corresp="#s3:l5">blosen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Witte rooskens dat zijn <rhyme label="a" type="f">blommen</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Seer gheacht om hunne <rhyme label="b" type="m">jeughdt</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Men siet noyt in krancen <rhyme label="a" type="f" corresp="#s4:l1">kommen</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Kerck-hof-blommen sonder <rhyme label="b" type="m" corresp="#s4:l2">vreughdt</rhyme>:</l>
+        <l id="s4:l5" met="5" type="-+">Daer-om, daer-om uw' grijse dorre <rhyme label="c" type="f">hayren</rhyme></l>
+        <l id="s4:l6" met="6" type="-+">Gaet met de mollen self, oft met het Kerck-hof <rhyme label="c" type="f" corresp="#s4:l5">paren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

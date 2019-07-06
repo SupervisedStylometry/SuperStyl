@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6313</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>De stille nacht genaakt</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">HOe souden 't kusjes zijn die Rosemond my <rhyme label="a" type="m">geeft</rhyme>?</l>
+        <l id="s1:l2" met="3" type="-+">Och neen ik ben <rhyme label="b" type="f">bedrogen</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">'t Is Nectar, 't is Ambroos, waar van den Hemel <rhyme label="a" type="m" corresp="#s1:l1">leeft</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Dat ik heb <rhyme label="b" type="f" corresp="#s1:l2">ingesogen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Het is een honigh-dauw, die uyt haar sieltje <rhyme label="a" type="m">rijst</rhyme>;</l>
+        <l id="s2:l2" met="3" type="-+">(Ha, soete <rhyme label="b" type="f">spoockeryen</rhyme>!)</l>
+        <l id="s2:l3" met="5" type="-+">Al watmen in caneel, in thijm, of nardus <rhyme label="a" type="m" corresp="#s2:l1">prijst</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Komt van haar lipjes <rhyme label="b" type="f" corresp="#s2:l2">glijen</rhyme>,</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">De bijtjes die wel eer de bloempjes van <rhyme label="a" type="m">Hymet</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">In Grieken-land door <rhyme label="b" type="f">vloogen</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">En hebben uyt Narcis, uyt Roos noch <rhyme label="a" type="m" corresp="#s3:l1">Violet</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Oyt soeter soet <rhyme label="b" type="f" corresp="#s3:l2">gesoogen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Zoo my zoo lieven aas, de spijse van de <rhyme label="a" type="m">vreughd</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Wert dikmaals <rhyme label="b" type="f">aangeboden</rhyme></l>
+        <l id="s4:l3" met="5" type="-+">Blijf ik onsterfelijk en leef in stage <rhyme label="a" type="m" corresp="#s4:l1">jeughd</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Gelijk de <rhyme label="b" type="f" corresp="#s4:l2">Hemel-Goden</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Maar sagjes, Rosemond; daar schiet wat in mijn <rhyme label="a" type="m">sin</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Dat schijnt my te <rhyme label="b" type="f">vervaren</rhyme>.</l>
+        <l id="s5:l3" met="5" type="-+">Al sagjes, Rosemond; of maakt u een <rhyme label="a" type="m" corresp="#s5:l1">Goddin</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Of wilt u kusjes <rhyme label="b" type="f" corresp="#s5:l2">sparen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="5" type="-+">Ik wensch niet sonder u een van de Goon te <rhyme label="a" type="m">zijn</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">En tot haar disch <rhyme label="b" type="f">verheven</rhyme>,</l>
+        <l id="s6:l3" met="5" type="-+">Neen, hertje, sonder u was het my groote <rhyme label="a" type="m" corresp="#s6:l1">pijn</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">En eeuwigheyt te <rhyme label="b" type="f" corresp="#s6:l2">leven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

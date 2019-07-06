@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20805</id>
+    <date>
+      <year-start>1664</year-start>
+      <year-end>1664</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+    </tags>
+    <melody>La Dauphine</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">W' Hebben langh den dagh <rhyme label="a" type="m">verwacht</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">W' hebben langh den dagh <rhyme label="a" type="m" corresp="#s1:l1">verwacht</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Waecker! wat is't van de <rhyme label="a" type="m" corresp="#s1:l1">nacht</rhyme>?</l>
+        <l id="s1:l4" met="2" type="-+">Laet hooren // laet <rhyme label="b" type="f">hooren</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Is der Machten <rhyme label="a" type="m" corresp="#s1:l1">Opper-macht</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Messias, niet <rhyme label="b" type="f" corresp="#s1:l4">gebooren</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Och! wanneer of komen <rhyme label="a" type="m">sal</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Och wanneer of komen <rhyme label="a" type="m" corresp="#s2:l1">sal</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Van des hemels hooge <rhyme label="a" type="m" corresp="#s2:l1">wall'</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">Dien geene // dien <rhyme label="b" type="f">geene</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Die in plaets van droefheyds <rhyme label="a" type="m" corresp="#s2:l1">gall'</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Ons soetheyd sal <rhyme label="b" type="f" corresp="#s2:l4">verleenen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Och! wanneer of Davids <rhyme label="a" type="m">Stam</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Och! wanneer of Davids <rhyme label="a" type="m" corresp="#s3:l1">Stam</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Voor 't sal brengen 't suyv're <rhyme label="a" type="m" corresp="#s3:l1">Lam</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">'t Welck' boven // 't welck' <rhyme label="b" type="f">boven</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">(Waer den Heer op ons is <rhyme label="a" type="m" corresp="#s3:l1">gram</rhyme>)</l>
+        <l id="s3:l6" met="3" type="-+">De Eng'len hoogh'lijck <rhyme label="b" type="f" corresp="#s3:l4">loven</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Weest te vre'en, zijt wel <rhyme label="a" type="m">gemoedt</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Weest te vre'en, zijt wel <rhyme label="a" type="m" corresp="#s4:l1">gemoedt</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Want ick brengh u nu de <rhyme label="a" type="m" corresp="#s4:l1">groet</rhyme>,</l>
+        <l id="s4:l4" met="2" type="-+">Dat komen // dat <rhyme label="b" type="f">komen</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">Binnen kort sal 't <rhyme label="a" type="m" corresp="#s4:l1">Opper-goed</rhyme>;</l>
+        <l id="s4:l6" met="3" type="-+">Mits dat nu wort <rhyme label="b" type="f" corresp="#s4:l4">vernomen</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Sijne Moeder op dees <rhyme label="a" type="m">Aerd'</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Sijne Moeder op dees <rhyme label="a" type="m" corresp="#s5:l1">Aerd'</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Wien ons Anna heeft <rhyme label="a" type="m" corresp="#s5:l1">gebaert</rhyme>,</l>
+        <l id="s5:l4" met="2" type="-+">Blymoedich // <rhyme label="b" type="f">blymoedigh</rhyme></l>
+        <l id="s5:l5" met="4" type="+-">Met Sint Joachim <rhyme label="a" type="m" corresp="#s5:l1">gepaert</rhyme>;</l>
+        <l id="s5:l6" met="3" type="-+">Dies gaet uw' saeck <rhyme label="b" type="f" corresp="#s5:l4">voorspoedigh</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">S' is ons lossinghs <rhyme label="a" type="m">Dageraed</rhyme>,</l>
+        <l id="s6:l2" met="4" type="+-">S' is ons' lossinghs <rhyme label="a" type="m" corresp="#s6:l1">Dageraed</rhyme>,</l>
+        <l id="s6:l3" met="4" type="+-">Nu verandert onse <rhyme label="a" type="m" corresp="#s6:l1">Staet</rhyme>.</l>
+        <l id="s6:l4" met="2" type="-+">O vreughde! O <rhyme label="b" type="f">vreughde</rhyme>!</l>
+        <l id="s6:l5" met="4" type="+-">S' is ons' Troost, ons' <rhyme label="a" type="m" corresp="#s6:l1">Toeverlaet</rhyme>,</l>
+        <l id="s6:l6" met="3" type="-+">Verçiert met alle <rhyme label="b" type="f" corresp="#s6:l4">deughden</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">Welkoom, welkoom 's werelts <rhyme label="a" type="m">Bloem</rhyme>,</l>
+        <l id="s7:l2" met="4" type="+-">Welkoom, welkoom 's werelts <rhyme label="a" type="m" corresp="#s7:l1">Bloem</rhyme>,</l>
+        <l id="s7:l3" met="4" type="+-">Welkoom 's hemels hooghste <rhyme label="a" type="m" corresp="#s7:l1">Roem</rhyme>,</l>
+        <l id="s7:l4" met="2" type="-+">Princesse // <rhyme label="b" type="f">Princesse</rhyme>,</l>
+        <l id="s7:l5" met="4" type="+-">Wien ick mijne Liefde <rhyme label="a" type="m" corresp="#s7:l1">noem</rhyme>,</l>
+        <l id="s7:l6" met="3" type="-+">En mijne <rhyme label="b" type="f" corresp="#s7:l4">Patronesse</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="+-">Neemt my aen tot uwen <rhyme label="a" type="m">slaef</rhyme>,</l>
+        <l id="s8:l2" met="4" type="+-">Neemt my aen tot uwen <rhyme label="a" type="m" corresp="#s8:l1">slaef</rhyme>;</l>
+        <l id="s8:l3" met="4" type="+-">'k Sal U dienen gaeuw, en <rhyme label="a" type="m" corresp="#s8:l1">braef</rhyme></l>
+        <l id="s8:l4" met="2" type="-+">Met minne // met <rhyme label="b" type="f">minne</rhyme>.</l>
+        <l id="s8:l5" met="4" type="+-">Och vergunt my dese <rhyme label="a" type="m" corresp="#s8:l1">gaef</rhyme>,</l>
+        <l id="s8:l6" met="3" type="-+">O hemels <rhyme label="b" type="f" corresp="#s8:l4">Koninginne</rhyme>!</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="+-">'k Sal verbreyden uwe <rhyme label="a" type="m">eer</rhyme>,</l>
+        <l id="s9:l2" met="4" type="+-">'k Sal verbreyden uwe <rhyme label="a" type="m" corresp="#s9:l1">eer</rhyme>,</l>
+        <l id="s9:l3" met="4" type="+-">Hoort Ghy 't Moeder van den <rhyme label="a" type="m" corresp="#s9:l1">Heer</rhyme>?</l>
+        <l id="s9:l4" met="2" type="-+">Mijn yver // mijn <rhyme label="b" type="f">yver</rhyme>,</l>
+        <l id="s9:l5" met="4" type="+-">Die noch versch is, jongh en <rhyme label="a" type="m" corresp="#s9:l1">teer</rhyme>,</l>
+        <l id="s9:l6" met="3" type="-+">Wordt vromer, ende <rhyme label="b" type="f" corresp="#s9:l4">styver</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

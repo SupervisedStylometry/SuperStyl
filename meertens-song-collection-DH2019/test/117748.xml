@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>117748</id>
+    <date>
+      <year-start>1741</year-start>
+      <year-end>1741</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
+    </tags>
+    <melody>Écoutez bergers la musique angélique</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Verliefde <rhyme label="a" type="m">Maagd</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">Meend gy met <rhyme label="b" type="f">lonken</rhyme></l>
+        <l id="s1:l3" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s1:l2">t'Ontfonken</rhyme>
+        </l>
+        <l id="s1:l4" met="3" type="-+">Myn Hert wel eer <rhyme label="a" type="m" corresp="#s1:l1">behaagt</rhyme>;</l>
+        <l id="s1:l5" met="2" type="-+">Neen ik stel de <rhyme label="c" type="m">Min</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Gans uyt myn <rhyme label="c" type="m" corresp="#s1:l5">zin</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">'k Wil altoos met myn Vryheyd <rhyme label="b" type="f" corresp="#s1:l2">pronken</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Weg Malle <rhyme label="a" type="m">Pry</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">Met al u <rhyme label="b" type="f">Snappen</rhyme></l>
+        <l id="s2:l3" met="1" type="-+">En <rhyme label="b" type="f" corresp="#s2:l2">klappen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Ik laat u in de <rhyme label="a" type="m" corresp="#s2:l1">ly</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Schoon gy myn <rhyme label="c" type="m">Ziel</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Wel eer <rhyme label="c" type="m" corresp="#s2:l5">Geviel</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Gy zult my noyt niet weer <rhyme label="b" type="f" corresp="#s2:l2">Betrappen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Dat komt <rhyme label="a" type="m">Zottin</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Van na te <rhyme label="b" type="f">Lopen</rhyme>,</l>
+        <l id="s3:l3" met="1" type="-+">En <rhyme label="b" type="f" corresp="#s3:l2">hopen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Op u Trouwe <rhyme label="a" type="m" corresp="#s3:l1">Min</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">Neen, 'k Lag u <rhyme label="c" type="m">uyt</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">Gewaande <rhyme label="c" type="m" corresp="#s3:l5">Bruyd</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">'k Zal voor myn Gelt wel Schoonder <rhyme label="b" type="f" corresp="#s3:l2">kopen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">Het blinkent <rhyme label="a" type="m">Goud</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">Heeft groot <rhyme label="b" type="f">Vermogen</rhyme>,</l>
+        <l id="s4:l3" met="1" type="-+">In <rhyme label="b" type="f" corresp="#s4:l2">d'Ogen</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Van Juffers Jong en <rhyme label="a" type="m" corresp="#s4:l1">Oud</rhyme>.</l>
+        <l id="s4:l5" met="2" type="-+">Beklaag dan <rhyme label="c" type="m">niet</rhyme></l>
+        <l id="s4:l6" met="2" type="-+">Uw zwaar <rhyme label="c" type="m" corresp="#s4:l5">Verdriet</rhyme>,</l>
+        <l id="s4:l7" met="4" type="-+">Gy hebt u zelfs te Los <rhyme label="b" type="f" corresp="#s4:l2">bedrogen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="2" type="-+">Als ik de <rhyme label="a" type="m">Wyn</rhyme></l>
+        <l id="s5:l2" met="2" type="-+">Zie in de <rhyme label="b" type="f">Beker</rhyme>,</l>
+        <l id="s5:l3" met="1" type="-+">'t Is <rhyme label="b" type="f" corresp="#s5:l2">zeker</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Die baart my <rhyme label="a" type="m" corresp="#s5:l1">Medeçyn</rhyme>:</l>
+        <l id="s5:l5" met="2" type="-+">Die voed de <rhyme label="c" type="m">Vreugt</rhyme>,</l>
+        <l id="s5:l6" met="2" type="-+">En doet my <rhyme label="c" type="m" corresp="#s5:l5">Deugt</rhyme>,</l>
+        <l id="s5:l7" met="4" type="-+">Dies hoef ik noyt geen <rhyme label="b" type="f" corresp="#s5:l2">Apotheker</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="2" type="-+">Weg dart'le <rhyme label="a" type="m">Min</rhyme>,</l>
+        <l id="s6:l2" met="2" type="-+">Jou regte <rhyme label="b" type="f">Zotje</rhyme></l>
+        <l id="s6:l3" met="1" type="-+">'k <rhyme label="b" type="f" corresp="#s6:l2">Bespotje</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">'k Verban u uyt myn <rhyme label="a" type="m" corresp="#s6:l1">zin</rhyme>:</l>
+        <l id="s6:l5" met="2" type="-+">Schoon ik wel <rhyme label="c" type="m">schyn</rhyme></l>
+        <l id="s6:l6" met="2" type="-+">Uw Slaaf te <rhyme label="c" type="m" corresp="#s6:l5">zyn</rhyme>,</l>
+        <l id="s6:l7" met="4" type="-+">'t Is maar Geveynst, en ik <rhyme label="b" type="f" corresp="#s6:l2">Bedotje</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

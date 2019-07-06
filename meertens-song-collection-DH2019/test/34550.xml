@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34550</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">LUystert Urani naer 't <rhyme label="a" type="f">singhen</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Van het weeligh <rhyme label="b" type="m">pluym-ghediert</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">En wilt dan u stem eens <rhyme label="a" type="f" corresp="#s1:l1">dringhen</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Onder 't galmken datter <rhyme label="b" type="m" corresp="#s1:l2">zwiert</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Nachtegaeltjen, dat soo <rhyme label="a" type="f">schatert</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Wacht tot dat myn liefjen <rhyme label="b" type="m">komt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Ick en wil niet dat ghy <rhyme label="a" type="f" corresp="#s2:l1">klatert</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Als met haer in 't Lief <rhyme label="b" type="m" corresp="#s2:l2">ghebloemt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">'k Hebb' hier woordtjens voor de <rhyme label="a" type="f">liedtjens</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Die ghy door het wout <rhyme label="b" type="m">verspreydt</rhyme>;</l>
+        <l id="s3:l3" met="4" type="+-">Maer ick wacht my voor de <rhyme label="a" type="f" corresp="#s3:l1">spiedtjens</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Die al staen misschien <rhyme label="b" type="m" corresp="#s3:l2">bereydt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Om de dievery' te <rhyme label="a" type="f">weten</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Die ick door u keel wil <rhyme label="b" type="m">doen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">'k Wil myn Liefjen doen <rhyme label="a" type="f" corresp="#s4:l1">vergheten</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">'t Opset van den vor'gen <rhyme label="b" type="m" corresp="#s4:l2">noen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Wacht dan met u keel vol <rhyme label="a" type="f">org'len</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Tot myn Urani hier <rhyme label="b" type="m">is</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">En dan mooght ghy Zoet, zoet <rhyme label="a" type="f" corresp="#s5:l1">gorg'len</rhyme></l>
+        <l id="s5:l4" met="4" type="+-">Tot myn lydens <rhyme label="b" type="m" corresp="#s5:l2">laeffenis</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

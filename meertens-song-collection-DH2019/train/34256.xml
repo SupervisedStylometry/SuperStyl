@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34256</id>
+    <date>
+      <year-start>1650</year-start>
+      <year-end>1650</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+    </tags>
+    <melody>Jacques</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Jan Mommaert</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">LIeve Lijsjen, mijn soet <rhyme label="a" type="f">Roosjen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Die ick als mijn hert <rhyme label="b" type="m">bemin</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Zijt ghy niet mijn <rhyme label="a" type="f" corresp="#s1:l1">Boter-doosjen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">En den Blaes-balck van mijn <rhyme label="b" type="m" corresp="#s1:l2">min</rhyme>?</l>
+        <l id="s1:l5" met="5" type="+-">Lijsjen, Lijsjen, soete lieve <rhyme label="c" type="f">Meysjen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Lijsjen, ghy zijt mijn <rhyme label="b" type="m" corresp="#s1:l2">Goddin</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Heyntjen, Veyntjen, mijn soet <rhyme label="a" type="f">Baesjen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Waerom klaegh jy van u <rhyme label="b" type="m">smert</rhyme>?</l>
+        <l id="s2:l3" met="4" type="+-">‘k Minne u boven Thijs en <rhyme label="a" type="f" corresp="#s2:l1">Klaesjen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">O! Treck-plaester van mijn <rhyme label="b" type="m" corresp="#s2:l2">hert</rhyme>;</l>
+        <l id="s2:l5" met="5" type="+-">Heyntjen, Veyntjen, ‘k en ben geen <rhyme label="c" type="f">Begijntjen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Mijn hert voel ick mee <rhyme label="b" type="m" corresp="#s2:l2">verwert</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Lijsjen, Lijsjen, die in ’t <rhyme label="a" type="f">bloeyen</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Zijt van u voor-somers <rhyme label="b" type="m">jeught</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Laet u Heyntjen hem <rhyme label="a" type="f" corresp="#s3:l1">vermoeyen</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">In het plucken van u <rhyme label="b" type="m" corresp="#s3:l2">vreught</rhyme>;</l>
+        <l id="s3:l5" met="5" type="+-">Lijsjen, Lijsjen, soete lieve <rhyme label="c" type="f">Meysjen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">’t Roosjen baert al mijn <rhyme label="b" type="m" corresp="#s3:l2">geneught</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Heyntjen dat ick u liet <rhyme label="a" type="f">plucken</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">’t Roosjen dat op ’t steeltjen <rhyme label="b" type="m">staet</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">’t Sou my lichtelijck <rhyme label="a" type="f" corresp="#s4:l1">mislucken</rhyme>;</l>
+        <l id="s4:l4" met="4" type="+-">De gepluckte Roos <rhyme label="b" type="m" corresp="#s4:l2">vergaet</rhyme>.</l>
+        <l id="s4:l5" met="5" type="+-">Heyntjen, Veyntjen, ‘k en ben geen <rhyme label="c" type="f">Begijntjen</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Maer ick weet wel wat my <rhyme label="b" type="m" corresp="#s4:l2">schaedt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Lijsjen, laet my doch <rhyme label="a" type="f">behouwen</rhyme></l>
+        <l id="s5:l2" met="4" type="+-">d’Eer van uwen <rhyme label="b" type="m">Maeghdom</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">‘k Sweer u dat ick u sal <rhyme label="a" type="f" corresp="#s5:l1">trouwen</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Als ick uyt den Leger <rhyme label="b" type="m" corresp="#s5:l2">kom</rhyme>;</l>
+        <l id="s5:l5" met="5" type="+-">Lijsjen, Lijsjen, soete lieve <rhyme label="c" type="f">Meysjen</rhyme>,</l>
+        <l id="s5:l6" met="4" type="+-">Gunt my slechts de eerste <rhyme label="b" type="m" corresp="#s5:l2">blom</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Heyntjen, al uw’ droevigh <rhyme label="a" type="f">spreken</rhyme></l>
+        <l id="s6:l2" met="4" type="+-">Acht’ ick voor <rhyme label="b" type="m">bedriegery</rhyme>;</l>
+        <l id="s6:l3" met="4" type="+-">Kost hy my dat maer <rhyme label="a" type="f" corresp="#s6:l1">aen-preken</rhyme>,</l>
+        <l id="s6:l4" met="4" type="+-">Heyntjen had den bras van <rhyme label="b" type="m" corresp="#s6:l2">my</rhyme>;</l>
+        <l id="s6:l5" met="5" type="+-">Heyntjen, Veyntjen, dobbel loose <rhyme label="c" type="f">Queyntjen</rhyme></l>
+        <l id="s6:l6" met="4" type="+-">Packt u voort met sulck <rhyme label="b" type="m" corresp="#s6:l2">gevry</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">Wel hoe, Lijsjen, soudt ghy <rhyme label="a" type="f">meynen</rhyme></l>
+        <l id="s7:l2" met="4" type="+-">Dat ick u dan soud’ <rhyme label="b" type="m">af-gaen</rhyme>?</l>
+        <l id="s7:l3" met="4" type="+-">Moet u dat soo wonder <rhyme label="a" type="f" corresp="#s7:l1">schijnen</rhyme>?</l>
+        <l id="s7:l4" met="4" type="+-">Thijs deed’ Neel dat spel oock <rhyme label="b" type="m" corresp="#s7:l2">aen</rhyme>;</l>
+        <l id="s7:l5" met="5" type="+-">Heyntjen, Veyntjen, loopt by u <rhyme label="c" type="f">Pirijntjen</rhyme>,</l>
+        <l id="s7:l6" met="4" type="+-">Die ghy ’t selfste hebt <rhyme label="b" type="m" corresp="#s7:l2">gedaen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

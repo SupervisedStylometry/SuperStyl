@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13781</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Tircis au bord de la Seine</melody>
+  <author>anoniem</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">NU dan laet ick eerst de <rhyme label="a" type="f">tipjes</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Eenmael drucken eer ick <rhyme label="b" type="m">gae</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">‘k Meen de tipjes van u lipjes, u <rhyme label="a" type="f" corresp="#s1:l1">lipjes</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">V lipjes, soete <rhyme label="b" type="m" corresp="#s1:l2">Philida</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

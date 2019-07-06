@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20290</id>
+    <date>
+      <year-start>1612</year-start>
+      <year-end>1612</year-end>
+    </date>
+    <location>
+      <orginal-name>franeker</orginal-name>
+      <standard-name>Franeker</standard-name>
+      <coordinates>
+        <lon>53.1904513</lon>
+        <lat>5.5417414</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>La Durette</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="+-">NYmphe, die my wont met eenen schicht seer <rhyme label="a" type="m">soet</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Eylaes waerom wilt ghy met <rhyme label="a" type="m" corresp="#s1:l1">spoet</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Vluchten voor my, die leeft in druck, en <rhyme label="b" type="m">pijn</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Als ick derf u <rhyme label="b" type="m" corresp="#s1:l3">aenschijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="+-">Ach ghy voert met u triumphelijck ten <rhyme label="a" type="m">thoon</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Van mijn hert, en ghemoet de <rhyme label="a" type="m" corresp="#s2:l1">croon</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">En laet de rest tot roof, alsoomen <rhyme label="b" type="m">siet</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Van droefheyt en <rhyme label="b" type="m" corresp="#s2:l3">verdriet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="+-">Den Hemel seer beroert, verandert zijn <rhyme label="a" type="m">coleur</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Om u vertreck, en mijn <rhyme label="a" type="m" corresp="#s3:l1">doleur</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">En zijn tranen doen my swemmen <rhyme label="b" type="m">voorwaer</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">In dees woestijne <rhyme label="b" type="m" corresp="#s3:l3">swaer</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="+-">Phoebus selfs verlieft op u Diana <rhyme label="a" type="m">schoon</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Vliedt van ons, en volcht u <rhyme label="a" type="m" corresp="#s4:l1">persoon</rhyme>:</l>
+        <l id="s4:l3" met="5" type="-+">Soo dat dees plaets, die ghy t’samen <rhyme label="b" type="m">verclaert</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Blijft duyster <rhyme label="b" type="m" corresp="#s4:l3">desolaet</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="6" type="+-">Maer soo u noch can beweghen druck en <rhyme label="a" type="m">pijn</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">En u barmherticheyt <rhyme label="a" type="m" corresp="#s5:l1">diwijn</rhyme>:</l>
+        <l id="s5:l3" met="5" type="-+">Soo troost my lief met een hoop in mijn <rhyme label="b" type="m">li’en</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Om u weer haest te <rhyme label="b" type="m" corresp="#s5:l3">sien</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10325</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Schoonste nimf van het woud</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Ach wat lieffelick <rhyme label="a" type="m">geklanck</rhyme></l>
+        <l id="s1:l2" met="2" type="+-">Neemt sijn <rhyme label="a" type="m" corresp="#s1:l1">ganck</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Herwaerts heen door dese <rhyme label="b" type="f">boomen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Schijnt mijn Cloris selver <rhyme label="c" type="m">is</rhyme>.</l>
+        <l id="s1:l5" met="2" type="+-">'k Hou voor <rhyme label="c" type="m" corresp="#s1:l4">wis</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Dat hy hier voor by sal <rhyme label="b" type="f" corresp="#s1:l3">komen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Sien ick Cloris ginder <rhyme label="a" type="m">niet</rhyme></l>
+        <l id="s2:l2" met="2" type="+-">Achter 't <rhyme label="a" type="m" corresp="#s2:l1">riet</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Onder 't schaduw van de <rhyme label="b" type="f">linde</rhyme>?</l>
+        <l id="s2:l4" met="4" type="+-">'k Wil vrymoedig tot hem <rhyme label="c" type="m">treen</rhyme>,</l>
+        <l id="s2:l5" met="2" type="+-">Ginder <rhyme label="c" type="m" corresp="#s2:l4">heen</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Waer sal ick u Cloris <rhyme label="b" type="f" corresp="#s2:l3">vinden</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Sacht daer hoor ick weer <rhyme label="a" type="m">geluyt</rhyme></l>
+        <l id="s3:l2" met="2" type="+-">Van sijn <rhyme label="a" type="m" corresp="#s3:l1">Fluyt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">En sijn soet en lieflijck <rhyme label="b" type="f">spelen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Cloris komt en doet u <rhyme label="c" type="m">wil</rhyme>,</l>
+        <l id="s3:l5" met="2" type="+-">Swijght maer <rhyme label="c" type="m" corresp="#s3:l4">stil</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">'k Wil my willigh laten <rhyme label="b" type="f" corresp="#s3:l3">steelen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Maer hy liep al even <rhyme label="a" type="m">ras</rhyme></l>
+        <l id="s4:l2" met="2" type="+-">Op dit <rhyme label="a" type="m" corresp="#s4:l1">pas</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">Ging sijn Cudde voor hem <rhyme label="b" type="f">drijven</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Cloris riep ick, ach! waer <rhyme label="c" type="m">heen</rhyme></l>
+        <l id="s4:l5" met="2" type="+-">Dus <rhyme label="c" type="m" corresp="#s4:l4">getreen</rhyme>?</l>
+        <l id="s4:l6" met="4" type="+-">Wilt hier by u Phillis <rhyme label="b" type="f" corresp="#s4:l3">blijven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

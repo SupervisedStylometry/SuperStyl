@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>156879</id>
+    <date>
+      <year-start>1718</year-start>
+      <year-end>1718</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>De heiland door zijn Farizese scharen</melody>
+  <author>Govert van Mater</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">De Heiland door de Farizeeusche <rhyme label="a" type="f">Schaaren</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Ter wreedste Dood veroordeeld en <rhyme label="b" type="m">gedoemd</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Is 't doelwit van de schimp dier <rhyme label="a" type="f" corresp="#s1:l1">Moordenaa-ren</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">En spottend wordt hy een Profeet <rhyme label="b" type="m" corresp="#s1:l2">genoemd</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

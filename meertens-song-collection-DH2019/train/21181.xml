@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21181</id>
+    <date>
+      <year-start>1646</year-start>
+      <year-end>1646</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Polyphemus aan de stranden</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Guillaume Abrahams Ooijevaer</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Harderin, van Lethis <rhyme label="a" type="f">stroomen</rhyme></l>
+        <l id="s1:l2" met="2" type="+-"><rhyme label="a" type="f" corresp="#s1:l1">Voort-ghekomen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">In dees Wooningh schoon <rhyme label="b" type="m">ghebouwt</rhyme>:</l>
+        <l id="s1:l4" met="4" type="+-">Seght waerom dat ghy u <rhyme label="c" type="f">Schaepjes</rhyme></l>
+        <l id="s1:l5" met="2" type="+-">By de <rhyme label="c" type="f" corresp="#s1:l4">Knaepjes</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Van het Spaerne niet <rhyme label="b" type="m" corresp="#s1:l3">vertrouwt</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Of komt ghy maer om te <rhyme label="a" type="f">leeren</rhyme>,</l>
+        <l id="s2:l2" met="2" type="+-">Door 't <rhyme label="a" type="f" corresp="#s2:l1">verkeeren</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Wat de Nymphjes aerdigh <rhyme label="b" type="m">staet</rhyme>?</l>
+        <l id="s2:l4" met="4" type="+-">Dat ghy daerom zijt <rhyme label="c" type="f">gescheyden</rhyme></l>
+        <l id="s2:l5" met="2" type="+-">Van de <rhyme label="c" type="f" corresp="#s2:l4">Weyden</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">En u Vaders Wooningh <rhyme label="b" type="m" corresp="#s2:l3">laet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Of is 't door den Godt der <rhyme label="a" type="f">Minnen</rhyme>,</l>
+        <l id="s3:l2" met="2" type="+-">Die de <rhyme label="a" type="f" corresp="#s3:l1">sinnen</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Door af-wesen treuren <rhyme label="b" type="m">doet</rhyme>?</l>
+        <l id="s3:l4" met="4" type="+-">Of door Nijdt, of Nijders <rhyme label="c" type="f">vreese</rhyme>?</l>
+        <l id="s3:l5" met="2" type="+-">'t Sal soo <rhyme label="c" type="f" corresp="#s3:l4">wesen</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Datter yers wat schuylen <rhyme label="b" type="m" corresp="#s3:l3">moet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Door u fantaseerigh <rhyme label="a" type="f">kijcken</rhyme></l>
+        <l id="s4:l2" met="2" type="+-">Doet ghy <rhyme label="a" type="f" corresp="#s4:l1">blijcken</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">Dat u 't een of 't ander <rhyme label="b" type="m">deert</rhyme>:</l>
+        <l id="s4:l4" met="4" type="+-">Want somtijdts speur ick u <rhyme label="c" type="f">ooghen</rhyme></l>
+        <l id="s4:l5" met="2" type="+-"><rhyme label="c" type="f" corresp="#s4:l4">Overtoghen</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Als een mensch die <rhyme label="b" type="m" corresp="#s4:l3">lammenteert</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Staeckt de droefheydt, laetse <rhyme label="a" type="f">varen</rhyme>,</l>
+        <l id="s5:l2" met="2" type="+-">Kiest het <rhyme label="a" type="f" corresp="#s5:l1">Sparen</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Leydt de Schaepjens in 't <rhyme label="b" type="m">gheboomt'</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Daer de Harders Kransjes <rhyme label="c" type="f">cieren</rhyme>,</l>
+        <l id="s5:l5" met="2" type="+-">Om te <rhyme label="c" type="f" corresp="#s5:l4">vyeren</rhyme></l>
+        <l id="s5:l6" met="4" type="+-">Die door 't vyer van warmer <rhyme label="b" type="m" corresp="#s5:l3">koomt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

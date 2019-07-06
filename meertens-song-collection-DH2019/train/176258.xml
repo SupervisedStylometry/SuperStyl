@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176258</id>
+    <date>
+      <year-start>1611</year-start>
+      <year-end>1611</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+    </tags>
+    <melody>Een meisje had een ruiter lief</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="theatre">theater</category>
+    </categories>
+  <author>R.J. de Nerée, P.C. Hooft, C.G. Plemp</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GHy lodderlijcke Nymphen <rhyme label="a" type="m">soet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Die nauwelijcx een roosen <rhyme label="a" type="m" corresp="#s1:l1">hoet</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Om gouwe kroon soudt <rhyme label="b" type="f">gheven</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Hoe wel lust u u <rhyme label="b" type="f" corresp="#s1:l3">leven</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Vw lusten is u als een <rhyme label="a" type="m">wet</rhyme>.</l>
+        <l id="s2:l2" met="4" type="-+">Vw loncken is een ty <rhyme label="a" type="m" corresp="#s2:l1">gheset</rhyme>.</l>
+        <l id="s2:l3" met="3" type="-+">Vw kouten is <rhyme label="b" type="f">vryagie</rhyme>.</l>
+        <l id="s2:l4" met="3" type="-+">Vw minnen is <rhyme label="b" type="f" corresp="#s2:l3">boulagie</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">De schaduw, die de kuylen <rhyme label="a" type="m">heelt</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Waer in ghy u ghenoechgens <rhyme label="a" type="m" corresp="#s3:l1">steelt</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">En soudy niet <rhyme label="b" type="f">verwinschen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Om schaduthroons van <rhyme label="b" type="f" corresp="#s3:l3">Princen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Wanneer ghy aen de reye <rhyme label="a" type="m">gaet</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">En dat het schalcke lietge <rhyme label="a" type="m" corresp="#s4:l1">slaedt</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Het diepst van u <rhyme label="b" type="f">ghepeynsen</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Hoe qualijck kundy <rhyme label="b" type="f" corresp="#s4:l3">veynsen</rhyme>?</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Maer soo't u lief niet beter <rhyme label="a" type="m">kan</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">En toont u dat zijn harte, <rhyme label="a" type="m" corresp="#s5:l1">van</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">V hartgen is <rhyme label="b" type="f">ghedreven</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Wat isser om te <rhyme label="b" type="f" corresp="#s5:l3">gheven</rhyme>?</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Soo ruylden ghy dat deuntgen <rhyme label="a" type="m">niet</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Om avondtspel of <rhyme label="a" type="m" corresp="#s6:l1">morghenliedt</rhyme>,</l>
+        <l id="s6:l3" met="3" type="-+">Dat voor Princesse <rhyme label="b" type="f">deuren</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">Haer dunne slaep comt <rhyme label="b" type="f" corresp="#s6:l3">steuren</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Een appel die, met jonste <rhyme label="a" type="m">groot</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">Vw boeltgen werrept in u <rhyme label="a" type="m" corresp="#s7:l1">schoot</rhyme>,</l>
+        <l id="s7:l3" met="3" type="-+">Daerom soudt ghy <rhyme label="b" type="f">versmaden</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">'S hofs <rhyme label="b" type="f" corresp="#s7:l3">tafeloverdaden</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Als van u Lief gemolden <rhyme label="a" type="m">wert</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">Zijn t'uwaerts overgheven <rhyme label="a" type="m" corresp="#s8:l1">hart</rhyme>,</l>
+        <l id="s8:l3" met="3" type="-+">Soo zydy bet te <rhyme label="b" type="f">vreden</rhyme>,</l>
+        <l id="s8:l4" met="3" type="-+">Als Princen <rhyme label="b" type="f" corresp="#s8:l3">aenghebeden</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">'Teenvoudich leven heylich <rhyme label="a" type="m">leydt</rhyme></l>
+        <l id="s9:l2" met="4" type="-+">Ghy lien in vreed en <rhyme label="a" type="m" corresp="#s9:l1">vaylicheyt</rhyme>.</l>
+        <l id="s9:l3" met="3" type="-+">Vw vryheyt gaet te <rhyme label="b" type="f">boven</rhyme></l>
+        <l id="s9:l4" met="3" type="-+">De schijnwellust der <rhyme label="b" type="f" corresp="#s9:l3">Hoven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

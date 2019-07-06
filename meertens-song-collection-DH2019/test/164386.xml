@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>164386</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Gezwinde bode van de min</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wel aan, aanvaard dit volle <rhyme label="a" type="m">glas</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">'t Voedsel van de <rhyme label="b" type="m">Jeugd</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">'t Is vader Libers mild <rhyme label="a" type="m" corresp="#s1:l1">gewas</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Dat het hert <rhyme label="b" type="m" corresp="#s1:l2">verheugd</rhyme>;</l>
+        <l id="s1:l5" met="2" type="-+">'t Is het <rhyme label="c" type="m">soet</rhyme></l>
+        <l id="s1:l6" met="2" type="+-">Dat ons <rhyme label="c" type="m" corresp="#s1:l5">doet</rhyme></l>
+        <l id="s1:l7" met="2" type="+-">Vrolijk <rhyme label="d" type="m">zyn</rhyme></l>
+        <l id="s1:l8" met="2" type="+-">En de <rhyme label="d" type="m" corresp="#s1:l7">pijn</rhyme></l>
+        <l id="s1:l9" met="1" type="-+"><rhyme label="e" type="m">Vergaan</rhyme>.</l>
+        <l id="s1:l10" met="4" type="-+">Kom eeren wy dit zap <rhyme label="e" type="m" corresp="#s1:l9">voortaan</rhyme>,</l>
+        <l id="s1:l11" met="3" type="+-">Dat ons streeld met <rhyme label="f" type="m">lust</rhyme>,</l>
+        <l id="s1:l12" met="3" type="-+">Vreugd en soete <rhyme label="f" type="m" corresp="#s1:l11">rust</rhyme>,</l>
+        <l id="s1:l13" met="3" type="+-">Ja, verdrijft de <rhyme label="g" type="m">smert</rhyme></l>
+        <l id="s1:l14" met="4" type="+-">Soo ras het ingedronken <rhyme label="g" type="m" corresp="#s1:l13">werd</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">De min, met al haar smert en <rhyme label="a" type="m">pijn</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Vlied voor dit <rhyme label="b" type="m">gesigt</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Ja, zy verdrinkt in dese <rhyme label="a" type="m" corresp="#s2:l1">wijn</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">Die de smert <rhyme label="b" type="m" corresp="#s2:l2">verligt</rhyme>.</l>
+        <l id="s2:l5" met="2" type="-+">Drinkt het <rhyme label="c" type="m">uyt</rhyme>:</l>
+        <l id="s2:l6" met="2" type="+-">Dese <rhyme label="c" type="m" corresp="#s2:l5">Fluyt</rhyme>,</l>
+        <l id="s2:l7" met="2" type="+-">Op <rhyme label="d" type="m">gevuld</rhyme>,</l>
+        <l id="s2:l8" met="2" type="+-">Is de <rhyme label="d" type="m" corresp="#s2:l7">schuld</rhyme></l>
+        <l id="s2:l9" met="1" type="-+">Die <rhyme label="e" type="m">wy</rhyme></l>
+        <l id="s2:l10" met="4" type="-+">Steeds betalen, Ry om <rhyme label="e" type="m" corresp="#s2:l9">Ry</rhyme>,</l>
+        <l id="s2:l11" met="3" type="+-">Bromius tot <rhyme label="f" type="m">eer</rhyme>,</l>
+        <l id="s2:l12" met="3" type="-+">Want dit soet <rhyme label="f" type="m" corresp="#s2:l11">geweer</rhyme>,</l>
+        <l id="s2:l13" met="3" type="+-">Houden   hert en <rhyme label="g" type="m">sin</rhyme></l>
+        <l id="s2:l14" met="4" type="+-">Vylig voor de laffe <rhyme label="g" type="m" corresp="#s2:l13">Min</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

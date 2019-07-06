@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>162862</id>
+    <date>
+      <year-start>1690</year-start>
+      <year-end>1690</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Barent Pietersz. Kompas</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DIe trouwe Dienaer, is <rhyme label="a" type="m">voorheen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Na 't Vaderlandt, dat hy <rhyme label="b" type="f">beooghde</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Wy hoopen hem oock na te <rhyme label="a" type="m" corresp="#s1:l1">treen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Och! dat ons Godt eerlangh <rhyme label="b" type="f" corresp="#s1:l2">verhooghde</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">O! dat ons Vleesch en Bloedt <rhyme label="c" type="m">ontviel</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">En dat wy eeuwigh mochten <rhyme label="d" type="f">Leven</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Dit is de wenschingh van mijn <rhyme label="c" type="m" corresp="#s1:l5">Ziel</rhyme>.</l>
+        <l id="s1:l8" met="4" type="-+">O goede Godt! wilt dit ons <rhyme label="d" type="f" corresp="#s1:l6">geven</rhyme>.</l>
+        <l id="s1:l9" met="4" type="-+">Ey! brengh ons in uw Hemels <rhyme label="e" type="m">Throon</rhyme>,</l>
+        <l id="s1:l10" met="4" type="-+">Om Jesus, uwen lieven <rhyme label="e" type="m" corresp="#s1:l9">Soon</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

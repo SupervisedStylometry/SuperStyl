@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111595</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Wanneer de zon het morgenrood</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ô Vryheyd! vaar voor Eeuwig <rhyme label="a" type="m">wel</rhyme>;</l>
+        <l id="s1:l2" met="3" type="-+">want ik moet u <rhyme label="b" type="f">verlaten</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Ik word vervoerd door droef <rhyme label="a" type="m" corresp="#s1:l1">gekwel</rhyme>;</l>
+        <l id="s1:l4" met="3" type="-+">Men dwingd my nu te <rhyme label="b" type="f" corresp="#s1:l2">haten</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Ik ben verwonnen door de <rhyme label="c" type="m">min</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Des ban ik u uyt mynen <rhyme label="c" type="m" corresp="#s1:l5">Sin</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">'k Moet my na 't Noodlot <rhyme label="d" type="f">voegen</rhyme>.</l>
+        <l id="s1:l8" met="4" type="-+">De Mensch staat vaak gelyk een <rhyme label="e" type="m">Bal</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Voor slagen van het <rhyme label="e" type="m" corresp="#s1:l8">ongeval</rhyme>,</l>
+        <l id="s1:l10" met="4" type="-+">En moet zig <rhyme label="d" type="f" corresp="#s1:l7">vergenoe...gen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

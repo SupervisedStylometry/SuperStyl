@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6763</id>
+    <date>
+      <year-start>1620</year-start>
+      <year-end>1620</year-end>
+    </date>
+    <location>
+      <orginal-name>gent</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="sonnet" translation="sonnet">sonnet</tag>
+    </tags>
+    <melody>Helaas van dat ik kwam</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">HElaes! van dat ick quam dit aerde-rijck <rhyme label="a" type="f">aenschouwen</rhyme>;</l>
+        <l id="s1:l2" met="6" type="-+">Van dat ick in een wiegh’ wiert weenende <rhyme label="b" type="m">gheleydt</rhyme>;</l>
+        <l id="s1:l3" met="6" type="-+">Wat wit-gheteekend’ huer’ heeft oynt my soo <rhyme label="b" type="m" corresp="#s1:l2">ghereydt</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Dat ick de die voor blij eensins sou connen <rhyme label="a" type="f" corresp="#s1:l1">houwen</rhyme>?</l>
+        <l id="s1:l5" met="6" type="-+">‘Ken hadde nouw den schoot mijns Moeders gaen <rhyme label="a" type="f" corresp="#s1:l1">bedouwen</rhyme></l>
+        <l id="s1:l6" met="6" type="-+">Met traenen, als ick my alreede vandt <rhyme label="b" type="m" corresp="#s1:l2">ghevleydt</rhyme></l>
+        <l id="s1:l7" met="6" type="-+">Van ‘tgoet-schijnende quaet, bedrogh, en <rhyme label="b" type="m" corresp="#s1:l2">ydelheydt</rhyme>:</l>
+        <l id="s1:l8" met="6" type="-+">‘Twelck nu mijn aerem Siel in bitterheydt doet <rhyme label="a" type="f" corresp="#s1:l1">rouwen</rhyme>.</l>
+        <l id="s1:l9" met="6" type="-+">Soo saen als ick oock sagh, wierd’ ick mijn ooghen <rhyme label="b" type="m" corresp="#s1:l2">quijt</rhyme>:</l>
+        <l id="s1:l10" met="6" type="-+">Waer door ick hebb’ ghedoolt zeer langhe, verr’, een <rhyme label="b" type="m" corresp="#s1:l2">wijt</rhyme>,</l>
+        <l id="s1:l11" met="6" type="+-">Als een verloren schaep langhst velden, ende <rhyme label="c" type="f">straeten</rhyme>:</l>
+        <l id="s1:l12" met="6" type="-+">Maer God, die selve seght. Ick ben een Herder <rhyme label="d" type="m">goet</rhyme>,</l>
+        <l id="s1:l13" met="6" type="-+">Wilt my, u schaepken dogh nu commen te <rhyme label="d" type="m" corresp="#s1:l12">ghemoet</rhyme>,</l>
+        <l id="s1:l14" met="6" type="-+">Ick zal Aegypten-landt, voor eeuwelijck <rhyme label="c" type="f" corresp="#s1:l11">verlaeten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

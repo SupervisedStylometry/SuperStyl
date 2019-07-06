@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6923</id>
+    <date>
+      <year-start>1627</year-start>
+      <year-end>1627</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Amarylletje mijn vriendin</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Willem Dirckszoon Hooft, Jan Jansz. Starter, Jacob Westerbaen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">KLaertge wat heefter u hartge <rhyme label="a" type="m">verleyt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Dat het vermaeck in treurigheyt <rhyme label="a" type="m" corresp="#s1:l1">scheyt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">En altoos even benepen <rhyme label="b" type="m">verdort</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Gelijck een bloemtge het dauwetge <rhyme label="b" type="m" corresp="#s1:l3">schort</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Krielt het van Vrijers niet an je <rhyme label="a" type="m">deur</rhyme>?</l>
+        <l id="s2:l2" met="4" type="+-">Meughje niet gaen te kust en te <rhyme label="a" type="m" corresp="#s2:l1">keur</rhyme>?</l>
+        <l id="s2:l3" met="4" type="-+">En doe je niet branden, niet blaken, niet <rhyme label="b" type="m">braen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Al waer 't u op lust een lonckje te <rhyme label="b" type="m" corresp="#s2:l3">slaen</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Anders en speelt het windetge <rhyme label="a" type="m">niet</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Op Else tackjes en leuterich <rhyme label="a" type="m" corresp="#s3:l1">Riet</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Als lustichjes, lustichjes, lustichjes <rhyme label="b" type="m">gaet</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Het watertge daer aen 't walletghe <rhyme label="b" type="m" corresp="#s3:l3">staet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Sidt d'openhartige bloemtges <rhyme label="a" type="m">staen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Die u tot alle bly-gheesticheyt <rhyme label="a" type="m" corresp="#s4:l1">raen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Selfs 't Sonnetge wenst u beter te <rhyme label="b" type="m">moe</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">En werpt u vriendelijck ooghelijn <rhyme label="b" type="m" corresp="#s4:l3">toe</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Maer soo sy niet kunnen, door al hun <rhyme label="a" type="m">vermaen</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Steken met vreucht u sinnetjes <rhyme label="a" type="m" corresp="#s5:l1">aen</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Soo sulje aen 't schreyen makende <rhyme label="b" type="m">bron</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">De Boomen, de Bloemen, de suyvere <rhyme label="b" type="m" corresp="#s5:l3">Son</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

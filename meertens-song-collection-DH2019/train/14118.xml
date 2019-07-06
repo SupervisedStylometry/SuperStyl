@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14118</id>
+    <date>
+      <year-start>1582</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>mechelen</orginal-name>
+      <standard-name>Mechelen, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0281381</lon>
+        <lat>4.4803453</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="rederijkerslied" translation="rhetorician song">rederijkerslied</tag>
+      <tag standard-name="geuzenlied" translation="Geuzen song">geuzenlied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>O mens aanhoor des Heren woord</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="groups">groepen</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
+  <author>Pieter Sterlincx</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Schoon Nederlant // in v men <rhyme label="a" type="m">vant</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Eertijts <rhyme label="b" type="f">Mekodye</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Aen elcken cant // men vreucht <rhyme label="a" type="m" corresp="#s1:l1">ontbant</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Sonder <rhyme label="b" type="f" corresp="#s1:l2">envye</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Den Coopman vroet, was wel <rhyme label="c" type="m">ghemoet</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Hy wan ghelt en <rhyme label="c" type="m" corresp="#s1:l5">goet</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">Den ambacgtsman <rhyme label="d" type="f">mede</rhyme>,</l>
+        <l id="s1:l8" met="3" type="+-">Godt gafs in <rhyme label="c" type="m" corresp="#s1:l5">ouervloet</rhyme></l>
+        <l id="s1:l9" met="2" type="-+">Met Peys en <rhyme label="d" type="f" corresp="#s1:l7">vrede</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">En den Landtman // wasser wel <rhyme label="a" type="m">an</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Gheschat noch <rhyme label="b" type="f">gheschoren</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Godt hem hier gan // als dat hy <rhyme label="a" type="m" corresp="#s2:l1">van</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Sijn acker creech <rhyme label="b" type="f" corresp="#s2:l2">Coren</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">t’Suyuel gout <rhyme label="c" type="m">ghelt</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Vanden crijch <rhyme label="c" type="m" corresp="#s2:l5">onghequelt</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">Seer rijck van <rhyme label="d" type="f">hauen</rhyme></l>
+        <l id="s2:l8" met="3" type="+-">Nu wert hof en huys <rhyme label="c" type="m" corresp="#s2:l5">ghequelt</rhyme></l>
+        <l id="s2:l9" met="2" type="-+">En Ian moet <rhyme label="d" type="f" corresp="#s2:l7">grauen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Eens mochten vry, die schepen <rhyme label="a" type="m">by</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Van oosten en <rhyme label="b" type="f">westen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Comen die bly // op haer <rhyme label="a" type="m" corresp="#s3:l1">ghety</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">Brachten ons ten <rhyme label="b" type="f" corresp="#s3:l2">besten</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Coren ende wijn, Gout en siluer <rhyme label="c" type="m">fijn</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Van als voor elcx <rhyme label="c" type="m" corresp="#s3:l5">aenschijn</rhyme></l>
+        <l id="s3:l7" met="2" type="-+">Den Seeman mocht <rhyme label="d" type="f">vaeren</rhyme></l>
+        <l id="s3:l8" met="3" type="+-">Sy trocken eene <rhyme label="c" type="m" corresp="#s3:l5">lijn</rhyme></l>
+        <l id="s3:l9" met="2" type="-+">Al die daer <rhyme label="d" type="f" corresp="#s3:l7">waeren</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Maer nu siet, ist al strijt en <rhyme label="a" type="m">twist</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">Watmen hoort <rhyme label="b" type="f">spreken</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Door schalcken list ghelijck den <rhyme label="a" type="m" corresp="#s4:l1">mist</rhyme></l>
+        <l id="s4:l4" met="2" type="-+">Wert tlant <rhyme label="b" type="f" corresp="#s4:l2">versteken</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Ede berooft van zijn heer zijn <rhyme label="c" type="m">hooft</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Die heeren <rhyme label="c" type="m" corresp="#s4:l5">verdooft</rhyme></l>
+        <l id="s4:l7" met="2" type="-+">Achten gheen <rhyme label="d" type="f">claeghen</rhyme></l>
+        <l id="s4:l8" met="3" type="+-">Deen dander niet en <rhyme label="c" type="m" corresp="#s4:l5">ghelooft</rhyme></l>
+        <l id="s4:l9" met="2" type="-+">Tvalt swaer om <rhyme label="d" type="f" corresp="#s4:l7">draeghen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Van brant en moort, princen nieu <rhyme label="a" type="m">hoort</rhyme></l>
+        <l id="s5:l2" met="2" type="-+">Tcost menich <rhyme label="b" type="f">tleuen</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Op elck oort, berooftmen <rhyme label="a" type="m" corresp="#s5:l1">voort</rhyme></l>
+        <l id="s5:l4" met="2" type="-+">Wat daer is <rhyme label="b" type="f" corresp="#s5:l2">ghebleuen</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Elck een toe tast, spijs en dranck men <rhyme label="c" type="m">belast</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Al met schattinghe <rhyme label="c" type="m" corresp="#s5:l5">vast</rhyme></l>
+        <l id="s5:l7" met="2" type="-+">Huys, hof, lant en <rhyme label="d" type="f">eruen</rhyme></l>
+        <l id="s5:l8" met="3" type="+-">Dus werden wy <rhyme label="c" type="m" corresp="#s5:l5">verrast</rhyme></l>
+        <l id="s5:l9" met="2" type="-+">Tlant moet <rhyme label="d" type="f" corresp="#s5:l7">bederuen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1677</id>
+    <date>
+      <year-start>1544</year-start>
+      <year-end>1544</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="ballade" translation="ballad">ballade</tag>
+    </tags>
+    <melody>Ich habe gewacht eine winterlange Nacht</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HEt is gheleden iaer ende <rhyme label="a" type="m">dach</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">dat Brandenborch geuangen <rhyme label="a" type="m" corresp="#s1:l1">lach</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Gheworpen in eenen <rhyme label="b" type="f">toren</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Van steenen waren die <rhyme label="b" type="f" corresp="#s1:l3">mueren</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Daer lach hi meer dan seuen <rhyme label="a" type="m">iaer</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Sijn hayr was wit zijn baert was <rhyme label="a" type="m" corresp="#s2:l1">grau</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Sinen rooden mont <rhyme label="b" type="f">verbleecken</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Vander liefste was hi <rhyme label="b" type="f" corresp="#s2:l3">gheweken</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Si leyden hem op eenen <rhyme label="a" type="m">disch</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Si sneden hem wt zijn herte <rhyme label="a" type="m" corresp="#s3:l1">frisch</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Si gauent der liefste <rhyme label="b" type="f">teten</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Tot eene morghen <rhyme label="b" type="f" corresp="#s3:l3">onbijten</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Nv hebbe ick gheten dat herte <rhyme label="a" type="m">zijn</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Daer op wil ghedroncken <rhyme label="a" type="m" corresp="#s4:l1">zijn</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Nv schenct mi eens te <rhyme label="b" type="f">drincken</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Mijn herte wil mi <rhyme label="b" type="f" corresp="#s4:l3">ontsincken</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Den eersten dranc mer die si <rhyme label="a" type="m">dranck</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">haer herte in duysent stucken <rhyme label="a" type="m" corresp="#s5:l1">spranck</rhyme>.</l>
+        <l id="s5:l3" met="3" type="-+">Nv helpt maria maghet <rhyme label="b" type="f">reyn</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Met uwen kindeken <rhyme label="b" type="f" corresp="#s5:l3">cleyne</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Mer die dit liedeken eerstwerf <rhyme label="a" type="m">sanc</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Een vry sluymer was hi <rhyme label="a" type="m" corresp="#s6:l1">ghenaemt</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">hi heuet so wel <rhyme label="b" type="f">ghesonghen</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Vander liefster is hi <rhyme label="b" type="f" corresp="#s6:l3">ghedrongen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

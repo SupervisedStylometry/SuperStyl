@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>179971</id>
+    <date>
+      <year-start>1757</year-start>
+      <year-end>1757</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>J'ai des immortelles</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">'k Heb hier fraaije <rhyme label="a" type="f">bloemen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Waar op Natuur kan <rhyme label="a" type="f" corresp="#s1:l1">roemen</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">'k Heb Mirthe voor 't verliefd <rhyme label="b" type="m">gemoed</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">En Roosjes voor die zachtheid <rhyme label="b" type="m" corresp="#s1:l3">voed</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Het Tullepje voor de <rhyme label="c" type="f">Saletten</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Voor 't Herdertje <rhyme label="c" type="f" corresp="#s1:l5">Korenbouquetten</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Getrouwde schenk ik de <rhyme label="d" type="m">Akely</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">De Slaapbolbloem de <rhyme label="d" type="m" corresp="#s1:l7">Jalouzy</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">'k Zogt uit Flora's <rhyme label="a" type="f">dozen</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Voor Gekken <rhyme label="a" type="f" corresp="#s2:l1">Tydelozen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">De Krokus voor die trouw <rhyme label="b" type="m">bemind</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Voor Nedrigheid den <rhyme label="b" type="m" corresp="#s2:l3">Hyaçint</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Den Hoogmoed geef ik <rhyme label="c" type="f">Narsissen</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Den Wargeest schenk ik de <rhyme label="c" type="f" corresp="#s2:l5">Klissen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Het Naaktemannetje de <rhyme label="d" type="m">Jeugd</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">De Lely aan de <rhyme label="d" type="m" corresp="#s2:l7">Deugd</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">'k Zal met <rhyme label="a" type="f">Duizendschonen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Die vlug van Geest zyn <rhyme label="a" type="f" corresp="#s3:l1">kronen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">De Helden geef ik <rhyme label="b" type="m">Lauwerier</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">De Oprechte schenk ik de <rhyme label="b" type="m" corresp="#s3:l3">Anjelier</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">De Zonnebloem geef ik de <rhyme label="c" type="f">Wyzen</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">En de Annemoon den <rhyme label="c" type="f" corresp="#s3:l5">Gryzen</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Jonquielje en <rhyme label="d" type="m">Jassemyn</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Zal voor de Schoonheid <rhyme label="d" type="m" corresp="#s3:l7">zyn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

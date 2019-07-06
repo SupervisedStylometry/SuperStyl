@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4323</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Krelis Joostens malle vrijage</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">PEete Marry rayne <rhyme label="a" type="f">Parrel</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Suyker-zoete <rhyme label="b" type="f">snolletje</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Die deur 't levendig <rhyme label="a" type="f" corresp="#s1:l1">gedwarrel</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Van je kruyfde <rhyme label="b" type="f" corresp="#s1:l2">Bolletje</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Men zinnen <rhyme label="c" type="m">omgekrult</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Mit Minne-fratsen <rhyme label="c" type="m" corresp="#s1:l5">vult</rhyme>;</l>
+        <l id="s1:l7" met="2" type="-+">'t Lijkt bij men <rhyme label="d" type="m">Zij</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Wel <rhyme label="d" type="m" corresp="#s1:l7">toverij</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Zo is men brein <rhyme label="c" type="m" corresp="#s1:l5">vergult</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Sunt op jouw mijn kijkers <rhyme label="a" type="f">waayden</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Doeje mit Peet <rhyme label="b" type="f">Immetje</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Langs de wortel-marrikt <rhyme label="a" type="f" corresp="#s2:l1">draayden</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Neusden ik een <rhyme label="b" type="f" corresp="#s2:l2">schimmetje</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Met Minne-room <rhyme label="c" type="m">omschorst</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Ik slokten 't in men <rhyme label="c" type="m" corresp="#s2:l5">borst</rhyme>,</l>
+        <l id="s2:l7" met="2" type="-+">Dog 't vette <rhyme label="d" type="m">sop</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Dat breekt men <rhyme label="d" type="m" corresp="#s2:l7">op</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">As Miggels bont de <rhyme label="c" type="m" corresp="#s2:l5">worst</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Dus mijn Daget uyt den <rhyme label="a" type="f">westen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Die men hartje brangden <rhyme label="b" type="f">doet</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Gun ik deur de stiene <rhyme label="a" type="f" corresp="#s3:l1">vesten</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Van je quastig hartje <rhyme label="b" type="f" corresp="#s3:l2">wroet</rhyme>:</l>
+        <l id="s3:l5" met="3" type="-+">Op dat ik <rhyme label="c" type="m">liefdens-brij</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Gesuykert met <rhyme label="c" type="m" corresp="#s3:l5">kandij</rhyme>,</l>
+        <l id="s3:l7" met="2" type="-+">Van weer-mins <rhyme label="d" type="m">zoet</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">Met open <rhyme label="d" type="m" corresp="#s3:l7">snoet</rhyme>,</l>
+        <l id="s3:l9" met="3" type="-+">Mag lappen in men <rhyme label="c" type="m" corresp="#s3:l5">Pij</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

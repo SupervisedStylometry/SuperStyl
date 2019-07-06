@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>9021</id>
+    <date>
+      <year-start>1625</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="avondlied" translation="evening song">avondlied</tag>
+    </tags>
+    <melody>Christe qui lux es et dies</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">CHriste ghy zijt die lichte <rhyme label="a" type="m">dach</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Voor u die nacht niet blijven <rhyme label="a" type="m" corresp="#s1:l1">mach</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Ghy licht ons van den Vader <rhyme label="b" type="m">her</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">En zijt des lichtes <rhyme label="b" type="m" corresp="#s1:l3">Predigher</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ach lieve Heer behoet ons <rhyme label="a" type="m">doch</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">In dees nacht voor s'vyants <rhyme label="a" type="m" corresp="#s2:l1">bedroch</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En laet ons in dy rusten <rhyme label="b" type="m">fijn</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">En voor den Sathan seker <rhyme label="b" type="m" corresp="#s2:l3">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Of schoon die ooghen slapen <rhyme label="a" type="m">fijn</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">So laet dat herte wacker <rhyme label="a" type="m" corresp="#s3:l1">zijn</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Hout over ons dijn rechter <rhyme label="b" type="m">handt</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Dat wy niet vall'n in sondt en <rhyme label="b" type="m" corresp="#s3:l3">schandt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Wy bidden u Heer Jesu <rhyme label="a" type="m">Christ</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Behoedt ons voor des Duyvels <rhyme label="a" type="m" corresp="#s4:l1">list</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Die steets na onser Sielen <rhyme label="b" type="m">tracht</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Dat hy aen ons niet hebbe <rhyme label="b" type="m" corresp="#s4:l3">macht</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Wy zijn doch u gheerfde <rhyme label="a" type="m">goet</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Verworven door dijn heylich <rhyme label="a" type="m" corresp="#s5:l1">bloet</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Dat was des eeuw'ghen Vaders <rhyme label="b" type="m">raedt</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Als hy ons dy gheschencket <rhyme label="b" type="m" corresp="#s5:l3">haet</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Beveel den Enghel dat hy <rhyme label="a" type="m">com</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">En ons bewaeck' dijn <rhyme label="a" type="m" corresp="#s6:l1">eyghendom</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Gheeft ons die lieve Wachters <rhyme label="b" type="m">toe</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Dat wy voor'n Sathan hebben <rhyme label="b" type="m" corresp="#s6:l3">rue</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Soo slapen wy in den naem <rhyme label="a" type="m">dijn</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">Dewijl die Eng'len by ons <rhyme label="a" type="m" corresp="#s7:l1">zijn</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Ghy heylighe <rhyme label="b" type="m">drievuldicheyt</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Wy loven dy in <rhyme label="b" type="m" corresp="#s7:l3">eewicheyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

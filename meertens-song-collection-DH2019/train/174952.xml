@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174952</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Hé! dat 's wat anders, als op <rhyme label="a" type="m">school</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Te muffen op die harde <rhyme label="b" type="f">banken</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Te kijken naar die zwarte <rhyme label="b" type="f" corresp="#s1:l2">planken</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">En zoet te zijn als domme <rhyme label="a" type="m" corresp="#s1:l1">Jool</rhyme>!</l>
+        <l id="s1:l5" met="4" type="-+">Kom, kom! dat leeren is maar <rhyme label="c" type="m">wind</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">'k Denk, dat ik tòch mijn' kost wel <rhyme label="c" type="m" corresp="#s1:l5">vind</rhyme>!...</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wat woû-je, man?... een' halve <rhyme label="a" type="m">cent</rhyme>?</l>
+        <l id="s2:l2" met="4" type="-+">Ik heb er waarlijk geen' te <rhyme label="b" type="f">geven</rhyme>....</l>
+        <l id="s2:l3" met="4" type="-+">Maar kunt ge van uw werk niet <rhyme label="b" type="f" corresp="#s2:l2">leven</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">En moet ge beedlen, arme <rhyme label="a" type="m" corresp="#s2:l1">vent</rhyme>?</l>
+        <l id="s2:l5" met="4" type="-+">Gij lijkt toch anders groot en <rhyme label="c" type="m">sterk</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Hoe komt het - heb-je dan geen <rhyme label="c" type="m" corresp="#s2:l5">werk</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">‘Och, lieve kind! toen 'k jonger <rhyme label="a" type="m">was</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Toen woû ik mij niet goed <rhyme label="b" type="f">gedragen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">En ging, als 't schooluur was <rhyme label="b" type="f" corresp="#s3:l2">geslagen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Uit slentren in het groene <rhyme label="a" type="m" corresp="#s3:l1">gras</rhyme>;</l>
+        <l id="s3:l5" met="4" type="-+">Ik wou niet leeren toen ik <rhyme label="c" type="m">môst</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">En moet nu beedlen voor den <rhyme label="c" type="m" corresp="#s3:l5">kost</rhyme>.’</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Och, arme man! ik schrik er <rhyme label="a" type="m">van</rhyme>:</l>
+        <l id="s4:l2" met="4" type="-+">Ik was daar juist aan 't <rhyme label="b" type="f">stukjes-draaijen</rhyme>;</l>
+        <l id="s4:l3" met="4" type="-+">Maar 'k laat mij door uw voorbeeld <rhyme label="b" type="f" corresp="#s4:l2">raaîjen</rhyme>...</l>
+        <l id="s4:l4" met="4" type="-+">Kom morgen maar 'reis bij ons <rhyme label="a" type="m" corresp="#s4:l1">ân</rhyme>: -</l>
+        <l id="s4:l5" met="4" type="-+">Als Moeder 't mij vergeven <rhyme label="c" type="m">heeft</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Is 't vast, dat ze u een bótrâm <rhyme label="c" type="m" corresp="#s4:l5">geeft</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>115600</id>
+    <date>
+      <year-start>1681</year-start>
+      <year-end>1681</year-end>
+    </date>
+    <location>
+      <orginal-name>alkmaar</orginal-name>
+      <standard-name>Alkmaar, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.6312592</lon>
+        <lat>4.7503798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+    </tags>
+    <melody>Vlied heen droeve zuchtjes</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Claes Stapel</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">WAt is al 't <rhyme label="a" type="f">genieten</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">Van des Weerelds <rhyme label="b" type="m">heil</rhyme>,</l>
+        <l id="s1:l3" met="5" type="+-">Van staat, van eer, van schat, van lust en <rhyme label="c" type="f">weelden</rhyme>?</l>
+        <l id="s1:l4" met="3" type="+-">Schoon het noit <rhyme label="a" type="f" corresp="#s1:l1">verdrieten</rhyme>:</l>
+        <l id="s1:l5" met="3" type="+-">En met volle <rhyme label="b" type="m" corresp="#s1:l2">zeil</rhyme></l>
+        <l id="s1:l6" met="5" type="+-">U toequam en niet als vermaak en <rhyme label="c" type="f" corresp="#s1:l3">deelde</rhyme>?</l>
+        <l id="s1:l7" met="6" type="+-">'t Heeft dog in 't gebruiken veel moeit uit eigen <rhyme label="d" type="m">aard</rhyme>:</l>
+        <l id="s1:l8" met="3" type="+-">Staat verheft uw <rhyme label="e" type="f">hert</rhyme>,</l>
+        <l id="s1:l9" met="2" type="+-">Lust loond met <rhyme label="e" type="f" corresp="#s1:l8">smert</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">Schat werd met zorg <rhyme label="d" type="m" corresp="#s1:l7">bewaard</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Daar by is uw <rhyme label="a" type="f">leeven</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">Ongewis en <rhyme label="b" type="m">kort</rhyme>:</l>
+        <l id="s2:l3" met="5" type="+-">Dies kond gy niet een uur uw staat <rhyme label="c" type="f">betrouwen</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">Hoe hoog gy <rhyme label="a" type="f" corresp="#s2:l1">verheeven</rhyme></l>
+        <l id="s2:l5" met="3" type="+-">Van een yder <rhyme label="b" type="m" corresp="#s2:l2">wordt</rhyme>:</l>
+        <l id="s2:l6" met="5" type="+-">Uw staat kan u, nog gy uw staat <rhyme label="c" type="f" corresp="#s2:l3">behouwen</rhyme>.</l>
+        <l id="s2:l7" met="6" type="+-">Daer by brengd uw lust u te eer in stervens <rhyme label="d" type="m">nood</rhyme>.</l>
+        <l id="s2:l8" met="3" type="+-">En schoon gy <rhyme label="e" type="f">bezat</rhyme></l>
+        <l id="s2:l9" met="2" type="+-">Al 's Weerelds <rhyme label="e" type="f" corresp="#s2:l8">schat</rhyme></l>
+        <l id="s2:l10" met="3" type="-+">'t Bevrijd niet voor de <rhyme label="d" type="m" corresp="#s2:l7">dood</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="+-">Daarom staa naa <rhyme label="a" type="f">zaaken</rhyme>,</l>
+        <l id="s3:l2" met="3" type="+-">Die u naa de <rhyme label="b" type="m">dood</rhyme>,</l>
+        <l id="s3:l3" met="5" type="+-">In aller eeuwen eeuwigheid <rhyme label="c" type="f">verblijden</rhyme>;</l>
+        <l id="s3:l4" met="3" type="+-">Daar toe kond gy <rhyme label="a" type="f" corresp="#s3:l1">raaken</rhyme></l>
+        <l id="s3:l5" met="3" type="+-">Zonder angst of <rhyme label="b" type="m" corresp="#s3:l2">nood</rhyme>,</l>
+        <l id="s3:l6" met="5" type="+-">Alleen door staat, en schat, en lust te <rhyme label="c" type="f" corresp="#s3:l3">mijden</rhyme>.</l>
+        <l id="s3:l7" met="6" type="+-">Needrig zijt, en deelet uw schat, naa Gods <rhyme label="d" type="m">geboon</rhyme></l>
+        <l id="s3:l8" met="3" type="+-">Blust u vleesches <rhyme label="e" type="f">lust</rhyme>,</l>
+        <l id="s3:l9" met="2" type="+-">Zoo werd de <rhyme label="e" type="f" corresp="#s3:l8">rust</rhyme>,</l>
+        <l id="s3:l10" met="3" type="-+">Die eeuwig duurd, uw <rhyme label="d" type="m" corresp="#s3:l7">loon</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

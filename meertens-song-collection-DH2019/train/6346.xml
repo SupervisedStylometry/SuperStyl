@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6346</id>
+    <date>
+      <year-start>1618</year-start>
+      <year-end>1618</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
+    </tags>
+    <melody>Ik ben een arme pelgrim hier</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
+  <author>Haerlem Soetendal</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HOe wonderlyck ist Rat van <rhyme label="a" type="m">avontuer</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Dat men menighen keer siet <rhyme label="b" type="f">drayen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Den eenen druck, lyden, en zwaer <rhyme label="a" type="m" corresp="#s1:l1">ghetreur</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Den anderen vreucht <rhyme label="b" type="f" corresp="#s1:l2">verfrayen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als vrienden zijn by malkander <rhyme label="a" type="m">vergaert</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">tGhelijckt dat zy eens moeten <rhyme label="b" type="f">scheyden</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Ia mannen en vrouwen by een <rhyme label="a" type="m" corresp="#s2:l1">gepaert</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Moeten haer tijdt <rhyme label="b" type="f" corresp="#s2:l2">verbeyden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Also ist nu oock ghevaren met <rhyme label="a" type="m">my</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Ick meen Haerlem nu te <rhyme label="b" type="f">verlaten</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">En te gaen trecken den Bootsghesel <rhyme label="a" type="m" corresp="#s3:l1">by</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">tamsterdam by der <rhyme label="b" type="f" corresp="#s3:l2">straten</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Mijn Huysvrou waer geern te <rhyme label="a" type="m">portugael</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">maer ick soecke sulcks te <rhyme label="b" type="f">beletten</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Of my tamsterdam mocht helpen de <rhyme label="a" type="m" corresp="#s4:l1">Tael</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Daerom ga ickt <rhyme label="b" type="f" corresp="#s4:l2">versetten</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">De neeringhe is hier so qualijck <rhyme label="a" type="m">ghesteldt</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Ia geheel sieckelyck van <rhyme label="b" type="f">herten</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">En siet sulck een reyse die cost veel <rhyme label="a" type="m" corresp="#s5:l1">Gheldt</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Twelc my langhe sou <rhyme label="b" type="f" corresp="#s5:l2">smerten</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Dus segh ic adieu mijn Borgers <rhyme label="a" type="m">vroom</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Die Haerlem Soetendal <rhyme label="b" type="f">bewaren</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Of ic corts quam <rhyme label="a" type="m" corresp="#s6:l1">wederom</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">God laet ons bly <rhyme label="b" type="f" corresp="#s6:l2">vergaren</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Ic danc u tsamen van goet <rhyme label="a" type="m">gheselschap</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">princen en princessen <rhyme label="b" type="f">ydoone</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Hoort ghy van my eenich <rhyme label="a" type="m" corresp="#s7:l1">achterclap</rhyme>,</l>
+        <l id="s7:l4" met="3" type="-+">Vaecht doch mijn baentjen <rhyme label="b" type="f" corresp="#s7:l2">schoone</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

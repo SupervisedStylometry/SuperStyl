@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10613</id>
+    <date>
+      <year-start>1591</year-start>
+      <year-end>1591</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">LOf prijs en eer, sy v O Heer // en milde <rhyme label="a" type="f">Vader</rhyme></l>
+        <l id="s1:l2" met="6" type="+-">Die voor den morgen, niet te sorgen, hebt <rhyme label="b" type="f">bevolen</rhyme>,</l>
+        <l id="s1:l3" met="6" type="-+">Dewijl ghy alleen // En anders gheen // ons <rhyme label="a" type="f" corresp="#s1:l1">allegader</rhyme></l>
+        <l id="s1:l4" met="7" type="+-">Lijf en Siel voet // ende doet // hongher en dorst <rhyme label="c" type="f">vlieden</rhyme></l>
+        <l id="s1:l5" met="6" type="-+">Voor de weldaden // en ghenaeden, die ons <rhyme label="c" type="f" corresp="#s1:l4">gheschieden</rhyme>,</l>
+        <l id="s1:l6" met="7" type="+-">Eyscht ghy maer // Een hart danckbaer // willich en <rhyme label="d" type="m">bereyt</rhyme></l>
+        <l id="s1:l7" met="6" type="-+">Dus t'allen ty // Motten wy // Oock alle <rhyme label="c" type="f" corresp="#s1:l4">lieden</rhyme>,</l>
+        <l id="s1:l8" met="7" type="+-">God hier boven // danckelijck loven // inder <rhyme label="d" type="m" corresp="#s1:l6">eeuwicheyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

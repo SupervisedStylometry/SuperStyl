@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>115375</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>alkmaar</orginal-name>
+      <standard-name>Alkmaar, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.6312592</lon>
+        <lat>4.7503798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Phoebus is lang over de zee</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Fama heeft immer de waerheyt <rhyme label="a" type="m">verklaert</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Fama heeft immer niet <rhyme label="b" type="f">toegelogen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">‘t Jonghepaer is in Echte <rhyme label="a" type="m" corresp="#s1:l1">vergaert</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Fama heeft gheener van beyden <rhyme label="b" type="f" corresp="#s1:l2">bedrogen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Beyde zijn sy seer wel te <rhyme label="c" type="m">vree</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Vrienden en maeghden die komen oock <rhyme label="c" type="m" corresp="#s1:l5">mee</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Ter Bruyloft van dees <rhyme label="c" type="m" corresp="#s1:l5">twee</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Hola, daer hoor ick een schamper <rhyme label="a" type="m">geswier</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Van een verdrietigh mommelen <rhyme label="b" type="f">komen</rhyme>:</l>
+        <l id="s2:l3" met="4" type="+-">mommelaer part u al vry van <rhyme label="a" type="m" corresp="#s2:l1">hier</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">‘t Mommelen kan u nu hier niet <rhyme label="b" type="f" corresp="#s2:l2">vromen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">weet gy wat namaels beuren <rhyme label="c" type="m">sal</rhyme>?</l>
+        <l id="s2:l6" met="4" type="+-">U wangunstige leuren <rhyme label="c" type="m" corresp="#s2:l5">al</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Zijn maer gelapt <rhyme label="c" type="m" corresp="#s2:l5">gekal</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Princen en acht de Mommelaers <rhyme label="a" type="m">niet</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Om uwe vrede wel te <rhyme label="b" type="f">versinnen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Of u yet namael tegen <rhyme label="a" type="m" corresp="#s3:l1">biedt</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Leert altijdt liefde met liefde <rhyme label="b" type="f" corresp="#s3:l2">verwinnen</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Liefde en smaeckt geen <rhyme label="c" type="m">ongeval</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Liefde het suur verkeeren <rhyme label="c" type="m" corresp="#s3:l5">sal</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Reyn liefde verwindt het <rhyme label="c" type="m" corresp="#s3:l5">al</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

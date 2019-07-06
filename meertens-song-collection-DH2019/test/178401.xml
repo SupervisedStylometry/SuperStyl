@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>178401</id>
+    <date>
+      <year-start>1623</year-start>
+      <year-end>1623</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Si cette malheureuse bande</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Gheluckich is den <rhyme label="a" type="f">mensche</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Die in deuchden <rhyme label="b" type="m">persevereert</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Die sal na hare <rhyme label="a" type="f" corresp="#s1:l1">wensche</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Besitten de eeuwighe <rhyme label="b" type="m" corresp="#s1:l2">vreucht</rhyme></l>
+        <l id="s1:l5" met="2" type="+-">Sonder pijn en <rhyme label="c" type="m">smert</rhyme></l>
+        <l id="s1:l6" met="2" type="+-">Sal haer jonck <rhyme label="c" type="m" corresp="#s1:l5">hert</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Scheppen een nieuwe <rhyme label="b" type="m" corresp="#s1:l2">jeucht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Hierom wilt niet <rhyme label="a" type="f">vertoeven</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">O jonghe maeghdekens <rhyme label="b" type="m">teer</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Maer wilt dit wel <rhyme label="a" type="f" corresp="#s2:l1">bevroeden</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">En schenckt u jeucht aen Godt den <rhyme label="b" type="m" corresp="#s2:l2">Heer</rhyme></l>
+        <l id="s2:l5" met="2" type="+-">En verachtet <rhyme label="c" type="m">al</rhyme></l>
+        <l id="s2:l6" met="2" type="+-">In dit aersche <rhyme label="c" type="m" corresp="#s2:l5">dal</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Dat u treckt tot swerelts <rhyme label="b" type="m" corresp="#s2:l2">eer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Soo suldy ontfanghen voor <rhyme label="a" type="f">loon</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">De croon van peerlen <rhyme label="b" type="m">fijn</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Ghy sult wesen seer <rhyme label="a" type="f" corresp="#s3:l1">schoon</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">En sult eeuwelijck in vreuchden <rhyme label="b" type="m" corresp="#s3:l2">zijn</rhyme>,</l>
+        <l id="s3:l5" met="2" type="+-">In des Hemels <rhyme label="c" type="m">hoff</rhyme></l>
+        <l id="s3:l6" met="2" type="+-">Des Heeren <rhyme label="c" type="m" corresp="#s3:l5">loff</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Suldy singen met d’Engelen <rhyme label="b" type="m" corresp="#s3:l2">fijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

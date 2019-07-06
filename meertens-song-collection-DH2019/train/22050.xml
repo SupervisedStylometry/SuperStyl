@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22050</id>
+    <date>
+      <year-start>1605</year-start>
+      <year-end>1605</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+    </tags>
+    <melody>In dulci jubilo</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author>Nicolaes Janssens</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">GHy die in droefheyt <rhyme label="a" type="m">zijt</rhyme>,,</l>
+        <l id="s1:l2" met="3" type="-+">Staet op tis nu den <rhyme label="a" type="m" corresp="#s1:l1">tijt</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Om wt den slaep <rhyme label="b" type="f">t’ontspringhen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">V sonden maeckt nu <rhyme label="c" type="m">quijt</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Aenhoort dees soete <rhyme label="b" type="f" corresp="#s1:l3">dinghen</rhyme>,,</l>
+        <l id="s1:l6" met="3" type="-+">Sy brenghen ons <rhyme label="c" type="m" corresp="#s1:l4">iolijt</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">D’engelen sonder <rhyme label="c" type="m" corresp="#s1:l4">nijt</rhyme>,,</l>
+        <l id="s1:l8" met="3" type="-+">Zijn gheheel <rhyme label="c" type="m" corresp="#s1:l4">verblijt</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Hierom sy lofsanck <rhyme label="b" type="f" corresp="#s1:l3">singhen</rhyme>,,</l>
+        <l id="s1:l10" met="3" type="-+">Den Heere <rhyme label="c" type="m" corresp="#s1:l4">ghebenedijt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Een maecht heeft voort <rhyme label="a" type="m">ghebracht</rhyme>,,</l>
+        <l id="s2:l2" met="3" type="-+">Godts soon van grooter <rhyme label="a" type="m" corresp="#s2:l1">macht</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Door den Gheest Godts <rhyme label="b" type="f">ghepresen</rhyme>,,</l>
+        <l id="s2:l4" met="3" type="-+">Wt Coninck Dauids <rhyme label="c" type="m">gheslacht</rhyme>,,</l>
+        <l id="s2:l5" met="3" type="-+">Hy sal ons Leytsman <rhyme label="b" type="f" corresp="#s2:l3">wesen</rhyme>,,</l>
+        <l id="s2:l6" met="3" type="-+">Al door zijn eyghen <rhyme label="c" type="m" corresp="#s2:l4">cracht</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Dese suyuer <rhyme label="c" type="m" corresp="#s2:l4">dracht</rhyme>,,</l>
+        <l id="s2:l8" met="3" type="-+">Was soo langhe <rhyme label="c" type="m" corresp="#s2:l4">verwacht</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">Dat sy ons sou <rhyme label="b" type="f" corresp="#s2:l3">ghenesen</rhyme>,,</l>
+        <l id="s2:l10" met="3" type="-+">Beuryen van den <rhyme label="c" type="m" corresp="#s2:l4">nacht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Laet ons nu vrolijck <rhyme label="a" type="m">zijn</rhyme>,,</l>
+        <l id="s3:l2" met="3" type="-+">Met dit cleyn <rhyme label="a" type="m" corresp="#s3:l1">kindekijn</rhyme>,,</l>
+        <l id="s3:l3" met="3" type="-+">Het welck ons is <rhyme label="b" type="f">ghegeuen</rhyme>,,</l>
+        <l id="s3:l4" met="3" type="-+">Van Godt den Vader <rhyme label="c" type="m">fijn</rhyme>,,</l>
+        <l id="s3:l5" met="3" type="-+">Door hem sullen wy <rhyme label="b" type="f" corresp="#s3:l3">leuen</rhyme>,,</l>
+        <l id="s3:l6" met="3" type="-+">Eewelijck sonder <rhyme label="c" type="m" corresp="#s3:l4">pijn</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Teghen doots <rhyme label="c" type="m" corresp="#s3:l4">fenijn</rhyme>,,</l>
+        <l id="s3:l8" met="3" type="-+">Gheeft hy olie en <rhyme label="c" type="m" corresp="#s3:l4">wijn</rhyme>,</l>
+        <l id="s3:l9" met="3" type="-+">Hierom wilt hem <rhyme label="b" type="f" corresp="#s3:l3">aencleuen</rhyme>,,</l>
+        <l id="s3:l10" met="3" type="-+">Hy is ons <rhyme label="c" type="m" corresp="#s3:l4">Medecijn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Hy is den <rhyme label="a" type="m">Pellicaen</rhyme>,,</l>
+        <l id="s4:l2" met="3" type="-+">Die met zijn bloet seer <rhyme label="a" type="m" corresp="#s4:l1">saen</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Sijn iongeren sal <rhyme label="b" type="f">spijsen</rhyme>,,</l>
+        <l id="s4:l4" met="3" type="-+">En haren dorst <rhyme label="c" type="m">versaen</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Tis recht dat wy hem <rhyme label="b" type="f" corresp="#s4:l3">prijsen</rhyme>,,</l>
+        <l id="s4:l6" met="3" type="-+">Hy heeft voor ons <rhyme label="c" type="m" corresp="#s4:l4">voldaen</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Comt die zijn <rhyme label="c" type="m" corresp="#s4:l4">belaen</rhyme>,,</l>
+        <l id="s4:l8" met="3" type="-+">Bidt ghy sult <rhyme label="c" type="m" corresp="#s4:l4">ontfaen</rhyme>,</l>
+        <l id="s4:l9" met="3" type="-+">Hy sal v troost <rhyme label="b" type="f" corresp="#s4:l3">bewijsen</rhyme>,,</l>
+        <l id="s4:l10" met="3" type="-+">Als den <rhyme label="c" type="m" corresp="#s4:l4">Samaritaen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Lof sy den Prince <rhyme label="a" type="m">net</rhyme>,,</l>
+        <l id="s5:l2" met="3" type="-+">Die nae der Jootscher <rhyme label="a" type="m" corresp="#s5:l1">wet</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Eerlijck wert <rhyme label="b" type="f">besneden</rhyme>,,</l>
+        <l id="s5:l4" met="3" type="-+">Soo Lucas ons dat <rhyme label="c" type="m">set</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">t’Serpent heeft hy <rhyme label="b" type="f" corresp="#s5:l3">vertreden</rhyme>,,</l>
+        <l id="s5:l6" met="3" type="-+">Onder die voet <rhyme label="c" type="m" corresp="#s5:l4">verplet</rhyme>,</l>
+        <l id="s5:l7" met="3" type="-+">Broeders hier op <rhyme label="c" type="m" corresp="#s5:l4">let</rhyme>,,</l>
+        <l id="s5:l8" met="3" type="-+">Eert Godt doort <rhyme label="c" type="m" corresp="#s5:l4">ghebedt</rhyme>,</l>
+        <l id="s5:l9" met="3" type="-+">Looft hem met <rhyme label="b" type="f" corresp="#s5:l3">vrolijckheden</rhyme>,,</l>
+        <l id="s5:l10" met="3" type="-+">Want hy is sonder <rhyme label="c" type="m" corresp="#s5:l4">smet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

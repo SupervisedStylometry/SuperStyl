@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34135</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Je sens pour vous la nuit et le jour</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Petrus Suetmans, Eustachius de Meyer</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">De min die ick in 't herte <rhyme label="a" type="m">besluyt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Can ick niet langher <rhyme label="b" type="f">bedwinghen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Want myn Vrindin die lockt my weêr <rhyme label="a" type="m" corresp="#s1:l1">uyt</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Om haer myn klachten te <rhyme label="b" type="f" corresp="#s1:l2">singhen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hoe kont ghy sien dan Cloris myn <rhyme label="a" type="m">lief</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">U slaef mistroostigh <rhyme label="b" type="f">voor-by-gaen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Dat g'u verberght ghelyck eenen <rhyme label="a" type="m" corresp="#s2:l1">dief</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Noch wilt gheen ooghskens op my <rhyme label="b" type="f" corresp="#s2:l2">slaen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Het velt 'twelck noyt gheen Sonne <rhyme label="a" type="m">bescheynt</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Daer treuren alle de <rhyme label="b" type="f">vruchten</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Soo u ghesicht van my oock <rhyme label="a" type="m" corresp="#s3:l1">verdweynt</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Soo leef ick sonder <rhyme label="b" type="f" corresp="#s3:l2">ghenuchten</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ach keert dan Sonne tot my uwen <rhyme label="a" type="m">schyn</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Laet my u ooghskens <rhyme label="b" type="f">bestraelen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Dat uwen mont den dauw eens moet <rhyme label="a" type="m" corresp="#s4:l1">zyn</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Die op myn lipkens sal <rhyme label="b" type="f" corresp="#s4:l2">daelen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Dit sal den lof zyn van uwen <rhyme label="a" type="m">glans</rhyme>.</l>
+        <l id="s5:l2" met="3" type="-+">Dat ghy de liefde kont <rhyme label="b" type="f">voyen</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Der maeghden jonst, is troost der <rhyme label="a" type="m" corresp="#s5:l1">Jongh-mans</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Sulckx sal myn diensten doen <rhyme label="b" type="f" corresp="#s5:l2">groyen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

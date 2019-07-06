@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32799</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="marialied" translation="Maria song">Marialied</tag>
+    </tags>
+    <melody>Fortuin helaas</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">LAet ons met <rhyme label="a" type="f">lof-sanghen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Verheffen ons <rhyme label="b" type="m">ghemoet</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">En inwendich <rhyme label="a" type="f" corresp="#s1:l1">aenhanghen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Godts lieve Moeder <rhyme label="b" type="m" corresp="#s1:l2">soet</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Zy is een Maghet <rhyme label="b" type="m" corresp="#s1:l2">vroet</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">En in al ons <rhyme label="c" type="m">misval</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Naest Godt helpt s'ons met <rhyme label="b" type="m" corresp="#s1:l2">spoet</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">In dit traen-vloedich <rhyme label="c" type="m" corresp="#s1:l6">dal</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ghelijck de door in't <rhyme label="a" type="f">wilde</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Die Moyses sagh in't <rhyme label="b" type="m">vier</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Den brandt hem niet en <rhyme label="a" type="f" corresp="#s2:l1">schilde</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Maer bleef groen ende <rhyme label="b" type="m" corresp="#s2:l2">fier</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Soo bleef die Maeght <rhyme label="b" type="m" corresp="#s2:l2">al-hier</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">En wert Moeder <rhyme label="c" type="m">bedacht</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Deur't Goddelijck <rhyme label="b" type="m" corresp="#s2:l2">bestier</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Buyten natueren <rhyme label="c" type="m" corresp="#s2:l6">kracht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">O suyver Maeght en <rhyme label="a" type="f">Vrouwe</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">O weerde Davidts <rhyme label="b" type="m">ranck</rhyme>!</l>
+        <l id="s3:l3" met="3" type="-+">O Roos, o schoon <rhyme label="a" type="f" corresp="#s3:l1">Kerssouwe</rhyme>!</l>
+        <l id="s3:l4" met="3" type="-+">O Hemelschen <rhyme label="b" type="m" corresp="#s3:l2">inganck</rhyme>!</l>
+        <l id="s3:l5" met="3" type="-+">O hoop in ons <rhyme label="b" type="m" corresp="#s3:l2">verlanck</rhyme>!</l>
+        <l id="s3:l6" met="3" type="-+">O Morghen sterre <rhyme label="c" type="m">claer</rhyme>!</l>
+        <l id="s3:l7" met="3" type="-+">Neemt in danck onsen <rhyme label="b" type="m" corresp="#s3:l2">sanck</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Bidt voor ons <rhyme label="c" type="m" corresp="#s3:l6">allegaer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

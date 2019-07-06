@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8034</id>
+    <date>
+      <year-start>1644</year-start>
+      <year-end>1644</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Psalm 100 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jan Jansz. Deutel</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WY dancken u o Godt en <rhyme label="a" type="m">Heer</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Dat ghy ons nu tot uwer <rhyme label="a" type="m" corresp="#s1:l1">eer</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Ghespijst hebt door u heyligh <rhyme label="b" type="m">woordt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Dat wy alhier hebben <rhyme label="b" type="m" corresp="#s1:l3">gehoort</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wilt dat oock nu maecken <rhyme label="a" type="m">vruchtbaer</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">In onse herten <rhyme label="a" type="m" corresp="#s2:l1">allegaer</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Dat wy 't volbrenghen met der <rhyme label="b" type="m">daedt</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Nae uwen Goddelijcken <rhyme label="b" type="m" corresp="#s2:l3">raedt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Daer toe lief Heere gheeft ons <rhyme label="a" type="m">kracht</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Dat bidden wy u met <rhyme label="a" type="m" corresp="#s3:l1">aendacht</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Sonder u hulp' waert al om <rhyme label="b" type="m">niet</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">V ghenade over ons <rhyme label="b" type="m" corresp="#s3:l3">giet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Eer zy u Vader ende <rhyme label="a" type="m">Soon</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">En heyl'ghe Gheest in 'sHemels <rhyme label="a" type="m" corresp="#s4:l1">troon</rhyme>.</l>
+        <l id="s4:l3" met="4" type="-+">By ons alle te samen <rhyme label="b" type="m">fijn</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Moet dit doch jae en amen <rhyme label="b" type="m" corresp="#s4:l3">zijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

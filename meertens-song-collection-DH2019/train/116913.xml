@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>116913</id>
+    <date>
+      <year-start>1717</year-start>
+      <year-end>1748</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Rozemond die lag gedoken</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">WY dogters mogen wel <rhyme label="a" type="f">klagen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Dat de werelt dus <rhyme label="b" type="m">vergaet</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Men hoort niet een Iongman <rhyme label="a" type="f" corresp="#s1:l1">vragen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Nog ook van geen vrysters <rhyme label="b" type="m" corresp="#s1:l2">praet</rhyme>?</l>
+        <l id="s1:l5" met="4" type="+-">Maer het is al na de <rhyme label="c" type="m">kroeg</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">’t Bier is haer dogters <rhyme label="c" type="m" corresp="#s1:l5">genoeg</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Is het niet om te <rhyme label="a" type="f">betreuren</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Dat de vryers gaen <rhyme label="b" type="m">verby</rhyme>?</l>
+        <l id="s2:l3" met="4" type="+-">Men siet het dagelijks <rhyme label="a" type="f" corresp="#s2:l1">gebeuren</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Wat voor liefde dat het <rhyme label="b" type="m" corresp="#s2:l2">zy</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">’t Is maer om de Flap met <rhyme label="c" type="m">bier</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Haer te doen, en dat by ’t <rhyme label="c" type="m" corresp="#s2:l5">vier</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Sondaegs sou men gaeren <rhyme label="a" type="f">wandelen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Met de vryers naer den <rhyme label="b" type="m">hout</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">En met haer van liefden <rhyme label="a" type="f" corresp="#s3:l1">hand’len</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Maer eylaes, sy zyn <rhyme label="b" type="m" corresp="#s3:l2">verkout</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">En bevroren als een <rhyme label="c" type="m">Ys</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Drinken liever ’t bier om <rhyme label="c" type="m" corresp="#s3:l5">prys</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">’t Is tot Ionkers op de <rhyme label="a" type="f">trappen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">En op ander plaetsen <rhyme label="b" type="m">meer</rhyme>;</l>
+        <l id="s4:l3" met="4" type="+-">Praten liever van de <rhyme label="a" type="f" corresp="#s4:l1">Flappen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">En van andere ondeugt <rhyme label="b" type="m" corresp="#s4:l2">meer</rhyme>;</l>
+        <l id="s4:l5" met="4" type="+-">Laten ons soo sitten <rhyme label="c" type="m">stil</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Metter tijdt vergaet ons <rhyme label="c" type="m" corresp="#s4:l5">wil</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Nu wy mogen nog eens <rhyme label="a" type="f">hopen</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Dat zy zullen voor het <rhyme label="b" type="m">bier</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Nog een soete Dogter <rhyme label="a" type="f" corresp="#s5:l1">koopen</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Daer zy mee tot haer <rhyme label="b" type="m" corresp="#s5:l2">pleysier</rhyme>,</l>
+        <l id="s5:l5" met="4" type="+-">Sullen speelen, dan mooy <rhyme label="c" type="m">weer</rhyme>:</l>
+        <l id="s5:l6" met="4" type="+-">Als ik dat denk verheugt my <rhyme label="c" type="m" corresp="#s5:l5">weer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

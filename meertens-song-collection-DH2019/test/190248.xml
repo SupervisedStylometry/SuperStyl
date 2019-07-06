@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>190248</id>
+    <date>
+      <year-start>1753</year-start>
+      <year-end>1753</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Tranquilles coeurs</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">VEreende Twee, gezegend <rhyme label="a" type="m">Paar</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Hoe deftig zult gy saamen <rhyme label="b" type="f">passen</rhyme>!</l>
+        <l id="s1:l3" met="4" type="-+">Gy zyt geschaapen voor <rhyme label="a" type="m" corresp="#s1:l1">malkaâr</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">En tot dit Huwlyk <rhyme label="b" type="f" corresp="#s1:l2">opgewassen</rhyme>,</l>
+        <l id="s1:l5" met="6" type="-+">Terwyl de knoop van 't bloed de grondvest en 't <rhyme label="c" type="m">begin</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Verstrekte van uw' <rhyme label="c" type="m" corresp="#s1:l5">min</rhyme>.</l>
+        <l id="s1:l7" met="6" type="-+">Geen vreugd, noch ongeluk blus ooit zo lieven <rhyme label="d" type="m">brand</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Of breek zo schoonen <rhyme label="d" type="m" corresp="#s1:l7">band</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

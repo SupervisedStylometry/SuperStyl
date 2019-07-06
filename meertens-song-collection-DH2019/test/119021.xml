@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>119021</id>
+    <date>
+      <year-start>1745</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Le printemps rappelle aux armes</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">SChoone parel laat ons <rhyme label="a" type="f">minnen</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Met ziel en <rhyme label="a" type="f" corresp="#s1:l1">zinnen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Schoone parel laat ons <rhyme label="a" type="f" corresp="#s1:l1">minnen</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Uit 's harten <rhyme label="b" type="m">grond</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Wend uw fiere Maagden <rhyme label="a" type="f" corresp="#s1:l1">zinnen</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Naar het kuisze <rhyme label="b" type="m" corresp="#s1:l4">Trouw-verbond</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Laat den Minnaar niet <rhyme label="a" type="f">verlegen</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Op zyne <rhyme label="a" type="f" corresp="#s2:l1">wegen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Laat den Minnaar niet <rhyme label="a" type="f" corresp="#s2:l1">verlegen</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">Die u steeds <rhyme label="b" type="m">bid</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Spreekt hem niet geduurig <rhyme label="a" type="f" corresp="#s2:l1">tegen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Maar bestemt zyn eerbaar <rhyme label="b" type="m" corresp="#s2:l4">wit</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">'k Heb uw deugden lang <rhyme label="a" type="f">geprezen</rhyme>,</l>
+        <l id="s3:l2" met="2" type="-+"><rhyme label="a" type="f" corresp="#s3:l1">Uitgelezen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">'k Heb u deugden lang <rhyme label="a" type="f" corresp="#s3:l1">geprezen</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">In het <rhyme label="b" type="m">gemoed</rhyme>:</l>
+        <l id="s3:l5" met="4" type="+-">Hoe gelukkig zal ik <rhyme label="a" type="f" corresp="#s3:l1">wezen</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Zo het loon myn dienst <rhyme label="b" type="m" corresp="#s3:l4">verzoet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Zo 'k u gunst maar mag <rhyme label="a" type="f">genieten</rhyme>,</l>
+        <l id="s4:l2" met="2" type="-+">ô! <rhyme label="a" type="f" corresp="#s4:l1">Amarite</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Zo 'k u gunst maar mag <rhyme label="a" type="f" corresp="#s4:l1">genieten</rhyme>,</l>
+        <l id="s4:l4" met="2" type="-+">Wyl ik dus <rhyme label="b" type="m">karm</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">'t Leven zou my niet <rhyme label="a" type="f" corresp="#s4:l1">verdrieten</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Mogt ik rusten in u <rhyme label="b" type="m" corresp="#s4:l4">arm</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Uw bekoorelyke <rhyme label="a" type="f">lonken</rhyme>,</l>
+        <l id="s5:l2" met="2" type="-+">Die voor my <rhyme label="a" type="f" corresp="#s5:l1">pronken</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Uw bekoorelyke <rhyme label="a" type="f" corresp="#s5:l1">lonken</rhyme></l>
+        <l id="s5:l4" met="2" type="-+">Die kweeken <rhyme label="b" type="m">smert</rhyme>,</l>
+        <l id="s5:l5" met="4" type="+-">Schieten duizend <rhyme label="a" type="f" corresp="#s5:l1">Minne-vonken</rhyme>,</l>
+        <l id="s5:l6" met="4" type="+-">In myn overwonnen <rhyme label="b" type="m" corresp="#s5:l4">hert</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Denk nu hoe de vlammen <rhyme label="a" type="f">ryzen</rhyme>,</l>
+        <l id="s6:l2" met="2" type="-+">Als 'k u hoor <rhyme label="a" type="f" corresp="#s6:l1">pryzen</rhyme>,</l>
+        <l id="s6:l3" met="4" type="+-">Denk nu hoe de vlammen <rhyme label="a" type="f" corresp="#s6:l1">ryzen</rhyme>,</l>
+        <l id="s6:l4" met="2" type="-+">Als 'k by u <rhyme label="b" type="m">ben</rhyme>:</l>
+        <l id="s6:l5" met="4" type="+-">Och! gy zult my gunst <rhyme label="a" type="f" corresp="#s6:l1">bewyzen</rhyme>,</l>
+        <l id="s6:l6" met="4" type="+-">Zo ik uwe heusheid <rhyme label="b" type="m" corresp="#s6:l4">ken</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">Zou ik geenen troost <rhyme label="a" type="f">verwerven</rhyme>,</l>
+        <l id="s7:l2" met="2" type="-+">Moet ik u <rhyme label="a" type="f" corresp="#s7:l1">derven</rhyme>,</l>
+        <l id="s7:l3" met="4" type="+-">Zou ik geenen troost <rhyme label="a" type="f" corresp="#s7:l1">verwerven</rhyme></l>
+        <l id="s7:l4" met="2" type="-+">Voor smart en <rhyme label="b" type="m">pyn</rhyme>,</l>
+        <l id="s7:l5" met="4" type="+-">Zou ik dus van Liefden <rhyme label="a" type="f" corresp="#s7:l1">sterven</rhyme>,</l>
+        <l id="s7:l6" met="4" type="+-">Zonder eens beklaagt te <rhyme label="b" type="m" corresp="#s7:l4">zyn</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="+-">Neen, myn Lief, myn <rhyme label="a" type="f">Uitverkooren</rhyme>,</l>
+        <l id="s8:l2" met="2" type="-+">Wilt slegts <rhyme label="a" type="f" corresp="#s8:l1">hooren</rhyme>,</l>
+        <l id="s8:l3" met="4" type="+-">Neen, myn Lief, myn <rhyme label="a" type="f" corresp="#s8:l1">Uitverkooren</rhyme>,</l>
+        <l id="s8:l4" met="2" type="-+">Breng dog <rhyme label="b" type="m">geluk</rhyme>,</l>
+        <l id="s8:l5" met="4" type="+-">Niemand is voor zig <rhyme label="a" type="f" corresp="#s8:l1">gebooren</rhyme>,</l>
+        <l id="s8:l6" met="4" type="+-">Red uw naasten uit den <rhyme label="b" type="m" corresp="#s8:l4">druk</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

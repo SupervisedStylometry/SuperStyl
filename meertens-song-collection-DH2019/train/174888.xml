@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174888</id>
+    <date>
+      <year-start>1680</year-start>
+      <year-end>1680</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Mennistenzusje</melody>
+  <author>J. Tradel</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">ALs Themistokles zag, twee Hanen dapper <rhyme label="a" type="f">vechten</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Zoo zeid' hy tot zijn volk, zijt mede zulke <rhyme label="a" type="f" corresp="#s1:l1">knechten</rhyme>,</l>
+        <l id="s1:l3" met="6" type="-+">Vermoort, of wort vermoort, na dat de tijt <rhyme label="b" type="m">gebiet</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Of anders hoe het gaat, gy komt niet uyt 't <rhyme label="b" type="m" corresp="#s1:l3">verdriet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Zoo eischt een Christen ook, zig zelven in te <rhyme label="a" type="f">stellen</rhyme>,</l>
+        <l id="s2:l2" met="6" type="-+">Te strijden tegen 't vleesch, om vry te zijn van <rhyme label="a" type="f" corresp="#s2:l1">quellen</rhyme>;</l>
+        <l id="s2:l3" met="6" type="-+">En dat hy door den geest, zijn tochten in hem <rhyme label="b" type="m">dood</rhyme>;</l>
+        <l id="s2:l4" met="6" type="-+">Want die niet toe en ziet, brengt zijn verzuim in <rhyme label="b" type="m" corresp="#s2:l3">noot</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

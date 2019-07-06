@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>156211</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>O zalig heilig Bethlehem</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DEn Engel die van boven <rhyme label="a" type="m">quam</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En Manoah een Soon toe <rhyme label="b" type="f">seyde</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Die voer ten Hemel, in de <rhyme label="a" type="m" corresp="#s1:l1">vlam</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Van 't Offer, dat hy Godt <rhyme label="b" type="f" corresp="#s1:l2">bereyde</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Siet hier een heyl'ge ziel, die <rhyme label="a" type="m">met</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Een brandt van yver <rhyme label="b" type="f">aengesteken</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Stijght (vlammende in het <rhyme label="a" type="m" corresp="#s2:l1">Ghebedt</rhyme>)</l>
+        <l id="s2:l4" met="4" type="-+">Om hoogh, om d'Hemel door te <rhyme label="b" type="f" corresp="#s2:l2">breecken</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Gheluckigh is hy, wiens <rhyme label="a" type="m">ghemoet</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Met Arents-vleug'len <rhyme label="b" type="f">aengetogen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Dickmael die Hemel-reyse <rhyme label="a" type="m" corresp="#s3:l1">doet</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">En soo in vlamme vlieght om <rhyme label="b" type="f" corresp="#s3:l2">hooghen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ghewis, hy gaet noyt langhs dat <rhyme label="a" type="m">Pat</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Van 't vuerigh Goddelijck <rhyme label="b" type="f">bewegen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Of hy brenght mede, uyt de <rhyme label="a" type="m" corresp="#s4:l1">schat</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Van Godts ghenaed, een rijcken <rhyme label="b" type="f" corresp="#s4:l2">zeghen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

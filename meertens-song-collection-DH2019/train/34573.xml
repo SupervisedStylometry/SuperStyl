@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34573</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Si c'est pour mon pucelage</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Jan Mommaert</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">COridon liet lest syn <rhyme label="a" type="f">schapen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">In een groene vette <rhyme label="b" type="m">wey</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Met veel vreught syn voedsel <rhyme label="a" type="f" corresp="#s1:l1">rapen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Sittende in bangh <rhyme label="b" type="m" corresp="#s1:l2">gheschrey</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Onder een verheven <rhyme label="c" type="f">Linde</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">By een klare <rhyme label="d" type="m">water-beeck</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Daer hy wachtte syn <rhyme label="c" type="f" corresp="#s1:l5">Clorinde</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Die hem al te snel <rhyme label="d" type="m" corresp="#s1:l6">ontweeck</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Ha! Clorind' (seyd' ick) myn <rhyme label="a" type="f">waerde</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Die ick boven Phyllis <rhyme label="b" type="m">acht</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Niemandt leefter op der <rhyme label="a" type="f" corresp="#s2:l1">aerde</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Die my brenght tot hoogher <rhyme label="b" type="m" corresp="#s2:l2">klacht</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Als ghy, schoone <rhyme label="c" type="f">Herderinne</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Maer een ooghsjen op my <rhyme label="d" type="m">slaet</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Dan is't dat myn hert en <rhyme label="c" type="f" corresp="#s2:l5">sinne</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Vry zyn van hun meeste <rhyme label="d" type="m" corresp="#s2:l6">quaedt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Wat ick bidd', oft wat ick <rhyme label="a" type="f">weene</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Ghy blyft even eens <rhyme label="b" type="m">ghesindt</rhyme>:</l>
+        <l id="s3:l3" met="4" type="+-">Dat den Heer u dan <rhyme label="a" type="f" corresp="#s3:l1">verleene</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Eenen die u meer <rhyme label="b" type="m" corresp="#s3:l2">bemindt</rhyme>;</l>
+        <l id="s3:l5" met="4" type="+-">Ick ontreck my al dat <rhyme label="c" type="f">lyden</rhyme>:</l>
+        <l id="s3:l6" met="4" type="+-">Blyft voor eeuwigh dan <rhyme label="d" type="m">gegroet</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Laet een ander sich <rhyme label="c" type="f" corresp="#s3:l5">verblyden</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">In gheluck en meerder <rhyme label="d" type="m" corresp="#s3:l6">goedt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

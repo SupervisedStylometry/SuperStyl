@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35517</id>
+    <date>
+      <year-start>1719</year-start>
+      <year-end>1719</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Pieter Cauwe</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="7" type="-+">Vrienden laet ons vroylijck sijn al met blijde <rhyme label="a" type="f">sinne</rhyme></l>
+        <l id="s1:l2" met="7" type="-+">Want geen droefheyt noch verdriet en mach hier komen <rhyme label="a" type="f" corresp="#s1:l1">binnen</rhyme></l>
+        <l id="s1:l3" met="7" type="-+">Och waer ick by u mijn Godt hoe soude ick u <rhyme label="a" type="f" corresp="#s1:l1">beminnen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="7" type="-+">Want alle des werelts vreucht en kan my niet <rhyme label="a" type="f">vermaecken</rhyme></l>
+        <l id="s2:l2" met="7" type="-+">Het en is dan ondeught ten sijn maer ydel <rhyme label="a" type="f" corresp="#s2:l1">saken</rhyme></l>
+        <l id="s2:l3" met="7" type="-+">Och waer ick by u mijn Godt hoe soude ick my <rhyme label="a" type="f" corresp="#s2:l1">vermaecken</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="7" type="-+">Iesus wilt doch in mijn hert een kleen pijleken <rhyme label="a" type="f">schieten</rhyme></l>
+        <l id="s3:l2" met="7" type="-+">Want het lijdt soo grooten smert den tijdt doet my <rhyme label="a" type="f" corresp="#s3:l1">verdrieten</rhyme></l>
+        <l id="s3:l3" met="7" type="-+">Och waer ick by u mijn Godt hoe soude ick u <rhyme label="a" type="f" corresp="#s3:l1">genieten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

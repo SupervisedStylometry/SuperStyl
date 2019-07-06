@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>122560</id>
+    <date>
+      <year-start>1854</year-start>
+      <year-end>1864</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="ambachtslied" translation="trademan's song">ambachtslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+      <category translation="work">werk</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Bonjour, <rhyme label="a" type="m">Mademesel</rhyme>!</l>
+        <l id="s1:l2" met="5" type="-+">Weet gij de reden van mijn komste <rhyme label="a" type="m" corresp="#s1:l1">wel</rhyme>?</l>
+        <l id="s1:l3" met="3" type="+-">Met den tijd van het <rhyme label="b" type="m">jaar</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Dan ben ik uwe <rhyme label="b" type="m" corresp="#s1:l3">dienaar</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">Zijt gij genegen tot de <rhyme label="c" type="m">Liereman</rhyme>?</l>
+        <l id="s1:l6" met="5" type="-+">Ik zal uw dienen waar ik mag en <rhyme label="c" type="m" corresp="#s1:l5">kan</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Vooral de <rhyme label="d" type="f">Daâm</rhyme>!</l>
+        <l id="s1:l8" met="4" type="-+">En juffers van een goed <rhyme label="e" type="m">fatsoen</rhyme>,</l>
+        <l id="s1:l9" met="4" type="-+">Daar zal ik een mooi deuntje voor <rhyme label="e" type="m" corresp="#s1:l8">doen</rhyme>,</l>
+        <l id="s1:l10" met="5" type="-+">Al die de toonen van mijn lier wel <rhyme label="f" type="m">kent</rhyme>.</l>
+        <l id="s1:l11" met="5" type="+-">Hoort en luistert naar mijn <rhyme label="f" type="m" corresp="#s1:l10">instrument</rhyme>,</l>
+        <l id="s1:l12" met="4" type="-+">Hoe dat ik door mijn <rhyme label="g" type="m">muzijcaal</rhyme>,</l>
+        <l id="s1:l13" met="6" type="+-">U zal verheugen allemaal, <rhyme label="g" type="m" corresp="#s1:l12">kapitaal</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Hoort hoe een jonge <rhyme label="a" type="m">meid</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Hoorde dat ik met den <rhyme label="a" type="m" corresp="#s2:l1">avondtijd</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">Was met mijn lier op <rhyme label="b" type="m">straat</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Die zoo mooi en aardig <rhyme label="b" type="m" corresp="#s2:l3">gaat</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Die in het donker voor haar venster <rhyme label="c" type="m">lag</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">Ik was verblijd dat ik de jufvrouw <rhyme label="c" type="m" corresp="#s2:l5">zag</rhyme>,</l>
+        <l id="s2:l7" met="2" type="-+">Zij sprak: wel <rhyme label="d" type="f">vrindje</rhyme>!</l>
+        <l id="s2:l8" met="4" type="-+">Zijn al de toonen van uw lier <rhyme label="e" type="m">gesteld</rhyme>,</l>
+        <l id="s2:l9" met="4" type="-+">Hoe komt gij hier zoo laat <rhyme label="e" type="m" corresp="#s2:l8">verzeld</rhyme>?</l>
+        <l id="s2:l10" met="5" type="-+">Ik sprak: Mejufvrouw! dat ik bij u <rhyme label="f" type="m">waar</rhyme>,</l>
+        <l id="s2:l11" met="5" type="+-">Gij zoudt wel prijzen deze <rhyme label="f" type="m" corresp="#s2:l10">Lierrenaar</rhyme>,</l>
+        <l id="s2:l12" met="4" type="-+">Sa, doet toch open, schoon <rhyme label="g" type="m">vriendin</rhyme>!</l>
+        <l id="s2:l13" met="6" type="+-">Ik zal spelen naar uwen zin, Laat mij <rhyme label="g" type="m" corresp="#s2:l12">in</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Toen sprak mij de jufvrouw <rhyme label="a" type="m">aan</rhyme>:</l>
+        <l id="s3:l2" met="5" type="-+">Liereman! blijft maar een weinig <rhyme label="a" type="m" corresp="#s3:l1">staan</rhyme>,</l>
+        <l id="s3:l3" met="3" type="+-">Tot dat ik ben <rhyme label="b" type="m">gekleed</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Mijn habijt is al <rhyme label="b" type="m" corresp="#s3:l3">gereed</rhyme>;</l>
+        <l id="s3:l5" met="5" type="-+">Zij kwam beneden heel habiel en <rhyme label="c" type="m">ras</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">Mits dat haar deure zonder grendel <rhyme label="c" type="m" corresp="#s3:l5">was</rhyme>,</l>
+        <l id="s3:l7" met="2" type="-+">Liet zij mij <rhyme label="d" type="f">binnen</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Met mijn liere in zoo'n korten <rhyme label="e" type="m">stond</rhyme>,</l>
+        <l id="s3:l9" met="4" type="-+">Waar ik niet anders als deze jufvrouw <rhyme label="e" type="m" corresp="#s3:l8">vond</rhyme>,</l>
+        <l id="s3:l10" met="5" type="-+">Zij deed mij regt in haar slaapkamer <rhyme label="f" type="m">gaan</rhyme>,</l>
+        <l id="s3:l11" met="5" type="+-">Jufvrouw die vraagde zoo ik kon <rhyme label="f" type="m" corresp="#s3:l10">verstaan</rhyme>:</l>
+        <l id="s3:l12" met="4" type="-+">Of ik was nog een vrij <rhyme label="g" type="m">Gezel</rhyme>?</l>
+        <l id="s3:l13" met="6" type="+-">Eer ik roerde mijn lierenspel, En <rhyme label="g" type="m" corresp="#s3:l12">gestel</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Peinst niet, mijn schoone <rhyme label="a" type="m">jufvrouw</rhyme>!</l>
+        <l id="s4:l2" met="5" type="-+">Als dat ik u bedriegen <rhyme label="a" type="m" corresp="#s4:l1">zou</rhyme>,</l>
+        <l id="s4:l3" met="3" type="+-">Ik ben nog <rhyme label="b" type="m">liebertien</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Zoo gij wel aan mij kunt <rhyme label="b" type="m" corresp="#s4:l3">zien</rhyme>,</l>
+        <l id="s4:l5" met="5" type="-+">Dat ik ga spelen is voor mijn <rhyme label="c" type="m">plaizier</rhyme>,</l>
+        <l id="s4:l6" met="5" type="-+">Om u te dienen daarvoor kom ik <rhyme label="c" type="m" corresp="#s4:l5">hier</rhyme>,</l>
+        <l id="s4:l7" met="2" type="-+">Mijn waarde <rhyme label="d" type="f">jufvrouw</rhyme>!</l>
+        <l id="s4:l8" met="4" type="-+">Mijn beminde, wilt ge proef <rhyme label="e" type="m">daarvan</rhyme>,</l>
+        <l id="s4:l9" met="4" type="-+">Gij zult dan weten hoe ik spelen <rhyme label="e" type="m" corresp="#s4:l8">kan</rhyme>;</l>
+        <l id="s4:l10" met="5" type="-+">Staan u de toonen van mijn lier niet <rhyme label="f" type="m">aan</rhyme>,</l>
+        <l id="s4:l11" met="5" type="+-">Dan zal ik weder op een ander <rhyme label="f" type="m" corresp="#s4:l10">gaan</rhyme>.</l>
+        <l id="s4:l12" met="4" type="-+">Want dat en scheelt mij niet een <rhyme label="g" type="m">sier</rhyme>,</l>
+        <l id="s4:l13" met="6" type="+-">Om te spelen een keer drie vier, Op mijn <rhyme label="g" type="m" corresp="#s4:l12">lier</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">De jufvrouw die lachtte <rhyme label="a" type="m">dan</rhyme>,</l>
+        <l id="s5:l2" met="5" type="-+">En zei: mijn lieve <rhyme label="a" type="m" corresp="#s5:l1">Lierenman</rhyme>!</l>
+        <l id="s5:l3" met="3" type="+-">Zijt gij zoo eenen <rhyme label="b" type="m">vent</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Dan ben ik ook <rhyme label="b" type="m" corresp="#s5:l3">content</rhyme>;</l>
+        <l id="s5:l5" met="5" type="-+">Speelt eens een deuntje in het grof of <rhyme label="c" type="m">fijn</rhyme>,</l>
+        <l id="s5:l6" met="5" type="-+">Mits wij hier zamen met ons beiden <rhyme label="c" type="m" corresp="#s5:l5">zijn</rhyme>,</l>
+        <l id="s5:l7" met="2" type="-+">Stil en <rhyme label="d" type="f">gestadig</rhyme>;</l>
+        <l id="s5:l8" met="4" type="-+">Te beginnen op accoord en <rhyme label="e" type="m">maat</rhyme>,</l>
+        <l id="s5:l9" met="4" type="-+">Dat zoo wat zoetjes en wat langzaam <rhyme label="e" type="m" corresp="#s5:l8">gaat</rhyme>,</l>
+        <l id="s5:l10" met="5" type="-+">Al blijft gij tot den <rhyme label="f" type="m">morgenstond</rhyme>,</l>
+        <l id="s5:l11" met="5" type="+-">Zoo lang gij lust in 't spelen <rhyme label="f" type="m" corresp="#s5:l10">vond</rhyme>,</l>
+        <l id="s5:l12" met="4" type="-+">Gij zult van mij den loon <rhyme label="g" type="m">ontvangen</rhyme>,</l>
+        <l id="s5:l13" met="6" type="+-">Want dat liere dat staat mij aan, Wilt <rhyme label="g" type="m" corresp="#s5:l12">verstaan</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Nu nam ik deftig mijn <rhyme label="a" type="m">afscheid</rhyme>,</l>
+        <l id="s6:l2" met="5" type="-+">Met een zoentje van <rhyme label="a" type="m" corresp="#s6:l1">genegenheid</rhyme>,</l>
+        <l id="s6:l3" met="3" type="+-">Mits dat de dag kwam <rhyme label="b" type="m">aan</rhyme>,</l>
+        <l id="s6:l4" met="4" type="+-">Dat ik moest vertrekken <rhyme label="b" type="m" corresp="#s6:l3">gaan</rhyme>,</l>
+        <l id="s6:l5" met="5" type="-+">Hoort voor 't leste, wat de jufvrouw <rhyme label="c" type="m">zei</rhyme>:</l>
+        <l id="s6:l6" met="5" type="-+">Als gij wilt spelen, kom maar stout bij <rhyme label="c" type="m" corresp="#s6:l5">mij</rhyme>.</l>
+        <l id="s6:l7" met="2" type="-+">Niet zonder <rhyme label="d" type="f">reden</rhyme>.</l>
+        <l id="s6:l8" met="4" type="-+">U te prijzen, mijn waarde <rhyme label="e" type="m">vriend</rhyme>,</l>
+        <l id="s6:l9" met="4" type="-+">Gij zijt een ventje dat mij wonder <rhyme label="e" type="m" corresp="#s6:l8">diend</rhyme>.</l>
+        <l id="s6:l10" met="5" type="-+">Eer dat ik scheide van haar woning <rhyme label="f" type="m">af</rhyme>,</l>
+        <l id="s6:l11" met="5" type="+-">Ik zal niet klappen wat mij jufvrouw <rhyme label="f" type="m" corresp="#s6:l10">gaf</rhyme>,</l>
+        <l id="s6:l12" met="4" type="-+">Dat ik van haar niet klagen <rhyme label="g" type="m">kan</rhyme>,</l>
+        <l id="s6:l13" met="6" type="+-">Nog Jufvrouw van de Liereman, Adieu <rhyme label="g" type="m" corresp="#s6:l12">dan</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

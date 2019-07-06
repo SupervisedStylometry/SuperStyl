@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20900</id>
+    <date>
+      <year-start>1664</year-start>
+      <year-end>1664</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Nerea schoonste van uw geburen</melody>
+  <author>Willem de Swaen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DEr Martelaeren Prins, en <rhyme label="a" type="f">Koningh</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En der Bely-ders kroon, en <rhyme label="b" type="m">moed</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Die tot des hoo-ge hemels <rhyme label="a" type="f" corresp="#s1:l1">wooningh</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Brengt die versmae'n dit aerdsche <rhyme label="b" type="m" corresp="#s1:l2">goet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wilt neygen uwe goede <rhyme label="a" type="f">ooren</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Tot onser stem, en ons' <rhyme label="b" type="m">gebe'en</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Wy singen uwer <rhyme label="a" type="f" corresp="#s2:l1">Uytverkooren</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Triumph, verhoort toch onse <rhyme label="b" type="m" corresp="#s2:l2">re'en</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ghy zijt de kroon der <rhyme label="a" type="f">Martelaeren</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Der vrome mannen Vorst, en <rhyme label="b" type="m">Heer</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Ghy komt de Confessoors te <rhyme label="a" type="f" corresp="#s3:l1">spaeren</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Ghy çiert hun met des hemels <rhyme label="b" type="m" corresp="#s3:l2">eer</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Och Heer! vergeeft toch onse <rhyme label="a" type="f">sonden</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">En brenght ons tot des hemels <rhyme label="b" type="m">hof</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Maeckt dat wy daer van sond' <rhyme label="a" type="f" corresp="#s4:l1">ontbonden</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Gestadich singen uwen <rhyme label="b" type="m" corresp="#s4:l2">lof</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">God Vader, en God Soon moet <rhyme label="a" type="f">wesen</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">En desgelijck God d' Heyl'gen <rhyme label="b" type="m">Geest</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Lof, glory, eer, nu, en nae <rhyme label="a" type="f" corresp="#s5:l1">desen</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Tot wederspijt van 't helsche <rhyme label="b" type="m" corresp="#s5:l2">Beest</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

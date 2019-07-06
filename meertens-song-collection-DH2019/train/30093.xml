@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>30093</id>
+    <date>
+      <year-start>1591</year-start>
+      <year-end>1591</year-end>
+    </date>
+    <location>
+      <orginal-name>middelburg</orginal-name>
+      <standard-name>Middelburg, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.4997302</lon>
+        <lat>3.6136962</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 134 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Philips van Marnix van Sint Aldegonde</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GHy die des Heeren dienaers <rhyme label="a" type="m">sijt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">End in sijn huys blijft <rhyme label="a" type="m" corresp="#s1:l1">alletijt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Met heele nachten, loift te <rhyme label="b" type="m">saem</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Des Heeren allerhoochsten <rhyme label="b" type="m" corresp="#s1:l3">naem</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Steeckt reyne handen vry om <rhyme label="a" type="m">hoog</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Heft op te samen hert end <rhyme label="a" type="m" corresp="#s2:l1">oog</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Nae Gods des Heeren <rhyme label="b" type="m">heylichdom</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">End singt hem lof, weest doch niet <rhyme label="b" type="m" corresp="#s2:l3">stom</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">De Heere die geschapen <rhyme label="a" type="m">heeft</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Den hemel, d'eird end al wat <rhyme label="a" type="m" corresp="#s3:l1">leeft</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Verleen v sijnen segen <rhyme label="b" type="m">goet</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Uuyt Sions berg, in <rhyme label="b" type="m" corresp="#s3:l3">overvloet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

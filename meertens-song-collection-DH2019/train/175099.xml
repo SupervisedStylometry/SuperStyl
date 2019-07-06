@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175099</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Eten, is een kostlijk <rhyme label="a" type="m">ding</rhyme>!</l>
+        <l id="s1:l2" met="4" type="+-">Doch, zoo u de spijs zal <rhyme label="b" type="f">smaken</rhyme>, -</l>
+        <l id="s1:l3" met="4" type="+-">Acht den honger niet <rhyme label="a" type="m" corresp="#s1:l1">gering</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Die de saus er op moet <rhyme label="b" type="f" corresp="#s1:l2">maken</rhyme>!</l>
+        <l id="s1:l5" met="4" type="+-">Waarlijk! - zoo ik kiezen <rhyme label="c" type="m">moet</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Òf geen honger, òf geen <rhyme label="d" type="f">eten</rhyme>...</l>
+        <l id="s1:l7" met="4" type="+-">Och! dan dient gij maar te <rhyme label="c" type="m" corresp="#s1:l5">weten</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Ik kies honger... kort en <rhyme label="d" type="f" corresp="#s1:l6">goed</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Rusten, is een kostlijk <rhyme label="a" type="m">ding</rhyme>!</l>
+        <l id="s2:l2" met="4" type="+-">Doch, zult gij het welkom <rhyme label="b" type="f">heeten</rhyme> -</l>
+        <l id="s2:l3" met="4" type="+-">Acht het werken niet <rhyme label="a" type="m" corresp="#s2:l1">gering</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Dat den prijs er van doet <rhyme label="b" type="f" corresp="#s2:l2">weten</rhyme>!</l>
+        <l id="s2:l5" met="4" type="+-">Waarlijk! - zoo ik kiezen <rhyme label="c" type="m">moet</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Meest te werken... meest te <rhyme label="d" type="f">rusten</rhyme>...</l>
+        <l id="s2:l7" met="4" type="+-">Och! trots al de zoetste <rhyme label="c" type="m" corresp="#s2:l5">lusten</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Ik kies werken... kort en <rhyme label="d" type="f" corresp="#s2:l6">goed</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Rijkdom, is een kostlijk <rhyme label="a" type="m">ding</rhyme>!</l>
+        <l id="s3:l2" met="4" type="+-">Doch, wilt gij hem goed <rhyme label="b" type="f">waarderen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Acht het arm zijn niet <rhyme label="a" type="m" corresp="#s3:l1">gering</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Om u 't regt gebruik te <rhyme label="b" type="f" corresp="#s3:l2">leeren</rhyme>!</l>
+        <l id="s3:l5" met="4" type="+-">Waarlijk - zoo ik kiezen <rhyme label="c" type="m">moet</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Altijd rijk... soms arm te <rhyme label="d" type="f">wezen</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Och! ik zeg het zonder <rhyme label="c" type="m" corresp="#s3:l5">vreezen</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">Ik kies arm zijn... kort en <rhyme label="d" type="f" corresp="#s3:l6">goed</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>103532</id>
+    <date>
+      <year-start>1656</year-start>
+      <year-end>1656</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>J'ai trop d'amour</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Ach Amaril, u wreetheyt is te <rhyme label="a" type="m">groot</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Sal mijn ellend' dan wesen sonder <rhyme label="b" type="m">end</rhyme>?</l>
+        <l id="s1:l3" met="3" type="-+">En oorsaeck van mijn den <rhyme label="a" type="m" corresp="#s1:l1">doot</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Gewis het leven, sal my <rhyme label="c" type="f">begeven</rhyme></l>
+        <l id="s1:l5" met="5" type="-+">Soo gy niet haest my neemt dees quellingh <rhyme label="d" type="m">af</rhyme>:</l>
+        <l id="s1:l6" met="5" type="-+">Wel isser hoop, ofdael ick in het <rhyme label="d" type="m" corresp="#s1:l5">graf</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Gy ziet Vrindin, gy ziet mijn droef <rhyme label="a" type="m">gequyn</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Mijn groote smert, die altijt grooter <rhyme label="b" type="m">wert</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Gy ziet hoe ick <rhyme label="a" type="m" corresp="#s2:l1">verdwijn</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Gewis het leven, sal my <rhyme label="c" type="f">begeven</rhyme></l>
+        <l id="s2:l5" met="5" type="-+">Soo gy niet haest my neemt dees quellingh <rhyme label="d" type="m">af</rhyme>:</l>
+        <l id="s2:l6" met="5" type="-+">Wel isser hoop, of dael ick in het <rhyme label="d" type="m" corresp="#s2:l5">graf</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

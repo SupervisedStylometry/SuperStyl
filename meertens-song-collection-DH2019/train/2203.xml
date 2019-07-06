@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2203</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>L'Orangère</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Joan Blasius</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">TOen ik op 't bedje <rhyme label="a" type="m">lag</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Niet als ik eertijds <rhyme label="a" type="m" corresp="#s1:l1">plag</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">In kriele wellust van de <rhyme label="b" type="m">min</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">En spiegelde mijn weesen <rhyme label="b" type="m" corresp="#s1:l3">in</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Het weese van deese mijn <rhyme label="c" type="m">Celestyn</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Maar toen ik in de <rhyme label="c" type="m" corresp="#s1:l5">pijn</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">En toortsen der <rhyme label="d" type="f">koortsen</rhyme></l>
+        <l id="s1:l8" met="5" type="-+">Ellendig heel begraven scheen te <rhyme label="c" type="m" corresp="#s1:l5">sijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Mijn Fluytje daar ik <rhyme label="a" type="m">mee</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Verdreef mijn <rhyme label="a" type="m" corresp="#s2:l1">Minne-wee</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Hong leeg toen aan de leege <rhyme label="b" type="m">muur</rhyme>.</l>
+        <l id="s2:l4" met="4" type="-+">Mijn schelle Cyter viel my <rhyme label="b" type="m" corresp="#s2:l3">duur</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Noyt song ik, noyt sprong ik, noyt socht ik <rhyme label="c" type="m">lust</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Ik was alleen <rhyme label="c" type="m" corresp="#s2:l5">belust</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">Mijn leeven te <rhyme label="d" type="f">geeven</rhyme></l>
+        <l id="s2:l8" met="5" type="-+">Aan d'Opper-Heemel-Voogd in eewge <rhyme label="c" type="m" corresp="#s2:l5">rust</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Mijn Engel over <rhyme label="a" type="m">my</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Ontfonkt in <rhyme label="a" type="m" corresp="#s3:l1">meedely</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Eer ik sou daalen in het <rhyme label="b" type="m">graf</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Drie kusjes aan mijn kaakjes <rhyme label="b" type="m" corresp="#s3:l3">gaf</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Sy kusde en blusde. Mijn koorts <rhyme label="c" type="m">terstond</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Van my raakt in de <rhyme label="c" type="m" corresp="#s3:l5">grond</rhyme>.</l>
+        <l id="s3:l7" met="2" type="-+">Haar Liefde my <rhyme label="d" type="f">griefde</rhyme></l>
+        <l id="s3:l8" met="5" type="-+">Haar min my maakte krank en weer <rhyme label="c" type="m" corresp="#s3:l5">gesond</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>9881</id>
+    <date>
+      <year-start>1627</year-start>
+      <year-end>1627</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="retrogradelied" translation="retrogade song">retrogradelied</tag>
+    </tags>
+    <melody>Psalm 023 Datheen</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">YDoone vrient o gy zijt wijs en <rhyme label="a" type="f">schoone</rhyme>,</l>
+        <l id="s1:l2" met="5" type="+-">Geven ghy wilt Croone u lief <rhyme label="b" type="f">verheven</rhyme>,</l>
+        <l id="s1:l3" met="5" type="+-">Beminde dijne Bruydt de nieu <rhyme label="c" type="f">gesinde</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Eersame al boven ghy zijt <rhyme label="a" type="f">bequaeme</rhyme>,</l>
+        <l id="s2:l2" met="5" type="+-">Wesen ghy moet bemint en seer <rhyme label="b" type="f">ghepresen</rhyme>,</l>
+        <l id="s2:l3" met="5" type="+-">Gestadigh danck zy dy o Godt <rhyme label="c" type="f">weldadich</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">Rechtveerdich Rechter my wilt maecken <rhyme label="a" type="f">weerdigh</rhyme>,</l>
+        <l id="s3:l2" met="5" type="+-">T'ontfangen 't Rijck geeft my en boet <rhyme label="b" type="f">verlanghen</rhyme></l>
+        <l id="s3:l3" met="5" type="+-">Betrouwen mijn is aenschijn dijn <rhyme label="c" type="f">t'aenschouwen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="+-">Loven ick moet u Prins ghy zijt al <rhyme label="a" type="f">boven</rhyme></l>
+        <l id="s4:l2" met="5" type="+-">Rusten eewigh dat mach my seer wel <rhyme label="b" type="f">lusten</rhyme>,</l>
+        <l id="s4:l3" met="5" type="+-">Weenen meer niet laet my, wilt vreucht <rhyme label="c" type="f">verleenen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

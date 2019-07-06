@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>164282</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Mars van prins Eugenius</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Wel hoe! hy <rhyme label="a" type="m">gaat</rhyme>.</l>
+        <l id="s1:l2" met="4" type="-+">Wel! dus en had ik 't niet <rhyme label="b" type="m">gemeend</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">Ik hield my <rhyme label="a" type="m" corresp="#s1:l1">kwaad</rhyme>:</l>
+        <l id="s1:l4" met="3" type="-+">Maar 't hert is niet <rhyme label="b" type="m" corresp="#s1:l2">versteent</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Ei, Tircis, nog een <rhyme label="c" type="m">woord</rhyme>:</l>
+        <l id="s1:l6" met="3" type="-+">Gy hebt myn ziel <rhyme label="c" type="m" corresp="#s1:l5">bekoord</rhyme>.</l>
+        <l id="s1:l7" met="4" type="-+">Kom nader Herder wild niet <rhyme label="d" type="f">vreezen</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Ik zal voortaan de uwe <rhyme label="d" type="f" corresp="#s1:l7">weezen</rhyme>.</l>
+        <l id="s1:l9" met="2" type="-+">Zyt wel te <rhyme label="e" type="m">vreen</rhyme></l>
+        <l id="s1:l10" met="2" type="-+">Omhels nu <rhyme label="e" type="m" corresp="#s1:l9">Climeen</rhyme>.</l>
+        <l id="s1:l11" met="3" type="+-">Zie daar is myn <rhyme label="f" type="m">hand</rhyme>,</l>
+        <l id="s1:l12" met="3" type="+-">Tot een <rhyme label="f" type="m" corresp="#s1:l11">onderpand</rhyme></l>
+        <l id="s1:l13" met="3" type="+-">Van den Echten <rhyme label="f" type="m" corresp="#s1:l11">band</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

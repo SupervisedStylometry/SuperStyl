@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21142</id>
+    <date>
+      <year-start>1649</year-start>
+      <year-end>1649</year-end>
+    </date>
+    <location>
+      <orginal-name>zaandam</orginal-name>
+      <standard-name>Zaandam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.4424926</lon>
+        <lat>4.8298607</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">Bruiloftslied</tag>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
+    </tags>
+    <melody>Ik wil van deze avond</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
+  <author>Hendrik Jacobz. Soetenboom</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">DEn gulden Broeder vande bleecke <rhyme label="a" type="m">Jacht-Goddin</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Met zijn gevlamde <rhyme label="b" type="f">Stralen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Reyst nu na de <rhyme label="b" type="f" corresp="#s1:l2">Wester-palen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Tot vernoegingh van de <rhyme label="a" type="m" corresp="#s1:l1">Min</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Castor en Polux die tyen op de <rhyme label="a" type="m">Jacht</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">En Nox met swart <rhyme label="b" type="f">betoogen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Siet met <rhyme label="b" type="f" corresp="#s2:l2">hondert-duysent-oogen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Daer soo menigh Lief op <rhyme label="a" type="m" corresp="#s2:l1">acht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">Dus is de tijdt verloopen, de rusteloose <rhyme label="a" type="m">tijdt</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">De tijdt die is <rhyme label="b" type="f">vergangen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Haest sal enden u <rhyme label="b" type="f" corresp="#s3:l2">verlangen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Ghy die nieuw-gebonden <rhyme label="a" type="m" corresp="#s3:l1">zijt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">Wel op Hollandtsche Nimfen, wel op ghy <rhyme label="a" type="m">Poppe-goet</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Wel op, ey! spoedt u <rhyme label="b" type="f">treeden</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Pooght met vlijdt de Bruydt <rhyme label="b" type="f" corresp="#s4:l2">t'ontkleeden</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Als het immers wesen <rhyme label="a" type="m" corresp="#s4:l1">moet</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="6" type="-+">Acht geen beveynsde traentjes, en schroomt niet voor een <rhyme label="a" type="m">Man</rhyme>:</l>
+        <l id="s5:l2" met="3" type="-+">Neen Bruydt, en wilt niet <rhyme label="b" type="f">schooren</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Al u moeyten is <rhyme label="b" type="f" corresp="#s5:l2">verlooren</rhyme>;</l>
+        <l id="s5:l4" met="4" type="+-">Neen, o! neen, je moet 'er <rhyme label="a" type="m" corresp="#s5:l1">an</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="6" type="-+">Nu lustigh, rustigh Bruygom, waer staje na en <rhyme label="a" type="m">wacht</rhyme>?</l>
+        <l id="s6:l2" met="3" type="-+">Gaet troost u <rhyme label="b" type="f">wel-beminde</rhyme>,</l>
+        <l id="s6:l3" met="4" type="+-">Siet hoe jyse wel kondt <rhyme label="b" type="f" corresp="#s6:l2">vinde</rhyme>;</l>
+        <l id="s6:l4" met="4" type="+-">Daer mee segh ick goede <rhyme label="a" type="m" corresp="#s6:l1">nacht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

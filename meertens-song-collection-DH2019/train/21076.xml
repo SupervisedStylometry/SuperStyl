@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21076</id>
+    <date>
+      <year-start>1649</year-start>
+      <year-end>1649</year-end>
+    </date>
+    <location>
+      <orginal-name>zaandam</orginal-name>
+      <standard-name>Zaandam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.4424926</lon>
+        <lat>4.8298607</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Een meisje had een ruiter lief</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Hendrik Jacobz. Soetenboom</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GElijck den mensch, van <rhyme label="a" type="m">aen-begin</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Geschapen is tot soete <rhyme label="a" type="m" corresp="#s1:l1">Min</rhyme>;</l>
+        <l id="s1:l3" met="3" type="-+">Soo is de Min van <rhyme label="b" type="f">noode</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Den mensch verleent van <rhyme label="b" type="f" corresp="#s1:l3">Gode</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Van noode, midts sy teelt en <rhyme label="a" type="m">baert</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Het menschelijck geslacht op <rhyme label="a" type="m" corresp="#s2:l1">aerdt</rhyme>:</l>
+        <l id="s2:l3" met="3" type="-+">Dies is in 't <rhyme label="b" type="f">Minne-plegen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Oock saligheydt <rhyme label="b" type="f" corresp="#s2:l3">gelegen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">De Min die is een noodigh <rhyme label="a" type="m">dingh</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Want sonder Min den mensch <rhyme label="a" type="m" corresp="#s3:l1">vergingh</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Woudt men de Minne <rhyme label="b" type="f">derven</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">De Wereldt most <rhyme label="b" type="f" corresp="#s3:l3">versterven</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">En wat de saligheydt <rhyme label="a" type="m">aen-gaet</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Door soete Min in <rhyme label="a" type="m" corresp="#s4:l1">d'Echten-staet</rhyme>;</l>
+        <l id="s4:l3" met="3" type="-+">De Min, van Godt <rhyme label="b" type="f">gegeven</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Streckt tot een saligh <rhyme label="b" type="f" corresp="#s4:l3">leven</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Wanneer de Minne in het <rhyme label="a" type="m">hert</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Door lusten niet misbruyckt en <rhyme label="a" type="m" corresp="#s5:l1">wert</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">In overloop van <rhyme label="b" type="f">zinnen</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Meer als het zijn te <rhyme label="b" type="f" corresp="#s5:l3">minnen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Dies mint de Min door <rhyme label="a" type="m">d'Echte-trou</rhyme>;</l>
+        <l id="s6:l2" met="4" type="-+">On-Echte Min baert druck en <rhyme label="a" type="m" corresp="#s6:l1">rou</rhyme>:</l>
+        <l id="s6:l3" met="3" type="-+">De Echte Min baert <rhyme label="b" type="f">deughde</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">Die Minne voet met <rhyme label="b" type="f" corresp="#s6:l3">vreughde</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

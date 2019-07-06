@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34603</id>
+    <date>
+      <year-start>1641</year-start>
+      <year-end>1641</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Prinses idoon geef mij tot loon</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Guilelmus van der Borcht</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">RVst nu mijn sinnen // die door het <rhyme label="a" type="f">minnen</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Altijdt met droefheydt hebt gheweest <rhyme label="b" type="m">bela'en</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Wilt vrolijck leven // en u <rhyme label="c" type="f">begheven</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Om daer ghestaghe blijdtschap voor <rhyme label="b" type="m" corresp="#s1:l2">t'ontfaen</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">En thoont, dat droef en bly naest een moet <rhyme label="b" type="m" corresp="#s1:l2">gaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Liefd' ick u dancke // van al de <rhyme label="a" type="f">rancken</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Die ghy my eerst hebt op den hals <rhyme label="b" type="m">ghewent</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Om dat naer 't treuren // my nu <rhyme label="c" type="f">ghebeuren</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">De vreughdt vermeerdert door het groot <rhyme label="b" type="m" corresp="#s2:l2">ellendt</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Die nu voor hemelsch van my is <rhyme label="b" type="m" corresp="#s2:l2">bekent</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Soudd' de ghenuchten // (die in de <rhyme label="a" type="f">kluchten</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">Ons rijmers segghen) van Elysis <rhyme label="b" type="m">veldt</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Zijn te ghelijcken // by die ick <rhyme label="c" type="f">kijcke</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Door hare weder-min' my <rhyme label="b" type="m" corresp="#s3:l2">voor-ghestelt</rhyme>,</l>
+        <l id="s3:l5" met="5" type="-+">Oft konnen met dees vreughdt zijn <rhyme label="b" type="m" corresp="#s3:l2">af-ghebeldt</rhyme> ?</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Dat 's sonder missen // want oock de <rhyme label="a" type="f">dissen</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">Der Goden dese vreughdt te boven <rhyme label="b" type="m">gaet</rhyme>;</l>
+        <l id="s4:l3" met="4" type="-+">Waer uyt ick leere // dat <rhyme label="c" type="f">nimmermeere</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">De vreughdt des wereldts op het hooghste <rhyme label="b" type="m" corresp="#s4:l2">staet</rhyme>,</l>
+        <l id="s4:l5" met="5" type="-+">Dan als den lust der zielen is <rhyme label="b" type="m" corresp="#s4:l2">versaedt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

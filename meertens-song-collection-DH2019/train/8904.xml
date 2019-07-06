@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8904</id>
+    <date>
+      <year-start>1625</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Nun freut euch liebe Christen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">T'Verheucht my, als ick heb <rhyme label="a" type="m">verstaen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Wy gaen ten Huys des <rhyme label="b" type="f">HEEren</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Dat ons Voeten betreden <rhyme label="a" type="m" corresp="#s1:l1">gaen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">JErus'lems Poort' vol <rhyme label="b" type="f" corresp="#s1:l2">Eeren</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">JErus'lems is ghebouwt een <rhyme label="c" type="m">Stadt</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Om datmen nae s'Heeren <rhyme label="c" type="m" corresp="#s1:l5">Placaet</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Aldaer te samen <rhyme label="d" type="f">come</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die Stammen te verschijnen <rhyme label="a" type="m">daer</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Die Stammen onses <rhyme label="b" type="f">HEEREN</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Te Predighen int <rhyme label="a" type="m" corresp="#s2:l1">Openbaer</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Om Israel te <rhyme label="b" type="f" corresp="#s2:l2">Leeren</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">End s Heeren Name Dancken <rhyme label="c" type="m">bly</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Daer sitten oock te Rechten <rhyme label="c" type="m" corresp="#s2:l5">vry</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Die Stoel' des Huyses <rhyme label="d" type="f">Davids</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">So wenschet nu <rhyme label="a" type="m">JErusalem</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Gheluck Heyl ende <rhyme label="b" type="f">vreede</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Wel Salich coemt Gods Seghen <rhyme label="a" type="m" corresp="#s3:l1">hem</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Die dy bemint heeft <rhyme label="b" type="f" corresp="#s3:l2">mede</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Het moet van binnen Vrede <rhyme label="c" type="m">zijn</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">End Heyl in alle Vesten <rhyme label="c" type="m" corresp="#s3:l5">dijn</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Gheluck in dijn <rhyme label="d" type="f">Palleysen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Om mijner Broeder willen <rhyme label="a" type="m">ick</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Dijn Vreed' in alle <rhyme label="b" type="f">Hoecken</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">End om mijn Vrienden <rhyme label="a" type="m" corresp="#s4:l1">Salichlick</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Dijn Welvaert wil ick <rhyme label="b" type="f" corresp="#s4:l2">soecken</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">End om des HEEren heylich <rhyme label="c" type="m">Huys</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">So wil ick neerstich end <rhyme label="c" type="m" corresp="#s4:l5">altoos</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Dijn Beste gaen <rhyme label="d" type="f">Aenvaerden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

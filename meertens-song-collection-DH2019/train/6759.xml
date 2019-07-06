@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6759</id>
+    <date>
+      <year-start>1620</year-start>
+      <year-end>1620</year-end>
+    </date>
+    <location>
+      <orginal-name>gent</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="sonnet" translation="sonnet">sonnet</tag>
+    </tags>
+    <melody>Helaas het en was geen nood</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author>Justus de Harduwijn</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">NEen, neen ick wil van hier: ick wil nu gaen <rhyme label="a" type="f">beschreyen</rhyme></l>
+        <l id="s1:l2" met="6" type="-+">De dolingh’ mijnder oogh’, te diep, en verr’, <rhyme label="b" type="m">verstout</rhyme>:</l>
+        <l id="s1:l3" met="6" type="-+">Op-stichtende mijn Cluys in een woust-conckel <rhyme label="b" type="m" corresp="#s1:l2">hout</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Daer ick in eenicheydt my zelven wil <rhyme label="a" type="f" corresp="#s1:l1">vermeyen</rhyme>.</l>
+        <l id="s1:l5" met="6" type="-+">De droefheydt, en den anghst zal mijnen cost <rhyme label="a" type="f" corresp="#s1:l1">bereyen</rhyme>:</l>
+        <l id="s1:l6" met="6" type="-+">De traenen mijnen dranck: de dimsterheydt van ’t <rhyme label="b" type="m" corresp="#s1:l2">wout</rhyme></l>
+        <l id="s1:l7" met="6" type="-+">Sal sijn ghelicht door ‘tVier van mijn herte <rhyme label="b" type="m" corresp="#s1:l2">benout</rhyme>:</l>
+        <l id="s1:l8" met="6" type="-+">Welck my sal t’mijnder straf tot asschen toe <rhyme label="a" type="f" corresp="#s1:l1">verspreyen</rhyme>.</l>
+        <l id="s1:l9" met="6" type="-+">Eenen asch-grouwen rock wil ick gaen trecken <rhyme label="c" type="m">aen</rhyme>:</l>
+        <l id="s1:l10" met="6" type="-+">En op mijn voor-hooft zal mijn traegh leet-wesen <rhyme label="c" type="m" corresp="#s1:l9">staen</rhyme>,</l>
+        <l id="s1:l11" met="6" type="+-">Dat daer in heeft ghedruckt de Weerelt <rhyme label="d" type="f">onghetrouwe</rhyme>.</l>
+        <l id="s1:l12" met="6" type="-+">Van Hope swack, en flouw zal mijnen leen-stock <rhyme label="e" type="m">sijn</rhyme>:</l>
+        <l id="s1:l13" met="6" type="-+">En voor mijn weerdighst beeld zal staen in mijn <rhyme label="e" type="m" corresp="#s1:l12">aenschijn</rhyme>,</l>
+        <l id="s1:l14" met="6" type="-+">Het vroughende gheknaegh vol bitterheydt, en <rhyme label="d" type="f" corresp="#s1:l11">rouw</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

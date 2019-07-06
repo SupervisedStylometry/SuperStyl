@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>117100</id>
+    <date>
+      <year-start>1717</year-start>
+      <year-end>1717</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>O Holland schoon gij leeft in vrede</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HIer heeft nu yder Ioncker <rhyme label="a" type="m">stof</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Om hem te gaen <rhyme label="b" type="f">vermaken</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">In een Salet of in den <rhyme label="a" type="m" corresp="#s1:l1">Hof</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Hy kan aen ’t singen <rhyme label="b" type="f" corresp="#s1:l2">raken</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">En komen in een Iuffers <rhyme label="c" type="m">hert</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Die van de Min bestreden <rhyme label="c" type="m" corresp="#s1:l5">wert</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Door ’t singen en door ’t <rhyme label="d" type="f">speelen</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">En door ’t Soenen en <rhyme label="d" type="f" corresp="#s1:l7">Streelen</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Soo krijgt de Min de <rhyme label="a" type="m">overhant</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Doet u van liefde <rhyme label="b" type="f">branden</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En stelt u sinnen en <rhyme label="a" type="m" corresp="#s2:l1">verstant</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Geheel in Venus <rhyme label="b" type="f" corresp="#s2:l2">banden</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Maer stelt u dog na dese <rhyme label="c" type="m">maet</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">In ‘t Minnen hout een goede <rhyme label="c" type="m" corresp="#s2:l5">graet</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">En singt na u <rhyme label="d" type="f">vermogen</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">’t Sal noyt den Geest <rhyme label="d" type="f" corresp="#s2:l7">verdoven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

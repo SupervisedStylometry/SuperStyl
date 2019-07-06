@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3616</id>
+    <date>
+      <year-start>1566</year-start>
+      <year-end>1566</year-end>
+    </date>
+    <location>
+      <orginal-name>heidelberg</orginal-name>
+      <standard-name>Heidelberg, Germany</standard-name>
+      <coordinates>
+        <lon>49.4093582</lon>
+        <lat>8.694724</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 013 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Pieter Datheen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HOE langh hebt ghy besloten <rhyme label="a" type="m">Heer</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">my te vergheten also <rhyme label="a" type="m" corresp="#s1:l1">seer</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">Salt altyt sijn end nemmeer <rhyme label="b" type="f">enden</rhyme>?</l>
+        <l id="s1:l4" met="4" type="-+">Wilt ghy v van my eewigh <rhyme label="b" type="f" corresp="#s1:l3">wenden</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Die benauwt ben so langhs so <rhyme label="a" type="m" corresp="#s1:l1">meer</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hoe langh sal noch dat herte <rhyme label="a" type="m">myn</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Vol van angst end van smerte <rhyme label="a" type="m" corresp="#s2:l1">sijn</rhyme>?</l>
+        <l id="s2:l3" met="4" type="-+">End daer toe vol sorgen met <rhyme label="b" type="f">desen</rhyme>?</l>
+        <l id="s2:l4" met="4" type="-+">Hoe langh' sal myn viandt noch <rhyme label="b" type="f" corresp="#s2:l3">wesen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Myn verwinner tot myner <rhyme label="a" type="m" corresp="#s2:l1">pyn</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Aensiet my Godt, ghy sijt myn <rhyme label="a" type="m">kracht</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Troost myn hert', d'welck v doet sijn <rhyme label="a" type="m" corresp="#s3:l1">klacht</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Wilt myn duyster oogen <rhyme label="b" type="f">verklaeren</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Dat ick in den slaep niet moet <rhyme label="b" type="f" corresp="#s3:l3">vaeren</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Des doodts, end daer blyuen <rhyme label="a" type="m" corresp="#s3:l1">versmacht</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Op dat hy die my sterck <rhyme label="a" type="m">beuecht</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Niet seggh', hy is neder <rhyme label="a" type="m" corresp="#s4:l1">geleght</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">End dat die vrueghd myner <rhyme label="b" type="f">vianden</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Niet dobbel werde t'myner <rhyme label="b" type="f" corresp="#s4:l3">schanden</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Siende den val van uwen <rhyme label="a" type="m" corresp="#s4:l1">knecht</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Op v Heer staet myn hop' <rhyme label="a" type="m">alleyn</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Neemt wegh myn cruys end noot niet <rhyme label="a" type="m" corresp="#s5:l1">kleyn</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Wilt my uwe vrueghd <rhyme label="b" type="f">wederbringen</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">So sal ick v louen met <rhyme label="b" type="f" corresp="#s5:l3">singen</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">Voor v weldaeden in't <rhyme label="a" type="m" corresp="#s5:l1">gemeyn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

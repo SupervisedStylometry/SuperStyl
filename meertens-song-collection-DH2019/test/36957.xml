@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36957</id>
+    <date>
+      <year-start>1677</year-start>
+      <year-end>1677</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>La Marianne</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">DAer waren eens twee <rhyme label="a" type="f">Vrindẽ</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Die met den oprechte <rhyme label="b" type="m">min</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Uyt gheheel hun hert en <rhyme label="b" type="m" corresp="#s1:l2">sin</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Malkanderen <rhyme label="a" type="f" corresp="#s1:l1">beminden</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Deés twee quamen naer een Smis <rhyme label="c" type="m">ghegaen</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Met een <rhyme label="d" type="m">propost</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">Om kost dat <rhyme label="d" type="m" corresp="#s1:l6">kost</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Twee lyven doen in een te <rhyme label="c" type="m" corresp="#s1:l5">slaen</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Maer 't vier sou eer de <rhyme label="a" type="f">leden</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Van deês Vrinden alle <rhyme label="b" type="m">twee</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Doen vergaen in pyn en <rhyme label="b" type="m" corresp="#s2:l2">wee</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Eer 't hun aen een sou <rhyme label="a" type="f" corresp="#s2:l1">smeden</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">'t Vier der liefden en oock anders <rhyme label="c" type="m">gheen</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">Dat heeft de <rhyme label="d" type="m">kracht</rhyme>,</l>
+        <l id="s2:l7" met="2" type="-+">Dat heeft de <rhyme label="d" type="m" corresp="#s2:l6">macht</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Van twee te smeden vast aen <rhyme label="c" type="m" corresp="#s2:l5">een</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Het aerdigh <rhyme label="a" type="f">Cupidoken</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Is gheworden eenen <rhyme label="b" type="m">Smit</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Die al vast aen 't smeden <rhyme label="b" type="m" corresp="#s3:l2">sit</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">En 't vier wel weet te <rhyme label="a" type="f" corresp="#s3:l1">stoken</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">'t Boefken smeet den rinck voor Man en <rhyme label="c" type="m">Wyf</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">Hun vleesch en <rhyme label="d" type="m">been</rhyme></l>
+        <l id="s3:l7" met="2" type="-+">Smeet hy aen <rhyme label="d" type="m" corresp="#s3:l6">een</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Hy smeedt twee Zielen in een <rhyme label="c" type="m" corresp="#s3:l5">Lyf</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13884</id>
+    <date>
+      <year-start>1646</year-start>
+      <year-end>1646</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">SChuyft Phoebus u Gordijnen <rhyme label="a" type="m">op</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">En laet het licht doch <rhyme label="b" type="f">schijnen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">De duysterheydt <rhyme label="b" type="f" corresp="#s1:l2">verdwijnen</rhyme></l>
+        <l id="s1:l4" met="3" type="+-">Van het naer <rhyme label="a" type="m" corresp="#s1:l1">verdriet</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">‘t Welck oock voor desen was in <rhyme label="c" type="m">mijn</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Maer nu verandert is in soete <rhyme label="c" type="m" corresp="#s1:l5">pijn</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Gheschoncken uyt <rhyme label="d" type="m">ghena</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Van mijn Lief <rhyme label="d" type="m" corresp="#s1:l7">Sylvia</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ach! wat sal ick vergelden <rhyme label="a" type="m">haer</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Voor soo een groote <rhyme label="b" type="f">trouwe</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Ghenooten van mijn <rhyme label="b" type="f" corresp="#s2:l2">Vrouwe</rhyme>?</l>
+        <l id="s2:l4" met="3" type="+-">Iae ick sal <rhyme label="a" type="m" corresp="#s2:l1">voorwaer</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Gaen soecken nu van Venus <rhyme label="c" type="m">Kruydt</rhyme>:</l>
+        <l id="s2:l6" met="4" type="-+">De Goden sullen vlechten voor mijn <rhyme label="c" type="m" corresp="#s2:l5">Bruydt</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Een Krans van liefd <rhyme label="d" type="m">ghevlecht</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Verbinden ons in <rhyme label="d" type="m" corresp="#s2:l7">d’Echt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Gheluckigh is voorwaer den <rhyme label="a" type="m">dagh</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Dat ick doen wierdt <rhyme label="b" type="f">ghebooren</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">De Hemel heeft <rhyme label="b" type="f" corresp="#s3:l2">ghezwooren</rhyme>,</l>
+        <l id="s3:l4" met="3" type="+-">Lief, met groot <rhyme label="a" type="m" corresp="#s3:l1">ghelach</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">Zoo ghy nae Godes wille <rhyme label="c" type="m">doet</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Ghezegent zult ghy zijn hier in <rhyme label="c" type="m" corresp="#s3:l5">voorspoedt</rhyme>:</l>
+        <l id="s3:l7" met="3" type="-+">Ghy zult oock sien seer <rhyme label="d" type="m">wel</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Veel vreeds in <rhyme label="d" type="m" corresp="#s3:l7">Israel</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

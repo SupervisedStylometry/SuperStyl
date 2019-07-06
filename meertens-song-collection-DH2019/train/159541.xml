@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>159541</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Als ik mijn Phyllis kussen mag</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="theatre">theater</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Leerd dus, mijn schone, dat de <rhyme label="a" type="m">kragt</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Der liefde niet is te <rhyme label="b" type="f">ontwyken</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Want ieder die haar trots <rhyme label="a" type="m" corresp="#s1:l1">veragt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Moet eindelijk voor haer <rhyme label="b" type="f" corresp="#s1:l2">beswyken</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Maar vreesd niet dat ik met <rhyme label="a" type="m">verwyd</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Oit uwe liefden sal <rhyme label="b" type="f">belonen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Nu my u <rhyme label="a" type="m" corresp="#s2:l1">openhertigheyd</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">De grond van uw gemoed komt <rhyme label="b" type="f" corresp="#s2:l2">tonen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wel, ik omhelse dan uw <rhyme label="a" type="m">min</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">En sal haar kragt niet <rhyme label="b" type="f">wederstreven</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Wel, laat ons dan, mijn <rhyme label="a" type="m" corresp="#s3:l1">Engelin</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Voortaan in egte liefde <rhyme label="b" type="f" corresp="#s3:l2">leven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

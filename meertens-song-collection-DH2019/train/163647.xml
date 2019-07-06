@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>163647</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Écoutez bergers la musique angélique</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="theatre">theater</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Ik voel mijn <rhyme label="a" type="m">hert</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">- Wat wonder <rhyme label="b" type="f">teken</rhyme>! -</l>
+        <l id="s1:l3" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s1:l2">Ontsteken</rhyme>
+        </l>
+        <l id="s1:l4" met="3" type="-+">Als met een nieuwe <rhyme label="a" type="m" corresp="#s1:l1">smert</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Door het <rhyme label="c" type="m">geweld</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Der min <rhyme label="c" type="m" corresp="#s1:l5">geveld</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Waarvoor ik sie mijn kragt <rhyme label="b" type="f" corresp="#s1:l2">besweken</rhyme>.</l>
+        <l id="s1:l8" met="2" type="-+">Ik voel mijn <rhyme label="a" type="m" corresp="#s1:l1">hert</rhyme></l>
+        <l id="s1:l9" met="2" type="-+">- Wat wonder <rhyme label="b" type="f" corresp="#s1:l2">teken</rhyme>! -</l>
+        <l id="s1:l10" met="1" type="-+">
+          <rhyme label="b" type="f" corresp="#s1:l2">Ontsteken</rhyme>
+        </l>
+        <l id="s1:l11" met="3" type="+-">Als met een nieuwe <rhyme label="a" type="m" corresp="#s1:l1">smert</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Maar Titer, <rhyme label="a" type="m">laat</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Dit vry <rhyme label="b" type="f">ontdekken</rhyme></l>
+        <l id="s2:l3" met="1" type="-+">Noit <rhyme label="b" type="f" corresp="#s2:l2">strekken</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Tot mijne schande of <rhyme label="a" type="m" corresp="#s2:l1">smaat</rhyme>;</l>
+        <l id="s2:l5" met="2" type="-+">Geen losse <rhyme label="c" type="m">gloed</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Komt mijn <rhyme label="c" type="m" corresp="#s2:l5">gemoed</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Maar suyver vuur mijn driften <rhyme label="b" type="f" corresp="#s2:l2">wekken</rhyme>.</l>
+        <l id="s2:l8" met="2" type="-+">Maar Titer, <rhyme label="a" type="m" corresp="#s2:l1">laat</rhyme></l>
+        <l id="s2:l9" met="2" type="-+">Dit vry <rhyme label="b" type="f" corresp="#s2:l2">ontdekken</rhyme></l>
+        <l id="s2:l10" met="1" type="-+">Noit <rhyme label="b" type="f" corresp="#s2:l2">strekken</rhyme></l>
+        <l id="s2:l11" met="3" type="+-">Tot mijne schande of <rhyme label="a" type="m" corresp="#s2:l1">smaad</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

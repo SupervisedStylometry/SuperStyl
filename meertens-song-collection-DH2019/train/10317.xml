@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10317</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Cessez mortels de soupirer</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">'k Lagh met mijn Ameril in 't <rhyme label="a" type="m">groen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">In lommer van de dichte <rhyme label="b" type="f">boomen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Daer, daermen hoort het beeckje <rhyme label="a" type="m" corresp="#s1:l1">spoen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">En 't preut'len van Cristalle <rhyme label="b" type="f" corresp="#s1:l2">stroomen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Ick leyden haer mijn min te <rhyme label="c" type="m">voor</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Dan sy verhard gaf geen <rhyme label="c" type="m" corresp="#s1:l5">gehoor</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">De Son terwijl sijn glansigh <rhyme label="a" type="m">hooft</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Verschool door kracht van <rhyme label="b" type="f">regen-vlaghen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Den Hemel scheurde en <rhyme label="a" type="m" corresp="#s2:l1">opgeklooft</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Spoogh Blixem-vlam met <rhyme label="b" type="f" corresp="#s2:l2">donderslagen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Sy als bevreest vloogh naer mijn <rhyme label="c" type="m">schoot</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Spaer, riepse spaer, mijn voor de <rhyme label="c" type="m" corresp="#s2:l5">doodt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wat schroomt ghy lief voor dit <rhyme label="a" type="m">ghetier</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">En roept mijn hulp om u te <rhyme label="b" type="f">sparen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Kan dan het ydel blixem <rhyme label="a" type="m" corresp="#s3:l1">vyer</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Kan ydel donder u <rhyme label="b" type="f" corresp="#s3:l2">vervaren</rhyme>?</l>
+        <l id="s3:l5" met="4" type="-+">Maer eer spaer mijn in sulcken <rhyme label="c" type="m">noot</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Spaer mijn beminde voor de <rhyme label="c" type="m" corresp="#s3:l5">doodt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Spaer mijn op wien met dooden <rhyme label="a" type="m">oogh</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Ghy blixemt vyer dat veel is <rhyme label="b" type="f">snelder</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Op wien met al te sterck <rhyme label="a" type="m" corresp="#s4:l1">vermoogh</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Ghy dondert slagen soo veel <rhyme label="b" type="f" corresp="#s4:l2">felder</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Spaer mijn, spaer mijn in sulcken <rhyme label="c" type="m">noot</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Spaer mijn beminde voor de <rhyme label="c" type="m" corresp="#s4:l5">doodt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

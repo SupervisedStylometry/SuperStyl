@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174594</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">De boomen ontluiken, de bloesem komt <rhyme label="a" type="m">uit</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">De vogeltjes zingen met lieflijk <rhyme label="a" type="m" corresp="#s1:l1">geluid</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">De schaapjes die springen door 't groenende <rhyme label="b" type="m">gras</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Ik spring met ze meê, of ik zelf er een <rhyme label="b" type="m" corresp="#s1:l3">was</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">En weet ge, wáárom ik zoo spring en zoo <rhyme label="a" type="m">zing</rhyme>?</l>
+        <l id="s2:l2" met="4" type="-+">Die Winter dat vond ik zoo'n akelig <rhyme label="a" type="m" corresp="#s2:l1">ding</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Toen had ik het koud in mijn' duffelsên <rhyme label="b" type="m">jas</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">En denk 'reis, hoe koud dan een beedlaar wel <rhyme label="b" type="m" corresp="#s2:l3">was</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Maar nu is het lekker en zacht op het <rhyme label="a" type="m">land</rhyme>;</l>
+        <l id="s3:l2" met="4" type="-+">Weg, mantel en das! in de kas aan den <rhyme label="a" type="m" corresp="#s3:l1">wand</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">Komt, jongens! naar buiten, en houdt je maar <rhyme label="b" type="m">kras</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Wij schelden hem luilak, die 't laatste daar <rhyme label="b" type="m" corresp="#s3:l3">was</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

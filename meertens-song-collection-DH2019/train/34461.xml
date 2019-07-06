@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34461</id>
+    <date>
+      <year-start>1653</year-start>
+      <year-end>1653</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Albertus Ignatius d'Hanins</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">MOet ick dan nacht en <rhyme label="a" type="m">dagh</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Altijdt doen mijn <rhyme label="a" type="m" corresp="#s1:l1">beklagh</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Sonder troost te <rhyme label="b" type="f">verwerven</rhyme>?</l>
+        <l id="s1:l4" met="3" type="-+">Verkeert dijn’ stueren <rhyme label="c" type="m">sin</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">O wreede <rhyme label="c" type="m" corresp="#s1:l4">Herderin</rhyme>!</l>
+        <l id="s1:l6" met="3" type="-+">Oft anders moet ick <rhyme label="b" type="f" corresp="#s1:l3">sterven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">‘k Sal zijn van monde <rhyme label="a" type="m">stil</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">(Schoon dat ick sterven <rhyme label="a" type="m" corresp="#s2:l1">wil</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Voor mijn Lief, mijn <rhyme label="b" type="f">Clorinde</rhyme>)</l>
+        <l id="s2:l4" met="3" type="-+">Die ’t nimmer weten <rhyme label="c" type="m">sal</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Dan naer mijns lichaems <rhyme label="c" type="m" corresp="#s2:l4">val</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Hoe seer ick haer <rhyme label="b" type="f" corresp="#s2:l3">beminde</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

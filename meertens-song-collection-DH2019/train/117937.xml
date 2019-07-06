@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>117937</id>
+    <date>
+      <year-start>1720</year-start>
+      <year-end>1720</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Dan als Gods geest mijn ziel bewerkt</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Carolus Tuinman</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Verhaaste spoed is zelden <rhyme label="a" type="m">goed</rhyme>.</l>
+        <l id="s1:l2" met="3" type="-+">Dus blykt al <rhyme label="b" type="f">menigmaalen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Dat die geen voor- maar nadeel <rhyme label="a" type="m" corresp="#s1:l1">doet</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En 't spoeden wel doet <rhyme label="b" type="f" corresp="#s1:l2">draalen</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Voorzichtigheid verzelt dat <rhyme label="c" type="m">niet</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Wat overhaastende <rhyme label="c" type="m" corresp="#s1:l5">geschied</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hy tuimelt hol wel over <rhyme label="a" type="m">bol</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Die al te ras wil <rhyme label="b" type="f">loopen</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Hy brengt het paard wel op den <rhyme label="a" type="m" corresp="#s2:l1">hol</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Die 't al te zeer zal <rhyme label="b" type="f" corresp="#s2:l2">noopen</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Te haastig baart veel <rhyme label="c" type="m">ongevals</rhyme>:</l>
+        <l id="s2:l6" met="4" type="-+">Want al te ras die brak den <rhyme label="c" type="m" corresp="#s2:l5">hals</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Die 't werrekluwen al te <rhyme label="a" type="m">ras</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Wil los doen en <rhyme label="b" type="f">ontwinden</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Die maakt het slimmer, dan het <rhyme label="a" type="m" corresp="#s3:l1">was</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">En zal meer moeite <rhyme label="b" type="f" corresp="#s3:l2">vinden</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Vermits hy vaster trekt in <rhyme label="c" type="m">een</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">'t Geen eerst noch wel ontvlechtbaar <rhyme label="c" type="m" corresp="#s3:l5">scheen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Wel! spoed dan langzaam, zyt gy <rhyme label="a" type="m">wys</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Voorzichtig, wel <rhyme label="b" type="f">beraaden</rhyme>.</l>
+        <l id="s4:l3" met="4" type="-+">Dat spoeden heeft by wyzen <rhyme label="a" type="m" corresp="#s4:l1">prys</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">En zal nooit iemand <rhyme label="b" type="f" corresp="#s4:l2">schaaden</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Wie dus met vaste treden <rhyme label="c" type="m">spoed</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Dat spoeden is hem altyd <rhyme label="c" type="m" corresp="#s4:l5">goed</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

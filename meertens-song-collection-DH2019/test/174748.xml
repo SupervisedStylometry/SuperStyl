@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174748</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Zeg lieve vogels schuw en wild</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Gij, lieve vogels, schuw en <rhyme label="a" type="m">wild</rhyme>!</l>
+        <l id="s1:l2" met="4" type="-+">Wat zijt ge met uw liedren <rhyme label="a" type="m" corresp="#s1:l1">mild</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Wat kweelt ge blijde <rhyme label="b" type="f">zangen</rhyme>!</l>
+        <l id="s1:l4" met="4" type="-+">'t Is of er 't heele bosch van <rhyme label="a" type="m" corresp="#s1:l1">trilt</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Die toonen op te <rhyme label="b" type="f" corresp="#s1:l3">vangen</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Het ruischt en suist van ieder <rhyme label="a" type="m">blad</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Alsof het vol met ooren <rhyme label="a" type="m" corresp="#s2:l1">zat</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">En 't lieflijk lied kon <rhyme label="b" type="f">hooren</rhyme>;</l>
+        <l id="s2:l4" met="4" type="-+">Alsof het duizend tongen <rhyme label="a" type="m" corresp="#s2:l1">had</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">En meê zong in uw <rhyme label="b" type="f" corresp="#s2:l3">koren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Gij, schuwe vogels! zijt niet <rhyme label="a" type="m">bang</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Al stemmen in uw wild <rhyme label="a" type="m" corresp="#s3:l1">gezang</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Der kindren vrome <rhyme label="b" type="f">wijzen</rhyme>;</l>
+        <l id="s3:l4" met="4" type="-+">Wij wenschen met u, vaak en <rhyme label="a" type="m" corresp="#s3:l1">lang</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Den goeden God te <rhyme label="b" type="f" corresp="#s3:l3">prijzen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

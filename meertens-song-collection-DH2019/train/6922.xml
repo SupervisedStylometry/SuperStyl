@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6922</id>
+    <date>
+      <year-start>1627</year-start>
+      <year-end>1627</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>O Angenietje</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Willem Dirckszoon Hooft, Jan Jansz. Starter, Jacob Westerbaen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WEl ben je noch sieckjes // ghy sieter soo <rhyme label="a" type="f">blieckjes</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Mijn trouhartighe <rhyme label="b" type="m">vrient</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Het blijckt wel datjet <rhyme label="b" type="m" corresp="#s1:l2">mient</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Doen ghy de minne in t'hart liet gaen soo <rhyme label="c" type="m">diep</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Ghy bleefter wat staen // en waerter <rhyme label="d" type="m">verraen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Gheschooten, doe icket <rhyme label="c" type="m" corresp="#s1:l4">verliep</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ick bender ontspronghen // de dartele <rhyme label="a" type="f">Ionghen</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Ick spring en sing <rhyme label="b" type="m">verblijt</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Daer ghy nu suffert <rhyme label="b" type="m" corresp="#s2:l2">zijt</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Dat ghy met suchten droef nu steent, ick <rhyme label="c" type="m">singt</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Ick hebber de moet // en t'isser mijn <rhyme label="d" type="m">soet</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Daer ghyder u handen om <rhyme label="c" type="m" corresp="#s2:l4">wringt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ick oeffende dansjes // en andere <rhyme label="a" type="f">kansjes</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Ick zeyl of ick rijde te <rhyme label="b" type="m">paert</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Als ghy suft by den <rhyme label="b" type="m" corresp="#s3:l2">haert</rhyme>:</l>
+        <l id="s3:l4" met="5" type="-+">Men seud wel eer, wat aerdiger quant is <rhyme label="c" type="m">dit</rhyme>?</l>
+        <l id="s3:l5" met="4" type="-+">Maer isset gheen schant // t'is sonder <rhyme label="d" type="m">verstant</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Ie dut daer je staet, daer je <rhyme label="c" type="m" corresp="#s3:l4">sit</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ick gaender verkeeren // in deucht en met <rhyme label="a" type="f">eeren</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Als ghy sit in een <rhyme label="b" type="m">hoeck</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Als met de neus in <rhyme label="b" type="m" corresp="#s4:l2">t'boeck</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">Als ghy dan snachts niet legghen en kunt noch <rhyme label="c" type="m">rust</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Van droevig ellent // dan ben ick <rhyme label="d" type="m">ghewent</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Te slapen met grooter <rhyme label="c" type="m" corresp="#s4:l4">lust</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Ghy pruylter en preutelt // ghy mymert, ghy <rhyme label="a" type="f">reutelt</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">En somtijts binje <rhyme label="b" type="m">stom</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Of d'antwoort te <rhyme label="b" type="m" corresp="#s5:l2">dom</rhyme>,</l>
+        <l id="s5:l4" met="5" type="-+">Ghy l'kuyert alleen, en schuter meest al de <rhyme label="c" type="m">lien</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">En zijtter gheweest // soo rustighen <rhyme label="d" type="m">gheest</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Als icker oyt heb <rhyme label="c" type="m" corresp="#s5:l4">ghesien</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Dit zijn de ghebreecken // van minnende <rhyme label="a" type="f">Leecken</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">Als men een blauwe <rhyme label="b" type="m">scheen</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">Ghestooten heeft aen 't <rhyme label="b" type="m" corresp="#s6:l2">been</rhyme>,</l>
+        <l id="s6:l4" met="5" type="-+">Dat geen Aertsbay genesen en kan of <rhyme label="c" type="m">kruyt</rhyme>,</l>
+        <l id="s6:l5" met="4" type="-+">Maer die de Ionghman // sou redden hier <rhyme label="d" type="m">van</rhyme>,</l>
+        <l id="s6:l6" met="3" type="-+">Dat moester dan wesen sijn <rhyme label="c" type="m" corresp="#s6:l4">Bruyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22148</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Es spricht der unweise Mund wohl</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Heer mijn Godt coemt vroech tot <rhyme label="a" type="m">my</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Mijn Siel nae u sulcken dorst <rhyme label="b" type="f">heeft</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Glijck een landt dat gheel droog is <rhyme label="a" type="m" corresp="#s1:l1">vry</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En dat hem in gheen water en <rhyme label="b" type="f" corresp="#s1:l2">heeft</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Ick aensien uwe Sterckte, en <rhyme label="c" type="m">Eer</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">U gnad is meer dan dit leuen <rhyme label="c" type="m" corresp="#s1:l5">teer</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Daerom prijsen u mijn <rhyme label="d" type="f">lippen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Met opgheheuen handen prijs ick u <rhyme label="a" type="m">seer</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Mijn Siel groote vruechd can <rhyme label="b" type="f">maken</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Mijn mondt vrolijck bekendt den <rhyme label="a" type="m" corresp="#s2:l1">Heer</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Int slapen, oft int <rhyme label="b" type="f" corresp="#s2:l2">waken</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Alle vruechd, en hulp, heb ick van u <rhyme label="c" type="m">zaen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Altijdts hangt u mijn Siele <rhyme label="c" type="m" corresp="#s2:l5">aen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">U recht handt die onderhoudt <rhyme label="d" type="f">my</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Al stellen sy mijn Siel nae soo <rhyme label="a" type="m">hert</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Noch moetense al onder <rhyme label="b" type="f">deerde</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Sy sullen noch vallen in het <rhyme label="a" type="m" corresp="#s3:l1">sweerdt</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">En den Vossen ten deel <rhyme label="b" type="f" corresp="#s3:l2">werden</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">De Coninck hem Gods sheeren niet en <rhyme label="c" type="m">schaemt</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Wie by hem sweert, wordt beroemt, <rhyme label="c" type="m" corresp="#s3:l5">befaemt</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Des loegnaers mondt moet <rhyme label="d" type="f">swijghen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

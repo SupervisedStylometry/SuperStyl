@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174907</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Heisa! Dat hamert er lustig op toe</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Heisa! dat hamert er lustig op <rhyme label="a" type="m">toe</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Smidje! vertel me 'reis, wordt ge niet <rhyme label="a" type="m" corresp="#s1:l1">moê</rhyme>?</l>
+        <l id="s1:l3" met="4" type="+-">Toen wij van morgen naar school zijn <rhyme label="b" type="m">gegaan</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Waart gij al lang aan het smeden en <rhyme label="b" type="m" corresp="#s1:l3">slaan</rhyme>;</l>
+        <l id="s1:l5" met="4" type="+-">Oef! wat een werken en zweeten is <rhyme label="c" type="m">dat</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Wacht eens een omzien en rust ereis <rhyme label="c" type="m" corresp="#s1:l5">wat</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">- Maatjes! je ziet er zoo dom nog niet <rhyme label="a" type="m">uit</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Maar van het smeden versta je geen' <rhyme label="a" type="m" corresp="#s2:l1">duit</rhyme>;</l>
+        <l id="s2:l3" met="4" type="+-">'t IJzer is gloeijend, zoo als jelui <rhyme label="b" type="m">ziet</rhyme>;</l>
+        <l id="s2:l4" met="4" type="+-">Wacht ik een beetje, dan deugt het weêr <rhyme label="b" type="m" corresp="#s2:l3">niet</rhyme>;</l>
+        <l id="s2:l5" met="4" type="+-">Denkt er om, jongens! 't is goed, dat ge 't <rhyme label="c" type="m">weet</rhyme>:</l>
+        <l id="s2:l6" met="4" type="+-">IJzer, dat deugd houdt, moet gloeijend <rhyme label="c" type="m" corresp="#s2:l5">gesmeed</rhyme>!-</l>
+      </lg>
+    </lg>
+  </text>
+</song>

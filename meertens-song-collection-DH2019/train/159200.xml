@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>159200</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Polyphemus aan de stranden</melody>
+  <author>Cornelis Maertsz.</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">JAcob heeft tot erf <rhyme label="a" type="f">verkregen</rhyme></l>
+        <l id="s1:l2" met="2" type="+-">'s Vaders <rhyme label="a" type="f" corresp="#s1:l1">zegen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Doen met 't rieckende <rhyme label="b" type="m">gewaet</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Van sijn Broeder, hy hem <rhyme label="c" type="f">kleede</rhyme>,</l>
+        <l id="s1:l5" met="2" type="+-">En gingh <rhyme label="c" type="f" corresp="#s1:l4">treden</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Voor sijn Vader met 't <rhyme label="b" type="m" corresp="#s1:l3">gebraet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Soo wort Godes sal'ghe <rhyme label="a" type="f">zegen</rhyme></l>
+        <l id="s2:l2" met="2" type="+-">Oock <rhyme label="a" type="f" corresp="#s2:l1">verkreghen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Wanneer als men voor den <rhyme label="b" type="m">Heer</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Met de vrught van Christi <rhyme label="c" type="f">pijnen</rhyme>,</l>
+        <l id="s2:l5" met="2" type="+-">Komt <rhyme label="c" type="f" corresp="#s2:l4">verschijnen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Knielend' voor sijn Troon ter <rhyme label="b" type="m" corresp="#s2:l3">neer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Jesu ! uw' <rhyme label="a" type="f">gherechtigheden</rhyme></l>
+        <l id="s3:l2" met="2" type="+-">Doen my <rhyme label="a" type="f" corresp="#s3:l1">kleeden</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">En uyt kracht van dat <rhyme label="b" type="m">gewaet</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Koom ick met <rhyme label="c" type="f">vrymoedigheden</rhyme></l>
+        <l id="s3:l5" met="2" type="+-">Voor Godt <rhyme label="c" type="f" corresp="#s3:l4">treden</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">En verkrijgh van hem <rhyme label="b" type="m" corresp="#s3:l3">genaed'</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

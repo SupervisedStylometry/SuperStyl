@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>186390</id>
+    <date>
+      <year-start>1695</year-start>
+      <year-end>1695</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Klimeen ach ieder weet dat ik u min</melody>
+  <author>Cornelis Sweerts</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Klimeene, ach! ider weet dat ik u <rhyme label="a" type="m">min</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Myn ondanks zeggen 't elk mijn <rhyme label="b" type="f">oogen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">En gy werd nochtans niet <rhyme label="b" type="f" corresp="#s1:l2">bewoogen</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Noch wilt niet dat ik 't u breng in de <rhyme label="a" type="m" corresp="#s1:l1">zin</rhyme>.</l>
+        <l id="s1:l5" met="5" type="-+">Betoon ik 't u het kan uw gramschap <rhyme label="c" type="f">tergen</rhyme>.</l>
+        <l id="s1:l6" met="4" type="-+">Klimeene, ach! welk een <rhyme label="d" type="m">herten-leet</rhyme>!</l>
+        <l id="s1:l7" met="2" type="-+">'t Geen ider <rhyme label="d" type="m" corresp="#s1:l6">weet</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Kan ik dat wel voor u <rhyme label="c" type="f" corresp="#s1:l5">verbergen</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

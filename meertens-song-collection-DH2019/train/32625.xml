@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32625</id>
+    <date>
+      <year-start>1660</year-start>
+      <year-end>1660</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Aus tiefer Not schrei ich zu dir</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Peeter de Vleeschoudere</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Wel-bedacht,, en <rhyme label="a" type="m">wel-be-tracht</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Wys Heer, en Herder <rhyme label="b" type="f">weerdigh</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Die hebt ver-acht,, des werelds <rhyme label="a" type="m" corresp="#s1:l1">pracht</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En all' wat hier is <rhyme label="b" type="f" corresp="#s1:l2">eerdigh</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Des lichaems lust,, ghemack, en <rhyme label="c" type="m">rust</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Der sinnen wust,, will' <rhyme label="c" type="m" corresp="#s1:l5">on-gheblust</rhyme>;</l>
+        <l id="s1:l7" met="3" type="+-">En blyft tot schryven <rhyme label="b" type="f" corresp="#s1:l2">veerdigh</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Gheen wyser raedt,, gheen beter <rhyme label="a" type="m">daedt</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Noch lof kont ghy <rhyme label="b" type="f">ver-werven</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Gheen voller maet,, u toe en <rhyme label="a" type="m" corresp="#s2:l1">staet</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Om 't hemelsch goed te <rhyme label="b" type="f" corresp="#s2:l2">erven</rhyme>;</l>
+        <l id="s2:l5" met="4" type="-+">Noch beter tocht,, ghy kiesen <rhyme label="c" type="m">moght</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Dan dat ghy socht,, soo verr' <rhyme label="c" type="m" corresp="#s2:l5">gebrocht</rhyme>,</l>
+        <l id="s2:l7" met="3" type="+-">Dit Dicht niet laeten <rhyme label="b" type="f" corresp="#s2:l2">sterven</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ick laet' Marot,, als eenen <rhyme label="a" type="m">sot</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">De Psalmen Fransch <rhyme label="b" type="f">ver-taelen</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">Syn Dicht snot-rot,, stinckt naer den <rhyme label="a" type="m" corresp="#s3:l1">pot</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">En wyckt van 's hemels <rhyme label="b" type="f" corresp="#s3:l2">saelen</rhyme>;</l>
+        <l id="s3:l5" met="4" type="-+">Maer uw Ghedicht,, dat is <rhyme label="c" type="m">ghesticht</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Tot 's menschen licht,, 't welck hem <rhyme label="c" type="m" corresp="#s3:l5">ver-plicht</rhyme>,</l>
+        <l id="s3:l7" met="3" type="+-">Om Gods leer' te <rhyme label="b" type="f" corresp="#s3:l2">be-haelen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">O wat voor loon,, hoe rycke <rhyme label="a" type="m">kroon</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Van God staet u te <rhyme label="b" type="f">wachten</rhyme>!</l>
+        <l id="s4:l3" met="4" type="-+">Die dagh en nacht,, hebt <rhyme label="a" type="m" corresp="#s4:l1">over-bracht</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Om dit werck te <rhyme label="b" type="f" corresp="#s4:l2">be-trachten</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Die uwen tydt,, met sorgh en <rhyme label="c" type="m">vlyt</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Maeckt staedigh quyt,, dit seker <rhyme label="c" type="m" corresp="#s4:l5">zyt</rhyme>,</l>
+        <l id="s4:l7" met="3" type="+-">Dat God uw' moeyt' sal <rhyme label="b" type="f" corresp="#s4:l2">achten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

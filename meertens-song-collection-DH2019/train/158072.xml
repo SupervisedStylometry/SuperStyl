@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>158072</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+    </tags>
+    <melody>Als ik mijn Phyllis kussen mag</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="theatre">theater</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Duyk hier wat neder in het <rhyme label="a" type="m">groen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Ik zie daar ginse Damon <rhyme label="b" type="f">komen</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Hy heeft misschien iets van ons <rhyme label="a" type="m" corresp="#s1:l1">doen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">En uwe minnery <rhyme label="b" type="f" corresp="#s1:l2">vernomen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

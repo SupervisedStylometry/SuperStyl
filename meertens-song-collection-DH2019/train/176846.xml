@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176846</id>
+    <date>
+      <year-start>1683</year-start>
+      <year-end>1683</year-end>
+    </date>
+    <location>
+      <orginal-name>leeuwarden</orginal-name>
+      <standard-name>Leeuwarden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>53.2005936</lon>
+        <lat>5.7918548</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="danklied" translation="gratitude song">danklied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Wenn mein Stündlein vorhanden ist</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Hendrik Rintjes</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wy dancken u o Vader <rhyme label="a" type="m">goet</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">En prijsen u <rhyme label="b" type="f">bequame</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Dat wy hier hebben ghehoort <rhyme label="a" type="m" corresp="#s1:l1">soet</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Van uwen Heyl’ghen <rhyme label="b" type="f" corresp="#s1:l2">name</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Gheeft ons kracht Heer in desen <rhyme label="c" type="m">tijt</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Dat wy ‘t beleven seer <rhyme label="c" type="m" corresp="#s1:l5">subijt</rhyme>:</l>
+        <l id="s1:l7" met="3" type="-+">En u dancken te <rhyme label="b" type="f" corresp="#s1:l2">same</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Laet ons Godt loven <rhyme label="a" type="m">aldermeest</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Van sijn groote <rhyme label="b" type="f">ghenade</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Dat hy ons geeft in dit <rhyme label="a" type="m" corresp="#s2:l1">Foreest</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Sijnen Gheest vroech en <rhyme label="b" type="f" corresp="#s2:l2">spade</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">En laet ons houden dese <rhyme label="c" type="m">Leer</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">En volghen Christum onsen <rhyme label="c" type="m" corresp="#s2:l5">Heer</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">En laet ons niet <rhyme label="b" type="f" corresp="#s2:l2">beraden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Laet ons nu gaen met goet <rhyme label="a" type="m">accoort</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Elck een al tot den <rhyme label="b" type="f">sijnen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">En wand’len in der liefden <rhyme label="a" type="m" corresp="#s3:l1">voort</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Nu en t’allen <rhyme label="b" type="f" corresp="#s3:l2">termijnen</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Recht ende slecht alsoo ‘t <rhyme label="c" type="m">behoort</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Op dat wy niet vergheten ‘t <rhyme label="c" type="m" corresp="#s3:l5">woort</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">En vallen in veel <rhyme label="b" type="f" corresp="#s3:l2">pijnen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Danckt oock den Heer <rhyme label="a" type="m">ghebenedijt</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Dat hy tot onser <rhyme label="b" type="f">vromen</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Oock nu toe laet in desen <rhyme label="a" type="m" corresp="#s4:l1">tijt</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Te komen sonder <rhyme label="b" type="f" corresp="#s4:l2">schromen</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Om te hooren des Heeren <rhyme label="c" type="m">woort</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Tot sijnen prijs alsoo ‘t <rhyme label="c" type="m" corresp="#s4:l5">behoort</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Iae tot sijns Naems eer <rhyme label="b" type="f" corresp="#s4:l2">komen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Prinse der Prinsen <rhyme label="a" type="m">Majesteyt</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Wilt ons nu laten <rhyme label="b" type="f">bloeyen</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">En stercken ons, niet en <rhyme label="a" type="m" corresp="#s5:l1">verbeyt</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Dat wy doch mogen <rhyme label="b" type="f" corresp="#s5:l2">groeyen</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">Tot lof van u weldaden <rhyme label="c" type="m">schoon</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">Singhen wy vrolijck met een <rhyme label="c" type="m" corresp="#s5:l5">toon</rhyme></l>
+        <l id="s5:l7" met="3" type="-+">Amen laet ons doch <rhyme label="b" type="f" corresp="#s5:l2">spoeyen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

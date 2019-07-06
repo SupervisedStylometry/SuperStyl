@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2694</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>De liefde voortgebracht door rein geloof</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>J. Smeerbol</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">MYn Zangster wierd <rhyme label="a" type="m">belust</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Om van iet soets te <rhyme label="b" type="f">singen</rhyme>:</l>
+        <l id="s1:l3" met="3" type="-+">Hoe soet is 't die <rhyme label="a" type="m" corresp="#s1:l1">gerust</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">By allerhande <rhyme label="b" type="f" corresp="#s1:l2">dingen</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Heel onbekommerd <rhyme label="c" type="m">leeft</rhyme>?</l>
+        <l id="s1:l6" met="3" type="-+">Hy haet den vrekken <rhyme label="d" type="f">wroeter</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Die duisend sorgen <rhyme label="c" type="m" corresp="#s1:l5">heeft</rhyme>:</l>
+        <l id="s1:l8" met="3" type="-+">De trou-kus is noch <rhyme label="d" type="f" corresp="#s1:l6">soeter</rhyme></l>
+        <l id="s1:l9" met="3" type="+-">Noch soeter, noch soeter, noch <rhyme label="d" type="f" corresp="#s1:l6">soeter</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">'t Is zoet, en wonder <rhyme label="a" type="m">zoet</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Heel buiten dwang te <rhyme label="b" type="f">leven</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Men wort dan, wat men <rhyme label="a" type="m" corresp="#s2:l1">doet</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Belastert noch <rhyme label="b" type="f" corresp="#s2:l2">bekeven</rhyme>:</l>
+        <l id="s2:l5" met="3" type="-+">Men vind, hoe dat men 't <rhyme label="c" type="m">maakt</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Geen grimmigen <rhyme label="d" type="f">ontmoeter</rhyme>:</l>
+        <l id="s2:l7" met="3" type="-+">Maar, schoon dit zoet wel <rhyme label="c" type="m" corresp="#s2:l5">smaakt</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">De trou-kus smaakt noch <rhyme label="d" type="f" corresp="#s2:l6">zoeter</rhyme>,</l>
+        <l id="s2:l9" met="3" type="+-">Noch zoeter, noch zoeter, noch <rhyme label="d" type="f" corresp="#s2:l6">zoeter</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">'t Is zoet die, uit de <rhyme label="a" type="m">zee</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Na dat hy 't schip sach <rhyme label="b" type="f">stranden</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Noch, op een mast of <rhyme label="a" type="m" corresp="#s3:l1">rhee</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Hoe wel half dood, mach <rhyme label="b" type="f" corresp="#s3:l2">landen</rhyme>:</l>
+        <l id="s3:l5" met="3" type="-+">Zijn hart springt door die <rhyme label="c" type="m">vreugd</rhyme>.</l>
+        <l id="s3:l6" met="3" type="-+">Hy swijmt voor d' eerste <rhyme label="d" type="f">groeter</rhyme>:</l>
+        <l id="s3:l7" met="3" type="-+">Maer, hoe dit zoet <rhyme label="c" type="m" corresp="#s3:l5">verheugd</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">De trou-kus smaakt noch <rhyme label="d" type="f" corresp="#s3:l6">zoeter</rhyme>,</l>
+        <l id="s3:l9" met="3" type="+-">Noch zoeter, noch zoeter, noch <rhyme label="d" type="f" corresp="#s3:l6">zoeter</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">'t Is zoet die, na de <rhyme label="a" type="m">plaag</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Getroost wort met <rhyme label="b" type="f">genaden</rhyme>.</l>
+        <l id="s4:l3" met="3" type="-+">'t Is zoet een holle <rhyme label="a" type="m" corresp="#s4:l1">maag</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Na 't vasten, te <rhyme label="b" type="f" corresp="#s4:l2">versaden</rhyme>:</l>
+        <l id="s4:l5" met="3" type="-+">De boonen zijn dan <rhyme label="c" type="m">bout</rhyme>.</l>
+        <l id="s4:l6" met="3" type="-+">Men kust zijn luste <rhyme label="d" type="f">boeter</rhyme>.</l>
+        <l id="s4:l7" met="3" type="-+">Schoon elck hier veel van <rhyme label="c" type="m" corresp="#s4:l5">houd</rhyme>.</l>
+        <l id="s4:l8" met="3" type="-+">De trou-kus smaakt noch <rhyme label="d" type="f" corresp="#s4:l6">zoeter</rhyme>,</l>
+        <l id="s4:l9" met="3" type="+-">Noch zoeter, noch zoeter, noch <rhyme label="d" type="f" corresp="#s4:l6">zoeter</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

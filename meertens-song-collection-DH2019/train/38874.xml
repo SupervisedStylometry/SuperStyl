@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>38874</id>
+    <date>
+      <year-start>1723</year-start>
+      <year-end>1723</year-end>
+    </date>
+    <location>
+      <orginal-name>brugghe</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>Branle Parthenice</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Philippus Jongheryx</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ONs leven is een <rhyme label="a" type="f">pelgrimaese</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">Daer t'hert van <rhyme label="b" type="m">berst</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Den langhen wegh maeck moi <rhyme label="a" type="f" corresp="#s1:l1">pasaise</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Maer Wyn <rhyme label="b" type="m" corresp="#s1:l2">ververst</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Dan gaen wy alle Capellekens <rhyme label="c" type="m">naer</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Ons <rhyme label="d" type="f">rekereren</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Dan en valt ons den wegh niet <rhyme label="c" type="m" corresp="#s1:l5">swaer</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Als sy ons wel <rhyme label="d" type="f" corresp="#s1:l6">tracteren</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ons keelgat is vol stof <rhyme label="a" type="f">ghevlogen</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">Van seer te <rhyme label="b" type="m">gaen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Kom laet ons nu terwil wy <rhyme label="a" type="f" corresp="#s2:l1">moghen</rhyme>.</l>
+        <l id="s2:l4" met="2" type="-+">Wat stille <rhyme label="b" type="m" corresp="#s2:l2">staen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Laet ons van dat droogh stof en <rhyme label="c" type="m">sant</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">Ons Keelgat <rhyme label="d" type="f">spoelen</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">En met den ruemer in de <rhyme label="c" type="m" corresp="#s2:l5">handt</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Ons heeten dorst <rhyme label="d" type="f" corresp="#s2:l6">verkoelen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Terwil den pelgrim onder <rhyme label="a" type="f">weegh</rhyme>,</l>
+        <l id="s3:l2" met="2" type="-+">Vindt een <rhyme label="b" type="m">Fonteijn</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Dan verslaet hy syn dorst daer <rhyme label="a" type="f" corresp="#s3:l1">me</rhyme>,</l>
+        <l id="s3:l4" met="2" type="-+">Om fris te <rhyme label="b" type="m" corresp="#s3:l2">zyn</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Want een fontein van koelen <rhyme label="c" type="m">wyn</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">Smaeckt beter als <rhyme label="d" type="f">water</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">De Pelgrims moeten vroielijck <rhyme label="c" type="m" corresp="#s3:l5">zyn</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">Ick brenght u <rhyme label="d" type="f" corresp="#s3:l6">confrater</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Neemt voor een calebas in u <rhyme label="a" type="f">hant</rhyme>,</l>
+        <l id="s4:l2" met="2" type="-+">Een fles met <rhyme label="b" type="m">wyn</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">En giet dat nat al door de <rhyme label="a" type="f" corresp="#s4:l1">tandt</rhyme>,</l>
+        <l id="s4:l4" met="2" type="-+">Om fris te <rhyme label="b" type="m" corresp="#s4:l2">syn</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Dan gaen wy naer Galitien <rhyme label="c" type="m">toe</rhyme>,</l>
+        <l id="s4:l6" met="2" type="-+">Om ons te <rhyme label="d" type="f">helpen</rhyme>,</l>
+        <l id="s4:l7" met="4" type="-+">Een fles met wyn die houd veel <rhyme label="c" type="m" corresp="#s4:l5">meer</rhyme>,</l>
+        <l id="s4:l8" met="2" type="-+">Als twee sint Jacobs <rhyme label="d" type="f" corresp="#s4:l6">schelpen</rhyme>,</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Den waghen van ons <rhyme label="a" type="f">Pelgrimasie</rhyme></l>
+        <l id="s5:l2" met="2" type="-+">Moet syn <rhyme label="b" type="m">ghesmeert</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Ons teergeelt moet met goe <rhyme label="a" type="f" corresp="#s5:l1">coragie</rhyme>,</l>
+        <l id="s5:l4" met="2" type="-+">Syn op <rhyme label="b" type="m" corresp="#s5:l2">gheteert</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">Dan sal de waghen op de <rhyme label="c" type="m">baen</rhyme>,</l>
+        <l id="s5:l6" met="2" type="-+">Van selfs voort <rhyme label="d" type="f">rollen</rhyme>,</l>
+        <l id="s5:l7" met="4" type="-+">Dan sullen wy Pelgrims naer huys <rhyme label="c" type="m" corresp="#s5:l5">gaen</rhyme></l>
+        <l id="s5:l8" met="2" type="-+">Als onsen buyck is <rhyme label="d" type="f" corresp="#s5:l6">volle</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Vonden wy op S. Jacobs <rhyme label="a" type="f">reyse</rhyme>,</l>
+        <l id="s6:l2" met="2" type="-+">Den dis <rhyme label="b" type="m">ghedeckt</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Geen Pelgrims souden op teirgelt <rhyme label="a" type="f" corresp="#s6:l1">peisen</rhyme></l>
+        <l id="s6:l4" met="2" type="-+">Op hun <rhyme label="b" type="m" corresp="#s6:l2">vertreck</rhyme>,</l>
+        <l id="s6:l5" met="4" type="-+">Waert in galitien soo al <rhyme label="c" type="m">hier</rhyme>,</l>
+        <l id="s6:l6" met="2" type="-+">Ons quaeste <rhyme label="d" type="f">daghen</rhyme>,</l>
+        <l id="s6:l7" met="4" type="-+">Geen Pelgrims soudẽ Calbas noch <rhyme label="c" type="m" corresp="#s6:l5">mael</rhyme></l>
+        <l id="s6:l8" met="2" type="-+">Beouven me te <rhyme label="d" type="f" corresp="#s6:l6">draghen</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Wy hebben gereyst door verre <rhyme label="a" type="f">wegẽ</rhyme></l>
+        <l id="s7:l2" met="2" type="-+">Daer wy nu <rhyme label="b" type="m">syn</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">k'En proefde noyt van my <rhyme label="a" type="f" corresp="#s7:l1">leven</rhyme>,</l>
+        <l id="s7:l4" met="2" type="-+">beteren <rhyme label="b" type="m" corresp="#s7:l2">wyn</rhyme>,</l>
+        <l id="s7:l5" met="4" type="-+">Als sy ons met een goet jonst <rhyme label="c" type="m">hert</rhyme>,</l>
+        <l id="s7:l6" met="2" type="-+">Ons wort <rhyme label="d" type="f">geschonken</rhyme>,</l>
+        <l id="s7:l7" met="4" type="-+">Op de gesondtheyt vanden <rhyme label="c" type="m" corresp="#s7:l5">weert</rhyme>,</l>
+        <l id="s7:l8" met="2" type="-+">Moet syn <rhyme label="d" type="f" corresp="#s7:l6">gedroncken</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Oorlof Pelgrims voor het <rhyme label="a" type="f">lest</rhyme>,</l>
+        <l id="s8:l2" met="2" type="-+">Neemt dit in <rhyme label="b" type="m">danck</rhyme>,</l>
+        <l id="s8:l3" met="4" type="-+">Ick raede een ygelyck voor het <rhyme label="a" type="f" corresp="#s8:l1">best</rhyme>,</l>
+        <l id="s8:l4" met="2" type="-+">Keert naer u <rhyme label="b" type="m" corresp="#s8:l2">landt</rhyme>,</l>
+        <l id="s8:l5" met="4" type="-+">Dan sullen wy wel al soo <rhyme label="c" type="m">ras</rhyme>,</l>
+        <l id="s8:l6" met="2" type="-+">Naer huys toe <rhyme label="d" type="f">daelen</rhyme>,</l>
+        <l id="s8:l7" met="4" type="-+">Dan sullen wy drincken op ons <rhyme label="c" type="m" corresp="#s8:l5">gemaeck</rhyme></l>
+        <l id="s8:l8" met="2" type="-+">Uyt kannen en uyt <rhyme label="d" type="f" corresp="#s8:l6">schaelen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

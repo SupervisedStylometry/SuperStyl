@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20029</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Nadien uw goddelijkheid</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">SIet waerde <rhyme label="a" type="m">Roselijn</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Hoe ick gestadigh <rhyme label="a" type="m" corresp="#s1:l1">quijn</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Door uwe vlam <rhyme label="b" type="f">ontsteecken</rhyme>:</l>
+        <l id="s1:l4" met="3" type="-+">Hoe uyt mijn <rhyme label="c" type="m">Oogen-badt</rhyme></l>
+        <l id="s1:l5" met="3" type="+-">Langhs de wangen komt <rhyme label="b" type="f" corresp="#s1:l3">leken</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Bigg’lend, het ziltigh <rhyme label="c" type="m" corresp="#s1:l4">nat</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ach! dat u Ooge <rhyme label="a" type="m">siet</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Dees droeve tranen <rhyme label="a" type="m" corresp="#s2:l1">vliet</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">En niet een traen laet <rhyme label="b" type="f">tranen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Sluyt dan de kille <rhyme label="c" type="m">kouw</rhyme></l>
+        <l id="s2:l5" met="3" type="+-">Vwe tranende <rhyme label="b" type="f" corresp="#s2:l3">banen</rhyme>?</l>
+        <l id="s2:l6" met="3" type="-+">Of zijt ghy sonder <rhyme label="c" type="m" corresp="#s2:l4">rouw</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Neen, want een sagte <rhyme label="a" type="m">sugt</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Dickwils u borst <rhyme label="a" type="m" corresp="#s3:l1">ontvlucht</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Die kan getuyge <rhyme label="b" type="f">wesen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Dat in u killigh <rhyme label="c" type="m">hert</rhyme>,</l>
+        <l id="s3:l5" met="3" type="+-">Nu een vonck is <rhyme label="b" type="f" corresp="#s3:l3">geresen</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Van mede <rhyme label="c" type="m" corresp="#s3:l4">Minne-smert</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Sal ‘k dan de reden <rhyme label="a" type="m">raen</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Waerom ghy mijn <rhyme label="a" type="m" corresp="#s4:l1">getraen</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Steets ziet met drooge <rhyme label="b" type="f">Oogen</rhyme>?</l>
+        <l id="s4:l4" met="3" type="-+">Het is uw <rhyme label="c" type="m">oogen-gloed</rhyme></l>
+        <l id="s4:l5" met="3" type="+-">Die u tranen doet <rhyme label="b" type="f" corresp="#s4:l3">droogen</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">En niet u kil <rhyme label="c" type="m" corresp="#s4:l4">ghemoet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

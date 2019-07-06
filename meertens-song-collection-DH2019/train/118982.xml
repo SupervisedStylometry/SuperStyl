@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>118982</id>
+    <date>
+      <year-start>1745</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="amusement">vermaak</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Es war einmahl un bon <rhyme label="a" type="m">Galant</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Avec un Dame de <rhyme label="b" type="m">cours</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Es war ein braver <rhyme label="a" type="m" corresp="#s1:l1">Cortisan</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Est el un Dame <rhyme label="b" type="m" corresp="#s1:l2">d'amours</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">En compagnies pour ce <rhyme label="c" type="m">divertir</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Dans un fort beaux <rhyme label="d" type="m">Jardin</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Sie truncken dar ein glaslein <rhyme label="c" type="m" corresp="#s1:l5">bier</rhyme>/</l>
+        <l id="s1:l8" met="3" type="-+">Avec un verre du <rhyme label="d" type="m" corresp="#s1:l6">vin</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Sie hubten da die libes <rhyme label="a" type="m">lust</rhyme>/</l>
+        <l id="s2:l2" met="3" type="-+">Le jeu de <rhyme label="b" type="m">Cupidon</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Sie liebten sig nach iren <rhyme label="a" type="m" corresp="#s2:l1">lust</rhyme>/</l>
+        <l id="s2:l4" met="3" type="-+">Se faisant tout de <rhyme label="b" type="m" corresp="#s2:l2">bon</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Aus hupsen mond und hertzens <rhyme label="c" type="m">grund</rhyme>/</l>
+        <l id="s2:l6" met="3" type="-+">De mille &amp; mille <rhyme label="d" type="m">fois</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Er that ihr das igh weis nicht <rhyme label="c" type="m" corresp="#s2:l5">was</rhyme>/</l>
+        <l id="s2:l8" met="3" type="-+">Elle sait mieux que <rhyme label="d" type="m" corresp="#s2:l6">moy</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Fruh murgens ging er weg von <rhyme label="a" type="m">hier</rhyme>/</l>
+        <l id="s3:l2" met="3" type="-+">En la disant a <rhyme label="b" type="m">Dieu</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Sie sagte bleib doch noch bey <rhyme label="a" type="m" corresp="#s3:l1">mir</rhyme>/</l>
+        <l id="s3:l4" met="3" type="-+">Je vous en prie <rhyme label="b" type="m" corresp="#s3:l2">Monsieur</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Er sagte nein es kan nicht <rhyme label="c" type="m">syn</rhyme>/</l>
+        <l id="s3:l6" met="3" type="-+">Je vous le dit mon <rhyme label="d" type="m">coeur</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Je suis contant nich mier <rhyme label="c" type="m" corresp="#s3:l5">pasan</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Je suis ton <rhyme label="d" type="m" corresp="#s3:l6">Serviteur</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

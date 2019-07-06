@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2682</id>
+    <date>
+      <year-start>1657</year-start>
+      <year-end>1657</year-end>
+    </date>
+    <location>
+      <orginal-name>harderwijk</orginal-name>
+      <standard-name>Harderwijk, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.347402</lon>
+        <lat>5.6291317</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 117 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GHy Heydenen looft tsaem den <rhyme label="a" type="m">Heer</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Ghy volekeren bewyst hem <rhyme label="a" type="m" corresp="#s1:l1">eer</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Want groot is syn genade <rhyme label="b" type="m">goet</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Over ons al in <rhyme label="b" type="m" corresp="#s1:l3">overvloet</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Bestendich is oock syn <rhyme label="c" type="m">waerheyt</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Over ons in der <rhyme label="c" type="m" corresp="#s1:l5">eeuwicheyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

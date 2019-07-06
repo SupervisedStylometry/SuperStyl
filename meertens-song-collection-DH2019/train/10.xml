@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+    </tags>
+    <melody>Laura zat laatst bij de beek</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">ROsemonde lieve <rhyme label="a" type="m">maegt</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Hoe ist Damon wat salt <rhyme label="b" type="f">wesen</rhyme>?</l>
+        <l id="s1:l3" met="4" type="+-">Siet ghy niet wie u <rhyme label="a" type="m" corresp="#s1:l1">najaegt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Ja dat sag ick lang voor <rhyme label="b" type="f" corresp="#s1:l2">desen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Rosemont mijn uyt <rhyme label="b" type="f" corresp="#s1:l2">gelesen</rhyme>:</l>
+        <l id="s1:l6" met="4" type="+-">Keert u Hertje eens tot <rhyme label="c" type="m">mijn</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Neen geen klachten wil ick <rhyme label="d" type="f">hooren</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Quam u eens ontrou te <rhyme label="d" type="f" corresp="#s1:l7">vooren</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">Waerom t' vluchten <rhyme label="c" type="m" corresp="#s1:l6">Nimphelijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Om te schouwen <rhyme label="a" type="m">minne-brant</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">'t Branden sal u hert noyt <rhyme label="b" type="f">schaden</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">'k Vlie van sulck een swaren <rhyme label="a" type="m" corresp="#s2:l1">bant</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Vliet niet gunt mijn u <rhyme label="b" type="f" corresp="#s2:l2">genaden</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Laet u geest u anders <rhyme label="b" type="f" corresp="#s2:l2">raden</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Raden, 'k raden noyt als <rhyme label="c" type="m">nu</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">Mijn daer soo veel maegden <rhyme label="d" type="f">binne</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">U mijn suyv're <rhyme label="d" type="f" corresp="#s2:l7">Godinne</rhyme></l>
+        <l id="s2:l9" met="4" type="+-">Te winne door mijn trouwe <rhyme label="c" type="m" corresp="#s2:l6">trou</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Keert u ooge jongen <rhyme label="a" type="m">Helt</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Ja na u mijn waerste <rhyme label="b" type="f">Engel</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Mijn vryen uyt u sinne <rhyme label="a" type="m" corresp="#s3:l1">stelt</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Hoe van haer na wien ick <rhyme label="b" type="f" corresp="#s3:l2">hengel</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">Mijn liefd' ick met geen liefde <rhyme label="b" type="f" corresp="#s3:l2">mengel</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Hoe kent sijn mijn <rhyme label="c" type="m">Rosemont</rhyme></l>
+        <l id="s3:l7" met="4" type="+-">'k Vlie ay laet u nimmer <rhyme label="d" type="f">praten</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">Nochtans sal ick noyt <rhyme label="d" type="f" corresp="#s3:l7">verlaten</rhyme>,</l>
+        <l id="s3:l9" met="4" type="+-">Die mijn Hertje heeft door <rhyme label="c" type="m" corresp="#s3:l6">wont</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

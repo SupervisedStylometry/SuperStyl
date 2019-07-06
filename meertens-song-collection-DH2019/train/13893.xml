@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13893</id>
+    <date>
+      <year-start>1646</year-start>
+      <year-end>1646</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Schoonste nimf van het woud</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">POurqoy tournez vous vos <rhyme label="a" type="m">yeux</rhyme>,</l>
+        <l id="s1:l2" met="2" type="+-"><rhyme label="a" type="m" corresp="#s1:l1">Gratieux</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">De moy quand voulez <rhyme label="b" type="f">m’occire</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Comme si n’auiez <rhyme label="c" type="m">pouvoir</rhyme>,</l>
+        <l id="s1:l5" met="2" type="+-">Par me <rhyme label="c" type="m" corresp="#s1:l4">voir</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">D’un seul regard me <rhyme label="b" type="f" corresp="#s1:l3">destruire</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Las! vous faites <rhyme label="a" type="m">afin</rhyme>.</l>
+        <l id="s2:l2" met="2" type="+-">Que ma <rhyme label="a" type="m" corresp="#s2:l1">fin</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Ne me semblast bien <rhyme label="b" type="f">heureuse</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Si j’allois en <rhyme label="c" type="m">perissant</rhyme>,</l>
+        <l id="s2:l5" met="2" type="+-"><rhyme label="c" type="m" corresp="#s2:l4">Jouissant</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">De vostre oeillade <rhyme label="b" type="f" corresp="#s2:l3">amoureuse</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Mais quoy? vous abusez <rhyme label="a" type="m">fort</rhyme>,</l>
+        <l id="s3:l2" met="2" type="+-">Ceste <rhyme label="a" type="m" corresp="#s3:l1">mort</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Que vous semble tant <rhyme label="b" type="f">cruelle</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Me semble un gaing de <rhyme label="c" type="m">bonheur</rhyme>,</l>
+        <l id="s3:l5" met="2" type="+-">Pour <rhyme label="c" type="m" corresp="#s3:l4">l’honneur</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">De vous qui estes si <rhyme label="b" type="f" corresp="#s3:l3">belle</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

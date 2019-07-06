@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1680</id>
+    <date>
+      <year-start>1544</year-start>
+      <year-end>1544</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Te Brunswijk staat een stenen huis</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">IC rede een mael in een bossche <rhyme label="a" type="m">dal</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Ic vant gescreuen <rhyme label="a" type="m" corresp="#s1:l1">oueral</rhyme>.</l>
+        <l id="s1:l3" met="3" type="-+">Hoe dat een schoon maechdeken <rhyme label="b" type="f">waer</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Te Bruynswijck staet een hooghe <rhyme label="c" type="m">huys</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">daer ic so gaerne <rhyme label="b" type="f" corresp="#s1:l3">waer</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Te Bruynswijck staet een hooge <rhyme label="a" type="m">huys</rhyme>.</l>
+        <l id="s2:l2" met="4" type="-+">Daer siet een fijn maecht ter veynster <rhyme label="a" type="m" corresp="#s2:l1">wt</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Met haer bruyn oogen <rhyme label="b" type="f">claer</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">de selfde maecht wil ic <rhyme label="c" type="m">hebben</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">Tcost mi wat het <rhyme label="b" type="f" corresp="#s2:l3">wil</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Si sach mi ouerde oxel <rhyme label="a" type="m">an</rhyme>.</l>
+        <l id="s3:l2" met="4" type="-+">Si seyt ic waer geen edel <rhyme label="a" type="m" corresp="#s3:l1">man</rhyme> |</l>
+        <l id="s3:l3" met="3" type="-+">Ic en waer niet haer <rhyme label="b" type="f">gelike</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Si wil hebben een edel <rhyme label="c" type="m">man</rhyme>.</l>
+        <l id="s3:l5" met="3" type="-+">Een schoon ende ooc een <rhyme label="b" type="f" corresp="#s3:l3">rijcke</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Joncfrouken laet mi <rhyme label="a" type="m">onbeghect</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Ic ben mijns goets een arm <rhyme label="a" type="m" corresp="#s4:l1">knecht</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Ic waer wel ws <rhyme label="b" type="f">gelijcke</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Een rijc coopman wort wel <rhyme label="c" type="m">arm</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Een arm lantsknecht wort wel <rhyme label="b" type="f" corresp="#s4:l3">rijcke</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Adieu ioncfrouwe ic vaert daer <rhyme label="a" type="m">heer</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Ic sette v al in mijn <rhyme label="a" type="m" corresp="#s5:l1">deer</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">door eenen roosen <rhyme label="b" type="f">gaerde</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Daer sal ick v wachten een cleyne <rhyme label="c" type="m">wijl</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">daer sal ick v <rhyme label="b" type="f" corresp="#s5:l3">verwachten</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Die dit liedeken eerstwerf <rhyme label="a" type="m">sanck</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Een vroom lantsknecht is hi <rhyme label="a" type="m" corresp="#s6:l1">ghenaemt</rhyme>.</l>
+        <l id="s6:l3" met="3" type="-+">Hi heuet wel <rhyme label="b" type="f">ghesonghen</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Hi drinct veel lieuer den coelen <rhyme label="c" type="m">wijn</rhyme></l>
+        <l id="s6:l5" met="3" type="-+">Dan twater wter <rhyme label="b" type="f" corresp="#s6:l3">donnen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

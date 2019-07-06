@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10294</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Het vinnige stralen van de zon</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Soo dra als Cloris haer liet <rhyme label="a" type="m">sien</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Begaf ick my tot <rhyme label="b" type="f">jaghen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Dies Sylvia zaeght ghy my <rhyme label="a" type="m" corresp="#s1:l1">vlien</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Soo laeght ghy onder <rhyme label="b" type="f" corresp="#s1:l2">d'hagen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

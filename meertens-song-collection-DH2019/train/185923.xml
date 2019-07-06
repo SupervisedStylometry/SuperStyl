@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185923</id>
+    <date>
+      <year-start>1790</year-start>
+      <year-end>1790</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Hoor de toon der nachtegalen</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Hoor de toon der <rhyme label="a" type="f">Nagtegalen</rhyme>?</l>
+        <l id="s1:l2" met="4" type="+-">Nu eens ryzen, dan eens <rhyme label="a" type="f" corresp="#s1:l1">dalen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Niets verwint de schelle <rhyme label="b" type="m">keel</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Van de kleyne <rhyme label="b" type="m" corresp="#s1:l3">Filameel</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">Al de Boomen krygen <rhyme label="c" type="f">ooren</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Als zy haer Gezang doet <rhyme label="c" type="f" corresp="#s1:l5">hooren</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Al de Bloemen al de <rhyme label="d" type="m">Blaen</rhyme>!</l>
+        <l id="s1:l8" met="4" type="+-">Ziet men zelfs verwondert <rhyme label="d" type="m" corresp="#s1:l7">staen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O hoe lieffelyk kweelt haer <rhyme label="a" type="f">kroppie</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Hoe verheft ze 't moedig <rhyme label="a" type="f" corresp="#s2:l1">koppie</rhyme>;</l>
+        <l id="s2:l3" met="4" type="+-">Als ze zingt op eenen <rhyme label="b" type="m">tak</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Door 't verdekt bladerent <rhyme label="b" type="m" corresp="#s2:l3">dak</rhyme>;</l>
+        <l id="s2:l5" met="4" type="+-">Als de Galm komt Lugtwaers <rhyme label="c" type="f">stygen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Doet zy al de Vogels <rhyme label="c" type="f" corresp="#s2:l5">swygen</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Zy verwint al 't <rhyme label="d" type="m">Pluijm-Gediert</rhyme>;</l>
+        <l id="s2:l8" met="4" type="+-">Dat door digte Telgen <rhyme label="d" type="m" corresp="#s2:l7">swiert</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Dog schoon zy met haeren <rhyme label="a" type="f">toonen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Yder kan na Buyten <rhyme label="a" type="f" corresp="#s3:l1">troonen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Myn Beminde <rhyme label="b" type="m">Clorimeen</rhyme>!</l>
+        <l id="s3:l4" met="4" type="-+">Kan met haer in 't struydperk <rhyme label="b" type="m" corresp="#s3:l3">treen</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Ja zy gaet haer ver te <rhyme label="c" type="f">booven</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Zy kan al haer luyster <rhyme label="c" type="f" corresp="#s3:l5">dooven</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Want hy sprak met blyder <rhyme label="d" type="m">zin</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">Damon is het die ik <rhyme label="d" type="m" corresp="#s3:l7">min</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174792</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Lelie, met uw wit <rhyme label="a" type="m">gewaad</rhyme>!</l>
+        <l id="s1:l2" met="4" type="+-">Roosje, met uw purpren <rhyme label="b" type="f">hoedje</rhyme>!</l>
+        <l id="s1:l3" met="4" type="+-">De arme knaap en 't meisje <rhyme label="b" type="f" corresp="#s1:l2">groet-je</rhyme>...</l>
+        <l id="s1:l4" met="4" type="+-">En ze vinden, <rhyme label="a" type="m" corresp="#s1:l1">inderdaad</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Dat uw tooi u prachtig <rhyme label="a" type="m" corresp="#s1:l1">staat</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Ziet de knaap zijn halfsleets <rhyme label="a" type="m">buis</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Digt bezaaid met menig <rhyme label="b" type="f">lapje</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Ziet het meisjen op haar <rhyme label="b" type="f" corresp="#s2:l2">kapje</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Hier vol gleedjes, - daar vol <rhyme label="a" type="m" corresp="#s2:l1">pluis</rhyme>...</l>
+        <l id="s2:l5" met="4" type="+-">Half bedroefd gaan zij naar <rhyme label="a" type="m" corresp="#s2:l1">huis</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Maar als moeder dáár, zoo <rhyme label="a" type="m">blij</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Zit te naaijen en te <rhyme label="b" type="f">stikken</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Om die plunjes op te <rhyme label="b" type="f" corresp="#s3:l2">flikken</rhyme>, -</l>
+        <l id="s3:l4" met="4" type="+-">Bloempjes! och dan vinden <rhyme label="a" type="m" corresp="#s3:l1">wij</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">Ons gelukkiger dan <rhyme label="a" type="m" corresp="#s3:l1">gij</rhyme>!</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Of men veel of weinig <rhyme label="a" type="m">heeft</rhyme>....</l>
+        <l id="s4:l2" met="4" type="+-">Ieder kunnen wij <rhyme label="b" type="f">behagen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Als wij knap en dankbaar <rhyme label="b" type="f" corresp="#s4:l2">dragen</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Wat de hand der liefde ons <rhyme label="a" type="m" corresp="#s4:l1">geeft</rhyme>; -</l>
+        <l id="s4:l5" met="4" type="+-">Of men veel of weinig <rhyme label="a" type="m" corresp="#s4:l1">heeft</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

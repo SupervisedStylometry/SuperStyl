@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26589</id>
+    <date>
+      <year-start>1599</year-start>
+      <year-end>1599</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 008 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Karel van Mander</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">ALle die daer op den Heere <rhyme label="a" type="f">gepresen</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Hopen eenpaer, die en sullen midts <rhyme label="a" type="f" corresp="#s1:l1">desen</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">Niet vallen, maer blijuen eeuwich <rhyme label="b" type="m">saysoen</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Onwanckelbaer, gelijc als den bergh <rhyme label="b" type="m" corresp="#s1:l3">Zioen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Int pleyne velt, Ierusalem <rhyme label="a" type="f">becleuen</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Staet al omstelt, met die berghen <rhyme label="a" type="f" corresp="#s2:l1">verheuen</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Den Heer int crijt rontom sijn volc oock <rhyme label="b" type="m">is</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Van nu ter tijt, tot in eeuwicheyt <rhyme label="b" type="m" corresp="#s2:l3">ghewis</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Want niet en sal, t'Godtlooser Cepter <rhyme label="a" type="f">blijuen</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Om ouer t'smal, rechtveerdich hoopken <rhyme label="a" type="f" corresp="#s3:l1">drijuen</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Op dat yemant, van die vroom zijn <rhyme label="b" type="m">bekent</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Doch met de hant, tot ongerechticheyt <rhyme label="b" type="m" corresp="#s3:l3">went</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Heere doet wel, die goede herten <rhyme label="a" type="f">vrome</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Maer die rebel, wijcken op wegen <rhyme label="a" type="f" corresp="#s4:l1">cromme</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">De Heer sal haer, met die quaet doenders <rhyme label="b" type="m">fel</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">Wech drijuen, vrede zy ouer <rhyme label="b" type="m" corresp="#s4:l3">Israel</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

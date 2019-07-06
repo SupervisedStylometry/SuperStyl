@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182499</id>
+    <date>
+      <year-start>1793</year-start>
+      <year-end>1793</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Zullen dan mijn droeve klachten</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Ag hoe schoon, van wat <rhyme label="a" type="f">vermogen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Is Rosma schoonheid <rhyme label="b" type="m">uit</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Yder een staet <rhyme label="a" type="f" corresp="#s1:l1">opgetogen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Als men haer verschynen <rhyme label="b" type="m" corresp="#s1:l2">ziet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Als men zomtyds haer ziet <rhyme label="a" type="f">blosen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Toont natuur aen hare <rhyme label="b" type="m">kragt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Zy is gelyk de verse <rhyme label="a" type="f" corresp="#s2:l1">rosen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Die ooit op 't velt zyn <rhyme label="b" type="m" corresp="#s2:l2">voortgebragt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Maer zal 't Roosje weeldrig <rhyme label="a" type="f">groeijen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Door natuur zo fraai <rhyme label="b" type="m">geteelt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">'t Word indien 't wel zal <rhyme label="a" type="f" corresp="#s3:l1">bloeijen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Zagjes door de wind <rhyme label="b" type="m" corresp="#s3:l2">gestreelt</rhyme>,</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">'t Is niet Vrouwe als myn <rhyme label="a" type="f">Bloemen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Liefde streelt haer als de <rhyme label="b" type="m">wind</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Om 'er een regt zo te <rhyme label="a" type="f" corresp="#s4:l1">noemen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Word verciert dat zy <rhyme label="b" type="m" corresp="#s4:l2">bemind</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

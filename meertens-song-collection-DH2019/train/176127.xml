@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176127</id>
+    <date>
+      <year-start>1640</year-start>
+      <year-end>1640</year-end>
+    </date>
+    <location>
+      <orginal-name>deventer</orginal-name>
+      <standard-name>Deventer, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.2532272</lon>
+        <lat>6.1584725</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 128 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacobus Revius</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">HY heeft geluck en <rhyme label="a" type="f">segen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Die God den Heere <rhyme label="b" type="m">vreest</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">En gaet in syne <rhyme label="a" type="f" corresp="#s1:l1">wegen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Met yverigen <rhyme label="b" type="m" corresp="#s1:l2">geest</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Genoechsaem suldy <rhyme label="c" type="f">eten</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Van uwer handen <rhyme label="d" type="m">vlijt</rhyme>.</l>
+        <l id="s1:l7" met="3" type="-+">Wel-salich moetty <rhyme label="c" type="f" corresp="#s1:l5">heeten</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Wiens arbeyt soo <rhyme label="d" type="m" corresp="#s1:l6">gedij't</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">V wijf gelijck sal <rhyme label="a" type="f">wesen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Trou-hertich ende <rhyme label="b" type="m">cuys</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Een wijnstock <rhyme label="a" type="f" corresp="#s2:l1">uytgelesen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Ter zijden aen u <rhyme label="b" type="m" corresp="#s2:l2">huys</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">V dochters ende <rhyme label="c" type="f">soonen</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Als oly-spruyten <rhyme label="d" type="m">groen</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">V tafel sullen <rhyme label="c" type="f" corresp="#s2:l5">croonen</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">En u vermaeck <rhyme label="d" type="m" corresp="#s2:l6">aendoen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Soo heerlijcken <rhyme label="a" type="f">genade</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Ontfangt van boven, <rhyme label="b" type="m">die</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Sorchvuldelijck slaet <rhyme label="a" type="f" corresp="#s3:l1">gade</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Dat hy den Heer <rhyme label="b" type="m" corresp="#s3:l2">ontsie</rhyme>.</l>
+        <l id="s3:l5" met="3" type="-+">De Heer uyt Sion <rhyme label="c" type="f">heylich</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Schenckt u dat groote <rhyme label="d" type="m">goet</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Dat ghy aenschouwet <rhyme label="c" type="f" corresp="#s3:l5">veylich</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Ierusalems <rhyme label="d" type="m" corresp="#s3:l6">voorspoet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

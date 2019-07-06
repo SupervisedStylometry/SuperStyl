@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3728</id>
+    <date>
+      <year-start>1566</year-start>
+      <year-end>1566</year-end>
+    </date>
+    <location>
+      <orginal-name>heidelberg</orginal-name>
+      <standard-name>Heidelberg, Germany</standard-name>
+      <coordinates>
+        <lon>49.4093582</lon>
+        <lat>8.694724</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 125 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DIE op den Heere vast <rhyme label="a" type="f">betrauwen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Die sullen niet <rhyme label="b" type="m">vergaen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Maer eewigh blyuen <rhyme label="b" type="m" corresp="#s1:l2">staen</rhyme>:</l>
+        <l id="s1:l4" met="4" type="-+">Iae so vast' in allen <rhyme label="a" type="f" corresp="#s1:l1">benauwen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Als die berghen van Zion <rhyme label="c" type="f">pleghen</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Son-der <rhyme label="c" type="f" corresp="#s1:l5">beweghen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ghelyck Ierusalem <rhyme label="a" type="f">rontsommen</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Met berghen is <rhyme label="b" type="m">bevrydt</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">So sal oock t'aller <rhyme label="b" type="m" corresp="#s2:l2">tydt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Godt sijn kindren te hulpe <rhyme label="a" type="f" corresp="#s2:l1">kommen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">In haeren noot, nae sijn <rhyme label="c" type="f">oorkonden</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">Tot allen <rhyme label="c" type="f" corresp="#s2:l5">stonden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Godt sal t'leuen niet altydt <rhyme label="a" type="f">laeten</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Der sijner, in der <rhyme label="b" type="m">handt</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Van den wreeden <rhyme label="b" type="m" corresp="#s3:l2">Tyrant</rhyme>:</l>
+        <l id="s3:l4" met="4" type="-+">Op dat hen die vrome niet <rhyme label="a" type="f" corresp="#s3:l1">gheuen</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Tot quaet, end die handt niet <rhyme label="c" type="f">wtsteken</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">Tot veel <rhyme label="c" type="f" corresp="#s3:l5">ghebreken</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Helpt Heer' die vrome vroegh end <rhyme label="a" type="f">spaede</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Maer straft die menschen <rhyme label="b" type="m">loos</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Die gaen in weghen <rhyme label="b" type="m" corresp="#s4:l2">boos</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Met hen die lust hebben in <rhyme label="a" type="f" corresp="#s4:l1">quaede</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Doch Israel sal hebben <rhyme label="c" type="f">vrede</rhyme>,</l>
+        <l id="s4:l6" met="2" type="-+">End voorspoet <rhyme label="c" type="f" corresp="#s4:l5">mede</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

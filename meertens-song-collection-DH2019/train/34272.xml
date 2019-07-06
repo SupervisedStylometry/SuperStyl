@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34272</id>
+    <date>
+      <year-start>1650</year-start>
+      <year-end>1650</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Gallas il n'est pas à propos</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Jan Mommaert</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GOdt groet u Broeders van den <rhyme label="a" type="m">wijn</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Laet nu de droefheydt <rhyme label="b" type="f">varen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">En wilt den wijn niet <rhyme label="b" type="f" corresp="#s1:l2">sparen</rhyme>:</l>
+        <l id="s1:l4" met="4" type="-+">Want wy willen hier vrolijck <rhyme label="a" type="m" corresp="#s1:l1">zijn</rhyme>.</l>
+        <l id="s1:l5" met="6" type="-+">Het is den wijn, als hy ons raeckt // vrolijck <rhyme label="c" type="m">maeckt</rhyme>;</l>
+        <l id="s1:l6" met="2" type="-+">Daerom wilt hem <rhyme label="d" type="f">eeren</rhyme>;</l>
+        <l id="s1:l7" met="4" type="-+">De liefde soet // in ons <rhyme label="e" type="m">gemoedt</rhyme></l>
+        <l id="s1:l8" met="2" type="+-">Deught groeyen <rhyme label="e" type="m" corresp="#s1:l7">doet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Den Roomer met dat edel <rhyme label="a" type="m">nat</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Wilt nu eens <rhyme label="b" type="f">omme-drincken</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">En soetjens laten <rhyme label="b" type="f" corresp="#s2:l2">sincken</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">In ons verheven Bacchus <rhyme label="a" type="m" corresp="#s2:l1">vat</rhyme>.</l>
+        <l id="s2:l5" met="6" type="-+">Het is den wijn, als hy ons raeckt // vrolijck <rhyme label="c" type="m">maeckt</rhyme>:</l>
+        <l id="s2:l6" met="2" type="-+">Daerom wilt hem <rhyme label="d" type="f">eeren</rhyme>;</l>
+        <l id="s2:l7" met="4" type="-+">De liefde soet // in ons <rhyme label="e" type="m">gemoedt</rhyme></l>
+        <l id="s2:l8" met="2" type="+-">Deught groeyen <rhyme label="e" type="m" corresp="#s2:l7">doet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Sou hier wel yemandt van ons <rhyme label="a" type="m">al</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Soo stout’lijck derven <rhyme label="b" type="f">spreken</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Dat druyven nat <rhyme label="b" type="f" corresp="#s3:l2">gebreken</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Ick segh dat hy ons smaken <rhyme label="a" type="m" corresp="#s3:l1">sal</rhyme>.</l>
+        <l id="s3:l5" met="6" type="-+">Het is den wijn, als hy ons raeckt // vrolijck <rhyme label="c" type="m">maeckt</rhyme>:</l>
+        <l id="s3:l6" met="2" type="-+">Daerom wilt hem <rhyme label="d" type="f">eeren</rhyme>;</l>
+        <l id="s3:l7" met="4" type="-+">Dus drinckt met lust, met lust, met <rhyme label="e" type="m">lust</rhyme>,</l>
+        <l id="s3:l8" met="2" type="+-">Tot dat gy <rhyme label="e" type="m" corresp="#s3:l7">rust</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

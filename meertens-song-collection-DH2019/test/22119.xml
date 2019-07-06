@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22119</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Es spricht der unweise Mund wohl</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ICk segghe wt mijnder herten <rhyme label="a" type="m">grondt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Dat de Godloos niet en vreest <rhyme label="b" type="f">Godt</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Hy spreect wel seer schoon metten <rhyme label="a" type="m" corresp="#s1:l1">mont</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Maer en vraecht niet nae Godts <rhyme label="b" type="f" corresp="#s1:l2">ghebodt</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Den schalck, en tvalsch: dat beschermt <rhyme label="c" type="m">hy</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Gheen recht en wilt hy leeren <rhyme label="c" type="m" corresp="#s1:l5">vry</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Op zijn bedd denckt hy <rhyme label="d" type="f">boosheyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Sy en gaen op gheen rechte <rhyme label="a" type="m">baen</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Nae tquaet sy seer <rhyme label="b" type="f">verlanghen</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">U goetheyt reyckt tot den Hemel <rhyme label="a" type="m" corresp="#s2:l1">aen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Aen den wolken blijftse <rhyme label="b" type="f" corresp="#s2:l2">hanghen</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Glijck een berch is u <rhyme label="c" type="m">rechtuaerdicheyt</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">U ordeel is als een diepte <rhyme label="c" type="m" corresp="#s2:l5">breyt</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Ghy helpt tvolck, en die <rhyme label="d" type="f">beesten</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">O Heer hoe costlijck is u <rhyme label="a" type="m">goetheyt</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Die alle menschen beschermt <rhyme label="b" type="f">fijn</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Die schaey uws vloeghels ons wel <rhyme label="a" type="m" corresp="#s3:l1">beurijdt</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Van uws huys weldaet sy droncken <rhyme label="b" type="f" corresp="#s3:l2">zijn</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Met lustighe watren laeft ghyse <rhyme label="c" type="m">ghewis</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">De Fonteyn des leuens by u <rhyme label="c" type="m" corresp="#s3:l5">is</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">U licht dat gheeft ons het <rhyme label="d" type="f">licht</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Die u kennen, dien bewijst dat <rhyme label="a" type="m">goet</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Den vroomen helpt doch <rhyme label="b" type="f">Heere</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">Maect dat mi niet treed, des hoouaerdgen <rhyme label="a" type="m" corresp="#s4:l1">voet</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Noch sGodloosen handt aenroer <rhyme label="b" type="f" corresp="#s4:l2">seere</rhyme>:</l>
+        <l id="s4:l5" met="4" type="-+">Maer laet de Quaetdoenders vallen <rhyme label="c" type="m">snel</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">En soo verstooten worden <rhyme label="c" type="m" corresp="#s4:l5">fel</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Dat sy niet meer op en <rhyme label="d" type="f">staen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

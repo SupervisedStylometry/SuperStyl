@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185970</id>
+    <date>
+      <year-start>1717</year-start>
+      <year-end>1717</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>O zalig uur o blijde stond</melody>
+  <author>Hermanus van den Burg</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O zalig uur, o blyde <rhyme label="a" type="m">stond</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Fluweele lipjes, zachte <rhyme label="a" type="m" corresp="#s1:l1">mond</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Fluweele lipjes, zachte <rhyme label="a" type="m" corresp="#s1:l1">mond</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

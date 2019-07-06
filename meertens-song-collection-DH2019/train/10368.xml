@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10368</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Houd je rust Tyter</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="+-">Houtje rust, Tyter 't is nu langh <rhyme label="a" type="m">ghenoech</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">ziet den avond <rhyme label="b" type="m">valt</rhyme>,</l>
+        <l id="s1:l3" met="6" type="+-">drijft u vee in de stal, komt morghen <rhyme label="a" type="m" corresp="#s1:l1">vroech</rhyme>,</l>
+        <l id="s1:l4" met="7" type="+-">oeffent dan u lusjes, eer den Albekijker <rhyme label="b" type="m" corresp="#s1:l2">bralt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="+-">Ach Godin sal de soete <rhyme label="a" type="m">avontstont</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">Ons een scheyder <rhyme label="b" type="m">sijn</rhyme></l>
+        <l id="s2:l3" met="6" type="+-">Daer de Min nimmer beter decksel <rhyme label="a" type="m" corresp="#s2:l1">vont</rhyme></l>
+        <l id="s2:l4" met="7" type="+-">Door de Clappers tonghen, ende Satyrs boos <rhyme label="b" type="m" corresp="#s2:l2">Fenijn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="+-">Siet ghy niet, hoe de Schaepjes door <rhyme label="a" type="m">malkaer</rhyme>.</l>
+        <l id="s3:l2" met="3" type="+-">Dwalen in het <rhyme label="b" type="m">groen</rhyme>,</l>
+        <l id="s3:l3" met="6" type="+-">By de vliet, daer de wrede Wolven <rhyme label="a" type="m" corresp="#s3:l1">haer</rhyme></l>
+        <l id="s3:l4" met="7" type="+-">Tot een roof genieten ghy u niet haest wilt <rhyme label="b" type="m" corresp="#s3:l2">spoen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="+-">Soete meyt 'k zal ons schaepgens inde <rhyme label="a" type="m">Koy</rhyme></l>
+        <l id="s4:l2" met="3" type="+-">Dryven metter <rhyme label="b" type="m">haest</rhyme>,</l>
+        <l id="s4:l3" met="6" type="+-">'k Bid verbeyt my een weynigh soete <rhyme label="a" type="m" corresp="#s4:l1">proy</rhyme>,</l>
+        <l id="s4:l4" met="7" type="+-">'k Sal u komen vangen daer gy flus de Roosjes <rhyme label="b" type="m" corresp="#s4:l2">laest</rhyme>,</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="6" type="+-">Tyter saft niet te dertel gaet maer <rhyme label="a" type="m">voort</rhyme></l>
+        <l id="s5:l2" met="3" type="+-">Koytse inder <rhyme label="b" type="m">ijlt</rhyme>,</l>
+        <l id="s5:l3" met="6" type="+-">Keer ter vlucht eer een ander ons <rhyme label="a" type="m" corresp="#s5:l1">bespoort</rhyme>.</l>
+        <l id="s5:l4" met="7" type="+-">En ons koets besoetel in een al soo korte <rhyme label="b" type="m" corresp="#s5:l2">wijl</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="6" type="+-">Lief ick sal hout u in dess <rhyme label="a" type="m">Else-Blaen</rhyme></l>
+        <l id="s6:l2" met="3" type="+-">Tot ick weder <rhyme label="b" type="m">kom</rhyme>,</l>
+        <l id="s6:l3" met="6" type="+-">Uyt het dal daer ick sal ons Schaapjes <rhyme label="a" type="m" corresp="#s6:l1">gaen</rhyme></l>
+        <l id="s6:l4" met="7" type="+-">In haer nacht-rust brengen en dan keeren stracx <rhyme label="b" type="m" corresp="#s6:l2">weerom</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

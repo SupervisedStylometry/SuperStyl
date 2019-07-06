@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>9522</id>
+    <date>
+      <year-start>1650</year-start>
+      <year-end>1650</year-end>
+    </date>
+    <location>
+      <orginal-name>medemblik</orginal-name>
+      <standard-name>Medemblik, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.768691</lon>
+        <lat>5.106195</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Prins Robberts mars</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Hendrick Jansz. Prins</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MYn Lief is wel <rhyme label="a" type="m">vermakelijck</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">De neus en oock het <rhyme label="b" type="m">oogh</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Ja maer niet minder <rhyme label="a" type="m" corresp="#s1:l1">smakelijck</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">De tongh en <rhyme label="b" type="m" corresp="#s1:l2">gagelboogh</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Want als een Appel-boom in 't <rhyme label="c" type="m">Wout</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">De boomen <rhyme label="d" type="m">overmant</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Soo by de Sonen die men <rhyme label="c" type="m" corresp="#s1:l5">schout</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Mijn Lief de kroone <rhyme label="d" type="m" corresp="#s1:l6">spant</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Van sijne schaduw 'treck ick <rhyme label="a" type="m">nutt'</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Dat ick d'er onder <rhyme label="b" type="m">sit</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Sijn scherm' en schildt is mijn <rhyme label="a" type="m" corresp="#s2:l1">beschut</rhyme>:</l>
+        <l id="s2:l4" met="3" type="-+">Sijn vrucht is in 't <rhyme label="b" type="m" corresp="#s2:l2">ghebit</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Een soet spijse voor de <rhyme label="c" type="m">smaeck</rhyme>:</l>
+        <l id="s2:l6" met="3" type="-+">Hy voert my in 't <rhyme label="d" type="m">Wijnen-huys</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Ontsteeckt de Wijnen tot <rhyme label="c" type="m" corresp="#s2:l5">vermaeck</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">En sterckt me teghen <rhyme label="d" type="m" corresp="#s2:l6">kruys</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Syn reyne liefd' is over <rhyme label="a" type="m">my</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Een vendel, een <rhyme label="b" type="m">banier</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Sy maeckt m'en herte vry en <rhyme label="a" type="m" corresp="#s3:l1">bly</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Sy is al mijn <rhyme label="b" type="m" corresp="#s3:l2">bestier</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Sy voert, se leyd', se maeckt me <rhyme label="c" type="m">vast</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Dat van hem ick niet <rhyme label="d" type="m">wijck</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Dat in de strijdt, dat onder <rhyme label="c" type="m" corresp="#s3:l5">last</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Ick nimmermeer <rhyme label="d" type="m" corresp="#s3:l6">beswijck</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

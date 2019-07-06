@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34540</id>
+    <date>
+      <year-start>1720</year-start>
+      <year-end>1720</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
+    </tags>
+    <melody>Hoe lig ik hier in deze ellende</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
+  <author>Jacobus de Ruyter</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WErelt ghy doet my droevigh <rhyme label="a" type="f">klaghen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Als ick sien hoe Fortuyn haer <rhyme label="b" type="m">went</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Eylaes in mijn oude <rhyme label="a" type="f" corresp="#s1:l1">daeghen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Ben ick komen in swaer <rhyme label="b" type="m" corresp="#s1:l2">ellent</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Vreught, en droefheyt van g'heel mijn <rhyme label="c" type="f">leven</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Sal u worden hier recht <rhyme label="c" type="f" corresp="#s1:l5">beschreven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">'k Was Wevenaer ontrent dry <rhyme label="a" type="f">Iaeren</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Ick ben her-trouwt in volle <rhyme label="b" type="m">vreught</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Veel kinders quam ick te <rhyme label="a" type="f" corresp="#s2:l1">vergaeren</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Die voed' ick op in eer en <rhyme label="b" type="m" corresp="#s2:l2">deught</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Ick ded' hun wijsen ende <rhyme label="c" type="f">leeren</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Sorghvuldigh in de vrees des <rhyme label="c" type="f" corresp="#s2:l5">Heeren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Mijn huys-vrouw is doen <rhyme label="a" type="f">overleden</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Naer het verloop van twintigh <rhyme label="b" type="m">Iaer</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Waer door ick quam in veel <rhyme label="a" type="f" corresp="#s3:l1">droefheden</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Met mijn Kinderen alle <rhyme label="b" type="m" corresp="#s3:l2">gaer</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Soo datter in vijf Iaer naer <rhyme label="c" type="f">desen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Meer swarigheyt quam op <rhyme label="c" type="f" corresp="#s3:l5">gheresen</rhyme>,</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ick hadde een seer schoon <rhyme label="a" type="f">menagie</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Veel schoone vruchten op het <rhyme label="b" type="m">landt</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">'t Welck ick regeerde met <rhyme label="a" type="f" corresp="#s4:l1">couragie</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Peerden en Koeyen <rhyme label="b" type="m" corresp="#s4:l2">navenant</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Godt gaf my sijnen milden <rhyme label="c" type="f">zeghen</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">De Fortuyn is my nu g'heel <rhyme label="c" type="f" corresp="#s4:l5">teghen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Fortuyne mocht ick eens <rhyme label="a" type="f">vraghen</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Waerom ghy my den rughe <rhyme label="b" type="m">keert</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Daer ghy my in mijn oude <rhyme label="a" type="f" corresp="#s5:l1">daghen</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Mijn goet beneemt, en <rhyme label="b" type="m" corresp="#s5:l2">affronteert</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">En my veel droefheyt jaeght <rhyme label="c" type="f">verloren</rhyme>,</l>
+        <l id="s5:l6" met="4" type="-+">Ongheluckigh ben ick <rhyme label="c" type="f" corresp="#s5:l5">gheboren</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Met droefheyt gaen ick 't Boeren <rhyme label="a" type="f">staecken</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Men gaet verkoopen al mijn <rhyme label="b" type="m">goet</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Wat sal ick doen om te <rhyme label="a" type="f" corresp="#s6:l1">gheraecken</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Met traenen ick 't beschreyen <rhyme label="b" type="m" corresp="#s6:l2">moet</rhyme>,</l>
+        <l id="s6:l5" met="4" type="-+">Adieu mijn Vrienden in moet <rhyme label="c" type="f">scheyden</rhyme>,</l>
+        <l id="s6:l6" met="4" type="-+">En gaen daer Godt my sal <rhyme label="c" type="f" corresp="#s6:l5">gheleyden</rhyme>,</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Adieu Pastoor en <rhyme label="a" type="f">Prochiaenen</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">Adieu mijn kinderen te <rhyme label="b" type="m">gaer</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Ick moet nu scheyden met veel <rhyme label="a" type="f" corresp="#s7:l1">traenen</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Volght altijdt goet exempel <rhyme label="b" type="m" corresp="#s7:l2">naer</rhyme>,</l>
+        <l id="s7:l5" met="4" type="-+">Bidt Iesus soet, en wilt wel <rhyme label="c" type="f">leven</rhyme>,</l>
+        <l id="s7:l6" met="4" type="-+">Godt sal u sijnen seghen <rhyme label="c" type="f" corresp="#s7:l5">gheven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

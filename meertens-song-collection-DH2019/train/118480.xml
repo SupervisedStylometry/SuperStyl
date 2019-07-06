@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>118480</id>
+    <date>
+      <year-start>1680</year-start>
+      <year-end>1680</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="danklied" translation="gratitude song">danklied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+    </tags>
+    <melody>Singen wir aus Herzen Grund</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Willem Sluiter</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Groote Godt, wy loven <rhyme label="a" type="m">u</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Dat gy tot versading <rhyme label="a" type="m" corresp="#s1:l1">nu</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Ons al weder hebt <rhyme label="b" type="m">gevoedt</rhyme>.</l>
+        <l id="s1:l4" met="4" type="+-">Hoe komt doch all' <rhyme label="b" type="m" corresp="#s1:l3">overvloet</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Ons soo toe van ieder <rhyme label="c" type="m">kant</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Uit het water en van 't <rhyme label="c" type="m" corresp="#s1:l5">lant</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Door uw noit-gesloten <rhyme label="c" type="m" corresp="#s1:l5">handt</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">D'eerstelingen van ons' <rhyme label="a" type="m">hert</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Dat u gansch gegeven <rhyme label="a" type="m" corresp="#s2:l1">wert</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Brengen wy, en buigen, <rhyme label="b" type="m">Heer</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Voor uw vriendlijk aansigt <rhyme label="b" type="m" corresp="#s2:l3">neer</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">Vroolijk zijn wy van <rhyme label="c" type="m">gemoet</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Over al het groote <rhyme label="c" type="m" corresp="#s2:l5">goet</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Dat gy ons en d'onse <rhyme label="c" type="m" corresp="#s2:l5">doet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Ia, op dat wy zijn <rhyme label="a" type="m">verheugt</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Vult gy ons met spijs en <rhyme label="a" type="m" corresp="#s3:l1">vreugt</rhyme>.</l>
+        <l id="s3:l3" met="4" type="+-">'t Sou dan zijn een schendig <rhyme label="b" type="m">feit</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Soo gy niet met <rhyme label="b" type="m" corresp="#s3:l3">vroolijkheit</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">Wierdt gedient om dese <rhyme label="c" type="m">reen</rhyme>.</l>
+        <l id="s3:l6" met="4" type="+-">Ei, soo weest dan nu te <rhyme label="c" type="m" corresp="#s3:l5">vreen</rhyme></l>
+        <l id="s3:l7" met="4" type="+-">Met ons' dankbaar hert <rhyme label="c" type="m" corresp="#s3:l5">alleen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">'t Dankbaar hert op-off'ren <rhyme label="a" type="m">wy</rhyme>:</l>
+        <l id="s4:l2" met="4" type="+-">Geef genade, dat het <rhyme label="a" type="m" corresp="#s4:l1">zy</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">Oprecht dankbaar als 't <rhyme label="b" type="m">behoort</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Na den regel van uw <rhyme label="b" type="m" corresp="#s4:l3">woort</rhyme>.</l>
+        <l id="s4:l5" met="4" type="+-">Soo blijft uw <rhyme label="c" type="m">goedgunstigheit</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Over lijf en ziele <rhyme label="c" type="m" corresp="#s4:l5">beid'</rhyme>,</l>
+        <l id="s4:l7" met="4" type="+-">Onder ons wijdt <rhyme label="c" type="m" corresp="#s4:l5">uitgebreidt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

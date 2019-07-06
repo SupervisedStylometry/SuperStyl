@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14117</id>
+    <date>
+      <year-start>1582</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>mechelen</orginal-name>
+      <standard-name>Mechelen, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0281381</lon>
+        <lat>4.4803453</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="rederijkerslied" translation="rhetorician song">rederijkerslied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>D'où vient cela</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="groups">groepen</category>
+    </categories>
+  <author>Pieter Sterlincx</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O Nederlandt seer <rhyme label="a" type="m">soet</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Hoe placht ghy te <rhyme label="b" type="f">floreren</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">In weelden en <rhyme label="a" type="m" corresp="#s1:l1">voorspoet</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Soo sachmen v heerlijck <rhyme label="b" type="f" corresp="#s1:l2">domineren</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Ghy hadt van als <rhyme label="c" type="m">planteyt</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">V en mocht niet <rhyme label="d" type="f">ghebreken</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">V beesten <rhyme label="c" type="m" corresp="#s1:l5">ver’gheweyt</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Daer wistmen af te <rhyme label="d" type="f" corresp="#s1:l6">spreken</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">Van als was v <rhyme label="c" type="m" corresp="#s1:l5">bereyt</rhyme></l>
+        <l id="s1:l10" met="5" type="-+">Door Godt almachtich soot ons is <rhyme label="d" type="f" corresp="#s1:l6">ghebleken</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Vrede was doen int <rhyme label="a" type="m">landt</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Orloch die lach <rhyme label="b" type="f">gheuanghen</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Solaes aen elcken <rhyme label="a" type="m" corresp="#s2:l1">cant</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Daer toe een ieghelijck hadt groot <rhyme label="b" type="f" corresp="#s2:l2">verlanghen</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Men sach die <rhyme label="c" type="m">Rethorijck</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">In dese Lande <rhyme label="d" type="f">bloeyen</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Oock mede de <rhyme label="c" type="m" corresp="#s2:l5">musijck</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Seer constelijcken <rhyme label="d" type="f" corresp="#s2:l6">vloeyen</rhyme></l>
+        <l id="s2:l9" met="3" type="-+">Daer was noyt haers <rhyme label="c" type="m" corresp="#s2:l5">ghelijck</rhyme></l>
+        <l id="s2:l10" met="5" type="-+">Van Conste alsmen doen wel mocht <rhyme label="d" type="f" corresp="#s2:l6">bevroeyen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Maer desen soeten <rhyme label="a" type="m">tijt</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Die is nv heel <rhyme label="b" type="f">verloren</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Daer is nu haet en <rhyme label="a" type="m" corresp="#s3:l1">nijt</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Het volck gaet haer op elck ander <rhyme label="b" type="f" corresp="#s3:l2">verstooren</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Die liefde is heel <rhyme label="c" type="m">doot</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Eendracht wort nu <rhyme label="d" type="f">verschouen</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Aldus coemt ons den <rhyme label="c" type="m" corresp="#s3:l5">stoot</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Dat hem elck mach <rhyme label="d" type="f" corresp="#s3:l6">bedroeuen</rhyme></l>
+        <l id="s3:l9" met="3" type="-+">Daer isser veel in <rhyme label="c" type="m" corresp="#s3:l5">noot</rhyme></l>
+        <l id="s3:l10" met="5" type="-+">Men siet te hans het kint den vader <rhyme label="d" type="f" corresp="#s3:l6">beroouen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">O Prince, eeuwighen <rhyme label="a" type="m">Godt</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Wanneer sak u <rhyme label="b" type="f">erbarmen</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Dat ghy dit quaede <rhyme label="a" type="m" corresp="#s4:l1">Lot</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">Van ons sult nemen door u goet <rhyme label="b" type="f" corresp="#s4:l2">ontfermen</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Wy hebben langh <rhyme label="c" type="m">verbeyt</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Met grooter treuren <rhyme label="d" type="f">clachtich</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Aensiet doch die <rhyme label="c" type="m" corresp="#s4:l5">ioncheyt</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Door v ghenade <rhyme label="d" type="f" corresp="#s4:l6">crachtich</rhyme></l>
+        <l id="s4:l9" met="3" type="-+">Sent ons met goet <rhyme label="c" type="m" corresp="#s4:l5">bescheyt</rhyme></l>
+        <l id="s4:l10" met="5" type="-+">Den Peys door v Goddelijck woort <rhyme label="d" type="f" corresp="#s4:l6">warachtich</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

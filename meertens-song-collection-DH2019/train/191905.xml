@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>191905</id>
+    <date>
+      <year-start>1753</year-start>
+      <year-end>1753</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">DE Meisjes hebben <rhyme label="a" type="m">graeg</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Wat moois, wat raers, wat <rhyme label="b" type="f">zwierigs</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">De Meisjes hebben <rhyme label="a" type="m" corresp="#s1:l1">graeg</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Wat moois voor alle <rhyme label="a" type="m" corresp="#s1:l1">daeg</rhyme>!</l>
+        <l id="s1:l5" met="3" type="-+">Zy kunnen zig <rhyme label="c" type="f">opschikken</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Maer als zy zyn <rhyme label="d" type="m">getrout</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">In stee van wat te <rhyme label="c" type="f" corresp="#s1:l5">bikken</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Word somtyds 't hoofd <rhyme label="d" type="m" corresp="#s1:l6">geklout</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

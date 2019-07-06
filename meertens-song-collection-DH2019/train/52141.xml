@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>52141</id>
+    <date>
+      <year-start>1798</year-start>
+      <year-end>1798</year-end>
+    </date>
+    <tags/>
+    <melody/>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Men moet de Vrouwen streeken <rhyme label="a" type="f">meiden</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Het is voortaan de eerste <rhyme label="b" type="m">pligt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Zy zyn listig in 't <rhyme label="a" type="f" corresp="#s1:l1">verleiden</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">En hebben, en hebben veel kwaad <rhyme label="b" type="m" corresp="#s1:l2">gestigt</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">En hebben, en hebben veel kwaad <rhyme label="b" type="m" corresp="#s1:l2">gestigt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Haar mannen in 't eind <rhyme label="a" type="f">verlaaten</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">En trouwen dan met eenen <rhyme label="b" type="m">hoop</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">En altoos kwaad van hem te <rhyme label="a" type="f" corresp="#s2:l1">praaten</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Dat is de gantsche mannen <rhyme label="b" type="m" corresp="#s2:l2">loon</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Dit is de gantsche mannen <rhyme label="b" type="m" corresp="#s2:l2">loon</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

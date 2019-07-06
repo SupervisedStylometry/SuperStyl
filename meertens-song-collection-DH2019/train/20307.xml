@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20307</id>
+    <date>
+      <year-start>1612</year-start>
+      <year-end>1612</year-end>
+    </date>
+    <location>
+      <orginal-name>franeker</orginal-name>
+      <standard-name>Franeker</standard-name>
+      <coordinates>
+        <lon>53.1904513</lon>
+        <lat>5.5417414</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Daar ik laatst uit vermeien was</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Boudewijn Jansen Wellens</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Cupido u swaren <rhyme label="a" type="m">brant</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Comt my beroven, mijn verstant, Want <rhyme label="a" type="m" corresp="#s1:l1">vant</rhyme></l>
+        <l id="s1:l3" met="3" type="+-">Stercke vier der <rhyme label="b" type="f">minnen</rhyme></l>
+        <l id="s1:l4" met="3" type="+-">Verlies ick mijn <rhyme label="b" type="f" corresp="#s1:l3">sinnen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">t’Welc mijn hert van binnen// <rhyme label="a" type="m" corresp="#s1:l1">spant</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Waerom bent ghy my dus <rhyme label="a" type="m">perty</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Dat ghy my brenght in slaverny: sy <rhyme label="a" type="m" corresp="#s2:l1">my</rhyme></l>
+        <l id="s2:l3" met="3" type="+-">Sal gheheel <rhyme label="b" type="f">bederven</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">En pijn’lijck doen <rhyme label="b" type="f" corresp="#s2:l3">sterven</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Sonder troost verwerven// <rhyme label="a" type="m" corresp="#s2:l1">bly</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Want die ghy my te minnen <rhyme label="a" type="m">raet</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">veracht geheel mijn clacht en praet: t’quaet <rhyme label="a" type="m" corresp="#s3:l1">saet</rhyme></l>
+        <l id="s3:l3" met="3" type="+-">Vande nyders <rhyme label="b" type="f">schadich</rhyme></l>
+        <l id="s3:l4" met="3" type="+-">Looftse <rhyme label="b" type="f" corresp="#s3:l3">onberadich</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Dies sy my versmadich// <rhyme label="a" type="m" corresp="#s3:l1">haet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Maer soo ghy uwe schichten <rhyme label="a" type="m">swaer</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">Wout senden in het hert van haer, daer <rhyme label="a" type="m" corresp="#s4:l1">naer</rhyme></l>
+        <l id="s4:l3" met="3" type="+-">Soud’ ick my <rhyme label="b" type="f">verblyden</rhyme>:</l>
+        <l id="s4:l4" met="3" type="+-">Want uyt <rhyme label="b" type="f" corresp="#s4:l3">medelyden</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">Zouse my bevryden// <rhyme label="a" type="m" corresp="#s4:l1">claer</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Daerom verandert uwen <rhyme label="a" type="m">sin</rhyme>,</l>
+        <l id="s5:l2" met="5" type="-+">En wilt doorwonden mijn vriendin, in <rhyme label="a" type="m" corresp="#s5:l1">min</rhyme></l>
+        <l id="s5:l3" met="3" type="+-">Laet haer herte <rhyme label="b" type="f">woelen</rhyme>,</l>
+        <l id="s5:l4" met="3" type="+-">Op dat sy mach <rhyme label="b" type="f" corresp="#s5:l3">voelen</rhyme>,</l>
+        <l id="s5:l5" met="4" type="+-">Hoe ick te vercoelen// <rhyme label="a" type="m" corresp="#s5:l1">bin</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

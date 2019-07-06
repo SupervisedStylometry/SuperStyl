@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2621</id>
+    <date>
+      <year-start>1622</year-start>
+      <year-end>1622</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+    </tags>
+    <melody>Wie boven al zijn God bemint</melody>
+    <categories>
+      <category translation="theatre">theater</category>
+    </categories>
+  <author>G.A. Bredero</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wie boven al zijn God <rhyme label="a" type="m">bemind</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Sijn God in alle dingen <rhyme label="a" type="m" corresp="#s1:l1">vind</rhyme>;</l>
+        <l id="s1:l3" met="3" type="-+">Wie yet meer wil <rhyme label="b" type="f">verkiesen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Sal God en Mensch <rhyme label="b" type="f" corresp="#s1:l3">verliesen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wie wyslijck doen wil woecker <rhyme label="a" type="m">winst</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Dien mind God meest, zijn selven <rhyme label="a" type="m" corresp="#s2:l1">minst</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Die hem tot God kan <rhyme label="b" type="f">neygen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Die maeckt van God zijn <rhyme label="b" type="f" corresp="#s2:l3">eyghen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Min ick een mensch dat seker <rhyme label="a" type="m">is</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Dat hy my mint is <rhyme label="a" type="m" corresp="#s3:l1">t'ongewis</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Dus wil ick God mijn <rhyme label="b" type="f">leven</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Mijn ziel en alles <rhyme label="b" type="f" corresp="#s3:l3">geven</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Want God is trou, die trou oock <rhyme label="a" type="m">houd</rhyme>:</l>
+        <l id="s4:l2" met="4" type="-+">Maer die hem op menschen <rhyme label="a" type="m" corresp="#s4:l1">betrout</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Vertrout hem oock de <rhyme label="b" type="f">logen</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">En is vervloeckt <rhyme label="b" type="f" corresp="#s4:l3">bedrogen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Hy is wel dol, wel sot, wel <rhyme label="a" type="m">blind</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Die yet meer als zijn God <rhyme label="a" type="m" corresp="#s5:l1">bemind</rhyme>.</l>
+        <l id="s5:l3" met="3" type="-+">Het zijn verloren <rhyme label="b" type="f">menschen</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Die oock yet anders <rhyme label="b" type="f" corresp="#s5:l3">wenschen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Want alles wat men sichtbaer <rhyme label="a" type="m">siet</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Dat is een sichtb're groote <rhyme label="a" type="m" corresp="#s6:l1">niet</rhyme>,</l>
+        <l id="s6:l3" met="3" type="-+">Daer niet op is te <rhyme label="b" type="f">bouwen</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">Maer God is te <rhyme label="b" type="f" corresp="#s6:l3">vertrouwen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

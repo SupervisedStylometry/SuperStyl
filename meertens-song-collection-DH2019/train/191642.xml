@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>191642</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1746</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Als ik mijn Phyllis kussen mag</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HIer zal ik myne <rhyme label="a" type="m">Rosemond</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">By deze klaare Beek <rhyme label="b" type="f">verbeiden</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">En na het Kussen van haar <rhyme label="a" type="m" corresp="#s1:l1">Mond</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">De Schaapjes t'zamen met haar <rhyme label="b" type="f" corresp="#s1:l2">weyden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

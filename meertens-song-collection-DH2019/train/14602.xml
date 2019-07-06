@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14602</id>
+    <date>
+      <year-start>1638</year-start>
+      <year-end>1638</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Te lucis ante terminum</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Aegidius Haeffacker</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">TE lucis ante <rhyme label="a" type="m">terminum</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Rerum creator, <rhyme label="b" type="m">poscimus</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Ut solita <rhyme label="c" type="m">clementia</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Sis praesul ad <rhyme label="d" type="m">custodiam</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Procul recedant <rhyme label="a" type="m">somnia</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Et noctium <rhyme label="b" type="m">phantasmata</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Hostemque nostrum <rhyme label="c" type="m">comprime</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Ne polluantur <rhyme label="d" type="m">corpora</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Praesta Pater <rhyme label="a" type="m">omnipotens</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Per Iesum Christum <rhyme label="b" type="m">Dominum</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Qui tecum in <rhyme label="c" type="m">perpetuum</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Regnat, cum sancto Spiritu. <rhyme label="d" type="m">Amen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

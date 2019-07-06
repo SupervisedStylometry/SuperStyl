@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111632</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Bannissons d'ici l'humeur noire</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">MOgt ik nu myn Phillis nog eens <rhyme label="a" type="f">kussen</rhyme></l>
+        <l id="s1:l2" met="5" type="+-">En myn vuur op hare kaakjes <rhyme label="a" type="f" corresp="#s1:l1">blussen</rhyme>?</l>
+        <l id="s1:l3" met="2" type="-+">Dan zou,, geen <rhyme label="b" type="m">rouw</rhyme></l>
+        <l id="s1:l4" met="3" type="+-">Pynigen myn <rhyme label="c" type="m">Hert</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Die door 't afzyn swaarder <rhyme label="c" type="m" corresp="#s1:l4">werd</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Mogt ik nu die Roos-gelyke <rhyme label="a" type="f">Wangen</rhyme>,</l>
+        <l id="s2:l2" met="5" type="+-">Nog eens sien bewegen door <rhyme label="a" type="f" corresp="#s2:l1">gesangen</rhyme>.</l>
+        <l id="s2:l3" met="2" type="-+">'t Geluit,, dat <rhyme label="b" type="m">uit</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">Haar lief Keeltje <rhyme label="c" type="m">kwam</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Gaf nieuwe leven aan myn <rhyme label="c" type="m" corresp="#s2:l4">vlam</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

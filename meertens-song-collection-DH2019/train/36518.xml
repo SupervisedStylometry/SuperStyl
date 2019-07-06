@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36518</id>
+    <date>
+      <year-start>1674</year-start>
+      <year-end>1674</year-end>
+    </date>
+    <location>
+      <orginal-name>leuven</orginal-name>
+      <standard-name>Leuven, Belgium</standard-name>
+      <coordinates>
+        <lon>50.879202</lon>
+        <lat>4.7011675</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+    </tags>
+    <melody>Courante monsieur</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Herman Harts</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">DOen Augustinus <rhyme label="a" type="m">was</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Gekomen uyt de <rhyme label="a" type="m" corresp="#s1:l1">plas</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">Der wulpsichyt: doen was ontkomen 't <rhyme label="b" type="m">Diep</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Der Kettery, en dwalinge, hy <rhyme label="b" type="m" corresp="#s1:l3">riep</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">O Oud', en Nieuwe <rhyme label="c" type="m">schoonighyt</rhyme>!</l>
+        <l id="s1:l6" met="5" type="-+">O! eenich Goet! ô alle <rhyme label="c" type="m" corresp="#s1:l5">salighyt</rhyme>!</l>
+        <l id="s1:l7" met="5" type="-+">Ick heb u myn Beginsel, ende <rhyme label="d" type="m">Endt</rhyme>,</l>
+        <l id="s1:l8" met="5" type="-+">Myn Godt ah! ick heb u te laet <rhyme label="d" type="m" corresp="#s1:l7">gekendt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">O troostelycke <rhyme label="a" type="m">saeck</rhyme>!</l>
+        <l id="s2:l2" met="3" type="-+">De sondaer tot <rhyme label="a" type="m" corresp="#s2:l1">vermaeck</rhyme>.</l>
+        <l id="s2:l3" met="5" type="-+">Ick sien, dat Augustyn, al kompt hy <rhyme label="b" type="m">laet</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Die vroegh gekomen syn, te boven <rhyme label="b" type="m" corresp="#s2:l3">gaet</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">En dat hy oock niet min en <rhyme label="c" type="m">heeft</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">Al of hy van't begin hadt wel <rhyme label="c" type="m" corresp="#s2:l5">geleest</rhyme>.</l>
+        <l id="s2:l7" met="5" type="-+">O Hert! ô suyver Hert! dat Godt <rhyme label="d" type="m">bemindt</rhyme>,</l>
+        <l id="s2:l8" met="5" type="-+">Waer in gy niet de minste vleck en <rhyme label="d" type="m" corresp="#s2:l7">vindt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Het brandt geweldich <rhyme label="a" type="m">seer</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">En neyght tot zynen <rhyme label="a" type="m" corresp="#s3:l1">Heer</rhyme>:</l>
+        <l id="s3:l3" met="5" type="-+">Die 't heeft geschapen naer <rhyme label="b" type="m">gelyckenis</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">En eyge Belt zyns selfs. Hoe kleyn het <rhyme label="b" type="m" corresp="#s3:l3">is</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Wegh ydel werelt vol <rhyme label="c" type="m">bedroch</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">Geen Creatur', of Schepsel is <rhyme label="c" type="m" corresp="#s3:l5">genoch</rhyme></l>
+        <l id="s3:l7" met="5" type="-+">Aen't selfde. 'Klaet u peysen met wat <rhyme label="d" type="m">lust</rhyme></l>
+        <l id="s3:l8" met="5" type="-+">Dat Herte nu in zynen Center <rhyme label="d" type="m" corresp="#s3:l7">rust</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36661</id>
+    <date>
+      <year-start>1631</year-start>
+      <year-end>1631</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>Ne vous offensez madame</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">IN pur' verduldicheydt boven leet ende <rhyme label="a" type="m">lief</rhyme></l>
+        <l id="s1:l2" met="6" type="-+">Tot Godt overgheleydt in vrede haer <rhyme label="a" type="m" corresp="#s1:l1">verhief</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Die Salighe, die Godts <rhyme label="b" type="m">vriendinn'</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Die Godt op t'hooghste voerde <rhyme label="b" type="m" corresp="#s1:l3">in'</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Gheen vreughden desghelijck', wat vreught datmen <rhyme label="a" type="m">bevat</rhyme>,</l>
+        <l id="s2:l2" met="6" type="-+">Als dat soet hemelrijck dat die bly' siel' <rhyme label="a" type="m" corresp="#s2:l1">besat</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Daer sy ghedruckt, ghequetst, <rhyme label="b" type="m">doorwondt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Sonder druck en quetsure <rhyme label="b" type="m" corresp="#s2:l3">stondt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">Haer hert' en was daer niet, daer sy te wesen <rhyme label="a" type="m">scheen</rhyme>;</l>
+        <l id="s3:l2" met="6" type="-+">Al was sy in verdriet, haer lijden dat <rhyme label="a" type="m" corresp="#s3:l1">verdween</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Sy stondt voor dat bly' Godts <rhyme label="b" type="m">aenschijn</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Dat haer versoete alle <rhyme label="b" type="m" corresp="#s3:l3">pijn'</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">Van last, die op haer viel, was haren gheest <rhyme label="a" type="m">verlost</rhyme>,</l>
+        <l id="s4:l2" met="6" type="-+">Die d'ooghe staende hiel daer niet swaer zijn en <rhyme label="a" type="m" corresp="#s4:l1">kost'</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Godts liefde maeckte haer <rhyme label="b" type="m">t'ghewicht'</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Inwendich en uytwendich <rhyme label="b" type="m" corresp="#s4:l3">licht</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="6" type="-+">Troost was haer in haer hert´ d´uytwendich <rhyme label="a" type="m">onghemack</rhyme>,</l>
+        <l id="s5:l2" met="6" type="-+">T´was smerte sonder smert´ d´leet daer sy inne <rhyme label="a" type="m" corresp="#s5:l1">stack</rhyme>:</l>
+        <l id="s5:l3" met="4" type="-+">Haer lijden docht haer <rhyme label="b" type="m">lijdeloos</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Om dat sy stondt in Godt <rhyme label="b" type="m" corresp="#s5:l3">altoos</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

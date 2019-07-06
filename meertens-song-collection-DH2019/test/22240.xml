@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22240</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Jauchzet dem Herrn alle Land</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Iuycht den Heere in alle <rhyme label="a" type="m">landt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Want allen den ghenen doet hy <rhyme label="a" type="m" corresp="#s1:l1">bystandt</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Die hem bidden in hun <rhyme label="b" type="f">lijden</rhyme>:</l>
+        <l id="s1:l4" met="4" type="-+">Comt voor zijn aenghesicht <rhyme label="a" type="m" corresp="#s1:l1">playsant</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">En dient hem met herten <rhyme label="b" type="f" corresp="#s1:l3">blijde</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Bekendt doch dat de Heere Godt <rhyme label="a" type="m">is</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Dat hy ons van stoff heeft ghemaeckt <rhyme label="a" type="m" corresp="#s2:l1">ghewis</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Tot Schapen van zijnder <rhyme label="b" type="f">weyden</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">En tot zijn volck dwelck hy <rhyme label="a" type="m" corresp="#s2:l1">ghewis</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Verlost en doet <rhyme label="b" type="f" corresp="#s2:l3">wtleyden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Met danck gaet binnen zijn poorten <rhyme label="a" type="m">fijn</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Met lof inde voorhouen <rhyme label="a" type="m" corresp="#s3:l1">syn</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">En wilt hem eere <rhyme label="b" type="f">bewijsen</rhyme>:</l>
+        <l id="s3:l4" met="4" type="-+">Want hy helptz al gaer wt de <rhyme label="a" type="m" corresp="#s3:l1">pijn</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Die zijnen name <rhyme label="b" type="f" corresp="#s3:l3">prijsen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Want de Heer is goet en <rhyme label="a" type="m">ghenadich</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">En zijn goetheyt die duert <rhyme label="a" type="m" corresp="#s4:l1">eewich</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Daerom danckt zijnen <rhyme label="b" type="f">namen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Sijn waerheyt is altijts <rhyme label="a" type="m" corresp="#s4:l1">standthaftich</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Door Jhesum Christum. <rhyme label="b" type="f" corresp="#s4:l3">Amen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

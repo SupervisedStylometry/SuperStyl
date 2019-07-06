@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21189</id>
+    <date>
+      <year-start>1646</year-start>
+      <year-end>1646</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Je voudrais bien o Cloris</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">O Nare nacht, van acht bedroefde <rhyme label="a" type="f">weecken</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Hoe maeckt ghy 't mijn bedroefde hart dus <rhyme label="b" type="m">bangh</rhyme>?</l>
+        <l id="s1:l3" met="5" type="-+">U tijdt moet om, eer ick noch eens mach <rhyme label="a" type="f" corresp="#s1:l1">spreecken</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Mijn tweede Ziel, ay goude Zon! dus <rhyme label="b" type="m" corresp="#s1:l2">langh</rhyme></l>
+        <l id="s1:l5" met="5" type="-+">Moet ick mijn tijdt in eensaemheden <rhyme label="c" type="f">enden</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Dus koom ick t'uwaerdts mijn ghebeden <rhyme label="c" type="f" corresp="#s1:l5">wenden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">'k Heb gheen ghesicht van Laura te <rhyme label="a" type="f">verhoopen</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Voor dat u glants tot vijftigh mael toe <rhyme label="b" type="m">pronckt</rhyme>:</l>
+        <l id="s2:l3" met="5" type="-+">Ey laet u Paerd' ter renn nae Stal toe <rhyme label="a" type="f" corresp="#s2:l1">loopen</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Doch 'k wild' dat ghy we'er reest eer dat ghy <rhyme label="b" type="m" corresp="#s2:l2">zonckt</rhyme></l>
+        <l id="s2:l5" met="5" type="-+">In Thetis schoot. Ey leght niet langh te <rhyme label="c" type="f">mallen</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">Maer kom ghezwind we'er aen den Hemel <rhyme label="c" type="f" corresp="#s2:l5">brallen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Toeft niet te langh by u beminde <rhyme label="a" type="f">Thetis</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Maer jaeght, te post, u Paerden we'er ter <rhyme label="b" type="m">vlucht</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">Op reys, en seght haer dat het u wel leet <rhyme label="a" type="f" corresp="#s3:l1">is</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Maer dat ghy 't doet om my, doch soo sy <rhyme label="b" type="m" corresp="#s3:l2">sucht</rhyme>,</l>
+        <l id="s3:l5" met="5" type="-+">Soo seght haer, schoon ghy nu moet treurigh <rhyme label="c" type="f">klaghen</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">'k Sal weder by u blijven vijftigh <rhyme label="c" type="f" corresp="#s3:l5">daghen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Maer so ghy haer hier me'e noch niet kondt <rhyme label="a" type="f">paeyen</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Soo wilt terstondt my dese bootschap <rhyme label="b" type="m">doen</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">En wilt u Waghen ylinghs herwaerdts <rhyme label="a" type="f" corresp="#s4:l1">zwaeyen</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">Soo sal ick my met u we'er derwaerdts <rhyme label="b" type="m" corresp="#s4:l2">spo'en</rhyme>,</l>
+        <l id="s4:l5" met="5" type="-+">En segghen dat sy noch soo langh moet <rhyme label="c" type="f">wachten</rhyme>,</l>
+        <l id="s4:l6" met="5" type="-+">Tot dat verstreecken zijn maer vijftigh <rhyme label="c" type="f" corresp="#s4:l5">Nachten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

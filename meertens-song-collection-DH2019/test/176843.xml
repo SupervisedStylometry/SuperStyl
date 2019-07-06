@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176843</id>
+    <date>
+      <year-start>1683</year-start>
+      <year-end>1683</year-end>
+    </date>
+    <location>
+      <orginal-name>leeuwarden</orginal-name>
+      <standard-name>Leeuwarden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>53.2005936</lon>
+        <lat>5.7918548</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="dooplied" translation="christening song">dooplied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody>Psalm 023 Datheen</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Wy bidden u o Godt Vader <rhyme label="a" type="f">almachtich</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Weest by dit werk en maekt het Doopsel <rhyme label="a" type="f" corresp="#s1:l1">krachtich</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Ontfangtse doch wilt haer zonden <rhyme label="b" type="f">vergeven</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Verkiestse t’uwen Kinderen <rhyme label="b" type="f" corresp="#s1:l3">verheven</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">Steltse in die Erffenis uyt <rhyme label="c" type="f">ghenaden</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Uwer Hemelscher goederen <rhyme label="c" type="f" corresp="#s1:l5">beraden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">O Christe ghy Soon Godts wilt haer uyt <rhyme label="a" type="f">breyden</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Al uwe verdiensten en <rhyme label="a" type="f" corresp="#s2:l1">waerdicheyden</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">En uwe gherechticheyt deelt haer <rhyme label="b" type="f">mede</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Waschtse in uwen bloede, gheeft haer <rhyme label="b" type="f" corresp="#s2:l3">vrede</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Neemtse aen tot uwen Broederen <rhyme label="c" type="f">t’samen</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">En tot Hemelsche mede <rhyme label="c" type="f" corresp="#s2:l5">Erffghenamen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">O Heyl’ghe Gheest deelt haer met uwe <rhyme label="a" type="f">gaven</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">Bevestichtse in ‘t gheloof wiltse <rhyme label="a" type="f" corresp="#s3:l1">laven</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Ontsteeckt in haer die vyerighe <rhyme label="b" type="f">ghebeden</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Beghintse te vernieuwen in haer <rhyme label="b" type="f" corresp="#s3:l3">zeden</rhyme>,</l>
+        <l id="s3:l5" met="5" type="-+">Dat sy het Vleysche dooden als <rhyme label="c" type="f">verbolghen</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">En uwe roepinghe soo moghen <rhyme label="c" type="f" corresp="#s3:l5">volghen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Daer toe onthout ende beghaeftse <rhyme label="a" type="f">moedigh</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">In ‘t geloof, dat sy ‘t teghendeel <rhyme label="a" type="f" corresp="#s4:l1">behoedigh</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">En oock den doot hier soo verwinnen <rhyme label="b" type="f">mogen</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">T’uwer eeren en om haer te <rhyme label="b" type="f" corresp="#s4:l3">verhogen</rhyme>,</l>
+        <l id="s4:l5" met="5" type="-+">Ter zalicheyt, laet dit doch naer ‘t <rhyme label="c" type="f">betamen</rhyme>,</l>
+        <l id="s4:l6" met="5" type="-+">(Eeuwighe Godt) nu iae worden en <rhyme label="c" type="f" corresp="#s4:l5">Amen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

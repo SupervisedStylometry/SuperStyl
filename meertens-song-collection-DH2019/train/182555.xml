@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182555</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>La lumière la plus pure</melody>
+  <author>Hendrik Riemsnijder</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Kleine schreeuwert! 'k zou wel <rhyme label="a" type="f">wenschen</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">(Sprak tot Filomeel de <rhyme label="b" type="m">Kraai</rhyme>:)</l>
+        <l id="s1:l3" met="4" type="+-">Dat ik wist, waarom den <rhyme label="a" type="f" corresp="#s1:l1">menschen</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Uw gezang toch schynt zoo <rhyme label="b" type="m" corresp="#s1:l2">fraai</rhyme>?</l>
+        <l id="s1:l5" met="4" type="+-">Gy zwygt dikwyls: ik <rhyme label="c" type="f">daartegen</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Doe staâg hooren myn <rhyme label="d" type="m">geklap</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">En ik kan geen mensch <rhyme label="c" type="f" corresp="#s1:l5">bewegen</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Om te pryzen myn <rhyme label="d" type="m" corresp="#s1:l6">gesnap</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Is 't alleen te doen met <rhyme label="a" type="f">praaten</rhyme>?</l>
+        <l id="s2:l2" met="4" type="+-">(Zei hierop de <rhyme label="b" type="m">Nachtegaal</rhyme>:)</l>
+        <l id="s2:l3" met="4" type="+-">Die zig altyd hooren <rhyme label="a" type="f" corresp="#s2:l1">laaten</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Voeren meest een' zotte <rhyme label="b" type="m" corresp="#s2:l2">taal</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">Gy weet niet van pas te <rhyme label="c" type="f">zwygen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Maar relt stadig éénen <rhyme label="d" type="m">toon</rhyme>;</l>
+        <l id="s2:l7" met="4" type="+-">En dit kan geen lof <rhyme label="c" type="f" corresp="#s2:l5">verkrygen</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Niemand vindt uw' klanken <rhyme label="d" type="m" corresp="#s2:l6">schoon</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

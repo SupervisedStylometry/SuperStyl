@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3255</id>
+    <date>
+      <year-start>1677</year-start>
+      <year-end>1677</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="tafellied" translation="dining song">tafellied</tag>
+    </tags>
+    <melody>Psalm 100 Datheen</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O groote God! die al wat <rhyme label="a" type="m">leeft</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Op aarden steedts zijn voedtzel <rhyme label="a" type="m" corresp="#s1:l1">geeft</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">En houdt voor alles open <rhyme label="b" type="m">dis</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Verzadet all wat levend’ <rhyme label="b" type="m" corresp="#s1:l3">is</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">U gunst heeft wederom <rhyme label="a" type="m">goedelijck</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Dees’ tafel <rhyme label="a" type="m" corresp="#s2:l1">overvloedelijck</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Met spijs en dranck ons <rhyme label="b" type="m">toebereyd</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Tot onderhoud in <rhyme label="b" type="m" corresp="#s2:l3">matigheyd</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Stort uwen rijcken zegen <rhyme label="a" type="m">Heer</rhyme>!</l>
+        <l id="s3:l2" met="4" type="-+">Op dese uwe gaven <rhyme label="a" type="m" corresp="#s3:l1">neer</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Want ‘t is de spijse niet die <rhyme label="b" type="m">voed</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Maar uwen zegen leven <rhyme label="b" type="m" corresp="#s3:l3">doet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Behoed my doch voor <rhyme label="a" type="m">overdaad</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Als ick u goetheyd proef, zoo <rhyme label="a" type="m" corresp="#s4:l1">laat</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Mijn hert niet hangen aan de <rhyme label="b" type="m">aard</rhyme>’,</l>
+        <l id="s4:l4" met="4" type="-+">Maar zig verheffen <rhyme label="b" type="m" corresp="#s4:l3">Hemel-waard</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Laat oock mijn ziele zijn <rhyme label="a" type="m">verzaat</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Met spijs die nimmermeer <rhyme label="a" type="m" corresp="#s5:l1">vergaat</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">En ‘t hert met Hemels Man <rhyme label="b" type="m">verquickt</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Mijn ziele met genaâ <rhyme label="b" type="m" corresp="#s5:l3">verrickt</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Op dat ick in u <rhyme label="a" type="m">Koninckrijck</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Mag met u kind’ren <rhyme label="a" type="m" corresp="#s6:l1">eeuwiglijck</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Aanzitten, en door u <rhyme label="b" type="m">aanschijn</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Met vreugt altoos verzadight <rhyme label="b" type="m" corresp="#s6:l3">zijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

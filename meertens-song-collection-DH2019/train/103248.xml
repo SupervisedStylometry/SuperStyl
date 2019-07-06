@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>103248</id>
+    <date>
+      <year-start>1656</year-start>
+      <year-end>1656</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Op een tijd op een tijd</melody>
+  <author>Arnold Bon</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">AMarant, <rhyme label="a" type="m">Amarant</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">U kilheyt blust den <rhyme label="a" type="m" corresp="#s1:l1">brandt</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Van mijn ontsteecke <rhyme label="b" type="f">zinne</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Maer, ey, u brandend' Ooch <rhyme label="c" type="m">geswier</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Ontsteeckt van her 't gebluste <rhyme label="c" type="m" corresp="#s1:l4">vier</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Soo dat ick u moet <rhyme label="b" type="f" corresp="#s1:l3">Minnen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Neen ik haet, neen ick <rhyme label="a" type="m">haet</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Dat gy mijn min <rhyme label="a" type="m" corresp="#s2:l1">versmaet</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">U wreetheyt staetme <rhyme label="b" type="f">tegen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Maer denck ick weer ten mach maer <rhyme label="c" type="m">schijn</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Van wreetheyt en versmadingh <rhyme label="c" type="m" corresp="#s2:l4">zijn</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">En 't Hert tot min <rhyme label="b" type="f" corresp="#s2:l3">geneghen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Dan helaes? dan <rhyme label="a" type="m">helaes</rhyme>?</l>
+        <l id="s3:l2" met="3" type="-+">Dit dencken, veel te <rhyme label="a" type="m" corresp="#s3:l1">dwaes</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Hout rechts mijn hert in <rhyme label="b" type="f">lyden</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">Maer waerom vrees ick <rhyme label="c" type="m">ongemack</rhyme>?</l>
+        <l id="s3:l5" met="4" type="-+">'Ten dee de hoop het herte <rhyme label="c" type="m" corresp="#s3:l4">brack</rhyme>.</l>
+        <l id="s3:l6" met="3" type="-+">Nae lijden komt <rhyme label="b" type="f" corresp="#s3:l3">verblyden</rhyme>:</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Doch wat hoop doch wat <rhyme label="a" type="m">hoop</rhyme>?</l>
+        <l id="s4:l2" met="3" type="-+">Als met des levens <rhyme label="a" type="m" corresp="#s4:l1">loop</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Mijn hert seer te doen <rhyme label="b" type="f">enden</rhyme>?</l>
+        <l id="s4:l4" met="4" type="-+">Neen, neen, die aenhout <rhyme label="c" type="m">overwint</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">En soo de smert myn ziel <rhyme label="c" type="m" corresp="#s4:l4">verslint</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Verslintse myn <rhyme label="b" type="f" corresp="#s4:l3">ellenden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

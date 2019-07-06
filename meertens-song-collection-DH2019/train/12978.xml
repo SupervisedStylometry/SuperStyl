@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12978</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>La Vignonne</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">GEspeeltjes maakje <rhyme label="a" type="m">reê</rhyme>;</l>
+        <l id="s1:l2" met="4" type="-+">Kom Bruidtje, en Bruidegom, ay! help ons <rhyme label="a" type="m" corresp="#s1:l1">meê</rhyme>.</l>
+        <l id="s1:l3" met="2" type="-+">Waar wachtmen <rhyme label="b" type="m">naar</rhyme>?</l>
+        <l id="s1:l4" met="2" type="-+">Alles is <rhyme label="b" type="m" corresp="#s1:l3">klaar</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Hey lustig dan, beginnenwe <rhyme label="b" type="m" corresp="#s1:l3">maar</rhyme></l>
+        <l id="s1:l6" met="1" type="-+">Te <rhyme label="c" type="f">vlechten</rhyme>,</l>
+        <l id="s1:l7" met="1" type="-+">En <rhyme label="c" type="f" corresp="#s1:l6">hechten</rhyme></l>
+        <l id="s1:l8" met="1" type="-+">Met <rhyme label="d" type="m">vlijt</rhyme>,</l>
+        <l id="s1:l9" met="1" type="-+">Om <rhyme label="d" type="m" corresp="#s1:l8">strijdt</rhyme>;</l>
+        <l id="s1:l10" met="2" type="-+">Want het word <rhyme label="d" type="m" corresp="#s1:l8">tijdt</rhyme>.</l>
+        <l id="s1:l11" met="2" type="+-">Niet lang te <rhyme label="e" type="m">staan</rhyme>,</l>
+        <l id="s1:l12" met="2" type="-+">Sla handen <rhyme label="e" type="m" corresp="#s1:l11">aan</rhyme>,</l>
+        <l id="s1:l13" met="4" type="-+">Zoo krijgen wy gezwind <rhyme label="e" type="m" corresp="#s1:l11">gedaan</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

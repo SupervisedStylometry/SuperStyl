@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>162136</id>
+    <date>
+      <year-start>1780</year-start>
+      <year-end>1780</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam (reguliersbreestraat)</orginal-name>
+      <standard-name>Reguliersbreestraat, Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3665346</lon>
+        <lat>4.8948014</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+    </tags>
+    <melody>Lieflijk bosje</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">LIeffelyke Bosje en gy zilvere <rhyme label="a" type="f">Vlieten</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Die onder de Telgen al ruisschende <rhyme label="a" type="f" corresp="#s1:l1">schieten</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">ô! Plaatsje, daar ik nog onlangs <rhyme label="b" type="m">vond</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Myn lachgende bloozende <rhyme label="b" type="m" corresp="#s1:l3">Rozemont</rhyme>:</l>
+        <l id="s1:l5" met="4" type="+-">Strooid uwe Blaad’ren gy jeugdige <rhyme label="c" type="f">Boomen</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">En staakt uw loop gy vlietende <rhyme label="c" type="f" corresp="#s1:l5">Stromen</rhyme>:</l>
+        <l id="s1:l7" met="4" type="-+">Hebt deernis met myn groot <rhyme label="d" type="m">verdriet</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Want Roosje myn Schoone die vind ik hier <rhyme label="d" type="m" corresp="#s1:l7">niet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Lief, vlegt een Kransje van Mirthe en <rhyme label="a" type="f">Phiolen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Want agter dees Haage had ik my <rhyme label="a" type="f" corresp="#s2:l1">verschoolen</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Ey! blust ’er, ik bid u, myn jeugdig <rhyme label="b" type="m">Vier</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Hier onder deez’ willige <rhyme label="b" type="m" corresp="#s2:l3">Popelier</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Speeld Mars en Venus door Liefde <rhyme label="c" type="f">gevangen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">En klaagd, wilt my uw Hertje maar <rhyme label="c" type="f" corresp="#s2:l5">langen</rhyme>:</l>
+        <l id="s2:l7" met="4" type="-+">Myn Schaapjes die loopen op Berg en <rhyme label="d" type="m">Dal</rhyme>:</l>
+        <l id="s2:l8" met="4" type="-+">Maar Roosje uw Schoone die vind gy hier <rhyme label="d" type="m" corresp="#s2:l7">al</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Komt Ganimedes schenkt Nectar voor <rhyme label="a" type="f">Gooden</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">En laat ons Herders en Nimphjes gaan <rhyme label="a" type="f" corresp="#s3:l1">nooden</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Ontfangt ’er dit Kransje en edel <rhyme label="b" type="m">Gewas</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">En zit hier wat neder in ’t groene <rhyme label="b" type="m" corresp="#s3:l3">Gras</rhyme>:</l>
+        <l id="s3:l5" met="4" type="+-">Ziet Phebus stralen door lommer der <rhyme label="c" type="f">Elzen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Hier moet nu Kloris zyn Roosje <rhyme label="c" type="f" corresp="#s3:l5">omhelzen</rhyme>:</l>
+        <l id="s3:l7" met="4" type="-+">Geen Nectar is zoeter nog <rhyme label="d" type="m">Ambrozyn</rhyme>:</l>
+        <l id="s3:l8" met="4" type="-+">Uw Lipjes myn Roosje veel zoeter als <rhyme label="d" type="m" corresp="#s3:l7">Wyn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

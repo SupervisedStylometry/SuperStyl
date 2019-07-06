@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188547</id>
+    <date>
+      <year-start>1752</year-start>
+      <year-end>1752</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Eenzaam leven is mijn zin</melody>
+  <author>J.W. Lustig</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Zoete susje, wat een <rhyme label="a" type="m">praat</rhyme>.</l>
+        <l id="s1:l2" met="4" type="+-">Hebt gy U wel regt <rhyme label="b" type="f">bezonnen</rhyme>?</l>
+        <l id="s1:l3" met="4" type="+-">Eenzaam leven is niet <rhyme label="a" type="m" corresp="#s1:l1">kwaad</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">maar een welgehuwde <rhyme label="a" type="m" corresp="#s1:l1">staat</rhyme></l>
+        <l id="s1:l5" met="3" type="+-">Overtreft de <rhyme label="b" type="f" corresp="#s1:l2">nonnen</rhyme>.</l>
+        <l id="s1:l6" met="4" type="+-">Hebt gy U wel regt <rhyme label="b" type="f" corresp="#s1:l2">bezonnen</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Zoete susje, denkt eens <rhyme label="a" type="m">regt</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Hoe gy eertyds kwamt in <rhyme label="b" type="f">weezen</rhyme>.</l>
+        <l id="s2:l3" met="4" type="+-">Deed uw moeder dan zo <rhyme label="a" type="m" corresp="#s2:l1">slegt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Dat 's uw vader nam ten <rhyme label="a" type="m" corresp="#s2:l1">egt</rhyme>?</l>
+        <l id="s2:l5" met="3" type="+-">Gaat tog uit 't natuurboek <rhyme label="b" type="f" corresp="#s2:l2">leezen</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Hoe gy eertyds kwamt in <rhyme label="b" type="f" corresp="#s2:l2">weezen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Zoete susje, word tog <rhyme label="a" type="m">wys</rhyme>;</l>
+        <l id="s3:l2" met="4" type="+-">'t Is nog tyd U te <rhyme label="b" type="f">bedenken</rhyme>.</l>
+        <l id="s3:l3" met="4" type="+-">Kwam niet God in 't <rhyme label="a" type="m" corresp="#s3:l1">paradeis</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Tot zyn eigen lof en <rhyme label="a" type="m" corresp="#s3:l1">prys</rhyme>,</l>
+        <l id="s3:l5" met="3" type="+-">Adam, Eva <rhyme label="b" type="f" corresp="#s3:l2">schenken</rhyme>?</l>
+        <l id="s3:l6" met="4" type="+-">'t Is nog tyd U te <rhyme label="b" type="f" corresp="#s3:l2">bedenken</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Is de hemel dan <rhyme label="a" type="m">alleen</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Voor de meisjes die nooit <rhyme label="b" type="f">trouwen</rhyme>?</l>
+        <l id="s4:l3" met="4" type="+-">Waar wil zulk een dwaasheid <rhyme label="a" type="m" corresp="#s4:l1">heen</rhyme>!</l>
+        <l id="s4:l4" met="4" type="+-">Zoete susje, is er <rhyme label="a" type="m" corresp="#s4:l1">een</rhyme></l>
+        <l id="s4:l5" met="3" type="+-">Hemel zonder <rhyme label="b" type="f" corresp="#s4:l2">vrouwen</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Voor de meisjes die nooit <rhyme label="b" type="f" corresp="#s4:l2">trouwen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Spilt dan, Susjes, uwe <rhyme label="a" type="m">jeugd</rhyme>;</l>
+        <l id="s5:l2" met="4" type="+-">Trouwen is ons grootst <rhyme label="b" type="f">behaagen</rhyme>.</l>
+        <l id="s5:l3" met="4" type="+-">Niemand leeft in meerder <rhyme label="a" type="m" corresp="#s5:l1">vreugd</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Dan die standvast, met <rhyme label="a" type="m" corresp="#s5:l1">geneugt</rhyme>,</l>
+        <l id="s5:l5" met="3" type="+-">'t Huwlyks juk gaan <rhyme label="b" type="f" corresp="#s5:l2">draagen</rhyme>.</l>
+        <l id="s5:l6" met="4" type="+-">Trouwen is ons grootst <rhyme label="b" type="f" corresp="#s5:l2">behaagen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

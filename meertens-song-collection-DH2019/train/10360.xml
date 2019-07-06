@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10360</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+    </tags>
+    <melody>Goossen ik en mag het niet lijden</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Melis ick verschiet hoe <rhyme label="a" type="f">praetje</rhyme>?</l>
+        <l id="s1:l2" met="4" type="-+">'K loof niet datje mijn hebt <rhyme label="b" type="m">lief</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">Och jae ick Tiet mijn <rhyme label="a" type="f" corresp="#s1:l1">Cameraetje</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Mijn schellempje, mijn <rhyme label="b" type="m" corresp="#s1:l2">herte-dief</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Och ick hebje soo <rhyme label="c" type="m">besint</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Tietje lief mijn eygen kint // mijn <rhyme label="d" type="m">hert</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Ick ben inliefde heel <rhyme label="d" type="m" corresp="#s1:l6">verwert</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Ick bidje troost mijn druck en <rhyme label="d" type="m" corresp="#s1:l6">smert</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ick sie 't wel aen jou bolle <rhyme label="a" type="f">kaecken</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Dat jy van liefde heel <rhyme label="b" type="m">uyt-teert</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Nou Melis wilt dit vrye <rhyme label="a" type="f" corresp="#s2:l1">staken</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Dees malle grille van u <rhyme label="b" type="m" corresp="#s2:l2">weert</rhyme>:</l>
+        <l id="s2:l5" met="4" type="+-">Want ick ben noch jongh en <rhyme label="c" type="m">dom</rhyme>.</l>
+        <l id="s2:l6" met="5" type="-+">Sie noch na geen vryer om // dus <rhyme label="d" type="m">gaet</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Want ick heel mijn tijdt <rhyme label="d" type="m" corresp="#s2:l6">verpraet</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Moertje wacht, het is al <rhyme label="d" type="m" corresp="#s2:l6">laet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Och sooje gaet, soo moet ick <rhyme label="a" type="f">sterven</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Ach! Tiet ick smoor in liefdens <rhyme label="b" type="m">pijn</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Ach! Tietje, laet ick doch <rhyme label="a" type="f" corresp="#s3:l1">verwerven</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">V gonst, laet ickje man toch <rhyme label="b" type="m" corresp="#s3:l2">zijn</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Ick selje dienen alle <rhyme label="c" type="m">daegh</rhyme></l>
+        <l id="s3:l6" met="5" type="-+">Als een Iuffer uit den haegh, <rhyme label="d" type="m">Goddin</rhyme>.</l>
+        <l id="s3:l7" met="4" type="-+">Tietje ghy staet in mijn <rhyme label="d" type="m" corresp="#s3:l6">sin</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Maeckt dat ick u hertje <rhyme label="d" type="m" corresp="#s3:l6">win</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Melis waer leer jey die <rhyme label="a" type="f">vreye</rhyme>?</l>
+        <l id="s4:l2" met="4" type="-+">Hebje in den Haegh <rhyme label="b" type="m">verkeert</rhyme>?</l>
+        <l id="s4:l3" met="4" type="-+">Ie maeckt mijn hertje in <rhyme label="a" type="f" corresp="#s4:l1">verblye</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Seght heb jey by de Prins e <rhyme label="b" type="m" corresp="#s4:l2">leert</rhyme>:</l>
+        <l id="s4:l5" met="4" type="+-">Melis, Melis 'k hebje <rhyme label="c" type="m">bly</rhyme>,</l>
+        <l id="s4:l6" met="5" type="-+">Komt toch dichter aen mijn zy // sat <rhyme label="d" type="m">staen</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">Ick sal 't mijn Moertje craghen <rhyme label="d" type="m" corresp="#s4:l6">gaen</rhyme>,</l>
+        <l id="s4:l8" met="4" type="-+">Kom, jy tavondt weer eens <rhyme label="d" type="m" corresp="#s4:l6">aen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

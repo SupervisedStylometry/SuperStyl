@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10290</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Courante Bourbon</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">Schoonste <rhyme label="a" type="f">Harderinne</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">Voochdesse mijns <rhyme label="a" type="f" corresp="#s1:l1">sinne</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Beheerster van mijn <rhyme label="b" type="m">lust</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Wanneer sult ghy <rhyme label="c" type="f">enden</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">In blyschap <rhyme label="c" type="f" corresp="#s1:l4">wenden</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Mijn Hertje dat leyt <rhyme label="b" type="m" corresp="#s1:l3">ontrusy</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">En sucht steets na u <rhyme label="d" type="m">Rodemonde</rhyme>.</l>
+        <l id="s1:l8" met="4" type="-+">Die mijn zieltje heef <rhyme label="d" type="m" corresp="#s1:l7">ghewondt</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Door 't lieffelijck gelonck en <rhyme label="e" type="m">gesicht</rhyme>,</l>
+        <l id="s1:l10" met="4" type="-+">Verbercht u niet aen Hemels <rhyme label="e" type="m" corresp="#s1:l9">licht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Als ghy dan wilt <rhyme label="a" type="f">vluchten</rhyme>,</l>
+        <l id="s2:l2" met="3" type="+-">Leent 't oor aen mijn <rhyme label="a" type="f" corresp="#s2:l1">suchten</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Toeft ach! mijn tweede <rhyme label="b" type="m">ziel</rhyme>,</l>
+        <l id="s2:l4" met="3" type="+-">Tuycht <rhyme label="c" type="f">Laureboompjes</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Weecke <rhyme label="c" type="f" corresp="#s2:l4">stroompjes</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Dat ick willich <rhyme label="b" type="m" corresp="#s2:l3">kniel</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">En offer haer mijn zieltjen <rhyme label="d" type="m">op</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">'k Versprey mijn geluyt door berch en <rhyme label="d" type="m" corresp="#s2:l7">top</rhyme>,</l>
+        <l id="s2:l9" met="4" type="-+">De Liefd' die ick draegh ach <rhyme label="e" type="m">Amaril</rhyme>;</l>
+        <l id="s2:l10" met="4" type="-+">Smeeckt datse blijft ick doe haer <rhyme label="e" type="m" corresp="#s2:l9">wil</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="+-">En isset geen <rhyme label="a" type="f">Harder</rhyme>,</l>
+        <l id="s3:l2" met="3" type="+-">Die daer gins sit <rhyme label="a" type="f" corresp="#s3:l1">verder</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Komt door 't ruysent <rhyme label="b" type="m">riet</rhyme>,</l>
+        <l id="s3:l4" met="3" type="+-">Mijn dunckt tis <rhyme label="c" type="f">Philander</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">O! Goon ick <rhyme label="c" type="f" corresp="#s3:l4">verander</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Siet hoese na hem <rhyme label="b" type="m" corresp="#s3:l3">vliet</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">En treckt haer handen wijt van <rhyme label="d" type="m">een</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Nu Amaril mijn geest dees <rhyme label="d" type="m" corresp="#s3:l7">reen</rhyme>,</l>
+        <l id="s3:l9" met="4" type="-+">Wil ick vluchten na mijn <rhyme label="e" type="m">Lerint</rhyme>,</l>
+        <l id="s3:l10" met="4" type="-+">Sy isset die mijn ziel <rhyme label="e" type="m" corresp="#s3:l9">bemint</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

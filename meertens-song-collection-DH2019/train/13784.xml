@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13784</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Polyphemus aan de stranden</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>anoniem</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">ALderwaertse <rhyme label="a" type="f">Herderinne</rhyme>,</l>
+        <l id="s1:l2" met="2" type="+-">Dien ick <rhyme label="a" type="f" corresp="#s1:l1">minne</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Boven veelen, in het <rhyme label="b" type="m">wout</rhyme>:</l>
+        <l id="s1:l4" met="4" type="+-">Wilt verhooren mijne <rhyme label="c" type="f">klachte</rhyme>,</l>
+        <l id="s1:l5" met="2" type="+-">Met <rhyme label="c" type="f" corresp="#s1:l4">aendachte</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Die ick u stort <rhyme label="b" type="m" corresp="#s1:l3">menichfout</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Op dat ick eens mach <rhyme label="a" type="f">verwerve</rhyme>,</l>
+        <l id="s2:l2" met="2" type="+-">Voor ick <rhyme label="a" type="f" corresp="#s2:l1">sterve</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Vwe gunst, soo ‘k die ben <rhyme label="b" type="m">waerd</rhyme>:</l>
+        <l id="s2:l4" met="4" type="+-">Want het immers niet is <rhyme label="c" type="f">mogelick</rhyme>,</l>
+        <l id="s2:l5" met="2" type="+-">En <rhyme label="c" type="f" corresp="#s2:l4">gedogelick</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Soo te leven hier op <rhyme label="b" type="m" corresp="#s2:l3">aerd</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">En te meer als ick <rhyme label="a" type="f">gedencke</rhyme>,</l>
+        <l id="s3:l2" met="2" type="+-">Hoe ginck <rhyme label="a" type="f" corresp="#s3:l1">schencke</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Philis aen Cefalus <rhyme label="b" type="m">Trouw</rhyme>.</l>
+        <l id="s3:l4" met="4" type="+-">Die nu t’saem in vreugde <rhyme label="c" type="f">leve</rhyme>,</l>
+        <l id="s3:l5" met="2" type="+-">Naer ‘t Godt <rhyme label="c" type="f" corresp="#s3:l4">geve</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">En ick noch in groote <rhyme label="b" type="m" corresp="#s3:l3">rouw</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Daerom wilt u toch <rhyme label="a" type="f">erbarmen</rhyme>,</l>
+        <l id="s4:l2" met="2" type="+-">En <rhyme label="a" type="f" corresp="#s4:l1">ontfarmen</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">Over my, en al mijn <rhyme label="b" type="m">Vee</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Datmen om my droef hoort <rhyme label="c" type="f">blaten</rhyme>,</l>
+        <l id="s4:l5" met="2" type="+-">En siet <rhyme label="c" type="f" corresp="#s4:l4">haten</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Claver dat hun leven <rhyme label="b" type="m" corresp="#s4:l3">dee</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

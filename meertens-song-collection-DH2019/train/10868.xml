@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10868</id>
+    <date>
+      <year-start>1605</year-start>
+      <year-end>1605</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Houd aan ik zal u zingen voor</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">VVilt nu, van vreughden hier <rhyme label="a" type="f">ontspringhen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Voeght u, om u lief eens te <rhyme label="a" type="f" corresp="#s1:l1">bringen</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Een Lied wilt haer voor <rhyme label="a" type="f" corresp="#s1:l1">singhen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Bedinghen, een kusken <rhyme label="b" type="m">toe</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">In deught verheucht, so ghy best <rhyme label="c" type="m">meught</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Wert sulcx niet <rhyme label="b" type="m" corresp="#s1:l4">moe</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Drinckt, schinckt, u liefste lief ter <rhyme label="a" type="f">eeren</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Singht springt en doet so vreught <rhyme label="a" type="f" corresp="#s2:l1">vermeeren</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Maer wilt voor al <rhyme label="a" type="f" corresp="#s2:l1">begheeren</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Ter eeren, dat maeghd’lijck <rhyme label="b" type="m">saet</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Voeght u daer by. tot allen <rhyme label="c" type="m">ty</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">Haer niet <rhyme label="b" type="m" corresp="#s2:l4">verlaet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Voor al, wilt doch in deught <rhyme label="a" type="f">beginnen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Sy sal, in’t eynd’ u oock <rhyme label="a" type="f" corresp="#s3:l1">beminnen</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">En vreest gheen nijders <rhyme label="a" type="f" corresp="#s3:l1">spinnen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">V sinnen, heel tot haer <rhyme label="b" type="m">went</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">De liefste vraeght, oft haer <rhyme label="c" type="m">behaeght</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">V trou seer <rhyme label="b" type="m" corresp="#s3:l4">jent</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Dit Liedt, ghy Princen goet van <rhyme label="a" type="f">gronde</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Gheschiet, uyt liefd’ tot deser <rhyme label="a" type="f" corresp="#s4:l1">stonde</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">En desen Beker <rhyme label="a" type="f" corresp="#s4:l1">ronde</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Den monde, mijns liefs comt <rhyme label="b" type="m">by</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">So hoop ic, sonder <rhyme label="c" type="m">verdriet</rhyme>,</l>
+        <l id="s4:l6" met="2" type="-+">ooc te doen <rhyme label="b" type="m" corresp="#s4:l4">bly</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

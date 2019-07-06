@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>191885</id>
+    <date>
+      <year-start>1753</year-start>
+      <year-end>1753</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Belle Iris</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">CLoris lief, myn <rhyme label="a" type="f">welbehaegen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Ach Gy hebt iets in uw <rhyme label="b" type="m">magt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Daer ik u niet om durf <rhyme label="a" type="f" corresp="#s1:l1">vraegen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Schoon ik dat als Godlyk <rhyme label="b" type="m" corresp="#s1:l2">acht</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">Liever wil ik 't nooit <rhyme label="c" type="f">verkrygen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">En dus toonen, <rhyme label="d" type="m">Engelin</rhyme>!</l>
+        <l id="s1:l7" met="4" type="+-">Dat ik al zoo wel kan <rhyme label="c" type="f" corresp="#s1:l5">zwygen</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Als ik u getrouw <rhyme label="d" type="m" corresp="#s1:l6">bemin</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

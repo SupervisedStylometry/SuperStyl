@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6753</id>
+    <date>
+      <year-start>1620</year-start>
+      <year-end>1620</year-end>
+    </date>
+    <location>
+      <orginal-name>gent</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="sonnet" translation="sonnet">sonnet</tag>
+    </tags>
+    <melody>Als ik ter wereld merk</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author>Justus de Harduwijn</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">ALs ick ter Weerelt merck’, hoe dat’t met my al <rhyme label="a" type="m">gaet</rhyme>;</l>
+        <l id="s1:l2" met="6" type="-+">Mijn leven voel’ ick eerst oprecht een doot te <rhyme label="b" type="f">sijne</rhyme>:</l>
+        <l id="s1:l3" met="6" type="-+">Mijn blijscap; druck en anxst: mijnen loon; moeyt’, en <rhyme label="b" type="f" corresp="#s1:l2">pijne</rhyme>:</l>
+        <l id="s1:l4" met="6" type="-+">Mijn betrouw; kraeckend’ ijs: mijn hope; wanckel <rhyme label="a" type="m" corresp="#s1:l1">staet</rhyme>.</l>
+        <l id="s1:l5" met="6" type="-+">Mijn verstandt, wort verdooft, door menighen quaen <rhyme label="a" type="m" corresp="#s1:l1">raedt</rhyme>:</l>
+        <l id="s1:l6" met="6" type="-+">Mijnen troost, word gheputt uyt eene valsche <rhyme label="b" type="f" corresp="#s1:l2">mijne</rhyme>:</l>
+        <l id="s1:l7" met="6" type="-+">Mijn lacchen, in hem self is bitterder dan <rhyme label="b" type="f" corresp="#s1:l2">brijne</rhyme>.</l>
+        <l id="s1:l8" met="6" type="-+">Het werck van mijnder oogh’, is weenen vroegh, en <rhyme label="a" type="m" corresp="#s1:l1">laet</rhyme>.</l>
+        <l id="s1:l9" met="6" type="-+">Mijn herte light ghepackt, in hopen, en in <rhyme label="c" type="f">duchten</rhyme>:</l>
+        <l id="s1:l10" met="6" type="-+">Mijnen benouwden gheest, doet anders niet dan <rhyme label="c" type="f" corresp="#s1:l9">suchten</rhyme>:</l>
+        <l id="s1:l11" met="6" type="+-">Mijn gramschap, als een Vier van stoppelen <rhyme label="d" type="m">op-gaet</rhyme>:</l>
+        <l id="s1:l12" met="6" type="-+">Mijn voetsel is ‘tfenijn, dat ick in mijn hert <rhyme label="e" type="f">hebbe</rhyme>:</l>
+        <l id="s1:l13" met="6" type="-+">De keten die my bindt, is eenen drommen <rhyme label="d" type="m" corresp="#s1:l11">draet</rhyme>:</l>
+        <l id="s1:l14" met="6" type="-+">De Vangh’nis die my praemt, is maer een <rhyme label="e" type="f" corresp="#s1:l12">spinnen-webbe</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

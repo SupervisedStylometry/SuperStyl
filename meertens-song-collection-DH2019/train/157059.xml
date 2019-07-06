@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>157059</id>
+    <date>
+      <year-start>1718</year-start>
+      <year-end>1718</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Helaas wie moet wie moet</melody>
+  <author>Govert van Mater</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">He-laas wie moet, wie moet niet <rhyme label="a" type="f">schreijen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Die op den schreijens-waarden <rhyme label="b" type="m">staat</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Des Heilands eens zyne oogen <rhyme label="b" type="m" corresp="#s1:l2">slaat</rhyme>!</l>
+        <l id="s1:l4" met="4" type="-+">Daar 't Volk hem uit de Stad komt <rhyme label="a" type="f" corresp="#s1:l1">leiên</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">En rukt en sleurt na <rhyme label="c" type="m">Golgotha</rhyme>.</l>
+        <l id="s1:l6" met="4" type="-+">Wie volgt hem met zyn hert niet <rhyme label="c" type="m" corresp="#s1:l5">naa</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

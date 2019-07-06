@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36168</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody>Courante simple</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GHegroet weest, en <rhyme label="a" type="m">ghebenedeydt</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Maria Moeder der <rhyme label="a" type="m" corresp="#s1:l1">bermhertigheydt</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Ons' leven, soetheydt, hop' in <rhyme label="b" type="m">teghenspoet</rhyme>;</l>
+        <l id="s1:l4" met="5" type="-+">Weest duysent fout, ô Coningin <rhyme label="b" type="m" corresp="#s1:l3">ghegroet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wy Evas Kinders vol <rhyme label="a" type="m">misdaet</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Hier ballingh, roepen tot u vroegh, en <rhyme label="a" type="m" corresp="#s2:l1">laet</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Bedroeft, ellendigh in dit traenen <rhyme label="b" type="m">dal</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Versuchten wy tot u met droef <rhyme label="b" type="m" corresp="#s2:l3">gheschal</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ons' Voorspraeckersse dan wel <rhyme label="a" type="m">aen</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Op ons bermhertigh wilt uw' ooghen <rhyme label="a" type="m" corresp="#s3:l1">slaen</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">En Jesum, soete Maeght, uws lighaems <rhyme label="b" type="m">vrucht</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Aen ons verthoont naer alle ons' <rhyme label="b" type="m" corresp="#s3:l3">ghesucht</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ey Moeder Godts staet ons doch <rhyme label="a" type="m">by</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Op dat van sonden wy ons houden <rhyme label="a" type="m" corresp="#s4:l1">vry</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">En nu voor-taen omhelsen soo de <rhyme label="b" type="m">deught</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">Dat wy met u eens moghen zyn in <rhyme label="b" type="m" corresp="#s4:l3">vreught</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>9532</id>
+    <date>
+      <year-start>1650</year-start>
+      <year-end>1650</year-end>
+    </date>
+    <location>
+      <orginal-name>medemblik</orginal-name>
+      <standard-name>Medemblik, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.768691</lon>
+        <lat>5.106195</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Secoure-moi ma belle</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">HEt is genoegh, wy hebben 't wel <rhyme label="a" type="m">verstaen</rhyme>;</l>
+        <l id="s1:l2" met="5" type="-+">Maer segh ons nu ghy schoonste van de <rhyme label="b" type="f">vrouwen</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Waer is u Lief? Waer heen is hy <rhyme label="a" type="m" corresp="#s1:l1">gegaen</rhyme>?</l>
+        <l id="s1:l4" met="5" type="-+">Op dat wy med' hem soecken en <rhyme label="b" type="f" corresp="#s1:l2">beschouwen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Mijn Lief is afgegaen in sijnen <rhyme label="a" type="m">Hof</rhyme>:</l>
+        <l id="s2:l2" met="5" type="-+">Hy is gegaen te weyden in de <rhyme label="b" type="f">Hoven</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">Om specery van lieffelijcke <rhyme label="a" type="m" corresp="#s2:l1">stof</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">En Lely-bloem te binden, en te <rhyme label="b" type="f" corresp="#s2:l2">schoven</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Sijn Lust-hof is de Christelijcke <rhyme label="a" type="m">Kerck</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">Waer in hy heeft een sonderlingh <rhyme label="b" type="f">vermaken</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Daer weydt en leyt hy in: daer is sijn <rhyme label="a" type="m" corresp="#s3:l1">werck</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Om nieuwe vrucht van sijn geplant te <rhyme label="b" type="f" corresp="#s3:l2">smaken</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Wat my belangt, hoewel ick in de <rhyme label="a" type="m">strijt</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">Van onghevoel, wel hadde groot <rhyme label="b" type="f">verschricken</rhyme>;</l>
+        <l id="s4:l3" met="5" type="-+">So blijf ick noch de sijn, en hy de <rhyme label="a" type="m" corresp="#s4:l1">mijn</rhyme>:</l>
+        <l id="s4:l4" met="5" type="-+">Hy sal my voort met sijn ghenaed' <rhyme label="b" type="f" corresp="#s4:l2">verquicken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

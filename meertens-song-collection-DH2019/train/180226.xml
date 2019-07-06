@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>180226</id>
+    <date>
+      <year-start>1783</year-start>
+      <year-end>1783</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WAek Susters waek, den dag gaet <rhyme label="a" type="f">schyne</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En vaek en Nagt sal gaen <rhyme label="a" type="f" corresp="#s1:l1">verdwyne</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Ik merk alreeds den dag <rhyme label="b" type="m">begint</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Merk ik alreeds den dag <rhyme label="b" type="m" corresp="#s1:l3">begint</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">O dag van vreugde geeft ons <rhyme label="c" type="f">heede</rhyme>!</l>
+        <l id="s1:l6" met="4" type="-+">O dag van vreugde geeft ons <rhyme label="c" type="f" corresp="#s1:l5">heede</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Geeft Vader aen ons <rhyme label="a" type="f">Wensche</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Ik sal uw een Kant <rhyme label="a" type="f" corresp="#s2:l1">vereeren</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Ik verwagt van hem een <rhyme label="b" type="m">Lint</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Schoonste Lint dat men <rhyme label="b" type="m" corresp="#s2:l3">vind</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Soo Schoonste Lint dat men <rhyme label="c" type="f">vind</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Soo schoon als men dat kan <rhyme label="c" type="f" corresp="#s2:l5">begeeren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ik sal haer een Roosje <rhyme label="a" type="f">brengen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">'t Is een Bloemetje dat ik <rhyme label="a" type="f" corresp="#s3:l1">min</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Hoe een Roosje, zyn schoondere <rhyme label="b" type="m">dinge</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Hoe een Roosje, zyn schoondere <rhyme label="b" type="m" corresp="#s3:l3">dinge</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Tra la der la tra lalder <rhyme label="c" type="f">liere</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Waek Susters waek, den dag gaet <rhyme label="c" type="f" corresp="#s3:l5">schyne</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

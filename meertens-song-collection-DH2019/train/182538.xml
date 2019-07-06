@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182538</id>
+    <date>
+      <year-start>1793</year-start>
+      <year-end>1793</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Sinjeur de Schelde</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Ik heb, ik heb <rhyme label="a" type="f">verloren</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Myn zoete <rhyme label="b" type="m">Engelin</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Myn lief mijn <rhyme label="a" type="f" corresp="#s1:l1">uitverkooren</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Die stond in mijnen <rhyme label="b" type="m" corresp="#s1:l2">zin</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Zy is my nu <rhyme label="c" type="f">ontnomen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Als door de bleeke <rhyme label="d" type="m">dood</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Nooit is my <rhyme label="c" type="f" corresp="#s1:l5">overkomen</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Zulk een droefheid <rhyme label="d" type="m" corresp="#s1:l6">groot</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Haer oogjes zijn <rhyme label="a" type="f">gesloten</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">En haer rode <rhyme label="b" type="m">mond</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">De dood heeft haer <rhyme label="a" type="f" corresp="#s2:l1">doorschoten</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">En myn jonk hert <rhyme label="b" type="m" corresp="#s2:l2">gewond</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">'k had haer myn trouw <rhyme label="c" type="f">bevolen</rhyme>:</l>
+        <l id="s2:l6" met="3" type="-+">In min en <rhyme label="d" type="m">deugdsaemheid</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Maer nu moet ik gaen <rhyme label="c" type="f" corresp="#s2:l5">doolen</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Ik ben myn liefste <rhyme label="d" type="m" corresp="#s2:l6">kwyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Adieu adieu <rhyme label="a" type="f">gepreesen</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Myn lief myn waerde <rhyme label="b" type="m">pand</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Ik zal haest op u <rhyme label="a" type="f" corresp="#s3:l1">wesen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Al in ons <rhyme label="b" type="m" corresp="#s3:l2">Vaderland</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Daer zal ik u <rhyme label="c" type="f">beminnen</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Den Schepper <rhyme label="d" type="m">onderdaen</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Daer wel myn <rhyme label="c" type="f" corresp="#s3:l5">vrindinne</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">De min zal nooit <rhyme label="d" type="m" corresp="#s3:l6">vergaen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

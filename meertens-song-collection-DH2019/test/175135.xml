@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175135</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">De lieve Mei staat voor de <rhyme label="a" type="m">deur</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Wij roepen al: kom <rhyme label="b" type="f">binnen</rhyme>!</l>
+        <l id="s1:l3" met="4" type="-+">Zij geeft ons bloempjes zacht van <rhyme label="a" type="m" corresp="#s1:l1">kleur</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">En zoet van <rhyme label="a" type="m" corresp="#s1:l1">geur</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">En opgeruimde <rhyme label="b" type="f" corresp="#s1:l2">zinnen</rhyme>;</l>
+        <l id="s1:l6" met="4" type="-+">Want wie van 't jaar zijn best hier <rhyme label="c" type="m">deê</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Dien brengt ze alligt een prijsje <rhyme label="c" type="m" corresp="#s1:l6">meê</rhyme>, -</l>
+        <l id="s1:l8" met="1" type="-+">Kom <rhyme label="b" type="f" corresp="#s1:l2">binnen</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Dat ware ook wel een stoute <rhyme label="a" type="m">gast</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Die roepen dorst: blijf <rhyme label="b" type="f">buiten</rhyme>!</l>
+        <l id="s2:l3" met="4" type="-+">'k Wed, hij had wis niet <rhyme label="a" type="m" corresp="#s2:l1">opgepast</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">En dacht wel <rhyme label="a" type="m" corresp="#s2:l1">vast</rhyme>:</l>
+        <l id="s2:l5" met="3" type="-+">'k Moet naar mijn' prijs toch <rhyme label="b" type="f" corresp="#s2:l2">fluiten</rhyme>!</l>
+        <l id="s2:l6" met="4" type="-+">Doch was er onder ons zoo'n <rhyme label="c" type="m">guit</rhyme>.....</l>
+        <l id="s2:l7" met="4" type="-+">De Mei er in, en hij er <rhyme label="c" type="m" corresp="#s2:l6">uit</rhyme>:</l>
+        <l id="s2:l8" met="1" type="-+">Blijf <rhyme label="b" type="f" corresp="#s2:l2">buiten</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Maar neen! dat loopt wel geen <rhyme label="a" type="m">gevaar</rhyme>;</l>
+        <l id="s3:l2" met="3" type="-+">Hoor, ieder roept: kom <rhyme label="b" type="f">binnen</rhyme>!</l>
+        <l id="s3:l3" met="4" type="-+">En, prijs òf niet, wij toonen <rhyme label="a" type="m" corresp="#s3:l1">maar</rhyme>,</l>
+        <l id="s3:l4" met="2" type="-+">Wat wij van 't <rhyme label="a" type="m" corresp="#s3:l1">jaar</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Aan knapheid mogten <rhyme label="b" type="f" corresp="#s3:l2">winnen</rhyme>:</l>
+        <l id="s3:l6" met="4" type="-+">Kom, lieve Mei! en hoor het <rhyme label="c" type="m">lied</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Dat dankbaar uit ons harte <rhyme label="c" type="m" corresp="#s3:l6">vliet</rhyme>:</l>
+        <l id="s3:l8" met="1" type="-+">Kom <rhyme label="b" type="f" corresp="#s3:l2">binnen</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

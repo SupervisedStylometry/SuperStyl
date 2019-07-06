@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3208</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Psalm 116 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">EEn Christen Ziel, die hier op aerden <rhyme label="a" type="m">leeft</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Oprecht en vroom, ontwickelt uyt de <rhyme label="b" type="f">lusten</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Mach evenwel niet sluymeren noch <rhyme label="b" type="f" corresp="#s1:l2">rusten</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Soo haest hy 't vlees maer overwonnen <rhyme label="a" type="m" corresp="#s1:l1">heeft</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Een seker Beest, dat niemandt hinder <rhyme label="a" type="m">doet</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Is met een Schildt de leden <rhyme label="b" type="f">overtoghen</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Om dat 'et voor gheweldt bestaen sou <rhyme label="b" type="f" corresp="#s2:l2">moghen</rhyme>:</l>
+        <l id="s2:l4" met="5" type="-+">'t Gun hem, daer't nijpt, voor overlast <rhyme label="a" type="m" corresp="#s2:l1">behoedt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Een Christen mensch die 'tquaet en sonden <rhyme label="a" type="m">haet</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Moet oock een Schildt aen sijne leden <rhyme label="b" type="f">hanghen</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Tot wederstand van die hem wilde <rhyme label="b" type="f" corresp="#s3:l2">vanghen</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">'t Gun menichmael voorkoomt een dapper <rhyme label="a" type="m" corresp="#s3:l1">quaet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Wel op dan, mensch! denckt wie u ziel <rhyme label="a" type="m">beloert</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Hangh aen den Schildt om uwe swacke <rhyme label="b" type="f">leden</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">Een Schildt, gemaeckt van vasten en <rhyme label="b" type="f" corresp="#s4:l2">gebeden</rhyme>;</l>
+        <l id="s4:l4" met="5" type="-+">Een Schildt die u in't eeuwigh leven <rhyme label="a" type="m" corresp="#s4:l1">voert</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

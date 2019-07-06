@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175</id>
+    <date>
+      <year-start>1589</year-start>
+      <year-end>1589</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Het voer een maagdje over Rijn</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Met lieft ghequelt soeck ick u <rhyme label="a" type="m">raet</rhyme></l>
+        <l id="s1:l2" met="5" type="+-">Raet mijn nv wel eert valt <rhyme label="a" type="m" corresp="#s1:l1">laet</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Laet mijn niet heel <rhyme label="b" type="f">bederuen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Deruen van troost doet <rhyme label="b" type="f" corresp="#s1:l3">steruen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Sterf ick om v door liefde <rhyme label="a" type="m">groot</rhyme></l>
+        <l id="s2:l2" met="5" type="+-">Groot sal v pijn zijn door mijn <rhyme label="a" type="m" corresp="#s2:l1">doot</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Doot ghy v lief vol <rhyme label="b" type="f">trouwen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Trouwen sult ghy <rhyme label="b" type="f" corresp="#s2:l3">verscouwen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Rou sal van v vlien metter <rhyme label="a" type="m">spoet</rhyme></l>
+        <l id="s3:l2" met="5" type="+-">Spoet ghy te troosten mijn <rhyme label="a" type="m" corresp="#s3:l1">gemoet</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Moet v dienaer <rhyme label="b" type="f">ootmoedich</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Moedich vertroost hem <rhyme label="b" type="f" corresp="#s3:l3">spoedich</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Spoet v tot hem die v <rhyme label="a" type="m">verwacht</rhyme></l>
+        <l id="s4:l2" met="5" type="+-">Wacht v voor tongen vals, voor <rhyme label="a" type="m" corresp="#s4:l1">pracht</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">Pracht doet tgoet hert <rhyme label="b" type="f">verkeeren</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Keeren wilt nu met <rhyme label="b" type="f" corresp="#s4:l3">eeren</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Eert hem Princes die v <rhyme label="a" type="m">bemint</rhyme></l>
+        <l id="s5:l2" met="5" type="+-">Mint hem die ghy vol trouwen <rhyme label="a" type="m" corresp="#s5:l1">vint</rhyme></l>
+        <l id="s5:l3" met="4" type="+-">Vint ghy mijn trou <rhyme label="b" type="f">ghestadich</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Stadich zijt mijn <rhyme label="b" type="f" corresp="#s5:l3">genadich</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

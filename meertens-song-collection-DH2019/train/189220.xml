@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>189220</id>
+    <date>
+      <year-start>1694</year-start>
+      <year-end>1694</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Annodami abbracciami</melody>
+  <author>Cornelis Sweerts</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wech aardsbezit, Wech <rhyme label="a" type="m">aardsbezit</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">De dood is 't eind daar <rhyme label="b" type="m">van</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">'t Zoetste leven, 't Zoetste <rhyme label="c" type="f">leeven</rhyme></l>
+        <l id="s1:l4" met="3" type="+-">Rooft ons dien <rhyme label="b" type="m" corresp="#s1:l2">Tyran</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Laat ons dan hooger <rhyme label="d" type="f">zweeven</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">De waare Deugd <rhyme label="d" type="f" corresp="#s1:l5">aankleeven</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Die best vernoegen <rhyme label="b" type="m" corresp="#s1:l2">kan</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

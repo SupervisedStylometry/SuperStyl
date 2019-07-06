@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>163695</id>
+    <date>
+      <year-start>1621</year-start>
+      <year-end>1621</year-end>
+    </date>
+    <location>
+      <orginal-name>mechelen</orginal-name>
+      <standard-name>Mechelen, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0281381</lon>
+        <lat>4.4803453</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="rederijkerslied" translation="rhetorician song">rederijkerslied</tag>
+      <tag standard-name="mythologisch lied" translation="mythological song">mythologisch lied</tag>
+    </tags>
+    <melody>De tijd is hier</melody>
+    <categories>
+      <category translation="groups">groepen</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Jan Thieullier</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">WEest nu <rhyme label="a" type="m">verblijt</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Al ghy Venus <rhyme label="b" type="f">dienaeren</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">Den soeten <rhyme label="a" type="m" corresp="#s1:l1">tijt</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Die is nu voor de <rhyme label="c" type="m">hant</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">Dus al v druck laet <rhyme label="b" type="f" corresp="#s1:l2">vaeren</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">VVant die v te <rhyme label="a" type="m" corresp="#s1:l1">beswaeren</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">Placht, moet het <rhyme label="b" type="f" corresp="#s1:l2">lant</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Nu ruymen door <rhyme label="c" type="m" corresp="#s1:l4">t'bystant</rhyme></l>
+        <l id="s1:l9" met="5" type="-+">Van Phoebus <rhyme label="c" type="m" corresp="#s1:l4">want</rhyme></l>
+        <l id="s1:l10" met="4" type="+-">Hy compt heel <rhyme label="d" type="m">onuersaecht</rhyme></l>
+        <l id="s1:l11" met="4" type="+-">Al met sijn gulden straelen, <rhyme label="d" type="m" corresp="#s1:l10">an</rhyme></l>
+        <l id="s1:l12" met="3" type="+-">Die hy lieflijck laet daelen, <rhyme label="e" type="f">van</rhyme></l>
+        <l id="s1:l13" met="1" type="+-">Den Olimp dus niet faelen, <rhyme label="d" type="m" corresp="#s1:l10">kan</rhyme></l>
+        <l id="s1:l14" met="3" type="+-">Of Hijms wort heel <rhyme label="c" type="m" corresp="#s1:l4">ver-jaecht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">De Nimphen <rhyme label="a" type="m">spoen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Haer nu om te <rhyme label="b" type="f">vermeyden</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">In tempe <rhyme label="a" type="m" corresp="#s2:l1">groen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">T'lustich verheuen <rhyme label="c" type="m">pleyn</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">Flora sietmen wt <rhyme label="b" type="f" corresp="#s2:l2">spreyden</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">En Selenus kompt <rhyme label="a" type="m" corresp="#s2:l1">weyden</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">Syn geytgens <rhyme label="b" type="f" corresp="#s2:l2">kleyn</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Om voeden in <rhyme label="c" type="m" corresp="#s2:l4">t'gemeyn</rhyme></l>
+        <l id="s2:l9" met="5" type="-+">Diana <rhyme label="c" type="m" corresp="#s2:l4">reyn</rhyme></l>
+        <l id="s2:l10" met="4" type="+-">Haer tot Iaeghen seer <rhyme label="d" type="m">snelt</rhyme></l>
+        <l id="s2:l11" met="4" type="+-">In bosschen ende weghen, <rhyme label="d" type="m" corresp="#s2:l10">siet</rhyme></l>
+        <l id="s2:l12" met="3" type="+-">Dus Hebe weest verleghen, <rhyme label="e" type="f">niet</rhyme></l>
+        <l id="s2:l13" met="1" type="+-">Maer v ter-jacht ter deghen, <rhyme label="d" type="m" corresp="#s2:l10">biet</rhyme></l>
+        <l id="s2:l14" met="3" type="+-">Met Minph Najaed in <rhyme label="c" type="m" corresp="#s2:l4">t'velt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">
+          <rhyme label="a" type="m">Melpomene</rhyme>
+        </l>
+        <l id="s3:l2" met="3" type="-+">Laet staen dijn truerich <rhyme label="b" type="f">dichten</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">En wilt in <rhyme label="a" type="m" corresp="#s3:l1">ste</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Verhaelen s' Meys <rhyme label="c" type="m">viertuijt</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">VVant die eerst mosten <rhyme label="b" type="f" corresp="#s3:l2">swichten</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Voor Boriams <rhyme label="a" type="m" corresp="#s3:l1">booswichten</rhyme></l>
+        <l id="s3:l7" met="2" type="-+">En in der <rhyme label="b" type="f" corresp="#s3:l2">muijt</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Laeghen comen nu <rhyme label="c" type="m" corresp="#s3:l4">uijt</rhyme></l>
+        <l id="s3:l9" met="5" type="-+">Baucus nu <rhyme label="c" type="m" corresp="#s3:l4">spruijt</rhyme></l>
+        <l id="s3:l10" met="4" type="+-">Met Philemon heel <rhyme label="d" type="m">schoon</rhyme></l>
+        <l id="s3:l11" met="4" type="+-">Door dat Aurora Iuechdich, <rhyme label="d" type="m" corresp="#s3:l10">blinckt</rhyme></l>
+        <l id="s3:l12" met="3" type="+-">Herse die sy vruechdich, <rhyme label="e" type="f">schinckt</rhyme></l>
+        <l id="s3:l13" met="1" type="+-">Ops, waer op dat duechdich, <rhyme label="d" type="m" corresp="#s3:l10">blinckt</rhyme></l>
+        <l id="s3:l14" met="3" type="+-">Phebus uyt sijnen <rhyme label="c" type="m" corresp="#s3:l4">troon</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">Sephirus <rhyme label="a" type="m">blaest</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Seer liefelijck en <rhyme label="b" type="f">lustich</rhyme></l>
+        <l id="s4:l3" met="2" type="-+">En maeckt <rhyme label="a" type="m" corresp="#s4:l1">verbaest</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Eolus dat hy <rhyme label="c" type="m">vlucht</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">Aura toont haer me <rhyme label="b" type="f" corresp="#s4:l2">rustich</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">En Bachus laeft die <rhyme label="a" type="m" corresp="#s4:l1">dustich</rhyme></l>
+        <l id="s4:l7" met="2" type="-+">Sijn, dus niet <rhyme label="b" type="f" corresp="#s4:l2">ducht</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Oock voor gheen nootdruft <rhyme label="c" type="m" corresp="#s4:l4">sucht</rhyme></l>
+        <l id="s4:l9" met="5" type="-+">VVant Cerus <rhyme label="c" type="m" corresp="#s4:l4">vrucht</rhyme></l>
+        <l id="s4:l10" met="4" type="+-">Nu lustich lieflijck <rhyme label="d" type="m">bloijt</rhyme></l>
+        <l id="s4:l11" met="4" type="+-">Napeen born Godinnen, <rhyme label="d" type="m" corresp="#s4:l10">vroet</rhyme></l>
+        <l id="s4:l12" met="3" type="+-">Satieren sietmen minnen, <rhyme label="e" type="f">soet</rhyme></l>
+        <l id="s4:l13" met="1" type="+-">Apollo soeckt te winnen, <rhyme label="d" type="m" corresp="#s4:l10">goet</rhyme></l>
+        <l id="s4:l14" met="3" type="+-">Daphne dies hy hem <rhyme label="c" type="m" corresp="#s4:l4">spoijt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="2" type="-+">Looft ende <rhyme label="a" type="m">prijst</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Iupijn die t'al kan <rhyme label="b" type="f">geuen</rhyme></l>
+        <l id="s5:l3" met="2" type="-+">En eer <rhyme label="a" type="m" corresp="#s5:l1">bewijst</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Hem elcken <rhyme label="c" type="m">Mercurist</rhyme></l>
+        <l id="s5:l5" met="2" type="-+">Looft hem met const <rhyme label="b" type="f" corresp="#s5:l2">verheuen</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">En toont v in dit <rhyme label="a" type="m" corresp="#s5:l1">leuen</rhyme></l>
+        <l id="s5:l7" met="2" type="-+">Als een <rhyme label="b" type="f" corresp="#s5:l2">Artist</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">Of een recht <rhyme label="c" type="m" corresp="#s5:l4">Peonist</rhyme></l>
+        <l id="s5:l9" met="5" type="-+">Nijt haet en <rhyme label="c" type="m" corresp="#s5:l4">twist</rhyme></l>
+        <l id="s5:l10" met="4" type="+-">En alle druck en <rhyme label="d" type="m">rauw</rhyme></l>
+        <l id="s5:l11" met="4" type="+-">Van v met goe manieren, <rhyme label="d" type="m" corresp="#s5:l10">drijft</rhyme></l>
+        <l id="s5:l12" met="3" type="+-">En tot des s'Meys verchieren, <rhyme label="e" type="f">schrijft</rhyme></l>
+        <l id="s5:l13" met="1" type="+-">Hem, eer als angieren, <rhyme label="d" type="m" corresp="#s5:l10">blijft</rhyme></l>
+        <l id="s5:l14" met="3" type="+-">Vast in liefde <rhyme label="c" type="m" corresp="#s5:l4">getrouw</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

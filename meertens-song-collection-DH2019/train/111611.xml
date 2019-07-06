@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111611</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">'k GA dan heen,, <rhyme label="a" type="m">Clorimeen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Wyl gy my dog niet wild <rhyme label="b" type="f">Minnen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">'k Ga dan heen,, <rhyme label="a" type="m" corresp="#s1:l1">Clorimeen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">'k Ben wel met my u lot te <rhyme label="a" type="m" corresp="#s1:l1">vre'en</rhyme>;</l>
+        <l id="s1:l5" met="4" type="+-">Schoon ik u al bleef <rhyme label="c" type="m">getrouw</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Al myn sugten al myn <rhyme label="d" type="f">praten</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Schoon ik u al bleef <rhyme label="e" type="m">getrouw</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">'k Weet het my niet helpen <rhyme label="e" type="m" corresp="#s1:l7">zouw</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">'t Kan niet baten, Want u <rhyme label="f" type="f">haten</rhyme></l>
+        <l id="s1:l10" met="4" type="+-">Duurd altyd,, tot myn <rhyme label="g" type="m">spyt</rhyme>;</l>
+        <l id="s1:l11" met="4" type="+-">Des ban ik u uyt myn <rhyme label="b" type="f" corresp="#s1:l2">sinnen</rhyme>,</l>
+        <l id="s1:l12" met="4" type="+-">Al myn lust,, is <rhyme label="h" type="m">geblust</rhyme>:</l>
+        <l id="s1:l13" met="4" type="+-">Lang genoeg een blok <rhyme label="h" type="m" corresp="#s1:l12">gekust</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Waar toe al,, dit <rhyme label="a" type="m">geschal</rhyme>?</l>
+        <l id="s2:l2" met="4" type="+-">'k wil maar regt uyt met u <rhyme label="b" type="f">spreken</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Waar toe al dit <rhyme label="a" type="m" corresp="#s2:l1">geschal</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Als ik niet hebben <rhyme label="a" type="m" corresp="#s2:l1">sal</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">'k Zoek u niet te <rhyme label="c" type="m">dwingen</rhyme>:</l>
+        <l id="s2:l6" met="4" type="+-">Veel min wil ik u <rhyme label="d" type="f">verkragten</rhyme>;</l>
+        <l id="s2:l7" met="4" type="+-">'k Zoe u niet te dwingen: <rhyme label="e" type="m">Neen</rhyme>!</l>
+        <l id="s2:l8" met="4" type="+-">Want dan deed ik tegens <rhyme label="e" type="m" corresp="#s2:l7">re'en</rhyme>.</l>
+        <l id="s2:l9" met="4" type="+-">'k Sal my wagten,, en u <rhyme label="f" type="f">agten</rhyme>,</l>
+        <l id="s2:l10" met="4" type="+-">Schoon gy my,, in de <rhyme label="g" type="m">Ly</rhyme></l>
+        <l id="s2:l11" met="4" type="+-">Derelyk hebt laten <rhyme label="b" type="f" corresp="#s2:l2">steken</rhyme>:</l>
+        <l id="s2:l12" met="4" type="+-">'k Dank u zeer, voor die <rhyme label="h" type="m">Eer</rhyme>:</l>
+        <l id="s2:l13" met="4" type="+-">Clorimeen, men vind 'er <rhyme label="h" type="m" corresp="#s2:l12">meer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

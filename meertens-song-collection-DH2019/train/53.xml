@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>53</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Nadien uw goddelijkheid</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">HIer is de vreughd <rhyme label="a" type="m">gheschoold</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">En vreughd door vreughd <rhyme label="a" type="m" corresp="#s1:l1">verdoold</rhyme>:</l>
+        <l id="s1:l3" met="3" type="-+">Dewijl de <rhyme label="b" type="f">Minne-stoocker</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Twee flitzen heeft <rhyme label="c" type="m">geheft</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Uyt zijne goude <rhyme label="b" type="f" corresp="#s1:l3">koker</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">En 't echte paar <rhyme label="c" type="m" corresp="#s1:l4">getreft</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Nu Venus prikkel <rhyme label="a" type="m">straal</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Het root en geurigh <rhyme label="a" type="m" corresp="#s2:l1">kraal</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">De heining van 's Bruyts <rhyme label="b" type="f">tanden</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">En 't wit bezielt <rhyme label="c" type="m">albast</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Haars boesems weet te <rhyme label="b" type="f" corresp="#s2:l3">branden</rhyme>;</l>
+        <l id="s2:l6" met="3" type="-+">Gelijk in 't Huuwlijck <rhyme label="c" type="m" corresp="#s2:l4">past</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Tot voetzel van 'er <rhyme label="a" type="m">Koorts</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Zoo neemtze hare <rhyme label="a" type="m" corresp="#s3:l1">toorts</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">En leitze naar de <rhyme label="b" type="f">sponden</rhyme>:</l>
+        <l id="s3:l4" met="3" type="-+">Daar vlecht men arm in <rhyme label="c" type="m">arm</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Daar vliegen, om twee <rhyme label="b" type="f" corresp="#s3:l3">monden</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Veel Goodjens, in een <rhyme label="c" type="m" corresp="#s3:l4">swarm</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

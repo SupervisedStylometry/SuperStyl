@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25601</id>
+    <date>
+      <year-start>1598</year-start>
+      <year-end>1598</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+      <tag standard-name="acrostichon" translation="acrostic song">acrostichon</tag>
+    </tags>
+    <melody>Het jaar is langer dan de dag</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Leenaert Clock</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Anders en weest doch niet <rhyme label="a" type="m">bedacht</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Beminde in den <rhyme label="b" type="f">Heere</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Dan dat ghy u in dach en <rhyme label="a" type="m" corresp="#s1:l1">nacht</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Nu oeffent in Gods <rhyme label="b" type="f" corresp="#s1:l2">leere</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Nemt dit doch in u herte <rhyme label="a" type="m">vast</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Tot dat ghy’t recht meucht <rhyme label="b" type="f">vaten</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Op Gods vreese moet zijn <rhyme label="a" type="m" corresp="#s2:l1">ghepast</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Nemmermeer zijn <rhyme label="b" type="f" corresp="#s2:l2">verlaten</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Kent dat hy u het leven <rhyme label="a" type="m">gheeft</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">En can u dooden <rhyme label="b" type="f">snellijck</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Ghelijck als hy’t ghegheven <rhyme label="a" type="m" corresp="#s3:l1">heeft</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Mach hy’t oock nemen <rhyme label="b" type="f" corresp="#s3:l2">fellijck</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Dickwils wilt oock ghedachtich <rhyme label="a" type="m">zijn</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Wat loon dat die <rhyme label="b" type="f">verwachten</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Hier naemaels in der Helsche <rhyme label="a" type="m" corresp="#s4:l1">pijn</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Die Gods vreese <rhyme label="b" type="f" corresp="#s4:l2">verachten</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Met ernste oock ghedachtich <rhyme label="a" type="m">weest</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Hoe ons sullen <rhyme label="b" type="f">beclaghen</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Ons quade wercken <rhyme label="a" type="m" corresp="#s5:l1">aldermeest</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Als Godt ons laet <rhyme label="b" type="f" corresp="#s5:l2">voor-daghen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Vlieden en can men t’oordeel <rhyme label="a" type="m">niet</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Waer voor dat moeten <rhyme label="b" type="f">comen</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Alle wercken alhierg <rhyme label="a" type="m" corresp="#s6:l1">gheschiet</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Der boosen ende <rhyme label="b" type="f" corresp="#s6:l2">vromen</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Dat ghy moet sterven, doch <rhyme label="a" type="m">ghedinckt</rhyme>,</l>
+        <l id="s7:l2" met="3" type="-+">En voor Christo <rhyme label="b" type="f">verclaren</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Daer door wordt oock int hert <rhyme label="a" type="m" corresp="#s7:l1">ontfinckt</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Gods vreese te <rhyme label="b" type="f" corresp="#s7:l2">bewaren</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">En dat ghy soo vermijdt het <rhyme label="a" type="m">quaet</rhyme>,</l>
+        <l id="s8:l2" met="3" type="-+">En tot goed-doen meucht <rhyme label="b" type="f">spoeden</rhyme>,</l>
+        <l id="s8:l3" met="4" type="-+">Lief kindt dit is des Heeren <rhyme label="a" type="m" corresp="#s8:l1">raet</rhyme>,</l>
+        <l id="s8:l4" met="3" type="-+">Wilt sijnen wil <rhyme label="b" type="f" corresp="#s8:l2">bevroeden</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Recht tredende int Christen <rhyme label="a" type="m">padt</rhyme></l>
+        <l id="s9:l2" met="3" type="-+">Met rechter Godes <rhyme label="b" type="f">vreesen</rhyme>,</l>
+        <l id="s9:l3" met="4" type="-+">Hy leydt boven in s’Hemels <rhyme label="a" type="m" corresp="#s9:l1">stadt</rhyme>,</l>
+        <l id="s9:l4" met="3" type="-+">Daer groote vreuchd’ sal <rhyme label="b" type="f" corresp="#s9:l2">wesen</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Staet doch hier nae nu alle <rhyme label="a" type="m">tijdt</rhyme></l>
+        <l id="s10:l2" met="3" type="-+">Met vreesen ende <rhyme label="b" type="f">beven</rhyme>,</l>
+        <l id="s10:l3" met="4" type="-+">Soo sult ghy hier <rhyme label="a" type="m" corresp="#s10:l1">ghebenedijdt</rhyme></l>
+        <l id="s10:l4" met="3" type="-+">Zijn, en daer eeuwich <rhyme label="b" type="f" corresp="#s10:l2">leven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

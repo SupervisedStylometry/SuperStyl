@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10332</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>O diamanten trouw</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O Goddelijcke <rhyme label="a" type="m">Band</rhyme>!</l>
+        <l id="s1:l2" met="3" type="-+">Door klem van hant in <rhyme label="a" type="m" corresp="#s1:l1">hant</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Onbrekelijck <rhyme label="b" type="f">gebonden</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Soo haest de radde <rhyme label="c" type="m">tongh</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Een vrye, en losse <rhyme label="c" type="m" corresp="#s1:l4">sprongh</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Heeft tot het Ia <rhyme label="b" type="f" corresp="#s1:l3">ghevonden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Daer blijft de wil <rhyme label="a" type="m">beknelt</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">En vast in een <rhyme label="a" type="m" corresp="#s2:l1">gewelt</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Van twee verliefde <rhyme label="b" type="f">herten</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Die eeuwigh zijn <rhyme label="c" type="m">bereyt</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">In alle <rhyme label="c" type="m" corresp="#s2:l4">stadigheyt</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Hun droefste noot te <rhyme label="b" type="f" corresp="#s2:l3">tarten</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">O wel gewilde <rhyme label="a" type="m">trouw</rhyme>!</l>
+        <l id="s3:l2" met="3" type="-+">Dus boeydge Man en <rhyme label="a" type="m" corresp="#s3:l1">Vrouw</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Door liefde aen <rhyme label="b" type="f">malkander</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">En bindse met u <rhyme label="c" type="m">knoop</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Aen soo een wisse <rhyme label="c" type="m" corresp="#s3:l4">Hoop</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Die vry is van <rhyme label="b" type="f" corresp="#s3:l3">verander</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Ay wel vernoeghde <rhyme label="a" type="m">Twee</rhyme>!</l>
+        <l id="s4:l2" met="3" type="-+">Groeyd door de liefd in <rhyme label="a" type="m" corresp="#s4:l1">vree</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Ten eynde van u <rhyme label="b" type="f">leven</rhyme>:</l>
+        <l id="s4:l4" met="3" type="-+">Soo sal den <rhyme label="c" type="m">Opper-Voogd</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Die alle dingh <rhyme label="c" type="m" corresp="#s4:l4">be-ooghd</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">U namaels vreughde <rhyme label="b" type="f" corresp="#s4:l3">geven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

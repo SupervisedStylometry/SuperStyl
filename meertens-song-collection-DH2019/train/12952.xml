@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12952</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Laura zat laatst bij de beek</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">WEl! daar leidt hy (riep de <rhyme label="a" type="m">Stoet</rhyme>)</l>
+        <l id="s1:l2" met="4" type="+-">In den drekpoel, tot zijn <rhyme label="b" type="f">ooren</rhyme>!</l>
+        <l id="s1:l3" met="4" type="+-">Zoo dien geilen <rhyme label="a" type="m" corresp="#s1:l1">Geite-voet</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Hier, niet koome te <rhyme label="b" type="f" corresp="#s1:l2">versmooren</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Mach hy, als hem lust <rhyme label="b" type="f" corresp="#s1:l2">bekoore</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Weêr wel koomen (sprak <rhyme label="c" type="m">Diaan</rhyme>:)</l>
+        <l id="s1:l7" met="4" type="+-">Maar men zal hem, voor het <rhyme label="d" type="f">Knippen</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Dus betaalen en <rhyme label="d" type="f" corresp="#s1:l7">bekippen</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">Ha! ha! ha! kom laat ons <rhyme label="c" type="m" corresp="#s1:l6">gaan</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

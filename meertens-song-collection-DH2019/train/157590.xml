@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>157590</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Tranquilles coeurs</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="theatre">theater</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Hoe beefden flus   mijn teder <rhyme label="a" type="m">hert</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Doe uwe stem klonk in mijn <rhyme label="b" type="f">Oren</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Ag, dat ik nimmer tot mijn <rhyme label="a" type="m" corresp="#s1:l1">smert</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Niet namaals u verwyt moet <rhyme label="b" type="f" corresp="#s1:l2">horen</rhyme>,</l>
+        <l id="s1:l5" met="6" type="-+">Dat mijne losse tong mijn herts geheim zo <rhyme label="c" type="m">laf</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Aan u te kennen <rhyme label="c" type="m" corresp="#s1:l5">gaf</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

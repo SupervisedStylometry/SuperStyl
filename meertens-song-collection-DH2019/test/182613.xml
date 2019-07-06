@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182613</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Lieve, kleine onnooz'le <rhyme label="a" type="m">Lam</rhyme>!</l>
+        <l id="s1:l2" met="4" type="+-">Gy speelt zorgloos, bly en <rhyme label="a" type="m" corresp="#s1:l1">tam</rhyme>;</l>
+        <l id="s1:l3" met="3" type="+-">Geen vrees doet u <rhyme label="b" type="f">beeven</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Helaas! hy, die u streelt en <rhyme label="c" type="m">viert</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Word door eigenbaat <rhyme label="c" type="m" corresp="#s1:l4">bestiert</rhyme>:</l>
+        <l id="s1:l6" met="5" type="-+">Hy staat, hy staat bloeddorstig u naar 't <rhyme label="b" type="f" corresp="#s1:l3">leven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Aan dit rood schoonschynend <rhyme label="a" type="m">koord</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Sleept men u ter slagtbank <rhyme label="a" type="m" corresp="#s2:l1">voort</rhyme>:</l>
+        <l id="s2:l3" met="3" type="+-">Gy schynt niet te <rhyme label="b" type="f">schroomen</rhyme>.</l>
+        <l id="s2:l4" met="4" type="-+">De hand, die gy nu likt en <rhyme label="c" type="m">kust</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Zal, van meêly' <rhyme label="c" type="m" corresp="#s2:l4">onbewust</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">Wel haast, wel haast uw schuldloos bloed doen <rhyme label="b" type="f" corresp="#s2:l3">stroomen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Smaak, onschuldig beesje, <rhyme label="a" type="m">smaak</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Smaak gerust het zoet <rhyme label="a" type="m" corresp="#s3:l1">vermaak</rhyme></l>
+        <l id="s3:l3" met="3" type="+-">Dat ge u vindt <rhyme label="b" type="f">bereiden</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Geniet uw' korten tydperk <rhyme label="c" type="m">nu</rhyme>;</l>
+        <l id="s3:l5" met="4" type="+-">Want, helaas! wat baatte 't <rhyme label="c" type="m" corresp="#s3:l4">u</rhyme></l>
+        <l id="s3:l6" met="5" type="-+">Wist gy, wist gy wat lot u is <rhyme label="b" type="f" corresp="#s3:l3">bescheiden</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

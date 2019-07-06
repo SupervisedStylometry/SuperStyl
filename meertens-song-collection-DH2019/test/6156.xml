@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6156</id>
+    <date>
+      <year-start>1621</year-start>
+      <year-end>1621</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Lofzang van Simeon [Datheen]</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">NV werd ick uwen <rhyme label="a" type="m">knecht</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">So als ghy had <rhyme label="a" type="m" corresp="#s1:l1">gheseght</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">O heer, by u <rhyme label="b" type="f">ontbonden</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Met goed gheluck, <rhyme label="c" type="m">nadien</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Mijn oogh nv heeft <rhyme label="c" type="m" corresp="#s1:l4">ghesien</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Het heyl by u <rhyme label="b" type="f" corresp="#s1:l3">ghesonden</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Voor allerluy <rhyme label="a" type="m">ghesicht</rhyme>:</l>
+        <l id="s2:l2" met="3" type="-+">Den heydenen een <rhyme label="a" type="m" corresp="#s2:l1">licht</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Waer door 'tgunt school te <rhyme label="b" type="f">voren</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Werd aen den dagh <rhyme label="c" type="m">ghebracht</rhyme>:</l>
+        <l id="s2:l5" met="3" type="-+">Een eer voor u' <rhyme label="c" type="m" corresp="#s2:l4">gheslacht</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Vyt Israël <rhyme label="b" type="f" corresp="#s2:l3">gheboren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Siet dese dienen <rhyme label="a" type="m">sal</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Veel Ioden tot een <rhyme label="a" type="m" corresp="#s3:l1">val</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Veel tot oprijsing <rhyme label="b" type="f">mede</rhyme>:</l>
+        <l id="s3:l4" met="3" type="-+">Een hoogh verheven <rhyme label="c" type="m">merck</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Maer 'twelck met woord ende <rhyme label="c" type="m" corresp="#s3:l4">werck</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Sal werden seer <rhyme label="b" type="f" corresp="#s3:l3">bestreden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Des, die hem-hebt <rhyme label="a" type="m">ghebaert</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Doorsnee'n als met een <rhyme label="a" type="m" corresp="#s4:l1">swaerd</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">V ziel sal bitter <rhyme label="b" type="f">smarten</rhyme>:</l>
+        <l id="s4:l4" met="3" type="-+">Dus sal oock werden <rhyme label="c" type="m">naeckt</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Al het ghepyns <rhyme label="c" type="m" corresp="#s4:l4">ghemaeckt</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Van veeler menschen <rhyme label="b" type="f" corresp="#s4:l3">harten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

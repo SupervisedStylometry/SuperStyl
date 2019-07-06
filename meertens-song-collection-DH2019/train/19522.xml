@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19522</id>
+    <date>
+      <year-start>1677</year-start>
+      <year-end>1677</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+    </tags>
+    <melody>Phoebus is lang over de zee</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">KLaartje liep eens in de <rhyme label="a" type="m">Mist</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">En 't begon zo zwaar te <rhyme label="b" type="f">Miste</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Dat de Mist haar, eer zy 't <rhyme label="a" type="m" corresp="#s1:l1">wist</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">(Of in 't minst daar iet op <rhyme label="b" type="f" corresp="#s1:l2">giste</rhyme>)</l>
+        <l id="s1:l5" met="4" type="+-">Soo beving, dat sy op 't <rhyme label="c" type="m">lest</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Schier geraakte buiten <rhyme label="c" type="m" corresp="#s1:l5">West</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">De Mist kreeg kracht als <rhyme label="c" type="m" corresp="#s1:l5">Gest</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">'t Meisjes keursje rees voor <rhyme label="a" type="m">kort</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">En het zackte achter <rhyme label="b" type="f">lager</rhyme>;</l>
+        <l id="s2:l3" met="4" type="+-">'k Weet niet, seid'ze, watme <rhyme label="a" type="m" corresp="#s2:l1">schort</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Want ik word vast dor, en <rhyme label="b" type="f" corresp="#s2:l2">mager</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">'k Loof dat heeft de Mist <rhyme label="c" type="m">gedaan</rhyme>.</l>
+        <l id="s2:l6" met="4" type="+-">Mist het my niet in 't <rhyme label="c" type="m" corresp="#s2:l5">verstaan</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Ik moet aan 't Water <rhyme label="c" type="m" corresp="#s2:l5">gaan</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Toen quam 't Water voor den <rhyme label="a" type="m">dag</rhyme>.</l>
+        <l id="s3:l2" met="4" type="+-">Maar 't had armen, hooft, en <rhyme label="b" type="f">beenen</rhyme>;</l>
+        <l id="s3:l3" met="4" type="+-">Mits zy 't Water leven <rhyme label="a" type="m" corresp="#s3:l1">zag</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Zeid' ze dit noch onder 't <rhyme label="b" type="f" corresp="#s3:l2">steenen</rhyme>:</l>
+        <l id="s3:l5" met="4" type="+-">Foei heeft dit de Mist <rhyme label="c" type="m">gemaakt</rhyme>?</l>
+        <l id="s3:l6" met="4" type="+-">Neen, zei Griet, 't gemist' niet <rhyme label="c" type="m" corresp="#s3:l5">wraakt</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Maar 't geen u heeft wist' <rhyme label="c" type="m" corresp="#s3:l5">geraakt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

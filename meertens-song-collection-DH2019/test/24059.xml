@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24059</id>
+    <date>
+      <year-start>1678</year-start>
+      <year-end>1678</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Een ridder en een meisje jong</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Heere wie sal in uwen <rhyme label="a" type="m">Tent</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Woonen en blijven daer met <rhyme label="b" type="f">lusten</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">In uwen berch seer <rhyme label="a" type="m" corresp="#s1:l1">excellent</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Wie sal doch daer in <rhyme label="b" type="f" corresp="#s1:l2">rusten</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die onbevleckt houdt sijnen <rhyme label="a" type="m">tredt</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">En hem tot deuchden hier wilt <rhyme label="b" type="f">keeren</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Sijn betrouwen op den Heere <rhyme label="a" type="m" corresp="#s2:l1">sedt</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">En wilt gherechticheyt <rhyme label="b" type="f" corresp="#s2:l2">hanteren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Die spreeckt de naeckte waerheyt <rhyme label="a" type="m">bloot</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Altijdt in alle zijn <rhyme label="b" type="f">ghedachten</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Die van bedroch int cleyn oft <rhyme label="a" type="m" corresp="#s3:l1">groot</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Sijn tonghe seer wel can <rhyme label="b" type="f" corresp="#s3:l2">wachten</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Die sijnen naesten hoort mijn <rhyme label="a" type="m">verman</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Gheen quaet en heeft al hier <rhyme label="b" type="f">bewesen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Noch hem gheen schade en heeft <rhyme label="a" type="m" corresp="#s4:l1">ghedaen</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Te recht wordt die <rhyme label="b" type="f" corresp="#s4:l2">ghepresen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">De boose zijn te niet <rhyme label="a" type="m">ghebracht</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Door hem, maer die den Heer der <rhyme label="b" type="f">Heeren</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Vreesen hier wt al haer <rhyme label="a" type="m" corresp="#s5:l1">cracht</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Die sal hy <rhyme label="b" type="f" corresp="#s5:l2">exalteren</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Die houdt dat hy sijnen naesten <rhyme label="a" type="m">sweert</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Ende die zijn ghelt tot gheenen <rhyme label="b" type="f">stonden</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Op woecker sedt, noch oock <rhyme label="a" type="m" corresp="#s6:l1">begheert</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Ghiften die hem worden <rhyme label="b" type="f" corresp="#s6:l2">ghesonden</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Al die dit doet verstaghet <rhyme label="a" type="m">wel</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Altijt sal hy seer wel <rhyme label="b" type="f">beclijven</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">Heel onberoert hy wesen <rhyme label="a" type="m" corresp="#s7:l1">sal</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Volstandich sal hy <rhyme label="b" type="f" corresp="#s7:l2">blijven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

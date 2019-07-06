@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>115261</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>deventer</orginal-name>
+      <standard-name>Deventer, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.2532272</lon>
+        <lat>6.1584725</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody>Psalm 080 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GEtrouwe Godt, wilt my <rhyme label="a" type="f">behoeden</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Dat ik door vele <rhyme label="a" type="f" corresp="#s1:l1">tegenspoeden</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Niet in mijn druk en magh <rhyme label="b" type="m">vergaen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Maer manlik in 't geloove <rhyme label="b" type="m" corresp="#s1:l3">staen</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Wilt uwen troost my geven <rhyme label="c" type="m">maer</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Soo sal ik vresen geen <rhyme label="c" type="m" corresp="#s1:l5">gevaer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Mijn ziel is flaeuw door al 't <rhyme label="a" type="f">verschrikken</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Maer uwen troost kan haer <rhyme label="a" type="f" corresp="#s2:l1">verquikken</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Soo soet en lieflik, dat sy <rhyme label="b" type="m">is</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Te vreden in haer <rhyme label="b" type="m" corresp="#s2:l3">droesenis</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">En sy, ô Godt, u swyge <rhyme label="c" type="m">still'</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">En seggh'; Heer sus lust my u <rhyme label="c" type="m" corresp="#s2:l5">will</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ghy wilt behouden op het <rhyme label="a" type="f">meeste</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Die recht verslagen zijn van <rhyme label="a" type="f" corresp="#s3:l1">geeste</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Soo weest niet verre nu van <rhyme label="b" type="m">my</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Vermits benauwtheit is <rhyme label="b" type="m" corresp="#s3:l3">na-by</rhyme>;</l>
+        <l id="s3:l5" met="4" type="-+">Want daer en is geen helper <rhyme label="c" type="m">meer</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Dan ghy alleen, mijn Godt en <rhyme label="c" type="m" corresp="#s3:l5">Heer</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Soo 'k maer kan seggen in mijn <rhyme label="a" type="f">smerten</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Heer, sus lust my u will' van <rhyme label="a" type="f" corresp="#s4:l1">herten</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Kan my niet schaden enigh <rhyme label="b" type="m">dink</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Schoon alles my ook tegen <rhyme label="b" type="m" corresp="#s4:l3">gink</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Heer, sus lust my u will', is 't <rhyme label="c" type="m">woort</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Dat ik staegh wensch te brengen <rhyme label="c" type="m" corresp="#s4:l5">voort</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

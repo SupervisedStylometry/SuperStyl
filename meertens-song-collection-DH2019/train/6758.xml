@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6758</id>
+    <date>
+      <year-start>1620</year-start>
+      <year-end>1620</year-end>
+    </date>
+    <location>
+      <orginal-name>gent</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="sonnet" translation="sonnet">sonnet</tag>
+    </tags>
+    <melody>Helaas het en was geen nood</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author>Justus de Harduwijn</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">BLind-man die onbeschaemt met u ruysschende <rhyme label="a" type="f">Liere</rhyme></l>
+        <l id="s1:l2" met="6" type="-+">Gaet bedelen u brood, nu hier, ende nu <rhyme label="b" type="m">daer</rhyme>;</l>
+        <l id="s1:l3" met="6" type="-+">Ghy en leeft niet alleen in tegehen-spoede <rhyme label="b" type="m" corresp="#s1:l2">swaer</rhyme>:</l>
+        <l id="s1:l4" met="6" type="-+">‘Kben oock mijn ooghen quijt, die ick achte zoo <rhyme label="a" type="f" corresp="#s1:l1">diere</rhyme>.</l>
+        <l id="s1:l5" met="6" type="-+">Ghelijck al’st doet in u, o Lier-man <rhyme label="a" type="f" corresp="#s1:l1">goedertiere</rhyme>!</l>
+        <l id="s1:l6" met="6" type="-+">Is t’eenemael vergaen mijn sicht-ghestraelde <rhyme label="b" type="m" corresp="#s1:l2">claer</rhyme>:</l>
+        <l id="s1:l7" met="6" type="-+">Maer u mis-rief dat word beklaeght in ’t <rhyme label="b" type="m" corresp="#s1:l2">openbaer</rhyme>,</l>
+        <l id="s1:l8" met="6" type="-+">En ‘tmijne waer ick comm’ en acht-men niet een <rhyme label="a" type="f" corresp="#s1:l1">siere</rhyme>.</l>
+        <l id="s1:l9" met="6" type="-+">Ghy treurt in aermoe swaer; en ick in droeve <rhyme label="c" type="m">smert</rhyme>:</l>
+        <l id="s1:l10" met="6" type="-+">U lijf-tochte ghy soeckt, en ick troost voor mijn <rhyme label="c" type="m" corresp="#s1:l9">hert</rhyme>.</l>
+        <l id="s1:l11" met="6" type="+-">Maer niemandt als van u, en heeft met my <rhyme label="d" type="f">me-lijden</rhyme>.</l>
+        <l id="s1:l12" met="6" type="-+">En noch is tusschen ons een ander <rhyme label="e" type="m">onder-scheydt</rhyme>:</l>
+        <l id="s1:l13" met="6" type="-+">Ghy word van eenen hond ghetrouwelijck <rhyme label="e" type="m" corresp="#s1:l12">gheleydt</rhyme>,</l>
+        <l id="s1:l14" met="6" type="-+">En ick van blinde lust die m’allom leydt <rhyme label="d" type="f" corresp="#s1:l11">besijden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

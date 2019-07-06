@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>115838</id>
+    <date>
+      <year-start>1694</year-start>
+      <year-end>1694</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Helaas wat zwaar verdriet</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Cornelis Sweerts</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Helaas wat zwaar <rhyme label="a" type="m">verdriet</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Kan ik u noit <rhyme label="b" type="f">beweegen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Gy hoord myn klachten <rhyme label="a" type="m" corresp="#s1:l1">niet</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Ja lacht met myn <rhyme label="a" type="m" corresp="#s1:l1">verdriet</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">O Schoone is in uw <rhyme label="c" type="m">zin</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">U daar niet <rhyme label="b" type="f" corresp="#s1:l2">aangelegen</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Of ik uw trouwlyk <rhyme label="c" type="m" corresp="#s1:l5">min</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">En nochtans niet en <rhyme label="c" type="m" corresp="#s1:l5">win</rhyme>,</l>
+        <l id="s1:l9" met="4" type="-+">Zo zyt gy dan gelyk een <rhyme label="d" type="m">klip</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">Waar op wel haast myn <rhyme label="e" type="f">leven</rhyme>,</l>
+        <l id="s1:l11" met="3" type="+-">Als een gezonken <rhyme label="d" type="m" corresp="#s1:l9">Schip</rhyme>,</l>
+        <l id="s1:l12" met="2" type="-+">My zal <rhyme label="e" type="f" corresp="#s1:l10">begeven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Albaste rots zo <rhyme label="a" type="m">kout</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Gelyk de Noorder <rhyme label="b" type="f">bergen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Daar d'Ysbeer zich <rhyme label="a" type="m" corresp="#s2:l1">onthoud</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">En ieder een voor <rhyme label="a" type="m" corresp="#s2:l1">grout</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Die schriklyk staan ten <rhyme label="c" type="m">toon</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Wiens gryze toppen <rhyme label="b" type="f" corresp="#s2:l2">tergen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">De Hemel en de <rhyme label="c" type="m" corresp="#s2:l5">Goôn</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">In haaren <rhyme label="c" type="m" corresp="#s2:l5">oppertroôn</rhyme>.</l>
+        <l id="s2:l9" met="4" type="-+">Geen Noorder Ysklip schuwt de <rhyme label="d" type="m">min</rhyme>,</l>
+        <l id="s2:l10" met="3" type="-+">De Goden zelver <rhyme label="e" type="f">blaaken</rhyme>,</l>
+        <l id="s2:l11" met="3" type="+-">Zult gy dan in uw <rhyme label="d" type="m" corresp="#s2:l9">zin</rhyme>,</l>
+        <l id="s2:l12" met="2" type="-+">De liefde <rhyme label="e" type="f" corresp="#s2:l10">wraaken</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

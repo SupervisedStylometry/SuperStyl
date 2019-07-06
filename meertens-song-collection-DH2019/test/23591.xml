@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>23591</id>
+    <date>
+      <year-start>1572</year-start>
+      <year-end>1572</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen [=alkmaar]</orginal-name>
+      <standard-name>Alkmaar, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.6312592</lon>
+        <lat>4.7503798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Es wollt uns Gott genädig sein</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">So dancken God ende loven <rhyme label="a" type="m">dy</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">die Heydenen over <rhyme label="b" type="f">alle</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">ende alle Weerelt vervrouwe <rhyme label="a" type="m" corresp="#s1:l1">sich</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">ende singe met grooten <rhyme label="b" type="f" corresp="#s1:l2">schalle</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Dat du op aerden richter <rhyme label="c" type="m">bist</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">unde laetst die zonde niet <rhyme label="d" type="f">wolden</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">dijn Woort die hoeden ende weyde <rhyme label="c" type="m" corresp="#s1:l5">is</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">die alle volck <rhyme label="d" type="f" corresp="#s1:l6">erholden</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">In rechter daen toe <rhyme label="d" type="f" corresp="#s1:l6">wonderen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

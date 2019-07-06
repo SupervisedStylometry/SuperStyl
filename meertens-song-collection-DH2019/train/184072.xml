@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184072</id>
+    <date>
+      <year-start>1806</year-start>
+      <year-end>1806</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Jan Steven van Esveldt Holtrop, Willem Holtrop</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Dans un monument, la <rhyme label="a" type="m">beauté</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Nous frappe la <rhyme label="b" type="f">première</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">C'est à tort: la <rhyme label="a" type="m" corresp="#s1:l1">solidité</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Est bien plus <rhyme label="b" type="f" corresp="#s1:l2">nécessaire</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Qui ne bâtit que pour les <rhyme label="c" type="m">yeux</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Peint son <rhyme label="d" type="f">extravagance</rhyme>;</l>
+        <l id="s1:l7" met="4" type="-+">Maix qui bâtit pour ses <rhyme label="c" type="m" corresp="#s1:l5">neveux</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Nous prouve sa <rhyme label="d" type="f" corresp="#s1:l6">prudence</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Il faut, au physique, au <rhyme label="a" type="m">moral</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Quand la raison <rhyme label="b" type="f">préside</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">De tout ouvrage juger <rhyme label="a" type="m" corresp="#s2:l1">mal</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Dès qu'il n'est pas <rhyme label="b" type="f" corresp="#s2:l2">solide</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Pour garantir nos <rhyme label="c" type="m">bâtimens</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">De ce vice <rhyme label="d" type="f">ordinaire</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Nous employons à tous <rhyme label="c" type="m" corresp="#s2:l5">momens</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">La <rhyme label="d" type="f" corresp="#s2:l6">perpendiculaire</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

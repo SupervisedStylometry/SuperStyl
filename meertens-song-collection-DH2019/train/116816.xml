@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>116816</id>
+    <date>
+      <year-start>1709</year-start>
+      <year-end>1709</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="verjaardagslied" translation="birthday song">verjaardagslied</tag>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="cycle of life">levenscyclus</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Aernout van Overbeke</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Geeft hem Water in zijn <rhyme label="a" type="m">gat</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Die geen Smaek in Wijn en <rhyme label="b" type="m">heeft</rhyme>.</l>
+        <l id="s1:l3" met="4" type="+-">Wat verbruyder Beest is <rhyme label="a" type="m" corresp="#s1:l1">dat</rhyme>;</l>
+        <l id="s1:l4" met="4" type="+-">Die niet waert is, dat hy <rhyme label="b" type="m" corresp="#s1:l2">leeft</rhyme>’</l>
+        <l id="s1:l5" met="4" type="+-">Die niet waert is, dat hy <rhyme label="b" type="m" corresp="#s1:l2">leeft</rhyme>’.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Onsmaklijke <rhyme label="a" type="m">Smaekloos</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Is het Bakhuys nu <rhyme label="b" type="m">vereelt</rhyme>?</l>
+        <l id="s2:l3" met="4" type="+-">Of is het verhemelt <rhyme label="a" type="m" corresp="#s2:l1">voos</rhyme>?</l>
+        <l id="s2:l4" met="4" type="+-">Dat veel Kuykens heeft <rhyme label="b" type="m" corresp="#s2:l2">geteelt</rhyme>’</l>
+        <l id="s2:l5" met="4" type="+-">Dat veel Kuykens heeft <rhyme label="b" type="m" corresp="#s2:l2">geteelt</rhyme>’.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">'k Loof de darmen zijn te <rhyme label="a" type="m">vol</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">En despijs wil niet <rhyme label="b" type="m">beneen</rhyme>;</l>
+        <l id="s3:l3" met="4" type="+-">Want hy Porcust hier als <rhyme label="a" type="m" corresp="#s3:l1">dol</rhyme>:</l>
+        <l id="s3:l4" met="4" type="+-">Misschien smaekt hem dat <rhyme label="b" type="m" corresp="#s3:l2">alleen</rhyme>’</l>
+        <l id="s3:l5" met="4" type="+-">Misschien smaekt hem dat <rhyme label="b" type="m" corresp="#s3:l2">alleen</rhyme>’.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Soo je wilt na huys toe <rhyme label="a" type="m">gaen</rhyme>;</l>
+        <l id="s4:l2" met="4" type="+-">Maekt dat u geen Varken <rhyme label="b" type="m">hoort</rhyme>;</l>
+        <l id="s4:l3" met="4" type="+-">Of het ranst u daetlijk <rhyme label="a" type="m" corresp="#s4:l1">aen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">En vermaent u uw <rhyme label="b" type="m" corresp="#s4:l2">Geboort</rhyme>’</l>
+        <l id="s4:l5" met="4" type="+-">En vermaent u uw <rhyme label="b" type="m" corresp="#s4:l2">Geboort</rhyme>’.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

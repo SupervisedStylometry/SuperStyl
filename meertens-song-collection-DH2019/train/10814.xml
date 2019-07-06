@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10814</id>
+    <date>
+      <year-start>1605</year-start>
+      <year-end>1605</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>De nachtegaal die zong een lied</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Dit heef ick an, en drincket <rhyme label="a" type="m">dan</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Met eenen <rhyme label="b" type="m">sedt</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Als ick my weer ghelijck een <rhyme label="a" type="m" corresp="#s1:l1">man</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Ick vaer te <rhyme label="b" type="m" corresp="#s1:l2">bedt</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Dus wil ick niet vertoeven, maer <rhyme label="c" type="f">proeven</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Dit wijntghen ras, fijn uyt dit <rhyme label="d" type="m">glas</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">T’ontdraeyt die vaste <rhyme label="c" type="f" corresp="#s1:l5">schroeven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Doet ghy so me, soo ick <rhyme label="a" type="m">terstee</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">V voort <rhyme label="b" type="m">gae</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Een cleyne bee, hoeft ghy hier <rhyme label="a" type="m" corresp="#s2:l1">ree</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Ist soo seght <rhyme label="b" type="m" corresp="#s2:l2">jae</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Om sulcken croes te drincken, sonder <rhyme label="c" type="f">clincken</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Nu derf ic niet, omdat ment <rhyme label="d" type="m">siet</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Ghy mocht my schand na <rhyme label="c" type="f" corresp="#s2:l5">dincken</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Nu tsa wel an, siet of ick <rhyme label="a" type="m">can</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Te deeghen <rhyme label="b" type="m">wel</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Ick scheyer niet van in dit <rhyme label="a" type="m" corresp="#s3:l1">ghespan</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">T’moet in myn <rhyme label="b" type="m" corresp="#s3:l2">vel</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">Als ict heb binnen, micke, tmach hemt <rhyme label="c" type="f">schicke</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Ick gaer mee voort, alsoot <rhyme label="d" type="m">behoort</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Nu tsa waer nae stae <rhyme label="c" type="f" corresp="#s3:l5">icke</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

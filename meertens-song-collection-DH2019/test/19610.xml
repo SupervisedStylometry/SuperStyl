@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19610</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Stokkendans</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">IEts doet ons de Bietjes <rhyme label="a" type="f">prijsen</rhyme>;</l>
+        <l id="s1:l2" met="4" type="+-">Iets ‘er laake, zoet, en <rhyme label="b" type="m">zuir</rhyme>:</l>
+        <l id="s1:l3" met="4" type="+-">Mijn Floraura, kan <rhyme label="a" type="f" corresp="#s1:l1">bewijsen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">In ‘er ze’en, zo een <rhyme label="b" type="m" corresp="#s1:l2">bestuir</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Heunig draagd de By, en <rhyme label="a" type="f">anglen</rhyme>;</l>
+        <l id="s2:l2" met="4" type="+-">‘T een verzaft, en, ‘t ander <rhyme label="b" type="m">scharpt</rhyme>:</l>
+        <l id="s2:l3" met="4" type="+-">Heunig lokt ons, maar de <rhyme label="a" type="f" corresp="#s2:l1">tanglen</rhyme>.</l>
+        <l id="s2:l4" met="4" type="+-">Vlien wy, wijl ‘t ons knijpt en <rhyme label="b" type="m" corresp="#s2:l2">znarpt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Mijn Floraura voed ‘er <rhyme label="a" type="f">lipjes</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Met een <rhyme label="b" type="m">Hemelzoetigheid</rhyme>;</l>
+        <l id="s3:l3" met="4" type="+-">Maar die barre’ en harde <rhyme label="a" type="f" corresp="#s3:l1">klipjes</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Van ‘er harte, stigtme <rhyme label="b" type="m" corresp="#s3:l2">leid</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Isser iemend ooit <rhyme label="a" type="f">genepe</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Van des Bietjes <rhyme label="b" type="m">angelroe</rhyme>:</l>
+        <l id="s4:l3" met="4" type="+-">Kben nog eens zo stark <rhyme label="a" type="f" corresp="#s4:l1">gegreepe</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Dan, dat is tot <rhyme label="b" type="m" corresp="#s4:l2">daarentoe</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Nooit en zal ik ‘t Bietje <rhyme label="a" type="f">hate</rhyme></l>
+        <l id="s5:l2" met="4" type="+-">Om zen vinnigheidjes, <rhyme label="b" type="m">neen</rhyme>:</l>
+        <l id="s5:l3" met="4" type="+-">Want zen zoete <rhyme label="a" type="f" corresp="#s5:l1">heunigrate</rhyme></l>
+        <l id="s5:l4" met="4" type="+-">Zijn in zmake <rhyme label="b" type="m" corresp="#s5:l2">ongemeen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Leef, en sweef dan preutze <rhyme label="a" type="f">By’e</rhyme>!</l>
+        <l id="s6:l2" met="4" type="+-">Trotzen angelprikker, <rhyme label="b" type="m">leeft</rhyme>:</l>
+        <l id="s6:l3" met="4" type="+-">Kmach u prikkelen wel <rhyme label="a" type="f" corresp="#s6:l1">lij’en</rhyme></l>
+        <l id="s6:l4" met="4" type="+-">Om de zuikker diege <rhyme label="b" type="m" corresp="#s6:l2">geeft</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

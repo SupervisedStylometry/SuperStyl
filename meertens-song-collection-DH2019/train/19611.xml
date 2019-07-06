@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19611</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="danslied" translation="dancing song">danslied</tag>
+    </tags>
+    <melody>Voeg u aan de krans</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Thomas Fonteyn</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">PLuto helle <rhyme label="a" type="m">God</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">Voeg u me’e nu <rhyme label="a" type="m" corresp="#s1:l1">tot</rhyme></l>
+        <l id="s1:l3" met="3" type="+-">Ons bekroozeld <rhyme label="a" type="m" corresp="#s1:l1">rot</rhyme>;</l>
+        <l id="s1:l4" met="2" type="-+">Wy bidden <rhyme label="b" type="m">koom</rhyme>;</l>
+        <l id="s1:l5" met="3" type="+-">Spring, en maakt <rhyme label="c" type="m">gerugt</rhyme></l>
+        <l id="s1:l6" met="3" type="+-">In de swarte <rhyme label="c" type="m" corresp="#s1:l5">lucht</rhyme>,</l>
+        <l id="s1:l7" met="3" type="+-">Daar den boozen <rhyme label="c" type="m" corresp="#s1:l5">zugt</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">Benaaut <rhyme label="b" type="m" corresp="#s1:l4">schroom</rhyme>;</l>
+        <l id="s1:l9" met="3" type="+-">Hier is Orfe’es <rhyme label="d" type="m">Vrou</rhyme>,</l>
+        <l id="s1:l10" met="3" type="+-">Die met groten <rhyme label="d" type="m" corresp="#s1:l9">rou</rhyme>,</l>
+        <l id="s1:l11" met="3" type="+-">Schaakkeld van ‘er <rhyme label="d" type="m" corresp="#s1:l9">Trou</rhyme>;</l>
+        <l id="s1:l12" met="2" type="-+">Kom zie ‘er <rhyme label="e" type="m">aan</rhyme>.</l>
+        <l id="s1:l13" met="3" type="+-">Zing en spring <rhyme label="f" type="m">romdom</rhyme>,</l>
+        <l id="s1:l14" met="3" type="+-">Slings, en regs, en <rhyme label="f" type="m" corresp="#s1:l13">krom</rhyme></l>
+        <l id="s1:l15" met="2" type="+-">Zwier en <rhyme label="g" type="m">draei</rhyme>,</l>
+        <l id="s1:l16" met="2" type="+-">Kruld en <rhyme label="g" type="m" corresp="#s1:l15">zwaei</rhyme>,</l>
+        <l id="s1:l17" met="2" type="-+">Tsal lustig <rhyme label="e" type="m" corresp="#s1:l12">gaan</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Tantalus, hou <rhyme label="a" type="m">stil</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">Van u <rhyme label="a" type="m" corresp="#s2:l1">gaapgedril</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">Tis ons all ‘er <rhyme label="a" type="m" corresp="#s2:l1">wil</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">En dans me’e: <rhyme label="b" type="m">tza</rhyme>;</l>
+        <l id="s2:l5" met="3" type="+-">Zizifus, laat <rhyme label="c" type="m">staan</rhyme></l>
+        <l id="s2:l6" met="3" type="+-">‘Top en <rhyme label="c" type="m" corresp="#s2:l5">nedergaan</rhyme></l>
+        <l id="s2:l7" met="3" type="+-">Van u <rhyme label="c" type="m" corresp="#s2:l5">berrigbaan</rhyme></l>
+        <l id="s2:l8" met="2" type="-+">En dans me’e <rhyme label="b" type="m" corresp="#s2:l4">drae</rhyme>,</l>
+        <l id="s2:l9" met="3" type="+-">Prozerpina, <rhyme label="d" type="m">fleuit</rhyme></l>
+        <l id="s2:l10" met="3" type="+-">Met een schel <rhyme label="d" type="m" corresp="#s2:l9">geluit</rhyme>,</l>
+        <l id="s2:l11" met="3" type="+-">Boezemd wakker <rhyme label="d" type="m" corresp="#s2:l9">uit</rhyme></l>
+        <l id="s2:l12" met="2" type="-+">Ons groote <rhyme label="e" type="m">feest</rhyme>:</l>
+        <l id="s2:l13" met="3" type="+-">Kom vat handen <rhyme label="f" type="m">an</rhyme></l>
+        <l id="s2:l14" met="3" type="+-">Ider als een <rhyme label="f" type="m" corresp="#s2:l13">Man</rhyme>,</l>
+        <l id="s2:l15" met="2" type="+-">Fix en <rhyme label="g" type="m">knap</rhyme>,</l>
+        <l id="s2:l16" met="2" type="+-">Gaau en <rhyme label="g" type="m" corresp="#s2:l15">rap</rhyme>,</l>
+        <l id="s2:l17" met="2" type="-+">Elk om een <rhyme label="e" type="m" corresp="#s2:l12">meest</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

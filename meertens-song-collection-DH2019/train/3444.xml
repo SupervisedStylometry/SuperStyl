@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3444</id>
+    <date>
+      <year-start>1575</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Psalm 038 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>D.V. Coornhert</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">DIe hier na Goods woord wil <rhyme label="a" type="f">leven</rhyme>,</l>
+        <l id="s1:l2" met="2" type="+-">Hem <rhyme label="a" type="f" corresp="#s1:l1">aankleven</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Ydel waan met aardsche <rhyme label="b" type="m">lust</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Die poghen door valsche <rhyme label="c" type="f">treken</rhyme>,</l>
+        <l id="s1:l5" met="2" type="+-">En zoet <rhyme label="c" type="f" corresp="#s1:l4">smeken</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Hem te houden uyt Goods <rhyme label="b" type="m" corresp="#s1:l3">rust</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Volghdy, zeggen zy, u <rhyme label="a" type="f">dromen</rhyme>,</l>
+        <l id="s2:l2" met="2" type="+-">Ghy zult <rhyme label="a" type="f" corresp="#s2:l1">komen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">uyt veel vrueghden in <rhyme label="b" type="m">trueren</rhyme>.</l>
+        <l id="s2:l4" met="4" type="+-">Blyft hier, wildyt niet <rhyme label="c" type="f">beklaghen</rhyme>,</l>
+        <l id="s2:l5" met="2" type="+-">By u <rhyme label="c" type="f" corresp="#s2:l4">maghen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Binnen der weelden <rhyme label="b" type="m" corresp="#s2:l3">dueren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Maar die God ghelooft <rhyme label="a" type="f">ootmoedigh</rhyme>,</l>
+        <l id="s3:l2" met="2" type="+-">Haast hem <rhyme label="a" type="f" corresp="#s3:l1">spoedigh</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">uyt hem zelf tot God te <rhyme label="b" type="m">treen</rhyme>.</l>
+        <l id="s3:l4" met="4" type="+-">Hy komt met hoop en <rhyme label="c" type="f">betrouwen</rhyme>,</l>
+        <l id="s3:l5" met="2" type="+-">Door veel <rhyme label="c" type="f" corresp="#s3:l4">rouwen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">In vrueghden met God <rhyme label="b" type="m" corresp="#s3:l3">ghemeen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

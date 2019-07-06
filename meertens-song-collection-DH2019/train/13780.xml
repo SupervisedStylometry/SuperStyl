@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13780</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Ballet d'Alkmaar</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>anoniem</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="8" type="+-">Dus mijn lief, in dien ghy immermeer wert vande nijd <rhyme label="a" type="f">bestreden</rhyme>,</l>
+        <l id="s1:l2" met="6" type="+-">Door een vijs geklap van vuyle <rhyme label="b" type="m">snapperny</rhyme>,</l>
+        <l id="s1:l3" met="8" type="+-">Ey ick bidt, soo ‘t immers wesen kan, soo stelt u hert te <rhyme label="a" type="f" corresp="#s1:l1">vreden</rhyme>,</l>
+        <l id="s1:l4" met="6" type="+-">Denckt de vrome sijn daer van het minste <rhyme label="b" type="m" corresp="#s1:l2">vry</rhyme>,</l>
+        <l id="s1:l5" met="3" type="+-">Schoon de <rhyme label="c" type="m">leugenaer</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Leugens seydt <rhyme label="c" type="m" corresp="#s1:l5">voorwaer</rhyme>,</l>
+        <l id="s1:l7" met="5" type="+-">Denckt de tijdt sal ‘t maken wel <rhyme label="c" type="m" corresp="#s1:l5">onwaer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

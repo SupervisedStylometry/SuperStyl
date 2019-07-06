@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>11432</id>
+    <date>
+      <year-start>1627</year-start>
+      <year-end>1627</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>A la fontaine du pré</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Jacob Janszoon Colevelt, A. Pietersz. Craen, Matthijs van Velden, Jan Robbertsz</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">GOdinnetjen weest niet <rhyme label="a" type="m">schuw</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Voor my u blye <rhyme label="b" type="f">Troosjen</rhyme>:</l>
+        <l id="s1:l3" met="4" type="+-">Ay! komt doch harrewaerts <rhyme label="a" type="m" corresp="#s1:l1">nu</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Mijn over-soetste <rhyme label="b" type="f" corresp="#s1:l2">Roosjen</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">En rust by my een <rhyme label="b" type="f" corresp="#s1:l2">poosjen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Kom, kom, set u op dit <rhyme label="a" type="m">gras</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Hier by my op dees <rhyme label="b" type="f">Kruytjens</rhyme>:</l>
+        <l id="s2:l3" met="4" type="+-">Want je komt so wel te <rhyme label="a" type="m" corresp="#s2:l1">pas</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Om plucken dese <rhyme label="b" type="f" corresp="#s2:l2">Spruytjens</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">En proeven can dees <rhyme label="b" type="f" corresp="#s2:l2">Fruytjens</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Nimphelijn, mijn lieve <rhyme label="a" type="m">Vrouw</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Wat hebje bly'e <rhyme label="b" type="f">ooghjens</rhyme>!</l>
+        <l id="s3:l3" met="4" type="+-">Kust my eens, mijn soete <rhyme label="a" type="m" corresp="#s3:l1">Trouw</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Ay, kust my met u <rhyme label="b" type="f" corresp="#s3:l2">tooghjens</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Vry aen mijn mond wat <rhyme label="b" type="f" corresp="#s3:l2">hooghjens</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Soo mijn alder-soetste <rhyme label="a" type="m">hart</rhyme>!</l>
+        <l id="s4:l2" met="3" type="-+">Nu ick oock eens u <rhyme label="b" type="f">lipjens</rhyme>:</l>
+        <l id="s4:l3" met="4" type="+-">Dat smaeckt! ach! gantsch Nectar <rhyme label="a" type="m" corresp="#s4:l1">wert</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Mijn ziel in dees u <rhyme label="b" type="f" corresp="#s4:l2">klipjens</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">En roo-Corale <rhyme label="b" type="f" corresp="#s4:l2">stipjens</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

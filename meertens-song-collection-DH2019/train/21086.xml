@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21086</id>
+    <date>
+      <year-start>1649</year-start>
+      <year-end>1649</year-end>
+    </date>
+    <location>
+      <orginal-name>zaandam</orginal-name>
+      <standard-name>Zaandam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.4424926</lon>
+        <lat>4.8298607</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Ne vous offensez madame</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Hendrik Jacobz. Soetenboom</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">'T Is veel beter te <rhyme label="a" type="f">vergaren</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">'t Is veel beter met sijn <rhyme label="b" type="m">tween</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Dan te slijten sijne <rhyme label="a" type="f" corresp="#s1:l1">jaren</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Met veel treuricheydt <rhyme label="b" type="m" corresp="#s1:l2">alleen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Waerom sal ick dan <rhyme label="a" type="f">ontvlieden</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Met een gunstelijck <rhyme label="b" type="m">gelaet</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Dese twee geluck te <rhyme label="a" type="f" corresp="#s2:l1">bieden</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">In dees aengevangen <rhyme label="b" type="m" corresp="#s2:l2">staet</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Tsa wel aen, wel op met <rhyme label="a" type="f">vreughden</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Ghy genooden jonck en <rhyme label="b" type="m">oudt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Die met vrolijcke <rhyme label="a" type="f" corresp="#s3:l1">geneughden</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Met ons dese Bruyloft <rhyme label="b" type="m" corresp="#s3:l2">houdt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Helpt my doch met vreughden <rhyme label="a" type="f">singen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Barst met held're keeltjes <rhyme label="b" type="m">uyt</rhyme>:</l>
+        <l id="s4:l3" met="4" type="+-">Laet ons doch den lof <rhyme label="a" type="f" corresp="#s4:l1">voortbringen</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Van den Bruydegom en <rhyme label="b" type="m" corresp="#s4:l2">Bruydt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Bruydegom en Bruydt <rhyme label="a" type="f">verheven</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Veel gelucks in desen <rhyme label="b" type="m">staet</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Veel voorspoets wil u God <rhyme label="a" type="f" corresp="#s5:l1">geven</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">En bewaren voor het <rhyme label="b" type="m" corresp="#s5:l2">quaet</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Saligh zy u eerst <rhyme label="a" type="f">beginnen</rhyme>:</l>
+        <l id="s6:l2" met="4" type="+-">Saligh zy u daden <rhyme label="b" type="m">al</rhyme>:</l>
+        <l id="s6:l3" met="4" type="+-">Saligh zy u <rhyme label="a" type="f" corresp="#s6:l1">overwinnen</rhyme>:</l>
+        <l id="s6:l4" met="4" type="+-">Dat den Hemel geven <rhyme label="b" type="m" corresp="#s6:l2">sal</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">Dat u stamme mach <rhyme label="a" type="f">vermeeren</rhyme>,</l>
+        <l id="s7:l2" met="4" type="+-">Met een lieffelijcke <rhyme label="b" type="m">vreught</rhyme>:</l>
+        <l id="s7:l3" met="4" type="+-">Dat u leven mach <rhyme label="a" type="f" corresp="#s7:l1">floreeren</rhyme>,</l>
+        <l id="s7:l4" met="4" type="+-">Met veel eeren ende <rhyme label="b" type="m" corresp="#s7:l2">deught</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

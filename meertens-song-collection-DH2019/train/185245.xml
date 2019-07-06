@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185245</id>
+    <date>
+      <year-start>1790</year-start>
+      <year-end>1792</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Gerrit Manheer</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Hoe zou Jeannot niet zijn de <rhyme label="a" type="f">mijne</rhyme>?</l>
+        <l id="s1:l2" met="4" type="-+">Zou mij het lot zoo <rhyme label="b" type="m">tegengaan</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">Ik hoor hem toe, ik ben de <rhyme label="a" type="f" corresp="#s1:l1">zijne</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Ik heb van hem dees ring <rhyme label="b" type="m" corresp="#s1:l2">ontfaan</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">'t Waar vrugteloos zo ik hem <rhyme label="a" type="f">vlugte</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Schoon min mijn hart veranderen <rhyme label="b" type="m">zou</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Het is voor hem maar dat ik <rhyme label="a" type="f" corresp="#s2:l1">zugte</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Al mijn geluk spruit uit zijn <rhyme label="b" type="m" corresp="#s2:l2">trouw</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wat leide ik hier een vrolijk <rhyme label="a" type="f">leven</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Sints dat ik hem dit harte <rhyme label="b" type="m">gaf</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Doch nu hij is van hier <rhyme label="a" type="f" corresp="#s3:l1">gedreven</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Lijkt mij dit pragtig huis een <rhyme label="b" type="m" corresp="#s3:l2">graf</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Colette stelt hem voor een <rhyme label="a" type="f">Koning</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">'t Is voor Colette dat hij <rhyme label="b" type="m">zugt</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Met mij was voor Jeannot een <rhyme label="a" type="f" corresp="#s4:l1">woning</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Hoe slegt! de schuilplaats van 't <rhyme label="b" type="m" corresp="#s4:l2">geneugt</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

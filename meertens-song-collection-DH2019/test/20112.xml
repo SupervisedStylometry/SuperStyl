@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20112</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">ACh soete <rhyme label="a" type="m">Sus</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">‘k Wens om een <rhyme label="a" type="m" corresp="#s1:l1">kus</rhyme></l>
+        <l id="s1:l3" met="1" type="-+">Van <rhyme label="b" type="m">u</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Dijn roode <rhyme label="c" type="m">Mont</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">Mijn hart <rhyme label="c" type="m" corresp="#s1:l4">door-wont</rhyme>:</l>
+        <l id="s1:l6" met="1" type="-+">Maer <rhyme label="b" type="m" corresp="#s1:l3">nu</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Toont ghy u veel te <rhyme label="d" type="m">straf</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Ick bid mijn <rhyme label="e" type="m">Lief</rhyme>,</l>
+        <l id="s1:l9" met="2" type="-+">En herte <rhyme label="e" type="m" corresp="#s1:l8">Dief</rhyme>,</l>
+        <l id="s1:l10" met="1" type="-+">Mijn <rhyme label="f" type="f">Engel</rhyme>,</l>
+        <l id="s1:l11" met="5" type="+-">Kom dra, of hy hellept my in het <rhyme label="d" type="m" corresp="#s1:l7">graf</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Soo ghy niet <rhyme label="a" type="m">komt</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">Ick blijf <rhyme label="a" type="m" corresp="#s2:l1">verstomt</rhyme></l>
+        <l id="s2:l3" met="1" type="-+">Van <rhyme label="b" type="m">Min</rhyme>:</l>
+        <l id="s2:l4" met="2" type="-+">Want siet mijn <rhyme label="c" type="m">hart</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">‘k Ly groote <rhyme label="c" type="m" corresp="#s2:l4">smart</rhyme></l>
+        <l id="s2:l6" met="1" type="-+">En <rhyme label="b" type="m" corresp="#s2:l3">bin</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Verwonnen in ’t <rhyme label="d" type="m">gemoet</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Ach! dat mijn <rhyme label="e" type="m">Ziel</rhyme></l>
+        <l id="s2:l9" met="2" type="-+">Soo wel <rhyme label="e" type="m" corresp="#s2:l8">beviel</rhyme></l>
+        <l id="s2:l10" met="1" type="-+">Het <rhyme label="f" type="f">Minnen</rhyme></l>
+        <l id="s2:l11" met="5" type="+-">Als ick, mijn hoop stont op ene goede <rhyme label="d" type="m" corresp="#s2:l7">voet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Maer nu <rhyme label="a" type="m">helaes</rhyme>!</l>
+        <l id="s3:l2" met="2" type="-+">Soo ist te <rhyme label="a" type="m" corresp="#s3:l1">dwaes</rhyme></l>
+        <l id="s3:l3" met="1" type="-+"><rhyme label="b" type="m">Bemint</rhyme>,</l>
+        <l id="s3:l4" met="2" type="-+">Vermits mijn <rhyme label="c" type="m">hart</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">En groote <rhyme label="c" type="m" corresp="#s3:l4">smart</rhyme></l>
+        <l id="s3:l6" met="1" type="-+">Niet <rhyme label="b" type="m" corresp="#s3:l3">vint</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Medoogen in mijn <rhyme label="d" type="m">lief</rhyme>:</l>
+        <l id="s3:l8" met="2" type="-+">Want haer mijn <rhyme label="e" type="m">leet</rhyme></l>
+        <l id="s3:l9" met="2" type="-+">’t Geen ick wel <rhyme label="e" type="m" corresp="#s3:l8">weet</rhyme></l>
+        <l id="s3:l10" met="1" type="-+">Niet <rhyme label="f" type="f">deert</rhyme>,</l>
+        <l id="s3:l11" met="5" type="+-">En ick niet anders vind als <rhyme label="d" type="m" corresp="#s3:l7">ongerief</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32828</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Amarilli mia bella</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">MIjne vrienden, o <rhyme label="a" type="f">vrienden</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Laet dalen u <rhyme label="b" type="m">ghesicht</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Op dese mijnen, die my <rhyme label="a" type="f" corresp="#s1:l1">verslinden</rhyme>.</l>
+        <l id="s1:l4" met="5" type="-+">Ick arme Siel met boosheyt <rhyme label="c" type="f">overladen</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Word' in dit vyer <rhyme label="c" type="f" corresp="#s1:l4">ghebraden</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Om kleyne <rhyme label="d" type="f">sonden</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Word'ick in dees vlam <rhyme label="d" type="f" corresp="#s1:l6">verslonden</rhyme>,</l>
+        <l id="s1:l8" met="6" type="+-">Mijne vrinden, naeste vrienden, liefste <rhyme label="e" type="f">vrienden</rhyme></l>
+        <l id="s1:l9" met="2" type="+-">Thoont <rhyme label="a" type="f" corresp="#s1:l1">ghenade</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Thoont dan, o thoont <rhyme label="a" type="f">ghenade</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Thoont dat ghy vrienden <rhyme label="b" type="m">zijt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Van mijn misdaden wilt my <rhyme label="a" type="f" corresp="#s2:l1">ontladen</rhyme>.</l>
+        <l id="s2:l4" met="5" type="-+">Waer is den tijdt van mijn jonghe <rhyme label="c" type="f">jaren</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Die my dees pijnen <rhyme label="c" type="f" corresp="#s2:l4">baren</rhyme>?</l>
+        <l id="s2:l6" met="2" type="-+">Waer zijn de <rhyme label="d" type="f">daghen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Die ick nu moet <rhyme label="d" type="f" corresp="#s2:l6">beklaghen</rhyme>?</l>
+        <l id="s2:l8" met="6" type="+-">Mijnde vrinden, naeste vrienden, liefste <rhyme label="e" type="f">vrienden</rhyme></l>
+        <l id="s2:l9" met="2" type="+-">Thoont <rhyme label="a" type="f" corresp="#s2:l1">ghenade</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Thoont dan ghenade, <rhyme label="a" type="f">ghenade</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Door u ghebeden <rhyme label="b" type="m">goedt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Wilt niet versmaden een siel met druck <rhyme label="a" type="f" corresp="#s3:l1">gheladen</rhyme>.</l>
+        <l id="s3:l4" met="5" type="-+">Ick ben u bloet daer ghy uyt zijt <rhyme label="c" type="f">gebooren</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Hoe kondy doch <rhyme label="c" type="f" corresp="#s3:l4">aen-hooren</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">Mijn bitter <rhyme label="d" type="f">kermen</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">En mijnder niet <rhyme label="d" type="f" corresp="#s3:l6">ontfermen</rhyme>.</l>
+        <l id="s3:l8" met="6" type="+-">Mijne vrinden, naeste vrienden, liefste <rhyme label="e" type="f">vrienden</rhyme></l>
+        <l id="s3:l9" met="2" type="+-">Thoont <rhyme label="a" type="f" corresp="#s3:l1">ghenade</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

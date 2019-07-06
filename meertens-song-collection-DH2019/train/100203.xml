@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100203</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Het is nu ruim vijf jaar geleden</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">PHilis, waar is tog het <rhyme label="a" type="f">bloozen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Dat, als d'uchtent <rhyme label="b" type="m">zonneschyn</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Pronkt in zulke roode <rhyme label="a" type="f" corresp="#s1:l1">roozen</rhyme>?</l>
+        <l id="s1:l4" met="4" type="+-">Of zy nu verdweenen <rhyme label="b" type="m" corresp="#s1:l2">zyn</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Dat myn oogen niet het <rhyme label="c" type="m">ligt</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Kennen van uw <rhyme label="c" type="m" corresp="#s1:l5">aangezigt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Zuiv're lonkjes die de <rhyme label="a" type="f">herten</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Zoo met liefd' bevangen <rhyme label="b" type="m">deên</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Datze kwynden in de <rhyme label="a" type="f" corresp="#s2:l1">smerten</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Al uw kragten zyn nu <rhyme label="b" type="m" corresp="#s2:l2">heen</rhyme>;</l>
+        <l id="s2:l5" met="4" type="+-">En uw schoonheid tot haar <rhyme label="c" type="m">schaâ</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Volgde zoet uw oordeel <rhyme label="c" type="m" corresp="#s2:l5">na</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Toenje Liefdens-vlam <rhyme label="a" type="f">verbande</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Die bezeten heeft uw <rhyme label="b" type="m">geest</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Moest de bloos daar door <rhyme label="a" type="f" corresp="#s3:l1">verbrande</rhyme>;</l>
+        <l id="s3:l4" met="4" type="+-">'t Moeit een ieder, maar my <rhyme label="b" type="m" corresp="#s3:l2">meest</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Dat gy zoo veel moet niet <rhyme label="c" type="m">nam</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Die uit blussen kon deez' <rhyme label="c" type="m" corresp="#s3:l5">vlam</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Schoonheid, die my hebt <rhyme label="a" type="f">gesteven</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">In de liefde, dien ik <rhyme label="b" type="m">droeg</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Dat gy zag dat ik myn <rhyme label="a" type="f" corresp="#s4:l1">leven</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Hoe ik 't liefde, trouw <rhyme label="b" type="m" corresp="#s4:l2">genoeg</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">Had geoffert aan uw <rhyme label="c" type="m">schoont</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">Die nu niet haar schoonhid <rhyme label="c" type="m" corresp="#s4:l5">toont</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

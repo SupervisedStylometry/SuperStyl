@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>7011</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>gent</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 134 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">NV wel an God den Heere prijst Ghy <rhyme label="a" type="f">alle</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">die hem dienst bewijst, Die snachts <rhyme label="a" type="f" corresp="#s1:l1">(als</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">oocsdaegs) bid en waect In het huus des <rhyme label="b" type="m">Hee</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">ren <rhyme label="b" type="m" corresp="#s1:l3">volmaect</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Heft op dyn handen alle <rhyme label="a" type="f">gaer</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Looft verheft ende danct <rhyme label="a" type="f" corresp="#s2:l1">eenpaer</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">God den Heere van grooter <rhyme label="b" type="m">macht</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">In zinen temple heligh <rhyme label="b" type="m" corresp="#s2:l3">gheacht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Den Heere die daer schiep <rhyme label="a" type="f">expres</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Hemel eerde en al datter <rhyme label="a" type="f" corresp="#s3:l1">es</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Gheue u van Syon (zoo hy <rhyme label="b" type="m">zal</rhyme>)</l>
+        <l id="s3:l4" met="4" type="-+">Sijn weldaden en ghoeden <rhyme label="b" type="m" corresp="#s3:l3">al</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

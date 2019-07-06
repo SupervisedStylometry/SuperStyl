@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176781</id>
+    <date>
+      <year-start>1683</year-start>
+      <year-end>1683</year-end>
+    </date>
+    <location>
+      <orginal-name>leeuwarden</orginal-name>
+      <standard-name>Leeuwarden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>53.2005936</lon>
+        <lat>5.7918548</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody>Lofzang van Maria</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Hendrik Rintjes</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Den Hooghen Lof en <rhyme label="a" type="m">Eer</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Zy u almachtich <rhyme label="a" type="m" corresp="#s1:l1">Heer</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">In ‘t opperste <rhyme label="b" type="f">hoochweerdich</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En uwen Heyl’ghen <rhyme label="c" type="m">vreed</rhyme>’</l>
+        <l id="s1:l5" met="3" type="-+">Op Aerden kome <rhyme label="c" type="m" corresp="#s1:l4">meed</rhyme>’,</l>
+        <l id="s1:l6" met="3" type="-+">Over ons allen <rhyme label="b" type="f" corresp="#s1:l3">veerdigh</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Het wel-behaghen <rhyme label="a" type="m">goet</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">En toe-gheneycht <rhyme label="a" type="m" corresp="#s2:l1">ghemoet</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Weerd’ in ons Menschen <rhyme label="b" type="f">t’samen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Oock krachtich meer en <rhyme label="c" type="m">meer</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Tot uws Naems prijs en <rhyme label="c" type="m" corresp="#s2:l4">eer</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Deur Iersum Christum <rhyme label="b" type="f" corresp="#s2:l3">Amen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>112105</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Wie schön leuchtet der Morgenstern</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DE misdaad, die my bragt hier <rhyme label="a" type="m">in</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Is, dat ik Laura teer <rhyme label="a" type="m" corresp="#s1:l1">bemin</rhyme>.</l>
+        <l id="s1:l3" met="3" type="-+">Myn Regter is myn <rhyme label="b" type="f">Vader</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Vind dit geval wel weder <rhyme label="c" type="m">gaa</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Waar toch verwagt men meer <rhyme label="c" type="m" corresp="#s1:l4">genaa</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Wat regter is'er <rhyme label="b" type="f" corresp="#s1:l3">quader</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Heeft hy,, Dan <rhyme label="d" type="m">my</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Zonder Liefde, Die hem <rhyme label="e" type="f">griefde</rhyme>,</l>
+        <l id="s1:l9" met="6" type="+-">Ongenegen. Tot syn lieven Zoon <rhyme label="f" type="f">verkregen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Nogtans zoo beef en vrees ik <rhyme label="a" type="m">al</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Dat glory hem misleiden <rhyme label="a" type="m" corresp="#s2:l1">zal</rhyme>:</l>
+        <l id="s2:l3" met="3" type="-+">En wie regeert zyn <rhyme label="b" type="f">zinnen</rhyme>?</l>
+        <l id="s2:l4" met="4" type="-+">Wanneer een schoonheid ons <rhyme label="c" type="m">verrast</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">En dwingt ons met haar oogen <rhyme label="c" type="m" corresp="#s2:l4">vast</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Haar, boven al, te <rhyme label="b" type="f" corresp="#s2:l3">minnen</rhyme>.</l>
+        <l id="s2:l7" met="2" type="-+">Ik smeek,, Ey <rhyme label="d" type="m">breek</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Uwen tooren.          Wild my <rhyme label="e" type="f">hooren</rhyme>.</l>
+        <l id="s2:l9" met="6" type="+-">Myn gebeden          Steunen op natuur en <rhyme label="f" type="f">reden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

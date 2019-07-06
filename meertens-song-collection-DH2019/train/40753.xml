@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>40753</id>
+    <date>
+      <year-start>1681</year-start>
+      <year-end>1681</year-end>
+    </date>
+    <location>
+      <orginal-name>leeuwarden</orginal-name>
+      <standard-name>Leeuwarden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>53.2005936</lon>
+        <lat>5.7918548</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Lofzang van Simeon [Datheen]</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Gysbert Japicx</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">NU Y Heer ijn <rhyme label="a" type="m">free</rhyme>.</l>
+        <l id="s1:l2" met="3" type="-+">Iôn Tjienner de' yerdsche <rhyme label="a" type="m" corresp="#s1:l1">stee</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Forlitte, ney jon <rhyme label="b" type="f">sizzen</rhyme>:</l>
+        <l id="s1:l4" met="3" type="-+">Nu, oermidz mijn blier <rhyme label="c" type="m">eag</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Jon silligheyt <rhyme label="c" type="m" corresp="#s1:l4">oonseag'</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Yn mijn klimme' earmen <rhyme label="b" type="f" corresp="#s1:l3">lizzen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Dy Y, for tijd in <rhyme label="a" type="m">stuwn'</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Beschaet habbe' in mijld <rhyme label="a" type="m" corresp="#s2:l1">juwn'</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">For al 't folck, om op 't eag <rhyme label="b" type="f">jen</rhyme>;</l>
+        <l id="s2:l4" met="3" type="-+">Yen Hijmmel-liedend' <rhyme label="c" type="m">stijr</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Fore' Heyd'nen heyn in <rhyme label="c" type="m" corresp="#s2:l4">fier</rhyme>:</l>
+        <l id="s2:l6" met="3" type="-+">Yen Isr'els <rhyme label="b" type="f" corresp="#s2:l3">glanz-op-deagjen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

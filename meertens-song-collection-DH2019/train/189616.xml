@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>189616</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Allez où le sort vous conduit</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DE schoonheid van een zagt <rhyme label="a" type="m">gemoet</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Dat opgescherpt in puik van eedle <rhyme label="b" type="f">zeden</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Ten doel heeft wys beleit en <rhyme label="b" type="f" corresp="#s1:l2">reden</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Van hemelspys, die zielen sterkt, <rhyme label="a" type="m" corresp="#s1:l1">gevoed</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Is waarder dan het mild <rhyme label="c" type="m">koraal</rhyme></l>
+        <l id="s1:l6" met="5" type="-+">Van rozelippen, zoet op <rhyme label="c" type="m" corresp="#s1:l5">minnetaal</rhyme>,</l>
+        <l id="s1:l7" met="5" type="-+">Of poeslig leliwit, of wondende <rhyme label="d" type="f">oogen</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Waar door het <rhyme label="e" type="m">hart</rhyme></l>
+        <l id="s1:l9" met="2" type="-+">Blyft <rhyme label="d" type="f" corresp="#s1:l7">opgetogen</rhyme></l>
+        <l id="s1:l10" met="3" type="+-">In de <rhyme label="e" type="m" corresp="#s1:l8">minnesmart</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die heerlykheid is zonder <rhyme label="a" type="m">duur</rhyme>.</l>
+        <l id="s2:l2" met="5" type="-+">Een nevel kan haar gloeient heen <rhyme label="b" type="f">bederven</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Gelyk de lucht de <rhyme label="b" type="f" corresp="#s2:l2">waterverwen</rhyme>;</l>
+        <l id="s2:l4" met="5" type="-+">Maar 't ziele schoon is godlyk van <rhyme label="a" type="m" corresp="#s2:l1">natuur</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Die luister volgt in 't <rhyme label="c" type="m">ondergaan</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">De zomerzonne om schooner op te <rhyme label="c" type="m" corresp="#s2:l5">staan</rhyme>,</l>
+        <l id="s2:l7" met="5" type="-+">Die zich van geene schaduw laat <rhyme label="d" type="f">bevlekken</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Zoo zal de <rhyme label="e" type="m">deugt</rhyme>,</l>
+        <l id="s2:l9" met="2" type="-+">Ter glorie <rhyme label="d" type="f" corresp="#s2:l7">strekken</rhyme></l>
+        <l id="s2:l10" met="3" type="+-">Aan de schoone <rhyme label="e" type="m" corresp="#s2:l8">jeucht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

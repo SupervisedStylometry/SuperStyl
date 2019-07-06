@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>158270</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Laatstmaal twee geliefden</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">GY die met Venus <rhyme label="a" type="f">Reyen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">U garen eens <rhyme label="b" type="m">vermaakt</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Wilt nooit den dag <rhyme label="a" type="f" corresp="#s1:l1">verbeyen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Waakt als de Liefde <rhyme label="b" type="m" corresp="#s1:l2">waakt</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Het Uurtje, dat de <rhyme label="c" type="f">Minnaars</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Van alles maakt <rhyme label="c" type="f" corresp="#s1:l5">verwinnaars</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Vervliegt gelyk een vlugge <rhyme label="d" type="m">veer</rhyme>;</l>
+        <l id="s1:l8" met="3" type="-+">En, is het eens <rhyme label="e" type="f">vervloogen</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Men krygt het nimmer <rhyme label="d" type="m" corresp="#s1:l7">weer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

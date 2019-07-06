@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19173</id>
+    <date>
+      <year-start>1611</year-start>
+      <year-end>1611</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Bedroefd hartje</melody>
+  <author>Jan Jansz. Orlers</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GHeluck u allen, voorspoet en <rhyme label="a" type="f">vrede</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Die hier versamelen tot desen <rhyme label="b" type="m">feest</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Die hier versamelen op dese <rhyme label="a" type="f" corresp="#s1:l1">stede</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Om bruyloft t'houden met blyden <rhyme label="b" type="m" corresp="#s1:l2">gheest</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wilt vrolijc wesen laet droefheyt <rhyme label="a" type="f">varen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Handelt van vreuchde niet van <rhyme label="b" type="m">verdriet</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Singt nieuwe lieden en speelt op <rhyme label="a" type="f" corresp="#s2:l1">snaren</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">T'is t'uwen besten, al wat ghy <rhyme label="b" type="m" corresp="#s2:l2">siet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Lust u ghesoden, lust u <rhyme label="a" type="f">gebraden</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Lust u te drincken, tsy bier ofte <rhyme label="b" type="m">wijn</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Oft lust u taerten, oft lust u <rhyme label="a" type="f" corresp="#s3:l1">vladen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Men salt u langhen, wilt vrolijck <rhyme label="b" type="m" corresp="#s3:l2">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Bruydgom een beker moet gy uyt <rhyme label="a" type="f">drincken</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Laet die om wandelen by man en <rhyme label="b" type="m">vrou</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Oft hebt ghy hoornen laet die vol <rhyme label="a" type="f" corresp="#s4:l1">schincken</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Laet u dan helpen u bruyt <rhyme label="b" type="m" corresp="#s4:l2">ghetrou</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

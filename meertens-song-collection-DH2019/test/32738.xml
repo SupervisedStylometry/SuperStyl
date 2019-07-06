@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32738</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Mensch hoe zijde soo <rhyme label="a" type="m">verblindt</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Dat ghy de wereldt wildt <rhyme label="b" type="f">aenvaerden</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">V leven en is maer eenen <rhyme label="a" type="m" corresp="#s1:l1">wint</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">En ghy moet wederom inder <rhyme label="b" type="f" corresp="#s1:l2">aerden</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Hoe rijck hoe machtigh hoe <rhyme label="c" type="m">valiant</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Ghy moet al henen na dat ander <rhyme label="c" type="m" corresp="#s1:l5">landt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hoe schoon dat ghy u hooft <rhyme label="a" type="m">palleert</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Ofte verheft u boven <rhyme label="b" type="f">maten</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Hoe fraey dat ghy u hayr <rhyme label="a" type="m" corresp="#s2:l1">fiseert</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Ghy moet het al hier <rhyme label="b" type="f" corresp="#s2:l2">laeten</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">V leven moet ghy hier stellen te <rhyme label="c" type="m">pant</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">En ghy moet weder na het ander <rhyme label="c" type="m" corresp="#s2:l5">landt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wat baetet Salomon sijn wijsheyt <rhyme label="a" type="m">groot</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Mathusalem alle sijn <rhyme label="b" type="f">stonden</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">En Absolon zijn schoonheydt <rhyme label="a" type="m" corresp="#s3:l1">groot</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Die doot heeftse al <rhyme label="b" type="f" corresp="#s3:l2">verslonden</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Hebben sy dan gheen goey wercken <rhyme label="c" type="m">geplant</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Wat sullen sy maeyen in 't ander <rhyme label="c" type="m" corresp="#s3:l5">landt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Waer zijnse ghebleven neemt hier op <rhyme label="a" type="m">acht</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Die waren over duysent <rhyme label="b" type="f">jaren</rhyme>?</l>
+        <l id="s4:l3" met="4" type="-+">Sy ligghen al in de aerde <rhyme label="a" type="m" corresp="#s4:l1">versmacht</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Ghelijck oft sy noyt gheweest en <rhyme label="b" type="f" corresp="#s4:l2">waren</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Sy kreghen een kist en eenen lijnen <rhyme label="c" type="m">bandt</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Daer voeren sy med' naer dat ander <rhyme label="c" type="m" corresp="#s4:l5">landt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

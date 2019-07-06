@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>116372</id>
+    <date>
+      <year-start>1681</year-start>
+      <year-end>1681</year-end>
+    </date>
+    <location>
+      <orginal-name>alkmaar</orginal-name>
+      <standard-name>Alkmaar, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.6312592</lon>
+        <lat>4.7503798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+    </tags>
+    <melody>Wat is de meester wijs en goed</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DIt is de grootste dan van 't <rhyme label="a" type="m">jaar</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Hoe-welze korter <rhyme label="b" type="m">schijnt</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Zy toond de weg des Heemels <rhyme label="a" type="m" corresp="#s1:l1">klaar</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Vermits de schadu <rhyme label="b" type="m" corresp="#s1:l2">dwijnd</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Nu ons des Weerelds zon <rhyme label="c" type="m">ont-duikt</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Verschijnd een Heemelz <rhyme label="d" type="m">licht</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">'t Welk aan een yder, die 't <rhyme label="c" type="m" corresp="#s1:l5">gebruikt</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Klaar aan-wijst zijnen <rhyme label="d" type="m" corresp="#s1:l6">plicht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">t' Wijl ons de schraale houde <rhyme label="a" type="m">queld</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Verschijnd een <rhyme label="b" type="m">Heemel-vlam</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Die ons het leeven we'er <rhyme label="a" type="m" corresp="#s2:l1">hersteld</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">'t Welk ons de koud <rhyme label="b" type="m" corresp="#s2:l2">benam</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Nu ons de tijd geen vrucht en <rhyme label="c" type="m">baard</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Die 't lichaam voedzel <rhyme label="d" type="m">geeft</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Schenkt ons de Heere vrucht op <rhyme label="c" type="m" corresp="#s2:l5">aard</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Waar door men eeuwig <rhyme label="d" type="m" corresp="#s2:l6">leefd</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Betracht toch in deez korten <rhyme label="a" type="m">tijd</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Dat gy dien weg <rhyme label="b" type="m">bekend</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Ont-duikt de zon, zoo volg met <rhyme label="a" type="m" corresp="#s3:l1">vlijt</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Naa 't licht, dat d' Heere <rhyme label="b" type="m" corresp="#s3:l2">zend</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Uw hert in deugd te zeer <rhyme label="c" type="m">verkoud</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Aan 't Heemels vuur <rhyme label="d" type="m">ont-steekt</rhyme>:</l>
+        <l id="s3:l7" met="4" type="-+">Nu God u in den <rhyme label="c" type="m" corresp="#s3:l5">dorren-hout</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Geeft vrucht die u <rhyme label="d" type="m" corresp="#s3:l6">ont-breekt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

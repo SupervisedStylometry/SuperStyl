@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3236</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Zeg mij toch wel zoete lieve maagd</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">DIe volherdt in't goedt dat hy <rhyme label="a" type="m">begint</rhyme>,</l>
+        <l id="s1:l2" met="5" type="+-">En gheduerigh strijdt, maer altijdt <rhyme label="a" type="m" corresp="#s1:l1">overwint</rhyme>:</l>
+        <l id="s1:l3" met="5" type="+-">Sal van Godt des Levens waerde <rhyme label="b" type="m">Croon</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Ghenieten uyt ghenaed', door sijnen <rhyme label="b" type="m" corresp="#s1:l3">Soon</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Die verwint, die heeft den strijdt <rhyme label="a" type="m">ghedaen</rhyme>,</l>
+        <l id="s2:l2" met="5" type="+-">En hy sal 'er in de soete rust voor <rhyme label="a" type="m" corresp="#s2:l1">gaen</rhyme>;</l>
+        <l id="s2:l3" met="5" type="+-">'t Is soo soet te rusten van den <rhyme label="b" type="m">strijdt</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">En strijdens-vry te zijn in Godt <rhyme label="b" type="m" corresp="#s2:l3">verblijdt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">Strijt baert druck, wanneer men strijden <rhyme label="a" type="m">moet</rhyme>,</l>
+        <l id="s3:l2" met="5" type="+-">Maer 't verwinnen baert een onuytputlijck <rhyme label="a" type="m" corresp="#s3:l1">soet</rhyme>,</l>
+        <l id="s3:l3" met="5" type="+-">Hoe benouwt men in 'et strijden <rhyme label="b" type="m">staet</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">'t Is glat gedaen als 't strijden <rhyme label="b" type="m" corresp="#s3:l3">overgaet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="+-">Op dan ziel, grijp aen Godts Helm en <rhyme label="a" type="m">Swaert</rhyme>,</l>
+        <l id="s4:l2" met="5" type="+-">En wilt strijden kloeck nu veerdigh <rhyme label="a" type="m" corresp="#s4:l1">onvervaert</rhyme>,</l>
+        <l id="s4:l3" met="5" type="+-">Soo ghy raeckt in overgroote <rhyme label="b" type="m">noodt</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">Roep Godt te hulp, hy helpt tot in der <rhyme label="b" type="m" corresp="#s4:l3">doodt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

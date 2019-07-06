@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>187480</id>
+    <date>
+      <year-start>1784</year-start>
+      <year-end>1784</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>De dood is het niet</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">De dood is ’t <rhyme label="a" type="m">Niet</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Men moet dog eenmael <rhyme label="b" type="f">sterven</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Men moet eens het Leeven <rhyme label="b" type="f" corresp="#s1:l2">derven</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Elk uur kort onze dagen <rhyme label="c" type="m">af</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Men wandelt altoos naar het <rhyme label="c" type="m" corresp="#s1:l4">graf</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Gy was myn <rhyme label="a" type="m">Eygendom</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Maar ach, helaas, het uur gy <rhyme label="b" type="f">leeft</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Niet meer voor my ik <rhyme label="b" type="f" corresp="#s2:l2">leef</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Komt o mijn Lief zo gy ’t <rhyme label="c" type="m">begeerd</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Zo lang uw Oog myn lyden <rhyme label="c" type="m" corresp="#s2:l4">deert</rhyme>,</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Myn Vader wagt met <rhyme label="a" type="m">ongedult</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Naar het uur dat gy myn trouwe <rhyme label="b" type="f">zult</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Want ik die uw zo teer <rhyme label="b" type="f" corresp="#s3:l2">bemind</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">En uw teedere min was my een <rhyme label="c" type="m">schyn</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">De dood is het einde van myn <rhyme label="c" type="m" corresp="#s3:l4">pyn</rhyme>,.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

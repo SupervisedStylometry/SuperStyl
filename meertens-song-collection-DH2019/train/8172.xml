@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8172</id>
+    <date>
+      <year-start>1678</year-start>
+      <year-end>1678</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
+    </tags>
+    <melody>Wij liepen laatstmaal</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">KOm soete Duyfje sonder <rhyme label="a" type="m">gal</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Hoort eens wat ick u seggen <rhyme label="a" type="m" corresp="#s1:l1">sal</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Mijn Engel hoort, een enckel <rhyme label="b" type="m">woord</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Mijn smoddermuyl, mijn <rhyme label="c" type="f">schaapje</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">En ick geloof niet, dat gy doof <rhyme label="d" type="m">zijt</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Soete kind of <rhyme label="c" type="f" corresp="#s1:l4">slaapje</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ick heb jou nou soo langh <rhyme label="a" type="m">gevryt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">En 't schynt gy evenwel noch <rhyme label="a" type="m" corresp="#s2:l1">zyt</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Noch niet te vreen, op myn <rhyme label="b" type="m">gebeen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Een klagh Request te <rhyme label="c" type="f">schryven</rhyme>;</l>
+        <l id="s2:l5" met="4" type="-+">'t Goed appostil, maar die niet <rhyme label="d" type="m">wil</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Die moet'et laten <rhyme label="c" type="f" corresp="#s2:l4">blyven</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Men vindt'er meer van uws <rhyme label="a" type="m">gelijck</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Niet al te goelick ofte <rhyme label="a" type="m" corresp="#s3:l1">rijck</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Niet al te vys, te boos te <rhyme label="b" type="m">wys</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Maar soo wat tusschen <rhyme label="c" type="f">beyen</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">En daarom siet, begeerje's <rhyme label="d" type="m">niet</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Wy zyn seer licht te <rhyme label="c" type="f" corresp="#s3:l4">scheyen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Adieu ick wens u niet veel <rhyme label="a" type="m">quaats</rhyme>;</l>
+        <l id="s4:l2" met="4" type="-+">Doch wel een ander in myn <rhyme label="a" type="m" corresp="#s4:l1">plaats</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Soo rijck soo soet, soo mooy soo <rhyme label="b" type="m">goed</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Dat hy u mach <rhyme label="c" type="f">behagen</rhyme>;</l>
+        <l id="s4:l5" met="4" type="-+">Maar een als ick of mijns <rhyme label="d" type="m">gelijck</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">En hoeven 't niet te <rhyme label="c" type="f" corresp="#s4:l4">vragen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

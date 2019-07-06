@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>122559</id>
+    <date>
+      <year-start>1854</year-start>
+      <year-end>1864</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="spotlied" translation="mocking song">spotlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Vrinden ik groet u <rhyme label="a" type="m">altemaal</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Ik ben een arme <rhyme label="a" type="m" corresp="#s1:l1">Kluisenaar</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Mijn lijf en leden die zijn <rhyme label="b" type="m">gebraakt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Dat komt van in mijn hutje te <rhyme label="c" type="f">slaapen</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Schier moeder <rhyme label="b" type="m" corresp="#s1:l3">naakt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Kluizenaar ik ben zoo <rhyme label="a" type="m">vervaart</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Als ik aan zie u grijzen <rhyme label="a" type="m" corresp="#s2:l1">baart</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">U twee bruin oogjes en u zwart <rhyme label="b" type="m">vel</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Dat past u niet te <rhyme label="c" type="f">verkeeren</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Bij een <rhyme label="b" type="m" corresp="#s2:l3">Mamesel</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Meisje hoe ben je zoo <rhyme label="a" type="m">kruwel</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Zeg mij wat is een <rhyme label="a" type="m" corresp="#s3:l1">Mamesel</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Een Mamesel is een <rhyme label="b" type="m">jufvrouw</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Die haar laat zoenen van brave <rhyme label="c" type="f">soldaaten</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">Maar niet van <rhyme label="b" type="m" corresp="#s3:l3">jou</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Meisje ga je meê na mijn <rhyme label="a" type="m">huis</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Dan graaf ik een putje al in de <rhyme label="a" type="m" corresp="#s4:l1">kluis</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">ô Ouwe grijsaard je moet 'er <rhyme label="b" type="m">in</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Want gij kan geen vreugd meer <rhyme label="c" type="f">scheppen</rhyme>,</l>
+        <l id="s4:l5" met="2" type="-+">Al bij een <rhyme label="b" type="m" corresp="#s4:l3">Godin</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Meisje ga je meê na mijn <rhyme label="a" type="m">hut</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Ik dou je levendig in de <rhyme label="a" type="m" corresp="#s5:l1">put</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">ô Bleeke dood wilt mijn <rhyme label="b" type="m">bijstaan</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Want ik kan geen meisje meer <rhyme label="c" type="f">paaijen</rhyme></l>
+        <l id="s5:l5" met="2" type="-+">Het is met mijn <rhyme label="b" type="m" corresp="#s5:l3">gedaan</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

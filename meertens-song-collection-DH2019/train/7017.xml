@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>7017</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>gent</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Lucas de Heere</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Opperste herder, Heere God vul <rhyme label="a" type="f">ghenaeden</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Slaet u ooghen op dees u schaepkins <rhyme label="b" type="m">cleen</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">En oock met u goeden wildse <rhyme label="a" type="f" corresp="#s1:l1">verzaeden</rhyme>:</l>
+        <l id="s1:l4" met="5" type="-+">Laett onbetaemlicken lust van ons <rhyme label="b" type="m" corresp="#s1:l2">schee'n</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">Verleenende ons, onsen noodurft <rhyme label="b" type="m" corresp="#s1:l2">alleen</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Bidden wy deur hem, die om ons <rhyme label="c" type="f">behoedsel</rhyme></l>
+        <l id="s1:l7" met="5" type="-+">Een lichaem aen nam, oock subiect het <rhyme label="c" type="f" corresp="#s1:l6">voedsel</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

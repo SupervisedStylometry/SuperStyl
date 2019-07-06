@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26915</id>
+    <date>
+      <year-start>1561</year-start>
+      <year-end>1561</year-end>
+    </date>
+    <location>
+      <orginal-name>londen</orginal-name>
+      <standard-name>London, England</standard-name>
+      <coordinates>
+        <lon>51.5073219</lon>
+        <lat>-0.1276474</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 101 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jan Utenhove</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">LOoft God in syn heylighdom mit <rhyme label="a" type="f">aendachte</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Looft hem in dat firmament syner <rhyme label="a" type="f" corresp="#s1:l1">krachten</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Louet hem vroo, om syner stęrckheyt <rhyme label="b" type="m">wil</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Oock luydɇ end <rhyme label="b" type="m" corresp="#s1:l3">stil</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Looft hem om synr trefflicker grootheyt <rhyme label="a" type="f">wille</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Looft hem mit ba-soenen gheklangk <rhyme label="a" type="f" corresp="#s2:l1">onstille</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Looft hem op der luytɇ end op de harp <rhyme label="b" type="m">fyn</rhyme>.</l>
+        <l id="s2:l4" met="2" type="-+">Mit blyden <rhyme label="b" type="m" corresp="#s2:l3">sin</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Louet hem mit trommelen ende <rhyme label="a" type="f">pypen</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Louet hem mit snaren end <rhyme label="a" type="f" corresp="#s3:l1">orghelpypen</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">Louet hem mit cymbalen, die daer <rhyme label="b" type="m">fyn</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">Soetluydigh <rhyme label="b" type="m" corresp="#s3:l3">syn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Louet hem mit den klingenden <rhyme label="a" type="f">cymbalen</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Die daer tot vrueghd verwecken in der <rhyme label="a" type="f" corresp="#s4:l1">qualen</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">Alles wat daer leeft dat loue God <rhyme label="b" type="m">seer</rhyme>,</l>
+        <l id="s4:l4" met="2" type="-+">Louet den <rhyme label="b" type="m" corresp="#s4:l3">Heer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

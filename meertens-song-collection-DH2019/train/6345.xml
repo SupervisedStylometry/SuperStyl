@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6345</id>
+    <date>
+      <year-start>1618</year-start>
+      <year-end>1618</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
+    </tags>
+    <melody>Si c'est pour mon pucelage</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
+  <author>Haerlem Soetendal</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">ADieu Haerlem schoone <rhyme label="a" type="f">Stede</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Wijt vermaerdt en seer <rhyme label="b" type="m">playsant</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Een der Oudtste van <rhyme label="b" type="m" corresp="#s1:l2">Hollant</rhyme>.</l>
+        <l id="s1:l4" met="4" type="+-">Quam in uwen Thuyn vol <rhyme label="a" type="f" corresp="#s1:l1">vrede</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Een Wolf ofte Leeu <rhyme label="c" type="m">bloetgier</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Strijt kloeck als een <rhyme label="c" type="m" corresp="#s1:l5">Batavier</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Stelt den dorren Boom <rhyme label="a" type="f">alvooren</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Die twee groene spruyten // <rhyme label="b" type="m">draecht</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">u twee Leeuwen buyten // <rhyme label="b" type="m" corresp="#s2:l2">jaecht</rhyme>:</l>
+        <l id="s2:l4" met="4" type="+-">Hanght dan daer aen na <rhyme label="a" type="f" corresp="#s2:l1">'tbehooren</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">u Standaert en Roode <rhyme label="c" type="m">schilt</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Als soldaet die vechten <rhyme label="c" type="m" corresp="#s2:l5">wilt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Vecht met tsweert van <rhyme label="a" type="f">Damiaten</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Voor gheen duysterheyt en <rhyme label="b" type="m">vlucht</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Ghy hebt drie sterren tot <rhyme label="b" type="m" corresp="#s3:l2">lucht</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Wilt vrymoedich tCruys <rhyme label="a" type="f" corresp="#s3:l1">aenvaten</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">Doet haer streven uyt het <rhyme label="c" type="m">Velt</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Want hier elck sijn leven <rhyme label="c" type="m" corresp="#s3:l5">ghelt</rhyme>,</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Als ghy den Leeu hebt <rhyme label="a" type="f">verdreven</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">En den Wolf weer uyt zijn <rhyme label="b" type="m">Hof</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Wilt den Heer dan prijs en <rhyme label="b" type="m" corresp="#s4:l2">lof</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Met schoon Instrumenten <rhyme label="a" type="f" corresp="#s4:l1">gheven</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">En d'Edel Musica, <rhyme label="c" type="m">queelt</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">Ofte Rethorica, <rhyme label="c" type="m" corresp="#s4:l5">speelt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Prins spelcooren, Wijngaert <rhyme label="a" type="f">rancken</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">'tWit Angier, reyn van <rhyme label="b" type="m">manier</rhyme></l>
+        <l id="s5:l3" met="4" type="+-">Komt oock fier, uyt liefden <rhyme label="b" type="m" corresp="#s5:l2">hier</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Om mede te helpen <rhyme label="a" type="f" corresp="#s5:l1">dancken</rhyme>,</l>
+        <l id="s5:l5" met="4" type="+-">want alle ghespot uyt <rhyme label="c" type="m">roeyt</rhyme></l>
+        <l id="s5:l6" met="4" type="+-">Daer 't Angierkens botte <rhyme label="c" type="m" corresp="#s5:l5">bloeyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

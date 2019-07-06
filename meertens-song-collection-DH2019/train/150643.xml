@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>150643</id>
+    <date>
+      <year-start>1630</year-start>
+      <year-end>1630</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 134 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Dirk Rafaelsz. Camphuysen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GHy die, den Heer’ ten dienst <rhyme label="a" type="m">gewijdt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Des nachts in sijnen huyse <rhyme label="a" type="m" corresp="#s1:l1">zijt</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">En houdt aldaer de heyl’ge <rhyme label="b" type="m">wacht</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Welaen, stijgh op met uw’ <rhyme label="b" type="m" corresp="#s1:l3">gedacht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Stort voor den Heer uws herten <rhyme label="a" type="m">grondt</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Met eerentrijcken <rhyme label="a" type="m" corresp="#s2:l1">zegen-mondt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En heft, des lovens nimmer <rhyme label="b" type="m">moe</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">V heyl’ge handen na hem <rhyme label="b" type="m" corresp="#s2:l3">toe</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">De stilheydt van de donck’re <rhyme label="a" type="m">nacht</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Geeft in de ziel een drift en <rhyme label="a" type="m" corresp="#s3:l1">kracht</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Om met des geests inwendigh <rhyme label="b" type="m">oogh</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Te stijgen na het Godlijck <rhyme label="b" type="m" corresp="#s3:l3">hoogh</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Het zegen-woordt dat van u <rhyme label="a" type="m">gaet</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Keer we’er tot u met <rhyme label="a" type="m" corresp="#s4:l1">zegen-daet</rhyme>.</l>
+        <l id="s4:l3" met="4" type="-+">Hy zegen’ u van Sion <rhyme label="b" type="m">aff</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Die aerd’ en Hemel wesen <rhyme label="b" type="m" corresp="#s4:l3">gaff</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

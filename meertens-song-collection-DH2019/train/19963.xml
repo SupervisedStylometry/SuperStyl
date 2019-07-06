@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19963</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Laatst als de nachtgodin Diana</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">CAtrijntje heeft het speck al <rhyme label="a" type="m">wech</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Ha! ha! ha! ha! Ia wel ick <rhyme label="a" type="m" corresp="#s1:l1">segh</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Hoe qualijck wist sy haer te <rhyme label="b" type="f">houwen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Niet waer? het was <rhyme label="c" type="m">altoos</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Ick sal noch wil niet <rhyme label="b" type="f" corresp="#s1:l3">trouwen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Doch ‘k was haer te <rhyme label="c" type="m" corresp="#s1:l4">loos</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Het blijckt, ick hielper aen een <rhyme label="a" type="m">Man</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Al hields’ haer noch soo schuw daer <rhyme label="a" type="m" corresp="#s2:l1">van</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Nu smaeckt sy enckel vreught en <rhyme label="b" type="f">weelde</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">’t Soet van dees eene <rhyme label="c" type="m">nacht</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">En is niet uyt te <rhyme label="b" type="f" corresp="#s2:l3">beelde</rhyme>,</l>
+        <l id="s2:l6" met="3" type="+-">Sie, ons Bruytje <rhyme label="c" type="m" corresp="#s2:l4">lacht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ho! ho! Catrijntje denckjer <rhyme label="a" type="m">om</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Ia, Ia, tsa repje <rhyme label="a" type="m" corresp="#s3:l1">Bruydegom</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Ty voort naer bedt toe met jou <rhyme label="b" type="f">beyde</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Toont daer jou <rhyme label="c" type="m">mann’lijckheyt</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">En hout voort aen met <rhyme label="b" type="f" corresp="#s3:l3">strijden</rhyme>,</l>
+        <l id="s3:l6" met="3" type="+-">Tot dat ghy Taetje <rhyme label="c" type="m" corresp="#s3:l4">zijt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

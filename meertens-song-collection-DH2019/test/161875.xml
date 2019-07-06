@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>161875</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Aux armes camarades</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Sa wakker, laat ons <rhyme label="a" type="f">klinken</rhyme>!</l>
+        <l id="s1:l2" met="4" type="-+">Een yder vat het volle <rhyme label="b" type="m">glas</rhyme>!</l>
+        <l id="s1:l3" met="3" type="-+">Laet ons te samen <rhyme label="a" type="f" corresp="#s1:l1">drinken</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Van Baggus soet <rhyme label="b" type="m" corresp="#s1:l2">gewas</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">O vreugde van ons <rhyme label="c" type="f">leven</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Die vader Liber <rhyme label="d" type="m">geeft</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Wilt altyd ons <rhyme label="c" type="f" corresp="#s1:l5">aankleven</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Soo lang het menschdom <rhyme label="d" type="m" corresp="#s1:l6">leefd</rhyme>.</l>
+        <l id="s1:l9" met="2" type="+-">Op dat <rhyme label="e" type="m">wy</rhyme>,</l>
+        <l id="s1:l10" met="2" type="+-">Altoos <rhyme label="e" type="m" corresp="#s1:l9">bly</rhyme>,</l>
+        <l id="s1:l11" met="2" type="-+">Keer om <rhyme label="f" type="m">keer</rhyme>,</l>
+        <l id="s1:l12" met="2" type="+-">Tot uw <rhyme label="f" type="m" corresp="#s1:l11">eer</rhyme>,</l>
+        <l id="s1:l13" met="3" type="+-">Met soete galmen <rhyme label="g" type="f">Juygen</rhyme></l>
+        <l id="s1:l14" met="4" type="+-">En steeds besteden onse <rhyme label="h" type="m">tyd</rhyme></l>
+        <l id="s1:l15" met="3" type="+-">In lust en <rhyme label="h" type="m" corresp="#s1:l14">vrolijkheid</rhyme>.</l>
+        <l id="s1:l16" met="4" type="+-">Maak ons, o Bromius, <rhyme label="h" type="m" corresp="#s1:l14">verblyd</rhyme>,</l>
+        <l id="s1:l17" met="3" type="+-">Trots 't knagen van de <rhyme label="h" type="m" corresp="#s1:l14">Nyd</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

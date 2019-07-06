@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8903</id>
+    <date>
+      <year-start>1625</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Nun freut euch liebe Christen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MYn Ooghen sien ten Berghe <rhyme label="a" type="m">schoon</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Van daer mijn Hulpe <rhyme label="b" type="f">naecket</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Myn Hulpe coemt van s'Heeren <rhyme label="a" type="m" corresp="#s1:l1">Throon</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Die Hemel end Aerd' <rhyme label="b" type="f" corresp="#s1:l2">maecket</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Hy laet dijn Voet niet slibb'ren <rhyme label="c" type="m">gaen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Want hem gheen Vaeck mach comen <rhyme label="c" type="m" corresp="#s1:l5">aen</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Die dijne Wacht <rhyme label="d" type="f">bewaeret</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Siet die Wachter van <rhyme label="a" type="m">Israel</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Hy sluymert <rhyme label="b" type="f">nimmermeere</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">De HEER bewaecket dy so <rhyme label="a" type="m" corresp="#s2:l1">wel</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Een schad'we is de <rhyme label="b" type="f" corresp="#s2:l2">HEERE</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Over die rechte hant van <rhyme label="c" type="m">dijn</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Dat dy der Sonnen heete <rhyme label="c" type="m" corresp="#s2:l5">schijn</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Des Daghes niet en <rhyme label="d" type="f">Steecke</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Des Nachts die Maen dy niet <rhyme label="a" type="m">vercou</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">De HEER bewaert dijn <rhyme label="b" type="f">Siele</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Hy gaet bewaren dy <rhyme label="a" type="m" corresp="#s3:l1">ghetrou</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Voor Ong' luck quaet end' <rhyme label="b" type="f" corresp="#s3:l2">veele</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">De HEEr dijn Wtgang end <rhyme label="c" type="m">Ingangh</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Bewaer, dat dy gheen quaet <rhyme label="c" type="m" corresp="#s3:l5">bevangh</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Nu end in <rhyme label="d" type="f">Eewicheyde</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

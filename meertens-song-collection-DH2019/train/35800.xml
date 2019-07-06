@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35800</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="marialied" translation="Maria song">Marialied</tag>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
+    </tags>
+    <melody>Als Jezus in zijn majesteit</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Albertus Buitendyck</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">SIet Ouders! Wat Sint Anna <rhyme label="a" type="m">doet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Met haer Man Sint Ioachim <rhyme label="a" type="m" corresp="#s1:l1">goet</rhyme>:</l>
+        <l id="s1:l3" met="3" type="-+">Met een hart en sin <rhyme label="b" type="f">treden</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Nae Ierusalem <rhyme label="b" type="f" corresp="#s1:l3">heden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als Abraham tot <rhyme label="a" type="m">offerhandt</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Haer hoop, haer troost, haer waerste <rhyme label="a" type="m" corresp="#s2:l1">pant</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Haer beste schat <rhyme label="b" type="f">vereeren</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Tot Godes dienst, en <rhyme label="b" type="f" corresp="#s2:l3">eere</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Maria, haer vrucht van drie <rhyme label="a" type="m">Iaer</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Inde Tempel by eenen <rhyme label="a" type="m" corresp="#s3:l1">schaer</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Van Maghdekens <rhyme label="b" type="f">bestede</rhyme>.</l>
+        <l id="s3:l4" met="3" type="-+">Sy gaen wegh; 't is te <rhyme label="b" type="f" corresp="#s3:l3">vrede</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Onpeylbaer wijs is 't jonge <rhyme label="a" type="m">kint</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">'t Diepste verstandt in haer men <rhyme label="a" type="m" corresp="#s4:l1">vint</rhyme>.</l>
+        <l id="s4:l3" met="3" type="-+">d' Aldereerste der <rhyme label="b" type="f">Maeghden</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Haer reynheyt Godt op <rhyme label="b" type="f" corresp="#s4:l3">draeghden</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Met Godt en d' Eng'len is <rhyme label="a" type="m">gemeen</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Godt heeft haer hart, en anders <rhyme label="a" type="m" corresp="#s5:l1">geen</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Geen Mensch scheen sy te <rhyme label="b" type="f">wese</rhyme>;</l>
+        <l id="s5:l4" met="3" type="-+">Maer Seraphim <rhyme label="b" type="f" corresp="#s5:l3">geprese</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">By nacht en dagh Godt dient, en <rhyme label="a" type="m">looft</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Haer yver 't minste noyt <rhyme label="a" type="m" corresp="#s6:l1">verdooft</rhyme>,</l>
+        <l id="s6:l3" met="3" type="-+">d' Ootmoedicheyt <rhyme label="b" type="f">bewaerde</rhyme>;</l>
+        <l id="s6:l4" met="3" type="-+">Haer hart en raeckt geen <rhyme label="b" type="f" corresp="#s6:l3">aerde</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Sy vast, zy mediteert en <rhyme label="a" type="m">bidt</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">Noyt tijdt misbruyckt, noch 't minste <rhyme label="a" type="m" corresp="#s7:l1">lidt</rhyme>,</l>
+        <l id="s7:l3" met="3" type="-+">Haer tonghe speent van <rhyme label="b" type="f">spreken</rhyme>;</l>
+        <l id="s7:l4" met="3" type="-+">Sy leeft sonder <rhyme label="b" type="f" corresp="#s7:l3">gebreken</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Nae deughden loopt sy als een <rhyme label="a" type="m">Mier</rhyme>.</l>
+        <l id="s8:l2" met="4" type="-+">Om haer leven, en goe <rhyme label="a" type="m" corresp="#s8:l1">manier</rhyme></l>
+        <l id="s8:l3" met="3" type="-+">Veel 's Werelts roock, en <rhyme label="b" type="f">staten</rhyme>,</l>
+        <l id="s8:l4" met="3" type="-+">En al om Godt <rhyme label="b" type="f" corresp="#s8:l3">verlaten</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Al ist dat sy Sint Ioseph <rhyme label="a" type="m">trouwt</rhyme>,</l>
+        <l id="s9:l2" met="4" type="-+">Haer zuyverheydt nochtans <rhyme label="a" type="m" corresp="#s9:l1">behoudt</rhyme>,</l>
+        <l id="s9:l3" met="3" type="-+">Om 't houw'lijck, noch haer <rhyme label="b" type="f">Soone</rhyme></l>
+        <l id="s9:l4" met="3" type="-+">Verliest haer Maeghde <rhyme label="b" type="f" corresp="#s9:l3">kroone</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">'t Alderbeste aen Godt <rhyme label="a" type="m">vereert</rhyme>,</l>
+        <l id="s10:l2" met="4" type="-+">Met die goedt zijn alleen <rhyme label="a" type="m" corresp="#s10:l1">verkeert</rhyme>;</l>
+        <l id="s10:l3" met="3" type="-+">Goods roep wilt noyt <rhyme label="b" type="f">beletten</rhyme>,</l>
+        <l id="s10:l4" met="3" type="-+">Leeft zuyver, na Goods <rhyme label="b" type="f" corresp="#s10:l3">Wetten</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="-+">Mijn Godt en Al, voor u ick <rhyme label="a" type="m">kniel</rhyme>,</l>
+        <l id="s11:l2" met="4" type="-+">Ontfanght mijn hart, mijn tongh, mijn <rhyme label="a" type="m" corresp="#s11:l1">ziel</rhyme>,</l>
+        <l id="s11:l3" met="3" type="-+">Ende alle mijn <rhyme label="b" type="f">leden</rhyme></l>
+        <l id="s11:l4" met="3" type="-+">Tot offerhande <rhyme label="b" type="f" corresp="#s11:l3">heden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

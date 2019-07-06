@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175114</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wat pikt er tegen 't <rhyme label="a" type="m">vensterglas</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Alsof het vroeg: doe <rhyme label="b" type="f">open</rhyme>! -</l>
+        <l id="s1:l3" met="4" type="-+">Zoo 't eens die kleine vogel <rhyme label="a" type="m" corresp="#s1:l1">was</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Die 'k op de plaats zag <rhyme label="b" type="f" corresp="#s1:l2">loopen</rhyme>!</l>
+        <l id="s1:l5" met="4" type="-+">Och ja! daar zit hij, koud en <rhyme label="c" type="m">stram</rhyme>;</l>
+        <l id="s1:l6" met="3" type="-+">Hoe sjilpt hij om wat <rhyme label="d" type="f">eten</rhyme>....</l>
+        <l id="s1:l7" met="4" type="-+">Och, dat ik nu mijn <rhyme label="c" type="m" corresp="#s1:l5">boterham</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Maar niet had <rhyme label="d" type="f" corresp="#s1:l6">opgegeten</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Of had ik al de kruimels <rhyme label="a" type="m">maar</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Die Moeder weg moest <rhyme label="b" type="f">vegen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Dan was het arme diertje <rhyme label="a" type="m" corresp="#s2:l1">klaar</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">En ik stond niet <rhyme label="b" type="f" corresp="#s2:l2">verlegen</rhyme>! -</l>
+        <l id="s2:l5" met="4" type="-+">Och, Moeder! help mij uit den <rhyme label="c" type="m">nood</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">En 'k zal het nooit <rhyme label="d" type="f">vergeten</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Dat ook geen krûmmeltje van <rhyme label="c" type="m" corresp="#s2:l5">brood</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Mag worden <rhyme label="d" type="f" corresp="#s2:l6">weggesmeten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

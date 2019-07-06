@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188415</id>
+    <date>
+      <year-start>1751</year-start>
+      <year-end>1752</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Antoine Mahaut, Kornelis Elzevier</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Aen eene Beek zat <rhyme label="a" type="m">Klorimeen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Haer blonde lokken op te <rhyme label="b" type="f">Cieren</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Met Rozen en met <rhyme label="b" type="f" corresp="#s1:l2">Violie-ren</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Toen Damon aen haer zy <rhyme label="a" type="m" corresp="#s1:l1">verscheen</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Werp weg die Bloemen riep hy <rhyme label="c" type="m">uit</rhyme>;</l>
+        <l id="s1:l6" met="4" type="-+">O Schoone die myn hart vry <rhyme label="c" type="m" corresp="#s1:l5">buit</rhyme>;</l>
+        <l id="s1:l7" met="4" type="-+">Waer vind men lieffelyker <rhyme label="d" type="f">Rozen</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Dan die op uwe Koontjes <rhyme label="d" type="f" corresp="#s1:l7">blozen</rhyme>?</l>
+        <l id="s1:l9" met="4" type="-+">Want uw natuurlykschoon <rhyme label="e" type="m">verwint</rhyme>,</l>
+        <l id="s1:l10" met="4" type="-+">Al wat men op de Velden <rhyme label="e" type="m" corresp="#s1:l9">vindt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

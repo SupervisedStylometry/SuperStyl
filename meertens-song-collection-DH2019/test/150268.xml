@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>150268</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Pots honderdduizend slapperment</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WEl aan! ik stel dan weer myn <rhyme label="a" type="m">Hert</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Voor 't Minne-boefje <rhyme label="b" type="m">blood</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Het treff' my shcoon 't my bitter <rhyme label="a" type="m" corresp="#s1:l1">smert</rhyme>;</l>
+        <l id="s1:l4" met="3" type="-+">'k Klaag nimmer van myn <rhyme label="b" type="m" corresp="#s1:l2">Dood</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Als ik van haar maar <rhyme label="c" type="m">Weder-min</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Ontfang, waarom ik <rhyme label="d" type="m">kwyn</rhyme>.</l>
+        <l id="s1:l7" met="4" type="-+">Ik eer haar dan als een <rhyme label="c" type="m" corresp="#s1:l5">Godin</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">En wil haar Dienaar <rhyme label="d" type="m" corresp="#s1:l6">zyn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

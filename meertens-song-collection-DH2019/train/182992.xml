@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182992</id>
+    <date>
+      <year-start>1788</year-start>
+      <year-end>1788</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Welkom welkom in de <rhyme label="a" type="m">Stad</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Wy hebben lang geen Vreugd <rhyme label="a" type="m" corresp="#s1:l1">gehad</rhyme></l>
+        <l id="s1:l3" met="5" type="+-">Laat ons drinken <rhyme label="b" type="m">Tralderaldera</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Ey wat geeven wy der <rhyme label="b" type="m" corresp="#s1:l3">na</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Oranje <rhyme label="c" type="m">Brandewyn</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Rom laat ons vrolyk <rhyme label="c" type="m" corresp="#s1:l5">zyn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Laat ons te zamen <rhyme label="a" type="m">overluyd</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Nu Juigen voor de Oranje <rhyme label="a" type="m" corresp="#s2:l1">spruyt</rhyme></l>
+        <l id="s2:l3" met="5" type="+-">Laat ons drinken <rhyme label="b" type="m">Tralderaldera</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Ey wat geeven wy der <rhyme label="b" type="m" corresp="#s2:l3">na</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Oranje <rhyme label="c" type="m">Brandewyn</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">'t Zal de Prins zyn gezondheid <rhyme label="c" type="m" corresp="#s2:l5">zyn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">God seegent het <rhyme label="a" type="m">Oranje-Hof</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">'t Onkruid verandert nu als <rhyme label="a" type="m" corresp="#s3:l1">stof</rhyme></l>
+        <l id="s3:l3" met="5" type="+-">Laat ons drinken <rhyme label="b" type="m">Tralderaldera</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Ey wat geeven wy der <rhyme label="b" type="m" corresp="#s3:l3">na</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Oranje <rhyme label="c" type="m">Brandewyn</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">'t Zal de Princes der gezondheid <rhyme label="c" type="m" corresp="#s3:l5">zyn</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Dit liedje sing ik voor myn <rhyme label="a" type="m">plyzier</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Za Hospis tap Princesse <rhyme label="a" type="m" corresp="#s4:l1">Bier</rhyme></l>
+        <l id="s4:l3" met="5" type="+-">Laat ons drinken <rhyme label="b" type="m">Tralderaldera</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Ey wat geeven wy der <rhyme label="b" type="m" corresp="#s4:l3">na</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Oranje <rhyme label="c" type="m">Brandewyn</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">'t Zal de Pruys zyn gezontheid <rhyme label="c" type="m" corresp="#s4:l5">zyn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

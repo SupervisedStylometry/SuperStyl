@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>158243</id>
+    <date>
+      <year-start>1682</year-start>
+      <year-end>1682</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen [=amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Je voudrais bien guérir</melody>
+  <author>Christianus de Placker</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GHy, die bemindt de <rhyme label="a" type="m">deugdelickheyt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Van Jesu Christo <rhyme label="b" type="m">leerdt</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Hoe by u de <rhyme label="a" type="m" corresp="#s1:l1">ootmoedelickheyt</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Moet zijn in groot' <rhyme label="b" type="m" corresp="#s1:l2">eer-weerd'</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Zijt ghy (seght hy) genoodt te <rhyme label="c" type="m">gast</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Op d'alder-leeghste plaetse <rhyme label="c" type="m" corresp="#s1:l5">past</rhyme>;</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Dat ghy allenghskens hooger op <rhyme label="a" type="m">gaet</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Tot uwer eer seer <rhyme label="b" type="m">groot</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Soo niemant daer, van meerderen <rhyme label="a" type="m" corresp="#s2:l1">staet</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Met u, en is <rhyme label="b" type="m" corresp="#s2:l2">genoodt</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Want anders ghy, tot uwer <rhyme label="c" type="m">schand</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Weer schuyven moet ter leeger <rhyme label="c" type="m" corresp="#s2:l5">handt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Verleent, o Jesu, Meester, aen <rhyme label="a" type="m">my</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Uw' graci' <rhyme label="b" type="m">ongemeen</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">Dat ick magh schouwen de <rhyme label="a" type="m" corresp="#s3:l1">hoveerdy</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Van dese <rhyme label="b" type="m" corresp="#s3:l2">Phariseen</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">En in u' Kercke zijn de <rhyme label="c" type="m">minst</rhyme>;</l>
+        <l id="s3:l6" met="4" type="-+">Dat ick ten Hemel klim met <rhyme label="c" type="m" corresp="#s3:l5">winst</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

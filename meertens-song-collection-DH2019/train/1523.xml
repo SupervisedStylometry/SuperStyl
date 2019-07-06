@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1523</id>
+    <date>
+      <year-start>1613</year-start>
+      <year-end>1613</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam?</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Te mei als alle vogels zingen</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MYn herte is heel in vreughden <rhyme label="a" type="m">gheset</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Dat ick mijn liefken in deughden so <rhyme label="a" type="m" corresp="#s1:l1">net</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Verciert sie in alle <rhyme label="b" type="f">zijden</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Of icker my eens verheughen moght <rhyme label="a" type="m" corresp="#s1:l1">met</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">'tWaer my een groot <rhyme label="b" type="f" corresp="#s1:l3">verblijden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ter werelt geen liever int hert // <rhyme label="a" type="m">mijn</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Want sy verdrijft wel vert de // <rhyme label="a" type="m" corresp="#s2:l1">pijn</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">En doetse van my <rhyme label="b" type="f">vlieden</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Mijn dagen sou ick in geen smerte meer <rhyme label="a" type="m" corresp="#s2:l1">zijn</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Wou sy my haer jonste <rhyme label="b" type="f" corresp="#s2:l3">bieden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Helena sy veer te boven <rhyme label="a" type="m">gaet</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">In schoonheyt, dat my tot loven // <rhyme label="a" type="m" corresp="#s3:l1">raet</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">En sal't met daet <rhyme label="b" type="f">bewijsen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">O Venus my haer toch roven // <rhyme label="a" type="m" corresp="#s3:l1">laet</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Om haer eere te <rhyme label="b" type="f" corresp="#s3:l3">prijsen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Princesse neemter mijn sanck // in <rhyme label="a" type="m">danck</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">En laet my ontgaen u <rhyme label="a" type="m" corresp="#s4:l1">bedwanckt</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Anders moet ick't <rhyme label="b" type="f">besterven</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Om u ben ick gheheel ranck // en <rhyme label="a" type="m" corresp="#s4:l1">kranck</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Dus laet my u liefde <rhyme label="b" type="f" corresp="#s4:l3">be-erven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

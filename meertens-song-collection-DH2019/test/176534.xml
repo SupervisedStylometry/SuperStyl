@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176534</id>
+    <date>
+      <year-start>1637</year-start>
+      <year-end>1637</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>O Angenietje</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">HIer speurtmen de <rhyme label="a" type="f">vruchten</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Van dussent <rhyme label="a" type="f" corresp="#s1:l1">genuchten</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Door ouwe nieuwe <rhyme label="b" type="m">snof</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Van Adams tyden <rhyme label="b" type="m" corresp="#s1:l3">of</rhyme>:</l>
+        <l id="s1:l5" met="2" type="-+">Siet Jonghe <rhyme label="c" type="f">Genode</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Dees' Suykerde <rhyme label="c" type="f" corresp="#s1:l5">Mode</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Hout langer stant en <rhyme label="d" type="m">wijs</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Als 't pronksel van <rhyme label="d" type="m" corresp="#s1:l7">Parijs</rhyme>.</l>
+        <l id="s1:l9" met="2" type="-+">De Meester <rhyme label="e" type="m">leeft</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">Noch, die besneden <rhyme label="e" type="m" corresp="#s1:l9">heeft</rhyme></l>
+        <l id="s1:l11" met="2" type="+-">Dit soete <rhyme label="f" type="m">Getrouw</rhyme>,</l>
+        <l id="s1:l12" met="2" type="-+">Dit <rhyme label="f" type="m" corresp="#s1:l11">Kinder-gebouw</rhyme>,</l>
+        <l id="s1:l13" met="3" type="-+">Daar yeder an wil of <rhyme label="f" type="m" corresp="#s1:l11">wou</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

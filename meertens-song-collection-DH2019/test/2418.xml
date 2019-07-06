@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2418</id>
+    <date>
+      <year-start>1597</year-start>
+      <year-end>1597</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Era di maggio</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">VEnus <rhyme label="a" type="f">Goddinne</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Aenhoort mijn lamentacy // <rhyme label="b" type="m">nv</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">Die ick <rhyme label="a" type="f" corresp="#s1:l1">beminne</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Die verlaet my eylacy // <rhyme label="b" type="m" corresp="#s1:l2">nv</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Haer aenschijn staet seer <rhyme label="c" type="m">fel</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Dus leef ick in <rhyme label="c" type="m" corresp="#s1:l5">ghequel</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Mocht my <rhyme label="a" type="f">ghebeuren</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Van haer een minnelick <rhyme label="b" type="m">ghesicht</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Ick liet mijn <rhyme label="a" type="f" corresp="#s2:l1">treuren</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Ick achte mijn lijden seer <rhyme label="b" type="m" corresp="#s2:l2">licht</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Maer sy houdt haer van <rhyme label="c" type="m">my</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Dies ben ick selden <rhyme label="c" type="m" corresp="#s2:l5">bly</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">So <rhyme label="a" type="f">menichreyse</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Dat ick aensie haer schoone <rhyme label="b" type="m">jeucht</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">So <rhyme label="a" type="f" corresp="#s3:l1">overpeyse</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Ick al ons minnelicke <rhyme label="b" type="m" corresp="#s3:l2">vreucht</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Die wy eertijts met <rhyme label="c" type="m">vlijt</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Hadden menighen <rhyme label="c" type="m" corresp="#s3:l5">tijdt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">O schoon <rhyme label="a" type="f">Princersse</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Doet uwen dienaer <rhyme label="b" type="m">ghenae</rhyme>,</l>
+        <l id="s4:l3" met="2" type="-+">Ghedenckt mijn <rhyme label="a" type="f" corresp="#s4:l1">persse</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Die ick verdraghe vroech en <rhyme label="b" type="m" corresp="#s4:l2">spae</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Ick en soeck ghelt noch <rhyme label="c" type="m">schat</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Dan dat maechdelick <rhyme label="c" type="m" corresp="#s4:l5">vat</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

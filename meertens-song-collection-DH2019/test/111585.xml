@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111585</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
+    </tags>
+    <melody>Mars van Dessau</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">DAmon,, wat kon U driften zo <rhyme label="a" type="m">vervoeren</rhyme>?</l>
+        <l id="s1:l2" met="3" type="-+">Seg dat tegens <rhyme label="b" type="f">Hoeren</rhyme>:</l>
+        <l id="s1:l3" met="3" type="+-">Waanje dat ik <rhyme label="c" type="m">zou</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">U steeds beminnen als uw <rhyme label="c" type="m" corresp="#s1:l3">Vrouw</rhyme>?</l>
+        <l id="s1:l5" met="3" type="-+">Stel dat vry uyt uw <rhyme label="d" type="f">sinnen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Of schenck my uw <rhyme label="c" type="m" corresp="#s1:l3">trouw</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Wat kan, een <rhyme label="a" type="m">Man</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Als Gy, meer Vreugde <rhyme label="b" type="f">geven</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">Als dat hy al zyn leven blyft <rhyme label="c" type="m">gepaard</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Met een aardig Meysje zoet van <rhyme label="c" type="m" corresp="#s2:l3">aard</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Dat hem reys op <rhyme label="d" type="f">reysje</rhyme>,</l>
+        <l id="s2:l6" met="3" type="+-">Jonge Damons <rhyme label="c" type="m" corresp="#s2:l3">baard</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Maar neen, bruy <rhyme label="a" type="m">heen</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Gy suld dat nooyt <rhyme label="b" type="f">beleven</rhyme>,</l>
+        <l id="s3:l3" met="3" type="+-">Dat ik my sal geven onder u <rhyme label="c" type="m">gebied</rhyme>:</l>
+        <l id="s3:l4" met="4" type="-+">Maar geef my nog een Bekje, eer je <rhyme label="c" type="m" corresp="#s3:l3">vlied</rhyme>;</l>
+        <l id="s3:l5" met="3" type="-+">Kom hier jouw malle <rhyme label="d" type="f">gekje</rhyme>;</l>
+        <l id="s3:l6" met="3" type="+-">Want ick meen het <rhyme label="c" type="m" corresp="#s3:l3">niet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

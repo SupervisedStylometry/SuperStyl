@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>115833</id>
+    <date>
+      <year-start>1694</year-start>
+      <year-end>1694</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="tafellied" translation="dining song">tafellied</tag>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Lorsque je suis</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Cornelis Sweerts</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Den Dis met syn <rhyme label="a" type="f">behooren</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Verband de zorg en <rhyme label="b" type="m">pyn</rhyme>.</l>
+        <l id="s1:l3" met="6" type="-+">Het scheelt my evenveel of Phillis kan <rhyme label="a" type="f" corresp="#s1:l1">bekooren</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Den Dis met syn <rhyme label="a" type="f" corresp="#s1:l1">behooren</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Kan ons doen vrolyk <rhyme label="b" type="m" corresp="#s1:l2">zyn</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">By d'alderbeste <rhyme label="b" type="m" corresp="#s1:l2">Wyn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

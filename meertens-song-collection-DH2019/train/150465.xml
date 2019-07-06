@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>150465</id>
+    <date>
+      <year-start>1630</year-start>
+      <year-end>1630</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 033 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Dirk Rafaelsz. Camphuysen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">OP ons Godts zegen en <rhyme label="a" type="f">genaden</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Met ons sijns aenschijns lieve <rhyme label="b" type="m">licht</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Dat kennis van sijn heyl en <rhyme label="a" type="f" corresp="#s1:l1">paden</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Op aerden strael in elcks <rhyme label="b" type="m" corresp="#s1:l2">gesicht</rhyme>.</l>
+        <l id="s1:l5" met="3" type="+-">Alle volcken <rhyme label="c" type="f">moeten</rhyme></l>
+        <l id="s1:l6" met="3" type="+-">V met loff <rhyme label="c" type="f" corresp="#s1:l5">begroeten</rhyme>,</l>
+        <l id="s1:l7" met="3" type="+-">V, Godt; en, <rhyme label="d" type="m">verblijdt</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">Sich in u <rhyme label="e" type="f">verfeesten</rhyme>,</l>
+        <l id="s1:l9" met="3" type="+-">Want ghy minst’ en <rhyme label="e" type="f" corresp="#s1:l8">meesten</rhyme></l>
+        <l id="s1:l10" met="3" type="+-">Trou en billijck <rhyme label="d" type="m" corresp="#s1:l7">zijt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">V, Godt, looff elck. en looff ter <rhyme label="a" type="f">degen</rhyme>.</l>
+        <l id="s2:l2" met="4" type="-+">Door u brengt d’aerd’ haer vrucht <rhyme label="b" type="m">her-voor</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Godt, onse Godt, send’ ons sijn <rhyme label="a" type="f" corresp="#s2:l1">zegen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">En sijne vrees’ al ’taerdt-rijck <rhyme label="b" type="m" corresp="#s2:l2">door</rhyme>.</l>
+        <l id="s2:l5" met="3" type="+-">Alle volcken <rhyme label="c" type="f">moeten</rhyme></l>
+        <l id="s2:l6" met="3" type="+-">V met loff <rhyme label="c" type="f" corresp="#s2:l5">begroeten</rhyme>,</l>
+        <l id="s2:l7" met="3" type="+-">V, Godt; en, <rhyme label="d" type="m">verblijdt</rhyme></l>
+        <l id="s2:l8" met="3" type="+-">Sich in u <rhyme label="e" type="f">verfeesten</rhyme>,</l>
+        <l id="s2:l9" met="3" type="+-">Want ghy minst’ en <rhyme label="e" type="f" corresp="#s2:l8">meesten</rhyme></l>
+        <l id="s2:l10" met="3" type="+-">Trou en billijck <rhyme label="d" type="m" corresp="#s2:l7">zijt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

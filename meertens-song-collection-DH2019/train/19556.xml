@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19556</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Als Garint zijn oogjes open deed</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Thomas Fonteyn</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">WAt vermaak vernoegde ziellust <rhyme label="a" type="m">baard</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Bind ik in der daat, nu oprecht, heel volmaakt, inzen <rhyme label="a" type="m" corresp="#s1:l1">aard</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">De Hemel, Arfilon// Die <rhyme label="b" type="m">gon</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">V ziel//  em mijn gemoed ‘er <rhyme label="c" type="m">lust</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">En voords onfeilbre <rhyme label="c" type="m" corresp="#s1:l4">rust</rhyme>,</l>
+        <l id="s1:l6" met="1" type="-+">Wiens <rhyme label="d" type="m">wiel</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">‘T gun op den Heilweg <rhyme label="e" type="m">loopt</rhyme></l>
+        <l id="s1:l8" met="1" type="-+">en <rhyme label="e" type="m" corresp="#s1:l7">knoopt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

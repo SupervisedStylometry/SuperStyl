@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>120641</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Dieu d'amour en ce jour</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">G' hebt <rhyme label="a" type="m">gelyk</rhyme>:</l>
+        <l id="s1:l2" met="2" type="+-">Ja, 'k ben <rhyme label="a" type="m" corresp="#s1:l1">ryk</rhyme>;</l>
+        <l id="s1:l3" met="3" type="-+">Want wie leeft zo wel te <rhyme label="b" type="f">vreden</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Dan ik tot <rhyme label="b" type="f" corresp="#s1:l3">heden</rhyme>?</l>
+        <l id="s1:l5" met="3" type="-+">Daar ik de Stad <rhyme label="a" type="m" corresp="#s1:l1">ontwyk</rhyme>.</l>
+        <l id="s1:l6" met="3" type="-+">Wat zou ik meer <rhyme label="c" type="f">verlangen</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Zo my eens de <rhyme label="d" type="m">Deugd</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Deez' lof doet <rhyme label="c" type="f" corresp="#s1:l6">ontfangen</rhyme>:</l>
+        <l id="s1:l9" met="4" type="-+">Zy diende haaren God met <rhyme label="d" type="m" corresp="#s1:l7">vreugd</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

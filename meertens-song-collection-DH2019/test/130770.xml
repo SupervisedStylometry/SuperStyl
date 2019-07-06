@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>130770</id>
+    <date>
+      <year-start>1711</year-start>
+      <year-end>1711</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Amaryllis je renonce à vos charmes</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Neen, neen, gy sult de liefde niet <rhyme label="a" type="f">ontvlugten</rhyme>:</l>
+        <l id="s1:l2" met="5" type="-+">Hoe ver gy met uw kiel zweeft over <rhyme label="b" type="m">zee</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Afwesentheid verdrijft geen <rhyme label="a" type="f" corresp="#s1:l1">minne-zugten</rhyme>;</l>
+        <l id="s1:l4" met="5" type="-+">Gy voerd, waar dat gy streeft, uw vyand <rhyme label="b" type="m" corresp="#s1:l2">mee</rhyme>:</l>
+        <l id="s1:l5" met="3" type="-+">Wanneer het minziek <rhyme label="c" type="m">hert</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Die smert heeft <rhyme label="d" type="f">ingezogen</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Dan is de <rhyme label="c" type="m" corresp="#s1:l5">minne-smert</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">Vergeefs <rhyme label="d" type="f" corresp="#s1:l6">ontvlogen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Een hart ontvlugt, bekommert voor zijn <rhyme label="a" type="f">leven</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Den pijl hem van den Jager in het <rhyme label="b" type="m">woud</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Met wissen schoot door ribb' en spier <rhyme label="a" type="f" corresp="#s2:l1">gedreven</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Maer op sijn vlugt is zelf sijn val <rhyme label="b" type="m" corresp="#s2:l2">gebout</rhyme>:</l>
+        <l id="s2:l5" met="3" type="-+">Want waar het henen <rhyme label="c" type="m">vlied</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Het draagt zijn vyand <rhyme label="d" type="f">mede</rhyme>.</l>
+        <l id="s2:l7" met="3" type="-+">Daar liefde 't hart <rhyme label="c" type="m" corresp="#s2:l5">doorschied</rhyme>,</l>
+        <l id="s2:l8" met="3" type="+-">Daar is rust nog <rhyme label="d" type="f" corresp="#s2:l6">vrede</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Vergeefs is 't dan soo ver van hier <rhyme label="a" type="f">getogen</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">Toen u de min die wonde dreef in 't <rhyme label="b" type="m">hert</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Trok hy zijn pijl uit Amarillis <rhyme label="a" type="f" corresp="#s3:l1">oogen</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">En gaf aan haar de balsem voor uw <rhyme label="b" type="m" corresp="#s3:l2">smert</rhyme>.</l>
+        <l id="s3:l5" met="3" type="-+">Waar vlied gy dan? Laat <rhyme label="c" type="m">af</rhyme>!</l>
+        <l id="s3:l6" met="3" type="-+">Wilt gy geholpen <rhyme label="d" type="f">wesen</rhyme>?</l>
+        <l id="s3:l7" met="3" type="-+">Sy die dees wond u <rhyme label="c" type="m" corresp="#s3:l5">gaf</rhyme></l>
+        <l id="s3:l8" met="3" type="+-">Kanse ook <rhyme label="d" type="f" corresp="#s3:l6">genesen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

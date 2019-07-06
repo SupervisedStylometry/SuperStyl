@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>177630</id>
+    <date>
+      <year-start>1774</year-start>
+      <year-end>1774</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Psalm 002 Datheen</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Wat drift beheerscht het woedend <rhyme label="a" type="m">heidendom</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">En heeft het hart der volken <rhyme label="b" type="f">ingenoomen</rhyme>?</l>
+        <l id="s1:l3" met="5" type="-+">De koningen verheffen zich <rhyme label="a" type="m" corresp="#s1:l1">alom</rhyme>;</l>
+        <l id="s1:l4" met="5" type="-+">De vorsten zijn vermetel <rhyme label="b" type="f" corresp="#s1:l2">saamgekomen</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">Om God, den HEER, zelfs naar de kroon te <rhyme label="c" type="f">steeken</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">En tegen zijn' Gezalfden op te <rhyme label="d" type="m">staan</rhyme>.</l>
+        <l id="s1:l7" met="5" type="-+">Zij spreeken saam: “Laat ons hun banden <rhyme label="c" type="f" corresp="#s1:l5">breeken</rhyme>,</l>
+        <l id="s1:l8" met="5" type="-+">En van hun juk en touwen ons <rhyme label="d" type="m" corresp="#s1:l6">ontslaan</rhyme>!”</l>
+      </lg>
+    </lg>
+  </text>
+</song>

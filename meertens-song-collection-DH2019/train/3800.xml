@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3800</id>
+    <date>
+      <year-start>1582</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody>Verjubileer u gij Venus' jongens</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Hans de Ries</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MYn siele dorst naer v O <rhyme label="a" type="f">Heere</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">En hangert naer de goetheyt <rhyme label="b" type="m">dijn</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Mijn siele vlangt van herten <rhyme label="a" type="f" corresp="#s1:l1">seere</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Om v te ghenieten O ghy Godt <rhyme label="b" type="m" corresp="#s1:l2">mijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">‡ Dijn wooningen O Heere <rhyme label="a" type="f">verheuen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Sijn seer lieflijck ende <rhyme label="b" type="m">schoon</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Wilt mijn siele die ghenade <rhyme label="a" type="f" corresp="#s2:l1">gheuen</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Dat sy mach ghenieten der vromer <rhyme label="b" type="m" corresp="#s2:l2">loon</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Veruult mijn siel met uwe <rhyme label="a" type="f">goeden</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Spijst my met v Hemels <rhyme label="b" type="m">broot</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">† Wilt my met Goddelijcke spijse <rhyme label="a" type="f" corresp="#s3:l1">voeden</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Mijn siele lust daer naer Heere <rhyme label="b" type="m" corresp="#s3:l2">minoot</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">† Drenckt my met uwen Goddelijcken <rhyme label="a" type="f">gheeste</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Schenckt my dwater des leuens <rhyme label="b" type="m">reyn</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Lauet mijn siel in dit <rhyme label="a" type="f" corresp="#s4:l1">foreeste</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">‡ Ghy die zijt mijn Godt des leuens <rhyme label="b" type="m" corresp="#s4:l2">fonteyn</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Dijn Goddelijcke aert ende <rhyme label="a" type="f">natuere</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Vermeerdert in my Heere <rhyme label="b" type="m">goet</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">‡ Reynicht mijn siele maeckt my <rhyme label="a" type="f" corresp="#s5:l1">puere</rhyme></l>
+        <l id="s5:l4" met="5" type="-+">Daelt Heere in my met haest v <rhyme label="b" type="m" corresp="#s5:l2">spoet</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Weest ghy mijn Coninck ende <rhyme label="a" type="f">Heere</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Regeert mijnen wil en al mijn <rhyme label="b" type="m">doen</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Keert v toch van my <rhyme label="a" type="f" corresp="#s6:l1">nimmermeere</rhyme></l>
+        <l id="s6:l4" met="5" type="-+">Mijn siele wilt haer tot uwen dienste <rhyme label="b" type="m" corresp="#s6:l2">spoen</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">‡ Hoort mijn ghebedt verneemt mijn <rhyme label="a" type="f">smeecken</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Ghy mijn Godt vriendelijcke en <rhyme label="b" type="m">soet</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">Mijn bidden en wilt niet <rhyme label="a" type="f" corresp="#s7:l1">versteecken</rhyme></l>
+        <l id="s7:l4" met="5" type="-+">Op v heb ick gheset mijne hoope <rhyme label="b" type="m" corresp="#s7:l2">goet</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Mijn siele is met vasten <rhyme label="a" type="f">vertrouwen</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">Op v ghegrondet mijn borcht en <rhyme label="b" type="m">steen</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">Aen v mijn Godt wil ick my <rhyme label="a" type="f" corresp="#s8:l1">houwen</rhyme></l>
+        <l id="s8:l4" met="5" type="-+">Ghy zijt mijn hulpe troost en cracht <rhyme label="b" type="m" corresp="#s8:l2">alleen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>118786</id>
+    <date>
+      <year-start>1730</year-start>
+      <year-end>1730</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>C'est le dieu des eaux qui va paraître</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Jakobus Rosseau</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HA! koele wyn ik moet u eens <rhyme label="a" type="f">vatten</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Ik ben een likkebroer in 't <rhyme label="a" type="f" corresp="#s1:l1">natten</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Ik zie zo <rhyme label="b" type="m">graag</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">By nagt en <rhyme label="b" type="m" corresp="#s1:l3">daag</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">U lieve dropjes <rhyme label="a" type="f" corresp="#s1:l1">spatten</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Sa geef hem de volle <rhyme label="b" type="m" corresp="#s1:l3">laag</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wyn kan my al ben ik ziek <rhyme label="a" type="f">verheugen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Weg, weg gekken diegeen wyn en <rhyme label="a" type="f" corresp="#s2:l1">meugen</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Ik zeg <rhyme label="b" type="m">byget</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">'t Is Bagchus <rhyme label="b" type="m" corresp="#s2:l3">wet</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Te drinken groote <rhyme label="a" type="f" corresp="#s2:l1">teugen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">En te rollen in het <rhyme label="b" type="m" corresp="#s2:l3">Bed</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Nu nog een glas al zou ik dronke <rhyme label="a" type="f">raken</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Wy moeten hier nogtans een trooitje <rhyme label="a" type="f" corresp="#s3:l1">maken</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">Wyn is het <rhyme label="b" type="m">woord</rhyme>,</l>
+        <l id="s3:l4" met="2" type="-+">Stuurtze maar <rhyme label="b" type="m" corresp="#s3:l3">voort</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">En wilt geen troef <rhyme label="a" type="f" corresp="#s3:l1">verzaken</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Wyl dees eer aan Bagchus <rhyme label="b" type="m" corresp="#s3:l3">hoord</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

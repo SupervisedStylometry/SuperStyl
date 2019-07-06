@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4310</id>
+    <date>
+      <year-start>1602</year-start>
+      <year-end>1602</year-end>
+    </date>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+      <tag standard-name="acrostichon" translation="acrostic song">acrostichon</tag>
+    </tags>
+    <melody>Courageuse violette</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">COR agieuse // <rhyme label="a" type="f">violette</rhyme> //</l>
+        <l id="s1:l2" met="4" type="-+">Reynste fleur // Op <rhyme label="b" type="m">aerderijck</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Amoureuse // schoon <rhyme label="a" type="f" corresp="#s1:l1">Jenette</rhyme> //</l>
+        <l id="s1:l4" met="4" type="-+">Inden geur // <rhyme label="b" type="m" corresp="#s1:l2">aromatijck</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">O soetheyt sonder <rhyme label="b" type="m" corresp="#s1:l2">gelijck</rhyme> //</l>
+        <l id="s1:l6" met="2" type="+-">Sulck een <rhyme label="c" type="m">jeugt</rhyme> //</l>
+        <l id="s1:l7" met="1" type="+-">Ghy <rhyme label="d" type="m">zijt</rhyme> //</l>
+        <l id="s1:l8" met="2" type="+-">Die vermeugt // <rhyme label="c" type="m" corresp="#s1:l6">Altijt</rhyme> //</l>
+        <l id="s1:l9" met="1" type="-+">Smert en <rhyme label="d" type="m" corresp="#s1:l7">leet</rhyme></l>
+        <l id="s1:l10" met="3" type="+-">te scheu- <rhyme label="e" type="f">ren</rhyme> //</l>
+        <l id="s1:l11" met="1" type="-+">Met <rhyme label="c" type="m" corresp="#s1:l6">vreugt</rhyme> //</l>
+        <l id="s1:l12" met="1" type="-+"><rhyme label="d" type="m" corresp="#s1:l7">Jolijt</rhyme> //</l>
+        <l id="s1:l13" met="1" type="-+"><rhyme label="c" type="m" corresp="#s1:l6">Verheugt</rhyme> //</l>
+        <l id="s1:l14" met="1" type="-+"><rhyme label="d" type="m" corresp="#s1:l7">Verblijt</rhyme> //</l>
+        <l id="s1:l15" met="3" type="+-">Mijn langmoedich <rhyme label="e" type="f" corresp="#s1:l10">treuren</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Nobel herte // borght van <rhyme label="a" type="f">trooste</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Acht doch cleen // twistich <rhyme label="b" type="m">erreur</rhyme>:</l>
+        <l id="s2:l3" met="4" type="+-">Doen my smerte // <rhyme label="a" type="f" corresp="#s2:l1">d'alderbooste</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Ghy alleen // tooght my <rhyme label="b" type="m" corresp="#s2:l2">faveur</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Vwen lof, wert met <rhyme label="b" type="m" corresp="#s2:l2">honneur</rhyme>,</l>
+        <l id="s2:l6" met="2" type="+-">Hondert <rhyme label="c" type="m">fout</rhyme></l>
+        <l id="s2:l7" met="1" type="+-"><rhyme label="d" type="m">Verclaert</rhyme>,</l>
+        <l id="s2:l8" met="2" type="+-">En als <rhyme label="c" type="m" corresp="#s2:l6">gout</rhyme></l>
+        <l id="s2:l9" met="1" type="-+"><rhyme label="d" type="m" corresp="#s2:l7">Bewaert</rhyme>,</l>
+        <l id="s2:l10" met="3" type="+-">Gants uwen <rhyme label="e" type="f">persoone</rhyme>:</l>
+        <l id="s2:l11" met="1" type="-+"><rhyme label="c" type="m" corresp="#s2:l6">Benout</rhyme>,</l>
+        <l id="s2:l12" met="1" type="-+"><rhyme label="d" type="m" corresp="#s2:l7">Vervaert</rhyme>,</l>
+        <l id="s2:l13" met="1" type="-+"><rhyme label="c" type="m" corresp="#s2:l6">Verflout</rhyme>,</l>
+        <l id="s2:l14" met="1" type="-+"><rhyme label="d" type="m" corresp="#s2:l7">Beswaert</rhyme>,</l>
+        <l id="s2:l15" met="3" type="+-">Ick my t'uwaert <rhyme label="e" type="f" corresp="#s2:l10">thoone</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Eenigh wesen // hier ter <rhyme label="a" type="f">weerelt</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Wel gespraect // en niet te <rhyme label="b" type="m">min</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Hoogh gepresen // rijck <rhyme label="a" type="f" corresp="#s3:l1">bepeerelt</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Gans volmaect // in mijnen <rhyme label="b" type="m" corresp="#s3:l2">sin</rhyme>:</l>
+        <l id="s3:l5" met="4" type="+-">Wtvercoren vant <rhyme label="b" type="m" corresp="#s3:l2">begin</rhyme>,</l>
+        <l id="s3:l6" met="2" type="+-">Alle <rhyme label="c" type="m">mijn</rhyme></l>
+        <l id="s3:l7" met="1" type="+-"><rhyme label="d" type="m">Verdriet</rhyme>,</l>
+        <l id="s3:l8" met="2" type="+-">En <rhyme label="c" type="m" corresp="#s3:l6">gepijn</rhyme></l>
+        <l id="s3:l9" met="1" type="-+">Is <rhyme label="d" type="m" corresp="#s3:l7">niet</rhyme>,</l>
+        <l id="s3:l10" met="3" type="+-">Troost ghy my <rhyme label="e" type="f">behendich</rhyme>,</l>
+        <l id="s3:l11" met="1" type="-+">Macht <rhyme label="c" type="m" corresp="#s3:l6">zijn</rhyme>,</l>
+        <l id="s3:l12" met="1" type="-+">My <rhyme label="d" type="m" corresp="#s3:l7">biet</rhyme>,</l>
+        <l id="s3:l13" met="1" type="-+"><rhyme label="c" type="m" corresp="#s3:l6">T'aenschijn</rhyme>,</l>
+        <l id="s3:l14" met="1" type="-+">En <rhyme label="d" type="m" corresp="#s3:l7">siet</rhyme></l>
+        <l id="s3:l15" met="3" type="+-">Mijnen staet <rhyme label="e" type="f" corresp="#s3:l10">ellendich</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Lieuer steruen // naer <rhyme label="a" type="f">sentency</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">(Dit sal elck // houden <rhyme label="b" type="m">gewis</rhyme>)</l>
+        <l id="s4:l3" met="4" type="+-">Dan te deruen // u <rhyme label="a" type="f" corresp="#s4:l1">presenty</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Sonder welck // geen leuen <rhyme label="b" type="m" corresp="#s4:l2">is</rhyme>:</l>
+        <l id="s4:l5" met="4" type="+-">Welgeboren maget <rhyme label="b" type="m" corresp="#s4:l2">fris</rhyme>,</l>
+        <l id="s4:l6" met="2" type="+-">Hoe <rhyme label="c" type="m">cruel</rhyme></l>
+        <l id="s4:l7" met="1" type="+-">Het <rhyme label="d" type="m">zij</rhyme>,</l>
+        <l id="s4:l8" met="2" type="+-">Euen <rhyme label="c" type="m" corresp="#s4:l6">wel</rhyme>,</l>
+        <l id="s4:l9" met="1" type="-+">Sult <rhyme label="d" type="m" corresp="#s4:l7">ghy</rhyme></l>
+        <l id="s4:l10" met="3" type="+-">Lief! zijn mijn <rhyme label="e" type="f">egade</rhyme>:</l>
+        <l id="s4:l11" met="1" type="-+">Niet <rhyme label="c" type="m" corresp="#s4:l6">fel</rhyme></l>
+        <l id="s4:l12" met="1" type="-+">Tooht <rhyme label="d" type="m" corresp="#s4:l7">dy</rhyme>,</l>
+        <l id="s4:l13" met="1" type="-+"><rhyme label="c" type="m" corresp="#s4:l6">Omhel</rhyme>-</l>
+        <l id="s4:l14" met="1" type="-+">sen <rhyme label="d" type="m" corresp="#s4:l7">my</rhyme></l>
+        <l id="s4:l15" met="3" type="+-">Laet uwe <rhyme label="e" type="f" corresp="#s4:l10">genade</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Int beminnen // ick <rhyme label="a" type="f">hert-grondich</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Roupe voort // om hulpe <rhyme label="b" type="m">groot</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Want mijn sinnen // vast, en <rhyme label="a" type="f" corresp="#s5:l1">bondich</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Zijn accoort // tot inde <rhyme label="b" type="m" corresp="#s5:l2">doot</rhyme>,</l>
+        <l id="s5:l5" met="4" type="+-">V te laten t'geender <rhyme label="b" type="m" corresp="#s5:l2">noot</rhyme>:</l>
+        <l id="s5:l6" met="2" type="+-">O <rhyme label="c" type="m">dierbaer</rhyme></l>
+        <l id="s5:l7" met="1" type="+-">
+          <rhyme label="d" type="m">Parceel</rhyme>
+        </l>
+        <l id="s5:l8" met="2" type="+-">
+          <rhyme label="c" type="m" corresp="#s5:l6">Wederpaer</rhyme>
+        </l>
+        <l id="s5:l9" met="1" type="-+">En <rhyme label="d" type="m" corresp="#s5:l7">deel</rhyme></l>
+        <l id="s5:l10" met="3" type="+-">Tot mijn treurich <rhyme label="e" type="f">clagen</rhyme>,</l>
+        <l id="s5:l11" met="1" type="-+">Coemt <rhyme label="c" type="m" corresp="#s5:l6">naer</rhyme>,</l>
+        <l id="s5:l12" met="1" type="-+"><rhyme label="d" type="m" corresp="#s5:l7">Geheel</rhyme>:</l>
+        <l id="s5:l13" met="1" type="-+">Dit <rhyme label="c" type="m" corresp="#s5:l6">swaer</rhyme></l>
+        <l id="s5:l14" met="1" type="-+">
+          <rhyme label="d" type="m" corresp="#s5:l7">Goreel</rhyme>
+        </l>
+        <l id="s5:l15" met="3" type="+-">Helpt my lijdsaem <rhyme label="e" type="f" corresp="#s5:l10">dragen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Aldervroomste // schoon <rhyme label="a" type="f">Princesse</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Niet onreyns // en gaet u <rhyme label="b" type="m">by</rhyme>:</l>
+        <l id="s6:l3" met="4" type="+-">Mijn voornoemste // <rhyme label="a" type="f" corresp="#s6:l1">forteresse</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Van vileyns, en dorpers <rhyme label="b" type="m" corresp="#s6:l2">vry</rhyme></l>
+        <l id="s6:l5" met="4" type="+-">Blijft nu voort: hier mede <rhyme label="b" type="m" corresp="#s6:l2">wy</rhyme></l>
+        <l id="s6:l6" met="2" type="+-">Scheyden <rhyme label="c" type="m">wt</rhyme>,</l>
+        <l id="s6:l7" met="1" type="+-">Dijn <rhyme label="d" type="m">hof</rhyme>,</l>
+        <l id="s6:l8" met="2" type="+-">Mijn <rhyme label="c" type="m" corresp="#s6:l6">virtuyt</rhyme></l>
+        <l id="s6:l9" met="1" type="-+">Hier <rhyme label="d" type="m" corresp="#s6:l7">of</rhyme>,</l>
+        <l id="s6:l10" met="3" type="+-">Schijnt treurich <rhyme label="e" type="f">verdroogen</rhyme>:</l>
+        <l id="s6:l11" met="1" type="-+">Schoon <rhyme label="c" type="m" corresp="#s6:l6">bruydt</rhyme>,</l>
+        <l id="s6:l12" met="1" type="-+"><rhyme label="d" type="m" corresp="#s6:l7">Oorloof</rhyme>,</l>
+        <l id="s6:l13" met="1" type="-+">My <rhyme label="c" type="m" corresp="#s6:l6">ruydt</rhyme></l>
+        <l id="s6:l14" met="1" type="-+">En <rhyme label="d" type="m" corresp="#s6:l7">grof</rhyme></l>
+        <l id="s6:l15" met="3" type="+-">Neemt in u <rhyme label="e" type="f" corresp="#s6:l10">gedoogen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

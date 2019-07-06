@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22451</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Veni redemptor gentium</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Godt ghenadichlijck <rhyme label="a" type="m">confoort</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Verleent dat ons dijn Goddelijc <rhyme label="a" type="m" corresp="#s1:l1">woort</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Door de Oore int herte clinghe <rhyme label="b" type="m">wel</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Op datt syn cracht volbrenghe <rhyme label="b" type="m" corresp="#s1:l3">snel</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Dat recht ghelooue is dese <rhyme label="a" type="m">cracht</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Die vast op Jhesum Christum <rhyme label="a" type="m" corresp="#s2:l1">wacht</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">De wercken der liefden syn den <rhyme label="b" type="m">schijn</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Waer door wy Christus dienaers <rhyme label="b" type="m" corresp="#s2:l3">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Maeckt hier by ons o lieue <rhyme label="a" type="m">Heer</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Dat wy door dijnen Gheest noch <rhyme label="a" type="m" corresp="#s3:l1">meer</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">In dijn kennisse beclijuen <rhyme label="b" type="m">hier</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">En eyndelijck by u vast blijuen <rhyme label="b" type="m" corresp="#s3:l3">fier</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

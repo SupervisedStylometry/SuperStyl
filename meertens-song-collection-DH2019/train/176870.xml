@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176870</id>
+    <date>
+      <year-start>1810</year-start>
+      <year-end>1830</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="soldatenlied" translation="soldier's song">soldatenlied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>Voorheen ben ik student geweest</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="work">werk</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Voorheen ben ik Student <rhyme label="a" type="m">geweest</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Maar nu ben ik <rhyme label="b" type="f">Soldaat</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Die voor geen hel of duivel <rhyme label="a" type="m" corresp="#s1:l1">vreest</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Veel minder voor zyn <rhyme label="b" type="f" corresp="#s1:l2">maat</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">De studie stond my gansch niet <rhyme label="c" type="m">aan</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Die heb ik gaan <rhyme label="d" type="f">verlaaten</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Ik heb nooit meer plaizier <rhyme label="e" type="m">gehad</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Als onder de <rhyme label="d" type="f" corresp="#s1:l6">Soldaaten</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">'k Heb zeer lang in de stad van <rhyme label="a" type="m">Gent</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">In gnarnisoen <rhyme label="b" type="f">geleegen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En myn Kaptein was wel <rhyme label="a" type="m" corresp="#s2:l1">content</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">En had op myn niets <rhyme label="b" type="f" corresp="#s2:l2">tegen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Myn Exercietie kon ik <rhyme label="c" type="m">doen</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Het Geweer te <rhyme label="d" type="f">presenteeren</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">En by een lieve schoone <rhyme label="e" type="m">Vrouw</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Kon ik wel <rhyme label="d" type="f" corresp="#s2:l6">carresseeren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ik carresseer de gantsche <rhyme label="a" type="m">dag</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">De Zon kwam door zyn <rhyme label="b" type="f">straalen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">En Venus met een felle <rhyme label="a" type="m" corresp="#s3:l1">slag</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Kwam van den Hemel <rhyme label="b" type="f" corresp="#s3:l2">daalen</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">De Trommel slaat in het <rhyme label="c" type="m">kwartier</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Zoet lief wy moeten <rhyme label="d" type="f">scheiden</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Want zy verwagten my <rhyme label="e" type="m">aldaar</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Ik kan niet langer <rhyme label="d" type="f" corresp="#s3:l6">blyven</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Daar woond een Meisje in de <rhyme label="a" type="m">Stad</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Haar naam waar myn <rhyme label="b" type="f">verlangen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Toen ben ik eens na haar <rhyme label="a" type="m" corresp="#s4:l1">gegaan</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Daar ben ik blyven <rhyme label="b" type="f" corresp="#s4:l2">hangen</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Ik vroeg aan haar uit liefde <rhyme label="c" type="m">zoet</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Te kussen haare <rhyme label="d" type="f">wangen</rhyme>,</l>
+        <l id="s4:l7" met="4" type="-+">Zy zei Jonkman een Jong <rhyme label="e" type="m">Soldaat</rhyme>,</l>
+        <l id="s4:l8" met="3" type="-+">Dat is naar myn <rhyme label="d" type="f" corresp="#s4:l6">verlangen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">De doctoor die heeft my <rhyme label="a" type="m">gezeid</rhyme>.</l>
+        <l id="s5:l2" met="3" type="-+">Dat my de drank zal <rhyme label="b" type="f">dooden</rhyme>.</l>
+        <l id="s5:l3" met="4" type="-+">Het carresseeren van de <rhyme label="a" type="m" corresp="#s5:l1">Meid</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Heeft hy myn ook <rhyme label="b" type="f" corresp="#s5:l2">verboden</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">Als ik de drank dan laaten <rhyme label="c" type="m">moet</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">De lieve Meisjes <rhyme label="d" type="f">derven</rhyme>,</l>
+        <l id="s5:l7" met="4" type="-+">Dan zeg ik doctor loop van myn <rhyme label="e" type="m">vloer</rhyme>,</l>
+        <l id="s5:l8" met="3" type="-+">Veel liever wil ik <rhyme label="d" type="f" corresp="#s5:l6">sterven</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">De drank die maakt myn hart <rhyme label="a" type="m">gezond</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">Maar geen Aptekers <rhyme label="b" type="f">prullen</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Ik zei doctor loop van myn <rhyme label="a" type="m" corresp="#s6:l1">grond</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">Want jy denkt my te <rhyme label="b" type="f" corresp="#s6:l2">sullen</rhyme>,</l>
+        <l id="s6:l5" met="4" type="-+">De drank die maakt myn hart <rhyme label="c" type="m">gezond</rhyme>,</l>
+        <l id="s6:l6" met="3" type="-+">Maar geen Aptekers <rhyme label="d" type="f">prullen</rhyme>,</l>
+        <l id="s6:l7" met="4" type="-+">Ik zei dector loop van myn <rhyme label="e" type="m">grond</rhyme>,</l>
+        <l id="s6:l8" met="3" type="-+">Want jy denkt my te <rhyme label="d" type="f" corresp="#s6:l6">fullen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

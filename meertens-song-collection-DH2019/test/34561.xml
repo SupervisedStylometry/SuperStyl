@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34561</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Voulez-vous savoir Phyllis</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">WIlt ghy weten, soete <rhyme label="a" type="m">Maeght</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Wie myn ziel' het meest <rhyme label="a" type="m" corresp="#s1:l1">behaeght</rhyme>?</l>
+        <l id="s1:l3" met="4" type="+-">Al zyn 't kenneleycke <rhyme label="b" type="f">saken</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Noch sal ick het brenghen <rhyme label="c" type="m">voort</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">'t Liedtjen dat ick quam te <rhyme label="b" type="f" corresp="#s1:l3">maken</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Sal 't u segghen in een <rhyme label="c" type="m" corresp="#s1:l4">woordt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Stelt u voor een hert, het <rhyme label="a" type="m">ghen'</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Altydt lacht met myn <rhyme label="a" type="m" corresp="#s2:l1">gheween</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Ooghsjens , die ons' ziel <rhyme label="b" type="f">beroeren</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Door den herdsten <rhyme label="c" type="m">binnen-strydt</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">En naer ghy u liet <rhyme label="b" type="f" corresp="#s2:l3">vervoeren</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Denckt dat ghy het selver <rhyme label="c" type="m" corresp="#s2:l4">zyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">'k Heb u nu myn hert <rhyme label="a" type="m">ontdeckt</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">En gheseydt wie het <rhyme label="a" type="m" corresp="#s3:l1">verweckt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Loont nu myn <rhyme label="b" type="f">vry-postigheden</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">En seght: Minnaer, daer is 't <rhyme label="c" type="m">myn</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Leeret vry de selve <rhyme label="b" type="f" corresp="#s3:l3">zeden</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Tot versoetingh' van u <rhyme label="c" type="m" corresp="#s3:l4">pyn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185514</id>
+    <date>
+      <year-start>1790</year-start>
+      <year-end>1792</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Quand la bergère vient des champs</melody>
+  <author>Gerrit Manheer</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">De morgendauw is reeds <rhyme label="a" type="m">omhoog</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En 't zongespan aan 's Hemels <rhyme label="a" type="m" corresp="#s1:l1">boog</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Verguld alree het diepe <rhyme label="b" type="m">dal</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Waar zijn de <rhyme label="c" type="f">knapen</rhyme>?</l>
+        <l id="s1:l5" met="2" type="-+">'k Zie gints haar' <rhyme label="c" type="f" corresp="#s1:l4">schapen</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Men naderd <rhyme label="b" type="m" corresp="#s1:l3">al</rhyme>! -</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Reeds praald de herderlijke <rhyme label="a" type="m">hoed</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Met jeugdig groen, in <rhyme label="a" type="m" corresp="#s2:l1">overvloed</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">De Herder draagt een groenen <rhyme label="b" type="m">staf</rhyme>;</l>
+        <l id="s2:l4" met="2" type="-+">Laat ons dien <rhyme label="c" type="f">sieren</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">De bloempjes <rhyme label="c" type="f" corresp="#s2:l4">zwieren</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">Daar vrolijk <rhyme label="b" type="m" corresp="#s2:l3">af</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

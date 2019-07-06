@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10089</id>
+    <date>
+      <year-start>1658</year-start>
+      <year-end>1658</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Ei wat hoort men vieze grillen</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">WIe sou oit dit kunnen <rhyme label="a" type="f">dencken</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Dat de liefde zoo myn <rhyme label="b" type="m">hert</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">En gemoet zou kunnen <rhyme label="a" type="f" corresp="#s1:l1">krencken</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Ja vervullen met een <rhyme label="b" type="m" corresp="#s1:l2">smert</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Ach! een smert niet om te <rhyme label="c" type="f">lyden</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Ach! een droef heyt al te <rhyme label="d" type="m">groot</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Die noch door verlangh van <rhyme label="c" type="f" corresp="#s1:l5">tijden</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">My zal brengen tot der <rhyme label="d" type="m" corresp="#s1:l6">doot</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Ach! wat zyn al zwaare <rhyme label="a" type="f">rampen</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">My bejegent, doe 'k de <rhyme label="b" type="m">Maan</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">En veel flickerende <rhyme label="a" type="f" corresp="#s2:l1">lampen</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Uyt den Hemel op sagh <rhyme label="b" type="m" corresp="#s2:l2">gaan</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Ach! wat quam myn in de <rhyme label="c" type="f">zinnen</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Ach! wat heeft myn breyn <rhyme label="d" type="m">verdooft</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">d'Oorsaeck die my vreucht kan <rhyme label="c" type="f" corresp="#s2:l5">winnen</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Die ik eeven had <rhyme label="d" type="m" corresp="#s2:l6">gerooft</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">'t Was de droef heyt en <rhyme label="a" type="f">elende</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Die ick om myn schoonste <rhyme label="b" type="m">leé</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Toense 's morgens vroegh zigh <rhyme label="a" type="f" corresp="#s3:l1">wende</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">En niet hoorde na myn <rhyme label="b" type="m" corresp="#s3:l2">bee</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Doen ick haar gelijck <rhyme label="c" type="f">verbolgen</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Door de droef heit machtich <rhyme label="d" type="m">fel</rhyme></l>
+        <l id="s3:l7" met="4" type="+-">Als ontsinnich gingh <rhyme label="c" type="f" corresp="#s3:l5">vervolgen</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">Heel belaaden met <rhyme label="d" type="m" corresp="#s3:l6">gequel</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

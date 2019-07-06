@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25455</id>
+    <date>
+      <year-start>1425</year-start>
+      <year-end>1430</year-end>
+    </date>
+    <tags>
+      <tag standard-name="rondeel" translation="rondeau">rondeel</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Mijn hart heeft gescheiden zich</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Mijn hertze hait gescheiden <rhyme label="a" type="m">sich</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">van mir zu dir, zairt hogestes <rhyme label="b" type="m">ein</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">und wil auch onderdenich <rhyme label="c" type="m">sijn</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">voir al der werlt dijnre <rhyme label="d" type="m">weirdikeit</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">* Entfae is, vrauwe, <rhyme label="a" type="m" corresp="#s1:l1">genedeklich</rhyme>!</l>
+        <l id="s1:l6" met="4" type="-+">Dorch al dijn genaden du vindest kein <rhyme label="b" type="m" corresp="#s1:l2">nein</rhyme>:</l>
+        <l id="s1:l7" met="4" type="-+">gebuit, ich halde den willen <rhyme label="c" type="m" corresp="#s1:l3">din</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

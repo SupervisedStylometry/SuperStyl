@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>115363</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>alkmaar</orginal-name>
+      <standard-name>Alkmaar, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.6312592</lon>
+        <lat>4.7503798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>De lustelijke mei is nu in de tijd</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Comt en laet ons al te <rhyme label="a" type="m">saem</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Dit geselschap <rhyme label="a" type="m" corresp="#s1:l1">aengenaem</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Met danckbaerheyt <rhyme label="b" type="f">besluyten</rhyme>,</l>
+        <l id="s1:l4" met="2" type="+-">Vrolijck <rhyme label="b" type="f" corresp="#s1:l3">uyten</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Eerst dancken wy Godt den <rhyme label="a" type="m">Heer</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Dat hy dit paer t’sijner <rhyme label="a" type="m" corresp="#s2:l1">eer</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Heeft te samen <rhyme label="b" type="f">gevoeget</rhyme>,</l>
+        <l id="s2:l4" met="2" type="+-">En <rhyme label="b" type="f" corresp="#s2:l3">genoeget</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Wy dancken oock <rhyme label="a" type="m">overluyt</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Onse Bruyd’gom en vrou <rhyme label="a" type="m" corresp="#s3:l1">Bruyt</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Voor dese <rhyme label="b" type="f">Bruylofts-feeste</rhyme>,</l>
+        <l id="s3:l4" met="2" type="+-">Bly van <rhyme label="b" type="f" corresp="#s3:l3">geeste</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Ghy die zijt geworden <rhyme label="a" type="m">een</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Door den bant des huw’lijcx <rhyme label="a" type="m" corresp="#s4:l1">reen</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Godt wil u t’saem <rhyme label="b" type="f">regeeren</rhyme></l>
+        <l id="s4:l4" met="2" type="+-">En <rhyme label="b" type="f" corresp="#s4:l3">generen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Dat ghy volght ‘t exempel <rhyme label="a" type="m">na</rhyme></l>
+        <l id="s5:l2" met="4" type="+-">Van Abraham en <rhyme label="a" type="m" corresp="#s5:l1">Sara</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Uw’ kinderen <rhyme label="b" type="f">gepresen</rhyme>,</l>
+        <l id="s5:l4" met="2" type="+-">Leert Godt <rhyme label="b" type="f" corresp="#s5:l3">vreesen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Dat and’ren u leven <rhyme label="a" type="m">goedt</rhyme></l>
+        <l id="s6:l2" met="4" type="+-">Siende, Godt prijsen, en <rhyme label="a" type="m" corresp="#s6:l1">doet</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">Vrede gestadigh <rhyme label="b" type="f">blijcken</rhyme>,</l>
+        <l id="s6:l4" met="2" type="+-">Sonder <rhyme label="b" type="f" corresp="#s6:l3">wijcken</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">Draegt elck anders last en <rhyme label="a" type="m">zijt</rhyme></l>
+        <l id="s7:l2" met="4" type="+-">Danckelijck in voorspoets <rhyme label="a" type="m" corresp="#s7:l1">tijdt</rhyme>,</l>
+        <l id="s7:l3" met="3" type="-+">In tegenspoet <rhyme label="b" type="f">geduldigh</rhyme>,</l>
+        <l id="s7:l4" met="2" type="+-">Wy zijn ‘t <rhyme label="b" type="f" corresp="#s7:l3">schuldigh</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="+-">Gelucksaligh is de <rhyme label="a" type="m">mensch</rhyme></l>
+        <l id="s8:l2" met="4" type="+-">Die wel paert na sijnen <rhyme label="a" type="m" corresp="#s8:l1">wensch</rhyme>,</l>
+        <l id="s8:l3" met="3" type="-+">Doch uyt liefdes <rhyme label="b" type="f">Fonteyne</rhyme></l>
+        <l id="s8:l4" met="2" type="+-">Spruyt al <rhyme label="b" type="f" corresp="#s8:l3">reyne</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="+-">Geluck Princen <rhyme label="a" type="m">Jongepaer</rhyme>,</l>
+        <l id="s9:l2" met="4" type="+-">Geluck hier ende hier <rhyme label="a" type="m" corresp="#s9:l1">naer</rhyme>,</l>
+        <l id="s9:l3" met="3" type="-+">Geluck u Godt <rhyme label="b" type="f">toe-seynde</rhyme></l>
+        <l id="s9:l4" met="2" type="+-">Sonder <rhyme label="b" type="f" corresp="#s9:l3">eynde</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

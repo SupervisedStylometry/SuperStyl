@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8893</id>
+    <date>
+      <year-start>1625</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>A solis ortus cardine</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GHy Knecht des Heeren Looft den <rhyme label="a" type="m">Heer</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Wilt synen Naem bewijsen <rhyme label="a" type="m" corresp="#s1:l1">Eer</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Want hy is Lofflijck wijt en <rhyme label="b" type="m">breyt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Van nu aen tot in <rhyme label="b" type="m" corresp="#s1:l3">Eewicheyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Al van der Sonnen Opganck <rhyme label="a" type="m">claer</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Tot Tsavonts Looft syn Naem all <rhyme label="a" type="m" corresp="#s2:l1">gaer</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Over alle Volck is de <rhyme label="b" type="m">HEER</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Soo wijt den Hemel gaet syn <rhyme label="b" type="m" corresp="#s2:l3">Eer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wie is soo hooch, wie hem <rhyme label="a" type="m">ghelijck</rhyme>?</l>
+        <l id="s3:l2" met="4" type="-+">Hy siet in Hemel end' <rhyme label="a" type="m" corresp="#s3:l1">Aertrijck</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Die wt den Stoff de Cleyn' <rhyme label="b" type="m">Opricht</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">End wt den Dreck den Armen <rhyme label="b" type="m" corresp="#s3:l3">Licht</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Set haer den Princen gants <rhyme label="a" type="m">gelijck</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">End hier nae Eewich in syn <rhyme label="a" type="m" corresp="#s4:l1">Rijck</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Hy die (van die Onvruchtbaer <rhyme label="b" type="m">was</rhyme>)</l>
+        <l id="s4:l4" met="4" type="-+">Int Huys maeckt een bly Moeder <rhyme label="b" type="m" corresp="#s4:l3">ras</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

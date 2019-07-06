@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34567</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Vous aurez du regret un jour</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">SAl teghen uwen sin eens <rhyme label="a" type="m">zyn</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">'t Sal teghen uwen sin eens <rhyme label="a" type="m" corresp="#s1:l1">zyn</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Dat ghy my aan-deet soo veel <rhyme label="a" type="m" corresp="#s1:l1">pyn</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Liefd' heeft al vremde <rhyme label="b" type="f">tre-ken</rhyme>,</l>
+        <l id="s1:l5" met="6" type="-+">Orante diën Godt sal vroegh oft laet sich <rhyme label="b" type="f" corresp="#s1:l4">wreken</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als ghy gheen schoont' meer hebben <rhyme label="a" type="m">sult</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">2. Als ghy gheen schoont' meer hebben <rhyme label="a" type="m" corresp="#s2:l1">sult</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Dan sal hy terghen u <rhyme label="a" type="m" corresp="#s2:l1">ghedult</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">En lacchen met u <rhyme label="b" type="f">treken</rhyme>;</l>
+        <l id="s2:l5" met="6" type="-+">Orante diën Godt sal vroegh oft laet sich <rhyme label="b" type="f" corresp="#s2:l4">wreken</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">De Minnaers die u so veel <rhyme label="a" type="m">eer'</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">3. De Minnaers die u so veel <rhyme label="a" type="m" corresp="#s3:l1">eer'</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Bewesen, sullen dan niet <rhyme label="a" type="m" corresp="#s3:l1">meer</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">V om uw' we'er-min <rhyme label="b" type="f">smeken</rhyme>,</l>
+        <l id="s3:l5" met="6" type="-+">Orante diën Godt sal vroegh oft laet sich <rhyme label="b" type="f" corresp="#s3:l4">wreken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

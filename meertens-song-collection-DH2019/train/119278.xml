@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>119278</id>
+    <date>
+      <year-start>1730</year-start>
+      <year-end>1730</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Jakobus Rosseau</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ALle heil vereende <rhyme label="a" type="m">Twee</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">Vereende <rhyme label="a" type="m" corresp="#s1:l1">Twee</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Vereende <rhyme label="a" type="m" corresp="#s1:l1">Twee</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Alle heil vereende <rhyme label="a" type="m" corresp="#s1:l1">Twee</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">En daag'lyks rust en <rhyme label="a" type="m" corresp="#s1:l1">vreê</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Zoete vreugde en <rhyme label="b" type="m">vrolykheid</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Of gy raakt 't Byltje <rhyme label="b" type="m" corresp="#s1:l6">kwyt</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">'t Byltje <rhyme label="b" type="m" corresp="#s1:l6">kwyt</rhyme>,</l>
+        <l id="s1:l9" met="2" type="-+">'t Byltje <rhyme label="b" type="m" corresp="#s1:l6">kwyt</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">En dat was groote <rhyme label="b" type="m" corresp="#s1:l6">spyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Teld op de aldereerste <rhyme label="a" type="m">nacht</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">De eerste <rhyme label="a" type="m" corresp="#s2:l1">nacht</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">De eerste <rhyme label="a" type="m" corresp="#s2:l1">nacht</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Teld op de aldereerste <rhyme label="a" type="m" corresp="#s2:l1">nacht</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Wanneer dat gy <rhyme label="a" type="m" corresp="#s2:l1">verwacht</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Een alderliefste <rhyme label="b" type="m">krullebol</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Grooter dan een hoedje <rhyme label="b" type="m" corresp="#s2:l6">sol</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Een hoedje <rhyme label="b" type="m" corresp="#s2:l6">sol</rhyme>,</l>
+        <l id="s2:l9" met="2" type="-+">Een hoedje <rhyme label="b" type="m" corresp="#s2:l6">sol</rhyme>.</l>
+        <l id="s2:l10" met="3" type="-+">En gaauw gelyk een <rhyme label="b" type="m" corresp="#s2:l6">mol</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">'k Gun uw beide binne 't <rhyme label="a" type="m">jaar</rhyme>,</l>
+        <l id="s3:l2" met="2" type="-+">Ja binne 't <rhyme label="a" type="m" corresp="#s3:l1">jaar</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">Ja binne 't <rhyme label="a" type="m" corresp="#s3:l1">jaar</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">'k Gun uw beide binne 't <rhyme label="a" type="m" corresp="#s3:l1">jaar</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Een Zoontje jeugdig <rhyme label="a" type="m" corresp="#s3:l1">Paar</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Dat nooit huild maar altyd <rhyme label="b" type="m">zwygt</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">En ook gaauw zyn tandjes <rhyme label="b" type="m" corresp="#s3:l6">krygt</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">Zyn tandjes <rhyme label="b" type="m" corresp="#s3:l6">krygt</rhyme>,</l>
+        <l id="s3:l9" met="2" type="-+">Zyn tandjes <rhyme label="b" type="m" corresp="#s3:l6">krygt</rhyme>,</l>
+        <l id="s3:l10" met="3" type="-+">Dat nimmer ramp uw <rhyme label="b" type="m" corresp="#s3:l6">dreigt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

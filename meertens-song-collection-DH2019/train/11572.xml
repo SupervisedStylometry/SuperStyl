@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>11572</id>
+    <date>
+      <year-start>1640</year-start>
+      <year-end>1648</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Al hebben de prinsen haar wens</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Dirck Pietersz Pers</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">VRolijcke velden, lieflijck <rhyme label="a" type="m">geboomt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Waer in soo menigh Beexken <rhyme label="a" type="m" corresp="#s1:l1">stroomt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">En soo aerdigh dierken <rhyme label="b" type="m">sweeft</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Dat van uwe rijckdom <rhyme label="b" type="m" corresp="#s1:l3">leeft</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Siet hier het Hert, en ginder de <rhyme label="a" type="m">Hind</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Onder de Elsen, Esschen en <rhyme label="a" type="m" corresp="#s2:l1">Lind</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Als sy kruysen 't groene <rhyme label="b" type="m">Woud</rhyme>:</l>
+        <l id="s2:l4" met="4" type="+-">Waer in soo menigh Jager <rhyme label="b" type="m" corresp="#s2:l3">houdt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Weeldrige dierkens, die soo vrolijck <rhyme label="a" type="m">springht</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Die op de tacxkens lieffelijck <rhyme label="a" type="m" corresp="#s3:l1">singht</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">En hebt sorge noch <rhyme label="b" type="m">verdriet</rhyme>:</l>
+        <l id="s3:l4" met="4" type="+-">Laes! ghy sieter u droefheyt <rhyme label="b" type="m" corresp="#s3:l3">niet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Hier komt de Jager met sijn Bracken <rhyme label="a" type="m">aen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Siet hoe hy snuffelt, en komt <rhyme label="a" type="m" corresp="#s4:l1">gegaen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">En hoe loos hy u <rhyme label="b" type="m">belaeght</rhyme>:</l>
+        <l id="s4:l4" met="4" type="+-">Siet dat ghy 't u doch niet <rhyme label="b" type="m" corresp="#s4:l3">beklaeght</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Daer moet de Voog'laer met sijn loose <rhyme label="a" type="m">fluyt</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Siet hoe hy 't net en de knip set <rhyme label="a" type="m" corresp="#s5:l1">uyt</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">En queelt een soo vrolijck <rhyme label="b" type="m">lied</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Maer het is al tot u <rhyme label="b" type="m" corresp="#s5:l3">verdriet</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Waerom o Dierkens! stoortmen uwe <rhyme label="a" type="m">rust</rhyme>?</l>
+        <l id="s6:l2" met="4" type="+-">Waerom o Vincxkens! breecktmen uwe <rhyme label="a" type="m" corresp="#s6:l1">lust</rhyme>?</l>
+        <l id="s6:l3" met="4" type="+-">Ey wat hebdy doch <rhyme label="b" type="m">misdaen</rhyme>:</l>
+        <l id="s6:l4" met="4" type="+-">Datmen u dus soeckt te <rhyme label="b" type="m" corresp="#s6:l3">verraen</rhyme>?</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">Daer ghy doch met u lustjes te <rhyme label="a" type="m">vreen</rhyme>,</l>
+        <l id="s7:l2" met="4" type="+-">Niets met den gierigaert hebt <rhyme label="a" type="m" corresp="#s7:l1">gemeen</rhyme>:</l>
+        <l id="s7:l3" met="4" type="+-">Want ghy niemandt doch <rhyme label="b" type="m">misdoet</rhyme>,</l>
+        <l id="s7:l4" met="4" type="+-">Noch yet quaeds hebt in u <rhyme label="b" type="m" corresp="#s7:l3">gemoed</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="+-">‘Dit is het beeldt vande vrome <rhyme label="a" type="m">Mensch</rhyme>,</l>
+        <l id="s8:l2" met="4" type="+-">‘Die word belaeght nae 's boosen <rhyme label="a" type="m" corresp="#s8:l1">wensch</rhyme>,</l>
+        <l id="s8:l3" met="4" type="+-">‘Door geveynstheydt en <rhyme label="b" type="m">bedrogh</rhyme>:</l>
+        <l id="s8:l4" met="4" type="+-">‘Laes! dees boosheydt regeertet <rhyme label="b" type="m" corresp="#s8:l3">noch</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

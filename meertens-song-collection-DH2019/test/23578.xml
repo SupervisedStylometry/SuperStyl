@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>23578</id>
+    <date>
+      <year-start>1572</year-start>
+      <year-end>1572</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen [=alkmaar]</orginal-name>
+      <standard-name>Alkmaar, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.6312592</lon>
+        <lat>4.7503798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody>Nun bitten wir den heiligen Geist</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Nv bidden wy den heyligen <rhyme label="a" type="m">geest</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Om den rechten geloove <rhyme label="a" type="m" corresp="#s1:l1">aldermeest</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Dat hy ons behoet in onsen <rhyme label="b" type="f">eynde</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Als wy hen varen uyt desen <rhyme label="b" type="f" corresp="#s1:l3">ellende</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+"><rhyme label="c" type="m">Kyrieleyson</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Du weerde licht geeft ons dijnen <rhyme label="a" type="m">schijn</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Leert ons Iesum Christum kennen <rhyme label="a" type="m" corresp="#s2:l1">alleyn</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Dat wy aen hem blijven den trouwen <rhyme label="b" type="f">heylant</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">die ons bracht heeft ten rechten <rhyme label="b" type="f" corresp="#s2:l3">Vaderlant</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+"><rhyme label="c" type="m">Kyrieleyson</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Du soete liefste schencke ons dijnen <rhyme label="a" type="m">gunst</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Laet ons ontfangen der liefden <rhyme label="a" type="m" corresp="#s3:l1">vrunst</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Dat wy ons van herten malcanderen <rhyme label="b" type="f">lieven</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Vnde in vrede by eenen sinne <rhyme label="b" type="f" corresp="#s3:l3">blijven</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+"><rhyme label="c" type="m">Kyrieleyson</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Du hooge trooster in aller <rhyme label="a" type="m">noot</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">helpt dz wy niet vruchten schande noch <rhyme label="a" type="m" corresp="#s4:l1">doot</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">dat in ons sinnen niet <rhyme label="b" type="f">vertsaghen</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Als due Vyant dat leven wert <rhyme label="b" type="f" corresp="#s4:l3">verclaghen</rhyme>.</l>
+        <l id="s4:l5" met="3" type="-+"><rhyme label="c" type="m">Kyrieleyson</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25611</id>
+    <date>
+      <year-start>1598</year-start>
+      <year-end>1598</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="acrostichon" translation="acrostic song">acrostichon</tag>
+    </tags>
+    <melody>Tien geboden</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Leenaert Clock</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Claer als de Son sullen daer <rhyme label="a" type="f">blincken</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Gods kinder in des Hemels <rhyme label="b" type="m">throon</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Hoe soud’ een hert connen <rhyme label="a" type="f" corresp="#s1:l1">bedincken</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Wat Godt den sijnen gheeft te <rhyme label="b" type="m" corresp="#s1:l2">loon</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Keeren wil ick al mijn <rhyme label="a" type="f">ghedachten</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Op’t Hemelrijck soo schoon <rhyme label="b" type="m">voorseyt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Een eeuwich leven te <rhyme label="a" type="f" corresp="#s2:l1">verwachten</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Verlost van alle <rhyme label="b" type="m" corresp="#s2:l2">dootlijckheyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">En van den perijckel <rhyme label="a" type="f">ontcomen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Gantsch seker in des Heeren <rhyme label="b" type="m">bandt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Smaet en druck sal zijn wech <rhyme label="a" type="f" corresp="#s3:l1">ghenomen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Van d’Aerdsche int Hemelsche <rhyme label="b" type="m" corresp="#s3:l2">landt</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Noch is daer altijdt aen te <rhyme label="a" type="f">schouwen</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Godt in sijn heerlijckheyt seer <rhyme label="b" type="m">groot</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Alsulck een wesen sal met <rhyme label="a" type="f" corresp="#s4:l1">trouwen</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Hy ons gheven uyt liefde <rhyme label="b" type="m" corresp="#s4:l2">bloot</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Recht wel gestelt, nae Schrifts <rhyme label="a" type="f">vermeten</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Sullen wy Christum den <rhyme label="b" type="m">Heylandt</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">By sijnen Vader sien <rhyme label="a" type="f" corresp="#s5:l1">gheseten</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Tot onsen dienst, int Hemels <rhyme label="b" type="m" corresp="#s5:l2">landt</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Voor cleeder sal hy ons <rhyme label="a" type="f">aentrecken</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Salicheyt die daer is seer <rhyme label="b" type="m">schoon</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Ons met gherechticheyt <rhyme label="a" type="f" corresp="#s6:l1">bedecken</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Opsetten daer des levens <rhyme label="b" type="m" corresp="#s6:l2">Croon</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Tot allen Heyl’ghen sal men daer <rhyme label="a" type="f">paren</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">En vromen, salighen, daer <rhyme label="b" type="m">by</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Veel duysent Enghelsche <rhyme label="a" type="f" corresp="#s7:l1">heyrscharen</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">Zy met ons, en wy met haer <rhyme label="b" type="m" corresp="#s7:l2">bly</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Groote liefde al sonder <rhyme label="a" type="f">schromen</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">Sal daer wesen op dat <rhyme label="b" type="m">termijn</rhyme>,</l>
+        <l id="s8:l3" met="4" type="-+">Soo dat Godt, wy en alle <rhyme label="a" type="f" corresp="#s8:l1">vromen</rhyme></l>
+        <l id="s8:l4" met="4" type="-+">Sullen t’samen vereenicht <rhyme label="b" type="m" corresp="#s8:l2">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Een Hemels wesen claer en <rhyme label="a" type="f">schoon</rhyme>,</l>
+        <l id="s9:l2" met="4" type="-+">Subtijl, onlijdelijck <rhyme label="b" type="m">voortaen</rhyme>,</l>
+        <l id="s9:l3" met="4" type="-+">Ghelijck de Son in s’Hemels <rhyme label="a" type="f" corresp="#s9:l1">throone</rhyme></l>
+        <l id="s9:l4" met="4" type="-+">Soo sal men daer voor Godt <rhyme label="b" type="m" corresp="#s9:l2">staen</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Rusten daer, van alle <rhyme label="a" type="f">beswaren</rhyme>,</l>
+        <l id="s10:l2" met="4" type="-+">De vreuchde wordt altijdt <rhyme label="b" type="m">vermeert</rhyme>,</l>
+        <l id="s10:l3" met="4" type="-+">O Heer laet my oock daer <rhyme label="a" type="f" corresp="#s10:l1">vergaren</rhyme>,</l>
+        <l id="s10:l4" met="4" type="-+">T’is t’ghene dat mijn hert <rhyme label="b" type="m" corresp="#s10:l2">begeert</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="-+">Seyndt uwen heyl’ghen Gheest <rhyme label="a" type="f">beneven</rhyme></l>
+        <l id="s11:l2" met="4" type="-+">Op ons, dat hy ons daer <rhyme label="b" type="m">gheleydt</rhyme>,</l>
+        <l id="s11:l3" met="4" type="-+">Tot uwen Rijcke vol van <rhyme label="a" type="f" corresp="#s11:l1">vreden</rhyme>,</l>
+        <l id="s11:l4" met="4" type="-+">Deur Iesum Christum maeckt <rhyme label="b" type="m" corresp="#s11:l2">bereydt</rhyme>.</l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="4" type="-+">Dochteren Syons <rhyme label="a" type="f">uytghelesen</rhyme>,</l>
+        <l id="s12:l2" met="4" type="-+">Verciert u, gaet hem te <rhyme label="b" type="m">ghemoet</rhyme>,</l>
+        <l id="s12:l3" met="4" type="-+">Hy comt die u ziel can <rhyme label="a" type="f" corresp="#s12:l1">ghenesen</rhyme>,</l>
+        <l id="s12:l4" met="4" type="-+">En gheven u d’eeuwighe <rhyme label="b" type="m" corresp="#s12:l2">goet</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

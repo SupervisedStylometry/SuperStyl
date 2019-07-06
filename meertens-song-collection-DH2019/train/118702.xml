@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>118702</id>
+    <date>
+      <year-start>1730</year-start>
+      <year-end>1730</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Jakobus Rosseau</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">ZOete Susje, gund een <rhyme label="a" type="f">kusje</rhyme>,</l>
+        <l id="s1:l2" met="5" type="+-">Want ik voel zo waar een aardig <rhyme label="a" type="f" corresp="#s1:l1">lusje</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Zoete Susje, ach! een <rhyme label="a" type="f" corresp="#s1:l1">kusje</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Ja ik voel een heete <rhyme label="b" type="m">gloed</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Laat ik uwe lipjes dog <rhyme label="c" type="f">genaken</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Plukken van uw roode rooze <rhyme label="c" type="f" corresp="#s1:l5">kaken</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Iets dat my verheugen <rhyme label="b" type="m" corresp="#s1:l4">doet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Zoete hondje, lieve <rhyme label="a" type="f">blondje</rhyme>,</l>
+        <l id="s2:l2" met="5" type="+-">Rykt my dog uw zagte malze <rhyme label="a" type="f" corresp="#s2:l1">mondje</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Zoete hondje, lieve <rhyme label="a" type="f" corresp="#s2:l1">blondje</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Weigerd my geen <rhyme label="b" type="m">Minne-Beê</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Maar laat ik uw poez'le wangen <rhyme label="c" type="f">drukken</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">En de overrype karsjes <rhyme label="c" type="f" corresp="#s2:l5">plukken</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Engelin op deze <rhyme label="b" type="m" corresp="#s2:l4">Steê</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Myn gedagjes, daag en <rhyme label="a" type="f">nagjes</rhyme>,</l>
+        <l id="s3:l2" met="5" type="+-">Speelen op u aangename <rhyme label="a" type="f" corresp="#s3:l1">lagjes</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Myn gedagjes, daag en <rhyme label="a" type="f" corresp="#s3:l1">nagjes</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Spelen op myn <rhyme label="b" type="m">Engelin</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Toond in 't einde eensjes <rhyme label="c" type="f">mededogen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">En werd met myn droeve klagt <rhyme label="c" type="f" corresp="#s3:l5">bewogen</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Ach! myn waarde <rhyme label="b" type="m" corresp="#s3:l4">Ziels-Vrindin</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

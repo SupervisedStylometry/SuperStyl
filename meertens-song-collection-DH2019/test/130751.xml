@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>130751</id>
+    <date>
+      <year-start>1711</year-start>
+      <year-end>1711</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Qu'il est bon bon bon bon bon</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">Haring is soo bon, bon, <rhyme label="a" type="m">bon</rhyme>.</l>
+        <l id="s1:l2" met="3" type="+-">Om eens op te <rhyme label="b" type="f">drinken</rhyme>.</l>
+        <l id="s1:l3" met="5" type="+-">Sa, ontsteekt de ton, ton, <rhyme label="a" type="m" corresp="#s1:l1">ton</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Laet de Bekers <rhyme label="b" type="f" corresp="#s1:l2">klinken</rhyme>!</l>
+        <l id="s1:l5" met="4" type="+-">Daer, daer daer hebje van het <rhyme label="c" type="m">Nat</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Drink vry, daer is nog meer in 't <rhyme label="c" type="m" corresp="#s1:l5">Vat</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Maetje, dat geld iou, iou, <rhyme label="a" type="m">iou</rhyme>:</l>
+        <l id="s2:l2" met="3" type="+-">Soo ien proper <rhyme label="b" type="f">teugie</rhyme>.</l>
+        <l id="s2:l3" met="5" type="+-">Wiljer tweetjes, nou, nou, <rhyme label="a" type="m" corresp="#s2:l1">nou</rhyme>,</l>
+        <l id="s2:l4" met="3" type="+-">Elk die drink sen <rhyme label="b" type="f" corresp="#s2:l2">meugje</rhyme>:</l>
+        <l id="s2:l5" met="4" type="+-">Drie, drie, drie maekt een <rhyme label="c" type="m">Klaver-blat</rhyme>:</l>
+        <l id="s2:l6" met="4" type="-+">Drinkt vry, daer is nog meer in 't <rhyme label="c" type="m" corresp="#s2:l5">vat</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">Daer was droogte, ia, ia, <rhyme label="a" type="m">ia</rhyme>.</l>
+        <l id="s3:l2" met="3" type="+-">Geef jy 't sulken <rhyme label="b" type="f">neepje</rhyme>,</l>
+        <l id="s3:l3" met="5" type="+-">Schenker, kom, kom dra, dra, <rhyme label="a" type="m" corresp="#s3:l1">dra</rhyme>,</l>
+        <l id="s3:l4" met="3" type="+-">Breng ons vogt uit 't <rhyme label="b" type="f" corresp="#s3:l2">Scheepje</rhyme>!</l>
+        <l id="s3:l5" met="4" type="+-">Soo, soo, soo, wel bekomje <rhyme label="c" type="m">dat</rhyme>:</l>
+        <l id="s3:l6" met="4" type="-+">Drink vry, daer is nog meer in 't <rhyme label="c" type="m" corresp="#s3:l5">vat</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="+-">'t Steertje moeter by, by <rhyme label="a" type="m">by</rhyme>,</l>
+        <l id="s4:l2" met="3" type="+-">'t Sal te beter <rhyme label="b" type="f">klemmen</rhyme>.</l>
+        <l id="s4:l3" met="5" type="+-">Peekel haring, wy, wy, <rhyme label="a" type="m" corresp="#s4:l1">wy</rhyme></l>
+        <l id="s4:l4" met="3" type="+-">Doen jou lustig <rhyme label="b" type="f" corresp="#s4:l2">swemmen</rhyme>.</l>
+        <l id="s4:l5" met="4" type="+-">Sa, sa, sa, Vrienden haest je <rhyme label="c" type="m">wat</rhyme>:</l>
+        <l id="s4:l6" met="4" type="-+">Drinkt vry, en laet geen bier in 't <rhyme label="c" type="m" corresp="#s4:l5">vat</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="+-">'t Vaetie rommelt, og, og, <rhyme label="a" type="m">og</rhyme>!</l>
+        <l id="s5:l2" met="3" type="+-">'t Kraentje wil niet <rhyme label="b" type="f">loopen</rhyme>.</l>
+        <l id="s5:l3" met="5" type="+-">Heeft de brouwster nog, nog, <rhyme label="a" type="m" corresp="#s5:l1">nog</rhyme>?</l>
+        <l id="s5:l4" met="3" type="+-">Jaese, sou ik <rhyme label="b" type="f" corresp="#s5:l2">hoopen</rhyme>!</l>
+        <l id="s5:l5" met="4" type="+-">Wy, wy, wy singen <rhyme label="c" type="m">overluit</rhyme>:</l>
+        <l id="s5:l6" met="4" type="-+">Ons Paters-Vaetje   dat is <rhyme label="c" type="m" corresp="#s5:l5">uit</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

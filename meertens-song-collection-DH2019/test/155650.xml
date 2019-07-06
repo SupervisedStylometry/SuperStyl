@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>155650</id>
+    <date>
+      <year-start>1718</year-start>
+      <year-end>1718</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Een ander zinge op grootse trant</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Een ander Zinge op grootschen <rhyme label="a" type="m">trant</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Den lof van braave en dappre <rhyme label="b" type="f">Helden</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Die voor het lieve <rhyme label="a" type="m" corresp="#s1:l1">Vaderland</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Hun dierbaar lyf in 't slagveld <rhyme label="b" type="f" corresp="#s1:l2">stelden</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">My lust op nederiger <rhyme label="c" type="m">toon</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Naar 't heilig spoor der <rhyme label="d" type="f">Hemellingen</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Ter eer van Gods geliefden <rhyme label="c" type="m" corresp="#s1:l5">Zoon</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Zyn droevig Lyden op te <rhyme label="d" type="f" corresp="#s1:l6">zingen</rhyme>:</l>
+        <l id="s1:l9" met="4" type="-+">En zien hem daar hy <rhyme label="e" type="m">triomfeert</rhyme>,</l>
+        <l id="s1:l10" met="4" type="-+">En Hel en Duivel <rhyme label="e" type="m" corresp="#s1:l9">overheert</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

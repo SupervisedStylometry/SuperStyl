@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1539</id>
+    <date>
+      <year-start>1629</year-start>
+      <year-end>1629</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="abc-lied" translation="alphabet song">abclied</tag>
+    </tags>
+    <melody>Psalm 038 Datheen</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author>Samuel Ampzing</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Kan God Zion in sijn <rhyme label="a" type="f">toren</rhyme></l>
+        <l id="s1:l2" met="2" type="+-">So <rhyme label="a" type="f" corresp="#s1:l1">verstoren</rhyme>!</l>
+        <l id="s1:l3" met="4" type="-+">Hy heeft Iakobs <rhyme label="b" type="m">heerlijkheyd</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Vanden hemel <rhyme label="c" type="f">afgesmeten</rhyme>,</l>
+        <l id="s1:l5" met="2" type="+-">En <rhyme label="c" type="f" corresp="#s1:l4">vergeten</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Dat sy tot sijn voetbank <rhyme label="b" type="m" corresp="#s1:l3">leyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">God heeft Iakobs <rhyme label="a" type="f">lustigheden</rhyme></l>
+        <l id="s2:l2" met="2" type="+-">Gansch <rhyme label="a" type="f" corresp="#s2:l1">vertreden</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En de sterkten van het <rhyme label="b" type="m">land</rhyme>:</l>
+        <l id="s2:l4" met="4" type="+-">Hy heeft beyde <rhyme label="c" type="f">Koninkrijken</rhyme></l>
+        <l id="s2:l5" met="2" type="+-">Doen <rhyme label="c" type="f" corresp="#s2:l4">beswijken</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">En geworpen in het <rhyme label="b" type="m" corresp="#s2:l3">sand</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Hy heeft Iakobs magt <rhyme label="a" type="f">gebroken</rhyme>,</l>
+        <l id="s3:l2" met="2" type="+-">Sich <rhyme label="a" type="f" corresp="#s3:l1">gewroken</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">En den vijand niet <rhyme label="b" type="m">gekeerd</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">En in Iakob 'tvuer doen <rhyme label="c" type="f">stoken</rhyme>,</l>
+        <l id="s3:l5" met="2" type="+-">En doen <rhyme label="c" type="f" corresp="#s3:l4">roken</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Dat alom het land <rhyme label="b" type="m" corresp="#s3:l3">verteerd</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Hy heeft met sijn boog <rhyme label="a" type="f">geschoten</rhyme>,</l>
+        <l id="s4:l2" met="2" type="+-">En <rhyme label="a" type="f" corresp="#s4:l1">gestoten</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">En al't beste <rhyme label="b" type="m">omgebragt</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">En sijn vuer op kleyn en <rhyme label="c" type="f">groten</rhyme></l>
+        <l id="s4:l5" met="2" type="+-"><rhyme label="c" type="f" corresp="#s4:l4">Uytgegoten</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">In't gebied van Zions <rhyme label="b" type="m" corresp="#s4:l3">magt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">God is als een <rhyme label="a" type="f">weerpartijder</rhyme>,</l>
+        <l id="s5:l2" met="2" type="+-">En <rhyme label="a" type="f" corresp="#s5:l1">bestrijder</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Hy heeft Iakob <rhyme label="b" type="m">neergeleyd</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">En sijn sloten ende <rhyme label="c" type="f">wallen</rhyme></l>
+        <l id="s5:l5" met="2" type="+-">Doen <rhyme label="c" type="f" corresp="#s5:l4">vervallen</rhyme>,</l>
+        <l id="s5:l6" met="4" type="+-">En al't land veel leeds <rhyme label="b" type="m" corresp="#s5:l3">bereyd</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

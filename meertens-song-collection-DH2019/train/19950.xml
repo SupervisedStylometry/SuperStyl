@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19950</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Amarylletje mijn vriendin</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Johan van Born</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">IEugdige die als een blommetje <rhyme label="a" type="m">bloeit</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Sneewitte grijsjes die levend <rhyme label="a" type="m" corresp="#s1:l1">ontgroeyt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Edel, Onedel, Bedelaer en <rhyme label="b" type="m">Vorst</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Komt in mijn kamer, ik ontgrendel mijn <rhyme label="b" type="m" corresp="#s1:l3">borst</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Mijn maskerlapjes, momtuygjes, <rhyme label="a" type="m">gordijn</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Daer schermende schuyl ick achter in 't <rhyme label="a" type="m" corresp="#s2:l1">mijn</rhyme>:</l>
+        <l id="s2:l3" met="4" type="+-">'t Schijnheylige tabbertjen, is mijn <rhyme label="b" type="m">cieraedt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Ey luystert eens watter van binnen in <rhyme label="b" type="m" corresp="#s2:l3">staet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Mijn rottige keeltjen een open <rhyme label="a" type="m">graf</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Mijn ooghje vol spels, springht over den <rhyme label="a" type="m" corresp="#s3:l1">draf</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Mijn ooren van ydel, sijn voll en sijn <rhyme label="b" type="m">vaets</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Mijn tong is van drog, en van leugen de <rhyme label="b" type="m" corresp="#s3:l3">plaets</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">De lippen, die stippen in addre <rhyme label="a" type="m">fenijn</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">De handen ree, daer de geschenken <rhyme label="a" type="m" corresp="#s4:l1">sijn</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">De buyck, en de borst, vol van gulsige <rhyme label="b" type="m">lust</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">De rugge geladen met ydel <rhyme label="b" type="m" corresp="#s4:l3">onrust</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">De voeten snel loopen te storten <rhyme label="a" type="m">bloedt</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Het hert dat is op 't verraden <rhyme label="a" type="m" corresp="#s5:l1">verwoet</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Soo suyg ik de schonken, van Weeuw en van <rhyme label="b" type="m">wees</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Van top is tot tenen, vol sweeren mijn <rhyme label="b" type="m" corresp="#s5:l3">vlees</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Wie noch soo dom my wil keuren tot <rhyme label="a" type="m">wijf</rhyme>?</l>
+        <l id="s6:l2" met="4" type="+-">Die schenk ik de Hel, tot een <rhyme label="a" type="m" corresp="#s6:l1">tijdtverdrijf</rhyme>,</l>
+        <l id="s6:l3" met="4" type="+-">Tot morrege gaef en tot huwelijx <rhyme label="b" type="m">goet</rhyme></l>
+        <l id="s6:l4" met="4" type="+-">De Doodt in de pot, en de Weerelt vol <rhyme label="b" type="m" corresp="#s6:l3">roet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2087</id>
+    <date>
+      <year-start>1674</year-start>
+      <year-end>1674</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="christuslied" translation="Christ song">Christuslied</tag>
+    </tags>
+    <melody>Courante simple</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">NOch d'Enghelen, noch 't <rhyme label="a" type="m">Hemel-ryck</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Noch al de Schepsels van het <rhyme label="a" type="m" corresp="#s1:l1">aerde-ryck</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Maer ghy ô JESU treckt myn hert en <rhyme label="b" type="m">sin</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Dat ick den Schepper om den Schepper <rhyme label="b" type="m" corresp="#s1:l3">min</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O Heer' bluscht uyt den helschen <rhyme label="a" type="m">brandt</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Nemt wegh de vreught van 't Hemelsch <rhyme label="a" type="m" corresp="#s2:l1">Vader-landt</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Soo sal ick u beminnen mynen <rhyme label="b" type="m">Heer'</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Om u alleen, en om niet anders <rhyme label="b" type="m" corresp="#s2:l3">meer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Noch hop' van loon, noch vrees van <rhyme label="a" type="m">straf</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">En gheeft oft nemt my uwe liefde <rhyme label="a" type="m" corresp="#s3:l1">af</rhyme>;</l>
+        <l id="s3:l3" met="5" type="-+">'k En vrees met u niet in de Hel te <rhyme label="b" type="m">zyn</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Jae sonder u waer my den Hemel <rhyme label="b" type="m" corresp="#s3:l3">pyn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">O Heer' ghy zyt <rhyme label="a" type="m">alleenelyck</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">Myn' Saligheydt, myn'vreught, myn <rhyme label="a" type="m" corresp="#s4:l1">Hemel-ryck</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">Ick waer den Hemel sonder u haest <rhyme label="b" type="m">mu</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">Al datter is en is niet sonder <rhyme label="b" type="m" corresp="#s4:l3">u</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Ick min u in-der <rhyme label="a" type="m">eeuwigheydt</rhyme>,</l>
+        <l id="s5:l2" met="5" type="-+">Om dat ghy mynen Godt en Heere <rhyme label="a" type="m" corresp="#s5:l1">zyt</rhyme>;</l>
+        <l id="s5:l3" met="5" type="-+">Om dat ghy zyt die hooghste <rhyme label="b" type="m">Majesteyt</rhyme>,</l>
+        <l id="s5:l4" met="5" type="-+">En alle eer en liefde weerdigh <rhyme label="b" type="m" corresp="#s5:l3">zyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

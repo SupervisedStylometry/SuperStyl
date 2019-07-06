@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21042</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
+      <tag standard-name="moralistisch lied" translation="moralistic song">moralistisch lied</tag>
+    </tags>
+    <melody>Courante simple</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jan Zoet</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WAt kunt gy Hoovaardye <rhyme label="a" type="m">niet</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">By die, door u op yd'le grootsheyt <rhyme label="a" type="m" corresp="#s1:l1">siet</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Gy doost de <rhyme label="b" type="f">Lampe</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Van ons eel <rhyme label="c" type="m">verstand</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Door vuyle <rhyme label="b" type="f" corresp="#s1:l3">dampen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Van u <rhyme label="c" type="m" corresp="#s1:l4">Toover-brand</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Gy past op eeden, schaamt, nogh <rhyme label="a" type="m">eer</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Maar drijft de ziele luftig heen en <rhyme label="a" type="m" corresp="#s2:l1">weêr</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Als ligte <rhyme label="b" type="f">pluymen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="+-">In de open <rhyme label="c" type="m">lugt</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">En doet hun <rhyme label="b" type="f" corresp="#s2:l3">schuymen</rhyme>,</l>
+        <l id="s2:l6" met="3" type="+-">Door een gloed van <rhyme label="c" type="m" corresp="#s2:l4">sucht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Gy kent geen tranen van de <rhyme label="a" type="m">trou</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Maar wert verraden tusschen Man en <rhyme label="a" type="m" corresp="#s3:l1">Vrou</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">Gy breekt de <rhyme label="b" type="f">bande</rhyme>,</l>
+        <l id="s3:l4" met="3" type="+-">Door de Liefd' <rhyme label="c" type="m">gestrikt</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">Gy agt't geen <rhyme label="b" type="f" corresp="#s3:l3">schande</rhyme>,</l>
+        <l id="s3:l6" met="3" type="+-">Dat me ziele <rhyme label="c" type="m" corresp="#s3:l4">stikt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Gy past op wetten, nogh <rhyme label="a" type="m">geboôn</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Maar klimt door gruw'len op haar <rhyme label="a" type="m" corresp="#s4:l1">troon</rhyme>,</l>
+        <l id="s4:l3" met="2" type="-+">Gy breekt de <rhyme label="b" type="f">vreede</rhyme>,</l>
+        <l id="s4:l4" met="3" type="+-">Segt d'oorlog <rhyme label="c" type="m">aan</rhyme>,</l>
+        <l id="s4:l5" met="2" type="-+">Schoon ghy door <rhyme label="b" type="f" corresp="#s4:l3">eede</rhyme>,</l>
+        <l id="s4:l6" met="3" type="+-">Hebt bestant <rhyme label="c" type="m" corresp="#s4:l4">gedaan</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Wat hebt gy niet al quaad <rhyme label="a" type="m">gerokt</rhyme>,</l>
+        <l id="s5:l2" met="5" type="-+">En meenig door u valsche glans <rhyme label="a" type="m" corresp="#s5:l1">verlokt</rhyme>,</l>
+        <l id="s5:l3" met="2" type="-+">Ja <rhyme label="b" type="f">opgeheeven</rhyme>,</l>
+        <l id="s5:l4" met="3" type="+-">Als een <rhyme label="c" type="m">water-bel</rhyme>,</l>
+        <l id="s5:l5" met="2" type="-+">Dogh weêr <rhyme label="b" type="f" corresp="#s5:l3">gedreeven</rhyme>,</l>
+        <l id="s5:l6" met="3" type="+-">In een diepe <rhyme label="c" type="m" corresp="#s5:l4">wel</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Maar Monster, by Cerbeer <rhyme label="a" type="m">geteelt</rhyme>,</l>
+        <l id="s6:l2" met="5" type="-+">Wat is de rol, die gy in 't eynde <rhyme label="a" type="m" corresp="#s6:l1">speelt</rhyme>,</l>
+        <l id="s6:l3" met="2" type="-+">O droevig <rhyme label="b" type="f">klagen</rhyme>,</l>
+        <l id="s6:l4" met="3" type="+-">Tranen na <rhyme label="c" type="m">berou</rhyme>,</l>
+        <l id="s6:l5" met="2" type="-+">Met steeds te <rhyme label="b" type="f" corresp="#s6:l3">vragen</rhyme>,</l>
+        <l id="s6:l6" met="3" type="+-">Ach! wie ben ik <rhyme label="c" type="m" corresp="#s6:l4">nou</rhyme>,</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Want God, die alle ding <rhyme label="a" type="m">gebiet</rhyme>,</l>
+        <l id="s7:l2" met="5" type="-+">Die lijd u opgang, maar voor eeuwig <rhyme label="a" type="m" corresp="#s7:l1">niet</rhyme>,</l>
+        <l id="s7:l3" met="2" type="-+">Die gy wilt <rhyme label="b" type="f">soeken</rhyme>,</l>
+        <l id="s7:l4" met="3" type="+-">Buyten 't regte <rhyme label="c" type="m">lot</rhyme>,</l>
+        <l id="s7:l5" met="2" type="-+">Wegh vloek der <rhyme label="b" type="f" corresp="#s7:l3">vloeken</rhyme>,</l>
+        <l id="s7:l6" met="3" type="+-">Waart te zijn <rhyme label="c" type="m" corresp="#s7:l4">bespot</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

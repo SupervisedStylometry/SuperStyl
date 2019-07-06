@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6300</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>La moutarde réformée</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">'k WAs lestmaal in 't groene Haagsche <rhyme label="a" type="m">Wout</rhyme>;</l>
+        <l id="s1:l2" met="5" type="+-">Daar ik zag dat by de dicke <rhyme label="b" type="f">linden</rhyme>,</l>
+        <l id="s1:l3" met="5" type="+-">Stont een Heertje die hem had <rhyme label="a" type="m" corresp="#s1:l1">verstout</rhyme>,</l>
+        <l id="s1:l4" met="5" type="+-">Om een Iuffers kousebandt te <rhyme label="b" type="f" corresp="#s1:l2">binden</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">En ging hem sitten zoetjes <rhyme label="c" type="m">neer</rhyme>.</l>
+        <l id="s1:l6" met="3" type="+-">Kuste haare <rhyme label="d" type="f">lipjes</rhyme></l>
+        <l id="s1:l7" met="3" type="+-">En met zachte <rhyme label="d" type="f" corresp="#s1:l6">knipjes</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Klom al tastend' by haar <rhyme label="e" type="m">knien</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">Daar sy hem toe-maals liet <rhyme label="e" type="m" corresp="#s1:l8">betien</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Wijl sy onder schaduw' van een <rhyme label="a" type="m">boom</rhyme>,</l>
+        <l id="s2:l2" met="5" type="+-">Vol van sorge by malkandre <rhyme label="b" type="f">lagen</rhyme>,</l>
+        <l id="s2:l3" met="5" type="+-">Riep sy, sie daar ginder aan de <rhyme label="a" type="m" corresp="#s2:l1">stroom</rhyme></l>
+        <l id="s2:l4" met="5" type="+-">Rijt een Ionk-heer met een open <rhyme label="b" type="f" corresp="#s2:l2">wagen</rhyme>:</l>
+        <l id="s2:l5" met="4" type="+-">Kom en stap toch haastig <rhyme label="c" type="m">op</rhyme>;</l>
+        <l id="s2:l6" met="3" type="+-">Dek u zoete <rhyme label="d" type="f">dietjes</rhyme></l>
+        <l id="s2:l7" met="3" type="+-">En de bloote <rhyme label="d" type="f" corresp="#s2:l6">knietjes</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">En nu lustig laat ons <rhyme label="e" type="m">gaan</rhyme>:</l>
+        <l id="s2:l9" met="4" type="+-">Wie zie hy komt hier recht op <rhyme label="e" type="m" corresp="#s2:l8">aan</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">'t Heertje dat door 't woelen van de <rhyme label="a" type="m">Min</rhyme></l>
+        <l id="s3:l2" met="5" type="+-">Dee sijn leedjes al te zeer <rhyme label="b" type="f">verstijven</rhyme>;</l>
+        <l id="s3:l3" met="5" type="+-">Riep: kom hier mijn zoeten <rhyme label="a" type="m" corresp="#s3:l1">Engelin</rhyme>,</l>
+        <l id="s3:l4" met="5" type="+-">Kont gy my eens met u handt <rhyme label="b" type="f" corresp="#s3:l2">gerijken</rhyme>?</l>
+        <l id="s3:l5" met="4" type="+-">En kom beurme zachjes <rhyme label="c" type="m">op</rhyme>.</l>
+        <l id="s3:l6" met="3" type="+-">'k Ben door <rhyme label="d" type="f">minne-lusjes</rhyme>,</l>
+        <l id="s3:l7" met="3" type="+-">En u zoete <rhyme label="d" type="f" corresp="#s3:l6">kusjes</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">Hier gevallen by u <rhyme label="e" type="m">neer</rhyme>;</l>
+        <l id="s3:l9" met="4" type="+-">Maar hoe krijg ik mijn krachjes <rhyme label="e" type="m" corresp="#s3:l8">weer</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

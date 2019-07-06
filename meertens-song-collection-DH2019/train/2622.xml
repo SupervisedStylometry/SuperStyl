@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2622</id>
+    <date>
+      <year-start>1622</year-start>
+      <year-end>1622</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Windje daar het bos af drilt</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="theatre">theater</category>
+    </categories>
+  <author>G.A. Bredero</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">T'sonnetje steeckt zijn hoofjen <rhyme label="a" type="m">op</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">En beslaet der Bergen <rhyme label="a" type="m" corresp="#s1:l1">top</rhyme>,</l>
+        <l id="s1:l3" met="2" type="+-">Met zijn <rhyme label="b" type="f">lichjes</rhyme>,</l>
+        <l id="s1:l4" met="2" type="+-">Wat <rhyme label="b" type="f" corresp="#s1:l3">gesichjes</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Wat verschietjes verd en <rhyme label="c" type="m">flauw</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Dommelter tusschen 't grau en <rhyme label="c" type="m" corresp="#s1:l5">blauw</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">'t Vochtige Beeckje blinckt <rhyme label="a" type="m">verciert</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">'t Vrolijck Vinckje <rhyme label="a" type="m" corresp="#s2:l1">tiereliert</rhyme>,</l>
+        <l id="s2:l3" met="2" type="+-">Op de <rhyme label="b" type="f">tackjes</rhyme>,</l>
+        <l id="s2:l4" met="2" type="+-">Wilt en <rhyme label="b" type="f" corresp="#s2:l3">mackjes</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">En weer strackjes op een <rhyme label="c" type="m">aer</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Huppeltet met zijn <rhyme label="c" type="m" corresp="#s2:l5">weder-paer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">d'Hemelen werden meer <rhyme label="a" type="m">begroet</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Van de Diertjes kleyn en <rhyme label="a" type="m" corresp="#s3:l1">soet</rhyme>,</l>
+        <l id="s3:l3" met="2" type="+-">Als van <rhyme label="b" type="f">Menschen</rhyme>,</l>
+        <l id="s3:l4" met="2" type="+-">Die maer <rhyme label="b" type="f" corresp="#s3:l3">wenschen</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">Nae het aerts vergancklijck <rhyme label="c" type="m">goet</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Datmen hier doch al laten <rhyme label="c" type="m" corresp="#s3:l5">moet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Hemeltjes wijs en wel <rhyme label="a" type="m">geleert</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Meer met reden <rhyme label="a" type="m" corresp="#s4:l1">gestoffeert</rhyme>,</l>
+        <l id="s4:l3" met="2" type="+-">Als de <rhyme label="b" type="f">lieden</rhyme></l>
+        <l id="s4:l4" met="2" type="+-">Die 't <rhyme label="b" type="f" corresp="#s4:l3">gebieden</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">Van een werelt noch <rhyme label="c" type="m">verdriet</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Sy hebben u vernoegen <rhyme label="c" type="m" corresp="#s4:l5">niet</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">'t Herdertje met zijn wolligh <rhyme label="a" type="m">Vee</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Schrolt op't volckje vande <rhyme label="a" type="m" corresp="#s5:l1">Stee</rhyme>,</l>
+        <l id="s5:l3" met="2" type="+-">Daer zijn <rhyme label="b" type="f">knaapjes</rhyme>,</l>
+        <l id="s5:l4" met="2" type="+-">Van zijn <rhyme label="b" type="f" corresp="#s5:l3">schaapjes</rhyme></l>
+        <l id="s5:l5" met="4" type="+-">In zijn slaapjes sacht en <rhyme label="c" type="m">stil</rhyme>,</l>
+        <l id="s5:l6" met="4" type="+-">Willigh voldoen haers Heeren <rhyme label="c" type="m" corresp="#s5:l5">wil</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Menschjes God geeft ellick zijn <rhyme label="a" type="m">deel</rhyme>,</l>
+        <l id="s6:l2" met="4" type="+-">Maer elck doet zijn best, om <rhyme label="a" type="m" corresp="#s6:l1">veel</rhyme></l>
+        <l id="s6:l3" met="2" type="+-">Te <rhyme label="b" type="f">vergaren</rhyme>,</l>
+        <l id="s6:l4" met="2" type="+-">Dan 't <rhyme label="b" type="f" corresp="#s6:l3">bewaren</rhyme></l>
+        <l id="s6:l5" met="4" type="+-">Voor de Jaren, is een <rhyme label="c" type="m">kunst</rhyme>,</l>
+        <l id="s6:l6" met="4" type="+-">Danckt de Goden voor haer <rhyme label="c" type="m" corresp="#s6:l5">gunst</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">Geen dingetjes so slecht, so <rhyme label="a" type="m">teer</rhyme>,</l>
+        <l id="s7:l2" met="4" type="+-">Of sy geven ons een <rhyme label="a" type="m" corresp="#s7:l1">leer</rhyme>,</l>
+        <l id="s7:l3" met="2" type="+-">Wilt maer <rhyme label="b" type="f">mercken</rhyme>,</l>
+        <l id="s7:l4" met="2" type="+-">Op de <rhyme label="b" type="f" corresp="#s7:l3">wercken</rhyme></l>
+        <l id="s7:l5" met="4" type="+-">Vande Goden <rhyme label="c" type="m">wonderbaer</rhyme>,</l>
+        <l id="s7:l6" met="4" type="+-">Niet en vindy sonder <rhyme label="c" type="m" corresp="#s7:l5">haer</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="+-">O redelijcke Beesjes <rhyme label="a" type="m">dwaes</rhyme>!</l>
+        <l id="s8:l2" met="4" type="+-">'t Onvernuftigh Vee, <rhyme label="a" type="m" corresp="#s8:l1">helaes</rhyme>,</l>
+        <l id="s8:l3" met="2" type="+-">Is veel <rhyme label="b" type="f">nyver</rhyme>,</l>
+        <l id="s8:l4" met="2" type="+-">En veel <rhyme label="b" type="f" corresp="#s8:l3">styver</rhyme></l>
+        <l id="s8:l5" met="4" type="+-">In den yver tot Gods <rhyme label="c" type="m">lof</rhyme>,</l>
+        <l id="s8:l6" met="4" type="+-">Als den Mensch van 't beste <rhyme label="c" type="m" corresp="#s8:l5">stof</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

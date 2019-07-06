@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34068</id>
+    <date>
+      <year-start>1660</year-start>
+      <year-end>1660</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Jean de Nivelle</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">CHriste Koningh, onsen <rhyme label="a" type="f">Heere</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">U zy glori, lof en <rhyme label="a" type="f" corresp="#s1:l1">eere</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Nu, en in der <rhyme label="b" type="m">eeuwigheydt</rhyme>;</l>
+        <l id="s1:l4" met="4" type="+-">Wiên de kinders in 't <rhyme label="c" type="f">in-treden</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Hebben vol van vreughd op <rhyme label="c" type="f" corresp="#s1:l4">heden</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Den Hosanna <rhyme label="b" type="m" corresp="#s1:l3">toe-gheseyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Vorst van Israël <rhyme label="a" type="f">ver-koren</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Soôn van David <rhyme label="a" type="f" corresp="#s2:l1">hoogh-gheboren</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Ghy den grootsten Koningh <rhyme label="b" type="m">zyt</rhyme>.</l>
+        <l id="s2:l4" met="4" type="+-">Dus uw' komste wy <rhyme label="c" type="f">ver-eeren</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Die komt in den naem des <rhyme label="c" type="f" corresp="#s2:l4">Heeren</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Weest, ô God, <rhyme label="b" type="m" corresp="#s2:l3">ghebenedydt</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Alle schaeren u daer <rhyme label="a" type="f">boven</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">In het ryck des Hemels <rhyme label="a" type="f" corresp="#s3:l1">loven</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Die ghenieten uw <rhyme label="b" type="m">aenschyn</rhyme>.</l>
+        <l id="s3:l4" met="4" type="+-">Soo doen hier oock alle <rhyme label="c" type="f">menschen</rhyme>:</l>
+        <l id="s3:l5" met="4" type="+-">Want sy anders niet en <rhyme label="c" type="f" corresp="#s3:l4">wenschen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Dan dat ghy gheloôft moet <rhyme label="b" type="m" corresp="#s3:l3">zyn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

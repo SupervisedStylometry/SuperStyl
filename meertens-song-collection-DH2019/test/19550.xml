@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19550</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Cette cruelle</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">AG! trouwe HArder, ‘tzijn uw’ <rhyme label="a" type="f">woorden</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">V vriendelijkhe’en, die mijn <rhyme label="b" type="m">gedagt</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Zo vrundelijk, tot Minn <rhyme label="a" type="f" corresp="#s1:l1">bekoorden</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">En nu gevoeld geheel <rhyme label="b" type="m" corresp="#s1:l2">verkracht</rhyme>;</l>
+        <l id="s1:l5" met="2" type="-+">Maar ‘t hart wil <rhyme label="c" type="f">deinze</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Wijl mijn zaft <rhyme label="d" type="m">gemoed</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Nog poogd te <rhyme label="c" type="f" corresp="#s1:l5">veinze</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">In’et zoetste <rhyme label="d" type="m" corresp="#s1:l6">zoet</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">‘Tgun mijn verlangen <rhyme label="d" type="m" corresp="#s1:l6">voed</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

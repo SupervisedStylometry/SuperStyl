@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185667</id>
+    <date>
+      <year-start>1830</year-start>
+      <year-end>1840</year-end>
+    </date>
+    <location>
+      <orginal-name>purmerend</orginal-name>
+      <standard-name>Purmerend</standard-name>
+      <coordinates>
+        <lon>52.5024789</lon>
+        <lat>4.9614827</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Vrienden, komt! treedt bij mij <rhyme label="a" type="f">binnen</rhyme>;</l>
+        <l id="s1:l2" met="4" type="+-">'k Acht mij met uw komst <rhyme label="b" type="m">vereerd</rhyme>;</l>
+        <l id="s1:l3" met="4" type="+-">Die 't gezelschap blijft <rhyme label="a" type="f" corresp="#s1:l1">beminnen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">En na werken rust <rhyme label="b" type="m" corresp="#s1:l2">begeert</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Vindt die hier naar zijne <rhyme label="c" type="m">lust</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Na den arbeid volgt de <rhyme label="c" type="m" corresp="#s1:l5">rust</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Binnen maar, kiest uit een <rhyme label="a" type="f">plaatsje</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Bij de kagchel, of bij 't <rhyme label="b" type="m">vier</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Rookt een pijp, en drinkt een <rhyme label="a" type="f" corresp="#s2:l1">glaasje</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Van mijn krachtig lekker <rhyme label="b" type="m" corresp="#s2:l2">bier</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">Buiten is het koud en <rhyme label="c" type="m">guur</rhyme>;</l>
+        <l id="s2:l6" met="4" type="+-">Praat en kout wat met uw <rhyme label="c" type="m" corresp="#s2:l5">buur</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

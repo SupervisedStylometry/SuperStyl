@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19549</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Tircis au bord de la Seine</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Thomas Fonteyn</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">AMasis, laat vare die <rhyme label="a" type="f">zorgen</rhyme>:</l>
+        <l id="s1:l2" met="4" type="-+">Arfilon en wraakt geen <rhyme label="b" type="m">deugd</rhyme>,</l>
+        <l id="s1:l3" met="6" type="-+">Eer de lusjes mijn zieltje verworgen: verworgen: <rhyme label="a" type="f" corresp="#s1:l1">verworgen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Door de zoete <rhyme label="b" type="m" corresp="#s1:l2">vreugd</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>26919</id>
+    <date>
+      <year-start>1561</year-start>
+      <year-end>1561</year-end>
+    </date>
+    <location>
+      <orginal-name>londen</orginal-name>
+      <standard-name>London, England</standard-name>
+      <coordinates>
+        <lon>51.5073219</lon>
+        <lat>-0.1276474</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>O Herr wer wird Wohnungen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jan Utenhove</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WAere God ons niet <rhyme label="a" type="m">voorghestaen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Israel nv <rhyme label="b" type="f">vermonde</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Hadde God niet ons hulp <rhyme label="a" type="m" corresp="#s1:l1">ghedaen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Als teghen ons <rhyme label="b" type="f" corresp="#s1:l2">opstonden</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">De menschen, die daer gants end <rhyme label="c" type="m">gaer</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Godloos syn, si hadden <rhyme label="c" type="m" corresp="#s1:l5">voorwaer</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Ons leuendigh <rhyme label="d" type="f">verslonden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Want sy woedden teghen ons <rhyme label="a" type="m">fel</rhyme>.</l>
+        <l id="s2:l2" met="3" type="-+">Wy waren schier <rhyme label="b" type="f">versoncken</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Als door een waterbeke <rhyme label="a" type="m" corresp="#s2:l1">snel</rhyme>.</l>
+        <l id="s2:l4" met="3" type="-+">Waerɇ onse siel <rhyme label="b" type="f" corresp="#s2:l2">verdroncken</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Als stranghe waterbaren <rhyme label="c" type="m">slaen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Syn sy na onser siel <rhyme label="c" type="m" corresp="#s2:l5">ghestaen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Des moest God onß <rhyme label="d" type="f">erbarmen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Lof God die ons niet <rhyme label="a" type="m">ouergaf</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Tot roofdeel huerer <rhyme label="b" type="f">tanden</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Als een voghel den strick komt <rhyme label="a" type="m" corresp="#s3:l1">af</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Is onse siel wt <rhyme label="b" type="f" corresp="#s3:l2">banden</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">T’strick is ontween, end wy syn <rhyme label="c" type="m">vry</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Des Heeren name staet ons <rhyme label="c" type="m" corresp="#s3:l5">by</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Scheppers hemels, end <rhyme label="d" type="f">ęrde</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174905</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Stoelen en stoven opzij</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">Stoelen en stoven op <rhyme label="a" type="m">zĳ</rhyme>̂,</l>
+        <l id="s1:l2" met="3" type="+-">Dat hij zijn voetjes niet <rhyme label="b" type="m">stoot</rhyme>;</l>
+        <l id="s1:l3" met="2" type="+-">'t Heeft geen <rhyme label="b" type="m" corresp="#s1:l2">nood</rhyme>! -</l>
+        <l id="s1:l4" met="2" type="-+">Loop hem <rhyme label="a" type="m" corresp="#s1:l1">voorbij</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Trek hem op <rhyme label="a" type="m" corresp="#s1:l1">zĳ</rhyme>̂.</l>
+        <l id="s1:l6" met="4" type="+-">Blindeman, <rhyme label="c" type="m">Blindeman</rhyme>!</l>
+        <l id="s1:l7" met="2" type="-+">Pak me maar <rhyme label="c" type="m" corresp="#s1:l6">ân</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Als je me krijgen <rhyme label="c" type="m" corresp="#s1:l6">kan</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Kijk! wat hij rondloopt en <rhyme label="a" type="m">tast</rhyme>!</l>
+        <l id="s2:l2" met="3" type="+-">Sliep uit, dat 's mis, <rhyme label="b" type="m">kameraad</rhyme>!....</l>
+        <l id="s2:l3" met="2" type="+-">'t Is te <rhyme label="b" type="m" corresp="#s2:l2">laat</rhyme>!</l>
+        <l id="s2:l4" met="2" type="-+">Raagbol en <rhyme label="a" type="m" corresp="#s2:l1">kwast</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Hoû ze maar <rhyme label="a" type="m" corresp="#s2:l1">vast</rhyme>! -</l>
+        <l id="s2:l6" met="4" type="+-">Blindeman, <rhyme label="c" type="m">Blindeman</rhyme>!</l>
+        <l id="s2:l7" met="2" type="-+">Pak me maar <rhyme label="c" type="m" corresp="#s2:l6">ân</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Als je me krijgen <rhyme label="c" type="m" corresp="#s2:l6">kan</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="+-">Meisjes! wat kraakt er uw <rhyme label="a" type="m">kleed</rhyme>!</l>
+        <l id="s3:l2" met="3" type="+-">Jongens! uw fluistren <rhyme label="b" type="m">verraadt</rhyme></l>
+        <l id="s3:l3" met="2" type="+-">Waar je <rhyme label="b" type="m" corresp="#s3:l2">staat</rhyme>!</l>
+        <l id="s3:l4" met="2" type="-+">Eer dat ge 't <rhyme label="a" type="m" corresp="#s3:l1">weet</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">Heeft hij je <rhyme label="a" type="m" corresp="#s3:l1">beet</rhyme>!....</l>
+        <l id="s3:l6" met="4" type="+-">Blindeman, <rhyme label="c" type="m">Blindeman</rhyme>!</l>
+        <l id="s3:l7" met="2" type="-+">Hoû wat je <rhyme label="c" type="m" corresp="#s3:l6">kan</rhyme>:</l>
+        <l id="s3:l8" met="3" type="-+">Je bent weêr ziende, <rhyme label="c" type="m" corresp="#s3:l6">man</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

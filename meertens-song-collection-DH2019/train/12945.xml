@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12945</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Laura zat laatst bij de beek</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">BAart het knippen zulk <rhyme label="a" type="m">gebaar</rhyme>?</l>
+        <l id="s1:l2" met="4" type="+-">Sprak Pan, onder 't groen <rhyme label="b" type="f">verborgen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">'k Zweer, ik heb mijn wil van <rhyme label="a" type="m" corresp="#s1:l1">haar</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Eer dat my ontgaat dees <rhyme label="b" type="f" corresp="#s1:l2">morgen</rhyme>;</l>
+        <l id="s1:l5" met="4" type="+-">Doch hy meenden te <rhyme label="b" type="f" corresp="#s1:l2">verworgen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">(Als hy vierig met een <rhyme label="c" type="m">wip</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Rozemonde wilde <rhyme label="d" type="f">vangen</rhyme>)</l>
+        <l id="s1:l8" met="4" type="+-">Want hy bleef in doorens <rhyme label="d" type="f" corresp="#s1:l7">hangen</rhyme>;</l>
+        <l id="s1:l9" met="4" type="+-">'t Knippen bracht hem in de <rhyme label="c" type="m" corresp="#s1:l6">knip</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>117805</id>
+    <date>
+      <year-start>1741</year-start>
+      <year-end>1741</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Het Walinnetje</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Bloed Bachus Nodigt ons ten <rhyme label="a" type="m">Stryt</rhyme>,</l>
+        <l id="s1:l2" met="5" type="+-">Sa aan het drinken, drinken, <rhyme label="b" type="f">drinken</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Bloed Bachus Nodigt ons ten <rhyme label="a" type="m" corresp="#s1:l1">stryt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Vult nu de Glazen op deez' <rhyme label="a" type="m" corresp="#s1:l1">tyt</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Kyk, kyk het <rhyme label="c" type="f">Glaasje</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Toe als een <rhyme label="c" type="f" corresp="#s1:l5">Baasje</rhyme>,</l>
+        <l id="s1:l7" met="5" type="-+">Je bent een Vent zo Rat als onze <rhyme label="c" type="f" corresp="#s1:l5">Klaasje</rhyme>,</l>
+        <l id="s1:l8" met="7" type="+-">Drinkt het vry in een Teug uyt, kluk, kluk, <rhyme label="d" type="m">kluk</rhyme>,</l>
+        <l id="s1:l9" met="3" type="+-">Nu weder vol <rhyme label="e" type="f">Geschonken</rhyme>,</l>
+        <l id="s1:l10" met="4" type="+-">Drinkt het vry in een Teug <rhyme label="f" type="m">uyt</rhyme>,</l>
+        <l id="s1:l11" met="4" type="-+">En krygt weêr een volle <rhyme label="f" type="m" corresp="#s1:l10">Fluyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Schenk al weêr Driemaal is <rhyme label="a" type="m">Regt</rhyme>,</l>
+        <l id="s2:l2" met="5" type="+-">Voor God Bachus Zonen, Zonen, <rhyme label="b" type="f">Zonen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Schenk al weêr Driemaal is <rhyme label="a" type="m" corresp="#s2:l1">Regt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Voor een dapper Bachus <rhyme label="a" type="m" corresp="#s2:l1">Knegt</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Klink zonder <rhyme label="c" type="f">Schromen</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">Niet als een <rhyme label="c" type="f" corresp="#s2:l5">Lomen</rhyme>,</l>
+        <l id="s2:l7" met="5" type="-+">Maar als een Held die op het Feest mag <rhyme label="c" type="f" corresp="#s2:l5">komen</rhyme>,</l>
+        <l id="s2:l8" met="7" type="+-">Sie zo dat Glaasje is weêr <rhyme label="d" type="m">Leeg</rhyme>,</l>
+        <l id="s2:l9" met="3" type="+-">Toon datje braaf kan nappen, nappen, <rhyme label="e" type="f">nappen</rhyme>,</l>
+        <l id="s2:l10" met="4" type="+-">Sie zo dat Glaasje is weêr <rhyme label="f" type="m">Leeg</rhyme>,</l>
+        <l id="s2:l11" met="4" type="-+">En uyt Gedronken met een <rhyme label="f" type="m" corresp="#s2:l10">Veeg</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

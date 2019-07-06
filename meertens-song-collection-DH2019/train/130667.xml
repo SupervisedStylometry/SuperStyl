@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>130667</id>
+    <date>
+      <year-start>1710</year-start>
+      <year-end>1710</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Barcelona</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">Wat baat dog het <rhyme label="a" type="f">Minnen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Op een onwinbaar <rhyme label="b" type="m">hart</rhyme>,</l>
+        <l id="s1:l3" met="5" type="+-">Die   u droeve klagt Niemandal <rhyme label="c" type="m">agt</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Maar lagt om al u <rhyme label="b" type="m" corresp="#s1:l2">smart</rhyme>!</l>
+        <l id="s1:l5" met="3" type="+-">Weg   verdwaalde <rhyme label="a" type="f" corresp="#s1:l1">zinne</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Wilt dat nooit <rhyme label="a" type="f" corresp="#s1:l1">beginne</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Maar bant uit u hart en <rhyme label="d" type="m">zin</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Gedagten al van de <rhyme label="d" type="m" corresp="#s1:l7">min</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>119027</id>
+    <date>
+      <year-start>1745</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Hoor Kees mijn vrijer</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">MAlgrés mes <rhyme label="a" type="m">peines</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Je vous aimes <rhyme label="b" type="m">toûjours</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">La force est <rhyme label="a" type="m" corresp="#s1:l1">vaine</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Qui contraint nos <rhyme label="b" type="m" corresp="#s1:l2">Amours</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Vous régnérez <rhyme label="c" type="m">Philis</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">A jamais dans mon <rhyme label="d" type="m">coeur</rhyme>:</l>
+        <l id="s1:l7" met="3" type="-+">Je porterai vos <rhyme label="a" type="m" corresp="#s1:l1">chaines</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">j'En ferai mon <rhyme label="d" type="m" corresp="#s1:l6">bonheur</rhyme>,</l>
+        <l id="s1:l9" met="2" type="-+">Malgrés mes <rhyme label="a" type="m" corresp="#s1:l1">peines</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Toute ma <rhyme label="a" type="m">vie</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">j'Avois jugé <rhyme label="b" type="m">l'Amour</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Une <rhyme label="a" type="m" corresp="#s2:l1">folie</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Pour l'eviter <rhyme label="b" type="m" corresp="#s2:l2">toujours</rhyme>;</l>
+        <l id="s2:l5" met="3" type="-+">Mais quand je vous ai <rhyme label="c" type="m">vu</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">j'Ai fait voeux <rhyme label="d" type="m">desormais</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Trop aimable <rhyme label="a" type="m" corresp="#s2:l1">silvie</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">d'Adorer vos <rhyme label="d" type="m" corresp="#s2:l6">attraits</rhyme>,</l>
+        <l id="s2:l9" met="2" type="-+">Toute ma <rhyme label="a" type="m" corresp="#s2:l1">vie</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Comme je <rhyme label="a" type="m">t'aime</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Si tu voulois <rhyme label="b" type="m">m'aimer</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">Non Venus <rhyme label="a" type="m" corresp="#s3:l1">même</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Ne pouroit me <rhyme label="b" type="m" corresp="#s3:l2">charmer</rhyme>;</l>
+        <l id="s3:l5" met="3" type="-+">Quand de ses propres <rhyme label="c" type="m">traits</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">l'Amour ce fut <rhyme label="d" type="m">blessé</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Son feus fut moins <rhyme label="a" type="m" corresp="#s3:l1">extreme</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Je n'aime point <rhyme label="d" type="m" corresp="#s3:l6">Philé</rhyme>,</l>
+        <l id="s3:l9" met="2" type="-+">Comme je <rhyme label="a" type="m" corresp="#s3:l1">t'aime</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">l'Aisser moi <rhyme label="a" type="m">faire</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Tous les jours des <rhyme label="b" type="m">serments</rhyme>,</l>
+        <l id="s4:l3" met="2" type="-+">De me <rhyme label="a" type="m" corresp="#s4:l1">défaire</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Des tendres <rhyme label="b" type="m" corresp="#s4:l2">sentiments</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Si vous voulés <rhyme label="c" type="m">Iris</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Eterniser mes <rhyme label="d" type="m">feux</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Cessés d'être <rhyme label="a" type="m" corresp="#s4:l1">severe</rhyme>,</l>
+        <l id="s4:l8" met="3" type="-+">Quand nous sommes nous <rhyme label="d" type="m" corresp="#s4:l6">deux</rhyme>;</l>
+        <l id="s4:l9" met="2" type="-+">l'Aisser moi <rhyme label="a" type="m" corresp="#s4:l1">faire</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="2" type="-+">Quand je <rhyme label="a" type="m">badine</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">A quoi sert mon <rhyme label="b" type="m">Iris</rhyme>,</l>
+        <l id="s5:l3" met="2" type="-+">Faire la <rhyme label="a" type="m" corresp="#s5:l1">mine</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Craignés vous les <rhyme label="b" type="m" corresp="#s5:l2">plaisirs</rhyme>?</l>
+        <l id="s5:l5" met="3" type="-+">Pour calmer le <rhyme label="c" type="m">tourment</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">d'Un amour <rhyme label="d" type="m">innocent</rhyme>,</l>
+        <l id="s5:l7" met="3" type="-+">Il faut être plus <rhyme label="a" type="m" corresp="#s5:l1">fine</rhyme>;</l>
+        <l id="s5:l8" met="3" type="-+">Prenés tout en <rhyme label="d" type="m" corresp="#s5:l6">riant</rhyme>,</l>
+        <l id="s5:l9" met="2" type="-+">Quand je <rhyme label="a" type="m" corresp="#s5:l1">badine</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>163</id>
+    <date>
+      <year-start>1589</year-start>
+      <year-end>1589</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Laatst omtrent de avond bij avontuur</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Laest ontrent den auont by <rhyme label="a" type="f">auontueren</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Doen ginck ick dolen achter <rhyme label="b" type="m">straet</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Van liefden en wist ick niet the <rhyme label="a" type="f" corresp="#s1:l1">geduren</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Want mijn hert was heel <rhyme label="b" type="m" corresp="#s1:l2">desperaet</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Doorwont van binnen, doorwont van <rhyme label="c" type="f">binnen</rhyme></l>
+        <l id="s1:l6" met="5" type="-+">Tot mijnder baet, quam zy daer te <rhyme label="b" type="m" corresp="#s1:l2">maet</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">Die ick <rhyme label="c" type="f" corresp="#s1:l5">beminne</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Sy sprack my toe doe ick haer <rhyme label="a" type="f">kende</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Ick en was mijn dagen niet meer <rhyme label="b" type="m">verblijt</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Ic ginck my also haestelick waerts <rhyme label="a" type="f" corresp="#s2:l1">keren</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">En ick sprac haer toe met also groten <rhyme label="b" type="m" corresp="#s2:l2">vlijt</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Liefste ghepresen, liefste <rhyme label="c" type="f">ghepresen</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">Och mocht ic met iolijt op desen blijden <rhyme label="b" type="m" corresp="#s2:l2">tijt</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">Eens by v <rhyme label="c" type="f" corresp="#s2:l5">wesen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Venus die ginck ons daer tsamen <rhyme label="a" type="f">binden</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Al daer wy stonden in minnen <rhyme label="b" type="m">fier</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">En Cupido ginck boecken <rhyme label="a" type="f" corresp="#s3:l1">vinden</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">O[... schieten] met vrou Venus <rhyme label="b" type="m" corresp="#s3:l2">lier</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">met stralen der minnen, met stralen der <rhyme label="c" type="f">minnen</rhyme></l>
+        <l id="s3:l6" met="5" type="-+">Sy bracht my hier, in also swaer <rhyme label="b" type="m" corresp="#s3:l2">dangier</rhyme></l>
+        <l id="s3:l7" met="2" type="-+">Die schoone <rhyme label="c" type="f" corresp="#s3:l5">Goddinne</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Na troost te vragen, stont alle mi <rhyme label="a" type="f">behagen</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Maer laci ten mocht mi gebeuren <rhyme label="b" type="m">niet</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">mijn ogen op haer sagen mijn hart begint te <rhyme label="a" type="f" corresp="#s4:l1">clagen</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Alderliefste waerom laet ghy my int <rhyme label="b" type="m" corresp="#s4:l2">verdriet</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Met druck beuangen, met druck <rhyme label="c" type="f">beuangen</rhyme></l>
+        <l id="s4:l6" met="5" type="-+">Ghy zijt mijn liefste lief toont my doch v <rhyme label="b" type="m" corresp="#s4:l2">gherief</rhyme>,</l>
+        <l id="s4:l7" met="2" type="-+">V dienaer wilt <rhyme label="c" type="f" corresp="#s4:l5">ontfanghen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

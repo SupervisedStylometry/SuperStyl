@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111413</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Aimable vainqueur</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">O Vogels <rhyme label="a" type="m">aanschouwt</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">Hoe ik zit <rhyme label="a" type="m" corresp="#s1:l1">benout</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">In 't huisje vol van <rhyme label="b" type="f">zugten</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Die plagt myn <rhyme label="b" type="f" corresp="#s1:l3">genugten</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">Te scheppen in 't <rhyme label="c" type="m">Woud</rhyme>.</l>
+        <l id="s1:l6" met="2" type="-+">O Jager vol <rhyme label="d" type="f">boosheid</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Die my door u <rhyme label="d" type="f" corresp="#s1:l6">loosheid</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">Hier gevangen <rhyme label="c" type="m" corresp="#s1:l5">houd</rhyme>:</l>
+        <l id="s1:l9" met="3" type="-+">Wat sonden of wat <rhyme label="e" type="m">quaad</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">Heb ik uw ooyt <rhyme label="f" type="f">bedreven</rhyme>,</l>
+        <l id="s1:l11" met="3" type="+-">Dat gy my doet <rhyme label="f" type="f" corresp="#s1:l10">leven</rhyme></l>
+        <l id="s1:l12" met="2" type="-+">Hier schier <rhyme label="e" type="m" corresp="#s1:l9">desperaat</rhyme>.</l>
+        <l id="s1:l13" met="3" type="-+">En als gy tot myn <rhyme label="g" type="m">spyd</rhyme></l>
+        <l id="s1:l14" met="2" type="-+">Uw nyt hebt <rhyme label="g" type="m" corresp="#s1:l13">geleyd</rhyme>,</l>
+        <l id="s1:l15" met="2" type="-+">Waar op ik quam <rhyme label="h" type="f">pikken</rhyme>,</l>
+        <l id="s1:l16" met="2" type="-+">En bleef in u <rhyme label="h" type="f" corresp="#s1:l15">strikken</rhyme>,</l>
+        <l id="s1:l17" met="2" type="-+">Zoo dat ik <rhyme label="e" type="m" corresp="#s1:l9">altyd</rhyme></l>
+        <l id="s1:l18" met="2" type="-+">Tot myn droevig <rhyme label="i" type="m">kruys</rhyme>,</l>
+        <l id="s1:l19" met="2" type="-+">Myn leven moet <rhyme label="h" type="f" corresp="#s1:l15">schikken</rhyme></l>
+        <l id="s1:l20" met="2" type="-+">In dit <rhyme label="i" type="m" corresp="#s1:l18">Vogelhuys</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Adieu <rhyme label="a" type="m">Liberteyt</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">Want ik ben uw <rhyme label="a" type="m" corresp="#s2:l1">quyt</rhyme>.</l>
+        <l id="s2:l3" met="2" type="-+">Adieu klaar <rhyme label="b" type="f">Forteynen</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">Daar 'k plag te <rhyme label="b" type="f" corresp="#s2:l3">verschynen</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">Om in uwe <rhyme label="c" type="m">vloed</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Myn Bekje te <rhyme label="d" type="f">spoelen</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">Myn Keeltje te <rhyme label="d" type="f" corresp="#s2:l6">koelen</rhyme></l>
+        <l id="s2:l8" met="3" type="+-">In uwe Waters <rhyme label="c" type="m" corresp="#s2:l5">zoet</rhyme>.</l>
+        <l id="s2:l9" met="3" type="-+">Adieu Veld en <rhyme label="e" type="m">Bosch</rhyme>,</l>
+        <l id="s2:l10" met="3" type="-+">Daar ik plag te <rhyme label="f" type="f">zwieren</rhyme></l>
+        <l id="s2:l11" met="3" type="+-">En te <rhyme label="f" type="f" corresp="#s2:l10">tierelieren</rhyme>,</l>
+        <l id="s2:l12" met="2" type="-+">Doen 'k was vry en <rhyme label="e" type="m" corresp="#s2:l9">los</rhyme>:</l>
+        <l id="s2:l13" met="3" type="-+">Maar 't argste van <rhyme label="g" type="m">al</rhyme></l>
+        <l id="s2:l14" met="2" type="-+">Is, dat ik nog <rhyme label="g" type="m" corresp="#s2:l13">zal</rhyme></l>
+        <l id="s2:l15" met="2" type="-+">Het graf moeten <rhyme label="h" type="f">derven</rhyme>;</l>
+        <l id="s2:l16" met="2" type="-+">Als ik kom te <rhyme label="h" type="f" corresp="#s2:l15">sterven</rhyme>:</l>
+        <l id="s2:l17" met="2" type="-+">O Droevig <rhyme label="e" type="m" corresp="#s2:l9">ongeval</rhyme>!</l>
+        <l id="s2:l18" met="2" type="-+">Want dan sal de <rhyme label="i" type="m">Kat</rhyme></l>
+        <l id="s2:l19" met="2" type="-+">Myn lichaam <rhyme label="h" type="f" corresp="#s2:l15">verwerven</rhyme>,</l>
+        <l id="s2:l20" met="2" type="-+">Ach! wat spyt is <rhyme label="i" type="m" corresp="#s2:l18">dat</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Tot troost in myn <rhyme label="a" type="m">pyn</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Als ik dood sal <rhyme label="a" type="m" corresp="#s3:l1">zyn</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">kom Vogels te <rhyme label="b" type="f">zamen</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">Met rouw na <rhyme label="b" type="f" corresp="#s3:l3">betamen</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">Tot het Lyk van <rhyme label="c" type="m">myn</rhyme>;</l>
+        <l id="s3:l6" met="2" type="-+">Komt treurige <rhyme label="d" type="f">Uylen</rhyme></l>
+        <l id="s3:l7" met="2" type="-+">Uyt uw donkere <rhyme label="d" type="f" corresp="#s3:l6">kuylen</rhyme>,</l>
+        <l id="s3:l8" met="3" type="+-">Kraayen van 's <rhyme label="c" type="m" corresp="#s3:l5">gelyk</rhyme>.</l>
+        <l id="s3:l9" met="3" type="-+">En gy witte <rhyme label="e" type="m">Swaan</rhyme></l>
+        <l id="s3:l10" met="3" type="-+">Doet treurige <rhyme label="f" type="f">klagten</rhyme>,</l>
+        <l id="s3:l11" met="3" type="+-">Verandert uw <rhyme label="f" type="f" corresp="#s3:l10">Schagten</rhyme>,</l>
+        <l id="s3:l12" met="2" type="-+">Neemt het Rouwkleed <rhyme label="e" type="m" corresp="#s3:l9">aan</rhyme>.</l>
+        <l id="s3:l13" met="3" type="-+">En gy <rhyme label="g" type="m">Pluymgediert</rhyme>,</l>
+        <l id="s3:l14" met="2" type="-+">Dat nog daag'lyks <rhyme label="g" type="m" corresp="#s3:l13">zwierd</rhyme>,</l>
+        <l id="s3:l15" met="2" type="-+">En huppelt nog springt <rhyme label="h" type="f">niet</rhyme>,</l>
+        <l id="s3:l16" met="2" type="-+">En fluyt niet nog singt <rhyme label="h" type="f" corresp="#s3:l15">niet</rhyme>,</l>
+        <l id="s3:l17" met="2" type="-+">Maar u stemmen dus <rhyme label="e" type="m" corresp="#s3:l9">stiert</rhyme>,</l>
+        <l id="s3:l18" met="2" type="-+">Dat ik door <rhyme label="i" type="m">geschrey</rhyme></l>
+        <l id="s3:l19" met="2" type="-+">Veel dagen hoor <rhyme label="h" type="f" corresp="#s3:l15">klagen</rhyme></l>
+        <l id="s3:l20" met="2" type="-+">Om het Lyk van <rhyme label="i" type="m" corresp="#s3:l18">my</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

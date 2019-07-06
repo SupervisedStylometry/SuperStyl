@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175156</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Dood is het mugje!.... met uw <rhyme label="a" type="m">hand</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Hebt gij 't, o knaapje! <rhyme label="b" type="f">doodgeslagen</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Maar dacht ge wel, mijn jonge <rhyme label="a" type="m" corresp="#s1:l1">kwant</rhyme>!</l>
+        <l id="s1:l4" met="4" type="-+">Hoe of 't u zelven zou <rhyme label="b" type="f" corresp="#s1:l2">behagen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Wanneer nu eens een <rhyme label="a" type="m" corresp="#s1:l1">olifant</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">U 't zelfde deed, met snuit of <rhyme label="a" type="m" corresp="#s1:l1">tand</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ja, zie! nu doet het u <rhyme label="a" type="m">verdriet</rhyme>;</l>
+        <l id="s2:l2" met="4" type="-+">Nu hebt ge rouw, dat gij <rhyme label="b" type="f">zoo-even</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Dat arme beest niet leven <rhyme label="a" type="m" corresp="#s2:l1">liet</rhyme>.</l>
+        <l id="s2:l4" met="4" type="-+">Voor ditmaal zij het u <rhyme label="b" type="f" corresp="#s2:l2">vergeven</rhyme>! -</l>
+        <l id="s2:l5" met="4" type="-+">Maar doe dan ook een' ander' <rhyme label="a" type="m" corresp="#s2:l1">niet</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Wat gij niet wilt, dat u <rhyme label="a" type="m" corresp="#s2:l1">geschied'</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

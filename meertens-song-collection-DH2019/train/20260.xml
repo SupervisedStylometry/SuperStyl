@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20260</id>
+    <date>
+      <year-start>1612</year-start>
+      <year-end>1612</year-end>
+    </date>
+    <location>
+      <orginal-name>franeker</orginal-name>
+      <standard-name>Franeker</standard-name>
+      <coordinates>
+        <lon>53.1904513</lon>
+        <lat>5.5417414</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Engelse fortuin</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Boudewijn Jansen Wellens</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">WEest doch <rhyme label="a" type="m">verblijt</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Te samen minst en <rhyme label="b" type="m">meest</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Tis nu den <rhyme label="a" type="m" corresp="#s1:l1">tijdt</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Ter eeren dese <rhyme label="b" type="m" corresp="#s1:l2">feest</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Diemen hier <rhyme label="c" type="m">hout</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Te samen bly <rhyme label="d" type="m">ghepaert</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Soo men <rhyme label="c" type="m" corresp="#s1:l5">aenschout</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Om dat dees zijn <rhyme label="d" type="m" corresp="#s1:l6">vergaert</rhyme>:</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">t’Saem inden <rhyme label="a" type="m">Echt</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Ghevoeghet van den <rhyme label="b" type="m">Heer</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Zijn wil te <rhyme label="a" type="m" corresp="#s2:l1">recht</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Nae volghet meer en <rhyme label="b" type="m" corresp="#s2:l2">meer</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Die sulcx hier <rhyme label="c" type="m">doet</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">In vreed hy leven <rhyme label="d" type="m">sal</rhyme>,</l>
+        <l id="s2:l7" met="2" type="-+">Met goet <rhyme label="c" type="m" corresp="#s2:l5">voorspoedt</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Alhier int aersche <rhyme label="d" type="m" corresp="#s2:l6">Dal</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Dees Echten <rhyme label="a" type="m">staet</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Is u van Godt <rhyme label="b" type="m">belast</rhyme>:</l>
+        <l id="s3:l3" met="2" type="-+">Wel dies <rhyme label="a" type="m" corresp="#s3:l1">aengaet</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">En recht ghebruycken <rhyme label="b" type="m" corresp="#s3:l2">vast</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">Die zeeghent <rhyme label="c" type="m">Godt</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Tot alle daghen <rhyme label="d" type="m">sier</rhyme>,</l>
+        <l id="s3:l7" met="2" type="-+">Houdt zijn <rhyme label="c" type="m" corresp="#s3:l5">Ghebodt</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Nae zijn behaghen <rhyme label="d" type="m" corresp="#s3:l6">hier</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">Bruydegom <rhyme label="a" type="m">poocht</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">V huys steedts voor te <rhyme label="b" type="m">staen</rhyme></l>
+        <l id="s4:l3" met="2" type="-+">Soo ghy <rhyme label="a" type="m" corresp="#s4:l1">vermoocht</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Vrou Bruydt zijt <rhyme label="b" type="m" corresp="#s4:l2">onderdaen</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">V Man, en <rhyme label="c" type="m">Heer</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Als hooft steldt hem ten <rhyme label="d" type="m">thoon</rhyme>,</l>
+        <l id="s4:l7" met="2" type="-+">Ghy zijt hem <rhyme label="c" type="m" corresp="#s4:l5">weer</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Een cierelijcke <rhyme label="d" type="m" corresp="#s4:l6">Croon</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="2" type="-+">Oorlof nu <rhyme label="a" type="m">al</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Ghy vrienden hier ter <rhyme label="b" type="m">stee</rhyme>,</l>
+        <l id="s5:l3" met="2" type="-+">Met bly <rhyme label="a" type="m" corresp="#s5:l1">gheschal</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Verheughet dese <rhyme label="b" type="m" corresp="#s5:l2">twee</rhyme>,</l>
+        <l id="s5:l5" met="2" type="-+">Ick wensch niet <rhyme label="c" type="m">quaer</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">Dan dat sy beyd’ te <rhyme label="d" type="m">gaer</rhyme></l>
+        <l id="s5:l7" met="2" type="-+">Bly Moer en <rhyme label="c" type="m" corresp="#s5:l5">Vaer</rhyme>,</l>
+        <l id="s5:l8" met="3" type="-+">Noch worden binnent <rhyme label="d" type="m" corresp="#s5:l6">jaer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

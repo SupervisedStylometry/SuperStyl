@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>44</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Granida prinses</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">DRoeve noot <rhyme label="a" type="f">lots-vlagen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">Hoe comt gy om <rhyme label="b" type="f">clampen</rhyme>,</l>
+        <l id="s1:l3" met="5" type="+-">Dese borst die schier door 't clagen <rhyme label="c" type="m">smelt</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Clagen? jae door <rhyme label="a" type="f" corresp="#s1:l1">clagen</rhyme>,</l>
+        <l id="s1:l5" met="3" type="+-">Nu ô ramp der <rhyme label="b" type="f" corresp="#s1:l2">rampen</rhyme>!</l>
+        <l id="s1:l6" met="5" type="+-">Al mijn eer ten schand-poel is <rhyme label="c" type="m" corresp="#s1:l3">gevelt</rhyme>,</l>
+        <l id="s1:l7" met="5" type="-+">Eerloose Guyt gy die Diaan u <rhyme label="d" type="m">trouw</rhyme>,</l>
+        <l id="s1:l8" met="6" type="-+">Soo dier geswooren hebt, laat ghy Diaan in <rhyme label="d" type="m" corresp="#s1:l7">rouw</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Denkt gy niet de <rhyme label="a" type="f">Eeden</rhyme>,</l>
+        <l id="s2:l2" met="3" type="+-">Die gy snoo <rhyme label="b" type="f">verrader</rhyme>,</l>
+        <l id="s2:l3" met="5" type="+-">Hebt gedaan, als w' aan d' <rhyme label="c" type="m">Atheensche-strant</rhyme>,</l>
+        <l id="s2:l4" met="3" type="+-">t' Saamen gingen <rhyme label="a" type="f" corresp="#s2:l1">treeden</rhyme>,</l>
+        <l id="s2:l5" met="3" type="+-">Denk, ey, denk eens <rhyme label="b" type="f" corresp="#s2:l2">naader</rhyme>,</l>
+        <l id="s2:l6" met="5" type="+-">Hoe gy my swoert met u eygen <rhyme label="c" type="m" corresp="#s2:l3">hant</rhyme>:</l>
+        <l id="s2:l7" met="5" type="-+">By Hemel, Aart, by sterren, Son en <rhyme label="d" type="m">Maan</rhyme>,</l>
+        <l id="s2:l8" met="6" type="-+">So ik u verlaat moet my de Donder <rhyme label="d" type="m" corresp="#s2:l7">slaen</rhyme>:</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="+-">Maar om sunst <rhyme label="a" type="f">beswooren</rhyme></l>
+        <l id="s3:l2" met="3" type="+-">Het schynt dat sijn <rhyme label="b" type="f">sinnen</rhyme>,</l>
+        <l id="s3:l3" met="5" type="+-">Sijn verkeert, an liefdens cracht <rhyme label="c" type="m">ontbloot</rhyme>,</l>
+        <l id="s3:l4" met="3" type="+-">Die my had' <rhyme label="a" type="f" corresp="#s3:l1">vercooren</rhyme>,</l>
+        <l id="s3:l5" met="3" type="+-">Staackt sijn yvrend' <rhyme label="b" type="f" corresp="#s3:l2">Minnen</rhyme></l>
+        <l id="s3:l6" met="5" type="+-">Nu hy, laas! Ontreynicht heeft mijn <rhyme label="c" type="m" corresp="#s3:l3">schoot</rhyme>,</l>
+        <l id="s3:l7" met="5" type="-+">Ha snoo de Prins, verdelger van mijn <rhyme label="d" type="m">eer</rhyme>,</l>
+        <l id="s3:l8" met="6" type="-+">Ontvlieden meucht ghy my maar Iupijn <rhyme label="d" type="m" corresp="#s3:l7">nimmermeer</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="+-">Eerlievende <rhyme label="a" type="f">benden</rhyme>,</l>
+        <l id="s4:l2" met="3" type="+-">Acht geen Minnaars <rhyme label="b" type="f">sweeren</rhyme>,</l>
+        <l id="s4:l3" met="5" type="+-">Haar beloft is losser als de <rhyme label="c" type="m">Wint</rhyme>,</l>
+        <l id="s4:l4" met="3" type="+-">Comt u herwaarts <rhyme label="a" type="f" corresp="#s4:l1">wenden</rhyme></l>
+        <l id="s4:l5" met="3" type="+-">Om van my te <rhyme label="b" type="f" corresp="#s4:l2">leeren</rhyme>,</l>
+        <l id="s4:l6" met="5" type="+-">Domme jeugt: Versint eer ghy <rhyme label="c" type="m" corresp="#s4:l3">begint</rhyme>;</l>
+        <l id="s4:l7" met="5" type="-+">Pluckt trouwens vrucht niet voor verknochte <rhyme label="d" type="m">trouw</rhyme>,</l>
+        <l id="s4:l8" met="6" type="-+">So krijght gy met Diaan geen knaagend' <rhyme label="d" type="m" corresp="#s4:l7">naberouw</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

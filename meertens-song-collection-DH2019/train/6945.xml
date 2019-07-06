@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6945</id>
+    <date>
+      <year-start>1627</year-start>
+      <year-end>1627</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+    </tags>
+    <melody>Amarylletje mijn vriendin</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="amusement">vermaak</category>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Willem Dirckszoon Hooft, Jan Jansz. Starter, Jacob Westerbaen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">NV Ionghelingen zijt ghy <rhyme label="a" type="m">cranck</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Dat ghy niet meer beproeft den <rhyme label="a" type="m" corresp="#s1:l1">dranck</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">Drinckt op gesontheyt van de <rhyme label="b" type="m">Bruyt</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">En Bruydegom desen Roomer <rhyme label="b" type="m" corresp="#s1:l3">uyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">I. Wel, dit neem ick daer op <rhyme label="a" type="m">aen</rhyme>:</l>
+        <l id="s2:l2" met="4" type="-+">Siet Buyrman wat ick heb <rhyme label="a" type="m" corresp="#s2:l1">ghelaen</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Dit gaet op de gesontheyt <rhyme label="b" type="m">om</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Van de Bruyt en den <rhyme label="b" type="m" corresp="#s2:l3">Bruydegom</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Naeste Buyrtjes soete <rhyme label="a" type="m">Paer</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Wy twee wy brenghen 't u te <rhyme label="a" type="m" corresp="#s3:l1">gaer</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Ziet wat ick aen mijn mont <rhyme label="b" type="m">doe</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Dit ghelt u tot den gronde <rhyme label="b" type="m" corresp="#s3:l3">toe</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">I. Laet sien wat op den bodem <rhyme label="a" type="m">leyt</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Men sal u doen, bylo, <rhyme label="a" type="m" corresp="#s4:l1">bescheyt</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Wat, wat, ghy leppert al te <rhyme label="b" type="m">langh</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Dat ick 't ick gingh een ander <rhyme label="b" type="m" corresp="#s4:l3">gangh</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">I. Iae mijn vrient twaer lang <rhyme label="a" type="m">gheschiet</rhyme>:</l>
+        <l id="s5:l2" met="4" type="-+">Maer siet mijn helpster helpt my <rhyme label="a" type="m" corresp="#s5:l1">niet</rhyme>.</l>
+        <l id="s5:l3" met="4" type="-+">Ia wis? hy schuyft het al op <rhyme label="b" type="m">mijn</rhyme>.</l>
+        <l id="s5:l4" met="4" type="-+">En kacht ick drinck de meeste <rhyme label="b" type="m" corresp="#s5:l3">wijn</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">I. Wel moet ick daer aen, sa, <rhyme label="a" type="m">sa</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Soo set ick daer mijn lichaem <rhyme label="a" type="m" corresp="#s6:l1">nae</rhyme>.</l>
+        <l id="s6:l3" met="4" type="-+">Siet vrient, dus hangje hant aen <rhyme label="b" type="m">hant</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">De klocke in ons <rhyme label="b" type="m" corresp="#s6:l3">Vaderlant</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Nu schenckt daer wederom wat <rhyme label="a" type="m">in</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Soot gheweest is, meer noch <rhyme label="a" type="m" corresp="#s7:l1">min</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Want ick begheer voorsekert <rhyme label="b" type="m">niet</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">Dat ons meer recht als haer <rhyme label="b" type="m" corresp="#s7:l3">geschiet</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Ter eeren Bruyt en <rhyme label="a" type="m">Bruydegom</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">Hiet desen Roomer <rhyme label="a" type="m" corresp="#s8:l1">wellekom</rhyme>,</l>
+        <l id="s8:l3" met="4" type="-+">En doet gelijck ick heb <rhyme label="b" type="m">gedaen</rhyme>,</l>
+        <l id="s8:l4" met="4" type="-+">Soo sult ghy grooten danck <rhyme label="b" type="m" corresp="#s8:l3">begaen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

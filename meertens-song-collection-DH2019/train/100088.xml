@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100088</id>
+    <date>
+      <year-start>1652</year-start>
+      <year-end>1652</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Arnold Bon</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">QUoy pensez vous belle <rhyme label="a" type="m">Cloris</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Qu'on baiser esteigne ma <rhyme label="b" type="f">flame</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Et que le tourmens de mon <rhyme label="b" type="f" corresp="#s1:l2">ame</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Soyent si facilement <rhyme label="a" type="m" corresp="#s1:l1">gueris</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Ce n'est pas Cloris un <rhyme label="c" type="m">baiser</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Qui pourra mes maux <rhyme label="c" type="m" corresp="#s1:l5">apaiser</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Plus vos baisers sont <rhyme label="a" type="m">Amoureux</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Plus mon ardeurr est <rhyme label="b" type="f">violente</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Et mon humeur <rhyme label="b" type="f" corresp="#s2:l2">impatiente</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Me fait soupirer dans ces <rhyme label="a" type="m" corresp="#s2:l1">feux</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Disant, Cloris un doux <rhyme label="c" type="m">baiser</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Ne scauroit mon mal <rhyme label="c" type="m" corresp="#s2:l5">áspaiser</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

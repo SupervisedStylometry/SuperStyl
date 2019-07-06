@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>161865</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Als Bacchus eerst ter wereld is gekomen</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Schoone, wild dit glas <rhyme label="a" type="f">aanvaarden</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Gevuld met Baggus edel <rhyme label="b" type="m">vogt</rhyme>;</l>
+        <l id="s1:l3" met="4" type="+-">Dees wyn, het soetst   gewas op <rhyme label="a" type="f" corresp="#s1:l1">aarde</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Zy uw hertgrondig <rhyme label="b" type="m" corresp="#s1:l2">toegebrogt</rhyme>;</l>
+        <l id="s1:l5" met="5" type="+-">Proefd haar schoone smaak, Siet haar frisse <rhyme label="c" type="m">kleur</rhyme>:</l>
+        <l id="s1:l6" met="4" type="+-">Sy braveerd der goden Nektar <rhyme label="c" type="m" corresp="#s1:l5">geur</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Gund my dat ik <rhyme label="a" type="f">ondertusschen</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Uwe honing soete <rhyme label="b" type="m">mond</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Mag tot mijn vernoegen <rhyme label="a" type="f" corresp="#s2:l1">kussen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Die soo vele herten <rhyme label="b" type="m" corresp="#s2:l2">wond</rhyme>:</l>
+        <l id="s2:l5" met="5" type="+-">Dus eerd men de min, Wyl dees dronk, vol <rhyme label="c" type="m">vreugd</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Door haar smaak het hert volmaakt <rhyme label="c" type="m" corresp="#s2:l5">verheugd</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

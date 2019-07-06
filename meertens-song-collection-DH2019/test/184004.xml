@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184004</id>
+    <date>
+      <year-start>1806</year-start>
+      <year-end>1806</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Je vais te voir charmante Lise</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Que dans ce cbarmant <rhyme label="a" type="f">azile</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">On passe d'heureux <rhyme label="b" type="m">momens</rhyme>!</l>
+        <l id="s1:l3" met="4" type="+-">Notre ame pure et <rhyme label="a" type="f" corresp="#s1:l1">tranquille</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Y goute mille <rhyme label="b" type="m" corresp="#s1:l2">agrémens</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">La vertu nous y <rhyme label="c" type="f">contemple</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Mettre les vices aux <rhyme label="d" type="m">fers</rhyme>.</l>
+        <l id="s1:l7" met="4" type="+-">Que nos lois servent <rhyme label="c" type="f" corresp="#s1:l5">d'exemple</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Au reste de <rhyme label="d" type="m" corresp="#s1:l6">l'univers</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">La discorde <rhyme label="a" type="f">impitoyable</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">N'y trouble point nos <rhyme label="b" type="m">plaisirs</rhyme>;</l>
+        <l id="s2:l3" met="4" type="+-">Une amitié <rhyme label="a" type="f" corresp="#s2:l1">véritable</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Y regle tous nos <rhyme label="b" type="m" corresp="#s2:l2">desirs</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">De l'erreur qui nous <rhyme label="c" type="f">condamne</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">On y creuse le <rhyme label="d" type="m">tombeau</rhyme>;</l>
+        <l id="s2:l7" met="4" type="+-">Parmi nous l'amour <rhyme label="c" type="f" corresp="#s2:l5">profane</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">N'allume point son <rhyme label="d" type="m" corresp="#s2:l6">flambeau</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Le vulgaire envain <rhyme label="a" type="f">s'offense</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">De notre <rhyme label="b" type="m">discrétion</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Nous trouvons dans le <rhyme label="a" type="f" corresp="#s3:l1">silence</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Le sceau de notre <rhyme label="b" type="m" corresp="#s3:l2">union</rhyme>.</l>
+        <l id="s3:l5" met="4" type="+-">C'est pour éloigner le <rhyme label="c" type="f">vice</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Que nos temples sont <rhyme label="d" type="m">couverts</rhyme>;</l>
+        <l id="s3:l7" met="4" type="+-">Mais aux coeurs sans <rhyme label="c" type="f" corresp="#s3:l5">artifice</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">Ils sont promptement <rhyme label="d" type="m" corresp="#s3:l6">ouverts</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

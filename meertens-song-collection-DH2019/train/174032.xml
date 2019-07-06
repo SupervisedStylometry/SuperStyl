@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174032</id>
+    <date>
+      <year-start>1789</year-start>
+      <year-end>1789</year-end>
+    </date>
+    <tags>
+      <tag standard-name="politiek lied" translation="political song">politiek lied</tag>
+      <tag standard-name="vaderlands lied" translation="patriotic song">vaderlands lied</tag>
+    </tags>
+    <melody>Voor het vaderland en vrijheid</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Zouden Bato's waare <rhyme label="a" type="f">Zoonen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Wars van alle <rhyme label="b" type="m">Dwinglandy</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Zich nog langer laaten <rhyme label="a" type="f" corresp="#s1:l1">hoonen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Kluisteren in <rhyme label="b" type="m" corresp="#s1:l2">Slaverny</rhyme>? ---</l>
+        <l id="s1:l5" met="3" type="+-">Zou een <rhyme label="c" type="m">Aartstiran</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Met zyn <rhyme label="c" type="m" corresp="#s1:l5">Vloekgespan</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Dat op al wat braaf is <rhyme label="d" type="m">woedt</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Langer aazen op hun <rhyme label="d" type="m" corresp="#s1:l7">bloed</rhyme>! ---</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Zal men hen, als vulge <rhyme label="a" type="f">slaaven</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">In het vrye <rhyme label="b" type="m">Nederland</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Dan nog in 't gareel zien <rhyme label="a" type="f" corresp="#s2:l1">draaven</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Van een' norschen <rhyme label="b" type="m" corresp="#s2:l2">Dwingeland</rhyme>;</l>
+        <l id="s2:l5" met="3" type="+-">Slegts ten steun en <rhyme label="c" type="m">spot</rhyme></l>
+        <l id="s2:l6" met="3" type="+-">Van een <rhyme label="c" type="m" corresp="#s2:l5">Beulen-rot</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">Dat, met toomeloos <rhyme label="d" type="m">geweld</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">De onschuld in zyn moedwil <rhyme label="d" type="m" corresp="#s2:l7">velt</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Neen --- hun hart klopt nog, met <rhyme label="a" type="f">blyheid</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Voor ons allerdierbaarst <rhyme label="b" type="m">pand</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Voor de zo onschatbre <rhyme label="a" type="f" corresp="#s3:l1">Vryheid</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Van 't gezegend <rhyme label="b" type="m" corresp="#s3:l2">Vaderland</rhyme>! ---</l>
+        <l id="s3:l5" met="3" type="+-">Beef dus, <rhyme label="c" type="m">Aterling</rhyme>!</l>
+        <l id="s3:l6" met="3" type="+-">Voor der Braaven <rhyme label="c" type="m" corresp="#s3:l5">kling</rhyme>;</l>
+        <l id="s3:l7" met="4" type="+-">Beef, wen hun gerechte <rhyme label="d" type="m">wraak'</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">Aan uw trots een einde <rhyme label="d" type="m" corresp="#s3:l7">maak'</rhyme>! ---</l>
+      </lg>
+    </lg>
+  </text>
+</song>

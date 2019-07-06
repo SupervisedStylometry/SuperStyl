@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2114</id>
+    <date>
+      <year-start>1674</year-start>
+      <year-end>1674</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="hemelvaartslied" translation="Ascension of Our Lord song">hemelvaartslied</tag>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+    </tags>
+    <melody>Quam Mariam dulcibus</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">GOdt myn' Liefde klimt naer 's Hemels <rhyme label="a" type="f">Salen</rhyme>,</l>
+        <l id="s1:l2" met="5" type="+-">Komt ô Sterren uwen Heer' <rhyme label="a" type="f" corresp="#s1:l1">in-halen</rhyme>,</l>
+        <l id="s1:l3" met="5" type="+-">Komt ô Son met uwen gulden <rhyme label="b" type="f">Waghen</rhyme>,</l>
+        <l id="s1:l4" met="5" type="+-">Om myn' Liefde naer syn Ryck te <rhyme label="b" type="f" corresp="#s1:l3">draghen</rhyme>;</l>
+        <l id="s1:l5" met="6" type="+-">En ghy lieve Enghels haelt den Winnaer <rhyme label="c" type="m">al-ghelyck</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Met Trompetten’ En <rhyme label="d" type="f">Cornetten</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">In syn Hemels <rhyme label="c" type="m" corresp="#s1:l5">Koningh-ryck</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Al d'Oudt-Vaders die Godt liefde <rhyme label="a" type="f">draghen</rhyme></l>
+        <l id="s2:l2" met="5" type="+-">Volghen synen Triumphanten <rhyme label="a" type="f" corresp="#s2:l1">Waghen</rhyme>:</l>
+        <l id="s2:l3" met="5" type="+-">Laet ons vieren, laet ons staken <rhyme label="b" type="f">maken</rhyme>,</l>
+        <l id="s2:l4" met="5" type="+-">Laet ons herten voor peck-tonnen <rhyme label="b" type="f" corresp="#s2:l3">blaken</rhyme>,</l>
+        <l id="s2:l5" met="6" type="+-">Laet den vier-pyl schieten van een vierigh <rhyme label="c" type="m">Schiet-Ghebedt</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Naer de schoonste’ Hooghste <rhyme label="d" type="f">woonste</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">Van het Hemels <rhyme label="c" type="m" corresp="#s2:l5">Cabinet</rhyme>,</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">Wie sal my nu Duyve Vleughels <rhyme label="a" type="f">gheven</rhyme>,</l>
+        <l id="s3:l2" met="5" type="+-">Om met mynen Heer om-hoogh te <rhyme label="a" type="f" corresp="#s3:l1">sweven</rhyme>,</l>
+        <l id="s3:l3" met="5" type="+-">Hadd' ick Vleughels, ick soud' wyser <rhyme label="b" type="f">wesen</rhyme></l>
+        <l id="s3:l4" met="5" type="+-">Als de Duyf van Noê was voor <rhyme label="b" type="f" corresp="#s3:l3">desen</rhyme>;</l>
+        <l id="s3:l5" met="6" type="+-">Ick en soud' niet weder-keeren naer dit aerdtsche <rhyme label="c" type="m">stof</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">'k Soud' daer boven’ Blyven <rhyme label="d" type="f">loven</rhyme></l>
+        <l id="s3:l7" met="4" type="+-">Mynen Heer in 's <rhyme label="c" type="m" corresp="#s3:l5">Hemels-hof</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20934</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Conditor alme siderum</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Maria! ghy hebt <rhyme label="a" type="m">voortghebracht</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Heer Iesum, die was langh <rhyme label="a" type="m" corresp="#s1:l1">verwacht</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Die d'open Poort des Hemels <rhyme label="b" type="m">blijft</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Die met u bidden ons gerijst. Die <rhyme label="b" type="m" corresp="#s1:l3">d'open</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die ons' Verlosser hebt <rhyme label="a" type="m">gebaert</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">D'Heer van den Hemel, en van de <rhyme label="a" type="m" corresp="#s2:l1">aerd'</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Die zijt de Starr' des werelts <rhyme label="b" type="m">Zee</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Wiens Soon ons lost van 't eeuwich <rhyme label="b" type="m" corresp="#s2:l3">wee</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Uw' oogen slaet uyt 's Hemels <rhyme label="a" type="m">wolck</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Te hulpe komt het vallend' <rhyme label="a" type="m" corresp="#s3:l1">volck</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">“'t Welck op te staen soeckt uyt sijn <rhyme label="b" type="m">quaedt</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">'t Welck rouw verweckt van sijn <rhyme label="b" type="m" corresp="#s3:l3">misdaedt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ghy, die gebaert hebt <rhyme label="a" type="m">wonderlijcke</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Den Schepper, die ons schiep uyt <rhyme label="a" type="m" corresp="#s4:l1">slijck</rhyme>;</l>
+        <l id="s4:l3" met="4" type="-+">Die Maeght gebleven zijt <rhyme label="b" type="m">altijdt</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Die zijt geweest van sond' <rhyme label="b" type="m" corresp="#s4:l3">bevrijdt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Aen wien den Engel <rhyme label="a" type="m">Gabriel</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Geboodtschapt heeft na Godts <rhyme label="a" type="m" corresp="#s5:l1">bevel</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Dat Godes Soon sou worden <rhyme label="b" type="m">vleys</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Die vreden maecken quam, en <rhyme label="b" type="m" corresp="#s5:l3">peys</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">De Sondaers (Moeder-Godts!) <rhyme label="a" type="m">ontfermt</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">De Sondaers van de hell' <rhyme label="a" type="m" corresp="#s6:l1">beschermt</rhyme>:</l>
+        <l id="s6:l3" met="4" type="-+">De Sondaer by uw' Soon <rhyme label="b" type="m">gedenckt</rhyme>;</l>
+        <l id="s6:l4" met="4" type="-+">De Sondaers in den Hemel <rhyme label="b" type="m" corresp="#s6:l3">brenckt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

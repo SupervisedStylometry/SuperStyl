@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100111</id>
+    <date>
+      <year-start>1652</year-start>
+      <year-end>1652</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Ach schoonste nimf aanzie</melody>
+  <author>Arnold Bon</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">VErsmaat gy noch, mijn Cypersch <rhyme label="a" type="f">Afgodinne</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">De klachten, die mijn <rhyme label="b" type="m">Min</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">Al zuchtend zent by nacht, ten venster <rhyme label="a" type="f" corresp="#s1:l1">inne</rhyme>?</l>
+        <l id="s1:l4" met="3" type="-+">Daar gy en 't <rhyme label="b" type="m" corresp="#s1:l2">Hofgezin</rhyme></l>
+        <l id="s1:l5" met="5" type="-+">Bespot, belacht die Minnelijcke <rhyme label="c" type="f">toonen</rhyme>;</l>
+        <l id="s1:l6" met="4" type="-+">De banden, die zo hart en <rhyme label="d" type="m">duir</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">My smooren in mijn eigen <rhyme label="d" type="m" corresp="#s1:l6">vuir</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Gena, mijn <rhyme label="c" type="f" corresp="#s1:l5">Schoone</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Staat geen gena voor mijn ellenden <rhyme label="a" type="f">open</rhyme>!</l>
+        <l id="s2:l2" met="3" type="-+">Zo zal een leide <rhyme label="b" type="m">strik</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Een beulsche strop, doen einden al mijn <rhyme label="a" type="f" corresp="#s2:l1">hoopen</rhyme>.</l>
+        <l id="s2:l4" met="3" type="-+">Ai Minnaresse, <rhyme label="b" type="m" corresp="#s2:l2">schrik</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Schrik Moorderes! en beef,  wanneer de <rhyme label="c" type="f">schimme</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Eens trouwsten Minnaars om u <rhyme label="d" type="m">zal</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Staag waren, spoken <rhyme label="d" type="m" corresp="#s2:l6">overal</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Met yslijk <rhyme label="c" type="f" corresp="#s2:l5">grimmen</rhyme>:</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">De Wraak-godes, gansch schrikkelijk <rhyme label="a" type="f">vervolgen</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Die geessel u <rhyme label="b" type="m">gemoet</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Enn wil die minnelooze Ziel <rhyme label="a" type="f" corresp="#s3:l1">vervolgen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Tot uw hovaardig <rhyme label="b" type="m" corresp="#s3:l2">bloet</rhyme>,</l>
+        <l id="s3:l5" met="5" type="-+">Oy 't Altaar van de Schuim-godes <rhyme label="c" type="f">vergeten</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Of in uw Aderen <rhyme label="d" type="m">verhert</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">U naam hier uytgespogen <rhyme label="d" type="m" corresp="#s3:l6">wert</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">Dan klein en <rhyme label="c" type="f" corresp="#s3:l5">grooten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

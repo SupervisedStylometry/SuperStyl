@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>161153</id>
+    <date>
+      <year-start>1698</year-start>
+      <year-end>1698</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Nu loof de Heer mijn trage ziel</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">NU loof den Heer myn traage <rhyme label="a" type="m">ziel</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En al wat in my doch mach <rhyme label="b" type="f">weezen</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Loof uwen Heer, voor wien ik <rhyme label="a" type="m" corresp="#s1:l1">kniel</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Met eerbied en heil'ge <rhyme label="b" type="f" corresp="#s1:l2">vreezen</rhyme>:</l>
+        <l id="s1:l5" met="6" type="-+">Laat het goede, doch nooit, dat hy u heeft <rhyme label="c" type="m">gedaan</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Uit uw gedachten <rhyme label="c" type="m" corresp="#s1:l5">gaan</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Toen gy by na te smooren <rhyme label="a" type="m">dacht</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">En in uwe droefheyd te <rhyme label="b" type="f">sterven</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Toen gy, als in een duyst're <rhyme label="a" type="m" corresp="#s2:l1">nacht</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">'t Licht van uwen Heer moest <rhyme label="b" type="f" corresp="#s2:l2">derven</rhyme>,</l>
+        <l id="s2:l5" met="6" type="-+">Toen heeft hy u verlost uit angst en uit de <rhyme label="c" type="m">nood</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Gered van hel en <rhyme label="c" type="m" corresp="#s2:l5">dood</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Dies looft den Heer, myn traage <rhyme label="a" type="m">ziel</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">En al wat in my doch mach <rhyme label="b" type="f">weezen</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">Loof, uwen Heer, voor wien ik <rhyme label="a" type="m" corresp="#s3:l1">kniel</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Met eerbied en heil'ge <rhyme label="b" type="f" corresp="#s3:l2">vreezen</rhyme>:</l>
+        <l id="s3:l5" met="6" type="-+">Laat het goede, doch nooit, dat hy u heeft <rhyme label="c" type="m">gedaan</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Uit uw gedachten <rhyme label="c" type="m" corresp="#s3:l5">gaan</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

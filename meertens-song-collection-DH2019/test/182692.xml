@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182692</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Le coeur de mon Annette</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Wiens lust zoudt gy niet <rhyme label="a" type="f">noopen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Lief Roosje! zagt van <rhyme label="b" type="m">blaên</rhyme>!</l>
+        <l id="s1:l3" met="3" type="-+">Half toe en half reeds <rhyme label="a" type="f" corresp="#s1:l1">open</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Lacht gy my lieflyk <rhyme label="b" type="m" corresp="#s1:l2">aan</rhyme>!</l>
+        <l id="s1:l5" met="2" type="-+">Doch schoon ge u <rhyme label="c" type="m">ziet</rhyme></l>
+        <l id="s1:l6" met="5" type="-+">Nog frisch bedaauwt, door koeltjes zagt <rhyme label="d" type="m">ontmoet</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Ontsluit u <rhyme label="c" type="m" corresp="#s1:l5">niet</rhyme>,</l>
+        <l id="s1:l8" met="5" type="-+">Of gy verschroeit wel haast door hette en <rhyme label="d" type="m" corresp="#s1:l6">gloed</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">In d' ochtend van myn <rhyme label="a" type="f">leven</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Den Roozeknop <rhyme label="b" type="m">gelyk</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Bloei ik door lust <rhyme label="a" type="f" corresp="#s2:l1">gedreeven</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">En steeds aan wenschen <rhyme label="b" type="m" corresp="#s2:l2">ryk</rhyme>:</l>
+        <l id="s2:l5" met="2" type="-+">Maar zoo 't <rhyme label="c" type="m">gemoed</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">Zig oopent voor begeerte of wellusts <rhyme label="d" type="m">schyn</rhyme>,</l>
+        <l id="s2:l7" met="2" type="-+">Dan zengt die <rhyme label="c" type="m" corresp="#s2:l5">gloed</rhyme></l>
+        <l id="s2:l8" met="5" type="-+">En 't jeudig hart verwelkt zeer ras in <rhyme label="d" type="m" corresp="#s2:l6">pyn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

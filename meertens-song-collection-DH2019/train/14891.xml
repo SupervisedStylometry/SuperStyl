@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14891</id>
+    <date>
+      <year-start>1622</year-start>
+      <year-end>1622</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Questa dolce sirena</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">MYn schoon hoe dus <rhyme label="a" type="m">alleen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Waer wild’ ghy heenn <rhyme label="a" type="m" corresp="#s1:l1">treen</rhyme>,</l>
+        <l id="s1:l3" met="6" type="+-">Sonder die, ick die bie // myn <rhyme label="b" type="f">siele</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Tot uwen diens <rhyme label="a" type="m" corresp="#s1:l1">ghemeen</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Sal ick u arme <rhyme label="c" type="m">slaaf</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">My niet buyghen om u <rhyme label="c" type="m" corresp="#s1:l5">gaaf</rhyme></l>
+        <l id="s1:l7" met="6" type="+-">Die u lust // is syn rust // en u <rhyme label="b" type="f" corresp="#s1:l3">wille</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Is al syn levens <rhyme label="c" type="m" corresp="#s1:l5">haaf</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Kom gaen wy Veldwaerts <rhyme label="a" type="m">in</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">’tSaem kuy’ren myn <rhyme label="a" type="m" corresp="#s2:l1">Goddin</rhyme>,</l>
+        <l id="s2:l3" met="6" type="+-">Siet het weer // nood ons seer // te <rhyme label="b" type="f">vermaaken</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">En verheughen onse <rhyme label="a" type="m" corresp="#s2:l1">sin</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Ay! myn schoon treed wat <rhyme label="c" type="m">aen</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Wild’ doch niet blyven <rhyme label="c" type="m" corresp="#s2:l5">staen</rhyme>,</l>
+        <l id="s2:l7" met="6" type="+-">Want de lust // port de rust // te <rhyme label="b" type="f" corresp="#s2:l3">ghenaaken</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Daer al ons weelden <rhyme label="c" type="m" corresp="#s2:l5">gaen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Hoe vaynsje soo u <rhyme label="a" type="m">vreughd</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Al even of u <rhyme label="a" type="m" corresp="#s3:l1">jeughd</rhyme></l>
+        <l id="s3:l3" met="6" type="+-">Waer verkeert, en verheerd, door veul <rhyme label="b" type="f">quaale</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Maer Neen Goddin je <rhyme label="a" type="m" corresp="#s3:l1">meught</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">V houden groots en <rhyme label="c" type="m">weert</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Ick weet doch wat u <rhyme label="c" type="m" corresp="#s3:l5">deert</rhyme>,</l>
+        <l id="s3:l7" met="6" type="+-">V vermoen // en u doen // is te <rhyme label="b" type="f" corresp="#s3:l3">maale</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Verachten die u <rhyme label="c" type="m" corresp="#s3:l5">eert</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

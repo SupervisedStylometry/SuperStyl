@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100133</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Kom af tot mij godin</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">Ha Goden! wat een rou is 't dat men voor zyn <rhyme label="a" type="f">oogen</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Hoe dat een aar zyn Vrou komt vryen, moet <rhyme label="a" type="f" corresp="#s1:l1">gedogen</rhyme>,</l>
+        <l id="s1:l3" met="6" type="-+">Ik wou veel liever poogen het zonne ligt <rhyme label="b" type="m">t'ontvliên</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Als dat veel meer te <rhyme label="b" type="m" corresp="#s1:l3">zien</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

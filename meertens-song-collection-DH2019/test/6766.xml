@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6766</id>
+    <date>
+      <year-start>1620</year-start>
+      <year-end>1620</year-end>
+    </date>
+    <location>
+      <orginal-name>gent</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="sonnet" translation="sonnet">sonnet</tag>
+    </tags>
+    <melody>Helaas van dat ik kwam</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">HElaes! Helaes! ick moet al weenende <rhyme label="a" type="f">beclaeghen</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Dat ick in aerdsche liefd den tijdt hebb’ <rhyme label="b" type="m">overbraght</rhyme>:</l>
+        <l id="s1:l3" met="6" type="-+">Sonder te stieren eens ten Hemel mijn <rhyme label="b" type="m" corresp="#s1:l2">ghedacht</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Of sonder van yet goed’s  een voor-bewijs te <rhyme label="a" type="f" corresp="#s1:l1">waeghen</rhyme>.</l>
+        <l id="s1:l5" met="6" type="-+">O Iesu goedertier! die zoo veel hebt <rhyme label="a" type="f" corresp="#s1:l1">verdraeghen</rhyme>:</l>
+        <l id="s1:l6" met="6" type="-+">Die in u dierbaer bloed, de sonden hebt <rhyme label="b" type="m" corresp="#s1:l2">versmacht</rhyme>;</l>
+        <l id="s1:l7" met="6" type="-+">My Sondaer dogh verheft uyt de vuylheydt <rhyme label="b" type="m" corresp="#s1:l2">veracht</rhyme></l>
+        <l id="s1:l8" met="6" type="-+">Met ‘tHert een Hemel-waert, om u zoo te <rhyme label="a" type="f" corresp="#s1:l1">behaeghen</rhyme>.</l>
+        <l id="s1:l9" met="6" type="-+">Al ist dat mijne jeughd glat, broos, wildt ende <rhyme label="c" type="m">sot</rhyme></l>
+        <l id="s1:l10" met="6" type="-+">Teghen het oogh-loos kindt gheworpen heeft het <rhyme label="c" type="m" corresp="#s1:l9">lot</rhyme>,</l>
+        <l id="s1:l11" met="6" type="+-">En somtijts met het self’ ter weerelt <rhyme label="d" type="f">inghevaeren</rhyme>;</l>
+        <l id="s1:l12" met="6" type="-+">Laet my van verre sien den blijden <rhyme label="e" type="m">haeven-schoot</rhyme>,</l>
+        <l id="s1:l13" met="6" type="-+">Daer eens met goeden windt magh aenslaen mijnen <rhyme label="e" type="m" corresp="#s1:l12">boot</rhyme>,</l>
+        <l id="s1:l14" met="6" type="-+">Al waer ghy dien altoos in ruste meught <rhyme label="d" type="f" corresp="#s1:l11">bewaeren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>7010</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>gent</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 133 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Lucas de Heere</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">OCh ziet hoe schoon lieflick en <rhyme label="a" type="f">anghename</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Eyst t'anschauwen dat in accord <rhyme label="a" type="f" corresp="#s1:l1">bequame</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Broeders tsamen wonende zijn! Tis als <rhyme label="b" type="m">een</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">vutghestorte zalue fijn Op Aarons <rhyme label="b" type="m" corresp="#s1:l3">hooft</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">die van den baerd vloyt voort Tot in <rhyme label="c" type="m">de</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">cleeren, en den <rhyme label="c" type="m" corresp="#s1:l5">boort</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Dit is ooc by den dau wel te <rhyme label="a" type="f">ghelijcken</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Die op den bergh Hermon valt alst magh <rhyme label="a" type="f" corresp="#s2:l1">blijckē</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">En op die berghen Syon <rhyme label="b" type="m">daelt</rhyme>.</l>
+        <l id="s2:l4" met="5" type="-+">Daer al zulck' eendrachticheyt niet en <rhyme label="b" type="m" corresp="#s2:l3">faelt</rhyme></l>
+        <l id="s2:l5" met="5" type="-+">Heeft den Heere zijnen seghen <rhyme label="c" type="m">gheleyt</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Om leuen inder <rhyme label="c" type="m" corresp="#s2:l5">eeuwicheyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

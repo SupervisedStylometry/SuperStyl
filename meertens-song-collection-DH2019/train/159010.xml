@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>159010</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Alhier auf diesem Platz</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Climeen, is't waar of <rhyme label="a" type="m">droom</rhyme>;</l>
+        <l id="s1:l2" met="3" type="-+">Ik nader maar met <rhyme label="a" type="m" corresp="#s1:l1">schroom</rhyme>.</l>
+        <l id="s1:l3" met="3" type="+-">Is't ernst? lieve <rhyme label="b" type="m">Maagd</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Dat gy my Liefde <rhyme label="b" type="m" corresp="#s1:l3">draagd</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">En zult gy, ô! <rhyme label="c" type="m">Climeen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Met my in d'echt gaan <rhyme label="c" type="m" corresp="#s1:l5">treen</rhyme>?</l>
+        <l id="s1:l7" met="3" type="-+">Zo gun, dat ik <rhyme label="d" type="m">genaak</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Uw malsche <rhyme label="d" type="m" corresp="#s1:l7">Rozekaak</rhyme>:</l>
+        <l id="s1:l9" met="3" type="-+">En met een teed'ren <rhyme label="e" type="m">kus</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">Myn vlam een weinig <rhyme label="e" type="m" corresp="#s1:l9">blus</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

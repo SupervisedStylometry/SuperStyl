@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>33841</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
+    </tags>
+    <melody>Het viel een hemelse dauw</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacob Rosant</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">HEt Heyligh aen de <rhyme label="a" type="f">Honden</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">En wilt dogh geeven <rhyme label="b" type="m">niet</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Nogh ook voor Verkens <rhyme label="a" type="f" corresp="#s1:l1">monden</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">En smakt den <rhyme label="b" type="m" corresp="#s1:l2">Margariet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Dat sy die niet <rhyme label="a" type="f">besmeuren</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">En treeden met de <rhyme label="b" type="m">voet</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Of u misschien <rhyme label="a" type="f" corresp="#s2:l1">verscheuren</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Verkeert met boosen <rhyme label="b" type="m" corresp="#s2:l2">moet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

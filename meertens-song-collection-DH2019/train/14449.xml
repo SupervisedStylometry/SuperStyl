@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14449</id>
+    <date>
+      <year-start>1638</year-start>
+      <year-end>1638</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody>O salutaris hostia</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Aegidius Haeffacker</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Alderhooghste <rhyme label="a" type="m">Sacrament</rhyme>!</l>
+        <l id="s1:l2" met="4" type="-+">Blijft met uw' gracy sonder <rhyme label="a" type="m" corresp="#s1:l1">endt</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">In 't binnenste van dese <rhyme label="b" type="m">ziel</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">En maecktse van gebreken <rhyme label="b" type="m" corresp="#s1:l3">iel</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ghy zijt mijn Godt, ghy zijt mijn <rhyme label="a" type="m">Heer</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Die wt den Hemel daelde <rhyme label="a" type="m" corresp="#s2:l1">neer</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">In 't diepste van een <rhyme label="b" type="m">Maeghde-schoot</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Om my te strecken tot een <rhyme label="b" type="m" corresp="#s2:l3">broodt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Maer 't broodt 't welck van den Hemel <rhyme label="a" type="m">quam</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">En 's wereldts sonden op hem <rhyme label="a" type="m" corresp="#s3:l1">nam</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Waerachtigh vlees, waerachtigh <rhyme label="b" type="m">bloet</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Van Jesus onsen Harder <rhyme label="b" type="m" corresp="#s3:l3">goet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">O Hemels broodt! O Eng'len <rhyme label="a" type="m">kost</rhyme>!</l>
+        <l id="s4:l2" met="4" type="-+">Die door uw' doodt ons hebt <rhyme label="a" type="m" corresp="#s4:l1">verlost</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">Gundt dat ick u te recht <rhyme label="b" type="m">verweer</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">En gantsch'lijck my in u <rhyme label="b" type="m" corresp="#s4:l3">bekeer</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Verbetert mijn bedorven <rhyme label="a" type="m">smaeck</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">En streckt my tot geen <rhyme label="a" type="m" corresp="#s5:l1">tegen-spraeck</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Sulcks ghy in desen droeven <rhyme label="b" type="m">tijdt</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Helaes! Den nieuw-gesinden <rhyme label="b" type="m" corresp="#s5:l3">zijt</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">'t Is reden, dat uw' lieve <rhyme label="a" type="m">min</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Mijn hant, mijn oogh, mijn tongh <rhyme label="a" type="m" corresp="#s6:l1">verwin</rhyme>:</l>
+        <l id="s6:l3" met="4" type="-+">En dat ick onder het <rhyme label="b" type="m">ghetuygh</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Uw's heylighs woordts mijn sinnen <rhyme label="b" type="m" corresp="#s6:l3">buygh</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Ghy zijt de blijdtschap van mijn <rhyme label="a" type="m">jeught</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">Vervult mijn siel met alle <rhyme label="a" type="m" corresp="#s7:l1">deught</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Met yver, en <rhyme label="b" type="m">ghehoorsaemheydt</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Met kuysheyt, en <rhyme label="b" type="m" corresp="#s7:l3">ootmoedigheydt</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Neemt van my, al wat u <rhyme label="a" type="m">mishaeght</rhyme>,</l>
+        <l id="s8:l2" met="4" type="-+">Wat ghy verbiet, wat ghy <rhyme label="a" type="m" corresp="#s8:l1">beklaeght</rhyme>:</l>
+        <l id="s8:l3" met="4" type="-+">Op dat ick eens door dese <rhyme label="b" type="m">spijs</rhyme></l>
+        <l id="s8:l4" met="4" type="-+">Bekomen magh het <rhyme label="b" type="m" corresp="#s8:l3">Paradijs</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

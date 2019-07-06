@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8848</id>
+    <date>
+      <year-start>1625</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Aus tiefer Not schrei ich zu dir</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GOdt haest om te Verlossen <rhyme label="a" type="m">my</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Maect schaemroot mijn <rhyme label="b" type="f">Vyanden</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Die my veel quaets wenschen, laet <rhyme label="a" type="m" corresp="#s1:l1">sy</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Te Rugghe gaen met <rhyme label="b" type="f" corresp="#s1:l2">schanden</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Laet werden in de Vlucht <rhyme label="c" type="m">ghewendt</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">End' oock nae haer Boosheyt <rhyme label="c" type="m" corresp="#s1:l5">geschent</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Die over my so <rhyme label="d" type="f">schimpen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Maer laetse in dy vrolijck <rhyme label="a" type="m">zijn</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Die dy van Herten <rhyme label="b" type="f">soecken</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En die dijn Heyl beminnen <rhyme label="a" type="m" corresp="#s2:l1">fijn</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Godt Loven t'Allen <rhyme label="b" type="f" corresp="#s2:l2">Hoecken</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Want Arm end' Elendich ick <rhyme label="c" type="m">sy</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Dijns ick behoeff, HEer help doch <rhyme label="c" type="m" corresp="#s2:l5">my</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Mijn Godt niet langh' <rhyme label="d" type="f">vertoeve</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

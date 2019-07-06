@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>119006</id>
+    <date>
+      <year-start>1745</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Schoon dat ik onder het groen</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Iris quel heureux <rhyme label="a" type="m">jour</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Dans ces lieux plein de <rhyme label="b" type="f">charmes</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Aux millieux des <rhyme label="b" type="f" corresp="#s1:l2">Allarmes</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Ivitons y <rhyme label="a" type="m" corresp="#s1:l1">l'Amour</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Iris quel heureux <rhyme label="a" type="m" corresp="#s1:l1">jour</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">d'Un tapit de <rhyme label="c" type="f">verdure</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">d'Un ruisseau le <rhyme label="c" type="f" corresp="#s1:l6">murmure</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">De vos beaux yeux <rhyme label="d" type="m">charmant</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Qui embrasse un <rhyme label="d" type="m" corresp="#s1:l8">amant</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">Si vous voulez <rhyme label="e" type="f">Brunette</rhyme>,</l>
+        <l id="s1:l11" met="3" type="+-">Jouir d'une <rhyme label="e" type="f" corresp="#s1:l10">retraite</rhyme>,</l>
+        <l id="s1:l12" met="3" type="-+">Nous y faire <rhyme label="f" type="m">l'Amour</rhyme>,</l>
+        <l id="s1:l13" met="3" type="-+">Iris quel heureux <rhyme label="f" type="m" corresp="#s1:l12">jour</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Pour guide j'ai <rhyme label="a" type="m">l'Amour</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Sans crainte du <rhyme label="b" type="f">naufrage</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Mettons tout en <rhyme label="b" type="f" corresp="#s2:l2">usage</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Pour passer d'heureux <rhyme label="a" type="m" corresp="#s2:l1">jours</rhyme>;</l>
+        <l id="s2:l5" met="3" type="-+">Pour guide j'ai <rhyme label="a" type="m" corresp="#s2:l1">l'Amour</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Trop aimable <rhyme label="c" type="f">Climene</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Faite cessez ma <rhyme label="c" type="f" corresp="#s2:l6">peine</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Accordez à mon <rhyme label="d" type="m">coeur</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">Cet exces de <rhyme label="d" type="m" corresp="#s2:l8">faveur</rhyme>,</l>
+        <l id="s2:l10" met="3" type="-+">De brulez sans <rhyme label="e" type="f">mesure</rhyme>,</l>
+        <l id="s2:l11" met="3" type="+-">d'Une flame si <rhyme label="e" type="f" corresp="#s2:l10">pure</rhyme>,</l>
+        <l id="s2:l12" met="3" type="-+">Que le destin <rhyme label="f" type="m">jaloux</rhyme>,</l>
+        <l id="s2:l13" met="3" type="-+">Ne puisse rien sur <rhyme label="f" type="m" corresp="#s2:l12">nous</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

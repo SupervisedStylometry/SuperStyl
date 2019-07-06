@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14500</id>
+    <date>
+      <year-start>1638</year-start>
+      <year-end>1638</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>O salutaris hostia</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GEnaed o Heer! slaet van om <rhyme label="a" type="m">hoogh</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Op ons u goedertieren <rhyme label="a" type="m" corresp="#s1:l1">oogh</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Die huyden tot de rijckste <rhyme label="b" type="m">kroon</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Riep Magdalenam van uw' <rhyme label="b" type="m" corresp="#s1:l3">throon</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">'t Verlooren muntje langh <rhyme label="a" type="m">gemist</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Werd weer gedraghen in de <rhyme label="a" type="m" corresp="#s2:l1">kist</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">En 't dwalend schaep met blijde <rhyme label="b" type="m">dracht</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Tot sijn verloopen koy <rhyme label="b" type="m" corresp="#s2:l3">gebracht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">O Iesu, toevlught van de <rhyme label="a" type="m">gheen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Die met berouw' het quaet <rhyme label="a" type="m" corresp="#s3:l1">vertreen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Door een sonders, die u <rhyme label="b" type="m">bemint</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Die schult van onse sond' <rhyme label="b" type="m" corresp="#s3:l3">ontbint</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">En oock ghy moeder, die de <rhyme label="a" type="m">noot</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Wel kent van onse kranckheyt <rhyme label="a" type="m" corresp="#s4:l1">groot</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Wilt ons met u ghebedt <rhyme label="b" type="m">bystaen</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Door 't slick van dese gladde <rhyme label="b" type="m" corresp="#s4:l3">baen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Den Heer sy danck, den Heer sy <rhyme label="a" type="m">lof</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Die soo gering aen 't snoode <rhyme label="a" type="m" corresp="#s5:l1">stof</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Des sondaers, quijt-scheld schuld, en <rhyme label="b" type="m">boet</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">En naemaels geeft het hooghste <rhyme label="b" type="m" corresp="#s5:l3">goet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

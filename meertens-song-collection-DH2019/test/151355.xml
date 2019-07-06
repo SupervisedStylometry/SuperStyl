@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>151355</id>
+    <date>
+      <year-start>1755</year-start>
+      <year-end>1755</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Elk voldoet zijn lust en <rhyme label="a" type="m">smaak</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Met genoegen en <rhyme label="a" type="m" corresp="#s1:l1">vermaak</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Ik voor mij zal altoos <rhyme label="b" type="f">likken</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">En het eed'le druifnat <rhyme label="b" type="f" corresp="#s1:l3">slikken</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Dat verzet mijn druk en <rhyme label="c" type="m">pyn</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Hei! hoe lekker Hei! hoe <rhyme label="d" type="f">lekker</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Hei! hoe lekker smaakt de <rhyme label="c" type="m" corresp="#s1:l5">wijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Laat een ander by de <rhyme label="a" type="m">Meidt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Likken, Kussen, en zyn <rhyme label="a" type="m" corresp="#s2:l1">tydt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Met dat Mal-gebruy, <rhyme label="b" type="f">verkorten</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Ik, voor my, zal 't Glaasje <rhyme label="b" type="f" corresp="#s2:l3">storten</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">'t Is voor myn een <rhyme label="c" type="m">Medicyn</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Niets kan haalen, niets kan <rhyme label="d" type="f">haalen</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Niets kan haalen by de <rhyme label="c" type="m" corresp="#s2:l5">Wyn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">'k Rook myn Pypje met <rhyme label="a" type="m">gemak</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">ô! Dat eed'le <rhyme label="a" type="m" corresp="#s3:l1">Kruid-Tabak</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Streelt myn Hart, myn Ziel en <rhyme label="b" type="f">Zinnen</rhyme>;</l>
+        <l id="s3:l4" met="4" type="+-">Want, het brengt myn straks te <rhyme label="b" type="f" corresp="#s3:l3">binnen</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Dat myn dorst gelescht moet <rhyme label="c" type="m">zyn</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Met een Glaasje, met een <rhyme label="d" type="f">Glaasje</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Met een Glaasje lekkere <rhyme label="c" type="m" corresp="#s3:l5">Wyn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Ben ik op een <rhyme label="a" type="m">smulparty</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Van een Oestertje dunkt <rhyme label="a" type="m" corresp="#s4:l1">my</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Dat geen Stem kan beeter <rhyme label="b" type="f">klinken</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Als te roepen: wil eens <rhyme label="b" type="f" corresp="#s4:l3">schenken</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">Elk moet nu maar vroolyk <rhyme label="c" type="m">zyn</rhyme>;</l>
+        <l id="s4:l6" met="4" type="+-">By de Oesters, by de <rhyme label="d" type="f">Oesters</rhyme>,</l>
+        <l id="s4:l7" met="4" type="+-">By de Oesters smaakt de <rhyme label="c" type="m" corresp="#s4:l5">Wyn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

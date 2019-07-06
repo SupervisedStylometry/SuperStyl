@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20003</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Symfonia</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">AMaril mijn waerde <rhyme label="a" type="m">Son</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Gist’re eer den dagh <rhyme label="a" type="m" corresp="#s1:l1">begon</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Kreegh ick in ’t <rhyme label="b" type="m">gesicht</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Het lieve <rhyme label="b" type="m" corresp="#s1:l3">licht</rhyme></l>
+        <l id="s1:l5" met="1" type="-+">Vws <rhyme label="c" type="f">ooghen</rhyme>,</l>
+        <l id="s1:l6" met="6" type="+-">En de schoonheydt van u wel-ghemaeckte <rhyme label="d" type="m">Le’en</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Maer mits Philander ’t <rhyme label="e" type="m">Vee</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Quam weyden, neffens onse <rhyme label="f" type="f">Schapen</rhyme>.</l>
+        <l id="s1:l9" met="2" type="+-">Gingh hy <rhyme label="e" type="m" corresp="#s1:l7">mee</rhyme>.</l>
+        <l id="s1:l10" met="2" type="-+">Waer door het <rhyme label="d" type="m" corresp="#s1:l6">scheen</rhyme>,</l>
+        <l id="s1:l11" met="2" type="+-">Dat mijn <rhyme label="g" type="m">geluck</rhyme>,</l>
+        <l id="s1:l12" met="2" type="-+">Doen was in <rhyme label="g" type="m" corresp="#s1:l11">druck</rhyme></l>
+        <l id="s1:l13" met="1" type="-+"><rhyme label="f" type="f" corresp="#s1:l8">Herschapen</rhyme>,</l>
+        <l id="s1:l14" met="6" type="+-">Mits ick dacht in stilt by u te zijn <rhyme label="d" type="m" corresp="#s1:l6">alleen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Cloris, nu ’t de tijdt <rhyme label="a" type="m">ghebiedt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">‘k Bid, ay! melt my u <rhyme label="a" type="m" corresp="#s2:l1">verdriet</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">Want wy nu <rhyme label="b" type="m">alleen</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">Zijn met ons <rhyme label="b" type="m" corresp="#s2:l3">tween</rhyme>,</l>
+        <l id="s2:l5" met="1" type="-+">Laet <rhyme label="c" type="f">hooren</rhyme></l>
+        <l id="s2:l6" met="6" type="+-">Wat u deert dat ghy so bitter weent en <rhyme label="d" type="m">klaeght</rhyme>?</l>
+        <l id="s2:l7" met="3" type="-+">Ach Amaril, mijn <rhyme label="e" type="m">ziel</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Houdt ghy ghekluystert, door u <rhyme label="f" type="f">schoonheidt</rhyme>,</l>
+        <l id="s2:l9" met="2" type="+-">Ach, ick <rhyme label="e" type="m" corresp="#s2:l7">viel</rhyme>!</l>
+        <l id="s2:l10" met="2" type="-+">‘k Beken ghy <rhyme label="d" type="m" corresp="#s2:l6">vraeght</rhyme>,</l>
+        <l id="s2:l11" met="2" type="+-">Aen my om <rhyme label="g" type="m">Min</rhyme>.</l>
+        <l id="s2:l12" met="2" type="-+">Maer de <rhyme label="g" type="m" corresp="#s2:l11">Herderin</rhyme></l>
+        <l id="s2:l13" met="1" type="-+">Vol <rhyme label="f" type="f" corresp="#s2:l8">braefheidt</rhyme>,</l>
+        <l id="s2:l14" met="6" type="+-">Die ghy seght dat ghy met haert en sin <rhyme label="d" type="m" corresp="#s2:l6">behaeght</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Is u hart vol sware <rhyme label="a" type="m">pijn</rhyme>?</l>
+        <l id="s3:l2" met="4" type="+-">Sy sal u gheneester <rhyme label="a" type="m" corresp="#s3:l1">zijn</rhyme>:</l>
+        <l id="s3:l3" met="3" type="+-">Neen, niemant <rhyme label="b" type="m">niet</rhyme>,</l>
+        <l id="s3:l4" met="2" type="-+">Kan mijn <rhyme label="b" type="m" corresp="#s3:l3">verdriet</rhyme></l>
+        <l id="s3:l5" met="1" type="-+"><rhyme label="c" type="f">Ghenesen</rhyme>,</l>
+        <l id="s3:l6" met="6" type="+-">Als de geen die my geboeyt heeft en <rhyme label="d" type="m">vermant</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Dies bid ick <rhyme label="e" type="m">Harderin</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Laet doch u slaef ghenae <rhyme label="f" type="f">verwerven</rhyme>,</l>
+        <l id="s3:l9" met="2" type="+-">Toont weer <rhyme label="e" type="m" corresp="#s3:l7">min</rhyme>,</l>
+        <l id="s3:l10" met="2" type="-+">V los <rhyme label="d" type="m" corresp="#s3:l6">Verstant</rhyme>,</l>
+        <l id="s3:l11" met="2" type="+-">Dwinght my mijn <rhyme label="g" type="m">hert</rhyme>,</l>
+        <l id="s3:l12" met="2" type="-+">Soo ghy <rhyme label="g" type="m" corresp="#s3:l11">volherdt</rhyme>,</l>
+        <l id="s3:l13" met="1" type="-+">‘k Wil <rhyme label="f" type="f" corresp="#s3:l8">sterven</rhyme>,</l>
+        <l id="s3:l14" met="6" type="+-">So ick u bedriegh, mijn Lief, daer is mijn <rhyme label="d" type="m" corresp="#s3:l6">hant</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

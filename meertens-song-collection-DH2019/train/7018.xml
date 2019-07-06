@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>7018</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>gent</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Lucas de Heere</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">HEmelsch Vader die ons leerd in dit <rhyme label="a" type="f">leuen</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Gheen zorgh' t'hebben als de vrecke <rhyme label="b" type="m">natie</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">Voor de weldaed, die ghy ons hebt <rhyme label="a" type="f" corresp="#s1:l1">ghegheuen</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Bedancken wy u ter deser <rhyme label="b" type="m" corresp="#s1:l2">spatie</rhyme>:</l>
+        <l id="s1:l5" met="5" type="-+">En naer dient u belieft heeft uut <rhyme label="b" type="m" corresp="#s1:l2">gratie</rhyme></l>
+        <l id="s1:l6" met="5" type="-+">Te verzaene ons lichaem med aerdsche <rhyme label="c" type="f">goeden</rhyme>,</l>
+        <l id="s1:l7" met="5" type="-+">Wild ooc met dijn hemelsch brood õs ziel' <rhyme label="c" type="f" corresp="#s1:l6">voedē</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

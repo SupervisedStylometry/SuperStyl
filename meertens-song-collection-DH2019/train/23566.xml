@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>23566</id>
+    <date>
+      <year-start>1572</year-start>
+      <year-end>1572</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen [=alkmaar]</orginal-name>
+      <standard-name>Alkmaar, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.6312592</lon>
+        <lat>4.7503798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+    </tags>
+    <melody>Puer nobis nascitur</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Dus is gebooren een Kindeken <rhyme label="a" type="m">soet</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Aller Enghelen <rhyme label="b" type="f">Coningh</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">In der weerelt wert hy <rhyme label="a" type="m" corresp="#s1:l1">gevoert</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">een Heer der Heeren van alle <rhyme label="b" type="f" corresp="#s1:l2">dingh</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">In der Cribben lag hy <rhyme label="a" type="m">neer</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Op dat hoy der <rhyme label="b" type="f">Ezelen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">die hebben alle bekent den <rhyme label="a" type="m" corresp="#s2:l1">Heer</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">door den Coning der <rhyme label="b" type="f" corresp="#s2:l2">hemelen</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">d’Engel van den hemel <rhyme label="a" type="m">fijn</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Heeft den herderen <rhyme label="b" type="f">vercondigt</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">In Bethlehem geboren te <rhyme label="a" type="m" corresp="#s3:l1">zijn</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Een kint dat al de werelt <rhyme label="b" type="f" corresp="#s3:l2">v’licht</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Hierom herodes beanxtet <rhyme label="a" type="m">was</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Met grooter <rhyme label="b" type="f">nijdigheden</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">d’onnoselen liet hy doden <rhyme label="a" type="m" corresp="#s4:l1">ras</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">En kinderen met <rhyme label="b" type="f" corresp="#s4:l2">droefheden</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Die daer huyden geboren <rhyme label="a" type="m">is</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Van der Maghet <rhyme label="b" type="f">reyne</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">leyde ons door sijn genade <rhyme label="a" type="m" corresp="#s5:l1">fris</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Al in vreughde <rhyme label="b" type="f" corresp="#s5:l2">ghemeyne</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">laet ons van sulcken <rhyme label="a" type="m">blijschap</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Te samen gaen verblijden <rhyme label="b" type="f">(snel</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Met sanghen en <rhyme label="a" type="m" corresp="#s6:l1">orgel-spel</rhyme>)</l>
+        <l id="s6:l4" met="3" type="-+">Den Heere <rhyme label="b" type="f" corresp="#s6:l2">ghebenedijen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

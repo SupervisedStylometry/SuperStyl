@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>129612</id>
+    <date>
+      <year-start>1708</year-start>
+      <year-end>1708</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>In de min vind ik geneugten</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">‘In de Min vind ik <rhyme label="a" type="f">genugten</rhyme>.’</l>
+        <l id="s1:l2" met="4" type="+-">‘En ik in de koele <rhyme label="b" type="m">Wyn</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Die verdryft alle <rhyme label="a" type="f" corresp="#s1:l1">ongenugten</rhyme>.’</l>
+        <l id="s1:l4" met="4" type="+-">‘By sijn Lief is ’t zoet te <rhyme label="b" type="m" corresp="#s1:l2">sijn</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Segt men, wat pleisier kan ’t <rhyme label="a" type="f">wesen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Alle dagen vol en <rhyme label="b" type="m">zat</rhyme>?’</l>
+        <l id="s2:l3" met="4" type="+-">‘De Wijn kan ons van al <rhyme label="a" type="f" corresp="#s2:l1">genesen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Ik loop geen meisjes agter ’t <rhyme label="b" type="m" corresp="#s2:l2">gat</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Ik leef gerust en sonder <rhyme label="a" type="f">sorgen</rhyme>.</l>
+        <l id="s3:l2" met="4" type="+-">De wyn versterkt mijn hert en <rhyme label="b" type="m">sin</rhyme>.</l>
+        <l id="s3:l3" met="4" type="+-">Heb ik geen geld, de Waard zal <rhyme label="a" type="f" corresp="#s3:l1">borgen</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">En dan lach ik met de <rhyme label="b" type="m" corresp="#s3:l2">min</rhyme>.’</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">‘Dat zyn al maar sotte <rhyme label="a" type="f">reden</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">En een regte Dronkaarts <rhyme label="b" type="m">praat</rhyme>.</l>
+        <l id="s4:l3" met="4" type="+-">Maar een meisje fraai van <rhyme label="a" type="f" corresp="#s4:l1">Leden</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Dat is daar myn hert na <rhyme label="b" type="m" corresp="#s4:l2">staat</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Dronkaarts zyn gelijk de <rhyme label="a" type="f">Beesten</rhyme>.’</l>
+        <l id="s5:l2" met="4" type="+-">‘Wel wat sijn de minnaars <rhyme label="b" type="m">dog</rhyme>:</l>
+        <l id="s5:l3" met="4" type="+-">Niet als ongeruste <rhyme label="a" type="f" corresp="#s5:l1">geesten</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Vol van Listen en <rhyme label="b" type="m" corresp="#s5:l2">bedrog</rhyme>.’</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">‘Laat ons niet meer <rhyme label="a" type="f">disputeeren</rhyme></l>
+        <l id="s6:l2" met="4" type="+-">Van de Liefde of van de <rhyme label="b" type="m">Wyn</rhyme>.</l>
+        <l id="s6:l3" met="4" type="+-">Laat ons samen <rhyme label="a" type="f" corresp="#s6:l1">accorderen</rhyme></l>
+        <l id="s6:l4" met="4" type="+-">En dan La ha ha ha hachende, en dan lachende vrolijk <rhyme label="b" type="m" corresp="#s6:l2">sijn</rhyme>.’</l>
+      </lg>
+    </lg>
+  </text>
+</song>

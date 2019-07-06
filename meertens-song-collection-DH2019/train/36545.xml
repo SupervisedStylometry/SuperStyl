@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36545</id>
+    <date>
+      <year-start>1734</year-start>
+      <year-end>1735</year-end>
+    </date>
+    <location>
+      <orginal-name>gent</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="nieuwjaarslied" translation="new year's song">nieuwjaarslied</tag>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+    </tags>
+    <melody>Och ik mag wel droevig schreien</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author>François Foret</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Tot randzoen van uwe <rhyme label="a" type="f">zonden</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Ben ik mensch tot u <rhyme label="a" type="f" corresp="#s1:l1">gezonden</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">En om die diensten <rhyme label="b" type="m">straf</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Kom' ik van den Hemel <rhyme label="b" type="m" corresp="#s1:l3">af</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">t'Allen kanten t'allen <rhyme label="c" type="f">hoeken</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Kom' ik mensch uw' ziele <rhyme label="c" type="f" corresp="#s1:l5">zoeken</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">En al ben ik naekt en <rhyme label="d" type="m">bloot</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">U verlossen van de <rhyme label="d" type="m" corresp="#s1:l7">dood</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Waer dat kindeken noyt <rhyme label="a" type="f">geboren</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">En wy waeren al <rhyme label="a" type="f" corresp="#s2:l1">verloren</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">En wy waeren al <rhyme label="b" type="m">versmacht</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Door des vyands groote <rhyme label="b" type="m" corresp="#s2:l3">magt</rhyme>:</l>
+        <l id="s2:l5" met="4" type="+-">Maer dat kind was ons <rhyme label="c" type="f">behoeder</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Door Maria zyne <rhyme label="c" type="f" corresp="#s2:l5">Moeder</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Die in dezen kouden <rhyme label="d" type="m">nacht</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Hem ter weireld heeft <rhyme label="d" type="m" corresp="#s2:l7">gebragt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Mogt ik doch eens <rhyme label="a" type="f">ontmoeten</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">En u o Jesus <rhyme label="a" type="f" corresp="#s3:l1">groeten</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">En al na myns herten <rhyme label="b" type="m">dorst</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Hem ook leggen op myn' <rhyme label="b" type="m" corresp="#s3:l3">borst</rhyme>:</l>
+        <l id="s3:l5" met="4" type="+-">Nocht' om leven nocht' om <rhyme label="c" type="f">sterven</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Zoud' ik Jesus willen <rhyme label="c" type="f" corresp="#s3:l5">derven</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Adieu 's weirelds <rhyme label="d" type="m">ydelheyd</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">Jesus is myn' <rhyme label="d" type="m" corresp="#s3:l7">zaligheyd</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

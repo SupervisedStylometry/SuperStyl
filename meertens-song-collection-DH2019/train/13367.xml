@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13367</id>
+    <date>
+      <year-start>1678</year-start>
+      <year-end>1678</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="zeemanslied" translation="sailor's song">zeemanslied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>Laatstmaal langs een rivier</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="work">werk</category>
+    </categories>
+  <author>Willem Schellinger</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">LUystert toe nae dit <rhyme label="a" type="m">Liedt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Dat u hier wert <rhyme label="a" type="m" corresp="#s1:l1">bediet</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Hoe dattewe zijn gevaren <rhyme label="b" type="m">kant</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Met een Galjootjen heel <rhyme label="b" type="m" corresp="#s1:l3">playsant</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Nae West-Indien heel <rhyme label="b" type="m" corresp="#s1:l3">faljant</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Julius vijftien <rhyme label="a" type="m">ree</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Doe liepen wy'er mee in <rhyme label="a" type="m" corresp="#s2:l1">Zee</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Met een Noordooste Wint ten <rhyme label="b" type="m">toon</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">En wel tsestich Scheepen <rhyme label="b" type="m" corresp="#s2:l3">schoon</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Luystert na mijn <rhyme label="b" type="m" corresp="#s2:l3">Persoon</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">By Doeveren in de <rhyme label="a" type="m">Kniel</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Daer keerden strackx het <rhyme label="a" type="m" corresp="#s3:l1">wiel</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">De Wint liep na den Westen, <rhyme label="b" type="m">hoort</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Ons Admirael duwde sijn roer aen <rhyme label="b" type="m" corresp="#s3:l3">boort</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">En liep nae 't Voorlant <rhyme label="b" type="m" corresp="#s3:l3">voort</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">De Anckers die vielen <rhyme label="a" type="m">daer</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Matroosjes die waren <rhyme label="a" type="m" corresp="#s4:l1">klaer</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Ons dagelijcx Anckertje dat viel <rhyme label="b" type="m">mee</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Onder het Voorlant, op de <rhyme label="b" type="m" corresp="#s4:l3">Ree</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">De wint was uyter <rhyme label="b" type="m" corresp="#s4:l3">Zee</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">'s Anderdaghs 's morgens <rhyme label="a" type="m">hoort</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Haelden wy ons Ancker aen <rhyme label="a" type="m" corresp="#s5:l1">Boordt</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">En lieten ons Zeyltjen vallen <rhyme label="b" type="m">saen</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Heesen de Fock met de <rhyme label="b" type="m" corresp="#s5:l3">Besaen</rhyme>,</l>
+        <l id="s5:l5" met="4" type="+-">En zijn weer t' Zeyl <rhyme label="b" type="m" corresp="#s5:l3">gegaen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Wy Zeylden also <rhyme label="a" type="m">ras</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">Langhs Engelant op dat <rhyme label="a" type="m" corresp="#s6:l1">pas</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">By Pleymuyen, of daer <rhyme label="b" type="m">ontrent</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Een Parrelementse Kaper <rhyme label="b" type="m" corresp="#s6:l3">jent</rhyme>,</l>
+        <l id="s6:l5" met="4" type="+-">Quam by ons wel <rhyme label="b" type="m" corresp="#s6:l3">bekent</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Oranje streefde <rhyme label="a" type="m">daer</rhyme>,</l>
+        <l id="s7:l2" met="3" type="-+">Lustigh in top seer <rhyme label="a" type="m" corresp="#s7:l1">klaer</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">De Wilde, ons Commandeur <rhyme label="b" type="m">valjant</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Schoot doen met een Koegel <rhyme label="b" type="m" corresp="#s7:l3">kant</rhyme>,</l>
+        <l id="s7:l5" met="4" type="+-">Den Engelsman door sijn <rhyme label="b" type="m" corresp="#s7:l3">Wandt</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="3" type="-+">By Poorte Santo <rhyme label="a" type="m">goet</rhyme>,</l>
+        <l id="s8:l2" met="3" type="-+">Vingen wy metter <rhyme label="a" type="m" corresp="#s8:l1">spoet</rhyme>,</l>
+        <l id="s8:l3" met="4" type="-+">d'Orades Dolfijnus <rhyme label="b" type="m">excellent</rhyme>,</l>
+        <l id="s8:l4" met="4" type="-+">En Benijt seer wel <rhyme label="b" type="m" corresp="#s8:l3">bekent</rhyme>,</l>
+        <l id="s8:l5" met="4" type="+-">En Halvekoort seer <rhyme label="b" type="m" corresp="#s8:l3">jent</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="3" type="-+">So haest wy komen <rhyme label="a" type="m">voort</rhyme>,</l>
+        <l id="s9:l2" met="3" type="-+">Al aen Barbados <rhyme label="a" type="m" corresp="#s9:l1">hoort</rhyme>,</l>
+        <l id="s9:l3" met="4" type="-+">Daer roepen sy, boy goe scets us <rhyme label="b" type="m">hier</rhyme>,</l>
+        <l id="s9:l4" met="4" type="-+">Ja, disje Petates, a kop of <rhyme label="b" type="m" corresp="#s9:l3">Bier</rhyme>,</l>
+        <l id="s9:l5" met="4" type="+-">En brutter jou aer wellekom <rhyme label="b" type="m" corresp="#s9:l3">hier</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="3" type="-+">Als wy daer komen in 't <rhyme label="a" type="m">Lant</rhyme>,</l>
+        <l id="s10:l2" met="3" type="-+">daer zijn wy wel <rhyme label="a" type="m" corresp="#s10:l1">bekant</rhyme>,</l>
+        <l id="s10:l3" met="4" type="-+">Een bottel Kilduvel moetter <rhyme label="b" type="m">zijn</rhyme>,</l>
+        <l id="s10:l4" met="4" type="-+">En een kop Mabby, so goet als <rhyme label="b" type="m" corresp="#s10:l3">Wijn</rhyme>,</l>
+        <l id="s10:l5" met="4" type="+-">En een Tobackjen <rhyme label="b" type="m" corresp="#s10:l3">fijn</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="3" type="-+">Van al de Fruyten <rhyme label="a" type="m">schoon</rhyme>,</l>
+        <l id="s11:l2" met="3" type="-+">Zo draeght Dannas de <rhyme label="a" type="m" corresp="#s11:l1">kroon</rhyme>,</l>
+        <l id="s11:l3" met="4" type="-+">Benandes, en Backovens <rhyme label="b" type="m">geel</rhyme>,</l>
+        <l id="s11:l4" met="4" type="-+">Water Lamoen, en <rhyme label="b" type="m" corresp="#s11:l3">Soortsackeel</rhyme>,</l>
+        <l id="s11:l5" met="4" type="+-">Spaens Speck, goe Advese <rhyme label="b" type="m" corresp="#s11:l3">veel</rhyme>.</l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="3" type="-+">Oorlof tot een <rhyme label="a" type="m">besluyt</rhyme>,</l>
+        <l id="s12:l2" met="3" type="-+">Ick wilder gaen scheyen <rhyme label="a" type="m" corresp="#s12:l1">uyt</rhyme>,</l>
+        <l id="s12:l3" met="4" type="-+">Denckt om Barbados metter <rhyme label="b" type="m">spoet</rhyme>,</l>
+        <l id="s12:l4" met="4" type="-+">Daer de Suycker valt so <rhyme label="b" type="m" corresp="#s12:l3">soet</rhyme>,</l>
+        <l id="s12:l5" met="4" type="+-">Cattoen en Indigo <rhyme label="b" type="m" corresp="#s12:l3">goet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

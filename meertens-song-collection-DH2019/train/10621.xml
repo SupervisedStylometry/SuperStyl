@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10621</id>
+    <date>
+      <year-start>1591</year-start>
+      <year-end>1591</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">AL heefter niemant <rhyme label="a" type="f">ruste</rhyme> //</l>
+        <l id="s1:l2" met="3" type="-+">die Venus dienaers <rhyme label="b" type="m">zijn</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Al gheeft die Liefde <rhyme label="b" type="m" corresp="#s1:l2">pijn</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Nochtans min ick met <rhyme label="a" type="f" corresp="#s1:l1">luste</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">O vrolijc Meysken <rhyme label="b" type="m" corresp="#s1:l2">fijn</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">v suyver schoon <rhyme label="b" type="m" corresp="#s1:l2">aenschijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ick wil v niet seer <rhyme label="a" type="f">prijsen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Met leughens valsche <rhyme label="b" type="m">blijck</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">En segghen <rhyme label="b" type="m" corresp="#s2:l2">opentlijck</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Dat men v niet sou <rhyme label="a" type="f" corresp="#s2:l1">wijsen</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">In deucht en eere <rhyme label="b" type="m" corresp="#s2:l2">rijck</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Noch in schoonheyt ws <rhyme label="b" type="m" corresp="#s2:l2">ghelijck</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Veel zijnder die <rhyme label="a" type="f">beginnen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Haer lief met woorden <rhyme label="b" type="m">quaet</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Die dick verwecken <rhyme label="b" type="m" corresp="#s3:l2">haet</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Die hoorden te <rhyme label="a" type="f" corresp="#s3:l1">beminnen</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Voordachtich en met <rhyme label="b" type="m" corresp="#s3:l2">raet</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">En toonent met der <rhyme label="b" type="m" corresp="#s3:l2">daet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Elck prijst zijn Lief <rhyme label="a" type="f">hoovaerdich</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Boven Vrou Venus <rhyme label="b" type="m">reen</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">En de suyver <rhyme label="b" type="m" corresp="#s4:l2">Heleen</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Dies lieghen sy <rhyme label="a" type="f" corresp="#s4:l1">onaerdich</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Want gheen van dese <rhyme label="b" type="m" corresp="#s4:l2">tween</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Voor ons oyt en <rhyme label="b" type="m" corresp="#s4:l2">verscheen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Maer neen Princesse <rhyme label="a" type="f">schoone</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Te draghen sulcken <rhyme label="b" type="m">min</rhyme>.</l>
+        <l id="s5:l3" met="3" type="-+">En ben ick niet van <rhyme label="b" type="m" corresp="#s5:l2">sin</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Maer sal mijn liefde <rhyme label="a" type="f" corresp="#s5:l1">toonen</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">Soo lang tot ick <rhyme label="b" type="m" corresp="#s5:l2">ghewin</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">En v vry eyghen <rhyme label="b" type="m" corresp="#s5:l2">ben</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

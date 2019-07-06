@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>189640</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Petit Bordeaux</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">MIn, die my zoo vaak deet <rhyme label="a" type="f">treuren</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Heeft geluystert naar myn <rhyme label="b" type="m">klagt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">My zal het vermaak <rhyme label="a" type="f" corresp="#s1:l1">gebeuren</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Om myn Engel dezen <rhyme label="b" type="m" corresp="#s1:l2">nagt</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Eens te spreken, onder <rhyme label="c" type="f">d'elsen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Van myn langgelede <rhyme label="d" type="m">smart</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Lieflyk zal ik haar <rhyme label="c" type="f" corresp="#s1:l5">omhelzen</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Lessen myn doorblakert <rhyme label="d" type="m" corresp="#s1:l6">hart</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Dus eind eens myn <rhyme label="a" type="f">ongevallen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Wie de minnepyn <rhyme label="b" type="m">verduurt</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Kan den troon van Ciepres <rhyme label="a" type="f" corresp="#s2:l1">brallen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Voor d'welk men zegen <rhyme label="b" type="m" corresp="#s2:l2">vuurt</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">Nooit dagt ik dat myne <rhyme label="c" type="f">schoone</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Dus myn druk verzagten <rhyme label="d" type="m">zou</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">Zwigt nu dochters van <rhyme label="c" type="f" corresp="#s2:l5">Latone</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Voor dees hooggedachte <rhyme label="d" type="m" corresp="#s2:l6">vrouw</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

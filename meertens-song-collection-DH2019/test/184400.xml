@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184400</id>
+    <date>
+      <year-start>1738</year-start>
+      <year-end>1738</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">LIefste Heiland naak tot <rhyme label="a" type="m">my</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">Roer myns herten <rhyme label="b" type="f">gronden</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Maak my van myn zonden <rhyme label="a" type="m" corresp="#s1:l1">vry</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Door uw bloed en <rhyme label="b" type="f" corresp="#s1:l2">wonden</rhyme>.</l>
+        <l id="s1:l5" met="2" type="+-">Geef dat <rhyme label="c" type="m">ik</rhyme></l>
+        <l id="s1:l6" met="2" type="+-">
+          <rhyme label="c" type="m" corresp="#s1:l5">Inniglik</rhyme>
+        </l>
+        <l id="s1:l7" met="3" type="+-">U in Liefd' <rhyme label="d" type="f">ontmoete</rhyme>,</l>
+        <l id="s1:l8" met="3" type="+-">d'Aarde treê met <rhyme label="d" type="f" corresp="#s1:l7">voeten</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Schepsels wykt, en wat myn <rhyme label="a" type="m">ziel</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">In haar rust wil <rhyme label="b" type="f">stooren</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Myn gemoed swygt Gode <rhyme label="a" type="m" corresp="#s2:l1">stil</rhyme>,</l>
+        <l id="s2:l4" met="3" type="+-">'k Wil hem spreeken <rhyme label="b" type="f" corresp="#s2:l2">hooren</rhyme>.</l>
+        <l id="s2:l5" met="2" type="+-">O! schep <rhyme label="c" type="m">Gy</rhyme></l>
+        <l id="s2:l6" met="2" type="+-">Vreed' in <rhyme label="c" type="m" corresp="#s2:l5">my</rhyme>,</l>
+        <l id="s2:l7" met="3" type="+-">Werk naar uw <rhyme label="d" type="f">behaagen</rhyme>,</l>
+        <l id="s2:l8" met="3" type="+-">In my t'allen <rhyme label="d" type="f" corresp="#s2:l7">dagen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Trek by een 't verstrooit <rhyme label="a" type="m">gemoed</rhyme>,</l>
+        <l id="s3:l2" met="3" type="+-">Werp myn hoogmoed <rhyme label="b" type="f">neder</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Maak 't verwerde regt en <rhyme label="a" type="m" corresp="#s3:l1">goed</rhyme>,</l>
+        <l id="s3:l4" met="3" type="+-">Maakt, 't geen hard is, <rhyme label="b" type="f" corresp="#s3:l2">teeder</rhyme>.</l>
+        <l id="s3:l5" met="2" type="+-">Want <rhyme label="c" type="m">alsdan</rhyme></l>
+        <l id="s3:l6" met="2" type="+-">Zal <rhyme label="c" type="m" corresp="#s3:l5">voortaan</rhyme>,</l>
+        <l id="s3:l7" met="3" type="+-">In myn gansche <rhyme label="d" type="f">leeven</rhyme>,</l>
+        <l id="s3:l8" met="3" type="+-">Niets als Jesus <rhyme label="d" type="f" corresp="#s3:l7">leeven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

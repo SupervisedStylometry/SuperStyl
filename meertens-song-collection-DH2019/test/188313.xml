@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188313</id>
+    <date>
+      <year-start>1780</year-start>
+      <year-end>1780</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Pour l'amitié</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Welk een zoet, welk een <rhyme label="a" type="m">zoet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Baard het kuyssche Huwelyk <rhyme label="b" type="f">leeven</rhyme>:</l>
+        <l id="s1:l3" met="4" type="+-">Daar 't Gemoed, daar 't <rhyme label="a" type="m" corresp="#s1:l1">Gemoed</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Steets hernieuwde wellust <rhyme label="a" type="m" corresp="#s1:l1">voet</rhyme>;</l>
+        <l id="s1:l5" met="4" type="+-">Lyris heeft zyn wens <rhyme label="c" type="f">verkregen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Billyk Juicht hy om die <rhyme label="c" type="f" corresp="#s1:l5">Zeegen</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Om de gloed, op de <rhyme label="a" type="m" corresp="#s1:l1">gloed</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Die hem wederminnen <rhyme label="a" type="m" corresp="#s1:l1">doet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

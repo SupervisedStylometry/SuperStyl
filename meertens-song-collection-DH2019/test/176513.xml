@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176513</id>
+    <date>
+      <year-start>1637</year-start>
+      <year-end>1637</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody>Psalm 079 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">MYn Heer, myn Godt, myn Schepper groot van <rhyme label="a" type="f">waarden</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Myn hulp, myn troost, myn Leydt-star op der <rhyme label="a" type="f" corresp="#s1:l1">aarden</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Myn heyl, myn luck, myn steur tot goede <rhyme label="b" type="f">dingen</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Myn hart en ziel wil dy een Lof-sang <rhyme label="b" type="f" corresp="#s1:l3">singen</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Noyt in dijn heylich <rhyme label="c" type="m">hof</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Is dijn volkomen <rhyme label="c" type="m" corresp="#s1:l5">lof</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Door aller Eng'len <rhyme label="d" type="f">Tongen</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Hoe lieffelyk van <rhyme label="e" type="m">klank</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">Met Paradyssche <rhyme label="e" type="m" corresp="#s1:l8">sank</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">Na waarde recht <rhyme label="d" type="f" corresp="#s1:l7">gesongen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

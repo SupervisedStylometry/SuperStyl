@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10572</id>
+    <date>
+      <year-start>1591</year-start>
+      <year-end>1591</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="nieuwjaarslied" translation="new year's song">nieuwjaarslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Mijn zinnen zijn mij ontsteld</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">SChoon lief my niet versmaet // maer laet // v oude <rhyme label="a" type="f">weghen</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Dat ghy dus obstinaet // mijn scaet // in liefden <rhyme label="a" type="f" corresp="#s1:l1">teghen</rhyme>.</l>
+        <l id="s1:l3" met="6" type="-+">Vernieut uwes sins ghemoet // en doet // my blyde <rhyme label="b" type="f">mare</rhyme></l>
+        <l id="s1:l4" met="6" type="-+">Soo sing ick v met spoet // een groet Int nieuwe <rhyme label="b" type="f" corresp="#s1:l3">Jare</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Wilt ghy in mijn gheween // nae reen // myn <rhyme label="a" type="f">drucknontladen</rhyme></l>
+        <l id="s2:l2" met="6" type="-+">Soo wort myn hart besneen // alleen // door v <rhyme label="a" type="f" corresp="#s2:l1">ghenaden</rhyme>,</l>
+        <l id="s2:l3" met="6" type="-+">Indien ghy niet aensiet // t'verdriet // van v <rhyme label="b" type="f">dienare</rhyme></l>
+        <l id="s2:l4" met="6" type="-+">Soo wort een droeuich liet // bespiet Int nieuwe <rhyme label="b" type="f" corresp="#s2:l3">Jare</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">Soo ghy v niet verneert // en keert, v stramme <rhyme label="a" type="f">sinnen</rhyme>,</l>
+        <l id="s3:l2" met="6" type="-+">Soo wort ick door begheert // verteert int vier der <rhyme label="a" type="f" corresp="#s3:l1">minnen</rhyme></l>
+        <l id="s3:l3" met="6" type="-+">Ick maeck aen Venus macht // mijn clacht voor den <rhyme label="b" type="f">Outare</rhyme></l>
+        <l id="s3:l4" met="6" type="-+">Dat ghy my dach en nacht // veracht, Int nieuwe <rhyme label="b" type="f" corresp="#s3:l3">Jare</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">Princes van dit rappoort // en stoort v niet in <rhyme label="a" type="f">desen</rhyme>,</l>
+        <l id="s4:l2" met="6" type="-+">Maer spreeckt eens met accoort // een woort, ick sal <rhyme label="a" type="f" corresp="#s4:l1">ghenesen</rhyme></l>
+        <l id="s4:l3" met="6" type="-+">Gunt dat ick voor mijn vrou // v hou, int <rhyme label="b" type="f">openbare</rhyme>,</l>
+        <l id="s4:l4" met="6" type="-+">Soo lost ghy mijne trou // van rou Int nieuwe <rhyme label="b" type="f" corresp="#s4:l3">Jare</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

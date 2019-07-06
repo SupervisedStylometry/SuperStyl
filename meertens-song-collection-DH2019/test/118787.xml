@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>118787</id>
+    <date>
+      <year-start>1730</year-start>
+      <year-end>1730</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
+    </tags>
+    <melody>C'est le dieu des eaux qui va paraître</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">WEg, weg Dronkers die uw lyf en <rhyme label="a" type="f">leven</rhyme></l>
+        <l id="s1:l2" met="5" type="+-">Aan het nat van Bagchus <rhyme label="a" type="f" corresp="#s1:l1">overgeven</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">En door den <rhyme label="b" type="m">wyn</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Voele veel <rhyme label="b" type="m" corresp="#s1:l3">pyn</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">En wilt gestadig <rhyme label="a" type="f" corresp="#s1:l1">sweven</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Daar de likkebroeders <rhyme label="b" type="m" corresp="#s1:l3">zyn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Veele moete roode neuze <rhyme label="a" type="f">dragen</rhyme>,</l>
+        <l id="s2:l2" met="5" type="+-">Ja de Podegra die komt haar <rhyme label="a" type="f" corresp="#s2:l1">plagen</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Beenen heel <rhyme label="b" type="m">dik</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">Goden ik <rhyme label="b" type="m" corresp="#s2:l3">schrik</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Voor deeze, slegte <rhyme label="a" type="f" corresp="#s2:l1">lagen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Neen ik hou niet van de <rhyme label="b" type="m" corresp="#s2:l3">slik</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">'t Lust my niet voor gek langs straat te <rhyme label="a" type="f">lopen</rhyme></l>
+        <l id="s3:l2" met="5" type="+-">En voor myn geld pyn en droeve smert te <rhyme label="a" type="f" corresp="#s3:l1">kopen</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">En dat men <rhyme label="b" type="m">zyt</rhyme>,</l>
+        <l id="s3:l4" met="2" type="-+">U beste <rhyme label="b" type="m" corresp="#s3:l3">tyd</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Hebt gy al reê <rhyme label="a" type="f" corresp="#s3:l1">verzopen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Hospis koop voor my geen <rhyme label="b" type="m" corresp="#s3:l3">kryt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

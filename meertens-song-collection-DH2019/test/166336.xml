@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>166336</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Cette cruelle</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">t IS juyst geschiet wanneer ick <rhyme label="a" type="f">Dichte</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Des Avondts by de <rhyme label="b" type="m">Keersse-vlam</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Dat eenen Vliegh, verlieft op 't <rhyme label="a" type="f" corresp="#s1:l1">lichte</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Rondom de Keersse vliegen <rhyme label="b" type="m" corresp="#s1:l2">quam</rhyme>:</l>
+        <l id="s1:l5" met="2" type="-+">Door soete <rhyme label="c" type="f">minne</rhyme></l>
+        <l id="s1:l6" met="3" type="+-">Swierd het om de <rhyme label="d" type="m">kant</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Daer na'er <rhyme label="c" type="f" corresp="#s1:l5">inne</rhyme>,</l>
+        <l id="s1:l8" met="3" type="+-">En heeft uyt'er <rhyme label="d" type="m" corresp="#s1:l6">handt</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Het gansche Lijf <rhyme label="d" type="m" corresp="#s1:l6">verbrandt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ick greep daer op terstondt mijn <rhyme label="a" type="f">Penne</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">En Dicht daer van dit korte <rhyme label="b" type="m">Liedt</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">O jeught ! leert uyt dees saeck <rhyme label="a" type="f" corresp="#s2:l1">bekennen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Hoe dat de wellust baert <rhyme label="b" type="m" corresp="#s2:l2">verdriet</rhyme>:</l>
+        <l id="s2:l5" met="2" type="-+">Haer minlijck <rhyme label="c" type="f">flonck'ren</rhyme>,</l>
+        <l id="s2:l6" met="3" type="+-">Dat doet <rhyme label="d" type="m">menichwerf</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">'t Verstandt <rhyme label="c" type="f" corresp="#s2:l5">verdonck'ren</rhyme>,</l>
+        <l id="s2:l8" met="3" type="+-">En stort in 't <rhyme label="d" type="m" corresp="#s2:l6">verderf</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">Daer pijn is 't eeuwigh <rhyme label="d" type="m" corresp="#s2:l6">erf</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

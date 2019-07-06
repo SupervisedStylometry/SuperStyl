@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12285</id>
+    <date>
+      <year-start>1639</year-start>
+      <year-end>1639</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Se ben vedi o vita mia</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">HEmel, schuyf u <rhyme label="a" type="f">nacht-gordijnen</rhyme>.</l>
+        <l id="s1:l2" met="4" type="+-">Hoe soo moedig op u <rhyme label="b" type="m">Licht</rhyme>?</l>
+        <l id="s1:l3" met="5" type="+-">Hoe soo trots op u <rhyme label="b" type="m" corresp="#s1:l2">Sonne-gesicht</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En't tint'lend <rhyme label="b" type="m" corresp="#s1:l2">starn-gesticht</rhyme>?</l>
+        <l id="s1:l5" met="1" type="-+">V <rhyme label="c" type="f">zale</rhyme></l>
+        <l id="s1:l6" met="1" type="-+">Laet <rhyme label="c" type="f" corresp="#s1:l5">dalen</rhyme>,</l>
+        <l id="s1:l7" met="1" type="-+">Veel <rhyme label="c" type="f" corresp="#s1:l5">malen</rhyme>,</l>
+        <l id="s1:l8" met="1" type="-+">Haer <rhyme label="c" type="f" corresp="#s1:l5">stralen</rhyme>:</l>
+        <l id="s1:l9" met="1" type="-+">Maer s' <rhyme label="c" type="f" corresp="#s1:l5">halen</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">Niets by mijn <rhyme label="a" type="f" corresp="#s1:l1">ROSELIINE</rhyme>.</l>
+        <l id="s1:l11" met="2" type="+-">VVil sy <rhyme label="a" type="f" corresp="#s1:l1">schijnen</rhyme>,</l>
+        <l id="s1:l12" met="2" type="+-">'T moet <rhyme label="a" type="f" corresp="#s1:l1">verdvvijnen</rhyme></l>
+        <l id="s1:l13" met="3" type="-+">Al vvat u vvulf <rhyme label="b" type="m" corresp="#s1:l2">belichtt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Schoon sy tempert haer <rhyme label="a" type="f">gesichjes</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Schoon sy matigt haer <rhyme label="b" type="m">gepronck</rhyme>,</l>
+        <l id="s2:l3" met="5" type="+-">Schoon sy dempt, toomt en temt haer <rhyme label="b" type="m" corresp="#s2:l2">gelonck</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">'T is niet dan vlamm en <rhyme label="b" type="m" corresp="#s2:l2">vonck</rhyme>.</l>
+        <l id="s2:l5" met="1" type="-+">Haer <rhyme label="c" type="f">gluyrtjes</rhyme>,</l>
+        <l id="s2:l6" met="1" type="-+">Haer <rhyme label="c" type="f" corresp="#s2:l5">kuyrtjes</rhyme>,</l>
+        <l id="s2:l7" met="1" type="-+">Hoe <rhyme label="c" type="f" corresp="#s2:l5">suyrtjes</rhyme>,</l>
+        <l id="s2:l8" met="1" type="-+">Hoe <rhyme label="c" type="f" corresp="#s2:l5">stuyrtjes</rhyme>,</l>
+        <l id="s2:l9" met="1" type="-+">Syn <rhyme label="c" type="f" corresp="#s2:l5">vuyrtjes</rhyme>;</l>
+        <l id="s2:l10" met="3" type="-+">Haer scherpe <rhyme label="a" type="f" corresp="#s2:l1">Minne-lichjes</rhyme>,</l>
+        <l id="s2:l11" met="2" type="+-"><rhyme label="a" type="f" corresp="#s2:l1">Minne-schichjes</rhyme>.</l>
+        <l id="s2:l12" met="2" type="+-">O, die <rhyme label="a" type="f" corresp="#s2:l1">lichjes</rhyme></l>
+        <l id="s2:l13" met="3" type="-+">Haer heette kracht <rhyme label="b" type="m" corresp="#s2:l2">ontgonck</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

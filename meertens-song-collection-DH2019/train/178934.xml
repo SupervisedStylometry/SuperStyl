@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>178934</id>
+    <date>
+      <year-start>1866</year-start>
+      <year-end>1866</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Vlaanderen o Vlaanderen</melody>
+  <author>Frans de Cort</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Zoo rijk en welig als <rhyme label="a" type="m">weleer</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">Zijn nog uwe <rhyme label="b" type="f">gouwen</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Zoo vroom en kuisch, zoo lief en <rhyme label="a" type="m" corresp="#s1:l1">teêr</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Zijn nog uwe <rhyme label="b" type="f" corresp="#s1:l2">vrouwen</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Kloek zijn nog uwe zonen <rhyme label="c" type="m">thans</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Als in den tijd des Wijzen <rhyme label="c" type="m" corresp="#s1:l5">Mans</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Vlaanderen, o <rhyme label="d" type="m">Vlaanderen</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Maar uwe schoone, zoete <rhyme label="a" type="m">taal</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">Wordt miskend, <rhyme label="b" type="f">verstooten</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Uit vorstenhof en <rhyme label="a" type="m" corresp="#s2:l1">statenzaal</rhyme>,</l>
+        <l id="s2:l4" met="3" type="+-">Uit de woon der <rhyme label="b" type="f" corresp="#s2:l2">grooten</rhyme>;</l>
+        <l id="s2:l5" met="4" type="-+">Zelfs in het <rhyme label="c" type="m">burgershuisgezin</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Neemt haren rang eene andere <rhyme label="c" type="m" corresp="#s2:l5">in</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Vlaanderen, o <rhyme label="d" type="m">Vlaanderen</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wij toch - als 't ouderlievend <rhyme label="a" type="m">kind</rhyme></l>
+        <l id="s3:l2" met="3" type="+-">Moeder beide en <rhyme label="b" type="f">vader</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Met eender hart vereert en <rhyme label="a" type="m" corresp="#s3:l1">mint</rhyme> -</l>
+        <l id="s3:l4" met="3" type="+-">Minnen u te <rhyme label="b" type="f" corresp="#s3:l2">gader</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">O moedertaal, de rijkste <rhyme label="c" type="m">waard</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">O vaderland, het schoonste op <rhyme label="c" type="m" corresp="#s3:l5">aard</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Vlaanderen, o <rhyme label="d" type="m">Vlaanderen</rhyme>!</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">En zouden wij - ach, is het <rhyme label="a" type="m">waar</rhyme>,</l>
+        <l id="s4:l2" met="3" type="+-">Staat ons dat te <rhyme label="b" type="f">vreezen</rhyme>? -</l>
+        <l id="s4:l3" met="4" type="-+">Der wakkre <rhyme label="a" type="m" corresp="#s4:l1">Flamingantenschaar</rhyme></l>
+        <l id="s4:l4" met="3" type="+-">De allerlaatsten <rhyme label="b" type="f" corresp="#s4:l2">wezen</rhyme>...</l>
+        <l id="s4:l5" met="4" type="-+">Zoo wijt aan andren 't <rhyme label="c" type="m">nageslacht</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Dat gij in schande zijt <rhyme label="c" type="m" corresp="#s4:l5">gebracht</rhyme>,</l>
+        <l id="s4:l7" met="4" type="-+">Vlaanderen, o <rhyme label="d" type="m">Vlaanderen</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

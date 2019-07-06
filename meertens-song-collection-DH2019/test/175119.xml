@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175119</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="avondlied" translation="evening song">avondlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Des avonds laat, des avonds <rhyme label="a" type="m">laat</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Dan komt mijn Vader, loof en <rhyme label="b" type="m">moê</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">En dikwijls straat en grachten <rhyme label="c" type="m">ver</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Van 't werk af naar ons huisje <rhyme label="b" type="m" corresp="#s1:l2">toe</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Dan sta ik voor ons kleine <rhyme label="d" type="m">raam</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Te hunkren of ik hem <rhyme label="e" type="m">bespeur'</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">En als hij dan den hoek <rhyme label="f" type="m">omslaat</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Dan loop ik haastig naar de <rhyme label="e" type="m" corresp="#s1:l6">deur</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Des avonds laat, des avonds <rhyme label="a" type="m">laat</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Als Moeder koffij heeft <rhyme label="b" type="m">gezet</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Schuif ik mijn Vaders <rhyme label="c" type="m">leuningstoel</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">In 't hoekje tusschen haard en <rhyme label="b" type="m" corresp="#s2:l2">bed</rhyme>;</l>
+        <l id="s2:l5" met="4" type="-+">Ik zet zijn sloffen op de <rhyme label="d" type="m">plaat</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">En dan, voorzigtig <rhyme label="e" type="m">opgepast</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Krijg ik mijn Vaders lange <rhyme label="f" type="m">pijp</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">En zijn' tabakspot van de <rhyme label="e" type="m" corresp="#s2:l6">kast</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Des avonds laat, des avonds <rhyme label="a" type="m">laat</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Als zoo mijn Vader huiswaarts <rhyme label="b" type="m">keert</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Dan geeft hij mij een lekkren <rhyme label="c" type="m">zoen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">En vraagt: ‘Wel, heb-je braaf <rhyme label="b" type="m" corresp="#s3:l2">geleerd</rhyme>?’</l>
+        <l id="s3:l5" met="4" type="-+">Dan val ik Vader om zijn' <rhyme label="d" type="m">hals</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">En zeg: ‘Ik heb mijn best <rhyme label="e" type="m">gedaan</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Omdat ik gaauw zoo knap woû <rhyme label="f" type="m">zijn</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Om flink voor u naar werk te <rhyme label="e" type="m" corresp="#s3:l6">gaan</rhyme>!’</l>
+      </lg>
+    </lg>
+  </text>
+</song>

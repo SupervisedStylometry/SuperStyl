@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1532</id>
+    <date>
+      <year-start>1629</year-start>
+      <year-end>1629</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Psalm 024 Datheen</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Samuel Ampzing</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MIjn Bruyd, gy sijt wel <rhyme label="a" type="m">overschoon</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Dijn duyvenogen staen ten <rhyme label="a" type="m" corresp="#s1:l1">toon</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">In 't midden dijner beyde <rhyme label="b" type="f">vlechten</rhyme>:</l>
+        <l id="s1:l4" met="4" type="-+">Gy hebt so fijn en edel <rhyme label="c" type="m">haer</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Als op 't gebergt de <rhyme label="c" type="m" corresp="#s1:l4">geyten-schaer</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Het gras in Gilead gaen <rhyme label="b" type="f" corresp="#s1:l3">slechten</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Dijn tanden staen by een <rhyme label="a" type="m">gevaet</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Als een kudd', die op de <rhyme label="a" type="m" corresp="#s2:l1">maet</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">De wolle net is <rhyme label="b" type="f">afgeschoren</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Die uyt haer water-plaetze <rhyme label="c" type="m">treen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Daer geen onvruchtbaer is, niet <rhyme label="c" type="m" corresp="#s2:l4">een</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Daer tweelingen van sijn <rhyme label="b" type="f" corresp="#s2:l3">geboren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Dijn lippen sijn een roode <rhyme label="a" type="m">draet</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Gy voert een aengenaeme <rhyme label="a" type="m" corresp="#s3:l1">praet</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Dijn schoone vriendelijke <rhyme label="b" type="f">wangen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Die sijn van liefelijken <rhyme label="c" type="m">staet</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Gelijk een appel van <rhyme label="c" type="m" corresp="#s3:l4">Granaet</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Die tuschen dijne vlechten <rhyme label="b" type="f" corresp="#s3:l3">hangen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Dijn hals is als Davids <rhyme label="a" type="m">perk</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Sijn toren, en sijn <rhyme label="a" type="m" corresp="#s4:l1">bollewerk</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Verzierd met schilden veeler <rhyme label="b" type="f">helden</rhyme>.</l>
+        <l id="s4:l4" met="4" type="-+">Dijn borsten sijn twee rheen <rhyme label="c" type="m">geacht</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Die van een hind sijn <rhyme label="c" type="m" corresp="#s4:l4">voordgebragt</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">En weyden in <rhyme label="b" type="f" corresp="#s4:l3">rose-velden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

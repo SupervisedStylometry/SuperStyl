@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10841</id>
+    <date>
+      <year-start>1605</year-start>
+      <year-end>1605</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">Dat koresken met den wijn sedt ic al an mijn <rhyme label="a" type="m">mont</rhyme></l>
+        <l id="s1:l2" met="6" type="-+">Soo doet o fraye knaepgen drinckttet tot den <rhyme label="a" type="m" corresp="#s1:l1">gront</rhyme>.</l>
+        <l id="s1:l3" met="6" type="-+">Of icker dan of slurf so waer ick ymmers <rhyme label="b" type="m">doot</rhyme></l>
+        <l id="s1:l4" met="6" type="-+">Neen drinckt wel fraye knaepgen ghy hebt lang gheen <rhyme label="b" type="m" corresp="#s1:l3">noot</rhyme>.</l>
+        <l id="s1:l5" met="6" type="+-">Wie sal ick dit roemerken toe brenghen <rhyme label="c" type="m">nu</rhyme></l>
+        <l id="s1:l6" met="6" type="-+">Het meysgen dat daer by u sit <rhyme label="c" type="m" corresp="#s1:l5">wachtet</rhyme></l>
+        <l id="s1:l7" met="6" type="-+">Maer souser dan niet storen of vergrammen op <rhyme label="d" type="m">mijn</rhyme></l>
+        <l id="s1:l8" met="6" type="-+">Neense fraye knaepgen ghy sult te liever <rhyme label="d" type="m" corresp="#s1:l7">zijn</rhyme></l>
+        <l id="s1:l9" met="6" type="+-">Ken ick het oock vergelden op deser <rhyme label="e" type="m">tijdt</rhyme></l>
+        <l id="s1:l10" met="6" type="-+">Gheeft haer een kusghen toe, daer scheltse u me <rhyme label="e" type="m" corresp="#s1:l9">quijt</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

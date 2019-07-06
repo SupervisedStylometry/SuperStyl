@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>178952</id>
+    <date>
+      <year-start>1866</year-start>
+      <year-end>1866</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>O lieve Scheldestad</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Wat is er toch, dat mij, in vreugd en <rhyme label="a" type="f">smerte</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Alom, altijd aan u gedenken <rhyme label="b" type="m">doet</rhyme>?</l>
+        <l id="s1:l3" met="5" type="-+">Ik heb u lief, en zeg u uit de <rhyme label="a" type="f" corresp="#s1:l1">ver-te</rhyme>:</l>
+        <l id="s1:l4" met="5" type="-+">O lieve Schelde-stad, wees mij <rhyme label="b" type="m" corresp="#s1:l2">gegroet</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Zooals gij rijst vóór 't oog der <rhyme label="a" type="f">schepelingen</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Wier bodem blij naar uwe haven <rhyme label="b" type="m">spoedt</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Zóó zie ik u, en hoor mijn harte <rhyme label="a" type="f" corresp="#s2:l1">zingen</rhyme>:</l>
+        <l id="s2:l4" met="5" type="-+">O lieve Scheldestad, wees mij <rhyme label="b" type="m" corresp="#s2:l2">gegroet</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Wie komt van u is welkom te allen <rhyme label="a" type="f">tijde</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Wie u bemint, diens handdruk doet mij <rhyme label="b" type="m">goed</rhyme>;</l>
+        <l id="s3:l3" met="5" type="-+">Ik klink met hem, en neur aan zijne <rhyme label="a" type="f" corresp="#s3:l1">zijde</rhyme>:</l>
+        <l id="s3:l4" met="5" type="-+">O lieve Scheldestad, wees mij <rhyme label="b" type="m" corresp="#s3:l2">gegroet</rhyme>!</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Nog siert de kunst uw hoofd met <rhyme label="a" type="f">stralenkrone</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Nog dekt een heir van schepen uwen <rhyme label="b" type="m">vloed</rhyme> -</l>
+        <l id="s4:l3" met="5" type="-+">Blijf eeuwig zóó de rijke, zóó de <rhyme label="a" type="f" corresp="#s4:l1">schoone</rhyme>!</l>
+        <l id="s4:l4" met="5" type="-+">O lieve Scheldestad, wees mij <rhyme label="b" type="m" corresp="#s4:l2">gegroet</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

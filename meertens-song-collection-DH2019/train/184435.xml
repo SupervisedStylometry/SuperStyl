@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184435</id>
+    <date>
+      <year-start>1738</year-start>
+      <year-end>1738</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Johan Deknatel</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ZO kom, ô hooggeliefde <rhyme label="a" type="m">Vorst</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Der zwakken, en der <rhyme label="b" type="f">kleinen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Naar wien ons hert en ziele <rhyme label="a" type="m" corresp="#s1:l1">dorst</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Gy eenig goed der <rhyme label="b" type="f" corresp="#s1:l2">Dynen</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Toon ons uw vrindlyk <rhyme label="c" type="m">aangezicht</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Verdobbel kracht en <rhyme label="d" type="f">zeegen</rhyme>:</l>
+        <l id="s1:l7" met="4" type="-+">Zo word de zwaarste last ons <rhyme label="c" type="m" corresp="#s1:l5">licht</rhyme>.</l>
+        <l id="s1:l8" met="3" type="-+">Op onze <rhyme label="d" type="f" corresp="#s1:l6">Pelgrims-wegen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

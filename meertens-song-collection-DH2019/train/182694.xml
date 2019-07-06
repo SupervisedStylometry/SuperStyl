@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182694</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Hendrik Riemsnijder</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Wat zoet doet de gaaf my <rhyme label="a" type="f">smaaken</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Aan dien armen man <rhyme label="b" type="m">bedeelt</rhyme>!</l>
+        <l id="s1:l3" met="3" type="-+">Ik voel myn harte <rhyme label="a" type="f" corresp="#s1:l1">blaaken</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Van vreugde, die me inwendig <rhyme label="b" type="m" corresp="#s1:l2">streelt</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Die man! hoe <rhyme label="c" type="f">aangedaan</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Met wat zichtb're teêre <rhyme label="d" type="f">ontroering</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Met wat dankb're <rhyme label="d" type="f" corresp="#s1:l6">hartvervoering</rhyme>,</l>
+        <l id="s1:l8" met="6" type="+-">Zag hy my daar weenend aan! weenend <rhyme label="e" type="m">aan</rhyme>!</l>
+        <l id="s1:l9" met="4" type="-+">Daar dus 't weldaadig <rhyme label="f" type="f">medelyden</rhyme></l>
+        <l id="s1:l10" met="4" type="+-">Zoo veel geneugt in zig <rhyme label="g" type="m">besluit</rhyme></l>
+        <l id="s1:l11" met="4" type="-+">O, laat dan dikwyls my <rhyme label="f" type="f" corresp="#s1:l9">verblyden</rhyme></l>
+        <l id="s1:l12" met="4" type="-+">Die zuiv're vreugd, die te allen <rhyme label="f" type="f" corresp="#s1:l9">tyden</rhyme></l>
+        <l id="s1:l13" met="4" type="-+">Uit wél doen en ontserming <rhyme label="g" type="m" corresp="#s1:l10">spruit</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

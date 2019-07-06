@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>156018</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+      <tag standard-name="dialectlied" translation="dialect song">dialectlied</tag>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Als Bacchus eerst ter wereld is gekomen</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="groups">groepen</category>
+      <category translation="theatre">theater</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Boachus gaf ons deuse <rhyme label="a" type="f">goaven</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Voer den durst en tot <rhyme label="b" type="m">vermoak</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Om den droege kiel te <rhyme label="a" type="f" corresp="#s1:l1">loaven</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Want doar es gien froaijer <rhyme label="b" type="m" corresp="#s1:l2">soak</rhyme></l>
+        <l id="s1:l5" met="5" type="-+">Als bay dit schoen nat Ien ielen dag te <rhyme label="c" type="m">zaijn</rhyme>:</l>
+        <l id="s1:l6" met="4" type="+-">Et verjoagd de sorregen en alle <rhyme label="c" type="m" corresp="#s1:l5">paijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Iedel vogt, zo vol van <rhyme label="a" type="f">woarden</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Als 'k ik sie aw schoen <rhyme label="b" type="m">coleur</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Agt 'k ik gien vermoak op <rhyme label="a" type="f" corresp="#s2:l1">oarden</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Niets passeerd   au frisse <rhyme label="b" type="m" corresp="#s2:l2">geur</rhyme>.</l>
+        <l id="s2:l5" met="5" type="-+">Ba, dat teugske smoakt Of 'k ik maijn <rhyme label="c" type="m">mond</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Vol van goden nektar <rhyme label="c" type="m" corresp="#s2:l5">vond</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

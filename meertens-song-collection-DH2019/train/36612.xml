@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36612</id>
+    <date>
+      <year-start>1631</year-start>
+      <year-end>1631</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>In dulci jubilo</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Lucas van Mechelen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">MEt wat aendachticheydt dat die siel' wel <rhyme label="a" type="m">bereydt</rhyme></l>
+        <l id="s1:l2" met="6" type="-+">Om helsde Godts gheboden, en d'woort Godts hoorde <rhyme label="b" type="m">aen</rhyme></l>
+        <l id="s1:l3" met="6" type="-+">Hebbende al ontvloden, lancks des gheests blijde <rhyme label="b" type="m" corresp="#s1:l2">baen</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Dat haer uyt haer gheset mocht doen eenich <rhyme label="c" type="m">belet</rhyme></l>
+        <l id="s1:l5" met="6" type="-+">Tot haren Godt der Goden, is qualijck te <rhyme label="b" type="m" corresp="#s1:l2">verstaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Die pur' die reyne siel' aendachtelijck haer <rhyme label="a" type="m">hiel</rhyme></l>
+        <l id="s2:l2" met="6" type="-+">Tot Godt in alle plecken, maer sonderlingh' <rhyme label="b" type="m">alsdan</rhyme>,</l>
+        <l id="s2:l3" met="6" type="-+">Wanneer om te verwecken, d'Woort Godts, dat innich <rhyme label="b" type="m" corresp="#s2:l2">kan</rhyme></l>
+        <l id="s2:l4" met="6" type="-+">Met sterckheden, die't heeft, met inlichtingh' die't <rhyme label="c" type="m">gheeft</rhyme></l>
+        <l id="s2:l5" met="6" type="-+">Den wegh Godts claer ontdecken, daer alle goet comt <rhyme label="b" type="m" corresp="#s2:l2">van</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">Dus stondt sy in die ste', daermen dat woort Godt <rhyme label="a" type="m">de'</rhyme>,</l>
+        <l id="s3:l2" met="6" type="-+">Met allen haer ghedachte ghetoghen in den <rhyme label="b" type="m">Heer'</rhyme>,</l>
+        <l id="s3:l3" met="6" type="-+">Van wien sy verwachte iet salich t'haerder <rhyme label="b" type="m" corresp="#s3:l2">leer'</rhyme>,</l>
+        <l id="s3:l4" met="6" type="-+">Ghelijck sy daer verblijt te hooren pleegh <rhyme label="c" type="m">altijt</rhyme>,</l>
+        <l id="s3:l5" met="6" type="-+">Om Godt, die sy naer trachte, te moghen volghen <rhyme label="b" type="m" corresp="#s3:l2">meer</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">Haer hert' te hooren socht', t'ghen' dat haer raken <rhyme label="a" type="m">mocht'</rhyme>;</l>
+        <l id="s4:l2" met="6" type="-+">Want allen haer verlanghen was boven alle <rhyme label="b" type="m">dingh</rhyme>,</l>
+        <l id="s4:l3" met="6" type="-+">Een punt van hem t'ontfanghen, die sy alleen aen <rhyme label="b" type="m" corresp="#s4:l2">hingh</rhyme>,</l>
+        <l id="s4:l4" met="6" type="-+">D'welck als een siel' ghetrouw', sy van hem hooren <rhyme label="c" type="m">wouw'</rhyme>,</l>
+        <l id="s4:l5" met="6" type="-+">Om rechter hare ganghen te stieren daer sy <rhyme label="b" type="m" corresp="#s4:l2">gingh</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

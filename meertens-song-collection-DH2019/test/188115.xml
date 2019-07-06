@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188115</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Schoon liefje jent zeer excellent</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WAnneer een dart'le jonge <rhyme label="a" type="m">Maeght</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Herodes te <rhyme label="b" type="f">behaghen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Haer in het dansen hoof'lijck <rhyme label="a" type="m" corresp="#s1:l1">draeght</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Soo worde om 't <rhyme label="c" type="m">vermaeck</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Des Koninghs, in die <rhyme label="c" type="m" corresp="#s1:l4">saeck</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Johannes doodt <rhyme label="b" type="f" corresp="#s1:l2">geslaghen</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als oock 't gesuyckerde <rhyme label="a" type="m">Fenijn</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Van 't sondige <rhyme label="b" type="f">vermaecken</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Ons hert verlockt door wellusts <rhyme label="a" type="m" corresp="#s2:l1">schijn</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Soo worght oock in 't <rhyme label="c" type="m">gemoet</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">De smaeck van 't Hemels <rhyme label="c" type="m" corresp="#s2:l4">goedt</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">En lust tot heyl'ge <rhyme label="b" type="f" corresp="#s2:l2">saecken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

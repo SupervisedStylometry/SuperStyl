@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12951</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Laura zat laatst bij de beek</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">WAt beraamen? valt maar <rhyme label="a" type="m">an</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Lustig an het Neetels <rhyme label="b" type="f">plukken</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">(Zey' Diaan) en slaat hem <rhyme label="a" type="m" corresp="#s1:l1">dan</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">d'Onbeschofte huidt an <rhyme label="b" type="f" corresp="#s1:l2">stukken</rhyme>;</l>
+        <l id="s1:l5" met="4" type="+-">Wilt hem Baardt en Staart <rhyme label="b" type="f" corresp="#s1:l2">ontrukken</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Eer ik zelf mijn handt <rhyme label="c" type="m">uitstrekk'</rhyme>;</l>
+        <l id="s1:l7" met="4" type="+-">Vat den Knipper by zijn <rhyme label="d" type="f">ooren</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Al zijn smeeken is <rhyme label="d" type="f" corresp="#s1:l7">verlooren</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">Smijt den Bokxvoet in den <rhyme label="c" type="m" corresp="#s1:l6">drek</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

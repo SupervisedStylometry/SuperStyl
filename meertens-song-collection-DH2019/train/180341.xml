@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>180341</id>
+    <date>
+      <year-start>1783</year-start>
+      <year-end>1783</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Cloris mijn lief mijn tweede leven</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">KLoris Lief mijn tweede <rhyme label="a" type="f">leven</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Waer in heb ik u <rhyme label="a" type="f" corresp="#s1:l1">misdreven</rhyme>?</l>
+        <l id="s1:l3" met="3" type="-+">Dat gy wreed van <rhyme label="b" type="m">zin</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">U stoort aen mijn <rhyme label="b" type="m" corresp="#s1:l3">min</rhyme>?</l>
+        <l id="s1:l5" met="5" type="+-">Ik zal door die straf nog sneven, <rhyme label="a" type="f" corresp="#s1:l1">sneven</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Jonkvrouw gaf ik daer toe <rhyme label="a" type="f">reden</rhyme>?</l>
+        <l id="s2:l2" met="4" type="+-">Soo waert gy met regt <rhyme label="a" type="f" corresp="#s2:l1">t'onvreden</rhyme>;</l>
+        <l id="s2:l3" met="3" type="-+">'k Heb u ten allen <rhyme label="b" type="m">teid</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Mijn hert <rhyme label="b" type="m" corresp="#s2:l3">toegeweid</rhyme>:</l>
+        <l id="s2:l5" met="5" type="+-">Schuw dan de omstandigheden, <rhyme label="a" type="f" corresp="#s2:l1">heden</rhyme>,</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Lief laet my mijn beed <rhyme label="a" type="f">verwinnen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">En verlaet u straffe <rhyme label="a" type="f" corresp="#s3:l1">zinnen</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Kom rijkt my u <rhyme label="b" type="m">Mond</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Ey heel dog mijne <rhyme label="b" type="m" corresp="#s3:l3">wond</rhyme>:</l>
+        <l id="s3:l5" met="5" type="+-">Dan zal ik u regt minnen, <rhyme label="a" type="f" corresp="#s3:l1">minnen</rhyme>,</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Maer die wreede wil niet <rhyme label="a" type="f">hooren</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Zy stopt voor mijn klagt haer <rhyme label="a" type="f" corresp="#s4:l1">oren</rhyme>;</l>
+        <l id="s4:l3" met="3" type="-+">En lacht met mijn <rhyme label="b" type="m">smert</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Cupido treft geen <rhyme label="b" type="m" corresp="#s4:l3">hert</rhyme>,</l>
+        <l id="s4:l5" met="5" type="+-">Want mijn zugten gaen verloren, <rhyme label="a" type="f" corresp="#s4:l1">loren</rhyme>,</l>
+      </lg>
+    </lg>
+  </text>
+</song>

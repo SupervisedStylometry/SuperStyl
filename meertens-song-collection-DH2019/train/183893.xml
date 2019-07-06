@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>183893</id>
+    <date>
+      <year-start>1806</year-start>
+      <year-end>1806</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Jan Steven van Esveldt Holtrop, Willem Holtrop</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">In deeze heilge <rhyme label="a" type="f">muuren</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Kent men de twistzucht <rhyme label="b" type="m">niet</rhyme>.</l>
+        <l id="s1:l3" met="3" type="-+">Vergeeven en <rhyme label="a" type="f" corresp="#s1:l1">bestuuren</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Is wat hier pligt <rhyme label="b" type="m" corresp="#s1:l2">gebiedt</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Vermoeiden reiken wij den <rhyme label="c" type="m">staf</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Dien Sterkte aan ons ten stutte <rhyme label="c" type="m" corresp="#s1:l5">gaf</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">In deez' gewijde <rhyme label="a" type="f">kringen</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Waar de een voor d'andren <rhyme label="b" type="m">leeft</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Kan nimmer vijand <rhyme label="a" type="f" corresp="#s2:l1">dringen</rhyme>;</l>
+        <l id="s2:l4" met="3" type="-+">Wijl men eerst schuld <rhyme label="b" type="m" corresp="#s2:l2">vergeeft</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Die zulk een Schoonheid niet <rhyme label="c" type="m">verblij'</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Zeg nooit dat hij Vrij-Metslaar <rhyme label="c" type="m" corresp="#s2:l5">zij</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">In deeze stille <rhyme label="a" type="f">wallen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Houdt boosheid geen <rhyme label="b" type="m">gericht</rhyme>;</l>
+        <l id="s3:l3" met="3" type="-+">En, zijt ge, ô mensch! <rhyme label="a" type="f" corresp="#s3:l1">gevallen</rhyme>;</l>
+        <l id="s3:l4" met="3" type="-+">De menschheid kent haar' <rhyme label="b" type="m" corresp="#s3:l2">pligt</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">Zij wijst u, aan der Wijsheids <rhyme label="c" type="m">hand</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Den rechten weg naar beter <rhyme label="c" type="m" corresp="#s3:l5">land</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

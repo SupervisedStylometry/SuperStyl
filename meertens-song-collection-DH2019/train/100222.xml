@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100222</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Il est vrai je le confesse</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">ALle dingen hier <rhyme label="a" type="f">beneden</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">Nemen haast een <rhyme label="b" type="m">keer</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Dit bevinden wy nog <rhyme label="a" type="f" corresp="#s1:l1">heden</rhyme></l>
+        <l id="s1:l4" met="3" type="+-">Zonder hoop van <rhyme label="b" type="m" corresp="#s1:l2">meer</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">U aangaande, <rhyme label="c" type="f">voorgevallen</rhyme></l>
+        <l id="s1:l6" met="3" type="+-">Bruydegom en <rhyme label="d" type="m">Bruyt</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Wilt dan nog een weynig <rhyme label="c" type="f" corresp="#s1:l5">brallen</rhyme>,</l>
+        <l id="s1:l8" met="3" type="+-">Morgen is het <rhyme label="d" type="m" corresp="#s1:l6">uyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Morgen zullen die <rhyme label="a" type="f">gewaden</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">Moeten agter <rhyme label="b" type="m">staan</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Al uw pronk en Bruyd <rhyme label="a" type="f" corresp="#s2:l1">çieraden</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">Hebben dan <rhyme label="b" type="m" corresp="#s2:l2">gedaan</rhyme>;</l>
+        <l id="s2:l5" met="4" type="+-">En gaat alle ding te <rhyme label="c" type="f">degen</rhyme>,</l>
+        <l id="s2:l6" met="3" type="+-">Als ik wel <rhyme label="d" type="m">vertrouw</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Wagt dan weder nieuwe <rhyme label="c" type="f" corresp="#s2:l5">Zegen</rhyme>,</l>
+        <l id="s2:l8" met="3" type="+-">Jonge Man en <rhyme label="d" type="m" corresp="#s2:l6">Vrouw</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Kuyert na de witte <rhyme label="a" type="f">Doelen</rhyme>,</l>
+        <l id="s3:l2" met="3" type="+-">Schuylhoek van de <rhyme label="b" type="m">Min</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Om uw kusjes af te <rhyme label="a" type="f" corresp="#s3:l1">spoelen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="+-">Want het is uw <rhyme label="b" type="m" corresp="#s3:l2">zin</rhyme>.</l>
+        <l id="s3:l5" met="4" type="+-">Liefde zal u heen <rhyme label="c" type="f">geleyden</rhyme>,</l>
+        <l id="s3:l6" met="3" type="+-">Daar gy word <rhyme label="d" type="m">verwagt</rhyme></l>
+        <l id="s3:l7" met="4" type="+-">Van de pluymen. 'k Wensch u <rhyme label="c" type="f" corresp="#s3:l5">beyden</rhyme></l>
+        <l id="s3:l8" met="3" type="+-">Voort een goeden <rhyme label="d" type="m" corresp="#s3:l6">nagt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

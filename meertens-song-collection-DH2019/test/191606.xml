@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>191606</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1746</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Wie tegen de oude <rhyme label="a" type="m">Wet</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Der Liefde zig <rhyme label="a" type="m" corresp="#s1:l1">verzet</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Bezwyk in 't yedele <rhyme label="b" type="f">pogen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">En myt vergeefs de <rhyme label="c" type="m">Minne-val</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Getroffen van twee lonkende <rhyme label="b" type="f" corresp="#s1:l3">oogen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">De Liefde dwingt het <rhyme label="c" type="m" corresp="#s1:l4">al</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

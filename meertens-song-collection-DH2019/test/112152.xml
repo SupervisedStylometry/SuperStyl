@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>112152</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="1" type="-+">ACh! <rhyme label="a" type="f">Liefje</rhyme>,</l>
+        <l id="s1:l2" met="1" type="-+">Myn <rhyme label="a" type="f" corresp="#s1:l1">diefje</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">O! Zaligheid; zeg, zeg my de <rhyme label="b" type="m">reên</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Dat uw <rhyme label="b" type="m" corresp="#s1:l3">geween</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Uw rooze <rhyme label="c" type="f">koontjes</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Met zo veel <rhyme label="c" type="f" corresp="#s1:l5">boontjes</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Van ziltend <rhyme label="d" type="m">kristalyn</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Die <rhyme label="e" type="f">amathisten</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Haar helderen gloet en <rhyme label="e" type="f" corresp="#s1:l8">vuurbetwisten</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">Doet behangen <rhyme label="d" type="m" corresp="#s1:l7">zyn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="1" type="-+">Hoe <rhyme label="a" type="f">hikje</rhyme>,</l>
+        <l id="s2:l2" met="1" type="-+">Hoe <rhyme label="a" type="f" corresp="#s2:l1">snikje</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Hoe zugtje zo diep op deze <rhyme label="b" type="m">vraag</rhyme>?</l>
+        <l id="s2:l4" met="2" type="-+">So'k u <rhyme label="b" type="m" corresp="#s2:l3">behaag</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">So ons de <rhyme label="c" type="f">Liefde</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Noch weer zyds <rhyme label="c" type="f" corresp="#s2:l5">griefde</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Gy zoud, o! schoone <rhyme label="d" type="m">Vrouw</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">My wel <rhyme label="e" type="f">verklaaren</rhyme></l>
+        <l id="s2:l9" met="4" type="-+">Wat u zo ontrust, en <rhyme label="e" type="f" corresp="#s2:l8">openbaren</rhyme></l>
+        <l id="s2:l10" met="3" type="-+">De reden van uw <rhyme label="d" type="m" corresp="#s2:l7">rouw</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="1" type="-+">O! <rhyme label="a" type="f">Wreede</rhyme>!</l>
+        <l id="s3:l2" met="1" type="-+">Uw <rhyme label="a" type="f" corresp="#s3:l1">reede</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Quetst myn liefde en getrouwen <rhyme label="b" type="m">gloed</rhyme>,</l>
+        <l id="s3:l4" met="2" type="-+">Dat my dus <rhyme label="b" type="m" corresp="#s3:l3">doet</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">In smert <rhyme label="c" type="f">verzinken</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">Myn oog <rhyme label="c" type="f" corresp="#s3:l5">verdrinken</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Is, dat nu phebus <rhyme label="d" type="m">dryft</rhyme></l>
+        <l id="s3:l8" met="2" type="-+">In tethis <rhyme label="e" type="f">armen</rhyme>,</l>
+        <l id="s3:l9" met="4" type="-+">Wiens lonkjes de gantsche Zee <rhyme label="e" type="f" corresp="#s3:l8">verwarmen</rhyme>,</l>
+        <l id="s3:l10" met="3" type="-+">Gy noch van my <rhyme label="d" type="m" corresp="#s3:l7">blyft</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

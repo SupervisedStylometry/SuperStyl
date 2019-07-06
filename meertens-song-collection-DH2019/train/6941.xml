@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6941</id>
+    <date>
+      <year-start>1627</year-start>
+      <year-end>1627</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>La Durette</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Willem Dirckszoon Hooft, Jan Jansz. Starter, Jacob Westerbaen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">WAnneer een storm met <rhyme label="a" type="f">eeren</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Met voordeel en met <rhyme label="b" type="m">kleen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Verlies van volck, of ganschlijck <rhyme label="b" type="m" corresp="#s1:l2">gheen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">In spijt van die haer <rhyme label="a" type="f" corresp="#s1:l1">weeren</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Volvoert wort, den <rhyme label="c" type="m">vyand</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Tot schaed, en nut van <rhyme label="c" type="m" corresp="#s1:l5">t'Land</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Dan wort de Trom <rhyme label="a" type="f">gheslaghen</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Dan klinckt men de <rhyme label="b" type="m">Trompet</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Dan wort ye Pick-ton <rhyme label="b" type="m" corresp="#s2:l2">uyt-gheset</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Dan hoort men niet <rhyme label="a" type="f" corresp="#s2:l1">ghewaghen</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Als vrolijckheyt en <rhyme label="c" type="m">vreught</rhyme>:</l>
+        <l id="s2:l6" met="3" type="-+">Want elck is dan <rhyme label="c" type="m" corresp="#s2:l5">verheught</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Dus laet ons van <rhyme label="a" type="f">ghelijcken</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Nu onsen <rhyme label="b" type="m">Bruydegom</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">De Storm ghewonnen heeft <rhyme label="b" type="m" corresp="#s3:l2">rondom</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Ons blijdschap laten <rhyme label="a" type="f" corresp="#s3:l1">blijcken</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">En by de Rijnsche <rhyme label="c" type="m">Wijn</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Van harten vrolijck <rhyme label="c" type="m" corresp="#s3:l5">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Laet ons held're <rhyme label="a" type="f">Glasen</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">De Fluyten groot en <rhyme label="b" type="m">kleyn</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">De Koppen, Schalen, dapper <rhyme label="b" type="m" corresp="#s4:l2">reyn</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Van blijdschap uyt gaen <rhyme label="a" type="f" corresp="#s4:l1">blasen</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Elck tast aen zijn <rhyme label="c" type="m">Trompet</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">En hem na't blasen <rhyme label="c" type="m" corresp="#s4:l5">zet</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Dat sullen de <rhyme label="a" type="f">Kartouwen</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Zijn, die ons' <rhyme label="b" type="m">ongheneught</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Wegh schieten sullen, de <rhyme label="b" type="m" corresp="#s5:l2">vreught</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">In hare plaetse <rhyme label="a" type="f" corresp="#s5:l1">bouwen</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">Die onse gheesten <rhyme label="c" type="m">leyt</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">Tot alle <rhyme label="c" type="m" corresp="#s5:l5">vrolijckheyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

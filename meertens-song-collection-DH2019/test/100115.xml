@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100115</id>
+    <date>
+      <year-start>1652</year-start>
+      <year-end>1652</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">DIeu vous garde la belle <rhyme label="a" type="f">Brunette</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Que faicte vous icy <rhyme label="a" type="f" corresp="#s1:l1">seulette</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Vostre Coeur n'est il point <rhyme label="b" type="m">icy</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Touché d'un Amoureuz <rhyme label="b" type="m" corresp="#s1:l3">soucy</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Vous scavez que mon Ame <rhyme label="a" type="f">Cede</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Au loix de ce Dieux qui <rhyme label="a" type="f" corresp="#s2:l1">possede</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Le coeur le plus <rhyme label="b" type="m">audacieux</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">En brulant d'aumour pour vos <rhyme label="b" type="m" corresp="#s2:l3">yeux</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">D'ou vient que vos yeux plein de <rhyme label="a" type="f">charmes</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Font n'aistre ce ruisseau de <rhyme label="a" type="f" corresp="#s3:l1">l'armes</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Serace point qu'amour <rhyme label="b" type="m">vaincoeur</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Vous eust touché pour moy le <rhyme label="b" type="m" corresp="#s3:l3">coeur</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Sache ma Belle &amp; claire <rhyme label="a" type="f">Brune</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Que mon amour n'est point <rhyme label="a" type="f" corresp="#s4:l1">commune</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Ie vous ne scaurois <rhyme label="b" type="m">exprimer</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Combien vos yeux vous font <rhyme label="b" type="m" corresp="#s4:l3">aymer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10952</id>
+    <date>
+      <year-start>1605</year-start>
+      <year-end>1605</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="nieuwjaarslied" translation="new year's song">nieuwjaarslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Lief uitverkoren lief triomfant</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Van achtentachtich het nieuwe <rhyme label="a" type="m">jaer</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">dat is warachtich, heel <rhyme label="a" type="m" corresp="#s1:l1">wonderbaer</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Diet can gelooven, het sal <rhyme label="b" type="m">geschien</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Dat blinde doven hooren noch <rhyme label="b" type="m" corresp="#s1:l3">sien</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">En tisser gheseyt dat menighe <rhyme label="c" type="m">meyt</rhyme></l>
+        <l id="s1:l6" met="5" type="-+">Sonder bescheyt sal nae een vryer <rhyme label="b" type="m" corresp="#s1:l3">vlien</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Dus weest vry vrolijc ghy knaepkens <rhyme label="a" type="m">eel</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Oft bent ghy een moolick, t’is even <rhyme label="a" type="m" corresp="#s2:l1">veel</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Men sal u vryen, om’t groote <rhyme label="b" type="m">goet</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">En oock somtijen omhooghe <rhyme label="b" type="m" corresp="#s2:l3">moet</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Dus hout u wat fris, t’geluck is <rhyme label="c" type="m">onwis</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">Waer datse noch is, diet lach betalen <rhyme label="b" type="m" corresp="#s2:l3">moet</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wy consenteeren, de meyskens <rhyme label="a" type="m">schu</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Dat zijt met eeren, gaen vraghen <rhyme label="a" type="m" corresp="#s3:l1">nu</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">En moghen vryen, wie dat haer <rhyme label="b" type="m">lust</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Wil hyt met lyen, dat sy hem <rhyme label="b" type="m" corresp="#s3:l3">kust</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">So blijft hy in schand, die onachtbaer <rhyme label="c" type="m">quant</rhyme></l>
+        <l id="s3:l6" met="5" type="-+">En vrijght int lant, geen lief die by hem <rhyme label="b" type="m" corresp="#s3:l3">rust</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Princesse schoon, t’is nu u <rhyme label="a" type="m">beurt</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">schenct hem de croone daert hart om <rhyme label="a" type="m" corresp="#s4:l1">treurt</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Het moet doch wesen, dat men <rhyme label="b" type="m">bemint</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Dus wilt niet vresen wie eerst <rhyme label="b" type="m" corresp="#s4:l3">begint</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">De liefde en eer, verachtmen niet <rhyme label="c" type="m">meer</rhyme></l>
+        <l id="s4:l6" met="5" type="-+">Maer maecktse weer aen beyde zijden <rhyme label="b" type="m" corresp="#s4:l3">blint</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

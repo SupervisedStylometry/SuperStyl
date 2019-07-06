@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20205</id>
+    <date>
+      <year-start>1647</year-start>
+      <year-end>1647</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="moralistisch lied" translation="moralistic song">moralistisch lied</tag>
+    </tags>
+    <melody>Florida zo het wezen mag</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HOe seer dat Venus ons <rhyme label="a" type="m">benijt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Om dat ons tijt in kuysheyt <rhyme label="a" type="m" corresp="#s1:l1">slijt</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Sy kan ons niet <rhyme label="b" type="f">veraerde</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">De list van haer gewiekte <rhyme label="c" type="m">Kint</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Wy achten min dan <rhyme label="c" type="m" corresp="#s1:l4">wint</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Door kracht van reynheyt <rhyme label="b" type="f" corresp="#s1:l3">waerde</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Den yver tot het jagen, <rhyme label="a" type="m">doet</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Dat Cupid' geen behagen <rhyme label="a" type="m" corresp="#s2:l1">voed'</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">In ons, tot Liefd' of <rhyme label="b" type="f">Minne</rhyme>.</l>
+        <l id="s2:l4" met="4" type="-+">Want sijn vermogen, niet <rhyme label="c" type="m">vermach</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Daer kloekheyt heeft <rhyme label="c" type="m" corresp="#s2:l4">gesach</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Maer wel op lege <rhyme label="b" type="f" corresp="#s2:l3">sinne</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Dies Maegden, leert sijn slim <rhyme label="a" type="m">beleyt</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">('t Geen u, van eer en vreugde <rhyme label="a" type="m" corresp="#s3:l1">scheyt</rhyme>:)</l>
+        <l id="s3:l3" met="3" type="-+">Door stage vlijt <rhyme label="b" type="f">t'ontvlieden</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">Haet ledigheyt meer dan de <rhyme label="c" type="m">pest</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Want sy, in u <rhyme label="c" type="m" corresp="#s3:l4">gront-vest</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Te doen na Mins <rhyme label="b" type="f" corresp="#s3:l3">gebieden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Latonë Dochter is ons <rhyme label="a" type="m">schilt</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">(Op wien de Minne stoker, <rhyme label="a" type="m" corresp="#s4:l1">spilt</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Vergeefs sijn list en <rhyme label="b" type="f">pijlen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Door dien, haer oog na hooger <rhyme label="c" type="m">siet</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Dan Venus haer <rhyme label="c" type="m" corresp="#s4:l4">aen-bied</rhyme>)</l>
+        <l id="s4:l6" met="3" type="-+">Waerom wy haer na <rhyme label="b" type="f" corresp="#s4:l3">ylen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

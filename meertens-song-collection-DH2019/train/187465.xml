@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>187465</id>
+    <date>
+      <year-start>1796</year-start>
+      <year-end>1796</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Johannes Wilhelmus Bussingh</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Hallelujah! - 's Vaders <rhyme label="a" type="m">Zoon</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Is nu op den <rhyme label="a" type="m" corresp="#s1:l1">Hemeltroon</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Glorierijk <rhyme label="b" type="f">gezeten</rhyme>.</l>
+        <l id="s1:l4" met="4" type="+-">'t Juichend <rhyme label="c" type="m">Serafijnendom</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Wil Hem vrolijk <rhyme label="c" type="m" corresp="#s1:l4">wellekom</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Als zijn Heirvorst, <rhyme label="b" type="f" corresp="#s1:l3">heten</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Hallelujah! - Christ'nen! <rhyme label="a" type="m">ja</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Volgen wij de Serafs <rhyme label="a" type="m" corresp="#s2:l1">na</rhyme>! -</l>
+        <l id="s2:l3" met="3" type="+-">Onze God en <rhyme label="b" type="f">Koning</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Voer om hoog met <rhyme label="c" type="m">Majesteit</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">En heeft ons ook plaets <rhyme label="c" type="m" corresp="#s2:l4">bereid</rhyme></l>
+        <l id="s2:l6" met="3" type="+-">In Zijn <rhyme label="b" type="f" corresp="#s2:l3">Hemelwoning</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Hallelujah! - Vorst en <rhyme label="a" type="m">Heer</rhyme>!</l>
+        <l id="s3:l2" met="4" type="+-">Ja, daer zien we U eenmael <rhyme label="a" type="m" corresp="#s3:l1">weêr</rhyme>,</l>
+        <l id="s3:l3" met="3" type="+-">Van het stof <rhyme label="b" type="f">ontslagen</rhyme>! -</l>
+        <l id="s3:l4" met="4" type="+-">Hallelujah! - Blijde <rhyme label="c" type="m">troost</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Voor 't gevallene Adams <rhyme label="c" type="m" corresp="#s3:l4">kroost</rhyme>,</l>
+        <l id="s3:l6" met="3" type="+-">Op dees dag der <rhyme label="b" type="f" corresp="#s3:l3">dagen</rhyme>! -</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175172</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">Bespiegelend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="+-"><rhyme label="a" type="m">Almanak</rhyme>,</l>
+        <l id="s1:l2" met="2" type="+-"><rhyme label="a" type="m" corresp="#s1:l1">Leugenzak</rhyme>!</l>
+        <l id="s1:l3" met="2" type="+-">Och, 't is <rhyme label="b" type="m">klaar</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Je fopt ons <rhyme label="b" type="m" corresp="#s1:l3">maar</rhyme>;</l>
+        <l id="s1:l5" met="4" type="+-">Slechts één langste dag in 't <rhyme label="b" type="m" corresp="#s1:l3">jaar</rhyme>?</l>
+        <l id="s1:l6" met="4" type="+-">Als men mij om raad woû <rhyme label="c" type="f">vragen</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Maakte ik honderd langste <rhyme label="c" type="f" corresp="#s1:l6">dagen</rhyme>. -</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="+-"><rhyme label="a" type="m">Almanak</rhyme>,</l>
+        <l id="s2:l2" met="2" type="+-"><rhyme label="a" type="m" corresp="#s2:l1">Leugenzak</rhyme>!</l>
+        <l id="s2:l3" met="2" type="+-">Och, 't is <rhyme label="b" type="m">klaar</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">Je fopt ons <rhyme label="b" type="m" corresp="#s2:l3">maar</rhyme>;</l>
+        <l id="s2:l5" met="4" type="+-">Slechts één langste dag in 't <rhyme label="b" type="m" corresp="#s2:l3">jaar</rhyme>?</l>
+        <l id="s2:l6" met="4" type="+-">Als men ons om raad wil <rhyme label="c" type="f">vragen</rhyme>.</l>
+        <l id="s2:l7" met="4" type="+-">Zijn er honderd langste <rhyme label="c" type="f" corresp="#s2:l6">dagen</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

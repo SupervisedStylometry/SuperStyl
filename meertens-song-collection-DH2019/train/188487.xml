@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188487</id>
+    <date>
+      <year-start>1751</year-start>
+      <year-end>1752</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Antoine Mahaut, Kornelis Elzevier</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ku-pi-do die het aldoet <rhyme label="a" type="f">bukken</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Voor uwen boog' vol <rhyme label="b" type="m">mogendheid</rhyme>!</l>
+        <l id="s1:l3" met="4" type="-+">Laet ge u door droefheid <rhyme label="a" type="f" corresp="#s1:l1">onderdrukken</rhyme>?</l>
+        <l id="s1:l4" met="4" type="-+">Wat is toch de oorzaek dat gy <rhyme label="b" type="m" corresp="#s1:l2">schreit</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ach, zegt hy, ik ben <rhyme label="a" type="f">overwonnen</rhyme>.</l>
+        <l id="s2:l2" met="4" type="-+">'t Is met myn' boog' en schigt' <rhyme label="b" type="m">gedaen</rhyme>!</l>
+        <l id="s2:l3" met="4" type="-+">'k Bezwyk voor 't glinstren van twee <rhyme label="a" type="f" corresp="#s2:l1">Zonnen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Die in Klorindes voorhoofdt <rhyme label="b" type="m" corresp="#s2:l2">staen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ik wou het hart dier Schoone <rhyme label="a" type="f">raken</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">En branden doen in <rhyme label="b" type="m">wedermin</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Ik wou die trotsche Nimf doen <rhyme label="a" type="f" corresp="#s3:l1">blaken</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Die my weêrstaet met fellen <rhyme label="b" type="m" corresp="#s3:l2">Zinn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Zy sloeg terstond op my haer <rhyme label="a" type="f">oogen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">'k Werd blind: myn toorts werd <rhyme label="b" type="m">uitgedoofd</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">Myn Schicht ontbloot van zyn <rhyme label="a" type="f" corresp="#s4:l1">vermogen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">En ik dus gansch van magt' <rhyme label="b" type="m" corresp="#s4:l2">berooft</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

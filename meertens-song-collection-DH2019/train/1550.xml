@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1550</id>
+    <date>
+      <year-start>1629</year-start>
+      <year-end>1629</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Psalm 068 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Samuel Ampzing</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Looft God: het heyl, en lof, en <rhyme label="a" type="m">eer</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En magt is onses Gods, en <rhyme label="a" type="m" corresp="#s1:l1">Heer</rhyme>:</l>
+        <l id="s1:l3" met="3" type="-+">Sijn oord’len sijn <rhyme label="b" type="f">waerachtig</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Sijn oord’len sijn <rhyme label="c" type="m">gerechtigheyd</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">En sijn gegrond in <rhyme label="c" type="m" corresp="#s1:l4">billijkheyd</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Sijn hand is sterk, en <rhyme label="b" type="f" corresp="#s1:l3">kragtig</rhyme>.</l>
+        <l id="s1:l7" met="4" type="-+">Hy heeft de groote Hoer <rhyme label="d" type="m">vernield</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Die al het volk gevangen <rhyme label="d" type="m" corresp="#s1:l7">hield</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">Met haere <rhyme label="e" type="f">hoererijen</rhyme>,</l>
+        <l id="s1:l10" met="4" type="-+">Hy heeft het bloed van sijne <rhyme label="f" type="m">kudd</rhyme>’</l>
+        <l id="s1:l11" met="4" type="+-">In toren op haer <rhyme label="f" type="m" corresp="#s1:l10">uytgeschud</rhyme>.</l>
+        <l id="s1:l12" met="3" type="-+">Looft God, wilt u <rhyme label="e" type="f" corresp="#s1:l9">verblijen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

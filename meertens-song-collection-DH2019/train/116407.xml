@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>116407</id>
+    <date>
+      <year-start>1681</year-start>
+      <year-end>1681</year-end>
+    </date>
+    <location>
+      <orginal-name>alkmaar</orginal-name>
+      <standard-name>Alkmaar, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.6312592</lon>
+        <lat>4.7503798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Nerea schoonste van uw geburen</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Claes Stapel</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WIe word, als met een vruchtb're <rhyme label="a" type="f">reegen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En frisze dauw' in d' <rhyme label="b" type="m">uchtend-stond</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Van God met waar geluk en <rhyme label="a" type="f" corresp="#s1:l1">zeegen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Besproeyd? Wie mild'lijk <rhyme label="b" type="m" corresp="#s1:l2">toe-gejond</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Een heil, dat all' het heil op <rhyme label="a" type="f">aarde</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Van wel-lust, pracht en Weerelds <rhyme label="b" type="m">goed</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Maar waan-vermaak van geender <rhyme label="a" type="f" corresp="#s2:l1">waarde</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Ia rampen quelling weezen <rhyme label="b" type="m" corresp="#s2:l2">doet</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wie swemd zijn hert in zoet <rhyme label="a" type="f">vermaaken</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">En stille zee van zachte <rhyme label="b" type="m">rust</rhyme>?</l>
+        <l id="s3:l3" met="4" type="-+">Wie schept uit d' heil-bron zulke <rhyme label="a" type="f" corresp="#s3:l1">zaaken</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Daar ziel  begeert door word <rhyme label="b" type="m" corresp="#s3:l2">geblust</rhyme>?</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Wie krijgt een Heemel op der <rhyme label="a" type="f">aarde</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Een on-uit-zeggelijke <rhyme label="b" type="m">vreugd</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">All wat de wenschlijkheid oit <rhyme label="a" type="f" corresp="#s4:l1">baarde</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Een paradijz vol <rhyme label="b" type="m" corresp="#s4:l2">ziel-geneugd</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

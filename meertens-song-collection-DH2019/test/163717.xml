@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>163717</id>
+    <date>
+      <year-start>1678</year-start>
+      <year-end>1678</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">VOor de reuckeloose <rhyme label="a" type="f">scheeten</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Dat 's een proef die vast moet <rhyme label="b" type="m">gaen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Laet den aers dan open <rhyme label="b" type="m" corresp="#s1:l2">staen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Want dan salmen daed'lijck <rhyme label="a" type="f" corresp="#s1:l1">weten</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Als het roockt datmen schier <rhyme label="c" type="m">kropt</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Of sijn snuyvert is <rhyme label="c" type="m" corresp="#s1:l5">verstopt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Is de quijl-goot dan <rhyme label="a" type="f">bedorven</rhyme>?</l>
+        <l id="s2:l2" met="4" type="+-">Is dat snotterigh <rhyme label="b" type="m">riool</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Doodt, gelijck een doove <rhyme label="b" type="m" corresp="#s2:l2">kool</rhyme>?</l>
+        <l id="s2:l4" met="4" type="+-">Isser 't leven <rhyme label="a" type="f" corresp="#s2:l1">uytgestorven</rhyme>?</l>
+        <l id="s2:l5" met="4" type="+-">'k Weet noch een remedie: <rhyme label="c" type="m">wat</rhyme>?</l>
+        <l id="s2:l6" met="4" type="+-">Steeckts' in Elsjes <rhyme label="c" type="m" corresp="#s2:l5">warmegat</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

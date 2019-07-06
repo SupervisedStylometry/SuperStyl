@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2588</id>
+    <date>
+      <year-start>1622</year-start>
+      <year-end>1622</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Esprits qui soupirez</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">Ay hooch verheven Ziel, en overschoone <rhyme label="a" type="f">Vrouwe</rhyme></l>
+        <l id="s1:l2" met="6" type="-+">Godinne vande Goon, ghebiester van mijn <rhyme label="b" type="m">hoop</rhyme>,</l>
+        <l id="s1:l3" met="6" type="-+">Waerom vliet ghy van mijn, is dit oprechte <rhyme label="a" type="f" corresp="#s1:l1">trouwe</rhyme></l>
+        <l id="s1:l4" met="6" type="-+">Soo smelt mijn bradent hert, dat ick met traenen <rhyme label="b" type="m" corresp="#s1:l2">droop</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Mijn Vrou mijn teer gemoet, vermeestert met <rhyme label="a" type="f">gepeynsen</rhyme></l>
+        <l id="s2:l2" met="6" type="-+">Jaecht my nu nae de deur, van u gheluckich <rhyme label="b" type="m">Huys</rhyme>,</l>
+        <l id="s2:l3" met="6" type="-+">Ick coom hier raesent heen, ick kan niet langer <rhyme label="a" type="f" corresp="#s2:l1">veynsen</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Maer laes de deur is toe, dat is mijn t'meeste <rhyme label="b" type="m" corresp="#s2:l2">cruys</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">Ach deur, ach wreede deur, is dit dan u <rhyme label="a" type="f">vermaecken</rhyme></l>
+        <l id="s3:l2" met="6" type="-+">Behaecht u mijn verdriet, en onghemeene <rhyme label="b" type="m">smart</rhyme>,</l>
+        <l id="s3:l3" met="6" type="-+">Laet my ten minsten toe, dat ick eens mach <rhyme label="a" type="f" corresp="#s3:l1">ghenaecken</rhyme>,</l>
+        <l id="s3:l4" met="6" type="-+">Het straalen van haer ooch, dat mijn ghemoet <rhyme label="b" type="m" corresp="#s3:l2">verwart</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">Gheluckich zyt ghy huys, die in u hebt <rhyme label="a" type="f">beslooten</rhyme></l>
+        <l id="s4:l2" met="6" type="-+">Des werelts hooghe roem, en sijn ghecierde <rhyme label="b" type="m">pracht</rhyme>,</l>
+        <l id="s4:l3" met="6" type="-+">Al dees ghewenste lust, hebt ghy alleen <rhyme label="a" type="f" corresp="#s4:l1">ghenooten</rhyme>,</l>
+        <l id="s4:l4" met="6" type="-+">Gheluckich sijt ghy wel, maer meerder niet <rhyme label="b" type="m" corresp="#s4:l2">gheacht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

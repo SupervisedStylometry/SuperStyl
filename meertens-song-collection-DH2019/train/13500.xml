@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13500</id>
+    <date>
+      <year-start>1662</year-start>
+      <year-end>1662</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+    </tags>
+    <melody>A solis ortus cardine</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Tjaert Sonnema</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DE helre Son so wydt en <rhyme label="a" type="m">breed</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Sijn glinsterende straelen <rhyme label="a" type="m" corresp="#s1:l1">schiet</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">So loven wy met stem en <rhyme label="b" type="m">toon</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Der reine Maegd Mari en <rhyme label="b" type="m" corresp="#s1:l3">Soon</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die alle ding geschaepen <rhyme label="a" type="m">heeft</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">In knechts gestalte sich <rhyme label="a" type="m" corresp="#s2:l1">begeeft</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Die in het vleesch het vleesch <rhyme label="b" type="m">aennam</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">En 't schepsel ten verderf niet <rhyme label="b" type="m" corresp="#s2:l3">quam</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Het Godlik Licht van Hemel <rhyme label="a" type="m">af</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Sich in een kuische Maeghd <rhyme label="a" type="m" corresp="#s3:l1">begaf</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Een Maeghd wiert in haer lichaem <rhyme label="b" type="m">swaer</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Van 't geen voor Haer verborgen <rhyme label="b" type="m" corresp="#s3:l3">waer</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Dat sedigh Huis, dat suiver <rhyme label="a" type="m">hert</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">So haest een tempel Godes <rhyme label="a" type="m" corresp="#s4:l1">wert</rhyme>;</l>
+        <l id="s4:l3" met="4" type="-+">Die stae'gh haer lichaem had in <rhyme label="b" type="m">tucht</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Die wert van Godes Woord <rhyme label="b" type="m" corresp="#s4:l3">bevrucht</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Dit is 't, het welk met <rhyme label="a" type="m">sekerheid</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Ons Gabriël had <rhyme label="a" type="m" corresp="#s5:l1">voor-geseit</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">En Sint Johan ook springen <rhyme label="b" type="m">toond</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Toen hy in Moeders lichaem <rhyme label="b" type="m" corresp="#s5:l3">woond</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Sijn bedde wiert van hooy <rhyme label="a" type="m">bereidt</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Hy lagh in krib met <rhyme label="a" type="m" corresp="#s6:l1">lydsaemheid</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Hy wiert met weinigh melk <rhyme label="b" type="m">gequeekt</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Dat nooit den vogelen <rhyme label="b" type="m" corresp="#s6:l3">ontbreekt</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Dies is des Hemels Choor <rhyme label="a" type="m">verheught</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">Dies singen d'Engelen met <rhyme label="a" type="m" corresp="#s7:l1">vreughd</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">So wiert gemaekt den Herders <rhyme label="b" type="m">kond</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">De Herder van des werelts <rhyme label="b" type="m" corresp="#s7:l3">rond</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

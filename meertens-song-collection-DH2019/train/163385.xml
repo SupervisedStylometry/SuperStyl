@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>163385</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Ach schone Cariclea</melody>
+  <author>Cornelis Maertsz.</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">EEn Wagen niet als <rhyme label="a" type="m">vlam</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Diens Paerden draefden door een vliegend' <rhyme label="b" type="m">gloet</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Door Wolck en Hemel <rhyme label="a" type="m" corresp="#s1:l1">quam</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Omcingelt van een Storm die heftigh <rhyme label="b" type="m" corresp="#s1:l2">woed</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">En daelde met een snellen <rhyme label="c" type="m">draf</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Van boven, by Elias <rhyme label="c" type="m" corresp="#s1:l5">af</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Doe stapte die <rhyme label="a" type="m">Propheet</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">In de Karos, vrymoedigh <rhyme label="b" type="m">onvervaert</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">En voer alsoo daer <rhyme label="a" type="m" corresp="#s2:l1">meed</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Wt 't Aerdtsche pleyn, om hoogh ten <rhyme label="b" type="m" corresp="#s2:l2">Hemel-waert</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Door Storm, en onweer, vuer, en <rhyme label="c" type="m">gloet</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Kreegh hy voor 't Aertsch het Hemels <rhyme label="c" type="m" corresp="#s2:l5">goedt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">De Doodt, die <rhyme label="a" type="m">onverhoets</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">Met schrick en anghst, een flauwe ziel <rhyme label="b" type="m">beroert</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Is mede sulcken <rhyme label="a" type="m" corresp="#s3:l1">Koets</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Die van der Aerdt Godts volck ten Hemel <rhyme label="b" type="m" corresp="#s3:l2">voert</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">De Doodt toon vry een vuer'ghe <rhyme label="c" type="m">schijn</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">'t Sal maer Elias Waghen <rhyme label="c" type="m" corresp="#s3:l5">sijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

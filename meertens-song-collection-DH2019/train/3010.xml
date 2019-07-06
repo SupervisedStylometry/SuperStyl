@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3010</id>
+    <date>
+      <year-start>1574</year-start>
+      <year-end>1574</year-end>
+    </date>
+    <location>
+      <orginal-name>gent</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Mij dacht dat ik in rode roosjes lag</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Matthijs de Castelein</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wy laghen al den nacht <rhyme label="a" type="m">vergaerdt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Jck hadde al mynen <rhyme label="b" type="f">wille</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Elck onser toochde zynen <rhyme label="a" type="m" corresp="#s1:l1">aerdt</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Gheen tijdt en lach zy <rhyme label="b" type="f" corresp="#s1:l2">stille</rhyme>:</l>
+        <l id="s1:l5" met="3" type="-+">Sy speelde my een <rhyme label="c" type="f">toerkin</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">En boodt my en wat <rhyme label="d" type="f">warems</rhyme>:</l>
+        <l id="s1:l7" met="3" type="-+">Te wylen vaechdick <rhyme label="c" type="f" corresp="#s1:l5">tvloerkin</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Sy dau my in haer <rhyme label="d" type="f" corresp="#s1:l6">arems</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Ende achter veel <rhyme label="d" type="f" corresp="#s1:l6">ghecarems</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">Noyt hoe zy my <rhyme label="e" type="m">besach</rhyme>,</l>
+        <l id="s1:l11" met="5" type="+-">My docht dat ic in roode rooskins <rhyme label="e" type="m" corresp="#s1:l10">lach</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Noyt ooghen saghen sulck een <rhyme label="a" type="m">spel</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Als wy daer bee <rhyme label="b" type="f">beseuen</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Gheen tonghe en soudt volspreken <rhyme label="a" type="m" corresp="#s2:l1">wel</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">De vreuchd die wy <rhyme label="b" type="f" corresp="#s2:l2">bedreuen</rhyme>:</l>
+        <l id="s2:l5" met="3" type="-+">Wy speelden mette <rhyme label="c" type="f">schaexkins</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">En draeyden Uenus <rhyme label="d" type="f">wostkins</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Sy custe altoos mijn <rhyme label="c" type="f" corresp="#s2:l5">caexkins</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Ende ick taste haer schoon <rhyme label="d" type="f" corresp="#s2:l6">bostkins</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">Noyt vriendelicker <rhyme label="d" type="f" corresp="#s2:l6">lostkins</rhyme>,</l>
+        <l id="s2:l10" met="3" type="-+">Noyt amoreuser <rhyme label="e" type="m">dach</rhyme>,</l>
+        <l id="s2:l11" met="5" type="+-">My docht dat ick in roode rooskins <rhyme label="e" type="m" corresp="#s2:l10">lach</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ons vreucht was weerd thien duysent <rhyme label="a" type="m">pondt</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Noyt spel van meerder <rhyme label="b" type="f">weerden</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Wy laghen tsamen mondt aen <rhyme label="a" type="m" corresp="#s3:l1">mondt</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Alsoo naer als tghers der <rhyme label="b" type="f" corresp="#s3:l2">eerden</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Jck sach dat soete <rhyme label="c" type="f">struycskin</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">En zy bekeeck mijn <rhyme label="d" type="f">veelkin</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Doen clam ick op haer <rhyme label="c" type="f" corresp="#s3:l5">buyckskin</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">En sy ontfijnck mijn <rhyme label="d" type="f" corresp="#s3:l6">steelkin</rhyme>,</l>
+        <l id="s3:l9" met="3" type="-+">Wy speelden d’oude <rhyme label="d" type="f" corresp="#s3:l6">speelkin</rhyme></l>
+        <l id="s3:l10" met="3" type="-+">Ghelijck ons vader <rhyme label="e" type="m">plach</rhyme>,</l>
+        <l id="s3:l11" met="5" type="+-">My docht dat ick in roode rooskins <rhyme label="e" type="m" corresp="#s3:l10">lach</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Den dach die quam, die nacht <rhyme label="a" type="m">verghinck</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Die maecht die moest haer <rhyme label="b" type="f">cleeden</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">Sy claechde seer dat sotte <rhyme label="a" type="m" corresp="#s4:l1">dinck</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Dat zy daer af moest <rhyme label="b" type="f" corresp="#s4:l2">scheeden</rhyme>:</l>
+        <l id="s4:l5" met="3" type="-+">S’en was niet om <rhyme label="c" type="f">verdrouuen</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Jck sacht wel aen haer <rhyme label="d" type="f">seden</rhyme>:</l>
+        <l id="s4:l7" met="3" type="-+">Wy ghinghent weer <rhyme label="c" type="f" corresp="#s4:l5">herprouuen</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Doch was zy bet te <rhyme label="d" type="f" corresp="#s4:l6">vreden</rhyme>,</l>
+        <l id="s4:l9" met="3" type="-+">Wy maecten moede <rhyme label="d" type="f" corresp="#s4:l6">leden</rhyme>,</l>
+        <l id="s4:l10" met="3" type="-+">G’helijck elck wel peysen <rhyme label="e" type="m">mach</rhyme>,</l>
+        <l id="s4:l11" met="5" type="+-">My docht dat ick in roode rooskins <rhyme label="e" type="m" corresp="#s4:l10">lach</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

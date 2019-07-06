@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22021</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Nun freut euch liebe Christen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">OCh Heer straft niet, in uwen <rhyme label="a" type="m">torn</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Castijdt my niet, met <rhyme label="b" type="f">grimme</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Ontfermt u mijns, oft ick van <rhyme label="a" type="m" corresp="#s1:l1">verlorn</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Mijn cracht die is gheheel <rhyme label="b" type="f" corresp="#s1:l2">dunne</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Gheneest my Heer: want verscrickt sijn <rhyme label="c" type="m">fel</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Mijn beenen, en Siel, met <rhyme label="c" type="m" corresp="#s1:l5">tghequel</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">O Heere Godt: hoe <rhyme label="d" type="f">langhe</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Keert u Heer: verlost die Siel <rhyme label="a" type="m">mijn</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">En dat om uwe <rhyme label="b" type="f">goethede</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Want inden Doot en ghedencktmen niet <rhyme label="a" type="m" corresp="#s2:l1">dijn</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Noch niemandt in Shelsche <rhyme label="b" type="f" corresp="#s2:l2">stede</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Ick sucht, en clag, en met tranen <rhyme label="c" type="m">nadt</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Maeck ick mijn bedde, ghelijck een <rhyme label="c" type="m" corresp="#s2:l5">badt</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Mijn aensicht, dat is <rhyme label="d" type="f">verandert</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ick worde benaudt door Godts <rhyme label="a" type="m">torn</rhyme>:</l>
+        <l id="s3:l2" met="3" type="-+">Wyckt van my, die onrecht <rhyme label="b" type="f">wercken</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Godt heeft mijn weenende stem <rhyme label="a" type="m" corresp="#s3:l1">vercorn</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">In Godt wil ick my <rhyme label="b" type="f" corresp="#s3:l2">verstercken</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">Mijn smeecken, en bidden, neemt hy <rhyme label="c" type="m">aen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Mijnen vyand? die moet in schanden <rhyme label="c" type="m" corresp="#s3:l5">staen</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">En met verschricktheyt te rug <rhyme label="d" type="f">keeren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

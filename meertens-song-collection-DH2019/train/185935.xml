@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185935</id>
+    <date>
+      <year-start>1717</year-start>
+      <year-end>1717</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>O Hartenwee o ramp o plagen</melody>
+  <author>Hermanus van den Burg</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Hartenwee, o Ramp, o <rhyme label="a" type="f">Plaagen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Helaas ach ach wat <rhyme label="b" type="m">druk</rhyme>,</l>
+        <l id="s1:l3" met="6" type="-+">Ik kan het dartel Oog der wulpse Mans <rhyme label="a" type="f" corresp="#s1:l1">behaagen</rhyme>,</l>
+        <l id="s1:l4" met="5" type="+-">Vlugt, vlugt, vlugt, vlugt, <rhyme label="c" type="m">vlugt</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">verganklyk schoon, gy legt, gy legt <rhyme label="d" type="m">te</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">wulps myn deugdig herte <rhyme label="a" type="f" corresp="#s1:l1">laagen</rhyme>,</l>
+        <l id="s1:l7" met="3" type="+-">Helaas herschep my, herschep <rhyme label="e" type="f">my</rhyme></l>
+        <l id="s1:l8" met="7" type="+-">Goôn, de schoonheit is een pak dat my valt zwaar te <rhyme label="a" type="f" corresp="#s1:l1">draagen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185916</id>
+    <date>
+      <year-start>1790</year-start>
+      <year-end>1790</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WAnneer de Zon in de <rhyme label="a" type="m">Dageraet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Scheen met zyn lieffelyk <rhyme label="a" type="m" corresp="#s1:l1">gelaet</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Zy stont den Hemel zo schoon en zo <rhyme label="b" type="m">bloot</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Wanneer de Zon in 't <rhyme label="b" type="m" corresp="#s1:l3">Morgenroot</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">O Zon, o straelen, o straelen lief en <rhyme label="c" type="m">schoon</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Die stanen aen des Hemels <rhyme label="c" type="m" corresp="#s1:l5">troon</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">De velden ruike <rhyme label="a" type="m">lieffelyk</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">En zyn met gras bloemtjes <rhyme label="a" type="m" corresp="#s2:l1">ryk</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">En zyn zeer schoon en ook zeer zoet van <rhyme label="b" type="m">geur</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Al met zyn lieffelyke <rhyme label="b" type="m" corresp="#s2:l3">kleur</rhyme>:</l>
+        <l id="s2:l5" met="5" type="-+">O Zon, o straelen, o straelen lief en <rhyme label="c" type="m">schoon</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Die stanen aen des Hemels <rhyme label="c" type="m" corresp="#s2:l5">troon</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Aensiet de gulde Zon en <rhyme label="a" type="m">Maen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Hoe sierlyk aen den Hemel <rhyme label="a" type="m" corresp="#s3:l1">staen</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">En ook de sterre my door haer <rhyme label="b" type="m">aenschyn</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">En 't lieffelyk Zonneligt <rhyme label="b" type="m" corresp="#s3:l3">allein</rhyme>:</l>
+        <l id="s3:l5" met="5" type="-+">O Zon, o straelen, o straelen lief en <rhyme label="c" type="m">schoon</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Die stanen aen des Hemels <rhyme label="c" type="m" corresp="#s3:l5">troon</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

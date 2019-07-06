@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>186969</id>
+    <date>
+      <year-start>1708</year-start>
+      <year-end>1708</year-end>
+    </date>
+    <location>
+      <orginal-name>gouda</orginal-name>
+      <standard-name>Gouda, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114922</lon>
+        <lat>4.7106094</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Ballet van de graaf van Monterey</melody>
+  <author>Jan van Hoogstraten</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Gy hebt het beste deel <rhyme label="a" type="f">verkoren</rhyme></l>
+        <l id="s1:l2" met="2" type="-+"><rhyme label="b" type="m">Eusebia</rhyme>:</l>
+        <l id="s1:l3" met="5" type="-+">Die, wars van 's werrelts tooverzang te <rhyme label="a" type="f" corresp="#s1:l1">hooren</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Volgt uw Schepper <rhyme label="b" type="m" corresp="#s1:l2">na</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Om wien, gy, van 't gewoel <rhyme label="c" type="f">geweken</rhyme>;</l>
+        <l id="s1:l6" met="3" type="+-">'T geen de werrelt <rhyme label="d" type="m">bied</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">In stilte u zelf <rhyme label="d" type="m" corresp="#s1:l6">beziet</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">En vry, en <rhyme label="c" type="f" corresp="#s1:l5">onbezweken</rhyme></l>
+        <l id="s1:l9" met="3" type="+-">'T zielgevaar <rhyme label="d" type="m" corresp="#s1:l6">ontvlied</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Zoo zwaar als 't valt, in schaarse <rhyme label="a" type="f">jaren</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">Met <rhyme label="b" type="m">overleg</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">De boomvrugt, tot zy rijp is, te <rhyme label="a" type="f" corresp="#s2:l1">bewaren</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">Groejende aen den <rhyme label="b" type="m" corresp="#s2:l2">weg</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Zoo moeilijk is 't, het menslijk <rhyme label="c" type="f">leven</rhyme>,</l>
+        <l id="s2:l6" met="3" type="+-">'T aards gewoel <rhyme label="d" type="m">gewend</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Te houden <rhyme label="d" type="m" corresp="#s2:l6">ongeschent</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Tot dat het ons <rhyme label="c" type="f" corresp="#s2:l5">begeven</rhyme></l>
+        <l id="s2:l9" met="3" type="+-">Gaat om 't uiterste <rhyme label="d" type="m" corresp="#s2:l6">end</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Maar gy, die, om gerust te <rhyme label="a" type="f">mijden</rhyme>,</l>
+        <l id="s3:l2" met="2" type="-+">Wat aanstoot <rhyme label="b" type="m">wekt</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">De werrelt, en haar lokaas treed ter <rhyme label="a" type="f" corresp="#s3:l1">zijden</rhyme>;</l>
+        <l id="s3:l4" met="3" type="+-">Leeft hier <rhyme label="b" type="m" corresp="#s3:l2">onbevlekt</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">Eusebia want gy, <rhyme label="c" type="f">gezeten</rhyme></l>
+        <l id="s3:l6" met="3" type="+-">In uwe <rhyme label="d" type="m">eenzaamheen</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Hebt niets met haar <rhyme label="d" type="m" corresp="#s3:l6">gemeen</rhyme>;</l>
+        <l id="s3:l8" met="3" type="-+">En zy, van u <rhyme label="c" type="f" corresp="#s3:l5">vergeten</rhyme>,</l>
+        <l id="s3:l9" met="3" type="+-">Stelt u noyt te <rhyme label="d" type="m" corresp="#s3:l6">onvreen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

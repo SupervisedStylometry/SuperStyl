@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35905</id>
+    <date>
+      <year-start>1678</year-start>
+      <year-end>1678</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+    </tags>
+    <melody>Maria schoon</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Verheught u <rhyme label="a" type="m">vry</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Steenvelt waer blijde <rhyme label="a" type="m" corresp="#s1:l1">ghy</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Blaest u Trompetten <rhyme label="b" type="m">alghelijck</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Eenen nieuwen Ioseph <rhyme label="c" type="m">weer</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Voor de Moeder van den <rhyme label="c" type="m" corresp="#s1:l4">Heer</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Brenght ghy voort uyt dit aertsche <rhyme label="b" type="m" corresp="#s1:l3">slijck</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Singht van vreucht nu <rhyme label="b" type="m" corresp="#s1:l3">alghelijck</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Den Lof-sanck <rhyme label="d" type="m">Gloria</rhyme>,</l>
+        <l id="s1:l9" met="4" type="-+">Wilt nu singhen voor en <rhyme label="d" type="m" corresp="#s1:l8">naer</rhyme>,</l>
+        <l id="s1:l10" met="4" type="-+">Dat blijde liedt <rhyme label="d" type="m" corresp="#s1:l8">Alleluia</rhyme>,</l>
+        <l id="s1:l11" met="3" type="+-">Want ghy wint <rhyme label="d" type="m" corresp="#s1:l8">victoria</rhyme>,</l>
+        <l id="s1:l12" met="4" type="+-">Looft den Bruydegom van de <rhyme label="e" type="m">Maeght</rhyme>,</l>
+        <l id="s1:l13" met="4" type="-+">Die haer ten hooghsten heeft <rhyme label="e" type="m" corresp="#s1:l12">behaeght</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Vol <rhyme label="a" type="m">oodtmoedigheydt</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Hy stack uyt in <rhyme label="a" type="m" corresp="#s2:l1">suyverheydt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En uyt ghemunt in alle <rhyme label="b" type="m">deught</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Vry van s’werelts <rhyme label="c" type="m">pracht</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Ydel eere hy <rhyme label="c" type="m" corresp="#s2:l4">verhacht</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">En in Godts dienst hy hem <rhyme label="b" type="m" corresp="#s2:l3">verheught</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">By Maria was alle sijn <rhyme label="b" type="m" corresp="#s2:l3">vreught</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Waerom sy hem <rhyme label="d" type="m">eert</rhyme>,</l>
+        <l id="s2:l9" met="4" type="-+">Met haere liefde hem <rhyme label="d" type="m" corresp="#s2:l8">vereert</rhyme>,</l>
+        <l id="s2:l10" met="4" type="-+">En met haer Trouwe hem <rhyme label="d" type="m" corresp="#s2:l8">vermeert</rhyme>,</l>
+        <l id="s2:l11" met="3" type="+-">Suyver min sy hem <rhyme label="d" type="m" corresp="#s2:l8">leert</rhyme>,</l>
+        <l id="s2:l12" met="4" type="+-">Gaf s’hem den Bruydegoms <rhyme label="e" type="m">naem</rhyme>,</l>
+        <l id="s2:l13" met="4" type="-+">Waer toe s’hem heeft ghemaeckt <rhyme label="e" type="m" corresp="#s2:l12">bequaem</rhyme>,</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">O Ioseph <rhyme label="a" type="m">vermaert</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Maria u <rhyme label="a" type="m" corresp="#s3:l1">verklaert</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Voor haeren liefsten <rhyme label="b" type="m">Bruydegom</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Thoont u <rhyme label="c" type="m">voorspraeck</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Voor my in dese <rhyme label="c" type="m" corresp="#s3:l4">saeck</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Dat ick oock naermaels tot u <rhyme label="b" type="m" corresp="#s3:l3">kom</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">En van u weldaden <rhyme label="b" type="m" corresp="#s3:l3">rom</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Dat ick wesen magh <rhyme label="d" type="m">vry</rhyme>,</l>
+        <l id="s3:l9" met="4" type="-+">Van dees vleesch <rhyme label="d" type="m" corresp="#s3:l8">slavernije</rhyme>,</l>
+        <l id="s3:l10" met="4" type="-+">En met u werde <rhyme label="d" type="m" corresp="#s3:l8">blije</rhyme>,</l>
+        <l id="s3:l11" met="3" type="+-">In des Hemels <rhyme label="d" type="m" corresp="#s3:l8">melodije</rhyme>,</l>
+        <l id="s3:l12" met="4" type="+-">Daer men houdt met u de <rhyme label="e" type="m">feest</rhyme>,</l>
+        <l id="s3:l13" met="4" type="-+">Hermanus Ioseph Salighen <rhyme label="e" type="m" corresp="#s3:l12">gheest</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>117852</id>
+    <date>
+      <year-start>1687</year-start>
+      <year-end>1687</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody>Tien geboden</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Willem Sluiter</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Jezu Christe, gy zijt <rhyme label="a" type="f">waardig</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Te houden Avondmaal met <rhyme label="b" type="m">my</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Maar ik beken hoe gants <rhyme label="a" type="f" corresp="#s1:l1">onwaardig</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Ik die genad' en weldaad <rhyme label="b" type="m" corresp="#s1:l2">zy</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Te klein is mijnes herten <rhyme label="a" type="f">woning</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Te vuyl is mijner zielen <rhyme label="b" type="m">huys</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Dat gy o heylig machtig <rhyme label="a" type="f" corresp="#s2:l1">Koning</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Soudt trecken in soo slechten <rhyme label="b" type="m" corresp="#s2:l2">kluys</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Oock selfs der hem'len hemel, <rhyme label="a" type="f">Heere</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">En soud' u doch begrijpen <rhyme label="b" type="m">niet</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Sal ick aennemen dan dees' <rhyme label="a" type="f" corresp="#s3:l1">eere</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Die gy uw arme schepsel <rhyme label="b" type="m" corresp="#s3:l2">biedt</rhyme>?</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">En soud ick niet door schaemte <rhyme label="a" type="f">schromen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Dat uwe groote <rhyme label="b" type="m">Majesteyt</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Wil onder 't dack mijns herten <rhyme label="a" type="f" corresp="#s4:l1">komen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Daer niet en is voor u <rhyme label="b" type="m" corresp="#s4:l2">bereydt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Doch gy sult alles brengen <rhyme label="a" type="f">mede</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">De spijs, den drank, en 't schoon <rhyme label="b" type="m">gewaet</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Waer meed' gy alles sult <rhyme label="a" type="f" corresp="#s5:l1">bekleden</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">En schicken op na uwen <rhyme label="b" type="m" corresp="#s5:l2">staet</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Doet sulcks, o Heer, soo sal ick <rhyme label="a" type="f">wesen</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Geheel gewillig en <rhyme label="b" type="m">bereydt</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Voor u mijns herten huys na <rhyme label="a" type="f" corresp="#s6:l1">desen</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Te houden tot in <rhyme label="b" type="m" corresp="#s6:l2">eeuwigheydt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

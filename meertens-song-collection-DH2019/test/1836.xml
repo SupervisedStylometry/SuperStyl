@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1836</id>
+    <date>
+      <year-start>1615</year-start>
+      <year-end>1615</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">OCh voester van mijn leven, o puyck van onse <rhyme label="a" type="m">jeucht</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Hoort nu eens aan, Hoort nu eens <rhyme label="b" type="m">aan</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Mijn klachtig droef en leedt <rhyme label="b" type="m" corresp="#s1:l2">vermaan</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Op dat mijn ziel mach troost <rhyme label="b" type="m" corresp="#s1:l2">ontfaan</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">En leven eens in <rhyme label="a" type="m" corresp="#s1:l1">vreucht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Gaan ick voorby u deure soo ghy daar neemt op <rhyme label="a" type="m">acht</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Mijn ooghen siet, Mijn ooghen <rhyme label="b" type="m">siet</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Verdraeyen noch en wenden <rhyme label="b" type="m" corresp="#s2:l2">niet</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Voor dat s’ u vrou hebben <rhyme label="b" type="m" corresp="#s2:l2">bespiet</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Mee draghend’ levens <rhyme label="a" type="m" corresp="#s2:l1">cracht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">Ontmoetend’ u op strate alleen of met mijn <rhyme label="a" type="m">tween</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Van schaemten haast, Van schaemten <rhyme label="b" type="m">haast</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Word ick heel root en soo <rhyme label="b" type="m" corresp="#s3:l2">verbaast</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Dat ick daar door vergheet ten <rhyme label="b" type="m" corresp="#s3:l2">laast</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">’T ghedacht, en al mijn <rhyme label="a" type="m" corresp="#s3:l1">reen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">Eer sal de Winter laten sijn haghel sneeu en <rhyme label="a" type="m">kou</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Oock by gheval, Oock by <rhyme label="b" type="m">gheval</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">De bosschen, velden, boomen <rhyme label="b" type="m" corresp="#s4:l2">al</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Haar groene lof, eer ick dan <rhyme label="b" type="m" corresp="#s4:l2">sal</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Laten dees liefd’ o <rhyme label="a" type="m" corresp="#s4:l1">vrou</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="6" type="-+">Ick bid u tot vergeldingh van mijn <rhyme label="a" type="m">ghediensticheyt</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Ontfanght mijn dan, Ontfanght mijn <rhyme label="b" type="m">dan</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Tot een ghetrouwen dienaer <rhyme label="b" type="m" corresp="#s5:l2">an</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">(Door enckel gonst uws herten) <rhyme label="b" type="m" corresp="#s5:l2">van</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">Vwe <rhyme label="a" type="m" corresp="#s5:l1">eerwaerdicheyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

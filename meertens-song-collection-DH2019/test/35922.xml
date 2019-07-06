@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35922</id>
+    <date>
+      <year-start>1630</year-start>
+      <year-end>1630</year-end>
+    </date>
+    <location>
+      <orginal-name>cortryck [kortrijk]</orginal-name>
+      <standard-name>Kortrijk, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8276199</lon>
+        <lat>3.2659948</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+    </tags>
+    <melody>Dat dan Judea nu verblij</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">EEn kindt dat heeft de locht <rhyme label="a" type="m">verglaest</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Als het daer in het water <rhyme label="a" type="m" corresp="#s1:l1">blaest</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Daer zeep in swemt: dit blaesken <rhyme label="b" type="m">staet</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Schoon ende claer tot dat <rhyme label="b" type="m" corresp="#s1:l3">vergaet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">’T is omgedraeyt glas-schijnich <rhyme label="a" type="m">ront</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Maer al sijn schoonheyt valt <rhyme label="a" type="m" corresp="#s2:l1">terstont</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">De Locht, die ’t water daer <rhyme label="b" type="m">besluyt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Die doet ghewelt, en breeckt daer <rhyme label="b" type="m" corresp="#s2:l3">uyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">’T bobbelken berst en springht van <rhyme label="a" type="m">een</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">En al sijn schoonheydt vliecht daer <rhyme label="a" type="m" corresp="#s3:l1">heen</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Och mensch het is een ronde <rhyme label="b" type="m">O</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Dat het sal gaen met u <rhyme label="b" type="m" corresp="#s3:l3">alsoo</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Die heden schijnt ‘tschoonste van <rhyme label="a" type="m">al</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">En is hier morghen niet met <rhyme label="a" type="m" corresp="#s4:l1">al</rhyme>.</l>
+        <l id="s4:l3" met="4" type="-+">och mensch het gaet hier met ons <rhyme label="b" type="m">oock</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Ghelijck het gaet al met den <rhyme label="b" type="m" corresp="#s4:l3">roock</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176081</id>
+    <date>
+      <year-start>1640</year-start>
+      <year-end>1640</year-end>
+    </date>
+    <location>
+      <orginal-name>deventer</orginal-name>
+      <standard-name>Deventer, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.2532272</lon>
+        <lat>6.1584725</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 087 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacobus Revius</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">SYn wooning' heeft gegrondet God <rhyme label="a" type="f">almachtich</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Op het gebercht van syne <rhyme label="b" type="m">heylicheyt</rhyme>.</l>
+        <l id="s1:l3" met="5" type="-+">Syn herte meer aen Sions poorten <rhyme label="b" type="m" corresp="#s1:l2">leyt</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Als aen de rest van Iacobs steden <rhyme label="a" type="f" corresp="#s1:l1">prachtich</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Men spreect van u voortreffelicke <rhyme label="a" type="f">dingen</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">O Godes stat. het schoon Egypten <rhyme label="b" type="m">sal</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">En Babel oock, haer namen, int <rhyme label="b" type="m" corresp="#s2:l2">getal</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Van 'tvolc hetwelc my kennet, laten <rhyme label="a" type="f" corresp="#s2:l1">bringen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">De Philisteen, de Tyries, de <rhyme label="a" type="f">Moren</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Siet, seggen sy, dit volck is daer <rhyme label="b" type="m">geteelt</rhyme>!</l>
+        <l id="s3:l3" met="5" type="-+">Een yegelijck houdt synen stam <rhyme label="b" type="m" corresp="#s3:l2">vereelt</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Van dat hy mach in Sion zijn <rhyme label="a" type="f" corresp="#s3:l1">geboren</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">De Hoochste sal haer stercken en <rhyme label="a" type="f">vergrooten</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">En, als de Heer de volcken teeckent <rhyme label="b" type="m">aen</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">Sal yederman begeerich zijn, te <rhyme label="b" type="m" corresp="#s4:l2">staen</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">By die, die zijn uyt Godes stat <rhyme label="a" type="f" corresp="#s4:l1">gesproten</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Een vroolijck liet de sangers sullen <rhyme label="a" type="f">singen</rhyme>,</l>
+        <l id="s5:l2" met="5" type="-+">Het snaren-spel vermenget sich <rhyme label="b" type="m">daer-mee</rhyme>:</l>
+        <l id="s5:l3" met="5" type="-+">Wt u alleen, als uyt een volle <rhyme label="b" type="m" corresp="#s5:l2">see</rhyme>,</l>
+        <l id="s5:l4" met="5" type="-+">Sal 'twater van al mijn fonteynen <rhyme label="a" type="f" corresp="#s5:l1">springen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

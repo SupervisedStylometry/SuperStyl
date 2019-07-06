@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>121097</id>
+    <date>
+      <year-start>1725</year-start>
+      <year-end>1725</year-end>
+    </date>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>La grédeline</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Ik heb een les <rhyme label="a" type="f">gekregen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Van Bacchus soete <rhyme label="b" type="m">Kind</rhyme>:</l>
+        <l id="s1:l3" met="3" type="-+">Geen Fluytjes uyt te <rhyme label="a" type="f" corresp="#s1:l1">vegen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Als daar men Helden <rhyme label="b" type="m" corresp="#s1:l2">vint</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Fluytjes wil ik sonder <rhyme label="c" type="f">plengen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Glaasjes wil ik sonder <rhyme label="d" type="m">dorst</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">En ’’t is een Borst, die sonder <rhyme label="d" type="m" corresp="#s1:l6">dorst</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Weet een glaasje voort te <rhyme label="c" type="f" corresp="#s1:l5">brengen</rhyme></l>
+        <l id="s1:l9" met="4" type="+-">In een teugje <rhyme label="d" type="m" corresp="#s1:l6">ongemorst</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">t’’Sa basen vol van <rhyme label="a" type="f">vreugde</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Vrienden van het edele <rhyme label="b" type="m">nat</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Drie glasen zyn drie <rhyme label="a" type="f" corresp="#s2:l1">teugen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Drie maakt een <rhyme label="b" type="m" corresp="#s2:l2">klaver-blad</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Het blaadje wil ik met een <rhyme label="c" type="f">sleetje</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">’’t Steeltje wil ik sonder <rhyme label="d" type="m">meer</rhyme>:</l>
+        <l id="s2:l7" met="4" type="-+">Dier is ’’t geen, Hier kon ik <rhyme label="d" type="m" corresp="#s2:l6">stal</rhyme>.</l>
+        <l id="s2:l8" met="4" type="+-">En ik zweer by Bacchus <rhyme label="c" type="f" corresp="#s2:l5">keeltje</rhyme>,</l>
+        <l id="s2:l9" met="4" type="+-">Dat ik niet meer suypen <rhyme label="d" type="m" corresp="#s2:l6">sal</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Dog tot een soet <rhyme label="a" type="f">besluytje</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Van dese <rhyme label="b" type="m">vrolijkheyt</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Breng ’’k u een minnelijk <rhyme label="a" type="f" corresp="#s3:l1">fluytje</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">De Iuffers <rhyme label="b" type="m" corresp="#s3:l2">toe-geweyt</rhyme>:</l>
+        <l id="s3:l5" met="4" type="+-">’’k Wil het na mijn keeltje <rhyme label="c" type="f">stieren</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">’’k Laat het na myn hertje <rhyme label="d" type="m">gaan</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Uyt is de Fluyt, ’’k Zing <rhyme label="d" type="m" corresp="#s3:l6">overluyt</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">’’k Wil nu venus kusjes <rhyme label="c" type="f" corresp="#s3:l5">vieren</rhyme>,</l>
+        <l id="s3:l9" met="4" type="+-">Bacchus lessen hebben <rhyme label="d" type="m" corresp="#s3:l6">uyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

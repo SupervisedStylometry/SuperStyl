@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12803</id>
+    <date>
+      <year-start>1658</year-start>
+      <year-end>1658</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Psalm 042 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">ICk heb eerst mijn Naem <rhyme label="a" type="f">ontfangen</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">In den Doop by 'tChristen <rhyme label="b" type="m">volck</rhyme>:</l>
+        <l id="s1:l3" met="4" type="+-">Desen naem is voor mijn <rhyme label="a" type="f" corresp="#s1:l1">gangen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Als een rechte hemelsch <rhyme label="b" type="m" corresp="#s1:l2">tolck</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Want als ick mijn naem maer <rhyme label="c" type="m">hoor</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Komt my daedelijck te <rhyme label="c" type="m" corresp="#s1:l5">voor</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Dat ick aen Godt ben <rhyme label="d" type="f">gebonden</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Om te strijden tegen <rhyme label="d" type="f" corresp="#s1:l7">sonden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Eer ick 'tbroodt des Heeren <rhyme label="a" type="f">eete</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Doe ick naerstigh <rhyme label="b" type="m">ondersouck</rhyme>.</l>
+        <l id="s2:l3" met="4" type="+-">Of my 'tquaet oock is <rhyme label="a" type="f" corresp="#s2:l1">vergeete</rhyme>:</l>
+        <l id="s2:l4" met="4" type="+-">Of ick vry ben van Gods <rhyme label="b" type="m" corresp="#s2:l2">vlouck</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">Of ick heb een reyn <rhyme label="c" type="m">geloof</rhyme>.</l>
+        <l id="s2:l6" met="4" type="+-">Of mijn oore niet is <rhyme label="c" type="m" corresp="#s2:l5">doof</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">Om de wetten Gods te <rhyme label="d" type="f">hooren</rhyme>:</l>
+        <l id="s2:l8" met="4" type="+-">Of ick al ben <rhyme label="d" type="f" corresp="#s2:l7">wederbooren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Als ick gae aen tafel <rhyme label="a" type="f">treden</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Dorst mijn ziel na Christi <rhyme label="b" type="m">bloet</rhyme>:</l>
+        <l id="s3:l3" met="4" type="+-">Als ick eet met Christi <rhyme label="a" type="f" corresp="#s3:l1">leeden</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Voel ick vreught in mijn <rhyme label="b" type="m" corresp="#s3:l2">gemoet</rhyme>.</l>
+        <l id="s3:l5" met="4" type="+-">Als ick dan van daer sal <rhyme label="c" type="m">gaen</rhyme>;</l>
+        <l id="s3:l6" met="4" type="+-">Neem ick liefde daer van <rhyme label="c" type="m" corresp="#s3:l5">daen</rhyme>.</l>
+        <l id="s3:l7" met="4" type="+-">Die dan op mijn gangen <rhyme label="d" type="f">letten</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">Sien my wandlen in Gods <rhyme label="d" type="f" corresp="#s3:l7">wetten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

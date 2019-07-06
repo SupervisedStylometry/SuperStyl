@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6236</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Petit Bordeaux</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Meysje-maat die alle <rhyme label="a" type="f">dagen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Mijn gehoorsaamheyt en <rhyme label="b" type="m">trou</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Ondervint, wat meugt gy <rhyme label="a" type="f" corresp="#s1:l1">vragen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Of ik wel een ruyltje <rhyme label="b" type="m" corresp="#s1:l2">wou</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Met u leggen: daar gy <rhyme label="c" type="f">Engel</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Van te voren so wel <rhyme label="d" type="m">weet</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Hoe dat ick om ruylen <rhyme label="c" type="f" corresp="#s1:l5">hengel</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">En ben tot u dienst <rhyme label="d" type="m" corresp="#s1:l6">gereet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Zoetert ziet daer zijn mijn <rhyme label="a" type="f">blaren</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Ziet daer is mijn herten <rhyme label="b" type="m">Heer</rhyme>:</l>
+        <l id="s2:l3" met="4" type="+-">Wilt het oock met my so <rhyme label="a" type="f" corresp="#s2:l1">klaren</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">En geef my het herte <rhyme label="b" type="m" corresp="#s2:l2">weer</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Hout de Schoppen voor een <rhyme label="c" type="f">ander</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Want die my niet aen en <rhyme label="d" type="m">staen</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Laet ons ruylen met <rhyme label="c" type="f" corresp="#s2:l5">malkander</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Maer met onse herte <rhyme label="d" type="m" corresp="#s2:l6">blaen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

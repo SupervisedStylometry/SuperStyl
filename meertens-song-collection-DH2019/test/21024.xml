@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21024</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
+      <tag standard-name="moralistisch lied" translation="moralistic song">moralistisch lied</tag>
+    </tags>
+    <melody>O zalig heilig Bethlehem</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">INdiender oproer is int <rhyme label="a" type="m">landt</rhyme>.</l>
+        <l id="s1:l2" met="4" type="-+">'t Is by gebrek van goede <rhyme label="b" type="f">wetten</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">De Vyandt met een loosen <rhyme label="a" type="m" corresp="#s1:l1">trandt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Soekt dan sijn stoel in 't perk te <rhyme label="b" type="f" corresp="#s1:l2">zetten</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Maar order in een <rhyme label="a" type="m">Koninkrijk</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Maakt vrede en welstant in de <rhyme label="b" type="f">Landen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Waar'n Koningh heerst met goe <rhyme label="a" type="m" corresp="#s2:l1">practijk</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Daar heeft den Luymer stompe <rhyme label="b" type="f" corresp="#s2:l2">tanden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Voorzichtigheyt met list <rhyme label="a" type="m">vermenkt</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Daar meê regeerde Keyzer <rhyme label="b" type="f">Karel</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Dus is het,, die het glory <rhyme label="a" type="m" corresp="#s3:l1">schenkt</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">De wijsheyt? d'allerschoonste <rhyme label="b" type="f" corresp="#s3:l2">Parel</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Niet als een oorsaak van 't <rhyme label="a" type="m">bestant</rhyme>.</l>
+        <l id="s4:l2" met="4" type="-+">Een middel,, ons van God <rhyme label="b" type="f">gegeven</rhyme>.</l>
+        <l id="s4:l3" met="4" type="-+">En liefde by soo'n gaaf <rhyme label="a" type="m" corresp="#s4:l1">geplant</rhyme>?</l>
+        <l id="s4:l4" met="4" type="-+">Doet stadt,, en huys in vreuchde <rhyme label="b" type="f" corresp="#s4:l2">leven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2406</id>
+    <date>
+      <year-start>1597</year-start>
+      <year-end>1597</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Bedroefd hartje</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Hendrik van Boxtel</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">EEn bloem van vrouwen, min ic in <rhyme label="a" type="f">trouwen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Mijn herte staet in haer <rhyme label="b" type="m">bedwanck</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Wou sy aenschouwen, mijn groot <rhyme label="a" type="f" corresp="#s1:l1">benouwen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Ick waer in vreuchden mijn leven <rhyme label="b" type="m" corresp="#s1:l2">lanck</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Haer wangskens bloosen, als roode <rhyme label="a" type="f">roosen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Had sy gheweest voor Paris <rhyme label="b" type="m">present</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Al sonder posen, had hy <rhyme label="a" type="f" corresp="#s2:l1">gherosen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Haer voor die schoone Helena <rhyme label="b" type="m" corresp="#s2:l2">jent</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Mocht my ghebueren, tot deser <rhyme label="a" type="f">uren</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Een soet ghesicht van haeren <rhyme label="b" type="m">persoon</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Al mijn besueren, en sou niet <rhyme label="a" type="f" corresp="#s3:l1">dueren</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">My docht ick waer in der vreuchden <rhyme label="b" type="m" corresp="#s3:l2">throon</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Prince verheven, mijn vreucht mijn <rhyme label="a" type="f">leven</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Hangt alleen aen heur <rhyme label="b" type="m">voorwaer</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Sy is ghebleven, int herte <rhyme label="a" type="f" corresp="#s4:l1">gheschreven</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">God gon dat ick blijf haer shertsen <rhyme label="b" type="m" corresp="#s4:l2">paer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

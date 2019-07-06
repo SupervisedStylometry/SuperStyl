@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10629</id>
+    <date>
+      <year-start>1591</year-start>
+      <year-end>1591</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="meilied" translation="May song">meilied</tag>
+    </tags>
+    <melody>Chi passa per questa strada</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Door haer virtuyten, die cruyden <rhyme label="a" type="f">spruyten</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Die voghels fluyten al na haer <rhyme label="b" type="m">aert</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Comt nu vry buyten v liefde <rhyme label="a" type="f" corresp="#s1:l1">uyten</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Blijft niet in muyten, weest <rhyme label="b" type="m" corresp="#s1:l2">onvervaert</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Acht niet den praet, van nijders <rhyme label="c" type="m">quaet</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Maer haer versmaet en varen <rhyme label="c" type="m" corresp="#s1:l5">laet</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Tot uwer baet, En met v liefken <rhyme label="b" type="m" corresp="#s1:l2">praet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Melancolie, Set aen d'een <rhyme label="a" type="f">zye</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Met moede blije, ghenuecht <rhyme label="b" type="m">hanteert</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Laet nu ten tije, goe <rhyme label="a" type="f" corresp="#s2:l1">sermonije</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Sonder onvrye, Sijn <rhyme label="b" type="m" corresp="#s2:l2">gheuseert</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">De Mey nu plant met goet <rhyme label="c" type="m">verstant</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Die triumphant, ons hier int <rhyme label="c" type="m" corresp="#s2:l5">lant</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Seer abondant, met zijnder deucht <rhyme label="b" type="m" corresp="#s2:l2">vereert</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Princes eerbaer, dees May <rhyme label="a" type="f">eenpaer</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">In tsoetste vant Jaer datter sal <rhyme label="b" type="m">comen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Neemt hem nu waer, en weest <rhyme label="a" type="f" corresp="#s3:l1">danckbaer</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">V liefken claer, cust sonder <rhyme label="b" type="m" corresp="#s3:l2">schromen</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">En neemt in danck, sonder <rhyme label="c" type="m">bedwanck</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Het licht gesanck, van ons die <rhyme label="c" type="m" corresp="#s3:l5">cranck</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">In conste ranck, zijn Mostaert <rhyme label="b" type="m" corresp="#s3:l2">bloemen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

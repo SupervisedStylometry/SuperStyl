@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>130707</id>
+    <date>
+      <year-start>1711</year-start>
+      <year-end>1711</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>C'est le dieu des eaux qui va paraître</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Ick wil op Venus snaren niet meer <rhyme label="a" type="f">vedelen</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Want het maekt de Rykste maer tot <rhyme label="a" type="f" corresp="#s1:l1">bedelen</rhyme>:</l>
+        <l id="s1:l3" met="2" type="-+">Al haer <rhyme label="b" type="m">gesoen</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Is om de <rhyme label="b" type="m" corresp="#s1:l3">poen</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Van Boer of <rhyme label="a" type="f" corresp="#s1:l1">Edelen</rhyme>;</l>
+        <l id="s1:l6" met="4" type="-+">Daer is het maer om te <rhyme label="b" type="m" corresp="#s1:l3">doen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Ik weet myn schyven anders uit te <rhyme label="a" type="f">soetelen</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Ik heb de ziert   van 't frommele en <rhyme label="a" type="f" corresp="#s2:l1">troetelen</rhyme>:</l>
+        <l id="s2:l3" met="2" type="-+">Al dat <rhyme label="b" type="m">gestreel</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Is - by myn <rhyme label="b" type="m" corresp="#s2:l3">keel</rhyme>! -</l>
+        <l id="s2:l5" met="3" type="-+">Wat te <rhyme label="a" type="f" corresp="#s2:l1">verhoetelen</rhyme>!</l>
+        <l id="s2:l6" met="4" type="-+">Ik houw de strijkstok van de <rhyme label="b" type="m" corresp="#s2:l3">Veel</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Souwd ik so mijn goet en myn bloet <rhyme label="a" type="f">verdartelen</rhyme>?</l>
+        <l id="s3:l2" met="5" type="-+">Nee, 'k laet my van de liefde so niet <rhyme label="a" type="f" corresp="#s3:l1">martelen</rhyme>!</l>
+        <l id="s3:l3" met="2" type="-+">'k Word voor myn <rhyme label="b" type="m">geld</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">Beter <rhyme label="b" type="m" corresp="#s3:l3">besteld</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Als soo te <rhyme label="a" type="f" corresp="#s3:l1">spartelen</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Of van Vrouw Venus neer <rhyme label="b" type="m" corresp="#s3:l3">geveld</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Als ik maer eens mag ruiken aen Bacchus <rhyme label="a" type="f">kurken</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Ik laat   de Min voor Heidens en voor <rhyme label="a" type="f" corresp="#s4:l1">Turken</rhyme>.</l>
+        <l id="s4:l3" met="2" type="-+">O Koele <rhyme label="b" type="m">wijn</rhyme>,</l>
+        <l id="s4:l4" met="2" type="-+">Drank van de <rhyme label="b" type="m" corresp="#s4:l3">Rein</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Als ik u mag <rhyme label="a" type="f" corresp="#s4:l1">lurken</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Veragt ik de <rhyme label="b" type="m" corresp="#s4:l3">minne-pijn</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

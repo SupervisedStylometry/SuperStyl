@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185027</id>
+    <date>
+      <year-start>1800</year-start>
+      <year-end>1800</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Notre meunier chargé d'argent</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">De Molenaar droeg zeer veel <rhyme label="a" type="m">geld</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Na 't dorp hier by <rhyme label="b" type="f">geleegen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Met een hoord hy een groot <rhyme label="a" type="m" corresp="#s1:l1">geweld</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Zig in 't loof <rhyme label="b" type="f" corresp="#s1:l2">begeeven</rhyme>,</l>
+        <l id="s1:l5" met="6" type="-+">De Molenaar, de Molenaar had zeer veel <rhyme label="c" type="m">moed</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Schoon hem de angst ontroeren <rhyme label="c" type="m" corresp="#s1:l5">doet</rhyme>,</l>
+        <l id="s1:l7" met="6" type="+-">Daarom wilt gy, wilt gy uw naar myn raad <rhyme label="d" type="f">gedraagen</rhyme>,</l>
+        <l id="s1:l8" met="5" type="-+">Wilt uw voortaan in 't duister Bosch niet <rhyme label="d" type="f" corresp="#s1:l7">waagen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hoor onze jonge Cloë <rhyme label="a" type="m">ging</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Ging eens aan door deez' <rhyme label="b" type="f">Papen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Zy keert terug mits haare <rhyme label="a" type="m" corresp="#s2:l1">ring</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">En ook haar hals <rhyme label="b" type="f" corresp="#s2:l2">cieraaden</rhyme>,</l>
+        <l id="s2:l5" met="6" type="-+">o Onze, onze schoone Cloë had veel <rhyme label="c" type="m">moed</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Schoon haar de angst ontroeren <rhyme label="c" type="m" corresp="#s2:l5">doet</rhyme>,</l>
+        <l id="s2:l7" met="6" type="+-">Schoon wilt gy, wilt gy uw naar myn raad <rhyme label="d" type="f">gedraagen</rhyme>.</l>
+        <l id="s2:l8" met="5" type="-+">Wilt uw voortaan in 't duister Bosch niet <rhyme label="d" type="f" corresp="#s2:l7">waagen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Digt by dat Bosch is een <rhyme label="a" type="m">Vally</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Ging eenzaam door deez' <rhyme label="b" type="f">Oorden</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Van verre hoord men een <rhyme label="a" type="m" corresp="#s3:l1">geschry</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Of men een man <rhyme label="b" type="f" corresp="#s3:l2">vermoorde</rhyme>,</l>
+        <l id="s3:l5" met="6" type="-+">Ik zag die schim, die schim van een <rhyme label="c" type="m">Pastoor</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Die riep my zidderent aan 't <rhyme label="c" type="m" corresp="#s3:l5">oor</rhyme>.</l>
+        <l id="s3:l7" met="6" type="+-">Daarom wilt gy, wilt gy uw naar myn raad <rhyme label="d" type="f">gedraagen</rhyme>,</l>
+        <l id="s3:l8" met="5" type="-+">Wilt uw voortaan in donker bosch niet <rhyme label="d" type="f" corresp="#s3:l7">waagen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

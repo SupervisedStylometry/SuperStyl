@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19870</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Wanneer ik slaap</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Johan van Born</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">WAnneer ick slaep voel ick mijns levens <rhyme label="a" type="m">vreught</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Als my den droom door mijns LIefsschijn <rhyme label="a" type="m" corresp="#s1:l1">verheught</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Als sy my aen haer mondt een kusjen <rhyme label="b" type="m">jont</rhyme>,</l>
+        <l id="s1:l4" met="6" type="+-">Waer mee sy my stelt, door haer soet <rhyme label="c" type="m">ghewelt</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Waer mee sy my stelt <rhyme label="d" type="f">gevangen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">O slaep, o soete slaep, duert <rhyme label="d" type="f" corresp="#s1:l5">lange</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Als ick ontwaeck soeck ick verlooren <rhyme label="a" type="m">goet</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">'t Welck my ontgaet, en volght den slaep met <rhyme label="a" type="m" corresp="#s2:l1">spoet</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">En laet my alleen naer, 't dencken aen <rhyme label="b" type="m">haer</rhyme>,</l>
+        <l id="s2:l4" met="6" type="+-">Die mijn vry gemoet, door haer ooghskens <rhyme label="c" type="m">soet</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Die mijn vry gemoet hout <rhyme label="d" type="f">neder</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">O slaep, o soete slaep, komt <rhyme label="d" type="f" corresp="#s2:l5">weder</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">In mijn gemoet sien ick haer nacht en <rhyme label="a" type="m">dagh</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Ick maeck my wijs, 't geen niet wesen en <rhyme label="a" type="m" corresp="#s3:l1">mach</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Nochtans dees dwalingh soet, mijn leven <rhyme label="b" type="m">voedt</rhyme>:</l>
+        <l id="s3:l4" met="6" type="+-">Want sy tegen sin, van dien ick <rhyme label="c" type="m">bemin</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Want sy tegen sin my haer <rhyme label="d" type="f">naeckt</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">O slaep, o soete slaep, dit waer <rhyme label="d" type="f" corresp="#s3:l5">maeckt</rhyme>,</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Och of dees slaep, die my aenbrocht dees <rhyme label="a" type="m">vreught</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Daer ick naer gaep, weder quam met <rhyme label="a" type="m" corresp="#s4:l1">geneught</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">'t Waer my vermaking goet, in <rhyme label="b" type="m">tegenspoet</rhyme>,</l>
+        <l id="s4:l4" met="6" type="+-">Dies mijn eensaemheyt, Lief niet langher <rhyme label="c" type="m">beyt</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Die mijn eensaemheyt wilt <rhyme label="d" type="f">staecken</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">O slaep o soete slaep, wilt <rhyme label="d" type="f" corresp="#s4:l5">naecken</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">In mijn droom, opend ick haer mijn <rhyme label="a" type="m">hert</rhyme>:</l>
+        <l id="s5:l2" met="5" type="-+">Och of den schroom en vrees in al mijn <rhyme label="a" type="m" corresp="#s5:l1">smert</rhyme>,</l>
+        <l id="s5:l3" met="5" type="-+">Door haer antwoorde klaer, een eynde <rhyme label="b" type="m">waer</rhyme>,</l>
+        <l id="s5:l4" met="6" type="+-">Ick soud metter spoet, vreught hanteren <rhyme label="c" type="m">soet</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">Ick soud metter spoet druck <rhyme label="d" type="f">laten</rhyme>.</l>
+        <l id="s5:l6" met="4" type="-+">O slaep o soete slaep, ter <rhyme label="d" type="f" corresp="#s5:l5">baten</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="5" type="-+">Princesse reyn, mijn hert en mijn <rhyme label="a" type="m">gemoedt</rhyme></l>
+        <l id="s6:l2" met="5" type="-+">Houdt ghy alleyn, dies ick met groot <rhyme label="a" type="m" corresp="#s6:l1">ootmoet</rhyme></l>
+        <l id="s6:l3" met="5" type="-+">U bid om troost seer reyn, o edel <rhyme label="b" type="m">greyn</rhyme></l>
+        <l id="s6:l4" met="6" type="+-">Want ghy my alleen, in dit groot <rhyme label="c" type="m">geween</rhyme>,</l>
+        <l id="s6:l5" met="4" type="-+">Want ghy my alleen doet <rhyme label="d" type="f">haken</rhyme>,</l>
+        <l id="s6:l6" met="4" type="-+">O slaep, o soete slaep, komt <rhyme label="d" type="f" corresp="#s6:l5">vaecken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

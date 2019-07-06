@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184483</id>
+    <date>
+      <year-start>1738</year-start>
+      <year-end>1738</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Johan Deknatel</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MYn Hooft, myn Koning en myn <rhyme label="a" type="m">God</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Myn Kroon, myn Loon, myn <rhyme label="b" type="f">Alles</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Om wien ik liever schand en <rhyme label="a" type="m" corresp="#s1:l1">spot</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Dan alle vrucht des <rhyme label="b" type="f" corresp="#s1:l2">Valles</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Dan aller weereld vreugd' en <rhyme label="c" type="m">lust</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Goed, gaave, roem en <rhyme label="d" type="f">eere</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">'t Welk door de dood word <rhyme label="c" type="m" corresp="#s1:l5">uitgebluscht</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">t'Ontfangen hier <rhyme label="d" type="f" corresp="#s1:l6">begeere</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>130215</id>
+    <date>
+      <year-start>1710</year-start>
+      <year-end>1710</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Ach, hoe wreed is 't als men <rhyme label="a" type="m">mind</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">En geen mededogen <rhyme label="a" type="m" corresp="#s1:l1">vind</rhyme>!</l>
+        <l id="s1:l3" met="4" type="+-">Gy kunt, bloemen, bos en <rhyme label="b" type="f">hagen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Van mijn leed getuigenis <rhyme label="b" type="f" corresp="#s1:l3">dragen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Gy ziet dagelyks mijn <rhyme label="c" type="m">verdriet</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">En hoe Damon voor mijn <rhyme label="c" type="m" corresp="#s1:l5">vliet</rhyme>.</l>
+        <l id="s1:l7" met="7" type="+-">En hoe Damon voor mijn, En hoe Damon voor myn <rhyme label="c" type="m" corresp="#s1:l5">vliet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Die tot lijden is <rhyme label="a" type="m">geteeld</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Werd noyt van 't geluk <rhyme label="a" type="m" corresp="#s2:l1">gestreeld</rhyme>.</l>
+        <l id="s2:l3" met="4" type="+-">Dan komt ons de min-God <rhyme label="b" type="f">plagen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Elk is slaef na sijn <rhyme label="b" type="f" corresp="#s2:l3">behagen</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">Hy lagt selfs   met ons <rhyme label="c" type="m">verdriet</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">En agt al ons klagen <rhyme label="c" type="m" corresp="#s2:l5">niet</rhyme>.</l>
+        <l id="s2:l7" met="7" type="+-">En agt al ons klagen, En agt al ons klagen <rhyme label="c" type="m" corresp="#s2:l5">niet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

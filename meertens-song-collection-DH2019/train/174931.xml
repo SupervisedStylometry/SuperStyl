@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174931</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>In de bijbel staat geschreven</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">In den Bijbel staat <rhyme label="a" type="f">geschreven</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Dat Gods Englen ons <rhyme label="a" type="f" corresp="#s1:l1">omzweven</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">En bewaken in den <rhyme label="b" type="m">nacht</rhyme>;</l>
+        <l id="s1:l4" met="4" type="+-">Dat geen boosheid ons kan <rhyme label="c" type="f">hindren</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">En dat alle vrome <rhyme label="c" type="f" corresp="#s1:l4">kindren</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Veilig slapen in hun <rhyme label="b" type="m" corresp="#s1:l3">wacht</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Dikwijls als ik had <rhyme label="a" type="f">gebeden</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Was 't, of op mijn <rhyme label="a" type="f" corresp="#s2:l1">oogeleden</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Nog een nachtkus werd <rhyme label="b" type="m">gedrukt</rhyme>:</l>
+        <l id="s2:l4" met="4" type="+-">Zou dat niet een Engel <rhyme label="c" type="f">wezen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Dacht ik - en met heilig <rhyme label="c" type="f" corresp="#s2:l4">vreezen</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Heb ik 't hoofd ter rust <rhyme label="b" type="m" corresp="#s2:l3">gebukt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

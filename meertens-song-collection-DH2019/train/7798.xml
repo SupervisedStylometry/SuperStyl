@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>7798</id>
+    <date>
+      <year-start>1615</year-start>
+      <year-end>1615</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="passielied" translation="passion song">passielied</tag>
+    </tags>
+    <melody>Psalm 042 Datheen</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">ALs een Hert met Dorst <rhyme label="a" type="f">bevangen</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Hijght na Water-beken <rhyme label="b" type="m">koel</rhyme>:</l>
+        <l id="s1:l3" met="4" type="+-">Al-soo haack ick niet <rhyme label="a" type="f" corresp="#s1:l1">verlangen</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Na mijn GODT uyt desen <rhyme label="b" type="m" corresp="#s1:l2">Poel</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">O mijn Ziel weest wel <rhyme label="c" type="m">gerust</rhyme>:</l>
+        <l id="s1:l6" met="4" type="+-">Want ghy sult nu uwen <rhyme label="c" type="m" corresp="#s1:l5">lust</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Haast sien, en u na dit <rhyme label="d" type="f">schreyen</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">In GODTS Paradys <rhyme label="d" type="f" corresp="#s1:l7">vermeyen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Ick en wil niet langer <rhyme label="a" type="f">trueren</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Off ick schoon 'sDOODTS doncker <rhyme label="b" type="m">dal</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Moet betreden, want zijn <rhyme label="a" type="f" corresp="#s2:l1">dueren</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Ick gevangen breken <rhyme label="b" type="m" corresp="#s2:l2">sal</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">Doch eerst selffs ick doodt moet <rhyme label="c" type="m">sijn</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Om te worden 'sDOODTS <rhyme label="c" type="m" corresp="#s2:l5">Fenyn</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Luyd' ick roep nu om te <rhyme label="d" type="f">thoonen</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Mijne cracht hen die my <rhyme label="d" type="f" corresp="#s2:l7">hoonen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Ghy en sult u niet meer <rhyme label="a" type="f">helen</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">O mijn VADER, en mijn <rhyme label="b" type="m">GODT</rhyme>:</l>
+        <l id="s3:l3" met="4" type="+-">In u hand' wil ick <rhyme label="a" type="f" corresp="#s3:l1">bevelen</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Mynen Geest: dit is het <rhyme label="b" type="m" corresp="#s3:l2">slot</rhyme>:</l>
+        <l id="s3:l5" met="4" type="+-">Daar met eyndt mijn Lijden <rhyme label="c" type="m">groot</rhyme>.</l>
+        <l id="s3:l6" met="4" type="+-">Siet daar comt de bleycke <rhyme label="c" type="m" corresp="#s3:l5">DOODT</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Die my met haar Pyl sal <rhyme label="d" type="f">pramen</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">En den Hemel op doen; <rhyme label="d" type="f" corresp="#s3:l7">Amen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

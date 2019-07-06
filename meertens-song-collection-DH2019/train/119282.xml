@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>119282</id>
+    <date>
+      <year-start>1730</year-start>
+      <year-end>1730</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Laatstmaal zat ik op een hek</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Jakobus Rosseau</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">BLoet wat zien ik hier al <rhyme label="a" type="m">vreugd</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Hoe braveerd de jonge <rhyme label="a" type="m" corresp="#s1:l1">jeugd</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Zingen, springen, <rhyme label="b" type="f">schranssen</rhyme>,</l>
+        <l id="s1:l4" met="2" type="+-">Raar <rhyme label="c" type="m">gebrus</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">En zoet <rhyme label="c" type="m" corresp="#s1:l4">gekus</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Stoeie, knoeie, <rhyme label="b" type="f" corresp="#s1:l3">danssen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Ja men roept hier <rhyme label="a" type="m">overluit</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Lang leeft Bruidegom en <rhyme label="a" type="m" corresp="#s2:l1">Bruid</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">Dat zy zonder <rhyme label="b" type="f">gekken</rhyme>,</l>
+        <l id="s2:l4" met="2" type="+-">Binne 't <rhyme label="c" type="m">Jaar</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Met <rhyme label="c" type="m" corresp="#s2:l4">elkaâr</rhyme>,</l>
+        <l id="s2:l6" met="3" type="+-">Aan het wiegtouw <rhyme label="b" type="f" corresp="#s2:l3">trekken</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Wis dat is een zoete <rhyme label="a" type="m">trant</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Als men Wieg en <rhyme label="a" type="m" corresp="#s3:l1">Luiermand</rhyme>,</l>
+        <l id="s3:l3" met="3" type="+-">Vind by echte <rhyme label="b" type="f">Lieden</rhyme>,</l>
+        <l id="s3:l4" met="2" type="+-">Dat wy <rhyme label="c" type="m">meê</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">Aan dees <rhyme label="c" type="m" corresp="#s3:l4">twee</rhyme>,</l>
+        <l id="s3:l6" met="3" type="+-">Wensche te <rhyme label="b" type="f" corresp="#s3:l3">geschieden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">'t Eerste Jaar een jonge <rhyme label="a" type="m">Zoon</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Eèns zo lief gelyk <rhyme label="a" type="m" corresp="#s4:l1">Adoôn</rhyme>,</l>
+        <l id="s4:l3" met="3" type="+-">'t Tweede jaar een <rhyme label="b" type="f">Meisje</rhyme>,</l>
+        <l id="s4:l4" met="2" type="+-">Dat steeds <rhyme label="c" type="m">is</rhyme>,</l>
+        <l id="s4:l5" met="2" type="-+">Zoet en <rhyme label="c" type="m" corresp="#s4:l4">fris</rhyme>,</l>
+        <l id="s4:l6" met="3" type="+-">En ook blank van <rhyme label="b" type="f" corresp="#s4:l3">vleisje</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Lustig dan vereenigt <rhyme label="a" type="m">Paar</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Blyft niet schuldig aan <rhyme label="a" type="m" corresp="#s5:l1">elkaâr</rhyme></l>
+        <l id="s5:l3" met="3" type="+-">Laat het zoete <rhyme label="b" type="f">streele</rhyme></l>
+        <l id="s5:l4" met="2" type="+-">Van de <rhyme label="c" type="m">Min</rhyme>,</l>
+        <l id="s5:l5" met="2" type="-+">Uwe <rhyme label="c" type="m" corresp="#s5:l4">zin</rhyme>,</l>
+        <l id="s5:l6" met="3" type="+-">Nimmermeer <rhyme label="b" type="f" corresp="#s5:l3">vervelen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

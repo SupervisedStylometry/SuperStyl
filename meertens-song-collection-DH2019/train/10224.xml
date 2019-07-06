@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10224</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>O kerstnacht schoner dan de dagen</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Liefd' zoo zaligh by de <rhyme label="a" type="f">Menschen</rhyme>:</l>
+        <l id="s1:l2" met="4" type="-+">Wie sou niet om uw vrientschap <rhyme label="a" type="f" corresp="#s1:l1">wenschen</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">Ghy zijt alleen ons roer van 't <rhyme label="b" type="m">schip</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Wie kan uw blyschap <rhyme label="c" type="f">tegenstreven</rhyme>?</l>
+        <l id="s1:l5" met="4" type="-+">Of hy en wenscht niet om syn <rhyme label="c" type="f" corresp="#s1:l4">leven</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Maer vaert gelijck als op een <rhyme label="b" type="m" corresp="#s1:l3">klip</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">De liefd' verweckt de stomme <rhyme label="a" type="f">Dieren</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Dat sy alhier in liefde <rhyme label="a" type="f" corresp="#s2:l1">swieren</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En toonen met een volle <rhyme label="b" type="m">lust</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Waer toe hun leven is <rhyme label="c" type="f">geschapen</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Wie souw alsdan in liefde <rhyme label="c" type="f" corresp="#s2:l4">slapen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">En blijven altoos <rhyme label="b" type="m" corresp="#s2:l3">ongekust</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Neen, neen, o Menschen! valt aen 't <rhyme label="a" type="f">mallen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">En laet u doch de liefd' <rhyme label="a" type="f" corresp="#s3:l1">gevallen</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Sy is van een te soeten <rhyme label="b" type="m">aerdt</rhyme>:</l>
+        <l id="s3:l4" met="4" type="-+">Dees Bruygom is u <rhyme label="c" type="f">voorgetreden</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">De Bruydt is oock seer wel te <rhyme label="c" type="f" corresp="#s3:l4">vreden</rhyme>:</l>
+        <l id="s3:l6" met="4" type="-+">Ay wat wellust datse <rhyme label="b" type="m" corresp="#s3:l3">baert</rhyme>!</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ick hoor de jonge Geesten <rhyme label="a" type="f">woelen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Het schynt sy raecken aen 't <rhyme label="a" type="f" corresp="#s4:l1">gevoelen</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">De Ionghmans krijgen lucht op 't <rhyme label="b" type="m">goet</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">De Dochters poogen sonder <rhyme label="c" type="f">seggen</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Haer hoofden in de schoot te <rhyme label="c" type="f" corresp="#s4:l4">leggen</rhyme>:</l>
+        <l id="s4:l6" met="4" type="-+">Elck lieft int dat hy lieven <rhyme label="b" type="m" corresp="#s4:l3">moet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

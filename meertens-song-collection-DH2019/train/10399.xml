@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10399</id>
+    <date>
+      <year-start>1625</year-start>
+      <year-end>1626</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Amarilli mia bella</melody>
+  <author>Joost van den Vondel en Johan van Heemskerck (etc.)</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">KRaft met smeeckende <rhyme label="a" type="f">geluyen</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Deed Thirsis om tot een kus te <rhyme label="b" type="f">bekooren</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Syn Amaryl <rhyme label="b" type="f" corresp="#s1:l2">bevrooren</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Die vatte niet wat dat het mocht <rhyme label="a" type="f" corresp="#s1:l1">beduyen</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">Heeden koemtfe (welcke <rhyme label="a" type="f" corresp="#s1:l1">buyen</rhyme>?)</l>
+        <l id="s1:l6" met="2" type="-+">Sonder hen <rhyme label="c" type="f">blyer</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Oogh of aenschyn te <rhyme label="d" type="f">jonnen</rhyme>,</l>
+        <l id="s1:l8" met="2" type="+-"><rhyme label="d" type="f" corresp="#s1:l7">Aengeronnen</rhyme>,</l>
+        <l id="s1:l9" met="2" type="-+">En kust de <rhyme label="c" type="f" corresp="#s1:l6">vryer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Thyrsis met een hart vol <rhyme label="a" type="f">klachten</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Sat op syn kranck geluck deerlyck te <rhyme label="b" type="f">maelen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Seer diep inde <rhyme label="b" type="f" corresp="#s2:l2">ghedachten</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">VVanneer syn mond vernam de malsse <rhyme label="a" type="f" corresp="#s2:l1">kraelen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Hy verschoot, en sey: wat <rhyme label="a" type="f" corresp="#s2:l1">quaelen</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">Volgen my <rhyme label="c" type="f">staedich</rhyme>?</l>
+        <l id="s2:l7" met="3" type="-+">Amaryl t'sy ghy <rhyme label="d" type="f">roosten</rhyme>,</l>
+        <l id="s2:l8" met="2" type="+-">Of comt <rhyme label="d" type="f" corresp="#s2:l7">troosten</rhyme>,</l>
+        <l id="s2:l9" met="2" type="-+">Altyt <rhyme label="c" type="f" corresp="#s2:l6">moordaedich</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

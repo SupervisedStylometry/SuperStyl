@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>33832</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacob Rosant</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">G' Hebt d'Ouden hooren <rhyme label="a" type="f">leeren</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Een ooge voor een <rhyme label="b" type="m">oogh</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">En dat men ook <rhyme label="a" type="f" corresp="#s1:l1">begeeren</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Voor tandt een tandt wel <rhyme label="b" type="m" corresp="#s1:l2">moogh</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Maer ik segh tot <rhyme label="a" type="f">u-lieden</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">En wederstaet geen <rhyme label="b" type="m">quaet</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Wilt d'ander wange <rhyme label="a" type="f" corresp="#s2:l1">bieden</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Die u aen d'eene <rhyme label="b" type="m" corresp="#s2:l2">slaet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Die uwe rok wil <rhyme label="a" type="f">roven</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Geeft hem den mantel <rhyme label="b" type="m">mee'</rhyme>;</l>
+        <l id="s3:l3" met="3" type="-+">Die welke u doet <rhyme label="a" type="f" corresp="#s3:l1">slooven</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Een mijl, gaet met hem <rhyme label="b" type="m" corresp="#s3:l2">twee</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Begiftight al die <rhyme label="a" type="f">geenen</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Die wat van u <rhyme label="b" type="m">begeert</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Die wat van u wil <rhyme label="a" type="f" corresp="#s4:l1">leenen</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">U niet van hem af <rhyme label="b" type="m" corresp="#s4:l2">keert</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Neemt iemandt wat om <rhyme label="a" type="f">t'houden</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">En weeder-eyst het <rhyme label="b" type="m">niet</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Doet ander als gy <rhyme label="a" type="f" corresp="#s5:l1">wouden</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Dat u van haer <rhyme label="b" type="m" corresp="#s5:l2">geschiet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

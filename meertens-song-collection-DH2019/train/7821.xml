@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>7821</id>
+    <date>
+      <year-start>1615</year-start>
+      <year-end>1615</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody>Psalm 025 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">O GODT wilt ons doch <rhyme label="a" type="f">bewaren</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Bidden wy, nu comt den <rhyme label="b" type="m">Nacht</rhyme>:</l>
+        <l id="s1:l3" met="4" type="+-">Neemt wegh Ziels en Lijffs <rhyme label="a" type="f" corresp="#s1:l1">beswaren</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Soo ghy pleeght op ons hebt <rhyme label="b" type="m" corresp="#s1:l2">acht</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">Droom en Nacht-gesight <rhyme label="c" type="m">verjaaght</rhyme>:</l>
+        <l id="s1:l6" met="4" type="+-">Onsen VIANDT wilt <rhyme label="d" type="f">beschamen</rhyme>.</l>
+        <l id="s1:l7" met="4" type="+-">'T Licchaam reyn sy sorge <rhyme label="c" type="m" corresp="#s1:l5">draaght</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">VADER, SOON, door u GEEST; <rhyme label="d" type="f" corresp="#s1:l6">Amen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>115384</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>alkmaar</orginal-name>
+      <standard-name>Alkmaar, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.6312592</lon>
+        <lat>4.7503798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">Siet hoe fijn en hoe lieflijck ist met <rhyme label="a" type="m">bescheydt</rhyme>,</l>
+        <l id="s1:l2" met="5" type="+-">Dat Man en Wijf inder <rhyme label="a" type="m" corresp="#s1:l1">Godsaligheydt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Leven vreedsamigh in <rhyme label="b" type="f">persoone</rhyme>,</l>
+        <l id="s1:l4" met="2" type="+-">O soete bandt, O soete bandt, O soete <rhyme label="c" type="m">bandt</rhyme>,</l>
+        <l id="s1:l5" met="7" type="-+">Bandt des vredes <rhyme label="b" type="f" corresp="#s1:l3">schoone</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Sulcks is gelijck een balsem die <rhyme label="a" type="m">ongefaelt</rhyme></l>
+        <l id="s2:l2" met="5" type="+-">Van ‘t hooft en den baert Aarons <rhyme label="a" type="m" corresp="#s2:l1">nederdaelt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Tot den boort sijns kleydinghs <rhyme label="b" type="f">ydoone</rhyme>,</l>
+        <l id="s2:l4" met="2" type="+-">O soete bandt, O soete bandt, O soete <rhyme label="c" type="m">bandt</rhyme>,</l>
+        <l id="s2:l5" met="7" type="-+">Bandt des vredes <rhyme label="b" type="f" corresp="#s2:l3">schoone</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">De vrede is ja den koelen dau <rhyme label="a" type="m">gelijck</rhyme>,</l>
+        <l id="s3:l2" met="5" type="+-">Van Harmon en Syons bergh die ‘t dor <rhyme label="a" type="m" corresp="#s3:l1">aertrijck</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Vochtet en maeckt vruchtbaer ten <rhyme label="b" type="f">toone</rhyme>,</l>
+        <l id="s3:l4" met="2" type="+-">O soete bandt, O soete bandt, O soete <rhyme label="c" type="m">bandt</rhyme>,</l>
+        <l id="s3:l5" met="7" type="-+">Bandt des vredes <rhyme label="b" type="f" corresp="#s3:l3">schoone</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="+-">Princen te degen dees leeringh t’aller <rhyme label="a" type="m">stondt</rhyme>,</l>
+        <l id="s4:l2" met="5" type="+-">Wilt over-weghen uyt reyner hertsen <rhyme label="a" type="m" corresp="#s4:l1">grondt</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Dien vreden Prins gheeft u ten <rhyme label="b" type="f">loone</rhyme>,</l>
+        <l id="s4:l4" met="2" type="+-">Dien soeten bandt, dien soeten band, dien soeten <rhyme label="c" type="m">band</rhyme>,</l>
+        <l id="s4:l5" met="7" type="-+">En saligheyts <rhyme label="b" type="f" corresp="#s4:l3">kroone</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

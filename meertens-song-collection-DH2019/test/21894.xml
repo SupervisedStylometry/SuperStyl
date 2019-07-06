@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21894</id>
+    <date>
+      <year-start>1580</year-start>
+      <year-end>1580</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 125 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DIe op God haer vertrouwen <rhyme label="a" type="f">stellen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Sullen tot eew'ger <rhyme label="b" type="m">stont</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Staen op een vasten <rhyme label="b" type="m" corresp="#s1:l2">gront</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Gh'lijck Sions berg staet sonder <rhyme label="a" type="f" corresp="#s1:l1">hellen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">End' nemmermeer en sal <rhyme label="c" type="f">afwijcken</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Ofte <rhyme label="c" type="f" corresp="#s1:l5">beswijcken</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">* Ghelijck Jerusalem <rhyme label="a" type="f">rontomme</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Is met ghebergt' <rhyme label="b" type="m">bewalt</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Dat gheenssins en <rhyme label="b" type="m" corresp="#s2:l2">vervalt</rhyme>:</l>
+        <l id="s2:l4" met="4" type="-+">Alsoo sal God zijn <rhyme label="a" type="f" corresp="#s2:l1">heyligdomme</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">End' zijn volck eewelijck <rhyme label="c" type="f">beschermen</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Onder zijn <rhyme label="c" type="f" corresp="#s2:l5">ermen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">* Want op der vromen lott end' <rhyme label="a" type="f">erue</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Sullen de boose <rhyme label="b" type="m">straff'</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Niet rusten haren <rhyme label="b" type="m" corresp="#s3:l2">staff</rhyme>:</l>
+        <l id="s3:l4" met="4" type="-+">Om die te brenghen ten <rhyme label="a" type="f" corresp="#s3:l1">verderue</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">Op dats' uyt ondult tot boos' <rhyme label="c" type="f">leuen</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">Haer niet <rhyme label="c" type="f" corresp="#s3:l5">begheuen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">* O Heer doe wel den vromen <rhyme label="a" type="f">herten</rhyme>:</l>
+        <l id="s4:l2" met="3" type="-+">5. Maer velt de boosen <rhyme label="b" type="m">om</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Die wand'len slim end' <rhyme label="b" type="m" corresp="#s4:l2">crom</rhyme>.</l>
+        <l id="s4:l4" met="4" type="-+">Met alle die staen nae quaey <rhyme label="a" type="f" corresp="#s4:l1">perten</rhyme>:</l>
+        <l id="s4:l5" met="4" type="-+">Maer laet Israel d'eerd' <rhyme label="c" type="f">betreden</rhyme>,</l>
+        <l id="s4:l6" met="2" type="-+">In rust end' <rhyme label="c" type="f" corresp="#s4:l5">vreden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

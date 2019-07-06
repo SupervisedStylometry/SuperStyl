@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22253</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Christe qui lux es et dies</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Al ghy Knechten loeft den <rhyme label="a" type="m">Heeren</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En wilt synen naem altijdts <rhyme label="a" type="m" corresp="#s1:l1">eeren</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Want hem soudmen louen breet, en <rhyme label="b" type="m">weydt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Van nu af tot inder <rhyme label="b" type="m" corresp="#s1:l3">eewicheyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Vanden opganck der Sonnen <rhyme label="a" type="m">schijn</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Tot den auendt loeft synen naem <rhyme label="a" type="m" corresp="#s2:l1">fijn</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Ouer allen volck ghy Heere <rhyme label="b" type="m">zijt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">En u eer gaet bouen den hemel <rhyme label="b" type="m" corresp="#s2:l3">wijdt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wie woonter so hoog? wie isser hem <rhyme label="a" type="m">glijck</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Hy siet vanden Hemel opt leeghe <rhyme label="a" type="m" corresp="#s3:l1">eerdtrijck</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Die van tstof den cleynen doet <rhyme label="b" type="m">opstaen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Den Armen wt den dreck verhoocht <rhyme label="b" type="m" corresp="#s3:l3">zaen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Hy setse so hooch den Princen <rhyme label="a" type="m">ghelijck</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">En hier naemaels in syn eewich <rhyme label="a" type="m" corresp="#s4:l1">rijck</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">die vande onuruchtbare sonder <rhyme label="b" type="m">abuys</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Maeckt een blijde kindtemoeder int <rhyme label="b" type="m" corresp="#s4:l3">huys</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

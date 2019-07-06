@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>167861</id>
+    <date>
+      <year-start>1802</year-start>
+      <year-end>1802</year-end>
+    </date>
+    <location>
+      <orginal-name>den haag</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">Gebedslied</tag>
+    </tags>
+    <melody>Psalm 065 Datheen</melody>
+    <categories/>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Aanbiddend knielen wij te <rhyme label="a" type="f">samen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">o Jesus! voor u <rhyme label="b" type="m">neêr</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Ons hart en mond zegt, juichend, <rhyme label="a" type="f" corresp="#s1:l1">Amen</rhyme>!</l>
+        <l id="s1:l4" met="3" type="-+">'t Geslagte Lam zij <rhyme label="b" type="m" corresp="#s1:l2">eer</rhyme>!</l>
+        <l id="s1:l5" met="4" type="-+">Gij hebt ons Gode <rhyme label="c" type="f">vrijgelaten</rhyme>;</l>
+        <l id="s1:l6" met="3" type="-+">Een priesterlijke <rhyme label="d" type="m">hoed</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Versiert uw vorstlijke <rhyme label="c" type="f" corresp="#s1:l5">onderzaten</rhyme>;</l>
+        <l id="s1:l8" met="3" type="-+">Hun zegel is uw <rhyme label="d" type="m" corresp="#s1:l6">bloed</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wij zullen eeuwig U <rhyme label="a" type="f">verhogen</rhyme>!</l>
+        <l id="s2:l2" met="3" type="-+">U zij de <rhyme label="b" type="m">majesteit</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">De wijsheid, rijkdom, d' eer, 't <rhyme label="a" type="f" corresp="#s2:l1">vermogen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">De dank, in <rhyme label="b" type="m" corresp="#s2:l2">eeuwigheid</rhyme>!</l>
+        <l id="s2:l5" met="4" type="-+">Beneden, boven, paar zig <rhyme label="c" type="f">samen</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Al wat uw grootheid <rhyme label="d" type="m">ziet</rhyme>!</l>
+        <l id="s2:l7" met="4" type="-+">Al 't schepsel zeg, aanbiddend, <rhyme label="c" type="f" corresp="#s2:l5">Amen</rhyme>!</l>
+        <l id="s2:l8" met="3" type="-+">Op 't nieuw <rhyme label="d" type="m" corresp="#s2:l6">verlossingslied</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

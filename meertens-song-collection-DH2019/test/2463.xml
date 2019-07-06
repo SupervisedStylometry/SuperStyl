@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2463</id>
+    <date>
+      <year-start>1622</year-start>
+      <year-end>1622</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="dialectlied" translation="dialect song">dialectlied</tag>
+    </tags>
+    <melody>Ga hem toe</melody>
+    <categories>
+      <category translation="groups">groepen</category>
+      <category translation="formal genres">formele genres</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Hou sick hou, goen dach in 't <rhyme label="a" type="m">huys</rhyme>:</l>
+        <l id="s1:l2" met="4" type="-+">Wel is hier nou niemant <rhyme label="a" type="m" corresp="#s1:l1">t'huys</rhyme>?</l>
+        <l id="s1:l3" met="3" type="-+">Ja Kniertje komt vry <rhyme label="b" type="f">binnen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En siet iens waer wy <rhyme label="b" type="f" corresp="#s1:l3">sinnen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Wel, 't is hier nou wel in jou <rhyme label="c" type="m">bouw</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Dus besich staech met <rhyme label="b" type="f" corresp="#s1:l3">spinnen</rhyme>?</l>
+        <l id="s1:l7" met="3" type="-+">Maer wat ick jou segghen <rhyme label="c" type="m" corresp="#s1:l5">souw</rhyme>:</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Lijsbet Leffers weet jy 't <rhyme label="a" type="m">niet</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">'t Is van sen leven niet <rhyme label="a" type="m" corresp="#s2:l1">eschiet</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Ala moer de <rhyme label="b" type="f">Franse</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Wou niemant met me <rhyme label="b" type="f" corresp="#s2:l3">dansen</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Noch jonge Jan, noch ouwe <rhyme label="c" type="m">Jan</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Noch Ariaen, noch Jan <rhyme label="b" type="f" corresp="#s2:l3">Jansen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Noch Jan oom Janses <rhyme label="c" type="m" corresp="#s2:l5">Jan</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Is hy waert dat hy Broot <rhyme label="a" type="m">eet</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Die oude deucht so haest <rhyme label="a" type="m" corresp="#s3:l1">vergeet</rhyme>?</l>
+        <l id="s3:l3" met="3" type="-+">Jae! mocht zyn Vaer <rhyme label="b" type="f">opkijcken</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Hoe sou hy hem <rhyme label="b" type="f" corresp="#s3:l3">doorstrijcken</rhyme>?</l>
+        <l id="s3:l5" met="4" type="-+">Mar, segje dat? wat Jan so <rhyme label="c" type="m">prat</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Liet hy jou daer staen <rhyme label="b" type="f" corresp="#s3:l3">prijcken</rhyme>?</l>
+        <l id="s3:l7" met="3" type="-+">Kniertje Knelis, wat! wat! <rhyme label="c" type="m" corresp="#s3:l5">wat</rhyme>!</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Wat! dat lijckt seper niette <rhyme label="a" type="m">mijt</rhyme>.</l>
+        <l id="s4:l2" met="4" type="-+">Ja, meenje dattet men niet <rhyme label="a" type="m" corresp="#s4:l1">spijt</rhyme>:</l>
+        <l id="s4:l3" met="3" type="-+">Ick heb hum hiele <rhyme label="b" type="f">daghen</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Op desen arm <rhyme label="b" type="f" corresp="#s4:l3">edraghen</rhyme>!</l>
+        <l id="s4:l5" met="4" type="-+">Wat dat beduyt, staech wou hy <rhyme label="c" type="m">uyt</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Ick heb hem inden <rhyme label="b" type="f" corresp="#s4:l3">waghen</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Soo menichmael <rhyme label="c" type="m" corresp="#s4:l5">ekruyt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Heer! Lijsbet moer, wel ick <rhyme label="a" type="m">bekent</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Ick was totte jonghe so <rhyme label="a" type="m" corresp="#s5:l1">ewent</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Ja ick en kon niet <rhyme label="b" type="f">eten</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Had hy niet me <rhyme label="b" type="f" corresp="#s5:l3">egeten</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">Sneed' ick ien stick, en smierdet <rhyme label="c" type="m">dick</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">Wy beten beet aen <rhyme label="b" type="f" corresp="#s5:l3">beten</rhyme>,</l>
+        <l id="s5:l7" met="3" type="-+">Dan hy, en dan weer <rhyme label="c" type="m" corresp="#s5:l5">ick</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

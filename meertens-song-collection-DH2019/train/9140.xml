@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>9140</id>
+    <date>
+      <year-start>1676</year-start>
+      <year-end>1676</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Hartknagend onverzettelijk</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jodocus van Lodenstein</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">DAt's nu gedaan! nu wil ick voorts gaan <rhyme label="a" type="m">heen</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Geduldig in Gods saal'ge wegen <rhyme label="a" type="m" corresp="#s1:l1">treen</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">En sien wat uytcomst Hy die eeuwig <rhyme label="b" type="m">leeft</rhyme></l>
+        <l id="s1:l4" met="1" type="-+">My <rhyme label="b" type="m" corresp="#s1:l3">geeft</rhyme>:</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">'K Wil cloeck sijn om niet tegenstaans mijn <rhyme label="a" type="m">pijn</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Volveerdig in mijn pligtig werck te <rhyme label="a" type="m" corresp="#s2:l1">sijn</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Doe 'k niet mijn wil, ick wil doen dat ick <rhyme label="b" type="m">dan</rhyme></l>
+        <l id="s2:l4" met="1" type="-+">Nog <rhyme label="b" type="m" corresp="#s2:l3">can</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Sijt Gy o Heer! met stuckwijs werck <rhyme label="a" type="m">gedient</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">En gy, mijn Schaar, verschoont gy daar uw <rhyme label="a" type="m" corresp="#s3:l1">vriend</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">Voor my, 't is weynig Lijdsaam in de <rhyme label="b" type="m">pijn</rhyme>,</l>
+        <l id="s3:l4" met="1" type="-+">Te <rhyme label="b" type="m" corresp="#s3:l3">sijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

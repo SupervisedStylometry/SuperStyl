@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184076</id>
+    <date>
+      <year-start>1806</year-start>
+      <year-end>1806</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Jan Steven van Esveldt Holtrop, Willem Holtrop</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Apprentis, compagnons et <rhyme label="a" type="f">maîtres</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Le voici ce temple <rhyme label="b" type="m">fameux</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">D'oú l'amitié bannit les <rhyme label="a" type="f" corresp="#s1:l1">traîtres</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Où la vertu fait des <rhyme label="b" type="m" corresp="#s1:l2">heureux</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Qu'une noble ardeur vous <rhyme label="c" type="f">inspire</rhyme>;</l>
+        <l id="s1:l6" met="4" type="-+">Avancez, frappez trois grands <rhyme label="d" type="m">coups</rhyme>;</l>
+        <l id="s1:l7" met="4" type="-+">Prononcez le mot qu'il faut <rhyme label="c" type="f" corresp="#s1:l5">dire</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Ses portes s'ouvriront pour <rhyme label="d" type="m" corresp="#s1:l6">vous</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Mais toi, qu'on prêche en vain <rhyme label="a" type="f">d'exemple</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Et qui du vice suis la <rhyme label="b" type="m">loi</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Profane, fuis loin de ce <rhyme label="a" type="f" corresp="#s2:l1">temple</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Il est toujours fermé pour <rhyme label="b" type="m" corresp="#s2:l2">toi</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Séjour de Minerve et <rhyme label="c" type="f">d'Astrée</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Qu'adorent des coeurs <rhyme label="d" type="m">vertueux</rhyme>.</l>
+        <l id="s2:l7" met="4" type="-+">Les seuls Maçons en ont <rhyme label="c" type="f" corresp="#s2:l5">l'entrée</rhyme>.</l>
+        <l id="s2:l8" met="4" type="-+">Le bonheur n'est fait que pour <rhyme label="d" type="m" corresp="#s2:l6">eux</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

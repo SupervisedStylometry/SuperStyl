@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3690</id>
+    <date>
+      <year-start>1566</year-start>
+      <year-end>1566</year-end>
+    </date>
+    <location>
+      <orginal-name>heidelberg</orginal-name>
+      <standard-name>Heidelberg, Germany</standard-name>
+      <coordinates>
+        <lon>49.4093582</lon>
+        <lat>8.694724</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 087 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Pieter Datheen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">GODT heeft sijn huys vast ghegrondet met <rhyme label="a" type="f">vreden</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Op den heylghen berghen die hy <rhyme label="b" type="m">bemint</rhyme>.</l>
+        <l id="s1:l3" met="5" type="-+">Tot Zions poorten is hy meer <rhyme label="b" type="m" corresp="#s1:l2">ghesint</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Dan tot alle Iacobs schoone <rhyme label="a" type="f" corresp="#s1:l1">woensteden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Men hoort van v o stadt Godts hoogh' <rhyme label="a" type="f">verheuen</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Groote dingen: Aegypten end <rhyme label="b" type="m">Babel</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Werden (spreeckt Godt) onderwesen so <rhyme label="b" type="m" corresp="#s2:l2">wel</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Dat se tot myn volck werden <rhyme label="a" type="f" corresp="#s2:l1">aengheschreuen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Tyriers, Palestyners end die <rhyme label="a" type="f">Mooren</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Sullen in myn kercke voortghebracht <rhyme label="b" type="m">sijn</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Men sal spreken: dat in dat Zion <rhyme label="b" type="m" corresp="#s3:l2">myn</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Allerley volck by een my wert <rhyme label="a" type="f" corresp="#s3:l1">gheboren</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Godt sal Zion bauwen met sijn handt <rhyme label="a" type="f">krachtigh</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Wt allen spraeken hy die sijne <rhyme label="b" type="m">sal</rhyme></l>
+        <l id="s4:l3" met="5" type="-+">Roepen: dan wert gheseyt van desen <rhyme label="b" type="m" corresp="#s4:l2">al</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">Dats' in Zion al t'saemen sijn <rhyme label="a" type="f" corresp="#s4:l1">wonachtigh</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Dies wilt nu opentlick end vroylick <rhyme label="a" type="f">singen</rhyme>,</l>
+        <l id="s5:l2" met="5" type="-+">Op den basuynen verkondight sijn <rhyme label="b" type="m">eer</rhyme>:</l>
+        <l id="s5:l3" met="5" type="-+">In v, Zion, sal wesen (spreeckt de <rhyme label="b" type="m" corresp="#s5:l2">Heer</rhyme>)</l>
+        <l id="s5:l4" met="5" type="-+">Rijckdom end ouervloet van allen <rhyme label="a" type="f" corresp="#s5:l1">dinghen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

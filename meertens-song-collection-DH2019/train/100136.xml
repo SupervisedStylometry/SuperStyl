@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100136</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Amarylletje mijn vriendin</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Was ik verzeekert, wat <rhyme label="a" type="m">gemoed</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Myn Herder in zyn boezem <rhyme label="a" type="m" corresp="#s1:l1">voed</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Ik staakte 't veinzen en <rhyme label="b" type="m">d'afkeer</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">En 't zou in my niet wonen <rhyme label="b" type="m" corresp="#s1:l3">meer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

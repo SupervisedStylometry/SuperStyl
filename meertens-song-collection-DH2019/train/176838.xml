@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176838</id>
+    <date>
+      <year-start>1683</year-start>
+      <year-end>1683</year-end>
+    </date>
+    <location>
+      <orginal-name>leeuwarden</orginal-name>
+      <standard-name>Leeuwarden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>53.2005936</lon>
+        <lat>5.7918548</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Psalm 133 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Hendrik Rintjes</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">U Loven wy, o Godt Vader <rhyme label="a" type="f">verheven</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">U willen wy lof, prijs en eere <rhyme label="a" type="f" corresp="#s1:l1">gheven</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">U onsen Godt <rhyme label="b" type="m">ghebenedijt</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Want ghy, Heere alleen des weerdigh <rhyme label="b" type="m" corresp="#s1:l3">zijt</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">Om te ontfangen lof, prijs ende <rhyme label="c" type="m">eer</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Ghy onsen Godt, goedighe <rhyme label="c" type="m" corresp="#s1:l5">Heer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">U looft, o Godt, aendagtigh met <rhyme label="a" type="f">verblijen</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">De Christenheyt op Aerden t’allen <rhyme label="a" type="f" corresp="#s2:l1">tijen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Singht u tot lof, en eer <rhyme label="b" type="m">bequaem</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Verheft stedigh uwen heylighen <rhyme label="b" type="m" corresp="#s2:l3">Naem</rhyme>:</l>
+        <l id="s2:l5" met="5" type="-+">Want u ghenade en groote <rhyme label="c" type="m">goetheyt</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Hebdy over haer <rhyme label="c" type="m" corresp="#s2:l5">uyt-ghebreyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">De Enghelen in den Hemel daer <rhyme label="a" type="f">boven</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">U, onsen Godt, seer prijsen ende <rhyme label="a" type="f" corresp="#s3:l1">loven</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Ende singhen tot aller <rhyme label="b" type="m">tijdt</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Heyligh, heyligh, heyligh, ghy Heere <rhyme label="b" type="m" corresp="#s3:l3">zijt</rhyme>,</l>
+        <l id="s3:l5" met="5" type="-+">Daerom wy al met u Heylighen <rhyme label="c" type="m">goet</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">U loven, prijsen, in <rhyme label="c" type="m" corresp="#s3:l5">ootmoet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

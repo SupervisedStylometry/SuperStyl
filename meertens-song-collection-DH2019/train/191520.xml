@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>191520</id>
+    <date>
+      <year-start>1736</year-start>
+      <year-end>1736</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Van Rosalia</melody>
+  <author>Joannes de Lixbona</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">STaet verbaest o mensch van't <rhyme label="a" type="f">wonder</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Die door blixem ende <rhyme label="a" type="f" corresp="#s1:l1">donder</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Beven doet den ganschen <rhyme label="b" type="m">al</rhyme>:</l>
+        <l id="s1:l4" met="4" type="+-">Schud en beeft hier van den <rhyme label="c" type="f">kauwe</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">En der Eng'len vreught van <rhyme label="c" type="f" corresp="#s1:l4">rouwe</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Schryt en weent in eenen <rhyme label="b" type="m" corresp="#s1:l3">stal</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Vogels hebben haere <rhyme label="a" type="f">nesten</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Beesten hollen, maer ten <rhyme label="a" type="f" corresp="#s2:l1">besten</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Niet en is'er voor den <rhyme label="b" type="m">Godt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Om te schuylen niet een <rhyme label="c" type="f">hoeksken</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Om te dekken niet een <rhyme label="c" type="f" corresp="#s2:l4">doecksken</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Leyt in een verworpen <rhyme label="b" type="m" corresp="#s2:l3">kot</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">O kleyn kintjen grooten <rhyme label="a" type="f">Heere</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Is voor uwe Lekens <rhyme label="a" type="f" corresp="#s3:l1">teere</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">'t Hoey en stroey niet al te <rhyme label="b" type="m">hardt</rhyme>?</l>
+        <l id="s3:l4" met="4" type="+-">Iae't ick hoor't wel aen zijn <rhyme label="c" type="f">kermen</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Moeder neemt hem op uw <rhyme label="c" type="f" corresp="#s3:l4">ermen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Dat't hem aen doet groote <rhyme label="b" type="m" corresp="#s3:l3">smert</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Waer zijn Son uw warme <rhyme label="a" type="f">stralen</rhyme>?</l>
+        <l id="s4:l2" met="4" type="+-">Laet u hitte <rhyme label="a" type="f" corresp="#s4:l1">nederdaelen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Op dit Kintjen naeckt en <rhyme label="b" type="m">bloot</rhyme>:</l>
+        <l id="s4:l4" met="4" type="+-">Voetjens stijf, stijf en kou <rhyme label="c" type="f">handen</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">Ten waer't hert door liefde <rhyme label="c" type="f" corresp="#s4:l4">branden</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">'tWaer bevrosen lanck ter <rhyme label="b" type="m" corresp="#s4:l3">doodt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32520</id>
+    <date>
+      <year-start>1667</year-start>
+      <year-end>1667</year-end>
+    </date>
+    <location>
+      <orginal-name>mechelen</orginal-name>
+      <standard-name>Mechelen, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0281381</lon>
+        <lat>4.4803453</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+    </tags>
+    <melody>Courante monsieur</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">HErderín waer wilt gy <rhyme label="a" type="m">heen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Dat gy van hier gaet <rhyme label="a" type="m" corresp="#s1:l1">treen</rhyme>?</l>
+        <l id="s1:l3" met="2" type="-+">Ach hoort my <rhyme label="b" type="m">aen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En wilt wat blijven <rhyme label="b" type="m" corresp="#s1:l3">staen</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">U Schaepkens (dunckt my) komen daer <rhyme label="b" type="m" corresp="#s1:l3">gegaen</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Ten sijn voorwaer mijn Schaepkens <rhyme label="c" type="m">niet</rhyme></l>
+        <l id="s1:l7" met="5" type="-+">Die gy daer vande Heyden komen <rhyme label="c" type="m" corresp="#s1:l6">siet</rhyme>;</l>
+        <l id="s1:l8" met="5" type="-+">Want sy noch wel een ure sijn van <rhyme label="d" type="m">hier</rhyme>,</l>
+        <l id="s1:l9" met="5" type="-+">Eermen sou konnen hooren hun <rhyme label="d" type="m" corresp="#s1:l8">getier</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Moght ick hun Herder <rhyme label="a" type="m">sijn</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">En gy Herd'rin van <rhyme label="a" type="m" corresp="#s2:l1">mijn</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Dan waer mijn <rhyme label="b" type="m">hert</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Gerust, en uyt de <rhyme label="b" type="m" corresp="#s2:l3">smert</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Ach, Herderin, laet toe dat ick het <rhyme label="b" type="m" corresp="#s2:l3">wert</rhyme>.</l>
+        <l id="s2:l6" met="4" type="-+">Och Herder 't ghen dat gy daer <rhyme label="c" type="m">seght</rhyme>,</l>
+        <l id="s2:l7" met="5" type="-+">En weet ick niet, oft gy het mynt <rhyme label="c" type="m" corresp="#s2:l6">oprecht</rhyme></l>
+        <l id="s2:l8" met="5" type="-+">En oft gy niet met my en haut den <rhyme label="d" type="m">geck</rhyme></l>
+        <l id="s2:l9" met="5" type="-+">Onder de Vryers valt nu groot <rhyme label="d" type="m" corresp="#s2:l8">gebreck</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Herd'rin niemant als <rhyme label="a" type="m">gy</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Ist die behaeght aen <rhyme label="a" type="m" corresp="#s3:l1">my</rhyme>:</l>
+        <l id="s3:l3" met="2" type="-+">Wel gaet dan <rhyme label="b" type="m">voort</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">O Herder, soo een <rhyme label="b" type="m" corresp="#s3:l3">woort</rhyme></l>
+        <l id="s3:l5" met="5" type="-+">En had ick noyt te voor uyt u <rhyme label="b" type="m" corresp="#s3:l3">gehoort</rhyme>.</l>
+        <l id="s3:l6" met="4" type="-+">U Schaepkens die behaegen <rhyme label="c" type="m">mijn</rhyme>,</l>
+        <l id="s3:l7" met="5" type="-+">Die noyt en sullen ongescheyden <rhyme label="c" type="m" corresp="#s3:l6">syn</rhyme>.</l>
+        <l id="s3:l8" met="5" type="-+">O Herderin! nu weet ick uwen <rhyme label="d" type="m">sin</rhyme>.</l>
+        <l id="s3:l9" met="5" type="-+">Dryft uwe Schaepkens vry tē boschwart <rhyme label="d" type="m" corresp="#s3:l8">in</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

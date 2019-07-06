@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100207</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>J'avais juré que l'amour</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">MOn Papa toute la <rhyme label="a" type="m">nuit</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Je seus mon Lit qui <rhyme label="b" type="f">brandrille</rhyme>;</l>
+        <l id="s1:l3" met="4" type="+-">Je crois que c'est un <rhyme label="a" type="m" corresp="#s1:l1">Esprit</rhyme>.</l>
+        <l id="s1:l4" met="4" type="+-">De la manier qui <rhyme label="b" type="f" corresp="#s1:l2">fretille</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">Marié, Marié, Marié <rhyme label="c" type="m">moi</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Vous sçavez la raison mon <rhyme label="d" type="f">Pere</rhyme>:</l>
+        <l id="s1:l7" met="4" type="+-">Marié, Marié, Marié <rhyme label="c" type="m" corresp="#s1:l5">moi</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Vous sçavez la raison pour <rhyme label="c" type="m" corresp="#s1:l5">quoi</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

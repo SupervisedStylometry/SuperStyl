@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>179136</id>
+    <date>
+      <year-start>1866</year-start>
+      <year-end>1866</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Juichend uit de verste landen</melody>
+  <author>Frans de Cort</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Juichend, uit de verste <rhyme label="a" type="f">lan-den</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Stroomen herwaarts, schaar bij <rhyme label="b" type="m">schaar</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Wakkre kunstenaars te <rhyme label="b" type="m" corresp="#s1:l2">gaêr</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Om te sluiten <rhyme label="a" type="f" corresp="#s1:l1">broederbanden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Pralend met der kunsten <rhyme label="a" type="f">krone</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Fier op haren rijken <rhyme label="b" type="m">schat</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Opent zich de <rhyme label="b" type="m" corresp="#s2:l2">Rubensstad</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Allen priestren van het <rhyme label="a" type="f" corresp="#s2:l1">schoone</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Welker school zij <rhyme label="a" type="f">toebehooren</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Watvoor vak het hunne <rhyme label="b" type="m">zij</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Allen klinkt hun even <rhyme label="b" type="m" corresp="#s3:l2">blij</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Onze welkomgroet in de <rhyme label="a" type="f" corresp="#s3:l1">ooren</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Duitschers, Denen, Britten, <rhyme label="a" type="f">Gallen</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Kussen zich als vrienden <rhyme label="b" type="m">hier</rhyme>:</l>
+        <l id="s4:l3" met="4" type="+-">Onder de eedle <rhyme label="b" type="m" corresp="#s4:l2">kunstbanier</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Zijn de menschen broeders <rhyme label="a" type="f" corresp="#s4:l1">allen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Allerwegen rijst ten <rhyme label="a" type="f">hoogen</rhyme></l>
+        <l id="s5:l2" met="4" type="+-">'t Lied des vredes, heerlijk <rhyme label="b" type="m">schoon</rhyme>:</l>
+        <l id="s5:l3" met="4" type="+-">Zaten kunstnaars op den <rhyme label="b" type="m" corresp="#s5:l2">troon</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Nimmer zou men <rhyme label="a" type="f" corresp="#s5:l1">orelogen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Zegen zal alomme <rhyme label="a" type="f">baren</rhyme>,</l>
+        <l id="s6:l2" met="4" type="+-">Volken! uwer eêlsten <rhyme label="b" type="m">bond</rhyme>!</l>
+        <l id="s6:l3" met="4" type="+-">Dies weêrgalme 't de aarde <rhyme label="b" type="m" corresp="#s6:l2">rond</rhyme>:</l>
+        <l id="s6:l4" met="4" type="+-">Leven kunst en <rhyme label="a" type="f" corresp="#s6:l1">kunstenaren</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

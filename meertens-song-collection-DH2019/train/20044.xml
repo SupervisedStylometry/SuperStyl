@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20044</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Courante monsieur</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">HOe vaerje Bruylofs-Gasjes, seg, al <rhyme label="a" type="m">vrolick</rhyme>?</l>
+        <l id="s1:l2" met="4" type="+-">Wat zo siet, ay wijcktniet, vande <rhyme label="b" type="m">trant</rhyme>:</l>
+        <l id="s1:l3" met="2" type="+-">Foey ’t is te <rhyme label="c" type="m">olick</rhyme>,</l>
+        <l id="s1:l4" met="5" type="+-">By me keel ‘t is <rhyme label="c" type="m" corresp="#s1:l3">schant</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Datmen hier naer moet seggen <rhyme label="d" type="m">gaen</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Wat struyf, die Vruyloft, ginck niet eens recht <rhyme label="d" type="m" corresp="#s1:l5">aen</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Yder sat trist, niemant <rhyme label="e" type="m">begon</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">‘tWas of men geen vijf tellen <rhyme label="e" type="m" corresp="#s1:l7">kon</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

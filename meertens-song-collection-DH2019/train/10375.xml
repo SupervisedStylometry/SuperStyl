@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10375</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Rozemond die lag gedoken</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Floramondt (in het <rhyme label="a" type="f">blosen</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Vande koele <rhyme label="b" type="m">dageraet</rhyme>)</l>
+        <l id="s1:l3" met="4" type="+-">Voeght haer onder schauw van <rhyme label="a" type="f" corresp="#s1:l1">rosen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Daer sy neder sitten <rhyme label="b" type="m" corresp="#s1:l2">gaet</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">En daer sy haer Maeghden <rhyme label="c" type="m">schoot</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Pronckt met roosjes wit en <rhyme label="c" type="m" corresp="#s1:l5">root</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Even soo sy was <rhyme label="a" type="f">gheseten</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Komt den Herder <rhyme label="b" type="m">Floriaen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Die (al eer zy 't heeft <rhyme label="a" type="f" corresp="#s2:l1">gheweten</rhyme>)</l>
+        <l id="s2:l4" met="4" type="+-">Neemt een handt vol <rhyme label="b" type="m" corresp="#s2:l2">rose-blaen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Die hy (uyt haer schoot <rhyme label="c" type="m">gepluckt</rhyme>)</l>
+        <l id="s2:l6" met="4" type="+-">Op haer roose kaeckjes <rhyme label="c" type="m" corresp="#s2:l5">druckt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Schaemte pronckten tegens <rhyme label="a" type="f">roosen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Mit dat Floramond hem <rhyme label="b" type="m">sagh</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Roode rosen, by haer <rhyme label="a" type="f" corresp="#s3:l1">blosen</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Scheelden als den nacht by <rhyme label="b" type="m" corresp="#s3:l2">dagh</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Floramond riep <rhyme label="c" type="m">overluyt</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Herder seght wat dit <rhyme label="c" type="m" corresp="#s3:l5">beduyt</rhyme>?</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">'k Sie eens, seyd' hy, of de <rhyme label="a" type="f">roosjes</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Met haer in karnate <rhyme label="b" type="m">blaen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Wel soo schoon zijn als de <rhyme label="a" type="f" corresp="#s4:l1">bloosjes</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Die op uwe kaeckjes <rhyme label="b" type="m" corresp="#s4:l2">staen</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">Heb ick u misdaen, seyd' <rhyme label="c" type="m">hy</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Herderin vergeeft het <rhyme label="c" type="m" corresp="#s4:l5">my</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

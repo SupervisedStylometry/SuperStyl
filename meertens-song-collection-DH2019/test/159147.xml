@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>159147</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Prins Robberts mars</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">EEn Krijghs-macht is een stercke <rhyme label="a" type="m">Schans</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Een Muur om 't <rhyme label="b" type="m">Vaderlandt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Een dicht verschuyl, een wilghen <rhyme label="a" type="m" corresp="#s1:l1">krans</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Rontom ons Hof <rhyme label="b" type="m" corresp="#s1:l2">geplant</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Een Stroopers schrick, een <rhyme label="c" type="m">Suyveraer</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Een Burghers rust, en <rhyme label="d" type="m">nut</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Een Borst-geweer, een <rhyme label="c" type="m" corresp="#s1:l5">Beuckelaer</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Een Boeren stercke <rhyme label="d" type="m" corresp="#s1:l6">stut</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Een Sangh dat al haer lof <rhyme label="a" type="m">bevat</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Moest sijn soo groot als <rhyme label="b" type="m">Urck</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En songh ick 't uyt, mijn keel nu <rhyme label="a" type="m" corresp="#s2:l1">nat</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Soud sijn soo droogh als <rhyme label="b" type="m" corresp="#s2:l2">Kurck</rhyme>;</l>
+        <l id="s2:l5" met="4" type="-+">Maer dat en past my gansch'lijck <rhyme label="c" type="m">niet</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">'k Ga eer na 't Legher <rhyme label="d" type="m">heen</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Wil yemandt noch een langher <rhyme label="c" type="m" corresp="#s2:l5">Liedt</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Die maecker selver <rhyme label="d" type="m" corresp="#s2:l6">een</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

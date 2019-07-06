@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184356</id>
+    <date>
+      <year-start>1785</year-start>
+      <year-end>1785</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Men zag Dametas lange tijd</melody>
+  <author>Adriaan Loosjes Pzn.</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Waarom zou ik toch treurig <rhyme label="a" type="m">zyn</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Om al myn huis <rhyme label="b" type="f">beslommeringen</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Dat andren 't werk vry lastig <rhyme label="a" type="m" corresp="#s1:l1">schyn</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">My niet: my doet het vrolyk <rhyme label="b" type="f" corresp="#s1:l2">zingen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Myn huisgezin is al myn <rhyme label="c" type="m">vreugd</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">En is me een oefenperk van <rhyme label="c" type="m" corresp="#s1:l5">deugd</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Myn man, zo braaf, zo lief van <rhyme label="a" type="m">aart</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Is yvrig om den kost te <rhyme label="b" type="f">winnen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Hy 's met myn kinders my zo <rhyme label="a" type="m" corresp="#s2:l1">waard</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Wie zou ze ook meêr dan ik <rhyme label="b" type="f" corresp="#s2:l2">beminnen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Maar, schoon ik teder hun <rhyme label="c" type="m">bemin</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Ik zie er wel gebreken <rhyme label="c" type="m" corresp="#s2:l5">in</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Laast zeî myn man in stilte’, <rhyme label="a" type="m">vrouw</rhyme>!</l>
+        <l id="s3:l2" met="4" type="-+">‘Gy zyt wat hard: Laat dat eens <rhyme label="b" type="f">loopen</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Neen, zeî ik, kind! 'k wil geen <rhyme label="a" type="m" corresp="#s3:l1">berouw</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">En traanen voor myn grysheid <rhyme label="b" type="f" corresp="#s3:l2">koopen</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Gestrenge tucht met gunst <rhyme label="c" type="m">gepaard</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Vormt kinders van een braaven <rhyme label="c" type="m" corresp="#s3:l5">aart</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

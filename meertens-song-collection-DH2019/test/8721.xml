@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8721</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Petit Bordeaux</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">VVAerom souden wy niet <rhyme label="a" type="f">meugen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Nae der reden rechte <rhyme label="b" type="m">maet</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Ons een weynich tijdts <rhyme label="a" type="f" corresp="#s1:l1">verheugen</rhyme>?</l>
+        <l id="s1:l4" met="4" type="+-">Vrolijckheyd en is niet <rhyme label="b" type="m" corresp="#s1:l2">quaet</rhyme>:</l>
+        <l id="s1:l5" met="4" type="+-">Als men sich maer wacht te <rhyme label="c" type="f">krencken</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">D'eervan hem die aen den <rhyme label="d" type="m">dranck</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Hem laet wasschen en doet <rhyme label="c" type="f" corresp="#s1:l5">schencken</rhyme>,</l>
+        <l id="s1:l8" met="5" type="+-">D'eelste dranck, gheeft hem <rhyme label="e" type="m">danck</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">Gheeft hem danck// voor d'eerste <rhyme label="d" type="m" corresp="#s1:l6">dranck</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Weest nu vrolijck laet nu 't <rhyme label="a" type="f">sorghen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Hier in dese koele <rhyme label="b" type="m">Wijn</rhyme>:</l>
+        <l id="s2:l3" met="4" type="+-">Drinckt hem tot den dagh van <rhyme label="a" type="f" corresp="#s2:l1">morgen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">'t Mach wel wesen, 't moet soo <rhyme label="b" type="m" corresp="#s2:l2">zijn</rhyme>:</l>
+        <l id="s2:l5" met="4" type="+-">'k Brenght u eens mijn <rhyme label="c" type="f">alderbeste</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Vriendt, maer siet hoe dat ick <rhyme label="d" type="m">doe</rhyme>:</l>
+        <l id="s2:l7" met="4" type="+-">'k Sal 't uyt drincken tot het <rhyme label="c" type="f" corresp="#s2:l5">leste</rhyme></l>
+        <l id="s2:l8" met="5" type="+-">Dropje toe// <rhyme label="e" type="m">tiereliereloe</rhyme>,</l>
+        <l id="s2:l9" met="4" type="+-">Tot het leste dropje <rhyme label="d" type="m" corresp="#s2:l6">toe</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Siet daer is den yd'len <rhyme label="a" type="f">Beecker</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Zijt ghy nu maer klaer <rhyme label="b" type="m">gheooght</rhyme>:</l>
+        <l id="s3:l3" met="4" type="+-">Soo kondt ghy wel sien <rhyme label="a" type="f" corresp="#s3:l1">voorseker</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Dat 't op 't schoonst is <rhyme label="b" type="m" corresp="#s3:l2">uyt-ghdrooght</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Recht als of het met een <rhyme label="c" type="f">Doeckje</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Op het schoonst was <rhyme label="d" type="m">uyt-gheveeght</rhyme>:</l>
+        <l id="s3:l7" met="4" type="+-">Soo dat 't alderminst <rhyme label="c" type="f" corresp="#s3:l5">hoeckje</rhyme>,</l>
+        <l id="s3:l8" met="5" type="+-">Is gheleeght// tiereliere <rhyme label="e" type="m">luyt</rhyme></l>
+        <l id="s3:l9" met="4" type="+-">'t Glaesjen is uyt// schoon uyt <rhyme label="d" type="m" corresp="#s3:l6">geveeght</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Schencker schenct als 't was te <rhyme label="a" type="f">voren</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">'t Is voor een soo nobelen <rhyme label="b" type="m">Baes</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Dien ick daer toe heb <rhyme label="a" type="f" corresp="#s4:l1">verkoren</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Siet daer isset, bon pro <rhyme label="b" type="m" corresp="#s4:l2">faes</rhyme>:</l>
+        <l id="s4:l5" met="4" type="+-">Laet de Wijn doch niet <rhyme label="c" type="f">verschaelen</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Maer gheniet zijn versche <rhyme label="d" type="m">deught</rhyme>,</l>
+        <l id="s4:l7" met="4" type="+-">'t Heerschap sal 't ghelach <rhyme label="c" type="f" corresp="#s4:l5">betalen</rhyme>,</l>
+        <l id="s4:l8" met="5" type="+-">Weest verheught// nu wel <rhyme label="e" type="m">aen</rhyme>,</l>
+        <l id="s4:l9" met="4" type="+-">Nu wel aen// en maceckt <rhyme label="d" type="m" corresp="#s4:l6">gheneught</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

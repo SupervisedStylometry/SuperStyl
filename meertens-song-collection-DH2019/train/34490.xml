@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34490</id>
+    <date>
+      <year-start>1720</year-start>
+      <year-end>1720</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="martelaarslied" translation="martyr song">martelaarslied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+    </tags>
+    <melody>O mensen die wensen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacobus de Ruyter</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">KOmt heden, getreden, Aenhoort mijn <rhyme label="a" type="m">vermaen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Dat ick speure, In <rhyme label="b" type="f">Schrifture</rhyme>,</l>
+        <l id="s1:l3" met="5" type="+-">Hebben vinden staen, Wat Godt <rhyme label="c" type="f">gheven</rhyme>,</l>
+        <l id="s1:l4" met="5" type="+-">Sal naer 't leven, 't Menschen <rhyme label="d" type="m">gheslacht</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Voor hun deugden, 't Hemels <rhyme label="e" type="f">vreugden</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Die zijn weert <rhyme label="d" type="m" corresp="#s1:l4">gheacht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Naer 't lijden Verblijden, Sullen wy te <rhyme label="a" type="m">saem</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">s' Werelts saecken, Boosheyt <rhyme label="b" type="f">staecken</rhyme>,</l>
+        <l id="s2:l3" met="5" type="+-">'t Is Godt aenghenaem, Knien en <rhyme label="c" type="f">ooghen</rhyme>,</l>
+        <l id="s2:l4" met="5" type="+-">Neder booghen, Voor Godts <rhyme label="d" type="m">Majesteyt</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Die hier lijden, Sal <rhyme label="e" type="f">verblijden</rhyme>,</l>
+        <l id="s2:l6" met="3" type="+-">In der <rhyme label="d" type="m" corresp="#s2:l4">eeuwigheyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Hoe schoone, Een Troone, Heeft daer <rhyme label="a" type="m">Maria</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Godts Moeder, ons <rhyme label="b" type="f">behoeder</rhyme>,</l>
+        <l id="s3:l3" met="5" type="+-">Blijft sy vroegh en spa wilt eens <rhyme label="c" type="f">drincken</rhyme>,</l>
+        <l id="s3:l4" met="5" type="+-">Hoe klaer blinckend', De martelaers <rhyme label="d" type="m">zijn</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">In Godts Rijcke al <rhyme label="e" type="f">ghelijcke</rhyme>,</l>
+        <l id="s3:l6" met="3" type="+-">Leven sonder <rhyme label="d" type="m" corresp="#s3:l4">pijn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Hoe lustigh, gherustigh, Is 't in <rhyme label="a" type="m">Hemelrijck</rhyme>.</l>
+        <l id="s4:l2" met="4" type="+-">d' Enghels loven, Godt hier <rhyme label="b" type="f">boven</rhyme>,</l>
+        <l id="s4:l3" met="5" type="+-">Singhen soet musyck, 't waer te <rhyme label="c" type="f">wenschen</rhyme>,</l>
+        <l id="s4:l4" met="5" type="+-">Dat wy menschen, Deden <rhyme label="d" type="m">neerstigheyt</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">Wel te leven, Godt sou <rhyme label="e" type="f">gheven</rhyme>,</l>
+        <l id="s4:l6" met="3" type="+-">Ons de <rhyme label="d" type="m" corresp="#s4:l4">saligheydt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

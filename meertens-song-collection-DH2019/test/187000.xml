@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>187000</id>
+    <date>
+      <year-start>1708</year-start>
+      <year-end>1708</year-end>
+    </date>
+    <location>
+      <orginal-name>gouda</orginal-name>
+      <standard-name>Gouda, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114922</lon>
+        <lat>4.7106094</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Tranquilles coeurs</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wat glans, wat onverwagter <rhyme label="a" type="m">ligt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Komt uit den hemel <rhyme label="b" type="f">nederdalen</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Een glans waar voor de zonne <rhyme label="a" type="m" corresp="#s1:l1">zwigt</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Schijnt al de werrelt te <rhyme label="b" type="f" corresp="#s1:l2">overstralen</rhyme>,</l>
+        <l id="s1:l5" met="6" type="-+">En lokt de harders uit, op aller Englen <rhyme label="c" type="m">stem</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Na 't zalig <rhyme label="c" type="m" corresp="#s1:l5">Betlehem</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Daar toont de kersnagt in een <rhyme label="a" type="m">stal</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Gods Zoon, tot yders heil <rhyme label="b" type="f">geboren</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Dit kind ô mens! weerhoud den <rhyme label="a" type="m" corresp="#s2:l1">val</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Door 't pak der zonden u <rhyme label="b" type="f" corresp="#s2:l2">beschoren</rhyme>.</l>
+        <l id="s2:l5" met="6" type="-+">Eert des ootmoedig in het vlees geworden <rhyme label="c" type="m">woord</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Gods heilige <rhyme label="c" type="m" corresp="#s2:l5">geboort</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Verstokte Joden kent uw <rhyme label="a" type="m">hooft</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Dit kind, hier neergedaalt van <rhyme label="b" type="f">boven</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Is uw Messias, lang <rhyme label="a" type="m" corresp="#s3:l1">belooft</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Wat zoekt gy hem in vorsten <rhyme label="b" type="f" corresp="#s3:l2">hoven</rhyme>?</l>
+        <l id="s3:l5" met="6" type="-+">De Godheit kiest voor 't weyds, en rijk <rhyme label="c" type="m">Jerusalem</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Het nedrig <rhyme label="c" type="m" corresp="#s3:l5">Betlehem</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

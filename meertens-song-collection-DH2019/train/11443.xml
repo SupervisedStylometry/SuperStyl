@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>11443</id>
+    <date>
+      <year-start>1627</year-start>
+      <year-end>1627</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Een meisje op een riviertje zat</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Jacob Janszoon Colevelt, A. Pietersz. Craen, Matthijs van Velden, Jan Robbertsz</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">CYtheraea toont haer heel beleeft, goed-aerdigh <rhyme label="a" type="m">mee</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Aen alle die haer dulden en eere doen, tot aller <rhyme label="a" type="m" corresp="#s1:l1">stee</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Maer soder yemant trots en moedig, haer lastig <rhyme label="a" type="m">is</rhyme>,</l>
+        <l id="s2:l2" met="6" type="-+">Zy kan het straffen met harde plagen, dat is <rhyme label="a" type="m" corresp="#s2:l1">gewis</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">Venus swerft, en kruyst den Hemel deur, oock d'yle <rhyme label="a" type="m">Locht</rhyme>,</l>
+        <l id="s3:l2" met="6" type="-+">Van daer soo komtse dan oock dalen neer, in 't bracke <rhyme label="a" type="m" corresp="#s3:l1">vocht</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">Wt haer is alle ding geschapen, haer lonckjens <rhyme label="a" type="m">doen</rhyme></l>
+        <l id="s4:l2" met="6" type="-+">Dat de Min ons hart kan overwinnen, haer kusjens <rhyme label="a" type="m" corresp="#s4:l1">voe'en</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="6" type="-+">Het minnende vyer, en stuurt te recht, sijn pylen <rhyme label="a" type="m">heen</rhyme>:</l>
+        <l id="s5:l2" met="6" type="-+">En selver schietse oock mee, als 't haer maer lust, ons hart in <rhyme label="a" type="m" corresp="#s5:l1">twee</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="6" type="-+">Dees grooten Om-loop houd hy leven, den mensch, en <rhyme label="a" type="m">all'</rhyme>:</l>
+        <l id="s6:l2" met="6" type="-+">Van haer moet het alles wesen hebben, in 's werrelts <rhyme label="a" type="m" corresp="#s6:l1">dal</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

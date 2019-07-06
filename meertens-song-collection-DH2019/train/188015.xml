@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188015</id>
+    <date>
+      <year-start>1616</year-start>
+      <year-end>1616</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Daniël Heinsius</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DE moeder van de sachte <rhyme label="a" type="m">vreucht</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">De suster van de soete <rhyme label="b" type="f">gaven</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Daer Bacchus met ons hert <rhyme label="a" type="m" corresp="#s1:l1">verheucht</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Daer ons de Goden mede <rhyme label="b" type="f" corresp="#s1:l2">laven</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Musijck die maecht die suyver <rhyme label="a" type="m">maecht</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Gekleet nu eerst naer onse <rhyme label="b" type="f">landen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Die Knotter u soo seer <rhyme label="a" type="m" corresp="#s2:l1">behaecht</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Komt haer begeven in dijn' <rhyme label="b" type="f" corresp="#s2:l2">handen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Omhelst haer, stootse niet van <rhyme label="a" type="m">dy</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Daer sich de Goden met <rhyme label="b" type="f">verlusten</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">En wat ghy doet hoe swaer <rhyme label="a" type="m" corresp="#s3:l1">hetsy</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Laet wat om haren wille <rhyme label="b" type="f" corresp="#s3:l2">rusten</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">VVant Iupiter self soo men <rhyme label="a" type="m">seyt</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Als Phoebi stem is <rhyme label="b" type="f">opgeheven</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Heeft zijnen donder neer <rhyme label="a" type="m" corresp="#s4:l1">geleyt</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Om hem tot vreuchden te <rhyme label="b" type="f" corresp="#s4:l2">begeven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

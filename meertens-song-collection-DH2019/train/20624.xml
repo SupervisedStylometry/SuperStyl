@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20624</id>
+    <date>
+      <year-start>1628</year-start>
+      <year-end>1628</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author>Joan Ysermans</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">WEest nu <rhyme label="a" type="m">verheucht</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Ter wijl ghy <rhyme label="a" type="m" corresp="#s1:l1">meucht</rhyme>/</l>
+        <l id="s1:l3" met="3" type="-+">Den tijt die sal noch <rhyme label="b" type="f">comen</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Dat onse <rhyme label="a" type="m" corresp="#s1:l1">jeucht</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">Vol soete <rhyme label="a" type="m" corresp="#s1:l1">vreucht</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Sal worden wech <rhyme label="b" type="f" corresp="#s1:l3">ghenomen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Vreucht ick <rhyme label="a" type="m">bedrijf</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Met siel/en <rhyme label="a" type="m" corresp="#s2:l1">lijf</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Om u lief vol <rhyme label="b" type="f">ghenuchten</rhyme>/</l>
+        <l id="s2:l4" met="2" type="-+">Al mach mijn <rhyme label="a" type="m" corresp="#s2:l1">wijf</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">Vol boos <rhyme label="a" type="m" corresp="#s2:l1">ghekijf</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Nu t'huys vast sitten <rhyme label="b" type="f" corresp="#s2:l3">suchten</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Maeckt vry goet <rhyme label="a" type="m">cier</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Drinckt wijn/ en <rhyme label="a" type="m" corresp="#s3:l1">bier</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Al tuyten bey u <rhyme label="b" type="f">ooren</rhyme>/</l>
+        <l id="s3:l4" met="2" type="-+">Ghy en sult <rhyme label="a" type="m" corresp="#s3:l1">hier</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">T'ghekijf / <rhyme label="a" type="m" corresp="#s3:l1">t'ghetier</rhyme>/</l>
+        <l id="s3:l6" met="3" type="-+">Van u quaet wijf niet <rhyme label="b" type="f" corresp="#s3:l3">hooren</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">Haer woorden <rhyme label="a" type="m">straf</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">Sijn als een <rhyme label="a" type="m" corresp="#s4:l1">graf</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Der <rhyme label="b" type="f">vroelijckheyt/vol-vrede</rhyme></l>
+        <l id="s4:l4" met="2" type="-+">Vreucht ick hier <rhyme label="a" type="m" corresp="#s4:l1">schaf</rhyme>/</l>
+        <l id="s4:l5" met="2" type="-+">Maer stootse <rhyme label="a" type="m" corresp="#s4:l1">af</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Als wt u huys ick <rhyme label="b" type="f" corresp="#s4:l3">trede</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="2" type="-+">T'is hier tout <rhyme label="a" type="m">joer</rhyme></l>
+        <l id="s5:l2" met="2" type="-+">Mon cuer, <rhyme label="a" type="m" corresp="#s5:l1">mamoer</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Iet cluchtichs wt te <rhyme label="b" type="f">rechten</rhyme>/</l>
+        <l id="s5:l4" met="2" type="-+">En t'huys is <rhyme label="a" type="m" corresp="#s5:l1">hoer</rhyme></l>
+        <l id="s5:l5" met="2" type="-+">Gaet vaeght u <rhyme label="a" type="m" corresp="#s5:l1">vloer</rhyme>/</l>
+        <l id="s5:l6" met="3" type="-+">En al den dach aen't <rhyme label="b" type="f" corresp="#s5:l3">vechten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

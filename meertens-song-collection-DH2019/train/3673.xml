@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3673</id>
+    <date>
+      <year-start>1566</year-start>
+      <year-end>1566</year-end>
+    </date>
+    <location>
+      <orginal-name>heidelberg</orginal-name>
+      <standard-name>Heidelberg, Germany</standard-name>
+      <coordinates>
+        <lon>49.4093582</lon>
+        <lat>8.694724</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 017 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Pieter Datheen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O GODT op wien myn hope <rhyme label="a" type="m">staet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Haest v helpt my, vrydt my van <rhyme label="b" type="f">schanden</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Tot mynen bystandt streckt v' <rhyme label="b" type="f" corresp="#s1:l2">handen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Verdoet all' myn v anden <rhyme label="a" type="m" corresp="#s1:l1">quaet</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Die nae myn siel' listelick <rhyme label="c" type="f">jaeghen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Moeten vol schandt sijn end <rhyme label="d" type="m">verdriet</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Die my willen bringhen tot <rhyme label="d" type="m" corresp="#s1:l6">niet</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Moeten vlieden end sijn <rhyme label="c" type="f" corresp="#s1:l5">verslaeghen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die my jaeghen segghen <rhyme label="a" type="m">eenpaer</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Ha, ha, daer, daer, met open <rhyme label="b" type="f">kele</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Laett hen toekommen schanden <rhyme label="b" type="f" corresp="#s2:l2">vele</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Die se my wenschen voor end <rhyme label="a" type="m" corresp="#s2:l1">naer</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Maer dat hy in v' hulp' <rhyme label="c" type="f">verblyde</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Die sijnen toevlucht tot v <rhyme label="d" type="m">heeft</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">End hem gantschlick tot v <rhyme label="d" type="m" corresp="#s2:l6">begheeft</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Dat hy v loue t'allen <rhyme label="c" type="f" corresp="#s2:l5">tijde</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

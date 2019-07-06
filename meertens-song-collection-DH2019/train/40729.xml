@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>40729</id>
+    <date>
+      <year-start>1681</year-start>
+      <year-end>1681</year-end>
+    </date>
+    <location>
+      <orginal-name>leeuwarden</orginal-name>
+      <standard-name>Leeuwarden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>53.2005936</lon>
+        <lat>5.7918548</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geuzenlied" translation="Geuzen song">geuzenlied</tag>
+      <tag standard-name="triomflied" translation="triumph song">triomflied</tag>
+      <tag standard-name="historielied" translation="historical song">historielied</tag>
+    </tags>
+    <melody>Polyphemus aan de stranden</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
+  <author>Gysbert Japicx</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">LIt uwz nu reys frolijck <rhyme label="a" type="f">sjonge</rhyme>,</l>
+        <l id="s1:l2" met="2" type="+-">Aad' in <rhyme label="a" type="f" corresp="#s1:l1">jonge</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Oer de wol-feart sen uwz <rhyme label="b" type="m">Lan</rhyme>:</l>
+        <l id="s1:l4" met="4" type="+-">Hulst mey Schansen, <rhyme label="c" type="f">Buwtte-wircken</rhyme>,</l>
+        <l id="s1:l5" met="2" type="+-">Huwzen, <rhyme label="c" type="f" corresp="#s1:l4">Tjercken</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Falt sijn Heagheyd ijnne <rhyme label="b" type="m" corresp="#s1:l3">han</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">'t Hele Lan Waese' iz <rhyme label="a" type="f">uwsers</rhyme>.</l>
+        <l id="s2:l2" met="2" type="+-">Romm' <rhyme label="a" type="f" corresp="#s2:l1">Ketuwsers</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Jesuwijten, Moeynts in <rhyme label="b" type="m">Paep</rhyme>.</l>
+        <l id="s2:l4" met="4" type="+-">'t Altijd griene Hulst nu <rhyme label="c" type="f">dorret</rhyme>,</l>
+        <l id="s2:l5" met="2" type="+-">In <rhyme label="c" type="f" corresp="#s2:l4">forsorret</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Spaenjens bloed-rie, Romens <rhyme label="b" type="m" corresp="#s2:l3">kaep'</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Nu wol't mey Antwerpen <rhyme label="a" type="f">knijpje</rhyme>.</l>
+        <l id="s3:l2" met="2" type="+-">Nu mot <rhyme label="a" type="f" corresp="#s3:l1">piepje</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Gint in Bregge' allijck in <rhyme label="b" type="m">Muwz</rhyme>.</l>
+        <l id="s3:l4" met="4" type="+-">Giel-eag, mey sijn fuwlle <rhyme label="c" type="f">raenjen</rhyme>,</l>
+        <l id="s3:l5" met="2" type="+-">Mot ney <rhyme label="c" type="f" corresp="#s3:l4">Spaenjen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Mey de stirt ijnn' eerz ney <rhyme label="b" type="m" corresp="#s3:l3">huwz</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Flaemsche Famnen Beth in <rhyme label="a" type="f">Kalle</rhyme>,</l>
+        <l id="s4:l2" met="2" type="+-">OEf wa 'er <rhyme label="a" type="f" corresp="#s4:l1">galle</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">Oer gewelt, kreft in <rhyme label="b" type="m">oer-lest</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Sille freamde <rhyme label="c" type="f">slavernye</rhyme></l>
+        <l id="s4:l5" met="2" type="+-">Naet meer <rhyme label="c" type="f" corresp="#s4:l4">lye</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Az dit heal-moar' bred <rhyme label="b" type="m" corresp="#s4:l3">fornest't</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Flaend'ren mot mey uwz <rhyme label="a" type="f">foryenje</rhyme>,</l>
+        <l id="s5:l2" met="2" type="+-">Da schoe <rhyme label="a" type="f" corresp="#s5:l1">tjienje</rhyme></l>
+        <l id="s5:l3" met="4" type="+-">'t Herte best: den folget <rhyme label="b" type="m">ney</rhyme></l>
+        <l id="s5:l4" met="4" type="+-">Braban, in wa dear oorz <rhyme label="c" type="f">binne</rhyme></l>
+        <l id="s5:l5" met="2" type="+-">Dy <rhyme label="c" type="f" corresp="#s5:l4">berinne</rhyme></l>
+        <l id="s5:l6" met="4" type="+-">Mase, Schelde, Lieve' in <rhyme label="b" type="m" corresp="#s5:l3">Ley</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Den schil 't Lan naet meer <rhyme label="a" type="f">forwoestje</rhyme>.</l>
+        <l id="s6:l2" met="2" type="+-">Den mot <rhyme label="a" type="f" corresp="#s6:l1">roestje</rhyme></l>
+        <l id="s6:l3" met="4" type="+-">'t Godleas swird, (ad soune <rhyme label="b" type="m">pleag</rhyme>)</l>
+        <l id="s6:l4" met="4" type="+-">Den wirt Speetse' in Restinge' <rhyme label="c" type="f">hinge</rhyme></l>
+        <l id="s6:l5" met="2" type="+-">Ynne <rhyme label="c" type="f" corresp="#s6:l4">swinge</rhyme>,</l>
+        <l id="s6:l6" met="4" type="+-">Ruwg besponnen ijn it <rhyme label="b" type="m" corresp="#s6:l3">reag</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">'t Lân ynn' free, schil de' holle' <rhyme label="a" type="f">op-luwcke</rhyme>,</l>
+        <l id="s7:l2" met="2" type="+-">Uwt'e <rhyme label="a" type="f" corresp="#s7:l1">Foecke</rhyme></l>
+        <l id="s7:l3" met="4" type="+-">Fen dy bloed-huwn, <rhyme label="b" type="m">Tber-fad</rhyme>.</l>
+        <l id="s7:l4" met="4" type="+-">'t Sil florearje, 't sil <rhyme label="c" type="f">forrijckje</rhyme>,</l>
+        <l id="s7:l5" met="2" type="+-">Ja 't schil <rhyme label="c" type="f" corresp="#s7:l4">lijckje</rhyme></l>
+        <l id="s7:l6" met="4" type="+-">Rju neye' âde goune <rhyme label="b" type="m" corresp="#s7:l3">Wrad</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="+-">Jou Oraenjen, ljeave <rhyme label="a" type="f">HEERE</rhyme>,</l>
+        <l id="s8:l2" met="2" type="+-">Dizze <rhyme label="a" type="f" corresp="#s8:l1">eere</rhyme>,</l>
+        <l id="s8:l3" met="4" type="+-">Dat hy uwz de Free <rhyme label="b" type="m">befjuecht</rhyme>.</l>
+        <l id="s8:l4" met="4" type="+-">Dat wy D Y dear lof foor <rhyme label="c" type="f">sjonge</rhyme>,</l>
+        <l id="s8:l5" met="2" type="+-">Ad in <rhyme label="c" type="f" corresp="#s8:l4">Jonge</rhyme></l>
+        <l id="s8:l6" met="4" type="+-">From, yen-fadig, sljuecht in <rhyme label="b" type="m" corresp="#s8:l3">rjuecht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

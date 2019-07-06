@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13724</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Sarabande Pinel</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">NV dat mijn Harderin danckbaer wil <rhyme label="a" type="f">wesen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Voor al de rouw die mijn Zieltje <rhyme label="b" type="m">besat</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Nu ick ten eynde ben van al mijn <rhyme label="a" type="f" corresp="#s1:l1">vreesen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">En dus geraeckt ben op weer-Liefdens <rhyme label="b" type="m" corresp="#s1:l2">pat</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">(Daer ick te voooren tot loon van mijn <rhyme label="c" type="m">deught</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Niet vondt als spot, en smaet, in plaets van <rhyme label="c" type="m" corresp="#s1:l5">vreught</rhyme>,)</l>
+        <l id="s1:l7" met="4" type="+-">Soo bevind’ ick nu te recht waer te <rhyme label="d" type="m">zijn</rhyme>,</l>
+        <l id="s1:l8" met="5" type="-+">Dat minne volght nae langh gelede <rhyme label="d" type="m" corresp="#s1:l7">pijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Haer lonckend ooghjes die eerst hiel <rhyme label="a" type="f">gevangen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Mijn ziel in boeyens die schenckt sy ny <rhyme label="b" type="m">vry</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Mits sy mijn Minne getoetst heeft soo <rhyme label="a" type="f" corresp="#s2:l1">lange</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">En nu niet meer laten wil in de <rhyme label="b" type="m" corresp="#s2:l2">ly</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Dus schenckt sy uyt liefde, tot <rhyme label="c" type="m">danckbaerheyt</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">Haer weder-liefd in plaets van <rhyme label="c" type="m" corresp="#s2:l5">stuerigheydt</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">En ick bevind’ nu te recht waer te <rhyme label="d" type="m">zijn</rhyme>,</l>
+        <l id="s2:l8" met="5" type="-+">Dat minne volght nae langh-gelede <rhyme label="d" type="m" corresp="#s2:l7">pijn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Herders, Nae-jaden, en ghy <rhyme label="a" type="f">Bos-godinnen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Telgh-rijcke Boomen, en ghy naere <rhyme label="b" type="m">nacht</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Cristalle stroomen getuyge mijns <rhyme label="a" type="f" corresp="#s3:l1">minne</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Die vaack gehoort hebt mijn droevige <rhyme label="b" type="m" corresp="#s3:l2">klacht</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Ey! wilt u verheugen en vlecht haer een <rhyme label="c" type="m">krans</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">Die mijn verhuysde ziel hersteld in haer <rhyme label="c" type="m" corresp="#s3:l5">glans</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Mits ick bevind nu te recht waer te <rhyme label="d" type="m">zijn</rhyme>,</l>
+        <l id="s3:l8" met="5" type="-+">Dat minne volght nae langh-geleden <rhyme label="d" type="m" corresp="#s3:l7">pijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

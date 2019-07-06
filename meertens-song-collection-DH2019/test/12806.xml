@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12806</id>
+    <date>
+      <year-start>1658</year-start>
+      <year-end>1658</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Psalm 006 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">OP sonden volgen <rhyme label="a" type="f">plagen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Dan wort een Landt <rhyme label="a" type="f" corresp="#s1:l1">geslagen</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Met 'tdroevigh oorloghs <rhyme label="b" type="m">wee</rhyme>.</l>
+        <l id="s1:l4" met="3" type="-+">Met honghersnoot en <rhyme label="c" type="f">dierte</rhyme>:</l>
+        <l id="s1:l5" met="3" type="-+">Met pest en <rhyme label="c" type="f" corresp="#s1:l4">ongedierte</rhyme>:</l>
+        <l id="s1:l6" met="3" type="-+">Met schaersheyt in de <rhyme label="b" type="m" corresp="#s1:l3">zee</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ondanckbaerheyt, <rhyme label="a" type="f">verachtingh</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Van 'twoort: en oock <rhyme label="a" type="f" corresp="#s2:l1">kleynachtingh</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Van Gods dienst en zijn <rhyme label="b" type="m">wet</rhyme>:</l>
+        <l id="s2:l4" met="3" type="-+">Afgodery en <rhyme label="c" type="f">vloucken</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Sijn oorsaeck van die <rhyme label="c" type="f" corresp="#s2:l4">vloucken</rhyme>:</l>
+        <l id="s2:l6" met="3" type="-+">Wie ist die daer op <rhyme label="b" type="m" corresp="#s2:l3">let</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">De hovaerdy in <rhyme label="a" type="f">kleedingh</rhyme>:</l>
+        <l id="s3:l2" met="3" type="-+">Der weduwen <rhyme label="a" type="f" corresp="#s3:l1">beleedingh</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Wellust en <rhyme label="b" type="m">overdaedt</rhyme>:</l>
+        <l id="s3:l4" met="3" type="-+">Die baeren dit <rhyme label="c" type="f">bederven</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Daer mensch en beest om <rhyme label="c" type="f" corresp="#s3:l4">sterven</rhyme>:</l>
+        <l id="s3:l6" met="3" type="-+">Soo dat alles <rhyme label="b" type="m" corresp="#s3:l3">vergaet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Doch eermen gaet <rhyme label="a" type="f">verlooren</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Soo waerschouwt Godt te <rhyme label="a" type="f" corresp="#s4:l1">vooren</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Door 'twoort en minder <rhyme label="b" type="m">slagh</rhyme>.</l>
+        <l id="s4:l4" met="3" type="-+">Geluckigh Landt en <rhyme label="c" type="f">Steden</rhyme>!</l>
+        <l id="s4:l5" met="3" type="-+">Die sigh met Godt <rhyme label="c" type="f" corresp="#s4:l4">bevreeden</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Eer komt de quaetste <rhyme label="b" type="m" corresp="#s4:l3">dagh</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

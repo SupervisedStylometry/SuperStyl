@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>117677</id>
+    <date>
+      <year-start>1741</year-start>
+      <year-end>1741</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>What shall I do to show</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Het Kusje, dat ik laast van uwe <rhyme label="a" type="f">Lipjes</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Ontstal, die vreugd was Nektar aan myn <rhyme label="b" type="m">mond</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Het Ambrozyn van die Coraale <rhyme label="a" type="f" corresp="#s1:l1">tipjes</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Ag myn Filemeen! Is balzem voor myn <rhyme label="b" type="m" corresp="#s1:l2">wond</rhyme>;</l>
+        <l id="s1:l5" met="5" type="-+">Hoe joeg myn Hert, wanneer ik steelswys <rhyme label="c" type="f">plukten</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Die Honig-douw: Noyt was ik meer <rhyme label="d" type="m">verheugt</rhyme>,</l>
+        <l id="s1:l7" met="5" type="-+">Doen ik myn mond aan uwe Lipjes <rhyme label="c" type="f" corresp="#s1:l5">drukte</rhyme>,</l>
+        <l id="s1:l8" met="5" type="-+">Gestrengeld om u hals, smolt ik van zoete <rhyme label="d" type="m" corresp="#s1:l6">vreugd</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Gy zogt t'ontworstelen myn zoeten <rhyme label="a" type="f">Engel</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Gy waard te zwak de Min te <rhyme label="b" type="m">wederstaan</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Ik wierd geholpen van die klyne <rhyme label="a" type="f" corresp="#s2:l1">Bengel</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Maar Baafje loeg wanneer ik had <rhyme label="b" type="m" corresp="#s2:l2">gedaan</rhyme>;</l>
+        <l id="s2:l5" met="5" type="-+">Hy scheen vergramt, maar 't schynt dat <rhyme label="c" type="f">Venus-Wigje</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">Zal maken dat ik u omhelzen <rhyme label="d" type="m">mag</rhyme>,</l>
+        <l id="s2:l7" met="5" type="-+">En u treffen met zyn vergulde <rhyme label="c" type="f" corresp="#s2:l5">Schigje</rhyme>,</l>
+        <l id="s2:l8" met="5" type="-+">En gy dan vlugten zult voor myn <rhyme label="d" type="m" corresp="#s2:l6">ontzag</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

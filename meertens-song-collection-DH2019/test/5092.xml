@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>5092</id>
+    <date>
+      <year-start>1637</year-start>
+      <year-end>1637</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Engelse fortuin</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Viert Meye-feest der blyde <rhyme label="a" type="m">Lust-godin</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Vliet, Velt en Bos, ‘t krielt al vol soete <rhyme label="a" type="m" corresp="#s1:l1">min</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">‘t Mint al wat leeft: maer ‘t redelijcke <rhyme label="b" type="m">dier</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">In echt bepaelt de lust van ‘t <rhyme label="b" type="m" corresp="#s1:l3">minne-vier</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Lofbaren Echt! daer suyver liefd’ en <rhyme label="a" type="m">trouw</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">De kranssen vlecht, om kroonen Man en <rhyme label="a" type="m" corresp="#s2:l1">Vrouw</rhyme>:</l>
+        <l id="s2:l3" met="5" type="-+">Daer soete min in kuysheydt word <rhyme label="b" type="m">gheblust</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">En liefde vest een stage rust en <rhyme label="b" type="m" corresp="#s2:l3">lust</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Lofbaren Echt van Zieltjens twee in <rhyme label="a" type="m">een</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Daer lief en leedt en alles is <rhyme label="a" type="m" corresp="#s3:l1">ghemeen</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Daer hulp in noodt, en troost in druck is <rhyme label="b" type="m">veil</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">En elck een spoor verstreckt nae ‘t eeuwigh <rhyme label="b" type="m" corresp="#s3:l3">heil</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Lofbaren cht, daer ‘t Moederlijcke <rhyme label="a" type="m">hert</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Wt kinders last noch lust gheboren <rhyme label="a" type="m" corresp="#s4:l1">werdt</rhyme>:</l>
+        <l id="s4:l3" met="5" type="-+">Daer Vader-sorgh de Ieughd staegh is <rhyme label="b" type="m">ontrent</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">En haer van jonckx tot Hemel-borghers <rhyme label="b" type="m" corresp="#s4:l3">went</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Lofbaren Echt van dit gheliefde <rhyme label="a" type="m">Paer</rhyme>,</l>
+        <l id="s5:l2" met="5" type="-+">Des Hemels jonst versell’ u voor en <rhyme label="a" type="m" corresp="#s5:l1">naer</rhyme>,</l>
+        <l id="s5:l3" met="5" type="-+">Om heylighlijck nae ‘t Goddelijck <rhyme label="b" type="m">besluyt</rhyme>,</l>
+        <l id="s5:l4" met="5" type="-+">Ter Zielen heyl, dit houw’lijck voeren <rhyme label="b" type="m" corresp="#s5:l3">uyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20602</id>
+    <date>
+      <year-start>1628</year-start>
+      <year-end>1628</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>Je sais Phyllis</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Joan Ysermans</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Cupido vvie had u <rhyme label="a" type="m">cracht</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Te voren oyt soo groot <rhyme label="a" type="m" corresp="#s1:l1">gheacht</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Al sijt ghy cleyn, kindts, ende <rhyme label="b" type="m">blint</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">De groote Goden ghy <rhyme label="b" type="m" corresp="#s1:l3">vervvint</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Den bock-godt Pan door schalckheyt <rhyme label="a" type="m">vvert</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Met uvven pijl ghevvont in't <rhyme label="a" type="m" corresp="#s2:l1">hert</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Als hy u cracht eens proeuen <rhyme label="b" type="m">vvouvv</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Maer voor de daet, quam het <rhyme label="b" type="m" corresp="#s2:l3">berouvv</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Syringa hups, in deuchden <rhyme label="a" type="m">rijck</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">In schoont de Iacht-Goddin <rhyme label="a" type="m" corresp="#s3:l1">ghelijck</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Want vvie dees maeght sach Iaghen <rhyme label="b" type="m">ras</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">Die meynden dat Diana <rhyme label="b" type="m" corresp="#s3:l3">vvas</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Den ermen Pan ghevvont van <rhyme label="a" type="m">t'vvicht</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Aen siend' haer vrindelijck <rhyme label="a" type="m" corresp="#s4:l1">gesicht</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Heeft dese Ionghe schoone <rhyme label="b" type="m">maeght</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Verlieft, allomme naer <rhyme label="b" type="m" corresp="#s4:l3">gejaeght</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Syringa recht als Dafphne <rhyme label="a" type="m">de</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Die voor haer eer en maeghdom <rhyme label="a" type="m" corresp="#s5:l1">stre</rhyme>:</l>
+        <l id="s5:l3" met="4" type="-+">Apollo rakende dit <rhyme label="b" type="m">dier</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Wert eenen groenen <rhyme label="b" type="m" corresp="#s5:l3">Lauvverier</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Alsoo voer Pan oock meer oft, <rhyme label="a" type="m">nim</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Soo haest als hy haer haelde <rhyme label="a" type="m" corresp="#s6:l1">in</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Haer grijpende by Ladons <rhyme label="b" type="m">vliet</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Omhelsde laes! een hant vol <rhyme label="b" type="m" corresp="#s6:l3">riet</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Wat baete hem sijn droef <rhyme label="a" type="m">gheclach</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Dat hy mismoet ten Hemel <rhyme label="a" type="m" corresp="#s7:l1">sach</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Hy maeckte daer sijn Pijp doen <rhyme label="b" type="m">af</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">Die hy den naem Siringa <rhyme label="b" type="m" corresp="#s7:l3">gaf</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

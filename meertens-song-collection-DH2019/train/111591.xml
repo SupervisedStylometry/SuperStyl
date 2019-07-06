@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111591</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Zoet Katrijntje</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">INdien Doris, Nu zyn <rhyme label="a" type="f">Cloris</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">Mogt alleenig <rhyme label="b" type="f">vinden</rhyme>:</l>
+        <l id="s1:l3" met="4" type="+-">Zouw hy 't Meysje      Dan een <rhyme label="c" type="f">reysje</rhyme></l>
+        <l id="s1:l4" met="2" type="+-">Seggen, <rhyme label="d" type="m">hoe</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">De Min, die loose <rhyme label="e" type="m">guyt</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Hem deerlyk in zyn <rhyme label="e" type="m" corresp="#s1:l5">huyt</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Heeft geschoten,, en <rhyme label="f" type="f">gestoten</rhyme>:</l>
+        <l id="s1:l8" met="3" type="+-">Maar ik sal dien <rhyme label="b" type="f" corresp="#s1:l2">blinde</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">Voor die grappen, Wel <rhyme label="g" type="f">betrappen</rhyme>,</l>
+        <l id="s1:l10" met="2" type="+-">Zie maar <rhyme label="d" type="m" corresp="#s1:l4">toe</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">'k Ben als 't Ventje, Dat j'in 't <rhyme label="a" type="f">prentje</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">In d'Almanak ziet <rhyme label="b" type="f">pryken</rhyme>.</l>
+        <l id="s2:l3" met="4" type="+-">Door zyn Kuren, Vol <rhyme label="c" type="f">kwetzuren</rhyme>,</l>
+        <l id="s2:l4" met="2" type="+-">En myn <rhyme label="d" type="m">Hert</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Vol Beuling peunen, <rhyme label="e" type="m">Neen</rhyme>!</l>
+        <l id="s2:l6" met="3" type="-+">'k Meen Pylen, lykt wel <rhyme label="e" type="m" corresp="#s2:l5">een</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">Spelde kussen,, <rhyme label="f" type="f">Ondertussen</rhyme></l>
+        <l id="s2:l8" met="3" type="+-">Sit ik mooy te <rhyme label="b" type="f" corresp="#s2:l2">kyken</rhyme>:</l>
+        <l id="s2:l9" met="4" type="+-">'k Heb Patientie      En <rhyme label="g" type="f">Silentie</rhyme>,</l>
+        <l id="s2:l10" met="2" type="+-">In myn <rhyme label="d" type="m" corresp="#s2:l4">Smert</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Dog myn Cloris, Zo je <rhyme label="a" type="f">Doris</rhyme>,</l>
+        <l id="s3:l2" met="3" type="+-">Niet haast komt te <rhyme label="b" type="f">stade</rhyme>;</l>
+        <l id="s3:l3" met="4" type="+-">Lieven Engel, Sal dien <rhyme label="c" type="f">Bengel</rhyme></l>
+        <l id="s3:l4" met="2" type="+-">My nog <rhyme label="d" type="m">wel</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Canâren met zyn <rhyme label="e" type="m">Toorts</rhyme>:</l>
+        <l id="s3:l6" met="3" type="-+">En dan misschien zoo <rhyme label="e" type="m" corresp="#s3:l5">voorts</rhyme></l>
+        <l id="s3:l7" met="4" type="+-">Ongenadig,, en <rhyme label="f" type="f">baldadig</rhyme></l>
+        <l id="s3:l8" met="3" type="+-">Bra'en als <rhyme label="b" type="f" corresp="#s3:l2">Carbonade</rhyme>,</l>
+        <l id="s3:l9" met="4" type="+-">Of tot Asschen, 'k Wil wel <rhyme label="g" type="f">passen</rhyme></l>
+        <l id="s3:l10" met="2" type="+-">In dit <rhyme label="d" type="m" corresp="#s3:l4">Spel</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111502</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ICh bin 'er ein Guter <rhyme label="a" type="m">Welscher-Man</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Der nichts en hat, und nicht Leben <rhyme label="a" type="m" corresp="#s1:l1">kan</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Ich bin 'er nun kurtz aus Romen <rhyme label="b" type="f">gekommen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Und habe meine Kaste mit <rhyme label="b" type="f" corresp="#s1:l3">genommen</rhyme>.</l>
+        <l id="s1:l5" met="6" type="+-">Schöne Spielewerk, und schöne <rhyme label="c" type="m">Rarikiek</rhyme></l>
+        <l id="s1:l6" met="6" type="+-">La belle Catharyn, Charmante <rhyme label="d" type="m">Margariet</rhyme>.</l>
+        <l id="s1:l7" met="6" type="+-">Schöne Spielewerk, und schöne <rhyme label="c" type="m" corresp="#s1:l5">Rarikiek</rhyme>:</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Nun doe ick meinen Kasten <rhyme label="a" type="m">auf</rhyme>:</l>
+        <l id="s2:l2" met="4" type="-+">Ich saag es isser nicht zu <rhyme label="a" type="m" corresp="#s2:l1">kauf</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Der König von Schweden auf seinen <rhyme label="b" type="f">Pferd</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Der Römscher Kayser mit sein <rhyme label="b" type="f" corresp="#s2:l3">Schwerd</rhyme>.</l>
+        <l id="s2:l5" met="6" type="+-">Schöne Spielewerk, und schöne <rhyme label="c" type="m">Rarikiek</rhyme></l>
+        <l id="s2:l6" met="6" type="+-">La belle Catharyn, Charmante <rhyme label="d" type="m">Margariet</rhyme>.</l>
+        <l id="s2:l7" met="6" type="+-">Schöne Spielewerk, und schöne <rhyme label="c" type="m" corresp="#s2:l5">Rarikiek</rhyme>:</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Daar is Czaar Piet die kroote <rhyme label="a" type="m">Muscovies</rhyme>;</l>
+        <l id="s3:l2" met="4" type="-+">Le grande Turk met al zyn <rhyme label="a" type="m" corresp="#s3:l1">Suit</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">De Prins Eugeen met zyn <rhyme label="b" type="f">armé</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Die slaat 'er de Turke hind, und <rhyme label="b" type="f" corresp="#s3:l3">her</rhyme>.</l>
+        <l id="s3:l5" met="6" type="+-">Schöne Spielwerk, und schöne <rhyme label="c" type="m">Rarikiek</rhyme></l>
+        <l id="s3:l6" met="6" type="+-">La belle Catharyn, Charmante <rhyme label="d" type="m">Margariet</rhyme>.</l>
+        <l id="s3:l7" met="6" type="+-">Schöne Spielewerk, und schöne <rhyme label="c" type="m" corresp="#s3:l5">Rarikiek</rhyme>:</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">De König vond Frankryk in zyn <rhyme label="a" type="m">Karos</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Met Monsieur de Conti, kyk, hoe ryd ie <rhyme label="a" type="m" corresp="#s4:l1">trots</rhyme>;</l>
+        <l id="s4:l3" met="4" type="-+">De Cardinaal, und de Pape van <rhyme label="b" type="f">Rome</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Die hebben op de kop de drie dubbelde <rhyme label="b" type="f" corresp="#s4:l3">Krone</rhyme>.</l>
+        <l id="s4:l5" met="6" type="+-">Schöne Spielewerk, und schöne <rhyme label="c" type="m">Rarikiek</rhyme></l>
+        <l id="s4:l6" met="6" type="+-">La belle Catharyn, Carmante <rhyme label="d" type="m">Margariet</rhyme>.</l>
+        <l id="s4:l7" met="6" type="+-">Schöne Spielewerk, und schöne <rhyme label="c" type="m" corresp="#s4:l5">Rarikiek</rhyme>;</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">De König von Engeland op zyn <rhyme label="a" type="m">throon</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">De Prins von Wallis zyn oudste <rhyme label="a" type="m" corresp="#s5:l1">Zoon</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">De Parlement, und het <rhyme label="b" type="f">Okerhuys</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">De Bille von d'Accys maak een kroot <rhyme label="b" type="f" corresp="#s5:l3">kedruys</rhyme></l>
+        <l id="s5:l5" met="6" type="+-">Schöne Spilewerk, und schöne <rhyme label="c" type="m">Rarikiek</rhyme></l>
+        <l id="s5:l6" met="6" type="+-">La belle Catharyn, Carmante <rhyme label="d" type="m">Margariet</rhyme>.</l>
+        <l id="s5:l7" met="6" type="+-">Schöne Spielewerk, und schöne <rhyme label="c" type="m" corresp="#s5:l5">Rarikiek</rhyme>;</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">De König von Spanjen met den <rhyme label="a" type="m">Infant</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">De Prins von Brazil aan zyn rekte <rhyme label="a" type="m" corresp="#s6:l1">hand</rhyme>;</l>
+        <l id="s6:l3" met="4" type="-+">De Köninginne van <rhyme label="b" type="f">Portugal</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Die wort 'er kesoend von heur <rhyme label="b" type="f" corresp="#s6:l3">Gemaal</rhyme>.</l>
+        <l id="s6:l5" met="6" type="+-">Schöne Spilewerk, und schöne <rhyme label="c" type="m">Rarikiek</rhyme></l>
+        <l id="s6:l6" met="6" type="+-">La belle Catharyn, Carmante <rhyme label="d" type="m">Margariet</rhyme>.</l>
+        <l id="s6:l7" met="6" type="+-">Schöne Spielewerk, und schöne <rhyme label="c" type="m" corresp="#s6:l5">Rarikiek</rhyme>;</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">De Prins von Oranjen met zyn <rhyme label="a" type="m">Bruyd</rhyme>.</l>
+        <l id="s7:l2" met="4" type="-+">Hier mit is myn Rarikiek kast <rhyme label="a" type="m" corresp="#s7:l1">uyt</rhyme>.</l>
+        <l id="s7:l3" met="4" type="-+">Cathryn, und Margriet, met heur <rhyme label="b" type="f">galand</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Die gane na bed toe hand aan <rhyme label="b" type="f" corresp="#s7:l3">hand</rhyme>.</l>
+        <l id="s7:l5" met="6" type="+-">Schöne Spilewerk, und schöne <rhyme label="c" type="m">Rarikiek</rhyme></l>
+        <l id="s7:l6" met="6" type="+-">La belle Catharyn, Carmante <rhyme label="d" type="m">Margariet</rhyme>.</l>
+        <l id="s7:l7" met="6" type="+-">Schöne Spielewerk, und schöne <rhyme label="c" type="m" corresp="#s7:l5">Rarikiek</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

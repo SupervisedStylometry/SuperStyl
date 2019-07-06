@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36676</id>
+    <date>
+      <year-start>1631</year-start>
+      <year-end>1631</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Mijn hart gaat op vol vreugden zoet</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MYn hert' gaet op vol vreughden <rhyme label="a" type="m">soet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Die ghy my sien, en smaken <rhyme label="a" type="m" corresp="#s1:l1">doet</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Met d'leven <rhyme label="b" type="m">wonderbaer</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Van Godts vriendinne <rhyme label="b" type="m" corresp="#s1:l3">overclaer</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">O leven hemels <rhyme label="c" type="f">leven</rhyme>!</l>
+        <l id="s1:l6" met="5" type="-+">Vol vreughden groot, vol vrolijckheydt <rhyme label="c" type="f" corresp="#s1:l5">verheven</rhyme>,</l>
+        <l id="s1:l7" met="5" type="-+">Dat die claer siel' recht over Zee soo <rhyme label="d" type="m">pur</rhyme></l>
+        <l id="s1:l8" met="5" type="-+">Quam innich als ontslaghen van <rhyme label="d" type="m" corresp="#s1:l7">natur'</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Den voorwindt daer die siel' van <rhyme label="a" type="m">wierdt</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Soo vrolijck over Zee <rhyme label="a" type="m" corresp="#s2:l1">ghestiert</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Die Godt den Heer' haer <rhyme label="b" type="m">gaf</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Daer sy me stack gheluckich <rhyme label="b" type="m" corresp="#s2:l3">af</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">En ter plaets' <rhyme label="c" type="f">voorghenomen</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">Soo wel gherecht, soo salichlijck mocht' <rhyme label="c" type="f" corresp="#s2:l5">comen</rhyme>,</l>
+        <l id="s2:l7" met="5" type="-+">Moest' zijn voorwaer den gheest Godts, die haer <rhyme label="d" type="m">de'</rhyme></l>
+        <l id="s2:l8" met="5" type="-+">Vyt haer in hem veranderen van <rhyme label="d" type="m" corresp="#s2:l7">ste'</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">T'en was haer werck noch sterckte <rhyme label="a" type="m">niet</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Dat sy haer selven soo <rhyme label="a" type="m" corresp="#s3:l1">verliet</rhyme>;</l>
+        <l id="s3:l3" met="3" type="-+">Dat sy den rechten <rhyme label="b" type="m">streeck</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Door gheen aen kleven en <rhyme label="b" type="m" corresp="#s3:l3">ontweeck</rhyme>:</l>
+        <l id="s3:l5" met="3" type="-+">Maer sonder daer te <rhyme label="c" type="f">letten</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">Soo los en bloot, soo licht mocht' <rhyme label="c" type="f" corresp="#s3:l5">oversetten</rhyme>,</l>
+        <l id="s3:l7" met="5" type="-+">En alles le'igh met een grondich uyt <rhyme label="d" type="m">gaen</rhyme></l>
+        <l id="s3:l8" met="5" type="-+">Ter haven mocht' voor-spoedich comen <rhyme label="d" type="m" corresp="#s3:l7">aen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Och quam' ick daer, daer sy toe <rhyme label="a" type="m">quam</rhyme>;</l>
+        <l id="s4:l2" met="4" type="-+">Bevond' ick t'ghen', dat sy <rhyme label="a" type="m" corresp="#s4:l1">vernam</rhyme>;</l>
+        <l id="s4:l3" met="3" type="-+">Mocht' ick gherust <rhyme label="b" type="m">alleen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">In mijnen Godt en anders <rhyme label="b" type="m" corresp="#s4:l3">gheen</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">In mijnen wel <rhyme label="c" type="f">beminden</rhyme></l>
+        <l id="s4:l6" met="5" type="-+">My oock soo bloot eens onvermiddelt <rhyme label="c" type="f" corresp="#s4:l5">vinden</rhyme>;</l>
+        <l id="s4:l7" met="5" type="-+">Dat ick in hem mocht' wesen alles <rhyme label="d" type="m">quijt</rhyme>,</l>
+        <l id="s4:l8" met="5" type="-+">Dat my hier houdt uyt hem verscheyden <rhyme label="d" type="m" corresp="#s4:l7">wijt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Dat waer mijn vreught, al mijn <rhyme label="a" type="m">vermaeck</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Dat waer den dach, daer ick naer <rhyme label="a" type="m" corresp="#s5:l1">haeck'</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Dat waer Vriendinn' voor <rhyme label="b" type="m">my</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Een ure bly' en <rhyme label="b" type="m" corresp="#s5:l3">overbly'</rhyme>:</l>
+        <l id="s5:l5" met="3" type="-+">O ure der <rhyme label="c" type="f">ghenuchten</rhyme>!</l>
+        <l id="s5:l6" met="5" type="-+">Oft ick eens mocht' soo derwaerts <rhyme label="c" type="f" corresp="#s5:l5">overvluchten</rhyme>:</l>
+        <l id="s5:l7" met="5" type="-+">Maer nu vriendinn' vertelt my eens <rhyme label="d" type="m">gheheel</rhyme></l>
+        <l id="s5:l8" met="5" type="-+">Haer reys', daer ick van heb' ghehoort een <rhyme label="d" type="m" corresp="#s5:l7">deel</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

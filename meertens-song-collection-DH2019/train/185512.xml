@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185512</id>
+    <date>
+      <year-start>1790</year-start>
+      <year-end>1792</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Dans un verger Colinette</melody>
+  <author>Gerrit Manheer</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Koomt speelnooten, <rhyme label="a" type="f">Herderinnen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Die opregt en teeder <rhyme label="b" type="m">mind</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Volg Clotilde, o <rhyme label="a" type="f" corresp="#s1:l1">veldvriendinnen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">'t Godendom, dat wellust <rhyme label="b" type="m" corresp="#s1:l2">vind</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">In uw ongeveinst <rhyme label="a" type="f" corresp="#s1:l1">beminnen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Paart u heden met uw <rhyme label="b" type="m" corresp="#s1:l2">vrind</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Weigert nu geen herder <rhyme label="a" type="f">kusjes</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Cupido geleid ons <rhyme label="b" type="m">thans</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Wen hij stookt de <rhyme label="a" type="f" corresp="#s2:l1">liefdelustjes</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">En vast strengeld, krans bij <rhyme label="b" type="m" corresp="#s2:l2">krans</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Koom dan blijde <rhyme label="a" type="f" corresp="#s2:l1">Herderzusjes</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Tree met uw Clotild' ten <rhyme label="b" type="m" corresp="#s2:l2">dans</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>119265</id>
+    <date>
+      <year-start>1730</year-start>
+      <year-end>1730</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>Ik wou dat ik was een wilde zwaan</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Jakobus Rosseau</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">'k GIng laast op myn <rhyme label="a" type="f">benen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Dat 's op geen stelten <rhyme label="b" type="m">Moer</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Zo regt uit na de <rhyme label="a" type="f" corresp="#s1:l1">Venen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">By Dikpens onze <rhyme label="b" type="m" corresp="#s1:l2">Boer</rhyme>,</l>
+        <l id="s1:l5" met="2" type="+-">Daar ik <rhyme label="c" type="f">wonder</rhyme>,</l>
+        <l id="s1:l6" met="2" type="+-">Daar ik <rhyme label="c" type="f" corresp="#s1:l5">wonder</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Daar ik wonder aardig <rhyme label="b" type="m" corresp="#s1:l2">voer</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Zyn Dogter <rhyme label="d" type="m">lag</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">Te bed, gelyk ik <rhyme label="d" type="m" corresp="#s1:l8">zag</rhyme>,</l>
+        <l id="s1:l10" met="4" type="+-">Zy riep goede morgen <rhyme label="b" type="m" corresp="#s1:l2">Broer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ik ging na 't bed toe <rhyme label="a" type="f">treden</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">En riep wat scheeltje <rhyme label="b" type="m">Mat</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Zy sprak door al myn <rhyme label="a" type="f" corresp="#s2:l1">leden</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Woeld iets van dit en <rhyme label="b" type="m" corresp="#s2:l2">dat</rhyme>,</l>
+        <l id="s2:l5" met="2" type="+-">Wilt my <rhyme label="c" type="f">redden</rhyme>,</l>
+        <l id="s2:l6" met="2" type="+-">Wilt my <rhyme label="c" type="f" corresp="#s2:l5">redden</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Met wat lekkers uit de <rhyme label="b" type="m" corresp="#s2:l2">Stadt</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Toen kwam haar <rhyme label="d" type="m">Vaâr</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">Die riep jou <rhyme label="d" type="m" corresp="#s2:l8">Sneukelaar</rhyme>,</l>
+        <l id="s2:l10" met="4" type="+-">ô! Jou onbeschaamde <rhyme label="b" type="m" corresp="#s2:l2">plat</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Wilt gy myn Dogter <rhyme label="a" type="f">schenden</rhyme>?</l>
+        <l id="s3:l2" met="3" type="-+">Gaat eer dat ik jou <rhyme label="b" type="m">breek</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Jou kop, of slegts jou <rhyme label="a" type="f" corresp="#s3:l1">lenden</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Hy waar van boosheid <rhyme label="b" type="m" corresp="#s3:l2">bleek</rhyme>,</l>
+        <l id="s3:l5" met="2" type="+-">Ik moest <rhyme label="c" type="f">rekken</rhyme>,</l>
+        <l id="s3:l6" met="2" type="+-">En <rhyme label="c" type="f" corresp="#s3:l5">vertrekken</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">ô! Daar baate geen <rhyme label="b" type="m" corresp="#s3:l2">gepreek</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">Het Meisje <rhyme label="d" type="m">kreet</rhyme>,</l>
+        <l id="s3:l9" met="3" type="-+">Het waar dat bekje <rhyme label="d" type="m" corresp="#s3:l8">leed</rhyme>,</l>
+        <l id="s3:l10" met="4" type="+-">Dat ik dus zo van haar <rhyme label="b" type="m" corresp="#s3:l2">week</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Want ik kon haar <rhyme label="a" type="f">genezen</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Ik droeg de <rhyme label="b" type="m">Mediçyn</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Ik mogt by haar niet <rhyme label="a" type="f" corresp="#s4:l1">wezen</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">ô! Overgroote <rhyme label="b" type="m" corresp="#s4:l2">pyn</rhyme>,</l>
+        <l id="s4:l5" met="2" type="+-">Ik zal <rhyme label="c" type="f">voortaan</rhyme>,</l>
+        <l id="s4:l6" met="2" type="+-">Ik zal <rhyme label="c" type="f" corresp="#s4:l5">voortaan</rhyme>,</l>
+        <l id="s4:l7" met="4" type="+-">Ik zal voortaan wyzer <rhyme label="b" type="m" corresp="#s4:l2">zyn</rhyme>,</l>
+        <l id="s4:l8" met="2" type="-+">En gaan <rhyme label="d" type="m">byget</rhyme>,</l>
+        <l id="s4:l9" met="3" type="-+">Nooit aan een Maagd haar <rhyme label="d" type="m" corresp="#s4:l8">bed</rhyme>,</l>
+        <l id="s4:l10" met="4" type="+-">Of myn naam die is geen <rhyme label="b" type="m" corresp="#s4:l2">Kryn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

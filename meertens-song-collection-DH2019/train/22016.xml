@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22016</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Wo Gott der Herr nicht bei uns hält</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Salich is hy, die en wandelt <rhyme label="a" type="m">niet</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Inden Godtloosen <rhyme label="b" type="f">rade</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Noch op den wech der sondaren <rhyme label="a" type="m" corresp="#s1:l1">treedt</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Noch sidt by Spotters <rhyme label="b" type="f" corresp="#s1:l2">quade</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Maer die heeft synen lust <rhyme label="c" type="m">ghemeen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">In Godt des Heeren Wet <rhyme label="c" type="m" corresp="#s1:l5">alleen</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Daeraf spreeckt dach, en <rhyme label="d" type="f">nachte</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die sal zijn als eenen boom <rhyme label="a" type="m">gheplant</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">By goede water <rhyme label="b" type="f">Beken</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Die zijn vrucht gheeft Tsoemers <rhyme label="a" type="m" corresp="#s2:l1">playsant</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Wiens bladers niet en <rhyme label="b" type="f" corresp="#s2:l2">verflecken</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Wat hy beghint, sal gheluckich <rhyme label="c" type="m">zijn</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Daer de Godtloosen, wech stuyuen <rhyme label="c" type="m" corresp="#s2:l5">sijn</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Ghelijck het Kaf vanden <rhyme label="d" type="f">winde</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Die Godtloosen, in het <rhyme label="a" type="m">oordeel</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">En sullen niet staende <rhyme label="b" type="f">blyuen</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Die sondaers, vanden rechtueerdghen <rhyme label="a" type="m" corresp="#s3:l1">gheel</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Salmen al sien <rhyme label="b" type="f" corresp="#s3:l2">verdrijuen</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">Want Godt der rechtuaerdghen wech <rhyme label="c" type="m">kent</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Maer des Godtloosen, padt <rhyme label="c" type="m" corresp="#s3:l5">gheschent</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Sal doer de cracht Godts <rhyme label="d" type="f">worden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Eer sy den Vader, en den <rhyme label="a" type="m">Soon</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">En oock den Heylighen <rhyme label="b" type="f">Geeste</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">Die int beghin was, en nu <rhyme label="a" type="m" corresp="#s4:l1">schoon</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Ons zijn ghenade <rhyme label="b" type="f" corresp="#s4:l2">leeste</rhyme>:</l>
+        <l id="s4:l5" met="4" type="-+">Dat wy wandelen in zijnen <rhyme label="c" type="m">paedt</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Dat ons de sundt, die siel niet <rhyme label="c" type="m" corresp="#s4:l5">schaedt</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Wie dat begheert, die spreeck, <rhyme label="d" type="f">Amen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

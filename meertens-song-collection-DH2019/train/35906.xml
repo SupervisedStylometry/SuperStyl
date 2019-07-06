@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35906</id>
+    <date>
+      <year-start>1678</year-start>
+      <year-end>1678</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+    </tags>
+    <melody>Courante la reine</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Johanna de Gavre</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Daelt neer uyt s’Hemels <rhyme label="a" type="m">troon</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Ghy Enghels gulde <rhyme label="b" type="f">scharen</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Wilt u <rhyme label="b" type="f" corresp="#s1:l2">verklaren</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">En croont de <rhyme label="c" type="m">Maeght</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">Die naer haer loon den rom der Maeghden <rhyme label="c" type="m" corresp="#s1:l4">draeght</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Met eenen Gulden <rhyme label="d" type="m">Lauwerier</rhyme>,</l>
+        <l id="s1:l7" met="5" type="-+">Met witte Lelien en <rhyme label="d" type="m" corresp="#s1:l6">Eghelentier</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Met roode <rhyme label="e" type="f">Roosen</rhyme>,</l>
+        <l id="s1:l9" met="2" type="-+">Die door liefden <rhyme label="e" type="f" corresp="#s1:l8">bloosen</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">Wilt becroonen <rhyme label="d" type="m" corresp="#s1:l6">hier</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ridderspoor <rhyme label="a" type="m">Hyacine</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Sonckilsen <rhyme label="b" type="f">Martegoenen</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Goublom <rhyme label="b" type="f" corresp="#s2:l2">Pioenen</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">Blomen van <rhyme label="c" type="m">damas</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">De schoon Sennoffels en den <rhyme label="c" type="m" corresp="#s2:l4">Serfas</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Oock Lelien van de suyver <rhyme label="d" type="m">min</rhyme>,</l>
+        <l id="s2:l7" met="5" type="-+">Wilt Enghels stroyen voor dees <rhyme label="d" type="m" corresp="#s2:l6">Coninghin</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Thymes <rhyme label="e" type="f">Narsissen</rhyme></l>
+        <l id="s2:l9" met="2" type="-+">Palm ende <rhyme label="e" type="f" corresp="#s2:l8">Lissen</rhyme>,</l>
+        <l id="s2:l10" met="3" type="-+">Dat is mijnen <rhyme label="d" type="m" corresp="#s2:l6">sin</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Sy weerdigh is <rhyme label="a" type="m">ghekroont</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Het hooft verciert met <rhyme label="b" type="f">deughden</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">Waer in <rhyme label="b" type="f" corresp="#s3:l2">verheughden</rhyme>,</l>
+        <l id="s3:l4" met="2" type="-+">Haren <rhyme label="c" type="m">Bruydegom</rhyme>,</l>
+        <l id="s3:l5" met="5" type="-+">Die haer in t’Hemels Hof heet <rhyme label="c" type="m" corresp="#s3:l4">willecom</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Want sy de Bruydt is ende <rhyme label="d" type="m">Maeght</rhyme>,</l>
+        <l id="s3:l7" met="5" type="-+">Die oock den Palm tack van victori <rhyme label="d" type="m" corresp="#s3:l6">draeght</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">Wilt suyver <rhyme label="e" type="f">Zielen</rhyme>,</l>
+        <l id="s3:l9" met="2" type="-+">Voor dees Maghet <rhyme label="e" type="f" corresp="#s3:l8">knielen</rhyme>,</l>
+        <l id="s3:l10" met="3" type="-+">Want sy Godt <rhyme label="d" type="m" corresp="#s3:l6">behaeght</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

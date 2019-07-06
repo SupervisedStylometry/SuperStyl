@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111452</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Réveillez-vous belle endormie</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WAt hoef ik langer dus te <rhyme label="a" type="f">vreesen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Daar in en zoetheyd beyde <rhyme label="b" type="m">woond</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">In Cloris; En haar minlyk <rhyme label="a" type="f" corresp="#s1:l1">wesen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">My niet dan zoetigheyd <rhyme label="b" type="m" corresp="#s1:l2">vertoond</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wat vreugde staat my niet te <rhyme label="a" type="f">wagten</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Indien zy eens myn dienst <rhyme label="b" type="m">beloond</rhyme>?</l>
+        <l id="s2:l3" met="4" type="-+">Ik smaak het reeds in myn <rhyme label="a" type="f" corresp="#s2:l1">gedagten</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Schoon zy my nog geen Min <rhyme label="b" type="m" corresp="#s2:l2">betoond</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ik vind nu zoet haar te <rhyme label="a" type="f">beminnen</rhyme>:</l>
+        <l id="s3:l2" met="4" type="-+">Ik vind nu blydschap in myn <rhyme label="b" type="m">druk</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Maar kan ik eens haar hert <rhyme label="a" type="f" corresp="#s3:l1">verwinnen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Hoe groot! hoe groot is dan myn <rhyme label="b" type="m" corresp="#s3:l2">luk</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35866</id>
+    <date>
+      <year-start>1678</year-start>
+      <year-end>1678</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
+    </tags>
+    <melody>Courante monsieur</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Ierusalemsche <rhyme label="a" type="m">schaer</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Ghy Maeghdekens <rhyme label="a" type="m" corresp="#s1:l1">eerbaer</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Ghy die mijn pijnen en mijn qualen <rhyme label="b" type="m">kent</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Want dese sieckte ben ick meer <rhyme label="b" type="m" corresp="#s1:l3">ghewent</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Ghy weet hoe ick van Liefde <rhyme label="c" type="m">queel</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">En door de Liefde met den Minnaer <rhyme label="c" type="m" corresp="#s1:l5">speel</rhyme>,</l>
+        <l id="s1:l7" met="5" type="-+">Ghy weet wel dat het is mijn meest <rhyme label="d" type="m">vermaeck</rhyme>,</l>
+        <l id="s1:l8" met="5" type="-+">Als ick het aldermeeste naer hem <rhyme label="d" type="m" corresp="#s1:l7">haeck</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Om set mijn Edel <rhyme label="a" type="m">hert</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Dat soo vervult met <rhyme label="a" type="m" corresp="#s2:l1">smert</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Is door de over groote Minne <rhyme label="b" type="m">vlam</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Die mijn Ionck-hert heel in haer selven <rhyme label="b" type="m" corresp="#s2:l3">nam</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Brenght Thymus ende <rhyme label="c" type="m">Lauwerier</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">Brenght oock Lavendre en <rhyme label="c" type="m" corresp="#s2:l5">Eghelentier</rhyme>,</l>
+        <l id="s2:l7" met="5" type="-+">Ghenoffels Blommen van menigh <rhyme label="d" type="m">couleur</rhyme>,</l>
+        <l id="s2:l8" met="5" type="-+">Op dat ick vatten magh den soeten <rhyme label="d" type="m" corresp="#s2:l7">geur</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Brenght al dat is <rhyme label="a" type="m">ghegroeyt</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Ghebladert en <rhyme label="a" type="m" corresp="#s3:l1">ghebloyt</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">T’is tot verqueeckingh van een flauwe <rhyme label="b" type="m">Ziel</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Die door de Liefde van haer selven <rhyme label="b" type="m" corresp="#s3:l3">viel</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Oock Appelkens van schoonen <rhyme label="c" type="m">bloos</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">Pluckt af en sneyt oock de Hollantsche <rhyme label="c" type="m" corresp="#s3:l5">Roos</rhyme>,</l>
+        <l id="s3:l7" met="5" type="-+">Omringhelt en omsedt my al <rhyme label="d" type="m">ghelijck</rhyme>,</l>
+        <l id="s3:l8" met="5" type="-+">Tot dat ick ben ghebrocht in’t Minnen <rhyme label="d" type="m" corresp="#s3:l7">rijck</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

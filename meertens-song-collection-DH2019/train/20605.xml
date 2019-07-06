@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20605</id>
+    <date>
+      <year-start>1628</year-start>
+      <year-end>1628</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>Schoonste nimf van het woud</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Joan Ysermans</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">LEstmael soo de gulden <rhyme label="a" type="m">Son</rhyme></l>
+        <l id="s1:l2" met="2" type="+-">snel <rhyme label="a" type="m" corresp="#s1:l1">begon</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Thethys golven op te <rhyme label="b" type="f">scheuren</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Soo socht ick, maer ick en <rhyme label="a" type="m" corresp="#s1:l1">con</rhyme></l>
+        <l id="s1:l5" met="2" type="+-">
+          <rhyme label="a" type="m" corresp="#s1:l1">Coridon</rhyme>
+        </l>
+        <l id="s1:l6" met="4" type="+-">Nievers vinden, noch <rhyme label="b" type="f" corresp="#s1:l3">ghespeuren</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Momp'len hoord' ick op dat <rhyme label="a" type="m">pas</rhyme></l>
+        <l id="s2:l2" met="2" type="+-">Dat hy <rhyme label="a" type="m" corresp="#s2:l1">vvas</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Met sijn Nimph inde <rhyme label="b" type="f">boschagi</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Daer ick my liep berghen <rhyme label="a" type="m" corresp="#s2:l1">ras</rhyme></l>
+        <l id="s2:l5" met="2" type="+-">in het <rhyme label="a" type="m" corresp="#s2:l1">gras</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Om te hooren hun <rhyme label="b" type="f" corresp="#s2:l3">vryagi</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Ick sach dat dees maeght hem <rhyme label="a" type="m">boot</rhyme></l>
+        <l id="s3:l2" met="2" type="+-">Haren <rhyme label="a" type="m" corresp="#s3:l1">schoot</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Daer met vreuchden hy in <rhyme label="b" type="f">rusten</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">En haer schoone vvangskens <rhyme label="a" type="m" corresp="#s3:l1">bloot</rhyme>,</l>
+        <l id="s3:l5" met="2" type="+-">roosen <rhyme label="a" type="m" corresp="#s3:l1">root</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Hy naer sijn ghenoeghen <rhyme label="b" type="f" corresp="#s3:l3">kusten</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">O soete Prickelende <rhyme label="a" type="m">min</rhyme>:</l>
+        <l id="s4:l2" met="2" type="+-">Min vvaer <rhyme label="a" type="m" corresp="#s4:l1">in</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">Onse jeucht vast vvort <rhyme label="b" type="f">versleten</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Ghy had dese <rhyme label="a" type="m" corresp="#s4:l1">Herderin</rhyme></l>
+        <l id="s4:l5" met="2" type="+-">Dom van <rhyme label="a" type="m" corresp="#s4:l1">sin</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">Schier de schaemte doen <rhyme label="b" type="f" corresp="#s4:l3">vergeten</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Wie het vvas en mel ick <rhyme label="a" type="m">niet</rhyme>,</l>
+        <l id="s5:l2" met="2" type="+-">Doch sy <rhyme label="a" type="m" corresp="#s5:l1">liet</rhyme></l>
+        <l id="s5:l3" met="4" type="+-">Haer cleyn ronde boorstkens <rhyme label="b" type="f">tasten</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Maer ter vvijl sy songhen <rhyme label="a" type="m" corresp="#s5:l1">iet</rhyme>,</l>
+        <l id="s5:l5" met="2" type="+-">Ist <rhyme label="a" type="m" corresp="#s5:l1">gheschiet</rhyme></l>
+        <l id="s5:l6" met="4" type="+-">Dat Diana haer <rhyme label="b" type="f" corresp="#s5:l3">verrasten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

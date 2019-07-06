@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>38879</id>
+    <date>
+      <year-start>1723</year-start>
+      <year-end>1723</year-end>
+    </date>
+    <location>
+      <orginal-name>brugghe</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="meilied" translation="May song">meilied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Schone diamant</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Philippus Jongheryx</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">SChoon diamant,, In't herteken <rhyme label="a" type="m">geplant</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Door liefde abondant,, Den Mey <rhyme label="b" type="f">idoone</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Groen plaisant,, Met loveren <rhyme label="a" type="m" corresp="#s1:l1">triumphant</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Daer aen elck kant,, bloeyt even <rhyme label="b" type="f" corresp="#s1:l2">schoone</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Om dat ghy spant de <rhyme label="b" type="f" corresp="#s1:l2">croone</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Gy croone der vreughden en't herte van <rhyme label="c" type="m">myn</rhyme></l>
+        <l id="s1:l7" met="6" type="-+">Gy blinckende Robin laet u ontfanghbaer <rhyme label="c" type="m" corresp="#s1:l6">zyn</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Den Lauwerier-boom <rhyme label="c" type="m" corresp="#s1:l6">syn</rhyme>,</l>
+        <l id="s1:l9" met="5" type="-+">Die ick op dit termyn, schenck u <rhyme label="b" type="f" corresp="#s1:l2">persoone</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Aensiet desen tydt, gy die de liefste <rhyme label="a" type="m">zyt</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Hy brenght vreucht, en jolyt, in alle <rhyme label="b" type="f">contrey</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">Want wy zyn quyt, den winter kout <rhyme label="a" type="m" corresp="#s2:l1">en</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Den somer ons bevrijt, met <rhyme label="b" type="f" corresp="#s2:l2">armeynen</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Men hoort daer vreucht <rhyme label="b" type="f" corresp="#s2:l2">verbreyen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">In bosschen en velden in't <rhyme label="c" type="m">generael</rhyme>,</l>
+        <l id="s2:l7" met="6" type="-+">Den fieren Nachtergael, met synder soete <rhyme label="c" type="m" corresp="#s2:l6">tael</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Hoort men daer <rhyme label="c" type="m" corresp="#s2:l6">principael</rhyme>,</l>
+        <l id="s2:l9" met="5" type="-+">Om alle druck en quael, van ons te <rhyme label="b" type="f" corresp="#s2:l2">leyen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34521</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Ysbrand stondt op 't ys en <rhyme label="a" type="m">keek</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Starrenoogje vaardig <rhyme label="b" type="f">rijden</rhyme>;</l>
+        <l id="s1:l3" met="4" type="+-">Straks zijn koude borst <rhyme label="a" type="m" corresp="#s1:l1">bezweek</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Alsz' in 't zwieren van ter <rhyme label="b" type="f" corresp="#s1:l2">zijden</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Hem een flonkrend oogjen <rhyme label="c" type="m">zandt</rhyme>;</l>
+        <l id="s1:l6" met="4" type="+-">Dies deed hem de lust <rhyme label="d" type="f">verstouten</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">'s Avonds wat by haar te <rhyme label="d" type="f" corresp="#s1:l6">kouten</rhyme>;</l>
+        <l id="s1:l8" met="4" type="+-">En een kus voor mond en <rhyme label="c" type="m" corresp="#s1:l5">handt</rhyme></l>
+        <l id="s1:l9" met="4" type="+-">Staaken Ysbrand gantsch in <rhyme label="c" type="m" corresp="#s1:l5">brand</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

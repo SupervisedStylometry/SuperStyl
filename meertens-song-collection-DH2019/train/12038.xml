@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12038</id>
+    <date>
+      <year-start>1617</year-start>
+      <year-end>1617</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+    </tags>
+    <melody>Puer nobis nascitur</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">PVer nobis <rhyme label="a" type="m">nascitur</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">Rector <rhyme label="b" type="f">Angelorum</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">In hoc mundo <rhyme label="a" type="m" corresp="#s1:l1">pascitur</rhyme></l>
+        <l id="s1:l4" met="3" type="+-">Dominus <rhyme label="b" type="f" corresp="#s1:l2">Dominorum</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">In praesepi <rhyme label="a" type="m">ponitur</rhyme>,</l>
+        <l id="s2:l2" met="3" type="+-">Sub foeno <rhyme label="b" type="f">asinorum</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Cognouerunt <rhyme label="a" type="m" corresp="#s2:l1">Dominum</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">Christum Regem <rhyme label="b" type="f" corresp="#s2:l2">caelorum</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Hinc Herodes <rhyme label="a" type="m">timuit</rhyme></l>
+        <l id="s3:l2" met="3" type="+-">Mango cum <rhyme label="b" type="f">livore</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Innocentes <rhyme label="a" type="m" corresp="#s3:l1">pueros</rhyme></l>
+        <l id="s3:l4" met="3" type="+-">Occidit cum <rhyme label="b" type="f" corresp="#s3:l2">dolore</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Qui natus ex <rhyme label="a" type="m">Maria</rhyme></l>
+        <l id="s4:l2" met="3" type="+-">Die <rhyme label="b" type="f">hodierna</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Ducat nos cum <rhyme label="a" type="m" corresp="#s4:l1">gratia</rhyme></l>
+        <l id="s4:l4" met="3" type="+-">Gaudia ad <rhyme label="b" type="f" corresp="#s4:l2">superna</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

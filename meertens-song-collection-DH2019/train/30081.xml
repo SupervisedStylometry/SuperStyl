@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>30081</id>
+    <date>
+      <year-start>1591</year-start>
+      <year-end>1591</year-end>
+    </date>
+    <location>
+      <orginal-name>middelburg</orginal-name>
+      <standard-name>Middelburg, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.4997302</lon>
+        <lat>3.6136962</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 122 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Philips van Marnix van Sint Aldegonde</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ICk was verblijdt in mijnen <rhyme label="a" type="m">geest</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">So saen als ick tvolc heb <rhyme label="b" type="m">gehoort</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Dat sprack, comt laet ons treden <rhyme label="b" type="m" corresp="#s1:l2">voort</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">In Godes huys end houden <rhyme label="a" type="m" corresp="#s1:l1">feest</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Ons voeten sullen voortaen <rhyme label="c" type="m">vry</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Ierusalem staen binnen <rhyme label="c" type="m" corresp="#s1:l5">dy</rhyme>:</l>
+        <l id="s1:l7" met="4" type="-+">Ierusalem schoon <rhyme label="d" type="f">opgebouwet</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">End met der borgers goed' <rhyme label="e" type="m">eendracht</rhyme>,</l>
+        <l id="s1:l9" met="4" type="-+">In een gevoegt, end tsamen <rhyme label="e" type="m" corresp="#s1:l8">bracht</rhyme>,</l>
+        <l id="s1:l10" met="4" type="-+">Als een stat die goed' ordning <rhyme label="d" type="f" corresp="#s1:l7">houwet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Daer sullen alle stammen <rhyme label="a" type="m">gaen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Van s'Heeren volck, nae sijn <rhyme label="b" type="m">bevel</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Tot oorcond onder <rhyme label="b" type="m" corresp="#s2:l2">Israel</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Om van Gods lof te doen <rhyme label="a" type="m" corresp="#s2:l1">vermaen</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">De stoelen sijn daer al <rhyme label="c" type="m">gestelt</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Voir Davids stam, om voir <rhyme label="c" type="m" corresp="#s2:l5">gewelt</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Elck een in sijn recht te <rhyme label="d" type="f">bewaren</rhyme>.</l>
+        <l id="s2:l8" met="4" type="-+">Wenscht dan Ierusalem <rhyme label="e" type="m">geluck</rhyme>,</l>
+        <l id="s2:l9" met="4" type="-+">Dat haer liefhebbers, sonder <rhyme label="e" type="m" corresp="#s2:l8">druck</rhyme></l>
+        <l id="s2:l10" met="4" type="-+">Wel en gelucklijck mogen <rhyme label="d" type="f" corresp="#s2:l7">varen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Stadt Gods, dy moet veel goets <rhyme label="a" type="m">geschien</rhyme>.</l>
+        <l id="s3:l2" met="4" type="-+">God wil met vrede dijnen <rhyme label="b" type="m">muer</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">End dijn paleysen telcker <rhyme label="b" type="m" corresp="#s3:l2">uer</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Met voirspoet end geluck <rhyme label="a" type="m" corresp="#s3:l1">versien</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Om dat mijn broeders sijn daer <rhyme label="c" type="m">in</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">End vrienden, die ick recht <rhyme label="c" type="m" corresp="#s3:l5">bemin</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Wensch' ick dy voirspoet ende <rhyme label="d" type="f">vrede</rhyme>.</l>
+        <l id="s3:l8" met="4" type="-+">End om dat onses Godes <rhyme label="e" type="m">throon</rhyme></l>
+        <l id="s3:l9" met="4" type="-+">Staet binnen dijnen tempel <rhyme label="e" type="m" corresp="#s3:l8">schoon</rhyme>,</l>
+        <l id="s3:l10" met="4" type="-+">Soeck ick dijn welvaert t'aller <rhyme label="d" type="f" corresp="#s3:l7">stede</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

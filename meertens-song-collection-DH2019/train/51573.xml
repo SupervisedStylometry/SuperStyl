@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>51573</id>
+    <date>
+      <year-start>1795</year-start>
+      <year-end>1819</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam (anjeliersgracht)</orginal-name>
+      <standard-name>Anjeliersgracht, Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3774201</lon>
+        <lat>4.8816913</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Hendrik sliep met zyn <rhyme label="a" type="f">welbeminde</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Een ryke Dogter aan den <rhyme label="b" type="m">Ryn</rhyme>,</l>
+        <l id="s1:l3" met="5" type="+-">Zwoer zyn trouw en valsche ziel te <rhyme label="a" type="f" corresp="#s1:l1">minnen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Die de zoete slaap hêm beter <rhyme label="b" type="m" corresp="#s1:l2">zy</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">De klokke twaalf doordrong de <rhyme label="a" type="f">Gordynen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Schielyk een koude witte <rhyme label="b" type="m">hand</rhyme>,</l>
+        <l id="s2:l3" met="5" type="+-">ô Verschrikkelyk dat zyn <rhyme label="a" type="f" corresp="#s2:l1">Willemina</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Die in Sterfgewaad voor hem <rhyme label="b" type="m" corresp="#s2:l2">stond</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Schrikt doch niet sprak zy met zoete <rhyme label="a" type="f">woorden</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Voormaals myn Beminde ontwaakt en <rhyme label="b" type="m">zie</rhyme>,</l>
+        <l id="s3:l3" met="5" type="+-">Ik kom hier uit wraak in deze <rhyme label="a" type="f" corresp="#s3:l1">woning</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Ook u liefde Lief vervloek ik <rhyme label="b" type="m" corresp="#s3:l2">niet</rhyme>,</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Waarom liet ik zwakke myn <rhyme label="a" type="f">vervoeren</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Ik bouwde op u trouw en redelyk <rhyme label="b" type="m">zijn</rhyme>,</l>
+        <l id="s4:l3" met="5" type="+-">Waarom niet door u woorde <rhyme label="a" type="f" corresp="#s4:l1">boren</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Die gy sprak uit loutere valsche <rhyme label="b" type="m" corresp="#s4:l2">schyn</rhyme>,</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Ach dus kommer kan myn jonge <rhyme label="a" type="f">leven</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Lieve Hendrik smarteling <rhyme label="b" type="m">afgeschort</rhyme></l>
+        <l id="s5:l3" met="5" type="+-">Trouw en deugd heeft my de kragt <rhyme label="a" type="f" corresp="#s5:l1">gegeeven</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Dat ik nimmer Helle ben <rhyme label="b" type="m" corresp="#s5:l2">gestort</rhyme>,</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Weest niet droevig, 't is het lot der <rhyme label="a" type="f">aarde</rhyme>,</l>
+        <l id="s6:l2" met="4" type="+-">'t Is niet waardig de tranen die <rhyme label="b" type="m">schryt</rhyme>,</l>
+        <l id="s6:l3" met="5" type="+-">Leeft vergenoegd en houd u vrouw in <rhyme label="a" type="f" corresp="#s6:l1">waarde</rhyme>,</l>
+        <l id="s6:l4" met="4" type="+-">Die gy koos en leef met haar <rhyme label="b" type="m" corresp="#s6:l2">verblyd</rhyme>,</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">Weest vergenoegt en houd een matig <rhyme label="a" type="f">leven</rhyme>,</l>
+        <l id="s7:l2" met="4" type="+-">Gy word eens voor Godes Throon <rhyme label="b" type="m">verhoord</rhyme>,</l>
+        <l id="s7:l3" met="5" type="+-">Daar zy rekenschap zal moeten <rhyme label="a" type="f" corresp="#s7:l1">geven</rhyme></l>
+        <l id="s7:l4" met="4" type="+-">Van het Meisje dat zy eenmaal heb <rhyme label="b" type="m" corresp="#s7:l2">vervoert</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

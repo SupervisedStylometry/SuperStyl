@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>11547</id>
+    <date>
+      <year-start>1640</year-start>
+      <year-end>1648</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="seizoenslied" translation="seasonal song">seizoenslied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Lente doet de aarde ontluiken</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">LEnte die het soete <rhyme label="a" type="f">leven</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Die de bloemkens en 't <rhyme label="b" type="m">tapijt</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Ons uyt uwen schoot komt <rhyme label="a" type="f" corresp="#s1:l1">geven</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Die ons soete jeughd <rhyme label="b" type="m" corresp="#s1:l2">verblijd</rhyme>:</l>
+        <l id="s1:l5" met="4" type="+-">In dees aengename <rhyme label="b" type="m" corresp="#s1:l2">tijd</rhyme>:</l>
+        <l id="s1:l6" met="4" type="+-">Dat het graesjen en het <rhyme label="c" type="m">kruyd</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Staen geciert in volle <rhyme label="d" type="m">vreughd</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Daer ons hert is in <rhyme label="d" type="m" corresp="#s1:l7">verheughd</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">Als ghy deelt u schoonheyt <rhyme label="c" type="m" corresp="#s1:l6">uyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Al de Beestjens komen <rhyme label="a" type="f">boven</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Al de Pierkens kruypen <rhyme label="b" type="m">voort</rhyme>:</l>
+        <l id="s2:l3" met="4" type="+-">'t Vogeltjen, om Godt te <rhyme label="a" type="f" corresp="#s2:l1">loven</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Men soo geestigh quelen <rhyme label="b" type="m" corresp="#s2:l2">hoort</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">En soo menigh lieflijck <rhyme label="b" type="m" corresp="#s2:l2">woord</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Word gesproken hier en <rhyme label="c" type="m">daer</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Inde schaduw van de <rhyme label="d" type="m">blaen</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Als het hert wordt <rhyme label="d" type="m" corresp="#s2:l7">opgedaen</rhyme>:</l>
+        <l id="s2:l9" met="4" type="+-">Om Gods lof te bootsen <rhyme label="c" type="m" corresp="#s2:l6">nae</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Al 't gedierte soeckt te <rhyme label="a" type="f">paren</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Met een over-soete <rhyme label="b" type="m">lust</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Dan soo doet sich weer <rhyme label="a" type="f" corresp="#s3:l1">vergaren</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Wat de Winter heeft <rhyme label="b" type="m" corresp="#s3:l2">geblust</rhyme>:</l>
+        <l id="s3:l5" met="4" type="+-">'t Vinckjen breyt sijn nest met <rhyme label="b" type="m" corresp="#s3:l2">rust</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">D'eene lacht, en d'ander <rhyme label="c" type="m">singht</rhyme>:</l>
+        <l id="s3:l7" met="4" type="+-">Daer is blaeten en <rhyme label="d" type="m">kryoel</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">Daer is queecken uyt de <rhyme label="d" type="m" corresp="#s3:l7">poel</rhyme>:</l>
+        <l id="s3:l9" met="4" type="+-">D'eene hipt, en d'ander <rhyme label="c" type="m" corresp="#s3:l6">springht</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Lieffelijcke blyde <rhyme label="a" type="f">tyden</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Soete Kranskens van de <rhyme label="b" type="m">min</rhyme>:</l>
+        <l id="s4:l3" met="4" type="+-">Wie sou sich doch niet <rhyme label="a" type="f" corresp="#s4:l1">verblijden</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Met een gantsch verheughde <rhyme label="b" type="m" corresp="#s4:l2">sin</rhyme>?</l>
+        <l id="s4:l5" met="4" type="+-">Wie sou niet het vuyl <rhyme label="b" type="m" corresp="#s4:l2">gewin</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">Laten varen, en <rhyme label="c" type="m">bespien</rhyme></l>
+        <l id="s4:l7" met="4" type="+-">Wat een uytgenomen <rhyme label="d" type="m">lust</rhyme>,</l>
+        <l id="s4:l8" met="4" type="+-">Wat een blijdschap, wat een <rhyme label="d" type="m" corresp="#s4:l7">rust</rhyme>,</l>
+        <l id="s4:l9" met="4" type="+-">Godt ons over al laet <rhyme label="c" type="m" corresp="#s4:l6">sien</rhyme>?</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Schout hier Godes <rhyme label="a" type="f">wonder-wercken</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Die 't gesloten weer <rhyme label="b" type="m">ontsluyt</rhyme>:</l>
+        <l id="s5:l3" met="4" type="+-">Wilt op sijnen zegen <rhyme label="a" type="f" corresp="#s5:l1">mercken</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">En op dees gecierde <rhyme label="b" type="m" corresp="#s5:l2">Bruyt</rhyme>,</l>
+        <l id="s5:l5" met="4" type="+-">Die met loovers <rhyme label="b" type="m" corresp="#s5:l2">opgetuyt</rhyme>,</l>
+        <l id="s5:l6" met="4" type="+-">Die met goud en peerlen <rhyme label="c" type="m">pronckt</rhyme>,</l>
+        <l id="s5:l7" met="4" type="+-">Die met purper en met <rhyme label="d" type="m">groen</rhyme></l>
+        <l id="s5:l8" met="4" type="+-">Kan haer schatten open <rhyme label="d" type="m" corresp="#s5:l7">doen</rhyme>,</l>
+        <l id="s5:l9" met="4" type="+-">Die ons vriendelijck <rhyme label="c" type="m" corresp="#s5:l6">belonckt</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">‘Mensche, wilt de soete <rhyme label="a" type="f">Lenten</rhyme>,</l>
+        <l id="s6:l2" met="4" type="+-">‘Oock ontsluyten van u <rhyme label="b" type="m">hert</rhyme>:</l>
+        <l id="s6:l3" met="4" type="+-">‘Wilt op dese tacken <rhyme label="a" type="f" corresp="#s6:l1">enten</rhyme></l>
+        <l id="s6:l4" met="4" type="+-">‘Deughd die noyt volpresen <rhyme label="b" type="m" corresp="#s6:l2">werd</rhyme>:</l>
+        <l id="s6:l5" met="4" type="+-">‘Dan soo suldy van de <rhyme label="b" type="m" corresp="#s6:l2">smert</rhyme></l>
+        <l id="s6:l6" met="4" type="+-">‘Sijn bevrijt, en van de <rhyme label="c" type="m">pijn</rhyme>:</l>
+        <l id="s6:l7" met="4" type="+-">‘Want de Deughd staet altijdt <rhyme label="d" type="m">schoon</rhyme>,</l>
+        <l id="s6:l8" met="4" type="+-">‘Als een frissche <rhyme label="d" type="m" corresp="#s6:l7">Lauwer-kroon</rhyme>,</l>
+        <l id="s6:l9" met="4" type="+-">‘Die niet kan vertreden <rhyme label="c" type="m" corresp="#s6:l6">zijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174665</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Nu eens in het rond gesprongen</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Nu eens in 't rond <rhyme label="a" type="f">gesprongen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Gesprongen hand aan <rhyme label="b" type="m">hand</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Nu vrolijk eens <rhyme label="a" type="f" corresp="#s1:l1">gezongen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">De Zomer is in 't <rhyme label="b" type="m" corresp="#s1:l2">land</rhyme>;</l>
+        <l id="s1:l5" met="3" type="-+">De bloesem van de <rhyme label="c" type="f">boomen</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Vloog lang reeds wijd en <rhyme label="d" type="m">zijd</rhyme>;</l>
+        <l id="s1:l7" met="3" type="-+">De Zomer is <rhyme label="c" type="f" corresp="#s1:l5">gekomen</rhyme>:</l>
+        <l id="s1:l8" met="3" type="-+">Nu is het <rhyme label="d" type="m" corresp="#s1:l6">kersentijd</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Wat zal ze lekker <rhyme label="a" type="f">smaken</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Die kers, waar wijn in <rhyme label="b" type="m">zit</rhyme>;</l>
+        <l id="s2:l3" met="3" type="-+">Wat zullen wij haar <rhyme label="a" type="f" corresp="#s2:l1">kraken</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Die harde <rhyme label="b" type="m" corresp="#s2:l2">kersenpit</rhyme>;</l>
+        <l id="s2:l5" met="3" type="-+">Och! waren we al <rhyme label="c" type="f">gezeten</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Voor boordevolle <rhyme label="d" type="m">schaal</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Wij zouden er van <rhyme label="c" type="f" corresp="#s2:l5">eten</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Al was het <rhyme label="d" type="m" corresp="#s2:l6">honderdmaal</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

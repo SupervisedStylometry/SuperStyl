@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100134</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">Hoe lukkig ben ik, dat Ik nimmer heb <rhyme label="a" type="m">gevat</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Des boozen mins <rhyme label="b" type="f">gezwoelen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Dat nooit een keurig <rhyme label="c" type="m">oog</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Des Minnaars op my <rhyme label="c" type="m" corresp="#s1:l3">vloog</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Die hem brogt vol <rhyme label="b" type="f" corresp="#s1:l2">krioelen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

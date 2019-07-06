@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>164353</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>O doelwit van mijn min</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">Wie weygerd dese <rhyme label="a" type="m">dronk</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">Tot eer der brave <rhyme label="b" type="f">Helden</rhyme></l>
+        <l id="s1:l3" met="3" type="+-">Wiens hert nooyt moed <rhyme label="a" type="m" corresp="#s1:l1">ontsonk</rhyme></l>
+        <l id="s1:l4" met="3" type="+-">Schoon in de vlakke <rhyme label="b" type="f" corresp="#s1:l2">velden</rhyme></l>
+        <l id="s1:l5" met="2" type="+-">Des vyands heyr zig <rhyme label="b" type="f" corresp="#s1:l2">stelden</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">En het bloedig moordswaard <rhyme label="a" type="m" corresp="#s1:l1">blonk</rhyme>!</l>
+        <l id="s1:l7" met="4" type="+-">Die, in 't midden der <rhyme label="c" type="f">gevaren</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Vryheid, land en volk <rhyme label="c" type="f" corresp="#s1:l7">bewaren</rhyme>,</l>
+        <l id="s1:l9" met="2" type="+-">Ja, wiens <rhyme label="d" type="m">moed</rhyme>,</l>
+        <l id="s1:l10" met="2" type="+-">Ja, wiens <rhyme label="d" type="m" corresp="#s1:l9">moed</rhyme></l>
+        <l id="s1:l11" met="2" type="+-">den vyand <rhyme label="e" type="m">zard</rhyme></l>
+        <l id="s1:l12" met="3" type="+-">En sijne hoogmoed <rhyme label="e" type="m" corresp="#s1:l11">tard</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Wel aan dan, yder <rhyme label="a" type="m">toond</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">Dat hy haar   tragt te <rhyme label="b" type="f">eeren</rhyme></l>
+        <l id="s2:l3" met="3" type="+-">En met zijn wenschen <rhyme label="a" type="m" corresp="#s2:l1">loond</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">Die 't heylig regt <rhyme label="b" type="f" corresp="#s2:l2">beweren</rhyme></l>
+        <l id="s2:l5" met="2" type="+-">En 't woeden <rhyme label="b" type="f" corresp="#s2:l2">keren</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Dat nog staat nog land <rhyme label="a" type="m" corresp="#s2:l1">verschoond</rhyme>.</l>
+        <l id="s2:l7" met="4" type="+-">Laat ons op haar   welvaard <rhyme label="c" type="f">drinken</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Dat haar dapperheid mag <rhyme label="c" type="f" corresp="#s2:l7">blinken</rhyme></l>
+        <l id="s2:l9" met="2" type="+-">In't <rhyme label="d" type="m">gezigt</rhyme>,</l>
+        <l id="s2:l10" met="2" type="+-">In 't <rhyme label="d" type="m" corresp="#s2:l9">gesigt</rhyme></l>
+        <l id="s2:l11" met="2" type="+-">van 's vyands <rhyme label="e" type="m">magt</rhyme>,</l>
+        <l id="s2:l12" met="3" type="+-">Dat elk haar vreesd en <rhyme label="e" type="m" corresp="#s2:l11">agt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="+-">Op dat den Staat, <rhyme label="a" type="m">hersteld</rhyme>,</l>
+        <l id="s3:l2" met="3" type="+-">De vreede siet <rhyme label="b" type="f">herleven</rhyme>,</l>
+        <l id="s3:l3" met="3" type="+-">Bevrijd van trots <rhyme label="a" type="m" corresp="#s3:l1">geweld</rhyme>,</l>
+        <l id="s3:l4" met="3" type="+-">De welvaard weer <rhyme label="b" type="f" corresp="#s3:l2">gegeven</rhyme>.</l>
+        <l id="s3:l5" met="2" type="+-">De dulle moord mag <rhyme label="b" type="f" corresp="#s3:l2">beven</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Door hun heldekling <rhyme label="a" type="m" corresp="#s3:l1">geveld</rhyme>:</l>
+        <l id="s3:l7" met="4" type="+-">Dan sal 't vrye Neerland <rhyme label="c" type="f">bloeyen</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">Eens   zijn luyster hoog sien <rhyme label="c" type="f" corresp="#s3:l7">groeyen</rhyme>,</l>
+        <l id="s3:l9" met="2" type="+-">Tot de <rhyme label="d" type="m">eer</rhyme>,</l>
+        <l id="s3:l10" met="2" type="+-">Tot de <rhyme label="d" type="m" corresp="#s3:l9">eer</rhyme></l>
+        <l id="s3:l11" met="2" type="+-">van hare <rhyme label="e" type="m">naam</rhyme>,</l>
+        <l id="s3:l12" met="3" type="+-">Geblasen door de <rhyme label="e" type="m" corresp="#s3:l11">Faam</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34142</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="acrostichon" translation="acrostic song">acrostichon</tag>
+    </tags>
+    <melody>Courante simple</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Alder-vol-maeckste die daer <rhyme label="a" type="m">leeft</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Naer wiens gunst u slaef ghebeden <rhyme label="a" type="m" corresp="#s1:l1">heeft</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Tot uwen dienst blyf ick <rhyme label="b" type="m">gheneyght</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Ontfanght my toch, die <rhyme label="c" type="m">noch</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Naer uwe liefden <rhyme label="b" type="m" corresp="#s1:l3">heyght</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">En denckt niet dat het licht <rhyme label="a" type="m">verdweynt</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Terwyl de Son niet even klaer en <rhyme label="a" type="m" corresp="#s2:l1">scheynt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Als duyster wolcken zyn <rhyme label="b" type="m">vergaen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="+-">Dan wort het weer, haest <rhyme label="c" type="m">kleer</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">En 'tmoet soo met ons <rhyme label="b" type="m" corresp="#s2:l3">gaen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Goddinne, werdt van my <rhyme label="a" type="m">gheacht</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Reyn lief ghy blyft al-tydt in myn <rhyme label="a" type="m" corresp="#s3:l1">ghedacht</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Ey! neemt myn trouw, met goet, en <rhyme label="b" type="m">bloet</rhyme>,</l>
+        <l id="s3:l4" met="3" type="+-">Verheught myn jeucht, door <rhyme label="c" type="m">vreucht</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">En keert het suer in't <rhyme label="b" type="m" corresp="#s3:l3">soet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

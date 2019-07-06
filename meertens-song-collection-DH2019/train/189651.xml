@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>189651</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">MYn lieve vriend wy zyn om te <rhyme label="a" type="f">beklagen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">Hemel wat een <rhyme label="b" type="m">pyn</rhyme>!</l>
+        <l id="s1:l3" met="4" type="-+">De vles is lens, daar is geen <rhyme label="b" type="m" corresp="#s1:l2">wyn</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">De beurs is plat, en 't gelt daar uyt <rhyme label="a" type="f" corresp="#s1:l1">gedragen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Maar wat kan ons dat treuren <rhyme label="c" type="f">baten</rhyme>,</l>
+        <l id="s1:l6" met="5" type="+-">Laat ons echter daar om drinken <rhyme label="d" type="m">styf</rhyme>,</l>
+        <l id="s1:l7" met="5" type="-+">Verplakken wy de mantels van ons <rhyme label="d" type="m" corresp="#s1:l6">lyf</rhyme>,</l>
+        <l id="s1:l8" met="5" type="-+">Wy kunnen die veel eer dan 't drinken <rhyme label="c" type="f" corresp="#s1:l5">laten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

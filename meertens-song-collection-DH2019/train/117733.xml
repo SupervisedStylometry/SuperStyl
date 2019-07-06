@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>117733</id>
+    <date>
+      <year-start>1741</year-start>
+      <year-end>1741</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Ik ging er laatst wandelen aan een fontein</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ik ginger lest wandelen aan een <rhyme label="a" type="m">Fontyn</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">s' Avonds al in klaar <rhyme label="a" type="m" corresp="#s1:l1">Maneschyn</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Daar vand ik myn Zoete <rhyme label="b" type="m">Engelin</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Treden met haar Schaapjes te Velden <rhyme label="b" type="m" corresp="#s1:l3">in</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Phileander speelden al op zyn <rhyme label="a" type="m">Fluyt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">En hy zy, wel Harderin gy zyt de <rhyme label="a" type="m" corresp="#s2:l1">Bruyt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Ik derf 'er geen Jonkmans spreken <rhyme label="b" type="m">aan</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Want het is og laçie met myn <rhyme label="b" type="m" corresp="#s2:l3">gedaan</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wel hebt gy niet gezworen enen <rhyme label="a" type="m">Eed</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">En weet gy niet wat gy gister avond <rhyme label="a" type="m" corresp="#s3:l1">deed</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Hebt gy niet gezworen by u <rhyme label="b" type="m">Trou</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Dat gy myne Dienaresse wezen <rhyme label="b" type="m" corresp="#s3:l3">wouw</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ja Harder, en dat geloof ik <rhyme label="a" type="m">wel</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Trouwen dat en is 'er geen <rhyme label="a" type="m" corresp="#s4:l1">Kinder-spel</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Meende gy myn, ik meenden u <rhyme label="b" type="m">niet</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Ziet dan dat gy na een ander <rhyme label="b" type="m" corresp="#s4:l3">ziet</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Wel Adjeu dan spytige <rhyme label="a" type="m">Harderin</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">En gy zyt de oorzaak al van myn <rhyme label="a" type="m" corresp="#s5:l1">Min</rhyme>;</l>
+        <l id="s5:l3" met="4" type="-+">Als ik jou dan niet Trouwen en <rhyme label="b" type="m">mag</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Zo Kust myn voor 't laatste nog eens goeden <rhyme label="b" type="m" corresp="#s5:l3">dag</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Maar, zy sprong op met een kloek <rhyme label="a" type="m">gemoet</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">En zy zey, wel Harder en gy zyt <rhyme label="a" type="m" corresp="#s6:l1">gegroet</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Gy zyt myn Kint, en gy zyt myn <rhyme label="b" type="m">Vrint</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">En gy zyt, de gene die myn Ziel <rhyme label="b" type="m" corresp="#s6:l3">bemint</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

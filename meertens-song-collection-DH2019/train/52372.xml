@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>52372</id>
+    <date>
+      <year-start>1826</year-start>
+      <year-end>1837</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam (korte pannekoekstraat bij de nieuwe markt)</orginal-name>
+      <standard-name>Binnerotte, Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9220344</lon>
+        <lat>4.4778012</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Ik zal u nog eens <rhyme label="a" type="f">aanranden</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">want ik zit in zware <rhyme label="b" type="m">nood</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">En ziet wat hebt ik in myn <rhyme label="a" type="f" corresp="#s1:l1">handen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Geld of hier den <rhyme label="b" type="m" corresp="#s1:l2">dood</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Ach verneemt toch 't zware <rhyme label="a" type="f">kermen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Van een arme <rhyme label="b" type="m">weduwvrouw</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En wilt u over myn <rhyme label="a" type="f" corresp="#s2:l1">erbarmen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Geloof gy hebt nog <rhyme label="b" type="m" corresp="#s2:l2">naberouw</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">wat hoor ik hier voor een <rhyme label="a" type="f">leer</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Een Muiter is het by myn <rhyme label="b" type="m">heer</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Komt wilt my u wapens <rhyme label="a" type="f" corresp="#s3:l1">overgeven</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Of ik schiet u dadelyk <rhyme label="b" type="m" corresp="#s3:l2">neer</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Den hemel zal ons bystand <rhyme label="a" type="f">bieden</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">dan zal Nederland geen kwaad <rhyme label="b" type="m">geschieden</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">O waarde Koning <rhyme label="a" type="f" corresp="#s4:l1">Heer</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">En overwinning in een korten <rhyme label="b" type="m" corresp="#s4:l2">tyd</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

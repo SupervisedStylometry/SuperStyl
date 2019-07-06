@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20612</id>
+    <date>
+      <year-start>1628</year-start>
+      <year-end>1628</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Wat is de wereld toch</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Joan Ysermans</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">WAt is de vverelt <rhyme label="a" type="m">doch</rhyme>?</l>
+        <l id="s1:l2" met="3" type="-+">Dan een Pandoras <rhyme label="b" type="m">doos</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Vol vvreetheyt, en <rhyme label="a" type="m" corresp="#s1:l1">bedroch</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">De menschen quaet, en <rhyme label="b" type="m" corresp="#s1:l2">boos</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Ia de Heeren,, des <rhyme label="c" type="m">lans</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Vol on-eeren,, te <rhyme label="c" type="m" corresp="#s1:l5">hans</rhyme></l>
+        <l id="s1:l7" met="3" type="+-">Leuen <rhyme label="b" type="m" corresp="#s1:l2">Goddeloos</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Mocht u onkuysheyt <rhyme label="a" type="m">heet</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Niet vvorden vvt <rhyme label="b" type="m">gheblust</rhyme>?</l>
+        <l id="s2:l3" met="3" type="-+">Dan dat ghy Prince <rhyme label="a" type="m" corresp="#s2:l1">vvreet</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">My nemen moest mijn <rhyme label="b" type="m" corresp="#s2:l2">rust</rhyme>?</l>
+        <l id="s2:l5" met="3" type="-+">Moest ghy schenden,, mijn <rhyme label="c" type="m">jeucht</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Om te enden,, mijn <rhyme label="c" type="m" corresp="#s2:l5">vreucht</rhyme>?</l>
+        <l id="s2:l7" met="3" type="+-">O vvat booser <rhyme label="b" type="m" corresp="#s2:l2">lust</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Ghy hebt tot dit <rhyme label="a" type="m">misdaet</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Tyrannich noch <rhyme label="b" type="m">vervvoet</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Als Polyphemus <rhyme label="a" type="m" corresp="#s3:l1">vvreet</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Ghedorst naer <rhyme label="b" type="m" corresp="#s3:l2">menschen-bloet</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Heel Toscanen,, <rhyme label="c" type="m">ont'eert</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">En in tranen,, <rhyme label="c" type="m" corresp="#s3:l5">verkeert</rhyme></l>
+        <l id="s3:l7" met="3" type="+-">Mijn ghenuchte <rhyme label="b" type="m" corresp="#s3:l2">soet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">O Cesar ghy sult <rhyme label="a" type="m">vvis</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">V stooren als ghy <rhyme label="b" type="m">hoort</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Wat my ervaren <rhyme label="a" type="m" corresp="#s4:l1">is</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Daer by dees grovvsaem <rhyme label="b" type="m" corresp="#s4:l2">moort</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Ick vveet seker,, dat <rhyme label="c" type="m">ghy</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Den vvet-breker,, hier <rhyme label="c" type="m" corresp="#s4:l5">by</rhyme></l>
+        <l id="s4:l7" met="3" type="+-">Haest sult helpen <rhyme label="b" type="m" corresp="#s4:l2">voort</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

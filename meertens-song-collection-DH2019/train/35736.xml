@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35736</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+    </tags>
+    <melody>Beata immaculata</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Albertus Buitendyck</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Sint Oolofs deught wilt <rhyme label="a" type="f">beminnen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Ghy, die van <rhyme label="b" type="m">Assendelft</rhyme>;</l>
+        <l id="s1:l3" met="3" type="-+">En Godt met uw' haert en <rhyme label="a" type="f" corresp="#s1:l1">sinnen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Geheel niet met den <rhyme label="b" type="m" corresp="#s1:l2">helft</rhyme>.</l>
+        <l id="s1:l5" met="2" type="-+">Toont uwe <rhyme label="c" type="m">deught</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Tot yders <rhyme label="c" type="m" corresp="#s1:l5">vreught</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Dient Godt altijt met groot <rhyme label="c" type="m" corresp="#s1:l5">geneught</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Op Assendelft slaet uw' <rhyme label="a" type="f">oogen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Odulphe waerde <rhyme label="b" type="m">Sant</rhyme>;</l>
+        <l id="s2:l3" met="3" type="-+">Verkrijght van Godt dat wy <rhyme label="a" type="f" corresp="#s2:l1">mogen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Ontgaen den helschen <rhyme label="b" type="m" corresp="#s2:l2">brant</rhyme>.</l>
+        <l id="s2:l5" met="2" type="-+">In onse <rhyme label="c" type="m">noot</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">En in de <rhyme label="c" type="m" corresp="#s2:l5">doodt</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Staet ons by met uw' liefde <rhyme label="c" type="m" corresp="#s2:l5">groot</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">O Iesu! voor uw' wy <rhyme label="a" type="f">knielen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Heylige Godes <rhyme label="b" type="m">Soon</rhyme>;</l>
+        <l id="s3:l3" met="3" type="-+">Wilt gheven aen onse <rhyme label="a" type="f" corresp="#s3:l1">Zielen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">In de doodt, dese <rhyme label="b" type="m" corresp="#s3:l2">loon</rhyme>:</l>
+        <l id="s3:l5" met="2" type="-+">Al zijn wy <rhyme label="c" type="m">stof</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">U Hemels <rhyme label="c" type="m" corresp="#s3:l5">hof</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Stelt ons alle by Sint <rhyme label="c" type="m" corresp="#s3:l5">Oolof</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

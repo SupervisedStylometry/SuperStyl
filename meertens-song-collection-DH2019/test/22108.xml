@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22108</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Von allen Menschen abgewand</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Godt Ick aenroepe u <rhyme label="a" type="m">snel</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Verhoort my doch nu <rhyme label="b" type="f">Heere</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Oft ick word glijck die inde <rhyme label="a" type="m" corresp="#s1:l1">hel</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Varen: tot mijn gbedt wilt <rhyme label="b" type="f" corresp="#s1:l2">keeren</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Want ick tot u ophef mijn <rhyme label="c" type="m">handt</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Laet my met den schalcken niet worden ter <rhyme label="c" type="m" corresp="#s1:l5">schant</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Die tgoet thoonen, maer tquaet <rhyme label="d" type="f">geuen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Geeft hun na hun wesen, en feyten <rhyme label="a" type="m">schoon</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">En oock nae heure <rhyme label="b" type="f">wercken</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Verghelt hun haren verdienden <rhyme label="a" type="m" corresp="#s2:l1">loon</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Want op u sy niet en <rhyme label="b" type="f" corresp="#s2:l2">mercken</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Noch op uwer handen werck niet <rhyme label="c" type="m">Heer</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Verstroeytse haestlijck, en breecktse <rhyme label="c" type="m" corresp="#s2:l5">seer</rhyme>;</l>
+        <l id="s2:l7" met="3" type="-+">Ick danck den Heer die verhoort <rhyme label="d" type="f">my</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">De Heer is mijn Schilt, en mijn <rhyme label="a" type="m">stercheyt</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Mijn hert is vrolijck, en <rhyme label="b" type="f">blijde</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Hy helpt my in alle <rhyme label="a" type="m" corresp="#s3:l1">gheleghentheyt</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Met singhen ick zijn lof <rhyme label="b" type="f" corresp="#s3:l2">belijde</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">Onser aller sterckte is de <rhyme label="c" type="m">Heer</rhyme>:</l>
+        <l id="s3:l6" met="4" type="-+">Aenmerckt dat hy zijn ghesalfde <rhyme label="c" type="m" corresp="#s3:l5">seer</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">En synen volck helpt <rhyme label="d" type="f">eewelijck</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

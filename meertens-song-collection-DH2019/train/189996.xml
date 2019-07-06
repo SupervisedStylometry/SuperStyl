@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>189996</id>
+    <date>
+      <year-start>1792</year-start>
+      <year-end>1792</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Mijn gedachte die stelt mij in</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Adju, wreede <rhyme label="a" type="m">Ziels-vriendin</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Die versmaad myn zuivre <rhyme label="a" type="m" corresp="#s1:l1">min</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Uwe wil zal nu <rhyme label="b" type="f">geschieden</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">'k Zal nu verre van u <rhyme label="b" type="f" corresp="#s1:l3">vlieden</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Nimmer ziet ge u Minnaar <rhyme label="c" type="m">weer</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Die u minde al te <rhyme label="c" type="m" corresp="#s1:l5">teêr</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Maar als ik eens weg zal <rhyme label="a" type="m">zyn</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">O wat droefheid, ô wat <rhyme label="a" type="m" corresp="#s2:l1">pyn</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Zal uw steene hert dan <rhyme label="b" type="f">draagen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Dan zult ge aan uw zelve <rhyme label="b" type="f" corresp="#s2:l3">vraagen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Waarom heb ik dit <rhyme label="c" type="m">gedaan</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Hem van my te laaten <rhyme label="c" type="m" corresp="#s2:l5">gaan</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Maar wat helpt dan al die <rhyme label="a" type="m">praat</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Het en is dan veel te <rhyme label="a" type="m" corresp="#s3:l1">laat</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Om tot waar berouw te <rhyme label="b" type="f">komen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">En my liefde te willen <rhyme label="b" type="f" corresp="#s3:l3">toonen</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Want ik dan zal zyn in 't <rhyme label="c" type="m">graf</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Ja zeer verre van u <rhyme label="c" type="m" corresp="#s3:l5">af</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

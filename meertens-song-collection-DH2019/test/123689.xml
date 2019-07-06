@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>123689</id>
+    <date>
+      <year-start>1841</year-start>
+      <year-end>1841</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="ambachtslied" translation="trademan's song">ambachtslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="work">werk</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Hoe vrolijk kan den Boer niet <rhyme label="a" type="f">leven</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Als hij zijn land en volk <rhyme label="b" type="m">beschouwd</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">En aan een elk 't zijn kan <rhyme label="a" type="f" corresp="#s1:l1">geven</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">En dat hij dan op God <rhyme label="b" type="m" corresp="#s1:l2">betrouwd</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Den Boer die zaait en maait 't <rhyme label="c" type="m">land</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">En wacht den zegen van Gods <rhyme label="c" type="m" corresp="#s1:l5">hand</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als hij den morgen op ziet <rhyme label="a" type="f">klaren</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Vangt elk met nieuwe krachten <rhyme label="b" type="m">aan</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Al dorsend zij 't graan <rhyme label="a" type="f" corresp="#s2:l1">vergaren</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">En als den winter is <rhyme label="b" type="m" corresp="#s2:l2">gedaan</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Jaagt hij de beesten in 't <rhyme label="c" type="m">land</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Den Boer zegt Gode lof en <rhyme label="c" type="m" corresp="#s2:l5">dank</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Hoe zou den Bakker kunnen <rhyme label="a" type="f">werken</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">'t Lieve brood dat men graag <rhyme label="b" type="m">eet</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Zoo God den Boer niet kwam te <rhyme label="a" type="f" corresp="#s3:l1">sterken</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Dat hij zijn land dan maakt <rhyme label="b" type="m" corresp="#s3:l2">gereed</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Hoe zou men leven in de <rhyme label="c" type="m">stee</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Als niet den Boer 't werk <rhyme label="c" type="m" corresp="#s3:l5">dee</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Hoe zou den Zeeman kunnen <rhyme label="a" type="f">leven</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Indien den Boer niet deed 't <rhyme label="b" type="m">werk</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">'t Is waar, God moet 't wasdom <rhyme label="a" type="f" corresp="#s4:l1">geven</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">En maken hem door goedheid <rhyme label="b" type="m" corresp="#s4:l2">sterk</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Daarvoor toont hij zijn <rhyme label="c" type="m">dankbaarheid</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Na zijn gedane <rhyme label="c" type="m" corresp="#s4:l5">arrebeid</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Als gij zijt aan een disch <rhyme label="a" type="f">gezeten</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Sla op uw tafel dan een <rhyme label="b" type="m">toer</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Bezie dan eens 't lieve <rhyme label="a" type="f" corresp="#s5:l1">eten</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">'t Komt toch alles van den <rhyme label="b" type="m" corresp="#s5:l2">Boer</rhyme>;</l>
+        <l id="s5:l5" met="4" type="-+">Dus mensch zoo dikwijls als gij <rhyme label="c" type="m">eet</rhyme>,</l>
+        <l id="s5:l6" met="4" type="-+">Den Boerenstand toch niet <rhyme label="c" type="m" corresp="#s5:l5">vergeet</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">'t Is waar Zeeman brengt veel <rhyme label="a" type="f">waren</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Van allerhande landen <rhyme label="b" type="m">aan</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Maar zoo daar ook geen Boeren <rhyme label="a" type="f" corresp="#s6:l1">waren</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Hoe zouden zij daar ook <rhyme label="b" type="m" corresp="#s6:l2">bestaan</rhyme>,</l>
+        <l id="s6:l5" met="4" type="-+">'t Komt alles van den Boer zijn <rhyme label="c" type="m">hand</rhyme>,</l>
+        <l id="s6:l6" met="4" type="-+">Maar God is meester van 't <rhyme label="c" type="m" corresp="#s6:l5">land</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

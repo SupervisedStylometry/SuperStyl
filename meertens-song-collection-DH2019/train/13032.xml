@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13032</id>
+    <date>
+      <year-start>1644</year-start>
+      <year-end>1644</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Die mint die lijdt veel pijn</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Christianus Vermeulen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">EEn wonder al te <rhyme label="a" type="m">groot</rhyme>,</l>
+        <l id="s1:l2" met="7" type="-+">Wanneer Gods Woordt quam dalen in <rhyme label="a" type="m" corresp="#s1:l1">Iohan</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Baptistae <rhyme label="b" type="m">schoot</rhyme>!</l>
+        <l id="s1:l4" met="6" type="-+">Roept hy gantsch <rhyme label="b" type="m" corresp="#s1:l3">onbeschroomt</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Bereydt des Heeren wegh, ey! en toeft doch <rhyme label="c" type="m">niet</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">komt, <rhyme label="c" type="m" corresp="#s1:l5">komt</rhyme></l>
+        <l id="s1:l7" met="7" type="-+">Vervult de Dalen, <rhyme label="c" type="m" corresp="#s1:l5">slecht</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">De Berghen, kromt en <rhyme label="c" type="m" corresp="#s1:l5">recht</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Dat knuysich is, maeckt effen, <rhyme label="c" type="m" corresp="#s1:l5">miserabel</rhyme>,</l>
+        <l id="s1:l10" met="7" type="-+">sondigh <rhyme label="c" type="m" corresp="#s1:l5">knecht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Vervult de Dalen, <rhyme label="a" type="m">schoudt</rhyme></l>
+        <l id="s2:l2" met="7" type="-+">Kleynmoedicheyt hier in dit wildt, <rhyme label="a" type="m" corresp="#s2:l1">woestich</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">aertsche <rhyme label="b" type="m">Woudt</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Bemindt <rhyme label="b" type="m" corresp="#s2:l3">ootmoedicheyt</rhyme>:</l>
+        <l id="s2:l5" met="2" type="-+">Want hier in alleen, 't merchje van perfectie <rhyme label="c" type="m">leydt</rhyme>:</l>
+        <l id="s2:l6" met="3" type="-+">Soo sullen <rhyme label="c" type="m" corresp="#s2:l5">recht</rhyme></l>
+        <l id="s2:l7" met="7" type="-+">Berghen zijn <rhyme label="c" type="m" corresp="#s2:l5">geslecht</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">En wel overwonnen alle 's Duyvels <rhyme label="c" type="m" corresp="#s2:l5">quaet</rhyme></l>
+        <l id="s2:l9" met="3" type="-+"><rhyme label="c" type="m" corresp="#s2:l5">ghevecht</rhyme>.</l>
+        <l id="s2:l10" met="7" type="-+">Soo sullen <rhyme label="c" type="m" corresp="#s2:l5">recht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

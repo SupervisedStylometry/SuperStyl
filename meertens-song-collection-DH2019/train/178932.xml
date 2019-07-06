@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>178932</id>
+    <date>
+      <year-start>1866</year-start>
+      <year-end>1866</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Meiske jong mijn maagdeke teer</melody>
+  <author>Frans de Cort</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Anders vond ik of zag ik u <rhyme label="a" type="m">nooit</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Dan den mond tot een lachje <rhyme label="a" type="m" corresp="#s1:l1">geplooid</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Zelfs in uren van smart en <rhyme label="b" type="m">verdriet</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Lag gedurig een hartelijk <rhyme label="b" type="m" corresp="#s1:l3">lied</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Op de lippen gereed <rhyme label="c" type="m">u</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Vroolijk zijt gij en levendig <rhyme label="a" type="m">steeds</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Schoon nu wijd in de zeventig <rhyme label="a" type="m" corresp="#s2:l1">reeds</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Rustig zingt gij in 't vroeg en in 't <rhyme label="b" type="m">laat</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Lustig klinkt er op wondere <rhyme label="b" type="m" corresp="#s2:l3">maat</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Nog uw deuntjen het huis <rhyme label="c" type="m">door</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Zoo en weet en bedenk ik me <rhyme label="a" type="m">nu</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Ook geen beter geschenkje voor <rhyme label="a" type="m" corresp="#s3:l1">u</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Kleine liedjes van minne en <rhyme label="b" type="m">geneugt</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Melodietjes der kindsheid en <rhyme label="b" type="m" corresp="#s3:l3">jeugd</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Lust mijns rijperen <rhyme label="c" type="m">leeftijds</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

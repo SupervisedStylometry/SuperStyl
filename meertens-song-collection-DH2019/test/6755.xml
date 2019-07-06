@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6755</id>
+    <date>
+      <year-start>1620</year-start>
+      <year-end>1620</year-end>
+    </date>
+    <location>
+      <orginal-name>gent</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="sonnet" translation="sonnet">sonnet</tag>
+    </tags>
+    <melody>Helaas het en was geen nood</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">HElas! ten waer gheen nood, zoo dicks my te <rhyme label="a" type="f">beswaeren</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Als ick eerstmael gheleydt wiert in mijns moeders <rhyme label="b" type="m">schoot</rhyme>:</l>
+        <l id="s1:l3" met="6" type="-+">En dat haer elck gheluck en zeghen van my <rhyme label="b" type="m" corresp="#s1:l2">boot</rhyme>;</l>
+        <l id="s1:l4" met="6" type="-+">Hadd’ ick ter dier huer’ ter weerelt <rhyme label="a" type="f" corresp="#s1:l1">uyt-ghevaeren</rhyme>.</l>
+        <l id="s1:l5" met="6" type="-+">Want, wat rijckdom, of goet kan ick hier meer <rhyme label="a" type="f" corresp="#s1:l1">vergaeren</rhyme></l>
+        <l id="s1:l6" met="6" type="-+">Dan druck, en swaer ellend, en teghen-spoeden <rhyme label="b" type="m" corresp="#s1:l2">groot</rhyme>,</l>
+        <l id="s1:l7" met="6" type="-+">Dan clachten en misbaer, en op het lest de <rhyme label="b" type="m" corresp="#s1:l2">doot</rhyme>,</l>
+        <l id="s1:l8" met="6" type="-+">Die my dan sal aen God een schuldenaer <rhyme label="a" type="f" corresp="#s1:l1">verclaeren</rhyme>.</l>
+        <l id="s1:l9" met="6" type="-+">Maer laes! wat zal ick doen? alst immers soo moet <rhyme label="c" type="m">sijn</rhyme>:</l>
+        <l id="s1:l10" met="6" type="-+">Dan hopen eens verlost te worden, uyt dees <rhyme label="c" type="m" corresp="#s1:l9">pijn</rhyme>.</l>
+        <l id="s1:l11" met="6" type="+-">Naer ’t suer, soo comt het soet van aerden <rhyme label="d" type="f">aen-gheresen</rhyme>.</l>
+        <l id="s1:l12" met="6" type="-+">Hy die daer hanght aen ’t Cruys, zoo deerelijck <rhyme label="e" type="m">ghewondt</rhyme>,</l>
+        <l id="s1:l13" met="6" type="-+">Kan met een druppel bloeds alst hem belieft, <rhyme label="e" type="m" corresp="#s1:l12">terstont</rhyme></l>
+        <l id="s1:l14" met="6" type="-+">Mijn quaelen allegaer uyt-wasschen, en <rhyme label="d" type="f" corresp="#s1:l11">ghenesen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

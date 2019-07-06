@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2570</id>
+    <date>
+      <year-start>1622</year-start>
+      <year-end>1622</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
+    </tags>
+    <melody>Phoebe qui ce même jour</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>G.A. Bredero</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Ghy stroom Goddinnen <rhyme label="a" type="m">gladt</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Die met u snellen <rhyme label="b" type="m">vloet</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">De Bataviersche <rhyme label="a" type="m" corresp="#s1:l1">Stadt</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Maeckt Rijck, en mild'lijck <rhyme label="b" type="m" corresp="#s1:l2">voet</rhyme>,</l>
+        <l id="s1:l5" met="8" type="-+">Wiens Vader de Rijn // met eed'len Wyn // Wiens Vader de Rijn // met eed'len <rhyme label="c" type="m">Wyn</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Met syn Garst, met syn <rhyme label="d" type="m">Graan</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">Met syn Steen, met syn <rhyme label="e" type="m">Staal</rhyme></l>
+        <l id="s1:l8" met="2" type="+-">Met syn Hout, en <rhyme label="e" type="m" corresp="#s1:l7">Metaal</rhyme></l>
+        <l id="s1:l9" met="2" type="-+">Gants de Wal, gants de <rhyme label="e" type="m" corresp="#s1:l7">Waal</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">Bestapelt, en doet <rhyme label="d" type="m" corresp="#s1:l6">staen</rhyme>,</l>
+        <l id="s1:l11" met="5" type="-+">Ist u om roem, stelt Rutgers boven <rhyme label="d" type="m" corresp="#s1:l6">aen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">O Eer van <rhyme label="a" type="m">t'Vaderlandt</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Cieraet van't groot <rhyme label="b" type="m">gheslacht</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Door wiens begaaft <rhyme label="a" type="m" corresp="#s2:l1">verstant</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Batavy is vol <rhyme label="b" type="m" corresp="#s2:l2">Pracht</rhyme>,</l>
+        <l id="s2:l5" met="8" type="-+">Want Heerlijcker Man // noyt Moeder wan // Want Heerlijcker Man // noyt Moeder <rhyme label="c" type="m">wan</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Voor wiens raat, voor wiens <rhyme label="d" type="m">Gheest</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">Selfs de Turck, sels de <rhyme label="e" type="m">Tart</rhyme></l>
+        <l id="s2:l8" met="2" type="+-">Selfs de Pers, selfs de <rhyme label="e" type="m" corresp="#s2:l7">Parth</rhyme></l>
+        <l id="s2:l9" met="2" type="-+">Selfs de Pool, en <rhyme label="e" type="m" corresp="#s2:l7">Sarmart</rhyme>,</l>
+        <l id="s2:l10" met="3" type="-+">De minst en oock de <rhyme label="d" type="m" corresp="#s2:l6">meest</rhyme></l>
+        <l id="s2:l11" met="5" type="-+">Vol angst, vol schrick, des Rutgers syn <rhyme label="d" type="m" corresp="#s2:l6">bevreest</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Maer ghy betraent, <rhyme label="a" type="m">bedoudt</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Nu bos Goddinnen <rhyme label="b" type="m">syt</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Zilvanus in het <rhyme label="a" type="m" corresp="#s3:l1">Woudt</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Wert nu syn vreuchde <rhyme label="b" type="m" corresp="#s3:l2">quyt</rhyme>:</l>
+        <l id="s3:l5" met="8" type="-+">Al 'tspringende goet, heeft nu geen moet, Al 'tspringende goet, heeft nu geen <rhyme label="c" type="m">moet</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">Pan die sucht, Pan die <rhyme label="d" type="m">schreyt</rhyme>,</l>
+        <l id="s3:l7" met="2" type="-+">Pan die roept, Pan die <rhyme label="e" type="m">raast</rhyme>,</l>
+        <l id="s3:l8" met="2" type="+-">Pan die bloet, Pan die <rhyme label="e" type="m" corresp="#s3:l7">blaast</rhyme>,</l>
+        <l id="s3:l9" met="2" type="-+">Pan verdwynt, Pan <rhyme label="e" type="m" corresp="#s3:l7">verdwaast</rhyme>,</l>
+        <l id="s3:l10" met="3" type="-+">De Satyrs is het <rhyme label="d" type="m" corresp="#s3:l6">leyt</rhyme></l>
+        <l id="s3:l11" met="5" type="-+">Dat Rutgers uyt, haer soet gheselschap <rhyme label="d" type="m" corresp="#s3:l6">scheyt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Ghy Gooden vander <rhyme label="a" type="m">Zee</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Ghy Heylicheytjens <rhyme label="b" type="m">goet</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">En ghy Sirenen <rhyme label="a" type="m" corresp="#s4:l1">mee</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Comt singhet hem te <rhyme label="b" type="m" corresp="#s4:l2">moet</rhyme>,</l>
+        <l id="s4:l5" met="8" type="-+">Komt Hemels gheclanck // comt soeten sanck // Komt Hemels gheclanck // comt soeten <rhyme label="c" type="m">sanck</rhyme></l>
+        <l id="s4:l6" met="2" type="-+">Verdryven syn <rhyme label="d" type="m">verdriet</rhyme></l>
+        <l id="s4:l7" met="2" type="-+">Speelt op Lier, speelt op <rhyme label="e" type="m">luyt</rhyme></l>
+        <l id="s4:l8" met="2" type="+-">Speelt op Schulp, speelt op <rhyme label="e" type="m" corresp="#s4:l7">fluyt</rhyme></l>
+        <l id="s4:l9" met="2" type="-+">Speelt om 'tSchip, speelt om <rhyme label="e" type="m" corresp="#s4:l7">schuyt</rhyme>,</l>
+        <l id="s4:l10" met="3" type="-+">Een hooch, en God'lijck <rhyme label="d" type="m" corresp="#s4:l6">Liedt</rhyme></l>
+        <l id="s4:l11" met="5" type="-+">Op dat Rutgers gheen ongheneucht <rhyme label="d" type="m" corresp="#s4:l6">gheschiet</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Ick sie hy is <rhyme label="a" type="m">ghelandt</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Ick sie hem moedich <rhyme label="b" type="m">gaen</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Op 'tRijcke Sweetse <rhyme label="a" type="m" corresp="#s5:l1">strandt</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Den Koningh spreecken <rhyme label="b" type="m" corresp="#s5:l2">aen</rhyme>,</l>
+        <l id="s5:l5" met="8" type="-+">Den machtighen Heldt // den Vorst van't Velt // Den machtighen Heldt // den Vorst van't <rhyme label="c" type="m">Velt</rhyme></l>
+        <l id="s5:l6" met="2" type="-+">Hooch van hart, hooch van <rhyme label="d" type="m">handt</rhyme></l>
+        <l id="s5:l7" met="2" type="-+">Schoon van lijf, schoon van <rhyme label="e" type="m">leen</rhyme></l>
+        <l id="s5:l8" met="2" type="+-">Eel van Ziel, eel van <rhyme label="e" type="m" corresp="#s5:l7">zeen</rhyme></l>
+        <l id="s5:l9" met="2" type="-+">Wijs van raet, wijs van <rhyme label="e" type="m" corresp="#s5:l7">reen</rhyme></l>
+        <l id="s5:l10" met="3" type="-+">Nu synd' in ons <rhyme label="d" type="m" corresp="#s5:l6">verbant</rhyme></l>
+        <l id="s5:l11" met="5" type="-+">Om Mosch en Pool te brenghen heel tot <rhyme label="d" type="m" corresp="#s5:l6">schandt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

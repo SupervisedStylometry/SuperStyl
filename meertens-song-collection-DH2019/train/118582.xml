@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>118582</id>
+    <date>
+      <year-start>1687</year-start>
+      <year-end>1687</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Psalm 091 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Willem Sluiter</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Gaet tot de mier, dat kleine <rhyme label="a" type="m">dier</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">3. En wordet wijs, hoe dat uw' <rhyme label="b" type="f">spijs</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">2. Gy luy-aert: siet haer <rhyme label="c" type="m">weegen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">4. Behoort te zijn <rhyme label="b" type="f" corresp="#s1:l2">verkreegen</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Geen Over-heer, die door zijn <rhyme label="d" type="m">leer</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Haer iets beveel' of <rhyme label="e" type="f">wijse</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">En heeft zy, maer siet nochtans <rhyme label="f" type="m">haer</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Versaem'len hare <rhyme label="e" type="f" corresp="#s1:l6">spijse</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Sy gaet met vlijt in somers <rhyme label="a" type="m">tijdt</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Haer broodt in d'ooghst <rhyme label="b" type="f">bereiden</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Haer spijs sy gaert, dat <rhyme label="c" type="m">s'onvervaert</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Den winter mach <rhyme label="b" type="f" corresp="#s2:l2">verbeyden</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Hoe lange doch sult gy u <rhyme label="d" type="m">noch</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">O luyaert leggen <rhyme label="e" type="f">neder</rhyme>?</l>
+        <l id="s2:l7" met="4" type="+-">Wanneer sult gy van <rhyme label="f" type="m">sluimery</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">En slaep eens opstaen <rhyme label="e" type="f" corresp="#s2:l6">weder</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Een weinigh slaep met luy <rhyme label="a" type="m">gegaep</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Handt-vouwen, en <rhyme label="b" type="f">gesluimer</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">En steeds aen weer te leggen <rhyme label="c" type="m">neer</rhyme>:</l>
+        <l id="s3:l4" met="3" type="-+">Wat denckt gy, o <rhyme label="b" type="f" corresp="#s3:l2">versluimer</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Eer gy u hoeft, sal <rhyme label="d" type="m">d'arremoedt</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Snel als een wand'laer <rhyme label="e" type="f">komen</rhyme>:</l>
+        <l id="s3:l7" met="4" type="+-">'t Gebreck komt an gelijck een <rhyme label="f" type="m">man</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Die 't schilt heeft <rhyme label="e" type="f" corresp="#s3:l6">aengenomen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

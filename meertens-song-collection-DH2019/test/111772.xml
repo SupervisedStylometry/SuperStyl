@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111772</id>
+    <date>
+      <year-start>1745</year-start>
+      <year-end>1745</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Pistolet</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">ZIlvia ging onlangs stewaerd <rhyme label="a" type="f">treden</rhyme>,</l>
+        <l id="s1:l2" met="5" type="+-">Wanneer Coridon kwam <rhyme label="a" type="f" corresp="#s1:l1">aengereeden</rhyme>,</l>
+        <l id="s1:l3" met="5" type="+-">Die haer vroeg; of hy haer mogt <rhyme label="b" type="f">gelyden</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">En na heur Huys: En na heur <rhyme label="c" type="m">Huys</rhyme>:</l>
+        <l id="s1:l5" met="3" type="-+">Mogt met zyn Chaisje <rhyme label="b" type="f" corresp="#s1:l3">ryden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Maer wat zey toen, deze <rhyme label="a" type="f">Herderinne</rhyme>?</l>
+        <l id="s2:l2" met="5" type="+-">Knaepje sprak zy steld dat uyt uw <rhyme label="a" type="f" corresp="#s2:l1">zinnen</rhyme>:</l>
+        <l id="s2:l3" met="5" type="+-">Want ik vind, daer in dog geen <rhyme label="b" type="f">behaegen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Ook wil ik my: Ook wil ik <rhyme label="c" type="m">my</rhyme>:</l>
+        <l id="s2:l5" met="3" type="-+">Zoo ligt niet met u <rhyme label="b" type="f" corresp="#s2:l3">waegen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">Dog dit zeggen kon heur niet veel <rhyme label="a" type="f">baeten</rhyme>,</l>
+        <l id="s3:l2" met="5" type="+-">Wyl de Knaep terstond begon te <rhyme label="a" type="f" corresp="#s3:l1">praeten</rhyme>,</l>
+        <l id="s3:l3" met="5" type="+-">Dat indien, zy haer daer tegen <rhyme label="b" type="f">stelden</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Het zou gewis: Het zou <rhyme label="c" type="m">gewis</rhyme>:</l>
+        <l id="s3:l5" met="3" type="-+">Heur Hoepelrokje <rhyme label="b" type="f" corresp="#s3:l3">gelden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="+-">Hier op vatten hy heur by de <rhyme label="a" type="f">leeden</rhyme>,</l>
+        <l id="s4:l2" met="5" type="+-">Meysje (zeyt hy) ryd maer met my <rhyme label="a" type="f" corresp="#s4:l1">mede</rhyme>;</l>
+        <l id="s4:l3" met="5" type="+-">Want ik zal, u niet alleenig <rhyme label="b" type="f">laeten</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">En daerom staek: En daerom <rhyme label="c" type="m">staek</rhyme>:</l>
+        <l id="s4:l5" met="3" type="-+">Vry al het tegen <rhyme label="b" type="f" corresp="#s4:l3">praeten</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="+-">Zy heur ziende dus bezet <rhyme label="a" type="f">alomme</rhyme>,</l>
+        <l id="s5:l2" met="5" type="+-">Is op zyn verzoek daer op <rhyme label="a" type="f" corresp="#s5:l1">geklomme</rhyme></l>
+        <l id="s5:l3" met="5" type="+-">En zoo ras, hy by heur zat op 't <rhyme label="b" type="f">Cheesje</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">De franse slag: De franse <rhyme label="c" type="m">slag</rhyme>:</l>
+        <l id="s5:l5" met="3" type="-+">Leyd hy straks op zyn <rhyme label="b" type="f" corresp="#s5:l3">Beesje</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="5" type="+-">Bloed, wat zat dat Knaepje toen te <rhyme label="a" type="f">pryken</rhyme>;</l>
+        <l id="s6:l2" met="5" type="+-">Maer wat stond hy op zyn neus te <rhyme label="a" type="f" corresp="#s6:l1">kyken</rhyme>!</l>
+        <l id="s6:l3" met="5" type="+-">Toen hy dagt, heur soetjes t'huys te <rhyme label="b" type="f">brengen</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">En Zilvia: En <rhyme label="c" type="m">Zilvia</rhyme>:</l>
+        <l id="s6:l5" met="3" type="-+">Dat gants niet wou <rhyme label="b" type="f" corresp="#s6:l3">gehengen</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="5" type="+-">Toen dorst hy, en zyne <rhyme label="a" type="f">Metgezellen</rhyme>,</l>
+        <l id="s7:l2" met="5" type="+-">Dit schoon-geoogde Nimphje niet <rhyme label="a" type="f" corresp="#s7:l1">verzellen</rhyme>;</l>
+        <l id="s7:l3" met="5" type="+-">Want men zag, dat men nu niet in <rhyme label="b" type="f">langen</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Met zoo veel gunst: Met zoo veel <rhyme label="c" type="m">gunst</rhyme>:</l>
+        <l id="s7:l5" met="3" type="-+">Wierd als wel-eer <rhyme label="b" type="f" corresp="#s7:l3">ontfangen</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="5" type="+-">Des zyn zy naer hier wat te staen <rhyme label="a" type="f">dralen</rhyme>,</l>
+        <l id="s8:l2" met="5" type="+-">Met hun Viertjes, zagjes heen gaen <rhyme label="a" type="f" corresp="#s8:l1">dwalen</rhyme>;</l>
+        <l id="s8:l3" met="5" type="+-">Zeer verstoord, op deze <rhyme label="b" type="f">Herderinne</rhyme>:</l>
+        <l id="s8:l4" met="4" type="-+">Om dat zy hun: Om dat zy <rhyme label="c" type="m">hun</rhyme>,</l>
+        <l id="s8:l5" met="3" type="-+">Niet eens verzogt had <rhyme label="b" type="f" corresp="#s8:l3">binnen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

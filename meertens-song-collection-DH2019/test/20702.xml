@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20702</id>
+    <date>
+      <year-start>1664</year-start>
+      <year-end>1664</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Enfant prodigue</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">TRouw' Bewaerder, trouwen <rhyme label="a" type="f">Engel</rhyme>!</l>
+        <l id="s1:l2" met="2" type="+-">Siet! ick <rhyme label="a" type="f" corresp="#s1:l1">hengel</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Om uw' hulp, en bystand <rhyme label="b" type="m">we'er</rhyme>;</l>
+        <l id="s1:l4" met="4" type="+-">Ey! gelieft toch mijne <rhyme label="c" type="f">saecken</rhyme>,</l>
+        <l id="s1:l5" met="2" type="+-">Goet te <rhyme label="c" type="f" corresp="#s1:l4">maecken</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">By den alder-hooghsten <rhyme label="b" type="m" corresp="#s1:l3">Heer</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Die eertijds ons vleysch <rhyme label="d" type="f">aenvaerden</rhyme>,</l>
+        <l id="s1:l8" met="2" type="+-">En ons <rhyme label="d" type="f" corresp="#s1:l7">naerden</rhyme> //</l>
+        <l id="s1:l9" met="2" type="+-">op dees <rhyme label="d" type="f" corresp="#s1:l7">aerde</rhyme> //</l>
+        <l id="s1:l10" met="2" type="+-">O wat <rhyme label="d" type="f" corresp="#s1:l7">waerde</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Trouwen Engel, trouw' <rhyme label="a" type="f">Bewaerder</rhyme>,</l>
+        <l id="s2:l2" met="2" type="+-">
+          <rhyme label="a" type="f" corresp="#s2:l1">Deughd-vergaerder</rhyme>
+        </l>
+        <l id="s2:l3" met="4" type="+-">Van dien geen die heyligh <rhyme label="b" type="m">leeft</rhyme>.</l>
+        <l id="s2:l4" met="4" type="+-">Ey! gewaerdight mijn <rhyme label="c" type="f">gebreken</rhyme></l>
+        <l id="s2:l5" met="2" type="+-">Af te <rhyme label="c" type="f" corresp="#s2:l4">spreken</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Ghy, die my vertroostingh <rhyme label="b" type="m" corresp="#s2:l3">geeft</rhyme>;</l>
+        <l id="s2:l7" met="4" type="+-">Ghy, die my komt trouw <rhyme label="d" type="f">verblijden</rhyme></l>
+        <l id="s2:l8" met="2" type="+-">In mijn <rhyme label="d" type="f" corresp="#s2:l7">lijden</rhyme> //</l>
+        <l id="s2:l9" met="2" type="+-">in mijn <rhyme label="d" type="f" corresp="#s2:l7">strijden</rhyme> //</l>
+        <l id="s2:l10" met="2" type="+-">'t Meesten <rhyme label="d" type="f" corresp="#s2:l7">tijden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Trouwen Engel, trouw' <rhyme label="a" type="f">Beschermer</rhyme>,</l>
+        <l id="s3:l2" met="2" type="+-">En <rhyme label="a" type="f" corresp="#s3:l1">Erbermer</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Van mijn smert, en <rhyme label="b" type="m">ongeneughd</rhyme>!</l>
+        <l id="s3:l4" met="4" type="+-">Laet my troost van U <rhyme label="c" type="f">ontfangen</rhyme>,</l>
+        <l id="s3:l5" met="2" type="+-">Wacht niet <rhyme label="c" type="f" corresp="#s3:l4">lange</rhyme>;</l>
+        <l id="s3:l6" met="4" type="+-">Ey! besorght my rust, en <rhyme label="b" type="m" corresp="#s3:l3">vreugd</rhyme>.</l>
+        <l id="s3:l7" met="4" type="+-">Krijght my rust, en rechte <rhyme label="d" type="f">vrede</rhyme>,</l>
+        <l id="s3:l8" met="2" type="+-">Waer ick <rhyme label="d" type="f" corresp="#s3:l7">mede</rhyme> //</l>
+        <l id="s3:l9" met="2" type="+-">'s Hemels <rhyme label="d" type="f" corresp="#s3:l7">stede</rhyme> //</l>
+        <l id="s3:l10" met="2" type="+-">In mach <rhyme label="d" type="f" corresp="#s3:l7">treden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Dan sal ick U eeuwigh <rhyme label="a" type="f">loven</rhyme>,</l>
+        <l id="s4:l2" met="2" type="+-">Als daer <rhyme label="a" type="f" corresp="#s4:l1">boven</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">Ick by U sal zijn <rhyme label="b" type="m">verblijdt</rhyme>.</l>
+        <l id="s4:l4" met="4" type="+-">Hoort Ghy 't Trooster? hoort Ghy 't <rhyme label="c" type="f">Vrecker</rhyme>,</l>
+        <l id="s4:l5" met="2" type="+-"><rhyme label="c" type="f" corresp="#s4:l4">Deughd-Verwecker</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Die van sonden my <rhyme label="b" type="m" corresp="#s4:l3">bevrijdt</rhyme>?</l>
+        <l id="s4:l7" met="4" type="+-">'k Sal dan singen <rhyme label="d" type="f">Alleluja</rhyme>,</l>
+        <l id="s4:l8" met="2" type="+-"><rhyme label="d" type="f" corresp="#s4:l7">Alleluja</rhyme> ,,</l>
+        <l id="s4:l9" met="2" type="+-"><rhyme label="d" type="f" corresp="#s4:l7">Alleluja</rhyme>’</l>
+        <l id="s4:l10" met="2" type="+-"><rhyme label="d" type="f" corresp="#s4:l7">Alleluja</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Maer wanneer sal <rhyme label="a" type="f">aengekomen</rhyme>,</l>
+        <l id="s5:l2" met="2" type="+-">En <rhyme label="a" type="f" corresp="#s5:l1">vernomen</rhyme></l>
+        <l id="s5:l3" met="4" type="+-">Wesen desen blijden <rhyme label="b" type="m">dagh</rhyme>!</l>
+        <l id="s5:l4" met="4" type="+-">Als ick hebben sal <rhyme label="c" type="f">verslonden</rhyme></l>
+        <l id="s5:l5" met="2" type="+-">All' mijn <rhyme label="c" type="f" corresp="#s5:l4">sonden</rhyme>:</l>
+        <l id="s5:l6" met="4" type="+-">Och of ick dien tijd eens <rhyme label="b" type="m" corresp="#s5:l3">sagh</rhyme>!</l>
+        <l id="s5:l7" met="4" type="+-">Dan sal 'k singen, <rhyme label="d" type="f">Alleluja</rhyme>.</l>
+        <l id="s5:l8" met="2" type="+-"><rhyme label="d" type="f" corresp="#s5:l7">Alleluja</rhyme> ,,</l>
+        <l id="s5:l9" met="2" type="+-"><rhyme label="d" type="f" corresp="#s5:l7">Alleluja</rhyme>’</l>
+        <l id="s5:l10" met="2" type="+-"><rhyme label="d" type="f" corresp="#s5:l7">Alleluja</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8964</id>
+    <date>
+      <year-start>1625</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="pinksterlied" translation="Pentecostal song">pinksterlied</tag>
+    </tags>
+    <melody>Nun bitten wir den heiligen Geist</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">NV bidden wy den heylighen <rhyme label="a" type="m">Geest</rhyme>,</l>
+        <l id="s1:l2" met="5" type="+-">Om den rechten Geloove <rhyme label="a" type="m" corresp="#s1:l1">allermeest</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Dat hy ons Behoede aen onsen <rhyme label="b" type="f">Eynde</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Als wy t'Huys varen wt desen <rhyme label="b" type="f" corresp="#s1:l3">Elende</rhyme>,</l>
+        <l id="s1:l5" met="3" type="+-">Heer ontfermt dy <rhyme label="c" type="m">ons</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Ghy weerde Licht gheeft ons dijnen <rhyme label="a" type="m">schijn</rhyme>,</l>
+        <l id="s2:l2" met="5" type="+-">Leert ons Jesum Christum kennen <rhyme label="a" type="m" corresp="#s2:l1">Alleyn</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Dat wy aen hem blijven den Trouwen <rhyme label="b" type="f">Heylandt</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Die ons bracht heeft totten Rechten <rhyme label="b" type="f" corresp="#s2:l3">Vaderlandt</rhyme>,</l>
+        <l id="s2:l5" met="3" type="+-">Heer ontfermt dy <rhyme label="c" type="m">ons</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">Ghy soete Lieffde schenckt ons dijne <rhyme label="a" type="m">gunst</rhyme>,</l>
+        <l id="s3:l2" met="5" type="+-">Laet ons gevoelen der Liefden <rhyme label="a" type="m" corresp="#s3:l1">brunst</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Dat wy ons van herten malcander <rhyme label="b" type="f">lieven</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">End in Vrede op eenen Sinne <rhyme label="b" type="f" corresp="#s3:l3">blijven</rhyme>,</l>
+        <l id="s3:l5" met="3" type="+-">Heer ontfermt dy <rhyme label="c" type="m">ons</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="+-">Ghy hoochste Trooster in alle onse <rhyme label="a" type="m">Noot</rhyme></l>
+        <l id="s4:l2" met="5" type="+-">Help dat wy niet Vreesen schande noch <rhyme label="a" type="m" corresp="#s4:l1">Doot</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">Dat in ons die Sinne niet <rhyme label="b" type="f">vertzaghen</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">Als die Vyandt het Leven sal <rhyme label="b" type="f" corresp="#s4:l3">beclagen</rhyme>,</l>
+        <l id="s4:l5" met="3" type="+-">Heer ontfermt dy <rhyme label="c" type="m">ons</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

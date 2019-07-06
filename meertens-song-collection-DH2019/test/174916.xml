@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174916</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="avondlied" translation="evening song">avondlied</tag>
+    </tags>
+    <melody>Die klare heldere maneschijn</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Die klare, heldre <rhyme label="a" type="m">maneschijn</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Wat houdt hij trouw de <rhyme label="b" type="m">wacht</rhyme>!</l>
+        <l id="s1:l3" met="4" type="-+">Ik kruip maar achter mijn <rhyme label="a" type="m" corresp="#s1:l1">gordijn</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">En slaap den heelen <rhyme label="b" type="m" corresp="#s1:l2">nacht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Kijk vrij door 't venster met uw <rhyme label="a" type="m">licht</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Gij allerliefste <rhyme label="b" type="m">maan</rhyme>!</l>
+        <l id="s2:l3" met="4" type="-+">Ik knijp maar beî mijn oogjes <rhyme label="a" type="m" corresp="#s2:l1">digt</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">En laat je buiten <rhyme label="b" type="m" corresp="#s2:l2">staan</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Als morgen vroeg de zon <rhyme label="a" type="m">opgaat</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Spring ik weêr voor den <rhyme label="b" type="m">dag</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">En wensch dan, beste <rhyme label="a" type="m" corresp="#s3:l1">kameraad</rhyme>!</l>
+        <l id="s3:l4" met="3" type="-+">Dat je ook eens slapen <rhyme label="b" type="m" corresp="#s3:l2">mag</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

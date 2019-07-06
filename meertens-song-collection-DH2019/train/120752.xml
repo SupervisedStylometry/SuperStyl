@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>120752</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="hemelvaartslied" translation="Ascension of Our Lord song">hemelvaartslied</tag>
+    </tags>
+    <melody>C'est la fête du village</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author>Betje Wolff en Aagje Deken</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Zaligste van alle <rhyme label="a" type="f">dagen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">ô, De Deugd vaart naar om <rhyme label="b" type="m">hoog</rhyme>!</l>
+        <l id="s1:l3" met="3" type="-+">Naar om hoog, om <rhyme label="b" type="m" corresp="#s1:l2">hoog</rhyme>!</l>
+        <l id="s1:l4" met="4" type="+-">Zaligste van alle <rhyme label="a" type="f" corresp="#s1:l1">dagen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">ô, De Deugd vaart naar om <rhyme label="b" type="m" corresp="#s1:l2">hoog</rhyme>!</l>
+        <l id="s1:l6" met="3" type="-+">Naar om hoog, om <rhyme label="b" type="m" corresp="#s1:l2">hoog</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Zy wordt op een wolk <rhyme label="a" type="f">gedragen</rhyme> ...</l>
+        <l id="s2:l2" met="4" type="+-">Zie! daar is ze al uit ons <rhyme label="b" type="m">oog</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Naar om hoog, om <rhyme label="b" type="m" corresp="#s2:l2">hoog</rhyme>!</l>
+        <l id="s2:l4" met="4" type="+-">Zy wordt op een wolk <rhyme label="a" type="f" corresp="#s2:l1">gedragen</rhyme> ...</l>
+        <l id="s2:l5" met="4" type="+-">Zie! daar is ze al uit ons <rhyme label="b" type="m" corresp="#s2:l2">oog</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Naar om hoog, om <rhyme label="b" type="m" corresp="#s2:l2">hoog</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Jezus gaat het loon <rhyme label="a" type="f">ontfangen</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Van zyn stryd op <rhyme label="b" type="m">Golgotha</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Volg hem, volg hem <rhyme label="b" type="m" corresp="#s3:l2">na</rhyme>;</l>
+        <l id="s3:l4" met="4" type="+-">Jezus gaat het loon <rhyme label="a" type="f" corresp="#s3:l1">ontfangen</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">Van zyn stryd op <rhyme label="b" type="m" corresp="#s3:l2">Golgotha</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Volg hem, volg hem <rhyme label="b" type="m" corresp="#s3:l2">na</rhyme>;</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Vol begeerte, vol <rhyme label="a" type="f">verlangen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Voor Gods goedheid en <rhyme label="b" type="m">genaê</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Volg hem, volg hem <rhyme label="b" type="m" corresp="#s4:l2">na</rhyme>.</l>
+        <l id="s4:l4" met="4" type="+-">Vol begeerte, vol <rhyme label="a" type="f" corresp="#s4:l1">verlangen</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">Voor Gods goedheid en <rhyme label="b" type="m" corresp="#s4:l2">genaê</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Volg hem, volg hem <rhyme label="b" type="m" corresp="#s4:l2">na</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Daar ons, die in armoê <rhyme label="a" type="f">leven</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Ook een beter staat <rhyme label="b" type="m">verwagt</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Verwagt, ô <rhyme label="b" type="m" corresp="#s5:l2">verwagt</rhyme>!</l>
+        <l id="s5:l4" met="4" type="+-">Daar ons, die in armoê <rhyme label="a" type="f" corresp="#s5:l1">leven</rhyme>,</l>
+        <l id="s5:l5" met="4" type="+-">Ook een beter staat <rhyme label="b" type="m" corresp="#s5:l2">verwagt</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">Verwagt, ô <rhyme label="b" type="m" corresp="#s5:l2">verwagt</rhyme>!</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Willen wy ons <rhyme label="a" type="f">overgeven</rhyme>,</l>
+        <l id="s6:l2" met="4" type="+-">Aan Gods wysheid, aan zyn <rhyme label="b" type="m">magt</rhyme>,</l>
+        <l id="s6:l3" met="3" type="-+">Aan Gods liefde, en <rhyme label="b" type="m" corresp="#s6:l2">magt</rhyme>.</l>
+        <l id="s6:l4" met="4" type="+-">Willen wy ons <rhyme label="a" type="f" corresp="#s6:l1">overgeven</rhyme>,</l>
+        <l id="s6:l5" met="4" type="+-">Aan Gods wysheid, aan zyn <rhyme label="b" type="m" corresp="#s6:l2">magt</rhyme>,</l>
+        <l id="s6:l6" met="3" type="-+">Aan Gods liefde, en <rhyme label="b" type="m" corresp="#s6:l2">magt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

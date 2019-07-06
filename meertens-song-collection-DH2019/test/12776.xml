@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12776</id>
+    <date>
+      <year-start>1658</year-start>
+      <year-end>1658</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Psalm 065 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DE Oppermacht, de aerdsche <rhyme label="a" type="f">Gooden</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Sijn Godes <rhyme label="b" type="m">ordeningh</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Ten dienste van gemeyne <rhyme label="a" type="f" corresp="#s1:l1">nooden</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En tot <rhyme label="b" type="m" corresp="#s1:l2">rechts-vorderingh</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">De Coninck en oock d'oude <rhyme label="c" type="f">rechters</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Stelde Gods eyge <rhyme label="d" type="m">handt</rhyme>:</l>
+        <l id="s1:l7" met="4" type="-+">Soo zijnse noch oock tot <rhyme label="c" type="f" corresp="#s1:l5">beslechters</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Van twist door 'tgansche <rhyme label="d" type="m" corresp="#s1:l6">Landt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Het swaert is aen de <rhyme label="a" type="f">Oppermachten</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Van Godt ter handt <rhyme label="b" type="m">gestelt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Tot straf van die Gods wet <rhyme label="a" type="f" corresp="#s2:l1">verachten</rhyme>:</l>
+        <l id="s2:l4" met="3" type="-+">Sy hebben oock <rhyme label="b" type="m" corresp="#s2:l2">'tgewelt</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Om oorlogh wettiglijck te <rhyme label="c" type="f">voeren</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">De vyandt te <rhyme label="d" type="m">verslaen</rhyme>:</l>
+        <l id="s2:l7" met="4" type="-+">En voorts al die het volck <rhyme label="c" type="f" corresp="#s2:l5">beroeren</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Met kracht tegen te <rhyme label="d" type="m" corresp="#s2:l6">staen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Godt geve ons doch vroome <rhyme label="a" type="f">Richters</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Getrouw in handt en <rhyme label="b" type="m">mondt</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Godt maecke haer tot rechte <rhyme label="a" type="f" corresp="#s3:l1">stichters</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Voor Kerk en voor <rhyme label="b" type="m" corresp="#s3:l2">'tverbondt</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Soo kan oock selfs de vroomste <rhyme label="c" type="f">Christen</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Ten dienst van yder <rhyme label="d" type="m">een</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Beslechter zijn van Burgers <rhyme label="c" type="f" corresp="#s3:l5">twisten</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">En dienaer van't <rhyme label="d" type="m" corresp="#s3:l6">gemeen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

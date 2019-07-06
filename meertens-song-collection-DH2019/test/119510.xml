@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>119510</id>
+    <date>
+      <year-start>1745</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
+      <tag standard-name="zeemanslied" translation="sailor's song">zeemanslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Pour l'amitié</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="work">werk</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">LIeve <rhyme label="a" type="m">Vrindin</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Ik moet al weêr ter Zee gaan <rhyme label="b" type="f">varen</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Lieve <rhyme label="a" type="m" corresp="#s1:l1">Vrindin</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Ik moet al weêr het Zee-gat <rhyme label="a" type="m" corresp="#s1:l1">in</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Dog laat de reis u niet <rhyme label="b" type="f" corresp="#s1:l2">bezwaren</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Wy gaan na Turken nog <rhyme label="b" type="f" corresp="#s1:l2">Barbaren</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Lieve <rhyme label="a" type="m" corresp="#s1:l1">Vrindin</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Een korten <rhyme label="a" type="m">tyd</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Moet myn afwezenheid u <rhyme label="b" type="f">kwellen</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Een korten <rhyme label="a" type="m" corresp="#s2:l1">tyd</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Ben ik u lief gezelschap <rhyme label="a" type="m" corresp="#s2:l1">kwyt</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Dog wil 't geluk ons wat <rhyme label="b" type="f" corresp="#s2:l2">verzellen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Kom ik in 't kort myn reis <rhyme label="b" type="f" corresp="#s2:l2">vertellen</rhyme>,</l>
+        <l id="s2:l7" met="2" type="-+">Een korten <rhyme label="a" type="m" corresp="#s2:l1">tyd</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Ben ik op <rhyme label="a" type="m">Zee</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Gy zyt altyd in myn <rhyme label="b" type="f">gedagten</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">Ben ik op <rhyme label="a" type="m" corresp="#s3:l1">Zee</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Ik voer de Liefde altyd <rhyme label="a" type="m" corresp="#s3:l1">meê</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Die kan alleen myn smart <rhyme label="b" type="f" corresp="#s3:l2">verzagten</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">In leelyk weêr en donkeren <rhyme label="b" type="f" corresp="#s3:l2">nagten</rhyme></l>
+        <l id="s3:l7" met="2" type="-+">En hollen <rhyme label="a" type="m" corresp="#s3:l1">Zee</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">Liefje, vaar <rhyme label="a" type="m">wel</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Ei! staak u zugten en u <rhyme label="b" type="f">klagen</rhyme>,</l>
+        <l id="s4:l3" met="2" type="-+">Liefje, vaar <rhyme label="a" type="m" corresp="#s4:l1">wel</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">'t Is slegts een reisje naar <rhyme label="a" type="m" corresp="#s4:l1">Rochel</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Zo d'Oosten Wind wat aan wil <rhyme label="b" type="f" corresp="#s4:l2">jagen</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Zie ik u weêr in veertig <rhyme label="b" type="f" corresp="#s4:l2">dagen</rhyme>,</l>
+        <l id="s4:l7" met="2" type="-+">Liefje, vaar <rhyme label="a" type="m" corresp="#s4:l1">wel</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

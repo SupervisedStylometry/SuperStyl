@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>158500</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Schoonste herderin</melody>
+  <author>Cornelis Maertsz.</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">HAbje ien gebursten <rhyme label="a" type="m">handt</rhyme>?</l>
+        <l id="s1:l2" met="4" type="+-">Habje noes of oer <rhyme label="a" type="m" corresp="#s1:l1">verbrandt</rhyme>?</l>
+        <l id="s1:l3" met="3" type="+-">Habje die <rhyme label="b" type="f">krauwoogje</rhyme>?</l>
+        <l id="s1:l4" met="5" type="+-">Spiel moor vooke smier, smier, <rhyme label="c" type="m">smier</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Hat geniest dan bolde <rhyme label="c" type="m" corresp="#s1:l4">wier</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Hups doer mien <rhyme label="b" type="f" corresp="#s1:l3">Pottoogje</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Moor schold igh noe sjonghen <rhyme label="a" type="m">oet</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Mat doer Salf, on Smier, on <rhyme label="a" type="m" corresp="#s2:l1">Kroedt</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">Wie al vurdiel <rhyme label="b" type="f">krieghen</rhyme>,</l>
+        <l id="s2:l4" met="5" type="+-">Igh schold sjonghen alsoe <rhyme label="c" type="m">lanck</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Dat igh sulf wierd sijck on <rhyme label="c" type="m" corresp="#s2:l4">banck</rhyme>,</l>
+        <l id="s2:l6" met="3" type="+-">Doorum wold igh <rhyme label="b" type="f" corresp="#s2:l3">swieghen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

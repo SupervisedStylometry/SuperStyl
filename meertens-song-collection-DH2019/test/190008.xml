@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>190008</id>
+    <date>
+      <year-start>1792</year-start>
+      <year-end>1792</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Slaapt gij nog mijn welbeminde</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Slaep gy nog myn <rhyme label="a" type="f">welbeminden</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">In het eenzaem treurig <rhyme label="b" type="m">Graf</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Moe van 't afgematte <rhyme label="a" type="f" corresp="#s1:l1">leeven</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Rukt de dood my van u <rhyme label="b" type="m" corresp="#s1:l2">af</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Werter kent gy u <rhyme label="a" type="f">Sjarlotte</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Dog na uwen dood niet <rhyme label="b" type="m">meer</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Lieven Werter is het <rhyme label="a" type="f" corresp="#s2:l1">mogelyk</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Slae u oog dog op myn <rhyme label="b" type="m" corresp="#s2:l2">neer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Dikmaels zwoer gy met u <rhyme label="a" type="f">lippen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Getrouw te zyn in de <rhyme label="b" type="m">nood</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Ia zo sprak gy myn <rhyme label="a" type="f" corresp="#s3:l1">Sjarlotte</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Ik bemin u naer u <rhyme label="b" type="m" corresp="#s3:l2">dood</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Maer als ik de maen zie <rhyme label="a" type="f">schynen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">En voor my op 't Graf zie <rhyme label="b" type="m">staen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Dan zo denk ik lieve <rhyme label="a" type="f" corresp="#s4:l1">Werter</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Mogten wy eens zamen <rhyme label="b" type="m" corresp="#s4:l2">gaen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Daer wy Albert ook <rhyme label="a" type="f">verwagten</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Het menschdom misgunt ons <rhyme label="b" type="m">niet</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Daer hoord men vertrouwde <rhyme label="a" type="f" corresp="#s5:l1">klagten</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Eu men weer van geen <rhyme label="b" type="m" corresp="#s5:l2">verdriet</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Dan zo zal ons kild <rhyme label="a" type="f">gebeente</rhyme>,</l>
+        <l id="s6:l2" met="4" type="+-">Onbewust zijn van ons <rhyme label="b" type="m">lot</rhyme>,</l>
+        <l id="s6:l3" met="4" type="+-">O dat smaet niet onze <rhyme label="a" type="f" corresp="#s6:l1">zielen</rhyme>,</l>
+        <l id="s6:l4" met="4" type="+-">Werter is vereend met <rhyme label="b" type="m" corresp="#s6:l2">God</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>11575</id>
+    <date>
+      <year-start>1640</year-start>
+      <year-end>1648</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Ach schone Cariclea</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">KOmt hier misnoegend' <rhyme label="a" type="m">hert</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Waerom is uwe siel vol <rhyme label="b" type="m">onghedult</rhyme>?</l>
+        <l id="s1:l3" met="3" type="-+">Ghy hebt in weelde <rhyme label="a" type="m" corresp="#s1:l1">smert</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Een rechte straf en tot u eygen <rhyme label="b" type="m" corresp="#s1:l2">schuld</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Wy wenschen u een <rhyme label="c" type="m">Medicijn</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Dat ghy van 't quaed bevrijt mooght <rhyme label="c" type="m" corresp="#s1:l5">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Vertrou dien grooten <rhyme label="a" type="m">Heer</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Die u gemaeckt, ter werreld heeft <rhyme label="b" type="m">gebracht</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">En die u <rhyme label="a" type="m" corresp="#s2:l1">nimmermeer</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Verlaten sal, maer stadigh nemen <rhyme label="b" type="m" corresp="#s2:l2">acht</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Jae soud hy niet den Mensch by <rhyme label="c" type="m">staen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Om wien hy alles heeft <rhyme label="c" type="m" corresp="#s2:l5">gedaen</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Het Vogelken dat <rhyme label="a" type="m">springht</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">En 't hippelt nu van d'een op d'ander <rhyme label="b" type="m">tack</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Het quinckeleert en <rhyme label="a" type="m" corresp="#s3:l1">singht</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Het weet van sorgh, noch van geen <rhyme label="b" type="m" corresp="#s3:l2">ongemack</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">'t Is altijdt lustigh fris van <rhyme label="c" type="m">moed</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">'t Weet dat sijn Heer hem spijst en <rhyme label="c" type="m" corresp="#s3:l5">voed</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">De Bloemkens staen <rhyme label="a" type="m">geciert</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">Soo overschoon, soo heerlijck en vol <rhyme label="b" type="m">jeughd</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Corael en purper <rhyme label="a" type="m" corresp="#s4:l1">zwiert</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">Op Lely, Roos, met aengename <rhyme label="b" type="m" corresp="#s4:l2">vreughd</rhyme>:</l>
+        <l id="s4:l5" met="4" type="-+">Het Konincklijck cieraed en <rhyme label="c" type="m">goud</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">By geene Lely stal en <rhyme label="c" type="m" corresp="#s4:l5">houd</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Haer hert is niet <rhyme label="a" type="m">benout</rhyme>,</l>
+        <l id="s5:l2" met="5" type="-+">Van sorgh en vrees, en moeyelijck <rhyme label="b" type="m">verdriet</rhyme>:</l>
+        <l id="s5:l3" met="3" type="-+">Gods handt haer <rhyme label="a" type="m" corresp="#s5:l1">onderhout</rhyme>,</l>
+        <l id="s5:l4" met="5" type="-+">Sy wercken 's nachts noch sy en spinnen <rhyme label="b" type="m" corresp="#s5:l2">niet</rhyme>:</l>
+        <l id="s5:l5" met="4" type="-+">Des Heeren goetheydt die dit <rhyme label="c" type="m">doet</rhyme>,</l>
+        <l id="s5:l6" met="4" type="-+">Den Mensch en al 't gedierte <rhyme label="c" type="m" corresp="#s5:l5">voed</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Waerom, waerom o <rhyme label="a" type="m">Mensch</rhyme>!</l>
+        <l id="s6:l2" met="5" type="-+">Verruckt de waen u Goddelijck <rhyme label="b" type="m">verstand</rhyme>?</l>
+        <l id="s6:l3" met="3" type="-+">Hier hebdy doch u <rhyme label="a" type="m" corresp="#s6:l1">wensch</rhyme>,</l>
+        <l id="s6:l4" met="5" type="-+">En zegen van des Heeren rijcke <rhyme label="b" type="m" corresp="#s6:l2">hand</rhyme>:</l>
+        <l id="s6:l5" met="4" type="-+">Wat sal de sorgh doch konnen <rhyme label="c" type="m">doen</rhyme>?</l>
+        <l id="s6:l6" met="4" type="-+">Sy teert u op en kan niet <rhyme label="c" type="m" corresp="#s6:l5">voen</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Werpt sorge dan ter <rhyme label="a" type="m">zy</rhyme>,</l>
+        <l id="s7:l2" met="5" type="-+">Genoeght met 't geen u 's Hemels goedheyd <rhyme label="b" type="m">geeft</rhyme>:</l>
+        <l id="s7:l3" met="3" type="-+">Dan leefdy los en <rhyme label="a" type="m" corresp="#s7:l1">vry</rhyme>,</l>
+        <l id="s7:l4" met="5" type="-+">Als een die steets een goed genoegen <rhyme label="b" type="m" corresp="#s7:l2">heeft</rhyme>.</l>
+        <l id="s7:l5" met="4" type="-+">'t Misnoegen is een groote <rhyme label="c" type="m">schand</rhyme>:</l>
+        <l id="s7:l6" met="4" type="-+">'t Verteert u ziel en <rhyme label="c" type="m" corresp="#s7:l5">ingewand</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

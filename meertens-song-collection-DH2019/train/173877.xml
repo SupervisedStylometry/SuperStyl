@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>173877</id>
+    <date>
+      <year-start>1682</year-start>
+      <year-end>1682</year-end>
+    </date>
+    <location>
+      <orginal-name>enkhuizen</orginal-name>
+      <standard-name>Enkhuizen, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.7036282</lon>
+        <lat>5.2901222</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Se ben vedi o vita mia</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">PHilis siet my wel <rhyme label="a" type="f">verdwijnen</rhyme>.</l>
+        <l id="s1:l2" met="4" type="+-">Dog se lagt om al mijn <rhyme label="a" type="f" corresp="#s1:l1">pijnen</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">'t Barze ding valt my soo hard, en soo <rhyme label="b" type="m">wreed</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Dat het groeyt in al mijn <rhyme label="b" type="m" corresp="#s1:l3">leed</rhyme></l>
+        <l id="s1:l5" met="1" type="-+">Het haat <rhyme label="c" type="f">my</rhyme>,</l>
+        <l id="s1:l6" met="1" type="-+">Het smaat <rhyme label="c" type="f" corresp="#s1:l5">my</rhyme>,</l>
+        <l id="s1:l7" met="1" type="-+">Het quelt <rhyme label="d" type="f">my</rhyme>,</l>
+        <l id="s1:l8" met="1" type="-+">Het knelt <rhyme label="d" type="f" corresp="#s1:l7">my</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">En ik ben al wel te <rhyme label="e" type="f">vreden</rhyme>,</l>
+        <l id="s1:l10" met="1" type="-+">Het nijpt <rhyme label="f" type="f">my</rhyme>,</l>
+        <l id="s1:l11" met="1" type="+-">Het knijpt <rhyme label="f" type="f" corresp="#s1:l10">my</rhyme>,</l>
+        <l id="s1:l12" met="1" type="-+">Het bant <rhyme label="g" type="f">my</rhyme>,</l>
+        <l id="s1:l13" met="1" type="-+">Het brandt <rhyme label="g" type="f" corresp="#s1:l12">my</rhyme>,</l>
+        <l id="s1:l14" met="3" type="+-">Ia 't moort my, en sonder <rhyme label="e" type="f" corresp="#s1:l9">reden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

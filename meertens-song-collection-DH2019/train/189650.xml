@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>189650</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">ô GRoote goon gy hebt me een <rhyme label="a" type="m">vrouw</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Tot huiswaardin <rhyme label="b" type="f">gegeven</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">'k Ontfing haar van uw hand ten <rhyme label="a" type="m" corresp="#s1:l1">trouw</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Dat zy met my zou <rhyme label="b" type="f" corresp="#s1:l2">leven</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Maar is se u nodig, 'k zal my <rhyme label="c" type="m">voort</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Tot de overgaaf <rhyme label="d" type="f">beryden</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">En haar, ô Goden op uw <rhyme label="c" type="m" corresp="#s1:l5">woort</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Weer aanstonts laten <rhyme label="d" type="f" corresp="#s1:l6">glyden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

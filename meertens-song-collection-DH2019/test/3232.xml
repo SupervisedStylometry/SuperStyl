@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3232</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Het vinnige stralen van de zon</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DE goede wil tot eenich <rhyme label="a" type="m">goedt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Schoon dat 'et niet volmaeckt // <rhyme label="b" type="m">is</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Is nut en heylsaem aen't <rhyme label="a" type="m" corresp="#s1:l1">ghemoedt</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Dat het soo veer gheraeckt // <rhyme label="b" type="m" corresp="#s1:l2">is</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">De bloemen zijn een goet <rhyme label="a" type="m">begin</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">En voor-boo' van den <rhyme label="b" type="m">Somer</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">De goede wil brenght krachten <rhyme label="a" type="m" corresp="#s2:l1">in</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">En maeckt den mensche <rhyme label="b" type="m" corresp="#s2:l2">vromer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">De goede wil die vast <rhyme label="a" type="m">beklijft</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Gheduerigh op der <rhyme label="b" type="m">aerden</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">En nimmer achter-uyt en <rhyme label="a" type="m" corresp="#s3:l1">drijft</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Is hoogh by Godt in <rhyme label="b" type="m" corresp="#s3:l2">waerden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Maer als de wil, die heerlijck <rhyme label="a" type="m">straelt</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">En op'et hooghste <rhyme label="b" type="m">flonckert</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Ghelijck een schaduw' heene <rhyme label="a" type="m" corresp="#s4:l1">dwaelt</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Soo blijft de daedt <rhyme label="b" type="m" corresp="#s4:l2">verdonckert</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">En waer volbrengen komt te <rhyme label="a" type="m">kort</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">En niet kan t' eynden <rhyme label="b" type="m">komen</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Toont blijcken datter wacker <rhyme label="a" type="m" corresp="#s5:l1">schort</rhyme></l>
+        <l id="s5:l4" met="4" type="+-">De teyckenen van <rhyme label="b" type="m" corresp="#s5:l2">vromen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Een vrome die tot Godt <rhyme label="a" type="m">bekeert</rhyme>,</l>
+        <l id="s6:l2" met="4" type="+-">Volherdt 'er in <rhyme label="b" type="m">ghestadigh</rhyme>:</l>
+        <l id="s6:l3" met="4" type="-+">En die volherdt, en 't quade <rhyme label="a" type="m" corresp="#s6:l1">weert</rhyme></l>
+        <l id="s6:l4" met="4" type="+-">Sal Gode zijn <rhyme label="b" type="m" corresp="#s6:l2">ghenadigh</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Wel aen, die goet van wille <rhyme label="a" type="m">zijt</rhyme>,</l>
+        <l id="s7:l2" met="4" type="+-">Laet noyt de daedt <rhyme label="b" type="m">versterven</rhyme>:</l>
+        <l id="s7:l3" met="4" type="-+">Ghy sult, volvoerje, t'sijner <rhyme label="a" type="m" corresp="#s7:l1">tijdt</rhyme></l>
+        <l id="s7:l4" met="4" type="+-">De Saligheydt <rhyme label="b" type="m" corresp="#s7:l2">verwerven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

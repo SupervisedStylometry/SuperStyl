@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>164355</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Aimable vainqueur</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">Wie werd niet <rhyme label="a" type="m">geveld</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">Door 't lieflijk <rhyme label="a" type="m" corresp="#s1:l1">geweld</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">Van Venus <rhyme label="b" type="f">schigten</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Dien elk doen <rhyme label="b" type="f" corresp="#s1:l3">swigten</rhyme></l>
+        <l id="s1:l5" met="3" type="+-">Waar sy   spits op <rhyme label="a" type="m" corresp="#s1:l1">steld</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">En vaak <rhyme label="c" type="f">verwinnen</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">De trotse <rhyme label="c" type="f" corresp="#s1:l6">sinnen</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">Van de kloekste <rhyme label="a" type="m" corresp="#s1:l1">held</rhyme>.</l>
+        <l id="s1:l9" met="3" type="+-">Wie ooyt heeft <rhyme label="d" type="m">getragt</rhyme></l>
+        <l id="s1:l10" met="3" type="+-">Haar magt te <rhyme label="e" type="f">braveren</rhyme>,</l>
+        <l id="s1:l11" met="3" type="+-">Heeft sy haast doen <rhyme label="e" type="f" corresp="#s1:l10">eeren</rhyme></l>
+        <l id="s1:l12" met="3" type="+-">Haar gevreesde <rhyme label="d" type="m" corresp="#s1:l9">kragt</rhyme>.</l>
+        <l id="s1:l13" met="2" type="+-">Elk eerd haar <rhyme label="f" type="m">gloed</rhyme>,</l>
+        <l id="s1:l14" met="3" type="+-">Wiens aangenaam <rhyme label="f" type="m" corresp="#s1:l13">soet</rhyme></l>
+        <l id="s1:l15" met="3" type="+-">'t Heel Al kan <rhyme label="g" type="f">vermaken</rhyme></l>
+        <l id="s1:l16" met="3" type="+-">En vreugde doen <rhyme label="g" type="f" corresp="#s1:l15">smaken</rhyme></l>
+        <l id="s1:l17" met="3" type="+-">Die elk een <rhyme label="f" type="m" corresp="#s1:l13">voldoet</rhyme>.</l>
+        <l id="s1:l18" met="3" type="+-">Men siet al wat <rhyme label="h" type="m">leefd</rhyme></l>
+        <l id="s1:l19" met="3" type="+-">Om de blijdschap <rhyme label="g" type="f" corresp="#s1:l15">blaken</rhyme></l>
+        <l id="s1:l20" met="3" type="+-">Die de liefde <rhyme label="h" type="m" corresp="#s1:l18">geeft</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

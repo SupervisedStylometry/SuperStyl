@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36968</id>
+    <date>
+      <year-start>1677</year-start>
+      <year-end>1677</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>God hing aan het kruis</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Livinus van der Minnen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">VReught van myn vreught, oorsaeck van myn bly <rhyme label="a" type="f">leven</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Ziel van myn Ziel van Godt aen my <rhyme label="a" type="f" corresp="#s1:l1">ghegheven</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Myn lieve Vrouw’ Met wie ick Bruyloft <rhyme label="b" type="m">houw</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Die neven my aen Tafel zyt <rhyme label="c" type="f">gheseten</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Wildy ô Bruydt’ Het recht <rhyme label="d" type="m">besluyt</rhyme></l>
+        <l id="s1:l6" met="5" type="-+">Van desen Massepeynen Hof eens <rhyme label="c" type="f" corresp="#s1:l4">weten</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Die voor u staet op desen <rhyme label="d" type="m" corresp="#s1:l5">Dis</rhyme>,</l>
+        <l id="s1:l8" met="5" type="-+">En met schoon Bloemen toe-ghesloten <rhyme label="d" type="m" corresp="#s1:l5">is</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">De Vrouwen zyn als Bogarts voor de <rhyme label="a" type="f">Mannen</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Daer Snoepers moeten worden <rhyme label="a" type="f" corresp="#s2:l1">uyt-ghebannen</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">'t Besloten Hof’ Streckt aen de Vrouw tot <rhyme label="b" type="m">lof</rhyme>;</l>
+        <l id="s2:l4" met="5" type="-+">De eerste Trouw is in den Hof <rhyme label="c" type="f">ghevonden</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">s'Is in-ghestelt’ In't groene <rhyme label="d" type="m">Veldt</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">In 't Paradys is 't eerste Paer <rhyme label="c" type="f" corresp="#s2:l4">ghebonden</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">In 't Paradys gaf onsen <rhyme label="d" type="m" corresp="#s2:l5">Godt</rhyme></l>
+        <l id="s2:l8" met="5" type="-+">Aen Man en Vrouw het eerste <rhyme label="d" type="m" corresp="#s2:l5">Trouw-Ghebodt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Godt heeft den Man daer-op syn Vrouw doen <rhyme label="a" type="f">passen</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">In 't Paradys is 't Honwelyck <rhyme label="a" type="f" corresp="#s3:l1">ghewassen</rhyme>.</l>
+        <l id="s3:l3" met="5" type="-+">'t Is daer ghegroeyt’ En soo tot ons <rhyme label="b" type="m">ghevloeyt</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Het Woordt des Heeren in den Hof <rhyme label="c" type="f">ghesproken</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Dat Krachtigh Woordt’ Brenght Vruchten <rhyme label="d" type="m">voordt</rhyme></l>
+        <l id="s3:l6" met="5" type="-+">Als't in den Mensch syn suyver Vier komt <rhyme label="c" type="f" corresp="#s3:l4">stoken</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Aen U ò Heer zy eer en <rhyme label="d" type="m" corresp="#s3:l5">lof</rhyme></l>
+        <l id="s3:l8" met="5" type="-+">Die d'eerste Bruyloft maeckten in den <rhyme label="d" type="m" corresp="#s3:l5">Hof</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

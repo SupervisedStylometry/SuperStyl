@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111454</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Allemande Ik prees weleer</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Clorimeen, Gy zyt <rhyme label="a" type="m">alleen</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Myn Zieltje, dat my 't zoetste leven <rhyme label="b" type="m">geeft</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">O Clorimeen, gy zyt die <rhyme label="a" type="m" corresp="#s1:l1">geen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Waar door uw Minnaar <rhyme label="b" type="m" corresp="#s1:l2">leefd</rhyme>.</l>
+        <l id="s1:l5" met="2" type="-+">Gy kund hem <rhyme label="c" type="m">do'on</rhyme></l>
+        <l id="s1:l6" met="5" type="-+">En leven doen, alleen door uw <rhyme label="d" type="m">gesigt</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Voor wiens verrukkend <rhyme label="d" type="m" corresp="#s1:l6">ligt</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">De blonde Aurora <rhyme label="d" type="m" corresp="#s1:l6">zwigt</rhyme>.</l>
+        <l id="s1:l9" met="2" type="+-">Gy kund hem <rhyme label="c" type="m" corresp="#s1:l5">do'on</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">En leven doen, <rhyme label="a" type="m" corresp="#s1:l1">alleen</rhyme></l>
+        <l id="s1:l11" met="3" type="-+">Door uw <rhyme label="a" type="m" corresp="#s1:l1">bekoorlykhe'en</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

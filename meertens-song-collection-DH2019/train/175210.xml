@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175210</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Goede God! uw liefde en <rhyme label="a" type="m">magt</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Straalt ook in den <rhyme label="a" type="m" corresp="#s1:l1">winternacht</rhyme>;</l>
+        <l id="s1:l3" met="4" type="+-">Ook in sneeuw en <rhyme label="a" type="m" corresp="#s1:l1">hageljagt</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Spreekt tot ons uw liefde en <rhyme label="a" type="m" corresp="#s1:l1">magt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Gij bewaart der aarde <rhyme label="a" type="m">kracht</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Hult het woud in donsen <rhyme label="a" type="m" corresp="#s2:l1">vacht</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Dekt met sneeuw, fluweelig <rhyme label="a" type="m" corresp="#s2:l1">zacht</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">'t Zaad, dat op de Lente <rhyme label="a" type="m" corresp="#s2:l1">wacht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Komt dan, na den <rhyme label="a" type="m">winternacht</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Lente weêr, in reine <rhyme label="a" type="m" corresp="#s3:l1">pracht</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Och! hoe geurig-fleurig <rhyme label="a" type="m" corresp="#s3:l1">lacht</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Dan die aarde in frissche <rhyme label="a" type="m" corresp="#s3:l1">kracht</rhyme>!</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Eens rijst ook voor Ons <rhyme label="a" type="m">geslacht</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Hemellicht uit Aardschen <rhyme label="a" type="m" corresp="#s4:l1">nacht</rhyme>: -</l>
+        <l id="s4:l3" met="4" type="+-">o Dat steeds ons hart <rhyme label="a" type="m" corresp="#s4:l1">bedacht</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Hoe eene Eeuwge Lente ons <rhyme label="a" type="m" corresp="#s4:l1">wacht</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

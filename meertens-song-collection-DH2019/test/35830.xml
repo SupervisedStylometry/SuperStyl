@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35830</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody>Gavotte à la fronte</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">MIjn Jesu, mijn Godt en <rhyme label="a" type="m">Al</rhyme>,</l>
+        <l id="s1:l2" met="2" type="+-">Ick u <rhyme label="a" type="m" corresp="#s1:l1">sal</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">De meeste liefde <rhyme label="b" type="f">toonen</rhyme>:</l>
+        <l id="s1:l4" met="4" type="+-">Want my met de <rhyme label="c" type="m">Maeghde-bloem</rhyme>,</l>
+        <l id="s1:l5" met="2" type="+-">D' hooghste <rhyme label="c" type="m" corresp="#s1:l4">roem</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Heeft uw' belieft te <rhyme label="b" type="f" corresp="#s1:l3">kroonen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Iesu, aen u Bruydt, nu <rhyme label="a" type="m">geeft</rhyme>,</l>
+        <l id="s2:l2" met="2" type="+-">Die't al <rhyme label="a" type="m" corresp="#s2:l1">heeft</rhyme>:</l>
+        <l id="s2:l3" met="3" type="-+">Dat 'k om 's Wereldts <rhyme label="b" type="f">Presenten</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">d' Alderwaerdtste <rhyme label="c" type="m">Maeghde-staet</rhyme>,</l>
+        <l id="s2:l5" met="2" type="+-">Niet <rhyme label="c" type="m" corresp="#s2:l4">verlaet</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Noch om al de <rhyme label="b" type="f" corresp="#s2:l3">tormenten</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Geeft my u alleen te <rhyme label="a" type="m">sien</rhyme>,</l>
+        <l id="s3:l2" met="2" type="+-">En t' <rhyme label="a" type="m" corresp="#s3:l1">ontvlien</rhyme>:</l>
+        <l id="s3:l3" met="3" type="-+">Dat my, van uw' kan <rhyme label="b" type="f">scheyden</rhyme>:</l>
+        <l id="s3:l4" met="4" type="+-">Dat 'k alleen met hart en <rhyme label="c" type="m">sin</rhyme>,</l>
+        <l id="s3:l5" met="2" type="+-">Dat <rhyme label="c" type="m" corresp="#s3:l4">bemin</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Dat my tot uw' kan <rhyme label="b" type="f" corresp="#s3:l3">leyden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

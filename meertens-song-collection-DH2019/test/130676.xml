@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>130676</id>
+    <date>
+      <year-start>1711</year-start>
+      <year-end>1711</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Distelbeekje klaar als glas</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Distelbeekje, klaar als <rhyme label="a" type="m">glas</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Dat hier kuyert door het <rhyme label="a" type="m" corresp="#s1:l1">gras</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">In de schaduw van de <rhyme label="b" type="f">bomen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">In ’t geselschap van ’t <rhyme label="c" type="m">gediert</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">’t Geen hier rondom singt en <rhyme label="c" type="m" corresp="#s1:l4">swiert</rhyme>:</l>
+        <l id="s1:l6" met="4" type="+-">Hebje Kloris niet <rhyme label="b" type="f" corresp="#s1:l3">vernomen</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Else bladen, groen en <rhyme label="a" type="m">bleek</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Die u spiegelt in een <rhyme label="a" type="m" corresp="#s2:l1">Beek</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Meer bekent als grooter <rhyme label="b" type="f">stroomen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Madeliefjes, wit en <rhyme label="c" type="m">root</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Boter-bloemen langs de <rhyme label="c" type="m" corresp="#s2:l4">sloot</rhyme>:</l>
+        <l id="s2:l6" met="4" type="+-">Hebje Kloris niet <rhyme label="b" type="f" corresp="#s2:l3">vernomen</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Waar of Kloris blyven <rhyme label="a" type="m">mag</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Klorisje die met den <rhyme label="a" type="m" corresp="#s3:l1">dag</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Dagelicks hier plag te <rhyme label="b" type="f">komen</rhyme>!</l>
+        <l id="s3:l4" met="4" type="+-">Echo, die haer altijdt <rhyme label="c" type="m">hoort</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">Als sy my toeroept het <rhyme label="c" type="m" corresp="#s3:l4">woort</rhyme>:</l>
+        <l id="s3:l6" met="4" type="+-">Hebje Kloris niet <rhyme label="b" type="f" corresp="#s3:l3">vernomen</rhyme>,</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Waerom antwoord gy my <rhyme label="a" type="m">niet</rhyme>?</l>
+        <l id="s4:l2" met="4" type="+-">Wat is Klorisje <rhyme label="a" type="m" corresp="#s4:l1">geschiet</rhyme>?</l>
+        <l id="s4:l3" met="4" type="+-">Wie belette haer te <rhyme label="b" type="f">komen</rhyme>?</l>
+        <l id="s4:l4" met="4" type="+-">Klorisje, sal dan uw <rhyme label="c" type="m">jeugd</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">Van twee grysaards sonder <rhyme label="c" type="m" corresp="#s4:l4">vreugd</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">Werden alle vreugd <rhyme label="b" type="f" corresp="#s4:l3">ontnomen</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

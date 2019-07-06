@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12829</id>
+    <date>
+      <year-start>1658</year-start>
+      <year-end>1658</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Psalm 012 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">HEt Joodsche volck vergingh door veel <rhyme label="a" type="f">ellenden</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Door pest en oorlogh en door dieren <rhyme label="b" type="m">tijt</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Geen vrindt die haer als vrinden nu meer <rhyme label="a" type="f" corresp="#s1:l1">kenden</rhyme>:</l>
+        <l id="s1:l4" met="5" type="-+">Doe spotte Moab en de <rhyme label="b" type="m" corresp="#s1:l2">Edomijt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Daer bleven over weynigh arme <rhyme label="a" type="f">lieden</rhyme>:</l>
+        <l id="s2:l2" met="5" type="-+">Gedalia was over haer het <rhyme label="b" type="m">hooft</rhyme>.</l>
+        <l id="s2:l3" met="5" type="-+">De Joode Ismael quam hem <rhyme label="a" type="f" corresp="#s2:l1">bespieden</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">En heeft die arme van haer rust <rhyme label="b" type="m" corresp="#s2:l2">berooft</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Jer'mias most meed' na Egypten <rhyme label="a" type="f">vluchten</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Nebucadnezar hoort een hemelsch <rhyme label="b" type="m">last</rhyme>.</l>
+        <l id="s3:l3" met="5" type="-+">Hy most op 'tvelt onder de beesten <rhyme label="a" type="f" corresp="#s3:l1">suchten</rhyme>.</l>
+        <l id="s3:l4" met="5" type="-+">Maer doch de boom bleef aen de wortel <rhyme label="b" type="m" corresp="#s3:l2">vast</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Beltsasar dronck met spot uyt Godes <rhyme label="a" type="f">vaten</rhyme>:</l>
+        <l id="s4:l2" met="5" type="-+">Sijn oordeel wiert geschreven aen de <rhyme label="b" type="m">wandt</rhyme>.</l>
+        <l id="s4:l3" met="5" type="-+">Hy most tot straf zijn scepter haest <rhyme label="a" type="f" corresp="#s4:l1">verlaten</rhyme>.</l>
+        <l id="s4:l4" met="5" type="-+">Darius wiert doe meester van het <rhyme label="b" type="m" corresp="#s4:l2">Landt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Daniels hoogheyt heeft de nijdt <rhyme label="a" type="f">ontsteecken</rhyme>,</l>
+        <l id="s5:l2" met="5" type="-+">Men maeckt' beschuldingh over zijn <rhyme label="b" type="m">gebedt</rhyme>.</l>
+        <l id="s5:l3" met="5" type="-+">De Leeuwen konden hem geen lidt <rhyme label="a" type="f" corresp="#s5:l1">verbreecken</rhyme>.</l>
+        <l id="s5:l4" met="5" type="-+">Sijn haeters wierden selfs in't hol <rhyme label="b" type="m" corresp="#s5:l2">geset</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

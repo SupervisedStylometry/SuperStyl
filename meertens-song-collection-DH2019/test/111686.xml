@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111686</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">SChreit Oogjes, schreid u <rhyme label="a" type="m">uit</rhyme>!</l>
+        <l id="s1:l2" met="4" type="+-">Wykt, ô! roosjes van myn <rhyme label="b" type="f">kaken</rhyme>!</l>
+        <l id="s1:l3" met="4" type="+-">'t Musje, dat my kon <rhyme label="b" type="f" corresp="#s1:l2">vermaken</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Is helaas de kat ten <rhyme label="a" type="m" corresp="#s1:l1">buit</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">'t Musje dat my is <rhyme label="c" type="f">gegeven</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Van myn trouwen teder <rhyme label="d" type="m">hert</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Derft helaas! 't onnoozel <rhyme label="c" type="f" corresp="#s1:l5">leven</rhyme>!</l>
+        <l id="s1:l8" met="4" type="+-">Oogjes stikt vry in die <rhyme label="d" type="m" corresp="#s1:l6">smert</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">'t Musje is nu de kat ten <rhyme label="a" type="m" corresp="#s1:l1">buit</rhyme>,</l>
+        <l id="s1:l10" met="4" type="+-">Oogjes, oogjes, schreid u <rhyme label="a" type="m" corresp="#s1:l1">uit</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

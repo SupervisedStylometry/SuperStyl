@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>103064</id>
+    <date>
+      <year-start>1656</year-start>
+      <year-end>1656</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Bonjour mijn engel</melody>
+  <author>Arnold Bon</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">A Vous mijne <rhyme label="a" type="f">Macker</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Viua, Viua 'tvol <rhyme label="b" type="m">glas</rhyme>:</l>
+        <l id="s1:l3" met="4" type="+-">'Kheb van Kupido den <rhyme label="b" type="m" corresp="#s1:l2">bras</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">En ick geefem nou zijnen <rhyme label="a" type="f" corresp="#s1:l1">backer</rhyme>,</l>
+        <l id="s1:l5" met="5" type="+-">Want den Dief, die heeftme gansch <rhyme label="c" type="m">verbrant</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Het <rhyme label="c" type="m" corresp="#s1:l5">ingewant</rhyme>:</l>
+        <l id="s1:l7" met="4" type="-+">Avons een tooyken <rhyme label="d" type="m">'tMinnevier</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Dat eyst des bluspot van <rhyme label="d" type="m" corresp="#s1:l7">goe-bier</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Adieu Venus <rhyme label="a" type="f">jancken</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Hittich loopen buyten <rhyme label="b" type="m">schreef</rhyme>:</l>
+        <l id="s2:l3" met="4" type="+-">Als een rekel na de <rhyme label="b" type="m" corresp="#s2:l2">Teef</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Met den hangsack vol minne <rhyme label="a" type="f" corresp="#s2:l1">drancken</rhyme>,</l>
+        <l id="s2:l5" met="5" type="+-">Ceres koel dranck is de <rhyme label="c" type="m">medecijn</rhyme>:</l>
+        <l id="s2:l6" met="2" type="-+">Voor dat <rhyme label="c" type="m" corresp="#s2:l5">venijn</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Avons een tooyken <rhyme label="d" type="m">'tMinnevier</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Dat eyst des bluspot van <rhyme label="d" type="m" corresp="#s2:l7">goe-bier</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="+-">Ba, soo eenen <rhyme label="a" type="f">dieuren</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Vry ick seker lieft' en <rhyme label="b" type="m">best</rhyme>:</l>
+        <l id="s3:l3" met="4" type="+-">Min-vier is een heete <rhyme label="b" type="m" corresp="#s3:l2">pest</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">En het doet een bly hert <rhyme label="a" type="f" corresp="#s3:l1">treuren</rhyme></l>
+        <l id="s3:l5" met="5" type="+-">Maer dit vocht verblijt een treurich <rhyme label="c" type="m">hert</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">En heelt haer <rhyme label="c" type="m" corresp="#s3:l5">smert</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Avons een tooyken <rhyme label="d" type="m">'tMinnevier</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Dat eyst des bluspot van <rhyme label="d" type="m" corresp="#s3:l7">goe-bier</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

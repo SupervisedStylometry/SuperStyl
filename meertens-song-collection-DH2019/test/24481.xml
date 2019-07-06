@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24481</id>
+    <date>
+      <year-start>1596</year-start>
+      <year-end>1596</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="rederijkerslied" translation="rhetorician song">rederijkerslied</tag>
+    </tags>
+    <melody>Houd aan ik zal u zingen voor</melody>
+    <categories>
+      <category translation="groups">groepen</category>
+      <category translation="amusement">vermaak</category>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Melcop// moet ick u Sotten <rhyme label="a" type="f">heeten</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Elck op// Dick Erwitten te <rhyme label="a" type="f" corresp="#s1:l1">eten</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Met Lepelen toe <rhyme label="a" type="f" corresp="#s1:l1">meten</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Bedreten// so maect u <rhyme label="b" type="m">niet</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Wie tstincken vliet// toch voor u <rhyme label="b" type="m" corresp="#s1:l4">siet</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Twaer haest <rhyme label="b" type="m" corresp="#s1:l4">gheschiet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Verdriet// en heeft Vrou Lors int <rhyme label="a" type="f">sorgen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Mors giet// zijn buyc vol alle <rhyme label="a" type="f" corresp="#s2:l1">morgen</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Die Waert die sal ons <rhyme label="a" type="f" corresp="#s2:l1">borgen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Toeworgen// soo most de <rhyme label="b" type="m">keel</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">De Bruyt haer deel// mijn brouck vol <rhyme label="b" type="m" corresp="#s2:l4">geel</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Is dat niet <rhyme label="b" type="m" corresp="#s2:l4">veel</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Quaet speel// sal dit int eynde <rhyme label="a" type="f">maken</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Geheel// de schulden te <rhyme label="a" type="f" corresp="#s3:l1">missaken</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Met elck een te <rhyme label="a" type="f" corresp="#s3:l1">draken</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Dat laken// can reen de <rhyme label="b" type="m">Bruyt</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Tschip van Reyn wt// toch boven <rhyme label="b" type="m" corresp="#s3:l4">sluyt</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">Om tsoet <rhyme label="b" type="m" corresp="#s3:l4">gheluyt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Licht schuyt// en weet van geen <rhyme label="a" type="f">betalen</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">In muyt// de vrienden alle <rhyme label="a" type="f" corresp="#s4:l1">malen</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Een Ces moet elck <rhyme label="a" type="f" corresp="#s4:l1">halen</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Dus dwalen// die schenen <rhyme label="b" type="m">Rijck</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Meest al ghelijck// singen <rhyme label="b" type="m" corresp="#s4:l4">Musijck</rhyme></l>
+        <l id="s4:l6" met="2" type="-+">Den langhen <rhyme label="b" type="m" corresp="#s4:l4">Dijck</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

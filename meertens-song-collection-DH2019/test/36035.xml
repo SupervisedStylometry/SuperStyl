@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36035</id>
+    <date>
+      <year-start>1664</year-start>
+      <year-end>1664</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen [=amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="paaslied" translation="Easter song">paaslied</tag>
+    </tags>
+    <melody>Puer natus in Bethleem</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Alleluja den blijden <rhyme label="a" type="m">toon</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Wort nu gesongen soet en <rhyme label="a" type="m" corresp="#s1:l1">schoon</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Waer dat ick ben, of waer ick <rhyme label="b" type="m">ga</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Mijn Ziele singht <rhyme label="b" type="m" corresp="#s1:l3">Alleluja</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Met grooter vreughden in den <rhyme label="a" type="m">geest</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">In dese feest van Paesschen <rhyme label="a" type="m" corresp="#s2:l1">meest</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Dan hoortmen singen, vroegh en <rhyme label="b" type="m">spa</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Dat blijde liedt <rhyme label="b" type="m" corresp="#s2:l3">Alleluja</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Dit is den grooten blijden <rhyme label="a" type="m">dagh</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Die David in den geest <rhyme label="a" type="m" corresp="#s3:l1">voorsagh</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Singht vreughdelijck, soo ick u <rhyme label="b" type="m">ra</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Dat blijde liedt <rhyme label="b" type="m" corresp="#s3:l3">Alleluja</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Hier boven in des Hemels <rhyme label="a" type="m">Throon</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Daer wort gesongen wonder <rhyme label="a" type="m" corresp="#s4:l1">schoon</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">met soete stemme <rhyme label="b" type="m">Musica</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Het blijde liedt <rhyme label="b" type="m" corresp="#s4:l3">Alleluja</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

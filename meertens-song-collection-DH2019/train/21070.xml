@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21070</id>
+    <date>
+      <year-start>1649</year-start>
+      <year-end>1649</year-end>
+    </date>
+    <location>
+      <orginal-name>zaandam</orginal-name>
+      <standard-name>Zaandam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.4424926</lon>
+        <lat>4.8298607</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Zal ik nog langer in hete tranen</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Hendrik Jacobz. Soetenboom</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HOe saligh is de soete <rhyme label="a" type="f">minne</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Hoe saligh liefdens liefde <rhyme label="b" type="m">kracht</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">In haer, de liefd' met God <rhyme label="a" type="f" corresp="#s1:l1">beginne</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Waer soo de Minne werdt <rhyme label="b" type="m" corresp="#s1:l2">volbracht</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Ist lief en soet, wat liefde <rhyme label="c" type="m">doet</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Ist lief en soet wat liefde lieft en <rhyme label="d" type="m">mint</rhyme>;</l>
+        <l id="s1:l7" met="5" type="-+">Geluckigh die de liefd' met Godt <rhyme label="d" type="m" corresp="#s1:l6">begint</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wenscht yemandt om geluck en <rhyme label="a" type="f">zegen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Om voorspoet in den <rhyme label="b" type="m">Echten-staet</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">'t Is hier alleenigh in <rhyme label="a" type="f" corresp="#s2:l1">gelegen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Dat hy in zijne liefde <rhyme label="b" type="m" corresp="#s2:l2">gaet</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Na Godes Wet, hem <rhyme label="c" type="m">voor-geset</rhyme>;</l>
+        <l id="s2:l6" met="5" type="-+">Na Godes Wet beminnen een voor <rhyme label="d" type="m">al</rhyme>,</l>
+        <l id="s2:l7" met="5" type="-+">Dat 's Godt in Godt, o mensch! daer is het <rhyme label="d" type="m" corresp="#s2:l6">al</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Verliefde twee, door liefd' <rhyme label="a" type="f">verbonden</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Luck-wenschingh is mijn <rhyme label="b" type="m">offerhandt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Geluck, ten Hemel <rhyme label="a" type="f" corresp="#s3:l1">af-gesonden</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Gun Godt aen u, wiens milde <rhyme label="b" type="m" corresp="#s3:l2">handt</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Al watter leeft, zijn voedtsel <rhyme label="c" type="m">geeft</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">Al watter leeft sijn zegeningh <rhyme label="d" type="m">verleent</rhyme>;</l>
+        <l id="s3:l7" met="5" type="-+">Geluck geliefde twee, door liefd' <rhyme label="d" type="m" corresp="#s3:l6">vereent</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Lieft liefde wilt ghy vreedigh <rhyme label="a" type="f">leven</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Want vreede is het soetste <rhyme label="b" type="m">soet</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Dat d' Echte-staet den mensch kan <rhyme label="a" type="f" corresp="#s4:l1">geven</rhyme>;</l>
+        <l id="s4:l4" met="4" type="-+">'t Is liefde die de vreede <rhyme label="b" type="m" corresp="#s4:l2">voedt</rhyme>:</l>
+        <l id="s4:l5" met="4" type="-+">Wie vreede mint, moet sijn <rhyme label="c" type="m">gesint</rhyme>,</l>
+        <l id="s4:l6" met="5" type="-+">Wie vreede mint, moet sijn gesint dat <rhyme label="d" type="m">hy</rhyme></l>
+        <l id="s4:l7" met="5" type="-+">De liefde lieft om datse vreedigh <rhyme label="d" type="m" corresp="#s4:l6">zy</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

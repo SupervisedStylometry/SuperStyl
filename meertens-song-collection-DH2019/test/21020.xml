@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21020</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">WIe dus, in alle <rhyme label="a" type="m">dingh</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Sijn pligten kan <rhyme label="b" type="m">betragten</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Heeft in dees <rhyme label="a" type="m" corresp="#s1:l1">eenigingh</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Niet dan veel heyls te <rhyme label="b" type="m" corresp="#s1:l2">wagten</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Hy voedt sigh, staagh met 't <rhyme label="a" type="m">nat</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">De dropp'len van Gods <rhyme label="b" type="m">zeegen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Bedauwt, besproeyt, <rhyme label="a" type="m" corresp="#s2:l1">bespat</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Ten top van vreugt <rhyme label="b" type="m" corresp="#s2:l2">gesteegen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Wie zigh tot goet <rhyme label="a" type="m">begeeft</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">En na de deugt kan <rhyme label="b" type="m">voegen</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">En altoos heylig <rhyme label="a" type="m" corresp="#s3:l1">leeft</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Kan God en mens <rhyme label="b" type="m" corresp="#s3:l2">vernoegen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

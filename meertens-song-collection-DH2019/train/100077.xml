@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100077</id>
+    <date>
+      <year-start>1652</year-start>
+      <year-end>1652</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Derde Carileen</melody>
+  <author>Arnold Bon</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">ACh hoe prickelt my de <rhyme label="a" type="m">Min</rhyme>,</l>
+        <l id="s1:l2" met="6" type="+-">In gedachjes, nare nachjes, staeg mijn <rhyme label="a" type="m" corresp="#s1:l1">sin</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">'k Wensch de Liefd' oock plagen <rhyme label="b" type="m">dorst</rhyme></l>
+        <l id="s1:l4" met="6" type="+-">'t Soetste Beeld' dat my tot haer Liefde <rhyme label="b" type="m" corresp="#s1:l3">porst</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Ey Ey schoone <rhyme label="c" type="m">Citharée</rhyme>,</l>
+        <l id="s1:l6" met="6" type="+-">Schiet u strael op haer teere Boesem <rhyme label="c" type="m" corresp="#s1:l5">mée</rhyme></l>
+        <l id="s1:l7" met="3" type="+-">Maeckt dat haer <rhyme label="d" type="m">Gemoet</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Weet dat zy My quynen <rhyme label="d" type="m" corresp="#s1:l7">doet</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">Want mijn pijn, want mijn <rhyme label="e" type="m">pijn</rhyme>,</l>
+        <l id="s1:l10" met="4" type="+-">Moet met Haer verdonckert <rhyme label="e" type="m" corresp="#s1:l9">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Roosje Roosje kijckt eens <rhyme label="a" type="m">op</rhyme>,</l>
+        <l id="s2:l2" met="6" type="+-">Laet u bladen, my versaden, Nectar <rhyme label="a" type="m" corresp="#s2:l1">sop</rhyme>.</l>
+        <l id="s2:l3" met="4" type="+-">Wan u versse Wasem <rhyme label="b" type="m">leyt</rhyme>,</l>
+        <l id="s2:l4" met="6" type="+-">Nat bedauwt tot des Sonnens <rhyme label="b" type="m" corresp="#s2:l3">leckerheyt</rhyme>;</l>
+        <l id="s2:l5" met="4" type="+-">Buygt u swacke telgjen <rhyme label="c" type="m">neer</rhyme>,</l>
+        <l id="s2:l6" met="6" type="+-">Jond de Zonn' noyt soo soete soetheyt <rhyme label="c" type="m" corresp="#s2:l5">meer</rhyme>,</l>
+        <l id="s2:l7" met="3" type="+-">Want hy sou u <rhyme label="d" type="m">Blaen</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Door hen droogte doen <rhyme label="d" type="m" corresp="#s2:l7">vergaen</rhyme>.</l>
+        <l id="s2:l9" met="4" type="+-">En met Mijn, en met <rhyme label="e" type="m">Mijn</rhyme>,</l>
+        <l id="s2:l10" met="4" type="+-">Sult ghy eeuwigh jeugdigh <rhyme label="e" type="m" corresp="#s2:l9">zijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

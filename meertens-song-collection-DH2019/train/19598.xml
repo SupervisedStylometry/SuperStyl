@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19598</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>O kerstnacht schoner dan de dagen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Thomas Fonteyn</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GEen Amberwanten of <rhyme label="a" type="f">fluweelen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En konnen zo gevoelig <rhyme label="a" type="f" corresp="#s1:l1">streelen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Als ene strooking aan ‘er <rhyme label="b" type="m">wang</rhyme>’:</l>
+        <l id="s1:l4" met="4" type="-+">Heur hals, en blote Boezems <rhyme label="c" type="f">tipjes</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">En tgun ‘er speeld op oog en <rhyme label="b" type="m" corresp="#s1:l3">lipjes</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Ist keurig zaft, tgun ik <rhyme label="c" type="f" corresp="#s1:l4">omvang</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Tvernougen tgun de Goden <rhyme label="a" type="f">geven</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">En kan in geen meer wellust <rhyme label="a" type="f" corresp="#s2:l1">zweeven</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Als, wen ik zuig die voedbre <rhyme label="b" type="m">zugt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Die zoete Nektarlijkke <rhyme label="c" type="f">droppen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Die my, wijl zy mijn harta’er <rhyme label="b" type="m" corresp="#s2:l3">proppen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Vol Hemelvli’en, doen zo veel <rhyme label="c" type="f" corresp="#s2:l4">vrucht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Geen Orgel klank, of zangk der <rhyme label="a" type="f">Kooren</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">En is zo angenaam te <rhyme label="a" type="f" corresp="#s3:l1">hooren</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Als ‘t rinklen van ‘er lieve <rhyme label="b" type="m">keel</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">Geen Tijmbelspel geen Luit of <rhyme label="c" type="f">znaren</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">En konnen zulk een hoorlust <rhyme label="b" type="m" corresp="#s3:l3">baaren</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Als Karileen, in’t minste <rhyme label="c" type="f" corresp="#s3:l4">deel</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

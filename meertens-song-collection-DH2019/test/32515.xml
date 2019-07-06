@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32515</id>
+    <date>
+      <year-start>1667</year-start>
+      <year-end>1667</year-end>
+    </date>
+    <location>
+      <orginal-name>mechelen</orginal-name>
+      <standard-name>Mechelen, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0281381</lon>
+        <lat>4.4803453</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Allemande du court</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">SAl ick nu niet <rhyme label="a" type="f">klaegen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Mijn swaer <rhyme label="b" type="m">ongeluck</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Hoe kan 't hert <rhyme label="a" type="f" corresp="#s1:l1">verdraegen</rhyme></l>
+        <l id="s1:l4" met="3" type="+-">Soo een vreetsaem <rhyme label="b" type="m" corresp="#s1:l2">stuck</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">Als my nu wert <rhyme label="c" type="m">aen-gedaen</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Die wel <rhyme label="d" type="f">geminde</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">Liefste <rhyme label="d" type="f" corresp="#s1:l6">Lerinde</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">Die in 't hert mocht <rhyme label="c" type="m" corresp="#s1:l5">staen</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">Helaes is my <rhyme label="c" type="m" corresp="#s1:l5">aff-gegaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Van mijn Kindtsche <rhyme label="a" type="f">daegen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Heeft sy my <rhyme label="b" type="m">verheught</rhyme>:</l>
+        <l id="s2:l3" met="3" type="+-">In mijn sins <rhyme label="a" type="f" corresp="#s2:l1">behaegen</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">Stont geen liever <rhyme label="b" type="m" corresp="#s2:l2">jeught</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Die my mocht verblijden <rhyme label="c" type="m">gans</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Lijff, goet, en <rhyme label="d" type="f">leven</rhyme>,</l>
+        <l id="s2:l7" met="2" type="-+">Was haer <rhyme label="d" type="f" corresp="#s2:l6">gegeven</rhyme>;</l>
+        <l id="s2:l8" met="3" type="+-">Maer sy gaet <rhyme label="c" type="m" corresp="#s2:l5">nochtans</rhyme></l>
+        <l id="s2:l9" met="4" type="+-">Met een ander aenden <rhyme label="c" type="m" corresp="#s2:l5">dans</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="+-">Cupido Godt der <rhyme label="a" type="f">Minnen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Gy syt daer van de <rhyme label="b" type="m">schult</rhyme>,</l>
+        <l id="s3:l3" met="3" type="+-">Wat dat soet <rhyme label="a" type="f" corresp="#s3:l1">beginnen</rhyme></l>
+        <l id="s3:l4" met="3" type="+-">Is met leet <rhyme label="b" type="m" corresp="#s3:l2">vervult</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Haer wesen heeft my <rhyme label="c" type="m">verdooft</rhyme>;</l>
+        <l id="s3:l6" met="2" type="-+">Voor vaste <rhyme label="d" type="f">trauwe</rhyme>,</l>
+        <l id="s3:l7" met="2" type="-+">Geeft sy my <rhyme label="d" type="f" corresp="#s3:l6">rauwe</rhyme></l>
+        <l id="s3:l8" met="3" type="+-">Als mijn <rhyme label="c" type="m" corresp="#s3:l5">over-hooft</rhyme></l>
+        <l id="s3:l9" met="4" type="+-">k'En hadts nimmer-meer <rhyme label="c" type="m" corresp="#s3:l5">gelooft</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

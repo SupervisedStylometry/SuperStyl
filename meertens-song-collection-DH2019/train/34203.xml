@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34203</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>Partage librement</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Petrus Suetmans, Eustachius de Meyer</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">'Leander heel <rhyme label="a" type="m">vermoet</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Lest onder eenen <rhyme label="b" type="m">boom</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Lagh in een soeten <rhyme label="b" type="m" corresp="#s1:l2">droom</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Syn hert was vast <rhyme label="a" type="m" corresp="#s1:l1">gheboet</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Aen haer die hy <rhyme label="c" type="m">bemint</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Want hy aldus <rhyme label="c" type="m" corresp="#s1:l5">begint</rhyme>.</l>
+        <l id="s1:l7" met="3" type="-+">Myn lieve <rhyme label="d" type="m">roose-mont</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">U witte borstjens <rhyme label="d" type="m" corresp="#s1:l7">ront</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Hebben my 'thert <rhyme label="d" type="m" corresp="#s1:l7">doorwond</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">U kaecxkens in <rhyme label="a" type="m">karnaet</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Op een sneeuw witten <rhyme label="b" type="m">gront</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">En galmerycken <rhyme label="b" type="m" corresp="#s2:l2">mont</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">U vrindelyck <rhyme label="a" type="m" corresp="#s2:l1">ghelaet</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Dat sy't aen uwen <rhyme label="c" type="m">vrint</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">'kMin u soo ghy my <rhyme label="c" type="m" corresp="#s2:l5">mint</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Com boet u soete <rhyme label="d" type="m">lust</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Dat is myns herte <rhyme label="d" type="m" corresp="#s2:l7">rust</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">Dat ghy u nympghke <rhyme label="d" type="m" corresp="#s2:l7">kust</rhyme>,</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Ey, voeght u in het <rhyme label="a" type="m">groen</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">By my aertsche <rhyme label="b" type="m">Goddin</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Ghy zyt die ick <rhyme label="b" type="m" corresp="#s3:l2">bemin</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Ontfanght liefste een <rhyme label="a" type="m" corresp="#s3:l1">soen</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Gont my de <rhyme label="c" type="m">soetigheyt</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">d'Welck op u lipkens <rhyme label="c" type="m" corresp="#s3:l5">leyt</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">O hemel van myn <rhyme label="d" type="m">vreught</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">O oorsaeck myns <rhyme label="d" type="m" corresp="#s3:l7">geneugt</rhyme></l>
+        <l id="s3:l9" met="3" type="-+">Ghy zyt die my <rhyme label="d" type="m" corresp="#s3:l7">verheught</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Gheen soet en is soo <rhyme label="a" type="m">soet</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Als door u lipkens <rhyme label="b" type="m">vloyt</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Daer gy myn min mé <rhyme label="b" type="m" corresp="#s4:l2">voyt</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">U schoonheyt liefste <rhyme label="a" type="m" corresp="#s4:l1">doet</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">My prysen dien <rhyme label="c" type="m">dagh</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Als ick u eerstmael <rhyme label="c" type="m" corresp="#s4:l5">sagh</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Die vreught verdween seer <rhyme label="d" type="m">ras</rhyme>,</l>
+        <l id="s4:l8" met="3" type="-+">Want hy lagh in het <rhyme label="d" type="m" corresp="#s4:l7">gras</rhyme>,</l>
+        <l id="s4:l9" met="3" type="-+">En sagh dat droom maer <rhyme label="d" type="m" corresp="#s4:l7">was</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

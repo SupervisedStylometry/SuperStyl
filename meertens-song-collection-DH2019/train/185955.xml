@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185955</id>
+    <date>
+      <year-start>1717</year-start>
+      <year-end>1717</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Phyllis ik moet drinken</melody>
+  <author>Hermanus van den Burg</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">FIllis 'k moet drinken, <rhyme label="a" type="f">Rinkinken</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">Verteeren, En <rhyme label="b" type="f">smeeren</rhyme>:</l>
+        <l id="s1:l3" met="2" type="-+">Dies verg my <rhyme label="c" type="m">niet</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Dat ik myn jeugdige <rhyme label="d" type="f">leden</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">De Wellust ten dienst aan u zouw <rhyme label="d" type="f" corresp="#s1:l4">besteeden</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Want myn dorstige borst my die dwaasheit <rhyme label="c" type="m" corresp="#s1:l3">verbied</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8935</id>
+    <date>
+      <year-start>1625</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Gelobt seist du Jesu Christ</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DEn HEER te Loven zijt <rhyme label="a" type="m">bereydt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">In zijn hooghe <rhyme label="a" type="m" corresp="#s1:l1">Heylicheyt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Loofft hem syn Machtich <rhyme label="b" type="m">Firmament</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Loofft hem in synen Wercken <rhyme label="b" type="m" corresp="#s1:l3">Jent</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+"><rhyme label="c" type="m">Alleluya</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Syn sterckheyt Looft niet alder <rhyme label="a" type="m">Eer</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Syn Heerlickheyt langs hoe <rhyme label="a" type="m" corresp="#s2:l1">meer</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Looft hem met Basuynen <rhyme label="b" type="m">gheschal</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Met Psalter end met Harpen <rhyme label="b" type="m" corresp="#s2:l3">al</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+"><rhyme label="c" type="m">Alleluya</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Hem Looft met Snaren <rhyme label="a" type="m">men'gerley</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Met Cymb'len en vrolijck <rhyme label="a" type="m" corresp="#s3:l1">Rey</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Met Oorghelspel syn Loff hem <rhyme label="b" type="m">gheeft</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">Looft al den HEER wat Azem <rhyme label="b" type="m" corresp="#s3:l3">heeft</rhyme>.</l>
+        <l id="s3:l5" met="2" type="-+"><rhyme label="c" type="m">Alleluya</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

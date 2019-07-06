@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34621</id>
+    <date>
+      <year-start>1641</year-start>
+      <year-end>1641</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Guilelmus van der Borcht</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">AL sachtjens ! waer loopt ghy soo <rhyme label="a" type="m">vlugh</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En thoont aen my uw' snellen <rhyme label="a" type="m" corresp="#s1:l1">rugh</rhyme> ?</l>
+        <l id="s1:l3" met="4" type="-+">Daer 'k meynde u met laggen <rhyme label="b" type="m">moet</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Te vallen als een slaef te <rhyme label="b" type="m" corresp="#s1:l3">voet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Daer 'k meynde mijn blaeck'righ <rhyme label="a" type="m">hert'</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Op t'off'ren aen uw' ooghskens <rhyme label="a" type="m" corresp="#s2:l1">zwert</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Die glimmen als het vonckigh <rhyme label="b" type="m">vier</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Dat Cupidos altaer <rhyme label="b" type="m" corresp="#s2:l3">op-zwier</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Daer 'k meynde met eenen <rhyme label="a" type="m">stip</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Het honich van uw' roose <rhyme label="a" type="m" corresp="#s3:l1">lip</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Te suyghen, als de Biekens <rhyme label="b" type="m">aen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">De purper rooskens stelen <rhyme label="b" type="m" corresp="#s3:l3">gaen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Daer 'k meynde mijns zielens <rhyme label="a" type="m">kracht</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Te voeden aen u stuer <rhyme label="a" type="m" corresp="#s4:l1">ghedacht</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">En all' mijn smertigh <rhyme label="b" type="m">naer-ghedenck</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Te gheven u voor een <rhyme label="b" type="m" corresp="#s4:l3">gheschenck</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Waer loopt ghy dan sture <rhyme label="a" type="m">maeght</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Heeft u mijn klaght noch niet <rhyme label="a" type="m" corresp="#s5:l1">behaeght</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Maer vlucht ghy als den noordtschen <rhyme label="b" type="m">windt</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Wanneer hy alle vruchten <rhyme label="b" type="m" corresp="#s5:l3">schindt</rhyme> ?</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Eylacy ! s is uyt mijn <rhyme label="a" type="m">oogh</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">En ick vermaghert door den <rhyme label="a" type="m" corresp="#s6:l1">boogh</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Des kleynsten Godt, en kan niet <rhyme label="b" type="m">voordt</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Maer blijf hier snakend' naer mijn <rhyme label="b" type="m" corresp="#s6:l3">moordt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

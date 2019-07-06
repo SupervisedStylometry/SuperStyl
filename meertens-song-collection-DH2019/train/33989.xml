@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>33989</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
+    </tags>
+    <melody>Nerea schoonste van uw geburen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacob Rosant</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ALs Jesus van het <rhyme label="a" type="f">Avond-male</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Was op-gestaen, en wilde <rhyme label="b" type="m">gaen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Met sijn Discipels uyt de <rhyme label="a" type="f" corresp="#s1:l1">Sale</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Sprak hy haer voor het lest dus <rhyme label="b" type="m" corresp="#s1:l2">aen</rhyme>:</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Voorwaer, voorwaer, segh ik <rhyme label="a" type="f">u-lieden</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Soo gy yet van mijn Vader <rhyme label="b" type="m">eyst</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">In mijnen Naem, hy sal 't u <rhyme label="a" type="f" corresp="#s2:l1">bieden</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">En geeven u al wat gy <rhyme label="b" type="m" corresp="#s2:l2">peyst</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Tot nogh toe hebt gy niet <rhyme label="a" type="f">gebeede</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">In mijnen Naem: bidt, en gy <rhyme label="b" type="m">sult</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Verkrijgen, dat uw <rhyme label="a" type="f" corresp="#s3:l1">vroolijkheede</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Nogh eens magh werden heel <rhyme label="b" type="m" corresp="#s3:l2">vervult</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">In spreuken plaght ik dit te <rhyme label="a" type="f">spreeken</rhyme>:</l>
+        <l id="s4:l2" met="4" type="-+">Maer d' uere komt dat ik daer <rhyme label="b" type="m">naer</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Niet meer sal in bedekte <rhyme label="a" type="f" corresp="#s4:l1">streeken</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Maer klaer sal spreeken van mijn <rhyme label="b" type="m" corresp="#s4:l2">Vaêr</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Dan sult gy bidden in mijn <rhyme label="a" type="f">Name</rhyme>;</l>
+        <l id="s5:l2" met="4" type="-+">Ik segh nu niet dat ik den <rhyme label="b" type="m">Vaêr</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Voor u sal bidden, hy u <rhyme label="a" type="f" corresp="#s5:l1">t'same</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Selfs hartelijk bemindt, <rhyme label="b" type="m" corresp="#s5:l2">voorwaer</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Om dat g' hebt liefde en <rhyme label="a" type="f">geloove</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Als dat ik ben van Godt den <rhyme label="b" type="m">Heer</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Ik van mijn Vader ben van <rhyme label="a" type="f" corresp="#s6:l1">boove</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Gekoomen op dees weerelt <rhyme label="b" type="m" corresp="#s6:l2">neer</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Ik van de weerelt weer <rhyme label="a" type="f">verscheyde</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">En mijn vertrecke nae den <rhyme label="b" type="m">Vaêr</rhyme>;</l>
+        <l id="s7:l3" met="4" type="-+">En sijn Discipulen die <rhyme label="a" type="f" corresp="#s7:l1">seyde</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Siet nu spreekt gy in 't <rhyme label="b" type="m" corresp="#s7:l2">openbaer</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Gy spreekt nu geen bedekte <rhyme label="a" type="f">reeden</rhyme>,</l>
+        <l id="s8:l2" met="4" type="-+">Nu weet men dat gy alles <rhyme label="b" type="m">weet</rhyme>,</l>
+        <l id="s8:l3" met="4" type="-+">Men hoeft met <rhyme label="a" type="f" corresp="#s8:l1">twijffelaghtigheeden</rhyme></l>
+        <l id="s8:l4" met="4" type="-+">U niet te vragen meer <rhyme label="b" type="m" corresp="#s8:l2">bescheet</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Hier in wy looven met goe' <rhyme label="a" type="f">blijke</rhyme>,</l>
+        <l id="s9:l2" met="4" type="-+">Dat gy van Godt sijt <rhyme label="b" type="m">uyt-gegaen</rhyme>.</l>
+        <l id="s9:l3" met="4" type="-+">Heer Jesus antwoort <rhyme label="a" type="f" corresp="#s9:l1">datelijke</rhyme>,</l>
+        <l id="s9:l4" met="4" type="-+">Hebt gy 't geloove nu <rhyme label="b" type="m" corresp="#s9:l2">ontfaen</rhyme>?</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">De uer komt, dat gy al <rhyme label="a" type="f">gemeene</rhyme></l>
+        <l id="s10:l2" met="4" type="-+">Nogh hier en daer verstroyt sult <rhyme label="b" type="m">sijn</rhyme>,</l>
+        <l id="s10:l3" met="4" type="-+">En laten mijn alsoo <rhyme label="a" type="f" corresp="#s10:l1">alleene</rhyme>:</l>
+        <l id="s10:l4" met="4" type="-+">Maer mijnen Vader is met <rhyme label="b" type="m" corresp="#s10:l2">mijn</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="-+">Dees dingen heb ik u <rhyme label="a" type="f">gesprooken</rhyme>,</l>
+        <l id="s11:l2" met="4" type="-+">Op dat gy al-te-mael in <rhyme label="b" type="m">mijn</rhyme></l>
+        <l id="s11:l3" met="4" type="-+">Soudt vreede hebben <rhyme label="a" type="f" corresp="#s11:l1">ongebrooken</rhyme>:</l>
+        <l id="s11:l4" met="4" type="-+">Verdrukt sult g' op de weerelt <rhyme label="b" type="m" corresp="#s11:l2">sijn</rhyme>.</l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="4" type="-+">De werelt hebbe ik <rhyme label="a" type="f">verwonnen</rhyme>,</l>
+        <l id="s12:l2" met="4" type="-+">Dus vastelijk op mijn <rhyme label="b" type="m">betrouwt</rhyme>.</l>
+        <l id="s12:l3" met="4" type="-+">Heer, geeft ons dat wy met u <rhyme label="a" type="f" corresp="#s12:l1">konnen</rhyme></l>
+        <l id="s12:l4" met="4" type="-+">De weerelt ook veraghten <rhyme label="b" type="m" corresp="#s12:l2">stoudt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

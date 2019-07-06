@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34633</id>
+    <date>
+      <year-start>1641</year-start>
+      <year-end>1641</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Vlied heen droeve zuchtjes</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Guilelmus van der Borcht</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">DOen uw' blixems <rhyme label="a" type="f">slaghen</rhyme></l>
+        <l id="s1:l2" met="8" type="+-">Quamen door 't gesicht veel vlocken viers my in mijn zieltjen <rhyme label="b" type="f">staken</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Stuerd' ick tot uw' <rhyme label="a" type="f" corresp="#s1:l1">klaghen</rhyme></l>
+        <l id="s1:l4" met="8" type="+-">Tuyghen van 't ghemoet, loncken van mijn oogh', maer sy noyt <rhyme label="b" type="f" corresp="#s1:l2">gebroken</rhyme></l>
+        <l id="s1:l5" met="6" type="+-">Hebben 't ysigh hert', dat bevrosen niet en <rhyme label="c" type="m">doodt</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Maer met sneeuwe <rhyme label="d" type="m">wacht</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">All' 's liefdens <rhyme label="d" type="m" corresp="#s1:l6">kracht</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Verjaeght van uwen <rhyme label="c" type="m" corresp="#s1:l5">schoot</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Tintelende <rhyme label="a" type="f">vuertjens</rhyme></l>
+        <l id="s2:l2" met="8" type="+-">Doet ghenad' aen my, my die verbrandt, en gheenen troost in 't <rhyme label="b" type="f">blaken</rhyme></l>
+        <l id="s2:l3" met="3" type="+-">En hebb', als des <rhyme label="a" type="f" corresp="#s2:l1">gluertjens</rhyme></l>
+        <l id="s2:l4" met="8" type="+-">En 't sien van den glans, die my soo treckt, en lockt om te <rhyme label="b" type="f" corresp="#s2:l2">ghenaken</rhyme></l>
+        <l id="s2:l5" met="6" type="+-">Lipp'kens van uw' mondt, en de stipkens van uw' <rhyme label="c" type="m">lipp'</rhyme>,</l>
+        <l id="s2:l6" met="3" type="+-">Daer ick alle <rhyme label="d" type="m">goedt</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">En 't soetste <rhyme label="d" type="m" corresp="#s2:l6">soet</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Met mijne lipp'kens <rhyme label="c" type="m" corresp="#s2:l5">kip</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="+-">Plaetsers van min <rhyme label="a" type="f">minnen</rhyme>,</l>
+        <l id="s3:l2" met="8" type="+-">Komt geneest mijn wond', komt helpt mijn smert', en d'adem-treckend' <rhyme label="b" type="f">geesten</rhyme></l>
+        <l id="s3:l3" met="3" type="+-">Sendt die doch eens <rhyme label="a" type="f" corresp="#s3:l1">binnen</rhyme>,</l>
+        <l id="s3:l4" met="8" type="+-">Binnen in mijn hert', daer sullen sy door hunne kracht de <rhyme label="b" type="f" corresp="#s3:l2">meesten</rhyme></l>
+        <l id="s3:l5" met="6" type="+-">Qualen helpen, die oyt een' meester heeft <rhyme label="c" type="m">gheheelt</rhyme>:</l>
+        <l id="s3:l6" met="3" type="+-">Komt dan mijn <rhyme label="d" type="m">meesters'</rhyme>,</l>
+        <l id="s3:l7" met="2" type="-+">Mijn liefd' is <rhyme label="d" type="m" corresp="#s3:l6">versch</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Aen u ten danck <rhyme label="c" type="m" corresp="#s3:l5">ghedeelt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

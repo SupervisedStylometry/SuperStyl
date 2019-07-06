@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175129</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wat zijt gij vroeg al in de <rhyme label="a" type="m">weêr</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Wat vliegt gij juichend af en <rhyme label="b" type="m">aan</rhyme>!</l>
+        <l id="s1:l3" met="4" type="-+">Hoe vroeg of ik ook op moog' <rhyme label="b" type="m" corresp="#s1:l2">staan</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Gij, leeuwrik! wint het ieder <rhyme label="a" type="m" corresp="#s1:l1">keer</rhyme>!</l>
+        <l id="s1:l5" met="4" type="-+">Wat jaagt zoo gaauw u 't leger <rhyme label="c" type="m">uit</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">En wat beduidt uw blij <rhyme label="c" type="m" corresp="#s1:l5">geluid</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">- Wel, kind! als in de heldre <rhyme label="a" type="m">lucht</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Het ochtendlicht zijn stralen <rhyme label="b" type="m">giet</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Dan houdt mijn bed mij langer <rhyme label="b" type="m" corresp="#s2:l2">niet</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">En 'k stijg omhoog met snelle <rhyme label="a" type="m" corresp="#s2:l1">vlugt</rhyme>;</l>
+        <l id="s2:l5" met="4" type="-+">En, zwevend naar des hemels <rhyme label="c" type="m">boog</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Rijst ook mijn lied tot God <rhyme label="c" type="m" corresp="#s2:l5">omhoog</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Geloof me, ik weet het, lieve <rhyme label="a" type="m">kind</rhyme>!</l>
+        <l id="s3:l2" met="4" type="-+">Hem gaat het daaglijks zeker <rhyme label="b" type="m">goed</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Die 't eerst het morgenlicht <rhyme label="b" type="m" corresp="#s3:l2">begroet</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">En met Gods lof den dag <rhyme label="a" type="m" corresp="#s3:l1">begint</rhyme>...</l>
+        <l id="s3:l5" met="4" type="-+">Al blijft dat lied ook laag bij de <rhyme label="c" type="m">aard'</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Gods Englen dragen 't <rhyme label="c" type="m" corresp="#s3:l5">Hemelwaart</rhyme>. -</l>
+      </lg>
+    </lg>
+  </text>
+</song>

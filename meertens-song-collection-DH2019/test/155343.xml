@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>155343</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Het vinnige stralen van de zon</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ALs Saul sijn verlooren <rhyme label="a" type="m">Vee</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Soekt weder te <rhyme label="b" type="f">bekomen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Hy daer toe vele moeyten <rhyme label="a" type="m" corresp="#s1:l1">dee</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Heeft over al <rhyme label="b" type="f" corresp="#s1:l2">vernomen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Doch waer hy sochte, en <rhyme label="a" type="m">vernam</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Hy quam niet daer zy <rhyme label="b" type="f">waren</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Tot hy by Godts Prophete <rhyme label="a" type="m" corresp="#s2:l1">quam</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Die 't hem deed <rhyme label="b" type="f" corresp="#s2:l2">openbaren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Die oock in dese Wereldt <rhyme label="a" type="m">soeckt</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Na lust en rust der <rhyme label="b" type="f">vromen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Hoe neerstigh dat hy hem <rhyme label="a" type="m" corresp="#s3:l1">verkloeckt</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Hy sal het niet <rhyme label="b" type="f" corresp="#s3:l2">bekomen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Maer men vindt vreught, en <rhyme label="a" type="m">Sielen-heyl</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">In Godts-gewijde <rhyme label="b" type="f">Blad'ren</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Daer is volmaeckte lust in <rhyme label="a" type="m" corresp="#s4:l1">veyl</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Voor haer, die daer tot <rhyme label="b" type="f" corresp="#s4:l2">nad'ren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

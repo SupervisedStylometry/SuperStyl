@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>183945</id>
+    <date>
+      <year-start>1806</year-start>
+      <year-end>1806</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Accourer tous Maçons</melody>
+  <author>Jan Steven van Esveldt Holtrop, Willem Holtrop</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Accourez tous, Maçons, venez <rhyme label="a" type="m">tous</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Venez jouir des plaisirs les plus <rhyme label="a" type="m" corresp="#s1:l1">doux</rhyme>!</l>
+        <l id="s1:l3" met="5" type="-+">Que les hautbois, la trompette et le <rhyme label="b" type="m">tambour</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Se succèdent tour à <rhyme label="b" type="m" corresp="#s1:l3">tour</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Pour célèbrer ce grand <rhyme label="b" type="m" corresp="#s1:l3">jour</rhyme>.</l>
+        <l id="s1:l6" met="3" type="+-">Tous de concert <rhyme label="c" type="m">chantons</rhyme>,</l>
+        <l id="s1:l7" met="2" type="+-"><rhyme label="c" type="m" corresp="#s1:l6">Célébrons</rhyme>,</l>
+        <l id="s1:l8" met="6" type="+-">Par nos voix et par le feu de nos <rhyme label="c" type="m" corresp="#s1:l6">canons</rhyme>,</l>
+        <l id="s1:l9" met="6" type="-+">Les plaisirs pleins de charmes, dont jouissent les <rhyme label="c" type="m" corresp="#s1:l6">Maçons</rhyme>.</l>
+        <l id="s1:l10" met="2" type="+-">Loin de ces <rhyme label="d" type="m">lieux</rhyme></l>
+        <l id="s1:l11" met="2" type="+-">Les <rhyme label="d" type="m" corresp="#s1:l10">hargneux</rhyme></l>
+        <l id="s1:l12" met="2" type="+-">Les <rhyme label="d" type="m" corresp="#s1:l10">grogneux</rhyme>,</l>
+        <l id="s1:l13" met="2" type="+-">Les <rhyme label="d" type="m" corresp="#s1:l10">quinteux</rhyme>,</l>
+        <l id="s1:l14" met="2" type="+-">Les <rhyme label="d" type="m" corresp="#s1:l10">fâcheux</rhyme></l>
+        <l id="s1:l15" met="3" type="-+">Et tous ces gens <rhyme label="d" type="m" corresp="#s1:l10">ennuyeux</rhyme>.</l>
+        <l id="s1:l16" met="4" type="-+">Chers Maçons, notre <rhyme label="e" type="m">bonbeur</rhyme></l>
+        <l id="s1:l17" met="2" type="-+">Est dans le <rhyme label="e" type="m" corresp="#s1:l16">coeur</rhyme>;</l>
+        <l id="s1:l18" met="4" type="-+">Goûtons- en toute la <rhyme label="e" type="m" corresp="#s1:l16">douceur</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

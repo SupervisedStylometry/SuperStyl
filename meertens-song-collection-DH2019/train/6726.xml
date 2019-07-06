@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6726</id>
+    <date>
+      <year-start>1620</year-start>
+      <year-end>1620</year-end>
+    </date>
+    <location>
+      <orginal-name>gent</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Gegroet wees koningin</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Justus de Harduwijn</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">GHegroet weest <rhyme label="a" type="f">Coninghinne</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Die Moeder sijt vol van ghenaed’ en <rhyme label="a" type="f" corresp="#s1:l1">minne</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Weest oock ghegroet soetheydt, en <rhyme label="b" type="f">leven</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Die voor ons sijt// een hope altijt// <rhyme label="b" type="f" corresp="#s1:l3">ghegheven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Tot u doen wy ons <rhyme label="a" type="f">stemmen</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Schoon-suyuer Bruyd dagh ende nacht <rhyme label="a" type="f" corresp="#s2:l1">op-clemmen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Woelend’ hier, laes! onder Gods <rhyme label="b" type="f">thoren</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Als kinders quaet// uyt Adams saet// <rhyme label="b" type="f" corresp="#s2:l3">gheboren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Tot u ist dat wy <rhyme label="a" type="f">vluchten</rhyme>:</l>
+        <l id="s3:l2" met="5" type="-+">Tot u ist dat wy quelen, ende <rhyme label="a" type="f" corresp="#s3:l1">suchten</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Want ons gheensins en kan <rhyme label="b" type="f">ghereyen</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Dit dal waer d’oogh// nooyt en is droogh// van <rhyme label="b" type="f" corresp="#s3:l3">schreyen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Wel aen schoon <rhyme label="a" type="f">uyt-ghelesen</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Om by den Heer ons tael-Vrouwe te <rhyme label="a" type="f" corresp="#s4:l1">wesen</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">Ghehinght u ons bermhertigh <rhyme label="b" type="f">ooghen</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">Uyt uwen throon// als Sonnen schoon// te <rhyme label="b" type="f" corresp="#s4:l3">tooghen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">En laet oock eens <rhyme label="a" type="f">ghedijen</rhyme>,</l>
+        <l id="s5:l2" met="5" type="-+">Dat wy verlost uyt ‘tiock der <rhyme label="a" type="f" corresp="#s5:l1">slaeuernijen</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Iesum aensien onsen <rhyme label="b" type="f">behoeder</rhyme>,</l>
+        <l id="s5:l4" met="5" type="-+">Die ghy ter aerdt// ons hebt ghebaerdt// als <rhyme label="b" type="f" corresp="#s5:l3">Moeder</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Maria vol van <rhyme label="a" type="f">vrede</rhyme>,</l>
+        <l id="s6:l2" met="5" type="-+">Vol sachten moed, en vol <rhyme label="a" type="f" corresp="#s6:l1">god-vruchtichede</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Maria soet, tot wie wy <rhyme label="b" type="f">vlieden</rhyme>,</l>
+        <l id="s6:l4" met="5" type="-+">Laet dese vreughd// tot onser deughd// <rhyme label="b" type="f" corresp="#s6:l3">gheschieden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

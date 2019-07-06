@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14496</id>
+    <date>
+      <year-start>1638</year-start>
+      <year-end>1638</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+    </tags>
+    <melody>Ik lijd in het hart pijn ongewoon</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Aegidius Haeffacker</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Maeght, Cunera, <rhyme label="a" type="m">onversaeght</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">Godts Bruydt <rhyme label="b" type="f">verheven</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Ghy scheent <rhyme label="b" type="f" corresp="#s1:l2">verdreven</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Als al uw' vrienden u hadden <rhyme label="b" type="f" corresp="#s1:l2">begeven</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">En ghy ghevanghen <rhyme label="c" type="m">waert</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">By d' Heydens boos van <rhyme label="c" type="m" corresp="#s1:l5">aert</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Alleyn <rhyme label="b" type="f" corresp="#s1:l2">ghebleven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Maer Godt, dien ghy had, voor een <rhyme label="a" type="m">lot</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">Van joncks <rhyme label="b" type="f">verkooren</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">U niet <rhyme label="b" type="f" corresp="#s2:l2">verlooren</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Ghelaten heeft, noch oock te hoogh <rhyme label="b" type="f" corresp="#s2:l2">bekooren</rhyme>:</l>
+        <l id="s2:l5" met="3" type="-+">Uw' vyanden, met <rhyme label="c" type="m">vreughd</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Bedwinght ghy, door de <rhyme label="c" type="m" corresp="#s2:l5">deughd</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">U <rhyme label="b" type="f" corresp="#s2:l2">aenghebooren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Met vlijt, ghy sober altijdt <rhyme label="a" type="m">zijt</rhyme>,</l>
+        <l id="s3:l2" met="2" type="-+">Suyver, <rhyme label="b" type="f">ootmoedigh</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">Tot aelmis <rhyme label="b" type="f" corresp="#s3:l2">spoedigh</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Voor alle menschen een exempel <rhyme label="b" type="f" corresp="#s3:l2">goedig</rhyme>:</l>
+        <l id="s3:l5" met="3" type="-+">Oock voor <rhyme label="c" type="m">rechtveerdigheydt</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Gheleden, wel <rhyme label="c" type="m" corresp="#s3:l5">bereydt</rhyme>,</l>
+        <l id="s3:l7" met="2" type="-+">Door nijdt <rhyme label="b" type="f" corresp="#s3:l2">weemoedigh</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Wilt, Heer, ons daeghlijcks meer en <rhyme label="a" type="m">meer</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">In deughd <rhyme label="b" type="f">verstercken</rhyme>,</l>
+        <l id="s4:l3" met="2" type="-+">Door goede <rhyme label="b" type="f" corresp="#s4:l2">wercken</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">Dat wy, vroom strijdende in 's werelts <rhyme label="b" type="f" corresp="#s4:l2">percke</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Ontfanghen voor ons <rhyme label="c" type="m">loon</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Der Maeghden goude <rhyme label="c" type="m" corresp="#s4:l5">kroon</rhyme>,</l>
+        <l id="s4:l7" met="2" type="-+">Schoon om t' <rhyme label="b" type="f" corresp="#s4:l2">aenmercken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

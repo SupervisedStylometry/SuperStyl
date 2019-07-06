@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12591</id>
+    <date>
+      <year-start>1642</year-start>
+      <year-end>1642</year-end>
+    </date>
+    <location>
+      <orginal-name>vlissingen</orginal-name>
+      <standard-name>Vlissingen, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.4609007</lon>
+        <lat>3.5713468</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Rozemond die lag gedoken</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">DIe dit Godt van herten <rhyme label="a" type="f">minnen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Met een vast vertrouwen <rhyme label="b" type="m">goet</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Niemandt kan haer <rhyme label="a" type="f" corresp="#s1:l1">overwinnen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Wie ist die haer hinder <rhyme label="b" type="m" corresp="#s1:l2">doet</rhyme>?</l>
+        <l id="s1:l5" met="4" type="+-">Want de Hoeder Iacobs <rhyme label="c" type="m">sterck</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Is haer heyl en <rhyme label="c" type="m" corresp="#s1:l5">bollewerck</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Hy die alles heeft <rhyme label="a" type="f">gheschapen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Neemt die volck'ren in <rhyme label="b" type="m">beschut</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Hy die is haer schilt en <rhyme label="a" type="f" corresp="#s2:l1">wapen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">En hy leytse in haer <rhyme label="b" type="m" corresp="#s2:l2">hut</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">En vermorselt alle <rhyme label="c" type="m">macht</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Die na haer verderven <rhyme label="c" type="m" corresp="#s2:l5">tracht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Wel dan volck'ren <rhyme label="a" type="f">uytverkoren</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Priesterlick beroepen <rhyme label="b" type="m">Saet</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Die niet gaen en kond' <rhyme label="a" type="f" corresp="#s3:l1">verloren</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Laet u dreyghen alle <rhyme label="b" type="m" corresp="#s3:l2">quaet</rhyme>:</l>
+        <l id="s3:l5" met="4" type="+-">Wilter niet verschricken <rhyme label="c" type="m">van</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Want u niemandt hind'ren <rhyme label="c" type="m" corresp="#s3:l5">kan</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Wilt doch nerghens niet voor <rhyme label="a" type="f">vreesen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Hy is uwen grooten <rhyme label="b" type="m">loon</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Hy die was en is en <rhyme label="a" type="f" corresp="#s4:l1">wesen</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Sal, oock na des Hemels <rhyme label="b" type="m" corresp="#s4:l2">Troon</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">Kan vernielen met <rhyme label="c" type="m">verdriet</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Voor sijn Oogh wie hy <rhyme label="c" type="m" corresp="#s4:l5">aensiet</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Komt dan sijn verkoren <rhyme label="a" type="f">kind'ren</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Die een lust heb in sijn <rhyme label="b" type="m">Woordt</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Dat u niemandt niet sal <rhyme label="a" type="f" corresp="#s5:l1">hind'ren</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Wandelt in sijn liefde <rhyme label="b" type="m" corresp="#s5:l2">voort</rhyme>,</l>
+        <l id="s5:l5" met="4" type="+-">Duyvel, hel noch sond' noch <rhyme label="c" type="m">doodt</rhyme></l>
+        <l id="s5:l6" met="4" type="+-">Kan u maecken genen <rhyme label="c" type="m" corresp="#s5:l5">noot</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

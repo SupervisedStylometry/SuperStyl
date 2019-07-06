@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>11391</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">ACh! mijn lief, wat lieffelijke <rhyme label="a" type="f">lonken</rhyme></l>
+        <l id="s1:l2" met="5" type="+-">Schiet gy uyt u Hemels zoet <rhyme label="b" type="m">gezicht</rhyme>;</l>
+        <l id="s1:l3" met="3" type="-+">Als dauw de roode <rhyme label="c" type="m">Roos</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Verquikt, zoo doet <rhyme label="c" type="m" corresp="#s1:l3">altoos</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Mijn u gezicht de Ziel <rhyme label="a" type="f" corresp="#s1:l1">ontfonken</rhyme>:</l>
+        <l id="s1:l6" met="3" type="+-">Ach! ik brand, van <rhyme label="d" type="m">Min</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Om u Hemelze <rhyme label="d" type="m" corresp="#s1:l6">Goddin</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Laat u ooge doch eens op mijn <rhyme label="a" type="f">daalen</rhyme>,</l>
+        <l id="s2:l2" met="5" type="+-">En verheugt mijn door u zoete <rhyme label="b" type="m">taal</rhyme>;</l>
+        <l id="s2:l3" met="3" type="-+">Want met u zoete <rhyme label="c" type="m">tong</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Gy 't harte mijn zoo <rhyme label="c" type="m" corresp="#s2:l3">dwong</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Dat mijn by na de zinne <rhyme label="a" type="f" corresp="#s2:l1">dwaalen</rhyme>:</l>
+        <l id="s2:l6" met="3" type="+-">Ja, Hart, Ziel en <rhyme label="d" type="m">Zin</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">Was in 't Dool - hof van de <rhyme label="d" type="m" corresp="#s2:l6">Min</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">Nu zoo schep ik weêr een groot <rhyme label="a" type="f">vermaak</rhyme>;</l>
+        <l id="s3:l2" met="5" type="+-">Want ik zie mijn Engel weêr - liefd' <rhyme label="b" type="m">toont</rhyme>.</l>
+        <l id="s3:l3" met="3" type="-+">Ach! Hemel, wat een <rhyme label="c" type="m">vreugt</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Geniet ik door dees <rhyme label="c" type="m" corresp="#s3:l3">deugt</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Vermits ik tot mijn wensch zal <rhyme label="a" type="f" corresp="#s3:l1">raaken</rhyme>,</l>
+        <l id="s3:l6" met="3" type="+-">En in plaats van <rhyme label="d" type="m">druk</rhyme></l>
+        <l id="s3:l7" met="4" type="+-">Schenkt ons Hemel doch <rhyme label="d" type="m" corresp="#s3:l6">geluk</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

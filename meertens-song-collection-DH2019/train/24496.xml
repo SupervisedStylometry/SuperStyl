@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24496</id>
+    <date>
+      <year-start>1596</year-start>
+      <year-end>1596</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+      <tag standard-name="rederijkerslied" translation="rhetorician song">rederijkerslied</tag>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+    </tags>
+    <melody>Houd aan ik zal u zingen voor</melody>
+    <categories>
+      <category translation="groups">groepen</category>
+      <category translation="amusement">vermaak</category>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Pieter Cornelisz. van der Morsch</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">VErblijt// u nu ghy malle <rhyme label="a" type="f">keyen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Tis tijt// te comen binnen <rhyme label="a" type="f" corresp="#s1:l1">Leyen</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Te doen u Sot <rhyme label="a" type="f" corresp="#s1:l1">Intreyen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Verbeyen// salt Ionckheer <rhyme label="b" type="m">Mors</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Die hem soect te vermeyen// <rhyme label="b" type="m" corresp="#s1:l4">cors</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Al met Vrou <rhyme label="b" type="m" corresp="#s1:l4">Lors</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hoe forts// v molens mogen <rhyme label="a" type="f">malen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Niet norts// zijt binnen onse <rhyme label="a" type="f" corresp="#s2:l1">palen</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Maer laet in u toch <rhyme label="a" type="f" corresp="#s2:l1">stralen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">En dalen// het soet <rhyme label="b" type="m">geluyt</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">So moocht ghy spelen met de <rhyme label="b" type="m" corresp="#s2:l4">Bruyt</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Een Sotten <rhyme label="b" type="m" corresp="#s2:l4">cluyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Die schuyt// daer wy mee sullen <rhyme label="a" type="f">varen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Is wt// om tvolck te <rhyme label="a" type="f" corresp="#s3:l1">vergaren</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Dus wilt u sotheyt <rhyme label="a" type="f" corresp="#s3:l1">baren</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">En sparen// hier gelt noch <rhyme label="b" type="m">goet</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">Dient toch mijn Heer van selden <rhyme label="b" type="m" corresp="#s3:l4">vroet</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">Dat malle <rhyme label="b" type="m" corresp="#s3:l4">bloet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ick moet// wat op u Zotheyt <rhyme label="a" type="f">achten</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Ghebroet// zijt ghy van <rhyme label="a" type="f" corresp="#s4:l1">geslachten</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Die ons aldaer met <rhyme label="a" type="f" corresp="#s4:l1">machten</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Sal wachten, als Prins van <rhyme label="b" type="m">Mal</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">Die oock ter Bruyloft wesen <rhyme label="b" type="m" corresp="#s4:l4">sal</rhyme></l>
+        <l id="s4:l6" met="2" type="-+">Met groot <rhyme label="b" type="m" corresp="#s4:l4">ghetal</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

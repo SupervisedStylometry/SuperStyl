@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13881</id>
+    <date>
+      <year-start>1646</year-start>
+      <year-end>1646</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>Wanneer de zon zijn paarden ment</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DE Goden quamen eens te <rhyme label="a" type="m">saem</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">In ‘s Hemels <rhyme label="b" type="m">Opper-zael</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Om nutten met gheneught <rhyme label="a" type="m" corresp="#s1:l1">bequaem</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Een heerlijck <rhyme label="b" type="m" corresp="#s1:l2">Avondtmael</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">De Rey vergaert, men <rhyme label="c" type="f">deckter</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">De Tafel, sonder <rhyme label="d" type="m">rouw</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">En d’Ambrosijn en <rhyme label="c" type="f" corresp="#s1:l5">Nectar</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Die vloeyden als den <rhyme label="d" type="m" corresp="#s1:l6">douw</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Men schikten zich aldaer ten <rhyme label="a" type="m">Dis</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Men at, men dronck, men <rhyme label="b" type="m">loegh</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Gheen dinghen hier ghebrack <rhyme label="a" type="m" corresp="#s2:l1">ghewis</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Daer was van all’s <rhyme label="b" type="m" corresp="#s2:l2">ghenoegh</rhyme>:</l>
+        <l id="s2:l5" met="3" type="-+">Men gingh de zinnen <rhyme label="c" type="f">scherpen</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Doen ‘t Mael nauw’ was <rhyme label="d" type="m">gedaen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">En op den toon van <rhyme label="c" type="f" corresp="#s2:l5">Herpen</rhyme>.</l>
+        <l id="s2:l8" met="3" type="-+">En Fluyten, vanghen <rhyme label="d" type="m" corresp="#s2:l6">aen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Een fraeyen Dans: terwijl men <rhyme label="a" type="m">zong</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Vrouw-Venus, soete <rhyme label="b" type="m">Snol</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Die maeckten meen’gen schoonen <rhyme label="a" type="m" corresp="#s3:l1">sprong</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">En luchte <rhyme label="b" type="m" corresp="#s3:l2">Cabriol</rhyme>:</l>
+        <l id="s3:l5" met="3" type="-+">Maer Momus in een <rhyme label="c" type="f">hoecxken</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Riep duydelijck en <rhyme label="d" type="m">plat</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">‘t Ghekraeck van Venus <rhyme label="c" type="f" corresp="#s3:l5">Schoenken</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Den Dans bedorven <rhyme label="d" type="m" corresp="#s3:l6">had</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

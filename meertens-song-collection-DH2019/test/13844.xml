@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13844</id>
+    <date>
+      <year-start>1646</year-start>
+      <year-end>1646</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>Guillemette</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">WAnneer <rhyme label="a" type="f">Aurora</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Haer Tranen had <rhyme label="b" type="m">geschreyt</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">En die op <rhyme label="a" type="f" corresp="#s1:l1">Flora</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Seer lieffelijck <rhyme label="b" type="m" corresp="#s1:l2">verbreydt</rhyme>:</l>
+        <l id="s1:l5" met="3" type="-+">Ging ick in <rhyme label="b" type="m" corresp="#s1:l2">eenigheydt</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Langhst den <rhyme label="a" type="f" corresp="#s1:l1">Oceana</rhyme>,</l>
+        <l id="s1:l7" met="3" type="+-">By een brave <rhyme label="b" type="m" corresp="#s1:l2">Meyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Ick sey, wel <rhyme label="a" type="f">Meysje</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Mijn over-soete <rhyme label="b" type="m">Dier</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Ey, seght een <rhyme label="a" type="f" corresp="#s2:l1">reysje</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Hoe komj’ alleenigh <rhyme label="b" type="m" corresp="#s2:l2">hier</rhyme>?</l>
+        <l id="s2:l5" met="3" type="-+">Ach! vreesje niet een <rhyme label="b" type="m" corresp="#s2:l2">Sier</rhyme></l>
+        <l id="s2:l6" met="3" type="+-">(Iou jonck en jeuhdich <rhyme label="a" type="f" corresp="#s2:l1">Vleysje</rhyme>)</l>
+        <l id="s2:l7" met="3" type="+-">Voor het geijl <rhyme label="b" type="m" corresp="#s2:l2">gheswier</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Doen gaf sy <rhyme label="a" type="f">reden</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">En sey, al op mijn <rhyme label="b" type="m">vraegh</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">Mijn jonghe <rhyme label="a" type="f" corresp="#s3:l1">Leden</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Die swerven alle <rhyme label="b" type="m" corresp="#s3:l2">daegh</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Door Berghen, Bosch en <rhyme label="b" type="m" corresp="#s3:l2">Haegh</rhyme>,</l>
+        <l id="s3:l6" met="3" type="+-">Tot den dagh van <rhyme label="a" type="f" corresp="#s3:l1">heden</rhyme>,</l>
+        <l id="s3:l7" met="3" type="+-">Is dat niet een <rhyme label="b" type="m" corresp="#s3:l2">plaegh</rhyme>?</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">En om te <rhyme label="a" type="f">rusten</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Soo kom ick hier <rhyme label="b" type="m">ghegaen</rhyme>,</l>
+        <l id="s4:l3" met="2" type="-+">Om (als ‘t my <rhyme label="a" type="f" corresp="#s4:l1">lusten</rhyme>)</l>
+        <l id="s4:l4" met="3" type="-+">Mijn Lichaem eens te <rhyme label="b" type="m" corresp="#s4:l2">ba’en</rhyme>.</l>
+        <l id="s4:l5" met="3" type="-+">Met ick dat had’ <rhyme label="b" type="m" corresp="#s4:l2">verstaen</rhyme></l>
+        <l id="s4:l6" met="3" type="+-">Ick haer Lipjes <rhyme label="a" type="f" corresp="#s4:l1">kusten</rhyme>,</l>
+        <l id="s4:l7" met="3" type="+-">Gingh daer strack van <rhyme label="b" type="m" corresp="#s4:l2">daen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

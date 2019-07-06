@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12109</id>
+    <date>
+      <year-start>1617</year-start>
+      <year-end>1617</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Puer natus in Bethleem</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ISt lief, ist leet, ist soet oft <rhyme label="a" type="m">suer</rhyme>’,</l>
+        <l id="s1:l2" met="4" type="-+">In pijne, droefheyt, <rhyme label="b" type="m">ongheval</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Och ‘tis alleens is’t liefde <rhyme label="a" type="m" corresp="#s1:l1">puer</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Dat heete vier verteeret <rhyme label="b" type="m" corresp="#s1:l2">al</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die Liefde rust op een puer <rhyme label="a" type="m">niet</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Die Liefde groeyt deur alle <rhyme label="b" type="m">leet</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Het cruys is haer een soet <rhyme label="a" type="m" corresp="#s2:l1">verdriet</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">De Liefde staet tot al <rhyme label="b" type="m" corresp="#s2:l2">bereet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">De liefde wint dat sy <rhyme label="a" type="m">verliest</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Die Liefde blijft al euen <rhyme label="b" type="m">rijck</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">De liefde laet dat sy <rhyme label="a" type="m" corresp="#s3:l1">verkiest</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">De Liefde staet in als <rhyme label="b" type="m" corresp="#s3:l2">ghelijck</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Het lijden is haer soeten <rhyme label="a" type="m">dranck</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Soo soet als honich inden <rhyme label="b" type="m">mont</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">Still’ swijghen is haer soeten <rhyme label="a" type="m" corresp="#s4:l1">sanck</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Soo suyuer is der liefden <rhyme label="b" type="m" corresp="#s4:l2">gront</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Die Liefde die voldoet die <rhyme label="a" type="m">wet</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">En sy verwermt dat herte <rhyme label="b" type="m">kout</rhyme>:</l>
+        <l id="s5:l3" met="4" type="-+">Die Liefde scheurt des vijants <rhyme label="a" type="m" corresp="#s5:l1">net</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Die was te bloot die maeckt sy <rhyme label="b" type="m" corresp="#s5:l2">stout</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Naer loon en staet die Liefde <rhyme label="a" type="m">niet</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Veel stercker is sy dan de <rhyme label="b" type="m">doot</rhyme>:</l>
+        <l id="s6:l3" met="4" type="-+">Wat aerbeyt dat men haer <rhyme label="a" type="m" corresp="#s6:l1">ghebiet</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Met lust doet zijt en niet uyt <rhyme label="b" type="m" corresp="#s6:l2">noot</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

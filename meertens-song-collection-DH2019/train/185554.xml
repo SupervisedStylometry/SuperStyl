@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185554</id>
+    <date>
+      <year-start>1784</year-start>
+      <year-end>1784</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Pieter Vreede</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">Gezegend zij dit uur, manhafte <rhyme label="a" type="f">Batavieren</rhyme>.</l>
+        <l id="s1:l2" met="5" type="-+">Die 't beeld der Vrijheid in uw harten <rhyme label="b" type="m">draegt</rhyme>;</l>
+        <l id="s1:l3" met="5" type="-+">En, door verêende macht, haer zetel <rhyme label="b" type="m" corresp="#s1:l2">schraegt</rhyme>:</l>
+        <l id="s1:l4" met="6" type="-+">De God van Nederland kroone u met <rhyme label="a" type="f" corresp="#s1:l1">eerlaurieren</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Hoe heilrijk voor ons zuchtend <rhyme label="a" type="f">Land</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Zal uwe moed en eensgezindheid <rhyme label="b" type="m">weezen</rhyme>!</l>
+        <l id="s2:l3" met="5" type="-+">'t Verraed mag vrij voor uw verêende Wapens <rhyme label="b" type="m" corresp="#s2:l2">vreezen</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">De Vijand voor uw hart en <rhyme label="a" type="f" corresp="#s2:l1">hand</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">Gij zijt het, die 't geweld van <rhyme label="a" type="f">buiten</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Door uwen moed, zult helpen <rhyme label="b" type="m">stuiten</rhyme>;</l>
+        <l id="s3:l3" met="5" type="-+">Door eendragt, kruid en wigtig <rhyme label="b" type="m" corresp="#s3:l2">lood</rhyme>,</l>
+        <l id="s3:l4" met="6" type="-+">Vegt Gij ons Neêrland vrij, of kiest een' helden <rhyme label="a" type="f" corresp="#s3:l1">dood</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

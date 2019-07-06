@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>118520</id>
+    <date>
+      <year-start>1680</year-start>
+      <year-end>1680</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
+    </tags>
+    <melody>Lofzang van Maria</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Willem Sluiter</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">'k Begeer van u, mijn <rhyme label="a" type="m">godt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Hier tot mijn tijdlik <rhyme label="a" type="m" corresp="#s1:l1">lot</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Twee dingen te <rhyme label="b" type="f">verwerven</rhyme>:</l>
+        <l id="s1:l4" met="3" type="-+">Onthoudtse niet van <rhyme label="c" type="m">my</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Soo lang ik levend <rhyme label="c" type="m" corresp="#s1:l4">zy</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">En eer ik kom te <rhyme label="b" type="f" corresp="#s1:l3">sterven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Doet ydelheit en <rhyme label="a" type="m">dwaal</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">En alle <rhyme label="a" type="m" corresp="#s2:l1">leugentaal</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Verr' van my. D'ander beed' <rhyme label="b" type="f">is</rhyme>;</l>
+        <l id="s2:l4" met="3" type="-+">Geeft my geen <rhyme label="c" type="m">arremoed</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Noch rijckdom, of sulk <rhyme label="c" type="m" corresp="#s2:l4">goedt</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Dat voor my al te breed <rhyme label="b" type="f" corresp="#s2:l3">is</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Ik wensch niet na te <rhyme label="a" type="m">veel</rhyme>;</l>
+        <l id="s3:l2" met="3" type="-+">Voedt my slechts met het <rhyme label="a" type="m" corresp="#s3:l1">deel</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Van u my <rhyme label="b" type="f">toebescheiden</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">'t Gesette daagliksch <rhyme label="c" type="m">broot</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Welk 't lichaam heeft van <rhyme label="c" type="m" corresp="#s3:l4">nood'</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">In 't leven dat wy <rhyme label="b" type="f" corresp="#s3:l3">leiden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Op dat ik, vol en <rhyme label="a" type="m">sat</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">U niet versaak, te <rhyme label="a" type="m" corresp="#s4:l1">prat</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">En segg', Wie is de <rhyme label="b" type="f">Heere</rhyme>?</l>
+        <l id="s4:l4" met="3" type="-+">Of dat ik, al te <rhyme label="c" type="m">arm</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Niet steel', of door <rhyme label="c" type="m" corresp="#s4:l4">gekarm</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Den Naam mijns Godts <rhyme label="b" type="f" corresp="#s4:l3">onteere</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

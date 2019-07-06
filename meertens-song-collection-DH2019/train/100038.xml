@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100038</id>
+    <date>
+      <year-start>1652</year-start>
+      <year-end>1652</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Arnold Bon</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">IVffertje, Iuffertje, sluyt doch u <rhyme label="a" type="f">Oogjes</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Spaer, spaer, u lonckjes, clemt doch de <rhyme label="a" type="f" corresp="#s1:l1">Boogjes</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">U Lonckjes doorschieten mijn niertjes en <rhyme label="b" type="f">leven</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Wilt vry de lonckjes u selven <rhyme label="b" type="f" corresp="#s1:l3">geven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ey braydelt u krollende vlegjes en <rhyme label="a" type="f">tuyten</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Die stadigh jagen de vlamtjes van <rhyme label="a" type="f" corresp="#s2:l1">buyten</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En voeren my soo in Coorsjes <rhyme label="b" type="f">elendigh</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">'k En kanse niet schutten, ghy schiets' te <rhyme label="b" type="f" corresp="#s2:l3">behendigh</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ey Nimphje, ey Nimphje mijn klagjes sijn <rhyme label="a" type="f">nietig</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Mijn silte traentjes blyven <rhyme label="a" type="f" corresp="#s3:l1">verdrietig</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Mijn Geesje kan van mijn Rifje niet <rhyme label="b" type="f">scheyen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Of moet u Zieltje oock met mijn <rhyme label="b" type="f" corresp="#s3:l3">leyen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Singt dan dat alle Haeghse <rhyme label="a" type="f">Boomtjes</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Schudden, doet vlieten de Delfsche <rhyme label="a" type="f" corresp="#s4:l1">stroomtjes</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Mijn Hertje hoort garen, maer ach alst moet <rhyme label="b" type="f">derven</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">U soete diertie sal ick wis <rhyme label="b" type="f" corresp="#s4:l3">sterven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

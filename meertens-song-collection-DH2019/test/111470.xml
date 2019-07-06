@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111470</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MYn Moeder zeyd my alle <rhyme label="a" type="m">dag</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Dat 'k my moet wyslyk <rhyme label="b" type="f">dragen</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Dat ik geen Heertjes zien en <rhyme label="a" type="m" corresp="#s1:l1">mag</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Hoe zeer zy my <rhyme label="b" type="f" corresp="#s1:l2">behagen</rhyme>:</l>
+        <l id="s1:l5" met="5" type="-+">Maar een van hen staat my te wonder <rhyme label="c" type="m">aan</rhyme>.</l>
+        <l id="s1:l6" met="4" type="-+">Dat 's wel gedaan: Dat 's wel <rhyme label="c" type="m" corresp="#s1:l5">gedaan</rhyme>:</l>
+        <l id="s1:l7" met="5" type="-+">Hy zoende my op een nagt sesmaal. 't <rhyme label="d" type="m">Lest</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Dat was nog 't best: Dat was nog 't <rhyme label="d" type="m" corresp="#s1:l7">best</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ik leyd' een leven naar myn <rhyme label="a" type="m">sin</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">En ben ook wel te <rhyme label="b" type="f">vreeden</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Ik kus, en zie 't geen ik <rhyme label="a" type="m" corresp="#s2:l1">bemin</rhyme>:</l>
+        <l id="s2:l4" met="3" type="-+">Heb ik daar toe geen <rhyme label="b" type="f" corresp="#s2:l2">reeden</rhyme>?</l>
+        <l id="s2:l5" met="5" type="-+">Ik drink myn glas, dan by myn Lief <rhyme label="c" type="m">gegaan</rhyme>:</l>
+        <l id="s2:l6" met="4" type="-+">Dat 's wel gedaan: Dat 's wel <rhyme label="c" type="m" corresp="#s2:l5">gedaan</rhyme>:</l>
+        <l id="s2:l7" met="5" type="-+">'t Geen daar geschied laat ik uw raden: <rhyme label="d" type="m">Dog</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">'t Is beter nog: 't Is beter <rhyme label="d" type="m" corresp="#s2:l7">nog</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

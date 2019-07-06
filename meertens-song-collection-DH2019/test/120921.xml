@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>120921</id>
+    <date>
+      <year-start>1786</year-start>
+      <year-end>1786</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Wat is ons al vreugde gegeven</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">WAt werd ons al vreugt <rhyme label="a" type="f">gegeven</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">In het vermakelyk buiten <rhyme label="a" type="f" corresp="#s1:l1">leven</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Het is zoo aangenaam en zoo <rhyme label="b" type="m">zoet</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Alles wat den Landman <rhyme label="b" type="m" corresp="#s1:l3">doet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Hy verheugt hem onder 't <rhyme label="a" type="f">lommer</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Van het Geboomt' hy vind geen <rhyme label="a" type="f" corresp="#s2:l1">kommer</rhyme>.</l>
+        <l id="s2:l3" met="4" type="+-">Niemand weet hier van <rhyme label="b" type="m">verdriet</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Hoofze staatzugt kwelt ons <rhyme label="b" type="m" corresp="#s2:l3">niet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Al die lieffelyke <rhyme label="a" type="f">streeken</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Het ruyze van die klaare <rhyme label="a" type="f" corresp="#s3:l1">beeken</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Het pluim-gediert dat lieffelyk <rhyme label="b" type="m">kweelt</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">s' Lands-mans hert en zinnen <rhyme label="b" type="m" corresp="#s3:l3">streelt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Onder dees lieffelyke <rhyme label="a" type="f">Elze</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Mogt ik myn Phieles daar eens <rhyme label="a" type="f" corresp="#s4:l1">omhelzen</rhyme>.</l>
+        <l id="s4:l3" met="4" type="+-">Al in dit aangenaame <rhyme label="b" type="m">groen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Myn grage lusten te <rhyme label="b" type="m" corresp="#s4:l3">voldoen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Jonkheid die in de Jeugt vav u <rhyme label="a" type="f">Jaaren</rhyme></l>
+        <l id="s5:l2" met="4" type="+-">Ook gezind zyt om te <rhyme label="a" type="f" corresp="#s5:l1">paren</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Besteed u tyd zeer lief en <rhyme label="b" type="m">zoet</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Gelyk als deeze landman <rhyme label="b" type="m" corresp="#s5:l3">doet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

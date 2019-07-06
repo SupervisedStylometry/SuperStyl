@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175073</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ai, ai, mijn heele handje <rhyme label="a" type="m">brandt</rhyme>!....</l>
+        <l id="s1:l2" met="3" type="-+">Of heeft me een beest <rhyme label="b" type="f">gebeten</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">Wel neen! dat is die booze <rhyme label="a" type="m" corresp="#s1:l1">plant</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Hoe of ze wel mag <rhyme label="b" type="f" corresp="#s1:l2">heeten</rhyme>?</l>
+        <l id="s1:l5" met="2" type="-+">Dat stoute <rhyme label="c" type="m">kruid</rhyme>, -</l>
+        <l id="s1:l6" met="4" type="-+">Het zag er toch zoo aardig <rhyme label="c" type="m" corresp="#s1:l5">uit</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">‘Brandneteltje, me - lieve <rhyme label="a" type="m">kind</rhyme>!</l>
+        <l id="s2:l2" met="3" type="-+">Zoo is dat kruid <rhyme label="b" type="f">geheeten</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En waart ge niet zoo haastig, <rhyme label="a" type="m" corresp="#s2:l1">vrind</rhyme>!</l>
+        <l id="s2:l4" met="3" type="-+">Het had u niet <rhyme label="b" type="f" corresp="#s2:l2">gebeten</rhyme>:</l>
+        <l id="s2:l5" met="2" type="-+">Dat beetje <rhyme label="c" type="m">pijn</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Dat leer-je nu voorzigtig <rhyme label="c" type="m" corresp="#s2:l5">zijn</rhyme>!’</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">‘Al wat ge voor het eerste <rhyme label="a" type="m">ziet</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">(Gij moogt het wel <rhyme label="b" type="f">onthouên</rhyme>!),</l>
+        <l id="s3:l3" met="4" type="-+">Dat grijp-, of proef- of ruik-je <rhyme label="a" type="m" corresp="#s3:l1">niet</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Want bitter kon 't u <rhyme label="b" type="f" corresp="#s3:l2">rouwen</rhyme>:</l>
+        <l id="s3:l5" met="2" type="-+">Dus niets <rhyme label="c" type="m">gewaagd</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Of 't eerst aan wijzer luî <rhyme label="c" type="m" corresp="#s3:l5">gevraagd</rhyme>.’</l>
+      </lg>
+    </lg>
+  </text>
+</song>

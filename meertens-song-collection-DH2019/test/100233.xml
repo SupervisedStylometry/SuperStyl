@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100233</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Polyphemus aan de stranden</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="+-">SOete Meysjes zet u zinnen Om te <rhyme label="a" type="f">minnen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Die u eerst zyn min aan <rhyme label="b" type="m">bied</rhyme>,</l>
+        <l id="s1:l3" met="6" type="+-">Zoo meugt gy naar wens ook rusten, In de <rhyme label="c" type="f">lusten</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Die u Bruydje nu <rhyme label="b" type="m" corresp="#s1:l2">geniet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="+-">Is 'er zoeter voor de menschen Hier te <rhyme label="a" type="f">wenschen</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Neen het zeker, 't is het <rhyme label="b" type="m">zoet</rhyme>,</l>
+        <l id="s2:l3" met="6" type="+-">Dat de grootste van de Goden, Zoo kan <rhyme label="c" type="f">nooden</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Dat hy nederdalen <rhyme label="b" type="m" corresp="#s2:l2">moet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="+-">Wilt u spoedig dan begeven Om te <rhyme label="a" type="f">leven</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">En te doen gelyk gy <rhyme label="b" type="m">woud</rhyme></l>
+        <l id="s3:l3" met="6" type="+-">Dat 'er aan u zelfs geschiede, Wilt niet <rhyme label="c" type="f">vliede</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Dat het u hier na niet <rhyme label="b" type="m" corresp="#s3:l2">rouwt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="+-">Want het is dan vaak te spade, Om <rhyme label="a" type="f">genade</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Te verwerven van de <rhyme label="b" type="m">kwaad'</rhyme>,</l>
+        <l id="s4:l3" met="6" type="+-">Die men eertyds heeft bedreven, Wilt u <rhyme label="c" type="f">geven</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Tot het geen ik heb <rhyme label="b" type="m" corresp="#s4:l2">geraad'</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

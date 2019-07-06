@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>76</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Vlied heen droeve zuchtjes</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">PUijk der schoone <rhyme label="a" type="f">Maagden</rhyme>,</l>
+        <l id="s1:l2" met="8" type="+-">Openhertig hert, een dank, met liefd' doorwrocht (die ik niet kon <rhyme label="b" type="f">weven</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Toen gy 't leven <rhyme label="a" type="f" corresp="#s1:l1">schraagden</rhyme>,</l>
+        <l id="s1:l4" met="8" type="+-">Van mijn stervend' rif: ) kust uw Elpen hand, voor 't lint my <rhyme label="b" type="f" corresp="#s1:l2">gegeven</rhyme>,</l>
+        <l id="s1:l5" met="5" type="+-">Als het blincken der netgewrochte <rhyme label="c" type="m">draan</rhyme>.</l>
+        <l id="s1:l6" met="4" type="-+">Beschaauwt mijn gesicht // soo sie ik 't <rhyme label="d" type="m">licht</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Vws goude hayren, <rhyme label="c" type="m" corresp="#s1:l5">aan</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Klarind mijn <rhyme label="a" type="f">gedachten</rhyme>,</l>
+        <l id="s2:l2" met="8" type="+-">Twisten, dan te saem, de liefde (die het pit mijns borsts <rhyme label="b" type="f">doorgriefde</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">En mijn kracht <rhyme label="a" type="f" corresp="#s2:l1">verkrachte</rhyme>)</l>
+        <l id="s2:l4" met="8" type="+-">Wil dat dese gaaf geen veynsen baarde; maar geschach uyt <rhyme label="b" type="f" corresp="#s2:l2">liefde</rhyme>:</l>
+        <l id="s2:l5" met="5" type="+-">En het branden, dat door haer glans, wert kracht <rhyme label="c" type="m">geboon</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Seyt dat gy dit deed // om, door het <rhyme label="d" type="m">leed</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Mijn levens kracht te <rhyme label="c" type="m" corresp="#s2:l5">doon</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="+-">Maar 'k houw al dit <rhyme label="a" type="f">lijden</rhyme></l>
+        <l id="s3:l2" met="8" type="+-">Voor salig geluk, als mijn gedachten: (ô siel van mijn <rhyme label="b" type="f">leven</rhyme>.)</l>
+        <l id="s3:l3" met="3" type="+-">Gedenken 't <rhyme label="a" type="f" corresp="#s3:l1">verblijden</rhyme>,</l>
+        <l id="s3:l4" met="8" type="+-">Daar toe ik, door 't zoet van d' echte trouw, haast hoop te sijn <rhyme label="b" type="f" corresp="#s3:l2">verheven</rhyme>,</l>
+        <l id="s3:l5" met="5" type="+-">Ach! Klarinda pijnt mijn hoop met geen meerder <rhyme label="c" type="m">pijn</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Maer laet uw mont // doch van de <rhyme label="d" type="m">wond</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Mijns mins, de heelster <rhyme label="c" type="m" corresp="#s3:l5">zijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

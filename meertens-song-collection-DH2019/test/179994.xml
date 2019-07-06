@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>179994</id>
+    <date>
+      <year-start>1757</year-start>
+      <year-end>1757</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Puisque je vis</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wyl ik noch leef na 't einde van 't <rhyme label="a" type="m">spel</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Voel ik de kracht der liefde heel <rhyme label="a" type="m" corresp="#s1:l1">wel</rhyme>.</l>
+        <l id="s1:l3" met="3" type="+-">Ik Min u zoo <rhyme label="b" type="f">teder</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Lief, min my toch <rhyme label="b" type="f" corresp="#s1:l3">weder</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Ei, Troost myn droevig harte een <rhyme label="c" type="m">poos</rhyme>.</l>
+        <l id="s1:l6" met="2" type="-+">Ik hoor haar <rhyme label="d" type="f">zuchten</rhyme>;</l>
+        <l id="s1:l7" met="2" type="-+">'k Zie, zy gaat <rhyme label="d" type="f" corresp="#s1:l6">vluchten</rhyme>.</l>
+        <l id="s1:l8" met="4" type="-+">'k Ben en blyf uw' dienaar <rhyme label="c" type="m" corresp="#s1:l5">altoos</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

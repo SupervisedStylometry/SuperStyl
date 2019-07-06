@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13779</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Amarilli mia bella</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>anoniem</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">ACh Philida mijn <rhyme label="a" type="f">schoone</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Wie salmen nu ter tijt, van nijt <rhyme label="a" type="f" corresp="#s1:l1">verschoonen</rhyme>?</l>
+        <l id="s1:l3" met="3" type="-+">Ey segh waer sal hy <rhyme label="a" type="f" corresp="#s1:l1">woonen</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Die sal bevrijt zijn van de nijders <rhyme label="b" type="f">tongen</rhyme>?</l>
+        <l id="s1:l5" met="3" type="-+">Noyt sal hy’t sijn <rhyme label="b" type="f" corresp="#s1:l4">ontsprongen</rhyme>:</l>
+        <l id="s1:l6" met="5" type="-+">Woont hy by menschen, hy nimmer ongequelt <rhyme label="c" type="m">leeft</rhyme>,</l>
+        <l id="s1:l7" met="8" type="+-">Want een nijder, want een nijder, aen een yeder het sijn <rhyme label="c" type="m" corresp="#s1:l6">geeft</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

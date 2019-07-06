@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20608</id>
+    <date>
+      <year-start>1628</year-start>
+      <year-end>1628</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Al hebben de prinsen haar wens</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">,,GHeen volmaeckter vreucht natuer hier <rhyme label="a" type="m">baert</rhyme></l>
+        <l id="s1:l2" met="5" type="+-">,,Dan als lief, met lief, in liefde <rhyme label="a" type="m" corresp="#s1:l1">paert</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">,,Als sy siel,, hert, vvil, en <rhyme label="b" type="m">sin</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">,,T'saem ver-eenicht, door de <rhyme label="b" type="m" corresp="#s1:l3">min</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Och oft my gebeurde soo veel <rhyme label="a" type="m">eer</rhyme></l>
+        <l id="s2:l2" met="5" type="+-">Gheen geluck, oft vreucht, en vvenscht, ick <rhyme label="a" type="m" corresp="#s2:l1">meer</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Dat mijn liefd', aen lief <rhyme label="b" type="m">bethoont</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Eens met vveer-liefd' vverdt <rhyme label="b" type="m" corresp="#s2:l3">beloont</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">K'heb door-reyst soo menich <rhyme label="a" type="m">Coninck-rijck</rhyme>,</l>
+        <l id="s3:l2" met="5" type="+-">Maer gheuonden noeyt noch haers <rhyme label="a" type="m" corresp="#s3:l1">ghelijck</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">In beleeftheyt, eerbaer <rhyme label="b" type="m">vreucht</rhyme>.</l>
+        <l id="s3:l4" met="4" type="+-">Schoont, vvelsprekentheyt, en <rhyme label="b" type="m" corresp="#s3:l3">deucht</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="+-">Alle aerdsche-vreucht, en <rhyme label="a" type="m">melody</rhyme>,</l>
+        <l id="s4:l2" met="5" type="+-">Soete snaren, sanck, en <rhyme label="a" type="m" corresp="#s4:l1">dansery</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Voor m'al cleyn verblijden <rhyme label="b" type="m">is</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Als ick daer dees maghet <rhyme label="b" type="m" corresp="#s4:l3">mis</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="+-">T'is om u, om u ist schoone <rhyme label="a" type="m">maeght</rhyme>,</l>
+        <l id="s5:l2" met="5" type="+-">Dat u slaef, en dienaer sucht, en <rhyme label="a" type="m" corresp="#s5:l1">claeght</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Die thien-duysent dooden <rhyme label="b" type="m">sterft</rhyme></l>
+        <l id="s5:l4" met="4" type="+-">Als hy maer u by-sijn <rhyme label="b" type="m" corresp="#s5:l3">derft</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="5" type="+-">Comt Princersse, comt, comt siet vvie <rhyme label="a" type="m">nu</rhyme></l>
+        <l id="s6:l2" met="5" type="+-">Als den Salemander brandt om <rhyme label="a" type="m" corresp="#s6:l1">u</rhyme>,</l>
+        <l id="s6:l3" met="4" type="+-">Laet sijn droef, en bitter <rhyme label="b" type="m">smert</rhyme>,</l>
+        <l id="s6:l4" met="4" type="+-">Doch bevveghen eens u <rhyme label="b" type="m" corresp="#s6:l3">hert</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

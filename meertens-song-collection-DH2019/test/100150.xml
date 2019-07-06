@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100150</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Mijnheer Lalande</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="+-">SOete <rhyme label="a" type="f">Gespeeltjes</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Zydelingen van de <rhyme label="b" type="m">Bruyd</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Nog eenmaal u held're <rhyme label="a" type="f" corresp="#s1:l1">keeltjes</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Met de gasten <rhyme label="b" type="m" corresp="#s1:l2">opensluyt</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Leyd haar mee in 't groote <rhyme label="c" type="m">Gild</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Daar men druk met vreugde <rhyme label="c" type="m" corresp="#s1:l5">stild</rhyme>;</l>
+        <l id="s1:l7" met="4" type="+-">Daar geen maagdeblom of <rhyme label="a" type="f" corresp="#s1:l1">steeltjes</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Wederzydig word <rhyme label="c" type="m" corresp="#s1:l5">gewild</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="+-">Wilt haar niet <rhyme label="a" type="f">keeren</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Hout haar dog niet tot haar <rhyme label="b" type="m">scha</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Laat haar 't boek van trouwe <rhyme label="a" type="f" corresp="#s2:l1">leeren</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">'k Wed gy volgt haar ook wel <rhyme label="b" type="m" corresp="#s2:l2">dra</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Soo gy haar dat morgen <rhyme label="c" type="m">vraagt</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Hoe dit schoolgaan haar <rhyme label="c" type="m" corresp="#s2:l5">behaagt</rhyme>?</l>
+        <l id="s2:l7" met="4" type="+-">Ieder moet het trouwen <rhyme label="a" type="f" corresp="#s2:l1">eeren</rhyme>:</l>
+        <l id="s2:l8" met="4" type="+-">Wyl 't een leven by zig <rhyme label="c" type="m" corresp="#s2:l5">draagt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="+-">Rust dan met <rhyme label="a" type="f">vreden</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Nieu-gehuwde, t'wyl wy <rhyme label="b" type="m">hier</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">'t Overschot des nagts <rhyme label="a" type="f" corresp="#s3:l1">besteden</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Vol vermaak en vol <rhyme label="b" type="m" corresp="#s3:l2">pleisier</rhyme>;</l>
+        <l id="s3:l5" met="4" type="+-">Slaapt met rust, en rust met <rhyme label="c" type="m">dank</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Diend den Heer u leven <rhyme label="c" type="m" corresp="#s3:l5">lank</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Zoo zyt gy in <rhyme label="a" type="f" corresp="#s3:l1">eeuwigheden</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">Als een zoete <rhyme label="c" type="m" corresp="#s3:l5">Wyngaardrank</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

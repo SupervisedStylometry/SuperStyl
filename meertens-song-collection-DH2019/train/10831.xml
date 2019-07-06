@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10831</id>
+    <date>
+      <year-start>1605</year-start>
+      <year-end>1605</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Ik zeg adieu</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Laet ons <rhyme label="a" type="m">ghemeen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Met vreuchden <rhyme label="b" type="f">triumpheren</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">Droefhz verteeren, soet quelen <rhyme label="b" type="f" corresp="#s1:l2">jubileren</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Die zijn vergaert in dese <rhyme label="c" type="m">feest</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">En laet ons singen <rhyme label="c" type="m" corresp="#s1:l4">onbevreest</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Minst en meest, in die <rhyme label="c" type="m" corresp="#s1:l4">fooreest</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Dees Vrijsters teer ter <rhyme label="b" type="f" corresp="#s1:l2">eeren</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Hier is den <rhyme label="a" type="m">most</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Gheschoncken in goude <rhyme label="b" type="f">schalen</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">Denckt niet wat cost ons weert sal <rhyme label="b" type="f" corresp="#s2:l2">betalen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Elck dien die hy vercoren <rhyme label="c" type="m">heeft</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Dat ghy hier vindt te voren <rhyme label="c" type="m" corresp="#s2:l4">gheeft</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Om niemant beeft, maer wilt <rhyme label="c" type="m" corresp="#s2:l4">beleeft</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Gheneucht en vreucht voort <rhyme label="b" type="f" corresp="#s2:l2">halen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Ghelijck seer <rhyme label="a" type="m">fraey</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Die rooskens staen en <rhyme label="b" type="f">bloeyen</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">Ontrent de may, so zijn wy nu int <rhyme label="b" type="f" corresp="#s3:l2">groeyen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Daerom ghebruyckt heel vry u <rhyme label="c" type="m">jeucht</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Singt en springt, hanteert <rhyme label="c" type="m" corresp="#s3:l4">gheneucht</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Gheschickte deucht, terwijl ghy <rhyme label="c" type="m" corresp="#s3:l4">meucht</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Den tijt sal ons <rhyme label="b" type="f" corresp="#s3:l2">besnoeyen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">Princen <rhyme label="a" type="m">ontrent</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">V Lief seer fier <rhyme label="b" type="f">gheseten</rhyme></l>
+        <l id="s4:l3" met="5" type="-+">V oochgens went, na haer als elck <rhyme label="b" type="f" corresp="#s4:l2">eten</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">V liefd altijt eerlijck <rhyme label="c" type="m">bedeckt</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Vrolijck gheneucht en vreucht <rhyme label="c" type="m" corresp="#s4:l4">verweckt</rhyme>.</l>
+        <l id="s4:l6" met="4" type="-+">Speelt, jockt en geckt, siet wat ghy <rhyme label="c" type="m" corresp="#s4:l4">spreeckt</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">En wilt droefheyt <rhyme label="b" type="f" corresp="#s4:l2">vergheten</rhyme>,</l>
+      </lg>
+    </lg>
+  </text>
+</song>

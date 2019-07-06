@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185140</id>
+    <date>
+      <year-start>1790</year-start>
+      <year-end>1792</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Dans un verger Colinette</melody>
+  <author>Gerrit Manheer</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">In een Boomgaard, <rhyme label="a" type="f">Colinette</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Zag eens schoone druiven <rhyme label="b" type="m">staan</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Zij dagt dat haar niemand <rhyme label="a" type="f" corresp="#s1:l1">lette</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Strak sloeg zij de hand 'er <rhyme label="b" type="m" corresp="#s1:l2">aan</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Slaat wel gade <rhyme label="a" type="f" corresp="#s1:l1">Colinette</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Liefde waakt in deze <rhyme label="b" type="m" corresp="#s1:l2">Laan</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Stil en in een hoek <rhyme label="a" type="f">versteeken</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Kreeg het wigje haar in 't <rhyme label="b" type="m">oog</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Naauwelijks had hij haar <rhyme label="a" type="f" corresp="#s2:l1">bekeken</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Of hij kwetst haar met zijn <rhyme label="b" type="m" corresp="#s2:l2">Boog</rhyme>;</l>
+        <l id="s2:l5" met="4" type="+-">'t Meisje zugte en was <rhyme label="a" type="f" corresp="#s2:l1">bezweken</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Als dit wigt haar zo <rhyme label="b" type="m" corresp="#s2:l2">bedroog</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Ach! ach! Meisje 't zal u <rhyme label="a" type="f">drukken</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Zei de kleine field aan <rhyme label="b" type="m">haar</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">'t Zal mij deze keer <rhyme label="a" type="f" corresp="#s3:l1">gelukken</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Maar zijt wijzer agter <rhyme label="b" type="m" corresp="#s3:l2">naar</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">'t Meisje dat hier durft te <rhyme label="a" type="f" corresp="#s3:l1">plukken</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Loopt dus meer als eens <rhyme label="b" type="m" corresp="#s3:l2">gevaar</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

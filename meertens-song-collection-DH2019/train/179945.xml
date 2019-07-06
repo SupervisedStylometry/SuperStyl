@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>179945</id>
+    <date>
+      <year-start>1757</year-start>
+      <year-end>1757</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Zoet Katrijntje</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="+-">Malle <rhyme label="a" type="f">gekje</rhyme>,</l>
+        <l id="s1:l2" met="2" type="+-">Zeg waar <rhyme label="a" type="f" corresp="#s1:l1">trekje</rhyme></l>
+        <l id="s1:l3" met="3" type="+-">Met jouw blauwe <rhyme label="b" type="f">schenen</rhyme>?</l>
+        <l id="s1:l4" met="2" type="+-">Wilje <rhyme label="c" type="f">lopen</rhyme></l>
+        <l id="s1:l5" met="2" type="+-">Pleisters <rhyme label="c" type="f" corresp="#s1:l4">kopen</rhyme>,</l>
+        <l id="s1:l6" met="2" type="+-">Hoor naar <rhyme label="d" type="m">raad</rhyme>:</l>
+        <l id="s1:l7" met="3" type="-+">Loop ras naar meester <rhyme label="e" type="m">Jan</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Die heeft 'er kennis <rhyme label="e" type="m" corresp="#s1:l7">van</rhyme>;</l>
+        <l id="s1:l9" met="2" type="+-">Wilje <rhyme label="f" type="f">wezen</rhyme></l>
+        <l id="s1:l10" met="2" type="+-">Prompt <rhyme label="f" type="f" corresp="#s1:l9">genezen</rhyme>,</l>
+        <l id="s1:l11" met="3" type="+-">Gaa toch schielyk <rhyme label="b" type="f" corresp="#s1:l3">henen</rhyme>;</l>
+        <l id="s1:l12" met="2" type="+-">Een <rhyme label="g" type="f">Sesthalfje</rhyme></l>
+        <l id="s1:l13" met="2" type="+-">Kost een <rhyme label="g" type="f" corresp="#s1:l12">Zalfje</rhyme>,</l>
+        <l id="s1:l14" met="2" type="+-">Dat elk <rhyme label="d" type="m" corresp="#s1:l6">baat</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="+-">'t Is een <rhyme label="a" type="f">mantje</rhyme></l>
+        <l id="s2:l2" met="2" type="+-">En een <rhyme label="a" type="f" corresp="#s2:l1">kwantje</rhyme>:</l>
+        <l id="s2:l3" met="3" type="+-">'t Is een licht der <rhyme label="b" type="f">lichten</rhyme>:</l>
+        <l id="s2:l4" met="2" type="+-">Zyn <rhyme label="c" type="f">Tincturen</rhyme></l>
+        <l id="s2:l5" met="2" type="+-">Voor <rhyme label="c" type="f" corresp="#s2:l4">kwetzuren</rhyme>,</l>
+        <l id="s2:l6" met="2" type="+-">Roemt <rhyme label="d" type="m">elkeen</rhyme>;</l>
+        <l id="s2:l7" met="3" type="-+">Hy maakt ze zelver <rhyme label="e" type="m">klaar</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">En trekt die <rhyme label="e" type="m" corresp="#s2:l7">altegaêr</rhyme>,</l>
+        <l id="s2:l9" met="2" type="+-">Uit <rhyme label="f" type="f">Silentie</rhyme></l>
+        <l id="s2:l10" met="2" type="+-">En <rhyme label="f" type="f" corresp="#s2:l9">Patientie</rhyme>;</l>
+        <l id="s2:l11" met="3" type="+-">Voor hem moeten <rhyme label="b" type="f" corresp="#s2:l3">zwichten</rhyme>,</l>
+        <l id="s2:l12" met="2" type="+-">
+          <rhyme label="g" type="f">Proffessoren</rhyme>
+        </l>
+        <l id="s2:l13" met="2" type="+-">En <rhyme label="g" type="f" corresp="#s2:l12">Doktoren</rhyme>;</l>
+        <l id="s2:l14" met="2" type="+-">Loop gauw <rhyme label="d" type="m" corresp="#s2:l6">heen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

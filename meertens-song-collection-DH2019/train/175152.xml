@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175152</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">De kleine bloempjes op de <rhyme label="a" type="f">heide</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">De kleine vogels in het <rhyme label="b" type="m">nest</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Zij hebben 't óók niet altoos <rhyme label="b" type="m" corresp="#s1:l2">best</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Maar worden dan toch groot op 't <rhyme label="b" type="m" corresp="#s1:l2">lest</rhyme>...</l>
+        <l id="s1:l5" met="4" type="-+">De Heer des Hemels zorgt voor <rhyme label="a" type="f" corresp="#s1:l1">beide</rhyme>;</l>
+        <l id="s1:l6" met="4" type="-+">En dikwijls waakt een vrome <rhyme label="c" type="m">hand</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Voor vogelijn en <rhyme label="c" type="m" corresp="#s1:l6">heideplant</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Dàn kunnen ze onbekommerd <rhyme label="a" type="f">groeijen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">En krachten putten uit den <rhyme label="b" type="m">nood</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Des vogels lied juicht: ‘God is <rhyme label="b" type="m" corresp="#s2:l2">groot</rhyme>’!...</l>
+        <l id="s2:l4" met="4" type="-+">De plant geeft bloesems, wit en <rhyme label="b" type="m" corresp="#s2:l2">rood</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">En zoete geuren onder 't <rhyme label="a" type="f" corresp="#s2:l1">bloeijen</rhyme>;</l>
+        <l id="s2:l6" met="4" type="-+">En beide danken God den <rhyme label="c" type="m">Heer</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">En wie hen kweekte, Hem ter <rhyme label="c" type="m" corresp="#s2:l6">eer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Gij knapen, meisjes, dartle <rhyme label="a" type="f">kleenen</rhyme>!</l>
+        <l id="s3:l2" met="4" type="-+">Gij wilde vogels, plantjes <rhyme label="b" type="m">teêr</rhyme>!</l>
+        <l id="s3:l3" met="4" type="-+">Ook u beschermt des Hemels <rhyme label="b" type="m" corresp="#s3:l2">Heer</rhyme>;</l>
+        <l id="s3:l4" met="4" type="-+">Zijn Geest daalt in de harten <rhyme label="b" type="m" corresp="#s3:l2">neêr</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Opdat ze u hulp en schuts <rhyme label="a" type="f" corresp="#s3:l1">verleenen</rhyme>.</l>
+        <l id="s3:l6" met="4" type="-+">o Zingt en bloeit dan Hem ter <rhyme label="c" type="m">eer</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Gij wilde vogels - plantjes <rhyme label="c" type="m" corresp="#s3:l6">teêr</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

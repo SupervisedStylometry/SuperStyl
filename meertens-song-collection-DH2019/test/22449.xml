@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22449</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="avondlied" translation="evening song">avondlied</tag>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="schoollied" translation="school song">schoollied</tag>
+    </tags>
+    <melody>Veni redemptor gentium</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DIt dachwerck is nu oock <rhyme label="a" type="m">volbracht</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">O Godt had ick dat wel <rhyme label="a" type="m" corresp="#s1:l1">bedacht</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">En hadde neerstich gheweest <rhyme label="b" type="m">altijt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Waer door ick ghebetert sou syn en <rhyme label="b" type="m" corresp="#s1:l3">verblijt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">So veel tijts nu is bewaeret <rhyme label="a" type="m">recht</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Is my van Godt eerst <rhyme label="a" type="m" corresp="#s2:l1">aenghehecht</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Al mijn versuymen dat compt van <rhyme label="b" type="m">my</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Maer alle goet, compt o Godt van <rhyme label="b" type="m" corresp="#s2:l3">dy</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Gheeft my Heere dat ick u vinde <rhyme label="a" type="m">hier</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Tot dat ick gheleert sal wesen <rhyme label="a" type="m" corresp="#s3:l1">fier</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">En dat ick morghen mach leeren <rhyme label="b" type="m">bet</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Die salicheyt, door u reyn woort en <rhyme label="b" type="m" corresp="#s3:l3">Wet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">En legt in my u gauen <rhyme label="a" type="m">fijn</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Dat ick die nae den wille <rhyme label="a" type="m" corresp="#s4:l1">dijn</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Ghebruycke, so ghy van Hemel <rhyme label="b" type="m">leert</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Blijuende van tswerelts wijsen <rhyme label="b" type="m" corresp="#s4:l3">ghekeert</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Beurijt nu mijn siele ende <rhyme label="a" type="m">lijf</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Gheeft dat ick in dijner ghenaden <rhyme label="a" type="m" corresp="#s5:l1">blijf</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Altijt en oock op desen <rhyme label="b" type="m">nacht</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Hout met dijnen Enghelen die <rhyme label="b" type="m" corresp="#s5:l3">wacht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

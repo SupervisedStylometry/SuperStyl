@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185665</id>
+    <date>
+      <year-start>1830</year-start>
+      <year-end>1840</year-end>
+    </date>
+    <location>
+      <orginal-name>purmerend</orginal-name>
+      <standard-name>Purmerend</standard-name>
+      <coordinates>
+        <lon>52.5024789</lon>
+        <lat>4.9614827</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Gijsbertus van Sandwijk</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ik ben lakkei of <rhyme label="a" type="m">heerenknecht</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">En dien mijn' meester <rhyme label="b" type="m">trouw</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">'k Ben aan den braven man <rhyme label="a" type="m" corresp="#s1:l1">gehecht</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En 'k acht zijn goede <rhyme label="b" type="m" corresp="#s1:l2">vrouw</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">'k Snel immer op hun wenken <rhyme label="a" type="m">heên</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">'k Volbreng wat men <rhyme label="b" type="m">gebiedt</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Zoo zijn ze ook over mij te <rhyme label="a" type="m" corresp="#s2:l1">vreên</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">En 'k doe hun nooit <rhyme label="b" type="m" corresp="#s2:l2">verdriet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Thans ga ik naar het <rhyme label="a" type="m">postkantoor</rhyme>;</l>
+        <l id="s3:l2" met="3" type="-+">Maar wat me op straat <rhyme label="b" type="m">ontmoet</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Ik stap bestendig altijd <rhyme label="a" type="m" corresp="#s3:l1">door</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Wie dat mij wenkt of <rhyme label="b" type="m" corresp="#s3:l2">groet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

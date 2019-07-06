@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>173326</id>
+    <date>
+      <year-start>1802</year-start>
+      <year-end>1802</year-end>
+    </date>
+    <location>
+      <orginal-name>den haag</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="troostlied" translation="consolation song">troostlied</tag>
+    </tags>
+    <melody>Psalm 038 Datheen</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Hieronymus van Alphen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Neen, gij zult niet eeuwig <rhyme label="a" type="f">twisten</rhyme>,</l>
+        <l id="s1:l2" met="2" type="+-">Strijdend <rhyme label="a" type="f" corresp="#s1:l1">Christen</rhyme>!</l>
+        <l id="s1:l3" met="4" type="+-">Met den vijand, die u <rhyme label="b" type="m">haat</rhyme>:</l>
+        <l id="s1:l4" met="4" type="+-">Als het vleesch u zal <rhyme label="c" type="f">begeven</rhyme>,</l>
+        <l id="s1:l5" met="2" type="+-">Zultge <rhyme label="c" type="f" corresp="#s1:l4">zweven</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Boven aanval en <rhyme label="b" type="m" corresp="#s1:l3">verraad</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Wandelt gij langs stille <rhyme label="a" type="f">graven</rhyme>,</l>
+        <l id="s2:l2" met="2" type="+-">Denk: die <rhyme label="a" type="f" corresp="#s2:l1">haven</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Wagt mij eerlang tot mijn <rhyme label="b" type="m">rust</rhyme>.</l>
+        <l id="s2:l4" met="4" type="+-">Zugten, kermen, weenen, <rhyme label="c" type="f">strijden</rhyme>,</l>
+        <l id="s2:l5" met="2" type="+-">Klagen, <rhyme label="c" type="f" corresp="#s2:l4">lijden</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Landen niet aan 's hemels <rhyme label="b" type="m" corresp="#s2:l3">kust</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">'t Leger dier <rhyme label="a" type="f">Egyptenaaren</rhyme>,</l>
+        <l id="s3:l2" met="2" type="+-">In de <rhyme label="a" type="f" corresp="#s3:l1">baaren</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Van de zee des doods <rhyme label="b" type="m">gesmoord</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Zal u daar, met helsche <rhyme label="c" type="f">blikken</rhyme></l>
+        <l id="s3:l5" met="2" type="+-">Niet <rhyme label="c" type="f" corresp="#s3:l4">verschrikken</rhyme>.</l>
+        <l id="s3:l6" met="4" type="+-">Waar geen noodkreet wordt <rhyme label="b" type="m" corresp="#s3:l3">gehoord</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Nog maar kort; en 't is <rhyme label="a" type="f">geleden</rhyme>;</l>
+        <l id="s4:l2" met="2" type="+-"><rhyme label="a" type="f" corresp="#s4:l1">Doorgestreden</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Wat u pijnigt of <rhyme label="b" type="m">bedroeft</rhyme>.</l>
+        <l id="s4:l4" met="4" type="+-">Uw Ontfermer zal u <rhyme label="c" type="f">leiden</rhyme>;</l>
+        <l id="s4:l5" met="2" type="+-">Maar <rhyme label="c" type="f" corresp="#s4:l4">verbeiden</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">Blijft uw pligt, schoon Hij <rhyme label="b" type="m" corresp="#s4:l3">vertoeft</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Zonder haasten steeds <rhyme label="a" type="f">gelooven</rhyme>,</l>
+        <l id="s5:l2" met="2" type="+-">Heft naar <rhyme label="a" type="f" corresp="#s5:l1">boven</rhyme></l>
+        <l id="s5:l3" met="4" type="+-">'t Hart, ook als Hij wagten <rhyme label="b" type="m">doet</rhyme>.</l>
+        <l id="s5:l4" met="4" type="+-">Komen zal Hij; zeker <rhyme label="c" type="f">komen</rhyme>;</l>
+        <l id="s5:l5" met="2" type="+-">'s <rhyme label="c" type="f" corresp="#s5:l4">Levens-stroomen</rhyme></l>
+        <l id="s5:l6" met="4" type="+-">Ruisschen u reeds in 't <rhyme label="b" type="m" corresp="#s5:l3">gemoet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111832</id>
+    <date>
+      <year-start>1745</year-start>
+      <year-end>1745</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klinkerlied" translation="vowel song">klinkerlied</tag>
+      <tag standard-name="erotisch lied" translation="erotic song">erotisch lied</tag>
+    </tags>
+    <melody>A a a valete studia</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">A.A.A. Myn Lief <rhyme label="a" type="m">Clorenia</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Is nu heel in myne <rhyme label="b" type="m">Magt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Ik heb 't Hart tot Min <rhyme label="b" type="m" corresp="#s1:l2">gebragt</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">A.A.A. Van myn <rhyme label="a" type="m" corresp="#s1:l1">Clorenia</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">E.E.E. Ze is met myn Min te <rhyme label="a" type="m">vree</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Nimmer zeitze houd u <rhyme label="b" type="m">stil</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Als ik haer eens Kussen <rhyme label="b" type="m" corresp="#s2:l2">wil</rhyme>:</l>
+        <l id="s2:l4" met="6" type="-+">E.E.E. Ze is met myn Min te <rhyme label="a" type="m" corresp="#s2:l1">vree</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">I.I.I. My dunkt ik haer daer <rhyme label="a" type="m">zie</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Zoo ik door de min niet <rhyme label="b" type="m">Dool</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Jongens houje stil in 't <rhyme label="b" type="m" corresp="#s3:l2">school</rhyme>:</l>
+        <l id="s3:l4" met="6" type="-+">I.I.I. My dunkt dat ik ze <rhyme label="a" type="m" corresp="#s3:l1">zie</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">O.O.O. 't Is vreugd in <rhyme label="a" type="m">Folio</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">En zy schynd in 't minst niet <rhyme label="b" type="m">koel</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Als ik by haer Borsjes <rhyme label="b" type="m" corresp="#s4:l2">voel</rhyme>;</l>
+        <l id="s4:l4" met="6" type="-+">O.O.O. Dat 's vreugd in <rhyme label="a" type="m" corresp="#s4:l1">Folio</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="6" type="-+">U.U.U. Zy is van my niet <rhyme label="a" type="m">schuw</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Als ik haer vat by haer <rhyme label="b" type="m">Pack</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Grypt ze 't steeltje van myn <rhyme label="b" type="m" corresp="#s5:l2">Plak</rhyme>,</l>
+        <l id="s5:l4" met="6" type="-+">U.U.U. Zie daer wat zegje <rhyme label="a" type="m" corresp="#s5:l1">nu</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

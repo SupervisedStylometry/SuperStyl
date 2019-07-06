@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22400</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Gott hat ein ewig Bündnis gestellt</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Godt heeft een eewich verbont <rhyme label="a" type="m">ghestelt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Met Abraham ende <rhyme label="b" type="f">allen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Die hy hem seluen heeft <rhyme label="a" type="m" corresp="#s1:l1">toeghetelt</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Nae zijnen wel <rhyme label="b" type="f" corresp="#s1:l2">gheuallen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Tverbont dat streckt hem in dat <rhyme label="a" type="m">vleesch</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">En sou toch eewich <rhyme label="b" type="f">blijuen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Alleen tghelooue nae Godes <rhyme label="a" type="m" corresp="#s2:l1">heesch</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Die menscheyt doet <rhyme label="b" type="f" corresp="#s2:l2">beclijuen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">In syn selfs lyf besneden <rhyme label="a" type="m">wiert</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Een kint van vrouwen <rhyme label="b" type="f">zade</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Nae tsvaders wesen, God <rhyme label="a" type="m" corresp="#s3:l1">versciert</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Neempt ons aen wt <rhyme label="b" type="f" corresp="#s3:l2">ghenade</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Als Christus nu besneden <rhyme label="a" type="m">was</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Dat vleesch moeste voorder <rhyme label="b" type="f">steruen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Daeromme liet hy dat dooden <rhyme label="a" type="m" corresp="#s4:l1">ras</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Maer tsamen niet <rhyme label="b" type="f" corresp="#s4:l2">verderuen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Tvleesch heeft hy selue op doen <rhyme label="a" type="m">staen</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Met hem tot eewich <rhyme label="b" type="f">leuen</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">En so versterckt zijn verbont <rhyme label="a" type="m" corresp="#s5:l1">zaen</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Voor ons eyghen heeft hy hem <rhyme label="b" type="f" corresp="#s5:l2">ghegheuen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Hy is nu onse, ende <rhyme label="a" type="m">blijft</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">By ons sonder <rhyme label="b" type="f">vermijden</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Want hy heeft hem die <rhyme label="a" type="m" corresp="#s6:l1">inghelijft</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">Die Christum hier <rhyme label="b" type="f" corresp="#s6:l2">belijden</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Dit is tverbont met <rhyme label="a" type="m">Abraham</rhyme>,</l>
+        <l id="s7:l2" met="3" type="-+">Dat wy in Christo <rhyme label="b" type="f">leeren</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Vermenicht is syn edel <rhyme label="a" type="m" corresp="#s7:l1">stam</rhyme>,</l>
+        <l id="s7:l4" met="3" type="-+">Bouen tal der Sterren des <rhyme label="b" type="f" corresp="#s7:l2">Heeren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

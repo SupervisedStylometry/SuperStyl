@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100146</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Les Feuillantines</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="+-">Speelnimfs helpt de Bruyd te bed, Met een <rhyme label="a" type="m">zet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Zoo word niemands vreugd <rhyme label="a" type="m" corresp="#s1:l1">belet</rhyme>:</l>
+        <l id="s1:l3" met="4" type="+-">Want wy zyn hier niet <rhyme label="b" type="f">gekomen</rhyme></l>
+        <l id="s1:l4" met="6" type="-+">Om versuft, En verduft, Te zitten <rhyme label="b" type="f" corresp="#s1:l3">droomen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

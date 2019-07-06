@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4337</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Granida prinses</melody>
+  <author>Pieter Dubbels</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">AL mijn geesjes <rhyme label="a" type="f">landen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">Op mijn grage <rhyme label="b" type="f">lippen</rhyme>,</l>
+        <l id="s1:l3" met="5" type="+-">Als ik (van gewenste weeld' <rhyme label="c" type="m">verrast</rhyme>)</l>
+        <l id="s1:l4" met="3" type="+-">Liet de teile <rhyme label="a" type="f" corresp="#s1:l1">randen</rhyme>,</l>
+        <l id="s1:l5" met="3" type="+-">Van mijn lippen <rhyme label="b" type="f" corresp="#s1:l2">glippen</rhyme>,</l>
+        <l id="s1:l6" met="5" type="+-">Op de kim van 't kloppende <rhyme label="c" type="m" corresp="#s1:l3">alabast</rhyme>;</l>
+        <l id="s1:l7" met="5" type="-+">O Min! hoe ik mijn lusten meerder <rhyme label="d" type="m">blust'</rhyme>,</l>
+        <l id="s1:l8" met="6" type="-+">Hoe ik, in lust verwart, hunkkerden na veerder <rhyme label="d" type="m" corresp="#s1:l7">lust</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

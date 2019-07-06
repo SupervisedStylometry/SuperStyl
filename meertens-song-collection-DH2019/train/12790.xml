@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12790</id>
+    <date>
+      <year-start>1658</year-start>
+      <year-end>1658</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Psalm 130 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Franciscus Ridderus</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">GHy Jesus, zijt mijn <rhyme label="a" type="f">hoeder</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Mijn Heylandt en mijn <rhyme label="b" type="m">Heer</rhyme>!</l>
+        <l id="s1:l3" met="3" type="-+">Mijn Bruydegom, mijn <rhyme label="a" type="f" corresp="#s1:l1">Broeder</rhyme>!</l>
+        <l id="s1:l4" met="3" type="-+">Waer ick my wend of <rhyme label="b" type="m" corresp="#s1:l2">keer</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">'kVind nergens meer <rhyme label="c" type="f">genougen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Dan in u <rhyme label="d" type="m">vrindlijkheyt</rhyme>:</l>
+        <l id="s1:l7" met="3" type="-+">'kVind nergens meer <rhyme label="c" type="f" corresp="#s1:l5">bedrouven</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Dan als ghy van my <rhyme label="d" type="m" corresp="#s1:l6">scheydt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Maer ah! mijn hert is <rhyme label="a" type="f">doodigh</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Ten wil niet tot u <rhyme label="b" type="m">heen</rhyme>:</l>
+        <l id="s2:l3" met="3" type="-+">U kracht is my seer <rhyme label="a" type="f" corresp="#s2:l1">noodigh</rhyme>:</l>
+        <l id="s2:l4" met="3" type="-+">Helpt my eens op de <rhyme label="b" type="m" corresp="#s2:l2">been</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Op dat ick stae en <rhyme label="c" type="f">loope</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Ter liefd' van uwen <rhyme label="d" type="m">naem</rhyme>:</l>
+        <l id="s2:l7" met="3" type="-+">Hoe derf ick anders <rhyme label="c" type="f" corresp="#s2:l5">hoope</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Dat ick ben <rhyme label="d" type="m" corresp="#s2:l6">aengenaem</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Als ick, met kleyne <rhyme label="a" type="f">krachten</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Noch souck 'tgeen u <rhyme label="b" type="m">behaeght</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Dan sult ghy niet <rhyme label="a" type="f" corresp="#s3:l1">verachten</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">U Lieflingh, die steeds <rhyme label="b" type="m" corresp="#s3:l2">klaeght</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Over 'tgevoel van <rhyme label="c" type="f">sonden</rhyme>:</l>
+        <l id="s3:l6" met="3" type="-+">Ick grijp u bloet maer <rhyme label="d" type="m">aen</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">En drup dat in mijn <rhyme label="c" type="f" corresp="#s3:l5">wonden</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Soo blijft mijn hoop noch <rhyme label="d" type="m" corresp="#s3:l6">staen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

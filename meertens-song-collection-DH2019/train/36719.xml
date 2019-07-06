@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36719</id>
+    <date>
+      <year-start>1631</year-start>
+      <year-end>1631</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>Och mocht ik eens van min kwelen</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Lucas van Mechelen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">OCh mocht' ick eens van minne <rhyme label="a" type="f">quelen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Mocht' ick toch eens sieck <rhyme label="b" type="m">zijn</rhyme>!</l>
+        <l id="s1:l3" met="5" type="-+">Mocht' ick dat spel eens met Godts liefde <rhyme label="a" type="f" corresp="#s1:l1">spelen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Van die ghewenschte soete <rhyme label="b" type="m" corresp="#s1:l2">pijn'</rhyme>!</l>
+        <l id="s1:l5" met="6" type="-+">Hoe wel naer mijnen luste soud' ick in soete <rhyme label="c" type="f">ruste</rhyme></l>
+        <l id="s1:l6" met="5" type="-+">Vol vrolijckheyt met minne zijn te <rhyme label="d" type="m">vre'</rhyme>,</l>
+        <l id="s1:l7" met="5" type="-+">Wat leet, wat smert' wat perss' sy my <rhyme label="d" type="m" corresp="#s1:l6">aen-de'</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O Liefde soet quetst eens mijn <rhyme label="a" type="f">herte</rhyme>;</l>
+        <l id="s2:l2" met="3" type="-+">Ick wensch' te zijn <rhyme label="b" type="m">gheraeckt</rhyme>;</l>
+        <l id="s2:l3" met="5" type="-+">Ghy laet te langh' my haken naer u <rhyme label="a" type="f" corresp="#s2:l1">smerte</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Met uwe wonde my <rhyme label="b" type="m" corresp="#s2:l2">vermaeckt</rhyme>:</l>
+        <l id="s2:l5" met="6" type="-+">Quetst my, quetst my Godts minne: quetst my met Godts <rhyme label="c" type="f">vriendinne</rhyme>:</l>
+        <l id="s2:l6" met="5" type="-+">Schinckt my den troost, die ick van u <rhyme label="d" type="m">begheer'</rhyme>,</l>
+        <l id="s2:l7" met="5" type="-+">Dat uwe pijn' my eens in Godt <rhyme label="d" type="m" corresp="#s2:l6">verteer'</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Oft ghy my woudt ten grond' <rhyme label="a" type="f">bederven</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">En my mijn cracht <rhyme label="b" type="m">ont-naemt</rhyme>;</l>
+        <l id="s3:l3" met="5" type="-+">O minne Godts; oft ghy my woudt doen <rhyme label="a" type="f" corresp="#s3:l1">sterven</rhyme>;</l>
+        <l id="s3:l4" met="4" type="-+">En my van hier wegh halen <rhyme label="b" type="m" corresp="#s3:l2">quaemt</rhyme>;</l>
+        <l id="s3:l5" met="6" type="-+">O sterven, soet verblijden: mocht' ick die doot eens <rhyme label="c" type="f">lijden</rhyme>;</l>
+        <l id="s3:l6" met="5" type="-+">Hoe soud' ick staen in mijnen Godt <rhyme label="d" type="m">verheught</rhyme>?</l>
+        <l id="s3:l7" met="5" type="-+">O Liefde Godts: mijn doodt waer mijne <rhyme label="d" type="m" corresp="#s3:l6">vreught</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Door-wondt my toch, laet my eens <rhyme label="a" type="f">proeven</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Den soeten sielen <rhyme label="b" type="m">druck</rhyme>:</l>
+        <l id="s4:l3" met="5" type="-+">Ick sterf', dat ghy my niet en wilt <rhyme label="a" type="f" corresp="#s4:l1">bedroeven</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Met v gheluckigh <rhyme label="b" type="m" corresp="#s4:l2">ongheluck</rhyme>:</l>
+        <l id="s4:l5" met="6" type="-+">O droefheydt vol ghenuchte: daer ick bly' naer <rhyme label="c" type="f">versuchte</rhyme>:</l>
+        <l id="s4:l6" met="5" type="-+">Och oft ick eens vol-doeningh' in u <rhyme label="d" type="m">vont</rhyme>:</l>
+        <l id="s4:l7" met="5" type="-+">Och oft ick mocht' van u eens zijn <rhyme label="d" type="m" corresp="#s4:l6">door-wont</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Verkranckt my toch, maeckt my eens <rhyme label="a" type="f">banghe</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Ick wensch' naer uwe <rhyme label="b" type="m">quael'</rhyme>:</l>
+        <l id="s5:l3" met="5" type="-+">Gheeft my toch eens daer ick soo naer <rhyme label="a" type="f" corresp="#s5:l1">verlanghe</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Met mijn begheerten <rhyme label="b" type="m" corresp="#s5:l2">altemael</rhyme>:</l>
+        <l id="s5:l5" met="6" type="-+">Mijn herte wordt ontsteken om heel in u <rhyme label="c" type="f">t'ontbreken</rhyme>,</l>
+        <l id="s5:l6" met="5" type="-+">Met uwe wee, met uwe persse <rhyme label="d" type="m">bly'</rhyme></l>
+        <l id="s5:l7" met="5" type="-+">O Liefde maeckt dat ick ghedoodt eens <rhyme label="d" type="m" corresp="#s5:l6">zy</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Och oft ick met die blijde <rhyme label="a" type="f">siele</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">Met die claer' Godts <rhyme label="b" type="m">vriendinn'</rhyme></l>
+        <l id="s6:l3" met="5" type="-+">In minne wee, in minne-sieckte <rhyme label="a" type="f" corresp="#s6:l1">viele</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">En daer mocht' sterven <rhyme label="b" type="m" corresp="#s6:l2">inn'</rhyme>!</l>
+        <l id="s6:l5" met="6" type="-+">Mijn sterven waer mijn leven; wie sal my die vreught <rhyme label="c" type="f">geven</rhyme>:</l>
+        <l id="s6:l6" met="5" type="-+">O Liefde soet! gheeft my die blijde <rhyme label="d" type="m">doodt</rhyme>,</l>
+        <l id="s6:l7" met="5" type="-+">Daer ick toe hebb' den wensch soo <rhyme label="d" type="m" corresp="#s6:l6">over-groot</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Ver-troost my eens met uwen <rhyme label="a" type="f">rouwe</rhyme>,</l>
+        <l id="s7:l2" met="3" type="-+">Met u vrolijck <rhyme label="b" type="m">verdriet</rhyme>;</l>
+        <l id="s7:l3" met="5" type="-+">Ghy zijt alleen waer op ick my <rhyme label="a" type="f" corresp="#s7:l1">betrouwe</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">My uwe soete persse <rhyme label="b" type="m" corresp="#s7:l2">biet</rhyme>:</l>
+        <l id="s7:l5" met="6" type="-+">O perss': o soete wonde: oft my in u <rhyme label="c" type="f">verslonde</rhyme></l>
+        <l id="s7:l6" met="5" type="-+">Die sieckte bly' die soete <rhyme label="d" type="m">bitterheyt</rhyme>,</l>
+        <l id="s7:l7" met="5" type="-+">Die t'hert' in Godt soo salighlijck <rhyme label="d" type="m" corresp="#s7:l6">gheleyt</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Doodt my nu toch hier op der <rhyme label="a" type="f">eerden</rhyme>,</l>
+        <l id="s8:l2" met="3" type="-+">Dat ick mijns eens <rhyme label="b" type="m">ghemiss'</rhyme>?</l>
+        <l id="s8:l3" met="5" type="-+">V wonde soet houd' ick van meerder <rhyme label="a" type="f" corresp="#s8:l1">weerde</rhyme>,</l>
+        <l id="s8:l4" met="4" type="-+">Dan al wat op der eerden <rhyme label="b" type="m" corresp="#s8:l2">is</rhyme>:</l>
+        <l id="s8:l5" met="6" type="-+">Laet my in u verdwijnen, doodt my met uwe <rhyme label="c" type="f">pijnen</rhyme>;</l>
+        <l id="s8:l6" met="5" type="-+">G'en kont my niet, o Liefde! zijn te <rhyme label="d" type="m">vreet</rhyme>,</l>
+        <l id="s8:l7" met="5" type="-+">Als ghy my doodt met u soet <rhyme label="d" type="m" corresp="#s8:l6">minne-leet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

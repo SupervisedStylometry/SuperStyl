@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2037</id>
+    <date>
+      <year-start>1668</year-start>
+      <year-end>1669</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="nieuwjaarslied" translation="new year's song">nieuwjaarslied</tag>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+    </tags>
+    <melody>Sei tanto graziosa</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Johan Beets</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">HOud op van 't sondigh <rhyme label="a" type="f">leven</rhyme>;</l>
+        <l id="s1:l2" met="5" type="-+">Laet ons den tijdt een goeleer meester <rhyme label="b" type="f">wesen</rhyme>;</l>
+        <l id="s1:l3" met="3" type="-+">'t Oude Jaer is <rhyme label="a" type="f" corresp="#s1:l1">verdreven</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Is 't datmen geen wet meer behoeft te <rhyme label="b" type="f" corresp="#s1:l2">vreesen</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Nu onse <rhyme label="c" type="m">Christ'</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Geboren <rhyme label="c" type="m" corresp="#s1:l5">is</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Zijn wy niet meer <rhyme label="d" type="f">beladen</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">Dat Godt ons <rhyme label="e" type="f">loone</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Maer dat hy wil <rhyme label="e" type="f" corresp="#s1:l8">betoone</rhyme>:</l>
+        <l id="s1:l10" met="2" type="-+">Zijn <rhyme label="d" type="f" corresp="#s1:l7">genaede</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Doch wy moeten <rhyme label="a" type="f">verlaten</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Ons' sonden, mensch! en houden op van <rhyme label="b" type="f">dwalen</rhyme>;</l>
+        <l id="s2:l3" met="3" type="-+">Ons quado en nu te <rhyme label="a" type="f" corresp="#s2:l1">haten</rhyme>;</l>
+        <l id="s2:l4" met="5" type="-+">Gelijkerwijs de zon houd op van <rhyme label="b" type="f" corresp="#s2:l2">daelen</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">En vlied 'et <rhyme label="c" type="m">spoor</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">Waer in hy <rhyme label="c" type="m" corresp="#s2:l5">voor</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Heen zinkend' plagh te <rhyme label="d" type="f">rijden</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Laet ons de <rhyme label="e" type="f">wegen</rhyme></l>
+        <l id="s2:l9" met="3" type="-+">Waer in wy souden <rhyme label="e" type="f" corresp="#s2:l8">plegen</rhyme></l>
+        <l id="s2:l10" met="2" type="-+">Zoo ook <rhyme label="d" type="f" corresp="#s2:l7">mijden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">De Zon trekt aen het <rhyme label="a" type="f">rijsen</rhyme>:</l>
+        <l id="s3:l2" met="5" type="-+">Let menschen let, wat of dit is te <rhyme label="b" type="f">seggen</rhyme>;</l>
+        <l id="s3:l3" met="3" type="-+">Hier meê wil hy <rhyme label="a" type="f" corresp="#s3:l1">bewijzen</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Dat niet genoegh is zonden af te <rhyme label="b" type="f" corresp="#s3:l2">leggen</rhyme>;</l>
+        <l id="s3:l5" met="2" type="-+">Maer datmen <rhyme label="c" type="m">moet</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">Zich spoên tot <rhyme label="c" type="m" corresp="#s3:l5">goedt</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">En wassen in goê <rhyme label="d" type="f">werken</rhyme>;</l>
+        <l id="s3:l8" met="2" type="-+">En door <rhyme label="e" type="f">gebeden</rhyme>,</l>
+        <l id="s3:l9" met="3" type="-+">Zoo sullen Godts <rhyme label="e" type="f" corresp="#s3:l8">goetheden</rhyme></l>
+        <l id="s3:l10" met="2" type="-+">Ons <rhyme label="d" type="f" corresp="#s3:l7">versterken</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Dit gunn' ons Godt der <rhyme label="a" type="f">goden</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Die ons sijn geest wil mildelijken <rhyme label="b" type="f">geven</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Ons leeren sijn <rhyme label="a" type="f" corresp="#s4:l1">geboden</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">Op dat wy naer sijn woorden heiligh <rhyme label="b" type="f" corresp="#s4:l2">leven</rhyme>:</l>
+        <l id="s4:l5" met="2" type="-+">Zijn wijs <rhyme label="c" type="m">behoed'</rhyme></l>
+        <l id="s4:l6" met="2" type="-+">Leert ons tot <rhyme label="c" type="m" corresp="#s4:l5">goedt</rhyme>.</l>
+        <l id="s4:l7" met="3" type="-+">En schut ons voor <rhyme label="d" type="f">beswaeren</rhyme>;</l>
+        <l id="s4:l8" met="2" type="-+">Zoo dat wy <rhyme label="e" type="f">mogen</rhyme>,</l>
+        <l id="s4:l9" met="3" type="-+">En staegh te dienen <rhyme label="e" type="f" corresp="#s4:l8">pogen</rhyme></l>
+        <l id="s4:l10" met="2" type="-+">Veel nieuw' <rhyme label="d" type="f" corresp="#s4:l7">jaren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

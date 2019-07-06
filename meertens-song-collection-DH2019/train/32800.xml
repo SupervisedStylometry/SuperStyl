@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32800</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="marialied" translation="Maria song">Marialied</tag>
+    </tags>
+    <melody>Wilder dan wild</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">VVEest ghegroet Maria vol <rhyme label="a" type="f">weerden</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Den Heere is met u <rhyme label="b" type="m">altijdt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Boven alle vrouwen op der <rhyme label="a" type="f" corresp="#s1:l1">eerden</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Zijt ghy van Godt <rhyme label="b" type="m" corresp="#s1:l2">ghebenedijdt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Maria ghy zijt die Arcke <rhyme label="a" type="f">verheven</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Daer 't hemels broot in was <rhyme label="b" type="m">bewaert</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Ghy sijt Moeder en Maeght <rhyme label="a" type="f" corresp="#s2:l1">ghebleven</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Al hebdy den, Soon Gods <rhyme label="b" type="m" corresp="#s2:l2">ghebaert</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Maria hoe weerdich moeten wy u <rhyme label="a" type="f">achten</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Die t' Lammeken Godts hebt voorts <rhyme label="b" type="m">ghebracht</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Waer door versoent zijn alle <rhyme label="a" type="f" corresp="#s3:l1">gheslachten</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Die totter doot toe laghen <rhyme label="b" type="m" corresp="#s3:l2">versmacht</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Maria ghy hebt der vyant <rhyme label="a" type="f">vertreden</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Die ons had onder zijn <rhyme label="b" type="m">ghewelt</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">Door u saet zijn wy al <rhyme label="a" type="f" corresp="#s4:l1">verbeden</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Die tot een middelaers is <rhyme label="b" type="m" corresp="#s4:l2">ghestelt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Maria ghy zijt ontschuldich van <rhyme label="a" type="f">sonden</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Den spieghel van alle <rhyme label="b" type="m">suyverheydt</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Ootmoedich, vol liefden tot allen <rhyme label="a" type="f" corresp="#s5:l1">stonden</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Van d'Enghels zijt ghy ten Hemel <rhyme label="b" type="m" corresp="#s5:l2">gheleydt</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Och Maria ghy blinckend' <rhyme label="a" type="f">Zeesterre</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Ghy zijt ons ziele een <rhyme label="b" type="m">Medecijn</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Brenght ons schip ter haven van <rhyme label="a" type="f" corresp="#s6:l1">verre</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Die hier door in perijckel <rhyme label="b" type="m" corresp="#s6:l2">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Maria O Bruydt des Conincks <rhyme label="a" type="f">machtich</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">Beminster des Heeren <rhyme label="b" type="m">excellent</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">Lof en glory zy u <rhyme label="a" type="f" corresp="#s7:l1">waerachtich</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Nu ende eeuwich sonder <rhyme label="b" type="m" corresp="#s7:l2">ent</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

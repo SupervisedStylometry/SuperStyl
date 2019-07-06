@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111505</id>
+    <date>
+      <year-start>1650</year-start>
+      <year-end>1660</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Amour est un plaisir si doux</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">LIefd' is een al soete <rhyme label="a" type="m">lust</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">So kitteligh en blije <rhyme label="b" type="f">weelde</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Dat mijn gemoedt niet anders <rhyme label="b" type="f" corresp="#s1:l2">beelde</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Als mijn vreught die mijn stelt <rhyme label="a" type="m" corresp="#s1:l1">gherust</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">O soete bly <rhyme label="c" type="m">gestreel</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Blijft mijn verkooren <rhyme label="c" type="m" corresp="#s1:l5">deel</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hy roemt, wie wil hem van 't <rhyme label="a" type="m">geluk</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Dat noyt geen Liefdens quael hem <rhyme label="b" type="f">pijnde</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Contrary ick doen hy my <rhyme label="b" type="f" corresp="#s2:l2">mijnde</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Ick achtent vreucht in stee van <rhyme label="a" type="m" corresp="#s2:l1">druck</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">O soete bly <rhyme label="c" type="m">gestreel</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Blijft mijn verkooren <rhyme label="c" type="m" corresp="#s2:l5">deel</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ick acht veul meer de minste <rhyme label="a" type="m">gunst</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Ja d'oogluyck van mijn <rhyme label="b" type="f">alderschoone</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Als' s Konincx staf, of Gouwe <rhyme label="b" type="f" corresp="#s3:l2">Kroone</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Of 't geen den Mensch bedenckt in <rhyme label="a" type="m" corresp="#s3:l1">kunst</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">O soete bly <rhyme label="c" type="m">gestreel</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Blijft mijn verkooren <rhyme label="c" type="m" corresp="#s3:l5">deel</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Na dees alsoo soete <rhyme label="a" type="m">vlam</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Mijn Zielens lust na wensch <rhyme label="b" type="f">ontvoerde</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Noyt blijer tijdt of lust <rhyme label="b" type="f" corresp="#s4:l2">beroerde</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Mijn geheugh als dees die <rhyme label="a" type="m" corresp="#s4:l1">benam</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Met getreur, ach! mijn <rhyme label="c" type="m">min</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Blijft mijn hart, ick u <rhyme label="c" type="m" corresp="#s4:l5">sin</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

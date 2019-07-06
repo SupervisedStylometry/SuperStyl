@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10582</id>
+    <date>
+      <year-start>1591</year-start>
+      <year-end>1591</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="meilied" translation="May song">meilied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Het voer een maagdje over Rijn</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DE mey dees vrolijcke soete <rhyme label="a" type="m">tijt</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Die door haer groente elck <rhyme label="a" type="m" corresp="#s1:l1">verblijt</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Verweckt des iongers <rhyme label="b" type="f">sinnen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Verweckt des iongers <rhyme label="b" type="f" corresp="#s1:l3">sinnen</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Tot het lieflijcke spel van <rhyme label="b" type="f" corresp="#s1:l3">minnen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Liefde te draghen is <rhyme label="a" type="m">verdriet</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Daer deen bemint en dander <rhyme label="a" type="m" corresp="#s2:l1">niet</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Oft als dees nyders <rhyme label="b" type="f">treken</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Oft als dees nyders <rhyme label="b" type="f" corresp="#s2:l3">treken</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">In lieft doen liefd <rhyme label="b" type="f" corresp="#s2:l3">ontbreken</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Maer liefde te draghen dat is <rhyme label="a" type="m">lust</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Als lief in liefs behagen <rhyme label="a" type="m" corresp="#s3:l1">rust</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Die lieft met lieft wil <rhyme label="b" type="f">loonen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Die lieft met lieft wil <rhyme label="b" type="f" corresp="#s3:l3">loonen</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Dees liefde moet men <rhyme label="b" type="f" corresp="#s3:l3">croonen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Sulck ooch lonckt deerlijck ouer <rhyme label="a" type="m">sy</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Daer t'lichaem veer is en t'hart nae <rhyme label="a" type="m" corresp="#s4:l1">by</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Maer t'loeroocht sonder <rhyme label="b" type="f">schroomen</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Maer t'loeroocht sonder <rhyme label="b" type="f" corresp="#s4:l3">schroomen</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Daermen vrijelijck by een mach <rhyme label="b" type="f" corresp="#s4:l3">comen</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Ghy Prinskens die wt vryen <rhyme label="a" type="m">gaet</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">En loeroocht niet meer <rhyme label="a" type="m" corresp="#s5:l1">ouerstraet</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Maer lonckt van <rhyme label="b" type="f">ouersyen</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Maer lonckt van <rhyme label="b" type="f" corresp="#s5:l3">ouersyen</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">Wildy verhoolen <rhyme label="b" type="f" corresp="#s5:l3">vryen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

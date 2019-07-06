@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>164746</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Tranquilles coeurs</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Sal dan de schoonheid of het <rhyme label="a" type="m">goud</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Van mijne liefden   <rhyme label="b" type="f">segepralen</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Sal dat metaal daar elk op <rhyme label="a" type="m" corresp="#s1:l1">bouwt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Op mijne drift   de prijs <rhyme label="b" type="f" corresp="#s1:l2">behalen</rhyme>,</l>
+        <l id="s1:l5" met="6" type="-+">Of sal mijn hert, verrukt door het bekoorlijk <rhyme label="c" type="m">schoon</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Sig buygen voor haar <rhyme label="c" type="m" corresp="#s1:l5">throon</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Of sal de deugd, die het <rhyme label="a" type="m">gemoed</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Van haar besitters kan <rhyme label="b" type="f">vermaken</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">My strelen met haar glans en <rhyme label="a" type="m" corresp="#s2:l1">soet</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">En doen in hete liefden <rhyme label="b" type="f" corresp="#s2:l2">blaken</rhyme></l>
+        <l id="s2:l5" met="6" type="-+">Als sy in slegt   gewaad, vermaard en trots <rhyme label="c" type="m">veragt</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Werd van elk een <rhyme label="c" type="m" corresp="#s2:l5">belagt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">De lust bemind het Jeugdig <rhyme label="a" type="m">schoon</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Het hert in hoovaardy <rhyme label="b" type="f">verdronken</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Begeerd het goud, de deugd wiens <rhyme label="a" type="m" corresp="#s3:l1">loon</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Behoord de zielen te <rhyme label="b" type="f" corresp="#s3:l2">ontfonken</rhyme></l>
+        <l id="s3:l5" met="6" type="-+">Werd   als onwaardig, of om schat of hooge <rhyme label="c" type="m">staat</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Door blinde drift <rhyme label="c" type="m" corresp="#s3:l5">versmaad</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Hoe sal ik dan in dese <rhyme label="a" type="m">staat</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Voor mijne min het best   <rhyme label="b" type="f">verkiesen</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">Zal ik, Elise, uw <rhyme label="a" type="m" corresp="#s4:l1">gelaat</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Of Philis, uwe schat <rhyme label="b" type="f" corresp="#s4:l2">verliesen</rhyme>,</l>
+        <l id="s4:l5" met="6" type="-+">Of Kloris, uwe deugd verlaten, die my <rhyme label="c" type="m">streeld</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Door rykdom <rhyme label="c" type="m" corresp="#s4:l5">misgedeeld</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>123733</id>
+    <date>
+      <year-start>1841</year-start>
+      <year-end>1841</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="zeemanslied" translation="sailor's song">zeemanslied</tag>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="work">werk</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Hoera! ik gaan de <rhyme label="a" type="m">Oceaan</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Bevaren met er <rhyme label="b" type="m">spoed</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">En laten Hollands oude <rhyme label="a" type="m" corresp="#s1:l1">vaân</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Steeds wemelen op den <rhyme label="b" type="m" corresp="#s1:l2">vloed</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Daar waar de Ruiter, Tromp, Piet, <rhyme label="c" type="m">Hein</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Van Galen hunnen roem moog <rhyme label="c" type="m" corresp="#s1:l5">zijn</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Daar zal ik hoop ik lieve <rhyme label="d" type="m">meid</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Eens zien of mijn geluk daar <rhyme label="d" type="m" corresp="#s1:l7">lijd</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Het vaartuig ligt nu reeds <rhyme label="a" type="m">gereed</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">En stevend morgen <rhyme label="b" type="m">heen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Gevoeld gij soms nu <rhyme label="a" type="m" corresp="#s2:l1">hartenleed</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Ik bid staak uw <rhyme label="b" type="m" corresp="#s2:l2">geween</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">'t Is voor welvaart voor het <rhyme label="c" type="m">land</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Dat wij tot aan het verste <rhyme label="c" type="m" corresp="#s2:l5">strand</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Verzekeren rust en ware <rhyme label="d" type="m">vreê</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Kom lieve meid het gaat na <rhyme label="d" type="m" corresp="#s2:l7">zee</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Na zee, 't is op de <rhyme label="a" type="m">pekelplas</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Waarin drie daagsche <rhyme label="b" type="m">strijd</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">De Brit en Frank verloor <rhyme label="a" type="m" corresp="#s3:l1">kompas</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">En koers van hun <rhyme label="b" type="m" corresp="#s3:l2">beleid</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Waar Zoutman fier met <rhyme label="c" type="m">leeuwenmoed</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">De Brit betwiste op den <rhyme label="c" type="m" corresp="#s3:l5">vloed</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Op Doggersbank bevocht de <rhyme label="d" type="m">vreê</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Kom lieve meid het gaat na <rhyme label="d" type="m" corresp="#s3:l7">zee</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Denk eenz hoe dat de <rhyme label="a" type="m">Zilvervloot</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Verwonnen door Piet <rhyme label="b" type="m">Hein</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Gebragt wierd binnen Hollands <rhyme label="a" type="m" corresp="#s4:l1">schoot</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Zoo een gasje wil ik <rhyme label="b" type="m" corresp="#s4:l2">zijn</rhyme>;</l>
+        <l id="s4:l5" met="4" type="-+">En waar Capello Algiers <rhyme label="c" type="m">muur</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Tot vrede dwong met krakend <rhyme label="c" type="m" corresp="#s4:l5">vuur</rhyme>,</l>
+        <l id="s4:l7" met="4" type="-+">De slaven vrijheid schonk nam <rhyme label="d" type="m">mee</rhyme>,</l>
+        <l id="s4:l8" met="4" type="-+">Kom lieve meid het gaat na <rhyme label="d" type="m" corresp="#s4:l7">zee</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">De kiem van ons volmaakt <rhyme label="a" type="m">geluk</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Daar klouter ik naar <rhyme label="b" type="m">toe</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Niets dat mij kweld niets dat mij <rhyme label="a" type="m" corresp="#s5:l1">drukt</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Ik ga vreugdvol wel te <rhyme label="b" type="m" corresp="#s5:l2">moê</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">En schoon soms storm of onweêr <rhyme label="c" type="m">loeit</rhyme>,</l>
+        <l id="s5:l6" met="4" type="-+">Ik vrees die niet mijn borst die <rhyme label="c" type="m" corresp="#s5:l5">gloeit</rhyme>;</l>
+        <l id="s5:l7" met="4" type="-+">Voor, elks geluk in Dorp of <rhyme label="d" type="m">Stee</rhyme>,</l>
+        <l id="s5:l8" met="4" type="-+">Kom lieve meid het gaat na <rhyme label="d" type="m" corresp="#s5:l7">zee</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">En keer ik weêr, zoo zweer ik <rhyme label="a" type="m">trouw</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">Mijn woord en eer <rhyme label="b" type="m">verpand</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Dat gij zult zijn mijn echte <rhyme label="a" type="m" corresp="#s6:l1">vrouw</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">Hierop schenk 'k u mijn <rhyme label="b" type="m" corresp="#s6:l2">hand</rhyme>,</l>
+        <l id="s6:l5" met="4" type="-+">iva! dit leven bied mij <rhyme label="c" type="m">goud</rhyme>,</l>
+        <l id="s6:l6" met="4" type="-+">w deugd is mij dan <rhyme label="c" type="m" corresp="#s6:l5">aanvertrouwd</rhyme>,</l>
+        <l id="s6:l7" met="4" type="-+">Leeft dus genoeglijk en in <rhyme label="d" type="m">vreê</rhyme>,</l>
+        <l id="s6:l8" met="4" type="-+">Adieu voor 't laatst het gaat ga <rhyme label="d" type="m" corresp="#s6:l7">zee</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

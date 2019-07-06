@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20103</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HElaes Filander, waarom <rhyme label="a" type="m">vliet</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Gy van my af wat ramp is uw <rhyme label="a" type="m" corresp="#s1:l1">geschiet</rhyme>?</l>
+        <l id="s1:l3" met="5" type="+-">Wel en kander, van nu af geen <rhyme label="b" type="f">ander</rhyme>,</l>
+        <l id="s1:l4" met="5" type="+-">In uw Zieltje staan als <rhyme label="c" type="m">Galate</rhyme>?</l>
+        <l id="s1:l5" met="4" type="+-">Kan Rozette, uw borst als <rhyme label="c" type="m" corresp="#s1:l4">snee</rhyme>,</l>
+        <l id="s1:l6" met="6" type="-+">Door geklagt, nagt en dag, <rhyme label="d" type="m">getraan</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Tot Min niet prikken <rhyme label="d" type="m" corresp="#s1:l6">aan</rhyme>?</l>
+        <l id="s1:l8" met="6" type="-+">Filander zoo zult ghy, den oorzaak zijn van <rhyme label="e" type="m">my</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">Te doen sterven, om te <rhyme label="f" type="f">derven</rhyme>,</l>
+        <l id="s1:l10" met="4" type="+-">Al de smerten die ick <rhyme label="e" type="m" corresp="#s1:l8">ly</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O wrede Goden, die ’t <rhyme label="a" type="m">gebiet</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Hebt over d’ aart, my met uw blixem <rhyme label="a" type="m" corresp="#s2:l1">schiet</rhyme>;</l>
+        <l id="s2:l3" met="5" type="+-">Wilt my dooden, want ik kan die <rhyme label="b" type="f">snooden</rhyme>,</l>
+        <l id="s2:l4" met="5" type="+-">Niet meer zien die my zoo vals <rhyme label="c" type="m">verlaat</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">Zoud ik lyden deze <rhyme label="c" type="m" corresp="#s2:l4">smaat</rhyme></l>
+        <l id="s2:l6" met="6" type="-+">Neen ik zal, eerst dit dal, en dit <rhyme label="d" type="m">groen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Met bloet het geen zal <rhyme label="d" type="m" corresp="#s2:l6">vloen</rhyme>,</l>
+        <l id="s2:l8" met="6" type="-+">Uit mijne wonden neer, bepurperen, zoo <rhyme label="e" type="m">zeer</rhyme></l>
+        <l id="s2:l9" met="4" type="+-">Dat de Weyen, zullen <rhyme label="f" type="f">schreyen</rhyme></l>
+        <l id="s2:l10" met="4" type="+-">Droevig om Rozettaas <rhyme label="e" type="m" corresp="#s2:l8">eer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ach groene linden, schoon <rhyme label="a" type="m">geboomt</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Kristalle beek die zoetjes ruischt en <rhyme label="a" type="m" corresp="#s3:l1">stroomt</rhyme>,</l>
+        <l id="s3:l3" met="5" type="+-">Westewinden, zeg myne <rhyme label="b" type="f">zielbeminde</rhyme>,</l>
+        <l id="s3:l4" met="5" type="+-">Hoe Rozettas sturf van <rhyme label="c" type="m">minnenyt</rhyme>.</l>
+        <l id="s3:l5" met="4" type="+-">Ach mijn hartje barst van <rhyme label="c" type="m" corresp="#s3:l4">spijt</rhyme>,</l>
+        <l id="s3:l6" met="6" type="-+">Nu ik weet, tot myn leet, dat die ‘k <rhyme label="d" type="m">min</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Een boerse <rhyme label="d" type="m" corresp="#s3:l6">harderin</rhyme>,</l>
+        <l id="s3:l8" met="6" type="-+">Van lomp en slegt geslagt, meer als Rozetta <rhyme label="e" type="m">acht</rhyme>,</l>
+        <l id="s3:l9" met="4" type="+-">Die voor dezen, d’ <rhyme label="f" type="f">uitgelezen</rhyme>,</l>
+        <l id="s3:l10" met="4" type="+-">Was, van hem <rhyme label="e" type="m" corresp="#s3:l8">toegelaght</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

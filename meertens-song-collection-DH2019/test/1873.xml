@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1873</id>
+    <date>
+      <year-start>1615</year-start>
+      <year-end>1615</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>O nacht jaloerse nacht</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">O Suyverlijcke Maeght, hoe kundy my dus <rhyme label="a" type="f">toomen</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Hoe komt dat al mijn doen tot uwen dienste <rhyme label="b" type="m">streckt</rhyme>?</l>
+        <l id="s1:l3" met="6" type="-+">Mijn slapen neemt ghy my, vol lieffelijcke <rhyme label="a" type="f" corresp="#s1:l1">droomen</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Al legh ick schoon te bed, mijn rust ghy my <rhyme label="b" type="m" corresp="#s1:l2">ontreckt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Al gae ick over straet, ghy staet in mijn <rhyme label="a" type="f">ghedachten</rhyme>,</l>
+        <l id="s2:l2" met="6" type="-+">V liefde my verblindt, ick loop de luy op’t <rhyme label="b" type="m">lijf</rhyme>;</l>
+        <l id="s2:l3" met="6" type="-+">Al sagh ick d’alderschoonst, of die men schoonst mocht <rhyme label="a" type="f" corresp="#s2:l1">achten</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Sy zyn my ’t sien niet waert, en dat door u <rhyme label="b" type="m" corresp="#s2:l2">bedrijf</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">Ick overlegh altijdt hoe ick mach <rhyme label="a" type="f">behaghen</rhyme>,</l>
+        <l id="s3:l2" met="6" type="-+">Waer dat ick sit, mijn handt rust altijdt onder ’t <rhyme label="b" type="m">hooft</rhyme>,</l>
+        <l id="s3:l3" met="6" type="-+">Dan wil ick dick mijn druck alleen mijn ooghen <rhyme label="a" type="f" corresp="#s3:l1">klaghen</rhyme>,</l>
+        <l id="s3:l4" met="6" type="-+">Nochtans wensch ick gheluck die my mijn vreucht <rhyme label="b" type="m" corresp="#s3:l2">berooft</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">Mijn pen en tongh altijdt u schoonheyt moeten <rhyme label="a" type="f">eeren</rhyme>,</l>
+        <l id="s4:l2" met="6" type="-+">Hoe wel u onghenaed hier dickwijls teghen <rhyme label="b" type="m">strijdt</rhyme>,</l>
+        <l id="s4:l3" met="6" type="-+">Woudt ghy u dan tot my nu eenichsins <rhyme label="a" type="f" corresp="#s4:l1">verneeren</rhyme>,</l>
+        <l id="s4:l4" met="6" type="-+">Al wat ick dan vermocht, dat was u <rhyme label="b" type="m" corresp="#s4:l2">toeghewijt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="6" type="-+">Mocht ghy mijn waerde vrou in ’t eynd noch zijn <rhyme label="a" type="f">gheheten</rhyme>,</l>
+        <l id="s5:l2" met="6" type="-+">Ick achte d’aerd te koudt die ghy betreden <rhyme label="b" type="m">soudt</rhyme>,</l>
+        <l id="s5:l3" met="6" type="-+">Mijn handen droeghen u, om hoogh waert ghy <rhyme label="a" type="f" corresp="#s5:l1">gheseten</rhyme>,</l>
+        <l id="s5:l4" met="6" type="-+">Veel hoogher als de Maen, haer hooghe woonigh <rhyme label="b" type="m" corresp="#s5:l2">houdt</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="6" type="-+">De weken souden u hier klaerlijck van <rhyme label="a" type="f">ghetuyghen</rhyme>,</l>
+        <l id="s6:l2" met="6" type="-+">O Reynaerts schoon Goddin, ghelijck ick u <rhyme label="b" type="m">verbrey</rhyme>,</l>
+        <l id="s6:l3" met="6" type="-+">Hem die rijck zijn van goet, valt swaer soo laegh te <rhyme label="a" type="f" corresp="#s6:l1">buyghen</rhyme>,</l>
+        <l id="s6:l4" met="6" type="-+">Ten zy men acht de trou, Princes in dese <rhyme label="b" type="m" corresp="#s6:l2">Mey</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

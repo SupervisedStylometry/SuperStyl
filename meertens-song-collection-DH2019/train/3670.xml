@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3670</id>
+    <date>
+      <year-start>1566</year-start>
+      <year-end>1566</year-end>
+    </date>
+    <location>
+      <orginal-name>heidelberg</orginal-name>
+      <standard-name>Heidelberg, Germany</standard-name>
+      <coordinates>
+        <lon>49.4093582</lon>
+        <lat>8.694724</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 033 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Pieter Datheen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ONSE Godt sij ons nu <rhyme label="a" type="f">ghenaedigh</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">End seghen' ons met <rhyme label="b" type="m">ouervloedt</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Hy verlicht' ons alle <rhyme label="a" type="f" corresp="#s1:l1">ghestaedigh</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Met sijn aenschyn lieflick end <rhyme label="b" type="m" corresp="#s1:l2">soet</rhyme>.</l>
+        <l id="s1:l5" met="3" type="+-">Op dat ons sijn <rhyme label="c" type="f">weghen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Bekent recht van <rhyme label="c" type="f" corresp="#s1:l5">deghen</rhyme></l>
+        <l id="s1:l7" met="3" type="+-">Werden: end met <rhyme label="d" type="m">een</rhyme>,</l>
+        <l id="s1:l8" met="3" type="+-">Die heydenen <rhyme label="e" type="f">leeren</rhyme></l>
+        <l id="s1:l9" met="3" type="+-">hem tot den wegh <rhyme label="e" type="f" corresp="#s1:l8">keeren</rhyme>,</l>
+        <l id="s1:l10" met="3" type="+-">Onses heyls <rhyme label="d" type="m" corresp="#s1:l7">alleyn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Dat doch Heer die volcken met <rhyme label="a" type="f">singhen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">V seer dancken vry <rhyme label="b" type="m">openbaer</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">End met vrueghd uwen lof <rhyme label="a" type="f" corresp="#s2:l1">voortbringen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Hen in v verheugend' <rhyme label="b" type="m" corresp="#s2:l2">eenpaer</rhyme>.</l>
+        <l id="s2:l5" met="3" type="+-">Ghy hebt allen <rhyme label="c" type="f">lieden</rhyme>,</l>
+        <l id="s2:l6" met="3" type="+-">Alsins te <rhyme label="c" type="f" corresp="#s2:l5">ghebieden</rhyme>,</l>
+        <l id="s2:l7" met="3" type="+-">Nae v' goedtheit <rhyme label="d" type="m">reyn</rhyme>.</l>
+        <l id="s2:l8" met="3" type="+-">Iae t'gheheel <rhyme label="e" type="f">ęerdtrycke</rhyme>,</l>
+        <l id="s2:l9" met="3" type="+-">Ghy in der <rhyme label="e" type="f" corresp="#s2:l8">ghelycke</rhyme>,</l>
+        <l id="s2:l10" met="3" type="+-">Regiert Heer <rhyme label="d" type="m" corresp="#s2:l7">alleyn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Die volckeren met soeten <rhyme label="a" type="f">toone</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Dancken daer om uwen naem' <rhyme label="b" type="m">goet</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Om dat t'ęerdtryck draeght vruchten <rhyme label="a" type="f" corresp="#s3:l1">schoone</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Seghent ons Heer tot ons <rhyme label="b" type="m" corresp="#s3:l2">behoet</rhyme>.</l>
+        <l id="s3:l5" met="3" type="+-">Die Heere seer <rhyme label="c" type="f">goedigh</rhyme>,</l>
+        <l id="s3:l6" met="3" type="+-">Gheeft ons <rhyme label="c" type="f" corresp="#s3:l5">ouervloedigh</rhyme>,</l>
+        <l id="s3:l7" met="3" type="+-">Den seghen <rhyme label="d" type="m">ghewis</rhyme>.</l>
+        <l id="s3:l8" met="3" type="+-">Dat hem dies elck <rhyme label="e" type="f">vruchte</rhyme>,</l>
+        <l id="s3:l9" met="3" type="+-">End onsen Godt <rhyme label="e" type="f" corresp="#s3:l8">duchte</rhyme>,</l>
+        <l id="s3:l10" met="3" type="+-">Die almachtigh <rhyme label="d" type="m" corresp="#s3:l7">is</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

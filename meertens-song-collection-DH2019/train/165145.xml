@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>165145</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Van de mosselkreekse paap</melody>
+  <author>Cornelis Maertsz.</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ICk swemme met mijn Pick-broeck <rhyme label="a" type="m">heen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Daer noyt een Mensch kon <rhyme label="b" type="m">gaen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Dan eensjes by de ruydige <rhyme label="a" type="m" corresp="#s1:l1">Deen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Dan by de <rhyme label="b" type="m" corresp="#s1:l2">Indiaen</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Daer soeck ick van haer <rhyme label="c" type="m">schat</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Het beste by <rhyme label="d" type="f">malkander</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">En 't teerigh <rhyme label="c" type="m" corresp="#s1:l5">Water-vat</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Zeylt daer mee na <rhyme label="d" type="f" corresp="#s1:l6">d'Hollander</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Maer indien dat ick in 't <rhyme label="a" type="m">geheel</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Des Zee-mans Lof uyt <rhyme label="b" type="m">songh</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Ick hoefde wel een yseren <rhyme label="a" type="m" corresp="#s2:l1">keel</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">En een Metalen <rhyme label="b" type="m" corresp="#s2:l2">tongh</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Maer 't is de pijn niet <rhyme label="c" type="m">weert</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Die in mijn mondt te <rhyme label="d" type="f">hanghen</rhyme>;</l>
+        <l id="s2:l7" met="3" type="-+">Soo yemandt meer <rhyme label="c" type="m" corresp="#s2:l5">begeert</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Die mach dit Sangh <rhyme label="d" type="f" corresp="#s2:l6">verlanghen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

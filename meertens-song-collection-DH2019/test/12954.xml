@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12954</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">LAat het kostelijkst van <rhyme label="a" type="m">al</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">U niet reukeloos <rhyme label="b" type="f">ontslippen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Dat 's de tijdt, die snel gaat <rhyme label="b" type="f" corresp="#s1:l2">glippen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Zonder dat hy keeren <rhyme label="a" type="m" corresp="#s1:l1">zal</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">Och! hoe dun is dit <rhyme label="a" type="m" corresp="#s1:l1">getal</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Dat zijn uren meet by <rhyme label="b" type="f" corresp="#s1:l2">stippen</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Eer de doodt den draadt komt <rhyme label="b" type="f" corresp="#s1:l2">knippen</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Van hun leven <rhyme label="c" type="m">onverwacht</rhyme>.</l>
+        <l id="s1:l9" met="4" type="+-">Meest verlooren, minst <rhyme label="c" type="m" corresp="#s1:l8">geacht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

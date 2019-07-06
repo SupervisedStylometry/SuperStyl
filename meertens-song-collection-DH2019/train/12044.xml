@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12044</id>
+    <date>
+      <year-start>1617</year-start>
+      <year-end>1617</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+    </tags>
+    <melody>Magnum nomen Domini</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="+-">MAgnum nomen Domini <rhyme label="a" type="m">Emanuel</rhyme>,</l>
+        <l id="s1:l2" met="6" type="+-">Quod annunciatum est per <rhyme label="a" type="m" corresp="#s1:l1">Gabriel</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Hodie, <rhyme label="b" type="m">Hodie</rhyme></l>
+        <l id="s1:l4" met="6" type="-+">Apparuit, apparuit in <rhyme label="a" type="m" corresp="#s1:l1">Israel</rhyme>;</l>
+        <l id="s1:l5" met="6" type="+-">Sunt impleta quae praedixit <rhyme label="a" type="m" corresp="#s1:l1">Daniel</rhyme>;</l>
+        <l id="s1:l6" met="6" type="+-">De Maria virgine natus est <rhyme label="a" type="m" corresp="#s1:l1">EL</rhyme>.</l>
+        <l id="s1:l7" met="2" type="+-">Eia. <rhyme label="c" type="f">Eia</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Virgo Deum <rhyme label="d" type="m">genuit</rhyme>,</l>
+        <l id="s1:l9" met="4" type="-+">Sicut diuina <rhyme label="d" type="m" corresp="#s1:l8">voluit</rhyme></l>
+        <l id="s1:l10" met="2" type="-+"><rhyme label="a" type="m" corresp="#s1:l1">Clementia</rhyme>.</l>
+        <l id="s1:l11" met="2" type="-+">Gaudete, <rhyme label="e" type="f">Gaudete</rhyme>,</l>
+        <l id="s1:l12" met="4" type="+-">Christus natus <rhyme label="b" type="m" corresp="#s1:l3">hodie</rhyme>,</l>
+        <l id="s1:l13" met="2" type="-+">Gaudete, <rhyme label="e" type="f" corresp="#s1:l11">Gaudete</rhyme>,</l>
+        <l id="s1:l14" met="4" type="+-">Ex Maria <rhyme label="b" type="m" corresp="#s1:l3">virgine</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

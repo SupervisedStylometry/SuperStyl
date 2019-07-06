@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10300</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Zeg mij toch wel zoete lieve maagd</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">Waerde vrouw, pronck-parel van ons <rhyme label="a" type="m">tijt</rhyme>,</l>
+        <l id="s1:l2" met="6" type="+-">Die in eenigheyt u lieve Lenten <rhyme label="a" type="m" corresp="#s1:l1">slijt</rhyme>,</l>
+        <l id="s1:l3" met="5" type="+-">Voelt ghy niet des liefdens <rhyme label="b" type="m">prickelingh</rhyme>:</l>
+        <l id="s1:l4" met="6" type="-+">Die door u ooghs-gegluer trou-hertigh ick <rhyme label="b" type="m" corresp="#s1:l3">ontfingh</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Wil ge nou, ay komt eens uyt u <rhyme label="a" type="m">Kluys</rhyme>,</l>
+        <l id="s2:l2" met="6" type="+-">Lieft een van de geen die slendren om u <rhyme label="a" type="m" corresp="#s2:l1">huys</rhyme>:</l>
+        <l id="s2:l3" met="5" type="+-">'k Sweet 'k my acht de luckighst' die daer <rhyme label="b" type="m">leeft</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Soo ghy in plaets van neen, my eens 't jae-woort <rhyme label="b" type="m" corresp="#s2:l3">geeft</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">Schoone, maer te trotsigh en te <rhyme label="a" type="m">prat</rhyme>,</l>
+        <l id="s3:l2" met="6" type="+-">Nu ghy wort gelieft van d'beste van de <rhyme label="a" type="m" corresp="#s3:l1">stadt</rhyme>,</l>
+        <l id="s3:l3" met="5" type="+-">Wilt ghy met? ick raed' u doch het <rhyme label="b" type="m">best</rhyme>.</l>
+        <l id="s3:l4" met="6" type="-+">Keurt eenen die u lieft, en d'eerste voor de <rhyme label="b" type="m" corresp="#s3:l3">lest</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="+-">Schuwe Maeght, om dat ghy kuysheyt <rhyme label="a" type="m">mint</rhyme></l>
+        <l id="s4:l2" met="6" type="+-">Seght ghy dat men die alleen allenigh <rhyme label="a" type="m" corresp="#s4:l1">vint</rhyme>:</l>
+        <l id="s4:l3" met="5" type="+-">Keert tot d'Echt, dat is de kuysheyts <rhyme label="b" type="m">blijck</rhyme>,</l>
+        <l id="s4:l4" met="6" type="-+">Maeckt van u frisse jeucht alreed gheen levend' <rhyme label="b" type="m" corresp="#s4:l3">Lijck</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

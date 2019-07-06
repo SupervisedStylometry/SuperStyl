@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>121102</id>
+    <date>
+      <year-start>1725</year-start>
+      <year-end>1725</year-end>
+    </date>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Bruygom, hoe gaje jou Winkel <rhyme label="a" type="f">stofferen</rhyme>?</l>
+        <l id="s1:l2" met="4" type="+-">’’t Is of je het Ambagt eerst niet kwam te <rhyme label="a" type="f" corresp="#s1:l1">leeren</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Nu je provisie doet van zo veel <rhyme label="b" type="m">Bont</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Dat je ’’er wel tien jaar mee Bontwerken <rhyme label="b" type="m" corresp="#s1:l3">kont</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">De koude winter, de schrale <rhyme label="a" type="f">scherminkel</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Roofde van Bont lest bykans j’’heele <rhyme label="a" type="f" corresp="#s2:l1">Winkel</rhyme>:</l>
+        <l id="s2:l3" met="4" type="+-">Daarom zo doeje myns oordeels niet <rhyme label="b" type="m">kwaat</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Datje weer nieuw Bont in ’’t Voorjaar <rhyme label="b" type="m" corresp="#s2:l3">opslaat</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Trek op dit Bont dan weer snedig aan ’’t <rhyme label="a" type="f">rouwen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Om ’’er de mot wel ter deeg uyt te <rhyme label="a" type="f" corresp="#s3:l1">houwen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Werkje ter degen, ik wed om een <rhyme label="b" type="m">duyt</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Je krygt ’’er in ’’t jaar een kleyn vlokje <rhyme label="b" type="m" corresp="#s3:l3">uyt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Dog ondertusschen, jy Jonge-luy <rhyme label="a" type="f">wakker</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Toonje van avond in ’’t werken niet <rhyme label="a" type="f" corresp="#s4:l1">zwakker</rhyme>;</l>
+        <l id="s4:l3" met="4" type="+-">En schoon je me juyst niet weekt in ’’t <rhyme label="b" type="m">Bont</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Werkt in de Wyngaart, wyhe anders niet <rhyme label="b" type="m" corresp="#s4:l3">kont</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Laat eens herwayen een goeye <rhyme label="a" type="f">gesontheyt</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Van onse Bruydegom die flus al in Bont <rhyme label="a" type="f" corresp="#s5:l1">leyt</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Drink op ’’t lang leven eens van onse <rhyme label="b" type="m">Bruid</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Daar mee, ik zwyg, want myn Liedjen is <rhyme label="b" type="m" corresp="#s5:l3">UYT</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

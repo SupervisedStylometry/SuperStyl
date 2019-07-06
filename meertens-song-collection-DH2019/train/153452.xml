@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>153452</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Nadien uw goddelijkheid</melody>
+  <author>Cornelis Maertsz.</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">AL wat in staegh <rhyme label="a" type="m">ghebruyck</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Met sijn beslijmde <rhyme label="a" type="m" corresp="#s1:l1">Buyck</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Gaet schuren 't vel der <rhyme label="b" type="f">Aerden</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Wordt alles in 't <rhyme label="c" type="m">ghemeyn</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Doe Godt sijn Wet <rhyme label="b" type="f" corresp="#s1:l3">verklaerde</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Gheteyckent voor <rhyme label="c" type="m" corresp="#s1:l4">On-reyn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">'t Was om dat hem <rhyme label="a" type="m">mishaeght</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Al die niet meer <rhyme label="a" type="m" corresp="#s2:l1">na-jaeght</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Als Wereldtlijcke <rhyme label="b" type="f">schatten</rhyme>:</l>
+        <l id="s2:l4" met="3" type="-+">Dewijle dat men <rhyme label="c" type="m">moet</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Staegh traghten, om te <rhyme label="b" type="f" corresp="#s2:l3">vatten</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Het Gheestelijcke <rhyme label="c" type="m" corresp="#s2:l4">goedt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">'t Is meer als <rhyme label="a" type="m">beestelijck</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Die noyt na 't <rhyme label="a" type="m" corresp="#s3:l1">Gheestelijck</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Met sijn <rhyme label="b" type="f">ghenegentheden</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Van d'aerde hem <rhyme label="c" type="m">begeeft</rhyme>:</l>
+        <l id="s3:l5" met="3" type="-+">Want hy misbruyckt de <rhyme label="b" type="f" corresp="#s3:l3">reden</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Dat gheenen Dier en <rhyme label="c" type="m" corresp="#s3:l4">heeft</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

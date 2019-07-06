@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>114207</id>
+    <date>
+      <year-start>1745</year-start>
+      <year-end>1745</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>A table avec mes amis</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">INdien gy ooyt 't geluk <rhyme label="a" type="m">geniet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">ô Mouches om op Cloris <rhyme label="b" type="f">Wangen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">(Die Cloris die de Min <rhyme label="a" type="m" corresp="#s1:l1">ontvliedt</rhyme>:)</l>
+        <l id="s1:l4" met="6" type="-+">Of op haer Voorhooft, glat als Elpenbeen te <rhyme label="b" type="f" corresp="#s1:l2">hangen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Of by haer Oogjes zwart als <rhyme label="c" type="m">git</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Gelyk een spelend Vliegje <rhyme label="c" type="m" corresp="#s1:l5">zit</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Of vogte Kusjes komt te <rhyme label="d" type="f">zuigen</rhyme>.</l>
+        <l id="s1:l8" met="4" type="+-">Van Haer Coralyne <rhyme label="e" type="m">mondt</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">Dan kan elk Minnaer <rhyme label="d" type="f" corresp="#s1:l7">tuygen</rhyme>,</l>
+        <l id="s1:l10" met="2" type="+-">Dat m' <rhyme label="f" type="m">in......de</rhyme></l>
+        <l id="s1:l11" met="4" type="+-">Dat m' in....de Zon ook vlekken <rhyme label="e" type="m" corresp="#s1:l8">vont</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

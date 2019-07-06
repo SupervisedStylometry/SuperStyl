@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100131</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Iets moet ik u Laura vragen</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Vlugge Goodje <rhyme label="a" type="f">Hertedwinger</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Onverziene <rhyme label="a" type="f" corresp="#s1:l1">menschbespringer</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Hoe ontsteld gy myn <rhyme label="b" type="m">gemoed</rhyme>;</l>
+        <l id="s1:l4" met="4" type="+-">Wout gy maar myn waardst <rhyme label="c" type="f">bespringen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">En tot trouwe weermin <rhyme label="c" type="f" corresp="#s1:l4">dwingen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Al myn gal wierd <rhyme label="b" type="m" corresp="#s1:l3">honingzoet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35890</id>
+    <date>
+      <year-start>1678</year-start>
+      <year-end>1678</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>De wereld heeft mijn hart gestolen</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Johanna de Gavre</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Iesus der <rhyme label="a" type="f">vermertigheden</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Wilt eens aenhooren mijn <rhyme label="a" type="f" corresp="#s1:l1">ghebeden</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Want ick ben een bedroefde <rhyme label="b" type="m">Ziel</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Die hier ootmoedigh voor u <rhyme label="b" type="m" corresp="#s1:l3">kniel</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ghy zijt den Godt vol van <rhyme label="a" type="f">ghenaden</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Ghy die vergheeft ons boose <rhyme label="a" type="f" corresp="#s2:l1">daden</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En wilt verstooten u schepsel <rhyme label="b" type="m">niet</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Want ick ben swacker dan een <rhyme label="b" type="m" corresp="#s2:l3">riet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ick ben ghemaeckt van uwe <rhyme label="a" type="f">handen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Doet aen u eyghen Schepsel gheen <rhyme label="a" type="f" corresp="#s3:l1">schanden</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Ghedenckt dat ghy my hebt <rhyme label="b" type="m">verlost</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Ick heb u dierbaer bloedt <rhyme label="b" type="m" corresp="#s3:l3">ghekost</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Wilt thoonen dat ghy zijt mijn <rhyme label="a" type="f">Broeder</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Zijt in het oordeel mijnen <rhyme label="a" type="f" corresp="#s4:l1">behoeder</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">En doet my naemaels gheen <rhyme label="b" type="m">verwijt</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Maer denckt dat ghy mijn verlosser <rhyme label="b" type="m" corresp="#s4:l3">zijt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Wilde ghy u machtigh hant uyt <rhyme label="a" type="f">steken</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Teghen een Schepsel vol <rhyme label="a" type="f" corresp="#s5:l1">ghebreken</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Dan met den windt wordt wegh <rhyme label="b" type="m">ghevoert</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Ghelijck den Boom sijn bladeren <rhyme label="b" type="m" corresp="#s5:l3">roert</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Ick wil mijn Ziel in traenen <rhyme label="a" type="f">wasschen</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Mijn hooft bestroyen dick van <rhyme label="a" type="f" corresp="#s6:l1">asschen</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Want beter is nu eenen <rhyme label="b" type="m">traen</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Als naemaels eenen <rhyme label="b" type="m" corresp="#s6:l3">occiaen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

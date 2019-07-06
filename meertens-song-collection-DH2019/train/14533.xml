@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14533</id>
+    <date>
+      <year-start>1638</year-start>
+      <year-end>1638</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Wees gegroet maagd Maria</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Aegidius Haeffacker</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">DEsen seer heyl'gen Confessoor des <rhyme label="a" type="f">Heeren</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Wiens feest het volck hout over al met <rhyme label="a" type="f" corresp="#s1:l1">eeren</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Heden is weerdig opgegaen <rhyme label="b" type="f">blij'lijcke</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Na 't <rhyme label="b" type="f" corresp="#s1:l3">Hemelrijcke</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Die wijs, Godtvruchtigh, sober, en <rhyme label="a" type="f">eersamigh</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Ootmoedigh, reyn was, en daer toe <rhyme label="a" type="f" corresp="#s2:l1">vreedsamigh</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">So langh als dese werelt heeft <rhyme label="b" type="f">gegeven</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Sijn le'en het <rhyme label="b" type="f" corresp="#s2:l3">leven</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">By wiens graf heyligh, dickmaels is <rhyme label="a" type="f">bevonden</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">Dat siecke menschen in seer korte <rhyme label="a" type="f" corresp="#s3:l1">stonden</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Genesen zijn van 't gene haer <rhyme label="b" type="f">beswaerden</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">Hier op der <rhyme label="b" type="f" corresp="#s3:l3">Aerden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Waerom nu desen Lof-sangh onse <rhyme label="a" type="f">schare</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Tot sijnder eeren, vrolijck singht te <rhyme label="a" type="f" corresp="#s4:l1">gare</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">Dat wy altijt door sijn verdiensten <rhyme label="b" type="f">heyligh</rhyme>,</l>
+        <l id="s4:l4" met="2" type="-+">Moghen zijn <rhyme label="b" type="f" corresp="#s4:l3">veyligh</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Eer' moet hem wesen, saligheydt en <rhyme label="a" type="f">krachte</rhyme>,</l>
+        <l id="s5:l2" met="5" type="-+">Die op 's Hemels top sittende, met <rhyme label="a" type="f" corresp="#s5:l1">machte</rhyme>,</l>
+        <l id="s5:l3" met="5" type="-+">De gantsche wereldt gouverneert <rhyme label="b" type="f">alleene</rhyme>,</l>
+        <l id="s5:l4" met="2" type="-+">Drie ende <rhyme label="b" type="f" corresp="#s5:l3">eene</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

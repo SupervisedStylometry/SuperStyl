@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34589</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>La guerre n'est pas mon déduit</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Jan Mommaert</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">'k EN hebb' het oogh niet op den <rhyme label="a" type="m">krygh</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">'k En soeck gheen vloecken, noch <rhyme label="a" type="m" corresp="#s1:l1">ghedreygh</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Hoe sou my dit het hert' <rhyme label="b" type="f">belesen</rhyme>?</l>
+        <l id="s1:l4" met="4" type="-+">Men sterfter als het nietigh <rhyme label="c" type="m">gras</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">'k Heb liever aen den disch te <rhyme label="b" type="f" corresp="#s1:l3">wesen</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">By eenen pot, en fris <rhyme label="c" type="m" corresp="#s1:l4">ghelas</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Al die soo plyten om een <rhyme label="a" type="m">spel</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">En wil ick oock niet aen het <rhyme label="a" type="m" corresp="#s2:l1">vel</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Hoe sou ick zyn vernoeght by <rhyme label="b" type="f">dese</rhyme>?</l>
+        <l id="s2:l4" met="4" type="-+">Hun aensicht siet ghelyck een <rhyme label="c" type="m">as</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">'k Hebb' liever aen den dis te <rhyme label="b" type="f" corresp="#s2:l3">wesen</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">By eenen pot, en fris <rhyme label="c" type="m" corresp="#s2:l4">ghelas</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">De liefd' en soeck' ick oock al <rhyme label="a" type="m">niet</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Ja 'k haet hem die naer Vrysters <rhyme label="a" type="m" corresp="#s3:l1">siet</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">Hoe konnen sy een hert' <rhyme label="b" type="f">ghenesen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">'t Ghen' treurt en quynt als nietigh <rhyme label="c" type="m">gras</rhyme>?</l>
+        <l id="s3:l5" met="4" type="-+">Ey laet ons aen de tafel <rhyme label="b" type="f" corresp="#s3:l3">wesen</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">By eenen pot, en frisc <rhyme label="c" type="m" corresp="#s3:l4">ghelas</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">'k Houd' my alleen aen goeden <rhyme label="a" type="m">wyn</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Om dat hy ons tot vrught kan <rhyme label="a" type="m" corresp="#s4:l1">zyn</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">En alle krancke kan <rhyme label="b" type="f">ghenesen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Om dat hy op-helpt dat <rhyme label="c" type="m">vergaet</rhyme>:</l>
+        <l id="s4:l5" met="4" type="-+">Laet ons dan aen de tafel <rhyme label="b" type="f" corresp="#s4:l3">wesen</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Daer hy met vollen geur op <rhyme label="c" type="m" corresp="#s4:l4">staet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2218</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Tricarville</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">CElestyn mijn <rhyme label="a" type="f">Uytverkooren</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Celestyn mijn Siel en <rhyme label="b" type="m">Hart</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Och! wat voel ik <rhyme label="a" type="f" corresp="#s1:l1">minne-glooren</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">In mijn boesem die my <rhyme label="b" type="m" corresp="#s1:l2">smart</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">Ik verslijt mijn tijd in <rhyme label="c" type="f">klaagen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Traantjes al mijn voedsel <rhyme label="d" type="m">sijn</rhyme>.</l>
+        <l id="s1:l7" met="4" type="+-">Al mijn wensch is in mijn <rhyme label="c" type="f" corresp="#s1:l5">daagen</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Om de schoone <rhyme label="d" type="m" corresp="#s1:l6">Celestyn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Schoon ik sie den hoogen <rhyme label="a" type="f">Heemel</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Schoon ik sie de vruchtb're <rhyme label="b" type="m">aard</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Al dat weerelds <rhyme label="a" type="f" corresp="#s2:l1">oog-geweemel</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Acht ik weinig, ja <rhyme label="b" type="m" corresp="#s2:l2">onwaard</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Nu ik Schoonste U moet <rhyme label="c" type="f">derven</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Uw gesicht, de Son <rhyme label="d" type="m">gelijk</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Maakt my leevend by het <rhyme label="c" type="f" corresp="#s2:l5">sterven</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">En mijn droef heid neemt de <rhyme label="d" type="m" corresp="#s2:l6">wijk</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Maar gy laat my heel <rhyme label="a" type="f">verslaagen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">My, die u so needrig <rhyme label="b" type="m">eer</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">En segt, lachchend met mijn <rhyme label="a" type="f" corresp="#s3:l1">klaagen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Fidamant mint my te <rhyme label="b" type="m" corresp="#s3:l2">seer</rhyme>.</l>
+        <l id="s3:l5" met="4" type="+-">Soud' ik van uw duysend <rhyme label="c" type="f">deugde'</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">En uw schoonheid weesen <rhyme label="d" type="m">schuw</rhyme>?</l>
+        <l id="s3:l7" met="4" type="+-">Neen, ik seg u sonder <rhyme label="c" type="f" corresp="#s3:l5">vreugde</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">Celestyn de schuld is <rhyme label="d" type="m" corresp="#s3:l6">d'uw</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

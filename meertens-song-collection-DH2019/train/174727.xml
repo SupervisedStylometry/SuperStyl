@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174727</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Klein vogeltje op groene tak</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Klein vogelijn, op groenen <rhyme label="a" type="m">tak</rhyme>!</l>
+        <l id="s1:l2" met="3" type="-+">Wat zingt ge een lustig <rhyme label="b" type="m">lied</rhyme>!</l>
+        <l id="s1:l3" met="4" type="-+">Wij vinden in ons heele <rhyme label="c" type="m">boek</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Zoo'n vrolijk wijsje <rhyme label="b" type="m" corresp="#s1:l2">niet</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">o! Zeg ons, zeg ons, aardig <rhyme label="d" type="m">beest</rhyme>!</l>
+        <l id="s1:l6" met="4" type="-+">Wie of uw meester is <rhyme label="d" type="m" corresp="#s1:l5">geweest</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Zoo zuiver zingt gij en zoo <rhyme label="a" type="m">hoog</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Zoo keurig in de <rhyme label="b" type="m">maat</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En 't hart dat popelt ons van <rhyme label="c" type="m">vreugd</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Wanneer uw keeltje <rhyme label="b" type="m" corresp="#s2:l2">gaat</rhyme>;</l>
+        <l id="s2:l5" met="4" type="-+">o! Zeg ons, zeg ons, aardig <rhyme label="d" type="m">beest</rhyme>!</l>
+        <l id="s2:l6" met="4" type="-+">Wie of uw meester is <rhyme label="d" type="m" corresp="#s2:l5">geweest</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">o! Zeker is 't de goede <rhyme label="a" type="m">God</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Die 't u heeft <rhyme label="b" type="m">toebetrouwd</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Opdat gij aan der blinden <rhyme label="c" type="m">oor</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Zijn goedheid melden <rhyme label="b" type="m" corresp="#s3:l2">zoudt</rhyme>;</l>
+        <l id="s3:l5" met="4" type="-+">o Ja! wij weten 't, aardig <rhyme label="d" type="m">beest</rhyme>!</l>
+        <l id="s3:l6" met="4" type="-+">Wie of uw meester is <rhyme label="d" type="m" corresp="#s3:l5">geweest</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

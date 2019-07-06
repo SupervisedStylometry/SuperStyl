@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13124</id>
+    <date>
+      <year-start>1644</year-start>
+      <year-end>1644</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+    </tags>
+    <melody>Sei tanto graziosa</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author>Christianus Vermeulen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O Soete <rhyme label="a" type="f">harmonije</rhyme>!</l>
+        <l id="s1:l2" met="3" type="-+">Van my verdrijft ghy <rhyme label="b" type="m">smert</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">door reyner <rhyme label="c" type="f">minnen</rhyme>.</l>
+        <l id="s1:l4" met="3" type="-+">O Choor der Eng'len <rhyme label="a" type="f" corresp="#s1:l1">blye</rhyme>;</l>
+        <l id="s1:l5" met="3" type="-+">Ghy steelt van my mijn <rhyme label="b" type="m" corresp="#s1:l2">hert</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">En al mijn <rhyme label="c" type="f" corresp="#s1:l3">sinnen</rhyme>.</l>
+        <l id="s1:l7" met="2" type="-+">Wt liefd' <rhyme label="d" type="m">divijn</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">Ick heel <rhyme label="d" type="m" corresp="#s1:l7">verdwijn</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Om dat ick hoor van <rhyme label="e" type="f">vrede</rhyme>,</l>
+        <l id="s1:l10" met="2" type="-+">Die my aen <rhyme label="f" type="f">dienen</rhyme></l>
+        <l id="s1:l11" met="3" type="+-">Des Hemelsche <rhyme label="f" type="f" corresp="#s1:l10">Cherubinen</rhyme>,</l>
+        <l id="s1:l12" met="2" type="+-">Godt oock <rhyme label="e" type="f" corresp="#s1:l9">mede</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">O Jesu <rhyme label="a" type="f">minnelijcke</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Die mensch gheworden <rhyme label="b" type="m">zijt</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">En Godt <rhyme label="c" type="f">ghebleven</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">In Aerdt en <rhyme label="a" type="f" corresp="#s2:l1">Hemelrijcke</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Weest nu <rhyme label="b" type="m" corresp="#s2:l2">ghebenedijt</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Van al die <rhyme label="c" type="f" corresp="#s2:l3">leven</rhyme>.</l>
+        <l id="s2:l7" met="2" type="-+">Mijn Godt, mijn <rhyme label="d" type="m">Heer</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Mijn hoop, mijn <rhyme label="d" type="m" corresp="#s2:l7">eer</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">Met u soo wil ick <rhyme label="e" type="f">sterven</rhyme>:</l>
+        <l id="s2:l10" met="2" type="-+">Als 'swerelts <rhyme label="f" type="f">lusten</rhyme></l>
+        <l id="s2:l11" met="3" type="+-">En vreuchden, vol <rhyme label="f" type="f" corresp="#s2:l10">onrusten</rhyme></l>
+        <l id="s2:l12" met="2" type="+-">Voort-aen <rhyme label="e" type="f" corresp="#s2:l9">derven</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Ghy zijt den <rhyme label="a" type="f">aldermeesten</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Den hoochsten Heer van <rhyme label="b" type="m">al</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">Rijck, schoon, <rhyme label="c" type="f">almachtigh</rhyme>.</l>
+        <l id="s3:l4" met="3" type="-+">Nochtans hier voor de <rhyme label="a" type="f" corresp="#s3:l1">Beesten</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Lecht ghy in eenen <rhyme label="b" type="m" corresp="#s3:l2">stal</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">Arm, teer en <rhyme label="c" type="f" corresp="#s3:l3">klachtigh</rhyme>.</l>
+        <l id="s3:l7" met="2" type="-+">O Godt seer <rhyme label="d" type="m">groot</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">Mensch naeckt en <rhyme label="d" type="m" corresp="#s3:l7">bloot</rhyme>,</l>
+        <l id="s3:l9" met="3" type="-+">Wilt my u wijsheydt <rhyme label="e" type="f">schencken</rhyme>:</l>
+        <l id="s3:l10" met="2" type="-+">Dat ick met <rhyme label="f" type="f">vreughden</rhyme></l>
+        <l id="s3:l11" met="3" type="+-">Mach alle dese <rhyme label="f" type="f" corresp="#s3:l10">deuchden</rhyme></l>
+        <l id="s3:l12" met="2" type="+-"><rhyme label="e" type="f" corresp="#s3:l9">Overdencken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

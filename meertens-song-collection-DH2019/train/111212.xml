@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111212</id>
+    <date>
+      <year-start>1785</year-start>
+      <year-end>1785</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Ohne Lieb und ohne Wein</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ALs Vriende wille vrolyk <rhyme label="a" type="m">zyn</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">Wat kan ons dat <rhyme label="b" type="f">baten</rhyme>?</l>
+        <l id="s1:l3" met="4" type="+-">Zoet Juffers koele <rhyme label="a" type="m" corresp="#s1:l1">wyn</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Roosjes op haar <rhyme label="b" type="f" corresp="#s1:l2">kaaken</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">'t Wijntje dat in 't gras braaf <rhyme label="c" type="m">springt</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Juffers vrolyk <rhyme label="d" type="f">zingen</rhyme>.</l>
+        <l id="s1:l7" met="4" type="+-">Ider glaasje dat men <rhyme label="c" type="m" corresp="#s1:l5">drinkt</rhyme>,</l>
+        <l id="s1:l8" met="3" type="+-">Zyn wy <rhyme label="d" type="f" corresp="#s1:l6">hemelingen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Fraaije Koetze; Schais, <rhyme label="a" type="m">Vergon</rhyme>,</l>
+        <l id="s2:l2" met="3" type="+-">Paarden, schoone <rhyme label="b" type="f">Tuygen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Alles wat den hemel <rhyme label="a" type="m" corresp="#s2:l1">gon</rhyme>,</l>
+        <l id="s2:l4" met="3" type="+-">Moest voor 't wyntje <rhyme label="b" type="f" corresp="#s2:l2">buygen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Zylt men vrolyk in een <rhyme label="c" type="m">Jagt</rhyme>,</l>
+        <l id="s2:l6" met="3" type="+-">Zonder een mooy <rhyme label="d" type="f">Meisje</rhyme>.</l>
+        <l id="s2:l7" met="4" type="+-">En ons vreugt is niet <rhyme label="c" type="m" corresp="#s2:l5">geagt</rhyme>,</l>
+        <l id="s2:l8" met="3" type="+-">Zonder Juffers <rhyme label="d" type="f" corresp="#s2:l6">vleisje</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ziet een krygsman in het <rhyme label="a" type="m">Velt</rhyme>,</l>
+        <l id="s3:l2" met="3" type="+-">Waar kanonnen <rhyme label="b" type="f">blaasen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Nauwelyks is de vreugd <rhyme label="a" type="m" corresp="#s3:l1">herstelt</rhyme></l>
+        <l id="s3:l4" met="3" type="+-">Of vliegt, om kan en <rhyme label="b" type="f" corresp="#s3:l2">glasen</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Vrolyk na het <rhyme label="c" type="m">hooft-kwartier</rhyme>,</l>
+        <l id="s3:l6" met="3" type="+-">Daar de Meisjes <rhyme label="d" type="f">woonen</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Eyder zoekt zyn Ega <rhyme label="c" type="m" corresp="#s3:l5">hier</rhyme>,</l>
+        <l id="s3:l8" met="3" type="+-">Om zyn triomf te <rhyme label="d" type="f" corresp="#s3:l6">toonen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Op de Zee waar menig <rhyme label="a" type="m">Schip</rhyme></l>
+        <l id="s4:l2" met="3" type="+-">Ziet zyn kiel <rhyme label="b" type="f">verpletten</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">En verbryselen op een <rhyme label="a" type="m" corresp="#s4:l1">klip</rhyme>,</l>
+        <l id="s4:l4" met="3" type="+-">Kan geen Zeeman <rhyme label="b" type="f" corresp="#s4:l2">beletten</rhyme>;</l>
+        <l id="s4:l5" met="4" type="-+">Om zoo draa hy komt aan <rhyme label="c" type="m">Land</rhyme>,</l>
+        <l id="s4:l6" met="3" type="+-">Na een glas te <rhyme label="d" type="f">vraagen</rhyme></l>
+        <l id="s4:l7" met="4" type="+-">Fluks een Meisje by de <rhyme label="c" type="m" corresp="#s4:l5">hand</rhyme></l>
+        <l id="s4:l8" met="3" type="+-">Drinken alle <rhyme label="d" type="f" corresp="#s4:l6">daagen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Dus al die wil vrolyk <rhyme label="a" type="m">zyn</rhyme>,</l>
+        <l id="s5:l2" met="3" type="+-">Soekt het door het <rhyme label="b" type="f">Wyntje</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Het verdryft ons smert en <rhyme label="a" type="m" corresp="#s5:l1">pyn</rhyme>,</l>
+        <l id="s5:l4" met="3" type="+-">eyder met zyn <rhyme label="b" type="f" corresp="#s5:l2">tryntje</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">Met een vol glas in <rhyme label="c" type="m">d'hand</rhyme>,</l>
+        <l id="s5:l6" met="3" type="+-">Kussen, likken, <rhyme label="d" type="f">drinken</rhyme></l>
+        <l id="s5:l7" met="4" type="+-">Dat is regte Broeder <rhyme label="c" type="m" corresp="#s5:l5">trant</rhyme>,</l>
+        <l id="s5:l8" met="3" type="+-">en zoo te zamen <rhyme label="d" type="f" corresp="#s5:l6">klinken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

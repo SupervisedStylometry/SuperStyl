@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185977</id>
+    <date>
+      <year-start>1717</year-start>
+      <year-end>1717</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Ach hemel ach wat ramp wat smart</melody>
+  <author>Hermanus van den Burg</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ACh! hemel ach! wat ramp, wat <rhyme label="a" type="m">smart</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Myn Fillis heeft een steene <rhyme label="a" type="m" corresp="#s1:l1">hart</rhyme>!</l>
+        <l id="s1:l3" met="4" type="-+">Afkeerig voor myn' <rhyme label="b" type="f">minneklachten</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Verbant zy my, uit haar <rhyme label="b" type="f" corresp="#s1:l3">gedachten</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Maar ik spot met de <rhyme label="c" type="m">pry</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Want myn hart is noch <rhyme label="c" type="m" corresp="#s1:l5">vry</rhyme>,</l>
+        <l id="s1:l7" met="2" type="+-">'k Ben in haar' <rhyme label="d" type="f">kwikken</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Haar' krullen en <rhyme label="d" type="f" corresp="#s1:l7">strikken</rhyme>,</l>
+        <l id="s1:l9" met="2" type="-+">Zoo vast niet <rhyme label="e" type="m">verwart</rhyme>,</l>
+        <l id="s1:l10" met="2" type="-+">Met ziel en met <rhyme label="e" type="m" corresp="#s1:l9">hart</rhyme>,</l>
+        <l id="s1:l11" met="2" type="-+">Of een volle <rhyme label="f" type="f">Beker</rhyme>,</l>
+        <l id="s1:l12" met="2" type="-+">Kan zonder <rhyme label="f" type="f" corresp="#s1:l11">Apteker</rhyme>,</l>
+        <l id="s1:l13" met="2" type="-+">My zachjes doen <rhyme label="g" type="f">zweeten</rhyme>,</l>
+        <l id="s1:l14" met="4" type="-+">En al, en al haar' schoonheit <rhyme label="g" type="f" corresp="#s1:l13">vergeeten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

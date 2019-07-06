@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3845</id>
+    <date>
+      <year-start>1582</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Ik hef mijn ogen op met vlijt</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ICk heffe mijn ooghen op met <rhyme label="a" type="m">vlijdt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Al tot die berghen hooch <rhyme label="b" type="f">verheuen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Van welcke my comt tot alder <rhyme label="a" type="m" corresp="#s1:l1">tijdt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Hulpe en bystant in dit <rhyme label="b" type="f" corresp="#s1:l2">leuen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">† Mijn hulpe comt vanden Heere <rhyme label="a" type="m">goet</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Die * Hemel en Aerde heeft <rhyme label="b" type="f">ghemaeckt</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Hy en laet niet struyckelen uwen <rhyme label="a" type="m" corresp="#s2:l1">voet</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Ende die v behoedt niet en <rhyme label="b" type="f" corresp="#s2:l2">slaept</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">* Siet den behoeder Israhels <rhyme label="a" type="m">sterck</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Die en slaept niet tot gheenen <rhyme label="b" type="f">tijden</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Hy en sluymert oock niet in dit <rhyme label="a" type="m" corresp="#s3:l1">perck</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Maer staet syn heylghen by int <rhyme label="b" type="f" corresp="#s3:l2">lijden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Die Heer sy v bewaerder <rhyme label="a" type="m">machtich</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Die schaduw' ouer dijn rechte <rhyme label="b" type="f">hant</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">† Dat v des daechs die sonne <rhyme label="a" type="m" corresp="#s4:l1">crachtich</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Noch snachts die Mane niet en <rhyme label="b" type="f" corresp="#s4:l2">verbrant</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Die Heer bewaer v voor alle <rhyme label="a" type="m">quaet</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Hy bewaer dijn siele wijt en <rhyme label="b" type="f">breyt</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">V wtganck en inganck vroech en <rhyme label="a" type="m" corresp="#s5:l1">laet</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Van nu aen tot inder <rhyme label="b" type="f" corresp="#s5:l2">eewicheyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

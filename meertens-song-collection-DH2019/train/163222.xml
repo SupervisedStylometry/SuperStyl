@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>163222</id>
+    <date>
+      <year-start>1678</year-start>
+      <year-end>1678</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Aernout van Overbeke</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">TWee stierven een gelijcke <rhyme label="a" type="m">doot</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">De een door 't breecken zijner <rhyme label="b" type="f">trouwe</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">By sijnen Vrient te vast <rhyme label="b" type="f" corresp="#s1:l2">gehouwe</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Haer schult was ongelijck, en nochtans even <rhyme label="a" type="m" corresp="#s1:l1">groot</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">De tong, die bracht haer beyd' in 't <rhyme label="c" type="f">lijden</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">By d'eenen sprack zy al te <rhyme label="d" type="m">veel</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">En by den ander sweegse <rhyme label="d" type="m" corresp="#s1:l6">veel</rhyme>,</l>
+        <l id="s1:l8" met="6" type="-+">Soo kan de tong een mensch, of doden of <rhyme label="c" type="f" corresp="#s1:l5">bevrijden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>191502</id>
+    <date>
+      <year-start>1736</year-start>
+      <year-end>1736</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Maria wees gegroet Door u is voortgekomen</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">MAria weest <rhyme label="a" type="m">gegroet</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Door u is <rhyme label="b" type="f">voort-gekomen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Die van u, en om <rhyme label="a" type="m" corresp="#s1:l1">ons</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Ons vleesch heeft <rhyme label="b" type="f" corresp="#s1:l2">aengenomen</rhyme>:</l>
+        <l id="s1:l5" met="3" type="-+">Door u, en oock uyt <rhyme label="c" type="m">u</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Soo dat men seggen <rhyme label="d" type="m">moet</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Het Goddelijck <rhyme label="e" type="m">Vleesch</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">komt uyt u suyver <rhyme label="d" type="m" corresp="#s1:l6">bloedt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Maria's soeten <rhyme label="a" type="m">Naem</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Soet boven <rhyme label="b" type="f">honinck-graten</rhyme>;</l>
+        <l id="s2:l3" met="3" type="-+">O suycker soeten <rhyme label="a" type="m" corresp="#s2:l1">Naem</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Wie is die u kan <rhyme label="b" type="f" corresp="#s2:l2">haten</rhyme>?</l>
+        <l id="s2:l5" met="3" type="-+">Mijn lippen zijn vol <rhyme label="c" type="m">vreught</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Mijn hert, en ziel <rhyme label="d" type="m">opspringht</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Als men Maria <rhyme label="e" type="m">noemt</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Als men Maria <rhyme label="d" type="m" corresp="#s2:l6">singht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Gy voedt u Schepper <rhyme label="a" type="m">op</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">O Maget gy zijt de <rhyme label="b" type="f">Moeder</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Van hem die is u <rhyme label="a" type="m" corresp="#s3:l1">Godt</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">U Vader en u <rhyme label="b" type="f" corresp="#s3:l2">Broeder</rhyme>:</l>
+        <l id="s3:l5" met="3" type="-+">Gy spijst het eeuwigh <rhyme label="c" type="m">Woordt</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Gy laeft zijn wonder <rhyme label="d" type="m">dorst</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Gy geeft aen uwen <rhyme label="e" type="m">Heer</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Uw' maeghdelijcke <rhyme label="d" type="m" corresp="#s3:l6">Borst</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

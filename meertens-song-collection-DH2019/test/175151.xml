@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175151</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Gij, arme wijnrank! lig je <rhyme label="a" type="m">daar</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Zoo vuil te slingren langs den <rhyme label="b" type="m">grond</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">Wat zijn uw druifjes klein en <rhyme label="a" type="m" corresp="#s1:l1">naar</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Onrijp, en zeker <rhyme label="b" type="m" corresp="#s1:l2">ongezond</rhyme>!</l>
+        <l id="s1:l5" met="4" type="-+">Kom, als ik je aan de schutting <rhyme label="b" type="m" corresp="#s1:l2">bond</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Dan raakte je misschien weêr <rhyme label="a" type="m" corresp="#s1:l1">klaar</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">- Neen! 'k vrees, mijn kind! 't is nu te <rhyme label="a" type="m">laat</rhyme>....</l>
+        <l id="s2:l2" met="4" type="-+">Wanneer dat iemand had <rhyme label="b" type="m">gedaan</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Toen 'k jong en sterk was - en in <rhyme label="a" type="m" corresp="#s2:l1">staat</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Om frisch mijn ranken uit te <rhyme label="b" type="m" corresp="#s2:l2">slaan</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Dan zou ik nu vol vruchten <rhyme label="b" type="m" corresp="#s2:l2">staan</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Zoo zoet en geurig als <rhyme label="a" type="m" corresp="#s2:l1">muskaat</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Och! 't gaat me als menig' armen <rhyme label="a" type="m">man</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Die niet in tijds geholpen <rhyme label="b" type="m">wordt</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Die hulp komt later soms - maar <rhyme label="a" type="m" corresp="#s3:l1">dan</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Schiet moed en lust en kracht te <rhyme label="b" type="m" corresp="#s3:l2">kort</rhyme>....</l>
+        <l id="s3:l5" met="4" type="-+">Steun dus de wijnrank eer zij <rhyme label="b" type="m" corresp="#s3:l2">dort</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">En d'Arme, wen 't nog baten <rhyme label="a" type="m" corresp="#s3:l1">kan</rhyme>. -</l>
+      </lg>
+    </lg>
+  </text>
+</song>

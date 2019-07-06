@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>7765</id>
+    <date>
+      <year-start>1615</year-start>
+      <year-end>1615</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+    </tags>
+    <melody>Conditor alme siderum</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O CHRISTE Schepper eeuwigh <rhyme label="a" type="m">Licht</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Ghy die dijn Dienaars geeft <rhyme label="a" type="m" corresp="#s1:l1">gesicht</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Verhoort ons Beed' en <rhyme label="b" type="m">truer-geschal</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Dat wy doen uyt dit <rhyme label="b" type="m" corresp="#s1:l3">jammer-dal</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ghy hebt den Mensch door Sonde <rhyme label="a" type="m">doodt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Geholpen uyt med'-lijden <rhyme label="a" type="m" corresp="#s2:l1">groot</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">De VVereld liep ten eynde <rhyme label="b" type="m">ras</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Ghy Bruyd'gom ons quaamt wel te <rhyme label="b" type="m" corresp="#s2:l3">pas</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">VViens heerlijckheydt elck staat <rhyme label="a" type="m">t'ontsien</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Wien buyghen moeten alle <rhyme label="a" type="m" corresp="#s3:l1">knien</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">En eer bewijsen groot en <rhyme label="b" type="m">kleyn</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">In Hemel. Hel, en't Aertsche <rhyme label="b" type="m" corresp="#s3:l3">pleyn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Son die tot ons zijt komen <rhyme label="a" type="m">aff</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Als ons der Sonnen-licht <rhyme label="a" type="m" corresp="#s4:l1">begaff</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Sterckt ons met uwes Geestes <rhyme label="b" type="m">straal</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Dat ons niet scha' die Helsche <rhyme label="b" type="m" corresp="#s4:l3">quaal</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Dat sullen wy u minst en <rhyme label="a" type="m">meest</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">GOD VADER, SOON, en HEYLGEN <rhyme label="a" type="m" corresp="#s5:l1">GEEST</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Te loven wesen wel <rhyme label="b" type="m">bereydt</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Van nu tot in-der <rhyme label="b" type="m" corresp="#s5:l3">eeuwigheydt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

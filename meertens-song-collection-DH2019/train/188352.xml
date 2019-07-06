@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188352</id>
+    <date>
+      <year-start>1780</year-start>
+      <year-end>1780</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">JE meurs <rhyme label="a" type="f">d'Impatience</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">Mon coeur tot en <rhyme label="b" type="m">feu</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Sent la <rhyme label="a" type="f" corresp="#s1:l1">violence</rhyme>:</l>
+        <l id="s1:l4" met="3" type="+-">Belle de vos <rhyme label="b" type="m" corresp="#s1:l2">jeux</rhyme>,</l>
+        <l id="s1:l5" met="3" type="+-">Finis donc mes <rhyme label="c" type="f">peines</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Unisses nos <rhyme label="d" type="m">jours</rhyme>,</l>
+        <l id="s1:l7" met="3" type="+-">Fortifiés nos <rhyme label="c" type="f" corresp="#s1:l5">Chaines</rhyme>:</l>
+        <l id="s1:l8" met="3" type="+-">Par les Noeuds <rhyme label="d" type="m" corresp="#s1:l6">d'amour</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Soumis à vos <rhyme label="a" type="f">Charmes</rhyme>,</l>
+        <l id="s2:l2" met="3" type="+-">Je vis en <rhyme label="b" type="m">Languer</rhyme>:</l>
+        <l id="s2:l3" met="3" type="+-">Vous tenes les <rhyme label="a" type="f" corresp="#s2:l1">armes</rhyme>,</l>
+        <l id="s2:l4" met="3" type="+-">A percer mon <rhyme label="b" type="m" corresp="#s2:l2">coeur</rhyme>;</l>
+        <l id="s2:l5" met="3" type="+-">Sans cesse ma <rhyme label="c" type="f">flamme</rhyme>,</l>
+        <l id="s2:l6" met="3" type="+-">Me veut <rhyme label="d" type="m">consumer</rhyme>:</l>
+        <l id="s2:l7" met="3" type="+-">Aucun que <rhyme label="c" type="f" corresp="#s2:l5">Madame</rhyme>,</l>
+        <l id="s2:l8" met="3" type="+-">Sçait me <rhyme label="d" type="m" corresp="#s2:l6">consoler</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

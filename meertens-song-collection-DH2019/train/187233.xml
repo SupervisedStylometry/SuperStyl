@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>187233</id>
+    <date>
+      <year-start>1794</year-start>
+      <year-end>1794</year-end>
+    </date>
+    <tags/>
+    <melody>Malbrough s'en va-t-en guerre</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Ja, ja, wy moeten 't <rhyme label="a" type="f">gelooven</rhyme>;</l>
+        <l id="s1:l2" met="3" type="-+">Elk roep: het huwelyk <rhyme label="a" type="f" corresp="#s1:l1">boven</rhyme>!</l>
+        <l id="s1:l3" met="3" type="-+">Ja, ja, wy moeten 't <rhyme label="a" type="f" corresp="#s1:l1">gelooven</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Komt schenkt den beker <rhyme label="b" type="m">in</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">En roept met blyden <rhyme label="b" type="m" corresp="#s1:l4">zin</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Ter eer der <rhyme label="b" type="m" corresp="#s1:l4">Huwlyksmin</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

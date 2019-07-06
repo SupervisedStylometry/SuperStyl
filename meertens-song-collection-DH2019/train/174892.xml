@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174892</id>
+    <date>
+      <year-start>1680</year-start>
+      <year-end>1680</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Mennistenzusje</melody>
+  <author>J. Tradel</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">ALs Jason den Licier, gedood was, quam <rhyme label="a" type="f">t'gebeuren</rhyme></l>
+        <l id="s1:l2" met="6" type="-+">Zijn Hont niet eeten wouw, maar bleef gedurig <rhyme label="a" type="f" corresp="#s1:l1">treuren</rhyme>,</l>
+        <l id="s1:l3" met="6" type="-+">Tot dat hem trof de dood, en einden zoo zijn <rhyme label="b" type="m">rouw</rhyme>;</l>
+        <l id="s1:l4" met="6" type="-+">Want dat niet anders kon, van wegen zijne <rhyme label="b" type="m" corresp="#s1:l3">trouw</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Dit dient tot overtuig, die weldaat haast <rhyme label="a" type="f">vergeten</rhyme>,</l>
+        <l id="s2:l2" met="6" type="-+">En na de reden eist, veel meerder moesten <rhyme label="a" type="f" corresp="#s2:l1">weten</rhyme>,</l>
+        <l id="s2:l3" met="6" type="-+">Op datze na haar macht, bewezen <rhyme label="b" type="m">dankbaarheit</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">En na de zake eist, betoonden <rhyme label="b" type="m" corresp="#s2:l3">voorbaarheit</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2188</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Iets moet ik u Laura vragen</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">IEts moet ik mijn Engel <rhyme label="a" type="f">vraagen</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Mits dat gy siet alle <rhyme label="a" type="f" corresp="#s1:l1">daagen</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Hoe ik ydel bid om <rhyme label="b" type="m">u</rhyme>.</l>
+        <l id="s1:l4" met="4" type="+-">Waarom kunt gy niet <rhyme label="c" type="f">verweekken</rhyme>?</l>
+        <l id="s1:l5" met="4" type="+-">Doe my blijk van eenig <rhyme label="c" type="f" corresp="#s1:l4">teekken</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Waarom dat gy sijt soo <rhyme label="b" type="m" corresp="#s1:l3">schuw</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Is het om uw frisse <rhyme label="a" type="f">leeden</rhyme>?</l>
+        <l id="s2:l2" met="4" type="+-">Is het om u fluxe <rhyme label="a" type="f" corresp="#s2:l1">treeden</rhyme>?</l>
+        <l id="s2:l3" met="4" type="+-">Is het om uw schoon <rhyme label="b" type="m">gelaat</rhyme>?</l>
+        <l id="s2:l4" met="4" type="+-">Om uw mond? of om <rhyme label="c" type="f">uwtanden</rhyme>?</l>
+        <l id="s2:l5" met="4" type="+-">Om uw oogen of uw <rhyme label="c" type="f" corresp="#s2:l4">handen</rhyme>?</l>
+        <l id="s2:l6" met="4" type="+-">Om uw boesem of uw <rhyme label="b" type="m" corresp="#s2:l3">staat</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Ydelheyd der <rhyme label="a" type="f">ydelheeden</rhyme>!</l>
+        <l id="s3:l2" met="4" type="+-">Sal de dood dit niet <rhyme label="a" type="f" corresp="#s3:l1">vertreeden</rhyme>?</l>
+        <l id="s3:l3" met="4" type="+-">Is 't niet alles <rhyme label="b" type="m">ydelheyd</rhyme>?</l>
+        <l id="s3:l4" met="4" type="+-">Ey bekeer dan <rhyme label="c" type="f">Celestyne</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Laat die weereld-mist <rhyme label="c" type="f" corresp="#s3:l4">verdwijne</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Daar uw hart en sin in <rhyme label="b" type="m" corresp="#s3:l3">leyt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Dat kan my niet achter <rhyme label="a" type="f">leggen</rhyme>.</l>
+        <l id="s4:l2" met="4" type="+-">Maar so gy my af wilt <rhyme label="a" type="f" corresp="#s4:l1">seggen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Seg dan dat gy meer <rhyme label="b" type="m">vermeugt</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">In verstand, in deugd, in <rhyme label="c" type="f">reeden</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">'k Sal dan willig rugwaarts <rhyme label="c" type="f" corresp="#s4:l4">treeden</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Want ik acht niet als de <rhyme label="b" type="m" corresp="#s4:l3">Deugd</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

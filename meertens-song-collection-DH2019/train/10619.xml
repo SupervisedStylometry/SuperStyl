@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10619</id>
+    <date>
+      <year-start>1591</year-start>
+      <year-end>1591</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Het vrijde een boer</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ALs men bespoort dat liefde <rhyme label="a" type="m">gheeft</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Gheluck vreucht en <rhyme label="b" type="f">verblijen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">En men in als zijn wille <rhyme label="a" type="m" corresp="#s1:l1">heeft</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Sohay, soo ist een lust te <rhyme label="b" type="f" corresp="#s1:l2">vrijen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als liefde hem alsoo <rhyme label="a" type="m">vertoont</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Dat sorch mach staen <rhyme label="b" type="f">bezijen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En sy ons liefd' met liefde <rhyme label="a" type="m" corresp="#s2:l1">loont</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Sohay, soo ist een lust om <rhyme label="b" type="f" corresp="#s2:l2">vrijen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Als men zijn liefste mach <rhyme label="a" type="m">aensien</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Die ons druck doet <rhyme label="b" type="f">vermijen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">En sy ons gaet haer jonste <rhyme label="a" type="m" corresp="#s3:l1">bien</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Sohay, soo ist een lust te <rhyme label="b" type="f" corresp="#s3:l2">vrijen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Als men savonts de deur in <rhyme label="a" type="m">snapt</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Sy ons in laet by <rhyme label="b" type="f">tijen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">En steelt een soentgen dat het <rhyme label="a" type="m" corresp="#s4:l1">clapt</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Sohay, soo ist een lust te <rhyme label="b" type="f" corresp="#s4:l2">vrijen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Als hy seyt door Liefkens <rhyme label="a" type="m">bedwanck</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Sa Lief, ick wil my <rhyme label="b" type="f">vlijen</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Te slapen in v armkens <rhyme label="a" type="m" corresp="#s5:l1">blanck</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Sohay, soo ist een lust te <rhyme label="b" type="f" corresp="#s5:l2">vrijen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

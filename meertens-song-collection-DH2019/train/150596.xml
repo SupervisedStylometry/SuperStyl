@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>150596</id>
+    <date>
+      <year-start>1630</year-start>
+      <year-end>1630</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 117 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Dirk Rafaelsz. Camphuysen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GHy volcken, menigh van <rhyme label="a" type="m">getal</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Ghy volcken <rhyme label="a" type="m" corresp="#s1:l1">over-overal</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Het zy ghy noch voor dese <rhyme label="b" type="m">tijdt</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Van Godts genade bastert <rhyme label="b" type="m" corresp="#s1:l3">zijt</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Het zy als uytverkoren <rhyme label="c" type="m">kindt</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Met hooger gunst van hem <rhyme label="c" type="m" corresp="#s1:l5">bemint</rhyme>:</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ghy volcken, spreeckt des Heeren <rhyme label="a" type="m">loff</rhyme>;</l>
+        <l id="s2:l2" met="4" type="-+">Ghy volcken spreeckt: want daer is <rhyme label="a" type="m" corresp="#s2:l1">stoff</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Sijn goedtheydt, over ons <rhyme label="b" type="m">verspreydt</rhyme>;</l>
+        <l id="s2:l4" met="4" type="-+">Is op een stercken grondt <rhyme label="b" type="m" corresp="#s2:l3">geleyt</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Sijn trouw, bepaelt van uer noch <rhyme label="c" type="m">dagh</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Duert eeuwighlijck. <rhyme label="c" type="m" corresp="#s2:l5">Halelu-Iah</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

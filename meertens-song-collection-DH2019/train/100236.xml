@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100236</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Blijdschap van mij vlied</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="+-">GOden kan het zyn, Dat de Mans de <rhyme label="a" type="f">Vrouwen</rhyme></l>
+        <l id="s1:l2" met="6" type="+-">Laten zoo in pyn, Drukken en <rhyme label="a" type="f" corresp="#s1:l1">benouwen</rhyme>!</l>
+        <l id="s1:l3" met="6" type="+-">'k Meend zy waren staag Tot een Vrouw <rhyme label="b" type="f">genegen</rhyme>;</l>
+        <l id="s1:l4" met="6" type="+-">Maar eylaas! hoe traag Was hy, ja heel <rhyme label="b" type="f" corresp="#s1:l3">tegen</rhyme>.</l>
+        <l id="s1:l5" met="6" type="+-">Hoe ik het aanging; Hoe ik hem <rhyme label="c" type="m">ontfing</rhyme>;</l>
+        <l id="s1:l6" met="7" type="+-">Noit ontfonkten ik zyn hert: Nogtans zag hy <rhyme label="d" type="m">wel</rhyme>,</l>
+        <l id="s1:l7" met="7" type="+-">Hoe myn ziel met kwel Tot zyn min getrokken <rhyme label="e" type="m">werd</rhyme>;</l>
+        <l id="s1:l8" met="3" type="-+">Maat hoe dat ik meer <rhyme label="f" type="f">zugte</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Hoe Tyter meerder <rhyme label="f" type="f" corresp="#s1:l8">vlugte</rhyme></l>
+        <l id="s1:l10" met="4" type="+-">Van my, liet my eenzaam <rhyme label="g" type="m">staan</rhyme>;</l>
+        <l id="s1:l11" met="3" type="-+">Hoe ik hem meerder <rhyme label="h" type="f">vleide</rhyme>,</l>
+        <l id="s1:l12" met="7" type="+-">Hoe hy te eerder scheide, Latend' Laura vol <rhyme label="g" type="m" corresp="#s1:l10">getraan</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13880</id>
+    <date>
+      <year-start>1646</year-start>
+      <year-end>1646</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Filli, die schone <rhyme label="a" type="m">Schaferin</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Beschlossen hat in ihren <rhyme label="a" type="m" corresp="#s1:l1">sinn</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Amor zu <rhyme label="b" type="f">wiederstehen</rhyme>:</l>
+        <l id="s1:l4" met="4" type="-+">So offt sie merckte sein <rhyme label="c" type="m">geschos</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Verwandt sie sich, gab sich nicht <rhyme label="c" type="m" corresp="#s1:l4">blosz</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Das solches fehl must <rhyme label="b" type="f" corresp="#s1:l3">gehen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Amor erdacht ein ander <rhyme label="a" type="m">list</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Sprach: Filli du zwarwilzich <rhyme label="a" type="m" corresp="#s2:l1">bist</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">In deinem stoltzen <rhyme label="b" type="f">Sinne</rhyme>:</l>
+        <l id="s2:l4" met="4" type="-+">Verstelt sich in Hirten <rhyme label="c" type="m">gestalt</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Und stahl ihr ihren Stab <rhyme label="c" type="m" corresp="#s2:l4">alszbalt</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Das sie es nicht wurd <rhyme label="b" type="f" corresp="#s2:l3">inne</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Legt hin dafur ein Spitzich <rhyme label="a" type="m">Pfeill</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Mein gute Filli, will in <rhyme label="a" type="m" corresp="#s3:l1">eill</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Auf ihren Stab sich <rhyme label="b" type="f">bucken</rhyme>:</l>
+        <l id="s3:l4" met="4" type="-+">Ergreifft den Pfeill, und den <rhyme label="c" type="m">hinein</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Gar tieff in ihr Hart <rhyme label="c" type="m" corresp="#s3:l4">Hertzelein</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Thet unversehens <rhyme label="b" type="f" corresp="#s3:l3">trucken</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Ach weh schrey sie, du kleiner <rhyme label="a" type="m">Schalck</rhyme>!</l>
+        <l id="s4:l2" met="4" type="-+">Wer ich geswind gleich wie der <rhyme label="a" type="m" corresp="#s4:l1">Falck</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Kont ich dir nicht <rhyme label="b" type="f">entfliehen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Schon meiner, ach ich geb mich <rhyme label="c" type="m">dir</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Thue doch dein Pfeill so brent in <rhyme label="c" type="m" corresp="#s4:l4">mir</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Ausz meinem Hertzen <rhyme label="b" type="f" corresp="#s4:l3">Ziehen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35411</id>
+    <date>
+      <year-start>1677</year-start>
+      <year-end>1677</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Ach Belinde</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Philis seght waer ick 't verdient <rhyme label="a" type="f">hebb'</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Dat ick sterven moet de <rhyme label="b" type="m">doodt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Dieu tot der doot bemindt <rhyme label="a" type="f" corresp="#s1:l1">hebb'</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Is dan myn misdaet soo <rhyme label="b" type="m" corresp="#s1:l2">groot</rhyme>?</l>
+        <l id="s1:l5" met="4" type="+-">Hoe suld' uwen vyandt <rhyme label="c" type="f">pynen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Daer ghy uwen Vriendt soo <rhyme label="d" type="m">plaeght</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Leeuwen souwen soeter <rhyme label="c" type="f" corresp="#s1:l5">schynen</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Als m'hun sulcken liefde <rhyme label="d" type="m" corresp="#s1:l6">draegt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Ghy en sult niet langh meer wreet <rhyme label="a" type="f">zyn</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Teghen sulck-een soeten <rhyme label="b" type="m">hert</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Ach! ick sal haest in't root sweet <rhyme label="a" type="f" corresp="#s2:l1">zyn</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Want myn hert dat berst van <rhyme label="b" type="m" corresp="#s2:l2">smert</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Gaet nu philis soeckt een <rhyme label="c" type="f">ander</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Die u meer bemindt als <rhyme label="d" type="m">ick</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Soeckt een ander, want <rhyme label="c" type="f" corresp="#s2:l5">Philander</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Gheeft u synen lesten <rhyme label="d" type="m" corresp="#s2:l6">snick</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

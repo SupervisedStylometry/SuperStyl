@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10935</id>
+    <date>
+      <year-start>1605</year-start>
+      <year-end>1605</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>In een groot ongeluk ben ik geboren</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">In een groot ongeluc ben ic <rhyme label="a" type="f">geboren</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Want fortuyn my <rhyme label="b" type="m">rebelleert</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Swaer gepeyns comt my te <rhyme label="a" type="f" corresp="#s1:l1">voren</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Waer deur mijn vreuchde <rhyme label="b" type="m" corresp="#s1:l2">declineert</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Om absente is mijn <rhyme label="a" type="f">versuchten</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Ghy eerbaer maechdekens <rhyme label="b" type="m">delicaet</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Want ick sorgh voor quade <rhyme label="a" type="f" corresp="#s2:l1">gheruchten</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Die wel gheschieden door nijdt en <rhyme label="b" type="m" corresp="#s2:l2">haet</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Hout u beloften gheschiet int <rhyme label="a" type="f">scheyden</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Van u en my, ghy weet wel <rhyme label="b" type="m">waer</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">So sal ick hopende troost te <rhyme label="a" type="f" corresp="#s3:l1">verbeyden</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Hoe wel een uer my dunckt een <rhyme label="b" type="m" corresp="#s3:l2">jaer</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Al mocht my Cresus schat <rhyme label="a" type="f">ghebeuren</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">En Alexanders rijckdom <rhyme label="b" type="m">groot</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Iae al des wereldts vreuchde <rhyme label="a" type="f" corresp="#s4:l1">kueren</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Sonder u liefken t’waer my de <rhyme label="b" type="m" corresp="#s4:l2">doot</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Niemant can mijn gheest <rhyme label="a" type="f">vermaken</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Dan ghy o edel vrouwelijck <rhyme label="b" type="m">graen</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Om u alleen moet ickse <rhyme label="a" type="f" corresp="#s5:l1">versaken</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Hoe rijck, hoe schoon, hoe wel <rhyme label="b" type="m" corresp="#s5:l2">ghedaen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Nacht ende dach is myn <rhyme label="a" type="f">bedencken</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Ons diviseeren sonder <rhyme label="b" type="m">pijn</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Twelck nu faelgeert en my gaet <rhyme label="a" type="f" corresp="#s6:l1">crencken</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Dus weest ghenadich over <rhyme label="b" type="m" corresp="#s6:l2">my</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Eeuwighe vreucht sal ick <rhyme label="a" type="f">ghenieten</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Ist dat ghy myns ghenadich <rhyme label="b" type="m">zijt</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Pijn noch arbeyt sal my <rhyme label="a" type="f" corresp="#s7:l1">verdrieten</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Ontfermt ghy mijner nu ter <rhyme label="b" type="m" corresp="#s7:l2">tijdt</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">So sal Prince alle mijn <rhyme label="a" type="f">rouwe</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">En dangier gheheel van my <rhyme label="b" type="m">vlien</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">Dus blijft u dienaer in liefde <rhyme label="a" type="f" corresp="#s8:l1">ghetrouwe</rhyme></l>
+        <l id="s8:l4" met="4" type="-+">En laet my troost als nu <rhyme label="b" type="m" corresp="#s8:l2">gheschien</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

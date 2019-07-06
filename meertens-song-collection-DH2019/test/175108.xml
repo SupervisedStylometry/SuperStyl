@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175108</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Braaf is braaf en slecht is <rhyme label="a" type="m">slecht</rhyme>!</l>
+        <l id="s1:l2" met="4" type="+-">Of het vrind of vijand <rhyme label="b" type="m">doet</rhyme>;</l>
+        <l id="s1:l3" met="4" type="+-">Daarom, jongens! hoû-je <rhyme label="b" type="m" corresp="#s1:l2">goed</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Dat ge trouw uw meening <rhyme label="a" type="m" corresp="#s1:l1">zegt</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Dat ge spreken durft in 't <rhyme label="a" type="m" corresp="#s1:l1">regt</rhyme>:</l>
+        <l id="s1:l6" met="4" type="+-">‘Dat is braaf, en dat is <rhyme label="a" type="m" corresp="#s1:l1">slecht</rhyme>.’</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Heb-je een' goeijen <rhyme label="a" type="m">kameraad</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Daar ge magtig veel van <rhyme label="b" type="m">houdt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">En hij is soms boos of <rhyme label="b" type="m" corresp="#s2:l2">stout</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Zeg hem dan: ‘Mijn beste <rhyme label="a" type="m" corresp="#s2:l1">maat</rhyme>!</l>
+        <l id="s2:l5" met="4" type="+-">Dat is slecht’, - of, ‘dat is <rhyme label="a" type="m" corresp="#s2:l1">kwaad</rhyme>!’</l>
+        <l id="s2:l6" met="4" type="+-">'k Wed, dat hij het verder <rhyme label="a" type="m" corresp="#s2:l1">laat</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Vond-je er één' een' raren <rhyme label="a" type="m">kwant</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Maar ge zaagt er, nu of <rhyme label="b" type="m">dan</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Eens wat braafs of nobels <rhyme label="b" type="m" corresp="#s3:l2">van</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Geef hem dan uw <rhyme label="a" type="m" corresp="#s3:l1">regterhand</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">En vertel aan allen <rhyme label="a" type="m" corresp="#s3:l1">kant</rhyme>:</l>
+        <l id="s3:l6" met="4" type="+-">‘Hij is toch een ferme <rhyme label="a" type="m" corresp="#s3:l1">klant</rhyme>!’</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Maar bedenk u eigen <rhyme label="a" type="m">goed</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Eer ge tot een' ander' <rhyme label="b" type="m">spreekt</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Of je zelv' ook wat <rhyme label="b" type="m" corresp="#s4:l2">ontbreekt</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Dat ge nog verhelpen <rhyme label="a" type="m" corresp="#s4:l1">moet</rhyme>: -</l>
+        <l id="s4:l5" met="4" type="+-">Zeg dan eerlijk, wat ge ook <rhyme label="a" type="m" corresp="#s4:l1">doet</rhyme>:</l>
+        <l id="s4:l6" met="4" type="+-">‘Dàt was kwaad, en dàt was <rhyme label="a" type="m" corresp="#s4:l1">goed</rhyme>.’</l>
+      </lg>
+    </lg>
+  </text>
+</song>

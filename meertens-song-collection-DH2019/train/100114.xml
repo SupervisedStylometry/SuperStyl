@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100114</id>
+    <date>
+      <year-start>1652</year-start>
+      <year-end>1652</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Sei tanto graziosa</melody>
+  <author>Arnold Bon</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">GEtrouwste der <rhyme label="a" type="f">Minnaren</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Dien Leeuw, noch Beer, noch Tyger kan <rhyme label="b" type="f">beletten</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Om midden in de <rhyme label="a" type="f" corresp="#s1:l1">baren</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Van tegenspoet, uw hart niet vast te <rhyme label="b" type="f" corresp="#s1:l2">zetten</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Op zulk een <rhyme label="c" type="m">Beelt</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Daar deucht in <rhyme label="c" type="m" corresp="#s1:l5">speelt</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Die, als een <rhyme label="d" type="f">Schuim-godinne</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Haar helder <rhyme label="e" type="f">oogen</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">Gebruikt voor pijl en <rhyme label="e" type="f" corresp="#s1:l8">boogen</rhyme>,</l>
+        <l id="s1:l10" met="2" type="+-">Vande <rhyme label="d" type="f" corresp="#s1:l7">Minne</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Geen Heerelijker <rhyme label="a" type="f">glory</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Als dat een Trouw, en ongeveinsde <rhyme label="b" type="f">Minnaar</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Met deftige <rhyme label="a" type="f" corresp="#s2:l1">victory</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Wert van zijn Liefs genegentheit <rhyme label="b" type="f" corresp="#s2:l2">verwinnaar</rhyme>.</l>
+        <l id="s2:l5" met="2" type="-+">En staat ten <rhyme label="c" type="m">Toon</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Met zulk een <rhyme label="c" type="m" corresp="#s2:l5">Kroon</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Van Pallein en <rhyme label="d" type="f">Laurieren</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Als wy u <rhyme label="e" type="f">vlechten</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">En om uw haaren <rhyme label="e" type="f" corresp="#s2:l8">hechten</rhyme>,</l>
+        <l id="s2:l10" met="2" type="+-">En <rhyme label="d" type="f" corresp="#s2:l7">vercieren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

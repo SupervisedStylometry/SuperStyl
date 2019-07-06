@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>11446</id>
+    <date>
+      <year-start>1627</year-start>
+      <year-end>1627</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+      <tag standard-name="mythologisch lied" translation="mythological song">mythologisch lied</tag>
+    </tags>
+    <melody>Zuivere schone vermakelijke maagd</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacob Janszoon Colevelt, A. Pietersz. Craen, Matthijs van Velden, Jan Robbertsz</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">MEn gruwt de Hel, waer yeders misdaet <rhyme label="a" type="m">wort</rhyme>,</l>
+        <l id="s1:l2" met="7" type="+-">Niet door gunst, of door kunst, maer na loon <rhyme label="b" type="f">gewroken</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Waer dat aen geld, gheweld, of loosheyt <rhyme label="a" type="m" corresp="#s1:l1">schort</rhyme>.</l>
+        <l id="s1:l4" met="5" type="-+">Haer straffe recht en wort door geen staet <rhyme label="b" type="f" corresp="#s1:l2">gebroken</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">Al te heyligh is haer wet, yeder wort <rhyme label="c" type="f">gegeven</rhyme></l>
+        <l id="s1:l6" met="5" type="-+">(Naer 't on-mydelijck geset) so hy in syn <rhyme label="c" type="f" corresp="#s1:l5">leven</rhyme></l>
+        <l id="s1:l7" met="7" type="+-">Heeft gedaen, en bestaen, o verschricklijck <rhyme label="d" type="f">derven</rhyme>!</l>
+        <l id="s1:l8" met="7" type="+-">Waermen dan niet en kan, voor het leven <rhyme label="d" type="f" corresp="#s1:l7">sterven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">O straffe Stapel-huys van alle <rhyme label="a" type="m">pijn</rhyme>!</l>
+        <l id="s2:l2" met="7" type="+-">Waer torment, en ellend, syn by hoop' te <rhyme label="b" type="f">vinden</rhyme>:</l>
+        <l id="s2:l3" met="5" type="-+">Een hel-hont Cerberus, daer by noch <rhyme label="a" type="m" corresp="#s2:l1">sijn</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Gesusters dry, die de verdoemde sielen <rhyme label="b" type="f" corresp="#s2:l2">binden</rhyme>:</l>
+        <l id="s2:l5" met="5" type="-+">Een geessel, waermen af, het bloet siet <rhyme label="c" type="f">sypen</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">En een rat waer noch aen Ixion moet <rhyme label="c" type="f" corresp="#s2:l5">slypen</rhyme>:</l>
+        <l id="s2:l7" met="7" type="+-">Oock den steen, die alleen, Sisyphus moet <rhyme label="d" type="f">rollen</rhyme>:</l>
+        <l id="s2:l8" met="7" type="+-">Tantaels nat, en het vat, dat Belides <rhyme label="d" type="f" corresp="#s2:l7">vollen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Tityus stage smart, en heeft doch geen <rhyme label="a" type="m">bestant</rhyme>,</l>
+        <l id="s3:l2" met="7" type="+-">Wiens geklagh, men en mach, sonder suchten <rhyme label="b" type="f">hooren</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">Want Iupyns vogel eet sijn <rhyme label="a" type="m" corresp="#s3:l1">Ingewant</rhyme>;</l>
+        <l id="s3:l4" met="5" type="-+">Long, Lever, Loos, en komt tot het hart in <rhyme label="b" type="f" corresp="#s3:l2">booren</rhyme>:</l>
+        <l id="s3:l5" met="5" type="-+">Ach Helse pijn! ('t is waer) g'en sijt niet om <rhyme label="c" type="f">lyden</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">Maer noch meught ghy met de Min in 't quad' niet <rhyme label="c" type="f" corresp="#s3:l5">stryden</rhyme>:</l>
+        <l id="s3:l7" met="7" type="+-">Hy alleen, anders geen, is een Hel, ja <rhyme label="d" type="f">quader</rhyme>!</l>
+        <l id="s3:l8" met="7" type="+-">Wie 't fenijn, van syn pijn, vreest, en komtse <rhyme label="d" type="f" corresp="#s3:l7">nader</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>165344</id>
+    <date>
+      <year-start>1621</year-start>
+      <year-end>1621</year-end>
+    </date>
+    <location>
+      <orginal-name>mechelen</orginal-name>
+      <standard-name>Mechelen, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0281381</lon>
+        <lat>4.4803453</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="rederijkerslied" translation="rhetorician song">rederijkerslied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="mythologisch lied" translation="mythological song">mythologisch lied</tag>
+    </tags>
+    <melody>Lofzang van Maria</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="groups">groepen</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Jan Thieullier</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">NV Musa <rhyme label="a" type="m">Sang-Goddin</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Ontdeckt my vwe <rhyme label="a" type="m" corresp="#s1:l1">min</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Treckt uyt den mist der <rhyme label="b" type="f">logen</rhyme>;</l>
+        <l id="s1:l4" met="3" type="-+">VVaer door de nutste <rhyme label="c" type="m">kracht</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Der Redenaers <rhyme label="c" type="m" corresp="#s1:l4">gebracht</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">VVord op haer hooghst <rhyme label="b" type="f" corresp="#s1:l3">vermogen</rhyme>;</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Is't niet door Bacchi <rhyme label="a" type="m">loff</rhyme>?</l>
+        <l id="s2:l2" met="3" type="-+">Neen! dat is yedel <rhyme label="a" type="m" corresp="#s2:l1">stoff</rhyme>.</l>
+        <l id="s2:l3" met="3" type="-+">Off zijn 't Pans <rhyme label="b" type="f">vreughde-lieden</rhyme>?</l>
+        <l id="s2:l4" met="3" type="-+">Dat gat soo boertend' <rhyme label="c" type="m">heen</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">Zijn 't Satyr-dichten? <rhyme label="c" type="m" corresp="#s2:l4">Neen</rhyme>.</l>
+        <l id="s2:l6" met="3" type="-+">Die b'hoort ghy meest te <rhyme label="b" type="f" corresp="#s2:l3">vlieden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Hoe zal ick dan den <rhyme label="a" type="m">Tijdt</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">(My ov'righ) worden <rhyme label="a" type="m" corresp="#s3:l1">quijt</rhyme>?</l>
+        <l id="s3:l3" met="3" type="-+">Bedicht der Helden <rhyme label="b" type="f">daden</rhyme>.</l>
+        <l id="s3:l4" met="3" type="-+">Sylenus was een <rhyme label="c" type="m">Heldt</rhyme>.</l>
+        <l id="s3:l5" met="3" type="-+">Maer noyt daer voor <rhyme label="c" type="m" corresp="#s3:l4">getelt</rhyme>.</l>
+        <l id="s3:l6" met="3" type="-+">Ay, wilt v zin <rhyme label="b" type="f" corresp="#s3:l3">ontladen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Vliedt Bacchi Ranck (hoe <rhyme label="a" type="m">zoet</rhyme>)</l>
+        <l id="s4:l2" met="3" type="-+">Met alles wat zich <rhyme label="a" type="m" corresp="#s4:l1">voedt</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">In donkere <rhyme label="b" type="f">Schuyl-hoeken</rhyme>:</l>
+        <l id="s4:l4" met="3" type="-+">Maer pooght all'een met <rhyme label="c" type="m">eer</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Tot vwes naesten <rhyme label="c" type="m" corresp="#s4:l4">Leer</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Het nut door vreught te <rhyme label="b" type="f" corresp="#s4:l3">soecken</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Des ziels gejonde <rhyme label="a" type="m">kracht</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Niet noodeloos en <rhyme label="a" type="m" corresp="#s5:l1">acht</rhyme>.</l>
+        <l id="s5:l3" met="3" type="-+">O Musa, 'kmoet v <rhyme label="b" type="f">danken</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Dat door Liefd bouen <rhyme label="c" type="m">al</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">Ghy veler Dicht'ren <rhyme label="c" type="m" corresp="#s5:l4">val</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Aenwijst ons <rhyme label="b" type="f" corresp="#s5:l3">VVyngaerd-ranken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

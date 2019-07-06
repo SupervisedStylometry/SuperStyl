@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13528</id>
+    <date>
+      <year-start>1662</year-start>
+      <year-end>1662</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Wenn wir in höchste Nöte sein</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Tjaert Sonnema</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ALs wy zijn in den hooghsten <rhyme label="a" type="m">nood</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En zijn bedroeft tot in der <rhyme label="a" type="m" corresp="#s1:l1">dood</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">En weeten ons geen hulp of <rhyme label="b" type="m">raed</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">En 't water aen de lippen <rhyme label="b" type="m" corresp="#s1:l3">staet</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">So zyt Gy onse troost <rhyme label="a" type="m">alleen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Dat wy, ô God, U in 't <rhyme label="a" type="m" corresp="#s2:l1">gemeen</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Aenroepen in ons' droeve <rhyme label="b" type="m">stand</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Dat Gy uitreiken wilt Uw' <rhyme label="b" type="m" corresp="#s2:l3">hand</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Tot U ons ooghen en ons <rhyme label="a" type="m">hert</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Wy heffen met berouw en <rhyme label="a" type="m" corresp="#s3:l1">smert</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Gy wilt de sond ons nemen <rhyme label="b" type="m">af</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">En ook vernietigen de <rhyme label="b" type="m" corresp="#s3:l3">straf</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>112280</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">IK gaf gister avond myn Kloris een <rhyme label="a" type="m">zoen</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">ô Rouw! Ik <rhyme label="b" type="m">zouw</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Zey zy, het nooit na dezen meerder <rhyme label="a" type="m" corresp="#s1:l1">doen</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Ik gaf gister avond aan Kloris een <rhyme label="a" type="m" corresp="#s1:l1">zoen</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Maar laas! ik mag het nooit weder <rhyme label="a" type="m" corresp="#s1:l1">doen</rhyme>:</l>
+        <l id="s1:l6" met="6" type="-+">Want myn baart zey zy had haar mondje zeer <rhyme label="c" type="m">gedaan</rhyme>;</l>
+        <l id="s1:l7" met="4" type="-+">En egter 'k weet Het was haar <rhyme label="d" type="m">leed</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Dat ik 't niet meerder had <rhyme label="c" type="m" corresp="#s1:l6">bestaan</rhyme>.</l>
+        <l id="s1:l9" met="6" type="+-">Maar neen zy raad het niet: want ik geef aan haar de <rhyme label="e" type="m">zak</rhyme>.</l>
+        <l id="s1:l10" met="4" type="-+">De Wyn geeft my. De Wyn geeft <rhyme label="f" type="m">my</rhyme>,</l>
+        <l id="s1:l11" met="4" type="-+">Het Wyntje geeft my meer <rhyme label="e" type="m" corresp="#s1:l9">gemak</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Vaarwel schoone Kloris, 'k ben moede <rhyme label="a" type="m">gekust</rhyme>:</l>
+        <l id="s2:l2" met="2" type="-+">Myn min, <rhyme label="b" type="m">Vriendin</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Heb ik in dees Bokaal reeds <rhyme label="a" type="m" corresp="#s2:l1">uitgeblust</rhyme>.</l>
+        <l id="s2:l4" met="4" type="-+">Vaar wel schoone Kloris, 'k ben moede <rhyme label="a" type="m" corresp="#s2:l1">gekust</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Want myn vlam is in den Wyn <rhyme label="a" type="m" corresp="#s2:l1">geblust</rhyme>.</l>
+        <l id="s2:l6" met="6" type="-+">Kom, wel aan drinken wy de min en hare <rhyme label="c" type="m">smert</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Die 't hert beswaard En droefheid <rhyme label="d" type="m">baard</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Door deze fles met Wyn van't <rhyme label="c" type="m" corresp="#s2:l6">hert</rhyme>.</l>
+        <l id="s2:l9" met="6" type="+-">Ik kus veel liever 't glas, dan myn Kloris <rhyme label="e" type="m">Rozekaak</rhyme>.</l>
+        <l id="s2:l10" met="4" type="-+">De Wyn geeft my, De Wyn geeft <rhyme label="f" type="m">my</rhyme>,</l>
+        <l id="s2:l11" met="4" type="-+">Het Wyntje geeft my meer <rhyme label="e" type="m" corresp="#s2:l9">vermaak</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ey ziet deze dropjes eens danssen in't <rhyme label="a" type="m">glas</rhyme>!</l>
+        <l id="s3:l2" met="2" type="-+">Hier by, Dunkt <rhyme label="b" type="m">my</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Komt geen gezoen van Klorisje te <rhyme label="a" type="m" corresp="#s3:l1">pas</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">En ziet deze dropjes eens danssen in't <rhyme label="a" type="m" corresp="#s3:l1">glas</rhyme>!</l>
+        <l id="s3:l5" met="4" type="-+">Hier by komt myn kloris niet te <rhyme label="a" type="m" corresp="#s3:l1">pas</rhyme>.</l>
+        <l id="s3:l6" met="6" type="-+">Edel nat, dat een hart door uwe deugt <rhyme label="c" type="m">verkwikt</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">'k Schenk u myn min; Spyt myn <rhyme label="d" type="m">vriendin</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Die'k heb geliefkoost en <rhyme label="c" type="m" corresp="#s3:l6">gelikt</rhyme></l>
+        <l id="s3:l9" met="6" type="+-">Ik schonk aan Kloris wel 't eerste bloemje van myn <rhyme label="e" type="m">jeugd</rhyme>;</l>
+        <l id="s3:l10" met="4" type="-+">Maar Wyn geeft my, Maar wyn geeft <rhyme label="f" type="m">my</rhyme>,</l>
+        <l id="s3:l11" met="4" type="-+">Maar 't wyntje geeft my meer <rhyme label="e" type="m" corresp="#s3:l9">geneugt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ik zie wel hoe Kloris my wederom <rhyme label="a" type="m">vleid</rhyme>:</l>
+        <l id="s4:l2" met="2" type="-+">Maar wis, het <rhyme label="b" type="m">is</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Vergeefs, ik wil niet weder zijn <rhyme label="a" type="m" corresp="#s4:l1">verleid</rhyme>.</l>
+        <l id="s4:l4" met="4" type="-+">Ik zie wel hoe Kloris my wederom <rhyme label="a" type="m" corresp="#s4:l1">vleid</rhyme>:</l>
+        <l id="s4:l5" met="4" type="-+">Maar ik wil niet weder zyn <rhyme label="a" type="m" corresp="#s4:l1">verleid</rhyme>.</l>
+        <l id="s4:l6" met="6" type="-+">Kloris, neen; 'k heb al lang genoeg u slaaf <rhyme label="c" type="m">geweest</rhyme></l>
+        <l id="s4:l7" met="4" type="-+">Een glas met wyn Is <rhyme label="d" type="m">Medicyn</rhyme>,</l>
+        <l id="s4:l8" met="4" type="-+">Die myne minnepyn <rhyme label="c" type="m" corresp="#s4:l6">geneest</rhyme>.</l>
+        <l id="s4:l9" met="6" type="+-">'t Is beter een fles, dan uwe teere mond <rhyme label="e" type="m">gekust</rhyme>.</l>
+        <l id="s4:l10" met="4" type="-+">Ik min de wyn, Ik min de <rhyme label="f" type="m">wyn</rhyme>,</l>
+        <l id="s4:l11" met="4" type="-+">Want die alleen is al myn <rhyme label="e" type="m" corresp="#s4:l9">lust</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

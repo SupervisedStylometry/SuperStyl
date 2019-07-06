@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188287</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Lief uitverkoren lief triomfant</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">'t GRootste vermaecken // dat meest <rhyme label="a" type="m">verblijdt</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">In quade saecken // is korten <rhyme label="a" type="m" corresp="#s1:l1">tijdt</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">'t Meeste verblijden // 't welck 't goede <rhyme label="b" type="m">gheeft</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Sijn lange tijden // dat men het <rhyme label="b" type="m" corresp="#s1:l3">heeft</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Wanneer ick ter deegh // dit <rhyme label="c" type="m">overweegh</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Denck ick; Geluckigh sijn wy om <rhyme label="c" type="m" corresp="#s1:l5">leegh</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">'t Leven beneden // ons lastigh <rhyme label="a" type="m">wordt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Maer 't is oock heden // geweldigh <rhyme label="a" type="m" corresp="#s2:l1">kort</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Schoon wy besueren // hier veel <rhyme label="b" type="m">verdriet</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">'t Sal niet langh dueren// 't is haest te <rhyme label="b" type="m" corresp="#s2:l3">niet</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Maer 't leven vol eer // by Godt den <rhyme label="c" type="m">Heer</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Dat sal niet eyndighen <rhyme label="c" type="m" corresp="#s2:l5">immermeer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Salig' ellenden // en <rhyme label="a" type="m">ongeneught</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Die altijdt enden // in lust en <rhyme label="a" type="m" corresp="#s3:l1">vreught</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Saligh vermaecken // dat niet en <rhyme label="b" type="m">wordt</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Door eenige saecken // oyt <rhyme label="b" type="m" corresp="#s3:l3">af-gekort</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">En salighen end // dat ons <rhyme label="c" type="m">versent</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">In vreught, daer 't eynde gheen vreughde <rhyme label="c" type="m" corresp="#s3:l5">schent</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

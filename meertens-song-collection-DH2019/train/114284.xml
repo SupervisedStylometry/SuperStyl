@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>114284</id>
+    <date>
+      <year-start>1745</year-start>
+      <year-end>1745</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">LIeve gezelle die houd van de <rhyme label="a" type="f">boutelje</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Drinkt op de gezondheid alte <rhyme label="b" type="m">gaer</rhyme>,</l>
+        <l id="s1:l3" met="5" type="+-">Neemt dit glaesje en laet u niet lang <rhyme label="a" type="f" corresp="#s1:l1">kwellen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">'k Weet dog uw natuur die trekt daer <rhyme label="b" type="m" corresp="#s1:l2">naer</rhyme>.</l>
+        <l id="s1:l5" met="5" type="-+">Ik steek het onder stoel of onder <rhyme label="c" type="m">ba...nk</rhyme>,</l>
+        <l id="s1:l6" met="6" type="-+">Maer 'k laet het lopen in den zoeten <rhyme label="c" type="m" corresp="#s1:l5">nedergank</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">De Wyn die is een soete <rhyme label="a" type="f">Medicyne</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">En zy is voor ider een groot <rhyme label="b" type="m">gerief</rhyme>,</l>
+        <l id="s2:l3" met="5" type="+-">Papen, Nonnen Kwezels en alle de <rhyme label="a" type="f" corresp="#s2:l1">Bagynen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Die hebben al te zamen de Wyn zoo <rhyme label="b" type="m" corresp="#s2:l2">lief</rhyme>:</l>
+        <l id="s2:l5" met="5" type="-+">Dat Edele nat is zo lekker en zo <rhyme label="c" type="m">goe...dt</rhyme>,</l>
+        <l id="s2:l6" met="6" type="-+">Dat yders hert en zinnen daer nae trekken <rhyme label="c" type="m" corresp="#s2:l5">moet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Schippers Bootsgezellen en kunnen dog niet <rhyme label="a" type="f">varen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Als 'er geen Water op den Drogen <rhyme label="b" type="m">is</rhyme>,</l>
+        <l id="s3:l3" met="5" type="+-">Alle de speel lieden die smeren hunne <rhyme label="a" type="f" corresp="#s3:l1">snaren</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Dan en speelen zy geen toonen <rhyme label="b" type="m" corresp="#s3:l2">mis</rhyme>,</l>
+        <l id="s3:l5" met="5" type="-+">Een Muzekant die zingt galand en <rhyme label="c" type="m">Tranbelee...rt</rhyme>,</l>
+        <l id="s3:l6" met="6" type="-+">Als hy zyn Drooge keeltje eerst eens heeft <rhyme label="c" type="m" corresp="#s3:l5">gezmeerdt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Hondert Duisend Ducaten en konne ons niet <rhyme label="a" type="f">baeten</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Als wy maer een hallef uur begraven <rhyme label="b" type="m">zyn</rhyme>.</l>
+        <l id="s4:l3" met="5" type="+-">Al het Werelds goet dat moet men dog <rhyme label="a" type="f" corresp="#s4:l1">verlaeten</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Nae de Derde Fles en voelt men zmert nog <rhyme label="b" type="m" corresp="#s4:l2">pyn</rhyme>.</l>
+        <l id="s4:l5" met="5" type="-+">Drinkt dan nog een glaesje tot spyt van die 't <rhyme label="c" type="m">ben...yt</rhyme>,</l>
+        <l id="s4:l6" met="6" type="-+">Gy zult geen hartzeer voelen door die <rhyme label="c" type="m" corresp="#s4:l5">Vrolykheit</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

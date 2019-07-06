@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>123721</id>
+    <date>
+      <year-start>1841</year-start>
+      <year-end>1841</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Een Meisje waakte nacht op <rhyme label="a" type="m">nacht</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Haar Minnaar moest haast <rhyme label="b" type="f">komen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Haar zuster hield met haar de <rhyme label="a" type="m" corresp="#s1:l1">wacht</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Doch niemand werd <rhyme label="b" type="f" corresp="#s1:l2">vernomen</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Zij zuchtte en riep: ach! wat <rhyme label="c" type="m">verdriet</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Zij zuchtte en <rhyme label="d" type="m">riep</rhyme>:</l>
+        <l id="s1:l7" met="4" type="-+">Zij zuchtte en riep: ach! wat <rhyme label="c" type="m" corresp="#s1:l5">verdriet</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Ach! wat <rhyme label="c" type="m" corresp="#s1:l5">verdriet</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">Ach, ach, ach, <rhyme label="e" type="m">ach</rhyme>,</l>
+        <l id="s1:l10" met="4" type="+-">Zusterlief! hij komt nog <rhyme label="d" type="m" corresp="#s1:l6">niet</rhyme>,</l>
+        <l id="s1:l11" met="2" type="-+">Hij komt nog <rhyme label="d" type="m" corresp="#s1:l6">niet</rhyme>,</l>
+        <l id="s1:l12" met="4" type="-+">'t Is vast dat hij de storm <rhyme label="d" type="m" corresp="#s1:l6">ontziet</rhyme>,</l>
+        <l id="s1:l13" met="2" type="+-">De storm <rhyme label="d" type="m" corresp="#s1:l6">ontziet</rhyme>;</l>
+        <l id="s1:l14" met="3" type="-+">De ontrouwe zal niet <rhyme label="b" type="f" corresp="#s1:l2">komen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Door 't venster digt met <rhyme label="a" type="m">traliewerk</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Was 't moeilijk door te <rhyme label="b" type="f">komen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">De wind die woede vreeselijk <rhyme label="a" type="m" corresp="#s2:l1">sterk</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">En velde gras en <rhyme label="b" type="f" corresp="#s2:l2">boomen</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Nu dachten zij: nu komt hij <rhyme label="c" type="m">niet</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">Nu dachten <rhyme label="d" type="m">zij</rhyme>:</l>
+        <l id="s2:l7" met="4" type="-+">Nu dachten zij: nu komt hij <rhyme label="c" type="m" corresp="#s2:l5">niet</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Nu komt hij <rhyme label="c" type="m" corresp="#s2:l5">niet</rhyme>,</l>
+        <l id="s2:l9" met="4" type="+-">Ach, ach, ach, <rhyme label="e" type="m">ach</rhyme>.</l>
+        <l id="s2:l10" met="4" type="+-">Zegt, zusterlief! zeg is hij 't <rhyme label="d" type="m" corresp="#s2:l6">niet</rhyme>?</l>
+        <l id="s2:l11" met="2" type="-+">Zegt, is hij 't <rhyme label="d" type="m" corresp="#s2:l6">niet</rhyme>?</l>
+        <l id="s2:l12" met="4" type="-+">'t Is vast dat hij de storm <rhyme label="d" type="m" corresp="#s2:l6">ontziet</rhyme>,</l>
+        <l id="s2:l13" met="2" type="+-">De storm <rhyme label="d" type="m" corresp="#s2:l6">ontziet</rhyme>,</l>
+        <l id="s2:l14" met="3" type="-+">De bloodaard zal niet <rhyme label="b" type="f" corresp="#s2:l2">komen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Straks werd door haar, trotsch storm en <rhyme label="a" type="m">wind</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Een Citherklank <rhyme label="b" type="f">vernomen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Zij hoorde een stem: mijn lieve <rhyme label="a" type="m" corresp="#s3:l1">kind</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">'k Zal spoedig bij u <rhyme label="b" type="f" corresp="#s3:l2">komen</rhyme>;</l>
+        <l id="s3:l5" met="4" type="-+">Ach! sprak zij: zusterlief! ai <rhyme label="c" type="m">ga</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">Ach, <rhyme label="d" type="m">zusterlief</rhyme>!</l>
+        <l id="s3:l7" met="4" type="-+">Ach, sprak zij: zusterlief! ai <rhyme label="c" type="m" corresp="#s3:l5">ga</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">Zusterlief! ai <rhyme label="c" type="m" corresp="#s3:l5">ga</rhyme>,</l>
+        <l id="s3:l9" met="4" type="+-">Ach, ach, ach, <rhyme label="e" type="m">ach</rhyme>,</l>
+        <l id="s3:l10" met="4" type="+-">Ziet eens uit, hij is het, <rhyme label="d" type="m" corresp="#s3:l6">ja</rhyme>!</l>
+        <l id="s3:l11" met="2" type="-+">Hij komt <rhyme label="d" type="m" corresp="#s3:l6">weldra</rhyme>,</l>
+        <l id="s3:l12" met="4" type="-+">Zusterlief! hij is het, <rhyme label="d" type="m" corresp="#s3:l6">ja</rhyme>!</l>
+        <l id="s3:l13" met="2" type="+-">Hij komt <rhyme label="d" type="m" corresp="#s3:l6">weldra</rhyme>;</l>
+        <l id="s3:l14" met="3" type="-+">De held zal spoedig <rhyme label="b" type="f" corresp="#s3:l2">komen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Zoodra de held zijn lieve <rhyme label="a" type="m">bruid</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Aan 't venster had <rhyme label="b" type="f">vernomen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Brak hij gezwind de tralies <rhyme label="a" type="m" corresp="#s4:l1">uit</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">En is in 't slot <rhyme label="b" type="f" corresp="#s4:l2">gekomen</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Een heete kus was 't loon <rhyme label="c" type="m">daarvan</rhyme>,</l>
+        <l id="s4:l6" met="2" type="-+">Een heete <rhyme label="d" type="m">kus</rhyme>,</l>
+        <l id="s4:l7" met="4" type="-+">Een heete kus was 't loon <rhyme label="c" type="m" corresp="#s4:l5">daarvan</rhyme>,</l>
+        <l id="s4:l8" met="2" type="-+">Was 't loon <rhyme label="c" type="m" corresp="#s4:l5">daarvan</rhyme>,</l>
+        <l id="s4:l9" met="4" type="+-">Ach, ach, ach, <rhyme label="e" type="m">ach</rhyme>,</l>
+        <l id="s4:l10" met="4" type="+-">Zusterlief! wat of een <rhyme label="d" type="m" corresp="#s4:l6">man</rhyme>,</l>
+        <l id="s4:l11" met="2" type="-+">Voor ons niet wagen <rhyme label="d" type="m" corresp="#s4:l6">kan</rhyme>,</l>
+        <l id="s4:l12" met="4" type="-+">En wat doet een meisje <rhyme label="d" type="m" corresp="#s4:l6">dan</rhyme>?</l>
+        <l id="s4:l13" met="2" type="+-">Een meisje <rhyme label="d" type="m" corresp="#s4:l6">dan</rhyme>?</l>
+        <l id="s4:l14" met="3" type="-+">Haar lief <rhyme label="b" type="f" corresp="#s4:l2">verwellekomen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

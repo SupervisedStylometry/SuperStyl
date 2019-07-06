@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1922</id>
+    <date>
+      <year-start>1615</year-start>
+      <year-end>1615</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+    </tags>
+    <melody>Cupido geef mij raad</melody>
+    <categories>
+      <category translation="theatre">theater</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">STaech soeckt het welich hof sijn blinde lust te <rhyme label="a" type="f">boeten</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Die zy dan goet of quaet, gants sonder <rhyme label="b" type="m">onderscheyt</rhyme>,</l>
+        <l id="s1:l3" met="6" type="-+">Dies sietmen in sijn lust meer teghenheyt <rhyme label="a" type="f" corresp="#s1:l1">ontmoeten</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Als een ghemeene man in sijnen <rhyme label="b" type="m" corresp="#s1:l2">arrebeydt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Der Princen kindren teer, worden tot allen <rhyme label="a" type="f">tijden</rhyme></l>
+        <l id="s2:l2" met="6" type="-+">In wellust opghevoedt, die werden daeghlijcx <rhyme label="b" type="m">groot</rhyme>,</l>
+        <l id="s2:l3" met="6" type="-+">Daeromme soecken sy tot onghewoon <rhyme label="a" type="f" corresp="#s2:l1">verblijden</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Dickwils een nieuwe lust, die brenght haer in den <rhyme label="b" type="m" corresp="#s2:l2">noodt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">Die stadich alle daegh gheniet sijn lust na <rhyme label="a" type="f">winsen</rhyme>,</l>
+        <l id="s3:l2" met="6" type="-+">Verliest int eynd haer smaeck, want de ghewoont maeckt <rhyme label="b" type="m">eelt</rhyme>,</l>
+        <l id="s3:l3" met="6" type="-+">Dies die de kinders jonck van de ghevreesde <rhyme label="a" type="f" corresp="#s3:l1">Princen</rhyme></l>
+        <l id="s3:l4" met="6" type="-+">Opvoedt in alle lust, haer alle lust <rhyme label="b" type="m" corresp="#s3:l2">ontsteelt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">Die tot de lust ghewent is in sijn jonghe <rhyme label="a" type="f">daghen</rhyme>,</l>
+        <l id="s4:l2" met="6" type="-+">En weet noch goet noch quaet, is teeder van <rhyme label="b" type="m">ghemoet</rhyme>,</l>
+        <l id="s4:l3" met="6" type="-+">En als de smarte komt kan hyse niet <rhyme label="a" type="f" corresp="#s4:l1">verdraghen</rhyme>,</l>
+        <l id="s4:l4" met="6" type="-+">Maer valt ter eerster stoot bedruckt onder de <rhyme label="b" type="m" corresp="#s4:l2">voet</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="6" type="-+">Het dertel Hof en is dan in der daedt soo <rhyme label="a" type="f">welich</rhyme>,</l>
+        <l id="s5:l2" met="6" type="-+">Noch wenschelijcken niet, ghelijckt van buyten <rhyme label="b" type="m">schijnt</rhyme>,</l>
+        <l id="s5:l3" met="6" type="-+">In ’t welck men vol van twist, van haet en nijdt <rhyme label="a" type="f" corresp="#s5:l1">krakelich</rhyme>,</l>
+        <l id="s5:l4" met="6" type="-+">Sijn schadelijcke vreucht een vals behaghen <rhyme label="b" type="m" corresp="#s5:l2">vijndt</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="6" type="-+">Der Princen kindren zijn soo welich niet van <rhyme label="a" type="f">leven</rhyme>.</l>
+        <l id="s6:l2" met="6" type="-+">Ghelijck als menich man haer oordeelt <rhyme label="b" type="m">onverdacht</rhyme>,</l>
+        <l id="s6:l3" met="6" type="-+">Soo s’ haer om vreemde lust dick in perijckel <rhyme label="a" type="f" corresp="#s6:l1">gheven</rhyme>,</l>
+        <l id="s6:l4" met="6" type="-+">En soo ghemeene lust van haer niet werdt <rhyme label="b" type="m" corresp="#s6:l2">gheacht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

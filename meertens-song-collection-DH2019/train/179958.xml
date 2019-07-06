@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>179958</id>
+    <date>
+      <year-start>1757</year-start>
+      <year-end>1757</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Zoel zacht windje</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="+-">
+          <rhyme label="a" type="f">Aangename</rhyme>
+        </l>
+        <l id="s1:l2" met="4" type="+-">Aangename <rhyme label="b" type="m">Zomertyd</rhyme>!</l>
+        <l id="s1:l3" met="4" type="+-">Die ons gretig oog <rhyme label="b" type="m" corresp="#s1:l2">verblyd</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Door uw keurelyke <rhyme label="c" type="f">fruiten</rhyme>;</l>
+        <l id="s1:l5" met="2" type="+-">'k Moet uw' lof <rhyme label="d" type="f">thans</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">'k Moet uw' lof thans vrolyk <rhyme label="c" type="f" corresp="#s1:l4">uitten</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="+-">'k Heb uw <rhyme label="a" type="f">kerssen</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">'k Heb uw kerssen pas <rhyme label="b" type="m">gesmaakt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">En met de Aardbei my <rhyme label="b" type="m" corresp="#s2:l2">vermaakt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Of het mag myn snoeplust <rhyme label="c" type="f">lukken</rhyme>,</l>
+        <l id="s2:l5" met="2" type="+-">Kruis- en- <rhyme label="d" type="f">Aalbes</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Kruis- en- Aalbes ryp te <rhyme label="c" type="f" corresp="#s2:l4">plukken</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="+-">Gy belooft <rhyme label="a" type="f">me</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Gy belooft me den <rhyme label="b" type="m">Bramboos</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Perzik, Pruim en <rhyme label="b" type="m" corresp="#s3:l2">Abrikoos</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Peer en Appel, Druif en <rhyme label="c" type="f">Noten</rhyme>,</l>
+        <l id="s3:l5" met="2" type="+-">Kunnen <rhyme label="d" type="f">mynen</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Kunnen mynen lust <rhyme label="c" type="f" corresp="#s3:l4">vergroten</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="+-">Milde <rhyme label="a" type="f">Zomer</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Milde Zomer! ik ben <rhyme label="b" type="m">bly</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">Dat ge ook schenken wilt aan <rhyme label="b" type="m" corresp="#s4:l2">my</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Bruine Moerbei' en <rhyme label="c" type="f">Morellen</rhyme>;</l>
+        <l id="s4:l5" met="2" type="+-">'k Zal allom <rhyme label="d" type="f">uw'</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">'k Zal allom uw' lof <rhyme label="c" type="f" corresp="#s4:l4">vertellen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

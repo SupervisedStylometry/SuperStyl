@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111685</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Réveillez-vous belle endormie</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ô GOden! ware ik de eerst <rhyme label="a" type="f">ontloken</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">En ochtendbloem, die Roosje <rhyme label="b" type="m">kiest</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Die, op haar blanken borst <rhyme label="a" type="f" corresp="#s1:l1">gestoken</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Zyn leven met dien dag <rhyme label="b" type="m" corresp="#s1:l2">verliest</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ach! ware ik het fluweele en <rhyme label="a" type="f">zoele</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">West-windje, dat verfrist haer <rhyme label="b" type="m">vel</rhyme>!</l>
+        <l id="s2:l3" met="4" type="-+">Op dat ik streelend haar <rhyme label="a" type="f" corresp="#s2:l1">verkoele</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Tot Floraas oog- en <rhyme label="b" type="m" corresp="#s2:l2">ziel-gekwel</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ach! ware ik 't vinkje, dat zo <rhyme label="a" type="f">teder</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Zyn orgel voor haar ooren <rhyme label="b" type="m">slaat</rhyme>!</l>
+        <l id="s3:l3" met="4" type="-+">Daar zo om den zang den <rhyme label="a" type="f" corresp="#s3:l1">weder</rhyme>-</l>
+        <l id="s3:l4" met="4" type="-+">Keer uyt het Bos, al word het <rhyme label="b" type="m" corresp="#s3:l2">laat</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ach! ware ik slegts die klare <rhyme label="a" type="f">golven</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Die, tegen 't steken van den <rhyme label="b" type="m">dag</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">In haren schoot haar zien <rhyme label="a" type="f" corresp="#s4:l1">bedolven</rhyme>;</l>
+        <l id="s4:l4" met="4" type="-+">Gelyk de Minnemoeder <rhyme label="b" type="m" corresp="#s4:l2">plag</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Maar my, ô Goon! maar voor een <rhyme label="a" type="f">poosje</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Dien vloed! wat zou myn eb <rhyme label="b" type="m">gezwind</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Al golvend ... ach! vergeef't my, <rhyme label="a" type="f" corresp="#s5:l1">Roosje</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Ik wou wel al zyn, wat gy <rhyme label="b" type="m" corresp="#s5:l2">mind</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

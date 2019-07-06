@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22439</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
+    </tags>
+    <melody>Jesaja dem Propheten das geschah</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Esaie den Propheten dit <rhyme label="a" type="m">geschach</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Dat hy in Gheest den Heere sitten <rhyme label="a" type="m" corresp="#s1:l1">sach</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Op eenen hoogen throon, in claren <rhyme label="b" type="m">glans</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Synes cleedes Soom den Chor veruullet <rhyme label="b" type="m" corresp="#s1:l3">gans</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">Daer stonden twee Seraph by hem daer <rhyme label="c" type="m">an</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Ses vlueghelen sach hy een yeglijck <rhyme label="c" type="m" corresp="#s1:l5">an</rhyme>,</l>
+        <l id="s1:l7" met="5" type="-+">Met twee verborgen sy haer aenschijn <rhyme label="d" type="m">claer</rhyme>,</l>
+        <l id="s1:l8" met="5" type="-+">Met twee bedecten sy haer voeten <rhyme label="d" type="m" corresp="#s1:l7">gaer</rhyme>,</l>
+        <l id="s1:l9" met="5" type="-+">En met den andern twee vloghen sy <rhyme label="e" type="m">vrij</rhyme>,</l>
+        <l id="s1:l10" met="5" type="-+">Gheen ander riepen sy met groot <rhyme label="e" type="m" corresp="#s1:l9">geschreij</rhyme>,</l>
+        <l id="s1:l11" met="5" type="-+">Heylich is Godt, den Heere <rhyme label="f" type="m">Zebaoth</rhyme>.</l>
+        <l id="s1:l12" met="5" type="-+">Heylich is Godt, den Heere <rhyme label="f" type="m" corresp="#s1:l11">Zebaoth</rhyme>.</l>
+        <l id="s1:l13" met="5" type="-+">Heylich is Godt, den Heere <rhyme label="f" type="m" corresp="#s1:l11">Zebaoth</rhyme>.</l>
+        <l id="s1:l14" met="5" type="-+">Sijn eer die gantsche werelt veruult <rhyme label="g" type="m">heeft</rhyme>,</l>
+        <l id="s1:l15" met="5" type="-+">Van den geschrey Dorpel, en Balcke <rhyme label="g" type="m" corresp="#s1:l14">beeft</rhyme>,</l>
+        <l id="s1:l16" met="4" type="-+">Dat huys ooc daer, Vol Roock en Neuel <rhyme label="h" type="m">waer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

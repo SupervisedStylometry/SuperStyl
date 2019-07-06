@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3226</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Pavane d'Espagne</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DE Werelt is vol goet // en <rhyme label="a" type="m">moet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">De Werelt is vol soet // en <rhyme label="a" type="m" corresp="#s1:l1">roet</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">De Wereldt is vol haet // en <rhyme label="b" type="m">quaet</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">De Werelt is vol praet // en <rhyme label="b" type="m" corresp="#s1:l3">smaet</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">De Werelt is vol <rhyme label="c" type="m">waen</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">De Wereldt schijnt wil <rhyme label="c" type="m" corresp="#s1:l5">gaen</rhyme></l>
+        <l id="s1:l7" met="3" type="+-">Des Wereldts woeste <rhyme label="c" type="m" corresp="#s1:l5">baen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">De Wereldt lockt de sin // tot <rhyme label="a" type="m">Min</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">De Wereldt beeldt sich in // <rhyme label="a" type="m" corresp="#s2:l1">ghewin</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">De Wereldt troetelt, vleyt // en <rhyme label="b" type="m">spreyt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">De Wereldt wanhoopt, scheyd // en <rhyme label="b" type="m" corresp="#s2:l3">schreyt</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">De Wereldt suypt en <rhyme label="c" type="m">swelght</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">De Wereldt wrockt en <rhyme label="c" type="m" corresp="#s2:l5">belght</rhyme>,</l>
+        <l id="s2:l7" met="3" type="+-">De Wereldt doemt en <rhyme label="c" type="m" corresp="#s2:l5">delght</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">De Wereldt wispeltuyrt // en <rhyme label="a" type="m">kuyrt</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">De Wereldt sonden puyrt //en <rhyme label="a" type="m" corresp="#s3:l1">suyrt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">De Wereldt jockt en speelt // en <rhyme label="b" type="m">queelt</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">De Wereldt rooft en steelt // en <rhyme label="b" type="m" corresp="#s3:l3">deelt</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">De Wereldt is <rhyme label="c" type="m">verhart</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">De Wereldt is <rhyme label="c" type="m" corresp="#s3:l5">vernart</rhyme>,</l>
+        <l id="s3:l7" met="3" type="+-">De Wereldt is <rhyme label="c" type="m" corresp="#s3:l5">verwart</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">De Wereldt moetme sien // maer <rhyme label="a" type="m">vlie'n</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">De Wereldts sotternien // wilt <rhyme label="a" type="m" corresp="#s4:l1">mie'n</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">De Wereldt noch 'er pracht // niet <rhyme label="b" type="m">acht</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">De Wereldt en 'er dracht // <rhyme label="b" type="m" corresp="#s4:l3">belacht</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">De Wereldt dient <rhyme label="c" type="m">bespot</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">De Wereldt is heel <rhyme label="c" type="m" corresp="#s4:l5">sot</rhyme>,</l>
+        <l id="s4:l7" met="3" type="+-">De Wereldt kent gheen <rhyme label="c" type="m" corresp="#s4:l5">Godt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

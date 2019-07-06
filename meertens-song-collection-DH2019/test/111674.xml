@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111674</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Vaste mer dont le calme</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">ZOude ik dan 't minnen weer <rhyme label="a" type="f">beginnen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Daar 'k van haar zuur reeds heb <rhyme label="b" type="m">geproefd</rhyme>?</l>
+        <l id="s1:l3" met="5" type="+-">Zoude ik een schoonheid weer <rhyme label="a" type="f" corresp="#s1:l1">beminnen</rhyme>?</l>
+        <l id="s1:l4" met="5" type="-+">Diens grootste vreugd en lust ons vaak <rhyme label="b" type="m" corresp="#s1:l2">bedroefd</rhyme>.</l>
+        <l id="s1:l5" met="7" type="-+">Neen,  neen, neen, neen, ik leef nu sonder <rhyme label="c" type="m">dwang</rhyme>.</l>
+        <l id="s1:l6" met="4" type="+-">'t Minnen boeid ons met sorgen en <rhyme label="d" type="f">banden</rhyme>;</l>
+        <l id="s1:l7" met="4" type="+-">Daarom wil 'k my niet meer <rhyme label="d" type="f" corresp="#s1:l6">verpanden</rhyme>;</l>
+        <l id="s1:l8" met="4" type="-+">Maar singen een vryheids <rhyme label="c" type="m" corresp="#s1:l5">Eeren-sang</rhyme>.</l>
+        <l id="s1:l9" met="9" type="-+">Neen, neen, neen, neen, neen, neen, ik leef nu zonder <rhyme label="c" type="m" corresp="#s1:l5">dwang</rhyme>:</l>
+        <l id="s1:l10" met="4" type="+-">'t Minnen boeyd ons met zorgen en <rhyme label="d" type="f" corresp="#s1:l6">banden</rhyme>;</l>
+        <l id="s1:l11" met="4" type="+-">Daarom wil, daarom wil 'k my niet meer <rhyme label="d" type="f" corresp="#s1:l6">verpanden</rhyme></l>
+        <l id="s1:l12" met="5" type="-+">Maar singen, maar singen een vryheids <rhyme label="c" type="m" corresp="#s1:l5">Eeren-sang</rhyme>.</l>
+        <l id="s1:l13" met="4" type="-+">Maar singen een vryheids <rhyme label="c" type="m" corresp="#s1:l5">Eeren-sang</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

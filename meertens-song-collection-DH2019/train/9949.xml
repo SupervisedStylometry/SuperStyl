@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>9949</id>
+    <date>
+      <year-start>1613</year-start>
+      <year-end>1613</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Psalm 116 Datheen</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Karel van Mander</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">WIe sal ons nu met singen doen <rhyme label="a" type="m">gerijf</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Terwijlen wy hier onse kudde <rhyme label="b" type="f">waken</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">By Bethlehem de Stad die wy <rhyme label="b" type="f" corresp="#s1:l2">ghenaken</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">En zijn ontrent met al ons Vee <rhyme label="a" type="m" corresp="#s1:l1">bedrijf</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Tot Bethlehem vergaerd is man en <rhyme label="a" type="m">wijf</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Iae alle man uyt David huys <rhyme label="b" type="f">bedeghen</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Om daer gheschat zijn van Augusto <rhyme label="b" type="f" corresp="#s2:l2">weghen</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">De weereld door ghegaen is zijn <rhyme label="a" type="m" corresp="#s2:l1">ghebod</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">D'herbergen al elck huys ja stal en <rhyme label="a" type="m">kot</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Nu crielen vol niet isser ledigh <rhyme label="b" type="f">bleven</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Elc in zijn stadt moet schatting comen <rhyme label="b" type="f" corresp="#s3:l2">geven</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Sijnde onderdaen t'Roomsch Keysers groot <rhyme label="a" type="m" corresp="#s3:l1">gheweld</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Nu Proselijt met my u keele <rhyme label="a" type="m">steld</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Te singen wat ick sal beginnen <rhyme label="b" type="f">vooren</rhyme></l>
+        <l id="s4:l3" met="5" type="-+">Elc hoor met vlijt want waer lust is om <rhyme label="b" type="f" corresp="#s4:l2">hooren</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">Daer voeghd wel yet ghesonghen of <rhyme label="a" type="m" corresp="#s4:l1">verteld</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Een ander nu die beter can hy <rhyme label="a" type="m">magh</rhyme>,</l>
+        <l id="s5:l2" met="5" type="-+">Oock t'beste doen, en singhen vry met <rhyme label="b" type="f">lusten</rhyme>,</l>
+        <l id="s5:l3" met="5" type="-+">By beurten want, soo ondertusschen <rhyme label="b" type="f" corresp="#s5:l2">rusten</rhyme>,</l>
+        <l id="s5:l4" met="5" type="-+">Den arbeyd oyt wel te verlichten <rhyme label="a" type="m" corresp="#s5:l1">plagh</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

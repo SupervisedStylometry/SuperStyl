@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19528</id>
+    <date>
+      <year-start>1677</year-start>
+      <year-end>1677</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Eerste Carileen</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="+-">IAe <rhyme label="a" type="m">ghereedt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Ziit ghy tot vreughts <rhyme label="b" type="f">vermaecken</rhyme>.</l>
+        <l id="s1:l3" met="4" type="+-">Maer het Bruydtje schoor-voet <rhyme label="c" type="m">noch</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Maer Venus sal aen <rhyme label="d" type="m">haer</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">(Siet die komt <rhyme label="d" type="m" corresp="#s1:l4">daer</rhyme>)</l>
+        <l id="s1:l6" met="5" type="-+">Geen voeten doen zijn, die door een vlugh <rhyme label="c" type="m" corresp="#s1:l3">bedrogh</rhyme>,</l>
+        <l id="s1:l7" met="2" type="+-">Tot u <rhyme label="a" type="m" corresp="#s1:l1">leedt</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">U sullen vreughdt <rhyme label="b" type="f" corresp="#s1:l2">ontschaecken</rhyme>;</l>
+        <l id="s1:l9" met="4" type="+-">Seydt sy driemael, och, och, <rhyme label="c" type="m" corresp="#s1:l3">och</rhyme>?</l>
+        <l id="s1:l10" met="3" type="-+">Segh viermael ça, ça, ça, <rhyme label="e" type="m">ça</rhyme>,</l>
+        <l id="s1:l11" met="2" type="+-">Geeft geen' <rhyme label="e" type="m" corresp="#s1:l10">genae</rhyme>,</l>
+        <l id="s1:l12" met="5" type="-+">Segt, Liefste, wel hoe, wel hoe, wel draelje <rhyme label="c" type="m" corresp="#s1:l3">noch</rhyme>?</l>
+        <l id="s1:l13" met="2" type="-+">Ick wil het <rhyme label="f" type="f">hopen</rhyme>,</l>
+        <l id="s1:l14" met="3" type="+-">Dat het u <rhyme label="g" type="m">behaegt</rhyme>,</l>
+        <l id="s1:l15" met="2" type="-+">Dat 't niet soo kan <rhyme label="f" type="f" corresp="#s1:l13">loopen</rhyme>,</l>
+        <l id="s1:l16" met="3" type="+-">Vrouw te zijn en <rhyme label="g" type="m" corresp="#s1:l14">Maeghdt</rhyme>.</l>
+        <l id="s1:l17" met="2" type="-+">Kortuyt, Mijn <rhyme label="h" type="m">Bruydt</rhyme>,</l>
+        <l id="s1:l18" met="2" type="+-">Gaet, en <rhyme label="i" type="m">begint</rhyme>,</l>
+        <l id="s1:l19" met="3" type="+-">Maer 't spel,, Gae soo <rhyme label="j" type="m">wel</rhyme>,</l>
+        <l id="s1:l20" met="3" type="-+">Dat daer van koom' een <rhyme label="i" type="m" corresp="#s1:l18">Kindt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

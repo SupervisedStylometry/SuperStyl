@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>161021</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="mythologisch lied" translation="mythological song">mythologisch lied</tag>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Pourquoi faut-il que je soupire</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Noodlot, schept gy dan <rhyme label="a" type="f">behagen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">In mijn onlydelijke <rhyme label="b" type="m">smert</rhyme>!</l>
+        <l id="s1:l3" met="4" type="-+">O Minne nijd vol felle <rhyme label="a" type="f" corresp="#s1:l1">plagen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Hoe prangd gy dus mijn teder <rhyme label="b" type="m" corresp="#s1:l2">hert</rhyme>!</l>
+        <l id="s1:l5" met="4" type="-+">Moest ik, o vreugde en lust van mijn <rhyme label="c" type="f">leven</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Mijn Prokris, door uw sugten <rhyme label="d" type="m">verbeid</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">U de rampsalige doodsteek <rhyme label="c" type="f" corresp="#s1:l5">geven</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Die ewig ons van Elkanderen <rhyme label="d" type="m" corresp="#s1:l6">scheid</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Vervloekte schicht, moet gy <rhyme label="a" type="f">doorboren</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Met sulk een doodelijke <rhyme label="b" type="m">wond</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Dat herte dat sig van te <rhyme label="a" type="f" corresp="#s2:l1">voren</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">So trouw aan mijne min <rhyme label="b" type="m" corresp="#s2:l2">verbond</rhyme>;</l>
+        <l id="s2:l5" met="4" type="-+">Is 't mogelijk, dat ik met mijne <rhyme label="c" type="f">oogen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">O goden,   dit treurspel beschouwen <rhyme label="d" type="m">moet</rhyme>;</l>
+        <l id="s2:l7" met="4" type="-+">Wat heeft u tot dese straf <rhyme label="c" type="f" corresp="#s2:l5">bewogen</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Verdiende dit oit mijn suivere <rhyme label="d" type="m" corresp="#s2:l6">gloed</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ag Prokris, moest gy dan <rhyme label="a" type="f">geloven</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Dat oit mijn min verkoelen <rhyme label="b" type="m">sou</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Of in mijn teder hert <rhyme label="a" type="f" corresp="#s3:l1">verdoven</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Aan u so vast verknogt in <rhyme label="b" type="m" corresp="#s3:l2">trouw</rhyme>?</l>
+        <l id="s3:l5" met="4" type="-+">Wat deed uw hert so wantrouwig <rhyme label="c" type="f">wesen</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">En twijffelen aan mijn <rhyme label="d" type="m">standvastigheid</rhyme>?</l>
+        <l id="s3:l7" met="4" type="-+">Ag, niets is in Liefde so hevig te <rhyme label="c" type="f" corresp="#s3:l5">vresen</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Als nimmer genoegde en snode <rhyme label="d" type="m" corresp="#s3:l6">Nyd</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

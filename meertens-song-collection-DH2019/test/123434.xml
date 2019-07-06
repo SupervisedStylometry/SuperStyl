@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>123434</id>
+    <date>
+      <year-start>1717</year-start>
+      <year-end>1717</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
+    </tags>
+    <melody>Ga de vrouwen niet voorbij</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="theatre">theater</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Gaa de Vrouwen niet voor <rhyme label="a" type="m">by</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Gaa de Vrouwen niet voor <rhyme label="a" type="m" corresp="#s1:l1">by</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Wil je kwaad van 't manvólk <rhyme label="b" type="f">spreeken</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Vrouwen zien haar mans <rhyme label="b" type="f" corresp="#s1:l3">gebreken</rhyme>;</l>
+        <l id="s1:l5" met="4" type="+-">Maar ze schatten heur zélf <rhyme label="a" type="m" corresp="#s1:l1">vry</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Kost men ze als de boter <rhyme label="b" type="f" corresp="#s1:l3">steeken</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Meenig man bleef van de <rhyme label="a" type="m" corresp="#s1:l1">bry</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

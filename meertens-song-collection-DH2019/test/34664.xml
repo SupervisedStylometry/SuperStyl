@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34664</id>
+    <date>
+      <year-start>1653</year-start>
+      <year-end>1653</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Phi phi phi de Mazarin</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">TApt, tapt, tapt vrouw <rhyme label="a" type="m">Cathelijn</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">En schinckt den <rhyme label="a" type="m" corresp="#s1:l1">wijn</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Laet vrolijck <rhyme label="a" type="m" corresp="#s1:l1">zijn</rhyme>:</l>
+        <l id="s1:l4" met="4" type="-+">Laet ons nu in ons’ jonghe <rhyme label="b" type="f">daghen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Scheppen in de druyf <rhyme label="b" type="f" corresp="#s1:l4">behaghen</rhyme>:</l>
+        <l id="s1:l6" met="4" type="-+">Drinckt wat // Van dat edel <rhyme label="c" type="m">nat</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Gheeft, gheeft, gheeft ons den <rhyme label="a" type="m">in-bijt</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">(’t Is meer als <rhyme label="a" type="m" corresp="#s2:l1">tijdt</rhyme>)</l>
+        <l id="s2:l3" met="2" type="-+">Wy zijn <rhyme label="a" type="m" corresp="#s2:l1">verblijdt</rhyme>:</l>
+        <l id="s2:l4" met="4" type="-+">Laet ons doch, eer dat wy gaen <rhyme label="b" type="f">roncken</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Weynigh aen de tafel <rhyme label="b" type="f" corresp="#s2:l4">proncken</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Dus set // Ons hier een <rhyme label="c" type="m">bancket</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">’t Gelt, ’t gelt, ’t gelt (gelijck-men <rhyme label="a" type="m">siet</rhyme>)</l>
+        <l id="s3:l2" met="2" type="-+">Ontbreeckt ons <rhyme label="a" type="m" corresp="#s3:l1">niet</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">Dus brenght ons <rhyme label="a" type="m" corresp="#s3:l1">iet</rhyme>:</l>
+        <l id="s3:l4" met="4" type="-+">Sa gheeft ons hier wat <rhyme label="b" type="f">mouchasolen</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Marcepain, en <rhyme label="b" type="f" corresp="#s3:l4">caracolen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Daer-op // Smaeckt de Spaensche <rhyme label="c" type="m">sop</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

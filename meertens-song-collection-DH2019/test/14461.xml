@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14461</id>
+    <date>
+      <year-start>1638</year-start>
+      <year-end>1638</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+      <tag standard-name="marialied" translation="Maria song">marialied</tag>
+    </tags>
+    <melody>Hoor Sion wat ik ons heb vernomen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">MAria Moeder en Maeght met <rhyme label="a" type="f">eenen</rhyme>,</l>
+        <l id="s1:l2" met="6" type="+-">Hoop en troost der armen, in al haer <rhyme label="b" type="m">mis-val</rhyme>,</l>
+        <l id="s1:l3" met="5" type="+-">Waer reyst ghy van hier dus verre <rhyme label="a" type="f" corresp="#s1:l1">heenen</rhyme>?</l>
+        <l id="s1:l4" met="6" type="+-">Wilt ghy ons verlaeten in dit <rhyme label="b" type="m" corresp="#s1:l2">traenendal</rhyme>?</l>
+        <l id="s1:l5" met="4" type="+-">Tot wien sullen wy dan <rhyme label="c" type="m">gaen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Als ons zielen zijn <rhyme label="c" type="m" corresp="#s1:l5">bela'en</rhyme>?</l>
+        <l id="s1:l7" met="6" type="+-">Dus wy bidden seer, dus wy bidden <rhyme label="d" type="m">seer</rhyme>,</l>
+        <l id="s1:l8" met="6" type="+-">Neyght uw' ooghen, Moeder, tot uw kinders <rhyme label="d" type="m" corresp="#s1:l7">teer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Gabriel den Engel u quam <rhyme label="a" type="f">groeten</rhyme></l>
+        <l id="s2:l2" met="6" type="+-">Als ghy op der Aerden woond' in <rhyme label="b" type="m">Nazareth</rhyme>:</l>
+        <l id="s2:l3" met="5" type="+-">Nu komt u het gantsche heyr <rhyme label="a" type="f" corresp="#s2:l1">ontmoeten</rhyme>,</l>
+        <l id="s2:l4" met="6" type="+-">Voeren haer Princesse in 't Hemelsch <rhyme label="b" type="m" corresp="#s2:l2">salet</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">Wy beneden op der <rhyme label="c" type="m">eerd'</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Groeten u Godts moeder <rhyme label="c" type="m" corresp="#s2:l5">weerd</rhyme>.</l>
+        <l id="s2:l7" met="6" type="+-">Roepen oock van veer, roepen oock van <rhyme label="d" type="m">veer</rhyme>,</l>
+        <l id="s2:l8" met="6" type="+-">Neyght uw' ooghen, Moeder, tot uw' kinders <rhyme label="d" type="m" corresp="#s2:l7">teer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">Triumphant reyst ghy na 't eeuwig <rhyme label="a" type="f">leven</rhyme>,</l>
+        <l id="s3:l2" met="6" type="+-">Moeder uyt-verkooren van Godts Soon <rhyme label="b" type="m">voorwaer</rhyme>:</l>
+        <l id="s3:l3" met="5" type="+-">Ghy seer hoogh van d' Aerde wort <rhyme label="a" type="f" corresp="#s3:l1">verheven</rhyme>,</l>
+        <l id="s3:l4" met="6" type="+-">Boven Son en Sterren, in den Hemel <rhyme label="b" type="m" corresp="#s3:l2">klaer</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Boven alle Eng'len <rhyme label="c" type="m">schoon</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">In den alderhooghsten <rhyme label="c" type="m" corresp="#s3:l5">throon</rhyme>,</l>
+        <l id="s3:l7" met="6" type="+-">Naest by Godt den Heer, naest by Godt den <rhyme label="d" type="m">Heer</rhyme>,</l>
+        <l id="s3:l8" met="6" type="+-">Neyght uw' ooghen, Moeder, tot uw' kinders <rhyme label="d" type="m" corresp="#s3:l7">teer</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="+-">Met jolijt van al des Hemels <rhyme label="a" type="f">krachten</rhyme>,</l>
+        <l id="s4:l2" met="6" type="+-">'s Hemels Koninghinne heden is <rhyme label="b" type="m">ghekroondt</rhyme></l>
+        <l id="s4:l3" met="5" type="+-">Van haer Soon, den Koningh groot van <rhyme label="a" type="f" corresp="#s4:l1">machten</rhyme>,</l>
+        <l id="s4:l4" met="6" type="+-">Die sijn' waerde Moeder eer' en liefde <rhyme label="b" type="m" corresp="#s4:l2">thoondt</rhyme>.</l>
+        <l id="s4:l5" met="4" type="+-">D' Arcke Gods seer <rhyme label="c" type="m">hoogh-geacht</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">In den Tempel is <rhyme label="c" type="m" corresp="#s4:l5">ghebracht</rhyme>,</l>
+        <l id="s4:l7" met="6" type="+-">Die wy geven eer, Die wy geven <rhyme label="d" type="m">eer</rhyme>,</l>
+        <l id="s4:l8" met="6" type="+-">Neyght uw' ooghen, Moeder, tot uw' kinders <rhyme label="d" type="m" corresp="#s4:l7">teer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

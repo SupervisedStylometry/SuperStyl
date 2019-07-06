@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19512</id>
+    <date>
+      <year-start>1677</year-start>
+      <year-end>1677</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">LIefie 'k lag te naght te <rhyme label="a" type="f">dromen</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Dat ik was by u <rhyme label="a" type="f" corresp="#s1:l1">gekomen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">En my dagt ik dructe <rhyme label="b" type="m">aan</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Uwe Lipjes menig <rhyme label="c" type="f">Kusje</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Tot voldoening van miin <rhyme label="c" type="f" corresp="#s1:l4">lusje</rhyme>:</l>
+        <l id="s1:l6" met="4" type="+-">Maar wanneer de nacht <rhyme label="b" type="m" corresp="#s1:l3">vergaan</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">En de slaep was uit miin <rhyme label="a" type="f">ogen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Vond ik my te seer <rhyme label="a" type="f" corresp="#s2:l1">bedrogen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Sonder u, en lagh <rhyme label="b" type="m">alleen</rhyme>:</l>
+        <l id="s2:l4" met="4" type="+-">Hoor nu, sonder lang te <rhyme label="c" type="f">dralen</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Wil ik dit op u <rhyme label="c" type="f" corresp="#s2:l4">verhalen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Gy, miin Lief en anders <rhyme label="b" type="m" corresp="#s2:l3">geen</rhyme>,</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Ziit de oorsaak van miin <rhyme label="a" type="f">kussen</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Sonder soetheit, laat ik <rhyme label="a" type="f" corresp="#s3:l1">blussen</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">'t Lusje dat ick van de <rhyme label="b" type="m">nagt</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Heb gekregen, voor u <rhyme label="c" type="f">Montje</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">So wert haest miin verse <rhyme label="c" type="f" corresp="#s3:l4">wontje</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Weer geheelt, of wat <rhyme label="b" type="m" corresp="#s3:l3">versagt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

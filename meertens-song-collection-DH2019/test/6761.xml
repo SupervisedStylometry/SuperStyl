@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6761</id>
+    <date>
+      <year-start>1620</year-start>
+      <year-end>1620</year-end>
+    </date>
+    <location>
+      <orginal-name>gent</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="sonnet" translation="sonnet">sonnet</tag>
+    </tags>
+    <melody>Ik dacht in deze bos</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">ICk dacht’ in desen bosch, de Weerelt heel <rhyme label="a" type="f">t’ontvluchten</rhyme>:</l>
+        <l id="s1:l2" met="6" type="-+">De Weerelt die mijn Siel heeft doodelijck <rhyme label="b" type="m">ghewondt</rhyme>.</l>
+        <l id="s1:l3" met="6" type="-+">Maer laes! dees’ eenicheydt maeckt dat ick weer <rhyme label="b" type="m" corresp="#s1:l2">terstondt</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">My moet begheven gaen, tot schreyen, ende <rhyme label="a" type="f" corresp="#s1:l1">suchten</rhyme>.</l>
+        <l id="s1:l5" met="6" type="-+">Ick dacht’, ick sal alhier vrij, en sonder <rhyme label="a" type="f" corresp="#s1:l1">gheruchten</rhyme></l>
+        <l id="s1:l6" met="6" type="-+">Erghens aen eene roots’ storten mijns Herten <rhyme label="b" type="m" corresp="#s1:l2">grondt</rhyme>:</l>
+        <l id="s1:l7" met="6" type="-+">Maer soo saen ick tot clacht ontsluyte mijnen <rhyme label="b" type="m" corresp="#s1:l2">mondt</rhyme>;</l>
+        <l id="s1:l8" met="6" type="-+">Echo weer-schallet al tot ghecken, ende <rhyme label="a" type="f" corresp="#s1:l1">cluchten</rhyme>.</l>
+        <l id="s1:l9" met="6" type="-+">Ick dacht als ick ’t ghebruyck der spieghelen sou <rhyme label="c" type="m">vlien</rhyme>;</l>
+        <l id="s1:l10" met="6" type="-+">Dat ick niet meer en sou mijn sondigh Lichaem <rhyme label="c" type="m" corresp="#s1:l9">sien</rhyme>.</l>
+        <l id="s1:l11" met="6" type="+-">‘Tis raes; in dees fonteyn woord’ ick dat bath <rhyme label="d" type="f">ghewaere</rhyme>.</l>
+        <l id="s1:l12" met="6" type="-+">Ach vuylicheyd der Aerd, oirspronck van al mijn <rhyme label="e" type="m">smert</rhyme>!</l>
+        <l id="s1:l13" met="6" type="-+">Waerom en hebdy niet onder-roert <rhyme label="d" type="f" corresp="#s1:l11">teenegaere</rhyme>,</l>
+        <l id="s1:l14" met="6" type="-+">Dees spieghel-claer fonteyn, even wel als mijn <rhyme label="e" type="m" corresp="#s1:l12">Hert</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

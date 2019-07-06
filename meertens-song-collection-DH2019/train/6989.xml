@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6989</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>gent</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 015 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Lucas de Heere</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WIe isser (ô God bouen <rhyme label="a" type="m">al</rhyme>)</l>
+        <l id="s1:l2" met="4" type="-+">Die zal in u hutte <rhyme label="b" type="f">verkeerē</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">VVie ist onder t'meinsch'lic <rhyme label="a" type="m" corresp="#s1:l1">ghetal</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Die wonen ende blyuen <rhyme label="a" type="m" corresp="#s1:l1">zal</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Op uwen baergh, heligh vul <rhyme label="b" type="f" corresp="#s1:l2">eeren</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Tsal zijn de mensche goed en <rhyme label="a" type="m">slecht</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Die wandelt in <rhyme label="b" type="f">vprechtichede</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">En niet en doed, ten zi wel <rhyme label="a" type="m" corresp="#s2:l1">recht</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Ia die niet en spreect of en <rhyme label="a" type="m" corresp="#s2:l1">zeght</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Dan tghuent daer in waerheit heeft <rhyme label="b" type="f" corresp="#s2:l2">stede</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Die med zijn tonghe (als een <rhyme label="a" type="m">onvroed</rhyme>)</l>
+        <l id="s3:l2" met="4" type="-+">Gheen achterclap doed t'anders <rhyme label="b" type="f">blame</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Die zinen naesten niet <rhyme label="a" type="m" corresp="#s3:l1">mesdoed</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Noch en tijdt (zoomen ooc en <rhyme label="a" type="m" corresp="#s3:l1">moet</rhyme>)</l>
+        <l id="s3:l5" met="4" type="-+">Zijns naesten hinder in zijn <rhyme label="b" type="f" corresp="#s3:l2">fame</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Die hem zelfs cleen acht naer den <rhyme label="a" type="m">gheest</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">En versmaedt die boosheyt <rhyme label="b" type="f">vseren</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Maer verheft die den Heere <rhyme label="a" type="m" corresp="#s4:l1">vreest</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Die houdt (al hinderet hem <rhyme label="a" type="m" corresp="#s4:l1">meest</rhyme>)</l>
+        <l id="s4:l5" met="4" type="-+">Zijn beloften zonder <rhyme label="b" type="f" corresp="#s4:l2">frauderen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Die zinen naesten niet en <rhyme label="a" type="m">stroopt</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Med woucker croos, oft eyghen <rhyme label="b" type="f">bate</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Noch eens anders recht en <rhyme label="a" type="m" corresp="#s5:l1">vercoopt</rhyme>:</l>
+        <l id="s5:l4" met="4" type="-+">Die dit doed (hoe zijn zake <rhyme label="a" type="m" corresp="#s5:l1">loopt</rhyme>)</l>
+        <l id="s5:l5" met="4" type="-+">Zal vast bliuen in goeden <rhyme label="b" type="f" corresp="#s5:l2">state</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

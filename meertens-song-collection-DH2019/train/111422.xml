@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111422</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Bedroefde ziel laat af van klagen</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">CLimeen waar sal het eynd'lyk <rhyme label="a" type="f">hee...nen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Dat ik dus droevig zugten <rhyme label="b" type="m">moet</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Gy ziet myn klagen, treuren, <rhyme label="a" type="f" corresp="#s1:l1">weenen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">En nimmer werd uw hart <rhyme label="b" type="m" corresp="#s1:l2">verzoet</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Myn Engelin,, Wild tot de <rhyme label="c" type="m">min</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Dog keeren uwe fiere <rhyme label="d" type="f">zinnen</rhyme>,</l>
+        <l id="s1:l7" met="6" type="-+">En uw Minnaars eens, en uw Minnaars <rhyme label="e" type="m">eens</rhyme>,</l>
+        <l id="s1:l8" met="5" type="+-">En wild... uw Minnaar eens getrouw <rhyme label="d" type="f" corresp="#s1:l6">beminnen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Of moet ik dan door smert <rhyme label="a" type="f">gedre...ven</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Van droefheyd sterven? 'k geef myn <rhyme label="b" type="m">hart</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Aan u: wat kan ik meerder <rhyme label="a" type="f" corresp="#s2:l1">geven</rhyme>?</l>
+        <l id="s2:l4" met="4" type="-+">Ey! waarom dan zoo lang <rhyme label="b" type="m" corresp="#s2:l2">gemard</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Myn Egenlin,, Wild tot de <rhyme label="c" type="m">Min</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Eens keeren uwe fiere <rhyme label="d" type="f">Sinnen</rhyme>,</l>
+        <l id="s2:l7" met="6" type="-+">En wild uw Minnaar dog, en wild uw Minnaar <rhyme label="e" type="m">dog</rhyme>,</l>
+        <l id="s2:l8" met="5" type="+-">En wild... uw Minnaar dog weerom <rhyme label="d" type="f" corresp="#s2:l6">beminnen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1919</id>
+    <date>
+      <year-start>1615</year-start>
+      <year-end>1615</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Roosjes in de mei</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">IN armoed leef ick <rhyme label="a" type="m">onbenijdt</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">Lof armoed <rhyme label="b" type="m">lof</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Een Herdertjen dat my vierich <rhyme label="a" type="m" corresp="#s1:l1">vrijt</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Is van leeden, besneden, 'tkan <rhyme label="c" type="f">seeden</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Eert een van't <rhyme label="b" type="m" corresp="#s1:l2">hof</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Met sorgh en is hy niet <rhyme label="a" type="m">gheplaeght</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Als de giergaerts <rhyme label="b" type="m">zijn</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Maer d'overvloedt hem als my <rhyme label="a" type="m" corresp="#s2:l1">mishaegt</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Wat baetse, versmaetse, neen <rhyme label="c" type="f">haetse</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Want sy baert <rhyme label="b" type="m" corresp="#s2:l2">pijn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Mijn Minnaers grove wolle <rhyme label="a" type="m">rock</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Die en wallicht my <rhyme label="b" type="m">niet</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Noch oock sijn groene haselaer <rhyme label="a" type="m" corresp="#s3:l1">stock</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Hy is machtich, waerachtich, noyt <rhyme label="c" type="f">klachtich</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">Van swaer <rhyme label="b" type="m" corresp="#s3:l2">verdriet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">In hem leeft noch den ouden <rhyme label="a" type="m">mensch</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">Daer men spottich me <rhyme label="b" type="m">lacht</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Die 't gierich gout derft en heeft sijn <rhyme label="a" type="m" corresp="#s4:l1">wensch</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Niet hatich, maer batich, en <rhyme label="c" type="f">statich</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">Naer Gods-dienst <rhyme label="b" type="m" corresp="#s4:l2">tracht</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Het Vee en Schapen zijn sijn <rhyme label="a" type="m">lust</rhyme>,</l>
+        <l id="s5:l2" met="2" type="-+">Met wiens wol hy hem <rhyme label="b" type="m">dost</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">En 't vrolijck ghevoghelt dat naeulijcx <rhyme label="a" type="m" corresp="#s5:l1">rust</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Die vermaken, sijn daken, wy <rhyme label="c" type="f">raken</rhyme></l>
+        <l id="s5:l5" met="2" type="-+">Licht aen de <rhyme label="b" type="m" corresp="#s5:l2">kost</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Wy leven lustich ende <rhyme label="a" type="m">vroo</rhyme>,</l>
+        <l id="s6:l2" met="2" type="-+">Wie heeft meerder <rhyme label="b" type="m">gheneucht</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Wy ruylden met onsen Coninck <rhyme label="a" type="m" corresp="#s6:l1">noo</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">Want 'sHofs weelden, vereelden, met <rhyme label="c" type="f">deelden</rhyme></l>
+        <l id="s6:l5" met="2" type="-+">Daer noyt veel <rhyme label="b" type="m" corresp="#s6:l2">vreucht</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Lof vrolijck laghe <rhyme label="a" type="m">boeren-huys</rhyme>,</l>
+        <l id="s7:l2" met="2" type="-+">Daer selden yet <rhyme label="b" type="m">mist</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Ist kleyn 't heeft wederom kleynder <rhyme label="a" type="m" corresp="#s7:l1">kruys</rhyme>.</l>
+        <l id="s7:l4" met="3" type="-+">Als het hooghe, vermoghen, <rhyme label="c" type="f">bedroghen</rhyme></l>
+        <l id="s7:l5" met="2" type="-+">Hof vol van <rhyme label="b" type="m" corresp="#s7:l2">twist</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Geyl is's Hofs Min, en soo't wel <rhyme label="a" type="m">gaet</rhyme></l>
+        <l id="s8:l2" met="2" type="-+">Is liefs Moeder 't <rhyme label="b" type="m">ghewin</rhyme>,</l>
+        <l id="s8:l3" met="4" type="-+">Met t'samen begeerte na grooter <rhyme label="a" type="m" corresp="#s8:l1">staet</rhyme>,</l>
+        <l id="s8:l4" met="3" type="-+">Wy verkeeren, met eeren, en <rhyme label="c" type="f">sweeren</rhyme></l>
+        <l id="s8:l5" met="2" type="-+">Een trouwe <rhyme label="b" type="m" corresp="#s8:l2">Min</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

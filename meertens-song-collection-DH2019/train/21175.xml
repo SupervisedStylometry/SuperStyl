@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21175</id>
+    <date>
+      <year-start>1646</year-start>
+      <year-end>1646</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Herderin mijn vriendin</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Guillaume Abrahams Ooijevaer</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Harderinne // mijn <rhyme label="a" type="f">Vriendinne</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Mijn vermaeck en <rhyme label="b" type="m">levensvreught</rhyme>:</l>
+        <l id="s1:l3" met="4" type="+-">Ghy alleene, zijt de <rhyme label="c" type="f">ghene</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Die mijn hart en ziel <rhyme label="b" type="m" corresp="#s1:l2">verheught</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">'t Vriendlijck wesen // noyt <rhyme label="a" type="f">volpresen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">En u Coralijne <rhyme label="b" type="m">mondt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Waerdt te noemen // en te <rhyme label="c" type="f">roemen</rhyme>;</l>
+        <l id="s2:l4" met="4" type="+-">Schoonder dan de <rhyme label="b" type="m" corresp="#s2:l2">Morgenstondt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Rooder wangen // waerdt <rhyme label="a" type="f">t'ontfangen</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Duysent Kusjes, nacht en <rhyme label="b" type="m">dagh</rhyme>:</l>
+        <l id="s3:l3" met="4" type="+-">Phoebi stralen // willigh <rhyme label="c" type="f">dalen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Voor het lieflijck <rhyme label="b" type="m" corresp="#s3:l2">Oogh-opslagh</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Al uw' Leden // net <rhyme label="a" type="f">besneden</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Overschoone <rhyme label="b" type="m">Veldt-goddin</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Doen my schrijven // ick sal <rhyme label="c" type="f">blijven</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">T'uwen dienst, in trouwe <rhyme label="b" type="m" corresp="#s4:l2">Min</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

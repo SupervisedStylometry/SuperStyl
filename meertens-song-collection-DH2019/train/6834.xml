@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6834</id>
+    <date>
+      <year-start>1637</year-start>
+      <year-end>1637</year-end>
+    </date>
+    <location>
+      <orginal-name>emmerick</orginal-name>
+      <standard-name>Emmerik, Germany</standard-name>
+      <coordinates>
+        <lon>51.8322137</lon>
+        <lat>6.2428283</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="paaslied" translation="Easter song">paaslied</tag>
+    </tags>
+    <melody>Hemelse koningin</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Hemelsche <rhyme label="a" type="f">Coninginne</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Verblijt u nu, verblijt u <rhyme label="b" type="m">nu</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Want Iesus dien ick <rhyme label="a" type="f" corresp="#s1:l1">minne</rhyme></l>
+        <l id="s1:l4" met="6" type="-+">Die komt tot u, die komt tot u, die komt tot <rhyme label="b" type="m" corresp="#s1:l2">u</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Die ghy waert weert te <rhyme label="a" type="f">dragen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">In uwen schoot, in uwen <rhyme label="b" type="m">schoot</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Verrijst na schrifts <rhyme label="a" type="f" corresp="#s2:l1">gewagen</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Ras vander doot, ras vander doot, ras vander <rhyme label="b" type="m" corresp="#s2:l2">doot</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Reyn Maget <rhyme label="a" type="f">wtgelesen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Bidt uwen Soon, bidt uwen <rhyme label="b" type="m">Soon</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Dat hy ons genaedich <rhyme label="a" type="f" corresp="#s3:l1">wese</rhyme>,</l>
+        <l id="s3:l4" met="6" type="-+">En ons verschoon, en ons verschoon, en ons <rhyme label="b" type="m" corresp="#s3:l2">verschoon</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Wilt toch van ons af <rhyme label="a" type="f">wenden</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Sijn gramschap groot, sijn gramschap <rhyme label="b" type="m">groot</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Verweckt in ons <rhyme label="a" type="f" corresp="#s4:l1">ellenden</rhyme></l>
+        <l id="s4:l4" met="6" type="-+">Met sonden snoot, met sonden snoot, met sonden <rhyme label="b" type="m" corresp="#s4:l2">snoot</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Versoent den Heer der <rhyme label="a" type="f">Heeren</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Op ons verstoort, op ons <rhyme label="b" type="m">verstoort</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Biddend’ die u met <rhyme label="a" type="f" corresp="#s5:l1">eeren</rhyme></l>
+        <l id="s5:l4" met="6" type="-+">Altijt verhoort, altijt verhoort, altijt <rhyme label="b" type="m" corresp="#s5:l2">verhoort</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Vant sware jock der <rhyme label="a" type="f">sonden</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">’t Welck ons mishaegt, ’t welck ons <rhyme label="b" type="m">mishaegt</rhyme>.</l>
+        <l id="s6:l3" met="3" type="-+">Dat wy werden <rhyme label="a" type="f" corresp="#s6:l1">ontbonden</rhyme></l>
+        <l id="s6:l4" met="6" type="-+">Helpt suyver Maegt, helpt suyver Maegt, helpt suyver <rhyme label="b" type="m" corresp="#s6:l2">Maegt</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Wilt van’t Serpent <rhyme label="a" type="f">bevrijden</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">In stervens noot, in stervens <rhyme label="b" type="m">noot</rhyme>,</l>
+        <l id="s7:l3" met="3" type="-+">Doet ons ontgaen, nae <rhyme label="a" type="f" corresp="#s7:l1">t’strijden</rhyme></l>
+        <l id="s7:l4" met="6" type="-+">D’eewige doot, d’eewige doot, d’eewige <rhyme label="b" type="m" corresp="#s7:l2">doot</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="3" type="-+">Looft Godt en <rhyme label="a" type="f">jubileret</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">Met soeten toon, met soeten <rhyme label="b" type="m">toon</rhyme>.</l>
+        <l id="s8:l3" met="3" type="-+">Want hy door t’kruys <rhyme label="a" type="f" corresp="#s8:l1">regieret</rhyme></l>
+        <l id="s8:l4" met="6" type="-+">Verresen schoon, verresen schoon, verresen <rhyme label="b" type="m" corresp="#s8:l2">schoon</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

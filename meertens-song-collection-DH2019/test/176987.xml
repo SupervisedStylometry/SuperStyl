@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176987</id>
+    <date>
+      <year-start>1757</year-start>
+      <year-end>1757</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+      <tag standard-name="vreugdelied" translation="joyful song">vreugdelied</tag>
+    </tags>
+    <melody>Amarante mijn vriendin</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Laten wy nu eens gaan <rhyme label="a" type="f">zwieren</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">'t Is te vroeg naar huis te <rhyme label="b" type="m">gaan</rhyme>;</l>
+        <l id="s1:l3" met="4" type="+-">Kom, wy zyn nu met ons <rhyme label="a" type="f" corresp="#s1:l1">vieren</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Daar kan nu een fles op <rhyme label="b" type="m" corresp="#s1:l2">staan</rhyme>.</l>
+        <l id="s1:l5" met="6" type="+-">Eerst by Koo de slaaf, daar hebje 't meeste <rhyme label="c" type="f">volkje</rhyme>,</l>
+        <l id="s1:l6" met="6" type="+-">Dan by Stichtsche Lys en dan by 't kleine <rhyme label="c" type="f" corresp="#s1:l5">Bolkje</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Dan gaan wy naar 't Hoere <rhyme label="c" type="f" corresp="#s1:l5">Kolkje</rhyme>;</l>
+        <l id="s1:l8" met="4" type="+-">Als wy komen uit de <rhyme label="b" type="m" corresp="#s1:l2">Baan</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Dan bezoeken wy het <rhyme label="a" type="f">Boompje</rhyme>;</l>
+        <l id="s2:l2" met="4" type="+-">Voorts de Pyl en <rhyme label="b" type="m">Bremerton</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">'t Hagendorenbosch by <rhyme label="a" type="f" corresp="#s2:l1">Oompje</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">De Fontein, kom aan, <rhyme label="b" type="m" corresp="#s2:l2">allon</rhyme>,</l>
+        <l id="s2:l5" met="6" type="+-">Dan by Jan de Pruik een flesje baai <rhyme label="c" type="f">gedronken</rhyme>,</l>
+        <l id="s2:l6" met="6" type="+-">En in de Pars 'er ook een <rhyme label="c" type="f" corresp="#s2:l5">uitgeschonken</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Ook reis in 't groot School <rhyme label="c" type="f" corresp="#s2:l5">geklonken</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Het als of me'er geld meê <rhyme label="b" type="m" corresp="#s2:l2">won</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Willen wy noch verder <rhyme label="a" type="f">kyken</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Dan naar de Kathuizers <rhyme label="b" type="m">heen</rhyme>;</l>
+        <l id="s3:l3" met="4" type="+-">Daar van daan zoo gaan wy <rhyme label="a" type="f" corresp="#s3:l1">stryken</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Naar de Hoek, by Loensche <rhyme label="b" type="m" corresp="#s3:l2">Leen</rhyme>:</l>
+        <l id="s3:l5" met="6" type="+-">Dan naar de Zon, of naar het <rhyme label="c" type="f">Zilver-Vlootje</rhyme>,</l>
+        <l id="s3:l6" met="6" type="+-">Dan naar 't Hogerhuis, naar 't Scheepje of het <rhyme label="c" type="f" corresp="#s3:l5">Bootje</rhyme>;</l>
+        <l id="s3:l7" met="4" type="+-">Kom, gaa meê, of kusje <rhyme label="c" type="f" corresp="#s3:l5">Grootje</rhyme>;</l>
+        <l id="s3:l8" met="4" type="+-">Wil je niet, zoo zeg maar <rhyme label="b" type="m" corresp="#s3:l2">neen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176226</id>
+    <date>
+      <year-start>1640</year-start>
+      <year-end>1640</year-end>
+    </date>
+    <location>
+      <orginal-name>deventer</orginal-name>
+      <standard-name>Deventer, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.2532272</lon>
+        <lat>6.1584725</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Lofzang van Simeon [Datheen]</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">NV laet ghy uwen <rhyme label="a" type="m">knecht</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Als ghy hem hebt <rhyme label="a" type="m" corresp="#s1:l1">voorsegt</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Getrouwe God met <rhyme label="b" type="f">vreden</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Heen-wandelen; <rhyme label="c" type="m">nadien</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Mijn ooge heeft <rhyme label="c" type="m" corresp="#s1:l4">gesien</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">V Salichmaker <rhyme label="b" type="f" corresp="#s1:l3">heden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Die van u is <rhyme label="a" type="m">bereyt</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Dat hy ter <rhyme label="a" type="m" corresp="#s2:l1">salicheyt</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">De volckeren <rhyme label="b" type="f">bekeere</rhyme>:</l>
+        <l id="s2:l4" met="3" type="-+">Een sonne die <rhyme label="c" type="m">verlicht</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Der heydenen <rhyme label="c" type="m" corresp="#s2:l4">gesicht</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">En Israël brengt <rhyme label="b" type="f" corresp="#s2:l3">eere</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

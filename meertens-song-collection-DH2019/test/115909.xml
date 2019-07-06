@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>115909</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>deventer</orginal-name>
+      <standard-name>Deventer, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.2532272</lon>
+        <lat>6.1584725</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Wie schön leuchtet der Morgenstern</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WIlt altesaem voor Godts <rhyme label="a" type="m">aenschijn</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Van gantscher herten blyde <rhyme label="a" type="m" corresp="#s1:l1">zijn</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Gelijk men in de <rhyme label="b" type="f">tijden</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Des oogstes plagh te zijn <rhyme label="c" type="m">verheugt</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Of als men deelt den buyt met <rhyme label="c" type="m" corresp="#s1:l4">vreugt</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">En innerlik <rhyme label="b" type="f" corresp="#s1:l3">verelyden</rhyme>.</l>
+        <l id="s1:l7" met="2" type="-+">Men vindt // Nu 't <rhyme label="d" type="m">Kint</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">En dien Soone // Uyt Godts <rhyme label="e" type="f">throone</rhyme></l>
+        <l id="s1:l9" met="2" type="+-">
+          <rhyme label="f" type="f">Hoogh-verheven</rhyme>
+        </l>
+        <l id="s1:l10" met="4" type="+-">Ons gebooren en <rhyme label="f" type="f" corresp="#s1:l9">gegeven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Syn Heerschappy en Opper-macht <rhyme label="a" type="m">Ibid</rhyme>.</l>
+        <l id="s2:l2" met="4" type="-+">Is op syn schouderen met <rhyme label="a" type="m" corresp="#s2:l1">kracht</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Hy brenght syn name <rhyme label="b" type="f">mede</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">(Gelijk hy ook is in der <rhyme label="c" type="m">daet</rhyme>)</l>
+        <l id="s2:l5" met="4" type="-+">Sterk Godt, der eeuwen Vader, <rhyme label="c" type="m" corresp="#s2:l4">Raedt</rhyme>,</l>
+        <l id="s2:l6" met="3" type="+-">Vol wonder, Vorst van <rhyme label="b" type="f" corresp="#s2:l3">vrede</rhyme>.</l>
+        <l id="s2:l7" met="2" type="-+">Dees' is // <rhyme label="d" type="m">Gewis</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Godt ons' Heere // Die soo <rhyme label="e" type="f">seere</rhyme></l>
+        <l id="s2:l9" met="2" type="+-">Van den <rhyme label="f" type="f">menschen</rhyme></l>
+        <l id="s2:l10" met="4" type="+-">Is verwacht met al haer <rhyme label="f" type="f" corresp="#s2:l9">wenschen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

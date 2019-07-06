@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100235</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="8" type="-+">EInmahl ist nigh viel, faderie ta laderie <rhyme label="a" type="m">dera</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Zweymahl ist Kinderspil, faderie ta <rhyme label="a" type="m" corresp="#s1:l1">la</rhyme></l>
+        <l id="s1:l3" met="8" type="+-">Dreymahl ist ebenreght, faderie ta laderie <rhyme label="a" type="m" corresp="#s1:l1">dera</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Viermahl ist Fattersreght, faderie ta <rhyme label="a" type="m" corresp="#s1:l1">la</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="8" type="-+">Funfmahl ist auch night fiel, faderie ta laderie <rhyme label="a" type="m">dera</rhyme>,</l>
+        <l id="s2:l2" met="6" type="-+">Zegsmahl is Jonffer spil, faderie ta <rhyme label="a" type="m" corresp="#s2:l1">la</rhyme></l>
+        <l id="s2:l3" met="8" type="+-">Ziebenmahl mit allem fleisch, faderie ta laderie <rhyme label="a" type="m" corresp="#s2:l1">dera</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Achtmahl den Jomfferen preisch, faderie ta <rhyme label="a" type="m" corresp="#s2:l1">la</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="8" type="-+">Neinmahl das geet wohl an, faderie ta laderie <rhyme label="a" type="m">dera</rhyme>,</l>
+        <l id="s3:l2" met="6" type="-+">Ein man ders tzehnmaal kan, faderie ta <rhyme label="a" type="m" corresp="#s3:l1">la</rhyme></l>
+        <l id="s3:l3" met="8" type="+-">Elfmahl ein gros geluk, faderie ta laderie <rhyme label="a" type="m" corresp="#s3:l1">dera</rhyme>,</l>
+        <l id="s3:l4" met="6" type="-+">Zwelfmahl ein Meister stuk, faderie ta <rhyme label="a" type="m" corresp="#s3:l1">la</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="8" type="-+">Dreitzehnmahl uberflus, faderie ta laderie <rhyme label="a" type="m">dera</rhyme>.</l>
+        <l id="s4:l2" met="6" type="-+">Vertzehnmal mit ferdrus, faderie ta <rhyme label="a" type="m" corresp="#s4:l1">la</rhyme>.</l>
+        <l id="s4:l3" met="8" type="+-">Foustzehnmahl ist zu viel, faderie ta laderie <rhyme label="a" type="m" corresp="#s4:l1">dera</rhyme>,</l>
+        <l id="s4:l4" met="6" type="-+">Segtzehnmahl Zehrlingh spil, faderie ta <rhyme label="a" type="m" corresp="#s4:l1">la</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

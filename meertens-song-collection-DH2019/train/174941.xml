@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174941</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Hoe! zijn uwe oogjes nog vol <rhyme label="a" type="m">vaak</rhyme>?</l>
+        <l id="s1:l2" met="3" type="-+">Kijk uit, langs weî en <rhyme label="b" type="f">akker</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">De bloempjes worden <rhyme label="b" type="f" corresp="#s1:l2">wakker</rhyme>, -</l>
+        <l id="s1:l4" met="3" type="-+">Ontwaak, ontwaak, <rhyme label="a" type="m" corresp="#s1:l1">ontwaak</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ei, bloempjes! dat is mis <rhyme label="a" type="m">geweest</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Dat dien-je maar te <rhyme label="b" type="f">weten</rhyme>!</l>
+        <l id="s2:l3" met="3" type="-+">Wij hadden 't niet <rhyme label="b" type="f" corresp="#s2:l2">vergeten</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Dat blijde, blijde <rhyme label="a" type="m" corresp="#s2:l1">feest</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Neen, lang al zijn wij kant en <rhyme label="a" type="m">klaar</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Van 't hoofd tot aan de <rhyme label="b" type="f">voeten</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Om Meester-lief te <rhyme label="b" type="f" corresp="#s3:l2">groeten</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Te groeten paar aan <rhyme label="a" type="m" corresp="#s3:l1">paar</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">En als ter school hij <rhyme label="a" type="m">binnentreedt</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Dan zullen wij met <rhyme label="b" type="f">zangen</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">En versjes hem <rhyme label="b" type="f" corresp="#s4:l2">ontvangen</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Voor 't goed dat hij ons <rhyme label="a" type="m" corresp="#s4:l1">deed</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Dan bidden we onzen Lieven <rhyme label="a" type="m">Heer</rhyme>:</l>
+        <l id="s5:l2" met="3" type="-+">‘o Mogt uw gunst ons <rhyme label="b" type="f">geven</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Om hem tot vreugd te <rhyme label="b" type="f" corresp="#s5:l2">leven</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">En U, o God! tot <rhyme label="a" type="m" corresp="#s5:l1">eer</rhyme>!’</l>
+      </lg>
+    </lg>
+  </text>
+</song>

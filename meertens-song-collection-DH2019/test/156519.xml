@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>156519</id>
+    <date>
+      <year-start>1678</year-start>
+      <year-end>1678</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">FYn man, ongevoeligh <rhyme label="a" type="m">knecht</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Deed men u niet beter <rhyme label="a" type="m" corresp="#s1:l1">recht</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Datmen u in plaets van <rhyme label="b" type="f">stoelen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Een gescherpten heeckel <rhyme label="c" type="m">gaf</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Want ghy kont het doch niet <rhyme label="b" type="f" corresp="#s1:l3">voelen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">En je gat weet nergens <rhyme label="c" type="m" corresp="#s1:l4">af</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Dat u <rhyme label="a" type="m">ongevoeligheyt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Voor Bancquet wierdt <rhyme label="a" type="m" corresp="#s2:l1">toegeleyt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Een draght van <rhyme label="b" type="f">Capittel-stocken</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Daer med' wierdt het ras <rhyme label="c" type="m">bekent</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Of het waerheyt was of <rhyme label="b" type="f" corresp="#s2:l3">jocken</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Datje ongevoeligh <rhyme label="c" type="m" corresp="#s2:l4">bent</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

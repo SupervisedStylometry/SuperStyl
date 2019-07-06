@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10357</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Zeg mij toch wel zoete lieve maagd</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Droeve stem, de lucht met rouw-lanck <rhyme label="a" type="m">slaet</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">En voeght u (als 't past) in een zoo droeve <rhyme label="a" type="m" corresp="#s1:l1">staet</rhyme></l>
+        <l id="s1:l3" met="5" type="+-">Mits 't noodlot u Polexander <rhyme label="b" type="m">heeft</rhyme>.</l>
+        <l id="s1:l4" met="6" type="-+">Sijn levens draet ghesneen, niet willend' dat hy <rhyme label="b" type="m" corresp="#s1:l3">leeft</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Peerle-drop vloey langhs de wanghen <rhyme label="a" type="m">neer</rhyme>,</l>
+        <l id="s2:l2" met="6" type="-+">En plonder het haer tot reycken van 't <rhyme label="a" type="m" corresp="#s2:l1">hertseer</rhyme></l>
+        <l id="s2:l3" met="5" type="+-">Dat u druckt door 't averechts <rhyme label="b" type="m">gheval</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Dat sonder Cloris doodt vergeten noyt zijn <rhyme label="b" type="m" corresp="#s2:l3">sal</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Want noyt was op aerde beter <rhyme label="a" type="m">paer</rhyme>,</l>
+        <l id="s3:l2" met="6" type="-+">Wiens een-ziel'ge sin, dat soo wel sloot te <rhyme label="a" type="m" corresp="#s3:l1">gaer</rhyme>:</l>
+        <l id="s3:l3" met="5" type="+-">Want sijn wil, mijn volle wenschingh <rhyme label="b" type="m">was</rhyme>,</l>
+        <l id="s3:l4" met="6" type="-+">Maer 't noodlot ick vervloeck dat ons afscheyt so <rhyme label="b" type="m" corresp="#s3:l3">ras</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Spijt nood-lot en voor-bereyt <rhyme label="a" type="m">misval</rhyme>,</l>
+        <l id="s4:l2" met="6" type="-+">S'en letten my noyt dat 'k hem niet volgen <rhyme label="a" type="m" corresp="#s4:l1">sal</rhyme>,</l>
+        <l id="s4:l3" met="5" type="+-">En dat ick schuw des hemels heldre <rhyme label="b" type="m">Lamp</rhyme>,</l>
+        <l id="s4:l4" met="6" type="-+">En keur voor 's werelts vreught en onder-aertsche <rhyme label="b" type="m" corresp="#s4:l3">damp</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Want Cloris voor een wereltsche <rhyme label="a" type="m">lust</rhyme>,</l>
+        <l id="s5:l2" met="6" type="-+">Kiest Polexander en liever is <rhyme label="a" type="m" corresp="#s5:l1">ontrust</rhyme></l>
+        <l id="s5:l3" met="5" type="+-">In gequel, in knarssingh, en <rhyme label="b" type="m">gesteen</rhyme>,</l>
+        <l id="s5:l4" met="6" type="-+">Dan vrolijck sonder hem te leven hier <rhyme label="b" type="m" corresp="#s5:l3">alleen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

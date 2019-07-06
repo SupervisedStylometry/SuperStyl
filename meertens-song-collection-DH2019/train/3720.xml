@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3720</id>
+    <date>
+      <year-start>1566</year-start>
+      <year-end>1566</year-end>
+    </date>
+    <location>
+      <orginal-name>heidelberg</orginal-name>
+      <standard-name>Heidelberg, Germany</standard-name>
+      <coordinates>
+        <lon>49.4093582</lon>
+        <lat>8.694724</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 117 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Pieter Datheen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GHY heydenen loeft t'saem den <rhyme label="a" type="m">Heer'</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Ghy volckeren bewyst hem <rhyme label="a" type="m" corresp="#s1:l1">eer'</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Want groot is sijn ghenaede <rhyme label="b" type="m">goet</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Ouer ons al in <rhyme label="b" type="m" corresp="#s1:l3">ouervloet</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Bestendigh is oock sijn <rhyme label="c" type="m">waerheit</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Ouer ons in der <rhyme label="c" type="m" corresp="#s1:l5">eewicheit</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

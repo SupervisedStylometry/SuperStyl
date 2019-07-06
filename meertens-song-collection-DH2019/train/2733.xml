@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2733</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>J. Smeerbol</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GEspeeltjes, die de Bruid <rhyme label="a" type="m">verzelt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En uw, voor haar, als lijfschut <rhyme label="a" type="m" corresp="#s1:l1">stelt</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Ai! laat die moeiten <rhyme label="b" type="f">steeken</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Merkt gy die lieve bloosjes <rhyme label="c" type="m">niet</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Of welk een gunst z' er Bruygom <rhyme label="c" type="m" corresp="#s1:l4">bied</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Om hem alleen te <rhyme label="b" type="f" corresp="#s1:l3">spreeken</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Gy kust haar wel; maar u <rhyme label="a" type="m">gezoen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Kan heure lusjes niet <rhyme label="a" type="m" corresp="#s2:l1">voldoen</rhyme>:</l>
+        <l id="s2:l3" met="3" type="-+">Wat moogt 'er doch meer <rhyme label="b" type="f">pijnen</rhyme>!</l>
+        <l id="s2:l4" met="4" type="-+">Gy hebt u dienst alree <rhyme label="c" type="m">voldaan</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Hou stil, hou stil, ai! laat 'er <rhyme label="c" type="m" corresp="#s2:l4">gaan</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Naar 't luw der twee <rhyme label="b" type="f" corresp="#s2:l3">gordijnen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Nu, neem 'er kroontje van 'er <rhyme label="a" type="m">hooft</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">De Trouw heeft haar vry meer <rhyme label="a" type="m" corresp="#s3:l1">belooft</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Dan gy, aan haar, kunt <rhyme label="b" type="f">geven</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Belet 'er niet. 't Is <rhyme label="c" type="m">over-tijd</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Zy wenkt 'er Lieff, en z' is <rhyme label="c" type="m" corresp="#s3:l4">verblijd</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Dat z' in zijn scharm zal <rhyme label="b" type="f" corresp="#s3:l3">leeven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

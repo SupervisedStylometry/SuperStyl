@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13136</id>
+    <date>
+      <year-start>1644</year-start>
+      <year-end>1644</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Amarilli mia bella</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">SUlamite! Keert <rhyme label="a" type="f">weder</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Gedenckt dat ick om u, uyt liefde <rhyme label="a" type="f" corresp="#s1:l1">teder</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Ben ghekomen hier <rhyme label="a" type="f" corresp="#s1:l1">neder</rhyme>;</l>
+        <l id="s1:l4" met="5" type="-+">Ghy zijt mijn lief, 'khebt u genoech <rhyme label="b" type="f">bewesen</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Gaet, ghy kunt het wel <rhyme label="b" type="f" corresp="#s1:l4">lesen</rhyme>;</l>
+        <l id="s1:l6" met="5" type="-+">In all' mijn zinnen // suldy geschreven <rhyme label="c" type="f">vinnen</rhyme>,</l>
+        <l id="s1:l7" met="7" type="+-">Sulamite, Sulamite, Sulamite mijn <rhyme label="c" type="f" corresp="#s1:l6">minne</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Wie ben ick slijck der <rhyme label="a" type="f">aerde</rhyme>?</l>
+        <l id="s2:l2" met="5" type="-+">Door u mijn Heer so goet, so groot van <rhyme label="a" type="f" corresp="#s2:l1">waerde</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Die mijn wel eertijts baerde // met sulcken <rhyme label="a" type="f" corresp="#s2:l1">pijn</rhyme>;</l>
+        <l id="s2:l4" met="5" type="-+">In mijn is niet te vinden // waerdich voor mijn <rhyme label="b" type="f">beminde</rhyme>;</l>
+        <l id="s2:l5" met="3" type="-+">Vol van misdaden // is lijf en ziel <rhyme label="b" type="f" corresp="#s2:l4">gheladen</rhyme>;</l>
+        <l id="s2:l6" met="5" type="-+">Mijn beminde! mijn beminde! mijn bemijnde <rhyme label="c" type="f">ghenade</rhyme>:</l>
+        <l id="s2:l7" met="7" type="+-">In mijn helaes! In mijn helaes! In mijn heleas is niet te <rhyme label="c" type="f" corresp="#s2:l6">vinden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Keert weerom van u <rhyme label="a" type="f">sonden</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Sal ick u wasschen af in korter <rhyme label="a" type="f" corresp="#s3:l1">stonden</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Met het bloet van mijn wonden, keert maer <rhyme label="a" type="f" corresp="#s3:l1">weerom</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Keert maer weerom vriendinne // 'ksal u weerom <rhyme label="b" type="f">beminnen</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Maer als te vooren // waerom gaet ghy <rhyme label="b" type="f" corresp="#s3:l4">verloren</rhyme>?</l>
+        <l id="s3:l6" met="5" type="-+">Sulamite, Sulamite, Sulamite, <rhyme label="c" type="f">uytverkoren</rhyme>!</l>
+        <l id="s3:l7" met="7" type="+-">Keert maer weerom, Keert maer weerom, Keert maer weerom <rhyme label="c" type="f" corresp="#s3:l6">vriendinne</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

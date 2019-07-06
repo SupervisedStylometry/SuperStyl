@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174794</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Honger, honger! leelijk <rhyme label="a" type="m">woord</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Als een leêge maag u <rhyme label="a" type="m" corresp="#s1:l1">hoort</rhyme>!</l>
+        <l id="s1:l3" met="4" type="+-">Als de tanden <rhyme label="b" type="f">watertanden</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">En men staat met leêge <rhyme label="b" type="f" corresp="#s1:l3">handen</rhyme>....</l>
+        <l id="s1:l5" met="4" type="+-">Als ge op volle schaal of <rhyme label="b" type="f" corresp="#s1:l3">manden</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Gretig u een' blik <rhyme label="c" type="m">verstout</rhyme>, -</l>
+        <l id="s1:l7" met="4" type="+-">Maar de maag vacantie <rhyme label="c" type="m" corresp="#s1:l6">houdt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Doch - hoe lastig gij soms <rhyme label="a" type="m">zijt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Toch maakt ge ons ook dubbel <rhyme label="a" type="m" corresp="#s2:l1">blijd</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Zullen we u graag welkom <rhyme label="b" type="f">heeten</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Als we happig zijn <rhyme label="b" type="f" corresp="#s2:l3">gezeten</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Voor een' schotel lekker <rhyme label="b" type="f" corresp="#s2:l3">eten</rhyme>....</l>
+        <l id="s2:l6" met="4" type="+-">Grage tand de spijs <rhyme label="c" type="m">vermaalt</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Zelf verdiend en zelf <rhyme label="c" type="m" corresp="#s2:l6">betaald</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Daarom roept ons blij <rhyme label="a" type="m">gezang</rhyme>:</l>
+        <l id="s3:l2" met="4" type="+-">Lieve Honger! plaag ons <rhyme label="a" type="m" corresp="#s3:l1">lang</rhyme>!</l>
+        <l id="s3:l3" met="4" type="+-">Rijk en ziek zou <rhyme label="b" type="f">menigmalen</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">(Kon het!) u met goud <rhyme label="b" type="f" corresp="#s3:l3">betalen</rhyme> -</l>
+        <l id="s3:l5" met="4" type="+-">Ons zult gij zoo ligt niet <rhyme label="b" type="f" corresp="#s3:l3">falen</rhyme>;</l>
+        <l id="s3:l6" met="4" type="+-">Maar verlangt gij dank en <rhyme label="c" type="m">prijs</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Kom dan (kan 't!) geärmd met.... <rhyme label="c" type="m" corresp="#s3:l6">spijs</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>177998</id>
+    <date>
+      <year-start>1774</year-start>
+      <year-end>1774</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Psalm 123 Datheen</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Ik hef tot U, die in den hemel <rhyme label="a" type="m">zit</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Mijn oogen op, en <rhyme label="a" type="m" corresp="#s1:l1">bid</rhyme>;</l>
+        <l id="s1:l3" met="5" type="-+">Gelijk een knecht ziet op de hand zijns <rhyme label="b" type="f">heeren</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Om nooddruft te <rhyme label="b" type="f" corresp="#s1:l3">begeeren</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">En 't oog der maagd is op haar vrouw <rhyme label="c" type="f">geslagen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Om hulp of gunst te <rhyme label="c" type="f" corresp="#s1:l5">vraagen</rhyme>;</l>
+        <l id="s1:l7" met="5" type="-+">Zoo slaan wij 't oog op onzen HEER, tot <rhyme label="d" type="m">Hij</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Ook ons genadig <rhyme label="d" type="m" corresp="#s1:l7">zij</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Geef ons genaê, geef ons genaê, o <rhyme label="a" type="m">HEER</rhyme>!</l>
+        <l id="s2:l2" met="3" type="-+">En red ons tot uw <rhyme label="a" type="m" corresp="#s2:l1">eer</rhyme>.</l>
+        <l id="s2:l3" met="5" type="-+">Wij zijn reeds moê van al de schampre <rhyme label="b" type="f">woorden</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Die wij van smaaders <rhyme label="b" type="f" corresp="#s2:l3">hoorden</rhyme>;</l>
+        <l id="s2:l5" met="5" type="-+">Ons treurig hart is moê van al het <rhyme label="c" type="f">spotten</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">En 't hoonend <rhyme label="c" type="f" corresp="#s2:l5">samenrotten</rhyme></l>
+        <l id="s2:l7" met="5" type="-+">Der hoovaardij, die needrigen <rhyme label="d" type="m">veracht</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">En weelderig <rhyme label="d" type="m" corresp="#s2:l7">belacht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

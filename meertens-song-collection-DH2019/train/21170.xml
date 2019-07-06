@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21170</id>
+    <date>
+      <year-start>1646</year-start>
+      <year-end>1646</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Bobbing Joe</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Guillaume Abrahams Ooijevaer</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Sa, sa, weest wacker, ghy vrolijcke <rhyme label="a" type="m">Luy</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Schreumt niet voor kannen en <rhyme label="b" type="f">glasen</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Sta vast in dese vochtige <rhyme label="a" type="m" corresp="#s1:l1">buy</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Ick moet u al t'samen gaen <rhyme label="b" type="f" corresp="#s1:l2">asen</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Eerst met dese Fluyt // heel suyvertjes <rhyme label="c" type="m">uyt</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Tot wellekomst van <rhyme label="b" type="f" corresp="#s1:l2">Basen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Komt schenckt eens Schencker dit wederom <rhyme label="a" type="m">vol</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Soo mach het dees Droogh-hart <rhyme label="b" type="f">ontfanghen</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Sijn lijf dat is noch vreeselijck <rhyme label="a" type="m" corresp="#s2:l1">hol</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Ay, laet hem niet langher <rhyme label="b" type="f" corresp="#s2:l2">verlanghen</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Een ander die wacht // en haeckt nae dees <rhyme label="c" type="m">vracht</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">De buyck meent dat de keel is <rhyme label="b" type="f" corresp="#s2:l2">ghehanghen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Voort drae, nu weer een andere <rhyme label="a" type="m">Kop</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Vry over-loopend' <rhyme label="b" type="f">gheschoncken</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Elck toont hem dat dit leckere <rhyme label="a" type="m" corresp="#s3:l1">Sop</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Werdt op het welvaren <rhyme label="b" type="f" corresp="#s3:l2">ghedroncken</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Van ons Vaderlandt // dus bied my de <rhyme label="c" type="m">handt</rhyme>;</l>
+        <l id="s3:l6" met="3" type="-+">Wy blussen de Oorelooghs <rhyme label="b" type="f" corresp="#s3:l2">voncken</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">In sulcken storm verliest men geen <rhyme label="a" type="m">hooft</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Hy, soo ist lustigh te <rhyme label="b" type="f">vechten</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">Men werdt wel van sijn sinnen <rhyme label="a" type="m" corresp="#s4:l1">berooft</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Maer komen noch weder te <rhyme label="b" type="f" corresp="#s4:l2">rechten</rhyme>;</l>
+        <l id="s4:l5" met="4" type="-+">Al roltmen eens heen // wy raecken <rhyme label="c" type="m">beneen</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">En blijven noch vrome <rhyme label="b" type="f" corresp="#s4:l2">Krijghs-knechten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

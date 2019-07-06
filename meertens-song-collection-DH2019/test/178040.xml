@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>178040</id>
+    <date>
+      <year-start>1774</year-start>
+      <year-end>1774</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Psalm 133 Datheen</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Ai ziet! hoe goed, hoe lieflijk is 't, dat <rhyme label="a" type="f">zoonen</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Van 't zelfde huis, als broeders, <rhyme label="a" type="f" corresp="#s1:l1">samenwoonen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Daar 't liefdevuur niet wordt <rhyme label="b" type="m">verdoofd</rhyme>;</l>
+        <l id="s1:l4" met="5" type="-+">'t Is als de zalf op 's Hoogepriesters <rhyme label="b" type="m" corresp="#s1:l3">hoofd</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">De zalf, waarmeê hij is aan God <rhyme label="c" type="m">gewijd</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Die door haar' reuk het hart <rhyme label="c" type="m" corresp="#s1:l5">verblijdt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Die liefdegeur moet elk tot liefde <rhyme label="a" type="f">noopen</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Als d' olie, die, van Arons hoofd <rhyme label="a" type="f" corresp="#s2:l1">gedroopen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Zijn' baard en kleederzoom <rhyme label="b" type="m">doortrekt</rhyme>;</l>
+        <l id="s2:l4" met="5" type="-+">Z' is als de daauw, die Hermons kruin <rhyme label="b" type="m" corresp="#s2:l3">bedekt</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Die Sions top met vruchtbaar vocht <rhyme label="c" type="m">besproeit</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">En op zijn bergen <rhyme label="c" type="m" corresp="#s2:l5">nedervloeit</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

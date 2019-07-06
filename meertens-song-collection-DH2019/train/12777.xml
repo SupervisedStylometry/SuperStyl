@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12777</id>
+    <date>
+      <year-start>1658</year-start>
+      <year-end>1658</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Psalm 015 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Franciscus Ridderus</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WIe ist die Godt ten Hemel <rhyme label="a" type="m">wacht</rhyme>?</l>
+        <l id="s1:l2" met="4" type="-+">'tIs die 'tgeloof tracht te <rhyme label="b" type="f">vermeeren</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">En die de Godsdienst recht <rhyme label="a" type="m" corresp="#s1:l1">betracht</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Die boven Godt oock niets en <rhyme label="a" type="m" corresp="#s1:l1">acht</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">En nevens Godt niemant wil <rhyme label="b" type="f" corresp="#s1:l2">eeren</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ick dien een Godt, soo eyscht zijn <rhyme label="a" type="m">wet</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Geen Engel, of gestorven <rhyme label="b" type="f">vroomen</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Geen beelt doet my hier in <rhyme label="a" type="m" corresp="#s2:l1">belet</rhyme>:</l>
+        <l id="s2:l4" met="4" type="-+">'tHert is alleen op Godt <rhyme label="a" type="m" corresp="#s2:l1">geset</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">'kDerf anders tot zijn throon niet <rhyme label="b" type="f" corresp="#s2:l2">komen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">'kVerneder my oock voor mijn <rhyme label="a" type="m">Heer</rhyme>:</l>
+        <l id="s3:l2" met="4" type="-+">Ick offer aen den Geest <rhyme label="b" type="f">gebeden</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Dan souck ick vorders niemant <rhyme label="a" type="m" corresp="#s3:l1">meer</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">Maria doe ick nimmer <rhyme label="a" type="m" corresp="#s3:l1">eer</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">Nochtans ick acht haer reyne <rhyme label="b" type="f" corresp="#s3:l2">leden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ick kus noch hooft, noch hert, noch <rhyme label="a" type="m">handt</rhyme>;</l>
+        <l id="s4:l2" met="4" type="-+">Noch yets van heyl'ge naer <rhyme label="b" type="f">gelaeten</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">Veel min een lap, een schoe een <rhyme label="a" type="m" corresp="#s4:l1">tant</rhyme>;</l>
+        <l id="s4:l4" met="4" type="-+">O botte Pausdoms <rhyme label="a" type="m" corresp="#s4:l1">mis-verstant</rhyme>!</l>
+        <l id="s4:l5" met="4" type="-+">Wat sullen u die dingen <rhyme label="b" type="f" corresp="#s4:l2">baeten</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

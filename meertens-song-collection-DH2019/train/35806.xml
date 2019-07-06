@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35806</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+    </tags>
+    <melody>Edele artiesten koen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Albertus Buitendyck</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">GHy moet van u Ieught <rhyme label="a" type="m">af</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Met hem deughde <rhyme label="b" type="f">beminnen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Daer by al valt u <rhyme label="a" type="m" corresp="#s1:l1">straf</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Dwingen u quade <rhyme label="b" type="f" corresp="#s1:l2">sinnen</rhyme>:</l>
+        <l id="s1:l5" met="3" type="-+">Wilt altijd mede <rhyme label="c" type="f">houwen</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Van sonde u ziel <rhyme label="d" type="m">schoon</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Op u wilt noyt <rhyme label="c" type="f" corresp="#s1:l5">betrouwen</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Voeght u na Godes <rhyme label="d" type="m" corresp="#s1:l6">Soon</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">O Heylige <rhyme label="a" type="m">Patroon</rhyme>;</l>
+        <l id="s2:l2" met="3" type="-+">Wilt voor ons al <rhyme label="b" type="f">ontfanghen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Van Iesu Godes <rhyme label="a" type="m" corresp="#s2:l1">Soon</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Dit, daer na wy <rhyme label="b" type="f" corresp="#s2:l2">verlanghen</rhyme>;</l>
+        <l id="s2:l5" met="3" type="-+">In 't leven ende <rhyme label="c" type="f">sterven</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Troost veel, ende <rhyme label="d" type="m">bystandt</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">En dat wy 't Hemels <rhyme label="c" type="f" corresp="#s2:l5">erven</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Krijgen, ô waerde <rhyme label="d" type="m" corresp="#s2:l6">Sant</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Geeft Iesu onsen <rhyme label="a" type="m">Heer</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Door Nicolaes <rhyme label="b" type="f">voor-spraecken</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Dat wy na u <rhyme label="a" type="m" corresp="#s3:l1">begeer</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Ons selven heel <rhyme label="b" type="f" corresp="#s3:l2">versaecken</rhyme>;</l>
+        <l id="s3:l5" met="3" type="-+">Dat wy ons altijdt <rhyme label="c" type="f">voegen</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Na uw heylige <rhyme label="d" type="m">wil</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Sonder eenigh <rhyme label="c" type="f" corresp="#s3:l5">misnoeghen</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Sonder eenigh <rhyme label="d" type="m" corresp="#s3:l6">verschil</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

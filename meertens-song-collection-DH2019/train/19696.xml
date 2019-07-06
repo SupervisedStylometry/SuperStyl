@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19696</id>
+    <date>
+      <year-start>1639</year-start>
+      <year-end>1639</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="theatre">theater</category>
+    </categories>
+  <author>Joost van den Vondel</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">De wijnpers van Gods <rhyme label="a" type="m">grimmigheid</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Zal witte en purpre druiven <rhyme label="b" type="f">parssen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">En met een' rooden dauw <rhyme label="b" type="f" corresp="#s1:l2">vervarsschen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Dit veld, dat om vervarssing <rhyme label="a" type="m" corresp="#s1:l1">schreit</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Gods snoeimes strecken zwaerd, en <rhyme label="c" type="f">spiessen</rhyme>;</l>
+        <l id="s1:l6" met="4" type="-+">Zijn wijnbergh 't <rhyme label="d" type="m">Ellefduizendtal</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">De druiven, die hy parssen <rhyme label="d" type="m" corresp="#s1:l6">zal</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">En aen den wijnstock Jesus <rhyme label="c" type="f" corresp="#s1:l5">wiessen</rhyme>.</l>
+        <l id="s1:l9" met="4" type="-+">De paerdevoet dreight in dees <rhyme label="e" type="m">druif</rhyme></l>
+        <l id="s1:l10" met="4" type="-+">Te trapplen met bloeddroncke <rhyme label="f" type="f">hoeven</rhyme></l>
+        <l id="s1:l11" met="4" type="+-">(Helaes hoe dracken ons dees <rhyme label="f" type="f" corresp="#s1:l10">schroeven</rhyme>!)</l>
+        <l id="s1:l12" met="4" type="-+">Dat hen het sap om d'ooren <rhyme label="e" type="m" corresp="#s1:l9">stuif</rhyme>.</l>
+        <l id="s1:l13" met="4" type="-+">Die most wil ons te bitter <rhyme label="g" type="f">smaecken</rhyme>,</l>
+        <l id="s1:l14" met="4" type="-+">Maer alle Hunnen droncken <rhyme label="g" type="f" corresp="#s1:l13">maecken</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">'t Is Wijnmaend, 't is de rechte <rhyme label="a" type="m">tijd</rhyme>.</l>
+        <l id="s2:l2" met="4" type="-+">Laet dien Wijngaerdenier <rhyme label="b" type="f">betyen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Die maet kan stellen yeders <rhyme label="b" type="f" corresp="#s2:l2">lyen</rhyme>.</l>
+        <l id="s2:l4" met="4" type="-+">Hy zet den merckpael van den <rhyme label="a" type="m" corresp="#s2:l1">strijd</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Hy geeft by beurte zon en <rhyme label="c" type="f">regen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Dan zonneschijn, dan <rhyme label="d" type="m">regenvlaegh</rhyme>.</l>
+        <l id="s2:l7" met="4" type="-+">De zonne schijnt niet alle <rhyme label="d" type="m" corresp="#s2:l6">daegh</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Noch juist wanneer 't ons valt <rhyme label="c" type="f" corresp="#s2:l5">gelegen</rhyme>.</l>
+        <l id="s2:l9" met="4" type="-+">Het water leit niet eeuwigh <rhyme label="e" type="m">vlack</rhyme>.</l>
+        <l id="s2:l10" met="4" type="-+">Het onweêr weet zijn tijd, en <rhyme label="f" type="f">stonden</rhyme>.</l>
+        <l id="s2:l11" met="4" type="+-">'t Staet al aen tijd, en maet <rhyme label="f" type="f" corresp="#s2:l10">gebonden</rhyme>,</l>
+        <l id="s2:l12" met="4" type="-+">Wat voorvalt onder 't hemelsch <rhyme label="e" type="m" corresp="#s2:l9">dack</rhyme>.</l>
+        <l id="s2:l13" met="4" type="-+">Gods roeden, die het lichaem <rhyme label="g" type="f">plaegen</rhyme>,</l>
+        <l id="s2:l14" met="4" type="-+">Zijn bezems, om de ziel te <rhyme label="g" type="f" corresp="#s2:l13">vaegen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

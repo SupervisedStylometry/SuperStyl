@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>7124</id>
+    <date>
+      <year-start>1577</year-start>
+      <year-end>1577</year-end>
+    </date>
+    <location>
+      <orginal-name>leuven</orginal-name>
+      <standard-name>Leuven, Belgium</standard-name>
+      <coordinates>
+        <lon>50.879202</lon>
+        <lat>4.7011675</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Met een droeve zang is het dat ik u klagen moet</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Maria schoon bloemken <rhyme label="a" type="f">reijne</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Ghij sijt mijn <rhyme label="b" type="m">toeuerlaet</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Aen Iesum v kindeken <rhyme label="a" type="f" corresp="#s1:l1">cleyne</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Voor uwen dienaer <rhyme label="b" type="m" corresp="#s1:l2">gaet</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">En door sijn dierbaer <rhyme label="c" type="m">bloet</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Dat hij ons int <rhyme label="a" type="f" corresp="#s1:l1">ghemeyne</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Al neme in sijn <rhyme label="c" type="m" corresp="#s1:l5">behoet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Maria Aarons <rhyme label="a" type="f">gaerde</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Dit Godlijck bloemken <rhyme label="b" type="m">droech</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Ghij waert alleen op <rhyme label="a" type="f" corresp="#s2:l1">aerde</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Daer God sijn ooghen op <rhyme label="b" type="m" corresp="#s2:l2">sloech</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Ghij waert voor Godt <rhyme label="c" type="m">groot</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Dus wilt ons door v <rhyme label="a" type="f" corresp="#s2:l1">waerde</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Beschermen inder <rhyme label="c" type="m" corresp="#s2:l5">noot</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Ghij zijt de gulden <rhyme label="a" type="f">arcke</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Int oude <rhyme label="b" type="m">testament</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Daer ick v door <rhyme label="a" type="f" corresp="#s3:l1">bemercke</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">In deuchden <rhyme label="b" type="m" corresp="#s3:l2">excellent</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Ombeulect een spiegel <rhyme label="c" type="m">claer</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Dies stelle ick my te <rhyme label="a" type="f" corresp="#s3:l1">wercke</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Tot uwen dienst int <rhyme label="c" type="m" corresp="#s3:l5">openbaer</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Aent geerdeken sijdij <rhyme label="a" type="f">besloten</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Mer dat vol bloemkens <rhyme label="b" type="m">wies</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Met daw wert ghij <rhyme label="a" type="f" corresp="#s4:l1">beghoten</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Dats Gedeons edel <rhyme label="b" type="m" corresp="#s4:l2">vlies</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Dus reyct my nv v <rhyme label="c" type="m">hant</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">So en wort mijn ziele niet <rhyme label="a" type="f" corresp="#s4:l1">gesteken</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Al inder hellen <rhyme label="c" type="m" corresp="#s4:l5">brant</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Ghij sijt die Godtlijcke <rhyme label="a" type="f">stede</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Daer Iesus in heeft <rhyme label="b" type="m">gherust</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Door v quam peys ende <rhyme label="a" type="f" corresp="#s5:l1">vrede</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Den twist wert doen <rhyme label="b" type="m" corresp="#s5:l2">ghesust</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">Tusschen ons ende die Godtheit <rhyme label="c" type="m">claer</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Dus wilt ons door v <rhyme label="a" type="f" corresp="#s5:l1">beden</rhyme></l>
+        <l id="s5:l7" met="3" type="-+">Beschermen voor <rhyme label="c" type="m" corresp="#s5:l5">misdaet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

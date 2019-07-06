@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188810</id>
+    <date>
+      <year-start>1880</year-start>
+      <year-end>1880</year-end>
+    </date>
+    <location>
+      <orginal-name>nijmegen</orginal-name>
+      <standard-name>Nijmegen, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.8427385</lon>
+        <lat>5.8634696</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ik min u kind, 'k aanbid u, <rhyme label="a" type="f">En-gel</rhyme>!</l>
+        <l id="s1:l2" met="4" type="-+">Mijn hart blijft eeuwig u ten <rhyme label="b" type="m">troon</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Ik wijd aan uwe ziel mijne <rhyme label="c" type="f">liefde</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">En 'k wijd mijne oogen aan uw <rhyme label="b" type="m" corresp="#s1:l2">schoon</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Mijne oogen aan uw <rhyme label="b" type="m" corresp="#s1:l2">schoon</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Mijne oogen aan uw <rhyme label="b" type="m" corresp="#s1:l2">schoon</rhyme>.</l>
+        <l id="s1:l7" met="2" type="-+">Mijn teêr <rhyme label="c" type="f" corresp="#s1:l3">geliefde</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Hoor 's minnaars <rhyme label="d" type="m">stem</rhyme>,</l>
+        <l id="s1:l9" met="4" type="-+">Hij zingt en weeklaagt, o troost gij <rhyme label="d" type="m" corresp="#s1:l8">hem</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

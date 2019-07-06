@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3515</id>
+    <date>
+      <year-start>1613</year-start>
+      <year-end>1613</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="mythologisch lied" translation="mythological song">mythologisch lied</tag>
+      <tag standard-name="meilied" translation="May song">meilied</tag>
+    </tags>
+    <melody>Wat baat der nijders arglist</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Gerrit Hendricksz. van Breughel</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">NAe dat de schoone Silvere <rhyme label="a" type="m">maen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Haer schijnsel by nae had <rhyme label="b" type="f">verlaten</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Diana is ter jaeht <rhyme label="a" type="m" corresp="#s1:l1">ghegaen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Voor den daechraet schoon boven <rhyme label="b" type="f" corresp="#s1:l2">maten</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Met hare maechden seer <rhyme label="c" type="m">verblijt</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Nu inden soeten Somers <rhyme label="c" type="m" corresp="#s1:l5">tijt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Soo haest Luna niet en <rhyme label="a" type="m">verdween</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Aurora die began te <rhyme label="b" type="f">daghen</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Phoebus daerna oock me <rhyme label="a" type="m" corresp="#s2:l1">verscheen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Die door tsoet weer my ghinck <rhyme label="b" type="f" corresp="#s2:l2">wtjagen</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Dat ick Minnaer int groen <rhyme label="c" type="m">quartier</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Vermeyden ghinck om mijn <rhyme label="c" type="m" corresp="#s2:l5">playsier</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">De Sonne schoon en hooch <rhyme label="a" type="m">bepaelt</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Soo heerlijck scheen niet om <rhyme label="b" type="f">verlusten</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">En heeft het aertrijck soo <rhyme label="a" type="m" corresp="#s3:l1">bestraelt</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Dat ick verhit my wat ghinck <rhyme label="b" type="f" corresp="#s3:l2">rusten</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Onder de lommeren int <rhyme label="c" type="m">groen</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Om my vercoeling aen te <rhyme label="c" type="m" corresp="#s3:l5">doen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">O Aura comt en doch <rhyme label="a" type="m">vercoelt</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Het licham heet / sprack ick wt <rhyme label="b" type="f">Minnen</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Helaes daerna heb ick <rhyme label="a" type="m" corresp="#s4:l1">ghevoelt</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Noch zwaerder brant int herte <rhyme label="b" type="f" corresp="#s4:l2">binnen</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Die in my schoot door Venus <rhyme label="c" type="m">erch</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Cupido van Pernassus <rhyme label="c" type="m" corresp="#s4:l5">berch</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Waerom hebdy onkuyssche <rhyme label="a" type="m">kint</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Der Minnen net voor my <rhyme label="b" type="f">ghehanghen</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">En alsoo door de lieffde <rhyme label="a" type="m" corresp="#s5:l1">blint</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Mijn jonghe hart daerin <rhyme label="b" type="f" corresp="#s5:l2">ghevanghen</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Om dat Lucina int groene <rhyme label="c" type="m">dal</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">Vergaert is met haer maechden <rhyme label="c" type="m" corresp="#s5:l5">al</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Waerde Goddin hooghe <rhyme label="a" type="m">gheeert</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Aensiet de Lieffde <rhyme label="b" type="f">wtghelesen</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Die my tot eender jongvrouwe <rhyme label="a" type="m" corresp="#s6:l1">keert</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Laet nijdicheyt verstooten <rhyme label="b" type="f" corresp="#s6:l2">wesen</rhyme></l>
+        <l id="s6:l5" met="4" type="-+">Ghelooft Erynnis niet een <rhyme label="c" type="m">woort</rhyme></l>
+        <l id="s6:l6" met="4" type="-+">Want die is seer op my <rhyme label="c" type="m" corresp="#s6:l5">ghestoort</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Fortuna die soo licht'lijck <rhyme label="a" type="m">draeyt</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Waerom verkeerdy de <rhyme label="b" type="f">ghedachten</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">AEolus die my teghen <rhyme label="a" type="m" corresp="#s7:l1">waeyt</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">Waerom moet ick dan druck <rhyme label="b" type="f" corresp="#s7:l2">verpachten</rhyme></l>
+        <l id="s7:l5" met="4" type="-+">Men kent te recht een Minnent <rhyme label="c" type="m">hert</rhyme></l>
+        <l id="s7:l6" met="4" type="-+">Als reyn zijn Liefft bevonden <rhyme label="c" type="m" corresp="#s7:l5">wert</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Dus Moeder goet Meya seer <rhyme label="a" type="m">schoon</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">V jonste laet tot mywaerts <rhyme label="b" type="f">blijcken</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">Door uwer dochters Lieffd' <rhyme label="a" type="m" corresp="#s8:l1">ydoon</rhyme></l>
+        <l id="s8:l4" met="4" type="-+">Die ick oock eer sonder <rhyme label="b" type="f" corresp="#s8:l2">affwijcken</rhyme></l>
+        <l id="s8:l5" met="4" type="-+">Dus waerde Susters drijmael <rhyme label="c" type="m">dry</rhyme></l>
+        <l id="s8:l6" met="4" type="-+">Troost die u dient tot allen <rhyme label="c" type="m" corresp="#s8:l5">ty</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Oorloff Goddinne der <rhyme label="a" type="m">gheboort</rhyme></l>
+        <l id="s9:l2" met="4" type="-+">Lucina vroet / hooghe <rhyme label="b" type="f">verheven</rhyme></l>
+        <l id="s9:l3" met="4" type="-+">Des Minnaers claghen doch <rhyme label="a" type="m" corresp="#s9:l1">aenhoort</rhyme></l>
+        <l id="s9:l4" met="4" type="-+">Eens herten lust wilt my doch <rhyme label="b" type="f" corresp="#s9:l2">geven</rhyme></l>
+        <l id="s9:l5" met="4" type="-+">Deur Lieffde voecht te saem ons <rhyme label="c" type="m">bey</rhyme></l>
+        <l id="s9:l6" met="4" type="-+">In desen soeten coelen <rhyme label="c" type="m" corresp="#s9:l5">Mey</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

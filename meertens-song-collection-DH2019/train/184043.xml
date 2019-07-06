@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184043</id>
+    <date>
+      <year-start>1806</year-start>
+      <year-end>1806</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Jan Steven van Esveldt Holtrop, Willem Holtrop</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Dès que je connus le <rhyme label="a" type="m">plaisir</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">La peine ou <rhyme label="b" type="f">l'espérance</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Mon coeur éprouva le <rhyme label="a" type="m" corresp="#s1:l1">défir</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">D'en faire <rhyme label="b" type="f" corresp="#s1:l2">considence</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Partageant ma <rhyme label="c" type="m">félicité</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">J'en doublois la <rhyme label="d" type="f">mésure</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Et je me dis: la <rhyme label="c" type="m" corresp="#s1:l5">volupté</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Est dans l'amitié <rhyme label="d" type="f" corresp="#s1:l6">pure</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Je vis pleurer des <rhyme label="a" type="m">malheureux</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Sensible à leurs <rhyme label="b" type="f">allarmes</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Je pleurois d'abord avec <rhyme label="a" type="m" corresp="#s2:l1">aux</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Puis j'essuyois leurs <rhyme label="b" type="f" corresp="#s2:l2">larmes</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Jamais mon coeur n'avoit <rhyme label="c" type="m">goûté</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Si douce <rhyme label="d" type="f">jouissance</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Et je me dis: la <rhyme label="c" type="m" corresp="#s2:l5">volupté</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Est dans la <rhyme label="d" type="f" corresp="#s2:l6">bienfaisance</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

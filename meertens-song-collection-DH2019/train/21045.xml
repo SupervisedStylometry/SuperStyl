@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21045</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
+    </tags>
+    <melody>Schoonste nimf van het woud</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author>Jan Zoet</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">WYk, vry voor dit Toorts-ligt <rhyme label="a" type="m">wijk</rhyme>!</l>
+        <l id="s1:l2" met="2" type="+-">Ghy die <rhyme label="a" type="m" corresp="#s1:l1">rijk</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Door u onrechtvaardig goed,, <rhyme label="b" type="f">zijt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Gierig Boos-wigt, weê u <rhyme label="c" type="m">dat</rhyme></l>
+        <l id="s1:l5" met="2" type="+-">Ghy nooyd <rhyme label="c" type="m" corresp="#s1:l4">zat</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Van der Weeuw, en Weezen bloed,, <rhyme label="b" type="f" corresp="#s1:l3">zijt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Dogh: terwijl ghy raapt, en <rhyme label="a" type="m">schraapt</rhyme>,</l>
+        <l id="s2:l2" met="2" type="+-">Zoo <rhyme label="a" type="m" corresp="#s2:l1">vergaapt</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Ghy u ziel, en lichaams <rhyme label="b" type="f">welvaard</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Mydas-kind, goud-zuchtig <rhyme label="c" type="m">mensch</rhyme>,</l>
+        <l id="s2:l5" met="2" type="+-">Staak u <rhyme label="c" type="m" corresp="#s2:l4">wensch</rhyme>;</l>
+        <l id="s2:l6" met="4" type="+-">Wijl 't u eygen-zelfs geqwel,, <rhyme label="b" type="f" corresp="#s2:l3">baard</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Schrik nu voor dien <rhyme label="a" type="m">jammer-poel</rhyme>,</l>
+        <l id="s3:l2" met="2" type="+-">Daar uw <rhyme label="a" type="m" corresp="#s3:l1">stoel</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Word bereyd door helsche <rhyme label="b" type="f">draaken</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Die geduurig vlam, en <rhyme label="c" type="m">rook</rhyme>,</l>
+        <l id="s3:l5" met="2" type="+-">Damp, en <rhyme label="c" type="m" corresp="#s3:l4">smook</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Op u boesem zullen <rhyme label="b" type="f" corresp="#s3:l3">braaken</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Wanneer ghy, in Charons <rhyme label="a" type="m">boot</rhyme>,</l>
+        <l id="s4:l2" met="2" type="+-">Naa de <rhyme label="a" type="m" corresp="#s4:l1">schoot</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Van het duyster Rijk zult <rhyme label="b" type="f">vaaren</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Zet vry al uw' schatten <rhyme label="c" type="m">by</rhyme>,</l>
+        <l id="s4:l5" met="2" type="+-">Ziet of <rhyme label="c" type="m" corresp="#s4:l4">zy</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">U voor 't onheyl dan <rhyme label="b" type="f" corresp="#s4:l3">bewaaren</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">'k Hoor alreeds, een droeve <rhyme label="a" type="m">Rey</rhyme>,</l>
+        <l id="s5:l2" met="2" type="+-">Van <rhyme label="a" type="m" corresp="#s5:l1">geschrey</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Der verongelijkte <rhyme label="b" type="f">zielen</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Die (om u vervloekte <rhyme label="c" type="m">daadt</rhyme>,)</l>
+        <l id="s5:l5" met="2" type="+-">Waar gy <rhyme label="c" type="m" corresp="#s5:l4">gaat</rhyme>,</l>
+        <l id="s5:l6" met="4" type="+-">Zullen om u heenen <rhyme label="b" type="f" corresp="#s5:l3">krielen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

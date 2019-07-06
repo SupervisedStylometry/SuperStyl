@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2426</id>
+    <date>
+      <year-start>1597</year-start>
+      <year-end>1597</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Een amoureus fier gelaat</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Hendrik van Boxtel</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Gheen liever lief <rhyme label="a" type="f">gheboren</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Onder des Hemels <rhyme label="b" type="m">troon</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Ick hebse <rhyme label="a" type="f" corresp="#s1:l1">wtvercoren</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Voor die schoonste <rhyme label="b" type="m" corresp="#s1:l2">persoon</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Sy heeft bloosende <rhyme label="c" type="f">wanghen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Haer hayr ghelijckt het <rhyme label="d" type="m">gout</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Ick ben als haer <rhyme label="c" type="f" corresp="#s1:l5">ghevanghen</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Deur liefden <rhyme label="d" type="m" corresp="#s1:l6">menichfout</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Sy is die ick doe <rhyme label="a" type="f">eere</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Boven gelt goet en <rhyme label="b" type="m">schat</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Mijn ghewont hert dorst <rhyme label="a" type="f" corresp="#s2:l1">seere</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Na dat maechdelick <rhyme label="b" type="m" corresp="#s2:l2">vat</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Al mocht ick hier <rhyme label="c" type="f">verwerven</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Creseus schat oft <rhyme label="d" type="m">tresoor</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Ick en woude niet <rhyme label="c" type="f" corresp="#s2:l5">derven</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Mijn liefken daer <rhyme label="d" type="m" corresp="#s2:l6">voor</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Prince, sy is <rhyme label="a" type="f">alleene</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Die ick soeck nacht ende <rhyme label="b" type="m">dach</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Sy heeft die const <rhyme label="a" type="f" corresp="#s3:l1">certeene</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Die my ghenesen <rhyme label="b" type="m" corresp="#s3:l2">mach</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Haren naem is <rhyme label="c" type="f">gheschreven</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Binnen mijns hertsen <rhyme label="d" type="m">tent</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Gheen liever macher <rhyme label="c" type="f" corresp="#s3:l5">leven</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Hier in dit <rhyme label="d" type="m" corresp="#s3:l6">Firmament</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

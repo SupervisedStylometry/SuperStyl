@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182308</id>
+    <date>
+      <year-start>1786</year-start>
+      <year-end>1786</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Schoonder is 't Roosje <rhyme label="a" type="m">niet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Schoon zy 't aerd in al de <rhyme label="b" type="f">kleuren</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">In haer lieffelyke <rhyme label="b" type="f" corresp="#s1:l2">geure</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">En 't ontlookent knopje <rhyme label="a" type="m" corresp="#s1:l1">biet</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Schoonder is het Rousje <rhyme label="a" type="m" corresp="#s1:l1">niet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Ach hoe schoon is myne <rhyme label="a" type="m">bruid</rhyme>?</l>
+        <l id="s2:l2" met="4" type="+-">Sy kan my gelukkig <rhyme label="b" type="f">maken</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Het zoet geluyt van haere <rhyme label="b" type="f" corresp="#s2:l2">spraeken</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Want zy blinkt in schoonheid <rhyme label="a" type="m" corresp="#s2:l1">uit</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Door haer overzoet <rhyme label="a" type="m" corresp="#s2:l1">geluit</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Het purper toond in haer <rhyme label="a" type="m">gezigt</rhyme>.</l>
+        <l id="s3:l2" met="4" type="+-">En verspreid zig op haer <rhyme label="b" type="f">kaken</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Streelend doet zy my <rhyme label="b" type="f" corresp="#s3:l2">vermaken</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">En ik tard een ieder <rhyme label="a" type="m" corresp="#s3:l1">uit</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Op de schoonheid van myn <rhyme label="a" type="m" corresp="#s3:l1">bruid</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

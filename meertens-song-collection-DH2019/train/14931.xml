@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14931</id>
+    <date>
+      <year-start>1622</year-start>
+      <year-end>1622</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Voici des petits amours</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">SIet hier vande <rhyme label="a" type="m">minnelyns</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Het dartele hoopken <rhyme label="b" type="f">juyghen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Die als Satyrs  die vol <rhyme label="a" type="m" corresp="#s1:l1">wijns</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Haer sottighe kuerkens <rhyme label="b" type="f" corresp="#s1:l2">tuygen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Siet hier dat kleyn <rhyme label="a" type="m">Godelyn</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Gaen prickelen met syn <rhyme label="b" type="f">Pyltjens</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">In ons hert een soete <rhyme label="a" type="m" corresp="#s2:l1">pyn</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Nu heel soetjens dan weer <rhyme label="b" type="f" corresp="#s2:l2">yltjens</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Gaet gaet ghy kleyne <rhyme label="a" type="m">leckerken</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Myn Nimphjen ras door <rhyme label="b" type="f">wonden</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Met u pyl soet <rhyme label="a" type="m" corresp="#s3:l1">weckerken</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">En sluypt in haer sieltjens <rhyme label="b" type="f" corresp="#s3:l2">gronde</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">O aeng’naeme vier en <rhyme label="a" type="m">brand</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Dier haer hertjen kan <rhyme label="b" type="f">vermurwen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Kleyne Godt o soete <rhyme label="a" type="m" corresp="#s4:l1">Quant</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Wie sou teghen u noch <rhyme label="b" type="f" corresp="#s4:l2">durven</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">V roem ick kleyn <rhyme label="a" type="m">Cupidon</rhyme></l>
+        <l id="s5:l2" met="4" type="+-">Kinder Goodje kleyn <rhyme label="b" type="f">Wichtje</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">V oock schoone Venus <rhyme label="a" type="m" corresp="#s5:l1">om</rhyme></l>
+        <l id="s5:l4" met="4" type="+-">Mijn Amaril u <rhyme label="b" type="f" corresp="#s5:l2">Nichtje</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

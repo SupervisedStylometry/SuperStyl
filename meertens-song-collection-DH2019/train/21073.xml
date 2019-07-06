@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21073</id>
+    <date>
+      <year-start>1649</year-start>
+      <year-end>1649</year-end>
+    </date>
+    <location>
+      <orginal-name>zaandam</orginal-name>
+      <standard-name>Zaandam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.4424926</lon>
+        <lat>4.8298607</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Psalm 079 Datheen</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Hendrik Jacobz. Soetenboom</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Ons hart en <rhyme label="a" type="m">ziel</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Ons' handen, mondt en <rhyme label="b" type="f">oogen</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">En ons <rhyme label="a" type="m" corresp="#s1:l1">gekniel</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">In ootmoedt <rhyme label="b" type="f" corresp="#s1:l2">neer-geboogen</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Doen eene <rhyme label="c" type="m">beed'</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Voor dese <rhyme label="d" type="f">Nieuw-getroude</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Dat ghy in <rhyme label="c" type="m" corresp="#s1:l5">vreed'</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Haer-lieden wilt <rhyme label="d" type="f" corresp="#s1:l6">behouden</rhyme>:</l>
+        <l id="s1:l9" met="3" type="-+">En datse (o groote <rhyme label="e" type="m">Godt</rhyme>!)</l>
+        <l id="s1:l10" met="3" type="-+">Gehoorsaem u <rhyme label="e" type="m" corresp="#s1:l9">gebodt</rhyme></l>
+        <l id="s1:l11" met="3" type="+-">Gestadigh hier <rhyme label="f" type="f">beleven</rhyme>,</l>
+        <l id="s1:l12" met="3" type="-+">Op dat de <rhyme label="g" type="m">saligheydt</rhyme></l>
+        <l id="s1:l13" met="3" type="-+">Hier namaels zijn <rhyme label="g" type="m" corresp="#s1:l12">bereydt</rhyme>,</l>
+        <l id="s1:l14" met="3" type="-+">O Heere! wilt dit <rhyme label="f" type="f" corresp="#s1:l11">geven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

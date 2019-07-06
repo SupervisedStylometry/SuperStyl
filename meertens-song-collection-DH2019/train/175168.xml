@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175168</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Wat ge doet of niet en <rhyme label="a" type="m">doet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Flinke jongens, knappe <rhyme label="b" type="f">meiden</rhyme>!</l>
+        <l id="s1:l3" met="4" type="+-">Laat Voorzigtigheid den <rhyme label="a" type="m" corresp="#s1:l1">Spoed</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Zachtjes bij de hand <rhyme label="b" type="f" corresp="#s1:l2">geleiden</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Maar denkt altijd, dat gij 't <rhyme label="c" type="m">Kwaad</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Haast wel nooit te langzaam <rhyme label="c" type="m" corresp="#s1:l5">laat</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Wat ge laat of niet en <rhyme label="a" type="m">laat</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Knappe deerens, flinke <rhyme label="b" type="f">knapen</rhyme>!</l>
+        <l id="s2:l3" met="4" type="+-">Haastig geef Voorzigtig <rhyme label="a" type="m" corresp="#s2:l1">raad</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Niet, bij ondeugd, in te <rhyme label="b" type="f" corresp="#s2:l2">slapen</rhyme>;</l>
+        <l id="s2:l5" met="4" type="-+">Och! denkt altijd, dat gij 't <rhyme label="c" type="m">Goed</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Haast wel nooit te langzaam <rhyme label="c" type="m" corresp="#s2:l5">doet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Wat ge laat of wat ge <rhyme label="a" type="m">doet</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Flinke jongens, knappe <rhyme label="b" type="f">meiden</rhyme>!</l>
+        <l id="s3:l3" met="4" type="+-">Zij niet sneller dan het <rhyme label="a" type="m" corresp="#s3:l1">moet</rhyme>:</l>
+        <l id="s3:l4" met="4" type="+-">Doch, wil iemand u <rhyme label="b" type="f" corresp="#s3:l2">verleiden</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Tot iets boos - zegt dàn, met <rhyme label="c" type="m">spoed</rhyme>:</l>
+        <l id="s3:l6" met="4" type="+-">‘'k Ben, voor kwaad doen, veel te <rhyme label="c" type="m" corresp="#s3:l5">goed</rhyme>!’</l>
+      </lg>
+    </lg>
+  </text>
+</song>

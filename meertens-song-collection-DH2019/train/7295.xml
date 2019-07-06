@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>7295</id>
+    <date>
+      <year-start>1630</year-start>
+      <year-end>1640</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Uw liefde kwelt mij tot de dood</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Het wasser een knaepje van <rhyme label="a" type="m">Amsterdam</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">En hy vrijde een maeghdetje <rhyme label="b" type="f">schoone</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Moy meysje seyt hyer dat yier mijn <rhyme label="a" type="m" corresp="#s1:l1">nam</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Mijn liefde kreegh jyder te <rhyme label="b" type="f" corresp="#s1:l2">loone</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Het meysje was soo doof soo’t <rhyme label="a" type="m">scheen</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Al hoorde zijt knaepje <rhyme label="b" type="f">klaghen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Zy wist niet wat hy seyde, o <rhyme label="a" type="m" corresp="#s2:l1">neen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">’t Was ’t raetelen van een <rhyme label="b" type="f" corresp="#s2:l2">waghen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Moy meysje seydt hy spreeck jy <rhyme label="a" type="m">niet</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Of acht jy ’t mijn niet <rhyme label="b" type="f">waerdigh</rhyme>?</l>
+        <l id="s3:l3" met="4" type="-+">O neen (seydt zy) dees redenen <rhyme label="a" type="m" corresp="#s3:l1">vliet</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Van onsen ooren <rhyme label="b" type="f" corresp="#s3:l2">vaerdigh</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Al spraeck jy honderdt mael daer <rhyme label="a" type="m">van</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Gheen Maeght en kan dat <rhyme label="b" type="f">hooren</rhyme>;</l>
+        <l id="s4:l3" met="4" type="-+">Sacht Coridon, sacht, gaet so niet meer <rhyme label="a" type="m" corresp="#s4:l1">an</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Ontsiet ghy gheen Crijsters <rhyme label="b" type="f" corresp="#s4:l2">tooren</rhyme>?</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Dat hoedt den Hemel, schoon <rhyme label="a" type="m">Goddin</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Sou ick u soo <rhyme label="b" type="f">misnoeghen</rhyme>:</l>
+        <l id="s5:l3" met="4" type="-+">Ick wouder veel liever mijn hert en u <rhyme label="a" type="m" corresp="#s5:l1">sin</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Door Liefd’ aen malkanderen <rhyme label="b" type="f" corresp="#s5:l2">voegen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

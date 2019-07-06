@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34575</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Paresseuse et mensongère</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Jan Mommaert</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">HOe leydt Cloris hier soo <rhyme label="a" type="f">luydtjens</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Soete Herderin', 'k ben <rhyme label="b" type="m">hier</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Droom niet op dees groene <rhyme label="a" type="f" corresp="#s1:l1">kruydtjens</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Als van Hylas en syn <rhyme label="b" type="m" corresp="#s1:l2">vier</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Siet alreed' den Hemel <rhyme label="a" type="f">cieren</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Met syn verwen dese <rhyme label="b" type="m">Bron</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Siet Auror' hier boven <rhyme label="a" type="f" corresp="#s2:l1">zwieren</rhyme>:</l>
+        <l id="s2:l4" met="4" type="+-">Maeckt u op dan lieve <rhyme label="b" type="m" corresp="#s2:l2">Son</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Siet de schaduw-bruynte <rhyme label="a" type="f">wycken</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Voor het nuchter <rhyme label="b" type="m">dauw-ghetraen</rhyme>;</l>
+        <l id="s3:l3" met="4" type="+-">Op dan, laet de lichtjens <rhyme label="a" type="f" corresp="#s3:l1">kyken</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Diër in u voorhooft <rhyme label="b" type="m" corresp="#s3:l2">staen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Voor den Zuyde-windt <rhyme label="a" type="f">versuchten</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">En het bruyssen van dees <rhyme label="b" type="m">beeck</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Wilt gy 't puytjen van haer <rhyme label="a" type="f" corresp="#s4:l1">vruchten</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Volght met my een selve <rhyme label="b" type="m" corresp="#s4:l2">streeck</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Maer o slaep, o naeste <rhyme label="a" type="f">maeghschap</rhyme></l>
+        <l id="s5:l2" met="4" type="+-">Van de doodt, waer loop' ick <rhyme label="b" type="m">he'en</rhyme>?</l>
+        <l id="s5:l3" met="4" type="+-">Dat ick soo naer myne plaegh <rhyme label="a" type="f" corresp="#s5:l1">stap</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Cloris blyft in rust <rhyme label="b" type="m" corresp="#s5:l2">alleen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Ghy gheniet dat ick <rhyme label="a" type="f">ontbeire</rhyme>,</l>
+        <l id="s6:l2" met="4" type="+-">En de rust die u <rhyme label="b" type="m">vervolght</rhyme></l>
+        <l id="s6:l3" met="4" type="+-">Schynt syn af-scheydt my te <rhyme label="a" type="f" corresp="#s6:l1">zweiren</rhyme>,</l>
+        <l id="s6:l4" met="4" type="+-">Daer ick kom zyt ghy <rhyme label="b" type="m" corresp="#s6:l2">vervolght</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">Is het soo, ick laet u <rhyme label="a" type="f">Cloris</rhyme>.</l>
+        <l id="s7:l2" met="4" type="+-">Want soo dra ick van u <rhyme label="b" type="m">ben</rhyme></l>
+        <l id="s7:l3" met="4" type="+-">Is het dat u on-rust door <rhyme label="a" type="f" corresp="#s7:l1">is</rhyme>,</l>
+        <l id="s7:l4" met="4" type="+-">Mits ick niet als on-rust <rhyme label="b" type="m" corresp="#s7:l2">ken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

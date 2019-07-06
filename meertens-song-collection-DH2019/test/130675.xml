@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>130675</id>
+    <date>
+      <year-start>1712</year-start>
+      <year-end>1712</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Hoe drijft de liefde mijn gemoed</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Hoe dryft de liefde mijn <rhyme label="a" type="m">gemoed</rhyme>!</l>
+        <l id="s1:l2" met="4" type="-+">Als   d’ Oceaan, door eb en <rhyme label="a" type="m" corresp="#s1:l1">vloed</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Of sterke winden, hare <rhyme label="b" type="f">baren</rhyme></l>
+        <l id="s1:l4" met="6" type="-+">Ziet aan het stargewelf of weêr ten afgrond <rhyme label="b" type="f" corresp="#s1:l3">varen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Dus word mijn ziel met hoop <rhyme label="c" type="m">gevleyd</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">En schynt ten Hemel <rhyme label="d" type="f">opgeheven</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Dan weder al die vreugd <rhyme label="c" type="m" corresp="#s1:l5">ontzeyd</rhyme>.</l>
+        <l id="s1:l8" met="4" type="-+">Dit dwingt me tot wanhopend <rhyme label="d" type="f" corresp="#s1:l6">leven</rhyme>:</l>
+        <l id="s1:l9" met="4" type="-+">O hoop en wanhoop t’zaam <rhyme label="e" type="m">gesmeet</rhyme>,</l>
+        <l id="s1:l10" met="4" type="-+">Wat baart g' een Minnaer <rhyme label="e" type="m" corresp="#s1:l9">hartenleet</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

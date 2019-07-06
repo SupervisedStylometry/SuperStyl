@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>178938</id>
+    <date>
+      <year-start>1866</year-start>
+      <year-end>1866</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Mijn moedertaal</melody>
+  <author>Frans de Cort</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="+-">Mijne moedertaal, mijne <rhyme label="a" type="m">moedertaal</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Wie of haar ook <rhyme label="b" type="f">Kleineere</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Min ik als mijn <rhyme label="c" type="m">vaderland</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Sta ik voor met hand en <rhyme label="c" type="m" corresp="#s1:l3">tand</rhyme>!</l>
+        <l id="s1:l5" met="4" type="+-">O mijn Neêrlandsch, ja mijn <rhyme label="d" type="m">Neêrlandsch</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Dat houd ik steeds in <rhyme label="b" type="f" corresp="#s1:l2">eere</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="+-">Mijne moedertaal, mijne <rhyme label="a" type="m">moedertaal</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Wat andre komt <rhyme label="b" type="f">daarnevens</rhyme>!</l>
+        <l id="s2:l3" met="4" type="+-">Zwaardgekletter, <rhyme label="c" type="m">klokkenklank</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Snarenspel en <rhyme label="c" type="m" corresp="#s2:l3">minnezang</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">O mijn Neêrlandsch, ja mijn <rhyme label="d" type="m">Neêrlandsch</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Dat alles zijt gij <rhyme label="b" type="f" corresp="#s2:l2">tevens</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="+-">Mijne moedertaal is de schoonste <rhyme label="a" type="m">taal</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">En zou ze 't ook niet <rhyme label="b" type="f">wezen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Haar verkiezen zou ik <rhyme label="c" type="m">nog</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Want zij is de mijne <rhyme label="c" type="m" corresp="#s3:l3">toch</rhyme>!</l>
+        <l id="s3:l5" met="4" type="+-">O mijn Neêrlandsch, ja mijn <rhyme label="d" type="m">Neêrlandsch</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Wees eeuwig mij <rhyme label="b" type="f" corresp="#s3:l2">geprezen</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

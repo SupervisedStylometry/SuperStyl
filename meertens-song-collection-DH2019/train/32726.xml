@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32726</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+    </tags>
+    <melody>Amour pardonne-moi</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O Godt van <rhyme label="a" type="m">Israel</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Hoe licht ghy hier <rhyme label="b" type="f">verworpen</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">In eenen armen <rhyme label="a" type="m" corresp="#s1:l1">stal</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Hoe licht ghy arm en <rhyme label="c" type="m">bloot</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">In druck en lijden <rhyme label="c" type="m" corresp="#s1:l4">groot</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">In d'alermeeste <rhyme label="c" type="m" corresp="#s1:l4">noot</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Die sijt den Heere van <rhyme label="a" type="m" corresp="#s1:l1">al</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ghy sucht en weent soo <rhyme label="a" type="m">seer</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Ghy schut, en beeft van <rhyme label="b" type="f">coude</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">In allen u ledekens <rhyme label="a" type="m" corresp="#s2:l1">teer</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Ghy licht hier als een <rhyme label="c" type="m">Lam</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Tusschen twee beesten <rhyme label="c" type="m" corresp="#s2:l4">tam</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Al sijt ghy hooch van <rhyme label="c" type="m" corresp="#s2:l4">stam</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Ghy worpt u hier soo <rhyme label="a" type="m" corresp="#s2:l1">neer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Waerom o lieven <rhyme label="a" type="m">Godt</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Wordt ghy aldus <rhyme label="b" type="f">bevonden</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">In d'aldermeeste <rhyme label="a" type="m" corresp="#s3:l1">pijn</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">T' is om een sondich <rhyme label="c" type="m">wicht</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Dit kindt u <rhyme label="c" type="m" corresp="#s3:l4">onderricht</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">En inde Liefde <rhyme label="c" type="m" corresp="#s3:l4">sticht</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Voor u een <rhyme label="a" type="m" corresp="#s3:l1">Medecijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

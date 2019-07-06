@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2182</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Als Garint zijn oogjes open deed</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Joan Blasius</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">CElestyn, wat reden port u, <rhyme label="a" type="m">segt</rhyme>,</l>
+        <l id="s1:l2" met="7" type="+-">Dat g'uw handen bey op mijn oogen neder <rhyme label="a" type="m" corresp="#s1:l1">legt</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">En my geheel <rhyme label="b" type="m">verblind</rhyme>?</l>
+        <l id="s1:l4" met="1" type="-+">Mijn <rhyme label="c" type="m">Son</rhyme></l>
+        <l id="s1:l5" met="1" type="-+">
+          <rhyme label="b" type="m" corresp="#s1:l3">Gemint</rhyme>
+        </l>
+        <l id="s1:l6" met="3" type="-+">Van dat ik minnen <rhyme label="c" type="m" corresp="#s1:l4">kon</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Verblind my niet <rhyme label="d" type="m">geheel</rhyme>;</l>
+        <l id="s1:l8" met="1" type="-+">Te <rhyme label="d" type="m" corresp="#s1:l7">veel</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Verdooft gy mijn <rhyme label="e" type="m">gesicht</rhyme>,</l>
+        <l id="s1:l10" met="1" type="-+">Mijn <rhyme label="e" type="m" corresp="#s1:l9">Licht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Ik bespeur, waarom gy my so <rhyme label="a" type="m">blind</rhyme>,</l>
+        <l id="s2:l2" met="7" type="+-">Gy bemerkt nu al, dat uw Liefde my <rhyme label="a" type="m" corresp="#s2:l1">verslind</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Met uw gesichje, <rhyme label="b" type="m">ja</rhyme>.</l>
+        <l id="s2:l4" met="1" type="-+">Gy <rhyme label="c" type="m">denkt</rhyme></l>
+        <l id="s2:l5" met="1" type="-+">Schoon <rhyme label="b" type="m" corresp="#s2:l3">spa</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Hoe my uw oog-licht <rhyme label="c" type="m" corresp="#s2:l4">krenkt</rhyme>.</l>
+        <l id="s2:l7" met="3" type="-+">En dat ik niet meer <rhyme label="d" type="m">mag</rhyme></l>
+        <l id="s2:l8" met="1" type="-+">Dien <rhyme label="d" type="m" corresp="#s2:l7">dag</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">Als al te swak, met <rhyme label="e" type="m">sien</rhyme></l>
+        <l id="s2:l10" met="1" type="-+"><rhyme label="e" type="m" corresp="#s2:l9">Bespien</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">Engelin, dit is de rechte <rhyme label="a" type="m">vond</rhyme>,</l>
+        <l id="s3:l2" met="7" type="+-">Gy hebt eerst mijn hart, mijn siel en mijn oog <rhyme label="a" type="m" corresp="#s3:l1">gewond</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Nu maakt gy my heel <rhyme label="b" type="m">blind</rhyme>.</l>
+        <l id="s3:l4" met="1" type="-+">Ay <rhyme label="c" type="m">my</rhyme>!</l>
+        <l id="s3:l5" met="1" type="-+">Gy <rhyme label="b" type="m" corresp="#s3:l3">vind</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Dat ik ellendig <rhyme label="c" type="m" corresp="#s3:l4">ly</rhyme>.</l>
+        <l id="s3:l7" met="3" type="-+">Ik ben nu als de <rhyme label="d" type="m">min</rhyme></l>
+        <l id="s3:l8" met="1" type="-+">Van <rhyme label="d" type="m" corresp="#s3:l7">sin</rhyme>:</l>
+        <l id="s3:l9" met="3" type="-+">De Min, als Venus <rhyme label="e" type="m">kind</rhyme>,</l>
+        <l id="s3:l10" met="1" type="-+">Is <rhyme label="e" type="m" corresp="#s3:l9">blind</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>191512</id>
+    <date>
+      <year-start>1736</year-start>
+      <year-end>1736</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Phyllis cachez vôtre beau sein</melody>
+  <author>Joannes de Lixbona</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Soetste Kindt die langen <rhyme label="a" type="m">tijdt</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Tot mijn geluck zijt in my <rhyme label="b" type="f">bleven</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">g'Hebt my soo menighmael <rhyme label="a" type="m" corresp="#s1:l1">verblijdt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Die zijt mijn vreught mijn eenigh <rhyme label="b" type="f" corresp="#s1:l2">leven</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Maer u soet aenschijn my te <rhyme label="c" type="m">seer</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Vermaeckt, o schoonsten <rhyme label="c" type="m" corresp="#s1:l5">Heer</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">U lachskens noch veel <rhyme label="c" type="m" corresp="#s1:l5">meer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Met blijschap spreeck ick u nu <rhyme label="a" type="m">aen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Op mijnen schoot van my <rhyme label="b" type="f">genomen</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Maer hoe wel dat ick wordt <rhyme label="a" type="m" corresp="#s2:l1">verstaen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Een antwoort van my wort <rhyme label="b" type="f" corresp="#s2:l2">bekomen</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Waerom houdt gy u kindt soo <rhyme label="c" type="m">in</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Dat ick op u <rhyme label="c" type="m" corresp="#s2:l5">win</rhyme>?</l>
+        <l id="s2:l7" met="3" type="-+">Maer 't is soo uwen <rhyme label="c" type="m" corresp="#s2:l5">sin</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Mijn volle borst neemt die is <rhyme label="a" type="m">goedt</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Uws Moeders die u op sal <rhyme label="b" type="f">voeden</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Gy die de Cruyden wassen <rhyme label="a" type="m" corresp="#s3:l1">doet</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Van Terf de Velden <rhyme label="b" type="f" corresp="#s3:l2">overvloeden</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Die over al het leven <rhyme label="c" type="m">geeft</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Waer van zijn oorspronck <rhyme label="c" type="m" corresp="#s3:l5">heeft</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Het melck dat gy van <rhyme label="c" type="m" corresp="#s3:l5">leeft</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

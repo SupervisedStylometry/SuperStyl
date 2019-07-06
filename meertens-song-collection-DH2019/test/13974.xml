@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13974</id>
+    <date>
+      <year-start>1670</year-start>
+      <year-end>1670</year-end>
+    </date>
+    <location>
+      <orginal-name>middelburg</orginal-name>
+      <standard-name>Middelburg, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.4997302</lon>
+        <lat>3.6136962</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Psalm 024 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">AL 't Schepsel dat op aerden <rhyme label="a" type="m">leeft</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">'t Welck daer sijn plaets en woning <rhyme label="a" type="m" corresp="#s1:l1">heeft</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Verheught sigh in de heldre <rhyme label="b" type="f">stralen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Al 't aengename <rhyme label="c" type="m">Zonne-licht</rhyme>!</l>
+        <l id="s1:l5" met="4" type="-+">En 's Hemels klaer, en schoon <rhyme label="c" type="m" corresp="#s1:l4">gesicht</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Soo lieffelijck komt neder <rhyme label="b" type="f" corresp="#s1:l3">dalen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Danck zy u Heere! voor dit <rhyme label="a" type="m">goedt</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Dat gy ons van den Hemel <rhyme label="a" type="m" corresp="#s2:l1">doet</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Gy sendt uw zegen op ons <rhyme label="b" type="f">neder</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Het veldt, met al sijn vrucht, en <rhyme label="c" type="m">kruydt</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">De hoven, boomen met haer <rhyme label="c" type="m" corresp="#s2:l4">fruyt</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Verquicken haer in 't groeyend <rhyme label="b" type="f" corresp="#s2:l3">weeder</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">O Heere! dat uw <rhyme label="a" type="m">aengesicht</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">In Jesus! 't droevig hert <rhyme label="a" type="m" corresp="#s3:l1">verlicht</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Dat zielen duysternis <rhyme label="b" type="f">verdwijne</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Bevreedight ons beroert <rhyme label="c" type="m">gemoet</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Na al 't onweeder in ons, <rhyme label="c" type="m" corresp="#s3:l4">doet</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Uw gunst en goedheyt weer <rhyme label="b" type="f" corresp="#s3:l3">verschijnen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35967</id>
+    <date>
+      <year-start>1674</year-start>
+      <year-end>1674</year-end>
+    </date>
+    <location>
+      <orginal-name>leuven</orginal-name>
+      <standard-name>Leuven, Belgium</standard-name>
+      <coordinates>
+        <lon>50.879202</lon>
+        <lat>4.7011675</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="driekoningenlied" translation="Epiphany song">driekoningenlied</tag>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">OEeuwich Godt! die in den <rhyme label="a" type="m">tyt</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Mensch om de Mensch geworden <rhyme label="a" type="m" corresp="#s1:l1">syt</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Op dat wy Goden souwen <rhyme label="b" type="f">werden</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">En eeuwelijck met u <rhyme label="b" type="f" corresp="#s1:l3">volherden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O! Salighmaker syt ghy <rhyme label="a" type="m">daer</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Verwacht meer als vyf dusent <rhyme label="a" type="m" corresp="#s2:l1">jaer</rhyme>?</l>
+        <l id="s2:l3" met="4" type="-+">O! goeden Herder syt ghy <rhyme label="b" type="f">komen</rhyme>?</l>
+        <l id="s2:l4" met="4" type="-+">De Schaepstal hebdy <rhyme label="b" type="f" corresp="#s2:l3">ingenomen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ick sien u liggen op het <rhyme label="a" type="m">hoo</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">En in de Crib, en op het <rhyme label="a" type="m" corresp="#s3:l1">stroo</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">Op dat g'heel myn gemoet sou <rhyme label="b" type="f">rusten</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">In u ô! Afgront der <rhyme label="b" type="f" corresp="#s3:l3">VVellusten</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ick hoor u suchten onder 't <rhyme label="a" type="m">pack</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Van desen sterffelijcke <rhyme label="a" type="m" corresp="#s4:l1">sack</rhyme>;</l>
+        <l id="s4:l3" met="4" type="-+">Op dat ick u soet jock sou <rhyme label="b" type="f">dragen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">En wat doen, en leeren <rhyme label="b" type="f" corresp="#s4:l3">verdragen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Maer waerom is 't dat gy soo <rhyme label="a" type="m">snaeckt</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Dat gy soo groote droef hyt <rhyme label="a" type="m" corresp="#s5:l1">maeckt</rhyme>?</l>
+        <l id="s5:l3" met="4" type="-+">O! goeden Jesus, om de <rhyme label="b" type="f">gênen</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Die haer selven nieten <rhyme label="b" type="f" corresp="#s5:l3">bewênen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">U teere leden hebben <rhyme label="a" type="m">kou</rhyme>;</l>
+        <l id="s6:l2" met="4" type="-+">Op dat ick u béminnen <rhyme label="a" type="m" corresp="#s6:l1">sou</rhyme>.</l>
+        <l id="s6:l3" met="4" type="-+">Myn ziele vat dan in u <rhyme label="b" type="f">ermen</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">En wilt dit soete Kindt <rhyme label="b" type="f" corresp="#s6:l3">verwermen</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Lief Kindt, mocht ick nu eens naer <rhyme label="a" type="m">wensch</rhyme>!</l>
+        <l id="s7:l2" met="4" type="-+">O! ware Koninck, Godt, en <rhyme label="a" type="m" corresp="#s7:l1">Mensch</rhyme>!</l>
+        <l id="s7:l3" met="4" type="-+">Mocht ick u geestelijck <rhyme label="b" type="f">bewysen</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">Die hyligh offerand' der <rhyme label="b" type="f" corresp="#s7:l3">VVysen</rhyme>!</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Maer ick! ick ben alleen, en <rhyme label="a" type="m">erm</rhyme>:</l>
+        <l id="s8:l2" met="4" type="-+">Datu Genade myns <rhyme label="a" type="m" corresp="#s8:l1">ontferm</rhyme>!</l>
+        <l id="s8:l3" met="4" type="-+">O! eenigh Leven van myn <rhyme label="b" type="f">leven</rhyme></l>
+        <l id="s8:l4" met="4" type="-+">Geef gy my, dat ick u mach <rhyme label="b" type="f" corresp="#s8:l3">geven</rhyme>:</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Een hert ô! Heere naer u <rhyme label="a" type="m">hert</rhyme>;</l>
+        <l id="s9:l2" met="4" type="-+">Een hert dat niet en is <rhyme label="a" type="m" corresp="#s9:l1">verhert</rhyme>;</l>
+        <l id="s9:l3" met="4" type="-+">Een open hert, dat <rhyme label="b" type="f">nietmetallen</rhyme></l>
+        <l id="s9:l4" met="4" type="-+">Vervull' dan gy myn Al in <rhyme label="b" type="f" corresp="#s9:l3">allen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20939</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>O Galathea mijn schoonste veldgodin</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Willem de Swaen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Gedenckt, ô Wercker onser <rhyme label="a" type="m">Saligheyt</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">(Wiens lof den Hemel, en de aerd' <rhyme label="a" type="m" corresp="#s1:l1">verbreydt</rhyme>)</l>
+        <l id="s1:l3" met="4" type="-+">Dat ghy voor desen // het eyge <rhyme label="b" type="f">wesen</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">envaert hebt van ons' slechte <rhyme label="a" type="m" corresp="#s1:l1">Mensch'lijckheyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Gedenckt, ô Heer! dat ghy gebooren <rhyme label="a" type="m">zijt</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Uyt eene Maeght, die was van sond' <rhyme label="a" type="m" corresp="#s2:l1">bevrijdt</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Die sonder smette // uw' heyl'ghe <rhyme label="b" type="f">Wette</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Trouw' onderhouden heeft ten allen <rhyme label="a" type="m" corresp="#s2:l1">tijdt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Wilt ons ontfangen op ons levens <rhyme label="a" type="m">endt</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Bevrijdt ons, Moeder! van het oud' <rhyme label="a" type="m" corresp="#s3:l1">Serpent</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">'t Welck t'allen tijden // met list, en <rhyme label="b" type="f">strijden</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Ons soeckt te brengen tot het helsch' <rhyme label="a" type="m" corresp="#s3:l1">torment</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Prijs, glory, lof, zy u, ô hoochsten <rhyme label="a" type="m">Heer</rhyme>!</l>
+        <l id="s4:l2" met="5" type="-+">Die uyt een Maeght gebooren zijt <rhyme label="a" type="m" corresp="#s4:l1">wel-eer</rhyme>.</l>
+        <l id="s4:l3" met="4" type="-+">Lof zy den Vader // wien <rhyme label="b" type="f">w'allegader</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">Met d'Heyl'gen Geest, staeghs loven meer en <rhyme label="a" type="m" corresp="#s4:l1">meer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

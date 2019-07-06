@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184312</id>
+    <date>
+      <year-start>1785</year-start>
+      <year-end>1785</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Wat is het schoon het mensdom te verplichten</melody>
+  <author>Adriaan Loosjes Pzn.</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">Kraamvrouw! veel heil! dat we u aanschouwen <rhyme label="a" type="f">mogen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Hier aan den disch in onzen <rhyme label="b" type="m">kring</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Hoe voelt ons hart zich thans tot vreugd <rhyme label="a" type="f" corresp="#s1:l1">bewoogen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Wy juichen om uw <rhyme label="b" type="m" corresp="#s1:l2">zegening</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Leef met uw man nog lang <rhyme label="c" type="m">gezond</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">In het genoeglyk <rhyme label="c" type="m" corresp="#s1:l5">Echtverbond</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

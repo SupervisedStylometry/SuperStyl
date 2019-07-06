@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2739</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>La Dauphine</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Knoddige Pan speelt op u <rhyme label="a" type="m">fluyt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Knoddige Pan speelt op u <rhyme label="a" type="m" corresp="#s1:l1">fluyt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Datmen hoor het soet <rhyme label="a" type="m" corresp="#s1:l1">geluyt</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Dryaden, <rhyme label="b" type="f">Dryaden</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Springt, en singt, en tot dees <rhyme label="c" type="m">feest</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Wilt d'ander Nymph en <rhyme label="b" type="f" corresp="#s1:l4">raden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wijl 't nu seker is een <rhyme label="a" type="m">dagh</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Wijl 't nu seker is een <rhyme label="a" type="m" corresp="#s2:l1">dagh</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Datmen vrolijck wesen <rhyme label="a" type="m" corresp="#s2:l1">mach</rhyme>:</l>
+        <l id="s2:l4" met="2" type="-+">Want heden: want <rhyme label="b" type="f">heden</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Komt ons Iager, met zijn <rhyme label="c" type="m">hert</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Verheugt, na huys <rhyme label="b" type="f" corresp="#s2:l4">gereden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wackre Meysjens wilt ook <rhyme label="a" type="m">mee</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Wackre Meysjens wilt oock <rhyme label="a" type="m" corresp="#s3:l1">mee</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">(Die vergaart zijt hier ter <rhyme label="a" type="m" corresp="#s3:l1">stee</rhyme>)</l>
+        <l id="s3:l4" met="2" type="-+">U voegen, u <rhyme label="b" type="f">voegen</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">By der soete Nymphen <rhyme label="c" type="m">Rey</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">En toonen u <rhyme label="b" type="f" corresp="#s3:l4">vernoegen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Haestlijck wilt dan hant aen <rhyme label="a" type="m">hant</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Haestlijck wilt dan hant aen <rhyme label="a" type="m" corresp="#s4:l1">hant</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">En verhit door minne <rhyme label="a" type="m" corresp="#s4:l1">brant</rhyme>,</l>
+        <l id="s4:l4" met="2" type="-+">Met hoopen, met <rhyme label="b" type="f">hoopen</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">Elck om 't schoonste <rhyme label="c" type="m">toegemaeckt</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Den Iager <rhyme label="b" type="f" corresp="#s4:l4">tegen-loopen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Roept geluckich is die <rhyme label="a" type="m">man</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Roept geluckich is die <rhyme label="a" type="m" corresp="#s5:l1">man</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Die soo seecker jagen <rhyme label="a" type="m" corresp="#s5:l1">kan</rhyme>,</l>
+        <l id="s5:l4" met="2" type="-+">God geve, God <rhyme label="b" type="f">geve</rhyme>,</l>
+        <l id="s5:l5" met="4" type="+-">Dat den, Iager met zijn <rhyme label="c" type="m">Hert</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">Veel duysent nachten <rhyme label="b" type="f" corresp="#s5:l4">leve</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19584</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+    </tags>
+    <melody>Hei hoe helder schijnt het maantje</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Thomas Fonteyn</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">GRietje Buir is zeer <rhyme label="a" type="f">verleege</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Met ‘er Dogter scheeve <rhyme label="b" type="m">Trijn</rhyme>:</l>
+        <l id="s1:l3" met="4" type="+-">Want ‘et Meisje is <rhyme label="a" type="f" corresp="#s1:l1">geneege</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Om getroude Vrou te <rhyme label="b" type="m" corresp="#s1:l2">zijn</rhyme>;</l>
+        <l id="s1:l5" met="2" type="-+">Maar Griet// en <rhyme label="c" type="m">ziet</rhyme></l>
+        <l id="s1:l6" met="3" type="+-">Nergens eenen <rhyme label="d" type="m">znaak</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Die met Trijn wil totte <rhyme label="d" type="m" corresp="#s1:l6">zaak</rhyme>.</l>
+        <l id="s1:l8" met="4" type="+-">Zen ziet, nergens eenen <rhyme label="d" type="m" corresp="#s1:l6">znaak</rhyme>;</l>
+        <l id="s1:l9" met="4" type="+-">Dies heeft Moer nog Meid <rhyme label="d" type="m" corresp="#s1:l6">vermaak</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Trijn zeid, Moertje ‘k wil een <rhyme label="a" type="f">hebben</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Moertje zeid, jou Malle <rhyme label="b" type="m">mik</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Znijt ‘em after uitmen <rhyme label="a" type="f" corresp="#s2:l1">rebben</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">En, geeft Truitje me’e een <rhyme label="b" type="m" corresp="#s2:l2">stik</rhyme>;</l>
+        <l id="s2:l5" met="2" type="-+">Wel hoe// ziet <rhyme label="c" type="m">toe</rhyme></l>
+        <l id="s2:l6" met="3" type="+-">Tot ‘er een <rhyme label="d" type="m">verschijnd</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Die met jou wil ande <rhyme label="d" type="m" corresp="#s2:l6">wijnd</rhyme>.</l>
+        <l id="s2:l8" met="4" type="+-">Zie toe// tot ‘er een <rhyme label="d" type="m" corresp="#s2:l6">verschijnd</rhyme></l>
+        <l id="s2:l9" met="4" type="+-">Die u ‘t jawoord hart <rhyme label="d" type="m" corresp="#s2:l6">afpijnd</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Holla Moertje, moet ik <rhyme label="a" type="f">wachten</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Zy we’er tot ‘et iemand <rhyme label="b" type="m">vraagd</rhyme>:</l>
+        <l id="s3:l3" met="4" type="+-">Zoo en raaken dan mijn <rhyme label="a" type="f" corresp="#s3:l1">nachten</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Nimmer heene <rhyme label="b" type="m" corresp="#s3:l2">onbeklaagd</rhyme>.</l>
+        <l id="s3:l5" met="2" type="-+">Mijn hart// dat <rhyme label="c" type="m">zmart</rhyme></l>
+        <l id="s3:l6" met="3" type="+-">Als ik eenig <rhyme label="d" type="m">slaap</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Dat ik na men aessem <rhyme label="d" type="m" corresp="#s3:l6">gaep</rhyme>.</l>
+        <l id="s3:l8" met="4" type="+-">Ik zmart, als ik eenig <rhyme label="d" type="m" corresp="#s3:l6">slaap</rhyme>,</l>
+        <l id="s3:l9" met="4" type="+-">En geen Minnevrugten <rhyme label="d" type="m" corresp="#s3:l6">raap</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">‘Tis zo zoet dat <rhyme label="a" type="f">zollebollen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Zeime lestend Ianooms <rhyme label="b" type="m">zeun</rhyme>:</l>
+        <l id="s4:l3" met="4" type="+-">Gut zeid hy dat <rhyme label="a" type="f" corresp="#s4:l1">tollerollen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Is zo uittermaat een <rhyme label="b" type="m" corresp="#s4:l2">Deun</rhyme>;</l>
+        <l id="s4:l5" met="2" type="-+">Wel Trijn// kan ‘t <rhyme label="c" type="m">zijn</rhyme></l>
+        <l id="s4:l6" met="3" type="+-">Geef u totte <rhyme label="d" type="m">trou</rhyme>,</l>
+        <l id="s4:l7" met="4" type="+-">Haat ‘et Vrijstre; word een <rhyme label="d" type="m" corresp="#s4:l6">Vrou</rhyme>.</l>
+        <l id="s4:l8" met="4" type="+-">Kant zijn, geeft u totte <rhyme label="d" type="m" corresp="#s4:l6">Trou</rhyme>,</l>
+        <l id="s4:l9" met="4" type="+-">‘K zei, ik mag wel, wen ik <rhyme label="d" type="m" corresp="#s4:l6">wou</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">En ik hebbe juist <rhyme label="a" type="f">gelogen</rhyme></l>
+        <l id="s5:l2" met="4" type="+-">Moertje, en, dat doetmee <rhyme label="b" type="m">zeer</rhyme>:</l>
+        <l id="s5:l3" met="4" type="+-">Heb met ziekke <rhyme label="a" type="f" corresp="#s5:l1">mededoogen</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Geeff mijn leugens warrit <rhyme label="b" type="m" corresp="#s5:l2">we’er</rhyme></l>
+        <l id="s5:l5" met="2" type="-+">Een Knegt// ei <rhyme label="c" type="m">zegt</rhyme>?</l>
+        <l id="s5:l6" met="3" type="+-">Weetge daar niet <rhyme label="d" type="m">by</rhyme></l>
+        <l id="s5:l7" met="4" type="+-">Fluks te kome aan zen <rhyme label="d" type="m" corresp="#s5:l6">zy</rhyme>.</l>
+        <l id="s5:l8" met="4" type="+-">Ei zegt, weetje daar wel <rhyme label="d" type="m" corresp="#s5:l6">by</rhyme></l>
+        <l id="s5:l9" met="4" type="+-">Haast te raake, doet ‘et <rhyme label="d" type="m" corresp="#s5:l6">vry</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

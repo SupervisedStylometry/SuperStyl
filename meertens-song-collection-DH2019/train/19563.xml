@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19563</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>O kostelijke tijd</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Thomas Fonteyn</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O Weereld! vol <rhyme label="a" type="m">bedrog</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Hoe ben  ik nu <rhyme label="b" type="f">bedrogen</rhyme>:</l>
+        <l id="s1:l3" met="3" type="-+">Want onlanks speelde <rhyme label="a" type="m" corresp="#s1:l1">nog</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Tgeflonker inmen <rhyme label="b" type="f" corresp="#s1:l2">oogen</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Van haar// van <rhyme label="c" type="m">haar</rhyme>.</l>
+        <l id="s1:l6" met="5" type="-+">Die my ‘er gunst bewees in’t <rhyme label="c" type="m" corresp="#s1:l5">openbaar</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Maar nu ist heel <rhyme label="a" type="m">verkeerd</rhyme>:</l>
+        <l id="s2:l2" met="3" type="-+">Want voor ‘er <rhyme label="b" type="f">minnegluiren</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Word alledaag <rhyme label="a" type="m" corresp="#s2:l1">vermeerd</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">De nortzheid, en ‘er <rhyme label="b" type="f" corresp="#s2:l2">kuiren</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">Tot my// tot <rhyme label="c" type="m">my</rhyme>.</l>
+        <l id="s2:l6" met="5" type="-+">Ik worde roet geschaft, voor <rhyme label="c" type="m" corresp="#s2:l5">lekkerni</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Ha! wreed’ en straffe <rhyme label="a" type="m">Maagd</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Hoe lang heeft nu mijn <rhyme label="b" type="f">lijden</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">U teere ziel <rhyme label="a" type="m" corresp="#s3:l1">behaagd</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Gekoesterd met <rhyme label="b" type="f" corresp="#s3:l2">verblijden</rhyme>?</l>
+        <l id="s3:l5" met="2" type="-+">Ai zeg// ai <rhyme label="c" type="m">zeg</rhyme>?</l>
+        <l id="s3:l6" met="5" type="-+">En laat met een dien boos’ en zlimmen <rhyme label="c" type="m" corresp="#s3:l5">weg</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Draagd Liefd’ en zuivre <rhyme label="a" type="m">Minn</rhyme>’,</l>
+        <l id="s4:l2" met="3" type="-+">Zy zalje niet <rhyme label="b" type="f">verveelen</rhyme>;</l>
+        <l id="s4:l3" met="3" type="-+">En word mijn <rhyme label="a" type="m" corresp="#s4:l1">Zyvriendinn</rhyme>’,</l>
+        <l id="s4:l4" met="3" type="-+">Wy zullen zoetjes <rhyme label="b" type="f" corresp="#s4:l2">streelen</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">De le’en// de <rhyme label="c" type="m">le’en</rhyme>,</l>
+        <l id="s4:l6" met="5" type="-+">Wen zy door tweeheid zijn geworden <rhyme label="c" type="m" corresp="#s4:l5">een</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Die Liefde draagt leeft <rhyme label="a" type="m">zoet</rhyme>.</l>
+        <l id="s5:l2" met="3" type="-+">Die nijdig woeld woeld <rhyme label="b" type="f">quelling</rhyme>;</l>
+        <l id="s5:l3" met="3" type="-+">Zoet geeft een goet <rhyme label="a" type="m" corresp="#s5:l1">gemoed</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">En quelling baard <rhyme label="b" type="f" corresp="#s5:l2">ontstelling</rhyme>.</l>
+        <l id="s5:l5" met="2" type="-+">Mijn hart// mijn <rhyme label="c" type="m">hart</rhyme></l>
+        <l id="s5:l6" met="5" type="-+">Bedenk u wel, en licht mijn grote <rhyme label="c" type="m" corresp="#s5:l5">zmart</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

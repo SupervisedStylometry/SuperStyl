@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176307</id>
+    <date>
+      <year-start>1719</year-start>
+      <year-end>1719</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="zeemanslied" translation="sailor's song">zeemanslied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="work">werk</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Gy Ionckmans hoort mijn reden <rhyme label="a" type="m">aen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Luystert na mijn <rhyme label="b" type="f">verklaren</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Hoe dat ick letstmael ben <rhyme label="a" type="m" corresp="#s1:l1">gegaen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Voor ses of seven <rhyme label="b" type="f" corresp="#s1:l2">Iaren</rhyme>;</l>
+        <l id="s1:l5" met="4" type="+-">Ick verliet mijn <rhyme label="c" type="m">Patria</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Want ick was genegen <rhyme label="c" type="m" corresp="#s1:l5">dra</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Om t’aenschouwen ‘t Rijck <rhyme label="c" type="m" corresp="#s1:l5">Asia</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Behouden quam ick daer in ‘t <rhyme label="a" type="m">Land</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Met Goudesteyn <rhyme label="b" type="f">verheven</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Daer ick veel speculatie <rhyme label="a" type="m" corresp="#s2:l1">vand</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">‘k Vergeet het noit mijn <rhyme label="b" type="f" corresp="#s2:l2">leven</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Ick sag meenig jonge <rhyme label="c" type="m">vent</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Loopen met Swartinnen <rhyme label="c" type="m" corresp="#s2:l5">jent</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Die sy hielden voor een <rhyme label="c" type="m" corresp="#s2:l5">present</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Maer ick verfoeyden dit <rhyme label="a" type="m">geslacht</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Ick hiel my als de <rhyme label="b" type="f">vroomen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Tot dat ick mijn tijd <rhyme label="a" type="m" corresp="#s3:l1">volbragt</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">En ben weder <rhyme label="b" type="f" corresp="#s3:l2">gekomen</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">In mijn Vaderlant seer <rhyme label="c" type="m">schoon</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Daer sag ick meysjes ten <rhyme label="c" type="m" corresp="#s3:l5">toon</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Boven Swartins spannen sy de <rhyme label="c" type="m" corresp="#s3:l5">kroon</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Als ick in Zeelant binnen <rhyme label="a" type="m">quam</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">So trok ik uyt <rhyme label="b" type="f">playsieren</rhyme>;</l>
+        <l id="s4:l3" met="4" type="-+">Ick nam mijn reys na <rhyme label="a" type="m" corresp="#s4:l1">Amsterdam</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Daer raeckten ick aen ‘t <rhyme label="b" type="f" corresp="#s4:l2">zwieren</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">Met een Meysje huys en <rhyme label="c" type="m">fijn</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">‘t Moest een Venus diertje <rhyme label="c" type="m" corresp="#s4:l5">zijn</rhyme>,</l>
+        <l id="s4:l7" met="4" type="+-">Want sy mogt soopjes en koele <rhyme label="c" type="m" corresp="#s4:l5">wijn</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Sy brogt my daer in een <rhyme label="a" type="m">spelonck</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">De naem is my <rhyme label="b" type="f">vergeeten</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Phijool en Bas daer lustigh <rhyme label="a" type="m" corresp="#s5:l1">klonck</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Wy bennen neer <rhyme label="b" type="f" corresp="#s5:l2">geseten</rhyme>,</l>
+        <l id="s5:l5" met="4" type="+-">En wy droncken lustigh <rhyme label="c" type="m">aen</rhyme>,</l>
+        <l id="s5:l6" met="4" type="+-">Maer de wijn heeft my <rhyme label="c" type="m" corresp="#s5:l5">bevaen</rhyme>:</l>
+        <l id="s5:l7" met="4" type="+-">Och hoort hoe het my is <rhyme label="c" type="m" corresp="#s5:l5">vergaen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Den Hospes was een loense <rhyme label="a" type="m">gast</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">Met sijn geselschap <rhyme label="b" type="f">mede</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Sy hebben my in den slaep <rhyme label="a" type="m" corresp="#s6:l1">verrast</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">En gingen my <rhyme label="b" type="f" corresp="#s6:l2">ontkleeden</rhyme>,</l>
+        <l id="s6:l5" met="4" type="+-">Doe droegen sy my met alle <rhyme label="c" type="m">man</rhyme>,</l>
+        <l id="s6:l6" met="4" type="+-">Over de straet daer veer van <rhyme label="c" type="m" corresp="#s6:l5">daen</rhyme>,</l>
+        <l id="s6:l7" met="4" type="+-">En ick eylacy wist nergens <rhyme label="c" type="m" corresp="#s6:l5">van</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">De koude my ontwaecken <rhyme label="a" type="m">deed</rhyme>’,</l>
+        <l id="s7:l2" met="3" type="-+">Ick opende mijn <rhyme label="b" type="f">oogen</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Want ik was in mijn <rhyme label="a" type="m" corresp="#s7:l1">onder-kleed</rhyme>,</l>
+        <l id="s7:l4" met="3" type="-+">Dus vond ick my <rhyme label="b" type="f" corresp="#s7:l2">bedroogen</rhyme>,</l>
+        <l id="s7:l5" met="4" type="+-">‘k Riep al meysje hoe is <rhyme label="c" type="m">dit</rhyme>,</l>
+        <l id="s7:l6" met="4" type="+-">Dat men hier so duyster <rhyme label="c" type="m" corresp="#s7:l5">sit</rhyme>,</l>
+        <l id="s7:l7" met="4" type="+-">Maer ick lag op straet in plaets van de <rhyme label="c" type="m" corresp="#s7:l5">kit</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Oorlof neemt hier exempel <rhyme label="a" type="m">aen</rhyme>,</l>
+        <l id="s8:l2" met="3" type="-+">Gy gasten die dit <rhyme label="b" type="f">hooren</rhyme>,</l>
+        <l id="s8:l3" met="4" type="-+">Ik moest naekt na huys toe <rhyme label="a" type="m" corresp="#s8:l1">gaen</rhyme>,</l>
+        <l id="s8:l4" met="3" type="-+">Noch wierd ick braef <rhyme label="b" type="f" corresp="#s8:l2">geschooren</rhyme>,</l>
+        <l id="s8:l5" met="4" type="+-">Daerom een yder voor hem <rhyme label="c" type="m">siet</rhyme>,</l>
+        <l id="s8:l6" met="4" type="+-">So komt gy niet in ‘t <rhyme label="c" type="m" corresp="#s8:l5">verdriet</rhyme>,</l>
+        <l id="s8:l7" met="4" type="+-">Als my door dronckenschap is <rhyme label="c" type="m" corresp="#s8:l5">geschied</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

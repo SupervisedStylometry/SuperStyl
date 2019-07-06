@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111501</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Allemande Ik prees weleer</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WEg Clorimeen, die my <rhyme label="a" type="m">voorheen</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Dagt door uw gunst te lokken in uw <rhyme label="b" type="m">knip</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Weg Clorenie, Want ik <rhyme label="c" type="m">ontvlie</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Uw schoonheyd, als een <rhyme label="b" type="m" corresp="#s1:l2">Klip</rhyme>.</l>
+        <l id="s1:l5" met="2" type="-+">Weg, Phillis, <rhyme label="d" type="m">weg</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Schoon dat gy my voor desen hebt <rhyme label="e" type="m">bekoord</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">'k Wierd noyt van uw <rhyme label="e" type="m" corresp="#s1:l6">verhoord</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Des is myn min <rhyme label="e" type="m" corresp="#s1:l6">gesmoord</rhyme>:</l>
+        <l id="s1:l9" met="2" type="+-">Weg, Phillis, <rhyme label="d" type="m" corresp="#s1:l5">weg</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">Myn Lieve Cloris <rhyme label="f" type="m">die</rhyme></l>
+        <l id="s1:l11" met="3" type="-+">Behaald van de prys van <rhyme label="f" type="m" corresp="#s1:l10">drie</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Haar lief gesigt Geeft soeter <rhyme label="a" type="m">ligt</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Dan Phoebus lief aan 's Hemel 's klaren <rhyme label="b" type="m">trans</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Een lonkje van Myn Cloris <rhyme label="c" type="m">kan</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Verdoven al die <rhyme label="b" type="m" corresp="#s2:l2">glans</rhyme>.</l>
+        <l id="s2:l5" met="2" type="-+">Weg <rhyme label="d" type="m">altemael</rhyme>.</l>
+        <l id="s2:l6" met="5" type="-+">Myn Cloris, die behoud alleen het <rhyme label="e" type="m">Veld</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">'k Ben heel in haar <rhyme label="e" type="m" corresp="#s2:l6">Geweld</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Uw magt is <rhyme label="e" type="m" corresp="#s2:l6">neergeveld</rhyme>:</l>
+        <l id="s2:l9" met="2" type="+-">Weg, <rhyme label="d" type="m" corresp="#s2:l5">altemaal</rhyme>,</l>
+        <l id="s2:l10" met="3" type="-+">Myn Cloris, myn <rhyme label="f" type="m">Godin</rhyme>,</l>
+        <l id="s2:l11" met="3" type="-+">Beheerst alleen myn <rhyme label="f" type="m" corresp="#s2:l10">Sin</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100249</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Ach Belinde</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">ZEg my eens myn <rhyme label="a" type="f">Rozandryntje</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Waarom gy uw glansryk <rhyme label="b" type="m">licht</rhyme>.</l>
+        <l id="s1:l3" met="4" type="+-">(Dat lief Hemels <rhyme label="a" type="f" corresp="#s1:l1">zonneschyntje</rhyme>)</l>
+        <l id="s1:l4" met="4" type="+-">Zo verbergt voor myn <rhyme label="b" type="m" corresp="#s1:l2">gezicht</rhyme>?</l>
+        <l id="s1:l5" met="4" type="+-">Hebben, door haar lonkend' <rhyme label="c" type="f">vlyen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">U myne oogen iets <rhyme label="d" type="m">misdaan</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Met op uwen glans te <rhyme label="c" type="f" corresp="#s1:l5">wyen</rhyme>?</l>
+        <l id="s1:l8" met="4" type="+-">Ach! wat onheil gaat my <rhyme label="d" type="m" corresp="#s1:l6">aan</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Wel, schoon gy uw vrind'lyk <rhyme label="a" type="f">wezen</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Staag van myn gezicht <rhyme label="b" type="m">afwend</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Uwe lonkjes, lang voor <rhyme label="a" type="f" corresp="#s2:l1">deezen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Staan my vast in 't hert <rhyme label="b" type="m" corresp="#s2:l2">geprent</rhyme>:</l>
+        <l id="s2:l5" met="4" type="+-">Daar uw Schoonheid, klaar naar 't <rhyme label="c" type="f">leven</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Steeds door my bespiegelt <rhyme label="d" type="m">werd</rhyme>:</l>
+        <l id="s2:l7" met="4" type="+-">Zo blyft gy (die my <rhyme label="c" type="f" corresp="#s2:l5">begeven</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Wilt) vereeuwigt in myn <rhyme label="d" type="m" corresp="#s2:l6">hert</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

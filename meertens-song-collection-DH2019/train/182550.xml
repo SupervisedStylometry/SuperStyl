@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182550</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Hendrik Riemsnijder</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">Een vriend, die my getrouw tot eenen spiegel <rhyme label="a" type="m">strekt</rhyme>,</l>
+        <l id="s1:l2" met="6" type="+-">En myn' souten, en myn' souten niet <rhyme label="a" type="m" corresp="#s1:l1">bedekt</rhyme>;</l>
+        <l id="s1:l3" met="3" type="+-">Die my vry durst <rhyme label="b" type="f">doemen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Wanneer myn pligt <rhyme label="c" type="m">bezwykt</rhyme>:</l>
+        <l id="s1:l5" met="3" type="-+">Is waarlyk vriend te <rhyme label="b" type="f" corresp="#s1:l3">noemen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Schoon hy geen vriend <rhyme label="c" type="m" corresp="#s1:l4">gelykt</rhyme>.</l>
+        <l id="s1:l7" met="3" type="-+">Schoon hy geen vriend <rhyme label="c" type="m" corresp="#s1:l4">gelykt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Maar hy, die my steeds vleit, en nimmer iets <rhyme label="a" type="m">verwyst</rhyme>,</l>
+        <l id="s2:l2" met="6" type="+-">En myn' woorden en myn' daaden altoos <rhyme label="a" type="m" corresp="#s2:l1">pryst</rhyme>;</l>
+        <l id="s2:l3" met="3" type="+-">Die me ontheft van <rhyme label="b" type="f">klagten</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Eer' myn berouw nog <rhyme label="c" type="m">blykt</rhyme>:</l>
+        <l id="s2:l5" met="3" type="-+">Is eenen vyand te <rhyme label="b" type="f" corresp="#s2:l3">achten</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Hoe vriend'lyk hy <rhyme label="c" type="m" corresp="#s2:l4">gelykt</rhyme>.</l>
+        <l id="s2:l7" met="3" type="-+">Hoe vriendlyk hy <rhyme label="c" type="m" corresp="#s2:l4">gelykt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

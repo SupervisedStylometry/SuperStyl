@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174597</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="meilied" translation="May song">meilied</tag>
+    </tags>
+    <melody>Voelt ge wel de koeltjes zweven</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Voelt ge wel de koeltjes <rhyme label="a" type="f">zweven</rhyme>;</l>
+        <l id="s1:l2" met="4" type="-+">Riekt ge wel den zoeten <rhyme label="b" type="m">geur</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">Kindertjes! dat is een <rhyme label="a" type="f" corresp="#s1:l1">leven</rhyme>!</l>
+        <l id="s1:l4" met="4" type="-+">Lente staat weêr voor de <rhyme label="b" type="m" corresp="#s1:l2">deur</rhyme>:</l>
+        <l id="s1:l5" met="4" type="+-">Laat haar binnen, laat haar <rhyme label="c" type="f">binnen</rhyme>;</l>
+        <l id="s1:l6" met="4" type="-+">Lentelief, die wij <rhyme label="c" type="f" corresp="#s1:l5">beminnen</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hoort ge wel dat slepend <rhyme label="a" type="f">fluiten</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Dat door alle vensters <rhyme label="b" type="m">dringt</rhyme>?</l>
+        <l id="s2:l3" met="4" type="-+">Nachtegaaltje slaat <rhyme label="a" type="f" corresp="#s2:l1">daarbuiten</rhyme>;</l>
+        <l id="s2:l4" met="4" type="-+">Hoort, hoe zuiver dat hij <rhyme label="b" type="m" corresp="#s2:l2">zingt</rhyme>!</l>
+        <l id="s2:l5" met="4" type="+-">Laat hem binnen, laat hem <rhyme label="c" type="f">binnen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">'t Zangertje, dat wij <rhyme label="c" type="f" corresp="#s2:l5">beminnen</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Neen! zet deur en venster <rhyme label="a" type="f">open</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Hangt aan kapstok hoed en <rhyme label="b" type="m">jas</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Máár - om prettig vrij te <rhyme label="a" type="f" corresp="#s3:l1">loopen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Door het frissche, malsche <rhyme label="b" type="m" corresp="#s3:l2">gras</rhyme>:</l>
+        <l id="s3:l5" met="4" type="+-">Lente! toef nog, kom niet <rhyme label="c" type="f">binnen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Buiten zullen we u <rhyme label="c" type="f" corresp="#s3:l5">beminnen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

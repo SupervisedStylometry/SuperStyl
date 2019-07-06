@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4338</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Wijl het ene lustje met stroken en sollen</melody>
+  <author>Pieter Dubbels</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">VVIjl't ene lusje, met stroken en <rhyme label="a" type="f">sollen</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">'t Andere kipte liet mijn schoone, <rhyme label="b" type="m">ontwaakt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Uit hare mont deze lettertjes <rhyme label="a" type="f" corresp="#s1:l1">rollen</rhyme>:</l>
+        <l id="s1:l4" met="4" type="+-">VVie heeft de rant van mijn lippen <rhyme label="b" type="m" corresp="#s1:l2">geraakt</rhyme>?</l>
+        <l id="s1:l5" met="4" type="+-">'k Voel, door het kussen, mijn hartjen <rhyme label="c" type="f">onttogen</rhyme>;</l>
+        <l id="s1:l6" met="4" type="+-">VVaar schuilt het Diefjen? haar reen naauw <rhyme label="d" type="m">gespelt</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Quam ik van afteren d'elzen <rhyme label="c" type="f" corresp="#s1:l5">gevlogen</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Entrend' haar schootje met strelend' <rhyme label="d" type="m" corresp="#s1:l6">gewelt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

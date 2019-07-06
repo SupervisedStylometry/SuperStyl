@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175201</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Stapje voor stapje, dat vordert <rhyme label="a" type="m">toch</rhyme>:</l>
+        <l id="s1:l2" met="4" type="+-">Denk het in 't goede, denk het in 't <rhyme label="b" type="f">kwade</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Denk het bij voordeel, denk het bij <rhyme label="b" type="f" corresp="#s1:l2">schade</rhyme>:</l>
+        <l id="s1:l4" met="4" type="+-">Meestal, mê-jongen, vergat gij het <rhyme label="a" type="m" corresp="#s1:l1">nog</rhyme>!</l>
+        <l id="s1:l5" met="4" type="+-">Vliegen of stilstaan... gij kent maar geen <rhyme label="c" type="f">midden</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Wat ik moog' praten en raden en <rhyme label="c" type="f" corresp="#s1:l5">bidden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Drupje voor drupje, waar 't vallen <rhyme label="a" type="m">kan</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Maakt wel een kuiltjen in 't hart van de <rhyme label="b" type="f">steenen</rhyme>;</l>
+        <l id="s2:l3" met="4" type="+-">Gudst er het nat in een' stroom <rhyme label="b" type="f" corresp="#s2:l2">overhenen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Och, het loopt weg en gij ziet er niet <rhyme label="a" type="m" corresp="#s2:l1">van</rhyme>;</l>
+        <l id="s2:l5" met="4" type="+-">Daarom bedenk het, bij al uw <rhyme label="c" type="f">beginnen</rhyme>:</l>
+        <l id="s2:l6" met="4" type="+-">Sparen doet gâren... wie volhoudt, moet <rhyme label="c" type="f" corresp="#s2:l5">winnen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>7804</id>
+    <date>
+      <year-start>1615</year-start>
+      <year-end>1615</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="paaslied" translation="Easter song">paaslied</tag>
+    </tags>
+    <melody>Ad cenam agni providi</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WY wil len CHRISTO onsen <rhyme label="a" type="m">HEER</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Een Vrueghd-Liedt singen t'zijner <rhyme label="a" type="m" corresp="#s1:l1">Eer</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">'SLams Avond-maal doch niet <rhyme label="b" type="m">veracht</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Nu wy door t'Roo Meyr sijn <rhyme label="b" type="m" corresp="#s1:l3">gebraght</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Zijn Lijff aan't Cruys genagelt <rhyme label="a" type="m">is</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Zijn Bloedt wordt ons Ziels <rhyme label="a" type="m" corresp="#s2:l1">lafenis</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Ons Troost-Verbondt hy heeft <rhyme label="b" type="m">gemaackt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Daar door den Mensch ten Hemel <rhyme label="b" type="m" corresp="#s2:l3">raackt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ons Pasch-Lam CHRISTVS is <rhyme label="a" type="m">gedoodt</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">(O heyligh on-gesuyrde <rhyme label="a" type="m" corresp="#s3:l1">Broodt</rhyme>)</l>
+        <l id="s3:l3" met="4" type="-+">Zijn Vleysch ons spijst, zijn Bloedt ons <rhyme label="b" type="m">drenckt</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Daar door ons GODT den Hemel <rhyme label="b" type="m" corresp="#s3:l3">schenckt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Vyt 'tGraff dien HELDT rijst wel <rhyme label="a" type="m">gemoedt</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Zijn Viandt smijt hy onder <rhyme label="a" type="m" corresp="#s4:l1">voet</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">Waar hy hem keert behaalt hy <rhyme label="b" type="m">prijs</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">En opent ons het <rhyme label="b" type="m" corresp="#s4:l3">Paradijs</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">GODTS VADER op dit <rhyme label="a" type="m">Paschen-Feest</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">'SDOODS crachten breeckt door uwen <rhyme label="a" type="m" corresp="#s5:l1">GEEST</rhyme>.</l>
+        <l id="s5:l3" met="4" type="-+">Met uwen Soon gelovet <rhyme label="b" type="m">sijt</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Hier, en hier na tot aller <rhyme label="b" type="m" corresp="#s5:l3">tijdt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

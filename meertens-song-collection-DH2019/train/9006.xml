@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>9006</id>
+    <date>
+      <year-start>1625</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Allein zu dir Herr Jesu Christ</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ALleyn tot dy HEer JEsu <rhyme label="a" type="m">Christ</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Myn Hoping' staet op <rhyme label="b" type="f">Aerden</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Want ghy alleyn myn Trooster <rhyme label="a" type="m" corresp="#s1:l1">bist</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Anders can my gheen <rhyme label="b" type="f" corresp="#s1:l2">weerden</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Van Aenbegin is nichts <rhyme label="c" type="m">vercooren</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Op Aerden was niemandt <rhyme label="c" type="m" corresp="#s1:l5">gheboor'n</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Die my wt Nooden helpen <rhyme label="d" type="m">kan</rhyme>,</l>
+        <l id="s1:l8" met="3" type="+-">Dies Roep ick u <rhyme label="d" type="m" corresp="#s1:l7">aen</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Op dien al mijn Vertrouwen <rhyme label="d" type="m" corresp="#s1:l7">staen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Mijn Sonden veel end over <rhyme label="a" type="m">swaer</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Berouwen my van <rhyme label="b" type="f">Herten</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Die selve maeckt my quijt <rhyme label="a" type="m" corresp="#s2:l1">All'gaer</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Door dijnen Doot end <rhyme label="b" type="f" corresp="#s2:l2">smerten</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">End thoont by dijnen Vader <rhyme label="c" type="m">aen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Dat ghy g'noech voor my hebt <rhyme label="c" type="m" corresp="#s2:l5">gedaen</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">So word' ick quijt der Sonden <rhyme label="d" type="m">Last</rhyme>,</l>
+        <l id="s2:l8" met="3" type="+-">HEEre houdt my <rhyme label="d" type="m" corresp="#s2:l7">ras</rhyme>,</l>
+        <l id="s2:l9" met="4" type="-+">Wat ghy my hebt belovet <rhyme label="d" type="m" corresp="#s2:l7">vast</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Geeft my door dijn <rhyme label="a" type="m">Barmherticheyt</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Dat recht Christlijck <rhyme label="b" type="f">Vertrouwen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Op dat ick dijne <rhyme label="a" type="m" corresp="#s3:l1">soeticheyt</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Mach in den Gheest <rhyme label="b" type="f" corresp="#s3:l2">Aenschouwen</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Voor allen Dinghen Lieven <rhyme label="c" type="m">dy</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">End mynen naesten g'lijck als <rhyme label="c" type="m" corresp="#s3:l5">my</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Aen mynen Eynd' dijn Hulp my <rhyme label="d" type="m">seynd'</rhyme>,</l>
+        <l id="s3:l8" met="3" type="+-">Op dat <rhyme label="d" type="m" corresp="#s3:l7">ongheschent</rhyme></l>
+        <l id="s3:l9" met="4" type="-+">Des Duyvels List hem van my <rhyme label="d" type="m" corresp="#s3:l7">weynt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

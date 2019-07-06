@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2101</id>
+    <date>
+      <year-start>1674</year-start>
+      <year-end>1674</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bijbels historielied" translation="biblical history song">Bijbels historielied</tag>
+    </tags>
+    <melody>Courante simple</melody>
+    <categories/>
+  <author>Daniel Bellemans</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">AL hadd' den Koningh <rhyme label="a" type="m">Salomon</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Al dat-men hebben kan onder de <rhyme label="a" type="m" corresp="#s1:l1">Son</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Al hadd' hy een Paleys naer synen <rhyme label="b" type="m">eys</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Met eenen Hof ghelyck een <rhyme label="b" type="m" corresp="#s1:l3">Paradys</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Al was hy Edel, schoon, en <rhyme label="a" type="m">ryck</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Al hadd' hy silver ende goudt als <rhyme label="a" type="m" corresp="#s2:l1">slyck</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Al hadd' hy 't puyck van 't <rhyme label="b" type="m">Vrouwelyck-gheslacht</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Al wirdt hy voor den grootsten Vorst <rhyme label="b" type="m" corresp="#s2:l3">gheacht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Al hiel hy Maeltydt met <rhyme label="a" type="m">musieck</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Nochtans was syn ghemoedt <rhyme label="a" type="m" corresp="#s3:l1">melancolieck</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">In al syn wellust heeft den Vorst <rhyme label="b" type="m">gheseydt</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Het is al ydelheydt der <rhyme label="b" type="m" corresp="#s3:l3">ydelheydt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">In Godt alleen vind' ick myn' <rhyme label="a" type="m">rust</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Myn volle vreught, en mynen vollen <rhyme label="a" type="m" corresp="#s4:l1">lust</rhyme>:</l>
+        <l id="s4:l3" met="5" type="-+">Den rycksten man blyft ydel van <rhyme label="b" type="m">ghemoedt</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">'t En zy dat hem den Heer' vervult met <rhyme label="b" type="m" corresp="#s4:l3">goedt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">O mynen Godt, en mynen <rhyme label="a" type="m">Al</rhyme></l>
+        <l id="s5:l2" met="5" type="-+">'k En wensch niet meer in dit droef <rhyme label="a" type="m" corresp="#s5:l1">tranen-dal</rhyme>,</l>
+        <l id="s5:l3" met="5" type="-+">Als uwe liefde alder-liefsten <rhyme label="b" type="m">Heer</rhyme>;</l>
+        <l id="s5:l4" met="5" type="-+">Gheeft my uw' liefde Heer, en dan niet <rhyme label="b" type="m" corresp="#s5:l3">meer</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Ick ben de vreught des Wereldts <rhyme label="a" type="m">mu</rhyme>,</l>
+        <l id="s6:l2" met="5" type="-+">'k En soeck noch lust noch wellust als in <rhyme label="a" type="m" corresp="#s6:l1">u</rhyme>:</l>
+        <l id="s6:l3" met="5" type="-+">Al 't goedt ô Heer dat ghy niet self en <rhyme label="b" type="m">zyt</rhyme>,</l>
+        <l id="s6:l4" met="5" type="-+">En is maer ydelheydt der <rhyme label="b" type="m" corresp="#s6:l3">ydelheydt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

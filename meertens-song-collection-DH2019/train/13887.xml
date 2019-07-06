@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13887</id>
+    <date>
+      <year-start>1646</year-start>
+      <year-end>1646</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="stotterlied" translation="stutter song">stotterlied</tag>
+    </tags>
+    <melody>Tous les soldats de France</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">HA wreede <rhyme label="a" type="f">Wijve-smijter</rhyme>!</l>
+        <l id="s1:l2" met="3" type="-+">Die my de, de, de, de, deerlijck <rhyme label="b" type="m">plaeght</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Io, jo, jou vuyle <rhyme label="a" type="f" corresp="#s1:l1">Grijnebijter</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Denckt eens wa, wa, wa, was, watse <rhyme label="b" type="m" corresp="#s1:l2">draeght</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Die jy met sulcke <rhyme label="c" type="f">klouwen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">So dapper hort en <rhyme label="d" type="m">stoot</rhyme>:</l>
+        <l id="s1:l7" met="3" type="-+">Wil jy je rust niet <rhyme label="c" type="f" corresp="#s1:l5">houwen</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">So raeck ick se, se, se, se, seper <rhyme label="d" type="m" corresp="#s1:l6">doot</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Iou eervergheten <rhyme label="a" type="f">Funne</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Guyt, en deu, deu, deu, deu, <rhyme label="b" type="m">deugheniet</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Sa, sa, sal ick dan nimmer <rhyme label="a" type="f" corresp="#s2:l1">kunne</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Eens ko, ko, ko, ko, komen uyt 't <rhyme label="b" type="m" corresp="#s2:l2">verdriet</rhyme>?</l>
+        <l id="s2:l5" met="3" type="-+">Sal ick jou <rhyme label="c" type="f">Beule-slaghen</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Noch dulden op men <rhyme label="d" type="m">huyt</rhyme>?</l>
+        <l id="s2:l7" met="3" type="-+">Moet ick die langer <rhyme label="c" type="f" corresp="#s2:l5">draghen</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Ick loop ten huy, huy, huy, huy, huysen <rhyme label="d" type="m" corresp="#s2:l6">uyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Iy Bengel hebt voor <rhyme label="a" type="f">desen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">My dickwel, lel, lel, lel, lel, <rhyme label="b" type="m">gheseydt</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Da, da, da, datje staegh soud <rhyme label="a" type="f" corresp="#s3:l1">wesen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Tot my, my, my, my, mijn dienst <rhyme label="b" type="m" corresp="#s3:l2">bereydt</rhyme>:</l>
+        <l id="s3:l5" met="3" type="-+">Eerst heb je mooy <rhyme label="c" type="f">ghesonghen</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Nou raesje als een <rhyme label="d" type="m">Fiel</rhyme>:</l>
+        <l id="s3:l7" met="3" type="-+">Eerst lagh het op jou <rhyme label="c" type="f" corresp="#s3:l5">Tonghe</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Nou leydt'et in, in, in, in, in je <rhyme label="d" type="m" corresp="#s3:l6">Hiel</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

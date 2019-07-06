@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14912</id>
+    <date>
+      <year-start>1622</year-start>
+      <year-end>1622</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Mon âme est si fort blessée</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">LIefde schickt mijn ziel vol <rhyme label="a" type="f">wonden</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Door de Pylen van u <rhyme label="b" type="m">oogh</rhyme>’,</l>
+        <l id="s1:l3" met="4" type="+-">Schoon ick com tot u <rhyme label="a" type="f" corresp="#s1:l1">bewonden</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Om de Plaester van <rhyme label="b" type="m" corresp="#s1:l2">medoogh</rhyme>’.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Wilt ghy my nu laten <rhyme label="a" type="f">sterven</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Daer ick ben in groote <rhyme label="b" type="m">noodt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Kan mijn Minne niet <rhyme label="a" type="f" corresp="#s2:l1">verwerven</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Soo blijf ick van droefheydt <rhyme label="b" type="m" corresp="#s2:l2">doodt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Sal mijn klachten, sal mijn <rhyme label="a" type="f">weenen</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">V hart nu beweghen <rhyme label="b" type="m">niet</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Soo mach ick in droefheydt <rhyme label="a" type="f" corresp="#s3:l1">steenen</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">En beschreyen mijn <rhyme label="b" type="m" corresp="#s3:l2">verdriet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Banghe suchtjens drijft nae <rhyme label="a" type="f">boven</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Met veel snickjens <rhyme label="b" type="m">ondersnee’n</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">Wild de Goden doen <rhyme label="a" type="f" corresp="#s4:l1">beloven</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Datse achten mijn <rhyme label="b" type="m" corresp="#s4:l2">ghebeen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Ick wil u dan Liefde <rhyme label="a" type="f">smeecken</rhyme></l>
+        <l id="s5:l2" met="4" type="+-">Dat ghy my verhooren <rhyme label="b" type="m">sult</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">En mijn Nimphs voor ’t Recht doen <rhyme label="a" type="f" corresp="#s5:l1">spreecken</rhyme></l>
+        <l id="s5:l4" met="4" type="+-">Wie van beyden heeft de <rhyme label="b" type="m" corresp="#s5:l2">schult</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

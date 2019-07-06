@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34609</id>
+    <date>
+      <year-start>1641</year-start>
+      <year-end>1641</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Guilelmus van der Borcht</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">SVult ghy het haten // Goddin' van mijn <rhyme label="a" type="m">vreughdt</rhyme>,</l>
+        <l id="s1:l2" met="5" type="+-">Niet eens verlaten ? ach ! sal dan uw' <rhyme label="a" type="m" corresp="#s1:l1">jeughdt</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Noyt proncken met dees <rhyme label="a" type="m" corresp="#s1:l1">deughdt</rhyme></l>
+        <l id="s1:l4" met="5" type="+-">Maer staegh killigh // het lief-koosen <rhyme label="b" type="m">vli'en</rhyme>,</l>
+        <l id="s1:l5" met="5" type="+-">En noyt ghewilligh // als recht ende <rhyme label="c" type="f">billigh</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">V tot trouwen <rhyme label="b" type="m" corresp="#s1:l4">bi'en</rhyme> ?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Princelijck wesen // 't ghen' met bleecke <rhyme label="a" type="m">doodt</rhyme></l>
+        <l id="s2:l2" met="5" type="+-">My nu wilt esen // en niet eens ter <rhyme label="a" type="m" corresp="#s2:l1">noodt</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">V tot mijn hulp' en <rhyme label="a" type="m" corresp="#s2:l1">bloot</rhyme>:</l>
+        <l id="s2:l4" met="5" type="+-">(Maer de ooghen // die meer bleecke <rhyme label="b" type="m">vrees'</rhyme></l>
+        <l id="s2:l5" met="5" type="+-">Aen my nu tooghen // als het droef <rhyme label="c" type="f">beooghen</rhyme></l>
+        <l id="s2:l6" met="3" type="+-">Van 't slangh-hayrigh <rhyme label="b" type="m" corresp="#s2:l4">vleesch</rhyme>.)</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">Kont ghy noch langher // met uw' gunst <rhyme label="a" type="m">bela'en</rhyme></l>
+        <l id="s3:l2" met="5" type="+-">(Daer ick wordt bangher) op een ander <rhyme label="a" type="m" corresp="#s3:l1">slaen</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Siet ghy niet dat 'k <rhyme label="a" type="m" corresp="#s3:l1">vergaen</rhyme> ?</l>
+        <l id="s3:l4" met="5" type="+-">En van stonden // met een' <rhyme label="b" type="m">tranen-vloedt</rhyme></l>
+        <l id="s3:l5" met="5" type="+-">Door dese wonden // gansch en heel <rhyme label="c" type="f">verslonden</rhyme></l>
+        <l id="s3:l6" met="3" type="+-">By de mollen <rhyme label="b" type="m" corresp="#s3:l4">vroet</rhyme> ?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

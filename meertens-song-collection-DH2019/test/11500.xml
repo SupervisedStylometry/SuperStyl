@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>11500</id>
+    <date>
+      <year-start>1627</year-start>
+      <year-end>1627</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Van Le pasteur</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">CUpido, 't dart'le <rhyme label="a" type="m">kind</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Nam aen de reys wat <rhyme label="b" type="m">veer</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Vloogh op d'onsicht-b're <rhyme label="a" type="m" corresp="#s1:l1">Noorde-windt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Daelt in 't kout-vorstigh Noorden <rhyme label="b" type="m" corresp="#s1:l2">neer</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Waer dat 't verkleumt, <rhyme label="c" type="m">verstijft</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Het schalcke Wicht niet langh en <rhyme label="c" type="m" corresp="#s1:l5">blijft</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">'t Sat met sijn kroesse <rhyme label="a" type="m">kop</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Inde besneeuwde <rhyme label="b" type="m">laeght'</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Des hart bevrosen <rhyme label="a" type="m" corresp="#s2:l1">rotzens-top</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">En willend' vliegen, ach! (het <rhyme label="b" type="m" corresp="#s2:l2">klaeght</rhyme>)</l>
+        <l id="s2:l5" met="3" type="-+">'t Is van de kou <rhyme label="c" type="m">verrast</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Sijn vlerckjens sijn bevrosen <rhyme label="c" type="m" corresp="#s2:l5">vast</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Doch 't sagh van veers een <rhyme label="a" type="m">schuur</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">'t Wicht daer nae toe te <rhyme label="b" type="m">voet</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Alwaer de Harders boeten <rhyme label="a" type="m" corresp="#s3:l1">vuur</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">Dit, dacht het Boefje, doet my <rhyme label="b" type="m" corresp="#s3:l2">goet</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Stracks treet het stoutlick <rhyme label="c" type="m">in</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Voecht sich by Harder en <rhyme label="c" type="m" corresp="#s3:l5">Harderin</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">'t Deur-warmd' sijn huydtjen <rhyme label="a" type="m">eerst</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">En droochd' sijn pluymtjes <rhyme label="b" type="m">nat</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Beklaeght dees bittre reys op 't <rhyme label="a" type="m" corresp="#s4:l1">seerst</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">'t Begint weer te verquicken <rhyme label="b" type="m" corresp="#s4:l2">wat</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">En maeckt sijn koker <rhyme label="c" type="m">ree</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Sijn boogh en pees, sijn pijlen <rhyme label="c" type="m" corresp="#s4:l5">mee</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Waer mee het strackx <rhyme label="a" type="m">doorwont</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">En drijft een scharpe <rhyme label="b" type="m">schicht</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">In 't hart des schoonste <rhyme label="a" type="m" corresp="#s5:l1">Roosemont</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Om dats' haer vriend'lick <rhyme label="b" type="m" corresp="#s5:l2">ooghs-gesicht</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">Op Palmerijn sou <rhyme label="c" type="m">slaen</rhyme>,</l>
+        <l id="s5:l6" met="4" type="-+">Dies' eerst sagh voor haer Minnaer <rhyme label="c" type="m" corresp="#s5:l5">aen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Nu sal de minne <rhyme label="a" type="m">sijn</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">On breeck'lijck t'saem <rhyme label="b" type="m">gesnoert</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Van Roosemont en <rhyme label="a" type="m" corresp="#s6:l1">Palmerijn</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">'t Welck 't dart'le Wicht heeft <rhyme label="b" type="m" corresp="#s6:l2">uyt-gevoert</rhyme>,</l>
+        <l id="s6:l5" met="3" type="-+">'t Verlaet het koude <rhyme label="c" type="m">Noord'</rhyme>,</l>
+        <l id="s6:l6" met="4" type="-+">Vlieght na sijn eerste woonplaet <rhyme label="c" type="m" corresp="#s6:l5">voort</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>186940</id>
+    <date>
+      <year-start>1708</year-start>
+      <year-end>1708</year-end>
+    </date>
+    <location>
+      <orginal-name>gouda</orginal-name>
+      <standard-name>Gouda, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114922</lon>
+        <lat>4.7106094</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Son mille tormenti</melody>
+  <author>Jan van Hoogstraten</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Maar gy, wien dit <rhyme label="a" type="f">schreyen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Gena zal <rhyme label="a" type="f" corresp="#s1:l1">bereyen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">ô Petrus! ô Petrus blijft <rhyme label="b" type="f">leven</rhyme>.</l>
+        <l id="s1:l4" met="3" type="+-">Droog 't nat uwer <rhyme label="c" type="f">oogen</rhyme>.</l>
+        <l id="s1:l5" met="3" type="+-">Uw Heer heeft, <rhyme label="c" type="f" corresp="#s1:l4">bewogen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Uw zonden, uw zonden <rhyme label="b" type="f" corresp="#s1:l3">vergeven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Dat dus uw <rhyme label="a" type="f">genade</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Ons ô Heer! kom te <rhyme label="a" type="f" corresp="#s2:l1">stade</rhyme>!</l>
+        <l id="s2:l3" met="4" type="-+">Op dat wy, op dat wy <rhyme label="b" type="f">verwezen</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">Van 't vuil onzer <rhyme label="c" type="f">zonden</rhyme>,</l>
+        <l id="s2:l5" met="3" type="+-">Door 't bloed uwer <rhyme label="c" type="f" corresp="#s2:l4">wonden</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Dus worden, dus worden <rhyme label="b" type="f" corresp="#s2:l3">genezen</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>125681</id>
+    <date>
+      <year-start>1767</year-start>
+      <year-end>1767</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+    </tags>
+    <melody>O jammer en ellende</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">'tVOorhoofd van dees zoete <rhyme label="a" type="m">Meyd</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Is met Rimpels in <rhyme label="a" type="m" corresp="#s1:l1">geleyd</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Is met Kreukels en met <rhyme label="b" type="f">Vouwen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Als een ouwe <rhyme label="c" type="m">Tover-kol</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Ik moet met dit Meysje <rhyme label="b" type="f" corresp="#s1:l3">Trouwen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Of mijn Kop raakt op de <rhyme label="c" type="m" corresp="#s1:l4">hol</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

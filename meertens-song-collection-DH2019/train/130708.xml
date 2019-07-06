@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>130708</id>
+    <date>
+      <year-start>1711</year-start>
+      <year-end>1711</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>La mariée</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">Roo Corale <rhyme label="a" type="f">Lipjes</rhyme>,</l>
+        <l id="s1:l2" met="1" type="+-"><rhyme label="a" type="f" corresp="#s1:l1">Cnipjes</rhyme>,</l>
+        <l id="s1:l3" met="1" type="+-"><rhyme label="b" type="f">Strikken</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Die de jeugd <rhyme label="b" type="f" corresp="#s1:l3">verkwikken</rhyme>,</l>
+        <l id="s1:l5" met="1" type="+-">
+          <rhyme label="b" type="f" corresp="#s1:l3">Likken</rhyme>
+        </l>
+        <l id="s1:l6" met="3" type="+-">Als het zoetste <rhyme label="c" type="m">zoet</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Wanneer sy staen te <rhyme label="d" type="f">bloosen</rhyme></l>
+        <l id="s1:l8" met="2" type="+-">Als de <rhyme label="d" type="f" corresp="#s1:l7">roosen</rhyme></l>
+        <l id="s1:l9" met="3" type="+-">Op Vrouw Venus <rhyme label="c" type="m" corresp="#s1:l6">Hoedt</rhyme>!</l>
+        <l id="s1:l10" met="4" type="-+">Zy zijn de Ziel van mijn <rhyme label="e" type="m">vermaak</rhyme>,</l>
+        <l id="s1:l11" met="5" type="+-">Wanneer ik maar een soentje van haar <rhyme label="e" type="m" corresp="#s1:l10">kraak</rhyme>,</l>
+        <l id="s1:l12" met="1" type="-+">Met <rhyme label="e" type="m" corresp="#s1:l10">smaak</rhyme>!</l>
+        <l id="s1:l13" met="4" type="-+">O Min, O Min, O edele <rhyme label="f" type="m">Min</rhyme>,</l>
+        <l id="s1:l14" met="3" type="+-">Die mijn Hert en <rhyme label="f" type="m" corresp="#s1:l13">zin</rhyme></l>
+        <l id="s1:l15" met="2" type="-+">Terstont naamt <rhyme label="f" type="m" corresp="#s1:l13">in</rhyme>,</l>
+        <l id="s1:l16" met="3" type="-+">Wat schenk jy mijn een <rhyme label="g" type="m">vreugd</rhyme>,</l>
+        <l id="s1:l17" met="4" type="-+">Wat baert jy mijn een zoet <rhyme label="g" type="m" corresp="#s1:l16">geneugd</rhyme>!</l>
+        <l id="s1:l18" met="3" type="+-">Een zoen, twee a <rhyme label="h" type="m">drie</rhyme>,</l>
+        <l id="s1:l19" met="3" type="-+">Maekt dat ik geen <rhyme label="i" type="m">gevaer</rhyme>,</l>
+        <l id="s1:l20" met="1" type="-+">Hoe <rhyme label="i" type="m" corresp="#s1:l19">zwaer</rhyme></l>
+        <l id="s1:l21" met="3" type="+-">Dat het is, <rhyme label="h" type="m" corresp="#s1:l18">ontsie</rhyme></l>
+        <l id="s1:l22" met="1" type="-+">Of <rhyme label="h" type="m" corresp="#s1:l18">vlie</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Weg dan, gy <rhyme label="a" type="f">Bacchanten</rhyme>:</l>
+        <l id="s2:l2" met="1" type="+-"><rhyme label="a" type="f" corresp="#s2:l1">Kwanten</rhyme>,</l>
+        <l id="s2:l3" met="1" type="+-"><rhyme label="b" type="f">Zotten</rhyme>!</l>
+        <l id="s2:l4" met="3" type="+-">In kroegen of in <rhyme label="b" type="f" corresp="#s2:l3">kotten</rhyme></l>
+        <l id="s2:l5" met="1" type="+-">
+          <rhyme label="b" type="f" corresp="#s2:l3">Rotten</rhyme>
+        </l>
+        <l id="s2:l6" met="3" type="+-">Sy met list te <rhyme label="c" type="m">zaem</rhyme>.</l>
+        <l id="s2:l7" met="3" type="-+">Ik wil nooit met u <rhyme label="d" type="f">zuipen</rhyme>,</l>
+        <l id="s2:l8" met="2" type="+-">Nog gaen <rhyme label="d" type="f" corresp="#s2:l7">gluipen</rhyme></l>
+        <l id="s2:l9" met="3" type="+-">Om u kwaade <rhyme label="c" type="m" corresp="#s2:l6">naem</rhyme>.</l>
+        <l id="s2:l10" met="4" type="-+">Ik spot met al die <rhyme label="e" type="m">gekkernij</rhyme></l>
+        <l id="s2:l11" met="5" type="+-">En 't gebroet, Van u stoet: Een Meisje maekt my <rhyme label="e" type="m" corresp="#s2:l10">bly</rhyme></l>
+        <l id="s2:l12" met="1" type="-+">Meer als <rhyme label="e" type="m" corresp="#s2:l10">gy</rhyme>.</l>
+        <l id="s2:l13" met="4" type="-+">Weg, weg dan Wijn, weg, weg dan laffe <rhyme label="f" type="m">Wyn</rhyme>,</l>
+        <l id="s2:l14" met="3" type="+-">Die maer reeds <rhyme label="f" type="m" corresp="#s2:l13">pijn</rhyme></l>
+        <l id="s2:l15" met="2" type="-+">In 't hooft van <rhyme label="f" type="m" corresp="#s2:l13">myn</rhyme>,</l>
+        <l id="s2:l16" met="3" type="-+">Als 'k u drink, baaren <rhyme label="g" type="m">doet</rhyme>.</l>
+        <l id="s2:l17" met="4" type="-+">'t Is de <rhyme label="g" type="m" corresp="#s2:l16">vreugd</rhyme></l>
+        <l id="s2:l18" met="3" type="+-">Van de jeugd Die ons <rhyme label="h" type="m">bly</rhyme></l>
+        <l id="s2:l19" met="3" type="-+">Maekt, want alleen ons <rhyme label="i" type="m">behaegt</rhyme></l>
+        <l id="s2:l20" met="1" type="-+">Eene <rhyme label="i" type="m" corresp="#s2:l19">Maegt</rhyme></l>
+        <l id="s2:l21" met="3" type="+-">Seer <rhyme label="h" type="m" corresp="#s2:l18">Lief</rhyme></l>
+        <l id="s2:l22" met="1" type="-+">Voor 't <rhyme label="h" type="m" corresp="#s2:l18">gerief</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>38938</id>
+    <date>
+      <year-start>1710</year-start>
+      <year-end>1733</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="ambachtslied" translation="trademan's song">ambachtslied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>O herders al zoetjes al zonder getier</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="work">werk</category>
+    </categories>
+  <author>H. van Vijfderley</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Geen Staet soo edel hier op der aerden <rhyme label="a" type="m">gaet</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Als wel den Boeren <rhyme label="a" type="m" corresp="#s1:l1">Staet</rhyme>,</l>
+        <l id="s1:l3" met="6" type="-+">Adam den eersten Heer was Boer al even <rhyme label="b" type="m">seer</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Den eersten mensch den ploegh in sweet sijns Aensicht <rhyme label="c" type="m">joegh</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">Dan hem komt allen Koninck, ende <rhyme label="d" type="m">Heer</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Eelman is dus als eenen Boer niet <rhyme label="d" type="m" corresp="#s1:l5">meer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Den Paus, en Bisschop, Keyser en Koningh <rhyme label="a" type="m">me</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">En alle die van <rhyme label="a" type="m" corresp="#s2:l1">stë</rhyme>,</l>
+        <l id="s2:l3" met="6" type="-+">En Practisienen al, en oock de Cooplien <rhyme label="b" type="m">al</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">’t Moet leven al altijdt op Boeren <rhyme label="c" type="m">aerebeyt</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Dus d’edel Boeren moeten zijn <rhyme label="d" type="m">geacht</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">Nochtoans de Boeren worden meest <rhyme label="d" type="m" corresp="#s2:l5">veracht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">In oorlogh tijden worden sy meest <rhyme label="a" type="m">gheplaeght</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Ghepluntert en <rhyme label="a" type="m" corresp="#s3:l1">verjaeght</rhyme>,</l>
+        <l id="s3:l3" met="6" type="-+">Den Boer betaelt het al, den Boer moet lijden <rhyme label="b" type="m">al</rhyme>,</l>
+        <l id="s3:l4" met="6" type="-+">Goe Boeren schept noch moedt: ‘tis Godt die dat al <rhyme label="c" type="m">doet</rhyme>,</l>
+        <l id="s3:l5" met="5" type="-+">Godt wondt en salst, hoe meer is hier u <rhyme label="d" type="m">pijn</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">Hoe meer u vreughden hier naer sullen <rhyme label="d" type="m" corresp="#s3:l5">zijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

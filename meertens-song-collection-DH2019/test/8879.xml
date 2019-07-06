@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8879</id>
+    <date>
+      <year-start>1625</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Fröhlich wollen wir Halleluja singen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">IVycht den Heer over al, en t'allen <rhyme label="a" type="f">Tijde</rhyme></l>
+        <l id="s1:l2" met="5" type="+-">Dient den Heere, coemt voor sijn Aensicht <rhyme label="a" type="f" corresp="#s1:l1">blijde</rhyme>.</l>
+        <l id="s1:l3" met="5" type="-+">Bekent dat hy alleen is Godt, gaet ons <rhyme label="b" type="f">bereyden</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Tot sijn Volck, end' tot Schapen sijner <rhyme label="b" type="f" corresp="#s1:l3">Weyden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Gaet in sijn Stadt Dancken, In sijn Huys <rhyme label="a" type="f">Loven</rhyme>,</l>
+        <l id="s2:l2" met="5" type="+-">Danckt met Loff sijn Naem, die HEer daer <rhyme label="a" type="f" corresp="#s2:l1">boven</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">Is vriend'lijck, end' oock sijn Ghenaed' dueret al <rhyme label="b" type="f">Eewich</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">End' sijn Waerheydt Faelgiert niet, maer is <rhyme label="b" type="f" corresp="#s2:l3">ghestadich</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

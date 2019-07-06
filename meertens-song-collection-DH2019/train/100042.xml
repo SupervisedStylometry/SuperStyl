@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100042</id>
+    <date>
+      <year-start>1652</year-start>
+      <year-end>1652</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Krelis zei zij Krelis kind</melody>
+  <author>Arnold Bon</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">VVEl hoe vaerje <rhyme label="a" type="m">Crelis-kint</rhyme>,</l>
+        <l id="s1:l2" met="5" type="+-">Hoe komt dat je niet by Melis <rhyme label="a" type="m" corresp="#s1:l1">bint</rhyme>?</l>
+        <l id="s1:l3" met="5" type="-+">Dat's een langst, die hupt en fraeitjes <rhyme label="b" type="m">dangst</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En somtijts met een <rhyme label="c" type="m">gril</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">In 't Meysje <rhyme label="c" type="m" corresp="#s1:l4">wil</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Wel wat was hy lestmael <rhyme label="a" type="m">mal</rhyme>;</l>
+        <l id="s2:l2" met="5" type="+-">En het had met hem den besten <rhyme label="a" type="m" corresp="#s2:l1">val</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Doen hy Griet, de Turf-schuyt <rhyme label="b" type="m">uytstiet</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">En Teeuwis met zijn <rhyme label="c" type="m">Wijf</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Holp aent <rhyme label="c" type="m" corresp="#s2:l4">gekijf</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Teeuwis sey sy droncken <rhyme label="a" type="m">bloet</rhyme>,</l>
+        <l id="s3:l2" met="5" type="+-">'k Weet niet watje soo beschoncken <rhyme label="a" type="m" corresp="#s3:l1">doet</rhyme>?</l>
+        <l id="s3:l3" met="5" type="-+">Ghy bent soo slap, kom setje beentjes <rhyme label="b" type="m">schrap</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">En gauwe met <rhyme label="c" type="m">malkaer</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">Men soete <rhyme label="c" type="m" corresp="#s3:l4">vaer</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">'k Wil niet gaen sey Teeuwis <rhyme label="a" type="m">weer</rhyme>,</l>
+        <l id="s4:l2" met="5" type="+-">'t Midde vande vloer viel hy <rhyme label="a" type="m" corresp="#s4:l1">omveer</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">En hy swoer, de Duyvel hael de <rhyme label="b" type="m">vloer</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Sy draeyt gelijck een <rhyme label="c" type="m">Tol</rhyme>,</l>
+        <l id="s4:l5" met="2" type="-+">'k Vroet als een <rhyme label="c" type="m" corresp="#s4:l4">Mol</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

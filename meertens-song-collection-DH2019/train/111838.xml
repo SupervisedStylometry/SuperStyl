@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111838</id>
+    <date>
+      <year-start>1745</year-start>
+      <year-end>1745</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+    </tags>
+    <melody>Le printemps rappelle aux armes</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">'k HEb myn Hart u <rhyme label="a" type="f">opgedragen</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">Met veel <rhyme label="a" type="f" corresp="#s1:l1">behagen</rhyme>;</l>
+        <l id="s1:l3" met="4" type="+-">'k Heb myn Hart u <rhyme label="a" type="f" corresp="#s1:l1">opgedragen</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Opregt en <rhyme label="b" type="m">trou</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">En gy doet myn Egter <rhyme label="a" type="f" corresp="#s1:l1">klagen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Roosje lief myn schoon <rhyme label="b" type="m" corresp="#s1:l4">Jonkvrou</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">'k Soek u altyd te <rhyme label="a" type="f">Beminnen</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">Met Hart en <rhyme label="a" type="f" corresp="#s2:l1">zinnen</rhyme>;</l>
+        <l id="s2:l3" met="4" type="+-">'k Soek u altyd te <rhyme label="a" type="f" corresp="#s2:l1">Beminnen</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">Met al myn <rhyme label="b" type="m">Kragt</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Kan ik dan die troost niet <rhyme label="a" type="f" corresp="#s2:l1">winnen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Roosje lief daer ik op <rhyme label="b" type="m" corresp="#s2:l4">wagt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Neen myn Cloris 't zal niet <rhyme label="a" type="f">hoeven</rhyme>,</l>
+        <l id="s3:l2" met="2" type="-+">U te <rhyme label="a" type="f" corresp="#s3:l1">bedroeven</rhyme>;</l>
+        <l id="s3:l3" met="4" type="+-">Neen myn Cloris 't zal niet <rhyme label="a" type="f" corresp="#s3:l1">hoeven</rhyme>,</l>
+        <l id="s3:l4" met="2" type="-+">Dat gy u <rhyme label="b" type="m">kwelt</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">'k Wou maer eens uw Min <rhyme label="a" type="f" corresp="#s3:l1">beproeven</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Die gy m' dikwyls hebt <rhyme label="b" type="m" corresp="#s3:l4">vertelt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Daer kunt gy u op <rhyme label="a" type="f">vertrouwen</rhyme>,</l>
+        <l id="s4:l2" met="2" type="-+">ô Puik der <rhyme label="a" type="f" corresp="#s4:l1">Vrouwen</rhyme>;</l>
+        <l id="s4:l3" met="4" type="+-">Daer kunt gy u op <rhyme label="a" type="f" corresp="#s4:l1">vertrouwen</rhyme>,</l>
+        <l id="s4:l4" met="2" type="-+">Want 't is <rhyme label="b" type="m">opregt</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">'k Zou met schrik het ligt <rhyme label="a" type="f" corresp="#s4:l1">aenschouwen</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Als ik 't anders had <rhyme label="b" type="m" corresp="#s4:l4">gezegt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

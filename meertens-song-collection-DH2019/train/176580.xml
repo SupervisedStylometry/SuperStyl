@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176580</id>
+    <date>
+      <year-start>1697</year-start>
+      <year-end>1697</year-end>
+    </date>
+    <location>
+      <orginal-name>monnikendam</orginal-name>
+      <standard-name>Monnickendam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.4570766</lon>
+        <lat>5.0373214</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>La grédeline</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">ICk heb een les <rhyme label="a" type="f">gekregen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Van Bachus soete <rhyme label="b" type="m">Kint</rhyme>:</l>
+        <l id="s1:l3" met="3" type="-+">Geen fluytjes uyt te <rhyme label="a" type="f" corresp="#s1:l1">vegen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Als daar men helder <rhyme label="b" type="m" corresp="#s1:l2">vint</rhyme> !</l>
+        <l id="s1:l5" met="4" type="+-">Fluytjes wil ik sonder <rhyme label="c" type="f">plengen</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Glaesjes wil ick sonder <rhyme label="d" type="m">dorst</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">En 't is een borst, Die sonder <rhyme label="e" type="m">dorst</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Weet een glaesje voort te <rhyme label="c" type="f" corresp="#s1:l5">bringen</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">'t Sa vasen vol van <rhyme label="e" type="m" corresp="#s1:l7">vreughde</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Vrinden van 't edele <rhyme label="a" type="f">nat</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Drie glassen zijn drie <rhyme label="b" type="m">tugen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Drie maeckt een <rhyme label="a" type="f" corresp="#s2:l1">klaver-blad</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Het blaetje wil ick met een <rhyme label="b" type="m" corresp="#s2:l2">steeltje</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">'t Steeltje wil ick sonder <rhyme label="c" type="f">meer</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Vier is 't getal, Hier hou ick <rhyme label="d" type="m">stal</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">En ick sweer by Bachus <rhyme label="e" type="m">keeltje</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Dat ick niet meer suppen <rhyme label="c" type="f" corresp="#s2:l5">sal</rhyme>,</l>
+        <l id="s2:l9" met="4" type="+-">Dog tot een soet <rhyme label="e" type="m" corresp="#s2:l7">besluytje</rhyme>,</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Van dese <rhyme label="a" type="f">vrolyckheijt</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Breng 'k u een minnelijk <rhyme label="b" type="m">Fluytje</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">De Juffers toe <rhyme label="a" type="f" corresp="#s3:l1">geweyt</rhyme>:</l>
+        <l id="s3:l4" met="3" type="-+">'k Wil het na mijn Keelte <rhyme label="b" type="m" corresp="#s3:l2">stieren</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">'k Laat het na mijn hertje <rhyme label="c" type="f">gaan</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Vyt is de <rhyme label="d" type="m">Fluyt</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">'k Sing <rhyme label="e" type="m">overluyt</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">'k wil nu Venus Kusjes <rhyme label="c" type="f" corresp="#s3:l5">vieren</rhyme>,</l>
+        <l id="s3:l9" met="4" type="+-">Bachuys lessen hebben <rhyme label="e" type="m" corresp="#s3:l7">uyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

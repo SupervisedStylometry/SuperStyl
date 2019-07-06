@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>164293</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="dialectlied" translation="dialect song">dialectlied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+    </tags>
+    <melody>Wel Mieke stout</melody>
+    <categories>
+      <category translation="groups">groepen</category>
+      <category translation="formal genres">formele genres</category>
+      <category translation="amusement">vermaak</category>
+      <category translation="theatre">theater</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Wel Kees, <rhyme label="a" type="m">bedaar</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Dat dunkt me seper   <rhyme label="b" type="f">aardig</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Dat is ien oortje   <rhyme label="b" type="f" corresp="#s1:l2">waardig</rhyme>.</l>
+        <l id="s1:l4" met="3" type="+-">Wel die taal is <rhyme label="a" type="m" corresp="#s1:l1">raar</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Maar jongen et word <rhyme label="c" type="m">laat</rhyme>.</l>
+        <l id="s1:l6" met="3" type="-+">Gen dag,   men beste <rhyme label="c" type="m" corresp="#s1:l5">maet</rhyme>.</l>
+        <l id="s1:l7" met="3" type="-+">Men mortje   mogt aars <rhyme label="d" type="f">kijven</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Wangt ik durf niit lang uyt <rhyme label="d" type="f" corresp="#s1:l7">blijven</rhyme></l>
+        <l id="s1:l9" met="3" type="+-">Of se maekt voort   <rhyme label="c" type="m" corresp="#s1:l5">praet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Neen, neen, blijf <rhyme label="a" type="m">staan</rhyme>.</l>
+        <l id="s2:l2" met="3" type="-+">Ik sweerje by men <rhyme label="b" type="f">leven</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Dat je selt het ja woord <rhyme label="b" type="f" corresp="#s2:l2">geven</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">Eer ik jou laat <rhyme label="a" type="m" corresp="#s2:l1">gaan</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">'k Heb lang enoeg <rhyme label="c" type="m">gevryd</rhyme>.</l>
+        <l id="s2:l6" met="3" type="-+">Kom, kom, men soete <rhyme label="c" type="m" corresp="#s2:l5">mayd</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Je mot niit langer <rhyme label="d" type="f">wagten</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Of ik souje haast <rhyme label="d" type="f" corresp="#s2:l7">verkragten</rhyme></l>
+        <l id="s2:l9" met="3" type="+-">Uyt klinklare   <rhyme label="c" type="m" corresp="#s2:l5">spyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

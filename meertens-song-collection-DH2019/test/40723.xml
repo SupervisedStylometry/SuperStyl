@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>40723</id>
+    <date>
+      <year-start>1681</year-start>
+      <year-end>1681</year-end>
+    </date>
+    <location>
+      <orginal-name>leeuwarden</orginal-name>
+      <standard-name>Leeuwarden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>53.2005936</lon>
+        <lat>5.7918548</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Il est vrai je le confesse</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Y Nn' tuwl-wraegseljen, yn 't <rhyme label="a" type="f">djoeyen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">Yn 't snaep-snobbjen, <rhyme label="b" type="m">ljeaf</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Yn 't eal-lijlle-bortlijck <rhyme label="a" type="f" corresp="#s1:l1">stjoeyen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Neam'stu my tjeaf, <rhyme label="b" type="m" corresp="#s1:l2">tjeaf</rhyme>:</l>
+        <l id="s1:l5" met="4" type="+-">Om 't ick ond're <rhyme label="c" type="f">paetkerye</rhyme>.</l>
+        <l id="s1:l6" met="3" type="+-">Pea-sjeack, sonder <rhyme label="d" type="m">luwd</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Duwe' yn muwlle-stiet twa <rhyme label="c" type="f" corresp="#s1:l5">trye</rhyme>,</l>
+        <l id="s1:l8" met="3" type="+-">Dijn giel Podde-hyers <rhyme label="d" type="m" corresp="#s1:l6">tuwt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Goune bolle-krolle <rhyme label="a" type="f">Holle</rhyme>,</l>
+        <l id="s2:l2" met="3" type="+-">'t Lijcket bernsch <rhyme label="b" type="m">pittear</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Jaen oef nimmen schijlt rju <rhyme label="a" type="f" corresp="#s2:l1">folle</rhyme>:</l>
+        <l id="s2:l4" met="3" type="+-">Hab ick stelne, <rhyme label="b" type="m" corresp="#s2:l2">Sweer</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Az ick jou? Ho! kin in <rhyme label="c" type="f">jouwer</rhyme></l>
+        <l id="s2:l6" met="3" type="+-">Tjeaverye' <rhyme label="d" type="m">oon-gean</rhyme>?</l>
+        <l id="s2:l7" met="4" type="+-">Bazeste naet, <rhyme label="c" type="f" corresp="#s2:l5">Fijlde-Bouwer</rhyme>?</l>
+        <l id="s2:l8" met="3" type="+-">Wa schoe 't oorz <rhyme label="d" type="m" corresp="#s2:l6">forstean</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Dy foe 'k eer', mey rjuecht <rhyme label="a" type="f">oon-tuwge</rhyme></l>
+        <l id="s3:l2" met="3" type="+-">Tjeaf-stâl', <rhyme label="b" type="m">stellery'</rhyme>:</l>
+        <l id="s3:l3" met="4" type="+-">Yn dijn paetgjen' dat it <rhyme label="a" type="f" corresp="#s3:l1">swuwge</rhyme>,</l>
+        <l id="s3:l4" met="3" type="+-">Stielstu 't 't hert fen <rhyme label="b" type="m" corresp="#s3:l2">my</rhyme>.</l>
+        <l id="s3:l5" met="4" type="+-">Dy nu, 't hert ontnomme', ynn' dwelme' <rhyme label="c" type="f">stirt</rhyme></l>
+        <l id="s3:l6" met="3" type="+-">Stell't dy? swiete <rhyme label="d" type="m">schelm'</rhyme>!</l>
+        <l id="s3:l7" met="4" type="+-">Nae; dy herte-steller selm, <rhyme label="c" type="f" corresp="#s3:l5">wirt</rhyme></l>
+        <l id="s3:l8" met="3" type="+-">Herte-tjeaf: <rhyme label="d" type="m" corresp="#s3:l6">Tjeaf-selm'</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

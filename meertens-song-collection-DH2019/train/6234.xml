@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6234</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>La grédeline</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">IK heb een les <rhyme label="a" type="f">gekregen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Van Bacchus dertel <rhyme label="b" type="m">kind</rhyme>:</l>
+        <l id="s1:l3" met="3" type="-+">Geen Fluytjes uyt te <rhyme label="a" type="f" corresp="#s1:l1">vegen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Als daermen helden <rhyme label="b" type="m" corresp="#s1:l2">vint</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Fluytjes wil ik sonder <rhyme label="c" type="f">plengen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Glaesjes wil ik zonder <rhyme label="d" type="m">dorst</rhyme>;</l>
+        <l id="s1:l7" met="2" type="-+">En 't is een <rhyme label="e" type="m">borst</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Die sonder <rhyme label="e" type="m" corresp="#s1:l7">dorst</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">Weet een glaasje voort te <rhyme label="c" type="f" corresp="#s1:l5">brengen</rhyme>,</l>
+        <l id="s1:l10" met="4" type="+-">In een teugje <rhyme label="e" type="m" corresp="#s1:l7">ongemorst</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">t' Sa Basen vol van <rhyme label="a" type="f">vreugde</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Vrienden van 't edele <rhyme label="b" type="m">nat</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Drie glasen zijn drie <rhyme label="a" type="f" corresp="#s2:l1">teugen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Drie maakt een klaver <rhyme label="b" type="m" corresp="#s2:l2">blad</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Het blaatje wil ik met een <rhyme label="c" type="f">steeltje</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">'t Steeltje wil ik sonder <rhyme label="d" type="m">meer</rhyme>,</l>
+        <l id="s2:l7" met="2" type="-+">Vier is 't <rhyme label="e" type="m">getal</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Hier hou ik <rhyme label="e" type="m" corresp="#s2:l7">stal</rhyme>.</l>
+        <l id="s2:l9" met="4" type="+-">En ik zweer bij Bacchus <rhyme label="c" type="f" corresp="#s2:l5">keeltje</rhyme>,</l>
+        <l id="s2:l10" met="4" type="+-">Dat ik niet meer drinken <rhyme label="e" type="m" corresp="#s2:l7">sal</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Dog tot een zoet <rhyme label="a" type="f">besluytje</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Van dese <rhyme label="b" type="m">vrolijkheyt</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Breng 'k u een Minnelijk <rhyme label="a" type="f" corresp="#s3:l1">fluytje</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">De Iuffers toe <rhyme label="b" type="m" corresp="#s3:l2">geweyt</rhyme>:</l>
+        <l id="s3:l5" met="4" type="+-">Ik wil het na mijn keeltje <rhyme label="c" type="f">stieren</rhyme>.</l>
+        <l id="s3:l6" met="4" type="+-">Ik laat het naar mijn hertje <rhyme label="d" type="m">gaen</rhyme>:</l>
+        <l id="s3:l7" met="2" type="-+">Vyt is de <rhyme label="e" type="m">Fluyt</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">'k Sing <rhyme label="e" type="m" corresp="#s3:l7">overluyt</rhyme>,</l>
+        <l id="s3:l9" met="4" type="+-">Ik wil nu Venus kusjes <rhyme label="c" type="f" corresp="#s3:l5">vieren</rhyme>,</l>
+        <l id="s3:l10" met="4" type="+-">Bacchus lessen hebben <rhyme label="e" type="m" corresp="#s3:l7">uyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

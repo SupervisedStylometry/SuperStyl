@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>30020</id>
+    <date>
+      <year-start>1591</year-start>
+      <year-end>1591</year-end>
+    </date>
+    <location>
+      <orginal-name>middelburg</orginal-name>
+      <standard-name>Middelburg, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.4997302</lon>
+        <lat>3.6136962</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 061 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">WIl my, Heer, gehoor <rhyme label="a" type="f">verleenen</rhyme>,</l>
+        <l id="s1:l2" met="2" type="+-">In mijn <rhyme label="a" type="f" corresp="#s1:l1">weenen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Merck op mijn gebet met <rhyme label="b" type="m">vlijt</rhyme>:</l>
+        <l id="s1:l4" met="4" type="+-">Want ick na dy, in mijn <rhyme label="c" type="f">smerten</rhyme>,</l>
+        <l id="s1:l5" met="2" type="+-">Bang van <rhyme label="c" type="f" corresp="#s1:l4">herten</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Van des eirtrijcks eynde <rhyme label="b" type="m" corresp="#s1:l3">krijt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Wil my op een rotse <rhyme label="a" type="f">leyden</rhyme>,</l>
+        <l id="s2:l2" met="2" type="+-">Daer <rhyme label="a" type="f" corresp="#s2:l1">t'arbeyden</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Mijner cracht niet toe en <rhyme label="b" type="m">baet</rhyme>:</l>
+        <l id="s2:l4" met="4" type="+-">Want du bist mijn hulp <rhyme label="c" type="f">vercoren</rhyme>,</l>
+        <l id="s2:l5" met="2" type="+-">Ende <rhyme label="c" type="f" corresp="#s2:l4">toren</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Hoog end sterck, voir die my <rhyme label="b" type="m" corresp="#s2:l3">haet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Ick sal, Heer, in rust end <rhyme label="a" type="f">vrede</rhyme>,</l>
+        <l id="s3:l2" met="2" type="+-">Mijn <rhyme label="a" type="f" corresp="#s3:l1">woinstede</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Houden in dijn hut <rhyme label="b" type="m">altoos</rhyme>.</l>
+        <l id="s3:l4" met="4" type="+-">Ende mijnen toevlucht <rhyme label="c" type="f">nemen</rhyme></l>
+        <l id="s3:l5" met="2" type="+-">Tot der <rhyme label="c" type="f" corresp="#s3:l4">schemen</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Dijner vleugels, <rhyme label="b" type="m" corresp="#s3:l3">schadeloos</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Want du hebst doch mijne <rhyme label="a" type="f">reden</rhyme></l>
+        <l id="s4:l2" met="2" type="+-">End <rhyme label="a" type="f" corresp="#s4:l1">gebeden</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">O God, gunstich <rhyme label="b" type="m">aengehoirt</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">End der genen erf <rhyme label="c" type="f">gegeven</rhyme>,</l>
+        <l id="s4:l5" met="2" type="+-">Die daer <rhyme label="c" type="f" corresp="#s4:l4">leven</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">In dijn vreese, nae dijn <rhyme label="b" type="m" corresp="#s4:l3">woirt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Dijnen Coninck salstu <rhyme label="a" type="f">sparen</rhyme>,</l>
+        <l id="s5:l2" met="2" type="+-">Iaer op <rhyme label="a" type="f" corresp="#s5:l1">iaren</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">End verstrecken breet end <rhyme label="b" type="m">wijt</rhyme></l>
+        <l id="s5:l4" met="4" type="+-">Van geslachten tot <rhyme label="c" type="f">geslachten</rhyme></l>
+        <l id="s5:l5" met="2" type="+-">(Mits dijn <rhyme label="c" type="f" corresp="#s5:l4">crachten</rhyme>)</l>
+        <l id="s5:l6" met="4" type="+-">Ia oock eewlijck, synen <rhyme label="b" type="m" corresp="#s5:l3">tijt</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Hy sal in sijn rijck <rhyme label="a" type="f">beclijven</rhyme>,</l>
+        <l id="s6:l2" met="2" type="+-">End vast <rhyme label="a" type="f" corresp="#s6:l1">blijven</rhyme>.</l>
+        <l id="s6:l3" met="4" type="+-">Voir den Heere menig <rhyme label="b" type="m">iaer</rhyme>:</l>
+        <l id="s6:l4" met="4" type="+-">Heer, bereyd trou end <rhyme label="c" type="f">genade</rhyme>,</l>
+        <l id="s6:l5" met="2" type="+-">Die van <rhyme label="c" type="f" corresp="#s6:l4">schade</rhyme>,</l>
+        <l id="s6:l6" met="4" type="+-">End van ongluck hem <rhyme label="b" type="m" corresp="#s6:l3">bewaer</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">Ick sal met gesang <rhyme label="a" type="f">bequame</rhyme>,</l>
+        <l id="s7:l2" met="2" type="+-">Dijnen <rhyme label="a" type="f" corresp="#s7:l1">name</rhyme></l>
+        <l id="s7:l3" met="4" type="+-">Seggen lof end eeuwgen <rhyme label="b" type="m">danck</rhyme></l>
+        <l id="s7:l4" met="4" type="+-">Ende daglijcx sonder <rhyme label="c" type="f">dralen</rhyme>,</l>
+        <l id="s7:l5" met="2" type="+-">Dy <rhyme label="c" type="f" corresp="#s7:l4">betalen</rhyme>,</l>
+        <l id="s7:l6" met="4" type="+-">Mijn geloften vry end <rhyme label="b" type="m" corresp="#s7:l3">vranck</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

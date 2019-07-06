@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>177623</id>
+    <date>
+      <year-start>1757</year-start>
+      <year-end>1757</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Ik heb u zo lange tijd</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">'t Heeft my op 't hoogst' <rhyme label="a" type="m">bekoord</rhyme>;</l>
+        <l id="s1:l2" met="3" type="-+">ô Cloris 'k moet u <rhyme label="b" type="f">pryzen</rhyme>;</l>
+        <l id="s1:l3" met="3" type="-+">Vaar met uw zangen <rhyme label="a" type="m" corresp="#s1:l1">voort</rhyme>:</l>
+        <l id="s1:l4" met="3" type="-+">Dat niets u daar in <rhyme label="a" type="m" corresp="#s1:l1">stoort</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Gy zult de gunsten <rhyme label="c" type="f">winnen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Van all' de <rhyme label="c" type="f" corresp="#s1:l5">Herderinnen</rhyme>;</l>
+        <l id="s1:l7" met="3" type="+-">Die de ontrouw <rhyme label="d" type="m">hoond</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">En Deugd <rhyme label="d" type="m" corresp="#s1:l7">bekroond</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Verdiend te zyn <rhyme label="d" type="m" corresp="#s1:l7">beloond</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

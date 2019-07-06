@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2915</id>
+    <date>
+      <year-start>1624</year-start>
+      <year-end>1624</year-end>
+    </date>
+    <location>
+      <orginal-name>[hoorn]</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Gelukkig wiens gemoed</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">GEluckigh, wiens gemoedt noch goddeloos <rhyme label="a" type="f">aen-raden</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Noch omgang, noch gespot verlockt tot snoode <rhyme label="a" type="f" corresp="#s1:l1">daden</rhyme>:</l>
+        <l id="s1:l3" met="6" type="-+">Maer die de wetten Godts, op Godes wil <rhyme label="b" type="m">gegrondt</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Geschreven in het hert, altijdt heeft in den <rhyme label="b" type="m" corresp="#s1:l3">mondt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Gelijckerwijs een boom, waer neven koomt <rhyme label="a" type="f">gevloeyen</rhyme></l>
+        <l id="s2:l2" met="6" type="-+">Een frische water-beeck nooyt op en houdt van <rhyme label="a" type="f" corresp="#s2:l1">groeyen</rhyme>,</l>
+        <l id="s2:l3" met="6" type="-+">Maer, altijdt blader-rijck, op zijn bequame <rhyme label="b" type="m">tijdt</rhyme></l>
+        <l id="s2:l4" met="6" type="-+">Den gragen ackerman met rijpe vrucht <rhyme label="b" type="m" corresp="#s2:l3">verblijdt</rhyme>:</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">Zoo zal de vrome zijn. maer niet de <rhyme label="a" type="f">Godt-versmaders</rhyme>,</l>
+        <l id="s3:l2" met="6" type="-+">Moedtwillighlijck verblindt, haers eygen ziels <rhyme label="a" type="f" corresp="#s3:l1">verraders</rhyme>;</l>
+        <l id="s3:l3" met="6" type="-+">Maer moeten zijn als 't stoff, dat, met een snelle <rhyme label="b" type="m">vlucht</rhyme>,</l>
+        <l id="s3:l4" met="6" type="-+">Een draey-windt, heen en we'er, verspreydt door d'yd'le <rhyme label="b" type="m" corresp="#s3:l3">lucht</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">En alsmen voor de banck van recht gericht zal <rhyme label="a" type="f">komen</rhyme>,</l>
+        <l id="s4:l2" met="6" type="-+">Hoe angstich moet dan staen de schare der <rhyme label="a" type="f" corresp="#s4:l1">onvromen</rhyme>!</l>
+        <l id="s4:l3" met="6" type="-+">Want Godt bemint de Deuchdt, en al wie Deuchde <rhyme label="b" type="m">heeft</rhyme>,</l>
+        <l id="s4:l4" met="6" type="-+">Gelijck hy zonde haet, en al wie zondigh <rhyme label="b" type="m" corresp="#s4:l3">leeft</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

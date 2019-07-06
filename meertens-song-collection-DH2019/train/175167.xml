@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175167</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="slaaplied" translation="slumber song">slaaplied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="miscellaneous">allerlei soorten liederen</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wie rusten wil in 't groene <rhyme label="a" type="m">woud</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Wie rusten wil met <rhyme label="b" type="f">lusten</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Hij kieze een plekje, digt in 't <rhyme label="a" type="m" corresp="#s1:l1">hout</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">En vlijê zich tot <rhyme label="b" type="f" corresp="#s1:l2">rusten</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Een peluwtje van mollig <rhyme label="c" type="m">mos</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Een kussentje van <rhyme label="d" type="f">varen</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">En een gordijn van <rhyme label="d" type="f" corresp="#s1:l6">blâren</rhyme>.....</l>
+        <l id="s1:l8" met="4" type="-+">Geeft zoeten middagslaap in 't <rhyme label="c" type="m" corresp="#s1:l5">bosch</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">De hemel van het <rhyme label="a" type="m">ledekant</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Blinkt prachtig-blaauw door 't <rhyme label="b" type="f">loover</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">De heesters slingren om den <rhyme label="a" type="m" corresp="#s2:l1">rand</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">De bloesem hangt er <rhyme label="b" type="f" corresp="#s2:l2">over</rhyme>;</l>
+        <l id="s2:l5" met="4" type="-+">Het koeltje fluistert met de <rhyme label="c" type="m">vliet</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">De dartle vlinders <rhyme label="d" type="f">spelen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">De nachtegalen <rhyme label="d" type="f" corresp="#s2:l6">kwelen</rhyme>....</l>
+        <l id="s2:l8" met="4" type="-+">Is 't niet een liefllijk <rhyme label="c" type="m" corresp="#s2:l5">wiegelied</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">En 't best is: dat het groene <rhyme label="a" type="m">woud</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Met koelte en rust u <rhyme label="b" type="f">lavend</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Van u geen zilver vraagt of <rhyme label="a" type="m" corresp="#s3:l1">goud</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Al slaapt gij tot den <rhyme label="b" type="f" corresp="#s3:l2">avend</rhyme>;</l>
+        <l id="s3:l5" met="4" type="-+">'t Vraagt enkel: zijt gij mat, of <rhyme label="c" type="m">moê</rhyme>?...</l>
+        <l id="s3:l6" met="3" type="-+">De slaapsteê is voor <rhyme label="d" type="f">allen</rhyme>!</l>
+        <l id="s3:l7" met="3" type="-+">En is ze u goed <rhyme label="d" type="f" corresp="#s3:l6">bevallen</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Dan krijgt gij 't avondgoud nog <rhyme label="c" type="m" corresp="#s3:l5">toe</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

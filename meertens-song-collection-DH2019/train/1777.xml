@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1777</id>
+    <date>
+      <year-start>1544</year-start>
+      <year-end>1544</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="historielied" translation="historical song">historielied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Van Hensburg</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">DIe ghelders ende die <rhyme label="a" type="f">fransoysen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Die sijn daer <rhyme label="b" type="m">ombekent</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Sy branden ende sy <rhyme label="a" type="f" corresp="#s1:l1">roofden</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Op dit Bourgoensche <rhyme label="b" type="m" corresp="#s1:l2">lant</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Dwelck ons Keyser was <rhyme label="c" type="m">onbekent</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Hi was gheuaren al wt zijn <rhyme label="c" type="m" corresp="#s1:l5">lant</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Qualijck cost hijt <rhyme label="d" type="f">weten</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Wat sijn volck hier mocht <rhyme label="d" type="f" corresp="#s1:l7">ghebreken</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ons Keyser verhoorde die <rhyme label="a" type="f">sprake</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Hoe dat wi waren <rhyme label="b" type="m">ghequelt</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Hi comt sijne leghere doen <rhyme label="a" type="f" corresp="#s2:l1">maken</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Voor Cleflant in dat <rhyme label="b" type="m" corresp="#s2:l2">velt</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Hy wilt aenschouwen cleyn ende <rhyme label="c" type="m">groot</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Ende smijten die cleefsche ende geldersche <rhyme label="c" type="m" corresp="#s2:l5">doot</rhyme> |</l>
+        <l id="s2:l7" met="3" type="-+">Ghene pays en sal hen <rhyme label="d" type="f">baten</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Al sou den Aren sijn leuen om <rhyme label="d" type="f" corresp="#s2:l7">laten</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Den Aren is stout int <rhyme label="a" type="f">vlieghen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Met sijn vedere <rhyme label="b" type="m">wijt</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Hi sal den lelyen <rhyme label="a" type="f" corresp="#s3:l1">verdrijuen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Die Ghelders bloeme ter <rhyme label="b" type="m" corresp="#s3:l2">spijt</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Om dat si op ons draghen haet ende <rhyme label="c" type="m">nijt</rhyme>.</l>
+        <l id="s3:l6" met="4" type="-+">Sy meynden wi waren des Keyser <rhyme label="c" type="m" corresp="#s3:l5">quijt</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Maer neen godt danck den <rhyme label="d" type="f">heere</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Hy comet hen den crijch <rhyme label="d" type="f" corresp="#s3:l7">verleeren</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Waer is den verrader <rhyme label="a" type="f">gheuaren</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Die lest mael voor Louen <rhyme label="b" type="m">was</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Het viel hem suer om <rhyme label="a" type="f" corresp="#s4:l1">draghen</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Het ransoen datmen hem daer <rhyme label="b" type="m" corresp="#s4:l2">gaf</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Van clooten  van poyere  was een <rhyme label="c" type="m">abuys</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Hy moest dan lopen totten coninck <rhyme label="c" type="m" corresp="#s4:l5">huys</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Om dat Ransioen te <rhyme label="d" type="f">draghen</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Dat hem die louenaers <rhyme label="d" type="f" corresp="#s4:l7">gauen</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Het mosten hem wel seer <rhyme label="a" type="f">spijten</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Den schellem den <rhyme label="b" type="m">onverlaet</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">in sijne breydel <rhyme label="a" type="f" corresp="#s5:l1">bijten</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Al om te wreeken sijn <rhyme label="b" type="m" corresp="#s5:l2">quaet</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Om dat hi te Lueuen niet en binne en <rhyme label="c" type="m">quam</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">Met alle sijn verraders <rhyme label="c" type="m" corresp="#s5:l5">lam</rhyme></l>
+        <l id="s5:l7" met="3" type="-+">Die hi daer in hadde <rhyme label="d" type="f">bescreuen</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">En Iochendaelders hadde <rhyme label="d" type="f" corresp="#s5:l7">ghegheuen</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Ghy borgoensche en wilt niet <rhyme label="a" type="f">trueren</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Schafft weder om eenen huepschen <rhyme label="b" type="m">moet</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">Na suere comt <rhyme label="a" type="f" corresp="#s6:l1">tsuete</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Al vallet v teghen <rhyme label="b" type="m" corresp="#s6:l2">spoet</rhyme></l>
+        <l id="s6:l5" met="4" type="-+">Hebdy verloren eenich <rhyme label="c" type="m">goet</rhyme></l>
+        <l id="s6:l6" met="4" type="-+">Verwacht den Keyser met der <rhyme label="c" type="m" corresp="#s6:l5">spoet</rhyme></l>
+        <l id="s6:l7" met="3" type="-+">En wilt hem blijuen <rhyme label="d" type="f">ghetrouwe</rhyme></l>
+        <l id="s6:l8" met="3" type="-+">Ghi sult winnen die croone van <rhyme label="d" type="f" corresp="#s6:l7">gouwe</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Maer die dit heeft <rhyme label="a" type="f">ghesonghen</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Oft diet eerst mael <rhyme label="b" type="m">sanck</rhyme></l>
+        <l id="s7:l3" met="3" type="-+">Hy sprack met vlaemsche <rhyme label="a" type="f" corresp="#s7:l1">tonghen</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">Gheboren al in <rhyme label="b" type="m" corresp="#s7:l2">Brabant</rhyme></l>
+        <l id="s7:l5" met="4" type="-+">Van blijschap drinckt hy geerne den <rhyme label="c" type="m">wijn</rhyme>.</l>
+        <l id="s7:l6" met="4" type="-+">Lijf en goet is voor den Keyser <rhyme label="c" type="m" corresp="#s7:l5">fijn</rhyme> |</l>
+        <l id="s7:l7" met="3" type="-+">Wi willent met hem <rhyme label="d" type="f">waghen</rhyme></l>
+        <l id="s7:l8" met="3" type="-+">En bi staen tot alle sijn <rhyme label="d" type="f" corresp="#s7:l7">daghen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

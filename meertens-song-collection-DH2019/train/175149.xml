@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175149</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Korentje, dat er zoo weelderig <rhyme label="a" type="m">wast</rhyme>!</l>
+        <l id="s1:l2" met="4" type="+-">Hoe zijn uw halmen zoo dun en zoo <rhyme label="b" type="f">spichtig</rhyme>?</l>
+        <l id="s1:l3" met="4" type="+-">'k Zie ze daar ginder wel dubbel zoo <rhyme label="b" type="f" corresp="#s1:l2">wigtig</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Schoon er hun lengte niet half bij u <rhyme label="a" type="m" corresp="#s1:l1">past</rhyme>;</l>
+        <l id="s1:l5" met="4" type="+-">Toch staat ge lekker in 't kleijige <rhyme label="c" type="m">land</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">En 't is daar ginder meest allemaal <rhyme label="c" type="m" corresp="#s1:l5">zand</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">'k Vrees, als de landheer zijn koren <rhyme label="a" type="m">vergaârt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Dat hij niet eens u tot schoven laat <rhyme label="b" type="f">binden</rhyme>;</l>
+        <l id="s2:l3" met="4" type="+-">Dat hij maar stroo en maar sprieten zal <rhyme label="b" type="f" corresp="#s2:l2">vinden</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">D'akker en 't oogsten en dorschen <rhyme label="a" type="m" corresp="#s2:l1">onwaard'</rhyme>;</l>
+        <l id="s2:l5" met="4" type="+-">Dat hij, te onvreden hoe weinig je <rhyme label="c" type="m">gaf</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Mooglijk uw halmen in 't vuur gooit bij 't <rhyme label="c" type="m" corresp="#s2:l5">kaf</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">'t Vette der aarde, dat was u <rhyme label="a" type="m">gegund</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Mits ge ook een dubbeltal korrels zoudt <rhyme label="b" type="f">geven</rhyme>;</l>
+        <l id="s3:l3" met="4" type="+-">Niet, om alleen voor u zelf maar te <rhyme label="b" type="f" corresp="#s3:l2">leven</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">En om te groeijen zoo hoog als ge <rhyme label="a" type="m" corresp="#s3:l1">kunt</rhyme>;</l>
+        <l id="s3:l5" met="4" type="+-">Niet, om te worden tot nutteloos <rhyme label="c" type="m">stroo</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Hadt ge die plek en dat akkertje <rhyme label="c" type="m" corresp="#s3:l5">zoo</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Korentje, dat er zoo weelderig <rhyme label="a" type="m">wast</rhyme>!</l>
+        <l id="s4:l2" met="4" type="+-">Mogten toch velen uit dorpen en <rhyme label="b" type="f">steden</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">Met me dat paadje langs je akker <rhyme label="b" type="f" corresp="#s4:l2">betreden</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Ligt dat uw voorbeeld op enklen wel <rhyme label="a" type="m" corresp="#s4:l1">past</rhyme>:</l>
+        <l id="s4:l5" met="4" type="+-">Ik voor het minste, dat staat bij me <rhyme label="c" type="m">vast</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Zal er om denken, hoe weeldrig gij <rhyme label="c" type="m" corresp="#s4:l5">wast</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22411</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="pinksterlied" translation="Pentecostal song">pinksterlied</tag>
+    </tags>
+    <melody>Veni creator spiritus</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Compt God Schepper heylighe <rhyme label="a" type="m">Gheest</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Besoeckt der menschen herten alder <rhyme label="a" type="m" corresp="#s1:l1">eest</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Wilt die met ghenaden <rhyme label="b" type="m">hier</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Veruullen en raden <rhyme label="b" type="m" corresp="#s1:l3">fier</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Want ghi zijt genaempt een Trooster <rhyme label="a" type="m">zoet</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Vant alderhoochste eewich <rhyme label="a" type="m" corresp="#s2:l1">goet</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Een gheestelijcke salue <rhyme label="b" type="m">ient</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Fonteyne leuende, lieflijck vier <rhyme label="b" type="m" corresp="#s2:l3">bekent</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ontsteeckt een licht in ons <rhyme label="a" type="m">verstant</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Gheeft onse herten der liefden <rhyme label="a" type="m" corresp="#s3:l1">brant</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Des vleesches swackheyt <rhyme label="b" type="m">openbaer</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Helpt ende sterckt met u cracht <rhyme label="b" type="m" corresp="#s3:l3">claer</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ghy zijt van ons in dit <rhyme label="a" type="m">gheschrey</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Om uwen gaeuen <rhyme label="a" type="m" corresp="#s4:l1">seuenderley</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Een vingher Godts en Vaders <rhyme label="b" type="m">woort</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Ghenaempt en ouer al <rhyme label="b" type="m" corresp="#s4:l3">ghehoort</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Des vyants list van ons <rhyme label="a" type="m">verdrijft</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Gheeft ons dijn vrede in u <rhyme label="a" type="m" corresp="#s5:l1">verstijft</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Op dat wy gheeren lijdtsaem <rhyme label="b" type="m">syn</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">En mijden der Sielen schade <rhyme label="b" type="m" corresp="#s5:l3">fyn</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Leert ons den Vader kennen <rhyme label="a" type="m">snel</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Daer toe oock Jhesum Christum <rhyme label="a" type="m" corresp="#s6:l1">wel</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Dat wy u doort ghelooue <rhyme label="b" type="m">zaen</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">In den Gheest leeren <rhyme label="b" type="m" corresp="#s6:l3">verstaen</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Lof sy Godt Vader en Sone <rhyme label="a" type="m">altijt</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">Die van den dooden ons <rhyme label="a" type="m" corresp="#s7:l1">beurijt</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Den Trooster sy oock lof <rhyme label="b" type="m">gheseyt</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Nu en tot in der <rhyme label="b" type="m" corresp="#s7:l3">eewicheyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

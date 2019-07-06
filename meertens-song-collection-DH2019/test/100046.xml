@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100046</id>
+    <date>
+      <year-start>1652</year-start>
+      <year-end>1652</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Krelis zei zij Krelis kind</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">'t SOet gesigt van <rhyme label="a" type="m">Catharijn</rhyme>,</l>
+        <l id="s1:l2" met="5" type="+-">Maeckt mijn Geesje droncken sonder <rhyme label="a" type="m" corresp="#s1:l1">VVijn</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">S'is een Meyt // die soete treckjes <rhyme label="b" type="m">heyt</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En somtijts met een <rhyme label="c" type="m">krul</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Mij maeckt asl <rhyme label="c" type="m" corresp="#s1:l4">Dul</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Laest mijn Zieltje half <rhyme label="a" type="m">sad</rhyme></l>
+        <l id="s2:l2" met="5" type="+-">Haer eens om een lecker kusjen <rhyme label="a" type="m" corresp="#s2:l1">bad</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Sey sy Knecht // Gaet houdje beentjes <rhyme label="b" type="m">recht</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">En komt dan alsje <rhyme label="c" type="m">wil</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Maer swijght doch <rhyme label="c" type="m" corresp="#s2:l4">stil</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Ick verswoer de droncke <rhyme label="a" type="m">Kan</rhyme>,</l>
+        <l id="s3:l2" met="5" type="+-">En ley op haer lieve Kaeckjes <rhyme label="a" type="m" corresp="#s3:l1">an</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Daer mijn Ieugt // Genoot by kans zijn <rhyme label="b" type="m">vreugt</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Maer verder was mijn <rhyme label="c" type="m">lust</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">En eer geen <rhyme label="c" type="m" corresp="#s3:l4">rust</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Caetje lief ick wenschte <rhyme label="a" type="m">wel</rhyme>.</l>
+        <l id="s4:l2" met="5" type="+-">Dat ick was mee'n vratje op jou <rhyme label="a" type="m" corresp="#s4:l1">vel</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">'k Was dan staeg // gelaeft en altijt <rhyme label="b" type="m">graegh</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Of schoon den Nectar <rhyme label="c" type="m">Dou</rhyme>,</l>
+        <l id="s4:l5" met="2" type="-+">My drencken <rhyme label="c" type="m" corresp="#s4:l4">sou</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

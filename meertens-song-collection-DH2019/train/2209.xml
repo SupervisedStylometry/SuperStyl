@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2209</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Rozemond waar gij vliedt</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Joan Blasius</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">CElestyn, die ik <rhyme label="a" type="m">min</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Als Voogdesse van mijn <rhyme label="a" type="m" corresp="#s1:l1">sin</rhyme>,</l>
+        <l id="s1:l3" met="5" type="+-">Die ontfangt alleen mijn <rhyme label="b" type="m">geneegentheyd</rhyme>,</l>
+        <l id="s1:l4" met="5" type="+-">Die sich door mijn boesem heeft <rhyme label="b" type="m" corresp="#s1:l3">verspreit</rhyme>,</l>
+        <l id="s1:l5" met="3" type="+-">Geef doch eensjes <rhyme label="c" type="m">acht</rhyme></l>
+        <l id="s1:l6" met="3" type="+-">Op mijn <rhyme label="c" type="m" corresp="#s1:l5">Minne-klacht</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Daar my uw Deugd toe <rhyme label="c" type="m" corresp="#s1:l5">bracht</rhyme>:</l>
+        <l id="s1:l8" met="3" type="+-">Seg maar met een <rhyme label="d" type="m">woord</rhyme></l>
+        <l id="s1:l9" met="4" type="+-">Of mijn droefheid enden <rhyme label="e" type="m">sal</rhyme>,</l>
+        <l id="s1:l10" met="4" type="+-">Dan of ik u niet <rhyme label="e" type="m" corresp="#s1:l9">geval</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Hoort gy niet hoe de <rhyme label="a" type="m">brand</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Singen doet uw <rhyme label="a" type="m" corresp="#s2:l1">Fidamant</rhyme>?</l>
+        <l id="s2:l3" met="5" type="+-">Sijn gesang dat klinkt op Maas en <rhyme label="b" type="m">Y</rhyme>,</l>
+        <l id="s2:l4" met="5" type="+-">Tot een teekken van sijn <rhyme label="b" type="m" corresp="#s2:l3">minnery</rhyme>.</l>
+        <l id="s2:l5" met="3" type="+-">Of gy al vlucht <rhyme label="c" type="m">weg</rhyme>,</l>
+        <l id="s2:l6" met="3" type="+-">Langs de Beemster <rhyme label="c" type="m" corresp="#s2:l5">weg</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Na d'Hof-stee achter <rhyme label="c" type="m" corresp="#s2:l5">d'Heg</rhyme>,</l>
+        <l id="s2:l8" met="3" type="+-">Tusschen <rhyme label="d" type="m">Else-blaan</rhyme>,</l>
+        <l id="s2:l9" met="4" type="+-">'t Is vergeefs; uw <rhyme label="e" type="m">Fidamant</rhyme></l>
+        <l id="s2:l10" met="4" type="+-">Soekt u pad na in het <rhyme label="e" type="m" corresp="#s2:l9">Land</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="+-">Lust u dan dat ik <rhyme label="a" type="m">ly</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Als gevangen door <rhyme label="a" type="m" corresp="#s3:l1">gevry</rhyme>?</l>
+        <l id="s3:l3" met="5" type="+-">Ey het lust nu dan uw Nymfjen <rhyme label="b" type="m">ook</rhyme>,</l>
+        <l id="s3:l4" met="5" type="+-">Dat uw hand uit meedely my <rhyme label="b" type="m" corresp="#s3:l3">strook</rhyme>.</l>
+        <l id="s3:l5" met="3" type="+-">Leg die op mijn <rhyme label="c" type="m">Mond</rhyme></l>
+        <l id="s3:l6" met="3" type="+-">Mijne <rhyme label="c" type="m" corresp="#s3:l5">Minne-wond</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Word weeder heel <rhyme label="c" type="m" corresp="#s3:l5">terstond</rhyme>.</l>
+        <l id="s3:l8" met="3" type="+-">Om die hand voeld <rhyme label="d" type="m">ik</rhyme></l>
+        <l id="s3:l9" met="4" type="+-">d'Eerste wellust in mijn <rhyme label="e" type="m">Hart</rhyme>,</l>
+        <l id="s3:l10" met="4" type="+-">En nu ook om die mijn <rhyme label="e" type="m" corresp="#s3:l9">smart</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

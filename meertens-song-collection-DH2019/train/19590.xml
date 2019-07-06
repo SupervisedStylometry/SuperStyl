@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19590</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="moralistisch lied" translation="moralistic song">moralistisch lied</tag>
+      <tag standard-name="spotlied" translation="mocking song">spotlied</tag>
+    </tags>
+    <melody>Volez petit archer</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Thomas Fonteyn</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">O Feeksen! die u wufte <rhyme label="a" type="f">zinnerampen</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Volop komt aan uw goede Gaden <rhyme label="a" type="f" corresp="#s1:l1">klampen</rhyme>:</l>
+        <l id="s1:l3" met="5" type="-+">Foei uw eer gloeid als eenen vlam van <rhyme label="a" type="f" corresp="#s1:l1">lampen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Nog torst u Minnebrand om Min te <rhyme label="a" type="f">plegen</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Met die, die nooit u wreevel kan <rhyme label="a" type="f" corresp="#s2:l1">beweegen</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Dat gy, tot hem, u toond, te zijn, <rhyme label="a" type="f" corresp="#s2:l1">geneegen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Men zouw, zo het getall noch meerder <rhyme label="a" type="f">hoefde</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Van Nikkers, u, wen gy zo breinloos <rhyme label="a" type="f" corresp="#s3:l1">schroefde</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Gebruikken, om te plagen de <rhyme label="a" type="f" corresp="#s3:l1">bedroefde</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">V gailheid, zouw ‘er lust niet konnen <rhyme label="a" type="f">zaden</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Al wierze met de zwufte zwim <rhyme label="a" type="f" corresp="#s4:l1">beladen</rhyme></l>
+        <l id="s4:l3" met="5" type="-+">Van Zatyrs kriel, en dartle <rhyme label="a" type="f" corresp="#s4:l1">Minnebaden</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Messalina beroemder dat <rhyme label="a" type="f">z’onmagtig</rhyme></l>
+        <l id="s5:l2" met="5" type="-+">Gemaakt had twintig mannen, sterk en <rhyme label="a" type="f" corresp="#s5:l1">krachtig</rhyme>,</l>
+        <l id="s5:l3" met="5" type="-+">Op enen tijd, en nog niet zat was <rhyme label="a" type="f" corresp="#s5:l1">zmagtig</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="5" type="-+">Hier nu ‘t bezluit; de Vrou, ‘et znoodst van <rhyme label="a" type="f">allen</rhyme>,</l>
+        <l id="s6:l2" met="5" type="-+">Heeft ons deur heur bezukt en mallend <rhyme label="a" type="f" corresp="#s6:l1">mallen</rhyme>,</l>
+        <l id="s6:l3" met="5" type="-+">Ellendig, zie ‘er doente, laten <rhyme label="a" type="f" corresp="#s6:l1">vallen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

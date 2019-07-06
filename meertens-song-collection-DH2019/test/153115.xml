@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>153115</id>
+    <date>
+      <year-start>1686</year-start>
+      <year-end>1686</year-end>
+    </date>
+    <location>
+      <orginal-name>franeker</orginal-name>
+      <standard-name>Franeker</standard-name>
+      <coordinates>
+        <lon>53.1904513</lon>
+        <lat>5.5417414</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Als Daphnis einst spazieren ging</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Siet, gi sijt weergaaloos <rhyme label="a" type="m">schoon</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Lievste Bruid'gom, Godes <rhyme label="a" type="m" corresp="#s1:l1">soon</rhyme>!</l>
+        <l id="s1:l3" met="4" type="+-">Gi sijt gansch vol <rhyme label="b" type="f">liev'lijkheden</rhyme>:</l>
+        <l id="s1:l4" met="4" type="+-">Ons voortreff'lijk bedsteed <rhyme label="c" type="m">bloeit</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Dat 'er groente vrak <rhyme label="c" type="m" corresp="#s1:l4">uitgroeit</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Als uit vruchtb're <rhyme label="b" type="f" corresp="#s1:l3">akker-steeden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Onse huisingen sijn <rhyme label="a" type="m">sterk</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Onvergank'lijk <rhyme label="a" type="m" corresp="#s2:l1">ced'ren-werk</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Sijn haar vaste <rhyme label="b" type="f">balken-rijen</rhyme>;</l>
+        <l id="s2:l4" met="4" type="+-">Van het best cypressen <rhyme label="c" type="m">hout</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Sijn seer aangenaam <rhyme label="c" type="m" corresp="#s2:l4">geboud</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Ons doorluchte <rhyme label="b" type="f" corresp="#s2:l3">galerijen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

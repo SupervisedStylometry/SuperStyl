@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>112166</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>De droefheid kan geen plaats meer in mijn hart bekomen</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">TOen kloris zat en sliep op 't groen kamil, <rhyme label="a" type="f">bezyen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Een <rhyme label="b" type="m">Kristalyne-Watervliet</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Stal ik, o! mont vol <rhyme label="a" type="f" corresp="#s1:l1">honing-byen</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Een busje, zoeter als het zoetste Suiker <rhyme label="b" type="m" corresp="#s1:l2">riet</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Juist, alszy voelt haar lipjes <rhyme label="c" type="f">raken</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Doet haar een snelle schrik <rhyme label="c" type="f" corresp="#s1:l5">ontwaken</rhyme>,</l>
+        <l id="s1:l7" met="6" type="-+">Zy vlugt; en vliegt verbaast en vaagt met teder <rhyme label="d" type="m">gras</rhyme></l>
+        <l id="s1:l8" met="6" type="-+">'t Gekuste montje, als of't van my vergiftigt <rhyme label="d" type="m" corresp="#s1:l7">was</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Ach! Lief, my is vergif, maar u niet, by <rhyme label="a" type="f">gebleeven</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Ay! vlucht niet, roep ik, hoor myn <rhyme label="b" type="m">bee</rhyme>!</l>
+        <l id="s2:l3" met="4" type="-+">Wilt ghy niet luisteren; myn <rhyme label="a" type="f" corresp="#s2:l1">leeven</rhyme></l>
+        <l id="s2:l4" met="6" type="-+">Verlies ik door een zoet en zeltsaam harte <rhyme label="b" type="m" corresp="#s2:l2">wee</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Veel sneller als diana's <rhyme label="c" type="f">Winden</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Schiet zy door net geplante <rhyme label="c" type="f" corresp="#s2:l5">Linden</rhyme>.</l>
+        <l id="s2:l7" met="6" type="-+">Ach! Bitterheylig! ach! Dat kusje, proef ik, <rhyme label="d" type="m">is</rhyme></l>
+        <l id="s2:l8" met="6" type="-+">Veel bitterder als roet en bitter <rhyme label="d" type="m" corresp="#s2:l7">waterlis</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

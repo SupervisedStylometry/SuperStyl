@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>164667</id>
+    <date>
+      <year-start>1694</year-start>
+      <year-end>1694</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Cornelis Sweerts</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Wyl u 't geluk schynt te <rhyme label="a" type="f">paaren</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Nu dat uw Lente <rhyme label="b" type="m">bloeit</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Zo leef, zo leef en sterf in 't <rhyme label="a" type="f" corresp="#s1:l1">Vergaaren</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Daar de liefde bloeit en <rhyme label="b" type="m" corresp="#s1:l2">groeit</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

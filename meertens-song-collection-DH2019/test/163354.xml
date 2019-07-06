@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>163354</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Ei sta wat goelijk meisje</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Waar toe dus <rhyme label="a" type="f">opgeblasen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Verwaande,   die, vol <rhyme label="b" type="m">moed</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Als watergolven <rhyme label="a" type="f" corresp="#s1:l1">rasen</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Die een stormwind swellen <rhyme label="b" type="m" corresp="#s1:l2">doet</rhyme>!</l>
+        <l id="s1:l5" met="3" type="-+">Wat poogd gy, trots, <rhyme label="c" type="f">verwaten</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Door uwe drift <rhyme label="d" type="m">verblind</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Na eer en hoge <rhyme label="c" type="f" corresp="#s1:l5">staten</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Die 't geval   soo ras <rhyme label="d" type="m" corresp="#s1:l6">verslind</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Wat kan u hoogmoed <rhyme label="a" type="f">winnen</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Met eer en hoog <rhyme label="b" type="m">gebied</rhyme>;</l>
+        <l id="s2:l3" met="3" type="-+">Wat vleid gy uwe <rhyme label="a" type="f" corresp="#s2:l1">sinnen</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Met een opgepronkte <rhyme label="b" type="m" corresp="#s2:l2">niet</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Die vele duysend <rhyme label="c" type="f">sorgen</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">In een vermomde <rhyme label="d" type="m">schyn</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Houd door haar glans <rhyme label="c" type="f" corresp="#s2:l5">verborgen</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Die   u onvernoegd doen <rhyme label="d" type="m" corresp="#s2:l6">syn</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Tragt gy te syn <rhyme label="a" type="f">gepresen</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Kiesd weldoen tot u <rhyme label="b" type="m">wit</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Doet uyt u daden <rhyme label="a" type="f" corresp="#s3:l1">lesen</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">'t Edel bloed dat gy <rhyme label="b" type="m" corresp="#s3:l2">besit</rhyme>;</l>
+        <l id="s3:l5" met="3" type="-+">Dan sult gy regt <rhyme label="c" type="f">beseffen</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Wat eer en luyster <rhyme label="d" type="m">geeft</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">en yder <rhyme label="c" type="f" corresp="#s3:l5">overtreffen</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">Die verwaand na eersugt <rhyme label="d" type="m" corresp="#s3:l6">streefd</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

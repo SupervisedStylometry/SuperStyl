@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188314</id>
+    <date>
+      <year-start>1780</year-start>
+      <year-end>1780</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Robin turelurelure</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Nu een Glas geleegd in 't <rhyme label="a" type="m">rond</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Want de Bruygom krygt al <rhyme label="b" type="f">kuuren</rhyme>:</l>
+        <l id="s1:l3" met="4" type="+-">Goede rys en lang <rhyme label="a" type="m" corresp="#s1:l1">gezond</rhyme></l>
+        <l id="s1:l4" met="2" type="+-">
+          <rhyme label="b" type="f" corresp="#s1:l2">Turelure</rhyme>
+        </l>
+        <l id="s1:l5" met="4" type="+-">Lang moet deeze Liefde <rhyme label="b" type="f" corresp="#s1:l2">duuren</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Robin <rhyme label="b" type="f" corresp="#s1:l2">Turelure</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

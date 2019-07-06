@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>180021</id>
+    <date>
+      <year-start>1757</year-start>
+      <year-end>1757</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Tranquilles coeurs</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Gelyk het wasch smelt door de <rhyme label="a" type="m">gloed</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Van Phebus goude <rhyme label="b" type="f">zonnestralen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Zoo smelt ook myn verliefd <rhyme label="a" type="m" corresp="#s1:l1">gemoed</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Door 't vuur dat uit uw oog komt <rhyme label="b" type="f" corresp="#s1:l2">dalen</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Ach! pronkbeeld der <rhyme label="c" type="m">Natuur</rhyme>,</l>
+        <l id="s1:l6" met="6" type="-+">Betoon my medely' in dit rampzalig <rhyme label="c" type="m" corresp="#s1:l5">uur</rhyme>;</l>
+        <l id="s1:l7" met="3" type="-+">Ach! pronkbeeld der <rhyme label="c" type="m" corresp="#s1:l5">Natuur</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Houw op, blaak my niet <rhyme label="d" type="m">meêr</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Wyl ik als wasch <rhyme label="d" type="m" corresp="#s1:l8">verteer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

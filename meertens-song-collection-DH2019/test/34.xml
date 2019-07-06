@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Ces nymphes dont les regards</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">EEn kussje <rhyme label="a" type="m">Rosemondt</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Tot lavingh vande <rhyme label="a" type="m" corresp="#s1:l1">wondt</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Die de glans van u <rhyme label="b" type="m">licht</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Heeft in mijn ziel <rhyme label="b" type="m" corresp="#s1:l3">gesticht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">De slibber gladde <rhyme label="a" type="m">Ael</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Gekloven door het <rhyme label="a" type="m" corresp="#s2:l1">staal</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Poocht noch staech in sijn <rhyme label="b" type="m">pijn</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">By d'ander helft te <rhyme label="b" type="m" corresp="#s2:l3">sijn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Soo haeckt mijn zieltje <rhyme label="a" type="m">mee</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Geduerich na de <rhyme label="a" type="m" corresp="#s3:l1">stee</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Daermen sijn vryheyt <rhyme label="b" type="m">nam</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">En gaf den romp ten <rhyme label="b" type="m" corresp="#s3:l3">vlam</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Laeft dan mijn brandent <rhyme label="a" type="m">hart</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Tot slinckingh van mijn <rhyme label="a" type="m" corresp="#s4:l1">smart</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Met een kus van u <rhyme label="b" type="m">mont</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">En maeck mijn weer <rhyme label="b" type="m" corresp="#s4:l3">gesont</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

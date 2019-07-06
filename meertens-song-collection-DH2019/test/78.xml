@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>78</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>La Vignonne</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">DEucht yverende <rhyme label="a" type="m">Maagt</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Wiens schoonheyt, de faam ten, blaauw gewelfsel <rhyme label="a" type="m" corresp="#s1:l1">draagt</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Roem-waarde <rhyme label="b" type="m">Son</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Soo ik u <rhyme label="b" type="m" corresp="#s1:l3">kon</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Ten Hemel heffen ik <rhyme label="b" type="m" corresp="#s1:l3">begon</rhyme>,</l>
+        <l id="s1:l6" met="1" type="-+">Doch <rhyme label="c" type="f">leyend'</rhyme>,</l>
+        <l id="s1:l7" met="1" type="-+">En <rhyme label="c" type="f" corresp="#s1:l6">vleyend'</rhyme></l>
+        <l id="s1:l8" met="1" type="-+">Mijn <rhyme label="d" type="m">sin</rhyme>,</l>
+        <l id="s1:l9" met="1" type="-+"><rhyme label="d" type="m" corresp="#s1:l8">Goddin</rhyme>,</l>
+        <l id="s1:l10" met="2" type="-+">Ik nergens <rhyme label="d" type="m" corresp="#s1:l8">vin</rhyme>,</l>
+        <l id="s1:l11" met="2" type="+-">Genoegsaam <rhyme label="e" type="m">stof</rhyme>;</l>
+        <l id="s1:l12" met="2" type="-+">Doch met <rhyme label="e" type="m" corresp="#s1:l11">verlof</rhyme>,</l>
+        <l id="s1:l13" met="4" type="-+">Door snuffel ik u schoonheyts <rhyme label="e" type="m" corresp="#s1:l11">hof</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Cornelia 't <rhyme label="a" type="m">gegluur</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Vws oogjes vol soet gestraal en <rhyme label="a" type="m" corresp="#s2:l1">Hemel-vuur</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Praalt of de <rhyme label="b" type="m">Son</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">Sijn kruyn <rhyme label="b" type="m" corresp="#s2:l3">begon</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Te steecken uyt Neptuns <rhyme label="b" type="m" corresp="#s2:l3">bron</rhyme></l>
+        <l id="s2:l6" met="1" type="-+">V <rhyme label="c" type="f">oogjes</rhyme>,</l>
+        <l id="s2:l7" met="1" type="-+">Met <rhyme label="c" type="f" corresp="#s2:l6">boogjes</rhyme>,</l>
+        <l id="s2:l8" met="1" type="-+"><rhyme label="d" type="m">Beset</rhyme>,</l>
+        <l id="s2:l9" met="1" type="-+">Juyst <rhyme label="d" type="m" corresp="#s2:l8">net</rhyme>,</l>
+        <l id="s2:l10" met="2" type="-+">Als of se <rhyme label="d" type="m" corresp="#s2:l8">met</rhyme>,</l>
+        <l id="s2:l11" met="2" type="+-">Apelles <rhyme label="e" type="m">hant</rhyme>,</l>
+        <l id="s2:l12" met="2" type="-+">Waaren <rhyme label="e" type="m" corresp="#s2:l11">geplant</rhyme></l>
+        <l id="s2:l13" met="4" type="-+">Cieren als 't Gout den <rhyme label="e" type="m" corresp="#s2:l11">Diamant</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Gy sticht in u <rhyme label="a" type="m">gemoet</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">Een Tempel: voor d' Hemel-prins met al sijn <rhyme label="a" type="m" corresp="#s3:l1">stoet</rhyme>:</l>
+        <l id="s3:l3" met="2" type="-+">Alwaar de <rhyme label="b" type="m">reen</rhyme>,</l>
+        <l id="s3:l4" met="2" type="-+">Voor an komt <rhyme label="b" type="m" corresp="#s3:l3">treen</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Als vaader vande goede <rhyme label="b" type="m" corresp="#s3:l3">seen</rhyme>:</l>
+        <l id="s3:l6" met="1" type="-+">V <rhyme label="c" type="f">leden</rhyme>,</l>
+        <l id="s3:l7" met="1" type="-+"><rhyme label="c" type="f" corresp="#s3:l6">Besneden</rhyme>,</l>
+        <l id="s3:l8" met="1" type="-+">En <rhyme label="d" type="m">net</rhyme>,</l>
+        <l id="s3:l9" met="1" type="-+">
+          <rhyme label="d" type="m" corresp="#s3:l8">Omset</rhyme>
+        </l>
+        <l id="s3:l10" met="2" type="-+">Met poeslig <rhyme label="d" type="m" corresp="#s3:l8">vet</rhyme>,</l>
+        <l id="s3:l11" met="2" type="+-">V <rhyme label="e" type="m">geestigheyt</rhyme></l>
+        <l id="s3:l12" met="2" type="-+">ô Soete <rhyme label="e" type="m" corresp="#s3:l11">meyt</rhyme>,</l>
+        <l id="s3:l13" met="4" type="-+">Toont dat gy geen boerin en <rhyme label="e" type="m" corresp="#s3:l11">sijt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

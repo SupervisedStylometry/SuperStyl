@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36022</id>
+    <date>
+      <year-start>1664</year-start>
+      <year-end>1664</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen [=amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+    </tags>
+    <melody>O zalig heilig Bethlehem</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author>Joannes van Dyck</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Saligh heyligh <rhyme label="a" type="m">Bethlehem</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">O onder duysent <rhyme label="b" type="f">uytverkoren</rhyme>!</l>
+        <l id="s1:l3" met="4" type="-+">Ver-eert boven <rhyme label="a" type="m" corresp="#s1:l1">Ierusalem</rhyme>:</l>
+        <l id="s1:l4" met="4" type="-+">Want Iesus is in u <rhyme label="b" type="f" corresp="#s1:l2">gebooren</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O Bethlehem kleyn groote <rhyme label="a" type="m">stadt</rhyme>!</l>
+        <l id="s2:l2" met="4" type="-+">Cleyn van begrijp, maer groot van <rhyme label="b" type="f">weerden</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Ghy zijt dat alder-eelste <rhyme label="a" type="m" corresp="#s2:l1">vat</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">En d’alder-rijckste stadt der <rhyme label="b" type="f" corresp="#s2:l2">eerden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Verheught u dan, o <rhyme label="a" type="m">Israël</rhyme>!</l>
+        <l id="s3:l2" met="4" type="-+">Hoe mochtm’ u blijder bootschap <rhyme label="b" type="f">bringen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Tot u soo komt <rhyme label="a" type="m" corresp="#s3:l1">Emanuël</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Wilt uyt der sonden slaep <rhyme label="b" type="f" corresp="#s3:l2">ontspringen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">O Coninck Christe; o Prince <rhyme label="a" type="m">groot</rhyme>!</l>
+        <l id="s4:l2" met="4" type="-+">Hoe wort ghy hier aldus <rhyme label="b" type="f">gevonden</rhyme>?</l>
+        <l id="s4:l3" met="4" type="-+">In hoy, in stroy, in sulcke <rhyme label="a" type="m" corresp="#s4:l1">noot</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">In arme doeckskens teer <rhyme label="b" type="f" corresp="#s4:l2">gewonden</rhyme>?</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Ghy hebt dit Firmament <rhyme label="a" type="m">gemaeckt</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Al waer u loven ‘s Hemels <rhyme label="b" type="f">geesten</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Maer nu geheel bloot ende <rhyme label="a" type="m" corresp="#s5:l1">naeckt</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Light ghy in ‘t midden van de <rhyme label="b" type="f" corresp="#s5:l2">beesten</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Ghy wort geboren in een <rhyme label="a" type="m">stal</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Niemandt bekent in de nacht <rhyme label="b" type="f">stille</rhyme>!</l>
+        <l id="s6:l3" met="4" type="-+">Maer d’Engelen singen over <rhyme label="a" type="m" corresp="#s6:l1">al</rhyme>:</l>
+        <l id="s6:l4" met="4" type="-+">Peys met den mensch van goeden <rhyme label="b" type="f" corresp="#s6:l2">wille</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">O machtigh Godt, ô Iesu <rhyme label="a" type="m">soet</rhyme>!</l>
+        <l id="s7:l2" met="4" type="-+">Wat liefd’ heeft u daer toe <rhyme label="b" type="f">getrocken</rhyme>?</l>
+        <l id="s7:l3" met="4" type="-+">Dat hy aenneemt ons vleesch en <rhyme label="a" type="m" corresp="#s7:l1">bloet</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Om ons tot u alsoo te <rhyme label="b" type="f" corresp="#s7:l2">locken</rhyme>?</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Comt tot dit Kindt ghy Adams <rhyme label="a" type="m">kindt</rhyme>,</l>
+        <l id="s8:l2" met="4" type="-+">Hoe kondt ghy noch de werelt <rhyme label="b" type="f">minnen</rhyme>?</l>
+        <l id="s8:l3" met="4" type="-+">Siet hoe Iesus hem met v <rhyme label="a" type="m" corresp="#s8:l1">bindt</rhyme>,</l>
+        <l id="s8:l4" met="4" type="-+">Offert hem heel u hert en <rhyme label="b" type="f" corresp="#s8:l2">sinnen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

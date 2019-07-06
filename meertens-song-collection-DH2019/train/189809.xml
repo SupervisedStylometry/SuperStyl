@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>189809</id>
+    <date>
+      <year-start>1794</year-start>
+      <year-end>1794</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Het vinnige stralen van de zon</melody>
+  <author>Jan van Eijk</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Mijn herder hoorde lantst bij 't <rhyme label="a" type="m">vee</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Een kreupel schaapje <rhyme label="b" type="f">klaagen</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Hij nam het op zijn schouder <rhyme label="a" type="m" corresp="#s1:l1">meê</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Zoo heeft hij 't <rhyme label="b" type="f" corresp="#s1:l2">weggedraagen</rhyme>.</l>
+        <l id="s1:l5" met="2" type="-+">Ik dagt: Zoo <rhyme label="c" type="m">teêr</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Is Jesus, ja nog <rhyme label="c" type="m" corresp="#s1:l5">meer</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Mijn lust en <rhyme label="b" type="f" corresp="#s1:l2">welbehaagen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Welaan! mijn kranke ziel! schep <rhyme label="a" type="m">moed</rhyme>!</l>
+        <l id="s2:l2" met="3" type="-+">Ontboezem vrij uw <rhyme label="b" type="f">harte</rhyme>!</l>
+        <l id="s2:l3" met="4" type="-+">'t Is Jesus, die u teder <rhyme label="a" type="m" corresp="#s2:l1">hoedt</rhyme>.</l>
+        <l id="s2:l4" met="3" type="-+">Klaag vrij aan Hem uw <rhyme label="b" type="f" corresp="#s2:l2">smarte</rhyme>.</l>
+        <l id="s2:l5" met="2" type="-+">Zijn hand <rhyme label="c" type="m">geneest</rhyme>.</l>
+        <l id="s2:l6" met="3" type="-+">Ook gaan altoos het <rhyme label="c" type="m" corresp="#s2:l5">meest</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">De zwakste Hem ter <rhyme label="b" type="f" corresp="#s2:l2">harte</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

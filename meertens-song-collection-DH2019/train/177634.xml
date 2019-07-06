@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>177634</id>
+    <date>
+      <year-start>1774</year-start>
+      <year-end>1774</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Psalm 003 Datheen</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Hoe vreeslijk groeit, o <rhyme label="a" type="m">God</rhyme>!</l>
+        <l id="s1:l2" met="3" type="-+">Het saamgezwooren <rhyme label="a" type="m" corresp="#s1:l1">rot</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Der genen, die mij <rhyme label="b" type="f">drukken</rhyme>;</l>
+        <l id="s1:l4" met="3" type="-+">Zij maaken niet <rhyme label="c" type="m">alleen</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Den opstand <rhyme label="c" type="m" corresp="#s1:l4">algemeen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Om mij mijn kroon <rhyme label="b" type="f" corresp="#s1:l3">t'ontrukken</rhyme>;</l>
+        <l id="s1:l7" met="3" type="-+">Maar, veelen doen van <rhyme label="d" type="m">mij</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Hoe bitter ik ook <rhyme label="d" type="m" corresp="#s1:l7">lij'</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Nog deze smaadtaal <rhyme label="e" type="f">hooren</rhyme>:</l>
+        <l id="s1:l10" met="3" type="-+">“God zal hem nu niet <rhyme label="f" type="m">meer</rhyme></l>
+        <l id="s1:l11" met="3" type="+-">Verlossen, als <rhyme label="f" type="m" corresp="#s1:l10">weleer</rhyme>;</l>
+        <l id="s1:l12" met="3" type="-+">Hem is geen heil <rhyme label="e" type="f" corresp="#s1:l9">beschooren</rhyme>.”</l>
+      </lg>
+    </lg>
+  </text>
+</song>

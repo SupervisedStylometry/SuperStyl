@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184428</id>
+    <date>
+      <year-start>1738</year-start>
+      <year-end>1738</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Johan Deknatel</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">LAat ons, ô zaalig <rhyme label="a" type="f">weezen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Uw' oop'ne Brieven <rhyme label="b" type="m">zyn</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Waarin op 't klaarst te <rhyme label="a" type="f" corresp="#s1:l1">leezen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Hoe 't uwe Liefde <rhyme label="b" type="m" corresp="#s1:l2">mein'</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Wat zy aan ons <rhyme label="c" type="f">verrichtet</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Waartoe zy ons <rhyme label="d" type="m">alsdan</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">In eeuwigheit <rhyme label="c" type="f" corresp="#s1:l5">verplichtet</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Hoe goed men worden <rhyme label="d" type="m" corresp="#s1:l6">kan</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Bewaar ons, Heer, te <rhyme label="a" type="f">zaamen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">By een op 's Kruices <rhyme label="b" type="m">weg</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Dat wy in uwen <rhyme label="a" type="f" corresp="#s2:l1">Naame</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Door 't eng van 's weerelds <rhyme label="b" type="m" corresp="#s2:l2">steg</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Van vlammend vuur <rhyme label="c" type="f">ontsteken</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Vereent in Liefde <rhyme label="d" type="m">gloed</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Al kampend, heene <rhyme label="c" type="f" corresp="#s2:l5">breeken</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Zo word nog alles <rhyme label="d" type="m" corresp="#s2:l6">goed</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

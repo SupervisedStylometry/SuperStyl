@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100144</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Het was een boer uit Vlaanderland</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">VErliefde Nimfjes die uw' <rhyme label="a" type="m">tyd</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Het zoetste van uw <rhyme label="b" type="f">leven</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">In droeve eenzaamheid <rhyme label="a" type="m" corresp="#s1:l1">verslyt</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Wilt u ten Egt begeven: Het al te lang <rhyme label="c" type="f">beraden</rhyme>,</l>
+        <l id="s1:l5" met="6" type="+-">Kan nooit de lust verzaden, En, o Meisje <rhyme label="d" type="m">maat</rhyme></l>
+        <l id="s1:l6" met="5" type="-+">U fleur vergaat, Zoo gy nog lang <rhyme label="d" type="m" corresp="#s1:l5">beraat</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

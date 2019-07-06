@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188521</id>
+    <date>
+      <year-start>1752</year-start>
+      <year-end>1752</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>J.W. Lustig</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">'k Beken, gy mint my, groote <rhyme label="a" type="m">held</rhyme>!</l>
+        <l id="s1:l2" met="4" type="-+">Gy hebt my dikwerf blyk <rhyme label="b" type="f">gegeven</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Hoe ik staa in uw ziel <rhyme label="b" type="f" corresp="#s1:l2">geschreven</rhyme>;</l>
+        <l id="s1:l4" met="4" type="+-">Tets is er echter dat my <rhyme label="a" type="m" corresp="#s1:l1">kwelt</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">En myn vergnoegen paalen <rhyme label="a" type="m" corresp="#s1:l1">stelt</rhyme>.</l>
+        <l id="s1:l6" met="2" type="-+">Gy dekt uw' <rhyme label="c" type="f">leden</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">met vrouwen <rhyme label="c" type="f" corresp="#s1:l6">kleeden</rhyme>;</l>
+        <l id="s1:l8" met="4" type="-+">Maar ach! gy zyt van godlyk <rhyme label="d" type="m">bloed</rhyme>;</l>
+        <l id="s1:l9" met="4" type="-+">Gy zyt met Leeuwenmerg <rhyme label="d" type="m" corresp="#s1:l8">gevoedt</rhyme>,</l>
+        <l id="s1:l10" met="4" type="-+">En van een onverschrokken <rhyme label="d" type="m" corresp="#s1:l8">moed</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Het noodlot spelde, dat de <rhyme label="a" type="m">wal</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Van Trooye zou door U <rhyme label="b" type="f">bezwyken</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Ulis zoekt U door alle <rhyme label="b" type="f" corresp="#s2:l2">ryken</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">'k Vrees; dat de eerzugt, tot myn <rhyme label="a" type="m" corresp="#s2:l1">val</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Uw min tot my verdooven <rhyme label="a" type="m" corresp="#s2:l1">zal</rhyme>.</l>
+        <l id="s2:l6" met="2" type="-+">'t Gebriesch der <rhyme label="c" type="f">paarden</rhyme>,</l>
+        <l id="s2:l7" met="2" type="-+">'t Geknars der <rhyme label="c" type="f" corresp="#s2:l6">zwaarden</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">'k Vrees alles; maar ik zweer U, <rhyme label="d" type="m">dat</rhyme></l>
+        <l id="s2:l9" met="4" type="-+">Indien ik minder liefde <rhyme label="d" type="m" corresp="#s2:l8">had</rhyme>,</l>
+        <l id="s2:l10" met="4" type="-+">My ook een minder vrees <rhyme label="d" type="m" corresp="#s2:l8">bezat</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

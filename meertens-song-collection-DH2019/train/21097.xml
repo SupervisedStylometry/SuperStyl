@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21097</id>
+    <date>
+      <year-start>1649</year-start>
+      <year-end>1649</year-end>
+    </date>
+    <location>
+      <orginal-name>zaandam</orginal-name>
+      <standard-name>Zaandam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.4424926</lon>
+        <lat>4.8298607</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Phoebus is lang over de zee</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Hendrik Jacobz. Soetenboom</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">FAma die komt ons <rhyme label="a" type="m">onverhoedt</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Blasen een nieuw geluyt in <rhyme label="b" type="f">d'ooren</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Van een nieuw' Echt-vergaringh <rhyme label="a" type="m" corresp="#s1:l1">soet</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Daer niet van is gehoort te <rhyme label="b" type="f" corresp="#s1:l2">vooren</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Opentlijck roept men het is <rhyme label="c" type="m">waer</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Mompelen hoort men hier en <rhyme label="c" type="m" corresp="#s1:l5">daer</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">'t Is een degelijck <rhyme label="c" type="m" corresp="#s1:l5">paer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Fama en segget de klappers <rhyme label="a" type="m">niet</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Die niet dan quaet en konnen <rhyme label="b" type="f">spreecken</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Nochte de spotters, die, soo men <rhyme label="a" type="m" corresp="#s2:l1">siet</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Loeren na ander lieden <rhyme label="b" type="f" corresp="#s2:l2">gebreecken</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">En elck steecken met haer <rhyme label="c" type="m">steert</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Segget den geenen wel <rhyme label="c" type="m" corresp="#s2:l5">geleert</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Die 't al ten besten <rhyme label="c" type="m" corresp="#s2:l5">keert</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Soo wie quaet spreeckt al eer hy 't <rhyme label="a" type="m">siet</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Sweegh hy maer stil wat soudt hem <rhyme label="b" type="f">schaden</rhyme>:</l>
+        <l id="s3:l3" met="4" type="+-">Heeft hy in anders deughden <rhyme label="a" type="m" corresp="#s3:l1">verdriet</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Kan het hem oock wat komen te <rhyme label="b" type="f" corresp="#s3:l2">staden</rhyme>?</l>
+        <l id="s3:l5" met="4" type="+-">Of het een klapper nu al <rhyme label="c" type="m">wist</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Heeft hy oock anders yet <rhyme label="c" type="m" corresp="#s3:l5">gevist</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Als tongh en tijdt <rhyme label="c" type="m" corresp="#s3:l5">verquist</rhyme>?</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Harders en Harderinnen, <rhyme label="a" type="m">heen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Maeckt u gereet na oude <rhyme label="b" type="f">wijse</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Schicket dit Jonge paer by <rhyme label="a" type="m" corresp="#s4:l1">een</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Dat u goet hart de jonste <rhyme label="b" type="f" corresp="#s4:l2">prijse</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">Dat ghy in deught bly-geestigh <rhyme label="c" type="m">zijt</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Ende met eeren na den <rhyme label="c" type="m" corresp="#s4:l5">tijdt</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">'t Geselschap zy <rhyme label="c" type="m" corresp="#s4:l5">verblijt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Prince, jongh paer, die 't alles <rhyme label="a" type="m">geeft</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Doe u van nu in voorspoet <rhyme label="b" type="f">blijven</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Dat ghy in goede vreede <rhyme label="a" type="m" corresp="#s5:l1">leeft</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Ende hier namaels mooght <rhyme label="b" type="f" corresp="#s5:l2">beklijven</rhyme>,</l>
+        <l id="s5:l5" met="4" type="+-">Vreede was noyt soo dier <rhyme label="c" type="m">gekocht</rhyme>,</l>
+        <l id="s5:l6" met="4" type="+-">Ofse heeft meerder goet <rhyme label="c" type="m" corresp="#s5:l5">gewrocht</rhyme>,</l>
+        <l id="s5:l7" met="3" type="-+">Hy weet die 't heeft <rhyme label="c" type="m" corresp="#s5:l5">versocht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

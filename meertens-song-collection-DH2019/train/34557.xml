@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34557</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>L'on me veut ôter</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Jan Mommaert</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">MEn wilt my de ooghen <rhyme label="a" type="f">blinden</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Nu ick op myn beste <rhyme label="b" type="m">min</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">En als ick myn goet sou <rhyme label="a" type="f" corresp="#s1:l1">vinden</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Mis ick myn verstant en <rhyme label="b" type="m" corresp="#s1:l2">sin</rhyme>:</l>
+        <l id="s1:l5" met="4" type="+-">Want de Schoone die ick <rhyme label="c" type="f">lieve</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Heb ick myne liefd' <rhyme label="d" type="m">ontdeckt</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">En sy wilt my nu <rhyme label="c" type="f" corresp="#s1:l5">ontrieven</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Nu de vlamme is <rhyme label="d" type="m" corresp="#s1:l6">verweckt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Ick hebb' twee verloopen <rhyme label="a" type="f">jaren</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Haer met achter-docht <rhyme label="b" type="m">ghevrydt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">En ick kom in al 't <rhyme label="a" type="f" corresp="#s2:l1">bezwaren</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Naer 't verloop van dien <rhyme label="b" type="m" corresp="#s2:l2">tydt</rhyme>:</l>
+        <l id="s2:l5" met="4" type="+-">Want de Schoone die ick <rhyme label="c" type="f">lieve</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Hebb' ick myne liefd' <rhyme label="d" type="m">ontdeckt</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">En sy wilt my nu <rhyme label="c" type="f" corresp="#s2:l5">ontrieven</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Nu de vlamme is <rhyme label="d" type="m" corresp="#s2:l6">verweckt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Vreede, wilt ghy dat ick <rhyme label="a" type="f">sterve</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Dat het zy door uwe <rhyme label="b" type="m">handt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Oft ick loop in myn <rhyme label="a" type="f" corresp="#s3:l1">bederven</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Als een woedende <rhyme label="b" type="m" corresp="#s3:l2">bacchant</rhyme>;</l>
+        <l id="s3:l5" met="4" type="+-">Nu ghy weet wie dat ick <rhyme label="c" type="f">lieve</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Laet u hertjen zyn <rhyme label="d" type="m">verweckt</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Oft wilt ghy my dan <rhyme label="c" type="f" corresp="#s3:l5">ontrieven</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">Om dat ick my hebb' <rhyme label="d" type="m" corresp="#s3:l6">ontdeckt</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

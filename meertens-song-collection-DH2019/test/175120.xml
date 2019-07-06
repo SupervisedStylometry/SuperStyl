@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175120</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Sterretjes zie ik u blinken en staan</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Sterretjes! zie ik u blinken en <rhyme label="a" type="m">staan</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Is het mij vaak door mijn hoofdje <rhyme label="a" type="m" corresp="#s1:l1">gegaan</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Waar komt ge 's avonds toch wel van <rhyme label="a" type="m" corresp="#s1:l1">daan</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Waar gaat ge 's morgens weêr <rhyme label="b" type="f">henen</rhyme>,</l>
+        <l id="s1:l5" met="3" type="+-">Vindt ge den weg zoo <rhyme label="b" type="f" corresp="#s1:l4">alleenen</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Sterretjes! als ge zoo vriendelijk <rhyme label="a" type="m">lacht</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Heb ik er menigmaal wel aan <rhyme label="a" type="m" corresp="#s2:l1">gedacht</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Wie u laat schijnen in duistren <rhyme label="a" type="m" corresp="#s2:l1">nacht</rhyme>;</l>
+        <l id="s2:l4" met="3" type="+-">Menschen die kunnen 't niet <rhyme label="b" type="f">wezen</rhyme>,</l>
+        <l id="s2:l5" met="3" type="+-">Zijt ge zoo groot als wij <rhyme label="b" type="f" corresp="#s2:l4">lezen</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">o Dat moet God zijn, die groot is en <rhyme label="a" type="m">goed</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Die uit zijn' Hemel de kinderkens <rhyme label="a" type="m" corresp="#s3:l1">hoedt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Als zij Hem vreezen met vroom <rhyme label="a" type="m" corresp="#s3:l1">gemoed</rhyme>;</l>
+        <l id="s3:l4" met="3" type="+-">Leer ons Hem danken en <rhyme label="b" type="f">prijzen</rhyme>,</l>
+        <l id="s3:l5" met="3" type="+-">Of ge moogt dalen of <rhyme label="b" type="f" corresp="#s3:l4">rijzen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

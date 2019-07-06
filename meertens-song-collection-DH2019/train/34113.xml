@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34113</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>O Galathea mijn schoonste veldgodin</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Petrus Suetmans, Eustachius de Meyer</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Komt Cupidoken, komt met my ten <rhyme label="a" type="m">stryt</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Komt maeckt u booghsken en pyltjens <rhyme label="a" type="m" corresp="#s1:l1">bereyt</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">'kHeb een <rhyme label="b" type="f">ghevonden</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Die ghy moet <rhyme label="b" type="f" corresp="#s1:l3">wonden</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">Vermits ghy selfs daer van die oorsaekt <rhyme label="a" type="m" corresp="#s1:l1">zyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Ick ben ghewoont door haer seer soet <rhyme label="a" type="m">ghesicht</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Schiet in haer hertjen eenen gulden <rhyme label="a" type="m" corresp="#s2:l1">schicht</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Dat van <rhyme label="b" type="f">ghelycken</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">Haer min moet <rhyme label="b" type="f" corresp="#s2:l3">blycken</rhyme>.</l>
+        <l id="s2:l5" met="5" type="-+">Thoont nu u krachten ghy kleyn Venus <rhyme label="a" type="m" corresp="#s2:l1">wicht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Haer poesel wanghskens, en haer lipkens <rhyme label="a" type="m">root</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Haer ronde borstjens, en haer boesem <rhyme label="a" type="m" corresp="#s3:l1">bloot</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">Haer Frissche <rhyme label="b" type="f">leden</rhyme>,</l>
+        <l id="s3:l4" met="2" type="-+">Haer <rhyme label="b" type="f" corresp="#s3:l3">aerdigheden</rhyme>,</l>
+        <l id="s3:l5" met="5" type="-+">Souden my locken al waer ick half <rhyme label="a" type="m" corresp="#s3:l1">doot</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Myn hert dat myn was, dat ben ick nu <rhyme label="a" type="m">quyt</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Waer van ghy lief nu vry Meestersse <rhyme label="a" type="m" corresp="#s4:l1">zyt</rhyme>,</l>
+        <l id="s4:l3" met="2" type="-+">Laet u niet <rhyme label="b" type="f">praemen</rhyme>,</l>
+        <l id="s4:l4" met="2" type="-+">Maer laet <rhyme label="b" type="f" corresp="#s4:l3">versaemen</rhyme>,</l>
+        <l id="s4:l5" met="5" type="-+">U hert, met myn, soo zyn wy t'saem <rhyme label="a" type="m" corresp="#s4:l1">verblyt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Ach lief, ach lief, ontfanght die u <rhyme label="a" type="m">bemint</rhyme>,</l>
+        <l id="s5:l2" met="5" type="-+">En acht myn woorden niet soo licht als <rhyme label="a" type="m" corresp="#s5:l1">wint</rhyme>,</l>
+        <l id="s5:l3" met="2" type="-+">Aen-hoort myn <rhyme label="b" type="f">suchtjens</rhyme>,</l>
+        <l id="s5:l4" met="2" type="-+">'tEn zyn gheen <rhyme label="b" type="f" corresp="#s5:l3">kluchtjens</rhyme>,</l>
+        <l id="s5:l5" met="5" type="-+">Ontfanght u slaef, die hem aen u <rhyme label="a" type="m" corresp="#s5:l1">verbint</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

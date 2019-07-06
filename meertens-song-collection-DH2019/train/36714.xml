@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36714</id>
+    <date>
+      <year-start>1631</year-start>
+      <year-end>1631</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>Rustplaats blij</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Lucas van Mechelen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">RVst-plaetse bly'! Paleys vol <rhyme label="a" type="f">vrolijckheden</rhyme>!</l>
+        <l id="s1:l2" met="3" type="-+">Alder weelden <rhyme label="b" type="m">oorsaeck'</rhyme>!</l>
+        <l id="s1:l3" met="3" type="-+">Boven alle <rhyme label="a" type="f" corresp="#s1:l1">woonsteden</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Woonstede vol <rhyme label="b" type="m" corresp="#s1:l2">vermaeck</rhyme>!</l>
+        <l id="s1:l5" met="4" type="-+">Daer die siel' sonck in den <rhyme label="c" type="f">Geminden</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Daer die siel' quam t'gheniet te <rhyme label="c" type="f" corresp="#s1:l5">vinden</rhyme>,</l>
+        <l id="s1:l7" met="5" type="-+">Vol minne-wee in hare sieckte <rhyme label="d" type="m">bly'</rhyme></l>
+        <l id="s1:l8" met="5" type="-+">D'welck maelde af haer crachten t'allen <rhyme label="d" type="m" corresp="#s1:l7">ty'</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Hoe meer verkranckt hoe stercker dat die <rhyme label="a" type="f">siele</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">In haren Liefsten <rhyme label="b" type="m">wiert</rhyme>;</l>
+        <l id="s2:l3" met="3" type="-+">Die wonde, daer 'thaer <rhyme label="a" type="f" corresp="#s2:l1">hiele</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Had' Godt haer toe <rhyme label="b" type="m" corresp="#s2:l2">ghestiert</rhyme>;</l>
+        <l id="s2:l5" met="4" type="-+">Vyt liefde quam haer quael <rhyme label="c" type="f">ghesproten</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Den Liefsten had' haer hert' <rhyme label="c" type="f" corresp="#s2:l5">doorschoten</rhyme>:</l>
+        <l id="s2:l7" met="5" type="-+">Den stercken geest, die kranckte van <rhyme label="d" type="m">natur'</rhyme></l>
+        <l id="s2:l8" met="5" type="-+">Ontspronck in haer door minne flouwten <rhyme label="d" type="m" corresp="#s2:l7">pur</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Haer hert' besweeck gheheelijck in <rhyme label="a" type="f">on-machte</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">En sprack, och oft ick <rhyme label="b" type="m">stierf'</rhyme>!</l>
+        <l id="s3:l3" met="3" type="-+">Oft wech ginck mijne <rhyme label="a" type="f" corresp="#s3:l1">crachte</rhyme>!</l>
+        <l id="s3:l4" met="3" type="-+">Oft liefde my <rhyme label="b" type="m" corresp="#s3:l2">bedierf'</rhyme>!</l>
+        <l id="s3:l5" met="4" type="-+">Och oft ick nu verloor' mijn <rhyme label="c" type="f">sterckte</rhyme>!</l>
+        <l id="s3:l6" met="4" type="-+">Oft minne my die doodt nu <rhyme label="c" type="f" corresp="#s3:l5">werckte</rhyme>!</l>
+        <l id="s3:l7" met="5" type="-+">Oft my van u, o liefste: wiert <rhyme label="d" type="m">ghejont</rhyme>,</l>
+        <l id="s3:l8" met="5" type="-+">Dat ick in u gheheel verloren <rhyme label="d" type="m" corresp="#s3:l7">stont'</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Ick queel van pijn', ick draegh' een <rhyme label="a" type="f">minne-wonde</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">O mijnder sielen <rhyme label="b" type="m">vreught</rhyme>;</l>
+        <l id="s4:l3" met="3" type="-+">Oft ick te niet gaen <rhyme label="a" type="f" corresp="#s4:l1">konde</rhyme>;</l>
+        <l id="s4:l4" met="3" type="-+">Oft ick eens wiert <rhyme label="b" type="m" corresp="#s4:l2">verheught</rhyme>;</l>
+        <l id="s4:l5" met="4" type="-+">Verkranckt my eens mijn <rhyme label="c" type="f">uyt-vercoren</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Maeckt dat die doodt toch word' <rhyme label="c" type="f" corresp="#s4:l5">gheboren</rhyme>,</l>
+        <l id="s4:l7" met="5" type="-+">Maeckt dat ick heel, soo ghy my hebben <rhyme label="d" type="m">wilt</rhyme>,</l>
+        <l id="s4:l8" met="5" type="-+">Door uwe kracht, in uwe liefde <rhyme label="d" type="m" corresp="#s4:l7">smilt'</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Verkranckt my toch, worpt Liefste my te <rhyme label="a" type="f">neder</rhyme>:</l>
+        <l id="s5:l2" met="3" type="-+">En comm' ick weder <rhyme label="b" type="m">op</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Verkranckt my liefste <rhyme label="a" type="f" corresp="#s5:l1">weder</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Verhoort toch mijn <rhyme label="b" type="m" corresp="#s5:l2">gheklop</rhyme>;</l>
+        <l id="s5:l5" met="4" type="-+">Doet my hier van my selven <rhyme label="c" type="f">vallen</rhyme>,</l>
+        <l id="s5:l6" met="4" type="-+">En laet van my, my niet met <rhyme label="c" type="f" corresp="#s5:l5">allen</rhyme>:</l>
+        <l id="s5:l7" met="5" type="-+">O Liefste soet maeckt dat ick worde <rhyme label="d" type="m">flouw</rhyme>,</l>
+        <l id="s5:l8" met="5" type="-+">Die duysent-mael in u wel sterven <rhyme label="d" type="m" corresp="#s5:l7">wouw'</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="5" type="-+">Treckt my in u, wilt my uyt my <rhyme label="a" type="f">gheleyden</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">My van my self' <rhyme label="b" type="m">vervremt</rhyme>,</l>
+        <l id="s6:l3" met="3" type="-+">Maeckt een toch van ons <rhyme label="a" type="f" corresp="#s6:l1">beyden</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">In u my <rhyme label="b" type="m" corresp="#s6:l2">over-nemt</rhyme>:</l>
+        <l id="s6:l5" met="4" type="-+">Mijns herten troost! o mijn <rhyme label="c" type="f">ghenuchten</rhyme>;</l>
+        <l id="s6:l6" met="4" type="-+">Verhoort den wensch van mijne <rhyme label="c" type="f" corresp="#s6:l5">suchten</rhyme>:</l>
+        <l id="s6:l7" met="5" type="-+">Krenckt my in u, geeft my, dat ick <rhyme label="d" type="m">verwerf</rhyme>,</l>
+        <l id="s6:l8" met="5" type="-+">Dat ick kranck word', dat ick van liefde <rhyme label="d" type="m" corresp="#s6:l7">sterf'</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

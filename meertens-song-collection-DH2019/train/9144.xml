@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>9144</id>
+    <date>
+      <year-start>1676</year-start>
+      <year-end>1676</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Jodocus van Lodenstein</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">EEn Lied; te singen op een <rhyme label="a" type="m">Feest</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Daer Heyl'gen singen in den <rhyme label="a" type="m" corresp="#s1:l1">Geest</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">En singen met haar <rhyme label="b" type="f">sielen</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Daar menschen Jesus Beelden <rhyme label="c" type="m">sijn</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Daar leckre spijs, nog dertle <rhyme label="c" type="m" corresp="#s1:l4">wijn</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">De sielen <rhyme label="b" type="f" corresp="#s1:l3">overvielen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Daar menschen ware Koon'gen <rhyme label="a" type="m">sijn</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">En heerschen over spijs, en <rhyme label="a" type="m" corresp="#s2:l1">wijn</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">En buyck, en tong, en <rhyme label="b" type="f">lusten</rhyme>:</l>
+        <l id="s2:l4" met="4" type="-+">Hen gevend' yder niet te <rhyme label="c" type="m">veel</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Op dat het kostelijckste <rhyme label="c" type="m" corresp="#s2:l4">deel</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">In 's Hemels Min soud <rhyme label="b" type="f" corresp="#s2:l3">rusten</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Die 't vleesch en sijne lusten <rhyme label="a" type="m">boet</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">En 't lichaem sonder vreese <rhyme label="a" type="m" corresp="#s3:l1">voedt</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Roep door den Sang sijn ramp <rhyme label="b" type="f">niet</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">'t Alwetend oog siet alles <rhyme label="c" type="m">door</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Maar (dampig breyn!) 't <rhyme label="c" type="m" corresp="#s3:l4">genaden-oor</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">En hoort door sulck een damp <rhyme label="b" type="f" corresp="#s3:l3">niet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Hy hoort door sulcke dampen, <rhyme label="a" type="m">maar</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Den Singer is een <rhyme label="a" type="m" corresp="#s4:l1">Lasteraar</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">In sulcke suyvere <rhyme label="b" type="f">ooren</rhyme>.</l>
+        <l id="s4:l4" met="4" type="-+">Den groven geest van dranck, en <rhyme label="c" type="m">spijs</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Schent, daar Gods Geest singt, maat, en <rhyme label="c" type="m" corresp="#s4:l4">wijs</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">En steurt der Heyl'gen <rhyme label="b" type="f" corresp="#s4:l3">Choren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>130757</id>
+    <date>
+      <year-start>1711</year-start>
+      <year-end>1711</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Tranquilles coeurs</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Vliegt, minnezugjes, vliegt weer <rhyme label="a" type="m">heen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Op vleugels van den wind <rhyme label="b" type="f">gedragen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Om ISIS die ik min <rhyme label="a" type="m" corresp="#s1:l1">alleen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">De smart myns eenzaamheit te <rhyme label="b" type="f" corresp="#s1:l2">klagen</rhyme>.</l>
+        <l id="s1:l5" met="6" type="-+">Vliegt heen en zegt haer hoe myn dart'le <rhyme label="c" type="m">minnelust</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Dient in haar arm <rhyme label="c" type="m" corresp="#s1:l5">geblust</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Zy is 't alleen die my <rhyme label="a" type="m">vermaakt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Na haar alleen is myn <rhyme label="b" type="f">begeeren</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Het vuur dat mynen boezem <rhyme label="a" type="m" corresp="#s2:l1">blaakt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Doet haar   alle and're liefde <rhyme label="b" type="f" corresp="#s2:l2">weeren</rhyme>.</l>
+        <l id="s2:l5" met="6" type="-+">Geen minvermaak, geen zagt gestreel, hoe teer en <rhyme label="c" type="m">zoet</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Dat my als 't haar <rhyme label="c" type="m" corresp="#s2:l5">voldoet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Haar liefde is trouw en zonder <rhyme label="a" type="m">erg</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Zy voelt daar van het lief <rhyme label="b" type="f">bewegen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Wanneer het lustig <rhyme label="a" type="m" corresp="#s3:l1">Valkenberg</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Ons nood op haar verliefde <rhyme label="b" type="f" corresp="#s3:l2">wegen</rhyme>:</l>
+        <l id="s3:l5" met="6" type="-+">Gaat heen dan zugjes, gaat, de zoete Lente <rhyme label="c" type="m">tijd</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Nood ons ten <rhyme label="c" type="m" corresp="#s3:l5">minnestrijd</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

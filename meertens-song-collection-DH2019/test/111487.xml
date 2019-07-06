@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111487</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="avondlied" translation="evening song">avondlied</tag>
+    </tags>
+    <melody>Tranquilles coeurs</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ZYt welkom gunstige <rhyme label="a" type="m">Avond-stond</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Die met uw Sluyer my komt <rhyme label="b" type="f">dekken</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Op dat ik met myn <rhyme label="a" type="m" corresp="#s1:l1">Roosemond</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Gerust en vry mag <rhyme label="b" type="f" corresp="#s1:l2">trekke-Bekken</rhyme>,</l>
+        <l id="s1:l5" met="6" type="-+">Geen dag' ô  Aangenaem' en lieve <rhyme label="c" type="m">duysternis</rhyme>!</l>
+        <l id="s1:l6" met="3" type="-+">My zoo bekoorlyk <rhyme label="c" type="m" corresp="#s1:l5">is</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Uw kleed' daar ik de silv're <rhyme label="a" type="m">Maan</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">En Goude Sterren op zie <rhyme label="b" type="f">blinken</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Trekt gy, voor 't nydig Oog, my <rhyme label="a" type="m" corresp="#s2:l1">aan</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Als wy ons Nectar kusjes <rhyme label="b" type="f" corresp="#s2:l2">drinken</rhyme>.</l>
+        <l id="s2:l5" met="6" type="-+">Geen Dag, ô  Aangenaem' en lieve <rhyme label="c" type="m">Duysternis</rhyme>!</l>
+        <l id="s2:l6" met="3" type="-+">My zoo bekoorlyk <rhyme label="c" type="m" corresp="#s2:l5">is</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Verzaad van Vreugd en moe <rhyme label="a" type="m">gekust</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Als of de Ziel my wil <rhyme label="b" type="f">begeven</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Legt gy my in uw' arm te <rhyme label="a" type="m" corresp="#s3:l1">rust</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Om weer van nieuws af aan te <rhyme label="b" type="f" corresp="#s3:l2">leven</rhyme>.</l>
+        <l id="s3:l5" met="6" type="-+">Geen Dag, geen Morgen-Son, ô lieve <rhyme label="c" type="m">Duysternis</rhyme>!</l>
+        <l id="s3:l6" met="3" type="-+">My zoo bekoorlyk <rhyme label="c" type="m" corresp="#s3:l5">is</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

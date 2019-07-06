@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>156552</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Stokkendans</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">GIdions Vel vingh de <rhyme label="a" type="f">dropjes</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Maer alleenlijck van om <rhyme label="b" type="m">hoogh</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Doen al d'and're groene <rhyme label="a" type="f" corresp="#s1:l1">topjes</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Op de Velden, bleven <rhyme label="b" type="m" corresp="#s1:l2">droogh</rhyme>:</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Maer daer na word yder <rhyme label="a" type="f">spruytje</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Van des Hemels paerlen <rhyme label="b" type="m">nat</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">t' Wijlder niet een <rhyme label="a" type="f" corresp="#s2:l1">Water-kluytje</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Op 't gespreyde Vel en <rhyme label="b" type="m" corresp="#s2:l2">spat</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Eertijdts viel des Heeren <rhyme label="a" type="f">zegen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Op de Joodtsche Kerck <rhyme label="b" type="m">alleen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">t'Wijl  al d'and're op haer <rhyme label="a" type="f" corresp="#s3:l1">wegen</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Dwaelden in het duyster <rhyme label="b" type="m" corresp="#s3:l2">heen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Nu vlieght Godts heyl, als op <rhyme label="a" type="f">vlercken</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Van de gulde <rhyme label="b" type="m">Dagheraet</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Terwijl dat de Joodtsche <rhyme label="a" type="f" corresp="#s4:l1">Kercke</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">In het duyster heenen <rhyme label="b" type="m" corresp="#s4:l2">gaet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184039</id>
+    <date>
+      <year-start>1806</year-start>
+      <year-end>1806</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Attendez-moi sous l'orme</melody>
+  <author>Jan Steven van Esveldt Holtrop, Willem Holtrop</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">L'Homme toujours <rhyme label="a" type="f">s'agite</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Pour trouver le <rhyme label="b" type="m">bonheur</rhyme>.</l>
+        <l id="s1:l3" met="3" type="-+">L'un acquiert du <rhyme label="a" type="f" corresp="#s1:l1">mérite</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">L'autre cherche <rhyme label="b" type="m" corresp="#s1:l2">l'honneur</rhyme>:</l>
+        <l id="s1:l5" met="3" type="-+">Jour et nuit on <rhyme label="c" type="f">espère</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">D'arriver au vrai <rhyme label="d" type="m">bien</rhyme>;</l>
+        <l id="s1:l7" met="3" type="-+">Mais qui voit la <rhyme label="c" type="f" corresp="#s1:l5">lumière</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Ne désire plus <rhyme label="d" type="m" corresp="#s1:l6">rien</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">De la simple <rhyme label="a" type="f">nature</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Un Maçon suit la <rhyme label="b" type="m">voix</rhyme>;</l>
+        <l id="s2:l3" met="3" type="-+">L'amitié la plus <rhyme label="a" type="f" corresp="#s2:l1">pure</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Le soumet à ses <rhyme label="b" type="m" corresp="#s2:l2">loix</rhyme>:</l>
+        <l id="s2:l5" met="3" type="-+">Une aimable <rhyme label="c" type="f">décence</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Préside à ses <rhyme label="d" type="m">loisirs</rhyme>;</l>
+        <l id="s2:l7" met="3" type="-+">Et jamais la <rhyme label="c" type="f" corresp="#s2:l5">licence</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">N'infeete ses <rhyme label="d" type="m" corresp="#s2:l6">plaisirs</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Aux moeurs du premier <rhyme label="a" type="f">âge</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Il est <rhyme label="b" type="m">assujetti</rhyme>;</l>
+        <l id="s3:l3" met="3" type="-+">Jamais par son <rhyme label="a" type="f" corresp="#s3:l1">langage</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Son coeur ne sut <rhyme label="b" type="m" corresp="#s3:l2">trahi</rhyme>;</l>
+        <l id="s3:l5" met="3" type="-+">Il est toujours bon <rhyme label="c" type="f">père</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Epoux sage et <rhyme label="d" type="m">parfait</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Ami pùr et <rhyme label="c" type="f" corresp="#s3:l5">sincère</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Amant tendre et <rhyme label="d" type="m" corresp="#s3:l6">discret</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

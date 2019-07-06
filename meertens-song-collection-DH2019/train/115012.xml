@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>115012</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Que tu m'étais cruelle</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Guilielmus Bolognino</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Mensch hoe comt dat ghy soo <rhyme label="a" type="m">blindt</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Even seer d'ijdelheyt <rhyme label="a" type="m" corresp="#s1:l1">bemint</rhyme>?</l>
+        <l id="s1:l3" met="4" type="+-">'t Heel ghemoet, 't heel <rhyme label="b" type="m">ghemoedt</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Staet ghekeert na den schijn van 't <rhyme label="b" type="m" corresp="#s1:l3">goedt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Stelt eens het eeuwich by ten <rhyme label="a" type="m">tijdt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Die ghy in u wellusten <rhyme label="a" type="m" corresp="#s2:l1">zijt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Ah hoe cort! ah hoe <rhyme label="b" type="m">cort</rhyme>!</l>
+        <l id="s2:l4" met="4" type="-+">Is het all' dat tot sonden <rhyme label="b" type="m" corresp="#s2:l3">port</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Hoe cort, hoe weynich en vol <rhyme label="a" type="m">moet</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Is de vreucht, daer gh'u eeuwich <rhyme label="a" type="m" corresp="#s3:l1">goedt</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Om vercoopt, om <rhyme label="b" type="m">vercoopt</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Onbevreest nae de hell' om <rhyme label="b" type="m" corresp="#s3:l3">loopt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Heb ick aen't Cruys 't oneyndich <rhyme label="a" type="m">goedt</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">U soo dier met mijn eyghen <rhyme label="a" type="m" corresp="#s4:l1">bloedt</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">Niet ghecocht? niet <rhyme label="b" type="m">ghecocht</rhyme>?</l>
+        <l id="s4:l4" met="4" type="-+">Uytter hellen u ziel <rhyme label="b" type="m" corresp="#s4:l3">ghebrocht</rhyme>?</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Heb ick't vergoten dan om <rhyme label="a" type="m">niet</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Dat ghy u steeckt weer in 't <rhyme label="a" type="m" corresp="#s5:l1">verdriet</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Sal mijn pijn, sal mijn <rhyme label="b" type="m">pijn</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Te vergheefs u gheleden <rhyme label="b" type="m" corresp="#s5:l3">zijn</rhyme>?</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Wat onschuldt sal u wesen <rhyme label="a" type="m">doch</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Dat ghy om's werelts ydel <rhyme label="a" type="m" corresp="#s6:l1">sogh</rhyme>,</l>
+        <l id="s6:l3" met="4" type="+-">U dus haet, u dus <rhyme label="b" type="m">haet</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Dus mijn pijnen, mijn bloedt <rhyme label="b" type="m" corresp="#s6:l3">versmaet</rhyme>?</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Ick loop u naer aen allen <rhyme label="a" type="m">kant</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">Als ghy loopt nae den helschen <rhyme label="a" type="m" corresp="#s7:l1">brandt</rhyme>:</l>
+        <l id="s7:l3" met="4" type="+-">Vliedt hem niet, Vliedt hem <rhyme label="b" type="m">niet</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Die gh' in liefde soo blaecken <rhyme label="b" type="m" corresp="#s7:l3">siet</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Het vier der minnen brandt noch <rhyme label="a" type="m">hier</rhyme>,</l>
+        <l id="s8:l2" met="4" type="-+">Maer 't sal haest in een ander <rhyme label="a" type="m" corresp="#s8:l1">vier</rhyme></l>
+        <l id="s8:l3" met="4" type="+-">Zijn verkeert, zijn <rhyme label="b" type="m">verkeert</rhyme>,</l>
+        <l id="s8:l4" met="4" type="-+">Is't dat ghy my dus langh <rhyme label="b" type="m" corresp="#s8:l3">onteert</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Ick smeeck, ick roep nu: Comt tot <rhyme label="a" type="m">my</rhyme>,</l>
+        <l id="s9:l2" met="4" type="-+">Die soo langh all' u sonden <rhyme label="a" type="m" corresp="#s9:l1">lij</rhyme>,</l>
+        <l id="s9:l3" met="4" type="+-">Maer dit all', maer dit <rhyme label="b" type="m">all</rhyme>/</l>
+        <l id="s9:l4" met="4" type="-+">Meer tot straf u noch dienen <rhyme label="b" type="m" corresp="#s9:l3">sal</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Als ick sal roepen: Gaet van <rhyme label="a" type="m">my</rhyme>,</l>
+        <l id="s10:l2" met="4" type="-+">En u 't vier sal aen allen <rhyme label="a" type="m" corresp="#s10:l1">zy</rhyme></l>
+        <l id="s10:l3" met="4" type="+-">Vatten aen, vatten <rhyme label="b" type="m">aen</rhyme>,</l>
+        <l id="s10:l4" met="4" type="-+">Inden afgrondt der hellen <rhyme label="b" type="m" corresp="#s10:l3">slaen</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="-+">Daerom bekeert u, 't is nu <rhyme label="a" type="m">tijdt</rhyme>,</l>
+        <l id="s11:l2" met="4" type="-+">Maeckt u nu all' u sonden <rhyme label="a" type="m" corresp="#s11:l1">quijt</rhyme>,</l>
+        <l id="s11:l3" met="4" type="+-">Keert tot my, keert tot <rhyme label="b" type="m">my</rhyme>,</l>
+        <l id="s11:l4" met="4" type="-+">Ick sal eeuwich u maecken <rhyme label="b" type="m" corresp="#s11:l3">blij</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

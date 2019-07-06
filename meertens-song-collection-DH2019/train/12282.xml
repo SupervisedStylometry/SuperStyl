@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12282</id>
+    <date>
+      <year-start>1639</year-start>
+      <year-end>1639</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Branle Parthenice</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Daniel Joncktys</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">'T Zy ROSELIIN, door't gonstig <rhyme label="a" type="f">stralen</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Van haer <rhyme label="b" type="m">gesicht</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Laet in mijn angstig hertje <rhyme label="a" type="f" corresp="#s1:l1">dalen</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Een heuchlijck <rhyme label="b" type="m" corresp="#s1:l2">licht</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">'T zy dat haer OOG, met stuyrsche <rhyme label="c" type="f">vlagen</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Mijn Ziell <rhyme label="d" type="m">bestoot</rhyme>;</l>
+        <l id="s1:l7" met="4" type="-+">'T is eveneens: vvant bey de <rhyme label="c" type="f" corresp="#s1:l5">plagen</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">Zijn even <rhyme label="d" type="m" corresp="#s1:l6">groot</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Soo sy met OOGEN, vol <rhyme label="a" type="f">medoogen</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">Haer Slaef <rhyme label="b" type="m">begluyrr</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Doet schrale hôop mijn merch <rhyme label="a" type="f" corresp="#s2:l1">verdroogen</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">Door lancksaem <rhyme label="b" type="m" corresp="#s2:l2">vuyr</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Schiet sy door hare <rhyme label="c" type="f">Oogen-vliesen</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Eenn straffen <rhyme label="d" type="m">gloed</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Soo doet de kouvve vrees <rhyme label="c" type="f" corresp="#s2:l5">bevriesen</rhyme></l>
+        <l id="s2:l8" met="2" type="-+">Mijn <rhyme label="d" type="m" corresp="#s2:l6">herten-bloed</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Siet, hoe mijn Zieltjen, in de <rhyme label="a" type="f">golven</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Van vrees, en <rhyme label="b" type="m">hôop</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Angstvallig vverd gesolt, <rhyme label="a" type="f" corresp="#s3:l1">bedolven</rhyme>.</l>
+        <l id="s3:l4" met="2" type="-+">Ha, vvreede <rhyme label="b" type="m" corresp="#s3:l2">loop</rhyme>!</l>
+        <l id="s3:l5" met="4" type="-+">Wat kan my strecken tot <rhyme label="c" type="f">genuchten</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">Soo selfs 't <rhyme label="d" type="m">geluck</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">My aen-port tot benauvvde <rhyme label="c" type="f" corresp="#s3:l5">suchten</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">En dijdt tot <rhyme label="d" type="m" corresp="#s3:l6">druck</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

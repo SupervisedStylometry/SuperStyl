@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>124181</id>
+    <date>
+      <year-start>1759</year-start>
+      <year-end>1759</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+    </tags>
+    <melody>Attendez-moi sous l'orme</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">DE Liefde van het <rhyme label="a" type="f">Meysje</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Die duurd tot datze <rhyme label="b" type="m">wijkt</rhyme>;</l>
+        <l id="s1:l3" met="3" type="-+">Of Pleuntje glad van <rhyme label="a" type="f" corresp="#s1:l1">Vleysje</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Wel na een Vrijster <rhyme label="b" type="m" corresp="#s1:l2">lijkt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Zy weet voor u geen <rhyme label="a" type="f">Baantje</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Loopt elders heen en <rhyme label="b" type="m">Vrijd</rhyme>;</l>
+        <l id="s2:l3" met="3" type="-+">Of wagt my in dat <rhyme label="a" type="f" corresp="#s2:l1">laantje</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Gy Ligthart als gy <rhyme label="b" type="m" corresp="#s2:l2">zijt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Hy die wel wenscht te <rhyme label="a" type="f">stranden</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Op d'aangename <rhyme label="b" type="m">kant</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Van zoete Lipjes <rhyme label="a" type="f" corresp="#s3:l1">randen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Met Ambrozijn <rhyme label="b" type="m" corresp="#s3:l2">beplant</rhyme>,</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Vergund my dog dit <rhyme label="a" type="f">Baantje</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Dat ik u eensjes <rhyme label="b" type="m">kus</rhyme>;</l>
+        <l id="s4:l3" met="3" type="-+">Hier in dit eenzaam <rhyme label="a" type="f" corresp="#s4:l1">Laantje</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Daar ik mijn brand mee <rhyme label="b" type="m" corresp="#s4:l2">blus</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">'t Zijn aangename <rhyme label="a" type="f">kusjes</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Van uwen Mond <rhyme label="b" type="m">geplukt</rhyme>;</l>
+        <l id="s5:l3" met="3" type="-+">Verzeld met zoete <rhyme label="a" type="f" corresp="#s5:l1">lusjes</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Ik voel mijn Ziel <rhyme label="b" type="m" corresp="#s5:l2">ontrukt</rhyme>;</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Ik dan u voor dit <rhyme label="a" type="f">Baantje</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">En nog voor deze <rhyme label="b" type="m">kus</rhyme>,</l>
+        <l id="s6:l3" met="3" type="-+">En schey hier uyt dit <rhyme label="a" type="f" corresp="#s6:l1">Laantje</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">Van nu mijn Lief tot <rhyme label="b" type="m" corresp="#s6:l2">flus</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

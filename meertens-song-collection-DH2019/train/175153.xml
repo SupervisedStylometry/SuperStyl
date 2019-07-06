@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175153</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Haantje, haantje, <rhyme label="a" type="m">koekeloer</rhyme>!</l>
+        <l id="s1:l2" met="2" type="+-">Wat een <rhyme label="b" type="f">stappen</rhyme>,</l>
+        <l id="s1:l3" met="2" type="+-">Wat een <rhyme label="b" type="f" corresp="#s1:l2">grappen</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Maak je, voor een handje <rhyme label="a" type="m" corresp="#s1:l1">voêr</rhyme>!</l>
+        <l id="s1:l5" met="4" type="+-">'k Denk, als Ik zoo'n spuls moest <rhyme label="c" type="f">maken</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Eer ik wat te bikken <rhyme label="d" type="m">had</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Eer ik aan den kost kon <rhyme label="c" type="f" corresp="#s1:l5">raken</rhyme>....</l>
+        <l id="s1:l8" met="4" type="+-">Dat ik liever nooit weêr <rhyme label="d" type="m" corresp="#s1:l6">at</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">- Dwaze knaap, onnoozle <rhyme label="a" type="m">bloed</rhyme>!</l>
+        <l id="s2:l2" met="2" type="+-">Al dat <rhyme label="b" type="f">praten</rhyme></l>
+        <l id="s2:l3" met="2" type="+-">Zoudt ge <rhyme label="b" type="f" corresp="#s2:l2">laten</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Waren je ouders niet zoo <rhyme label="a" type="m" corresp="#s2:l1">goed</rhyme>;</l>
+        <l id="s2:l5" met="4" type="+-">'k Zal, als te avond of te <rhyme label="c" type="f">morgen</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Ook Uw disch niet is <rhyme label="d" type="m">gedekt</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">En ge eens voor u zelv' moet <rhyme label="c" type="f" corresp="#s2:l5">zorgen</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Zien, wat voor gezigt gij <rhyme label="d" type="m" corresp="#s2:l6">trekt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Als gij de ouders eens <rhyme label="a" type="m">verliest</rhyme>,</l>
+        <l id="s3:l2" met="2" type="+-">Die u <rhyme label="b" type="f">geven</rhyme></l>
+        <l id="s3:l3" met="2" type="+-">Om te <rhyme label="b" type="f" corresp="#s3:l2">leven</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Zal het blijken wat gij <rhyme label="a" type="m" corresp="#s3:l1">kiest</rhyme>;</l>
+        <l id="s3:l5" met="4" type="+-">'k Denk, dan maakt ge, onnoozle <rhyme label="c" type="f">jongen</rhyme>!</l>
+        <l id="s3:l6" met="4" type="+-">Zoo ge ondankbaar blijft en <rhyme label="d" type="m">traag</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Nog wel àndre kromme <rhyme label="c" type="f" corresp="#s3:l5">sprongen</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">Voor het vullen van uw <rhyme label="d" type="m" corresp="#s3:l6">maag</rhyme>. -</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100020</id>
+    <date>
+      <year-start>1652</year-start>
+      <year-end>1652</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Arnold Bon</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">SChoon Goddin, ick moet <rhyme label="a" type="m">altijt</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Graves, mihi pene <rhyme label="b" type="f">fore</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Sonder dat ghy my <rhyme label="a" type="m" corresp="#s1:l1">bevrijt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Ab hoc misere <rhyme label="b" type="f" corresp="#s1:l2">dolore</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">Wilt ghy door u vreesheyt <rhyme label="c" type="m">groot</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">d'Oorsaeck vreese van myn <rhyme label="c" type="m" corresp="#s1:l5">doot</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Sal myn jonge droeve <rhyme label="a" type="m">hart</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Sub, molli fleere <rhyme label="b" type="f">luente</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Dus versmoore in sijn <rhyme label="a" type="m" corresp="#s2:l1">smart</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Velit facit flame <rhyme label="b" type="f" corresp="#s2:l2">lente</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Of gelijck de Snee <rhyme label="c" type="m">verdwijnt</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Wanneer als de Sonne <rhyme label="c" type="m" corresp="#s2:l5">schijnt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Adieu o schoon <rhyme label="a" type="m">Goddin</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Ego se Semper <rhyme label="b" type="f">amabo</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Met getrou en rechte <rhyme label="a" type="m" corresp="#s3:l1">min</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Quare te prices <rhyme label="b" type="f" corresp="#s3:l2">rogabo</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Als dat ick altijt <rhyme label="c" type="m">mevrouw</rhyme>.</l>
+        <l id="s3:l6" met="4" type="+-">Uwe Dienaer blijf <rhyme label="c" type="m" corresp="#s3:l5">altijdt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34169</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Ach Belinde</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Petrus Suetmans, Eustachius de Meyer</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Laetet de <rhyme label="a" type="f">kryghs-ghesellen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">Twisten, vechten, <rhyme label="b" type="m">slaen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Laetet ons wapens <rhyme label="a" type="f" corresp="#s1:l1">stellen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Om onsen dorst <rhyme label="b" type="m" corresp="#s1:l2">t'ont-gaen</rhyme>,</l>
+        <l id="s1:l5" met="5" type="+-">Door den dranck, sullen wy doen <rhyme label="c" type="f">verhuysen</rhyme>,</l>
+        <l id="s1:l6" met="5" type="+-">Al den druck, en al de droeve <rhyme label="d" type="m">pyn</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Laetet ons dan kloeck <rhyme label="c" type="f" corresp="#s1:l5">buysen</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Om vol lust, en vreucht te <rhyme label="d" type="m" corresp="#s1:l6">zyn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Willet u lyf <rhyme label="a" type="f">ont-laeden</rhyme>,</l>
+        <l id="s2:l2" met="3" type="+-">Die een harnas <rhyme label="b" type="m">draeght</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Voor de pan om te <rhyme label="a" type="f" corresp="#s2:l1">braden</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Worter hier naer <rhyme label="b" type="m" corresp="#s2:l2">ghevraeght</rhyme>,</l>
+        <l id="s2:l5" met="5" type="+-">Van de deghens sal-men maecken <rhyme label="c" type="f">speten</rhyme>,</l>
+        <l id="s2:l6" met="5" type="+-">Om der aen te spitetn een <rhyme label="d" type="m">capoen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Om daer van eerst wel <rhyme label="c" type="f" corresp="#s2:l5">t'eten</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">En daer naer bescheet te <rhyme label="d" type="m" corresp="#s2:l6">doen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Voor het musket een <rhyme label="a" type="f">kanne</rhyme>,</l>
+        <l id="s3:l2" met="3" type="+-">Voor 'tpistoel een <rhyme label="b" type="m">glas</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">'tZyn van de vroomste <rhyme label="a" type="f" corresp="#s3:l1">mannen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Die best lossen een <rhyme label="b" type="m" corresp="#s3:l2">kas</rhyme>,</l>
+        <l id="s3:l5" met="5" type="+-">Voor 'tgheschut soo dient een volle <rhyme label="c" type="f">tonne</rhyme>,</l>
+        <l id="s3:l6" met="5" type="+-">Voor de bommen menigh stuck <rhyme label="d" type="m">ghebraedt</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Daer mé den streyt <rhyme label="c" type="f" corresp="#s3:l5">begonnen</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">Die tot d'eynt van vrede <rhyme label="d" type="m" corresp="#s3:l6">gaet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Laetet gheen trommels <rhyme label="a" type="f">raesen</rhyme>,</l>
+        <l id="s4:l2" met="3" type="+-">Slaet een eydel <rhyme label="b" type="m">vat</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Voor de Trompet te <rhyme label="a" type="f" corresp="#s4:l1">blaesen</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Dienter een fluyt <rhyme label="b" type="m" corresp="#s4:l2">ghevat</rhyme>,</l>
+        <l id="s4:l5" met="5" type="+-">Tiert, en raest, met schotels, en <rhyme label="c" type="f">tellooren</rhyme>,</l>
+        <l id="s4:l6" met="5" type="+-">Maecket u verheught met bly <rhyme label="d" type="m">gheklanck</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Laetet u stemmen <rhyme label="c" type="f" corresp="#s4:l5">hooren</rhyme>,</l>
+        <l id="s4:l8" met="4" type="+-">Singht den soeten vrede <rhyme label="d" type="m" corresp="#s4:l6">sanck</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Vrinden wilt dan <rhyme label="a" type="f">verbleyden</rhyme>,</l>
+        <l id="s5:l2" met="3" type="+-">'tVechten is <rhyme label="b" type="m">verkeert</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Laet ons met kannen <rhyme label="a" type="f" corresp="#s5:l1">streyden</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Mits men den peys <rhyme label="b" type="m" corresp="#s5:l2">begheert</rhyme>,</l>
+        <l id="s5:l5" met="5" type="+-">Wilt door een dronck den vrede <rhyme label="c" type="f">vereeren</rhyme>,</l>
+        <l id="s5:l6" met="5" type="+-">Die ons rust, en welvaert <rhyme label="d" type="m">doet</rhyme>,</l>
+        <l id="s5:l7" met="3" type="-+">Laet onsen druck <rhyme label="c" type="f" corresp="#s5:l5">verkeeren</rhyme>,</l>
+        <l id="s5:l8" met="4" type="+-">Den peys keert het suer in't <rhyme label="d" type="m" corresp="#s5:l6">soet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

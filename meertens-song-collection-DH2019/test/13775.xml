@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13775</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Geen mens en weet wat hem genaakt</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">NEen Herderin roem-waerde <rhyme label="a" type="m">Maeght</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Ick veynse neen o <rhyme label="b" type="f">Schoone</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Doch soo u desen Lof <rhyme label="a" type="m" corresp="#s1:l1">mis-haeght</rhyme>:</l>
+        <l id="s1:l4" met="3" type="-+">Wilt mijn door reen <rhyme label="b" type="f" corresp="#s1:l2">verschoone</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Dan noch ick kniel voor ‘t altaer <rhyme label="c" type="m">neer</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">V deucht, en ‘k sweer by <rhyme label="d" type="f">desen</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Dat ick noch nu noch <rhyme label="c" type="m" corresp="#s1:l5">nimmermeer</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">V deucht laet <rhyme label="d" type="f" corresp="#s1:l6">ongepresen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

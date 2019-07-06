@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19566</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Come shepherds deck your heads</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O Wrevelige <rhyme label="a" type="m">lust</rhyme>!</l>
+        <l id="s1:l2" met="3" type="-+">Onlustig in ‘et <rhyme label="b" type="f">proeven</rhyme>;</l>
+        <l id="s1:l3" met="3" type="-+">Rioole vol <rhyme label="a" type="m" corresp="#s1:l1">onrust</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">En bitterlijk <rhyme label="b" type="f" corresp="#s1:l2">bedroeven</rhyme>;</l>
+        <l id="s1:l5" met="3" type="-+">Ag! dat mijn wufte <rhyme label="c" type="m">zinn</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Die valsze zo <rhyme label="d" type="f">beminde</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Die valsze <rhyme label="c" type="m" corresp="#s1:l5">Tijgerinn</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Die na mijn rampen <rhyme label="d" type="f" corresp="#s1:l6">zwinde</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

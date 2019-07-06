@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>122924</id>
+    <date>
+      <year-start>1717</year-start>
+      <year-end>1717</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Franse brandewijn is een lekker zoopje</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Andries Pels</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">Franse Brandewyn is een lékker <rhyme label="a" type="f">zoopje</rhyme>,</l>
+        <l id="s1:l2" met="5" type="+-">Kooren Brandewyn die smaakt als <rhyme label="b" type="m">varkensdraf</rhyme>;</l>
+        <l id="s1:l3" met="5" type="+-">Hóllander geef dan réden, waarom <rhyme label="a" type="f" corresp="#s1:l1">koopje</rhyme></l>
+        <l id="s1:l4" met="5" type="+-">'t Lékker goed niet meer dat de Franschman <rhyme label="b" type="m" corresp="#s1:l2">gaf</rhyme>?</l>
+        <l id="s1:l5" met="3" type="-+">'t Een is <rhyme label="c" type="m">ongezond</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">'t Ander heelt <rhyme label="d" type="f">gebréken</rhyme>.</l>
+        <l id="s1:l7" met="5" type="+-">Om je van de Rótzak wél te <rhyme label="d" type="f" corresp="#s1:l6">wreeken</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">Heb je 't met die <rhyme label="c" type="m" corresp="#s1:l5">vond</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Op zo sléchten grond <rhyme label="d" type="f" corresp="#s1:l6">verkeeken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

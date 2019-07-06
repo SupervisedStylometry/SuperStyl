@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100265</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="meilied" translation="May song">meilied</tag>
+    </tags>
+    <melody>Wanneer de zon zijn paarden ment</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DE wufte Lent vervreugd de <rhyme label="a" type="m">tyd</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Met geurig <rhyme label="b" type="m">bloem-cieraad</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">'t Schynt alles met het jaar <rhyme label="a" type="m" corresp="#s1:l1">verblyd</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Het wollig schaapje <rhyme label="b" type="m" corresp="#s1:l2">gaat</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">By krystalyne <rhyme label="c" type="f">beken</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Van alle Wolven <rhyme label="d" type="m">vry</rhyme>.</l>
+        <l id="s1:l7" met="3" type="-+">Maar 'k zie noch tranen <rhyme label="c" type="f" corresp="#s1:l5">leken</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Om Venus <rhyme label="d" type="m" corresp="#s1:l6">heerschappy</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ach Venus, ruk uw <rhyme label="a" type="m">vyerigheid</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Uyt onze Harders <rhyme label="b" type="m">hut</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">En praal in Hoven <rhyme label="a" type="m" corresp="#s2:l1">pragtigheid</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Daar u de rykdom <rhyme label="b" type="m" corresp="#s2:l2">stut</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Wy hebben geen <rhyme label="c" type="f">vermaken</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">In uw vervloekte <rhyme label="d" type="m">pyn</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">In eyndeloos te <rhyme label="c" type="f" corresp="#s2:l5">blaken</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">En nooit beloont te <rhyme label="d" type="m" corresp="#s2:l6">zyn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">'t Is moord, 't is brand, 't is klagt op <rhyme label="a" type="m">klagt</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Dat liefde eeuwig <rhyme label="b" type="m">spreekt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Tot eyndelyk het hart <rhyme label="a" type="m" corresp="#s3:l1">versmagt</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">En onder 't klagen <rhyme label="b" type="m" corresp="#s3:l2">breekt</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Des zullen alle <rhyme label="c" type="f">Wyzen</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Ook voor dees <rhyme label="d" type="m">malligheid</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Behoorelyk <rhyme label="c" type="f" corresp="#s3:l5">asgryzen</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Daar zoo veel ramp in <rhyme label="d" type="m" corresp="#s3:l6">leid</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

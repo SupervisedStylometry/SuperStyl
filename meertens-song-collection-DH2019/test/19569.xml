@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19569</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="+-">AG! vervlooge tijden, waar zijn mijn <rhyme label="a" type="f">gedachten</rhyme>?</l>
+        <l id="s1:l2" met="4" type="+-">En mijn vreugde, en mijn <rhyme label="b" type="f">vreugde</rhyme>?</l>
+        <l id="s1:l3" met="3" type="+-">Daar ik heele <rhyme label="a" type="f" corresp="#s1:l1">nagte</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Nietig om besteede, besteede , <rhyme label="c" type="f">besteede</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">Wreede Venus ag <rhyme label="d" type="m">wanneer</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Ontfangtge mijn <rhyme label="c" type="f" corresp="#s1:l4">gebeede</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

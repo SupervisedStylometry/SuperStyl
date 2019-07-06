@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>117847</id>
+    <date>
+      <year-start>1687</year-start>
+      <year-end>1687</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="danklied" translation="gratitude song">danklied</tag>
+    </tags>
+    <melody>Psalm 023 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Willem Sluiter</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">O Hei - lig God! en Vader, die van <rhyme label="a" type="f">booven</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Ons alles schenkt, wy danken ende <rhyme label="a" type="f" corresp="#s1:l1">looven</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">Uw' heil'gen naam, voor 't geen gy ons <rhyme label="b" type="f">bewyset</rhyme>;</l>
+        <l id="s1:l4" met="5" type="-+">Dat gy ons na den lichaam laaft en <rhyme label="b" type="f" corresp="#s1:l3">spyset</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">En na de ziel van snoode <rhyme label="c" type="f">brasserijen</rhyme></l>
+        <l id="s1:l6" met="5" type="-+">En dronkenschap genadig doet <rhyme label="c" type="f" corresp="#s1:l5">bevrijen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Laet deese spijs en drank ons soo <rhyme label="a" type="f">versterken</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Dat wy met lust in ons' beroeping <rhyme label="a" type="f" corresp="#s2:l1">werken</rhyme>;</l>
+        <l id="s2:l3" met="5" type="-+">Doch laat ons' hert niet in dees' aerdsche <rhyme label="b" type="f">saken</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Gewortelt zijn, maer na den hemel <rhyme label="b" type="f" corresp="#s2:l3">haken</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Soo dat, terwijl wy 't aerdsche werk <rhyme label="c" type="f">bedryven</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">Het hert nochtans op u gevest mach <rhyme label="c" type="f" corresp="#s2:l5">blyven</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Wilt ons doch lang in goe gesontheid <rhyme label="a" type="f">sparen</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">En altijt voor ondankbaerheid <rhyme label="a" type="f" corresp="#s3:l1">bewaren</rhyme>:</l>
+        <l id="s3:l3" met="5" type="-+">Leert ons te zijn vernoegt in desen <rhyme label="b" type="f">leven</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Want gy wilt elk 't bescheyden deel hier <rhyme label="b" type="f" corresp="#s3:l3">geven</rhyme>,</l>
+        <l id="s3:l5" met="5" type="-+">Tot dat gy ons hier namaels <rhyme label="c" type="f">altesamen</rhyme></l>
+        <l id="s3:l6" met="5" type="-+">Versaden sult in eeuwigheeden.  <rhyme label="c" type="f" corresp="#s3:l5">Amen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

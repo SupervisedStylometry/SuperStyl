@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6152</id>
+    <date>
+      <year-start>1621</year-start>
+      <year-end>1621</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Psalm 024 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Hugo de Groot</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Schepper van dagh ende <rhyme label="a" type="m">nacht</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Den duyster door u <rhyme label="a" type="m" corresp="#s1:l1">voortgebracht</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Bedeckt dit al met zijne <rhyme label="b" type="f">vlercken</rhyme>:</l>
+        <l id="s1:l4" met="4" type="-+">Wilt oock alsoo tot deser <rhyme label="c" type="m">stond</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Door u genade sonder <rhyme label="c" type="m" corresp="#s1:l4">grond</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Bedecken onse quade <rhyme label="b" type="f" corresp="#s1:l3">wercken</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Den vyand is op ons <rhyme label="a" type="m">gestelt</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Met lose list ende met <rhyme label="a" type="m" corresp="#s2:l1">gheweld</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">O harder waeckt voor uwe <rhyme label="b" type="f">schapen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Op dat wy vry van bose <rhyme label="c" type="m">lust</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Ende sware sorge <rhyme label="c" type="m" corresp="#s2:l4">welgerust</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">In uwe hoede moghen <rhyme label="b" type="f" corresp="#s2:l3">slapen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wilt alle die ghevangen <rhyme label="a" type="m">zijn</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Belae'n met sieckten ofte <rhyme label="a" type="m" corresp="#s3:l1">pijn</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Vertroosten in haer droevigh <rhyme label="b" type="f">lijden</rhyme>:</l>
+        <l id="s3:l4" met="4" type="-+">Als dese loop zal zijn <rhyme label="c" type="m">gedaen</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Wilt dan door uwe rust <rhyme label="c" type="m" corresp="#s3:l4">voortaen</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Ons in der eewigheyd <rhyme label="b" type="f" corresp="#s3:l3">verblijden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

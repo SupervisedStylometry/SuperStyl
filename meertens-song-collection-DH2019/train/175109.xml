@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175109</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Een klein, klein <rhyme label="a" type="m">jokkentje</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Zou dat wel zonde <rhyme label="b" type="f">wezen</rhyme>?</l>
+        <l id="s1:l3" met="3" type="-+">Me dunkt, het heeft geen' <rhyme label="c" type="m">nood</rhyme>....</l>
+        <l id="s1:l4" met="4" type="-+">Maar - kleine kindren worden <rhyme label="c" type="m" corresp="#s1:l3">groot</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Dat heb ik laatst <rhyme label="b" type="f" corresp="#s1:l2">gelezen</rhyme>;</l>
+        <l id="s1:l6" met="4" type="-+">En zijn ze jonk een beetje <rhyme label="d" type="m">kwaad</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Me dunkt, dat men van zelv' al <rhyme label="d" type="m" corresp="#s1:l6">raadt</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Wat ze ouder zullen <rhyme label="b" type="f" corresp="#s1:l2">wezen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Een klein, klein <rhyme label="a" type="m">jokkentje</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Al was het nog zoo'n <rhyme label="b" type="f">diefje</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Groeit tot een boozen <rhyme label="c" type="m">gast</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">En grijpt-je en knijpt-je en houdt-je <rhyme label="c" type="m" corresp="#s2:l3">vast</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Dat geef ik je op een <rhyme label="b" type="f" corresp="#s2:l2">briefje</rhyme>; -</l>
+        <l id="s2:l6" met="4" type="-+">En menig brave man of <rhyme label="d" type="m">vrouw</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Heeft van zoo'n jokkentje <rhyme label="d" type="m" corresp="#s2:l6">berouw</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Hun heele leven, - <rhyme label="b" type="f" corresp="#s2:l2">liefje</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

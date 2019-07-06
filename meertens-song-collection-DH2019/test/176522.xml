@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176522</id>
+    <date>
+      <year-start>1637</year-start>
+      <year-end>1637</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Hoe lig ik hier in deze ellende</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ARnold en ghy <rhyme label="a" type="f">Hillegonde</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Dat ik nu wat spelen <rhyme label="b" type="m">konde</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Toreen lust vermaak en <rhyme label="a" type="f" corresp="#s1:l1">los</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Om u Feeste te <rhyme label="b" type="m" corresp="#s1:l2">vereeren</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">'k Sou my als een Switser <rhyme label="c" type="f">weeren</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Maar mijn Rietjen is te <rhyme label="c" type="f" corresp="#s1:l5">grof</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22395</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="danklied" translation="gratitude song">danklied</tag>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+    </tags>
+    <melody>Dank sagen wir alle Gott</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Wy segghen al danck den Heere Christo <rhyme label="a" type="m">altijt</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Die ons met zijnen woorde verlicht <rhyme label="b" type="m">heeft</rhyme>,</l>
+        <l id="s1:l3" met="2" type="+-">Ende verlost <rhyme label="b" type="m" corresp="#s1:l2">heeft</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Door zijn doot en bloet van des duiuels <rhyme label="c" type="m">macht</rhyme>.</l>
+        <l id="s1:l5" met="2" type="-+">Hem willen wy <rhyme label="d" type="f">alle</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Met der Enghelen <rhyme label="d" type="f" corresp="#s1:l5">gheschalle</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Singhen Lof, sy God in der <rhyme label="e" type="f">hoochde</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

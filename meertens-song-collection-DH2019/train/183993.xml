@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>183993</id>
+    <date>
+      <year-start>1633</year-start>
+      <year-end>1634</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Sophie Sophie als ik u maar aanzie</melody>
+  <author>Jacob Cats</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">SOphie, <rhyme label="a" type="m">Sophie</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Als ick u maer <rhyme label="a" type="m" corresp="#s1:l1">aensie</rhyme>,</l>
+        <l id="s1:l3" met="5" type="+-">Soo rijst stracx in my een nieuwe <rhyme label="b" type="m">jeught</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Soo dat mijn bly gemoet dan swemt als in de <rhyme label="b" type="m" corresp="#s1:l3">vreught</rhyme>.</l>
+        <l id="s1:l5" met="2" type="+-">V soet <rhyme label="c" type="f">wesen</rhyme>,</l>
+        <l id="s1:l6" met="2" type="+-">Van my <rhyme label="c" type="f" corresp="#s1:l5">gepresen</rhyme>,</l>
+        <l id="s1:l7" met="5" type="+-">Geeft yet dat geen mensch begrijpen <rhyme label="d" type="m">kan</rhyme>;</l>
+        <l id="s1:l8" met="6" type="-+">Want u gesicht alleen dat maeckt een vrolick <rhyme label="d" type="m" corresp="#s1:l7">man</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Beminde, <rhyme label="a" type="m">beminde</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Die ick soo geestigh <rhyme label="a" type="m" corresp="#s2:l1">vinde</rhyme>,</l>
+        <l id="s2:l3" met="5" type="+-">Laet u oogh en honigh-soeten <rhyme label="b" type="m">mont</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Die ick van overlangh soo schoon en lustigh <rhyme label="b" type="m" corresp="#s2:l3">vont</rhyme>,</l>
+        <l id="s2:l5" met="2" type="+-">Op my <rhyme label="c" type="f">dalen</rhyme>.</l>
+        <l id="s2:l6" met="2" type="+-">En <rhyme label="c" type="f" corresp="#s2:l5">doorstralen</rhyme></l>
+        <l id="s2:l7" met="5" type="+-">Dit mijn dof en nederslachtigh <rhyme label="d" type="m">hert</rhyme>,</l>
+        <l id="s2:l8" met="6" type="-+">Dat uyt een volle gunst u toegeeygent <rhyme label="d" type="m" corresp="#s2:l7">wert</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

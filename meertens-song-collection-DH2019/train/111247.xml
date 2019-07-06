@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111247</id>
+    <date>
+      <year-start>1785</year-start>
+      <year-end>1785</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="vaderlands lied" translation="patriotic song">vaderlands lied</tag>
+    </tags>
+    <melody>Soldaat voor wie hebt ge u geweerd</melody>
+    <categories>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Beheerschte volken, zingt den <rhyme label="a" type="m">lof</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Van u verheeven <rhyme label="b" type="f">hoven</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">In 't Vreije Neêrland heerscht geen <rhyme label="a" type="m" corresp="#s1:l1">hof</rhyme>:</l>
+        <l id="s1:l4" met="4" type="-+">Wy Zingen van geen ander <rhyme label="a" type="m" corresp="#s1:l1">stof</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Vivat de Burger, Vivat de <rhyme label="c" type="m">Boer</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Vivat de Boer en de <rhyme label="d" type="f">Burger</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">De Pracht die 't vorst'lyk oog <rhyme label="a" type="m">verbleid</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Is aan de hoven <rhyme label="b" type="f">heerlyk</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Doch zonder Boer- en <rhyme label="a" type="m" corresp="#s2:l1">Burgervleit</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Waar bleef der Hoven <rhyme label="a" type="m" corresp="#s2:l1">Heerlykheid</rhyme>?</l>
+        <l id="s2:l5" met="4" type="-+">Vivat de Burger! vivat de <rhyme label="c" type="m">Boer</rhyme>!</l>
+        <l id="s2:l6" met="4" type="+-">Vivat de Boer en de <rhyme label="d" type="f">Burger</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wat hart en zinnen streelen <rhyme label="a" type="m">kan</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Dat vindt men aan de <rhyme label="b" type="f">Hoven</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">Doch Boer en Burger zyn de <rhyme label="a" type="m" corresp="#s3:l1">Man</rhyme>!</l>
+        <l id="s3:l4" met="4" type="-+">Ja Hof heer, daar komt alles <rhyme label="a" type="m" corresp="#s3:l1">van</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Vivat de Burger; vivat de <rhyme label="c" type="m">Boer</rhyme>;</l>
+        <l id="s3:l6" met="4" type="+-">Vivat de Boer en de <rhyme label="d" type="f">Burger</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Zie 't Leger, daar de vorst meê <rhyme label="a" type="m">praalt</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Beweegen op zyn <rhyme label="b" type="f">werken</rhyme>;</l>
+        <l id="s4:l3" met="4" type="-+">'t heeft hem op 't Oorlogs-spel <rhyme label="a" type="m" corresp="#s4:l1">onthaalt</rhyme>;</l>
+        <l id="s4:l4" met="4" type="-+">'t Is Boer en Burger die 't <rhyme label="a" type="m" corresp="#s4:l1">betaalt</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Vivat de Burger; vivat de <rhyme label="c" type="m">Boer</rhyme>;</l>
+        <l id="s4:l6" met="4" type="+-">Vivat de Boer en de <rhyme label="d" type="f">Burger</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Soldaat; voor wien hebt g'u <rhyme label="a" type="m">geweerd</rhyme>?</l>
+        <l id="s5:l2" met="3" type="-+">Zie 't Hof eens <rhyme label="b" type="f">triompheeren</rhyme>?</l>
+        <l id="s5:l3" met="4" type="-+">Het gast, het brast, het <rhyme label="a" type="m" corresp="#s5:l1">kwinkeleert</rhyme>;</l>
+        <l id="s5:l4" met="4" type="-+">'t Is Boer en Burger daar 't op <rhyme label="a" type="m" corresp="#s5:l1">teert</rhyme>;</l>
+        <l id="s5:l5" met="4" type="-+">vivat de Burger; vivat de <rhyme label="c" type="m">boer</rhyme>;</l>
+        <l id="s5:l6" met="4" type="+-">vivat de boer en de <rhyme label="d" type="f">burger</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">verlaat het Hof; ga volg zyn <rhyme label="a" type="m">stoet</rhyme>;</l>
+        <l id="s6:l2" met="3" type="-+">Ga zie zyn Adel <rhyme label="b" type="f">heerschen</rhyme>;</l>
+        <l id="s6:l3" met="4" type="-+">Hy waant dat hy 't Land leeven <rhyme label="a" type="m" corresp="#s6:l1">doet</rhyme>;</l>
+        <l id="s6:l4" met="4" type="-+">Hy leeft uit 's boers en burgers <rhyme label="a" type="m" corresp="#s6:l1">goed</rhyme>.</l>
+        <l id="s6:l5" met="4" type="-+">vivat de burger; vivat de <rhyme label="c" type="m">boer</rhyme>;</l>
+        <l id="s6:l6" met="4" type="+-">vivat de boer en de <rhyme label="d" type="f">burger</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">van 't hof voert d'Edelman zyn <rhyme label="a" type="m">Pracht</rhyme>,</l>
+        <l id="s7:l2" met="3" type="-+">Zyn Wulpsheid door de <rhyme label="b" type="f">Steden</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">Zyn hof, zyn spel, zyn bal, zyn <rhyme label="a" type="m" corresp="#s7:l1">jacht</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Haalt hy uit 's boers en burgers <rhyme label="a" type="m" corresp="#s7:l1">vacht</rhyme>.</l>
+        <l id="s7:l5" met="4" type="-+">vivat de burger; vivat de <rhyme label="c" type="m">boer</rhyme>;</l>
+        <l id="s7:l6" met="4" type="+-">vivat de boer en de <rhyme label="d" type="f">burger</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Wat lof in zulk een Land, wat <rhyme label="a" type="m">eer</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">Heeft daar de boer en <rhyme label="b" type="f">burger</rhyme>?</l>
+        <l id="s8:l3" met="4" type="-+">Genade van zyn vorst en <rhyme label="a" type="m" corresp="#s8:l1">heer</rhyme>,</l>
+        <l id="s8:l4" met="4" type="-+">Dat dankt hy God; hy krygt niet <rhyme label="a" type="m" corresp="#s8:l1">meer</rhyme>.</l>
+        <l id="s8:l5" met="4" type="-+">Vivat de burger; vivat de <rhyme label="c" type="m">boer</rhyme>;</l>
+        <l id="s8:l6" met="4" type="+-">vivat de boer en de <rhyme label="d" type="f">burger</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

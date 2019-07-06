@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13823</id>
+    <date>
+      <year-start>1646</year-start>
+      <year-end>1646</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Rozemond die lag gedoken</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">DAer men Lievers Hooft siet <rhyme label="a" type="f">cieren</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Brosterhuysen, Ban, <rhyme label="b" type="m">Bostijn</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Met d’Eer-krans van <rhyme label="a" type="f" corresp="#s1:l1">Lauwerieren</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Nickels met <rhyme label="b" type="m" corresp="#s1:l2">Roosemarijn</rhyme>;</l>
+        <l id="s1:l5" met="4" type="+-">Daerm’ oock Ockes, Flodorp, <rhyme label="c" type="m">Goor</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Grift in ‘t mellick-wil <rhyme label="c" type="m" corresp="#s1:l5">Yvoir</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

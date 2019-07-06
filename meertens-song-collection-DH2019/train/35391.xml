@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35391</id>
+    <date>
+      <year-start>1710</year-start>
+      <year-end>1733</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>Courante monsieur</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="amusement">vermaak</category>
+      <category translation="narratives">verhalen</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacobus de Ruyter</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">DE Vliegh quam by een <rhyme label="a" type="m">Mier</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">En sey: gy slechte <rhyme label="a" type="m" corresp="#s1:l1">dier</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Gy aerm sloor, die als een esel <rhyme label="b" type="m">muyl</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Werckt heel den dagh, om wat graen in een <rhyme label="b" type="m" corresp="#s1:l3">kuyl</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Te garen, als de Boeren <rhyme label="c" type="m">doen</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Soo slaeft gy oock, en gy zijt oock soo <rhyme label="c" type="m" corresp="#s1:l5">coen</rhyme>,</l>
+        <l id="s1:l7" met="5" type="-+">En stout, dat gy de Boeren steelt hun <rhyme label="d" type="m">graen</rhyme>,</l>
+        <l id="s1:l8" met="5" type="-+">Waer voor sy hebben vele moyt <rhyme label="d" type="m" corresp="#s1:l7">gedaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Dus bidt, gy slechte <rhyme label="a" type="m">sloor</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Dat Godt Jupijn u <rhyme label="a" type="m" corresp="#s2:l1">hoor</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">En u geef vleugels, oock een vliege <rhyme label="b" type="m">maeckt</rhyme>.</l>
+        <l id="s2:l4" met="5" type="-+">Hier me de Vliegh heeft haer sermoen <rhyme label="b" type="m" corresp="#s2:l3">gestaeckt</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Dit hoord' al aen de wijse <rhyme label="c" type="m">Mier</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">En gaf haer antwoord wel op dees <rhyme label="c" type="m" corresp="#s2:l5">manier</rhyme>:</l>
+        <l id="s2:l7" met="5" type="-+">Gy Monsieur Vliegh, gy eelman van mijn <rhyme label="d" type="m">gat</rhyme>,</l>
+        <l id="s2:l8" met="5" type="-+">Gy stoeft wel seer hoveerdigh, ende <rhyme label="d" type="m" corresp="#s2:l7">prat</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Yder heeft u in <rhyme label="a" type="m">haet</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Yder een u <rhyme label="a" type="m" corresp="#s3:l1">versmaet</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">En gy zijt niemants vriendt, als vanden <rhyme label="b" type="m">stront</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Daer gy alleen gerust op sitten <rhyme label="b" type="m" corresp="#s3:l3">kont</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Aen yder zijt g' een vloeck, en <rhyme label="c" type="m">spoock</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">Gy quelt d' onnoosel peerden, koyen <rhyme label="c" type="m" corresp="#s3:l5">oock</rhyme>,</l>
+        <l id="s3:l7" met="5" type="-+">Gy suypt het bloedt van menigh peert en <rhyme label="d" type="m">koe</rhyme>,</l>
+        <l id="s3:l8" met="5" type="-+">En die onnoosel beesten maeckt gy <rhyme label="d" type="m" corresp="#s3:l7">moe</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Gy zijt een lege <rhyme label="a" type="m">pry</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Somers zijt gy wat <rhyme label="a" type="m" corresp="#s4:l1">bly</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">Maer 's winters zijt gy meer oock als half <rhyme label="b" type="m">doodt</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">En lijdt dan honger, ende grooten <rhyme label="b" type="m" corresp="#s4:l3">noot</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Een yder oock, die slaet u <rhyme label="c" type="m">doodt</rhyme>,</l>
+        <l id="s4:l6" met="5" type="-+">Als hy maer kan: want gy rooft seer <rhyme label="c" type="m" corresp="#s4:l5">snoot</rhyme>,</l>
+        <l id="s4:l7" met="5" type="-+">En maer bederft goe spijsen, ende <rhyme label="d" type="m">dranck</rhyme>,</l>
+        <l id="s4:l8" met="5" type="-+">En aen goe spijsen brenght gy vuylen <rhyme label="d" type="m" corresp="#s4:l7">stanck</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Gy Vliegh, gy lieghter <rhyme label="a" type="m">aen</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Dat ick maer roof het <rhyme label="a" type="m" corresp="#s5:l1">graen</rhyme>,</l>
+        <l id="s5:l3" met="5" type="-+">Ick neme maer, het geen verloren <rhyme label="b" type="m">gaet</rhyme>,</l>
+        <l id="s5:l4" met="5" type="-+">En 't geen gevallen yvers is op <rhyme label="b" type="m" corresp="#s5:l3">straet</rhyme>:</l>
+        <l id="s5:l5" met="4" type="-+">Des somers werck ick neerstigh <rhyme label="c" type="m">seer</rhyme>,</l>
+        <l id="s5:l6" met="5" type="-+">En 'swinters ben ick dan als eenen <rhyme label="c" type="m" corresp="#s5:l5">Heer</rhyme>;</l>
+        <l id="s5:l7" met="5" type="-+">Gy leef' op roof, en 's winters zijt g' als <rhyme label="d" type="m">doot</rhyme></l>
+        <l id="s5:l8" met="5" type="-+">En in gebreck, en aerremoede <rhyme label="d" type="m" corresp="#s5:l7">groot</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Leert dat hier jonge <rhyme label="a" type="m">jeught</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">Dat aerrebeyt <rhyme label="a" type="m" corresp="#s6:l1">verheught</rhyme>,</l>
+        <l id="s6:l3" met="5" type="-+">Als g' in den somer van u jonckheydt <rhyme label="b" type="m">werckt</rhyme>,</l>
+        <l id="s6:l4" met="5" type="-+">Dat dit den winter van u oudtheydt <rhyme label="b" type="m" corresp="#s6:l3">sterckt</rhyme>:</l>
+        <l id="s6:l5" met="4" type="-+">Dus gaet gy luyaert tot de <rhyme label="c" type="m">Mier</rhyme>,</l>
+        <l id="s6:l6" met="5" type="-+">En leert van haer neerstigh te wercken <rhyme label="c" type="m" corresp="#s6:l5">hier</rhyme>;</l>
+        <l id="s6:l7" met="5" type="-+">Maer eerst, en meest naer 't eeuwigh leven <rhyme label="d" type="m">tracht</rhyme>,</l>
+        <l id="s6:l8" met="5" type="-+">En d' opgeblasen lege Vliegh <rhyme label="d" type="m" corresp="#s6:l7">veracht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

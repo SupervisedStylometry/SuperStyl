@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>179113</id>
+    <date>
+      <year-start>1866</year-start>
+      <year-end>1866</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Laat het maar stormen</melody>
+  <author>Frans de Cort</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Schuifelt de wind vervaarlijk <rhyme label="a" type="f">daarbuiten</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Nu er de winter den schepter <rhyme label="b" type="m">zwaait</rhyme>;</l>
+        <l id="s1:l3" met="4" type="+-">Klettert de hagel tegen de <rhyme label="a" type="f" corresp="#s1:l1">ruiten</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Pas nog met bloemen van ijs <rhyme label="b" type="m" corresp="#s1:l2">bezaaid</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Laat het maar stormen... veilig, o <rhyme label="c" type="f">vrouwtje</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Slijten we samen het <rhyme label="d" type="m">avonduur</rhyme>...</l>
+        <l id="s1:l7" met="4" type="+-">Ach! wat is 't zoet zoo 'n hartelijk <rhyme label="c" type="f" corresp="#s1:l5">koutje</rhyme>!</l>
+        <l id="s1:l8" met="4" type="+-">Ach! wat is 't lekker bij 't knappend <rhyme label="d" type="m" corresp="#s1:l6">vuur</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Moede gedarteld slapen de <rhyme label="a" type="f">kleinen</rhyme>;</l>
+        <l id="s2:l2" met="4" type="+-">Zorgeloos zijn we nu weêr <rhyme label="b" type="m">bijeen</rhyme>.</l>
+        <l id="s2:l3" met="4" type="+-">Schuif uwen zetel dicht bij den <rhyme label="a" type="f" corresp="#s2:l1">mijnen</rhyme>...</l>
+        <l id="s2:l4" met="4" type="+-">Neen, voor ons tweeën maar één <rhyme label="b" type="m" corresp="#s2:l2">alleen</rhyme>!</l>
+        <l id="s2:l5" met="4" type="+-">Laat het maar stormen... kus mij, o <rhyme label="c" type="f">vrouwtje</rhyme>;</l>
+        <l id="s2:l6" met="4" type="+-">Liefde verzaligt het <rhyme label="d" type="m">avonduur</rhyme>...</l>
+        <l id="s2:l7" met="4" type="+-">Ach! wat is 't zoet zoo 'n hartelijk <rhyme label="c" type="f" corresp="#s2:l5">koutje</rhyme>!</l>
+        <l id="s2:l8" met="4" type="+-">Ach! wat is 't lekker bij 't knappend <rhyme label="d" type="m" corresp="#s2:l6">vuur</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

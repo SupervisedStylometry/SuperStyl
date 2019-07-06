@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185422</id>
+    <date>
+      <year-start>1795</year-start>
+      <year-end>1795</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Boire à son tour</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">'t Is een goed <rhyme label="a" type="m">Huw'lyk</rhyme> /</l>
+        <l id="s1:l2" met="3" type="+-">Daar Man / of Vrouw nooit <rhyme label="b" type="f">kyven</rhyme> /</l>
+        <l id="s1:l3" met="3" type="+-">En daar geen liefde <rhyme label="a" type="m" corresp="#s1:l1">wykt</rhyme>.</l>
+        <l id="s1:l4" met="3" type="+-">Kan vergenoeging <rhyme label="b" type="f" corresp="#s1:l2">blyven</rhyme>!</l>
+        <l id="s1:l5" met="2" type="+-">Ik zeg <rhyme label="c" type="m">gewis</rhyme></l>
+        <l id="s1:l6" met="2" type="+-">Waar dat ook <rhyme label="c" type="m" corresp="#s1:l5">is</rhyme> /</l>
+        <l id="s1:l7" met="4" type="+-">Daar men nooit kyst/ kyst/ <rhyme label="d" type="m">kyst</rhyme>/</l>
+        <l id="s1:l8" met="2" type="+-">Iets zeldzaams <rhyme label="c" type="m" corresp="#s1:l5">is</rhyme> /</l>
+      </lg>
+    </lg>
+  </text>
+</song>

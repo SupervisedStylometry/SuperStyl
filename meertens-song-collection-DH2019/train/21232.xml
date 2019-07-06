@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21232</id>
+    <date>
+      <year-start>1646</year-start>
+      <year-end>1646</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Ach droom hoe kwelt gij mijn gedachten</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Guillaume Abrahams Ooijevaer</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Adieu, Adieu vermaeck en <rhyme label="a" type="f">weelden</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Adieu schoon Hof, dat my wel vreuchden <rhyme label="a" type="f" corresp="#s1:l1">teelden</rhyme>:</l>
+        <l id="s1:l3" met="7" type="+-">Daer ick songh // daer ick sat te <rhyme label="b" type="f">rusten</rhyme>,</l>
+        <l id="s1:l4" met="6" type="+-">Daer ick stondt // daer ick vondt // in het <rhyme label="c" type="m">rondt</rhyme></l>
+        <l id="s1:l5" met="5" type="+-">Veel vermaeck, en 't Hart dickmaels <rhyme label="b" type="f" corresp="#s1:l3">verlusten</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Door het soet Geblomt', en 't <rhyme label="d" type="m">Kruydt</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Dat daer veyl en jeughdigh <rhyme label="d" type="m" corresp="#s1:l6">spruyt</rhyme>,</l>
+        <l id="s1:l8" met="5" type="-+">Als Phoebus Flora soet en lieflijck <rhyme label="b" type="f" corresp="#s1:l3">kusten</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Maer ach! al waert 'er noch so <rhyme label="a" type="f">schoone</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Ick moet in de muffe Stadt gaen <rhyme label="a" type="f" corresp="#s2:l1">woonen</rhyme>,</l>
+        <l id="s2:l3" met="7" type="+-">Al 't cieraet // dat hier staet // sal ick nu <rhyme label="b" type="f">verlaten</rhyme>,</l>
+        <l id="s2:l4" met="6" type="+-">Tulp, en Roos, Abrekoos, en 't <rhyme label="c" type="m">gebloos</rhyme></l>
+        <l id="s2:l5" met="5" type="+-">Van meer ander Fruyt, schoon boven <rhyme label="b" type="f" corresp="#s2:l3">maten</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Appel, Haeghjes, Aelbes, <rhyme label="d" type="m">Peer</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Die van rijpte vielen <rhyme label="d" type="m" corresp="#s2:l6">ne'er</rhyme>.</l>
+        <l id="s2:l8" met="5" type="-+">Wat mach u aenghenaemheydt my nu <rhyme label="b" type="f" corresp="#s2:l3">baten</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Daer and're nae den Mey <rhyme label="a" type="f">verlanghen</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Word 't my het Hart (eylaes) metdruk <rhyme label="a" type="f" corresp="#s3:l1">bevangen</rhyme>,</l>
+        <l id="s3:l3" met="7" type="+-">Want ick weet // tot mijn leet // dat ick nu moet <rhyme label="b" type="f">scheyden</rhyme></l>
+        <l id="s3:l4" met="6" type="+-">Van 't pleysier // ach! Laurier // <rhyme label="c" type="m">Eg'lantier</rhyme></l>
+        <l id="s3:l5" met="5" type="+-">En groen' Haeghjes mocht ghy my <rhyme label="b" type="f" corresp="#s3:l3">geleyden</rhyme>.</l>
+        <l id="s3:l6" met="4" type="+-">Galdery, so net <rhyme label="d" type="m">gebreyt</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Met Lougustrum <rhyme label="d" type="m" corresp="#s3:l6">overspreyt</rhyme>,</l>
+        <l id="s3:l8" met="5" type="-+">Hoe menichmael gingh ick door u <rhyme label="b" type="f" corresp="#s3:l3">vermeyden</rhyme>?</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Soo haest de Lente was <rhyme label="a" type="f">ghekomen</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">Heb ick alhier dees soetigheydt <rhyme label="a" type="f" corresp="#s4:l1">vernomen</rhyme>,</l>
+        <l id="s4:l3" met="7" type="+-">En de lust // vaeck geblust // dese seven <rhyme label="b" type="f">Iaren</rhyme>,</l>
+        <l id="s4:l4" met="6" type="+-">Daer 't gesicht // heeft verlicht // het <rhyme label="c" type="m">gewicht</rhyme></l>
+        <l id="s4:l5" met="5" type="+-">Dat de geest des menschen komt <rhyme label="b" type="f" corresp="#s4:l3">bezwaren</rhyme>.</l>
+        <l id="s4:l6" met="4" type="+-">Daer de Reuck in was <rhyme label="d" type="m">vernoeght</rhyme>:</l>
+        <l id="s4:l7" met="4" type="+-">Het Ghehoor heeft zich <rhyme label="d" type="m" corresp="#s4:l6">ghevoeght</rhyme></l>
+        <l id="s4:l8" met="5" type="-+">Nae 't soet gezangh der Vog'len die daer <rhyme label="b" type="f" corresp="#s4:l3">waren</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Des morgens als Auroor quam <rhyme label="a" type="f">bloosen</rhyme>,</l>
+        <l id="s5:l2" met="5" type="-+">En Phoebi strael den Dauw trock vande <rhyme label="a" type="f" corresp="#s5:l1">Roosen</rhyme>:</l>
+        <l id="s5:l3" met="7" type="+-">In dit we'er // sat ick ne'er // op mijn Pijp te <rhyme label="b" type="f">speelen</rhyme>,</l>
+        <l id="s5:l4" met="6" type="+-">'s Avonts me'e // was ick ree // en sulckx <rhyme label="c" type="m">de'e</rhyme></l>
+        <l id="s5:l5" met="5" type="+-">Want het mocht my nimmermeer <rhyme label="b" type="f" corresp="#s5:l3">verveelen</rhyme>:</l>
+        <l id="s5:l6" met="4" type="+-">Maer ick gae dees soetheydt <rhyme label="d" type="m">quijt</rhyme>,</l>
+        <l id="s5:l7" met="4" type="+-">Daer ick my in heb <rhyme label="d" type="m" corresp="#s5:l6">verblijdt</rhyme>;</l>
+        <l id="s5:l8" met="5" type="-+">Ey Bosch en velden wilt nu vreught me'e <rhyme label="b" type="f" corresp="#s5:l3">deelen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

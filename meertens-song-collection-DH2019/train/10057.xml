@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10057</id>
+    <date>
+      <year-start>1658</year-start>
+      <year-end>1658</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Boksvoetje</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WAt gunden Jupijn ons oit beter dan <rhyme label="a" type="m">vreucht</rhyme>?</l>
+        <l id="s1:l2" met="2" type="-+">'t Gewemel’ van <rhyme label="b" type="f">d'Hemel</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Is 't aârs als <rhyme label="a" type="m" corresp="#s1:l1">geneughd</rhyme>?</l>
+        <l id="s1:l4" met="2" type="-+">Wech droefheydt, <rhyme label="c" type="m">vertreck</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">Kom Febus en <rhyme label="c" type="m" corresp="#s1:l4">weck</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Tot blijdschap, ons hartje, zoo zeer als ghy <rhyme label="a" type="m" corresp="#s1:l1">meughd</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ay brengh dan Apollo een vrolijcken <rhyme label="a" type="m">loff</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Met zinge’ en <rhyme label="b" type="f">springe</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">Door 't goddlijk <rhyme label="a" type="m" corresp="#s2:l1">hoff</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">Zoo: dat klinckt door 't <rhyme label="c" type="m">velt</rhyme>!</l>
+        <l id="s2:l5" met="2" type="-+">Hoor! d'echo die <rhyme label="c" type="m" corresp="#s2:l4">meld</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Ons vreughde aan d'Amstel vol gallem-rijk <rhyme label="a" type="m" corresp="#s2:l1">stoff</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Kom, kom Hypocrene stroom van <rhyme label="a" type="m">Helicon</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Kom leke’ wy <rhyme label="b" type="f">smeke</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">U zilvere <rhyme label="a" type="m" corresp="#s3:l1">bron</rhyme>?</l>
+        <l id="s3:l4" met="2" type="-+">Doet vloejen ons <rhyme label="c" type="m">choor</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">Van stem, en <rhyme label="c" type="m" corresp="#s3:l4">gehoor</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Maek dat Godt Apollo ons vreughde <rhyme label="a" type="m" corresp="#s3:l1">bejon</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

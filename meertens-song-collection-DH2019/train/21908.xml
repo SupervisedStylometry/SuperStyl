@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21908</id>
+    <date>
+      <year-start>1580</year-start>
+      <year-end>1580</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 133 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Philips van Marnix</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Tis als een salf' seer kost'lijck ende <rhyme label="a" type="f">reen</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Die m'ouer t'hooft des priesters A'rons <rhyme label="a" type="f" corresp="#s1:l1">giet</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Alsoo't des Heeren wet <rhyme label="b" type="m">ghebiedt</rhyme>.</l>
+        <l id="s1:l4" met="5" type="-+">* Die hem van t'hooft tot inden baert comt <rhyme label="b" type="m" corresp="#s1:l3">dalen</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">End' gaet dan voorts met soeten reuck <rhyme label="c" type="m">bestralen</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">De soomen van zijn heyligh <rhyme label="c" type="m" corresp="#s1:l5">cleedt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Oft als den daeuw sick ouer Hermon <rhyme label="a" type="f">spreedt</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">End' hem van daen op Sion wijdt <rhyme label="a" type="f" corresp="#s2:l1">verbreydt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">End' gheeft den lande <rhyme label="b" type="m">vruchtbaerheyt</rhyme>.</l>
+        <l id="s2:l4" met="5" type="-+">* Soo zijn sy oock die in goed' eendracht <rhyme label="b" type="m" corresp="#s2:l3">leuen</rhyme></l>
+        <l id="s2:l5" met="5" type="-+">Want God sal hun zijn seghen rijck'lijck <rhyme label="c" type="m">gheuen</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">End' t'leuen inder <rhyme label="c" type="m" corresp="#s2:l5">eewicheyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

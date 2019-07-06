@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>121437</id>
+    <date>
+      <year-start>1832</year-start>
+      <year-end>1832</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>O Rijn o Rijn</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">ô Bol! ô Bol! Wat rijst gij trotsch naar <rhyme label="a" type="f">boven</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Bij 't handgeklap van 't <rhyme label="b" type="m">Volk</rhyme>;</l>
+        <l id="s1:l3" met="5" type="-+">Stijg op, stijg op. Laat niets uw' moed <rhyme label="a" type="f" corresp="#s1:l1">verdooven</rhyme>;</l>
+        <l id="s1:l4" met="3" type="-+">Kreun u aan wind noch <rhyme label="b" type="m" corresp="#s1:l2">wolk</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Nog rijst de Bol! Nu wordt het groot <rhyme label="a" type="f">gevaarte</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Een speldeknop <rhyme label="b" type="m">gelijk</rhyme>;</l>
+        <l id="s2:l3" met="5" type="-+">Maar zacht! hij daalt. Ach! door zijn eigen <rhyme label="a" type="f" corresp="#s2:l1">zwaarte</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Stort hij ter neêr in 't <rhyme label="b" type="m" corresp="#s2:l2">slijk</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Hoe vloekt, hoe vloekt het volk nu bij zijn <rhyme label="a" type="f">vallen</rhyme>;</l>
+        <l id="s3:l2" met="3" type="-+">Foei! 't scheurt den Bol van <rhyme label="b" type="m">één</rhyme>.</l>
+        <l id="s3:l3" met="5" type="-+">Weg met dat vod! is nu de kreet van <rhyme label="a" type="f" corresp="#s3:l1">allen</rhyme>. -</l>
+        <l id="s3:l4" met="3" type="-+">ô Wankelbaar <rhyme label="b" type="m" corresp="#s3:l2">Gemeen</rhyme>!</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Beschouwt, beschouwt, voortreffelijke <rhyme label="a" type="f">Bollen</rhyme>!</l>
+        <l id="s4:l2" met="3" type="-+">'t Lot van uw' <rhyme label="b" type="m">naamgenoot</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">Wat rees hij trotsch door vreemde lucht <rhyme label="a" type="f" corresp="#s4:l1">gezwollen</rhyme>....</l>
+        <l id="s4:l4" met="3" type="-+">Maar ook zijn val was <rhyme label="b" type="m" corresp="#s4:l2">groot</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

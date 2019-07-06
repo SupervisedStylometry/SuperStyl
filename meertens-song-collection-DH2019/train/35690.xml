@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35690</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+    </tags>
+    <melody>Christ ist erstanden</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Albertus Buitendyck</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">WIlt Maeghden al <rhyme label="a" type="f">vertreden</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Dat de ziel besmet, en <rhyme label="a" type="f" corresp="#s1:l1">leden</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Met Sint Apollonia vroom <rhyme label="b" type="m">zijt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Wort ghy om 't g'loof en staet <rhyme label="b" type="m" corresp="#s1:l3">benijt</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Verdraeght, en <rhyme label="b" type="m" corresp="#s1:l3">strijdt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">2.Mijn waerde <rhyme label="a" type="f">Patronersse</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Godes Bruydt en <rhyme label="a" type="f" corresp="#s2:l1">Martelersse</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Neemt van my, de pijn uyt kies en <rhyme label="b" type="m">tandt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Bevrijdt mijn ziel van d'helsche <rhyme label="b" type="m" corresp="#s2:l3">brandt</rhyme>.</l>
+        <l id="s2:l5" met="2" type="-+">Door u <rhyme label="b" type="m" corresp="#s2:l3">by-stant</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Van sonden, Heer! en <rhyme label="a" type="f">schanden</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Bewaert mijn hart, tongh en <rhyme label="a" type="f" corresp="#s3:l1">tanden</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Als ick van vrient en vreemt word <rhyme label="b" type="m">gehaet</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Om 't Roomsch geloof, of Maeghde <rhyme label="b" type="m" corresp="#s3:l3">staet</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">My niet <rhyme label="b" type="m" corresp="#s3:l3">verlaet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

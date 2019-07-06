@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>166961</id>
+    <date>
+      <year-start>1751</year-start>
+      <year-end>1800</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">O heldere ô soete <rhyme label="a" type="f">verborgen</rhyme>!</l>
+        <l id="s1:l2" met="4" type="+-">Gy vervolgt mijn <rhyme label="b" type="m">ongeluk</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Schept vermaek in mijn te <rhyme label="a" type="f" corresp="#s1:l1">vervolgen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">En te dompelen in <rhyme label="b" type="m" corresp="#s1:l2">druk</rhyme>:</l>
+        <l id="s1:l5" met="4" type="+-">Fhebus zend zijn heldere <rhyme label="c" type="f">stralen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">En zijn Glans hier op mijn <rhyme label="d" type="m">neer</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Sal u schoonheyt nimmer <rhyme label="c" type="f" corresp="#s1:l5">dalen</rhyme>?</l>
+        <l id="s1:l8" met="4" type="+-">Kryg ik nimmer mijn <rhyme label="d" type="m" corresp="#s1:l6">begeer</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Dat de heldere gloed sal <rhyme label="a" type="f">quynen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Van den lieffelijken <rhyme label="b" type="m">Zon</rhyme>:</l>
+        <l id="s2:l3" met="4" type="+-">Want ik mis mijn <rhyme label="a" type="f" corresp="#s2:l1">Roselynen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Die myn soms verquikken <rhyme label="b" type="m" corresp="#s2:l2">kan</rhyme>:</l>
+        <l id="s2:l5" met="4" type="+-">Willig Bosje groene <rhyme label="c" type="f">Elsje</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Mogt ik haer gelijk <rhyme label="d" type="m">voorheen</rhyme>?</l>
+        <l id="s2:l7" met="4" type="+-">In ‘t lommeren eens <rhyme label="c" type="f" corresp="#s2:l5">omhelsen</rhyme>;</l>
+        <l id="s2:l8" met="4" type="+-">En mijn Vlegten om haer <rhyme label="d" type="m" corresp="#s2:l6">heen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Doen Tweeling zonne <rhyme label="a" type="f">stralen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Mijn bescheenen met haer <rhyme label="b" type="m">Gloed</rhyme>;</l>
+        <l id="s3:l3" met="4" type="+-">In mijn sulk den adem <rhyme label="a" type="f" corresp="#s3:l1">halen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Dog ik haer heden derven <rhyme label="b" type="m" corresp="#s3:l2">moed</rhyme>!</l>
+        <l id="s3:l5" met="4" type="+-">Dog sal ik kloekmoedig <rhyme label="c" type="f">hopen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Tot den Zon verrysen <rhyme label="d" type="m">sal</rhyme>:</l>
+        <l id="s3:l7" met="4" type="+-">Dan sal het tog mijn tegen <rhyme label="c" type="f" corresp="#s3:l5">lopen</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">Want zy tergt mijn <rhyme label="d" type="m" corresp="#s3:l6">Ongeval</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

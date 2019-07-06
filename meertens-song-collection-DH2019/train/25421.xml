@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25421</id>
+    <date>
+      <year-start>1425</year-start>
+      <year-end>1430</year-end>
+    </date>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Ist enich man vrys durch zines hertzen <rhyme label="a" type="f">vrouwen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">die zi tsu vriuden <rhyme label="b" type="m">balt</rhyme>.</l>
+        <l id="s1:l3" met="5" type="-+">Och, yummer och, zal ich zi nicht mer <rhyme label="a" type="f" corresp="#s1:l1">scouwen</rhyme>!</l>
+        <l id="s1:l4" met="3" type="-+">Yr liif ist wal <rhyme label="b" type="m" corresp="#s1:l2">gestalt</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">die lief onde leyt an mir <rhyme label="c" type="m">besloet</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">ich zwueer das wal bij alle minen <rhyme label="d" type="f">eyden</rhyme> [...],</l>
+        <l id="s1:l7" met="3" type="-+">dat mich yrs nicht <rhyme label="c" type="m" corresp="#s1:l5">verdroet</rhyme>.</l>
+        <l id="s1:l8" met="5" type="-+">Och milder dach, wye wal was mir tsu <rhyme label="d" type="f" corresp="#s1:l6">moede</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">doen ich miin vrou <rhyme label="e" type="m">ansach</rhyme>!</l>
+        <l id="s1:l10" met="5" type="-+">Miin balsam smaec ist die vyl tsartz <rhyme label="d" type="f" corresp="#s1:l6">goede</rhyme>,</l>
+        <l id="s1:l11" met="3" type="+-">daer tsu miin oester <rhyme label="e" type="m" corresp="#s1:l9">dach</rhyme>.</l>
+        <l id="s1:l12" met="4" type="-+">Ghegruest bist u, bluiende <rhyme label="f" type="m">stam</rhyme>,</l>
+        <l id="s1:l13" met="5" type="-+">dou lieves wal daer van zi zelden <rhyme label="f" type="m" corresp="#s1:l12">quam</rhyme>,</l>
+        <l id="s1:l14" met="3" type="-+">dou zoete godes <rhyme label="f" type="m" corresp="#s1:l12">lam</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36601</id>
+    <date>
+      <year-start>1631</year-start>
+      <year-end>1631</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>Kom maagden kinderen jongelingen</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Lucas van Mechelen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WAt is die doodt? wat is dat <rhyme label="a" type="f">leven</rhyme>?</l>
+        <l id="s1:l2" met="4" type="-+">Wat ist te zijn ghestorven <rhyme label="b" type="m">heel</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">O die hem kost' gansch <rhyme label="a" type="f" corresp="#s1:l1">overgheven</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Naer d'neer ende naer <rhyme label="b" type="m" corresp="#s1:l2">d'opperdeel</rhyme>!</l>
+        <l id="s1:l5" met="4" type="-+">Als die claer siel' die soo verr' <rhyme label="c" type="m">quam</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Dat sy die doodt voor leven <rhyme label="c" type="m" corresp="#s1:l5">nam</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O blijden schat vol alle <rhyme label="a" type="f">welde</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Die die verloren siele <rhyme label="b" type="m">vont</rhyme>!</l>
+        <l id="s2:l3" met="4" type="-+">Daer haer dat leven Christi <rhyme label="a" type="f" corresp="#s2:l1">stelde</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">In ruste, die haer wiert <rhyme label="b" type="m" corresp="#s2:l2">gheiont</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Hoe overgroot was hare <rhyme label="c" type="m">vreught</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Daer Godt haer maeckte me' <rhyme label="c" type="m" corresp="#s2:l5">verheught</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Maer hoe is sy ter doodt <rhyme label="a" type="f">ghecomen</rhyme>?</l>
+        <l id="s3:l2" met="4" type="-+">Hoe is sy tot d'uytvaert <rhyme label="b" type="m">gheraeckt</rhyme>?</l>
+        <l id="s3:l3" met="4" type="-+">Hoe heeft sy dat graf in <rhyme label="a" type="f" corresp="#s3:l1">ghenomen</rhyme>?</l>
+        <l id="s3:l4" met="4" type="-+">Hoe heeft sy Requiem <rhyme label="b" type="m" corresp="#s3:l2">ghesmaeckt</rhyme>?</l>
+        <l id="s3:l5" met="4" type="-+">Haer weghen die zijn <rhyme label="c" type="m">wonderbaer</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Daer sy die doodt door spoorde <rhyme label="c" type="m" corresp="#s3:l5">naer</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Verliesen wou' sy hare <rhyme label="a" type="f">sinnen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Het schijnt te zijn een <rhyme label="b" type="m">raserny</rhyme>;</l>
+        <l id="s4:l3" met="4" type="-+">Nochtans die socht' de doodt van <rhyme label="a" type="f" corresp="#s4:l1">binnen</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Moest' alle sinnen gaen voor <rhyme label="b" type="m" corresp="#s4:l2">by</rhyme>:</l>
+        <l id="s4:l5" met="4" type="-+">Sy moest' haer selven wesen <rhyme label="c" type="m">quijt'</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Om doodt te staen voor Godt <rhyme label="c" type="m" corresp="#s4:l5">altijt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Die sinnen, die den Gheest <rhyme label="a" type="f">bestreden</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Aen de' sy duysentmael die <rhyme label="b" type="m">doodt</rhyme>;</l>
+        <l id="s5:l3" met="4" type="-+">Sy stierfse die haer leven <rhyme label="a" type="f" corresp="#s5:l1">deden</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Des levens wou' sy wesen <rhyme label="b" type="m" corresp="#s5:l2">bloot</rhyme>:</l>
+        <l id="s5:l5" met="4" type="-+">Sy sach dat wat sy vondt oft <rhyme label="c" type="m">socht'</rhyme>,</l>
+        <l id="s5:l6" met="4" type="-+">Moest' sterven, eer sy leven <rhyme label="c" type="m" corresp="#s5:l5">mocht'</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Van buyten quam sy in te <rhyme label="a" type="f">raken</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Sy wont allenskens meer ende <rhyme label="b" type="m">meer</rhyme>;</l>
+        <l id="s6:l3" met="4" type="-+">Haer en kost' anders niet <rhyme label="a" type="f" corresp="#s6:l1">ghesmaken</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Dan heel te sterven in den <rhyme label="b" type="m" corresp="#s6:l2">Heer'</rhyme>:</l>
+        <l id="s6:l5" met="4" type="-+">T'wiert al tot het minste <rhyme label="c" type="m">ghedacht'</rhyme></l>
+        <l id="s6:l6" met="4" type="-+">In haer om Godt ter doodt <rhyme label="c" type="m" corresp="#s6:l5">ghebracht</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Alleen stondt Godt in haer <rhyme label="a" type="f">ghesichte</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">Sy schoude dat soet wesen <rhyme label="b" type="m">aen</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Dat haer inwendelijck <rhyme label="a" type="f" corresp="#s7:l1">verlichte</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Om dat sy was heel <rhyme label="b" type="m" corresp="#s7:l2">uytghegaen</rhyme>:</l>
+        <l id="s7:l5" met="4" type="-+">Den uytganck naer haers herten <rhyme label="c" type="m">lust</rhyme></l>
+        <l id="s7:l6" met="4" type="-+">Brocht' haer tot die verlichte <rhyme label="c" type="m" corresp="#s7:l5">rust'</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

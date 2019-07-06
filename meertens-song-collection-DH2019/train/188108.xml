@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188108</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Het meisje van zeventien jaar</melody>
+  <author>Cornelis Maertsz.</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">PRopheten oogh, dat hel en <rhyme label="a" type="m">klaer</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Staegh weyd door Godts <rhyme label="b" type="f">gesichten</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Sagh eenen gulden <rhyme label="a" type="m" corresp="#s1:l1">Kandelaer</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Beset met seven <rhyme label="b" type="f" corresp="#s1:l2">lichten</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Tusschen twee Oly-Boomen <rhyme label="a" type="m">staen</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Die hare <rhyme label="b" type="f">Oly-vloeden</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Staegh in de Lampen lieten <rhyme label="a" type="m" corresp="#s2:l1">gaen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Om eeuwigh 't licht te <rhyme label="b" type="f" corresp="#s2:l2">voeden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Elck kindt Godts is hier 't <rhyme label="a" type="m">tegen-beeldt</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Want Godt, rijck in <rhyme label="b" type="f">weldaden</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Staet altijdt by haer, ende <rhyme label="a" type="m" corresp="#s3:l1">deelt</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Haer stadigh sijn <rhyme label="b" type="f" corresp="#s3:l2">ghenaden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Dies vlamt haer heyligh hert <rhyme label="a" type="m">altijdt</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Vervult met <rhyme label="b" type="f">Hemel-voncken</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Haer Ziel wordt door Godts heyl <rhyme label="a" type="m" corresp="#s4:l1">verblijdt</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">In heyl'ghe wel-lust <rhyme label="b" type="f" corresp="#s4:l2">droncken</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">En of de tijdt schoon al de <rhyme label="a" type="m">dracht</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Des Wereldts murw kan <rhyme label="b" type="f">kneden</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Dit heyl is buyten hare <rhyme label="a" type="m" corresp="#s5:l1">macht</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">En blijft in <rhyme label="b" type="f" corresp="#s5:l2">eeuwigheden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22254</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Da Israel aus Egypten</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Doen Israel wt Egipten <rhyme label="a" type="m">trock</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En Jacobs huys van daer wech <rhyme label="a" type="m" corresp="#s1:l1">trock</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Wt dat gheheel vremde <rhyme label="b" type="f">volcke</rhyme>:</l>
+        <l id="s1:l4" met="4" type="-+">Doen wert Juda schoon, zijn <rhyme label="c" type="m">Heylichdom</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">En Israel syn heerschappij <rhyme label="c" type="m" corresp="#s1:l4">vroem</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Al onder des Hemels <rhyme label="b" type="f" corresp="#s1:l3">Wolcke</rhyme>.</l>
+        <l id="s1:l7" met="4" type="-+">De Zee dit siende vloodt van <rhyme label="d" type="m">stondaen</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Te rug hem keerde die <rhyme label="d" type="m" corresp="#s1:l7">Jordaen</rhyme>,</l>
+        <l id="s1:l9" met="4" type="-+">De berghen spronghen op stoudt, en <rhyme label="e" type="m">koen</rhyme>,</l>
+        <l id="s1:l10" met="4" type="-+">Seer hooch ghelijck de Rammen <rhyme label="e" type="m" corresp="#s1:l9">doen</rhyme>,</l>
+        <l id="s1:l11" met="4" type="+-">De Hoeulen glijck de Lammerkens <rhyme label="f" type="m">oock</rhyme>,</l>
+        <l id="s1:l12" met="4" type="-+">Die verblijden hun in sulcken <rhyme label="f" type="m" corresp="#s1:l11">loop</rhyme>,</l>
+        <l id="s1:l13" met="4" type="-+">Halleluya, <rhyme label="g" type="m">Halleluya</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wat was u Zee dat ghy also <rhyme label="a" type="m">vloodt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">En u Jordaen dat ghy <rhyme label="a" type="m" corresp="#s2:l1">terugtroockt</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Doen ghy Israel saecht <rhyme label="b" type="f">comen</rhyme>:</l>
+        <l id="s2:l4" met="4" type="-+">En dat ghi berghen spronckt der Rammen <rhyme label="c" type="m">glijck</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">En ghy hoeulen den Lammeren <rhyme label="c" type="m" corresp="#s2:l4">ghelijck</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Also hebben wijt <rhyme label="b" type="f" corresp="#s2:l3">vernomen</rhyme>:</l>
+        <l id="s2:l7" met="4" type="-+">Voor den gheweldighen <rhyme label="d" type="m">Heeren</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Des Jacobs Godt <rhyme label="d" type="m" corresp="#s2:l7">almachtighen</rhyme>,</l>
+        <l id="s2:l9" met="4" type="-+">Beefde dat gheheele aerdtrijck <rhyme label="e" type="m">zaen</rhyme>,</l>
+        <l id="s2:l10" met="4" type="-+">Die de Steenrotzen veranderen <rhyme label="e" type="m" corresp="#s2:l9">can</rhyme>,</l>
+        <l id="s2:l11" met="4" type="+-">In een Waterzee fraey, en <rhyme label="f" type="m">reyn</rhyme>,</l>
+        <l id="s2:l12" met="4" type="-+">En de Steenen in een water <rhyme label="f" type="m" corresp="#s2:l11">Fonteyn</rhyme>,</l>
+        <l id="s2:l13" met="4" type="-+">Halleluya, <rhyme label="g" type="m">Halleluya</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

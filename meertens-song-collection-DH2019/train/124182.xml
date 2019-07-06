@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>124182</id>
+    <date>
+      <year-start>1759</year-start>
+      <year-end>1759</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="+-">KOmt laat ons lustig vrolijk zijn, zijn, <rhyme label="a" type="m">zijn</rhyme>;</l>
+        <l id="s1:l2" met="6" type="+-">En laat ons drinken d'koele Wijn, Wijn, <rhyme label="a" type="m" corresp="#s1:l1">Wijn</rhyme>;</l>
+        <l id="s1:l3" met="3" type="-+">Laat ons de Glazen <rhyme label="b" type="f">legen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En zo ons Keeltje <rhyme label="b" type="f" corresp="#s1:l3">vegen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Wijl wy hier te zamen <rhyme label="a" type="m" corresp="#s1:l1">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="+-">O Wijn! ô Edel Nat! Nat! <rhyme label="a" type="m">Nat</rhyme>!</l>
+        <l id="s2:l2" met="6" type="+-">Waar van dat Noach raakte zat, zat, <rhyme label="a" type="m" corresp="#s2:l1">zat</rhyme>:</l>
+        <l id="s2:l3" met="3" type="-+">Hy plante deze <rhyme label="b" type="f">Ranken</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Wy zullen hem <rhyme label="b" type="f" corresp="#s2:l3">bedanken</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Voor dat lekkere <rhyme label="a" type="m" corresp="#s2:l1">Druyve-nat</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="+-">Die Bachus en de Wijn niet mind, mind, <rhyme label="a" type="m">mind</rhyme>;</l>
+        <l id="s3:l2" met="6" type="+-">Die is voor al niet onze Vrind, Vrind, <rhyme label="a" type="m" corresp="#s3:l1">Vrind</rhyme>:</l>
+        <l id="s3:l3" met="3" type="-+">Want deze Vogt vol <rhyme label="b" type="f">wonder</rhyme>!</l>
+        <l id="s3:l4" met="3" type="-+">Maakt zieke Luy <rhyme label="b" type="f" corresp="#s3:l3">gezonder</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Havous zante, ik brengje <rhyme label="a" type="m" corresp="#s3:l1">Vrind</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="+-">Gezondheyd dan in 't gene-raal, raal, <rhyme label="a" type="m">raal</rhyme>;</l>
+        <l id="s4:l2" met="6" type="+-">Te zamen Vrienden op dit maal, maal, <rhyme label="a" type="m" corresp="#s4:l1">maal</rhyme>;</l>
+        <l id="s4:l3" met="3" type="-+">Het voegt niet moetje <rhyme label="b" type="f">weeten</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Dat hier word stil <rhyme label="b" type="f" corresp="#s4:l3">gezeten</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Komt laat ons klinken <rhyme label="a" type="m" corresp="#s4:l1">al-te-maal</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="6" type="+-">Dus drayt d' Molen door de Wind, Wind, <rhyme label="a" type="m">Wind</rhyme>;</l>
+        <l id="s5:l2" met="6" type="+-">Dus drinken wy de Wijn schoon Kind, Kind, <rhyme label="a" type="m" corresp="#s5:l1">Kind</rhyme>:</l>
+        <l id="s5:l3" met="3" type="-+">By pozen en by <rhyme label="b" type="f">teugen</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">De Wijn doet ons <rhyme label="b" type="f" corresp="#s5:l3">verheugen</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">Want Bachus die is onze <rhyme label="a" type="m" corresp="#s5:l1">Vrind</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

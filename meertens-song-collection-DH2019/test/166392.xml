@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>166392</id>
+    <date>
+      <year-start>1828</year-start>
+      <year-end>1828</year-end>
+    </date>
+    <location>
+      <orginal-name>monickendam</orginal-name>
+      <standard-name>Monnickendam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.4570766</lon>
+        <lat>5.0373214</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Jadis un célèbre empereur</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Een dronk voor Vorst en <rhyme label="a" type="m">Vaderland</rhyme>!</l>
+        <l id="s1:l2" met="4" type="-+">Wien zou dit geen genoegen <rhyme label="b" type="f">geven</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">Elk neem' de beker in de <rhyme label="a" type="m" corresp="#s1:l1">hand</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">En 't zaam, als broeders, aan <rhyme label="b" type="f" corresp="#s1:l2">geheven</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">De Koning is ons dierbaarst <rhyme label="c" type="m">pand</rhyme>!</l>
+        <l id="s1:l6" met="4" type="-+">Wel ga het Hem en 't <rhyme label="c" type="m" corresp="#s1:l5">Vaderland</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

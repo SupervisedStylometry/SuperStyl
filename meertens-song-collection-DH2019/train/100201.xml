@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100201</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Si c'est pour mon pucelage</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">DAt hy is heel wys te <rhyme label="a" type="f">agten</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Die zig agt van haar <rhyme label="b" type="m">bemind</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Die veel ligter is dan <rhyme label="b" type="m" corresp="#s1:l2">wind</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Nimmer komt in myn <rhyme label="a" type="f" corresp="#s1:l1">gedagten</rhyme>;</l>
+        <l id="s1:l5" met="4" type="+-">Dog die 't laast naar haar zal <rhyme label="c" type="m">staan</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Ligt met 't beste door zal <rhyme label="c" type="m" corresp="#s1:l5">gaan</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Niet een weerhaan op een <rhyme label="a" type="f">Tooren</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Zoo met alle winden <rhyme label="b" type="m">waaid</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Als haar zin naar 't vryen <rhyme label="b" type="m" corresp="#s2:l2">draaid</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Hoe het haar ook komt te <rhyme label="a" type="f" corresp="#s2:l1">vooren</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Ligt die 't laatst na haar zal <rhyme label="c" type="m">staan</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Met het beste door zal <rhyme label="c" type="m" corresp="#s2:l5">gaan</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">d'Eene spyker dryft den <rhyme label="a" type="f">ander</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Even in haar hert de <rhyme label="b" type="m">laatst</rhyme>;</l>
+        <l id="s3:l3" met="4" type="+-">Zig in d'eerst' zyn plaatze <rhyme label="b" type="m" corresp="#s3:l2">plaatst</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Zoo hy na haar zin zoo <rhyme label="a" type="f" corresp="#s3:l1">schrander</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Na haar liefde weet te <rhyme label="c" type="m">staan</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Dat de voor'ge door moet <rhyme label="c" type="m" corresp="#s3:l5">gaan</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

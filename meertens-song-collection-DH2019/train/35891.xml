@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35891</id>
+    <date>
+      <year-start>1678</year-start>
+      <year-end>1678</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Johanna de Gavre</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">O mijn Godt ick moet u <rhyme label="a" type="f">klaeghen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Dat ick soo heb mijn <rhyme label="a" type="f" corresp="#s1:l1">daeghen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Veronachtsaermt in de <rhyme label="b" type="m">deught</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">En mijn Ziel dickmaels <rhyme label="a" type="f" corresp="#s1:l1">ghewaeghen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Aen te slaen veel blinde <rhyme label="a" type="f" corresp="#s1:l1">slaeghen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Daer in versleten mijne <rhyme label="b" type="m" corresp="#s1:l3">jeught</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Nu wil ick tot u <rhyme label="c" type="f">keeren</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">En in de deught <rhyme label="c" type="f" corresp="#s1:l7">vermeeren</rhyme>,</l>
+        <l id="s1:l9" met="4" type="-+">O mijn Godt; o mijn <rhyme label="d" type="m">Godt</rhyme>,</l>
+        <l id="s1:l10" met="4" type="+-">Ick wil volghen uwe <rhyme label="e" type="m">leer</rhyme>,</l>
+        <l id="s1:l11" met="4" type="+-">Ick en wil gheen wereldt <rhyme label="e" type="m" corresp="#s1:l10">meer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Maer hoe sal ick derven <rhyme label="a" type="f">komen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Mijn misdaet dat doet my <rhyme label="a" type="f" corresp="#s2:l1">schroomen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">T’maeckt mijn Ziele gans <rhyme label="b" type="m">benaut</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Och kost ick mijn ziel soo <rhyme label="a" type="f" corresp="#s2:l1">vromen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">In de deughden te <rhyme label="a" type="f" corresp="#s2:l1">bekomen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Het waere mijn ziels <rhyme label="b" type="m" corresp="#s2:l3">benaudt</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Liefsten Godt t’uwer <rhyme label="c" type="f">eeren</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">K’wil my nu tot u <rhyme label="c" type="f" corresp="#s2:l7">keeren</rhyme>,</l>
+        <l id="s2:l9" met="4" type="-+">Mijnen Godt; mijnen <rhyme label="d" type="m">Godt</rhyme>,</l>
+        <l id="s2:l10" met="4" type="+-">Ick wil volghen uwe <rhyme label="e" type="m">leer</rhyme>,</l>
+        <l id="s2:l11" met="4" type="+-">Ick en wil gheen wereldts <rhyme label="e" type="m" corresp="#s2:l10">eer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

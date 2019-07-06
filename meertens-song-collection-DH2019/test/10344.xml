@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10344</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">Kust Carinella my wyl 't bruyne nacht <rhyme label="a" type="f">gheschimmer</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">'t Gordijn is, dat de <rhyme label="a" type="f" corresp="#s1:l1">Glimmer</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Sen vliesen <rhyme label="b" type="m">overschaeuwt</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Dat hy niet luystervinckt ons kusjes, noch <rhyme label="b" type="m" corresp="#s1:l3">begraeut</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">De nacht medooght ons liefd', en veylight onse <rhyme label="a" type="f">kusjes</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">En ziel-roovende <rhyme label="a" type="f" corresp="#s2:l1">lusjes</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Want in een duys'tre <rhyme label="b" type="m">Maen</rhyme></l>
+        <l id="s2:l4" met="6" type="-+">Twee floncker-starren 'k sie voor my te branden <rhyme label="b" type="m" corresp="#s2:l3">staen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">Dees lichten lichten my, terwijl ick hartje lief en <rhyme label="a" type="f">Enghel</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Mijn kusjes met u <rhyme label="a" type="f" corresp="#s3:l1">menghel</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">En 't Nectar dauw <rhyme label="b" type="m">gheniet</rhyme>,</l>
+        <l id="s3:l4" met="6" type="-+">Dat op 't levend' Robijn van klare lipjens <rhyme label="b" type="m" corresp="#s3:l3">vliet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">Noch Venus met Adoon verhittight in haer <rhyme label="a" type="f">vryen</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Opminne <rhyme label="a" type="f" corresp="#s4:l1">snoeperyen</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">En heeft oyt hare <rhyme label="b" type="m">lust</rhyme></l>
+        <l id="s4:l4" met="6" type="-+">Met sulcken yvers graeght en zielens treck <rhyme label="b" type="m" corresp="#s4:l3">gheblust</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="6" type="-+">Als ick vernoegh inslurp van uwe mondt de <rhyme label="a" type="f">waessem</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Van uwe lieven <rhyme label="a" type="f" corresp="#s5:l1">aessem</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Want als ick u lipjes <rhyme label="b" type="m">raeck</rhyme></l>
+        <l id="s5:l4" met="6" type="-+">Ick Goddin leckerny en Hemels bancket <rhyme label="b" type="m" corresp="#s5:l3">smaeck</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

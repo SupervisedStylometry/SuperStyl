@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>183950</id>
+    <date>
+      <year-start>1806</year-start>
+      <year-end>1806</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Viens charmante Annette</melody>
+  <author>Jan Steven van Esveldt Holtrop, Willem Holtrop</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">Frères, notre <rhyme label="a" type="f">année</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">Etant <rhyme label="a" type="f" corresp="#s1:l1">terminée</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Faisons tous des <rhyme label="b" type="m">voeux</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Pour le bien de nos <rhyme label="b" type="m" corresp="#s1:l3">noeuds</rhyme>.</l>
+        <l id="s1:l5" met="3" type="+-">Que dans la <rhyme label="c" type="f">nouvelle</rhyme></l>
+        <l id="s1:l6" met="3" type="+-">Chacun se <rhyme label="c" type="f" corresp="#s1:l5">rappelle</rhyme>,</l>
+        <l id="s1:l7" met="3" type="+-">Quel est son <rhyme label="d" type="m">devoir</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Et ce qu'il faut <rhyme label="d" type="m" corresp="#s1:l7">savoir</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Gais, sans <rhyme label="a" type="f">indécence</rhyme>,</l>
+        <l id="s2:l2" met="3" type="+-">Libres, sans <rhyme label="a" type="f" corresp="#s2:l1">licence</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">Observons les <rhyme label="b" type="m">loix</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Dans nos divers <rhyme label="b" type="m" corresp="#s2:l3">emplois</rhyme>.</l>
+        <l id="s2:l5" met="3" type="+-">Le zèle du <rhyme label="c" type="f">Maître</rhyme></l>
+        <l id="s2:l6" met="3" type="+-">Veut envain <rhyme label="c" type="f" corresp="#s2:l5">paroître</rhyme>,</l>
+        <l id="s2:l7" met="3" type="+-">Si ses bons <rhyme label="d" type="m">avis</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Ne sont pas bien <rhyme label="d" type="m" corresp="#s2:l7">suivis</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="+-">On doit <rhyme label="a" type="f">interdire</rhyme></l>
+        <l id="s3:l2" met="3" type="+-">L'ésprit de <rhyme label="a" type="f" corresp="#s3:l1">satire</rhyme>;</l>
+        <l id="s3:l3" met="3" type="+-">Les mauvais <rhyme label="b" type="m">propos</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Troublent notre <rhyme label="b" type="m" corresp="#s3:l3">repos</rhyme>.</l>
+        <l id="s3:l5" met="3" type="+-">Loin d'ici la <rhyme label="c" type="f">haine</rhyme>,</l>
+        <l id="s3:l6" met="3" type="+-">Pour que notre <rhyme label="c" type="f" corresp="#s3:l5">chaine</rhyme></l>
+        <l id="s3:l7" met="3" type="+-">Dans la douce <rhyme label="d" type="m">paix</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Se conserve à <rhyme label="d" type="m" corresp="#s3:l7">jamais</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20986</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody>Florida zo het wezen mag</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jan Zoet</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MYn God bestraal deez' <rhyme label="a" type="m">Leemen-hut</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Op dat uw knegt, de vrugt, en 't <rhyme label="a" type="m" corresp="#s1:l1">nut</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Der zoete Ziel-rust <rhyme label="b" type="f">smaake</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Dit is mijn lust en hoogste <rhyme label="c" type="m">wensch</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Wijl dat'et kan den <rhyme label="c" type="m" corresp="#s1:l4">mensch</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Met u vereenigt <rhyme label="b" type="f" corresp="#s1:l3">maake</rhyme>;</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Want wie 't jok, van <rhyme label="a" type="m">zagtmoedigheyd</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Gewillig op zijn schoud'ren <rhyme label="a" type="m" corresp="#s2:l1">leyd</rhyme>;</l>
+        <l id="s2:l3" met="3" type="-+">Niet qwaads kan hem <rhyme label="b" type="f">bejeeg'nen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Zelfs 't kruys, dat dunkt hem zoet, en <rhyme label="c" type="m">ligt</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Word hy in 't <rhyme label="c" type="m" corresp="#s2:l4">aangezigt</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Gelasterd, hy kan <rhyme label="b" type="f" corresp="#s2:l3">zeeg'nen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wanneer die man verdrukking <rhyme label="a" type="m">lijdt</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Hy zeyd: mijn Heer, mijn God, ghy <rhyme label="a" type="m" corresp="#s3:l1">zijt</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Mijn burgt, en sterken <rhyme label="b" type="f">tooren</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Die my na ziel, en lijf <rhyme label="c" type="m">behoed</rhyme>.</l>
+        <l id="s3:l5" met="3" type="-+">Ofschoon de Werreld <rhyme label="c" type="m" corresp="#s3:l4">woed</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Zoo word zijn Rust <rhyme label="b" type="f" corresp="#s3:l3">gebooren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

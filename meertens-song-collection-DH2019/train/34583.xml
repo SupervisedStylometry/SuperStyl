@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34583</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Mon mari est à la taverne</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Jan Mommaert</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MYn man is weder by syn <rhyme label="a" type="f">vlugghe</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En ick bewaer alleen het <rhyme label="b" type="m">huys</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Soo haest hy keeren sal te <rhyme label="a" type="f" corresp="#s1:l1">rugghe</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Is hy ghestelt als <rhyme label="b" type="m" corresp="#s1:l2">tiere-buys</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">En singht hy, schoon ick daerom <rhyme label="c" type="f">tiere</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Ta ra la ta la ta ra la <rhyme label="c" type="f" corresp="#s1:l5">lire</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Seggh' ick hem dan: Siet dogh in <rhyme label="a" type="f">ende</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">O groven Satterick, eens <rhyme label="b" type="m">aen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Wilt ghy ons t'saem om Godts-wil <rhyme label="a" type="f" corresp="#s2:l1">senden</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">En door den hongher doen <rhyme label="b" type="m" corresp="#s2:l2">vergaen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Soo singht hy, schoon ick daerom <rhyme label="c" type="f">tiere</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Ta ra la ta la ta ra la <rhyme label="c" type="f" corresp="#s2:l5">lire</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Voort antwoordt hy dan op myn <rhyme label="a" type="f">reden</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Swyght vrouw, ghy spreeckt ghelyck een <rhyme label="b" type="m">beest</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">Als Bacchus kruypt door myne <rhyme label="a" type="f" corresp="#s3:l1">leden</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Ben ick als Cicero van <rhyme label="b" type="m" corresp="#s3:l2">gheest</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Ick wil dan singhen trots u <rhyme label="c" type="f">tieren</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Ta ra la ta la ta ra la <rhyme label="c" type="f" corresp="#s3:l5">lire</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

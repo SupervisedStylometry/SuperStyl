@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100256</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Sei tanto graziosa</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">WAt lyd' ik droeve <rhyme label="a" type="f">pynen</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Na dat ik eens myn Nymphjes lonkend' <rhyme label="b" type="f">oogen</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Zag als eene Zonne <rhyme label="a" type="f" corresp="#s1:l1">schynen</rhyme>.</l>
+        <l id="s1:l4" met="5" type="-+">Waar heeft die glans myn ziel niet toe <rhyme label="b" type="f" corresp="#s1:l2">bewogen</rhyme>?</l>
+        <l id="s1:l5" met="4" type="-+">Geen mensche zyn,, 'er die dees <rhyme label="c" type="m">pyn</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Vermogen te <rhyme label="d" type="f">verdragen</rhyme>:</l>
+        <l id="s1:l7" met="5" type="-+">Of 't lieve leven,, Dat zou 'er flux <rhyme label="e" type="f">begeven</rhyme>,</l>
+        <l id="s1:l8" met="2" type="+-">Door die <rhyme label="d" type="f" corresp="#s1:l6">slagen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">En was ik van de <rhyme label="a" type="f">steenen</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Of vyerig staal, en wreede <rhyme label="b" type="f">yzer-bergen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Zoo zou 'k niet konnen <rhyme label="a" type="f" corresp="#s2:l1">weenen</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Noch myn gezigt met zoo veel tranen <rhyme label="b" type="f" corresp="#s2:l2">tergen</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Een schoone plaagd,, My, ik <rhyme label="c" type="m">verdraagt</rhyme>.</l>
+        <l id="s2:l6" met="3" type="-+">Dat weet ik altyd <rhyme label="d" type="f">zeker</rhyme>.</l>
+        <l id="s2:l7" met="5" type="-+">Wat stof my maakte, Of hoe 'k in liefde <rhyme label="e" type="f">raakte</rhyme></l>
+        <l id="s2:l8" met="2" type="+-">Is <rhyme label="d" type="f" corresp="#s2:l6">onzeker</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

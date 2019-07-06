@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>56</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>Gelijk een roosje teer</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">IN 't dagen van <rhyme label="a" type="m">Auroor</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Als ick mijn wollig <rhyme label="b" type="m">vee</rhyme>:</l>
+        <l id="s1:l3" met="3" type="-+">Dreef 't Elsen-bosje <rhyme label="a" type="m" corresp="#s1:l1">door</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Na haer gewoone <rhyme label="b" type="m" corresp="#s1:l2">stee</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Vond' ick in 't geboomt mijn <rhyme label="c" type="m">Leonoor</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Door slapens rust <rhyme label="d" type="f">omvangen</rhyme>:</l>
+        <l id="s1:l7" met="5" type="-+">Fa la, fa la, fa la, fa la, fa <rhyme label="e" type="m">la</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Met blom en kruyt om <rhyme label="d" type="f" corresp="#s1:l6">hangen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Wijl ick een weynigh <rhyme label="a" type="m">sta</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">En op dees schoon' <rhyme label="b" type="m">Diaen</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Vast lonck op lonckje <rhyme label="a" type="m" corresp="#s2:l1">sla</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Wiert sy door droom <rhyme label="b" type="m" corresp="#s2:l2">bevaen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">En riep comt Herder <rhyme label="c" type="m">Floriaen</rhyme>:</l>
+        <l id="s2:l6" met="3" type="-+">En boet mins grage <rhyme label="d" type="f">lusjes</rhyme>,</l>
+        <l id="s2:l7" met="5" type="-+">Fa la, fa la, fa la, fa la, fa <rhyme label="e" type="m">la</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Met suijcker-soete <rhyme label="d" type="f" corresp="#s2:l6">kusjes</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Mit custen ick haer <rhyme label="a" type="m">mont</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Wiens geurigh <rhyme label="b" type="m">Ambrosijn</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Mijn Zieltjen heeft <rhyme label="a" type="m" corresp="#s3:l1">gewont</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Tot lichtingh van mijn <rhyme label="b" type="m" corresp="#s3:l2">pijn</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">Sy ontwaeckt: Ick vley, sy vlucht voor <rhyme label="c" type="m">mijn</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Hoe 'k haer Offer mijn <rhyme label="d" type="f">clachten</rhyme>,</l>
+        <l id="s3:l7" met="5" type="-+">Fa la, fa la, fa la, fa la, fa <rhyme label="e" type="m">la</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Sy vliet en wilt niet <rhyme label="d" type="f" corresp="#s3:l6">achten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

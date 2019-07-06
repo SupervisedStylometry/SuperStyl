@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34463</id>
+    <date>
+      <year-start>1653</year-start>
+      <year-end>1653</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Me veux-tu voir mourir</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Albertus Ignatius d'Hanins</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">WIlt ghy dan dat ick <rhyme label="a" type="m">sterf</rhyme>?</l>
+        <l id="s1:l2" met="3" type="-+">O wreede <rhyme label="b" type="f">Herderinne</rhyme>!</l>
+        <l id="s1:l3" met="4" type="+-">Neen, maeckt dat ick jonst’ <rhyme label="a" type="m" corresp="#s1:l1">verwerf</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En thoont my <rhyme label="b" type="f" corresp="#s1:l2">weder-minne</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Misschien jae (seghdy) misschien <rhyme label="c" type="m">neen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Sal ick u helpen uyt ’t <rhyme label="c" type="m" corresp="#s1:l5">gheween</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ick sie van nacht op <rhyme label="a" type="m">dagh</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Mijn’ smert’ en droefheydt <rhyme label="b" type="f">wassen</rhyme>:</l>
+        <l id="s2:l3" met="4" type="+-">Doch ghy spot met mijn <rhyme label="a" type="m" corresp="#s2:l1">beklagh</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">En wilt ‘er niet op <rhyme label="b" type="f" corresp="#s2:l2">passen</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Misschien jae (seghdy) misschien <rhyme label="c" type="m">neen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Sal ick u helpen uyt ’t <rhyme label="c" type="m" corresp="#s2:l5">gheween</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">En soo om all’ mijn’ <rhyme label="a" type="m">smert</rhyme>’,</l>
+        <l id="s3:l2" met="3" type="-+">Een weynigh te <rhyme label="b" type="f">verjaghen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Kom’ ick met een ancxstigh <rhyme label="a" type="m" corresp="#s3:l1">hert</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">U naer een soentjen <rhyme label="b" type="f" corresp="#s3:l2">vraghen</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">Misschien jae (seghdy) misschien <rhyme label="c" type="m">neen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Sal ick u helpen uyt ’t <rhyme label="c" type="m" corresp="#s3:l5">gheween</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Ey! liefste, seght eens <rhyme label="a" type="m">jae</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">En laet den Neen daer <rhyme label="b" type="f">blijven</rhyme>:</l>
+        <l id="s4:l3" met="4" type="+-">Doet aen Mopso eens <rhyme label="a" type="m" corresp="#s4:l1">ghenae</rhyme>’,</l>
+        <l id="s4:l4" met="3" type="-+">En wilt sijn’ smert’ <rhyme label="b" type="f" corresp="#s4:l2">verdrijven</rhyme>!</l>
+        <l id="s4:l5" met="4" type="-+">Misschien jae (seghdy) misschien <rhyme label="c" type="m">neen</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Sal ick u helpen uyt ’t <rhyme label="c" type="m" corresp="#s4:l5">gheween</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

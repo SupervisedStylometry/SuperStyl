@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>160214</id>
+    <date>
+      <year-start>1682</year-start>
+      <year-end>1682</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen [=amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Si vous ne voulez me guérir</melody>
+  <author>Christianus de Placker</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DEn mensch gelijckt men by een <rhyme label="a" type="m">boom</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">(So 't in Godts Woorden is te <rhyme label="b" type="f">vinden</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Dat den Armen <rhyme label="b" type="f" corresp="#s1:l2">blinden</rhyme></l>
+        <l id="s1:l4" met="3" type="+-">Hem siet sonder <rhyme label="a" type="m" corresp="#s1:l1">droom</rhyme>.)</l>
+        <l id="s1:l5" met="4" type="-+">Een boom van boven maer <rhyme label="c" type="m">gevoed</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Sijn tacken nederschieten <rhyme label="c" type="m" corresp="#s1:l5">doet</rhyme>;</l>
+        <l id="s1:l7" met="3" type="+-">Op dat hy op der <rhyme label="d" type="m">aerd'</rhyme>/</l>
+        <l id="s1:l8" met="3" type="+-">Hemelsche vruchten <rhyme label="d" type="m" corresp="#s1:l7">baert</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Men kent de boomen aen haer <rhyme label="a" type="m">vrucht</rhyme>.</l>
+        <l id="s2:l2" met="4" type="-+">Soo oock den mensch in Christi <rhyme label="b" type="f">Kercke</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">Kent men aen den <rhyme label="b" type="f" corresp="#s2:l2">wercke</rhyme>,</l>
+        <l id="s2:l4" met="3" type="+-">Deught en <rhyme label="a" type="m" corresp="#s2:l1">zeden-tucht</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Een goed' boom brenght goe vruchten <rhyme label="c" type="m">voort</rhyme>:</l>
+        <l id="s2:l6" met="4" type="-+">Een goet mensch leeft naer Christi <rhyme label="c" type="m" corresp="#s2:l5">Woord</rhyme>.</l>
+        <l id="s2:l7" met="3" type="+-">Een quaden anders <rhyme label="d" type="m">niet</rhyme>,</l>
+        <l id="s2:l8" met="3" type="+-">Als quade vruchten <rhyme label="d" type="m" corresp="#s2:l7">bied</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">De quade boomen worden <rhyme label="a" type="m">hier</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Tot brandthout afgekapt in <rhyme label="b" type="f">schensen</rhyme>:</l>
+        <l id="s3:l3" met="3" type="+-">Soo oock quade <rhyme label="b" type="f" corresp="#s3:l2">menschen</rhyme></l>
+        <l id="s3:l4" met="3" type="+-">Tot het eeuwigh <rhyme label="a" type="m" corresp="#s3:l1">Vyer</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Dus menschen goede boomen <rhyme label="c" type="m">zijt</rhyme>:</l>
+        <l id="s3:l6" met="4" type="-+">Brenght goede vruchten t' sijnder <rhyme label="c" type="m" corresp="#s3:l5">tijd</rhyme>,</l>
+        <l id="s3:l7" met="3" type="+-">Op dat ghy oock hier <rhyme label="d" type="m">naer</rhyme>,</l>
+        <l id="s3:l8" met="3" type="+-">Het vyer niet wort <rhyme label="d" type="m" corresp="#s3:l7">gewaer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

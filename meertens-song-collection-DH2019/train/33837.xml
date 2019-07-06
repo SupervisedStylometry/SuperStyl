@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>33837</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
+    </tags>
+    <melody>Ik heb de groene straten</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacob Rosant</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">WAnneer gy sijt aen 't <rhyme label="a" type="f">vasten</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">En wilt niet droevigh <rhyme label="b" type="m">sijn</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Als de beveynsde <rhyme label="a" type="f" corresp="#s1:l1">gasten</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Ontstellen het <rhyme label="b" type="m" corresp="#s1:l2">aenschijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Op dat sy souden <rhyme label="a" type="f">toone</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Haer vasten aen den <rhyme label="b" type="m">mensch</rhyme>;</l>
+        <l id="s2:l3" met="3" type="-+">Maer 's hebben haren <rhyme label="a" type="f" corresp="#s2:l1">loone</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Al wegh na haren <rhyme label="b" type="m" corresp="#s2:l2">wensch</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Maer gy-lie 't hooft moet <rhyme label="a" type="f">salven</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Wanneer als gy-lie <rhyme label="b" type="m">vast</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">En ook nogh daer <rhyme label="a" type="f" corresp="#s3:l1">behalven</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Wel schoon uw aensicht <rhyme label="b" type="m" corresp="#s3:l2">wast</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Op dat hy niet en <rhyme label="a" type="f">toone</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Dat het voor mensch <rhyme label="b" type="m">geschiet</rhyme>;</l>
+        <l id="s4:l3" met="3" type="-+">Maer voor dit sal u <rhyme label="a" type="f" corresp="#s4:l1">loone</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Uw Vaêr, die 't heym'lijk <rhyme label="b" type="m" corresp="#s4:l2">siet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3757</id>
+    <date>
+      <year-start>1566</year-start>
+      <year-end>1566</year-end>
+    </date>
+    <location>
+      <orginal-name>heidelberg</orginal-name>
+      <standard-name>Heidelberg, Germany</standard-name>
+      <coordinates>
+        <lon>49.4093582</lon>
+        <lat>8.694724</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Lofzang van Simeon [Datheen]</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">NV laett ghy Heer' <rhyme label="a" type="m">oprecht</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Gaen in vred' uwen <rhyme label="a" type="m" corresp="#s1:l1">knecht</rhyme>:</l>
+        <l id="s1:l3" met="3" type="-+">Nae v' beloft' <rhyme label="b" type="f">ghestaedigh</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Nae dat myn ooghen <rhyme label="c" type="m">klaer</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Hebben ghesien <rhyme label="c" type="m" corresp="#s1:l4">voorwaer</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Vwen heylandt <rhyme label="b" type="f" corresp="#s1:l3">ghenaedigh</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Een saelighmaeker <rhyme label="a" type="m">reyn</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Aller volcken <rhyme label="a" type="m" corresp="#s2:l1">ghemeyn</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Die aennemen sijn <rhyme label="b" type="f">leere</rhyme>.</l>
+        <l id="s2:l4" met="3" type="-+">Een licht schynende <rhyme label="c" type="m">klaer</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Den heydenen <rhyme label="c" type="m" corresp="#s2:l4">eenpaer</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">End oock Israels <rhyme label="b" type="f" corresp="#s2:l3">eere</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

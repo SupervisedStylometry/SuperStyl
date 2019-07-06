@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>7114</id>
+    <date>
+      <year-start>1577</year-start>
+      <year-end>1577</year-end>
+    </date>
+    <location>
+      <orginal-name>leuven</orginal-name>
+      <standard-name>Leuven, Belgium</standard-name>
+      <coordinates>
+        <lon>50.879202</lon>
+        <lat>4.7011675</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Doen Maria gehouwet <rhyme label="a" type="m">was</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Ende men die schrifture <rhyme label="a" type="m" corresp="#s1:l1">las</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Wat seyde haer <rhyme label="b" type="m">man</rhyme>.</l>
+        <l id="s1:l4" met="3" type="-+">Ick salt v <rhyme label="c" type="f">openbaren</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">Soo ick t best <rhyme label="b" type="m" corresp="#s1:l3">can</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ioseph op onser vrouwen <rhyme label="a" type="m">sach</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Ende was seer <rhyme label="a" type="m" corresp="#s2:l1">veruaert</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">Ende hij en seijde <rhyme label="b" type="m">niet</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Hy peysde: lieue <rhyme label="c" type="f">Heere</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">Wat is mij <rhyme label="b" type="m" corresp="#s2:l3">geschiet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Ioseph dachte in sijnen <rhyme label="a" type="m">moet</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Dede hij haer schande ten waer niet <rhyme label="a" type="m" corresp="#s3:l1">goet</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">Hij peysde <rhyme label="b" type="m">dat</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Dat hij haer ontgaen <rhyme label="c" type="f">woude</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">In een ander <rhyme label="b" type="m" corresp="#s3:l3">stadt</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Daer Ioseph lach en <rhyme label="a" type="m">sliep</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Die heylige geest hem <rhyme label="a" type="m" corresp="#s4:l1">aenriep</rhyme></l>
+        <l id="s4:l3" met="2" type="-+">Dat was <rhyme label="b" type="m">alsoo</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Staet op Dauids <rhyme label="c" type="f">sone</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">Ende weest <rhyme label="b" type="m" corresp="#s4:l3">vro</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Ioseph en weest niet <rhyme label="a" type="m">versaecht</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Dat kint dat Maria <rhyme label="a" type="m" corresp="#s5:l1">draecht</rhyme></l>
+        <l id="s5:l3" met="2" type="-+">Dat is Godts <rhyme label="b" type="m">kint</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Die heylige geest is in haer <rhyme label="c" type="f">comen</rhyme></l>
+        <l id="s5:l5" met="2" type="-+">En twijfelt niet een <rhyme label="b" type="m" corresp="#s5:l3">twint</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">En waer dat kint noyt <rhyme label="a" type="m">geboren</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Onse siele waer <rhyme label="a" type="m" corresp="#s6:l1">verloren</rhyme></l>
+        <l id="s6:l3" met="2" type="-+">Dat waer <rhyme label="b" type="m">alsoo</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Staet op fijn Dauids <rhyme label="c" type="f">sone</rhyme></l>
+        <l id="s6:l5" met="2" type="-+">Ende weest <rhyme label="b" type="m" corresp="#s6:l3">vro</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

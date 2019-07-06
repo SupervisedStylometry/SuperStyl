@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2170</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Allez où le sort vous conduit</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Joan Blasius</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MY blijft de min dan eeuwig <rhyme label="a" type="m">by</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">En is niet uyt mijn jeugdig hart te <rhyme label="b" type="f">roeyen</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Door liefde quaal schijn ik te <rhyme label="b" type="f" corresp="#s1:l2">bloeyen</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">En liefde schijnt te bloeyen ook door <rhyme label="a" type="m" corresp="#s1:l1">my</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Ik maakt' een wondje met mijn <rhyme label="c" type="m">Tong</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Dat ik door Tong en Oog weêr self <rhyme label="c" type="m" corresp="#s1:l5">ontfong</rhyme>,</l>
+        <l id="s1:l7" met="5" type="-+">Ik meende van de liefde vry te <rhyme label="d" type="f">leeven</rhyme>;</l>
+        <l id="s1:l8" met="2" type="-+">Maar most <rhyme label="e" type="m">terstond</rhyme></l>
+        <l id="s1:l9" met="2" type="-+">Mijn Hartje <rhyme label="d" type="f" corresp="#s1:l7">geeven</rhyme></l>
+        <l id="s1:l10" met="3" type="+-">Die my had <rhyme label="e" type="m" corresp="#s1:l8">gewond</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ik gaf mijn Hart dan willig <rhyme label="a" type="m">heen</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">En offerde mijn heel aan mijn <rhyme label="b" type="f">beminde</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Mijn dwalend hart socht sich te <rhyme label="b" type="f" corresp="#s2:l2">binde</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Met sulk een die my ongebonden <rhyme label="a" type="m" corresp="#s2:l1">scheen</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Ik breng ter wille van dat <rhyme label="c" type="m">Lief</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">In stilheyd voedsel aan mijn <rhyme label="c" type="m" corresp="#s2:l5">minne-grief</rhyme>.</l>
+        <l id="s2:l7" met="5" type="-+">Al mijn vermaak bestaat slechts in <rhyme label="d" type="f">gedachten</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">By dag en <rhyme label="e" type="m">nacht</rhyme></l>
+        <l id="s2:l9" met="2" type="-+">Moet dat <rhyme label="d" type="f" corresp="#s2:l7">versachten</rhyme></l>
+        <l id="s2:l10" met="3" type="+-">Mijne <rhyme label="e" type="m" corresp="#s2:l8">minne-klacht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Mijn Lief is my doch niet soo <rhyme label="a" type="m">wreet</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">Of toont meêlijden met mijn <rhyme label="b" type="f">minne-quaale</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Wen ik een diepen aadem <rhyme label="b" type="f" corresp="#s3:l2">haale</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Word het gesicht uyt deerenis <rhyme label="a" type="m" corresp="#s3:l1">besweet</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Wat hulp is dan voor ons <rhyme label="c" type="m">bequaam</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">Nu onse sieltjes bey so stemmen <rhyme label="c" type="m" corresp="#s3:l5">saam</rhyme>?</l>
+        <l id="s3:l7" met="5" type="-+">Het Huwlijk kan alleen die smert <rhyme label="d" type="f">versetten</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">Laat u dan <rhyme label="e" type="m">raân</rhyme>,</l>
+        <l id="s3:l9" met="2" type="-+">En na de <rhyme label="d" type="f" corresp="#s3:l7">wetten</rhyme></l>
+        <l id="s3:l10" met="3" type="+-">Vang dat met my <rhyme label="e" type="m" corresp="#s3:l8">aan</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182486</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Je suis un précepteur d'amour</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Oordeelt men veeltyds niet <rhyme label="a" type="m">verblind</rhyme>?</l>
+        <l id="s1:l2" met="4" type="-+">Ik hoor u staêg Fillis een' schoonheid <rhyme label="b" type="f">noemen</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Zie me eens aan! Voorzeeker, ik <rhyme label="a" type="m" corresp="#s1:l1">vind</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Dat toch mijn' schoonheid de haare <rhyme label="a" type="m" corresp="#s1:l1">verwint</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">Ja, Galathé, uw schoon is te <rhyme label="b" type="f" corresp="#s1:l2">roemen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Ge overtrest Fillis, gelooft het <rhyme label="c" type="m">vrij</rhyme>!</l>
+        <l id="s1:l7" met="4" type="-+">Maar indien Fillis zoo schoon al niet <rhyme label="c" type="m" corresp="#s1:l6">zij</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Zij is daartegen zoo trotsch niet, als <rhyme label="c" type="m" corresp="#s1:l6">gij</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

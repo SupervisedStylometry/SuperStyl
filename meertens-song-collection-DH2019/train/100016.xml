@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100016</id>
+    <date>
+      <year-start>1652</year-start>
+      <year-end>1652</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Sarabande Pinel</melody>
+  <author>Arnold Bon</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">VVAar sluimert mijn Zieltje, mijn schoone <rhyme label="a" type="f">Dorinde</rhyme>!</l>
+        <l id="s1:l2" met="4" type="-+">In weelige takjes van 't dertele <rhyme label="b" type="m">groen</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Of vlucht zy voor d'oogen van haaren <rhyme label="a" type="f" corresp="#s1:l1">Beminde</rhyme>!</l>
+        <l id="s1:l4" met="4" type="-+">Die slechs door haar oogen zijn Minne kan <rhyme label="b" type="m" corresp="#s1:l2">voen</rhyme>.</l>
+        <l id="s1:l5" met="5" type="-+">Slaap niet, mijn Engel, maar ontsluit het <rhyme label="c" type="m">Licht</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Dat zoete vlammen in mijn boezem <rhyme label="c" type="m" corresp="#s1:l5">sticht</rhyme>.</l>
+        <l id="s1:l7" met="5" type="-+">Ontsluit de Starren, die zo helder <rhyme label="d" type="m">staan</rhyme>,</l>
+        <l id="s1:l8" met="5" type="-+">Als aan den Hemel doen de zilv're <rhyme label="d" type="m" corresp="#s1:l7">Maan</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Waar dwaal ik, waar loop ik, al blindeling <rhyme label="a" type="f">heenen</rhyme>?</l>
+        <l id="s2:l2" met="4" type="-+">Daar hoor ik een zucht uit een tengere <rhyme label="b" type="m">Borst</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Daar zie ik een straaltje, daar is'et <rhyme label="a" type="f" corresp="#s2:l1">verdweenen</rhyme>.</l>
+        <l id="s2:l4" met="4" type="-+">Ach! dat ik mijn Zonne wat naderen <rhyme label="b" type="m" corresp="#s2:l2">dorst</rhyme>.</l>
+        <l id="s2:l5" met="5" type="-+">Ik zie haar oogen door de bladers <rhyme label="c" type="m">heen</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">Maar derf de vlamme niet wel nader <rhyme label="c" type="m" corresp="#s2:l5">treen</rhyme>.</l>
+        <l id="s2:l7" met="5" type="-+">Za, za, ik geef mijn Leven aan het <rhyme label="d" type="m">vuur</rhyme>.</l>
+        <l id="s2:l8" met="5" type="-+">O zoete vlamme! dat zy eeuwig <rhyme label="d" type="m" corresp="#s2:l7">duur</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

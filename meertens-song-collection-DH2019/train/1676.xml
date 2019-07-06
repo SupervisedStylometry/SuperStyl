@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1676</id>
+    <date>
+      <year-start>1544</year-start>
+      <year-end>1544</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gespeeltjeslied" translation="playing song">gespeelkenslied</tag>
+    </tags>
+    <melody>Het zouden drie gespeeltjes goed</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">HEt ghinghen drie gespeelkens <rhyme label="a" type="f">goet</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Spaceeren in dat <rhyme label="b" type="m">wout</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Si waren alle drie <rhyme label="c" type="f">beruoet</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">den haghel ende snee was <rhyme label="b" type="m" corresp="#s1:l2">cout</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Die een die weende <rhyme label="a" type="f">seere</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">die ander hadde huebschen <rhyme label="b" type="m">moet</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">die derde begonste te <rhyme label="c" type="f">vraghen</rhyme>.</l>
+        <l id="s2:l4" met="3" type="-+">Wat heymelijck boelschap <rhyme label="b" type="m" corresp="#s2:l2">doet</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Wat hebt ghi mi te <rhyme label="a" type="f">vraghen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Wat heymelijck boelschap <rhyme label="b" type="m">doet</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Het hebben drie ruytersche <rhyme label="c" type="f">knechten</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Gheslaghen mijn lief ter <rhyme label="b" type="m" corresp="#s3:l2">doot</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Hebben drie ruytersche <rhyme label="a" type="f">knechten</rhyme>.</l>
+        <l id="s4:l2" met="3" type="-+">Gheslaghen v lief ter <rhyme label="b" type="m">doot</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Een ander boel sult ghi <rhyme label="c" type="f">kiesen</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Ende draghen huebschen <rhyme label="b" type="m" corresp="#s4:l2">moet</rhyme> |</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Soude ick een ander boel <rhyme label="a" type="f">kiesen</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Dat doet mijnder herten so <rhyme label="b" type="m">wee</rhyme>.</l>
+        <l id="s5:l3" met="3" type="-+">Adieu mijn vader ende <rhyme label="c" type="f">moeder</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Ghi en siet mi <rhyme label="b" type="m" corresp="#s5:l2">nemmermeer</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Adieu mijn vader ende <rhyme label="a" type="f">moeder</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Ende mijn ioncste <rhyme label="b" type="m">susterkijn</rhyme></l>
+        <l id="s6:l3" met="3" type="-+">Ick wil gaen ter linden <rhyme label="c" type="f">groene</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">daer leyt die alder liefste <rhyme label="b" type="m" corresp="#s6:l2">mijn</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Die dit liedeken <rhyme label="a" type="f">dichte</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Dat was een ruyter <rhyme label="b" type="m">fijn</rhyme></l>
+        <l id="s7:l3" met="3" type="-+">Sinen buydel was seer <rhyme label="c" type="f">lichte</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">daer om drinct hi selden <rhyme label="b" type="m" corresp="#s7:l2">wijn</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

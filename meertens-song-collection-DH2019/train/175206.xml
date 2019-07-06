@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175206</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Is uw vlerkje stuk <rhyme label="a" type="f">geslagen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Vogel, toen de stormwind <rhyme label="b" type="m">kwam</rhyme>;</l>
+        <l id="s1:l3" met="4" type="+-">Bleef uw wol, onnoozel <rhyme label="b" type="m" corresp="#s1:l2">Lam</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Hangen aan de <rhyme label="a" type="f" corresp="#s1:l1">dorenhagen</rhyme>?</l>
+        <l id="s1:l5" met="4" type="+-">Vogel, 'k bid je, schuil dan <rhyme label="c" type="m">wat</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Als de stormwind zich doet <rhyme label="d" type="f">hooren</rhyme> -</l>
+        <l id="s1:l7" met="4" type="+-">Schaapje, pas wat op den <rhyme label="d" type="f" corresp="#s1:l6">doren</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">En zoek u een ander <rhyme label="c" type="m" corresp="#s1:l5">pad</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Wilde vogels, woeste <rhyme label="a" type="f">knapen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">'k Zie wel, hoe ontvlerkt gij <rhyme label="b" type="m">zijt</rhyme>....</l>
+        <l id="s2:l3" met="4" type="+-">Och! wat zijt ge al vlokjes <rhyme label="b" type="m" corresp="#s2:l2">kwijt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Meisjes-lief, onnoosle <rhyme label="a" type="f" corresp="#s2:l1">schapen</rhyme>! -</l>
+        <l id="s2:l5" met="4" type="+-">'k Bid dan, dat ge willig <rhyme label="c" type="m">hoort</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Dat ge intijds hoort naar <rhyme label="d" type="f">vermanen</rhyme>;</l>
+        <l id="s2:l7" met="4" type="+-">Zuchten spaart het u en <rhyme label="d" type="f" corresp="#s2:l6">tranen</rhyme>....</l>
+        <l id="s2:l8" met="4" type="+-">Meisjes, Knapen, zegt het <rhyme label="c" type="m" corresp="#s2:l5">voort</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

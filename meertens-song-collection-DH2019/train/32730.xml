@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32730</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">VVY comen u eens groeten Maria maghet <rhyme label="a" type="m">reyn</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Wy comen tot u in't stilste vanden <rhyme label="b" type="m">nacht</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Om te loven u kindtken <rhyme label="a" type="m" corresp="#s1:l1">cleyn</rhyme></l>
+        <l id="s1:l4" met="6" type="-+">V met my loven moeten al die int swerelts <rhyme label="a" type="m" corresp="#s1:l1">pleyn</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">Sijn dorstich naer u kleyn kint groot van <rhyme label="b" type="m" corresp="#s1:l2">macht</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Als een hert na die <rhyme label="a" type="m" corresp="#s1:l1">fonteyn</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Och wat is dit wat mach dit toch <rhyme label="c" type="f">wesen</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">Woonde ghy inden <rhyme label="d" type="m">stal</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Is u kindt niet den Heer van <rhyme label="d" type="m" corresp="#s1:l8">al</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">Iesus soet sijdy <rhyme label="e" type="m">dat</rhyme></l>
+        <l id="s1:l11" met="3" type="+-">Compt toch hier by my <rhyme label="e" type="m" corresp="#s1:l10">wat</rhyme>,</l>
+        <l id="s1:l12" met="4" type="+-">Hoort wat ick u segghen <rhyme label="d" type="m" corresp="#s1:l8">sal</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Siet ick ben soo vol wonden, ghy sijt den <rhyme label="a" type="m">Medecijn</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Gy weet wel heer, gy weet wel wie ick <rhyme label="b" type="m">ben</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Brenght toch Oli, ende <rhyme label="a" type="m" corresp="#s2:l1">Wijn</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Gheneest toch, al mijn sonden, die u doen sulcken <rhyme label="a" type="m" corresp="#s2:l1">pijn</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Ken wil niet meer bedroeven u o <rhyme label="b" type="m" corresp="#s2:l2">Heer</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Maer voortaen gaen danckbaer <rhyme label="a" type="m" corresp="#s2:l1">sijn</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">En wilt ons toch van hier niet <rhyme label="c" type="f">jaeghen</rhyme>,</l>
+        <l id="s2:l8" met="3" type="+-">Al sijn ons sonden <rhyme label="d" type="m">groot</rhyme></l>
+        <l id="s2:l9" met="4" type="-+">Daerom licht ghy hier naeckt en <rhyme label="d" type="m" corresp="#s2:l8">bloot</rhyme>,</l>
+        <l id="s2:l10" met="3" type="-+">Iesu soet ghy sijt <rhyme label="e" type="m">dat</rhyme></l>
+        <l id="s2:l11" met="3" type="+-">Compt toch hier by my <rhyme label="e" type="m" corresp="#s2:l10">wat</rhyme>,</l>
+        <l id="s2:l12" met="4" type="+-">Ghy bemindt ons totter <rhyme label="d" type="m" corresp="#s2:l8">doodt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

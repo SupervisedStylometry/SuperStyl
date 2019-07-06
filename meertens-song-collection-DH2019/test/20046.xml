@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20046</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Ben ik krom ben ik dom</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="+-">JOnghmans ‘tza, Toont eens dra, Alle jou <rhyme label="a" type="f">kunsjes</rhyme>,</l>
+        <l id="s1:l2" met="6" type="+-">Maeck ruymbaen, Vangt dan aen, ’t Waer ander <rhyme label="a" type="f" corresp="#s1:l1">vunsjes</rhyme></l>
+        <l id="s1:l3" met="6" type="+-">Datmen u, nu sou sien, dutten, en <rhyme label="b" type="f">druylen</rhyme>.</l>
+        <l id="s1:l4" met="5" type="+-">Als een deel lompige weet-niets, <rhyme label="b" type="f" corresp="#s1:l3">guylen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

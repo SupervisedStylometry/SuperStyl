@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8204</id>
+    <date>
+      <year-start>1678</year-start>
+      <year-end>1678</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="anti-bruiloftslied" translation="anti-wedding song">anti-huwelijkslied</tag>
+    </tags>
+    <melody>Als je dan genomen hebt een man</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">ACh wat vermaeck geeft ons de <rhyme label="a" type="m">Trouw</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Als na <rhyme label="a" type="m" corresp="#s1:l1">berouw</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Schijn van vreught, maer ware <rhyme label="b" type="f">pijne</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Juffers soeckje geen <rhyme label="c" type="m">verdriet</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Begint het <rhyme label="c" type="m" corresp="#s1:l4">niet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Alsje dan genomen hebt een <rhyme label="a" type="m">man</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">Wat vinje <rhyme label="a" type="m" corresp="#s2:l1">dan</rhyme>?</l>
+        <l id="s2:l3" met="4" type="+-">Slaverny, en ghy moet <rhyme label="b" type="f">wachten</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Op een anders grilligh <rhyme label="c" type="m">hooft</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Dit vry <rhyme label="c" type="m" corresp="#s2:l4">gelooft</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">Dat meer is, men moet van stonden <rhyme label="a" type="m">aen</rhyme>,</l>
+        <l id="s3:l2" met="2" type="-+">Sijn <rhyme label="a" type="m" corresp="#s3:l1">onderdaen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Als het Ja-woort is <rhyme label="b" type="f">gegeven</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Wort hy, die u dienaer <rhyme label="c" type="m">was</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">Uw Meester <rhyme label="c" type="m" corresp="#s3:l4">ras</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="+-">Iuffers dat dan dese <rhyme label="a" type="m">sotterny</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">Ver van u <rhyme label="a" type="m" corresp="#s4:l1">sy</rhyme>;</l>
+        <l id="s4:l3" met="4" type="+-">Bant de trouw-lust uyt u <rhyme label="b" type="f">sinnen</rhyme>;</l>
+        <l id="s4:l4" met="4" type="+-">Kiest geen gestadigh <rhyme label="c" type="m">ongeneucht</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">Voor korte <rhyme label="c" type="m" corresp="#s4:l4">vreucht</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="+-">Daer is niet dat de vrye <rhyme label="a" type="m">Maeghde-staet</rhyme>,</l>
+        <l id="s5:l2" met="2" type="-+">Te boven <rhyme label="a" type="m" corresp="#s5:l1">gaet</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Sy doet ons in vreughde <rhyme label="b" type="f">leven</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Vry van sorgh in eygen <rhyme label="c" type="m">lust</rhyme></l>
+        <l id="s5:l5" met="2" type="-+">In volle <rhyme label="c" type="m" corresp="#s5:l4">rust</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10257</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Ach Herder <rhyme label="a" type="m">siet</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">Waer heen dus <rhyme label="b" type="f">vlugtig</rhyme>?</l>
+        <l id="s1:l3" met="3" type="+-">Hebt ghy geen <rhyme label="a" type="m" corresp="#s1:l1">verdriet</rhyme>?</l>
+        <l id="s1:l4" met="1" type="-+">Dus <rhyme label="b" type="f" corresp="#s1:l2">suchtich</rhyme></l>
+        <l id="s1:l5" met="2" type="+-">My te <rhyme label="c" type="m">sien</rhyme>?</l>
+        <l id="s1:l6" met="1" type="-+">Dies <rhyme label="d" type="m">ghy</rhyme></l>
+        <l id="s1:l7" met="1" type="-+">Doet <rhyme label="d" type="m" corresp="#s1:l6">my</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">Mijn traentjes <rhyme label="c" type="m" corresp="#s1:l5">vlien</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Hoe schuw dat <rhyme label="a" type="m">ghy</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">U thoont van 't <rhyme label="b" type="f">minne</rhyme></l>
+        <l id="s2:l3" met="3" type="+-">Nochtans sullen <rhyme label="a" type="m" corresp="#s2:l1">my</rhyme>,</l>
+        <l id="s2:l4" met="1" type="-+">Mijn <rhyme label="b" type="f" corresp="#s2:l2">sinne</rhyme>,</l>
+        <l id="s2:l5" met="2" type="+-">Trachtend' <rhyme label="c" type="m">sien</rhyme>,</l>
+        <l id="s2:l6" met="1" type="-+">Steets <rhyme label="d" type="m">nu</rhyme></l>
+        <l id="s2:l7" met="1" type="-+">Aen <rhyme label="d" type="m" corresp="#s2:l6">u</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Mijn lee'n te <rhyme label="c" type="m" corresp="#s2:l5">bien</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">'t Is soete <rhyme label="a" type="m">min</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Die door haer <rhyme label="b" type="f">stralen</rhyme>,</l>
+        <l id="s3:l3" met="3" type="+-">Prickt tot 't diepste <rhyme label="a" type="m" corresp="#s3:l1">in</rhyme></l>
+        <l id="s3:l4" met="1" type="-+">Mijns <rhyme label="b" type="f" corresp="#s3:l2">palen</rhyme>,</l>
+        <l id="s3:l5" met="2" type="+-">Van mijn <rhyme label="c" type="m">hert</rhyme>,</l>
+        <l id="s3:l6" met="1" type="-+">Waer <rhyme label="d" type="m">ghy</rhyme>,</l>
+        <l id="s3:l7" met="1" type="-+">Door <rhyme label="d" type="m" corresp="#s3:l6">my</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">Aengebeen <rhyme label="c" type="m" corresp="#s3:l5">werd</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">Ach min <rhyme label="a" type="m">verkeert</rhyme>!</l>
+        <l id="s4:l2" met="2" type="-+">Indien het <rhyme label="b" type="f">winne</rhyme></l>
+        <l id="s4:l3" met="3" type="+-">Niet in my <rhyme label="a" type="m" corresp="#s4:l1">beheert</rhyme>;</l>
+        <l id="s4:l4" met="1" type="-+">Roept <rhyme label="b" type="f" corresp="#s4:l2">sinne</rhyme></l>
+        <l id="s4:l5" met="2" type="+-">Dan mijn <rhyme label="c" type="m">val</rhyme></l>
+        <l id="s4:l6" met="1" type="-+">Ay <rhyme label="d" type="m">Goon</rhyme>!</l>
+        <l id="s4:l7" met="1" type="-+">Komt <rhyme label="d" type="m" corresp="#s4:l6">doon</rhyme></l>
+        <l id="s4:l8" met="2" type="-+">Mijn levens <rhyme label="c" type="m" corresp="#s4:l5">tal</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

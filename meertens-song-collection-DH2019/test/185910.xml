@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185910</id>
+    <date>
+      <year-start>1790</year-start>
+      <year-end>1790</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Als de zon haar gouden stralen</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">En als de Gulde Zon syn <rhyme label="a" type="f">straelen</rhyme>!</l>
+        <l id="s1:l2" met="4" type="+-">In de vroege <rhyme label="b" type="m">Morgenstond</rhyme>;</l>
+        <l id="s1:l3" met="4" type="+-">In de velde neer laet <rhyme label="a" type="f" corresp="#s1:l1">daelen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Strooit zy Rooze uit haer <rhyme label="b" type="m" corresp="#s1:l2">Mond</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">En als het weder trekt in 't <rhyme label="c" type="f">Zuije</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Al de Bloeme en de <rhyme label="c" type="f" corresp="#s1:l5">Kruije</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">En uw glans is luister <rhyme label="d" type="m">vier</rhyme>,</l>
+        <l id="s1:l8" met="2" type="+-">En de <rhyme label="e" type="f">Diere</rhyme>,</l>
+        <l id="s1:l9" met="2" type="-+">Vrolyk <rhyme label="e" type="f" corresp="#s1:l8">zwiere</rhyme>,</l>
+        <l id="s1:l10" met="4" type="+-">Febus groet haer met een <rhyme label="d" type="m" corresp="#s1:l7">Lier</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Febus lonkt de <rhyme label="a" type="f">Herderinne</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Dien ik Eeuwig min zal <rhyme label="b" type="m">bien</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Dien ik Eeuwig zal <rhyme label="a" type="f" corresp="#s2:l1">Beminne</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Laet myn maer uw Schoonheid <rhyme label="b" type="m" corresp="#s2:l2">zien</rhyme>;</l>
+        <l id="s2:l5" met="4" type="-+">Ik zal uw Schaepjes helpe <rhyme label="c" type="f">weide</rhyme>;</l>
+        <l id="s2:l6" met="4" type="-+">Ik zal ze by de myne <rhyme label="c" type="f" corresp="#s2:l5">leide</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Zy is die overschoone <rhyme label="d" type="m">Maegt</rhyme>;</l>
+        <l id="s2:l8" met="2" type="+-">Ziet de <rhyme label="e" type="f">Zonne</rhyme>,</l>
+        <l id="s2:l9" met="2" type="-+">Haer <rhyme label="e" type="f" corresp="#s2:l8">overwonne</rhyme>,</l>
+        <l id="s2:l10" met="4" type="+-">Die zy in haer Voorhooft <rhyme label="d" type="m" corresp="#s2:l7">draegt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

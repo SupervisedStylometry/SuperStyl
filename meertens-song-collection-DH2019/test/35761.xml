@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35761</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+    </tags>
+    <melody>Laatstmaal ging ik ter jacht</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">VOlght Sint Bernardum <rhyme label="a" type="m">na</rhyme>;</l>
+        <l id="s1:l2" met="3" type="-+">Houdt altijdt Godt voor <rhyme label="b" type="f">oogen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Doet deughden vroeg en <rhyme label="a" type="m" corresp="#s1:l1">spa</rhyme>;</l>
+        <l id="s1:l4" met="3" type="-+">Geen sonden wilt <rhyme label="b" type="f" corresp="#s1:l2">gedoogen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Looft, eert en bemint Godes <rhyme label="c" type="m">naem</rhyme>;</l>
+        <l id="s1:l6" met="4" type="-+">Strijdt voor Mariaes lof en <rhyme label="c" type="m" corresp="#s1:l5">faem</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Leeft na uw' staet <rhyme label="c" type="m" corresp="#s1:l5">bequaem</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">O Heylige <rhyme label="a" type="m">Bernard</rhyme>!</l>
+        <l id="s2:l2" met="3" type="-+">Krijght: dat wy Godt <rhyme label="b" type="f">beminnen</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Met onse ziel, en <rhyme label="a" type="m" corresp="#s2:l1">hart</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Met krachten al, en <rhyme label="b" type="f" corresp="#s2:l2">sinnen</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">En dat niet ons van Godt <rhyme label="c" type="m">verleydt</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Hoe 't vleesch rebel, en werelt <rhyme label="c" type="m" corresp="#s2:l5">vleyt</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Noch Satan, hoe hy <rhyme label="c" type="m" corresp="#s2:l5">pleyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Jesu! mijn ziel maeckt <rhyme label="a" type="m">nat</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Door uw' bloedige <rhyme label="b" type="f">plassen</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Dat in mijn ziel nu <rhyme label="a" type="m" corresp="#s3:l1">dat</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Alleen, o Heer! mach <rhyme label="b" type="f" corresp="#s3:l2">wassen</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Dat uw' belieft, dat uw' <rhyme label="c" type="m">behaeght</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Dit soeckt, dit bidt, dit smeeckt, dit <rhyme label="c" type="m" corresp="#s3:l5">vraeght</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">U alderminste <rhyme label="c" type="m" corresp="#s3:l5">Maeght</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

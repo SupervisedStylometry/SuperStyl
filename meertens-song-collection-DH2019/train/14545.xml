@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14545</id>
+    <date>
+      <year-start>1638</year-start>
+      <year-end>1638</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="pelgrimslied" translation="pilgrim song">pelgrimslied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Ik ben een arme pelgrim hier</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Aegidius Haeffacker</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ICk ben een armen Pelgrim <rhyme label="a" type="m">hier</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Ick moet gaen doen mijn <rhyme label="b" type="f">pelgrimagie</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">In druck, in lijden vol <rhyme label="a" type="m" corresp="#s1:l1">dangier</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Soo leydt al mijn <rhyme label="b" type="f" corresp="#s1:l2">passagie</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Pelgrims habijt en hooghe <rhyme label="a" type="m">schoen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Om reysen worden my <rhyme label="b" type="f">ghegheven</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Om pelgrimagie soo te <rhyme label="a" type="m" corresp="#s2:l1">doen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Al naer het eeuwigh <rhyme label="b" type="f" corresp="#s2:l2">leven</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Versleten heb ick mijn <rhyme label="a" type="m">habijt</rhyme>:</l>
+        <l id="s3:l2" met="4" type="-+">Aen 't nieuw en kan ick niet <rhyme label="b" type="f">gheraken</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Dat is soo veel bequamen <rhyme label="a" type="m" corresp="#s3:l1">tijdt</rhyme>.</l>
+        <l id="s3:l4" met="3" type="-+">O Heer wat sal ick <rhyme label="b" type="f" corresp="#s3:l2">maken</rhyme>?</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">D' ander zijn voor, en ick moet <rhyme label="a" type="m">naer</rhyme>:</l>
+        <l id="s4:l2" met="4" type="-+">Ick soude geerne noch wat <rhyme label="b" type="f">beyden</rhyme>.</l>
+        <l id="s4:l3" met="4" type="-+">De doodt maeckt my den wegh soo <rhyme label="a" type="m" corresp="#s4:l1">swaer</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Dat my verdriet te <rhyme label="b" type="f" corresp="#s4:l2">scheyden</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Met swaren arbeydt en <rhyme label="a" type="m">verdriet</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Moet ick de reyse gaen <rhyme label="b" type="f">aenveerden</rhyme>:</l>
+        <l id="s5:l3" met="4" type="-+">Al mijn gheklagh en baet my <rhyme label="a" type="m" corresp="#s5:l1">niet</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Och wat sal my <rhyme label="b" type="f" corresp="#s5:l2">gheweerden</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">De doodt die moet mijn leydts-man <rhyme label="a" type="m">zijn</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Sy doet my aen soo groot <rhyme label="b" type="f">verseeren</rhyme>:</l>
+        <l id="s6:l3" met="4" type="-+">Met haer te reysen doet my <rhyme label="a" type="m" corresp="#s6:l1">pijn</rhyme>:</l>
+        <l id="s6:l4" met="3" type="-+">Niemandt kan <rhyme label="b" type="f" corresp="#s6:l2">weder-keeren</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Den wegh is nauw aen elcken <rhyme label="a" type="m">kant</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Die ick alleene moet <rhyme label="b" type="f">passeeren</rhyme>:</l>
+        <l id="s7:l3" met="4" type="-+">Och in dat onbekende <rhyme label="a" type="m" corresp="#s7:l1">landt</rhyme>!</l>
+        <l id="s7:l4" met="3" type="-+">Waer sal ick gaen <rhyme label="b" type="f" corresp="#s7:l2">logeeren</rhyme>?</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Met 't Heyligh weerdigh <rhyme label="a" type="m">Sacrament</rhyme>:</l>
+        <l id="s8:l2" met="4" type="-+">Met 't broot des Hemels wilt my <rhyme label="b" type="f">spijsen</rhyme>:</l>
+        <l id="s8:l3" met="4" type="-+">Op dat ick in den laetsten <rhyme label="a" type="m" corresp="#s8:l1">endt</rhyme>,</l>
+        <l id="s8:l4" met="3" type="-+">In blijschap magh <rhyme label="b" type="f" corresp="#s8:l2">verrijsen</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Den eersten nacht als ick dan <rhyme label="a" type="m">sal</rhyme></l>
+        <l id="s9:l2" met="4" type="-+">Van deser wereldt moeten <rhyme label="b" type="f">scheyden</rhyme>:</l>
+        <l id="s9:l3" met="4" type="-+">Maria met Godts vrienden <rhyme label="a" type="m" corresp="#s9:l1">al</rhyme></l>
+        <l id="s9:l4" met="3" type="-+">Willen my wel <rhyme label="b" type="f" corresp="#s9:l2">gheleyden</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Moght ick eens soo gheluckich <rhyme label="a" type="m">zijn</rhyme></l>
+        <l id="s10:l2" met="4" type="-+">Dat my Godts Enghelen <rhyme label="b" type="f">gheleyden</rhyme></l>
+        <l id="s10:l3" met="4" type="-+">Door desen wegh voor Godts <rhyme label="a" type="m" corresp="#s10:l1">aenschijn</rhyme>:</l>
+        <l id="s10:l4" met="3" type="-+">Ick sou te liever <rhyme label="b" type="f" corresp="#s10:l2">scheyden</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="-+">O Heere Godt, wilt my doch <rhyme label="a" type="m">nu</rhyme></l>
+        <l id="s11:l2" met="4" type="-+">Aensien met d' ooghen uw's <rhyme label="b" type="f">genaden</rhyme>.</l>
+        <l id="s11:l3" met="4" type="-+">Al mijn betrouwen staet op <rhyme label="a" type="m" corresp="#s11:l1">u</rhyme>:</l>
+        <l id="s11:l4" met="3" type="-+">En wilt my niet <rhyme label="b" type="f" corresp="#s11:l2">versmaden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

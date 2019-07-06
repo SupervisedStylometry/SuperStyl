@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176267</id>
+    <date>
+      <year-start>1611</year-start>
+      <year-end>1611</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Aanhoor toch mijn geklaag gij ruiters</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>R.J. de Nerée, P.C. Hooft, C.G. Plemp</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">VOor 't al te schittrich licht // dat Venus uyt haer <rhyme label="a" type="f">lampen</rhyme></l>
+        <l id="s1:l2" met="6" type="-+">Gheblasen, heeft ghesticht // in u hel <rhyme label="b" type="m">aenghesicht</rhyme>,</l>
+        <l id="s1:l3" met="6" type="-+">Hemel en Aerde swicht // en afgrondt met haer <rhyme label="a" type="f" corresp="#s1:l1">dampen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">De StroomGodinnen gladt // die door den Aemstel <rhyme label="a" type="f">swieren</rhyme>,</l>
+        <l id="s2:l2" met="6" type="-+">O pracht van onse Stadt // hebben een nijdt <rhyme label="b" type="m">ghevat</rhyme>,</l>
+        <l id="s2:l3" met="6" type="-+">Op u aenschijn, en dat // met nygend voorhooft <rhyme label="a" type="f" corresp="#s2:l1">vieren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">Zy quellen haer ghemoedt // met hondert duysent <rhyme label="a" type="f">smarten</rhyme>,</l>
+        <l id="s3:l2" met="6" type="-+">Om dat u schoonheyt doet // onsteecken, in haer <rhyme label="b" type="m">vloet</rhyme>,</l>
+        <l id="s3:l3" met="6" type="-+">Met onleschbare gloet // der WaterGoden <rhyme label="a" type="f" corresp="#s3:l1">harten</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">Met moedeloos gheween // dees Meereminnen <rhyme label="a" type="f">quelen</rhyme>,</l>
+        <l id="s4:l2" met="6" type="-+">Dat uw volmaeckte leen // van boven tot <rhyme label="b" type="m">beneen</rhyme>,</l>
+        <l id="s4:l3" met="6" type="-+">Met nieuwe konst ghesneen // hen al haer Vryers <rhyme label="a" type="f" corresp="#s4:l1">stelen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="6" type="-+">Een troosjen hebben zy // dat's hoop van te <rhyme label="a" type="f">beleven</rhyme>,</l>
+        <l id="s5:l2" met="6" type="-+">Dat door uw strafheyt ghy // den tijt sult gaen <rhyme label="b" type="m">voorby</rhyme>,</l>
+        <l id="s5:l3" met="6" type="-+">Van soete vryery // en hebben niet <rhyme label="a" type="f" corresp="#s5:l1">bedreven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

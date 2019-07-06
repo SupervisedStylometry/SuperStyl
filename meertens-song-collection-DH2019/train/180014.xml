@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>180014</id>
+    <date>
+      <year-start>1757</year-start>
+      <year-end>1757</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Is dan de liefde schande</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Een mensch moet veel <rhyme label="a" type="f">verdragen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Die hier op 's waerelds <rhyme label="b" type="m">rond</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Moet slyten zyne <rhyme label="a" type="f" corresp="#s1:l1">dagen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">In qualiteit als <rhyme label="b" type="m" corresp="#s1:l2">hond</rhyme>;</l>
+        <l id="s1:l5" met="3" type="-+">Want hy moet all' zyn' <rhyme label="c" type="f">kunsten</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Gestadig dach en <rhyme label="d" type="m">nacht</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Opzeggen voor de <rhyme label="c" type="f" corresp="#s1:l5">gunsten</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Die hy met smart <rhyme label="d" type="m" corresp="#s1:l6">verwacht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ook moet hy de Uil <rhyme label="a" type="f">opflikken</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Die aan zyn' meester <rhyme label="b" type="m">hoord</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">En 't dier al 't vuil <rhyme label="a" type="f" corresp="#s2:l1">aflikken</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Dat men 'er schier af <rhyme label="b" type="m" corresp="#s2:l2">koord</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">Dan ziet somtyds 't <rhyme label="c" type="f">Compeertje</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Zyn vlyt noch wel <rhyme label="d" type="m">beloond</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Als hy van knecht word <rhyme label="c" type="f" corresp="#s2:l5">heertje</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">En ook zyn heerszucht <rhyme label="d" type="m" corresp="#s2:l6">toond</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Vaak neemt ook dat <rhyme label="a" type="f">Sinjeurtje</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Een hond in <rhyme label="b" type="m">menschenschyn</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Die hy ook op zyn <rhyme label="a" type="f" corresp="#s3:l1">beurtje</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Een kunstenaar doet <rhyme label="b" type="m" corresp="#s3:l2">zyn</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Om 't spreukje waar te <rhyme label="c" type="f">maken</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">'t Geen zegt: wanneer men <rhyme label="d" type="m">Niet</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Eens ziet tot Iet <rhyme label="c" type="f" corresp="#s3:l5">geraken</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Is 't allemans <rhyme label="d" type="m" corresp="#s3:l6">verdriet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10077</id>
+    <date>
+      <year-start>1658</year-start>
+      <year-end>1658</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>A boire à boire</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">UW' dienaar moet van rouwe <rhyme label="a" type="f">sterven</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Indien hy uwe gunst moet <rhyme label="a" type="f" corresp="#s1:l1">derven</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">O schoonste! die hy immer <rhyme label="b" type="m">zach</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Maar nimmer aan heeft durven <rhyme label="c" type="f">randen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Zoo langh hy zoo gebonden <rhyme label="b" type="m" corresp="#s1:l3">lach</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">In starcke kluysters van uw' oogen uw <rhyme label="d" type="f">oogen</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Uw' oogen en u <rhyme label="c" type="f" corresp="#s1:l4">handen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wanneer hy u dan aan komt <rhyme label="a" type="f">spreecken</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Die 't vuyr hebt in sijn borst <rhyme label="a" type="f" corresp="#s2:l1">ontsteken</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Vertroost hem boven sijn <rhyme label="b" type="m">vermôen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Het is de trouste van haar <rhyme label="c" type="f">allen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Die u oit zochten dienst te <rhyme label="b" type="m" corresp="#s2:l3">doen</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">Laat al zijn poogen, doch uw' oogen, uw' <rhyme label="d" type="f">oogen</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">uw' oogen eens <rhyme label="c" type="f" corresp="#s2:l4">gevallen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Zoo zal hy als de zonne <rhyme label="a" type="f">straalen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Het loncken van uw' oogen <rhyme label="a" type="f" corresp="#s3:l1">maalen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Wanneer ghy by u speelnoots <rhyme label="b" type="m">staat</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Wiens gloor voor uwe glans moet <rhyme label="c" type="f">swichten</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Voor die het alles <rhyme label="b" type="m" corresp="#s3:l3">overslaet</rhyme></l>
+        <l id="s3:l6" met="5" type="-+">En is getroffen van uw' oogen, uw' <rhyme label="d" type="f">oogen</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">uw' oogen, zyn twee <rhyme label="c" type="f" corresp="#s3:l4">schichten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

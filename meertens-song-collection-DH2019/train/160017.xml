@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>160017</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Herderin mijn vriendin</melody>
+  <author>Cornelis Maertsz.</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">LAnghe dagen // wordt <rhyme label="a" type="f">ghedraghen</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Godes Arck, door 't woeste <rhyme label="b" type="m">velt</rhyme>:</l>
+        <l id="s1:l3" met="4" type="+-">Menighwerven // most zy <rhyme label="c" type="f">swerven</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Nimmer wordt zy vast <rhyme label="b" type="m" corresp="#s1:l2">ghestelt</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Tot seer schoone // Davids <rhyme label="a" type="f">Zone</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Haer in d' Heyl'ghe Tempel <rhyme label="b" type="m">treckt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Daer twee Eng'len // t'samen <rhyme label="c" type="f">streng'len</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">'t Welck haer tot een decksel <rhyme label="b" type="m" corresp="#s2:l2">streckt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Siet hier vinden // Godts <rhyme label="a" type="f">beminden</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Eenen heerlijck <rhyme label="b" type="m">teghen-beeldt</rhyme>:</l>
+        <l id="s3:l3" met="4" type="+-">Want sy sweven // oock in 't <rhyme label="c" type="f">leven</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Rust wordt haer hier <rhyme label="b" type="m" corresp="#s3:l2">mis-ghedeelt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Maer de Heere // die wy <rhyme label="a" type="f">eere</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Davids Heer, en oock sijn <rhyme label="b" type="m">Zoon</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Die sit mede // nu in <rhyme label="c" type="f">vrede</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Op des Hemels gulde <rhyme label="b" type="m" corresp="#s4:l2">Throon</rhyme>:</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Daer hy stadigh // seer <rhyme label="a" type="f">ghenadigh</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Van des Wereldts woeste <rhyme label="b" type="m">kust</rhyme></l>
+        <l id="s5:l3" met="4" type="+-">Vol van Doornen // sijn <rhyme label="c" type="f">verkoor'nen</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">By hem stelt in sal'ghe <rhyme label="b" type="m" corresp="#s5:l2">rust</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

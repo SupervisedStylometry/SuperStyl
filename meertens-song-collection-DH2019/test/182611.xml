@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182611</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Menuet van Locatelli</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">'k Zag hem <rhyme label="a" type="m">dan</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Den beruchten <rhyme label="a" type="m" corresp="#s1:l1">man</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Die zoo kunstig op een koord danssen <rhyme label="a" type="m" corresp="#s1:l1">kan</rhyme>.</l>
+        <l id="s1:l4" met="2" type="-+">'k Zag hem <rhyme label="b" type="f">zwaaien</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Springen, <rhyme label="b" type="f" corresp="#s1:l4">draaien</rhyme>;</l>
+        <l id="s1:l6" met="2" type="-+">Men yst 'er <rhyme label="a" type="m" corresp="#s1:l1">van</rhyme>!</l>
+        <l id="s1:l7" met="2" type="-+">'t Is een' kunst, ja <rhyme label="c" type="f">waarlyk</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Die men leert <rhyme label="c" type="f" corresp="#s1:l7">bezwaarlyk</rhyme>:</l>
+        <l id="s1:l9" met="2" type="-+">Maar, ei zeg <rhyme label="d" type="m">my</rhyme>,</l>
+        <l id="s1:l10" met="2" type="+-">(Staat me een vraag <rhyme label="d" type="m" corresp="#s1:l9">vry</rhyme>,)</l>
+        <l id="s1:l11" met="2" type="-+">Tot wat nut dient <rhyme label="d" type="m" corresp="#s1:l9">zy</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

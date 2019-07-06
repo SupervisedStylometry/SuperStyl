@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175209</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Een Roosje zag ik <rhyme label="a" type="f">bloeijen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Geen schooner kan er <rhyme label="b" type="m">zijn</rhyme>;</l>
+        <l id="s1:l3" met="3" type="-+">Een Maagdlijn zag ik <rhyme label="a" type="f" corresp="#s1:l1">stoeijen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Het liefste <rhyme label="b" type="m" corresp="#s1:l2">maagdelijn</rhyme>!....</l>
+        <l id="s1:l5" met="3" type="-+">Wat was er te avond <rhyme label="c" type="f">over</rhyme>?</l>
+        <l id="s1:l6" met="3" type="-+">Een lijk.... en dorrend <rhyme label="c" type="f" corresp="#s1:l5">loover</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ach! dat de schoonste <rhyme label="a" type="f">bloemen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Zoo broos en teeder <rhyme label="b" type="m">zijn</rhyme>! -</l>
+        <l id="s2:l3" met="3" type="-+">Wilt dan zoo stout niet <rhyme label="a" type="f" corresp="#s2:l1">roemen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Gij Roos, gij <rhyme label="b" type="m" corresp="#s2:l2">Maagdelijn</rhyme>....</l>
+        <l id="s2:l5" met="3" type="-+">Maar denk, hoe snel uw <rhyme label="c" type="f">verven</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Verkleuren en <rhyme label="c" type="f" corresp="#s2:l5">versterven</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">En - mogt ons bij uw <rhyme label="a" type="f">sneven</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">O Roos, o <rhyme label="b" type="m">Maagdelijn</rhyme>!</l>
+        <l id="s3:l3" met="3" type="-+">De hoop in 't harte <rhyme label="a" type="f" corresp="#s3:l1">leven</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Dat gij wèl waard' zult <rhyme label="b" type="m" corresp="#s3:l2">zijn</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Verplant in 's Hemels <rhyme label="c" type="f">Hoven</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Er eeuwig God te <rhyme label="c" type="f" corresp="#s3:l5">loven</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

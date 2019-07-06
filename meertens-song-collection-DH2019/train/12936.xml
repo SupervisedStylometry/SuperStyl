@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12936</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Laura zat laatst bij de beek</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">ROzemond die lag en <rhyme label="a" type="m">sliep</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Blies Vyoolen uit haar <rhyme label="b" type="f">lippen</rhyme>;</l>
+        <l id="s1:l3" met="4" type="+-">Pan die zag 't, en ylings <rhyme label="a" type="m" corresp="#s1:l1">liep</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Zoetjes op haar borsje <rhyme label="b" type="f" corresp="#s1:l2">knippen</rhyme>;</l>
+        <l id="s1:l5" met="4" type="+-">Mids dat hy zijn duim liet <rhyme label="b" type="f" corresp="#s1:l2">slippen</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Viel een Beez' van 't <rhyme label="c" type="m">Moerelof</rhyme>;</l>
+        <l id="s1:l7" met="4" type="+-">Die 't recht op haar boezem <rhyme label="d" type="f">mikte</rhyme>;</l>
+        <l id="s1:l8" met="4" type="+-">Dies hy riep (want hy <rhyme label="d" type="f" corresp="#s1:l7">verschrikte</rhyme>)</l>
+        <l id="s1:l9" met="4" type="+-">Ach, ach, ach! de speen is <rhyme label="c" type="m" corresp="#s1:l6">of</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

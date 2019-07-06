@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6245</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>A vos pieds je viens madame</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">A Vos pieds je viens, <rhyme label="a" type="f">Madame</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Vous déclarer que mon <rhyme label="b" type="m">coeur</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Dont vostre oeil est le <rhyme label="b" type="m" corresp="#s1:l2">vainqueur</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Pour vous est toujours de <rhyme label="a" type="f" corresp="#s1:l1">flame</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Et qu"il me fau-dra <rhyme label="c" type="m">mourir</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Ne me voulant pas <rhyme label="c" type="m" corresp="#s1:l5">guerir</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Je vous supplie de <rhyme label="a" type="f">croire</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Que mon mal est sans <rhyme label="b" type="m">égal</rhyme>;</l>
+        <l id="s2:l3" met="4" type="+-">Oüy, la rigueur de mon <rhyme label="b" type="m" corresp="#s2:l2">mal</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">A tout le monde est <rhyme label="a" type="f" corresp="#s2:l1">notoire</rhyme>:</l>
+        <l id="s2:l5" met="4" type="+-">Pensez donc à me <rhyme label="c" type="m">guerir</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Où bien je m'en vays <rhyme label="c" type="m" corresp="#s2:l5">mourir</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Mes pleurs, mes soupirs, mes <rhyme label="a" type="f">larmes</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Mes services, &amp; mes <rhyme label="b" type="m">soins</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Dont vos yeux sont les <rhyme label="b" type="m" corresp="#s3:l2">tesmoins</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Sont d'assez puissantes <rhyme label="a" type="f" corresp="#s3:l1">armes</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">Pour vous forcer à <rhyme label="c" type="m">guerir</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Vostre amant qui va <rhyme label="c" type="m" corresp="#s3:l5">mourir</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Vous seule avez le <rhyme label="a" type="f">dictame</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Pour me donner <rhyme label="b" type="m">guerison</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">N'est-ce pas avec <rhyme label="b" type="m" corresp="#s4:l2">raison</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Que tout le monde vous <rhyme label="a" type="f" corresp="#s4:l1">blasme</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">De me voir ainsi <rhyme label="c" type="m">mourir</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">Sans vouloir me <rhyme label="c" type="m" corresp="#s4:l5">secourir</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Voulez-vous qu'on vous <rhyme label="a" type="f">accuse</rhyme></l>
+        <l id="s5:l2" met="4" type="+-">D'estre cause de ma <rhyme label="b" type="m">mort</rhyme>?</l>
+        <l id="s5:l3" met="4" type="+-">Voyez que vous avez <rhyme label="b" type="m" corresp="#s5:l2">tort</rhyme></l>
+        <l id="s5:l4" met="4" type="+-">Sans vouloir chercher <rhyme label="a" type="f" corresp="#s5:l1">d'excuse</rhyme>;</l>
+        <l id="s5:l5" met="4" type="+-">Allons, venez me <rhyme label="c" type="m">guerir</rhyme>,</l>
+        <l id="s5:l6" met="4" type="+-">Ne me faites plus <rhyme label="c" type="m" corresp="#s5:l5">souffrir</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

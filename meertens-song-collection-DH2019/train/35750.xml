@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35750</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+    </tags>
+    <melody>Nerea schoonste van uw geburen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Albertus Buitendyck</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WIlt Maeghde van Marg'reta <rhyme label="a" type="f">leeren</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Dat ghy 't gheloof, noch Maeghden <rhyme label="b" type="m">staet</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Om tormenten noch 's werelts <rhyme label="a" type="f" corresp="#s1:l1">eeren</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Noch om 't Vleesch sijn lusten <rhyme label="b" type="m" corresp="#s1:l2">verlaet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Margareta, door uw <rhyme label="a" type="f">voorspraecken</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Krijght ons in 't goet te blijven <rhyme label="b" type="m">vroom</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Ende dat al de helsche <rhyme label="a" type="f" corresp="#s2:l1">Draecken</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Voor ons hebben vrees ende <rhyme label="b" type="m" corresp="#s2:l2">schroom</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Bevrijdt ô Iesu! onse <rhyme label="a" type="f">Landen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">(Door Marg'retaes, verhoort <rhyme label="b" type="m">gebedt</rhyme>)</l>
+        <l id="s3:l3" met="4" type="-+">Hongers noodt, en alle <rhyme label="a" type="f" corresp="#s3:l1">Vyanden</rhyme>;</l>
+        <l id="s3:l4" met="4" type="-+">En dat de Pest ons niet <rhyme label="b" type="m" corresp="#s3:l2">besmet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

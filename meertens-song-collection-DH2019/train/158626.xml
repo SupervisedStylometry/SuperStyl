@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>158626</id>
+    <date>
+      <year-start>1780</year-start>
+      <year-end>1780</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam (reguliersbreestraat)</orginal-name>
+      <standard-name>Reguliersbreestraat, Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3665346</lon>
+        <lat>4.8948014</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>Het was in de zoete maand van mei</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">EY Vrienden hoor een raare <rhyme label="a" type="m">Klugt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Die ik zal Zingen met <rhyme label="a" type="m" corresp="#s1:l1">Genugt</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">In Amsterdam de <rhyme label="b" type="f">Steede</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Van een gemaakte Dienstmeid <rhyme label="c" type="m">zoet</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">En eene Schipper <rhyme label="b" type="f" corresp="#s1:l3">mede</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Dat Meisje dat ging op <rhyme label="a" type="m">Fortuin</rhyme>.</l>
+        <l id="s2:l2" met="4" type="-+">De Schipper was een ligte <rhyme label="a" type="m" corresp="#s2:l1">Pluim</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Hy wou een Kansje <rhyme label="b" type="f">wagen</rhyme>:</l>
+        <l id="s2:l4" met="4" type="-+">Hy sprak, Myn alderliefste <rhyme label="c" type="m">Bruid</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Gy staat in myn <rhyme label="b" type="f" corresp="#s2:l3">Behagen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Het Meisje dat sprak Schipper <rhyme label="a" type="m">fier</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Ik ben een Dogter van <rhyme label="a" type="m" corresp="#s3:l1">Playsier</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Hebt gy in my <rhyme label="b" type="f">Behagen</rhyme>?</l>
+        <l id="s3:l4" met="4" type="-+">Kom gaan wy zamen aan de <rhyme label="c" type="m">Zwier</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Wy zullen een Kansje <rhyme label="b" type="f" corresp="#s3:l3">wagen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Hy greep het Meisje om haar <rhyme label="a" type="m">Hals</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Kusten haar Kaakjes lief en <rhyme label="a" type="m" corresp="#s4:l1">mals</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">En greep haar in zyn <rhyme label="b" type="f">Armen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Hy zey, Myn alderliefste <rhyme label="c" type="m">Dier</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Gy krieweld in myn <rhyme label="b" type="f" corresp="#s4:l3">Darmen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Zy gingen zamen in de <rhyme label="a" type="m">Kroeg</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Het Meisje dat kreeg daar <rhyme label="a" type="m" corresp="#s5:l1">genoeg</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Van Eeten en van <rhyme label="b" type="f">Drinken</rhyme>:</l>
+        <l id="s5:l4" met="4" type="-+">Maar wat daar vorder is <rhyme label="c" type="m">geschied</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">Dat zal verdrommelt <rhyme label="b" type="f" corresp="#s5:l3">stinken</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Hy greep het Meisje na haar <rhyme label="a" type="m">keurs</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">De Dogter greep hem na zyn <rhyme label="a" type="m" corresp="#s6:l1">Beurs</rhyme>;</l>
+        <l id="s6:l3" met="3" type="-+">Zyn Poen die was <rhyme label="b" type="f">vervlogen</rhyme>:</l>
+        <l id="s6:l4" met="4" type="-+">Hy sprak, ô! Gy vervloekte <rhyme label="c" type="m">Hoer</rhyme>,</l>
+        <l id="s6:l5" met="3" type="-+">Hoe hebt gy my <rhyme label="b" type="f" corresp="#s6:l3">Bedrogen</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Ziet hoe dat hy daar stond en <rhyme label="a" type="m">keek</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">In al zyn Zakken waar hy <rhyme label="a" type="m" corresp="#s7:l1">greep</rhyme>,</l>
+        <l id="s7:l3" met="3" type="-+">Hy vond daar niet te <rhyme label="b" type="f">vegen</rhyme>:</l>
+        <l id="s7:l4" met="4" type="-+">Zyn Lief was met de Buit al <rhyme label="c" type="m">voort</rhyme></l>
+        <l id="s7:l5" met="3" type="-+">En hy stond zeer <rhyme label="b" type="f" corresp="#s7:l3">Verlegen</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Oorlof gy Schippers Gasten <rhyme label="a" type="m">koen</rhyme>,</l>
+        <l id="s8:l2" met="4" type="-+">Wilt gy een Avondlugje <rhyme label="a" type="m" corresp="#s8:l1">doen</rhyme>,</l>
+        <l id="s8:l3" met="3" type="-+">Wagt u wel voor de <rhyme label="b" type="f">Hoeren</rhyme>:</l>
+        <l id="s8:l4" met="4" type="-+">’t Is haar om geen Vermaak te <rhyme label="c" type="m">doen</rhyme>,</l>
+        <l id="s8:l5" met="3" type="-+">Maar om uw Beurs te <rhyme label="b" type="f" corresp="#s8:l3">loeren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

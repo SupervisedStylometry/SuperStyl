@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>115338</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>alkmaar</orginal-name>
+      <standard-name>Alkmaar, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.6312592</lon>
+        <lat>4.7503798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="danklied" translation="gratitude song">danklied</tag>
+    </tags>
+    <melody>Psalm 002 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Als ghy ge-eten hebt (hoort <rhyme label="a" type="m">Israël</rhyme>)</l>
+        <l id="s1:l2" met="5" type="-+">Ghy sult den Heer uwen Godt danck’lijck <rhyme label="b" type="f">loven</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Siet dat ghy hem niet vergheet als <rhyme label="a" type="m" corresp="#s1:l1">rebel</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Laet Godts Gebodt van u niet zijn <rhyme label="b" type="f" corresp="#s1:l2">verschoven</rhyme>.</l>
+        <l id="s1:l5" met="5" type="-+">Wy dancken u, o Godt Hemelsche <rhyme label="c" type="f">Vader</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Voor alle uwe weldaden seer <rhyme label="d" type="m">groot</rhyme></l>
+        <l id="s1:l7" met="5" type="-+">Daer met ghy ons genadelijck te <rhyme label="c" type="f" corresp="#s1:l5">gader</rhyme></l>
+        <l id="s1:l8" met="5" type="-+">Spijset, en sorght voor ons in aller <rhyme label="d" type="m" corresp="#s1:l6">noot</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Voornamelijck als van ons werdt <rhyme label="a" type="m">betracht</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">De blijde bootschap door u woort <rhyme label="b" type="f">bekommen</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Daer met ghy ons hebt te wege <rhyme label="a" type="m" corresp="#s2:l1">gebracht</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Nae dit leven ‘t eeuwige niet om <rhyme label="b" type="f" corresp="#s2:l2">sommen</rhyme>.</l>
+        <l id="s2:l5" met="5" type="-+">Laet ‘tverganck’lijck ons herten niet <rhyme label="c" type="f">versmoren</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">Maer ten Hemel sien in alle <rhyme label="d" type="m">geval</rhyme></l>
+        <l id="s2:l7" met="5" type="-+">Om Christum te wachten t’onsen <rhyme label="c" type="f" corresp="#s2:l5">oorbooren</rhyme>,</l>
+        <l id="s2:l8" met="5" type="-+">Daer hy ons Verlosser verschijnen <rhyme label="d" type="m" corresp="#s2:l6">sal</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

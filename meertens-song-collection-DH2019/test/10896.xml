@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10896</id>
+    <date>
+      <year-start>1605</year-start>
+      <year-end>1605</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="meilied" translation="May song">meilied</tag>
+    </tags>
+    <melody>Een lied eerbaar</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">De mey playsant, is lustich int <rhyme label="a" type="f">useren</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Seer triumphant, Gaet met u lief <rhyme label="a" type="f" corresp="#s1:l1">spantseren</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Int groene lant,met boomen schoon <rhyme label="b" type="m">geplant</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Daer Venus sal <rhyme label="a" type="f" corresp="#s1:l1">regeeren</rhyme></l>
+        <l id="s1:l5" met="5" type="-+">Cupidos hant,sal veucht aldaer <rhyme label="a" type="f" corresp="#s1:l1">vermeeren</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Twist en haet is vande liefd’ <rhyme label="a" type="f">verdreven</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">des nijders praet, wort geen gehoor <rhyme label="a" type="f" corresp="#s2:l1">gegeven</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">dies coemt al uyt, dier sitten inde <rhyme label="b" type="m">muyt</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Met Amoureus <rhyme label="a" type="f" corresp="#s2:l1">verlangen</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Met soet geluyt, wilt desen mey <rhyme label="a" type="f" corresp="#s2:l1">ontfangen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Den fraeyen sant, der voglen wilt <rhyme label="a" type="f">aenhooren</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">T’lustich geclanc, wilt vreuchdeke <rhyme label="a" type="f" corresp="#s3:l1">nasporen</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">Vroech en laet, met u lief spanceren <rhyme label="b" type="m">gaet</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Onder de groene <rhyme label="a" type="f" corresp="#s3:l1">bomen</rhyme></l>
+        <l id="s3:l5" met="5" type="-+">doet Venus raet, tsal zijn tot uwer <rhyme label="a" type="f" corresp="#s3:l1">vromen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">De bloemkens, nu wter aerden <rhyme label="a" type="f">spruyten</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">door tsoet bestier, al van des meys <rhyme label="a" type="f" corresp="#s4:l1">virtuyten</rhyme></l>
+        <l id="s4:l3" met="5" type="-+">met goede vreucht, u jonge hert <rhyme label="b" type="m">verdeucht</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">In dese meyes tijden, u jonge <rhyme label="a" type="f" corresp="#s4:l1">jeucht</rhyme>,</l>
+        <l id="s4:l5" met="5" type="-+">Sal u van sorch <rhyme label="a" type="f" corresp="#s4:l1">bevrijden</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">prins exellent, verheucht u sin <rhyme label="a" type="f">blymoedich</rhyme></l>
+        <l id="s5:l2" met="5" type="-+">der vreuchden tent, sal Venus zijn <rhyme label="a" type="f" corresp="#s5:l1">behoedich</rhyme></l>
+        <l id="s5:l3" met="5" type="-+">Orpheus wort, zijner snaren <rhyme label="b" type="m">accoort</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Wilt u net sangh <rhyme label="a" type="f" corresp="#s5:l1">vermenghen</rhyme>,</l>
+        <l id="s5:l5" met="5" type="-+">Muse comt voort, en helpt de mey <rhyme label="a" type="f" corresp="#s5:l1">volbrengen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>165071</id>
+    <date>
+      <year-start>1780</year-start>
+      <year-end>1780</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam (reguliersbreestraat)</orginal-name>
+      <standard-name>Reguliersbreestraat, Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3665346</lon>
+        <lat>4.8948014</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="welkomstlied" translation="welcome song">welkomstlied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>Wel wat heeft de min vermogen</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">ZOu men nu van Vreugd niet <rhyme label="a" type="f">Zingen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Zou men niet Dank-toonen <rhyme label="b" type="m">Zingen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Zou met nu niet op de <rhyme label="b" type="m" corresp="#s1:l2">Baan</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Met ons Amstel <rhyme label="a" type="f" corresp="#s1:l1">Lievelingen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Vrolyk nu ten Ryen <rhyme label="b" type="m" corresp="#s1:l2">gaan</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Schoon Heer Steenis door <rhyme label="a" type="f">Ongelukken</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Kiel en Mast en Raa <rhyme label="b" type="m">verloor</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">’t Geen ons droevig klonk in ’t <rhyme label="b" type="m" corresp="#s2:l2">Oor</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Wyl ’t Lands Schip brak heel  aan <rhyme label="a" type="f" corresp="#s2:l1">stukken</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Stiet en sloeg heel midden <rhyme label="b" type="m" corresp="#s2:l2">door</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">’t Was op de Kust van <rhyme label="a" type="f">Barbaryen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Daar den Turk Voerd het <rhyme label="b" type="m">Gebied</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Daar men nooit Verloszing <rhyme label="b" type="m" corresp="#s3:l2">ziet</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Uit zyn wreede <rhyme label="a" type="f" corresp="#s3:l1">Slavernyen</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Daar Troost Hoop en Bystand <rhyme label="b" type="m" corresp="#s3:l2">vliet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Van den Turk heel Slaafs <rhyme label="a" type="f">gekregen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Kwam ’t grootmagtig <rhyme label="b" type="m">Engeland</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">De Consul van dat magtig <rhyme label="b" type="m" corresp="#s4:l2">Strand</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Tot zyn hulp en dienst <rhyme label="a" type="f" corresp="#s4:l1">genegen</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">Voed haar in die droeve  <rhyme label="b" type="m" corresp="#s4:l2">Stand</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Ons Grootmogende lieve <rhyme label="a" type="f">Heeren</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Die voor dierbaare Vryheid <rhyme label="b" type="m">staan</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Konde nooit beschouwen <rhyme label="b" type="m" corresp="#s5:l2">aan</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Waarde Vaderen in ’t <rhyme label="a" type="f" corresp="#s5:l1">Regeeren</rhyme>,</l>
+        <l id="s5:l5" met="4" type="+-">Dat haar volk zou onder <rhyme label="b" type="m" corresp="#s5:l2">gaan</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Zy besteeden Neerlands <rhyme label="a" type="f">gaven</rhyme>,</l>
+        <l id="s6:l2" met="4" type="+-">Maken Vree by dat <rhyme label="b" type="m">Geslagt</rhyme>;</l>
+        <l id="s6:l3" met="4" type="+-">Slaverny is hier <rhyme label="b" type="m" corresp="#s6:l2">veragt</rhyme>,</l>
+        <l id="s6:l4" met="4" type="+-">Dit is werk voor alle <rhyme label="a" type="f" corresp="#s6:l1">Braven</rhyme>,</l>
+        <l id="s6:l5" met="4" type="+-">Zo is ’t Volks heil <rhyme label="b" type="m" corresp="#s6:l2">volbragt</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">Lieve Land-en <rhyme label="a" type="f">Stadgenooten</rhyme>,</l>
+        <l id="s7:l2" met="4" type="+-">Welkom in uw <rhyme label="b" type="m">Vaderland</rhyme>;</l>
+        <l id="s7:l3" met="4" type="+-">Denkt een nooit volprezen <rhyme label="b" type="m" corresp="#s7:l2">Hand</rhyme>,</l>
+        <l id="s7:l4" met="4" type="+-">Heeft u van uw Boey <rhyme label="a" type="f" corresp="#s7:l1">Ontsloten</rhyme>,</l>
+        <l id="s7:l5" met="4" type="+-">Eerd de zeven Pylen <rhyme label="b" type="m" corresp="#s7:l2">Band</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="+-">Laten nu uw <rhyme label="a" type="f">Echt-Vrindinnen</rhyme>,</l>
+        <l id="s8:l2" met="4" type="+-">Kinders die zyn veel in <rhyme label="b" type="m">tal</rhyme>,</l>
+        <l id="s8:l3" met="4" type="+-">Lof verkonden <rhyme label="b" type="m" corresp="#s8:l2">overal</rhyme>,</l>
+        <l id="s8:l4" met="4" type="+-">Dat zy Neerlands heil <rhyme label="a" type="f" corresp="#s8:l1">Beminnen</rhyme>,</l>
+        <l id="s8:l5" met="4" type="+-">’t Geen voor eerst niet einden <rhyme label="b" type="m" corresp="#s8:l2">zal</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="+-">Zo Oranje blyft in ’t <rhyme label="a" type="f">Leven</rhyme>,</l>
+        <l id="s9:l2" met="4" type="+-">Groeid en Vreugd voor Land en <rhyme label="b" type="m">Kerk</rhyme>,</l>
+        <l id="s9:l3" met="4" type="+-">Dankt hem die ook in dit <rhyme label="b" type="m" corresp="#s9:l2">Werk</rhyme>,</l>
+        <l id="s9:l4" met="4" type="+-">’t Roer hem heeft in de Hand <rhyme label="a" type="f" corresp="#s9:l1">gegeven</rhyme>,</l>
+        <l id="s9:l5" met="4" type="+-">Dat ’s Lands Vad’ren magt <rhyme label="b" type="m" corresp="#s9:l2">versterkt</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="+-">Gy weet wat het is te <rhyme label="a" type="f">zeggen</rhyme>,</l>
+        <l id="s10:l2" met="4" type="+-">Als men dierbaare Vryheid <rhyme label="b" type="m">mist</rhyme>,</l>
+        <l id="s10:l3" met="4" type="+-">Veelen zyn daar in <rhyme label="b" type="m" corresp="#s10:l2">vergist</rhyme>,</l>
+        <l id="s10:l4" met="4" type="+-">Dog gy kunt het haar <rhyme label="a" type="f" corresp="#s10:l1">uitleggen</rhyme>,</l>
+        <l id="s10:l5" met="4" type="+-">Het is buiten ’t Net <rhyme label="b" type="m" corresp="#s10:l2">Gevist</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="+-">Nog eens Welkom lieve <rhyme label="a" type="f">Vrinden</rhyme>,</l>
+        <l id="s11:l2" met="4" type="+-">Die ’k met Tranen heb <rhyme label="b" type="m">Beschreid</rhyme>;</l>
+        <l id="s11:l3" met="4" type="+-">Dank de eeuwige <rhyme label="b" type="m" corresp="#s11:l2">Majesteit</rhyme>,</l>
+        <l id="s11:l4" met="4" type="+-">Met opregte Prins <rhyme label="a" type="f" corresp="#s11:l1">Gezinden</rhyme>,</l>
+        <l id="s11:l5" met="4" type="+-">Leeft en Sterft vol <rhyme label="b" type="m" corresp="#s11:l2">Zaligheid</rhyme>.</l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="4" type="+-">Dat ’s myn Bee, Myn Hoop en <rhyme label="a" type="f">Smeken</rhyme>,</l>
+        <l id="s12:l2" met="4" type="+-">Ongelukkig en nu <rhyme label="b" type="m">hersteld</rhyme>,</l>
+        <l id="s12:l3" met="4" type="+-">Slaverny toont zyn <rhyme label="b" type="m" corresp="#s12:l2">Geweld</rhyme>,</l>
+        <l id="s12:l4" met="4" type="+-">Maar de Leeuw op ’t eersten <rhyme label="a" type="f" corresp="#s12:l1">Teken</rhyme>,</l>
+        <l id="s12:l5" met="4" type="+-">Band die Dwingland uit het <rhyme label="b" type="m" corresp="#s12:l2">Veld</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

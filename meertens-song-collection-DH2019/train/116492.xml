@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>116492</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>deventer</orginal-name>
+      <standard-name>Deventer, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.2532272</lon>
+        <lat>6.1584725</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
+    </tags>
+    <melody>Nun lasst uns den Leib begraben</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Willem Sluiter</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">IK weet, dat mijn Verlosser <rhyme label="a" type="m">leeft</rhyme>;</l>
+        <l id="s1:l2" met="4" type="-+">End hy, als 't al een eynd eens <rhyme label="a" type="m" corresp="#s1:l1">heeft</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Sal over 't stof de laetst' <rhyme label="b" type="m">opstaen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">En wekken op 't gheen was <rhyme label="b" type="m" corresp="#s1:l3">vergaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wanneer den wormen dees' mijn <rhyme label="a" type="m">huyt</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">In 't graf geweest is tot een <rhyme label="a" type="m" corresp="#s2:l1">buyt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En dit mijn swakke lichaem <rhyme label="b" type="m">daer</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Geheel door-knaeght sal zijn van <rhyme label="b" type="m" corresp="#s2:l3">haer</rhyme>:</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Sal ik uyt mijnen vleesche <rhyme label="a" type="m">doch</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Mijn lieven Godt aenschouwen <rhyme label="a" type="m" corresp="#s3:l1">noch</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Dien ik, als weer vernieuwt van <rhyme label="b" type="m">jeugt</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Voor my aenschouwen sal tot <rhyme label="b" type="m" corresp="#s3:l3">vreugt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Dien dees' mijn oogen sullen <rhyme label="a" type="m">sien</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">End in mijn plaets geen vreemde <rhyme label="a" type="m" corresp="#s4:l1">lie'n</rhyme>.</l>
+        <l id="s4:l3" met="4" type="-+">Mijn nieren en mijn <rhyme label="b" type="m">inghewand</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Verlangen met een grooten <rhyme label="b" type="m" corresp="#s4:l3">brand</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

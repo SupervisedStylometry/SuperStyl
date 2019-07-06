@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174721</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ze vlogen hoog, ze vlogen <rhyme label="a" type="m">laag</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Ze sprongen en ze <rhyme label="b" type="f">zongen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Ze pikten wurmpjes gaauw en <rhyme label="a" type="m" corresp="#s1:l1">graag</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En bragten ze aan hun' <rhyme label="b" type="f" corresp="#s1:l2">jongen</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">En 't kleine volk in 't nestje <rhyme label="c" type="m">riep</rhyme>:</l>
+        <l id="s1:l6" met="6" type="+-">‘Piep, piep.... 'k bedankje wel. - Piep, <rhyme label="c" type="m" corresp="#s1:l5">piep</rhyme>!’</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">En 'k dacht, toen 'k dat zoo aardig <rhyme label="a" type="m">vond</rhyme>:</l>
+        <l id="s2:l2" met="3" type="-+">‘Ben 'k ook zoo'n dankbre <rhyme label="b" type="f">jongen</rhyme>?’ -</l>
+        <l id="s2:l3" met="4" type="-+">En 'k ben mijn Moedertje <rhyme label="a" type="m" corresp="#s2:l1">terstond</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Eens om den hals <rhyme label="b" type="f" corresp="#s2:l2">gesprongen</rhyme>;</l>
+        <l id="s2:l5" met="4" type="-+">En Moeder pakte mij, toen 'k <rhyme label="c" type="m">riep</rhyme>:</l>
+        <l id="s2:l6" met="6" type="+-">‘Piep, piep.... 'k bedankje wel. - Piep, <rhyme label="c" type="m" corresp="#s2:l5">piep</rhyme>!’</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185656</id>
+    <date>
+      <year-start>1830</year-start>
+      <year-end>1840</year-end>
+    </date>
+    <location>
+      <orginal-name>purmerend</orginal-name>
+      <standard-name>Purmerend</standard-name>
+      <coordinates>
+        <lon>52.5024789</lon>
+        <lat>4.9614827</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Kom vlug uit het bed</melody>
+  <author>Gijsbertus van Sandwijk</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Kom, vlug uit het bedde! de haan heeft <rhyme label="a" type="m">gekraaid</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Reeds zingen de vogels, de morgenlucht <rhyme label="a" type="m" corresp="#s1:l1">waar</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Ik ga naar den akker, bearbeid den <rhyme label="b" type="m">grond</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Het werken is nuttig en houdt ons <rhyme label="b" type="m" corresp="#s1:l3">gezond</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Haast ga ik aan 't zaaijen, 'k zaai allerlei <rhyme label="a" type="m">soort</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Van planten en kruiden, naar eisch, zoo 't <rhyme label="a" type="m" corresp="#s2:l1">behoort</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">'K zaai wortels en rapen, salade en <rhyme label="b" type="m">radijs</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">'K zaai boonen en erwten, van allerlei <rhyme label="b" type="m" corresp="#s2:l3">prijs</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">En komt dan eens de oogstijd, dan zamel ik <rhyme label="a" type="m">in</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Dan schenkt mij mijn arbeid een dubbel <rhyme label="a" type="m" corresp="#s3:l1">gewin</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">Dan haal ik mijn vruchten van d'akkerbouw <rhyme label="b" type="m">af</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">En dank mijnen Schepper voor 't geen Hij mij <rhyme label="b" type="m" corresp="#s3:l3">gaf</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

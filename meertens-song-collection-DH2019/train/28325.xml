@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>28325</id>
+    <date>
+      <year-start>1650</year-start>
+      <year-end>1650</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+    </tags>
+    <melody>Aanhoor gij dochters en jongmans al</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="theatre">theater</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Mon keur &amp; eun <rhyme label="a" type="f">brunette</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Ick stoor mijn aen geen <rhyme label="b" type="m">swart</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Maer haet het schoon <rhyme label="a" type="f" corresp="#s1:l1">blankette</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Daer yeder geck om <rhyme label="b" type="m" corresp="#s1:l2">wart</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Dat bruyn is sal niet <rhyme label="a" type="f" corresp="#s1:l1">smette</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Croyé, ma mie, mijn <rhyme label="b" type="m" corresp="#s1:l2">hart</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Temoyn dat blanch veel eerder <rhyme label="c" type="m">schaet</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Dan het de schoonheydt <rhyme label="c" type="m" corresp="#s1:l7">baet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

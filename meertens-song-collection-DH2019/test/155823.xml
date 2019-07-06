@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>155823</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Dimmi donna crudel</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">ALs Daniel in de <rhyme label="a" type="m">Kuyl</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Der wreede <rhyme label="b" type="f">Leeuwen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">(Die met een groot <rhyme label="a" type="m" corresp="#s1:l1">gehuyl</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Van woestheydt <rhyme label="b" type="f" corresp="#s1:l2">schreewen</rhyme>)</l>
+        <l id="s1:l5" met="3" type="-+">Als in den Af-grondt <rhyme label="c" type="m">quam</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Omringht van <rhyme label="d" type="f">jamm'ren</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Hield d'Enghel uyt Godts <rhyme label="e" type="m">last</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">de Leeuwe-kaken <rhyme label="e" type="m" corresp="#s1:l7">vast</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Soo dat zy saten <rhyme label="c" type="m" corresp="#s1:l5">tam</rhyme>,</l>
+        <l id="s1:l10" met="2" type="-+">Gelijck als <rhyme label="d" type="f" corresp="#s1:l6">Lamm'ren</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">De gansche Wereldt <rhyme label="a" type="m">krielt</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">Door wree <rhyme label="b" type="f">vyanden</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">En z'hadden ons <rhyme label="a" type="m" corresp="#s2:l1">ontzielt</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">Soo Godt haer <rhyme label="b" type="f" corresp="#s2:l2">handen</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Door sijne groote <rhyme label="c" type="m">macht</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Niet had <rhyme label="d" type="f">geketent</rhyme>:</l>
+        <l id="s2:l7" met="3" type="-+">Maer nu steldt hy een <rhyme label="e" type="m">perck</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Voor al 't <rhyme label="e" type="m" corresp="#s2:l7">Tyrannen-werck</rhyme>:</l>
+        <l id="s2:l9" met="3" type="-+">En slaet sijn Kind'ren <rhyme label="c" type="m" corresp="#s2:l5">acht</rhyme>,</l>
+        <l id="s2:l10" met="2" type="-+">Sterck en <rhyme label="d" type="f" corresp="#s2:l6">alwetend</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

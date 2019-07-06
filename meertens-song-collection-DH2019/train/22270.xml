@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22270</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Christe qui lux es et dies</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Salich is hy, die in Godts vreese <rhyme label="a" type="m">staet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En die op sijne weghen <rhyme label="a" type="m" corresp="#s1:l1">gaet</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">U eyghen bandt soud u gheneeren <rhyme label="b" type="m">wel</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Soo leeft ghy dan recht, en het gaet u <rhyme label="b" type="m" corresp="#s1:l3">wel</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">U huysvrou die sal in u huys <rhyme label="a" type="m">syn</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Glijck eenen Wijngaert vol druyuen <rhyme label="a" type="m" corresp="#s2:l1">fyn</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En u kinderen om u Taeffel <rhyme label="b" type="m">rontsom</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Glijck Olijfftacken, ghesondt en <rhyme label="b" type="m" corresp="#s2:l3">schoon</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Siet soe sal ghebenedijt syn <rhyme label="a" type="m">dan</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Als in de Godts vreese leeft de <rhyme label="a" type="m" corresp="#s3:l1">Man</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">En van hem blijft oock den vloeck, en <rhyme label="b" type="m">thorn</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Die alle menschen is <rhyme label="b" type="m" corresp="#s3:l3">aengheboren</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Wt Zyon sal u Godt seeghenen <rhyme label="a" type="m">wijdt</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Dat ghy ste vast sult sien <rhyme label="a" type="m" corresp="#s4:l1">altijdt</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">De Stadt Jerusalem in groot gluck <rhyme label="b" type="m">staen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">En voor Godt in gnaden <rhyme label="b" type="m" corresp="#s4:l3">aenghenaem</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Oock bewaren sal Godt u leuen <rhyme label="a" type="m">fijn</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">En met syn goetheyt so by u <rhyme label="a" type="m" corresp="#s5:l1">syn</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Dat ghy sult sien uwer kinder <rhyme label="b" type="m">kindt</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">En oock, dat Israel vrede <rhyme label="b" type="m" corresp="#s5:l3">vindt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

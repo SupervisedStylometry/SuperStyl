@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>161781</id>
+    <date>
+      <year-start>1669</year-start>
+      <year-end>1669</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>La nouvelle comtesse</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">SChoone Dorinda meent het <rhyme label="a" type="m">niet</rhyme>,</l>
+        <l id="s1:l2" met="5" type="+-">Dat u verdienst en lonken die gy <rhyme label="a" type="m" corresp="#s1:l1">schiet</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Staagh duuren, want men 't al verganklijk <rhyme label="a" type="m" corresp="#s1:l1">ziet</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Terwijl men u gaat <rhyme label="b" type="f">vryen</rhyme>.</l>
+        <l id="s1:l5" met="5" type="-+">Neem dogh dien dieren ogenblik in <rhyme label="c" type="m">acht</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Uws Jeucht, daar veel om <rhyme label="b" type="f" corresp="#s1:l4">lijen</rhyme>,</l>
+        <l id="s1:l7" met="3" type="+-">Out kan niet <rhyme label="b" type="f" corresp="#s1:l4">bedijen</rhyme>,</l>
+        <l id="s1:l8" met="3" type="+-">Daerom niet meer <rhyme label="c" type="m" corresp="#s1:l5">wacht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Want als het voorhooft rimpels <rhyme label="a" type="m">zet</rhyme>,</l>
+        <l id="s2:l2" met="5" type="+-">Dan ziet men geen meer vryers in 't <rhyme label="a" type="m" corresp="#s2:l1">zalet</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Vergeefs is dan de hoop der lust in 't <rhyme label="a" type="m" corresp="#s2:l1">bedt</rhyme>:</l>
+        <l id="s2:l4" met="3" type="-+">En die u eer <rhyme label="b" type="f">aanbaden</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Die lachen dan, en zouden <rhyme label="c" type="m">mogelijk</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">U liefde wel <rhyme label="b" type="f" corresp="#s2:l4">versmaden</rhyme>;</l>
+        <l id="s2:l7" met="3" type="+-">Wilt u dan <rhyme label="b" type="f" corresp="#s2:l4">beraden</rhyme></l>
+        <l id="s2:l8" met="3" type="+-">Eer de tijt toont <rhyme label="c" type="m" corresp="#s2:l5">blijk</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

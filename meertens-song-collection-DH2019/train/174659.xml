@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174659</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wel, appelboom! wat sta je <rhyme label="a" type="m">rijk</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Gij lijkt wel éénen <rhyme label="b" type="f">bloesem</rhyme>!</l>
+        <l id="s1:l3" met="4" type="-+">Waar dat ik tuur, waar dat ik <rhyme label="a" type="m" corresp="#s1:l1">kijk</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">'k Zie enkel, enkel <rhyme label="b" type="f" corresp="#s1:l2">bloesem</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Ik zie geen tak, ik zie geen' <rhyme label="c" type="m">blad</rhyme>;</l>
+        <l id="s1:l6" met="4" type="-+">Me dunkt, gij hebt ze nooit <rhyme label="c" type="m" corresp="#s1:l5">gehad</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">En toch, 't is pas een' dag of <rhyme label="a" type="m">wat</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Terwijl ik keek naar <rhyme label="b" type="f">buiten</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Of 'k zag uw takken kaal en <rhyme label="a" type="m" corresp="#s2:l1">glad</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Daar slingren voor mijn <rhyme label="b" type="f" corresp="#s2:l2">ruiten</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">En 'k vroeg al aan de <rhyme label="c" type="m">tuinmansvrouw</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Of je ook gestorven wezen <rhyme label="c" type="m" corresp="#s2:l5">zou</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">‘Neen,’ zei ze toen, ‘neen, lieve <rhyme label="a" type="m">schat</rhyme>!’</l>
+        <l id="s3:l2" met="3" type="-+">En kneep mij in mijn <rhyme label="b" type="f">kaken</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">‘Neen, wacht nog maar een' dag of <rhyme label="a" type="m" corresp="#s3:l1">wat</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Dan staat hij als een <rhyme label="b" type="f" corresp="#s3:l2">laken</rhyme>: -</l>
+        <l id="s3:l5" met="4" type="-+">En als ge braaf zijt, kleine <rhyme label="c" type="m">man</rhyme>!</l>
+        <l id="s3:l6" met="4" type="-+">Dan krijgt ge er nog wel appels <rhyme label="c" type="m" corresp="#s3:l5">van</rhyme>.’</l>
+      </lg>
+    </lg>
+  </text>
+</song>

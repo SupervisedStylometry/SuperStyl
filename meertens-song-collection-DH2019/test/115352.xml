@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>115352</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>alkmaar</orginal-name>
+      <standard-name>Alkmaar, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.6312592</lon>
+        <lat>4.7503798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Het haantje van de wijnen</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Comt laet ons ‘t Huwelijck <rhyme label="a" type="f">prijsen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">‘t Is ja wel prijsens <rhyme label="b" type="m">waert</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Den echten staet eere <rhyme label="a" type="f" corresp="#s1:l1">bewijsen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Wy die hier zijn <rhyme label="b" type="m" corresp="#s1:l2">vergaert</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Wy willen dees lof <rhyme label="c" type="f">vermeeren</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Met sangh die lieflijck <rhyme label="d" type="m">luydt</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Ons jonge paer volcx ter <rhyme label="c" type="f" corresp="#s1:l5">eeren</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Gh’luck Bruyd’gom en vrouw <rhyme label="d" type="m" corresp="#s1:l6">Bruydt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Na dat ons Godt <rhyme label="a" type="f">almachtigh</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Hemel en Aerde <rhyme label="b" type="m">schiep</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Het Vee de Eng’len <rhyme label="a" type="f" corresp="#s2:l1">krachtigh</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">De Visch in de Zee <rhyme label="b" type="m" corresp="#s2:l2">diep</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Schiep hy na sijnen <rhyme label="c" type="f">beelde</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Adam van aerden <rhyme label="d" type="m">kluyt</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">En setteden hem in <rhyme label="c" type="f" corresp="#s2:l5">weelde</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Gh’luck Bruyd’gom en vrouw <rhyme label="d" type="m" corresp="#s2:l6">Bruydt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Adam zijnde <rhyme label="a" type="f">geschapen</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Gestelt in ‘t <rhyme label="b" type="m">Paradijs</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Godt liet hem diepe <rhyme label="a" type="f" corresp="#s3:l1">slapen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">En door sijn raedt seer <rhyme label="b" type="m" corresp="#s3:l2">wijs</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Hy maeckte van Adams <rhyme label="c" type="f">zijde</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Eva daer sy quam <rhyme label="d" type="m">uyt</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Een hulp tot Adams <rhyme label="c" type="f" corresp="#s3:l5">verblijden</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Gh’luck Bruyd’gom en vrouw <rhyme label="d" type="m" corresp="#s3:l6">Bruydt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Christus na schrifts <rhyme label="a" type="f">vermonden</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Genoot ter Bruyloft <rhyme label="b" type="m">mee</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Heeft hem aldaer <rhyme label="a" type="f" corresp="#s4:l1">gevonden</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Te Cana in <rhyme label="b" type="m" corresp="#s4:l2">Galilee</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Daer hy Water deed <rhyme label="c" type="f">verkeeren</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">In wijn, na sijn <rhyme label="d" type="m">besluyt</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Den echten staet ter <rhyme label="c" type="f" corresp="#s4:l5">eeren</rhyme>,</l>
+        <l id="s4:l8" met="3" type="-+">Gh’luck Bruyd’gom en vrouw <rhyme label="d" type="m" corresp="#s4:l6">Bruydt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Wy mogen den wijn wel <rhyme label="a" type="f">drincken</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Die ‘t hert verheught in <rhyme label="b" type="m">deught</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Heer Bruyd’gom wilt <rhyme label="a" type="f" corresp="#s5:l1">gedincken</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">De kroone die u <rhyme label="b" type="m" corresp="#s5:l2">vervreught</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">Wy gonnen u tot Gods <rhyme label="c" type="f">eeren</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Menigh jonghe Wijngaert <rhyme label="d" type="m">Spruyt</rhyme>,</l>
+        <l id="s5:l7" met="3" type="-+">Tot uws geslachts <rhyme label="c" type="f" corresp="#s5:l5">vermeeren</rhyme>,</l>
+        <l id="s5:l8" met="3" type="-+">Gh’luck Bruyd’gom en vrouw <rhyme label="d" type="m" corresp="#s5:l6">Bruydt</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Prins is de Coningh <rhyme label="a" type="f">stercke</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">En stercker noch de <rhyme label="b" type="m">Wijn</rhyme>,</l>
+        <l id="s6:l3" met="3" type="-+">Men leest die ‘t soo <rhyme label="a" type="f" corresp="#s6:l1">bemercke</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Dat vroukens noch stercker <rhyme label="b" type="m" corresp="#s6:l2">zijn</rhyme>,</l>
+        <l id="s6:l5" met="3" type="-+">Maer stercker noch de <rhyme label="c" type="f">waerheyt</rhyme></l>
+        <l id="s6:l6" met="3" type="-+">Die uw’ Echt t’samen <rhyme label="d" type="m">sluyt</rhyme>,</l>
+        <l id="s6:l7" met="3" type="-+">wy wenschen u liefdes <rhyme label="c" type="f" corresp="#s6:l5">klaerheyt</rhyme>,</l>
+        <l id="s6:l8" met="3" type="-+">Gh’luck Bruyd’gom en vrouw <rhyme label="d" type="m" corresp="#s6:l6">Bruydt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

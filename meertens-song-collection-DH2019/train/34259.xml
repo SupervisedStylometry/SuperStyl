@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34259</id>
+    <date>
+      <year-start>1650</year-start>
+      <year-end>1650</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="scatologisch lied" translation="scatalogical song">scatologisch lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Jan Mommaert</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ONlanghs en wasser niet verr’ van <rhyme label="a" type="m">hier</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Een jongh Barbier // genaemt <rhyme label="a" type="m" corresp="#s1:l1">Passchier</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Die sijnen rugh in een <rhyme label="b" type="m">conduyt</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Gingh snutten uyt // sonder <rhyme label="b" type="m" corresp="#s1:l3">geluyt</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">En juyst den winckel op dat <rhyme label="c" type="m">pas</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Vol gasten <rhyme label="c" type="m" corresp="#s1:l5">was</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Terwijl den Jongen met rappen <rhyme label="a" type="m">moedt</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Sijn broeck ont-doet // en sich wat <rhyme label="a" type="m" corresp="#s2:l1">spoedt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Soo hingh sijn mouw, buyten sijn <rhyme label="b" type="m">weet</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Juyst in ’t secreet // die hy <rhyme label="b" type="m" corresp="#s2:l3">bescheet</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">En liep bezegelt met dit <rhyme label="c" type="m">draf</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">De trappen <rhyme label="c" type="m" corresp="#s2:l5">af</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Soo saen hy in den winckel <rhyme label="a" type="m">quam</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Passchier die nam // scheer ende <rhyme label="a" type="m" corresp="#s3:l1">kam</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">En met dat hy my scheeren <rhyme label="b" type="m">sou</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Soo vloogh sijn mauw // rond’ om seer <rhyme label="b" type="m" corresp="#s3:l3">gauw</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">En swierde Claes met desen <rhyme label="c" type="m">drol</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">Sijn aensicht <rhyme label="c" type="m" corresp="#s3:l5">vol</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Een yeder borst schier van <rhyme label="a" type="m">gelach</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Die op dien dagh, dit spel <rhyme label="a" type="m" corresp="#s4:l1">aen-sagh</rhyme>.</l>
+        <l id="s4:l3" met="4" type="-+">Passchier die droop gelijck een <rhyme label="b" type="m">muys</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Geheel confuys // al stil in <rhyme label="b" type="m" corresp="#s4:l3">huys</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">En wenschte sich, ‘k en weet niet <rhyme label="c" type="m">waer</rhyme>,</l>
+        <l id="s4:l6" met="2" type="-+">Een mijl van <rhyme label="c" type="m" corresp="#s4:l5">daer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

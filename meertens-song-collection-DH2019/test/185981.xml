@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185981</id>
+    <date>
+      <year-start>1717</year-start>
+      <year-end>1717</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Zeldzaam is de zoete min</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">ZEldzaam is de zoete <rhyme label="a" type="m">min</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Die betovering van <rhyme label="a" type="m" corresp="#s1:l1">zin</rhyme>;</l>
+        <l id="s1:l3" met="4" type="+-">Die my haat moet ik <rhyme label="b" type="f">beminnen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">kan noch wil, die drift <rhyme label="b" type="f" corresp="#s1:l3">verwinnen</rhyme>;</l>
+        <l id="s1:l5" met="2" type="+-">En ik <rhyme label="c" type="m">weet</rhyme>,</l>
+        <l id="s1:l6" met="2" type="+-">tot myn <rhyme label="c" type="m" corresp="#s1:l5">leet</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Dat zy my niet doet dan <rhyme label="d" type="f">plaagen</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Nochtans kan zy zy my <rhyme label="d" type="f" corresp="#s1:l7">behaagen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

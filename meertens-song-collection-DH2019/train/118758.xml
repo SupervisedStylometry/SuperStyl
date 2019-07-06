@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>118758</id>
+    <date>
+      <year-start>1730</year-start>
+      <year-end>1730</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>De groene boer</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Jakobus Rosseau</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="+-">LIeve <rhyme label="a" type="m">Neel</rhyme>,</l>
+        <l id="s1:l2" met="2" type="+-">By myn <rhyme label="a" type="m" corresp="#s1:l1">keel</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Uwen mond is <rhyme label="b" type="m">zagt</rhyme>:</l>
+        <l id="s1:l4" met="2" type="+-">Zy <rhyme label="c" type="m">verwind</rhyme></l>
+        <l id="s1:l5" met="2" type="+-">Zoete <rhyme label="c" type="m" corresp="#s1:l4">kind</rhyme></l>
+        <l id="s1:l6" met="2" type="+-">Myn <rhyme label="d" type="m">gemoet</rhyme>:</l>
+        <l id="s1:l7" met="2" type="+-">Op die <rhyme label="e" type="m">wys</rhyme>,</l>
+        <l id="s1:l8" met="2" type="+-">Nog e <rhyme label="e" type="m" corresp="#s1:l7">rys</rhyme>,</l>
+        <l id="s1:l9" met="3" type="+-">Ja ik zie gy <rhyme label="b" type="m" corresp="#s1:l3">lagt</rhyme>,</l>
+        <l id="s1:l10" met="4" type="+-">ô! Je bent zo rond en <rhyme label="d" type="m" corresp="#s1:l6">zoet</rhyme>,</l>
+        <l id="s1:l11" met="8" type="+-">Even net, even net, even net, even <rhyme label="f" type="m">net</rhyme>,</l>
+        <l id="s1:l12" met="6" type="+-">Even net gy voor my u bekje <rhyme label="f" type="m" corresp="#s1:l11">zet</rhyme>,</l>
+        <l id="s1:l13" met="6" type="-+">Even net, even net, gy maakt myn <rhyme label="g" type="m">groen</rhyme></l>
+        <l id="s1:l14" met="4" type="+-">Lieve Neeltje kom nog een <rhyme label="g" type="m" corresp="#s1:l13">zoen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

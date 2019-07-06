@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175118</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="avondlied" translation="evening song">avondlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Kindren! kijk! de maan schijnt <rhyme label="a" type="m">klaar</rhyme>:</l>
+        <l id="s1:l2" met="3" type="+-">Komt een beetje <rhyme label="b" type="m">hier</rhyme>!</l>
+        <l id="s1:l3" met="4" type="+-">Zingt eens lustig met <rhyme label="a" type="m" corresp="#s1:l1">elkaâr</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Zingt wat voor <rhyme label="b" type="m" corresp="#s1:l2">plêzier</rhyme>!</l>
+        <l id="s1:l5" met="4" type="+-">Liedjes kent ge toch <rhyme label="c" type="m">genoeg</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">'k Hoor u laat en 'k hoor u <rhyme label="c" type="m" corresp="#s1:l5">vroeg</rhyme>,</l>
+        <l id="s1:l7" met="3" type="+-">Komt nu haastig <rhyme label="b" type="m" corresp="#s1:l2">hier</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Als het werk is <rhyme label="a" type="m">afgedaan</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">En de taak <rhyme label="b" type="m">volbragt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Mag er wel een liedje op <rhyme label="a" type="m" corresp="#s2:l1">staan</rhyme>;</l>
+        <l id="s2:l4" met="3" type="+-">'t Klinkt zoo mooi bij <rhyme label="b" type="m" corresp="#s2:l2">nacht</rhyme>!</l>
+        <l id="s2:l5" met="4" type="+-">Open gaat er menig <rhyme label="c" type="m">raam</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Al de buurtjes scholen <rhyme label="c" type="m" corresp="#s2:l5">zaam</rhyme>;</l>
+        <l id="s2:l7" met="3" type="+-">Zingt nu rein en <rhyme label="b" type="m" corresp="#s2:l2">zacht</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Zingt vooreerst maar, hoe een <rhyme label="a" type="m">kind</rhyme></l>
+        <l id="s3:l2" met="3" type="+-">Leerzaam wordt en <rhyme label="b" type="m">zoet</rhyme>!</l>
+        <l id="s3:l3" met="4" type="+-">Dan een liedje, <rhyme label="a" type="m" corresp="#s3:l1">welbemind</rhyme>,</l>
+        <l id="s3:l4" met="3" type="+-">Van ‘Wien Neêrlandsch <rhyme label="b" type="m" corresp="#s3:l2">bloed</rhyme>!’</l>
+        <l id="s3:l5" met="4" type="+-">Dan hoe men zijne ouders <rhyme label="c" type="m">eer'</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">En hoe onze lieve <rhyme label="c" type="m" corresp="#s3:l5">Heer</rhyme></l>
+        <l id="s3:l7" met="3" type="+-">Magtig is en <rhyme label="b" type="m" corresp="#s3:l2">goed</rhyme>!</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Kindren! kijk! de maan schijnt <rhyme label="a" type="m">klaar</rhyme>:</l>
+        <l id="s4:l2" met="3" type="+-">Komt nu allen <rhyme label="b" type="m">hier</rhyme>!</l>
+        <l id="s4:l3" met="4" type="+-">Zingt eens lustig met <rhyme label="a" type="m" corresp="#s4:l1">elkaâr</rhyme>,</l>
+        <l id="s4:l4" met="3" type="+-">Zingt wat voor <rhyme label="b" type="m" corresp="#s4:l2">plêzier</rhyme>!</l>
+        <l id="s4:l5" met="4" type="+-">Spoedig roept de wacht: naar <rhyme label="c" type="m">bed</rhyme>!</l>
+        <l id="s4:l6" met="4" type="+-">Daarom zingt nu voor de <rhyme label="c" type="m" corresp="#s4:l5">pret</rhyme>,</l>
+        <l id="s4:l7" met="3" type="+-">Komt maar haastig <rhyme label="b" type="m" corresp="#s4:l2">hier</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

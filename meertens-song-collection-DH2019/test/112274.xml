@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>112274</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">BReng my veertjes, <rhyme label="a" type="m">Pluimgediert</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">'k Wil mee in de blaaren <rhyme label="b" type="f">woonen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Roosje, lang by my <rhyme label="a" type="m" corresp="#s1:l1">gevierd</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Verheugt zig als gy <rhyme label="a" type="m" corresp="#s1:l1">tiereliert</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Brengt veertjes, Vinkjes, ach! die <rhyme label="b" type="f" corresp="#s1:l2">schoone</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Schept ligt genoegen in myn <rhyme label="c" type="m">Lied</rhyme>.</l>
+        <l id="s1:l7" met="4" type="-+">Als ze op uwe lieve <rhyme label="b" type="f" corresp="#s1:l2">toonen</rhyme></l>
+        <l id="s1:l8" met="6" type="-+">Haar minnaar zingen hoort; en hem een Vinkje <rhyme label="c" type="m" corresp="#s1:l6">ziet</rhyme>,</l>
+      </lg>
+    </lg>
+  </text>
+</song>

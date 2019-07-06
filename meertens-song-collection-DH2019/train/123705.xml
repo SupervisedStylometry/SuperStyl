@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>123705</id>
+    <date>
+      <year-start>1841</year-start>
+      <year-end>1841</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="studentenlied" translation="student song">studentenlied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="groups">groepen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Alweêr een brief van de Leidsche <rhyme label="a" type="m">Post</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En die heeft mij alweêr zes stuivers <rhyme label="a" type="m" corresp="#s1:l1">gekost</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Zie dit, zie dat, zie <rhyme label="b" type="m">doo</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wat schrijft mij nu, mijn beste <rhyme label="a" type="m">vrind</rhyme>?</l>
+        <l id="s2:l2" met="4" type="-+">'t Is van mijn zoon, dat drommels <rhyme label="a" type="m" corresp="#s2:l1">kind</rhyme>!</l>
+        <l id="s2:l3" met="3" type="-+">Zie dit, zie dat, zie <rhyme label="b" type="m">doo</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wat heeft die jongen weêr <rhyme label="a" type="m">gedaan</rhyme>?</l>
+        <l id="s3:l2" met="4" type="-+">Hm! hij heeft de glazen in gaan <rhyme label="a" type="m" corresp="#s3:l1">slaan</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Zie dit, zie dat, zie <rhyme label="b" type="m">doo</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Op morgen zal ik te Leiden <rhyme label="a" type="m">zijn</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Al bij mijn zoon, dat dronke <rhyme label="a" type="m" corresp="#s4:l1">zwijn</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Zie dit, zie dat, zie <rhyme label="b" type="m">doo</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Wij allen zijn frisch en <rhyme label="a" type="m">gezond</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Maar gij, gij zijt een slechten <rhyme label="a" type="m" corresp="#s5:l1">hond</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Zie dit, zie dat, zie <rhyme label="b" type="m">doo</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Vraagt gij mij nog wat men van u <rhyme label="a" type="m">praat</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Leest wat in deez' missive <rhyme label="a" type="m" corresp="#s6:l1">staat</rhyme>,</l>
+        <l id="s6:l3" met="3" type="-+">Zie dit, zie dat, zie <rhyme label="b" type="m">doo</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">De studie en de negotie <rhyme label="a" type="m">zijn</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">Voor u als paarlen voor een <rhyme label="a" type="m" corresp="#s7:l1">zwijn</rhyme>,</l>
+        <l id="s7:l3" met="3" type="-+">Zie dit, zie dat, zie <rhyme label="b" type="m">doo</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Als gij mij beterschap <rhyme label="a" type="m">belooft</rhyme>,</l>
+        <l id="s8:l2" met="4" type="-+">Dan stel ik alles weêr uit 't <rhyme label="a" type="m" corresp="#s8:l1">hoofd</rhyme>,</l>
+        <l id="s8:l3" met="3" type="-+">Zie dit, zie dat, zie <rhyme label="b" type="m">doo</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Nu jongen! houdt maar u <rhyme label="a" type="m">fatsoen</rhyme>,</l>
+        <l id="s9:l2" met="4" type="-+">En wilt voortaan u best maar <rhyme label="a" type="m" corresp="#s9:l1">doen</rhyme>,</l>
+        <l id="s9:l3" met="3" type="-+">Zie dit, zie dat, zie <rhyme label="b" type="m">doo</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Dien ouden had mij in den <rhyme label="a" type="m">strik</rhyme>,</l>
+        <l id="s10:l2" met="4" type="-+">Kom gaauw een borrel voor den <rhyme label="a" type="m" corresp="#s10:l1">schrik</rhyme>,</l>
+        <l id="s10:l3" met="3" type="-+">Zie dit, zie dat, zie <rhyme label="b" type="m">doo</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8693</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">LIef, ach! soete <rhyme label="a" type="f">Harderinne</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Afgodesje van mijn <rhyme label="b" type="m">Ziel</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Dien ick als mijn hert <rhyme label="a" type="f" corresp="#s1:l1">beminne</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Soetert die my wel <rhyme label="b" type="m" corresp="#s1:l2">beviel</rhyme>:</l>
+        <l id="s1:l5" met="2" type="-+">Moet ick steedts <rhyme label="c" type="f">draghen</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Moet ick steedts <rhyme label="c" type="f" corresp="#s1:l5">draghen</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">U ongemeene <rhyme label="d" type="f">wrevelheden</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Schoon mijn leden, tot u <rhyme label="d" type="f" corresp="#s1:l7">treden</rhyme></l>
+        <l id="s1:l9" met="4" type="+-">In oetmoet, vaeck alle <rhyme label="c" type="f" corresp="#s1:l5">dagen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Segt my schoonste van de <rhyme label="a" type="f">reye</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Waerom ghy mijn soo <rhyme label="b" type="m">veracht</rhyme>?</l>
+        <l id="s2:l3" met="4" type="+-">Laet mijn bidde, laet mijn <rhyme label="a" type="f" corresp="#s2:l1">schreye</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Op u hebben soo veel <rhyme label="b" type="m" corresp="#s2:l2">kracht</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">Dat ick mach <rhyme label="c" type="f">horen</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">dat ick mach <rhyme label="c" type="f" corresp="#s2:l5">horen</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Wat my mis-staet, en niet naer u sin <rhyme label="d" type="f">is</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Maer dat is, ach Godin <rhyme label="d" type="f" corresp="#s2:l7">ist</rhyme></l>
+        <l id="s2:l9" met="4" type="+-">Dat gy't doet, siet ick sal't <rhyme label="c" type="f" corresp="#s2:l5">spooren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Stadigh naer u soet <rhyme label="a" type="f">gebieden</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Al mijn fauten af te <rhyme label="b" type="m">gaen</rhyme>:</l>
+        <l id="s3:l3" met="4" type="+-">Wilt dan niet meer voor my <rhyme label="a" type="f" corresp="#s3:l1">vlieden</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Hartje blijft een weynich <rhyme label="b" type="m" corresp="#s3:l2">staen</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">Laet dees u <rhyme label="c" type="f">Harder</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">laet dees u <rhyme label="c" type="f" corresp="#s3:l5">Harder</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Niet meer door Bos, noch berg en <rhyme label="d" type="f">dalen</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">Treurigh dwalen, Maer onthaelt hem liever <rhyme label="d" type="f" corresp="#s3:l7">sacht</rhyme>,</l>
+        <l id="s3:l9" met="4" type="+-">Soo raeckt hy <rhyme label="c" type="f" corresp="#s3:l5">varder</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

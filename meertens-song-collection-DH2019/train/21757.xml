@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21757</id>
+    <date>
+      <year-start>1580</year-start>
+      <year-end>1580</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 023 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Philips van Marnix</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">GOd is voorwaer mijn herder wel <rhyme label="a" type="f">ghetrouwe</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Dies vrees' ick niet dat m'eenich noot <rhyme label="a" type="f" corresp="#s1:l1">be-nouwe</rhyme>:</l>
+        <l id="s1:l3" met="5" type="-+">2. Hy leghert my op schoon' begraesde <rhyme label="b" type="f">weyden</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">End' sal my voort aen't stille water <rhyme label="b" type="f" corresp="#s1:l3">leyden</rhyme></l>
+        <l id="s1:l5" met="5" type="-+">3. Om sijns naems wil sal hy mijn siel <rhyme label="c" type="f">versaden</rhyme></l>
+        <l id="s1:l6" met="5" type="-+">End' voeren my op syne rechte <rhyme label="c" type="f" corresp="#s1:l5">paden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">* Al waer ick schoon int doncker dal <rhyme label="a" type="f">gheresen</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Van t'scheem des doots: ick soud' in gheen ancxt <rhyme label="a" type="f" corresp="#s2:l1">wesen</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Want du by my bist t'allen <rhyme label="b" type="f">ooghenblicken</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Dijn roed' end' staf sijn doch die my <rhyme label="b" type="f" corresp="#s2:l3">verquicken</rhyme>.</l>
+        <l id="s2:l5" met="5" type="-+">5. Du salt den disch my wel bereyt <rhyme label="c" type="f">voorstellen</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">Onder t'gesicht' der genen die my <rhyme label="c" type="f" corresp="#s2:l5">quellen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">* Seer goede salf' is my lancks t'hooft <rhyme label="a" type="f">ghevloten</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Du hebst mijn croes vol soeten drancks <rhyme label="a" type="f" corresp="#s3:l1">gegoten</rhyme>.</l>
+        <l id="s3:l3" met="5" type="-+">7. Het gae soo't wil: My sal altijts <rhyme label="b" type="f">aenkleuen</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Genaed' end' gunst, so lang' als ick sal <rhyme label="b" type="f" corresp="#s3:l3">leuen</rhyme>:</l>
+        <l id="s3:l5" met="5" type="-+">End' t'lustich huys des Heeren hoogh <rhyme label="c" type="f">ghepresen</rhyme></l>
+        <l id="s3:l6" met="5" type="-+">Sal eewelijck mijn vaste woonstadt <rhyme label="c" type="f" corresp="#s3:l5">wesen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

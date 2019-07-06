@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>114668</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">LAet ons Albertum loven <rhyme label="a" type="m">al</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Soo verheven in't tranen <rhyme label="a" type="m" corresp="#s1:l1">dal</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Sijn leven vol van alle <rhyme label="b" type="m">deught</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Wonderlijck hemel en aerd' heeft <rhyme label="b" type="m" corresp="#s1:l3">verheught</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Sijn stad ghestelt in grooten <rhyme label="a" type="m">noodt</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Hy versien heeft van wijn en <rhyme label="a" type="m" corresp="#s2:l1">broodt</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Door schepen, die door sijn <rhyme label="b" type="m">ghebedt</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Werden aen 't landt van den Heer <rhyme label="b" type="m" corresp="#s2:l3">gheset</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Veel menschen hy op 't droogh <rhyme label="a" type="m">ghestelt</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Heeft, vervoert door 't waters <rhyme label="a" type="m" corresp="#s3:l1">gheweldt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Die over den wijck-baren <rhyme label="b" type="m">vloedt</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Werden ghebrocht doen oock met drooghen <rhyme label="b" type="m" corresp="#s3:l3">voedt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Sijn doodt, te voren hem <rhyme label="a" type="m">voorseyt</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Van de clock van selfs is <rhyme label="a" type="m" corresp="#s4:l1">verbreyt</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">'Nen hemelschen geur 't lichaem <rhyme label="b" type="m">gaf</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">Waer het gheleyt mede is in het <rhyme label="b" type="m" corresp="#s4:l3">graf</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Dus m' om den zielen-dienst <rhyme label="a" type="m">verdacht</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Stont met reden, maer <rhyme label="a" type="m" corresp="#s5:l1">onverwacht</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Godts gheesten begosten de <rhyme label="b" type="m">Mis</rhyme></l>
+        <l id="s5:l4" met="5" type="-+">Aen de Belyders die toe gheschieckt <rhyme label="b" type="m" corresp="#s5:l3">is</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Die loven nu met soete <rhyme label="a" type="m">stem</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Godt den Heer, seer verblijt met <rhyme label="a" type="m" corresp="#s6:l1">hem</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Sijn aenschijn die hen daer <rhyme label="b" type="m">verthoont</rhyme>,</l>
+        <l id="s6:l4" met="5" type="-+">Waer hy de deught t' allen eeuwen me <rhyme label="b" type="m" corresp="#s6:l3">loont</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Staet ons, Alberte, daer nu <rhyme label="a" type="m">by</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">Op dat wy van smerten hier <rhyme label="a" type="m" corresp="#s7:l1">vry</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Ontgaen het onneyndich <rhyme label="b" type="m">verdriet</rhyme>,</l>
+        <l id="s7:l4" met="5" type="-+">Leven verheught met u in Godts <rhyme label="b" type="m" corresp="#s7:l3">gheniet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

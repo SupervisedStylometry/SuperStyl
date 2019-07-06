@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36172</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="tafellied" translation="dining song">tafellied</tag>
+    </tags>
+    <melody>Het is te Gent nu al verkeerd</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">SA lieve vrinden weest <rhyme label="a" type="m">verblydt</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">t'Is nu den tydt van <rhyme label="a" type="m" corresp="#s1:l1">vrolyckheydt</rhyme>;</l>
+        <l id="s1:l3" met="3" type="-+">Laet ons wat vroegh <rhyme label="b" type="f">beginnen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Om daer door meerder tydt te <rhyme label="b" type="f" corresp="#s1:l3">winnen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">'k Nem dit ghelasken in myn <rhyme label="a" type="m">handt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Ick sien het is aen my <rhyme label="a" type="m" corresp="#s2:l1">verpandt</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Ick wil het uyt gaen <rhyme label="b" type="f">drincken</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Om dat de spys sou beter <rhyme label="b" type="f" corresp="#s2:l3">sincken</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ick brengh't u eens myn goedt <rhyme label="a" type="m">ghebuer</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Waer om siet ghy op my soo <rhyme label="a" type="m" corresp="#s3:l1">stuer</rhyme>?</l>
+        <l id="s3:l3" met="3" type="-+">Heb ick iet quaets <rhyme label="b" type="f">bedreven</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Aen u? ach wil het my <rhyme label="b" type="f" corresp="#s3:l3">vergheven</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">'k Beken, ick heb quaelyck <rhyme label="a" type="m">ghedaen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Dat ick't soo langh heb laeten <rhyme label="a" type="m" corresp="#s4:l1">staen</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Ick salt <rhyme label="b" type="f">verdobbeleren</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Op dat uw' gramschap sou <rhyme label="b" type="f" corresp="#s4:l3">passeren</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Op uw' ghesontheydt myn <rhyme label="a" type="m">vrindin</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Moet nu dit wyntje suyver <rhyme label="a" type="m" corresp="#s5:l1">in</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Ick com het u eens <rhyme label="b" type="f">bringhen</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Om dat ghy soudt een Lietje <rhyme label="b" type="f" corresp="#s5:l3">singhen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

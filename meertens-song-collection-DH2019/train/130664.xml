@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>130664</id>
+    <date>
+      <year-start>1710</year-start>
+      <year-end>1710</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Tranquilles coeurs</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Myn Rozemond vertoont al 't <rhyme label="a" type="m">zoet</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Der lieve Lente op mond en <rhyme label="b" type="f">wangen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Nu zy mijn liefde en leven <rhyme label="a" type="m" corresp="#s1:l1">voed</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Schoon zy myn   zinnen houd <rhyme label="b" type="f" corresp="#s1:l2">gevangen</rhyme>.</l>
+        <l id="s1:l5" met="6" type="-+">Ik wensch dat mijne vlam, Als my haar mondje <rhyme label="c" type="m">kust</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Nooit werd geheel <rhyme label="c" type="m" corresp="#s1:l5">geblust</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Opregte liefde heeft geen <rhyme label="a" type="m">end</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Haar vlammen blijven eeuwig <rhyme label="b" type="f">blaken</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Hy die den aart der liefde <rhyme label="a" type="m" corresp="#s2:l1">kent</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Houd min voor 't opperste <rhyme label="b" type="f" corresp="#s2:l2">vermaaken</rhyme>.</l>
+        <l id="s2:l5" met="6" type="-+">Het hart, aan 't hart mijns liefs gehegt en vast <rhyme label="c" type="m">gesmeed</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Bemint in lief en <rhyme label="c" type="m" corresp="#s2:l5">leed</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">De roos, hoe geurig, teer en <rhyme label="a" type="m">zagt</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Moet voor mijn Rozemondje <rhyme label="b" type="f">zwigten</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Een zagt gemoed is 't hoogst <rhyme label="a" type="m" corresp="#s3:l1">geagt</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">Goedaardigheid straalt uit haar <rhyme label="b" type="f" corresp="#s3:l2">ligten</rhyme>:</l>
+        <l id="s3:l5" met="6" type="-+">Haar heldere oogen, steets twee zonnen van mijn <rhyme label="c" type="m">hart</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Genezen mijne <rhyme label="c" type="m" corresp="#s3:l5">smart</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Waar 't hart niet harder dan <rhyme label="a" type="m">metaal</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Zo 't zulk een Beeld niet kon <rhyme label="b" type="f">beminnen</rhyme>!</l>
+        <l id="s4:l3" met="4" type="-+">'t Mint alles, zelfs het steen en <rhyme label="a" type="m" corresp="#s4:l1">staal</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">De Min kan 't wreedste hart <rhyme label="b" type="f" corresp="#s4:l2">verwinnen</rhyme>:</l>
+        <l id="s4:l5" met="6" type="-+">Dies is een ziel, zo schoon, zo zagt, zo zoet van <rhyme label="c" type="m">aart</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Een trouwe liefde <rhyme label="c" type="m" corresp="#s4:l5">waard</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

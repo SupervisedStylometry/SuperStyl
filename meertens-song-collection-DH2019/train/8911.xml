@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8911</id>
+    <date>
+      <year-start>1625</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Wohl dem der in Gottes Furcht steht</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">VVEl hem die in Gods vreese <rhyme label="a" type="m">staet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En die op syne Weghen <rhyme label="a" type="m" corresp="#s1:l1">gaet</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Dijn selffs Handt dy gheneeren <rhyme label="b" type="m">sel</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">So leeft ghy recht, en t'gaet dy <rhyme label="b" type="m" corresp="#s1:l3">wel</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Dijn Wijff sal in dijn Huyse <rhyme label="a" type="m">zijn</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Als een Wijnstock vol Druyven <rhyme label="a" type="m" corresp="#s2:l1">fijn</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En dijne kinder om dijnen <rhyme label="b" type="m">Disch</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Als Oly planten gesont end <rhyme label="b" type="m" corresp="#s2:l3">frisch</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Siet so Rijck Segen hangt hem <rhyme label="a" type="m">aen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">So in Gods Vreese leeft een <rhyme label="a" type="m" corresp="#s3:l1">Man</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Van hem laet af den Vloeck en <rhyme label="b" type="m">Thoorn</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Den Menschen Kindren aen <rhyme label="b" type="m" corresp="#s3:l3">geboor'n</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Wt Zyon sal Godt seeg'nen <rhyme label="a" type="m">dy</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Dat ghy moecht schouwen staedich <rhyme label="a" type="m" corresp="#s4:l1">bly</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">T'geluck der Stadt <rhyme label="b" type="m">JErusalem</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Voor Godt in g'naden <rhyme label="b" type="m" corresp="#s4:l3">aenghenaem</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Bewaren sal Godt t'Leven <rhyme label="a" type="m">dijn</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Met syn Goetheyt so by dy <rhyme label="a" type="m" corresp="#s5:l1">zijn</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Dat ghy sult sien dijns Kindes <rhyme label="b" type="m">kindt</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">En dat Israel Vrede <rhyme label="b" type="m" corresp="#s5:l3">vindt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

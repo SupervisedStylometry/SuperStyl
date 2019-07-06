@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185321</id>
+    <date>
+      <year-start>1795</year-start>
+      <year-end>1795</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">'t Was in de <rhyme label="a" type="m">Morgenstond</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Dat Eliza door de <rhyme label="b" type="f">stroomen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Ontwaakte en haar Minnaar <rhyme label="a" type="m" corresp="#s1:l1">vond</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En hy dacht by haar te <rhyme label="b" type="f" corresp="#s1:l2">koomen</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Ach gy zoud gestadig <rhyme label="c" type="f">treuren</rhyme>!</l>
+        <l id="s1:l6" met="4" type="-+">Vaarwel Eliza ik gaa schep <rhyme label="d" type="m">moed</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Met u lieffelyke <rhyme label="d" type="m" corresp="#s1:l6">kleuren</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Dien ik nu verlaaten <rhyme label="d" type="m" corresp="#s1:l6">moet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Getroffen door zyn <rhyme label="a" type="m">klacht</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Sprak Eliza met schreijende <rhyme label="b" type="f">oogen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Hy die myn smert <rhyme label="a" type="m" corresp="#s2:l1">verzacht</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Dat is niet te <rhyme label="b" type="f" corresp="#s2:l2">gedoogen</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Gy wist hoe teeder ik u <rhyme label="c" type="f">beminde</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Helaas Coelyn bemind gy <rhyme label="d" type="m">niet</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Ach helaas zoo gy myn <rhyme label="d" type="m" corresp="#s2:l6">ontvliet</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Ik overleef de rampspoed <rhyme label="d" type="m" corresp="#s2:l6">niet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Terstond wierp deeze <rhyme label="a" type="m">Held</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Zyn Wapentuig ter <rhyme label="b" type="f">needer</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Eliza was niet min <rhyme label="a" type="m" corresp="#s3:l1">ontsteld</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Vloog in de armen van haar <rhyme label="b" type="f" corresp="#s3:l2">Held</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">En stryd vol moed als <rhyme label="c" type="f">Leegerknegten</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Steld u voor Eliza <rhyme label="d" type="m">bloot</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Maar verwacht geen andere <rhyme label="d" type="m" corresp="#s3:l6">dood</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">Als dan in Eliza's <rhyme label="d" type="m" corresp="#s3:l6">schoot</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

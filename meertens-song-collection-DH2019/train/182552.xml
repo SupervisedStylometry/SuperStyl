@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182552</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Je suis Lindor</melody>
+  <author>Hendrik Riemsnijder</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Gelyk het vogt, met droppels by <rhyme label="a" type="f">elkander</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Door eene Beek word vlietende <rhyme label="b" type="m">afgeleidt</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Zoo volgt ook steeds in 't meir der <rhyme label="b" type="m" corresp="#s1:l2">eeuwigheid</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Onöpgemerkt, 't eene oogenblik het <rhyme label="a" type="f" corresp="#s1:l1">ander</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Het grootst genot, de Tyd, is niet te <rhyme label="a" type="f">ontbeeren</rhyme>.</l>
+        <l id="s2:l2" met="5" type="-+">En o! hoe snel verdwynt die tyd, hoe <rhyme label="b" type="m">ras</rhyme>!</l>
+        <l id="s2:l3" met="5" type="-+">Het oogenblik, dat thans aanweezend <rhyme label="b" type="m" corresp="#s2:l2">was</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Is thans reeds weg, en zal nooit <rhyme label="a" type="f" corresp="#s2:l1">wederkeeren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Van welk belang, van welke onschatbre <rhyme label="a" type="f">waarde</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">Moet dus den mensch elk oogenblik niet <rhyme label="b" type="m">zyn</rhyme>!</l>
+        <l id="s3:l3" met="5" type="-+">Verliest hy dien in nutteloozen <rhyme label="b" type="m" corresp="#s3:l2">schyn</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Hy vindt zyn' schaê door niets geboet op <rhyme label="a" type="f" corresp="#s3:l1">aarde</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">O, hoe veel tyd, door yd'len lust <rhyme label="a" type="f">gedreeven</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Verkwistte ik reeds! die stonden zyn <rhyme label="b" type="m">voorby</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">Dat nu voortaan elk uur my dierbaar <rhyme label="b" type="m" corresp="#s4:l2">zy</rhyme>!</l>
+        <l id="s4:l4" met="5" type="-+">Weg poppespel! 'k wil niet als kind meer <rhyme label="a" type="f" corresp="#s4:l1">leeven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

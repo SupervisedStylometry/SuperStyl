@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175086</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Of er de wind ook uw webbetje <rhyme label="a" type="m">scheurt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Of er een hommel doorhenen komt <rhyme label="b" type="f">strijken</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">En of het nogeens en nogeens <rhyme label="a" type="m" corresp="#s1:l1">gebeurt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Spinnetje! nooit zit ge lustloos te <rhyme label="b" type="f" corresp="#s1:l2">kijken</rhyme>: -</l>
+        <l id="s1:l5" met="4" type="+-">‘'t Wordt niet weêr heel, of men pruttelt of <rhyme label="a" type="m" corresp="#s1:l1">treurt</rhyme>!’</l>
+        <l id="s1:l6" met="4" type="+-">Denkt gij, en tijgt maar weêr pootig aan 't <rhyme label="c" type="m">werk</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">En maakt uw webbetje dubbel zoo <rhyme label="c" type="m" corresp="#s1:l6">sterk</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Hoor eens, ik woû, dat Ik altijd zóó <rhyme label="a" type="m">was</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Wierd soms mijn arbeid bevlekt of <rhyme label="b" type="f">bedorven</rhyme>.....</l>
+        <l id="s2:l3" met="4" type="-+">Dat ik zoo lustig, zoo handig, zoo <rhyme label="a" type="m" corresp="#s2:l1">ras</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Maar weêr verhielp, wat een aêr had <rhyme label="b" type="f" corresp="#s2:l2">verkorven</rhyme>;</l>
+        <l id="s2:l5" met="4" type="+-">Waarlijk, uw voorbeeld dat komt me te <rhyme label="a" type="m" corresp="#s2:l1">pas</rhyme>....</l>
+        <l id="s2:l6" met="4" type="+-">'t Blijkt weêr: er is toch zoo leelijk geen <rhyme label="c" type="m">beest</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Of 't is wel ergens nog nut voor <rhyme label="c" type="m" corresp="#s2:l6">geweest</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

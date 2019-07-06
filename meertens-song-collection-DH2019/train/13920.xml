@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13920</id>
+    <date>
+      <year-start>1646</year-start>
+      <year-end>1646</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+    </tags>
+    <melody>Ach schone Cariclea</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">LUsinde, schoonste <rhyme label="a" type="m">Schoon</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Hoe brandt mijn Hartje door de soete <rhyme label="b" type="m">min</rhyme>?</l>
+        <l id="s1:l3" met="3" type="-+">Ach! waer ick waerdt het <rhyme label="a" type="m" corresp="#s1:l1">loon</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Dat ghy nu weergadeloose <rhyme label="b" type="m" corresp="#s1:l2">Harderin</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Op my liet dalen ‘t <rhyme label="c" type="m">Minnend’-oogh</rhyme>.</l>
+        <l id="s1:l6" met="4" type="-+">Hou Harder! zwijght, ghy stijght te <rhyme label="c" type="m" corresp="#s1:l5">hoogh</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Naebootsend’ soet <rhyme label="a" type="m">gheluydt</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Ick stijgh te hoogh, maer lacy, ach! ick <rhyme label="b" type="m">brand</rhyme>.</l>
+        <l id="s2:l3" met="3" type="-+">Ach! spreeckt vry u meyningh <rhyme label="a" type="m" corresp="#s2:l1">uyt</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">En aest nu mijn grage Ziel door u <rhyme label="b" type="m" corresp="#s2:l2">verstand</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">En seght of ick haer minnen minnen <rhyme label="c" type="m">sel</rhyme>.</l>
+        <l id="s2:l6" met="4" type="-+">Bemind haer trouw, ghy wint haer <rhyme label="c" type="m" corresp="#s2:l5">wel</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Volvoert dan vry u <rhyme label="a" type="m">Min</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">Nu dat ghy Minnaer wert door deught <rhyme label="b" type="m">verheught</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">V min ick steedts <rhyme label="a" type="m" corresp="#s3:l1">Goddin</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">En houde u altijdt voor mijn hooghste <rhyme label="b" type="m" corresp="#s3:l2">vreught</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">Ach! spreeckt noch eens tot een <rhyme label="c" type="m">besluyt</rhyme>.</l>
+        <l id="s3:l6" met="4" type="-+">Lusinde werdt u eyghen <rhyme label="c" type="m" corresp="#s3:l5">Bruydt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

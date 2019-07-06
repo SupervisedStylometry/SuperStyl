@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>9998</id>
+    <date>
+      <year-start>1649</year-start>
+      <year-end>1649</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Quand je tiens ma chère bouteille</melody>
+  <author>Isaak A. van Vaerlen en Jan Jansz. van Asten</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ALs ick krijgh mijn beminde <rhyme label="a" type="f">Glaesje</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">toon ick my een geestigh <rhyme label="a" type="f" corresp="#s1:l1">baesje</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Vrienden doet ghelijck als <rhyme label="b" type="m">ick</rhyme>,</l>
+        <l id="s1:l4" met="6" type="+-">siet hoe ick my aerdigh <rhyme label="b" type="m" corresp="#s1:l3">schick</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">want ick 't lick schoontjes in een <rhyme label="b" type="m" corresp="#s1:l3">oogenblick</rhyme></l>
+        <l id="s1:l6" met="5" type="+-">Schencker schenkt den Wijn voor dorstigh <rhyme label="a" type="f" corresp="#s1:l1">klaesje</rhyme>:</l>
+        <l id="s1:l7" met="4" type="+-">Want hy set me voet by 't <rhyme label="b" type="m" corresp="#s1:l3">stick</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Niet soo soet, noch niet <rhyme label="a" type="f">aengenamer</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Jupiter heeft gheen <rhyme label="a" type="f" corresp="#s2:l1">bequamer</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Goden-dranck, noch <rhyme label="b" type="m">Hemel-spijs</rhyme></l>
+        <l id="s2:l4" met="6" type="+-">In zijn Heerlijck Pardijs: tot <rhyme label="b" type="m" corresp="#s2:l3">bewijs</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">(Om te stercken mijn <rhyme label="b" type="m" corresp="#s2:l3">advijs</rhyme>,</l>
+        <l id="s2:l6" met="5" type="+-">Tart ick al de Goen, in onse <rhyme label="a" type="f" corresp="#s2:l1">Kamer</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">Een te drincken om den <rhyme label="b" type="m" corresp="#s2:l3">Prijs</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

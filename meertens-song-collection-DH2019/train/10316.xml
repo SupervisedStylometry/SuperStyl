@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10316</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Quittez quittez vos campagnes</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Ooghjes, schiet niet uyt u <rhyme label="a" type="f">booghjes</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Spaart dat al te vinnigh <rhyme label="b" type="m">schicht</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">V in u soet <rhyme label="b" type="m" corresp="#s1:l2">gesicht</rhyme>,</l>
+        <l id="s1:l4" met="6" type="+-">Hout u lonckjes in den toom soetste <rhyme label="c" type="f">ooghjes</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Of ick brandt van al u <rhyme label="b" type="m" corresp="#s1:l2">licht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">'t Sijn geen pijltjes van het <rhyme label="a" type="f">wichje</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">'t Is geen dartel <rhyme label="b" type="m">minne-schicht</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">Dat de vlam me <rhyme label="b" type="m" corresp="#s2:l2">sticht</rhyme>,</l>
+        <l id="s2:l4" met="6" type="+-">'t Sijn de pijltjes van u boogh soetste <rhyme label="c" type="f">ooghjes</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Daar mijn hart van brand soo <rhyme label="b" type="m" corresp="#s2:l2">licht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Sult ghy dan met uwe <rhyme label="a" type="f">viertjes</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Al bederven wat ghy <rhyme label="b" type="m">siet</rhyme>?</l>
+        <l id="s3:l3" met="3" type="+-">Spaart u minnaer <rhyme label="b" type="m" corresp="#s3:l2">niet</rhyme>,</l>
+        <l id="s3:l4" met="6" type="+-">Is dat u besluyt? vaar voort soetste <rhyme label="c" type="f">ooghjes</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Soo vol-end ghy mijn <rhyme label="b" type="m" corresp="#s3:l2">verdriet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Ooghjes, schiet dan uyt u <rhyme label="a" type="f">booghjes</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Spaart geen al te vinnig <rhyme label="b" type="m">schicht</rhyme></l>
+        <l id="s4:l3" met="3" type="+-">Van u soet <rhyme label="b" type="m" corresp="#s4:l2">gesicht</rhyme>,</l>
+        <l id="s4:l4" met="6" type="+-">Hout geen lonckjes in den toom soetste <rhyme label="c" type="f">ooghjes</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">Soo verbrand ick van u <rhyme label="b" type="m" corresp="#s4:l2">licht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

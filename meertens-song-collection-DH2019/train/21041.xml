@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21041</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
+      <tag standard-name="moralistisch lied" translation="moralistic song">moralistisch lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jan Zoet</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">HOovaardy mishaagt den <rhyme label="a" type="f">Hemel</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Brengt Gods tooren op ons <rhyme label="b" type="m">hooft</rhyme>.</l>
+        <l id="s1:l3" met="4" type="+-">En ons waarde ziel <rhyme label="b" type="m" corresp="#s1:l2">verdooft</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Door die sond in 't aartsch <rhyme label="a" type="f" corresp="#s1:l1">gewemel</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">'t Is een quaad dat God wil <rhyme label="a" type="f">straffen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Wen wy 't niet vlugh van ons <rhyme label="b" type="m">doen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">En de need'righeyt <rhyme label="b" type="m" corresp="#s2:l2">bevroên</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Sal het ons veel ramp <rhyme label="a" type="f" corresp="#s2:l1">verschaffen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Boven speurt u oogh het <rhyme label="a" type="f">weesen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">En den aart, van dit <rhyme label="b" type="m">gedrocht</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">'t Geen zoo veel op ons <rhyme label="b" type="m" corresp="#s3:l2">vermocht</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">En ons harte kon <rhyme label="a" type="f" corresp="#s3:l1">beleesen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Dunkt u niet nu <rhyme label="a" type="f">d'eygenschappen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Van dit Beest, u zijn <rhyme label="b" type="m">bewust</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Dat ghy 't met een <rhyme label="b" type="m" corresp="#s4:l2">yverlust</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Vlieu sult, en met voeten <rhyme label="a" type="f" corresp="#s4:l1">trappen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">'k Meen, ghy sult met my <rhyme label="a" type="f">bestemmen</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Dat ghy 't Monster schuwen <rhyme label="b" type="m">wilt</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Eer het u aan 't harte <rhyme label="b" type="m" corresp="#s5:l2">kilt</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">En u ziele komt <rhyme label="a" type="f" corresp="#s5:l1">beklemmen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Wel, laat ons dit Monster <rhyme label="a" type="f">haten</rhyme>,</l>
+        <l id="s6:l2" met="4" type="+-">Dat ons soo veel hinder <rhyme label="b" type="m">doet</rhyme>,</l>
+        <l id="s6:l3" met="4" type="+-">En ons Godes gramschap <rhyme label="b" type="m" corresp="#s6:l2">voet</rhyme>,</l>
+        <l id="s6:l4" met="4" type="+-">Zoo sal God ons noyt <rhyme label="a" type="f" corresp="#s6:l1">verlaten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111214</id>
+    <date>
+      <year-start>1785</year-start>
+      <year-end>1785</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Hoe lieflijk is het jagen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Als ik eens koom te <rhyme label="a" type="f">trouwen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Met die geen dien ik <rhyme label="b" type="m">min</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Ik zal haar in waarde <rhyme label="a" type="f" corresp="#s1:l1">houwen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Want zy is naar myn <rhyme label="b" type="m" corresp="#s1:l2">zin</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Zy is zo schoon als <rhyme label="c" type="f">teeder</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">En zy lonkt met haar <rhyme label="d" type="m">oog</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Bemind zy myn maar <rhyme label="c" type="f" corresp="#s1:l5">weder</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Dan ryst geluk heel <rhyme label="d" type="m" corresp="#s1:l6">hoog</rhyme>.</l>
+        <l id="s1:l9" met="2" type="-+">Heel hoog, heel <rhyme label="d" type="m" corresp="#s1:l6">hoog</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ik gaan dikmaals <rhyme label="a" type="f">passeeren</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">de gragt al daar zy <rhyme label="b" type="m">woont</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Zy kan myn vreugt <rhyme label="a" type="f" corresp="#s2:l1">vermeeren</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Zo zy haar dikmaals <rhyme label="b" type="m" corresp="#s2:l2">toont</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Zy kan myn heyl <rhyme label="c" type="f">vermaaken</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Zo zy myn waardig <rhyme label="d" type="m">agt</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Om myn haar man te <rhyme label="c" type="f" corresp="#s2:l5">maaken</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">dan is myn wensch <rhyme label="d" type="m" corresp="#s2:l6">volbragt</rhyme>.</l>
+        <l id="s2:l9" met="2" type="-+">Volbragt, <rhyme label="d" type="m" corresp="#s2:l6">volbragt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Ik zal het zingen <rhyme label="a" type="f">staaken</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">En wagten tot dat <rhyme label="b" type="m">ik</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">de vreugt daar van kan <rhyme label="a" type="f" corresp="#s3:l1">smaaken</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Want yder <rhyme label="b" type="m" corresp="#s3:l2">oogenblik</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">dat ik alleen moet <rhyme label="c" type="f">leeven</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Schynt myn gewis een <rhyme label="d" type="m">jaar</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Ik zal myn maar <rhyme label="c" type="f" corresp="#s3:l5">begeeven</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">In 't Huwelyk met <rhyme label="d" type="m" corresp="#s3:l6">haar</rhyme>.</l>
+        <l id="s3:l9" met="2" type="-+">Met haar, met <rhyme label="d" type="m" corresp="#s3:l6">haar</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

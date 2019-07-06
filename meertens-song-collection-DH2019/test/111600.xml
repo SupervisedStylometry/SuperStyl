@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111600</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Wanneer de zon het morgenrood</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ô VRyheid, die een langen <rhyme label="a" type="m">Tyd</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Als Balling om moest <rhyme label="b" type="f">swerven</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Aan u word weer myn Hert <rhyme label="a" type="m" corresp="#s1:l1">gewyd</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Schoon ik u lang moest <rhyme label="b" type="f" corresp="#s1:l2">derven</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Ik zie u nog in 't eynde <rhyme label="c" type="m">weer</rhyme>.</l>
+        <l id="s1:l6" met="4" type="-+">O Vryheid! nu ik <rhyme label="c" type="m" corresp="#s1:l5">wederkeer</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Van 't sporelose <rhyme label="d" type="f">Minnen</rhyme>:</l>
+        <l id="s1:l8" met="4" type="-+">Nu my u helder-schitt'rend <rhyme label="e" type="m">ligt</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Beschynd, verheldert myn <rhyme label="e" type="m" corresp="#s1:l8">gesigt</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">En ik voel Vreugd van <rhyme label="d" type="f" corresp="#s1:l7">bin...nen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Een Schipper in een swaar <rhyme label="a" type="m">tempeest</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">En tomeloose <rhyme label="b" type="f">winden</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Is stadig voor de Dood <rhyme label="a" type="m" corresp="#s2:l1">bevreest</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Kan nergens uytkomst <rhyme label="b" type="f" corresp="#s2:l2">vinden</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Maar ziet hy weer zyn eygen <rhyme label="c" type="m">Kust</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Geniet hy wederom de <rhyme label="c" type="m" corresp="#s2:l5">rust</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">De Rust kan hem <rhyme label="d" type="f">bekoren</rhyme>.</l>
+        <l id="s2:l8" met="4" type="-+">Dus vind ik my bevryd van <rhyme label="e" type="m">Rouw</rhyme>:</l>
+        <l id="s2:l9" met="4" type="-+">Nu ik uw Aanschyn weer <rhyme label="e" type="m" corresp="#s2:l8">aanschouw</rhyme>,</l>
+        <l id="s2:l10" met="3" type="-+">Zie ik myn Vreugd <rhyme label="d" type="f" corresp="#s2:l7">gebo...ren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

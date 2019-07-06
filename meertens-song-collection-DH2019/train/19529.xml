@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19529</id>
+    <date>
+      <year-start>1677</year-start>
+      <year-end>1677</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Nadien uw goddelijkheid</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">NEptunus is <rhyme label="a" type="m">verheucht</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">En Thetis springt van <rhyme label="a" type="m" corresp="#s1:l1">vreucht</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">De Nymphen en <rhyme label="b" type="f">Najaden</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Die komen cier'lijck <rhyme label="c" type="m">voort</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">In alsulcke <rhyme label="b" type="f" corresp="#s1:l3">gewaden</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Als het nu wel <rhyme label="c" type="m" corresp="#s1:l4">behoort</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">En Hymen als een <rhyme label="a" type="m">man</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Die steeckt de tortsen <rhyme label="a" type="m" corresp="#s2:l1">an</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">En ciert de <rhyme label="b" type="f">Bruylofts-kamer</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Pan laet sijn Fluytjen <rhyme label="c" type="m">gaen</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Nu veel <rhyme label="b" type="f" corresp="#s2:l3">aengenamer</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Als hy wel heeft <rhyme label="c" type="m" corresp="#s2:l4">gedaen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Juffertjen soete <rhyme label="a" type="m">sus</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Ick moet een met een <rhyme label="a" type="m" corresp="#s3:l1">kus</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Op uwe lipjens <rhyme label="b" type="f">stranden</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">De Bruygom gaet ons <rhyme label="c" type="m">voor</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Tsa, tsa tsa vat de <rhyme label="b" type="f" corresp="#s3:l3">handen</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Volght hem op het <rhyme label="c" type="m" corresp="#s3:l4">spoor</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Bruydegom, tot <rhyme label="a" type="m">besluyt</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Wy laten u de <rhyme label="a" type="m" corresp="#s4:l1">Bruyt</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Ghy sult het t'saem wel <rhyme label="b" type="f">klaren</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Keeren wy na de <rhyme label="c" type="m">Zael</rhyme>;</l>
+        <l id="s4:l5" met="3" type="-+">Ey! laet sien hoe <rhyme label="b" type="f" corresp="#s4:l3">varen</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Dees Roemers <rhyme label="c" type="m" corresp="#s4:l4">al-te-mael</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Ick vatter eentjen <rhyme label="a" type="m">an</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Hey! waer is de <rhyme label="a" type="m" corresp="#s5:l1">kan</rhyme>?</l>
+        <l id="s5:l3" met="3" type="-+">Cameraet het sal u <rhyme label="b" type="f">gelden</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Ick brenght u schoontjens <rhyme label="c" type="m">uyt</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">En dat op de <rhyme label="b" type="f" corresp="#s5:l3">gesontheyt</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Van Bruygom ende <rhyme label="c" type="m" corresp="#s5:l4">Bruyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

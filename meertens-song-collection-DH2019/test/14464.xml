@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14464</id>
+    <date>
+      <year-start>1638</year-start>
+      <year-end>1638</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+    </tags>
+    <melody>Maria rein zuivere fontein</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Maria reyn // suyver <rhyme label="a" type="m">fonteyn</rhyme>.</l>
+        <l id="s1:l2" met="4" type="+-">Wy uw' arreme dienaers <rhyme label="a" type="m" corresp="#s1:l1">kleyn</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Wy uw' arreme dienaers <rhyme label="a" type="m" corresp="#s1:l1">kleyn</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Bidden u al om <rhyme label="b" type="f">ghenaden</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Dat ghy ons wilt komen te <rhyme label="b" type="f" corresp="#s1:l4">stade</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">By uwen Soon in 't Hemels <rhyme label="a" type="m" corresp="#s1:l1">pleyn</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">By uwen Soon in 't Hemels <rhyme label="a" type="m" corresp="#s1:l1">pleyn</rhyme>:</l>
+        <l id="s1:l8" met="3" type="+-">Daer ghy nu <rhyme label="c" type="m">regneert</rhyme>,</l>
+        <l id="s1:l9" met="6" type="+-">Seer hoogh gheeert, glorieert, <rhyme label="c" type="m" corresp="#s1:l8">triumpheert</rhyme> //</l>
+        <l id="s1:l10" met="3" type="-+">Onsen lof oock <rhyme label="c" type="m" corresp="#s1:l8">vermeert</rhyme> //</l>
+        <l id="s1:l11" met="4" type="-+">Die wij u gheven <rhyme label="c" type="m" corresp="#s1:l8">onghecesseert</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

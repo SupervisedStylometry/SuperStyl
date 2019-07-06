@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111464</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Réveillez-vous belle endormie</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MOet ik helaas! dan dus <rhyme label="a" type="f">verkwynen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Door al myn Jammer en <rhyme label="b" type="m">Elend</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Sal ik dan van myn Smert, en <rhyme label="a" type="f" corresp="#s1:l1">Pynen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">In eeuwigheyd nooyt zien het <rhyme label="b" type="m" corresp="#s1:l2">end</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Waarom houd' ik met zoo veel <rhyme label="a" type="f">sorgen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Dog voor myn Philis, myn <rhyme label="b" type="m">Godin</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Myn al te trouwe min <rhyme label="a" type="f" corresp="#s2:l1">verborgen</rhyme>?</l>
+        <l id="s2:l4" met="4" type="-+">Sal zy nooit weeten dat 'k haar <rhyme label="b" type="m" corresp="#s2:l2">min</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">ô Ja! Myn Engelin zal <rhyme label="a" type="f">weeten</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Dat zy door haar <rhyme label="b" type="m">Bekoorlykhe'en</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Myn Hert, en Sin lang heeft <rhyme label="a" type="f" corresp="#s3:l1">bezeeten</rhyme>:</l>
+        <l id="s3:l4" met="4" type="-+">Ik Leef, en Sterf voor haar <rhyme label="b" type="m" corresp="#s3:l2">alleen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Waar toe dient my dit angstig <rhyme label="a" type="f">schromen</rhyme>?</l>
+        <l id="s4:l2" met="4" type="-+">Ik zoek verlichting in myn <rhyme label="b" type="m">Smert</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Die reeds al is in top <rhyme label="a" type="f" corresp="#s4:l1">gekomen</rhyme>:</l>
+        <l id="s4:l4" met="4" type="-+">Ligt dat zy eens bewoogen <rhyme label="b" type="m" corresp="#s4:l2">wert</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Want in een Lichaam zo vol <rhyme label="a" type="f">gaven</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Dunkt het my een <rhyme label="b" type="m">onmoog'lykheyd</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Dat daar een Ziel in is <rhyme label="a" type="f" corresp="#s5:l1">begraven</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Zoo vol van <rhyme label="b" type="m" corresp="#s5:l2">ongevoeligheyd</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Wel aan ik staak voortaan myn <rhyme label="a" type="f">klagen</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">My dunkt ik zy door Phillis <rhyme label="b" type="m">min</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Al myn voorgaande leed <rhyme label="a" type="f" corresp="#s6:l1">verjagen</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">En heel verbannen uyt myn <rhyme label="b" type="m" corresp="#s6:l2">sin</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

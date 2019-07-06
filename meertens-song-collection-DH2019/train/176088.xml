@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176088</id>
+    <date>
+      <year-start>1640</year-start>
+      <year-end>1640</year-end>
+    </date>
+    <location>
+      <orginal-name>deventer</orginal-name>
+      <standard-name>Deventer, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.2532272</lon>
+        <lat>6.1584725</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 093 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacobus Revius</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">DE Heere heerscht met hoocheyt <rhyme label="a" type="m">overcleedt</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Met macht omgordt hy op de wolcken <rhyme label="a" type="m" corresp="#s1:l1">treedt</rhyme>.</l>
+        <l id="s1:l3" met="5" type="-+">Hy heeft soo vast gesett de werelt <rhyme label="b" type="m">ront</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Dat nimmermeer sy wijct van haren <rhyme label="b" type="m" corresp="#s1:l3">gront</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Van die tijt af is uwen throon <rhyme label="a" type="m">bereydt</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Ghy zijt en blijft in alle <rhyme label="a" type="m" corresp="#s2:l1">eeuwicheyt</rhyme>.</l>
+        <l id="s2:l3" met="5" type="-+">De stromen, Heer, de stromen met <rhyme label="b" type="m">geruys</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Haer geven op, en maken groot <rhyme label="b" type="m" corresp="#s2:l3">gedruys</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Doch of de see schoon steygert ende <rhyme label="a" type="m">woelt</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">En watse raeckt met cracht om-verre <rhyme label="a" type="m" corresp="#s3:l1">spoelt</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Noch is de Heer, de Heer van <rhyme label="b" type="m">hemelrijck</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Veel stercker, en geen schepsel hem <rhyme label="b" type="m" corresp="#s3:l3">gelijck</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">V tuygenis waerachtich is en <rhyme label="a" type="m">trou</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">En van u huys het wonderlijck <rhyme label="a" type="m" corresp="#s4:l1">gebou</rhyme></l>
+        <l id="s4:l3" met="5" type="-+">Gecieret is met rechte <rhyme label="b" type="m">heylicheyt</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">Die eeuwichlijck daer van niet af en <rhyme label="b" type="m" corresp="#s4:l3">scheydt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

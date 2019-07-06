@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>123663</id>
+    <date>
+      <year-start>1841</year-start>
+      <year-end>1841</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="avondlied" translation="evening song">avondlied</tag>
+    </tags>
+    <melody>Als de nacht met stille rust</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Als de nacht in stille <rhyme label="a" type="m">rust</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">Den moeden schenkt <rhyme label="b" type="f">belooning</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">IJl ik van vreugd mij naauw <rhyme label="a" type="m" corresp="#s1:l1">bewust</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Naar mijn' meisjes <rhyme label="b" type="f" corresp="#s1:l2">woning</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Wensch haar dan te <rhyme label="c" type="m">middernacht</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Een geruste en goede <rhyme label="c" type="m" corresp="#s1:l5">nacht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Slaap, geliefde! <rhyme label="a" type="m">ongestoord</rhyme>,</l>
+        <l id="s2:l2" met="3" type="+-">Vrij van angst'ge <rhyme label="b" type="f">zorgen</rhyme>.</l>
+        <l id="s2:l3" met="4" type="+-">Dure uw slaap gerust lijk <rhyme label="a" type="m" corresp="#s2:l1">voort</rhyme>,</l>
+        <l id="s2:l4" met="3" type="+-">Tot den and'ren <rhyme label="b" type="f" corresp="#s2:l2">morgen</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">In mijn droom, geloof mij <rhyme label="c" type="m">vrij</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">In mij steeds uw beeld'nis <rhyme label="c" type="m" corresp="#s2:l5">bij</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Als ik aan den <rhyme label="a" type="m">hemelboog</rhyme></l>
+        <l id="s3:l2" met="3" type="+-">'t Sterrenheer zie <rhyme label="b" type="f">pronken</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">En ik dan mijn meisjes <rhyme label="a" type="m" corresp="#s3:l1">oog</rhyme></l>
+        <l id="s3:l4" met="3" type="+-">Liefdevol zie <rhyme label="b" type="f" corresp="#s3:l2">lonken</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">En een kusje nog <rhyme label="c" type="m">geplukt</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Hart en mond en ziel <rhyme label="c" type="m" corresp="#s3:l5">verrukt</rhyme>....</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">O! dan ga ik vrolijk <rhyme label="a" type="m">heen</rhyme>,</l>
+        <l id="s4:l2" met="3" type="+-">En keer naar mijn <rhyme label="b" type="f">woning</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Vergenoegd en wel te <rhyme label="a" type="m" corresp="#s4:l1">vreén</rhyme>,</l>
+        <l id="s4:l4" met="3" type="+-">Rijker als een <rhyme label="b" type="f" corresp="#s4:l2">koning</rhyme>.</l>
+        <l id="s4:l5" met="4" type="+-">Zijne schatten, aanzien, <rhyme label="c" type="m">magt</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Ruilde ik niet voor dezen <rhyme label="c" type="m" corresp="#s4:l5">nacht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

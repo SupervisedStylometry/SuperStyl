@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8682</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Amarilli mia bella</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">AMarilli mijn <rhyme label="a" type="f">schoone</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Mijn 's hartsen lieven <rhyme label="b" type="m">lust</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Gy kond <rhyme label="c" type="f">bevinde</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Dat ick ben u <rhyme label="c" type="f" corresp="#s1:l3">beminde</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Gelooft het <rhyme label="d" type="m">vry</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Maer komt u vrees <rhyme label="e" type="f">bespringen</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Wilt doch dees Pijlen <rhyme label="e" type="f" corresp="#s1:l6">dwingen</rhyme>:</l>
+        <l id="s1:l8" met="5" type="-+">Opent mijn hert, geschreve sult gy <rhyme label="c" type="f" corresp="#s1:l3">vinden</rhyme></l>
+        <l id="s1:l9" met="4" type="+-">Amarilli, Amarilli, Amarilli, <rhyme label="f" type="f">mijn</rhyme></l>
+        <l id="s1:l10" met="4" type="+-"><rhyme label="c" type="f" corresp="#s1:l3">beminde</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

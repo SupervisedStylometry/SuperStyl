@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>116310</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>deventer</orginal-name>
+      <standard-name>Deventer, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.2532272</lon>
+        <lat>6.1584725</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Lofzang van Simeon [Datheen]</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Willem Sluiter</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">NU laet ghy, Heer, <rhyme label="a" type="m">voortaen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Uw dienst-knecht vrolik <rhyme label="a" type="m" corresp="#s1:l1">gaen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Na uw beloft', in <rhyme label="b" type="f">vrede</rhyme>.</l>
+        <l id="s1:l4" met="3" type="-+">Verinits uw <rhyme label="c" type="m">Saligheyt</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Nu hebben met <rhyme label="c" type="m" corresp="#s1:l4">bescheyt</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Gesien mijn oogen <rhyme label="b" type="f" corresp="#s1:l3">rede</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Die ghy voort 't aensicht <rhyme label="a" type="m">klaer</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Der volken <rhyme label="a" type="m" corresp="#s2:l1">allegaer</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Dus hebt bereydt, ô <rhyme label="b" type="f">Heere</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Der Heyd'nen licht en <rhyme label="c" type="m">glans</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Maer boven-al <rhyme label="c" type="m" corresp="#s2:l4">nochtans</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Uws volks Israëls <rhyme label="b" type="f" corresp="#s2:l3">eere</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

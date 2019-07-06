@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34148</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Schone Cato</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Petrus Suetmans, Eustachius de Meyer</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Oorsaeck der vreuchden, ghy nachten soo <rhyme label="a" type="m">stil</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Voedt onse jeuchden, in ons lust, en <rhyme label="a" type="m" corresp="#s1:l1">wil</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Liefste verheven, aen-hoort myne <rhyme label="b" type="m">klacht</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Eer ick begheve door de liefdens <rhyme label="b" type="m" corresp="#s1:l3">kracht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O schoon Aurore, klaeren <rhyme label="a" type="m">daegheraet</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Komt ons niet stooren, in ons soet <rhyme label="a" type="m" corresp="#s2:l1">ghepraet</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Liefste Amaranthe, aen-hoort myn <rhyme label="b" type="m">ghesucht</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Eer ghy van kante, van u dienaer <rhyme label="b" type="m" corresp="#s2:l3">vlucht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">En ghy Diane, die ons liefde <rhyme label="a" type="m">siet</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Klaer licht der Maene, en verstoort ons <rhyme label="a" type="m" corresp="#s3:l1">niet</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Liefste Amaranthe, en laet niet <rhyme label="b" type="m">gheschien</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Dat ick van kante sonder troost gaen <rhyme label="b" type="m" corresp="#s3:l3">vlien</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Aen-hoort u herder, myn weerde <rhyme label="a" type="m">vrindin</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">En vlucht niet verder, van myn rechte <rhyme label="a" type="m" corresp="#s4:l1">min</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Myn Velt Goddinne, 'kbid dat ghy <rhyme label="b" type="m">betrouwt</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Die hert, en sinne, u verbonden <rhyme label="b" type="m" corresp="#s4:l3">houwt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Al-waer ick Prince, ick sou laeten <rhyme label="a" type="m">eer</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Duysent Province, om u liefken <rhyme label="a" type="m" corresp="#s5:l1">teer</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Liefste Amaranthe, myn weerde <rhyme label="b" type="m">vrindin</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Schenckt my voor pande, alleen <rhyme label="b" type="m" corresp="#s5:l3">weder-min</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

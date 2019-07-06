@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3846</id>
+    <date>
+      <year-start>1582</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Uit de diepte roep ik Heer</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Hans de Ries</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">VVt die diepten roep ick <rhyme label="a" type="f">Heere</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Tot v van herten gaer <rhyme label="a" type="f" corresp="#s1:l1">seere</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Heere verhoort de stemme <rhyme label="b" type="m">mijn</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Laet toch mercken uwe <rhyme label="c" type="f">ooren</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Op de stemme HEER <rhyme label="c" type="f" corresp="#s1:l4">vercooren</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Mijns biddens ende smeeckens <rhyme label="b" type="m" corresp="#s1:l3">fijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">† Ist dat ghy wilt Heer de <rhyme label="a" type="f">sonden</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Toerekenen tallen <rhyme label="a" type="f" corresp="#s2:l1">stonden</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Heere wie sal moghen <rhyme label="b" type="m">bestaen</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Maer by v is Heer <rhyme label="c" type="f">lanckmoedich</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Vergheuing' van sonden <rhyme label="c" type="f" corresp="#s2:l4">goedich</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Op datmen v vreese <rhyme label="b" type="m" corresp="#s2:l3">bequaem</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Ick wachte des Heeren met <rhyme label="a" type="f">vlijt</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Mijn siele verwacht alle <rhyme label="a" type="f" corresp="#s3:l1">tijt</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Ende ick hope op zijn <rhyme label="b" type="m">woort</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Mijn siele op den Heere <rhyme label="c" type="f">wacht</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">Van deen morghenwake met <rhyme label="c" type="f" corresp="#s3:l4">cracht</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Tot dat de ander comet <rhyme label="b" type="m" corresp="#s3:l3">voort</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Isrel hope op den Heer <rhyme label="a" type="f">goet</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Want bijden Heer is ghenaed' <rhyme label="a" type="f" corresp="#s4:l1">goet</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">En veel verlossing' <rhyme label="b" type="m">certeyne</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">† Hy sal Isrel helpen <rhyme label="c" type="f">mede</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">Wt al <rhyme label="c" type="f" corresp="#s4:l4">ongherechtichede</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">En wt zijn sonden <rhyme label="b" type="m" corresp="#s4:l3">onreyne</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

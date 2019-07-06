@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10315</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>C'est trop courir les eaux</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Wat maeckt ghy Venus <rhyme label="a" type="m">spruyt</rhyme>?</l>
+        <l id="s1:l2" met="3" type="-+">Wat maeckt ghy kleyne <rhyme label="a" type="m" corresp="#s1:l1">guyt</rhyme>?</l>
+        <l id="s1:l3" met="6" type="-+">Wat maeckt ghy doch in my, die niet van 't minnen <rhyme label="b" type="m">houw</rhyme></l>
+        <l id="s1:l4" met="6" type="-+">Om dat ick niet en vind' ghetrouheyt in <rhyme label="b" type="m" corresp="#s1:l3">Me-vrouw</rhyme>:</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">'t Scheen eertijts wel te <rhyme label="a" type="m">zijn</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Of sy haer gunst tot <rhyme label="a" type="m" corresp="#s2:l1">mijn</rhyme></l>
+        <l id="s2:l3" met="6" type="-+">Alleenigh stellen wou, maer ach! nu ick <rhyme label="b" type="m">begin</rhyme></l>
+        <l id="s2:l4" met="6" type="-+">Te vryen met het hert, ist maer beveynsde <rhyme label="b" type="m" corresp="#s2:l3">min</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Wegh, wegh, Cupido <rhyme label="a" type="m">wegh</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Ghedoogh niet dat ick <rhyme label="a" type="m" corresp="#s3:l1">legh</rhyme></l>
+        <l id="s3:l3" met="6" type="-+">Gevanghen en geboeyt in liefdens <rhyme label="b" type="m">slaverny</rhyme>,</l>
+        <l id="s3:l4" met="6" type="-+">Al wat mijn Iuffrou doet, is niet dan <rhyme label="b" type="m" corresp="#s3:l3">beveynsery</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Schoon sy mu kusjes <rhyme label="a" type="m">jont</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">En dat haer lieve <rhyme label="a" type="m" corresp="#s4:l1">mont</rhyme></l>
+        <l id="s4:l3" met="6" type="-+">Myn vriendelyck toelacht, on-minne teeckens <rhyme label="b" type="m">toont</rhyme>,</l>
+        <l id="s4:l4" met="6" type="-+">Ten is maer veynsery, die in mijn Iuffrou <rhyme label="b" type="m" corresp="#s4:l3">woont</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Of sy my gunste <rhyme label="a" type="m">biet</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Maer 't hert en meent het <rhyme label="a" type="m" corresp="#s5:l1">niet</rhyme></l>
+        <l id="s5:l3" met="6" type="-+">Dies gaet het nu met my, ghelijckerwijs het <rhyme label="b" type="m">doet</rhyme></l>
+        <l id="s5:l4" met="6" type="-+">Als eener die bedeckt het bitter nut met <rhyme label="b" type="m" corresp="#s5:l3">soet</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">'t Soet dat sy toont aen <rhyme label="a" type="m">mijn</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Is soetheydt in de <rhyme label="a" type="m" corresp="#s6:l1">schijn</rhyme>:</l>
+        <l id="s6:l3" met="6" type="-+">Maer bitter in der daet, dies ick de min <rhyme label="b" type="m">veracht</rhyme>,</l>
+        <l id="s6:l4" met="6" type="-+">Wegh, wegh, Cupido wegh, vertreckt uyt mijn <rhyme label="b" type="m" corresp="#s6:l3">gedacht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

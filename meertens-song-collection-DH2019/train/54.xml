@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>54</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>C'est trop courir les eaux</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">HA uyt gepickte <rhyme label="a" type="m">perl</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Wiens schoonheyts soet <rhyme label="a" type="m" corresp="#s1:l1">gedwerl</rhyme>,</l>
+        <l id="s1:l3" met="6" type="-+">Diana overtreft geen Venus in 't <rhyme label="b" type="m">gewelf</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">En komt by u te pas: gy sijt de schoonheyt <rhyme label="b" type="m" corresp="#s1:l3">self</rhyme>:</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ha schoonheyts soet <rhyme label="a" type="m">gepronck</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Wanneer gy met een <rhyme label="a" type="m" corresp="#s2:l1">lonck</rhyme>,</l>
+        <l id="s2:l3" met="6" type="-+">Mijn brandent hertje laeft' soo is 't of <rhyme label="b" type="m">d'Hemel-stoet</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Mijn ziel met Nectar dranck en ambrosijnen <rhyme label="b" type="m" corresp="#s2:l3">voet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Wijck, wijck, Province <rhyme label="a" type="m">roos</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Hier pronckt een schoonder <rhyme label="a" type="m" corresp="#s3:l1">bloos</rhyme>,</l>
+        <l id="s3:l3" met="6" type="-+">Waer by geen incarnaet of gloeyend' <rhyme label="b" type="m">carmosijn</rhyme>,</l>
+        <l id="s3:l4" met="6" type="-+">Noch lieflick Appel-blos mach vergeleken <rhyme label="b" type="m" corresp="#s3:l3">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Wijck lely op u <rhyme label="a" type="m">struyck</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Hier pronckt een schoonder <rhyme label="a" type="m" corresp="#s4:l1">puijck</rhyme>,</l>
+        <l id="s4:l3" met="6" type="-+">Haer tanden als yvoir, haer handen als <rhyme label="b" type="m">albast</rhyme>,</l>
+        <l id="s4:l4" met="6" type="-+">Haer poesle swanen-hals een perle-keten <rhyme label="b" type="m" corresp="#s4:l3">past</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Ach uytgekeurde <rhyme label="a" type="m">roos</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Die ick uyt alle <rhyme label="a" type="m" corresp="#s5:l1">koos</rhyme>,</l>
+        <l id="s5:l3" met="6" type="-+">Gunt my u soet genot: want soo 'k u roosje, <rhyme label="b" type="m">derf</rhyme>:</l>
+        <l id="s5:l4" met="6" type="-+">Ick levend' lijfloos ben, en eynd'lick troostloos <rhyme label="b" type="m" corresp="#s5:l3">sterf</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

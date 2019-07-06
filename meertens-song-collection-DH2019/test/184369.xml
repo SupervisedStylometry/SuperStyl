@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184369</id>
+    <date>
+      <year-start>1785</year-start>
+      <year-end>1785</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Hoe zoet is het daar de vriendschap woont</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Daar komt, daar komt de laatste <rhyme label="a" type="m">vracht</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Hoe dankbaar is myn <rhyme label="b" type="m">ziel</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Wie hadt zulk kostlyk weer <rhyme label="a" type="m" corresp="#s1:l1">verwacht</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">In 't best van 't Hooyen <rhyme label="b" type="m" corresp="#s1:l2">viel</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Byna geen enkle druppel <rhyme label="c" type="m">nat</rhyme>.</l>
+        <l id="s1:l6" met="7" type="-+">Ik dank den Hemel voor dien schat, dien schat, dien schat, dien <rhyme label="c" type="m" corresp="#s1:l5">schat</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">De vlag, die op dees wagen <rhyme label="a" type="m">praalt</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Zie ik met <rhyme label="b" type="m">vrolykheid</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Nu moet het maayersvolk <rhyme label="a" type="m" corresp="#s2:l1">betaald</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Het bier is <rhyme label="b" type="m" corresp="#s2:l2">ingeleid</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">In 't midden van de maand <rhyme label="c" type="m">Maart</rhyme>.</l>
+        <l id="s2:l6" met="7" type="-+">De Maayer is zyn loon wel waard, wel waard, wel waard, wel <rhyme label="c" type="m" corresp="#s2:l5">waard</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Daar mannen! daar, daar is het <rhyme label="a" type="m">geld</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">En ginter staat het <rhyme label="b" type="m">vat</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Kom ieder drink nu als een <rhyme label="a" type="m" corresp="#s3:l1">held</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Die zo werkt, lust wel <rhyme label="b" type="m" corresp="#s3:l2">wat</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Straks zorgt myn wyf ook voor de <rhyme label="c" type="m">schrans</rhyme>.</l>
+        <l id="s3:l6" met="7" type="-+">En dan naa 't eeten aan den dans, den dans, den dans, den <rhyme label="c" type="m" corresp="#s3:l5">dans</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

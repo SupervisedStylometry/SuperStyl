@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>155016</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Herderin mijn vriendin</melody>
+  <author>Cornelis Maertsz.</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">ABel stelde // op den <rhyme label="a" type="f">Velde</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">'t Tamme Vee in <rhyme label="b" type="m">ordeningh</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">'t Welck hy hoede // laefd' en <rhyme label="c" type="f">voede</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Dies hy altijdt liep en <rhyme label="b" type="m" corresp="#s1:l2">gingh</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Kain Zaeyde // ende <rhyme label="a" type="f">Maeyde</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">En onthield' hem by sijn <rhyme label="b" type="m">Bou</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Dan aen 't delven // of hy <rhyme label="c" type="f">selven</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Hem daer in bedelven <rhyme label="b" type="m" corresp="#s2:l2">wou</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Hier wordt even // na het <rhyme label="a" type="f">leven</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Aerdighlijck ons <rhyme label="b" type="m">af-gebeeldt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Hoe in daden // goed' en <rhyme label="c" type="f">quade</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">D'een van d'andere <rhyme label="b" type="m" corresp="#s3:l2">verscheelt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Hier beneden // soo gaet <rhyme label="a" type="f">heden</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Godes volck alleen op <rhyme label="b" type="m">reys</rhyme>:</l>
+        <l id="s4:l3" met="4" type="+-">Maer de boosen // die <rhyme label="c" type="f">verkoosen</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">D'aerd' altijdt tot haer <rhyme label="b" type="m" corresp="#s4:l2">Paleys</rhyme>,</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">D'eerste reysend // gaen al <rhyme label="a" type="f">peysend</rhyme></l>
+        <l id="s5:l2" met="4" type="+-">Denckende op 't Hemels <rhyme label="b" type="m">goedt</rhyme>:</l>
+        <l id="s5:l3" met="4" type="+-">D'and're rusten // by de <rhyme label="c" type="f">lusten</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Schijn en Schaduw' slechts van 't <rhyme label="b" type="m" corresp="#s5:l2">soet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22438</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Allein Gott in der Höhe sei Ehre</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Alleene Godt in der hoochde sy <rhyme label="a" type="m">eer</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">En dancke voor syne <rhyme label="b" type="f">ghenade</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Daeromme dat nu noch <rhyme label="a" type="m" corresp="#s1:l1">nimmermeer</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Ons roeren en mach gheen <rhyme label="b" type="f" corresp="#s1:l2">schade</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Een welgheuallen Godt op ons <rhyme label="c" type="m">slaet</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Daer is nu vrede sonder <rhyme label="c" type="m" corresp="#s1:l5">verlaet</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Allen twist heeft nu een <rhyme label="d" type="f">eynde</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wy louen, prijsen, aenbidden <rhyme label="a" type="m">u</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Voor dijne eere wy <rhyme label="b" type="f">dancken</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Dat ghy Godt Vader eeuwelijck <rhyme label="a" type="m" corresp="#s2:l1">nu</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Regeeret sonder <rhyme label="b" type="f" corresp="#s2:l2">wancken</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Gansch onghemeten is dijne <rhyme label="c" type="m">macht</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Nu gheschie wat dijnen wil heeft <rhyme label="c" type="m" corresp="#s2:l5">bedacht</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Wel ons door desen <rhyme label="d" type="f">Heere</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">O Jhesu Christe eenich <rhyme label="a" type="m">gheboren</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Dijnes Hemelschen <rhyme label="b" type="f">Vaders</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Versoener onser die waren <rhyme label="a" type="m" corresp="#s3:l1">verloren</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Ghy stilder onsers <rhyme label="b" type="f" corresp="#s3:l2">haders</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Lam Godes heylighe Heere <rhyme label="c" type="m">groot</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Neempt aen die bede van onsen <rhyme label="c" type="m" corresp="#s3:l5">noot</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Erbermet u onser <rhyme label="d" type="f">armen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">O heylighe Gheest, ghy grootste <rhyme label="a" type="m">goet</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">En Trooster salich <rhyme label="b" type="f">beseuen</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">Voor duyuels ghewelt voortaen <rhyme label="a" type="m" corresp="#s4:l1">behoet</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Die verlost syn door Jhesum <rhyme label="b" type="f" corresp="#s4:l2">verheuen</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Met groote pijne ende bitteren <rhyme label="c" type="m">doot</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Neempt af van ons elende, en <rhyme label="c" type="m" corresp="#s4:l5">noot</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Daerop wy ons <rhyme label="d" type="f">verlaten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>113588</id>
+    <date>
+      <year-start>1621</year-start>
+      <year-end>1621</year-end>
+    </date>
+    <location>
+      <orginal-name>mechelen</orginal-name>
+      <standard-name>Mechelen, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0281381</lon>
+        <lat>4.4803453</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="rederijkerslied" translation="rhetorician song">rederijkerslied</tag>
+      <tag standard-name="mythologisch lied" translation="mythological song">mythologisch lied</tag>
+    </tags>
+    <melody>In wat wilder gesticht</melody>
+    <categories>
+      <category translation="groups">groepen</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Jan Thieullier</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">VErciert v schoon <rhyme label="a" type="m">ghedaent</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Ganimedes seer <rhyme label="b" type="f">jeughdich</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">V aenschijn vocht <rhyme label="a" type="m" corresp="#s1:l1">betraent</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Van hemels Nectar <rhyme label="b" type="f" corresp="#s1:l2">vreughdich</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Troost Hebem v <rhyme label="c" type="m">voorsaet</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Die Schier is <rhyme label="c" type="m" corresp="#s1:l5">desperaet</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Flora brenght uwen roosen,, <rhyme label="d" type="m">crans</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Schout faunum met sijn boosen,, <rhyme label="d" type="m" corresp="#s1:l7">pans</rhyme></l>
+        <l id="s1:l9" met="3" type="+-">Treckt aen v nieu <rhyme label="c" type="m" corresp="#s1:l5">ghewaet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Comt al op dit <rhyme label="a" type="m">gastmael</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">En wilt v sinnen <rhyme label="b" type="f">scherpen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Al in Iunonis <rhyme label="a" type="m" corresp="#s2:l1">sael</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Phoebus speelt op sijn <rhyme label="b" type="f" corresp="#s2:l2">herpen</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Amphion met <rhyme label="c" type="m">accort</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Arion comt nou <rhyme label="c" type="m" corresp="#s2:l5">voort</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Orpheus al met sijn snaren,, <rhyme label="d" type="m">clanck</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Io soet comt met haren,, <rhyme label="d" type="m" corresp="#s2:l7">danck</rhyme></l>
+        <l id="s2:l9" met="3" type="+-">Iopas oock hier naer <rhyme label="c" type="m" corresp="#s2:l5">spoort</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">O Demodoce <rhyme label="a" type="m">cloeck</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">En constighen <rhyme label="b" type="f">Terpander</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Phemi comt uijt den <rhyme label="a" type="m" corresp="#s3:l1">hoeck</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Speelt hier onder <rhyme label="b" type="f" corresp="#s3:l2">malcander</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Melpomene <rhyme label="c" type="m">verstaet</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Fraij die Mensure <rhyme label="c" type="m" corresp="#s3:l5">slaet</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Comt singt speelt die musijcken,, <rhyme label="d" type="m">soet</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">Tot lof van Rhetorijcken,, <rhyme label="d" type="m" corresp="#s3:l7">vroet</rhyme></l>
+        <l id="s3:l9" met="3" type="+-">In Pallas hooghsten <rhyme label="c" type="m" corresp="#s3:l5">graet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Brengt voort Ambrosi <rhyme label="a" type="m">broot</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Ceres wilt op ons <rhyme label="b" type="f">dencken</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Bacche met v hooft <rhyme label="a" type="m" corresp="#s4:l1">bloot</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Comt wilt den Nectar <rhyme label="b" type="f" corresp="#s4:l2">schencken</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Nayaden comt ten <rhyme label="c" type="m">tij</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Brengt Cornucopi <rhyme label="c" type="m" corresp="#s4:l5">vrij</rhyme>,</l>
+        <l id="s4:l7" met="4" type="+-">Pomona wilt niet toeuen,, <rhyme label="d" type="m">meer</rhyme></l>
+        <l id="s4:l8" met="4" type="+-">Vertumnus comt v proeuen,, <rhyme label="d" type="m" corresp="#s4:l7">meer</rhyme></l>
+        <l id="s4:l9" met="3" type="+-">Napeen comt oock <rhyme label="c" type="m" corresp="#s4:l5">by</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Comt voort t'is open <rhyme label="a" type="m">hof</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Die Musen sijn hier <rhyme label="b" type="f">meden</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Die Pierides <rhyme label="a" type="m" corresp="#s5:l1">groof</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">En crijghen hier geen <rhyme label="b" type="f" corresp="#s5:l2">steden</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">Arachne is <rhyme label="c" type="m">verfoeyt</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">Haer tonge is <rhyme label="c" type="m" corresp="#s5:l5">ghesnoeyt</rhyme>,</l>
+        <l id="s5:l7" met="4" type="+-">Nereyden comt uyt Thetis,, <rhyme label="d" type="m">dal</rhyme></l>
+        <l id="s5:l8" met="4" type="+-">Schout Acheron en Lethis,, <rhyme label="d" type="m" corresp="#s5:l7">val</rhyme></l>
+        <l id="s5:l9" met="3" type="+-">Vesta in schoonheyt <rhyme label="c" type="m" corresp="#s5:l5">bloeyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

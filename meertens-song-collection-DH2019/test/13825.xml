@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13825</id>
+    <date>
+      <year-start>1646</year-start>
+      <year-end>1646</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Nadien uw goddelijkheid</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">DAer Sparens Bosch <rhyme label="a" type="m">bevrijdt</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">Borias fel <rhyme label="a" type="m" corresp="#s1:l1">ghebijt</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Daer men roemt Berkels <rhyme label="b" type="f">daden</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Met Anna Roemers <rhyme label="c" type="m">stem</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Tersier, en <rhyme label="c" type="m" corresp="#s1:l4">Adrichem</rhyme></l>
+        <l id="s1:l6" met="3" type="+-">Kruystmen met <rhyme label="b" type="f" corresp="#s1:l3">Linde-bladen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

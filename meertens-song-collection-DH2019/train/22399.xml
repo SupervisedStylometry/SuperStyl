@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22399</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+      <tag standard-name="troostlied" translation="consolation song">troostlied</tag>
+    </tags>
+    <melody>Vom Himmel hoch da komm ich her</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">VAn den Hemel quam die Engelsche <rhyme label="a" type="m">schaer</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En verscheen den Herderen <rhyme label="a" type="m" corresp="#s1:l1">openbaer</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Segghende een teer <rhyme label="b" type="m">Kindeken</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Leyt daer in een hert <rhyme label="b" type="m" corresp="#s1:l3">Cribbeken</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Te Bethlehem in Dauidts <rhyme label="a" type="m">stat</rhyme>.</l>
+        <l id="s2:l2" met="4" type="-+">Aloo Micheas vercondicht <rhyme label="a" type="m" corresp="#s2:l1">dat</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Daer is Jhesus den Heere <rhyme label="b" type="m">goet</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Diet al verlosset met syn <rhyme label="b" type="m" corresp="#s2:l3">bloet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Dies sout ghy blijde zijn <rhyme label="a" type="m">ghemeen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Dat Godt met u is worden <rhyme label="a" type="m" corresp="#s3:l1">een</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Gheboren is hy, u vleesch en <rhyme label="b" type="m">bloet</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">U broeder is nu dat eewich <rhyme label="b" type="m" corresp="#s3:l3">goet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">VVat can u doen, die sonde en <rhyme label="a" type="m">doot</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Den waren God, helpt u in <rhyme label="a" type="m" corresp="#s4:l1">noot</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Laet duyuel en helle toornich <rhyme label="b" type="m">syn</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Godes Sone is u gheselle <rhyme label="b" type="m" corresp="#s4:l3">fyn</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Hy en wil noch en can u laten <rhyme label="a" type="m">niet</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Daer op set al u baten <rhyme label="a" type="m" corresp="#s5:l1">siet</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Veel moeghen u wel vechten <rhyme label="b" type="m">an</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Fy hem die niet wtrechten <rhyme label="b" type="m" corresp="#s5:l3">can</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Ten laetsten moet ghy recht houden <rhyme label="a" type="m">fier</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Ghy zijt Godes gheslachte <rhyme label="a" type="m" corresp="#s6:l1">hier</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Dies dancket God tot allen <rhyme label="b" type="m">tijt</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Gheduldich, blydelijck met <rhyme label="b" type="m" corresp="#s6:l3">iolijt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>189648</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Rigaudon 1 de Galatée</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">ZA kom myn <rhyme label="a" type="m">vriendt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Wilt gy eens met myn <rhyme label="b" type="f">klinken</rhyme>?</l>
+        <l id="s1:l3" met="3" type="-+">'k Zal u gezontheid <rhyme label="b" type="f" corresp="#s1:l2">drinken</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Gy hebt het wel <rhyme label="a" type="m" corresp="#s1:l1">verdient</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Die schoone <rhyme label="c" type="m">wyn</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Kan ons het hart <rhyme label="d" type="f">verkwikken</rhyme>,</l>
+        <l id="s1:l7" met="3" type="+-">'t Is ons <rhyme label="c" type="m" corresp="#s1:l5">Medecyn</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Die schoone <rhyme label="c" type="m" corresp="#s1:l5">wyn</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">Daar moeten wy 't me <rhyme label="e" type="f">houden</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">Willen wy vrolyk <rhyme label="c" type="m" corresp="#s1:l5">zyn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Al was zy <rhyme label="a" type="m">kant</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Men moet se niet <rhyme label="b" type="f">verwerpen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Zy kan de zinnen <rhyme label="b" type="f" corresp="#s2:l2">scherpen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">En baart <rhyme label="a" type="m" corresp="#s2:l1">verstant</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Zy voet de <rhyme label="c" type="m">min</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">En doet een minnaar <rhyme label="d" type="f">lieven</rhyme>,</l>
+        <l id="s2:l7" met="3" type="+-">By zyn <rhyme label="c" type="m" corresp="#s2:l5">Engelin</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Zy voet de <rhyme label="c" type="m" corresp="#s2:l5">min</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">En doet hem vryer <rhyme label="e" type="f">kussen</rhyme>,</l>
+        <l id="s2:l10" met="3" type="-+">Na zyn harte <rhyme label="c" type="m" corresp="#s2:l5">zin</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

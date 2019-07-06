@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19564</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Branle Pierre</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Thomas Fonteyn</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ONvolgbre Maagd! ô zuivre <rhyme label="a" type="m">Bloem</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Puik kroone vande <rhyme label="b" type="m">Ieugd</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Wien ik voor al de weereld <rhyme label="a" type="m" corresp="#s1:l1">noem</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Om ‘tglommen van uw’ <rhyme label="b" type="m" corresp="#s1:l2">Deugd</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Betaal mijn <rhyme label="c" type="f">lonkken</rhyme>,</l>
+        <l id="s1:l6" met="5" type="+-">Met Liefdeflonkken. Pruikt u zoete <rhyme label="d" type="m">zinn</rhyme>’,</l>
+        <l id="s1:l7" met="4" type="-+">Met iets, het gun ik Liefde <rhyme label="a" type="m" corresp="#s1:l1">noem</rhyme>.</l>
+        <l id="s1:l8" met="3" type="-+">Of anders, zuivre <rhyme label="d" type="m" corresp="#s1:l6">Minn</rhyme>’.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">‘Tis schande, wen een jonge <rhyme label="a" type="m">Maagd</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Tot die, haar <rhyme label="b" type="m">bemind</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Geen tokkeling, of weermin <rhyme label="a" type="m" corresp="#s2:l1">draagd</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Of immers, z’is <rhyme label="b" type="m" corresp="#s2:l2">verblind</rhyme>.</l>
+        <l id="s2:l5" met="2" type="-+">Zo zafte <rhyme label="c" type="f">leeden</rhyme>,</l>
+        <l id="s2:l6" met="5" type="+-">Verglaast met reeden// idel als een <rhyme label="d" type="m">wind</rhyme>!</l>
+        <l id="s2:l7" met="4" type="-+">Ontglanst van Minn; als <rhyme label="a" type="m" corresp="#s2:l1">afgezaagt</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">‘t Is wonder; zomen ‘t <rhyme label="d" type="m" corresp="#s2:l6">vind</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Laat schoonheid zijn met Min <rhyme label="a" type="m">gepaard</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Zoo heeft de schoont’er <rhyme label="b" type="m">gloor</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">En, bruiktze; wijl’er maar <rhyme label="a" type="m" corresp="#s3:l1">bestaard</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Een, die ‘er geeft <rhyme label="b" type="m" corresp="#s3:l2">gehoor</rhyme>.</l>
+        <l id="s3:l5" met="2" type="-+">Geen schoonder <rhyme label="c" type="f">weezen</rhyme></l>
+        <l id="s3:l6" met="5" type="+-">En kanmen leezen// zo mooi <rhyme label="d" type="m">opgetooid</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Als daar ‘er weezen, liefde <rhyme label="a" type="m" corresp="#s3:l1">baard</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">‘t Gun ‘t weezen zo <rhyme label="d" type="m" corresp="#s3:l6">vermooid</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

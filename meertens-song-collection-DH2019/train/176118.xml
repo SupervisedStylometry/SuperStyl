@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176118</id>
+    <date>
+      <year-start>1640</year-start>
+      <year-end>1640</year-end>
+    </date>
+    <location>
+      <orginal-name>deventer</orginal-name>
+      <standard-name>Deventer, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.2532272</lon>
+        <lat>6.1584725</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 120 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacobus Revius</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ALs ick met droefheyt was <rhyme label="a" type="f">beladen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Ick riep tot God, en uyt <rhyme label="a" type="f" corresp="#s1:l1">genaden</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Heeft hy geneyget syne <rhyme label="b" type="f">ooren</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Om mijn gebeden te <rhyme label="b" type="f" corresp="#s1:l3">verhooren</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Van onbeschaemde <rhyme label="c" type="f">laster-monden</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">En valsche lippen <rhyme label="c" type="f" corresp="#s1:l5">ongebonden</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Die booslijc schenden mijne <rhyme label="d" type="m">eer</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Wilt mijne ziel doch redden, <rhyme label="d" type="m" corresp="#s1:l7">Heer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wat can de valsche tong' <rhyme label="a" type="f">uytrichten</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Met haer vergiftich <rhyme label="a" type="f" corresp="#s2:l1">leugen-dichten</rhyme>?</l>
+        <l id="s2:l3" met="4" type="-+">Wat baten de geveynsde <rhyme label="b" type="f">streken</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">En al het leelijck <rhyme label="b" type="f" corresp="#s2:l3">leugen-spreken</rhyme>?</l>
+        <l id="s2:l5" met="4" type="-+">'tZijn scherpe pijlen, die een <rhyme label="c" type="f">stercke</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">En cloecken schutter stelt te <rhyme label="c" type="f" corresp="#s2:l5">wercke</rhyme>.</l>
+        <l id="s2:l7" met="4" type="-+">Sy geven een soo heeten <rhyme label="d" type="m">gloet</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Als brandenden jenever <rhyme label="d" type="m" corresp="#s2:l7">doet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">O wee my! dat ick dus moet <rhyme label="a" type="f">swerven</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">In Mesech, en Gods wooning' <rhyme label="a" type="f" corresp="#s3:l1">derven</rhyme>!</l>
+        <l id="s3:l3" met="4" type="-+">Dat ick in Kedars tenten <rhyme label="b" type="f">blijven</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Moet, daerse niet dan boosheyt <rhyme label="b" type="f" corresp="#s3:l3">drijven</rhyme>!</l>
+        <l id="s3:l5" met="4" type="-+">Mijn siele wort het <rhyme label="c" type="f">al-te-bange</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Dat ick verkeeren moet soo <rhyme label="c" type="f" corresp="#s3:l5">lange</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Met die den vrede dragen <rhyme label="d" type="m">haet</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Als ofse waer het meeste <rhyme label="d" type="m" corresp="#s3:l7">quaet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

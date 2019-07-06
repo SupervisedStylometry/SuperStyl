@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>160557</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Edele artiesten koen</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">MIjn Pen, wil het <rhyme label="a" type="m">ghebruyck</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Eens Brassers gaen <rhyme label="b" type="f">aen-mercken</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Sijn Godt dat is sijn <rhyme label="a" type="m" corresp="#s1:l1">Buyck</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">De Keucken is sijn <rhyme label="b" type="f" corresp="#s1:l2">Kercke</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Daer doet hy Godt in <rhyme label="c" type="f">prijsen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Wt grondt van sijn <rhyme label="d" type="m">ghemoet</rhyme>:</l>
+        <l id="s1:l7" met="3" type="-+">Maer 't is op Joodtsche <rhyme label="c" type="f" corresp="#s1:l5">wijse</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Als hy hem eere <rhyme label="d" type="m" corresp="#s1:l6">doet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Den Disch is sijn <rhyme label="a" type="m">Altaer</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Het Offer <rhyme label="b" type="f">Leckernijen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Die doet hy eerst, <rhyme label="a" type="m" corresp="#s2:l1">aldaer</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Met Wijn sijn Godt <rhyme label="b" type="f" corresp="#s2:l2">toe-wijen</rhyme>:</l>
+        <l id="s2:l5" met="3" type="-+">De Priesters sijn zijn <rhyme label="c" type="f">handen</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Soo haest hy geeft <rhyme label="d" type="m">ghebodt</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Doen sy die <rhyme label="c" type="f" corresp="#s2:l5">Offer-handen</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Of-off'ren aen sijn <rhyme label="d" type="m" corresp="#s2:l6">Godt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Daer van groeyt hy te <rhyme label="a" type="m">met</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">En wordt alsoo <rhyme label="b" type="f">swaer-lijvigh</rhyme> !</l>
+        <l id="s3:l3" met="3" type="-+">Maer laes ! dat Godtlick <rhyme label="a" type="m" corresp="#s3:l1">vet</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">En is niet <rhyme label="b" type="f" corresp="#s3:l2">eeuwigh-blijvigh</rhyme> !</l>
+        <l id="s3:l5" met="3" type="-+">Want in die smeer'ghe <rhyme label="c" type="f">Pansse</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Sal het ghewormt <rhyme label="d" type="m">eer-langh</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Verhongert in gaen <rhyme label="c" type="f" corresp="#s3:l5">schrassen</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">En maecken 't niet als <rhyme label="d" type="m" corresp="#s3:l6">stanck</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

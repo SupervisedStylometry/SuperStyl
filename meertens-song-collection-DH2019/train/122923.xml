@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>122923</id>
+    <date>
+      <year-start>1717</year-start>
+      <year-end>1717</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Andries Pels</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">De lief-de die 'k u draag, is d' oorzaak dat ik <rhyme label="a" type="m">stérf</rhyme>.</l>
+        <l id="s1:l2" met="6" type="-+">Ik zie, ik voel de dood; maar kan die niet <rhyme label="b" type="f">belétten</rhyme>.</l>
+        <l id="s1:l3" met="6" type="-+">Wie kan zo téd're een min uit zyn gedachten <rhyme label="b" type="f" corresp="#s1:l2">zêtten</rhyme>?</l>
+        <l id="s1:l4" met="7" type="-+">Helaas? helaas! al koste ik 't doen, 'k stierf liever duizend <rhyme label="a" type="m" corresp="#s1:l1">wérf</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10862</id>
+    <date>
+      <year-start>1605</year-start>
+      <year-end>1605</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="tafellied" translation="dining song">tafellied</tag>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Het voer een maagdje over Rijn</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Hey laey ons singhen tot ons <rhyme label="a" type="m">gherief</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">En laetse treuren die haer schoon <rhyme label="a" type="m" corresp="#s1:l1">lief</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Niet moghen sien noch <rhyme label="b" type="f">spreecken</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">wy moghense sien en <rhyme label="b" type="f" corresp="#s1:l3">spreecken</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Wat macher ons nu ontbreecken, <rhyme label="b" type="f" corresp="#s1:l3">ontbreken</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Schoon liefgen hoe zijt ghy dus treurich van <rhyme label="a" type="m">sin</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Of isser u liefgen te Zeewaert <rhyme label="a" type="m" corresp="#s2:l1">in</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Dat ghy hem moet <rhyme label="b" type="f">ontbeeren</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Hy moet u oock <rhyme label="b" type="f" corresp="#s2:l3">ontbeeren</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Dat sal hem wel weer doen <rhyme label="b" type="f" corresp="#s2:l3">keeren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Moy Meysgen zijt ghy u boelken <rhyme label="a" type="m">quijt</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Of meent ghy dat hy een ander <rhyme label="a" type="m" corresp="#s3:l1">vryt</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">En ghy hem sult <rhyme label="b" type="f">verliesen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Soo ghy hem sult <rhyme label="b" type="f" corresp="#s3:l3">verliesen</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Hier meught ghy een ander <rhyme label="b" type="f" corresp="#s3:l3">kiesen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Princesse dit kroesken met koele <rhyme label="a" type="m">wijn</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Dat drinck ick ter eeren een Meysgen <rhyme label="a" type="m" corresp="#s4:l1">fijn</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Om aen mijn liefd’ te <rhyme label="b" type="f">dincken</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Om aen myn liefd’ te <rhyme label="b" type="f" corresp="#s4:l3">dincken</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Soo sult ghijt oock voor hem <rhyme label="b" type="f" corresp="#s4:l3">drincken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

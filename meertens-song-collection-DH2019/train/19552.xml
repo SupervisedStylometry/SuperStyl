@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19552</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Ballet Bronkhorst</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Thomas Fonteyn</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="+-">VRoome <rhyme label="a" type="f">Harder</rhyme>!</l>
+        <l id="s1:l2" met="3" type="-+">Mijn inzigt en <rhyme label="b" type="f">bekomren</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">En <rhyme label="c" type="m">aarzellust</rhyme>:</l>
+        <l id="s1:l4" met="2" type="+-">Staard al <rhyme label="a" type="f" corresp="#s1:l1">varder</rhyme>:</l>
+        <l id="s1:l5" met="3" type="-+">Want al ‘et groote <rhyme label="b" type="f" corresp="#s1:l2">zlomren</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Mijn hart <rhyme label="c" type="m" corresp="#s1:l3">ontrust</rhyme>,</l>
+        <l id="s1:l7" met="5" type="+-">Als ik denk, wat dat ik aan zouw <rhyme label="d" type="m">gaan</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Een Trouwlijk <rhyme label="e" type="f">paren</rhyme>,</l>
+        <l id="s1:l9" met="2" type="-+">Een <rhyme label="e" type="f" corresp="#s1:l8">tzaamvergaren</rhyme>,</l>
+        <l id="s1:l10" met="2" type="-+">Voor zo veel <rhyme label="e" type="f" corresp="#s1:l8">jaren</rhyme>,</l>
+        <l id="s1:l11" met="5" type="-+">Daar ik nu leef, zo zoet, zo zoet, zo <rhyme label="f" type="m">zoet</rhyme>,</l>
+        <l id="s1:l12" met="4" type="+-">Ach! dat zouw dan zijn <rhyme label="d" type="m" corresp="#s1:l7">gedaan</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

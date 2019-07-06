@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14540</id>
+    <date>
+      <year-start>1638</year-start>
+      <year-end>1638</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Wanneer ik slaap</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Aegidius Haeffacker</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">O Heer <rhyme label="a" type="m">aensiet</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Aensiet toch ons <rhyme label="b" type="m">verdriet</rhyme>.</l>
+        <l id="s1:l3" met="2" type="-+">Wilt ghy noch <rhyme label="a" type="m" corresp="#s1:l1">voort</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Op ons dus zijn <rhyme label="b" type="m" corresp="#s1:l2">verstoordt</rhyme>?</l>
+        <l id="s1:l5" met="3" type="-+">Sullen wy <rhyme label="c" type="m">nimmermeer</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Uw' gramschap <rhyme label="c" type="m" corresp="#s1:l5">Heer</rhyme>,</l>
+        <l id="s1:l7" met="3" type="+-">In soo droeven <rhyme label="d" type="m">tijdt</rhyme>,</l>
+        <l id="s1:l8" met="3" type="+-">En soo groot <rhyme label="d" type="m" corresp="#s1:l7">verwijt</rhyme>,</l>
+        <l id="s1:l9" met="4" type="-+">In soo droeven tijdt doen <rhyme label="e" type="f">stelpen</rhyme>?</l>
+        <l id="s1:l10" met="4" type="-+">O Godt, o goeden Godt, komt <rhyme label="e" type="f" corresp="#s1:l9">helpen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Daegh'lijcks <rhyme label="a" type="m">bespot</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Wy worden en <rhyme label="b" type="m">belacht</rhyme>:</l>
+        <l id="s2:l3" met="2" type="-+">Uw ' leer voor <rhyme label="a" type="m" corresp="#s2:l1">sot'</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Ghehouden, en <rhyme label="b" type="m" corresp="#s2:l2">veracht</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">O heylighdom <rhyme label="c" type="m">ont-eert</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">Als slijck van d' <rhyme label="c" type="m" corresp="#s2:l5">eerdt</rhyme>,</l>
+        <l id="s2:l7" met="3" type="+-">Ons vyanden <rhyme label="d" type="m">noch</rhyme></l>
+        <l id="s2:l8" met="3" type="+-">Bitter, vol <rhyme label="d" type="m" corresp="#s2:l7">bedrogh</rhyme></l>
+        <l id="s2:l9" met="4" type="-+">Ons vyanden noch verstijft // <rhyme label="e" type="f">ghy</rhyme>.</l>
+        <l id="s2:l10" met="4" type="-+">O God, o goeden God, waer blijft // <rhyme label="e" type="f" corresp="#s2:l9">ghy</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Wy, met <rhyme label="a" type="m">ootmoet</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Bekennen ons <rhyme label="b" type="m">misdaedt</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">Vallen te <rhyme label="a" type="m" corresp="#s3:l1">voet</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">En bidden: Komt te <rhyme label="b" type="m" corresp="#s3:l2">baet</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Te baet komt, lieven <rhyme label="c" type="m">Heer</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">Uw' kind'ren <rhyme label="c" type="m" corresp="#s3:l5">teer</rhyme>,</l>
+        <l id="s3:l7" met="3" type="+-">Die ghy met u <rhyme label="d" type="m">bloedt</rhyme>,</l>
+        <l id="s3:l8" met="3" type="+-">Heere Jesu <rhyme label="d" type="m" corresp="#s3:l7">soet</rhyme></l>
+        <l id="s3:l9" met="4" type="-+">Die ghy met u bloedt quaemt <rhyme label="e" type="f">koopen</rhyme>,</l>
+        <l id="s3:l10" met="4" type="-+">O Godt, o goeden Godt, komt <rhyme label="e" type="f" corresp="#s3:l9">loopen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

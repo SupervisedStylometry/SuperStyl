@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>130741</id>
+    <date>
+      <year-start>1711</year-start>
+      <year-end>1711</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Hebben ze dat gedaan doen ze</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Hey, hoe is 't <rhyme label="a" type="m">hier</rhyme>?</l>
+        <l id="s1:l2" met="2" type="-+">Het lijf vol <rhyme label="a" type="m" corresp="#s1:l1">bier</rhyme>?</l>
+        <l id="s1:l3" met="3" type="-+">Wel Gijs oom, binje <rhyme label="b" type="f">dronken</rhyme>?</l>
+        <l id="s1:l4" met="2" type="+-">Binje <rhyme label="b" type="f" corresp="#s1:l3">Dronken</rhyme>?</l>
+        <l id="s1:l5" met="4" type="-+">Wel legje dus voor 't moie <rhyme label="a" type="m" corresp="#s1:l1">vier</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">En doeje niet dan <rhyme label="b" type="f" corresp="#s1:l3">ronken</rhyme>!</l>
+        <l id="s1:l7" met="3" type="+-">Gut dit is te <rhyme label="c" type="m">slegt</rhyme>,</l>
+        <l id="s1:l8" met="2" type="+-">Maetje, <rhyme label="d" type="f">maetje</rhyme>!</l>
+        <l id="s1:l9" met="3" type="+-">Gut dit is te <rhyme label="c" type="m" corresp="#s1:l7">slegt</rhyme>,</l>
+        <l id="s1:l10" met="2" type="+-">Voor sulken <rhyme label="c" type="m" corresp="#s1:l7">knegt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Nu lustig <rhyme label="a" type="m">op</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">Nu lustig <rhyme label="a" type="m" corresp="#s2:l1">op</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Komt by de brave <rhyme label="b" type="f">basen</rhyme>,</l>
+        <l id="s2:l4" met="2" type="+-">Brave <rhyme label="b" type="f" corresp="#s2:l3">basen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">En helpt haer 't Rotterdamse <rhyme label="a" type="m" corresp="#s2:l1">sop</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Drinken uit volle <rhyme label="b" type="f" corresp="#s2:l3">glasen</rhyme>.</l>
+        <l id="s2:l7" met="3" type="+-">Repje als een <rhyme label="c" type="m">man</rhyme>,</l>
+        <l id="s2:l8" met="2" type="+-">Oogjes <rhyme label="d" type="f">open</rhyme>,</l>
+        <l id="s2:l9" met="3" type="+-">Repje als een <rhyme label="c" type="m" corresp="#s2:l7">man</rhyme></l>
+        <l id="s2:l10" met="2" type="+-">Die 't alles <rhyme label="c" type="m" corresp="#s2:l7">kan</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Hier 's Jaep en <rhyme label="a" type="m">Teun</rhyme>,</l>
+        <l id="s3:l2" met="2" type="-+">Met Brank en <rhyme label="a" type="m" corresp="#s3:l1">Pleun</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Kees Bruin, en 't weertje   <rhyme label="b" type="f">Slinken</rhyme>,</l>
+        <l id="s3:l4" met="2" type="+-">'t Weertje <rhyme label="b" type="f" corresp="#s3:l3">Slinken</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">Al 't volkje van ons ouwe <rhyme label="a" type="m" corresp="#s3:l1">deun</rhyme>.</l>
+        <l id="s3:l6" met="3" type="-+">Met jou soo willense <rhyme label="b" type="f" corresp="#s3:l3">drinken</rhyme>.</l>
+        <l id="s3:l7" met="3" type="+-">Hoort hoe ider <rhyme label="c" type="m">woelt</rhyme>,</l>
+        <l id="s3:l8" met="2" type="+-">Gysje, <rhyme label="d" type="f">Gysje</rhyme>,</l>
+        <l id="s3:l9" met="3" type="+-">Hoort hoe ieder <rhyme label="c" type="m" corresp="#s3:l7">woelt</rhyme></l>
+        <l id="s3:l10" met="2" type="+-">Ende <rhyme label="c" type="m" corresp="#s3:l7">krioelt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">Hoort, by me <rhyme label="a" type="m">keel</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">Geurt strijkt de <rhyme label="a" type="m" corresp="#s4:l1">veel</rhyme>.</l>
+        <l id="s4:l3" met="3" type="-+">Sie daer wil Teunis <rhyme label="b" type="f">dansen</rhyme>,</l>
+        <l id="s4:l4" met="2" type="+-">Teunis <rhyme label="b" type="f" corresp="#s4:l3">dansen</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Kykt, dat 's een lustige <rhyme label="a" type="m" corresp="#s4:l1">kabbriol</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Hy kan als groote <rhyme label="b" type="f" corresp="#s4:l3">Hansen</rhyme>!</l>
+        <l id="s4:l7" met="3" type="+-">Kijere,   dat 's een <rhyme label="c" type="m">sprong</rhyme>,</l>
+        <l id="s4:l8" met="2" type="+-">Heer hoe kan <rhyme label="d" type="f">hy</rhyme>!</l>
+        <l id="s4:l9" met="3" type="+-">Kijere, dat 's een <rhyme label="c" type="m" corresp="#s4:l7">sprong</rhyme></l>
+        <l id="s4:l10" met="2" type="+-">Van soo een <rhyme label="c" type="m" corresp="#s4:l7">jong</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

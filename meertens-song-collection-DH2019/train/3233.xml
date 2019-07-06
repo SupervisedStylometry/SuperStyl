@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3233</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Laatstmaal in het krieken van de dag</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anthony Jansen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DIe Jesus Cruyce op hen <rhyme label="a" type="m">laed</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">En volgt sen Heylant <rhyme label="b" type="m">nae</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Waer dat hy komt, of waer hy <rhyme label="a" type="m" corresp="#s1:l1">gaet</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Die gheeft hy sijn <rhyme label="b" type="m" corresp="#s1:l2">ghenae</rhyme>;</l>
+        <l id="s1:l5" met="3" type="-+">Die gheeft hy <rhyme label="c" type="m">herten-lust</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Die geeft hy <rhyme label="c" type="m" corresp="#s1:l5">zielen-rust</rhyme>,</l>
+        <l id="s1:l7" met="5" type="-+">Die geeft hy troost, en spreeckt 'er vriend'lijck <rhyme label="d" type="m">aen</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Datse nimmer af en <rhyme label="d" type="m" corresp="#s1:l7">gaen</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">Van sijn woordt en hylbre baen. Die <rhyme label="d" type="m" corresp="#s1:l7">geeft</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wie nu de soete stemm' <rhyme label="a" type="m">behaeght</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">En gheeftse goedt <rhyme label="b" type="m">ghehoor</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En Jesu Jock met liefde <rhyme label="a" type="m" corresp="#s2:l1">draeght</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Gheduerigh door en <rhyme label="b" type="m" corresp="#s2:l2">door</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Door drucken angstigh <rhyme label="c" type="m">leet</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Door kommer, pijn en <rhyme label="c" type="m" corresp="#s2:l5">sweet</rhyme>,</l>
+        <l id="s2:l7" met="5" type="-+">Door ongeval, en jammerlijck <rhyme label="d" type="m">verdriet</rhyme>:</l>
+        <l id="s2:l8" met="4" type="+-">Die sal hy verlaten <rhyme label="d" type="m" corresp="#s2:l7">niet</rhyme>,</l>
+        <l id="s2:l9" met="4" type="+-">Voor 'er weder troost <rhyme label="d" type="m" corresp="#s2:l7">gheschiedt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Die sich dan vordert in den <rhyme label="a" type="m">strijdt</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">En schickt hem toe veel <rhyme label="b" type="m">druck</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Die maeckt hy onversiens <rhyme label="a" type="m" corresp="#s3:l1">verblijdt</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Door zeghen en <rhyme label="b" type="m" corresp="#s3:l2">gheluck</rhyme>:</l>
+        <l id="s3:l5" met="3" type="-+">Die hier in't strijden <rhyme label="c" type="m">wint</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">En vlees en bloedt <rhyme label="c" type="m" corresp="#s3:l5">verslindt</rhyme>,</l>
+        <l id="s3:l7" met="5" type="-+">Sal eens uyt gunst van Jesus in sen <rhyme label="d" type="m">Troon</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">Krijghen op sen hooft een <rhyme label="d" type="m" corresp="#s3:l7">Croon</rhyme>,</l>
+        <l id="s3:l9" met="4" type="+-">Door sijn lijden, tot een <rhyme label="d" type="m" corresp="#s3:l7">loon</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

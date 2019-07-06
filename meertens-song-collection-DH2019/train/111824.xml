@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111824</id>
+    <date>
+      <year-start>1745</year-start>
+      <year-end>1745</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Het was in de zoete maand van mei</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">VLiegt Minnezugjes bly van <rhyme label="a" type="m">zin</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Naer Silvia myn <rhyme label="a" type="m" corresp="#s1:l1">Engelin</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Gae leent Cupidôs <rhyme label="b" type="f">vleugl'en</rhyme>:</l>
+        <l id="s1:l4" met="4" type="-+">Betuigt haer myne Tedere <rhyme label="a" type="m" corresp="#s1:l1">Min</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Laet niet uw vlugt <rhyme label="b" type="f" corresp="#s1:l3">beteugl'en</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Gae naer myn Silvia, gae <rhyme label="a" type="m">heen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">En zeg haer aen dat zy <rhyme label="a" type="m" corresp="#s2:l1">alleen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Myn zinnen kan <rhyme label="b" type="f">bekoren</rhyme>:</l>
+        <l id="s2:l4" met="4" type="-+">Spoey voort met onvermoeyde <rhyme label="a" type="m" corresp="#s2:l1">schreen</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Of Eelhart gaet <rhyme label="b" type="f" corresp="#s2:l3">verloren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ach! Zugjes, dat door U haer <rhyme label="a" type="m">hart</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Geraek wierd, en zy met myn <rhyme label="a" type="m" corresp="#s3:l1">smart</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Kreeg eenig <rhyme label="b" type="f">medelyden</rhyme>;</l>
+        <l id="s3:l4" met="4" type="-+">Dan wierd ik van geen druk <rhyme label="a" type="m" corresp="#s3:l1">benardt</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">En 'k zag een Eynd van 't <rhyme label="b" type="f" corresp="#s3:l3">lyden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Gae heen dan zugjes snel van <rhyme label="a" type="m">vlugt</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Eh spoey u door d'Azure <rhyme label="a" type="m" corresp="#s4:l1">lugt</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Naer Silvia myn <rhyme label="b" type="f">schoone</rhyme>:</l>
+        <l id="s4:l4" met="4" type="-+">Zeg hoe ik om haer afzyn <rhyme label="a" type="m" corresp="#s4:l1">zugt</rhyme>;</l>
+        <l id="s4:l5" met="3" type="-+">Wil dog u vlyt <rhyme label="b" type="f" corresp="#s4:l3">betoonen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32821</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+    </tags>
+    <melody>Ik ben niet als een pluim</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O Heer ick mach wel <rhyme label="a" type="f">klaghen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">En schreyden dach en <rhyme label="b" type="m">nacht</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Dat ick soo all'mijn <rhyme label="a" type="f" corresp="#s1:l1">daghen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">O Heer u heb <rhyme label="b" type="m" corresp="#s1:l2">veracht</rhyme>:</l>
+        <l id="s1:l5" met="4" type="+-">Och had ick dit wel <rhyme label="b" type="m" corresp="#s1:l2">bedacht</rhyme>!</l>
+        <l id="s1:l6" met="4" type="+-">En van sonden my <rhyme label="b" type="m" corresp="#s1:l2">ghewacht</rhyme>:</l>
+        <l id="s1:l7" met="3" type="-+">Want groot is uwe <rhyme label="b" type="m" corresp="#s1:l2">macht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">V dienaer wilt <rhyme label="a" type="f">ontfermen</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Die hem soo <rhyme label="b" type="m">ontgaen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Aenhoort sijn bitter <rhyme label="a" type="f" corresp="#s2:l1">kermen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Hy roept u Vader <rhyme label="b" type="m" corresp="#s2:l2">aen</rhyme>:</l>
+        <l id="s2:l5" met="4" type="+-">Met den armen <rhyme label="b" type="m" corresp="#s2:l2">Publicaen</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Voor sijn borste kompt hy <rhyme label="b" type="m" corresp="#s2:l2">staen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Wilt hem als een kindt <rhyme label="b" type="m" corresp="#s2:l2">ontfaen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">O Heere van hier <rhyme label="a" type="f">boven</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Wilt mijns ghenadich <rhyme label="b" type="m">zijn</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Ick sal u altijdts <rhyme label="a" type="f" corresp="#s3:l1">loven</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Weert van my t'helsch <rhyme label="b" type="m" corresp="#s3:l2">fenijn</rhyme>:</l>
+        <l id="s3:l5" met="4" type="+-">Daer en is gheen meerdere <rhyme label="b" type="m" corresp="#s3:l2">pijn</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Van de derven u <rhyme label="b" type="m" corresp="#s3:l2">aenschijn</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">O hemelsch' <rhyme label="b" type="m" corresp="#s3:l2">Medecijn</rhyme>:</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">O Heer ick sal <rhyme label="a" type="f">sterven</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">En zijn in grooten <rhyme label="b" type="m">noot</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">En wil my niet <rhyme label="a" type="f" corresp="#s4:l1">bederven</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Al zijn mijn sonden <rhyme label="b" type="m" corresp="#s4:l2">groot</rhyme>:</l>
+        <l id="s4:l5" met="4" type="+-">Laet my doch door u bloet <rhyme label="b" type="m" corresp="#s4:l2">root</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">(Al ben ick van deughden <rhyme label="b" type="m" corresp="#s4:l2">bloot</rhyme>)</l>
+        <l id="s4:l7" met="3" type="-+">Ontgaen de tweede <rhyme label="b" type="m" corresp="#s4:l2">doot</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Wilt my u gracy' <rhyme label="a" type="f">gheven</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">En maeckt my dus <rhyme label="b" type="m">ydoon</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">T'ontfanghen in mijn <rhyme label="a" type="f" corresp="#s5:l1">leven</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Al die pardoenen <rhyme label="b" type="m" corresp="#s5:l2">schoon</rhyme>:</l>
+        <l id="s5:l5" met="4" type="+-">Om te krijghen goeden <rhyme label="b" type="m" corresp="#s5:l2">loon</rhyme>,</l>
+        <l id="s5:l6" met="4" type="+-">En hooren den schoonen <rhyme label="b" type="m" corresp="#s5:l2">thoon</rhyme>,</l>
+        <l id="s5:l7" met="3" type="-+">Komt Bruydt ontfanght de <rhyme label="b" type="m" corresp="#s5:l2">kroon</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">O Iesus hoogh <rhyme label="a" type="f">gheboren</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">Ghy sijt <rhyme label="b" type="m">ghebenedijdt</rhyme>,</l>
+        <l id="s6:l3" met="3" type="-+">En laet my niet <rhyme label="a" type="f" corresp="#s6:l1">verloren</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">Noch heel <rhyme label="b" type="m" corresp="#s6:l2">vermaledijdt</rhyme>,</l>
+        <l id="s6:l5" met="4" type="+-">Die in't Vagheviers <rhyme label="b" type="m" corresp="#s6:l2">ghekrijt</rhyme></l>
+        <l id="s6:l6" met="4" type="+-">Suyveren nu haer <rhyme label="b" type="m" corresp="#s6:l2">habijt</rhyme>,</l>
+        <l id="s6:l7" met="3" type="-+">Om 't eeuwigh schoon <rhyme label="b" type="m" corresp="#s6:l2">jolijt</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Ick wil my gaen <rhyme label="a" type="f">begheven</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Tot alle deught <rhyme label="b" type="m">voorwaer</rhyme>,</l>
+        <l id="s7:l3" met="3" type="-+">Eer ick worde <rhyme label="a" type="f" corresp="#s7:l1">verdreven</rhyme>:</l>
+        <l id="s7:l4" met="3" type="-+">Paulus leert <rhyme label="b" type="m" corresp="#s7:l2">openbaer</rhyme>,</l>
+        <l id="s7:l5" met="4" type="+-">Datter een vier is hier <rhyme label="b" type="m" corresp="#s7:l2">naer</rhyme></l>
+        <l id="s7:l6" met="4" type="+-">Het welck maeckt de ziele <rhyme label="b" type="m" corresp="#s7:l2">claer</rhyme>,</l>
+        <l id="s7:l7" met="3" type="-+">En lost de sonden <rhyme label="b" type="m" corresp="#s7:l2">swaer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

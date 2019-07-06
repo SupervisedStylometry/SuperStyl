@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4541</id>
+    <date>
+      <year-start>1667</year-start>
+      <year-end>1667</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Belle Iris</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">SAlik altijt droevig <rhyme label="a" type="m">zijn</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">En door duysent <rhyme label="b" type="f">ongenuchten</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Altijt weenen, altijt <rhyme label="b" type="f" corresp="#s1:l2">suchten</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">In de swaarste <rhyme label="a" type="m" corresp="#s1:l1">minne-pijn</rhyme>?</l>
+        <l id="s1:l5" met="4" type="+-">Zal ik altijt bitter <rhyme label="c" type="f">kermen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">En niet eens de <rhyme label="d" type="m">weder-min</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Van mijn kille Nimph <rhyme label="c" type="f" corresp="#s1:l5">om-armen</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Die 'k dus onbeweeg'lijk <rhyme label="d" type="m" corresp="#s1:l6">vin</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Mocht ik maar een <rhyme label="a" type="m">oogenblik</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Jupijns hooge macht <rhyme label="b" type="f">besitten</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">'k Achte dan noch brant, noch <rhyme label="b" type="f" corresp="#s2:l2">hitte</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Daar ik nu schier in <rhyme label="a" type="m" corresp="#s2:l1">verstik</rhyme>;</l>
+        <l id="s2:l5" met="4" type="+-">Sy sou dan mijn Leda <rhyme label="c" type="f">wesen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Sy sou mijn Europa <rhyme label="d" type="m">zijn</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">En ik sou mijn selfs <rhyme label="c" type="f" corresp="#s2:l5">genesen</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Onder Stier of Swane <rhyme label="d" type="m" corresp="#s2:l6">schijn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">'k Sou versien als een <rhyme label="a" type="m">Diaan</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">By mijn Io kome <rhyme label="b" type="f">treden</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">En door duysent <rhyme label="b" type="f" corresp="#s3:l2">zoetigheden</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Mijn van alle smart <rhyme label="a" type="m" corresp="#s3:l1">ontslaan</rhyme>;</l>
+        <l id="s3:l5" met="4" type="+-">'k Sou, gelijk een gulden <rhyme label="c" type="f">regen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Die het alles <rhyme label="d" type="m">overwint</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Komen in de plaats <rhyme label="c" type="f" corresp="#s3:l5">gezegen</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">Daar de min verlichting <rhyme label="d" type="m" corresp="#s3:l6">vint</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

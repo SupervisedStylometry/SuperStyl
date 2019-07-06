@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184073</id>
+    <date>
+      <year-start>1806</year-start>
+      <year-end>1806</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Faites venir de <rhyme label="a" type="f">Golconde</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Des pièrres du plus haut <rhyme label="b" type="m">prix</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Les plus beaux cailloux du <rhyme label="a" type="f" corresp="#s1:l1">monde</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Qui n'aient point été <rhyme label="b" type="m" corresp="#s1:l2">polis</rhyme>;</l>
+        <l id="s1:l5" met="4" type="+-">Leur premier aspect <rhyme label="c" type="f">rebute</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Ils sont raboteux, <rhyme label="d" type="m">grossiers</rhyme>;</l>
+        <l id="s1:l7" met="4" type="+-">Telle est une pierre <rhyme label="c" type="f" corresp="#s1:l5">brute</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Qui vient dans nos <rhyme label="d" type="m" corresp="#s1:l6">atteliers</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Mais, des mains de la <rhyme label="a" type="f">nature</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Ce bloc chez nous <rhyme label="b" type="m">transporté</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Prend bientôt une <rhyme label="a" type="f" corresp="#s2:l1">figure</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">De l'éclat, de la <rhyme label="b" type="m" corresp="#s2:l2">beauté</rhyme>;</l>
+        <l id="s2:l5" met="4" type="+-">Et grace à la main <rhyme label="c" type="f">propice</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Qui le tourne en cent <rhyme label="d" type="m">façons</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Il entre dans <rhyme label="c" type="f" corresp="#s2:l5">l'édifice</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Qu'aux vertus nous <rhyme label="d" type="m" corresp="#s2:l6">bâtissons</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

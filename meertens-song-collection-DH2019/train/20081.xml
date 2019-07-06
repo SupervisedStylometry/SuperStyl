@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20081</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>In het voorjaar eer Aurora brak uit</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WAt Noorde wint en <rhyme label="a" type="m">bulder-buy</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Doet Neêrlandts stengen <rhyme label="b" type="f">kraecken</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">En dwinght dat men een Schip <rhyme label="a" type="m" corresp="#s1:l1">vertuy</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Dat noyt in onweers <rhyme label="b" type="f" corresp="#s1:l2">braecken</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Noch Ree, noch Zeyl, noch <rhyme label="c" type="m">Wimpel-streek</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Noch poort, noch kluys deed <rhyme label="d" type="f">drijven</rhyme>.</l>
+        <l id="s1:l7" met="4" type="-+">Noch vyandts macht, noch wapens <rhyme label="c" type="m" corresp="#s1:l5">weeck</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Moet in dit onweer <rhyme label="d" type="f" corresp="#s1:l6">blijven</rhyme>.</l>
+        <l id="s1:l9" met="7" type="-+">Het sinckt, men pomp, en putst vergeefs, en ach! ter nauwer <rhyme label="e" type="m">noot</rhyme>,</l>
+        <l id="s1:l10" met="7" type="-+">Soo bercht sich ’t Vorstelijck gesach, en redt sich met de <rhyme label="e" type="m" corresp="#s1:l9">boot</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Soo treurt de Haaghsche <rhyme label="a" type="m">hovelingh</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">En Neêrlants oorlochs <rhyme label="b" type="f">stijlen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Nu Wilhelm als <rhyme label="a" type="m" corresp="#s2:l1">verschovelingh</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Van ’t licht ten graef doet <rhyme label="b" type="f" corresp="#s2:l2">ijlen</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">De Burger-man vloeckt <rhyme label="c" type="m">Atropos</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">En swemt in bracke <rhyme label="d" type="f">tranen</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Het nooyt vertsaeghde krijghsvolck, <rhyme label="c" type="m" corresp="#s2:l5">los</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Hoofdigh, swieren <rhyme label="d" type="f" corresp="#s2:l6">treur-vanen</rhyme>.</l>
+        <l id="s2:l9" met="7" type="-+">De bloedige Bellona treurt om sulcken oorlochs <rhyme label="e" type="m">Leeuw</rhyme>.</l>
+        <l id="s2:l10" met="7" type="-+">De Lely, Roos, en Bock, en Beyr, en Mars vervloeckt dese <rhyme label="e" type="m" corresp="#s2:l9">eeuw</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Een Werelt vol gewoel, <rhyme label="a" type="m">gedrangh</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Begaf sich op de <rhyme label="b" type="f">paden</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Van Haagh en Delfsche <rhyme label="a" type="m" corresp="#s3:l1">wandelgangh</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Doorluchtighste <rhyme label="b" type="f" corresp="#s3:l2">GENADE</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Soo viert men u Lijcks laetste <rhyme label="c" type="m">eer</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Elck Paert met pronck <rhyme label="d" type="f">behangen</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Schuymbeckende beschreyt sijn <rhyme label="c" type="m" corresp="#s3:l5">Heer</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Der Staten staet <rhyme label="d" type="f" corresp="#s3:l6">bevangen</rhyme>,</l>
+        <l id="s3:l9" met="7" type="-+">Met droef heyt volgen ’t Zege-lijck, en dragen rouw in’t <rhyme label="e" type="m">swart</rhyme>;</l>
+        <l id="s3:l10" met="7" type="-+">Maer sijn Princes en Moeder lief, die dragen rouw in’t <rhyme label="e" type="m" corresp="#s3:l9">hart</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Men viert een bodt van <rhyme label="a" type="m">Adeldom</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Nae ’t graf sijn ancker <rhyme label="b" type="f">kusten</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">De Kabel haalt men <rhyme label="a" type="m" corresp="#s4:l1">wederom</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Maar ’t Ancker blijft’er <rhyme label="b" type="f" corresp="#s4:l2">rusten</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">De Werelt met <rhyme label="c" type="m">verwonderingh</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Die sach die Son <rhyme label="d" type="f">verdwijnen</rhyme>,</l>
+        <l id="s4:l7" met="4" type="-+">Waer dat die Son voor <rhyme label="c" type="m" corresp="#s4:l5">ondergingh</rhyme>,</l>
+        <l id="s4:l8" met="3" type="-+">Die Son die noch sal <rhyme label="d" type="f" corresp="#s4:l6">schijnen</rhyme></l>
+        <l id="s4:l9" met="7" type="-+">In ’t graf met glimp van zegen-praal, sijn eer en faam die <rhyme label="e" type="m">sweeft</rhyme></l>
+        <l id="s4:l10" met="7" type="-+">Gelijck de windt de werelt door, soo ver als menschen <rhyme label="e" type="m" corresp="#s4:l9">leeft</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

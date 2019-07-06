@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100142</id>
+    <date>
+      <year-start>1652</year-start>
+      <year-end>1652</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Petite royale</melody>
+  <author>Arnold Bon</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">VErdwaalde zinnen, die u <rhyme label="a" type="m">Min</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Op 't lonken van twee <rhyme label="b" type="f">oogen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Zonder <rhyme label="b" type="f" corresp="#s1:l2">mededoogen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Stelt van u <rhyme label="a" type="m" corresp="#s1:l1">Godin</rhyme>.</l>
+        <l id="s1:l5" met="3" type="+-">Gy die u <rhyme label="c" type="f">gedachten</rhyme></l>
+        <l id="s1:l6" met="3" type="+-">Boeit in <rhyme label="d" type="m">slaverny</rhyme>;</l>
+        <l id="s1:l7" met="3" type="+-">En van malle <rhyme label="c" type="f" corresp="#s1:l5">klachten</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">Nimmer zat, of <rhyme label="d" type="m" corresp="#s1:l6">vry</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Betreurt u <rhyme label="d" type="m" corresp="#s1:l6">vryery</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ontwaak met wakkerer <rhyme label="a" type="m">gelaet</rhyme>:</l>
+        <l id="s2:l2" met="3" type="-+">En bryzel al de <rhyme label="b" type="f">banden</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Van die hart en <rhyme label="b" type="f" corresp="#s2:l2">handen</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">In haar boeien <rhyme label="a" type="m" corresp="#s2:l1">slaat</rhyme>.</l>
+        <l id="s2:l5" met="3" type="+-">Want die <rhyme label="c" type="f">Flonker-starren</rhyme>,</l>
+        <l id="s2:l6" met="3" type="+-">Die in 't voorhooft <rhyme label="d" type="m">staan</rhyme>,</l>
+        <l id="s2:l7" met="3" type="+-">U verstant <rhyme label="c" type="f" corresp="#s2:l5">verwarren</rhyme>.</l>
+        <l id="s2:l8" met="3" type="+-">Om verdwaalde <rhyme label="d" type="m" corresp="#s2:l6">paân</rhyme></l>
+        <l id="s2:l9" met="3" type="-+">Onveilig in te <rhyme label="d" type="m" corresp="#s2:l6">slaan</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

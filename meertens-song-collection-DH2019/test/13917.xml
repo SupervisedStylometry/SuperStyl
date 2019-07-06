@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13917</id>
+    <date>
+      <year-start>1646</year-start>
+      <year-end>1646</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Boksvoetje</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HOe is ‘et gheselschap dus dapper <rhyme label="a" type="m">verheught</rhyme>?</l>
+        <l id="s1:l2" met="1" type="-+">Hoe zinght <rhyme label="b" type="f">‘et</rhyme>,</l>
+        <l id="s1:l3" met="1" type="-+">Hoe springht <rhyme label="b" type="f" corresp="#s1:l2">‘et</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Wat maeckt ‘et een <rhyme label="a" type="m" corresp="#s1:l1">vreught</rhyme>?</l>
+        <l id="s1:l5" met="2" type="-+">Elck toonter om ‘t <rhyme label="c" type="m">meest</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Een lustighe <rhyme label="c" type="m" corresp="#s1:l5">gheest</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Wat isser de oorsaeck, ô vrolijcke <rhyme label="a" type="m" corresp="#s1:l1">Ieught</rhyme>/</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Om datter de Bruy’gom zijn wensje <rhyme label="a" type="m">gheniet</rhyme>,</l>
+        <l id="s2:l2" met="1" type="-+">Dit <rhyme label="b" type="f">queelen</rhyme></l>
+        <l id="s2:l3" met="1" type="-+">En <rhyme label="b" type="f" corresp="#s2:l2">speelen</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Alleenigh <rhyme label="a" type="m" corresp="#s2:l1">gheschiedt</rhyme>:</l>
+        <l id="s2:l5" met="2" type="-+">Dus zijt ghy <rhyme label="c" type="m">verblijdt</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">Om dat hy de <rhyme label="c" type="m" corresp="#s2:l5">strijdt</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Heeft treftigh ghewonnnen, nae al zijn <rhyme label="a" type="m" corresp="#s2:l1">verdriet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ons Bruydtje, is niemandt daer ‘tminst mee <rhyme label="a" type="m">begaen</rhyme>?</l>
+        <l id="s3:l2" met="1" type="-+">Hoe <rhyme label="b" type="f">duyster</rhyme></l>
+        <l id="s3:l3" met="1" type="-+">De <rhyme label="b" type="f" corresp="#s3:l2">luyster</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">Haer Lonckertjes <rhyme label="a" type="m" corresp="#s3:l1">staen</rhyme>?</l>
+        <l id="s3:l5" met="2" type="-+">Sy sught en sy <rhyme label="c" type="m">steent</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">Sy schreyt en sy <rhyme label="c" type="m" corresp="#s3:l5">weent</rhyme>;</l>
+        <l id="s3:l7" met="4" type="-+">En neemje haer bittere sughjes niet <rhyme label="a" type="m" corresp="#s3:l1">aen</rhyme>?</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Hoe, hebben haer traentjes by u dan gheen <rhyme label="a" type="m">kracht</rhyme>?</l>
+        <l id="s4:l2" met="1" type="-+">Haer <rhyme label="b" type="f">duchten</rhyme>,</l>
+        <l id="s4:l3" met="1" type="-+">En <rhyme label="b" type="f" corresp="#s4:l2">zuchten</rhyme>,</l>
+        <l id="s4:l4" met="2" type="-+">Waerom soo <rhyme label="a" type="m" corresp="#s4:l1">veracht</rhyme>?</l>
+        <l id="s4:l5" met="2" type="-+">Of is wel haer <rhyme label="c" type="m">gheest</rhyme></l>
+        <l id="s4:l6" met="2" type="-+">T’onrechte <rhyme label="c" type="m" corresp="#s4:l5">bevreest</rhyme>,</l>
+        <l id="s4:l7" met="4" type="-+">Zoo eyndtse dan beter haer droevighe <rhyme label="a" type="m" corresp="#s4:l1">klacht</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Wel loddere Nymphjes terwijlje <rhyme label="a" type="m">verstaet</rhyme></l>
+        <l id="s5:l2" met="1" type="-+">Haer <rhyme label="b" type="f">weenen</rhyme>,</l>
+        <l id="s5:l3" met="1" type="-+">En <rhyme label="b" type="f" corresp="#s5:l2">steenen</rhyme></l>
+        <l id="s5:l4" met="2" type="-+">Voor malle <rhyme label="a" type="m" corresp="#s5:l1">ghelaet</rhyme></l>
+        <l id="s5:l5" met="2" type="-+">Soo laet ons dan <rhyme label="c" type="m">sien</rhyme></l>
+        <l id="s5:l6" met="2" type="-+">In haeste <rhyme label="c" type="m" corresp="#s5:l5">gheschien</rhyme></l>
+        <l id="s5:l7" met="4" type="-+">Des Minnaers begheeren en uyterste <rhyme label="a" type="m" corresp="#s5:l1">raedt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

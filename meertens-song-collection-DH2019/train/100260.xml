@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100260</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>A table avec mes amis</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">O Spys! voor ons <rhyme label="a" type="m">opgerigt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Uw glans geschildert op <rhyme label="b" type="f">paneelen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Blyft kragteloos en zonder <rhyme label="a" type="m" corresp="#s1:l1">ligt</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Nu gy voor ons <rhyme label="a" type="m" corresp="#s1:l1">gezigt</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Zelfs wezentlyk koomt <rhyme label="b" type="f" corresp="#s1:l2">speelen</rhyme>.</l>
+        <l id="s1:l6" met="3" type="-+">Ons hert werd verkwikt en <rhyme label="c" type="m">verheugd</rhyme>.</l>
+        <l id="s1:l7" met="3" type="-+">Ons hert werd verkwikt en <rhyme label="c" type="m" corresp="#s1:l6">verheugd</rhyme>.</l>
+        <l id="s1:l8" met="4" type="-+">ô Tafel, vol van <rhyme label="d" type="f">Lekkernyen</rhyme>!</l>
+        <l id="s1:l9" met="6" type="+-">Koom voldoet, Door uw zoet, Ons <rhyme label="e" type="m">gemoed</rhyme></l>
+        <l id="s1:l10" met="2" type="+-">Met <rhyme label="d" type="f" corresp="#s1:l8">verblyen</rhyme>,</l>
+        <l id="s1:l11" met="5" type="-+">Verzaadig, Verzaadig onze lust met <rhyme label="c" type="m" corresp="#s1:l6">vreugd</rhyme>,</l>
+        <l id="s1:l12" met="4" type="-+">Verzaadig onze lust met <rhyme label="c" type="m" corresp="#s1:l6">vreugd</rhyme>,</l>
+        <l id="s1:l13" met="5" type="-+">Verzaadig, Verzaadig onze lust met <rhyme label="c" type="m" corresp="#s1:l6">vreugd</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

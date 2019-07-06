@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>183932</id>
+    <date>
+      <year-start>1806</year-start>
+      <year-end>1806</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Nous nous unissons en tous <rhyme label="a" type="m">lieux</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Par le slambeau qui nous <rhyme label="b" type="f">éclaire</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">L'enfance a de trop foibles <rhyme label="a" type="m" corresp="#s1:l1">yeux</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Pour en supporter la <rhyme label="b" type="f" corresp="#s1:l2">lumiére</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Nous devons saire un juste <rhyme label="c" type="m">choix</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">L'adolescence est trop peu <rhyme label="d" type="f">sage</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Et nos mystères et nos <rhyme label="c" type="m" corresp="#s1:l5">loix</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Ne sont pas de tout <rhyme label="d" type="f" corresp="#s1:l6">âge</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Quand l'âge mûr est <rhyme label="a" type="m">soutenu</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Des sentimens, de la <rhyme label="b" type="f">prudence</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">L'homme parmi nous est <rhyme label="a" type="m" corresp="#s2:l1">reçu</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Sous les loix du dieu du <rhyme label="b" type="f" corresp="#s2:l2">silence</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">L'aimable vieillesse, par <rhyme label="c" type="m">choix</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Est admise et reçoit <rhyme label="d" type="f">hommage</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Car nos mystères et nos <rhyme label="c" type="m" corresp="#s2:l5">loix</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Sont le propre du <rhyme label="d" type="f" corresp="#s2:l6">sage</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">La candeur, qui règne entre <rhyme label="a" type="m">nous</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Crayonne les traits de <rhyme label="b" type="f">l'enfance</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Dans nos plaisirs chastes et <rhyme label="a" type="m" corresp="#s3:l1">doux</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">On réconnoit <rhyme label="b" type="f" corresp="#s3:l2">l'adolescence</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">On y trouve les <rhyme label="c" type="m">attributs</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Qui dans l'âge mûr sont un <rhyme label="d" type="f">sage</rhyme>;</l>
+        <l id="s3:l7" met="4" type="-+">Et qui juge et lit nos <rhyme label="c" type="m" corresp="#s3:l5">statuts</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">De la vieillesse y voit <rhyme label="d" type="f" corresp="#s3:l6">l'ouvrage</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

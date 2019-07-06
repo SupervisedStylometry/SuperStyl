@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1654</id>
+    <date>
+      <year-start>1544</year-start>
+      <year-end>1544</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>Het kwamen drie ruiters gelopen</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HEt quamen drie ruyters <rhyme label="a" type="m">geloopen</rhyme>.</l>
+        <l id="s1:l2" met="3" type="-+">So verre int duytsche <rhyme label="b" type="m">lant</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Met netten ende met knoopen  ia <rhyme label="c" type="f">knoopen</rhyme>.</l>
+        <l id="s1:l4" met="3" type="-+">Het waren die beste diemen <rhyme label="b" type="m" corresp="#s1:l2">vant</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Si quamen voor eender waerdinnen <rhyme label="a" type="m">huys</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Al daermen tapte den <rhyme label="b" type="m">wijn</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Waerdinne wi droncken so gaerne  ia <rhyme label="c" type="f">gaerne</rhyme>.</l>
+        <l id="s2:l4" met="3" type="-+">Wi en hebben gheen <rhyme label="b" type="m" corresp="#s2:l2">gheldekijn</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Waer op soude ick v <rhyme label="a" type="m">borghen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Ghi coemt wt vreemde <rhyme label="b" type="m">landen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">V cleederkens die zijn dinne  ia <rhyme label="c" type="f">dinne</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Ghi en hebbet ghelt noch <rhyme label="b" type="m" corresp="#s3:l2">panden</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Doen sprack dat ionckwijf vanden <rhyme label="a" type="m">huys</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Nv tappet den ruyters den <rhyme label="b" type="m">wijn</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Al dat si verteeren  ia <rhyme label="c" type="f">teeren</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">daer sal ick v boorghe voor <rhyme label="b" type="m" corresp="#s4:l2">zijn</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Doen sprac die vrouwe vanden <rhyme label="a" type="m">huys</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">En spreket niet so <rhyme label="b" type="m">bout</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Si souden v helpen verteeren  ia <rhyme label="c" type="f">teeren</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">V siluer ende oock v <rhyme label="b" type="m" corresp="#s5:l2">gout</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Doen sprac dat ionck wijf vanden <rhyme label="a" type="m">huys</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Ic woude die ioncste ruyter waere <rhyme label="b" type="m">mijn</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Ende icker mede soude gaen wandelen  ia <rhyme label="c" type="f">wandelen</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Van Straesborch tot op den <rhyme label="b" type="m" corresp="#s6:l2">rijn</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Die ioncste ruyter tooch wt zijn <rhyme label="a" type="m">net</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Ende worpt inder maghet <rhyme label="b" type="m">schoot</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">daer stont die edel ruyter  ia <rhyme label="c" type="f">ruyter</rhyme>.</l>
+        <l id="s7:l4" met="3" type="-+">In een wambeys van goude <rhyme label="b" type="m" corresp="#s7:l2">root</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>161707</id>
+    <date>
+      <year-start>1736</year-start>
+      <year-end>1736</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Joannes de Lixbona</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">SA menschen sonder <rhyme label="a" type="f">beven</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Loopt met de Herderkens <rhyme label="b" type="m">als</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Den Heer die sal u <rhyme label="a" type="f" corresp="#s1:l1">geven</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Te Bethleem in den <rhyme label="b" type="m" corresp="#s1:l2">stal</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Gaet gy hem daer <rhyme label="c" type="f">besoecken</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Hy leyt gewonden in <rhyme label="c" type="f" corresp="#s1:l5">doecken</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Die ons verlossen <rhyme label="b" type="m" corresp="#s1:l2">sal</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Wel Godt, o kleyne <rhyme label="a" type="f">kindt</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Is u liefde soo <rhyme label="b" type="m">groot</rhyme>?</l>
+        <l id="s2:l3" met="3" type="-+">Om den mensch te <rhyme label="a" type="f" corresp="#s2:l1">ontbinden</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Verlossen hem van de <rhyme label="b" type="m" corresp="#s2:l2">doodt</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Nochtans des werelts <rhyme label="c" type="f">rallen</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">En deught nu niet met <rhyme label="c" type="f" corresp="#s2:l5">allen</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Door haeren handel <rhyme label="b" type="m" corresp="#s2:l2">snoodt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Komt mensch ick moet u <rhyme label="a" type="f">schencken</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Jesus dat kleyne <rhyme label="b" type="m">kindt</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Wilt gy het eens <rhyme label="a" type="f" corresp="#s3:l1">gedencken</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Wat knoop hy u <rhyme label="b" type="m" corresp="#s3:l2">ontbindt</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Want Adam door de <rhyme label="c" type="f">sonden</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Had ons leelijck <rhyme label="c" type="f" corresp="#s3:l5">gebondem</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">En Jesus noch <rhyme label="b" type="m" corresp="#s3:l2">bemint</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

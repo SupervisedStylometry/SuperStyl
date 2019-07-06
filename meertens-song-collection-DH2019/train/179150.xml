@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>179150</id>
+    <date>
+      <year-start>1866</year-start>
+      <year-end>1866</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Haar eigen gulden ringetje</melody>
+  <author>Frans de Cort</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Haar eigen gulden ringsken <rhyme label="a" type="m">gaf</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Mijn liefste meisje <rhyme label="b" type="m">mij</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Het schoonste roosken plukte ik <rhyme label="a" type="m" corresp="#s1:l1">af</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En schonk het haar zoo <rhyme label="b" type="m" corresp="#s1:l2">blij</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Ze stak zich, vreugdeblozend, <rhyme label="c" type="m">ras</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Het roosken op de <rhyme label="d" type="m">borst</rhyme>;</l>
+        <l id="s1:l7" met="4" type="-+">En, 't ring-sken aan den vinger, <rhyme label="c" type="m" corresp="#s1:l5">was</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Ik fier-der dan een <rhyme label="d" type="m" corresp="#s1:l6">vorst</rhyme>.</l>
+        <l id="s1:l9" met="4" type="-+">Ze zoende mij, ik zoende <rhyme label="e" type="m">haar</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">Al zwe-rend, dat <rhyme label="f" type="m">ge-trouw</rhyme></l>
+        <l id="s1:l11" met="4" type="+-">De zoetste liefde ons aan <rhyme label="e" type="m" corresp="#s1:l9">elkaar</rhyme></l>
+        <l id="s1:l12" met="3" type="-+">Voor eeuwig hechten <rhyme label="f" type="m" corresp="#s1:l10">zou</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Niet lang en duurt der roze <rhyme label="a" type="m">bloei</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Verwelken is haar <rhyme label="b" type="m">lot</rhyme>...</l>
+        <l id="s2:l3" met="4" type="-+">En als de wind des winters <rhyme label="a" type="m" corresp="#s2:l1">woei</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Was 't lieve kind bij <rhyme label="b" type="m" corresp="#s2:l2">God</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Maar vóór het scheiden sprak ze: <rhyme label="c" type="m">Vriend</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">En ween toch niet zoo <rhyme label="d" type="m">zeer</rhyme>;</l>
+        <l id="s2:l7" met="4" type="-+">In 's Heeren schoonen hemel <rhyme label="c" type="m" corresp="#s2:l5">vindt</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Gij uwe bruid eens <rhyme label="d" type="m" corresp="#s2:l6">weêr</rhyme>:</l>
+        <l id="s2:l9" met="4" type="-+">Daar wacht ik u, en ben ik <rhyme label="e" type="m">u</rhyme>,</l>
+        <l id="s2:l10" met="3" type="-+">Zoodra gij komt, <rhyme label="f" type="m">nabij</rhyme>,</l>
+        <l id="s2:l11" met="4" type="+-">Want aan mijn ringsken ken ik <rhyme label="e" type="m" corresp="#s2:l9">u</rhyme>,</l>
+        <l id="s2:l12" met="3" type="-+">Gij, aan uw roosken, <rhyme label="f" type="m" corresp="#s2:l10">mij</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

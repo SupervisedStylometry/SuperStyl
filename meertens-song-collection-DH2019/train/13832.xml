@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13832</id>
+    <date>
+      <year-start>1646</year-start>
+      <year-end>1646</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">STort uyt, mijn droef <rhyme label="a" type="m">gesicht</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Een tranen-vloet met <rhyme label="b" type="f">klaghen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">En schreyt gestadigh <rhyme label="c" type="m">aen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Om het groote <rhyme label="d" type="m">misdaedt</rhyme>,</l>
+        <l id="s1:l5" met="3" type="+-">Van al u <rhyme label="b" type="f" corresp="#s1:l2">levedaghen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Tegens den Heer <rhyme label="c" type="m" corresp="#s1:l3">begaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ick heb uw’ <rhyme label="a" type="m">menigh-mael</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Met vuyle grove <rhyme label="b" type="f">sonden</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">O goede Godt <rhyme label="c" type="m">vergramt</rhyme>:</l>
+        <l id="s2:l4" met="3" type="+-">Heer ick soeck van uw’ <rhyme label="d" type="m">Heyl</rhyme></l>
+        <l id="s2:l5" met="3" type="+-">Voor mijn bedurven <rhyme label="b" type="f" corresp="#s2:l2">wonden</rhyme>,</l>
+        <l id="s2:l6" met="3" type="+-">Door een boetvaerdigh <rhyme label="c" type="m" corresp="#s2:l3">Ampt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Aensiet, ô Jesu <rhyme label="a" type="m">soet</rhyme>!</l>
+        <l id="s3:l2" met="3" type="-+">Mijn arme Ziel <rhyme label="b" type="f">gheladen</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Met een zwaer sondigh <rhyme label="c" type="m">pack</rhyme>:</l>
+        <l id="s3:l4" met="3" type="+-">Ey, verlicht hare <rhyme label="d" type="m">last</rhyme>:</l>
+        <l id="s3:l5" met="3" type="+-">Brenght haer door uw’ <rhyme label="b" type="f" corresp="#s3:l2">ghenade</rhyme></l>
+        <l id="s3:l6" met="3" type="+-">In’t Hemelsch <rhyme label="c" type="m" corresp="#s3:l3">ghemack</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

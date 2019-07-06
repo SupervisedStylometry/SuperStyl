@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>118776</id>
+    <date>
+      <year-start>1687</year-start>
+      <year-end>1687</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="ratelaarslied" translation="nightwatchman's song">ratelaarslied</tag>
+    </tags>
+    <melody>Lofzang van Simeon [Datheen]</melody>
+    <categories>
+      <category translation="work">werk</category>
+    </categories>
+  <author>Willem Sluiter</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Het sloegh daer eeven <rhyme label="a" type="m">drie</rhyme>.</l>
+        <l id="s1:l2" met="3" type="-+">Denckt dat de nacht al <rhyme label="a" type="m" corresp="#s1:l1">vlie</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">En nu soos haest ten end' <rhyme label="b" type="f">is</rhyme>.</l>
+        <l id="s1:l4" met="3" type="-+">Men siet de dagh te <rhyme label="c" type="m">moet</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Die vol van alle <rhyme label="c" type="m" corresp="#s1:l4">soet</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">En vry van all' elend' <rhyme label="b" type="f" corresp="#s1:l3">is</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

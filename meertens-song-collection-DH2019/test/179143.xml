@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>179143</id>
+    <date>
+      <year-start>1866</year-start>
+      <year-end>1866</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>De appelaar</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Lest werd ik onder 't vriendlijk <rhyme label="a" type="m">dak</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Eens milden waards <rhyme label="b" type="f">ontvangen</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Zijn schild, dat was een lange <rhyme label="a" type="m" corresp="#s1:l1">tak</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Met gulden ooft <rhyme label="b" type="f" corresp="#s1:l2">behangen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die goede waard was de <rhyme label="a" type="m">appelaar</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Gij hebt het vast <rhyme label="b" type="f">geraden</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Ik vond er drank en spijze <rhyme label="a" type="m" corresp="#s2:l1">klaar</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Die zou geen vorst <rhyme label="b" type="f" corresp="#s2:l2">versmaden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Het krielde er in de groene <rhyme label="a" type="m">zaal</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Van vlugge <rhyme label="b" type="f">dischgenooten</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Die, dankbaar voor het gulle <rhyme label="a" type="m" corresp="#s3:l1">onthaal</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Een vroolijk liedje <rhyme label="b" type="f" corresp="#s3:l2">floten</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">En als ik mij ter ruste <rhyme label="a" type="m">blij</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Op 't mossig leger <rhyme label="b" type="f">strekte</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Zoo was 't de hospes zelf, die <rhyme label="a" type="m" corresp="#s4:l1">mij</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Met koele schaduw <rhyme label="b" type="f" corresp="#s4:l2">dekte</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">En vriendlijk schudde hij van <rhyme label="a" type="m">neen</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Toen ik betalen <rhyme label="b" type="f">wilde</rhyme>...</l>
+        <l id="s5:l3" met="4" type="-+">Gebenedijd van top tot <rhyme label="a" type="m" corresp="#s5:l1">teen</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Zij de appelaar, de <rhyme label="b" type="f" corresp="#s5:l2">milde</rhyme> !</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>177129</id>
+    <date>
+      <year-start>1757</year-start>
+      <year-end>1757</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Le printemps rappelle aux armes</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Ik kom u myn dienst <rhyme label="a" type="f">opdragen</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">ô Puik der <rhyme label="a" type="f" corresp="#s1:l1">magen</rhyme>;</l>
+        <l id="s1:l3" met="4" type="+-">Ik kom u myn dienst <rhyme label="a" type="f" corresp="#s1:l1">opdragen</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">ô <rhyme label="b" type="m">Veldgodin</rhyme>!</l>
+        <l id="s1:l5" met="4" type="+-">Laat myn byzyn u <rhyme label="a" type="f" corresp="#s1:l1">behagen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Als wel eer ô <rhyme label="b" type="m" corresp="#s1:l4">Herderin</rhyme>.</l>
+        <l id="s1:l7" met="4" type="+-">Laat myn byzyn u <rhyme label="a" type="f" corresp="#s1:l1">behagen</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Als wel eer ô <rhyme label="b" type="m" corresp="#s1:l4">Herderin</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Maar, wat 's dit, ik hoor u <rhyme label="a" type="f">zuchten</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">Wat moet ik <rhyme label="a" type="f" corresp="#s2:l1">duchten</rhyme>?</l>
+        <l id="s2:l3" met="4" type="+-">Maar, wat 's dit, ik hoor u <rhyme label="a" type="f" corresp="#s2:l1">zuchten</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">Zeg my de <rhyme label="b" type="m">reên</rhyme>;</l>
+        <l id="s2:l5" met="4" type="+-">Word uw hart door <rhyme label="a" type="f" corresp="#s2:l1">ongenuchten</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Wreed gepynigt of <rhyme label="b" type="m" corresp="#s2:l4">bestreên</rhyme>?</l>
+        <l id="s2:l7" met="4" type="+-">Word uw hart door <rhyme label="a" type="f" corresp="#s2:l1">ongenuchten</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Wreed gepynigt of <rhyme label="b" type="m" corresp="#s2:l4">bestreên</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

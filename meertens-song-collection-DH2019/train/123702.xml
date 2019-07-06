@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>123702</id>
+    <date>
+      <year-start>1841</year-start>
+      <year-end>1841</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+      <tag standard-name="gezelschapslied" translation="social song">gezelschapslied</tag>
+    </tags>
+    <melody>Femmes voulez-vous éprouver</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Als 't glaasje in 't rondte vrolijk <rhyme label="a" type="m">zwiert</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En 't hart door vreugd is <rhyme label="b" type="f">opgetogen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Dan wordt de blijdschap bot <rhyme label="a" type="m" corresp="#s1:l1">gevierd</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Zij vlamt zij tintelt elk uit <rhyme label="b" type="f" corresp="#s1:l2">d'oogen</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Doch hoe die vreugd ook stijgt ten <rhyme label="c" type="m">top</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Uw bijzijn moet ons werk <rhyme label="d" type="f">bekroonen</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">'t Gevoel van 't hart welt hooger <rhyme label="c" type="m" corresp="#s1:l5">op</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Als gij er zijt, o lieve <rhyme label="d" type="f" corresp="#s1:l6">Schoone</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Gij zijt bij vreugd, bij disch, bij <rhyme label="a" type="m">wijn</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Een bloemenkrans die door zijn <rhyme label="b" type="f">geuren</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Ons in een hemelhof doet <rhyme label="a" type="m" corresp="#s2:l1">zijn</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Waar 't alles smelt in zachte <rhyme label="b" type="f" corresp="#s2:l2">kleuren</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Op rozenperken treden <rhyme label="c" type="m">wij</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Wanneer g'uw glanzen gaat <rhyme label="d" type="f">vertoonen</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Gelukkig dan dit uur dat <rhyme label="c" type="m" corresp="#s2:l5">gij</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Hier bij ons zijt, o lieve <rhyme label="d" type="f" corresp="#s2:l6">schoone</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wij achten u gelijk een <rhyme label="a" type="m">bloem</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Waaraan geen schender zich durft <rhyme label="b" type="f">wagen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Van elke vreugd krijgt gij de <rhyme label="a" type="m" corresp="#s3:l1">roem</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Daar w'op uw bijzijn glorie <rhyme label="b" type="f" corresp="#s3:l2">dragen</rhyme>;</l>
+        <l id="s3:l5" met="4" type="-+">Komt, Broeders! 't glaasje aan den <rhyme label="c" type="m">mond</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Wie zou zich thans gevoelloos <rhyme label="d" type="f">toonen</rhyme>?</l>
+        <l id="s3:l7" met="4" type="-+">En drinkt het leêg tot op den <rhyme label="c" type="m" corresp="#s3:l5">grond</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Op 't welzijn van de lieve <rhyme label="d" type="f" corresp="#s3:l6">Schoone</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

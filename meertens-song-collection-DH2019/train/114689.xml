@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>114689</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+      <tag standard-name="martelaarslied" translation="martyr song">martelaarslied</tag>
+    </tags>
+    <melody>Cloris veux-tu savoir</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Guilielmus Bolognino</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O Hemelschen <rhyme label="a" type="m">Agaet</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Doorluchtich boven <rhyme label="a" type="m" corresp="#s1:l1">maet</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Seer heeft u Godt <rhyme label="b" type="m">bemint</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Van u <rhyme label="b" type="m" corresp="#s1:l3">ghedient</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Die om u <rhyme label="c" type="m">suyverheyt</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">U trouw en <rhyme label="d" type="f">deughden</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">In 's hemels <rhyme label="d" type="f" corresp="#s1:l6">vreughden</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">U heeft <rhyme label="c" type="m" corresp="#s1:l5">ingheleyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">U schoonheydt <rhyme label="a" type="m">aenghestaen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Seer had aen <rhyme label="a" type="m" corresp="#s2:l1">Quintiaen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Die oock met alle <rhyme label="b" type="m">macht</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Om niet <rhyme label="b" type="m" corresp="#s2:l3">ghetracht</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">U heeft u <rhyme label="c" type="m">suyverheydt</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Te doen <rhyme label="d" type="f">besmetten</rhyme>,</l>
+        <l id="s2:l7" met="2" type="-+">Maer niet <rhyme label="d" type="f" corresp="#s2:l6">ontsetten</rhyme></l>
+        <l id="s2:l8" met="3" type="+-">Kost 't hert, Godt <rhyme label="c" type="m" corresp="#s2:l5">bereyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Dus om 't ghelooft doen <rhyme label="a" type="m">hy</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Heeft u, te sterven <rhyme label="a" type="m" corresp="#s3:l1">bly</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Doen pijnen met den <rhyme label="b" type="m">brandt</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">Aen alle <rhyme label="b" type="m" corresp="#s3:l3">kant</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Jae heeft u borst doen <rhyme label="c" type="m">af</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">Te gront toe <rhyme label="d" type="f">snijden</rhyme>,</l>
+        <l id="s3:l7" met="2" type="-+">Met bitter <rhyme label="d" type="f" corresp="#s3:l6">lijden</rhyme>,</l>
+        <l id="s3:l8" met="3" type="+-">Die Godt weer u <rhyme label="c" type="m" corresp="#s3:l5">gaf</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Doen Petrus comen <rhyme label="a" type="m">is</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">In de <rhyme label="a" type="m" corresp="#s4:l1">ghevanckenis</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Om te vertroosten <rhyme label="b" type="m">u</rhyme>,</l>
+        <l id="s4:l4" met="2" type="-+">Gheen pijnen <rhyme label="b" type="m" corresp="#s4:l3">mu</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Die oock heeft u <rhyme label="c" type="m">terstont</rhyme></l>
+        <l id="s4:l6" met="2" type="-+">Bevrijt van <rhyme label="d" type="f">smerten</rhyme>,</l>
+        <l id="s4:l7" met="2" type="-+">En bly van <rhyme label="d" type="f" corresp="#s4:l6">herten</rhyme></l>
+        <l id="s4:l8" met="3" type="+-">Heel ghemaeckt <rhyme label="c" type="m" corresp="#s4:l5">ghesont</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Doen heeft u <rhyme label="a" type="m">Quintiaen</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Nieuw lijden <rhyme label="a" type="m" corresp="#s5:l1">aenghedaen</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Tot dat trock uwen <rhyme label="b" type="m">gheest</rhyme></l>
+        <l id="s5:l4" met="2" type="-+">Nae 's hemels <rhyme label="b" type="m" corresp="#s5:l3">feest</rhyme>.</l>
+        <l id="s5:l5" met="3" type="-+">Maer ons ghedenckt nu <rhyme label="c" type="m">daer</rhyme>,</l>
+        <l id="s5:l6" met="2" type="-+">Helpt met <rhyme label="d" type="f">ghebeden</rhyme></l>
+        <l id="s5:l7" met="2" type="-+">Ons hier <rhyme label="d" type="f" corresp="#s5:l6">bestreden</rhyme></l>
+        <l id="s5:l8" met="3" type="+-">Met seer groot <rhyme label="c" type="m" corresp="#s5:l5">ghevaer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

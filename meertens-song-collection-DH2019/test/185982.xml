@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185982</id>
+    <date>
+      <year-start>1717</year-start>
+      <year-end>1717</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Wat zijn er al narren wat zijn er al gekken</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WAt zyn 'er al Narren, wat zyn 'er al <rhyme label="a" type="f">Gekken</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Die met pleisters van gout, hunne wonden <rhyme label="a" type="f" corresp="#s1:l1">bedekken</rhyme>!</l>
+        <l id="s1:l3" met="4" type="-+">O Wysheit! gy rykdom, zoo dierbaar en <rhyme label="b" type="m">waard'</rhyme>,</l>
+        <l id="s1:l4" met="5" type="+-">Gy zyt het hoogste, het hoogste goet op <rhyme label="b" type="m" corresp="#s1:l3">aard'</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">het hoogste, het hoogste goet op <rhyme label="b" type="m" corresp="#s1:l3">Aard'</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

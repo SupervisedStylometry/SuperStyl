@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176122</id>
+    <date>
+      <year-start>1640</year-start>
+      <year-end>1640</year-end>
+    </date>
+    <location>
+      <orginal-name>deventer</orginal-name>
+      <standard-name>Deventer, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.2532272</lon>
+        <lat>6.1584725</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 123 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">TOt u hef ick mijn oog' in droeve <rhyme label="a" type="m">tijt</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Die in den hemel <rhyme label="a" type="m" corresp="#s1:l1">zijt</rhyme>.</l>
+        <l id="s1:l3" met="5" type="-+">Als knechts, die tot de handen harer <rhyme label="b" type="f">Heeren</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Haer flaeuwe oogen <rhyme label="b" type="f" corresp="#s1:l3">keeren</rhyme>.</l>
+        <l id="s1:l5" met="5" type="-+">Als maegden, die de handen harer <rhyme label="c" type="f">vrouwen</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">In tegenheyt <rhyme label="c" type="f" corresp="#s1:l5">aenschouwen</rhyme>:</l>
+        <l id="s1:l7" met="5" type="-+">Soo is in noot geduerich ons <rhyme label="d" type="m">gesicht</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Tot God den Heer <rhyme label="d" type="m" corresp="#s1:l7">gericht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Wilt ons by tijts genadich zijn, o <rhyme label="a" type="m">Heer</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Begunstiget ons <rhyme label="a" type="m" corresp="#s2:l1">weer</rhyme>.</l>
+        <l id="s2:l3" met="5" type="-+">Eylaes! wy zijn op 't bitterste <rhyme label="b" type="f">gesmadet</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Ons' siele is <rhyme label="b" type="f" corresp="#s2:l3">versadet</rhyme></l>
+        <l id="s2:l5" met="5" type="-+">Van spot en hoon dergener die in <rhyme label="c" type="f">rusten</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Bedrijven hare <rhyme label="c" type="f" corresp="#s2:l5">lusten</rhyme>.</l>
+        <l id="s2:l7" met="5" type="-+">Wy zijn versaet te lijden al den <rhyme label="d" type="m">trots</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Van dees verwaende <rhyme label="d" type="m" corresp="#s2:l7">sots</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

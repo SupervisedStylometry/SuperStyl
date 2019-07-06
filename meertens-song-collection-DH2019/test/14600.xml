@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14600</id>
+    <date>
+      <year-start>1638</year-start>
+      <year-end>1638</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="gezongen onze vader" translation="sung Lord's prayer">gezongen Onze Vader</tag>
+    </tags>
+    <melody>O zalig heilig Bethlehem</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">LAet ons den Heere danckbaer <rhyme label="a" type="m">zijn</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Wilt hem hier loven ende <rhyme label="b" type="f">prijsen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Die ons al spijst op elck <rhyme label="a" type="m" corresp="#s1:l1">termijn</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">'t Is recht, dat wy hem lof <rhyme label="b" type="f" corresp="#s1:l2">bewijsen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wilt loven sijnen name <rhyme label="a" type="m">soet</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Die ons door sijn macht kan <rhyme label="b" type="f">versaden</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Elck hem met lof-sangh prijsen <rhyme label="a" type="m" corresp="#s2:l1">moet</rhyme>:</l>
+        <l id="s2:l4" met="4" type="-+">Dat hy ons spijst door sijn <rhyme label="b" type="f" corresp="#s2:l2">ghenaden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Vervult zijn wy met spijs en <rhyme label="a" type="m">dranck</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Door sijn goetheyt tot ons <rhyme label="b" type="f">weldadig</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Dus moeten wy hem spreken <rhyme label="a" type="m" corresp="#s3:l1">danck</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Aenroepen sijnen naem <rhyme label="b" type="f" corresp="#s3:l2">ghestadigh</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Dus u met herten tot hem <rhyme label="a" type="m">keert</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">En leght uw' handen all' te <rhyme label="b" type="f">gader</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">En bidt soo Godt ons heeft <rhyme label="a" type="m" corresp="#s4:l1">gheleert</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Segghende t' samen onsen <rhyme label="b" type="f" corresp="#s4:l2">Vader</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">O Heer, wy segghen nu voor 't <rhyme label="a" type="m">slot</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Wilt doch oock spijsen onse <rhyme label="b" type="f">zielen</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Op dat wy Heer na u <rhyme label="a" type="m" corresp="#s5:l1">ghebodt</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Leven, wy die in sonden <rhyme label="b" type="f" corresp="#s5:l2">krielen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Princelijck Godt ghenade <rhyme label="a" type="m">doet</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Op dat wy door Christum <rhyme label="b" type="f">vewerven</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Ghenade, door sijn dierbaer <rhyme label="a" type="m" corresp="#s6:l1">Bloedt</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Saligh te leven en te <rhyme label="b" type="f" corresp="#s6:l2">sterven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

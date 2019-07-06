@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19461</id>
+    <date>
+      <year-start>1642</year-start>
+      <year-end>1642</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
+    </tags>
+    <melody>Ik wil van deze avond</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Jan van der Veen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">DEn Gulden Broeder vande bleke Iacht <rhyme label="a" type="m">Goddin</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Met syn ghevlamde <rhyme label="b" type="f">stralen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Reyst nu na de Wester <rhyme label="b" type="f" corresp="#s1:l2">palen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Tot vernoegingh vande <rhyme label="a" type="m" corresp="#s1:l1">min</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Castor en Pollux die tyen op de <rhyme label="a" type="m">Iacht</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">En Nox met swart <rhyme label="b" type="f">betooghen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Siet met hondert duysent <rhyme label="b" type="f" corresp="#s2:l2">Ooghen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Daar soo mennigh Lief op <rhyme label="a" type="m" corresp="#s2:l1">acht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">Dus is de tijdt verloopen, de ruste loose <rhyme label="a" type="m">tijdt</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">De tijdt die is <rhyme label="b" type="f">verganghen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Haast sal enden u <rhyme label="b" type="f" corresp="#s3:l2">verlanghen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Ghy die nieuw ghebonden <rhyme label="a" type="m" corresp="#s3:l1">syt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">Wel op Hollandtsche Nimphen, wel op ghy poppe <rhyme label="a" type="m">goet</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Wel op ey spoet <rhyme label="b" type="f">treden</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Pooght met vlijt de Bruyt <rhyme label="b" type="f" corresp="#s4:l2">t'ontkleden</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Als het ummers wesen <rhyme label="a" type="m" corresp="#s4:l1">moet</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="6" type="-+">Acht geen geveynsde traantjes, s'en schroomt toch voor geen <rhyme label="a" type="m">Man</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Neen Bruyt en wilt niet <rhyme label="b" type="f">schooren</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Al u moeyten is <rhyme label="b" type="f" corresp="#s5:l2">verloeren</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Neen Jans kint ghy moetter <rhyme label="a" type="m" corresp="#s5:l1">an</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="6" type="-+">Nu lustigh rustigh Bruygom, waar staje na en <rhyme label="a" type="m">wacht</rhyme>?</l>
+        <l id="s6:l2" met="3" type="-+">Gaat troost u <rhyme label="b" type="f">Catalijntje</rhyme>,</l>
+        <l id="s6:l3" met="4" type="+-">Soetjes achter het <rhyme label="b" type="f" corresp="#s6:l2">Gardijntje</rhyme>,</l>
+        <l id="s6:l4" met="4" type="+-">Daar me segh ik goeden <rhyme label="a" type="m" corresp="#s6:l1">nacht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

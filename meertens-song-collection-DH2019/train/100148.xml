@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100148</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">EGte Paartje gaat, 'k Bid ey <rhyme label="a" type="m">laat</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Ons met u een roemer <rhyme label="b" type="f">wagen</rhyme>,</l>
+        <l id="s1:l3" met="6" type="+-">Tot adieu van alle vreugd Die de <rhyme label="c" type="m">Jeugd</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Teelde in uwe Maagde <rhyme label="b" type="f" corresp="#s1:l2">dagen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

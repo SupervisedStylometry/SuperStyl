@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>178041</id>
+    <date>
+      <year-start>1774</year-start>
+      <year-end>1774</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Psalm 134 Datheen</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Looft, looft nu aller heeren <rhyme label="a" type="m">HEER</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Gij, zijne knechten, geeft Hem <rhyme label="a" type="m" corresp="#s1:l1">eer</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Gij, die des nachts zijn huis <rhyme label="b" type="m">bewaakt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">En voor zijn' dienst in ijver <rhyme label="b" type="m" corresp="#s1:l3">blaakt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Heft uwe handen naar <rhyme label="a" type="m">omhoog</rhyme>;</l>
+        <l id="s2:l2" met="4" type="-+">Slaat naar het heiligdom uw <rhyme label="a" type="m" corresp="#s2:l1">oog</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En knielt eerbiedig voor Hem <rhyme label="b" type="m">neêr</rhyme>;</l>
+        <l id="s2:l4" met="4" type="-+">Looft, looft nu aller heeren <rhyme label="b" type="m" corresp="#s2:l3">HEER</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Dat 's HEEREN zegen op u <rhyme label="a" type="m">daal'</rhyme>;</l>
+        <l id="s3:l2" met="4" type="-+">Zijn gunst uit Sion u <rhyme label="a" type="m" corresp="#s3:l1">bestraal'</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Hij schiep 't heelal, zijn' naam ter <rhyme label="b" type="m">eer</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">Looft, looft dan aller heeren <rhyme label="b" type="m" corresp="#s3:l3">HEER</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

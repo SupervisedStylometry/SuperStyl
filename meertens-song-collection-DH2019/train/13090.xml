@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13090</id>
+    <date>
+      <year-start>1644</year-start>
+      <year-end>1644</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+    </tags>
+    <melody>De tijd is hier</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Christianus Vermeulen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">COmt, laet ons <rhyme label="a" type="m">gaen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Den groenen Mey nu <rhyme label="b" type="f">draghen</rhyme></l>
+        <l id="s1:l3" met="3" type="+-">Daer den <rhyme label="a" type="m" corresp="#s1:l1">Pellicaen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Jesus, op heeft <rhyme label="c" type="m">gherust</rhyme>:</l>
+        <l id="s1:l5" met="2" type="-+">Hy heeft <rhyme label="a" type="m" corresp="#s1:l1">voldaen</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Voor ons naer zijn <rhyme label="b" type="f" corresp="#s1:l2">behaghen</rhyme>,</l>
+        <l id="s1:l7" met="3" type="+-">Door 'tbloedich <rhyme label="a" type="m" corresp="#s1:l1">vaen</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Ons sonden <rhyme label="c" type="m" corresp="#s1:l4">uytgheblust</rhyme>:</l>
+        <l id="s1:l9" met="3" type="-+">Dese Mey <rhyme label="a" type="m" corresp="#s1:l1">t'ontfaen</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">Hadt Christus groote <rhyme label="c" type="m" corresp="#s1:l4">lust</rhyme>,</l>
+        <l id="s1:l11" met="4" type="+-">Om dat hy soude doen te <rhyme label="d" type="m">niet</rhyme></l>
+        <l id="s1:l12" met="4" type="-+">Die Evam door den boom <rhyme label="d" type="m" corresp="#s1:l11">verriet</rhyme></l>
+        <l id="s1:l13" met="3" type="+-">Triumph, en <rhyme label="e" type="m">accoort</rhyme>,</l>
+        <l id="s1:l14" met="3" type="-+">Brenght dese Mey-boom <rhyme label="e" type="m" corresp="#s1:l13">voort</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Wort niet <rhyme label="a" type="m">vermoeydt</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Wilt voor dees' Mey niet <rhyme label="b" type="f">vreesen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">Want uyt hem so <rhyme label="a" type="m" corresp="#s2:l1">vloeydt</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Al wat ghenaemt wert <rhyme label="c" type="m">goet</rhyme>.</l>
+        <l id="s2:l5" met="2" type="-+">Hy staet seer fraey en <rhyme label="a" type="m" corresp="#s2:l1">bloeydt</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Van Bloempjens <rhyme label="b" type="f" corresp="#s2:l2">uytghelesen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="+-">Want hy is <rhyme label="a" type="m" corresp="#s2:l1">besproeydt</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Met Christus dierbaer <rhyme label="c" type="m" corresp="#s2:l4">bloet</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">Dus niet en <rhyme label="a" type="m" corresp="#s2:l1">verfoeydt</rhyme></l>
+        <l id="s2:l10" met="3" type="-+">Den Mey, in uwe <rhyme label="c" type="m" corresp="#s2:l4">moet</rhyme></l>
+        <l id="s2:l11" met="4" type="+-">Die nu wel gheeft een doorne <rhyme label="d" type="m">Kroon</rhyme>,</l>
+        <l id="s2:l12" met="4" type="-+">Maer daer nae eeuwichduerend' <rhyme label="d" type="m" corresp="#s2:l11">loon</rhyme>,</l>
+        <l id="s2:l13" met="3" type="+-">Triumph, en <rhyme label="e" type="m">accoort</rhyme></l>
+        <l id="s2:l14" met="3" type="-+">Brenght dese Mey-boom <rhyme label="e" type="m" corresp="#s2:l13">voort</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Broeders <rhyme label="a" type="m">gemeyn</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Laet ons nu <rhyme label="b" type="f">contempleeren</rhyme></l>
+        <l id="s3:l3" met="3" type="+-">Desen Mey-boom <rhyme label="a" type="m" corresp="#s3:l1">reyn</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Waer door ons wort <rhyme label="c" type="m">bereydt</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">Een wegh <rhyme label="a" type="m" corresp="#s3:l1">certeyn</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Waer door men moet <rhyme label="b" type="f" corresp="#s3:l2">passeeren</rhyme></l>
+        <l id="s3:l7" met="3" type="+-">Naer dat Edel <rhyme label="a" type="m" corresp="#s3:l1">greyn</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Christus ons <rhyme label="c" type="m" corresp="#s3:l4">salicheydt</rhyme>:</l>
+        <l id="s3:l9" met="3" type="-+">Want nae 'sHemels <rhyme label="a" type="m" corresp="#s3:l1">pleyn</rhyme></l>
+        <l id="s3:l10" met="3" type="-+">Gheen ander padt en <rhyme label="c" type="m" corresp="#s3:l4">leydt</rhyme></l>
+        <l id="s3:l11" met="4" type="+-">Dan door ons Heeren bloedich <rhyme label="d" type="m">Cruys</rhyme></l>
+        <l id="s3:l12" met="4" type="-+">Dat ons sal brenghen in Gods <rhyme label="d" type="m" corresp="#s3:l11">Huys</rhyme>,</l>
+        <l id="s3:l13" met="3" type="+-">Triumph, en <rhyme label="e" type="m">acoort</rhyme></l>
+        <l id="s3:l14" met="3" type="-+">Brenght dese Mey-boom <rhyme label="e" type="m" corresp="#s3:l13">voort</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

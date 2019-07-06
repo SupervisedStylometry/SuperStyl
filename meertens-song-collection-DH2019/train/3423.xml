@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3423</id>
+    <date>
+      <year-start>1575</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Gij zotten en zottinnen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>D.V. Coornhert</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Nu hoort na my van Liefde wil ick <rhyme label="a" type="f">zingen</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Die thert heeft vry// magh vrolick omme <rhyme label="a" type="f" corresp="#s1:l1">springen</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Maar die haar handen <rhyme label="a" type="f" corresp="#s1:l1">wringen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Door Venus lustens <rhyme label="b" type="m">kracht</rhyme>:</l>
+        <l id="s1:l5" met="3" type="-+">En konnen zich niet <rhyme label="a" type="f" corresp="#s1:l1">dwingen</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Zy trueren dagh en <rhyme label="b" type="m" corresp="#s1:l4">nacht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">De liefd die plaght, voormaals te zyn vol <rhyme label="a" type="f">trouwen</rhyme>:</l>
+        <l id="s2:l2" met="5" type="-+">Wert nu veracht// dit brengter veel in <rhyme label="a" type="f" corresp="#s2:l1">rouwen</rhyme>:</l>
+        <l id="s2:l3" met="3" type="-+">Alzomen magh <rhyme label="a" type="f" corresp="#s2:l1">aanschouwen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Bedrogh heeft <rhyme label="b" type="m">regiment</rhyme>:</l>
+        <l id="s2:l5" met="3" type="-+">In mannen en in <rhyme label="a" type="f" corresp="#s2:l1">vrouwen</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Reyn jonst blyft <rhyme label="b" type="m" corresp="#s2:l4">onbekent</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Doort wezen jent// met valsche woorden <rhyme label="a" type="f">schone</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">Werd elck gheschent, ghebracht int spot en <rhyme label="a" type="f" corresp="#s3:l1">hone</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Ontrouw spant nu de <rhyme label="a" type="f" corresp="#s3:l1">Kroone</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Int ontrouw aardsche <rhyme label="b" type="m">dal</rhyme>.</l>
+        <l id="s3:l5" met="3" type="-+">Veel drux gheeft zy te <rhyme label="a" type="f" corresp="#s3:l1">lone</rhyme>:</l>
+        <l id="s3:l6" met="3" type="-+">Met pyn en <rhyme label="b" type="m" corresp="#s3:l4">ongheval</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Eel prins wie zal// de listen valsch <rhyme label="a" type="f">bekinnen</rhyme>:</l>
+        <l id="s4:l2" met="5" type="-+">Diemen nu al// ghebruycket inder <rhyme label="a" type="f" corresp="#s4:l1">minnen</rhyme>.</l>
+        <l id="s4:l3" met="3" type="-+">De Mans zyn meest van <rhyme label="a" type="f" corresp="#s4:l1">binnen</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Tot hoerdery <rhyme label="b" type="m">ghestelt</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Zo staan der Vrouwkens <rhyme label="a" type="f" corresp="#s4:l1">zinnen</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Oock veel na tlieve <rhyme label="b" type="m" corresp="#s4:l4">gheld</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

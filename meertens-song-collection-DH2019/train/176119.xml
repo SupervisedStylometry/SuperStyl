@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176119</id>
+    <date>
+      <year-start>1640</year-start>
+      <year-end>1640</year-end>
+    </date>
+    <location>
+      <orginal-name>deventer</orginal-name>
+      <standard-name>Deventer, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.2532272</lon>
+        <lat>6.1584725</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 121 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacobus Revius</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MYn oog' ick na de bergen <rhyme label="a" type="m">slae</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Van waer int <rhyme label="b" type="m">tranen-dal</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">My hulpe comen <rhyme label="b" type="m" corresp="#s1:l2">sal</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Om hulp ick tot den Heere <rhyme label="a" type="m" corresp="#s1:l1">gae</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Die aerd' en hemel <rhyme label="c" type="f">beyde</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Door syne cracht <rhyme label="c" type="f" corresp="#s1:l5">bereydde</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hy sal niet laten uwen <rhyme label="a" type="m">voet</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Wtglijden, want <rhyme label="b" type="m">altijt</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Waeckt hy die u <rhyme label="b" type="m" corresp="#s2:l2">bevrijt</rhyme>.</l>
+        <l id="s2:l4" met="4" type="-+">Siet, hy die Israël <rhyme label="a" type="m" corresp="#s2:l1">behoedt</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Is altoos inde <rhyme label="c" type="f">wapen</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">En wetet van geen <rhyme label="c" type="f" corresp="#s2:l5">slapen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">De Heer wil u bewaerder <rhyme label="a" type="m">zijn</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Een schaduw' voor den <rhyme label="b" type="m">brant</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Aen uwe <rhyme label="b" type="m" corresp="#s3:l2">rechterhant</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">Des daechs sal u de <rhyme label="a" type="m" corresp="#s3:l1">sonne-schijn</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Niet steken, noch by <rhyme label="c" type="f">nachten</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">De maen u doen <rhyme label="c" type="f" corresp="#s3:l5">versmachten</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">De Heer voor allerhande <rhyme label="a" type="m">quaet</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Neemt u in syn <rhyme label="b" type="m">bewaer</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">En hoedt u voor <rhyme label="b" type="m" corresp="#s4:l2">gevaer</rhyme>.</l>
+        <l id="s4:l4" met="4" type="-+">En als ghy uyt of <rhyme label="a" type="m" corresp="#s4:l1">inne-gaet</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Soo sal hy u <rhyme label="c" type="f">bevrijden</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Van nu tot allen <rhyme label="c" type="f" corresp="#s4:l5">tijden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

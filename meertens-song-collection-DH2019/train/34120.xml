@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34120</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Adorable Phyllis pour qui mon coeur</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Petrus Suetmans, Eustachius de Meyer</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">Moght ick u schoon Vrindin, myn alder-liefste <rhyme label="a" type="f">noemen</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Alleen u slaef te zyn, is't al daer ick naer <rhyme label="b" type="m">tracht</rhyme>.</l>
+        <l id="s1:l3" met="6" type="-+">Reyn maeght op uw jonst, sal ick my dan <rhyme label="a" type="f" corresp="#s1:l1">beroemen</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">In wie myn vreucht berust, die ick op d'aerd' <rhyme label="b" type="m" corresp="#s1:l2">verwacht</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Al-waert al 'twaeter inckt, al had' ick al die <rhyme label="a" type="f">schachten</rhyme>,</l>
+        <l id="s2:l2" met="6" type="-+">Soo veel als 'tgediert, 'twelck door den hemel <rhyme label="b" type="m">swiert</rhyme>,</l>
+        <l id="s2:l3" met="6" type="-+">Al myn verstant en sou met sinnen, noch met <rhyme label="a" type="f" corresp="#s2:l1">krachten</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Konnen beschryven lief, hoe weert ghy zyt <rhyme label="b" type="m" corresp="#s2:l2">gheviert</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">Soetste van't vrouw gheslacht, die is op d'aerd' te <rhyme label="a" type="f">vinden</rhyme>,</l>
+        <l id="s3:l2" met="6" type="-+">Oprechte schoonigheyt, die gheen ghelyck en <rhyme label="b" type="m">heeft</rhyme>,</l>
+        <l id="s3:l3" met="6" type="-+">Prysbaer in alle deucht, weest soet aen den <rhyme label="a" type="f" corresp="#s3:l1">beminden</rhyme>,</l>
+        <l id="s3:l4" met="6" type="-+">Die maer naer troost en wacht, en u ten dienste <rhyme label="b" type="m" corresp="#s3:l2">leeft</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

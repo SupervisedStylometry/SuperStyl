@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188323</id>
+    <date>
+      <year-start>1780</year-start>
+      <year-end>1780</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DIe ik verhoor, wil ik <rhyme label="a" type="f">beminnen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Tot in de Dood, met al myn <rhyme label="b" type="m">hart</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">'t Verandert al, maar myne <rhyme label="a" type="f" corresp="#s1:l1">zinnen</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Zyn getrouw, zyn <rhyme label="c" type="m">getrouw</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Verachtend, Ramp, en <rhyme label="b" type="m" corresp="#s1:l2">Smart</rhyme>.</l>
+        <l id="s1:l6" met="4" type="-+">Gy wilt verand'ren, my <rhyme label="d" type="f">verlaaten</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Wat, heb ik U misdaan, myn <rhyme label="e" type="m">Kind</rhyme>.</l>
+        <l id="s1:l8" met="4" type="-+">Is 't mogelyk, dat men kan <rhyme label="d" type="f" corresp="#s1:l6">haaten</rhyme></l>
+        <l id="s1:l9" met="4" type="+-">Dat men heeft, dat men <rhyme label="f" type="m">heeft</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">Zo gul en teer <rhyme label="e" type="m" corresp="#s1:l7">Bemindt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10271</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Sarabande Pinel</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Nv sich ondanckbaer toont mijn <rhyme label="a" type="f">Herderinne</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Dat overvloedigh rechtvaerdige <rhyme label="b" type="m">minne</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">En laght om 't leet dat sy mijn ziel soo <rhyme label="a" type="f" corresp="#s1:l1">quelt</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">My sou houden in haer banden <rhyme label="b" type="m" corresp="#s1:l2">ghewelt</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">Haer wesen, schoon gelaet, acht ic niet <rhyme label="c" type="m">meer</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Lichtvaerdig, smadich acht ick veel te <rhyme label="c" type="m" corresp="#s1:l5">seer</rhyme>,</l>
+        <l id="s1:l7" met="5" type="-+">Want liefde troosteloos, de liefde <rhyme label="d" type="m">pijn</rhyme></l>
+        <l id="s1:l8" met="5" type="-+">'t Is min, het waer veel beter doodt te <rhyme label="d" type="m" corresp="#s1:l7">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Wijt van bedwangen zijn al mijn <rhyme label="a" type="f">gepeynsen</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">'k Heb geen vermaeck in haer stuur <rhyme label="b" type="m">gelaet</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Meynt sy dat ick sal lijden al haer <rhyme label="a" type="f" corresp="#s2:l1">veynsen</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">En my sal ophouden met 'er <rhyme label="b" type="m" corresp="#s2:l2">praet</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Al 't soet gelonck gelach acht sy voor <rhyme label="c" type="m">spot</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">Dies wil ick breecken liefde, bandt, en <rhyme label="c" type="m" corresp="#s2:l5">slot</rhyme>,</l>
+        <l id="s2:l7" met="5" type="-+">Want liefde troosteloos, de liefde <rhyme label="d" type="m">pijn</rhyme></l>
+        <l id="s2:l8" met="5" type="-+">'t Is min, het waer veel beter doodt te <rhyme label="d" type="m" corresp="#s2:l7">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Haer tover-oogen die my soo veel <rhyme label="a" type="f">tranen</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">Kosten, en waren mijn eertijts soo <rhyme label="b" type="m">lief</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Krijghen mijn voeten niet meer op de <rhyme label="a" type="f" corresp="#s3:l1">bane</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Die ick versleet tot haer dienste <rhyme label="b" type="m" corresp="#s3:l2">gerief</rhyme>.</l>
+        <l id="s3:l5" met="5" type="-+">Als ick met liefde ben op haer <rhyme label="c" type="m">gesint</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">Wil ick beminnen, en oock zijn <rhyme label="c" type="m" corresp="#s3:l5">bemint</rhyme>,</l>
+        <l id="s3:l7" met="5" type="-+">Want liefde troosteloos, de liefde <rhyme label="d" type="m">pijn</rhyme></l>
+        <l id="s3:l8" met="5" type="-+">'t Is min, het waer veel beter doodt te <rhyme label="d" type="m" corresp="#s3:l7">zijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

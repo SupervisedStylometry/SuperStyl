@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4461</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+    </tags>
+    <melody>Ik had een boeltje uitverkoren [vervolg onbekend]</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">VVie Godt hier dient altijt met goeden <rhyme label="a" type="f">luste</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Is aenghenaem en hy <rhyme label="b" type="m">vercrijght</rhyme>//</l>
+        <l id="s1:l3" met="4" type="-+">En sijn ghebet dat bringht hem <rhyme label="a" type="f" corresp="#s1:l1">ruste</rhyme>//</l>
+        <l id="s1:l4" met="4" type="-+">Twelck op tot in den hemel <rhyme label="b" type="m" corresp="#s1:l2">stijght</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">T ghebet ghesproken hier al in <rhyme label="a" type="f">cleynde</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Dringht door de wolcken <rhyme label="b" type="m">dicht</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Ten laet niet af ten neemt gheen <rhyme label="a" type="f" corresp="#s2:l1">eynde</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Tot dat het coemt in Godts <rhyme label="b" type="m" corresp="#s2:l2">ghesicht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">Dan en sal Godt die Heer oock niet <rhyme label="a" type="f">vertrecken</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Recht oordeel teghens <rhyme label="b" type="m">weerparty</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Sijn straffe sal hy dan <rhyme label="a" type="f" corresp="#s3:l1">ondecken</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">En den bedruckten hier staen <rhyme label="b" type="m" corresp="#s3:l2">by</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="+-">Tot dat hy hier onstucken heeft <rhyme label="a" type="f">gheslaghen</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">De lendenen boos ende <rhyme label="b" type="m">hert</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Van onbarmhertighe die t'volck hier <rhyme label="a" type="f" corresp="#s4:l1">plaghen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Twelck door sijn hant ghewroken <rhyme label="b" type="m" corresp="#s4:l2">wert</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="+-">Hy salse al te zamen hier <rhyme label="a" type="f">wtroyen</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Die hier den ermen doen te <rhyme label="b" type="m">cort</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">De onrechtuaerdighe sal hy <rhyme label="a" type="f" corresp="#s5:l1">verstroyen</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Sy sullen worden <rhyme label="b" type="m" corresp="#s5:l2">onghestort</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="5" type="+-">Hy gheeft een ieghelijck hier na sijn <rhyme label="a" type="f">wercken</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Nae verdienst loont sijn <rhyme label="b" type="m">maiesteyt</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Hy wreect, verhuecht alsmen mach <rhyme label="a" type="f" corresp="#s6:l1">mercken</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Met sijn seer groote <rhyme label="b" type="m" corresp="#s6:l2">barmherticheyt</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="5" type="+-">Ghelijck hier coemt t'rechter tijt <rhyme label="a" type="f">reghen</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Als haer de droochte spreyt <rhyme label="b" type="m">wijt</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Soo wort barmherticheyt oock hier <rhyme label="a" type="f" corresp="#s7:l1">ghecreghen</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">In noot en ter rechter <rhyme label="b" type="m" corresp="#s7:l2">tijt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

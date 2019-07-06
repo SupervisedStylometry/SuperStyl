@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21021</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
+    </tags>
+    <melody>Gelukkig is de mens</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author>Jan Zoet</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">EEn Man, die 't acht <rhyme label="a" type="m">gewin</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Sich, na Gods-wil te <rhyme label="b" type="f">voegen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Sal God, en sijn <rhyme label="a" type="m" corresp="#s1:l1">gesin</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">(In Christi naam) <rhyme label="b" type="f" corresp="#s1:l2">vernoegen</rhyme>:</l>
+        <l id="s1:l5" met="3" type="-+">Als hy God-vruchtig <rhyme label="c" type="m">leefd</rhyme>:</l>
+        <l id="s1:l6" met="3" type="-+">God, en den Keyser, <rhyme label="c" type="m" corresp="#s1:l5">geeft</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Dat elk te eyschen <rhyme label="c" type="m" corresp="#s1:l5">heeft</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">De vreese Gods voor <rhyme label="a" type="m">al</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Te hebben: en te <rhyme label="b" type="f">leeren</rhyme>.</l>
+        <l id="s2:l3" met="3" type="-+">Voorsichtig, in dit <rhyme label="a" type="m" corresp="#s2:l1">dal</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Der tranen, te <rhyme label="b" type="f" corresp="#s2:l2">verkeeren</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">Sijn Huysvrouw (als een <rhyme label="c" type="m">Kroon</rhyme>)</l>
+        <l id="s2:l6" met="3" type="-+">Sijn zaadt, des huw'lijks <rhyme label="c" type="m" corresp="#s2:l5">loon</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Te leyden: tot Gods <rhyme label="c" type="m" corresp="#s2:l5">Troon</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Gelukkig is het <rhyme label="a" type="m">huys</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Bestuurd, door dien <rhyme label="b" type="f">Huys-vader</rhyme>:</l>
+        <l id="s3:l3" met="3" type="-+">In voor-spoed, en in 't <rhyme label="a" type="m" corresp="#s3:l1">kruys</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">'t Rust op hem, <rhyme label="b" type="f" corresp="#s3:l2">alle-gader</rhyme>.</l>
+        <l id="s3:l5" met="3" type="-+">Hy sorgt voor ziel, en <rhyme label="c" type="m">lijf</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Van Dienst-boôn, Kind, en <rhyme label="c" type="m" corresp="#s3:l5">Wijf</rhyme>.</l>
+        <l id="s3:l7" met="3" type="-+">En dempt haar vuyl <rhyme label="c" type="m" corresp="#s3:l5">gekijf</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

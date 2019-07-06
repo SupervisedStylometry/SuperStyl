@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21909</id>
+    <date>
+      <year-start>1580</year-start>
+      <year-end>1580</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 134 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Philips van Marnix</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GHy die des Heeren dienaers <rhyme label="a" type="m">zijt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">End' in zijn huys blijft alle <rhyme label="a" type="m" corresp="#s1:l1">tijdt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Dach ende nacht looft al te <rhyme label="b" type="m">saem</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Des Heeren allerhoogsten <rhyme label="b" type="m" corresp="#s1:l3">Naem</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">* Steeckt reyne handen vry om <rhyme label="a" type="m">hoogh'</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Heft op v herten end' u <rhyme label="a" type="m" corresp="#s2:l1">oogh'</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Nae Godes huys end' <rhyme label="b" type="m">heylighdom</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">End' prijst hem doch all' om end' <rhyme label="b" type="m" corresp="#s2:l3">om</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">* De Heer die hemel heeft end' <rhyme label="a" type="m">eerd'</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Gheschapen, end' die't all' <rhyme label="a" type="m" corresp="#s3:l1">gheneert</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Verleene dy zijn seghen <rhyme label="b" type="m">goet</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Wt Sion in all' <rhyme label="b" type="m" corresp="#s3:l3">ouervloet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

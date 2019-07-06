@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3437</id>
+    <date>
+      <year-start>1575</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Psalm 077 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>D.V. Coornhert</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">VAn liefd zingt myn herte <rhyme label="a" type="f">veyligh</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Zondigh, natuurlick, en <rhyme label="a" type="f" corresp="#s1:l1">heyligh</rhyme>.</l>
+        <l id="s1:l3" met="4" type="+-">Zondigh mint de mensch het <rhyme label="b" type="m">quaad</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Dat Goods ghoedheyd zere <rhyme label="b" type="m" corresp="#s1:l3">haat</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">Zondigh mintmen ghoede <rhyme label="c" type="f">dingen</rhyme>:</l>
+        <l id="s1:l6" met="4" type="+-">Diemen boven God <rhyme label="c" type="f" corresp="#s1:l5">gheringen</rhyme>:</l>
+        <l id="s1:l7" met="4" type="+-">Zo aankleeft, al zynze ons <rhyme label="d" type="m">vreemd</rhyme>:</l>
+        <l id="s1:l8" met="4" type="+-">Datmen truert als God die <rhyme label="d" type="m" corresp="#s1:l7">neemt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Hem zelf mint de mensch <rhyme label="a" type="f">natuurlick</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Dit lockt ons tot liefd <rhyme label="a" type="f" corresp="#s2:l1">gheduurlick</rhyme>.</l>
+        <l id="s2:l3" met="4" type="+-">Haar mildheyd elck mensch <rhyme label="b" type="m">gherieft</rhyme>:</l>
+        <l id="s2:l4" met="4" type="+-">Dan verdwynt ons eyghen <rhyme label="b" type="m" corresp="#s2:l3">liefd</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">Natuurlick oock oyt <rhyme label="c" type="f">beminde</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Alle moeder haren <rhyme label="c" type="f" corresp="#s2:l5">kinde</rhyme>.</l>
+        <l id="s2:l7" met="4" type="+-">Dat zy voedt met zorgh en <rhyme label="d" type="m">vlyt</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Niet om haar maart kints <rhyme label="d" type="m" corresp="#s2:l7">profijt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Heyligh moetmen de Liefd <rhyme label="a" type="f">pryzen</rhyme>:</l>
+        <l id="s3:l2" met="4" type="+-">Die van d'aard om hoogh kan <rhyme label="a" type="f" corresp="#s3:l1">ryzen</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Daar zy lieft God boven// <rhyme label="b" type="m">al</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Want God zelf dees loven// <rhyme label="b" type="m" corresp="#s3:l3">zal</rhyme>.</l>
+        <l id="s3:l5" met="4" type="+-">Dees baart liefd in herte en <rhyme label="c" type="f">zinnen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Die den naasten doet <rhyme label="c" type="f" corresp="#s3:l5">beminnen</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Als hem zelf ter liefd van <rhyme label="d" type="m">God</rhyme>.</l>
+        <l id="s3:l8" met="4" type="+-">Dits alder gheboden <rhyme label="d" type="m" corresp="#s3:l7">slot</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

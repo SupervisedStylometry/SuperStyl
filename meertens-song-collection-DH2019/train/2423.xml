@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2423</id>
+    <date>
+      <year-start>1597</year-start>
+      <year-end>1597</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Helaas ik arm ellendig wijf</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Hendrik van Boxtel</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Waer ick gae oft waer ick <rhyme label="a" type="m">stae</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Nerghens en can ick rust <rhyme label="b" type="f">ghevinden</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Ick was eertijts van herten <rhyme label="a" type="m" corresp="#s1:l1">frae</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Maer nv beproef ick veel <rhyme label="b" type="f" corresp="#s1:l2">allenden</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Nemmermeer en is in my vreuchden en <rhyme label="c" type="m">schijn</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Want ongetroost van lief geen meerder <rhyme label="c" type="m" corresp="#s1:l5">pijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Prince gheen pijn isser so <rhyme label="a" type="m">fel</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Dan van sijn lief veracht te <rhyme label="b" type="f">werden</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Ick beproeft nv, dus weet ickt <rhyme label="a" type="m" corresp="#s2:l1">wel</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Nochtans houd ick haer als lief op <rhyme label="b" type="f" corresp="#s2:l2">eerden</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Nemmermeer en can ick blijde <rhyme label="c" type="m">ghezijn</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">Want ongetroost van lief geen meerder <rhyme label="c" type="m" corresp="#s2:l5">pijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

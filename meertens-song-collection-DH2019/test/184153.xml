@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184153</id>
+    <date>
+      <year-start>1863</year-start>
+      <year-end>1863</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Kindertjes het is ochtend</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">Kinder-kens, 't is <rhyme label="a" type="f">uchtend</rhyme>!</l>
+        <l id="s1:l2" met="3" type="+-">Komt, ter slaapsteê <rhyme label="b" type="m">uit</rhyme>!</l>
+        <l id="s1:l3" met="3" type="+-">Hoort! de vog'len <rhyme label="c" type="f">zin-gen</rhyme></l>
+        <l id="s1:l4" met="3" type="+-">Reeds met zoet <rhyme label="b" type="m" corresp="#s1:l2">geluid</rhyme>:</l>
+        <l id="s1:l5" met="3" type="+-">'t Haantje roept u <rhyme label="d" type="f">wakker</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Hoort! hij kraait <rhyme label="e" type="m">uw</rhyme></l>
+        <l id="s1:l7" met="3" type="+-">Langer niet <rhyme label="f" type="f">geslapen</rhyme>!</l>
+        <l id="s1:l8" met="3" type="+-">Doopt uw hoofd in 't <rhyme label="e" type="m" corresp="#s1:l6">nat</rhyme>,</l>
+        <l id="s1:l9" met="3" type="+-">Dat het frissche <rhyme label="f" type="f" corresp="#s1:l7">water</rhyme></l>
+        <l id="s1:l10" met="3" type="+-">Om uw ooren <rhyme label="e" type="m" corresp="#s1:l6">spat</rhyme>:</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Veel moet nog <rhyme label="a" type="f">begonnen</rhyme>,</l>
+        <l id="s2:l2" met="3" type="+-">Veel is nog te <rhyme label="b" type="m">naam</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">En de boom-tak tikt <rhyme label="c" type="f">u</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">Te-gen 't <rhyme label="b" type="m" corresp="#s2:l2">vensterraam</rhyme>,</l>
+        <l id="s2:l5" met="3" type="+-">En de boomtak tikt <rhyme label="d" type="f">u</rhyme></l>
+        <l id="s2:l6" met="3" type="+-">Tegen 't <rhyme label="e" type="m">vensterraam</rhyme>.</l>
+        <l id="s2:l7" met="3" type="+-">doen, Kinderkens, wordt <rhyme label="f" type="f">wakker</rhyme>!</l>
+        <l id="s2:l8" met="3" type="+-">Al te ras is 't <rhyme label="e" type="m" corresp="#s2:l6">noen</rhyme>,</l>
+        <l id="s2:l9" met="3" type="+-">Kinderkens, wordt <rhyme label="f" type="f" corresp="#s2:l7">wakker</rhyme>!</l>
+        <l id="s2:l10" met="3" type="+-">Al te ras is 't <rhyme label="e" type="m" corresp="#s2:l6">noen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

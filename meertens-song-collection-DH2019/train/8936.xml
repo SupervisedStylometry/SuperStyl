@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8936</id>
+    <date>
+      <year-start>1625</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Durch Adams Fall ist ganz verderbt</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DE Heer die is mijn Herder <rhyme label="a" type="m">goet</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">My en sal niet <rhyme label="b" type="f">ghebreken</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Hy weydt my op valleyen <rhyme label="a" type="m" corresp="#s1:l1">soet</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Tot verssche water <rhyme label="b" type="f" corresp="#s1:l2">beken</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Hy my beschickt// En hy <rhyme label="c" type="m">verquickt</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Mijn ziel: Op rechter <rhyme label="d" type="f">straten</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Voert hy my stil// Om syns Naems <rhyme label="e" type="m">wil</rhyme>:</l>
+        <l id="s1:l8" met="3" type="-+">Hy komt my ras te <rhyme label="d" type="f" corresp="#s1:l6">baten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

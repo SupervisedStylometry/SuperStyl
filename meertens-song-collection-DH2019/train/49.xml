@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>49</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>Als Atalante doden maakte</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">PHoebus had zijn krolde <rhyme label="a" type="f">waagen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">Quaalik <rhyme label="a" type="f" corresp="#s1:l1">aangeslagen</rhyme>:</l>
+        <l id="s1:l3" met="7" type="-+">Als ik mijn teere geytjes hoeden langs den <rhyme label="b" type="m">Amstelstroom</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Waar ik mijn <rhyme label="c" type="m">Son</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Beschooten <rhyme label="c" type="m" corresp="#s1:l4">von</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">In schaauw van <rhyme label="a" type="f" corresp="#s1:l1">haagen</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">Ik kusten <rhyme label="d" type="m">haar</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Sy wier 't <rhyme label="d" type="m" corresp="#s1:l7">gewaar</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">En antwoort in haar <rhyme label="b" type="m" corresp="#s1:l3">droom</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Cloris vier nu vreugdens <rhyme label="a" type="f">toompjes</rhyme>,</l>
+        <l id="s2:l2" met="3" type="+-">Aan dees klaare <rhyme label="a" type="f" corresp="#s2:l1">stroompjes</rhyme>,</l>
+        <l id="s2:l3" met="7" type="-+">Omhelst en kust, u lusjes voet met troetelsiek <rhyme label="b" type="m">geswarm</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">ô Soetste <rhyme label="c" type="m">dag</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Die 'k immer <rhyme label="c" type="m" corresp="#s2:l4">sag</rhyme>!</l>
+        <l id="s2:l6" met="2" type="-+">Gewenste <rhyme label="a" type="f" corresp="#s2:l1">droompjes</rhyme>,</l>
+        <l id="s2:l7" met="2" type="-+">Mijn hertje <rhyme label="d" type="m">swom</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">In vreugt <rhyme label="d" type="m" corresp="#s2:l7">alom</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">Cupido blies <rhyme label="b" type="m" corresp="#s2:l3">allarm</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176816</id>
+    <date>
+      <year-start>1683</year-start>
+      <year-end>1683</year-end>
+    </date>
+    <location>
+      <orginal-name>leeuwarden</orginal-name>
+      <standard-name>Leeuwarden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>53.2005936</lon>
+        <lat>5.7918548</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 023 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Hendrik Rintjes</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Myn Godt voedt my als mijn Herder <rhyme label="a" type="f">gepresen</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Dies sal ick gheenes dings behoeflijck <rhyme label="a" type="f" corresp="#s1:l1">wesen</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">In ‘t groene gras seer lieflijk hy my <rhyme label="b" type="f">weydet</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">En aen dat soet water hy my <rhyme label="b" type="f" corresp="#s1:l3">gheleydet</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">Hy verquickt mijn ziel, die seer is <rhyme label="c" type="f">verslegen</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Om sijns naems wil leyt hy my in sijn <rhyme label="c" type="f" corresp="#s1:l5">weghen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Al waer ‘t schoon dat ick in ‘t dal des doodts <rhyme label="a" type="f">ginghe</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">End’ dat my des doods schaduwe <rhyme label="a" type="f" corresp="#s2:l1">omvinghe</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Ick vreesde niet: ghy zijt by my <rhyme label="b" type="f">ghestadigh</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">End’ ghy troost my met uwen staf <rhyme label="b" type="f" corresp="#s2:l3">ghenadig</rhyme></l>
+        <l id="s2:l5" met="5" type="-+">Gy maeckt rijk met goeden seer <rhyme label="c" type="f">velerhanden</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">Mijn Tafel voor d’oogen mijner <rhyme label="c" type="f" corresp="#s2:l5">Vyanden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Ghy salft mijn hooft met rieckend’ Oly <rhyme label="a" type="f">goedigh</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">End’ schenckt myn den Beker vol <rhyme label="a" type="f" corresp="#s3:l1">overvloedig</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">Gy sult doen dat uwe gonst, o Heer, <rhyme label="b" type="f">krachtig</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Mijn leven lang by my steets blijft <rhyme label="b" type="f" corresp="#s3:l3">eendrachtigh</rhyme>,</l>
+        <l id="s3:l5" met="5" type="-+">So dat ik hoop’ eeuwighlijck vast te <rhyme label="c" type="f">woonen</rhyme></l>
+        <l id="s3:l6" met="5" type="-+">In Godes Huys, ‘t welck niet is om <rhyme label="c" type="f" corresp="#s3:l5">verschoonen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

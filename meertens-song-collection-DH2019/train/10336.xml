@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10336</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Laura zat laatst bij de beek</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Eer Auroor ten ooghsten <rhyme label="a" type="m">daeght</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">'s Hemels aenschijn tiert met <rhyme label="b" type="f">bloosen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Ick, ter liefde van een <rhyme label="a" type="m" corresp="#s1:l1">Maeght</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Offer uyt gekipte <rhyme label="b" type="f" corresp="#s1:l2">Roosen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Die ick heb voor puyck <rhyme label="b" type="f" corresp="#s1:l2">ghekoosen</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Vers bedroop en van den <rhyme label="c" type="m">douw</rhyme>:</l>
+        <l id="s1:l7" met="4" type="+-">Onverwellickt in syn <rhyme label="d" type="f">blade</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Op dat my hier door <rhyme label="d" type="f" corresp="#s1:l7">ghenade</rhyme></l>
+        <l id="s1:l9" met="4" type="+-">Sou gheschien van mijn <rhyme label="c" type="m" corresp="#s1:l6">Iuffrou</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Venus vraeght ghy waerom <rhyme label="a" type="m">ick</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Roode Roosen vers <rhyme label="b" type="f">ontloocken</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Op u hooghe Altaer <rhyme label="a" type="m" corresp="#s2:l1">schick</rhyme>?</l>
+        <l id="s2:l4" met="4" type="+-">Om in minne-brandt te <rhyme label="b" type="f" corresp="#s2:l2">stoocken</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Die doe den Hemel <rhyme label="b" type="f" corresp="#s2:l2">roocken</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">'t Is tot tuyghe dat mijn <rhyme label="c" type="m">hert</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">Als een afgepluckte <rhyme label="d" type="f">Bloeme</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Die men levenloos mach <rhyme label="d" type="f" corresp="#s2:l7">noeme</rhyme>,</l>
+        <l id="s2:l9" met="4" type="+-">Aen mijn <rhyme label="c" type="m" corresp="#s2:l6">lief</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182536</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Tout me dit que Lindor est charmant</melody>
+  <author>Hendrik Riemsnijder</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ik groet u, vol vreugd, ô heerlyk <rhyme label="a" type="m">licht</rhyme>!</l>
+        <l id="s1:l2" met="4" type="-+">O Zon, voor wie het duister <rhyme label="a" type="m" corresp="#s1:l1">zwigt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">En wier nieuwen luister my straalt in 't <rhyme label="a" type="m" corresp="#s1:l1">gezigt</rhyme>!</l>
+        <l id="s1:l4" met="4" type="-+">Hoe groot is des wyzen Scheppers <rhyme label="b" type="m">magt</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Die uwe majesteit en <rhyme label="b" type="m" corresp="#s1:l4">pracht</rhyme>,</l>
+        <l id="s1:l6" met="6" type="-+">Tot ons heil en vreugde aan 't lucht gewelf te voorschyn <rhyme label="b" type="m" corresp="#s1:l4">bragt</rhyme>!</l>
+        <l id="s1:l7" met="3" type="-+">Door u word kragt <rhyme label="c" type="f">gegeeven</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Aan 't laage en aan 't <rhyme label="c" type="f" corresp="#s1:l7">verheven'</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Den Eik, en 't laagste <rhyme label="d" type="m">gras</rhyme>;</l>
+        <l id="s1:l10" met="3" type="-+">Gy schenkt aan elk <rhyme label="d" type="m" corresp="#s1:l9">gewas</rhyme></l>
+        <l id="s1:l11" met="3" type="+-">Bloei en groei en <rhyme label="c" type="f" corresp="#s1:l7">leven</rhyme>.</l>
+        <l id="s1:l12" met="3" type="+-">Even ook zoo <rhyme label="e" type="m">doet</rhyme></l>
+        <l id="s1:l13" met="3" type="+-">Hy, die wys en <rhyme label="e" type="m" corresp="#s1:l12">goed</rhyme>,</l>
+        <l id="s1:l14" met="3" type="+-">Steeds menschliefde <rhyme label="e" type="m" corresp="#s1:l12">voed</rhyme>;</l>
+        <l id="s1:l15" met="3" type="+-">Mild is zyne <rhyme label="f" type="m">hand</rhyme>,</l>
+        <l id="s1:l16" met="3" type="+-">Lichtend zyn <rhyme label="f" type="m" corresp="#s1:l15">verstand</rhyme>:</l>
+        <l id="s1:l17" met="4" type="+-">Mogt ik naar zyn voorbeeld <rhyme label="c" type="f" corresp="#s1:l7">streeven</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

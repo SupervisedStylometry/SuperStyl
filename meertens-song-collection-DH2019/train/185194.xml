@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185194</id>
+    <date>
+      <year-start>1790</year-start>
+      <year-end>1792</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Avec les jeux dans le village</melody>
+  <author>Gerrit Manheer</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Hoe schoon het Roosje ook moge <rhyme label="a" type="f">prijken</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Bij de aankomst van den <rhyme label="b" type="m">dageraad</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Men ziet haar gloeijend schoon <rhyme label="a" type="f" corresp="#s1:l1">bezwijken</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Zoo dra de zon naar 't westen <rhyme label="b" type="m" corresp="#s1:l2">gaat</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Zoo kwijnd ook zonder <rhyme label="c" type="f">tegenheden</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">De schoonste schoonheid in <rhyme label="d" type="m">verdriet</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Een fris gelaat en fraaije <rhyme label="c" type="f" corresp="#s1:l5">leden</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Zijn schoon, maar zonder teerheid <rhyme label="d" type="m" corresp="#s1:l6">niet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Natuur schijnt 's winters als te <rhyme label="a" type="f">sterven</rhyme>;</l>
+        <l id="s2:l2" met="4" type="-+">Maar als de Lente 't veld <rhyme label="b" type="m">ontdooit</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Mag zij weer al haar schoon <rhyme label="a" type="f" corresp="#s2:l1">verwerven</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Word zij met kleurtjes <rhyme label="b" type="m" corresp="#s2:l2">opgetooid</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Dit, Philis! schetst u zulke <rhyme label="c" type="f">harten</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Die 't zelfde zijn in vreugd en <rhyme label="d" type="m">druk</rhyme>;</l>
+        <l id="s2:l7" met="4" type="-+">'t Gevoelig zijn voor <rhyme label="c" type="f" corresp="#s2:l5">minnesmarten</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Voorspeld den Minnaar 't hoogst <rhyme label="d" type="m" corresp="#s2:l6">geluk</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

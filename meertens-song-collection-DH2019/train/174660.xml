@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174660</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Pluk bloemen pluk bloemen</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Pluk bloemen, pluk <rhyme label="a" type="f">bloemen</rhyme>,</l>
+        <l id="s1:l2" met="1" type="-+">Pluk bloemen en <rhyme label="b" type="m">gras</rhyme>!</l>
+        <l id="s1:l3" met="2" type="-+">En wrijf die <rhyme label="c" type="m">elkaâr</rhyme></l>
+        <l id="s1:l4" met="2" type="+-">Door het <rhyme label="c" type="m" corresp="#s1:l3">haar</rhyme></l>
+        <l id="s1:l5" met="2" type="+-">Bij het <rhyme label="d" type="f">stoeijen</rhyme>:</l>
+        <l id="s1:l6" met="4" type="-+">Waar anders zou gras en waar bloemen voor <rhyme label="d" type="f" corresp="#s1:l5">groeijen</rhyme></l>
+        <l id="s1:l7" met="1" type="-+">En <rhyme label="d" type="f" corresp="#s1:l5">bloeijen</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">En wie er een knorrig <rhyme label="a" type="f">gezigtje</rhyme></l>
+        <l id="s2:l2" met="1" type="-+">Bij <rhyme label="b" type="m">trekt</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Of wie er bij <rhyme label="c" type="m">geeuwt</rhyme>,</l>
+        <l id="s2:l4" met="2" type="+-">Of bij <rhyme label="c" type="m" corresp="#s2:l3">schreeuwt</rhyme></l>
+        <l id="s2:l5" met="2" type="+-">Als wij <rhyme label="d" type="f">stoeijen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Die 'hoeft niet te zien hoe de bloemkens al <rhyme label="d" type="f" corresp="#s2:l5">groeijen</rhyme></l>
+        <l id="s2:l7" met="1" type="-+">En <rhyme label="d" type="f" corresp="#s2:l5">bloeijen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Hij trekk' maar naar <rhyme label="a" type="f">huis</rhyme></l>
+        <l id="s3:l2" met="1" type="-+">En hij kruip' in den <rhyme label="b" type="m">hoek</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">De brompot, die <rhyme label="c" type="m">mort</rhyme></l>
+        <l id="s3:l4" met="2" type="+-">En die <rhyme label="c" type="m" corresp="#s3:l3">knort</rhyme></l>
+        <l id="s3:l5" met="2" type="+-">Bij het <rhyme label="d" type="f">stoeijen</rhyme>:</l>
+        <l id="s3:l6" met="4" type="-+">Voor hem is het niet, dat de bloemkens zoo <rhyme label="d" type="f" corresp="#s3:l5">groeijen</rhyme></l>
+        <l id="s3:l7" met="1" type="-+">En <rhyme label="d" type="f" corresp="#s3:l5">bloeijen</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

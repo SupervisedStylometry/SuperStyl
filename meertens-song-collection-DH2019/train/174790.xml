@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174790</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+    </tags>
+    <melody>Lammetje loop je zo eenzaam te blaten</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Lammetje! loop je zoo eenzaam te <rhyme label="a" type="f">blaten</rhyme></l>
+        <l id="s1:l2" met="2" type="+-">Over de <rhyme label="b" type="m">hei</rhyme>?</l>
+        <l id="s1:l3" met="4" type="+-">Hoe kom je hier, zoo van allen <rhyme label="a" type="f" corresp="#s1:l1">verlaten</rhyme>?</l>
+        <l id="s1:l4" met="4" type="+-">Bleef je niet liever daarginds op de <rhyme label="b" type="m" corresp="#s1:l2">wei</rhyme>?</l>
+        <l id="s1:l5" met="4" type="+-">Lammetje! hier groeijen bloemen noch <rhyme label="c" type="m">gras</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Hier is geen watertje, dat ge zoudt <rhyme label="d" type="f">lusten</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Hier is geen schaduw om onder te <rhyme label="d" type="f" corresp="#s1:l6">rusten</rhyme>,....</l>
+        <l id="s1:l8" met="4" type="+-">En als je dan nog zoo klein maar niet <rhyme label="c" type="m" corresp="#s1:l5">was</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">- Kindren! ik had al zoo lang loopen <rhyme label="a" type="f">spelen</rhyme></l>
+        <l id="s2:l2" met="2" type="+-">Ginds op de <rhyme label="b" type="m">weî</rhyme>;</l>
+        <l id="s2:l3" met="4" type="+-">Altijd dat grazen begon te <rhyme label="a" type="f" corresp="#s2:l1">vervelen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">'k Woû weleens zien hoe het was op de <rhyme label="b" type="m" corresp="#s2:l2">heî</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">Ach! nu verdwaalde ik al verder en <rhyme label="c" type="m">meer</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">'k Zoek er mijn moedertje, 'k zoek er mijn <rhyme label="d" type="f">vrinden</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">'k Zoek om wat gras en wat water te <rhyme label="d" type="f" corresp="#s2:l6">vinden</rhyme>:</l>
+        <l id="s2:l8" met="4" type="+-">Was ik eens thuis, ik verliet het niet <rhyme label="c" type="m" corresp="#s2:l5">weêr</rhyme>! -</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Schaapje! wij zullen den weg u wel <rhyme label="a" type="f">leeren</rhyme></l>
+        <l id="s3:l2" met="2" type="+-">Over de <rhyme label="b" type="m">hei</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Ga maar met ons en geen leed zal je <rhyme label="a" type="f" corresp="#s3:l1">deren</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Zeker! wij brengen u weêr op de <rhyme label="b" type="m" corresp="#s3:l2">weî</rhyme>.</l>
+        <l id="s3:l5" met="4" type="+-">Maar, maak dan voort, of wij laten je <rhyme label="c" type="m">staan</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Moeder ziet zeker al uit, waar wij <rhyme label="d" type="f">toeven</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Waarlijk, ik woû haar niet graag zóó <rhyme label="d" type="f" corresp="#s3:l6">bedroeven</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">Als gij uw moeder vandaag hebt <rhyme label="c" type="m" corresp="#s3:l5">gedaan</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

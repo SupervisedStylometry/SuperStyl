@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1817</id>
+    <date>
+      <year-start>1544</year-start>
+      <year-end>1544</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="ruiterlied" translation="horseman's song">ruiterlied</tag>
+      <tag standard-name="ballade" translation="ballad">ballade</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>In Oostenrijk daar staat een huis</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DAer staet een clooster in <rhyme label="a" type="m">oostenrijc</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Het is so wel <rhyme label="b" type="f">gheciert</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Met siluer ende roode <rhyme label="a" type="m" corresp="#s1:l1">gout</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Met grauwen steen <rhyme label="b" type="f" corresp="#s1:l2">doormoeret</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Daer in so woont een ioncfrou <rhyme label="a" type="m">fijn</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">die mi so wel <rhyme label="b" type="f">beuallet</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Rijck god mocht ic haer dienaer <rhyme label="a" type="m" corresp="#s2:l1">sijn</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Ick soudese met mi <rhyme label="b" type="f" corresp="#s2:l2">voeren</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ick voerdese in mijns vaders <rhyme label="a" type="m">hof</rhyme>.</l>
+        <l id="s3:l2" met="3" type="-+">Daer staet een grone <rhyme label="b" type="f">linde</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Daer op so singhet die <rhyme label="a" type="m" corresp="#s3:l1">nachtegael</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">si singet so wel van <rhyme label="b" type="f" corresp="#s3:l2">minnen</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Och nachtegale cleyn <rhyme label="a" type="m">voghelken</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Wildi v tonghe <rhyme label="b" type="f">bedwinghen</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Ick salder al v <rhyme label="a" type="m" corresp="#s4:l1">vederlin</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Met goudraet doen <rhyme label="b" type="f" corresp="#s4:l2">bewinden</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Wat vraghe ick nae v roode <rhyme label="a" type="m">gout</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Oft nae v looser <rhyme label="b" type="f">minnen</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Ick ben een cleyn wilt vogelken <rhyme label="a" type="m" corresp="#s5:l1">stout</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Gheen man en can mi <rhyme label="b" type="f" corresp="#s5:l2">bedwinghen</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Sidi een cleyn wilt voghelken <rhyme label="a" type="m">stout</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Can v gheen man <rhyme label="b" type="f">bedwinghen</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">So dwinget v die hagel  die coude <rhyme label="a" type="m" corresp="#s6:l1">snee</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">die loouers vander <rhyme label="b" type="f" corresp="#s6:l2">linden</rhyme></l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Dwinget mi de haghel  de coude <rhyme label="a" type="m">snee</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">die loouers vander <rhyme label="b" type="f">linde</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">Als dan schijnt die sonne <rhyme label="a" type="m" corresp="#s7:l1">schoon</rhyme></l>
+        <l id="s7:l4" met="3" type="-+">So sal ic weder vruecht <rhyme label="b" type="f" corresp="#s7:l2">beghinnen</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Doen hi zijn sporen had aen <rhyme label="a" type="m">gedaen</rhyme> |</l>
+        <l id="s8:l2" met="3" type="-+">Hi reet ten oostenwaert <rhyme label="b" type="f">inne</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">Hi sach so menighen lansknecht <rhyme label="a" type="m" corresp="#s8:l1">staen</rhyme></l>
+        <l id="s8:l4" met="3" type="-+">In haer blanck harnas <rhyme label="b" type="f" corresp="#s8:l2">blincken</rhyme></l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Hi is een weynich voort <rhyme label="a" type="m">gereden</rhyme></l>
+        <l id="s9:l2" met="3" type="-+">Al ouer die groene <rhyme label="b" type="f">strate</rhyme>.</l>
+        <l id="s9:l3" met="4" type="-+">So wie zijn boel niet hebben en <rhyme label="a" type="m" corresp="#s9:l1">mach</rhyme>.</l>
+        <l id="s9:l4" met="3" type="-+">Die moetse varen <rhyme label="b" type="f" corresp="#s9:l2">laten</rhyme></l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="-+">Den ruyter sprack met moede <rhyme label="a" type="m">vry</rhyme></l>
+        <l id="s10:l2" met="3" type="-+">doe hi zijn boel moest <rhyme label="b" type="f">laten</rhyme></l>
+        <l id="s10:l3" met="4" type="-+">Ic wil blijuen den lansknecht <rhyme label="a" type="m" corresp="#s10:l1">by</rhyme></l>
+        <l id="s10:l4" met="3" type="-+">Rijck god comt mi te <rhyme label="b" type="f" corresp="#s10:l2">baten</rhyme></l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="-+">Die ons dit liedeken eerstwerf <rhyme label="a" type="m">sanck</rhyme></l>
+        <l id="s11:l2" met="3" type="-+">Hi heuet wel <rhyme label="b" type="f">ghesonghen</rhyme></l>
+        <l id="s11:l3" met="4" type="-+">Met pijpen ende trommelen <rhyme label="a" type="m" corresp="#s11:l1">geclanc</rhyme></l>
+        <l id="s11:l4" met="3" type="-+">In spijt des nijders <rhyme label="b" type="f" corresp="#s11:l2">tonghen</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

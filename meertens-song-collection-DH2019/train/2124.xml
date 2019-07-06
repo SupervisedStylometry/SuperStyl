@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2124</id>
+    <date>
+      <year-start>1674</year-start>
+      <year-end>1674</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="christuslied" translation="Christ song">Christuslied</tag>
+    </tags>
+    <melody>Courante monsieur</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Daniel Bellemans</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">DEn Schepper van den <rhyme label="a" type="m">Mensch</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Wordt Mensch naer onsen <rhyme label="a" type="m" corresp="#s1:l1">wensch</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Op hoy, en stroy daer light den Godt van <rhyme label="b" type="m">al</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">'t Verloren Schaepken soeckt hy in den <rhyme label="b" type="m" corresp="#s1:l3">Stal</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Den stercksten Samson wiëns <rhyme label="c" type="m">macht</rhyme></l>
+        <l id="s1:l6" met="5" type="-+">De poort der hellen en de doodt <rhyme label="c" type="m" corresp="#s1:l5">verkracht</rhyme>,</l>
+        <l id="s1:l7" met="5" type="-+">Die windt en bindt een teere Maghets <rhyme label="d" type="m">handt</rhyme></l>
+        <l id="s1:l8" met="5" type="-+">Op haren schoot in eenen lynen <rhyme label="d" type="m" corresp="#s1:l7">bandt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">'t Vier dat ons hert <rhyme label="a" type="m">verwermt</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Light hier van kouw en <rhyme label="a" type="m" corresp="#s2:l1">kermt</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Die 't al bekleedt die light hier naeckt en <rhyme label="b" type="m">bloodt</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Het Levend'-Broodt dat lydt hier <rhyme label="b" type="m" corresp="#s2:l3">honghers-noodt</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Gheheel het Aerdt-ryck komt hem <rhyme label="c" type="m">toe</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">Die hier in 't Stalleken lydt <rhyme label="c" type="m" corresp="#s2:l5">aremoë</rhyme>:</l>
+        <l id="s2:l7" met="5" type="-+">De blydtschap die de Enghelen <rhyme label="d" type="m">verblydt</rhyme></l>
+        <l id="s2:l8" met="5" type="-+">Light hier van droefheydt in de Kribb' en <rhyme label="d" type="m" corresp="#s2:l7">kryt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Het Volck van <rhyme label="a" type="m">Israël</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Verseyndt <rhyme label="a" type="m" corresp="#s3:l1">Emanuel</rhyme>.</l>
+        <l id="s3:l3" met="5" type="-+">Den Heer' en Schepper van het <rhyme label="b" type="m">Aerdtsche-dal</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Is ghelogeert in eenen armen <rhyme label="b" type="m" corresp="#s3:l3">Stal</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Uw' Kribb' ô JESU is te <rhyme label="c" type="m">hert</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">Sy is ghemaeckt van al te rouwen <rhyme label="c" type="m" corresp="#s3:l5">bert</rhyme>,</l>
+        <l id="s3:l7" met="5" type="-+">Verlaet den Stal, en al-te-mael syn <rhyme label="d" type="m">smert'</rhyme>,</l>
+        <l id="s3:l8" met="5" type="-+">En maeckt uw' Kribb' ô JESU in myn <rhyme label="d" type="m" corresp="#s3:l7">hert'</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

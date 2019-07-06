@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1912</id>
+    <date>
+      <year-start>1615</year-start>
+      <year-end>1615</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>La bourrée de France</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">KOmt my Nimphe doch te <rhyme label="a" type="m">baet</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Alhier in dees bedroefde <rhyme label="a" type="m" corresp="#s1:l1">staet</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Wilt my, nu <rhyme label="b" type="m">vry</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Met lust en rust ghenesen <rhyme label="c" type="m">hier</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Soo sal ick u o edel <rhyme label="c" type="m" corresp="#s1:l4">dier</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Dancken met herte <rhyme label="b" type="m" corresp="#s1:l3">bly</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Want ghy siet liefste <rhyme label="a" type="m">mijn</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Waerom dat ick lijd groote <rhyme label="a" type="m" corresp="#s2:l1">pijn</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">En smert, in't <rhyme label="b" type="m">hert</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Soo dat, ghy rat mijn 't herte <rhyme label="c" type="m">raeckt</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Waer door in my den brandt heel <rhyme label="c" type="m" corresp="#s2:l4">blaeckt</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Al met een droeve <rhyme label="b" type="m" corresp="#s2:l3">schijn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">'T blaken van het branden <rhyme label="a" type="m">hier</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Wilt dat toch blussen edel <rhyme label="a" type="m" corresp="#s3:l1">dier</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">Verhoort een <rhyme label="b" type="m">woordt</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Van my, hier vry, mondeken <rhyme label="c" type="m">root</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Dat ick mach rusten in u <rhyme label="c" type="m" corresp="#s3:l4">schoot</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Van nu en altijdt <rhyme label="b" type="m" corresp="#s3:l3">voort</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Soo sal ick o Maghet <rhyme label="a" type="m">reyn</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">V dancken voor dees daedt in't <rhyme label="a" type="m" corresp="#s4:l1">pleyn</rhyme>,</l>
+        <l id="s4:l3" met="2" type="-+">Dat ghy, seer <rhyme label="b" type="m">bly</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Mijn hert en smert verheuchde <rhyme label="c" type="m">weer</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Dat ick't ghedencke <rhyme label="c" type="m" corresp="#s4:l4">nimmermeer</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">'T verdriet dat ghy deedt <rhyme label="b" type="m" corresp="#s4:l3">my</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Och mocht ick na mijn <rhyme label="a" type="m">wellust</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Met u Princesse gaen te <rhyme label="a" type="m" corresp="#s5:l1">rust</rhyme>,</l>
+        <l id="s5:l3" met="2" type="-+">En daer, <rhyme label="b" type="m">voorwaer</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Gheneucht en vreucht bedrijven <rhyme label="c" type="m">soet</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">Soo sou verheughen mijn <rhyme label="c" type="m" corresp="#s5:l4">ghemoet</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Wt een reyn hert <rhyme label="b" type="m" corresp="#s5:l3">eerbaer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>114271</id>
+    <date>
+      <year-start>1745</year-start>
+      <year-end>1745</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">IK lagh eens met een mooje <rhyme label="a" type="m">Tryn</rhyme>;</l>
+        <l id="s1:l2" met="3" type="-+">Ik hou veel meer van 't <rhyme label="b" type="f">Wyntje</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Dat doet de geesten vrolyk <rhyme label="a" type="m" corresp="#s1:l1">zyn</rhyme>,</l>
+        <l id="s1:l4" met="5" type="+-">En is myn Medicyntje la <rhyme label="c" type="m">la</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">En is myn <rhyme label="b" type="f" corresp="#s1:l2">Medicyntje</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Leef lang leef lang myn kitte <rhyme label="a" type="m">Breurs</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Met al uw brave <rhyme label="b" type="f">Bende</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">God Bachus schrapt alleen de <rhyme label="a" type="m" corresp="#s2:l1">beurs</rhyme>;</l>
+        <l id="s2:l4" met="5" type="+-">Maer Venus, beurs en lende la <rhyme label="c" type="m">la</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Maer Venus beurs en <rhyme label="b" type="f" corresp="#s2:l2">lende</rhyme>,</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Weg Venus met uw geil <rhyme label="a" type="m">gespan</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">En al uw ligte <rhyme label="b" type="f">Vinken</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">Ik hou veel meer van Glas en <rhyme label="a" type="m" corresp="#s3:l1">Kan</rhyme>,</l>
+        <l id="s3:l4" met="5" type="+-">Dat maekt geen droge schinken la <rhyme label="c" type="m">la</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Dat maekt geen droge <rhyme label="b" type="f" corresp="#s3:l2">schinken</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ik lag eens met het Vrou <rhyme label="a" type="m">gebroed</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Dat lyf en beurs <rhyme label="b" type="f">vermagerd</rhyme>;</l>
+        <l id="s4:l3" met="4" type="-+">Ik ben te naeuw ook van <rhyme label="a" type="m" corresp="#s4:l1">gemoed</rhyme>,</l>
+        <l id="s4:l4" met="5" type="+-">Om zoo te zyn gezwagerd la <rhyme label="c" type="m">la</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Om zoo te zyn <rhyme label="b" type="f" corresp="#s4:l2">gezwagerd</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

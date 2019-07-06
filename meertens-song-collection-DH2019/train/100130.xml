@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100130</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Grâce au bon petit Jésus</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">'t Ong'lukkigst dat d'aardbodem <rhyme label="a" type="m">draagt</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">Laas is een <rhyme label="a" type="m" corresp="#s1:l1">maagt</rhyme>!</l>
+        <l id="s1:l3" met="4" type="-+">Want haar de schaamte heelen <rhyme label="b" type="m">doet</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Wat heete min, en Verliefde <rhyme label="c" type="f">zinnen</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">Haar boezem <rhyme label="b" type="m" corresp="#s1:l3">voet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

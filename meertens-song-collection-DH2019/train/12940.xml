@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12940</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Laura zat laatst bij de beek</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">NEen, u kusjes heelen <rhyme label="a" type="m">niet</rhyme>;</l>
+        <l id="s1:l2" met="4" type="+-">Wech met uwe Satyrs <rhyme label="b" type="f">lippen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Honingdief, die 't Woud <rhyme label="a" type="m" corresp="#s1:l1">doorspiet</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Staag om Nimphjes te <rhyme label="b" type="f" corresp="#s1:l2">be-knippen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Zoo in Bosschen, als op <rhyme label="b" type="f" corresp="#s1:l2">Klippen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Of in Rotzen hart van <rhyme label="c" type="m">steen</rhyme>.</l>
+        <l id="s1:l7" met="4" type="+-">Ach Diana, leent u <rhyme label="d" type="f">ooren</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Dat mijn Lief zijn Bruidt mach <rhyme label="d" type="f" corresp="#s1:l7">hooren</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">Och, och, och! waar zal 't noch <rhyme label="c" type="m" corresp="#s1:l6">heen</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182601</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Men zag Dametas lange tijd</melody>
+  <author>Hendrik Riemsnijder</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ik zag een' Gryzaart, styf en <rhyme label="a" type="m">krom</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Hy kroop gebukt, met traage <rhyme label="b" type="f">schreeden</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Zijn oog, verzwakt door <rhyme label="a" type="m" corresp="#s1:l1">ouderdom</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Deedt hem zoo 't scheen onzeeker <rhyme label="b" type="f" corresp="#s1:l2">treeden</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Hy viel; de Gryzaart viel! en <rhyme label="c" type="m">ach</rhyme>!</l>
+        <l id="s1:l6" met="4" type="-+">Zyn val verwekte een wreed <rhyme label="c" type="m" corresp="#s1:l5">gelach</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wat hadt ik meêly' met dien <rhyme label="a" type="m">man</rhyme>!</l>
+        <l id="s2:l2" met="4" type="-+">Zou my zyn leed geen' deernis <rhyme label="b" type="f">baaren</rhyme>?</l>
+        <l id="s2:l3" met="4" type="-+">Wie d' ouderdom bespotten <rhyme label="a" type="m" corresp="#s2:l1">kan</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Geen achting toond aan gryze <rhyme label="b" type="f" corresp="#s2:l2">hairen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Verdient niet dat hem jeugd thans <rhyme label="c" type="m">streel'</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Of ouderdom ooit word' zyn <rhyme label="c" type="m" corresp="#s2:l5">deel</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

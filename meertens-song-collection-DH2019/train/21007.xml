@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21007</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="moralistisch lied" translation="moralistic song">moralistisch lied</tag>
+    </tags>
+    <melody>La grédeline</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jan Zoet</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">WAt komt my hier te <rhyme label="a" type="f">vooren</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">'k Seg het sijn <rhyme label="b" type="m">vreemdigheen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Welck ik nu moet <rhyme label="a" type="f" corresp="#s1:l1">hooren</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Hoe set ick dit met <rhyme label="b" type="m" corresp="#s1:l2">reen</rhyme>?</l>
+        <l id="s1:l5" met="2" type="-+">Hier word <rhyme label="c" type="m">gevraegt</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Schoon 't my niet <rhyme label="c" type="m" corresp="#s1:l5">haegt</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Hoe een Man sijn regt sal <rhyme label="d" type="f">waren</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Als een boose Vrou hem <rhyme label="c" type="m" corresp="#s1:l5">plaegt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Hoe kan ik oordeel <rhyme label="a" type="f">geven</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">t' Wijl ick schier sta <rhyme label="b" type="m">versuft</rhyme>;</l>
+        <l id="s2:l3" met="3" type="+-">Heb ick van al mijn <rhyme label="a" type="f" corresp="#s2:l1">leven</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Ick stae gelijck <rhyme label="b" type="m" corresp="#s2:l2">verbluft</rhyme>;</l>
+        <l id="s2:l5" met="2" type="-+">Wat seg ick <rhyme label="c" type="m">nu</rhyme>?</l>
+        <l id="s2:l6" met="2" type="-+">'k Weet, maer ick <rhyme label="c" type="m" corresp="#s2:l5">gru</rhyme>:</l>
+        <l id="s2:l7" met="4" type="+-">Want de grawen van <rhyme label="d" type="f">Margrietje</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Maecke my te byster <rhyme label="c" type="m" corresp="#s2:l5">schu</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Doch ik wil my <rhyme label="a" type="f">verstouten</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">En raden aen den <rhyme label="b" type="m">Heer</rhyme>,</l>
+        <l id="s3:l3" met="3" type="+-">Dat hyse op de <rhyme label="a" type="f" corresp="#s3:l1">bouten</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Raekt dat het haer doet <rhyme label="b" type="m" corresp="#s3:l2">seer</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">Soo sy niet <rhyme label="c" type="m">wil</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">Vreedich en <rhyme label="c" type="m" corresp="#s3:l5">stil</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Achtervolgen dees <rhyme label="d" type="f">blaren</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">'k Wed sy doet het dan niet <rhyme label="c" type="m" corresp="#s3:l5">weer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

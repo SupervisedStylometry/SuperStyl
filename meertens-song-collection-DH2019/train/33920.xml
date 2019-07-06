@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>33920</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+    </tags>
+    <melody>Belle qui me vas martyrisant</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacob Rosant</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HEer Jesus die gaf een vermaen aen <rhyme label="a" type="f">deesen</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">Die hem had <rhyme label="b" type="m">genoodt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Wanneer gy nood gasten, so laet niet <rhyme label="a" type="f" corresp="#s1:l1">weesen</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Uwe vrienden <rhyme label="b" type="m" corresp="#s1:l2">groot</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">Noch Broers, nogh Neeven, nogh uw Buren <rhyme label="c" type="m">rijk</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Op dat sy u niet weeder doen <rhyme label="c" type="m" corresp="#s1:l5">gelijk</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Dan souwt gy al hebben uw loon <rhyme label="a" type="f">gekreegen</rhyme>;</l>
+        <l id="s2:l2" met="2" type="-+">Noodt liever te <rhyme label="b" type="m">gast</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Blind', manken, en kreupelen, 't sal u <rhyme label="a" type="f" corresp="#s2:l1">seegen</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Ende loon sijn <rhyme label="b" type="m" corresp="#s2:l2">vast</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Want by haer niet weerom te geeven <rhyme label="c" type="m">is</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">Gy 't krijgen sult in de <rhyme label="c" type="m" corresp="#s2:l5">verrijsenis</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Als Jesus gesproken hadt deese <rhyme label="a" type="f">woorden</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Met een <rhyme label="b" type="m">soetigheydt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Soo heeft een van deese, die hem <rhyme label="a" type="f" corresp="#s3:l1">aenhoorden</rhyme>,</l>
+        <l id="s3:l4" met="2" type="-+">Ter propoost <rhyme label="b" type="m" corresp="#s3:l2">geseyt</rhyme>,</l>
+        <l id="s3:l5" met="5" type="-+">Hy saligh is, die welcke wordt <rhyme label="c" type="m">genoodt</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">In Goodes rijk te mogen eeten <rhyme label="c" type="m" corresp="#s3:l5">broodt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

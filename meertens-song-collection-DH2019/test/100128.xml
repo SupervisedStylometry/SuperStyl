@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100128</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Windje daar het bos af drilt</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Hemel in wat een valschen <rhyme label="a" type="m">schyn</rhyme></l>
+        <l id="s1:l2" met="6" type="+-">Dat de meeste Herders zyn! 't Lykt zy <rhyme label="b" type="f">minnen</rhyme>,</l>
+        <l id="s1:l3" met="6" type="+-">Om ons zinnen Maar te winnen, Dog de <rhyme label="c" type="m">tyd</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Leerd nu, hoe vals myn Herder <rhyme label="c" type="m" corresp="#s1:l3">vryt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

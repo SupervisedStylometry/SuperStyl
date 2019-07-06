@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174911</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="sinterklaaslied" translation="Sinterklaas song">sinterklaaslied</tag>
+    </tags>
+    <melody>Zie de maan schijnt door de bomen</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Zie, de maan schijnt door de <rhyme label="a" type="f">boomen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Makkers! staakt uw wild <rhyme label="b" type="m">geraas</rhyme>;</l>
+        <l id="s1:l3" met="4" type="+-">'t Heerlijk avendje is <rhyme label="a" type="f" corresp="#s1:l1">gekomen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">'t Avendje van <rhyme label="b" type="m" corresp="#s1:l2">Sint-Niclaas</rhyme>!</l>
+        <l id="s1:l5" met="4" type="+-">Van verwachting klopt ons <rhyme label="c" type="m">hart</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Wie de koek krijgt, wie de <rhyme label="c" type="m" corresp="#s1:l5">gard</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">o! Wat pret zal 't zijn te <rhyme label="a" type="f">spelen</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Met dien bonten <rhyme label="b" type="m">arlekijn</rhyme>!</l>
+        <l id="s2:l3" met="4" type="+-">Eerlijk zullen we alles <rhyme label="a" type="f" corresp="#s2:l1">deelen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Suikergoed en <rhyme label="b" type="m" corresp="#s2:l2">marsepijn</rhyme>;</l>
+        <l id="s2:l5" met="4" type="+-">Maar, o wee! wat bittre <rhyme label="c" type="m">smart</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Kregen wij voor koek, een <rhyme label="c" type="m" corresp="#s2:l5">gard</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Doch ik vrees niet, dat wij <rhyme label="a" type="f">klagen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Vader, Moeder zijn te <rhyme label="b" type="m">goed</rhyme>!</l>
+        <l id="s3:l3" met="4" type="+-">Waren we ook niet alle <rhyme label="a" type="f" corresp="#s3:l1">dagen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Véle waren wij toch <rhyme label="b" type="m" corresp="#s3:l2">zoet</rhyme>!</l>
+        <l id="s3:l5" met="4" type="+-">Ban dus vrij de vrees van 't <rhyme label="c" type="m">hart</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">'k Wed, er ligt geen enkle <rhyme label="c" type="m" corresp="#s3:l5">gard</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

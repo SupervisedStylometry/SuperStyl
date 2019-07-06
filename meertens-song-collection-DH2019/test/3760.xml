@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3760</id>
+    <date>
+      <year-start>1566</year-start>
+      <year-end>1566</year-end>
+    </date>
+    <location>
+      <orginal-name>heidelberg</orginal-name>
+      <standard-name>Heidelberg, Germany</standard-name>
+      <coordinates>
+        <lon>49.4093582</lon>
+        <lat>8.694724</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody>Ach Vater unser der du bist</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O GODT, die onse vader <rhyme label="a" type="m">bist</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">Doer Iesum <rhyme label="a" type="m" corresp="#s1:l1">Christ</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Geeft uwen geest ons <rhyme label="b" type="m">algemeyn</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Die ons ter waerheit <rhyme label="c" type="f">leyde</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Verhoort ons doch tot deser <rhyme label="d" type="m">stond'</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Opent den <rhyme label="d" type="m" corresp="#s1:l5">mondt</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Vws dienaers dat hy v' Woort <rhyme label="b" type="m" corresp="#s1:l3">reyn</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">End vrymoedigh <rhyme label="c" type="f" corresp="#s1:l4">verbreyde</rhyme>,</l>
+        <l id="s1:l9" met="4" type="-+">Daer toe, O Heer, ghenaedigh <rhyme label="e" type="m">ick</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">Opent ons hert' end <rhyme label="f" type="f">ooren</rhyme>,</l>
+        <l id="s1:l11" met="4" type="+-">Dat wy dat hooren <rhyme label="e" type="m" corresp="#s1:l9">vlietelick</rhyme>,</l>
+        <l id="s1:l12" met="3" type="-+">End trauwelick <rhyme label="g" type="f">bewaeren</rhyme>,</l>
+        <l id="s1:l13" met="4" type="-+">Op dat wy moghen <rhyme label="e" type="m" corresp="#s1:l9">vruchtbaerlick</rhyme>,</l>
+        <l id="s1:l14" met="3" type="-+">V' lof altydt <rhyme label="g" type="f" corresp="#s1:l12">verklaeren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

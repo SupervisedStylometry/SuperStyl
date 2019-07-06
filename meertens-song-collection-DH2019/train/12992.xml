@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12992</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Laburette</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">VRienden ik kom u mee <rhyme label="a" type="f">deelen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Laburdon <rhyme label="b" type="m">tierelieron</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Bruilofts-stof, voor tong, en <rhyme label="a" type="f" corresp="#s1:l1">keelen</rhyme>,</l>
+        <l id="s1:l4" met="8" type="+-">Laburette tierelierette’ laburdon <rhyme label="b" type="m" corresp="#s1:l2">tierelieron</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">'k Loof je neust hiel wel mijn <rhyme label="a" type="f">zeggen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Laburdon <rhyme label="b" type="m">tierelieron</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">'k Hoeft u dan niet uit te <rhyme label="a" type="f" corresp="#s2:l1">leggen</rhyme>,</l>
+        <l id="s2:l4" met="8" type="+-">Laburette tierelierette’ laburdon <rhyme label="b" type="m" corresp="#s2:l2">tierelieron</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Kom, tza, tza, aan 't keele <rhyme label="a" type="f">smeeren</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Laburdon <rhyme label="b" type="m">tierelieron</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Zingt, fris op, dit Paar ter <rhyme label="a" type="f" corresp="#s3:l1">eeren</rhyme>,</l>
+        <l id="s3:l4" met="8" type="+-">Laburette tierelierette’ laburdon <rhyme label="b" type="m" corresp="#s3:l2">tierelieron</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

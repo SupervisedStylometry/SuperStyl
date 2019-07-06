@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20572</id>
+    <date>
+      <year-start>1628</year-start>
+      <year-end>1628</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>De hemel hier de mens verleent</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">,,DEn Hemel hier den mensch <rhyme label="a" type="m">verleent</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">,,Gheen meerder vreucht op <rhyme label="b" type="f">aerden</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Dan als ghelieuen t'saem <rhyme label="a" type="m" corresp="#s1:l1">vereent</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Den Echten staet <rhyme label="b" type="f" corresp="#s1:l2">aenvaerden</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Die rust, vernoegingh <rhyme label="c" type="m">geeft</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Aen die hem vvel <rhyme label="c" type="m" corresp="#s1:l5">beleeft</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Waer-in de liefde <rhyme label="c" type="m" corresp="#s1:l5">heeft</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">Haer volmaecktheyt <rhyme label="d" type="f">jeuchdich</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Die door haer crachten <rhyme label="d" type="f" corresp="#s1:l8">deuchdich</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">Voort teelt gheslacht, en <rhyme label="e" type="m">naem</rhyme>,</l>
+        <l id="s1:l11" met="3" type="+-">Bint Hert, en vvillen <rhyme label="e" type="m" corresp="#s1:l10">t'saem</rhyme>,</l>
+        <l id="s1:l12" met="3" type="-+">En vveckt in een <rhyme label="e" type="m" corresp="#s1:l10">lichaem</rhyme>,</l>
+        <l id="s1:l13" met="3" type="+-">Soo tvvee sielen <rhyme label="d" type="f" corresp="#s1:l8">vreuchdich</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Comt Iuno dan die alles <rhyme label="a" type="m">voeght</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Brenght Hymineus <rhyme label="b" type="f">mede</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Maeckt dees ghelieuen doch <rhyme label="a" type="m" corresp="#s2:l1">vernoeght</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Door liefde, rust, en <rhyme label="b" type="f" corresp="#s2:l2">vrede</rhyme>:</l>
+        <l id="s2:l5" met="3" type="-+">Vereeren vvilt hun <rhyme label="c" type="m">saet</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Met edelheyt, en <rhyme label="c" type="m" corresp="#s2:l5">staet</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Laet u beroemde <rhyme label="c" type="m" corresp="#s2:l5">daet</rhyme></l>
+        <l id="s2:l8" met="3" type="+-">doch uyt jonsten <rhyme label="d" type="f">blijcken</rhyme>.</l>
+        <l id="s2:l9" met="3" type="-+">Goddin der <rhyme label="d" type="f" corresp="#s2:l8">Coninck-rijcken</rhyme>:</l>
+        <l id="s2:l10" met="3" type="-+">Op dat sy vanden <rhyme label="e" type="m">nijt</rhyme>,</l>
+        <l id="s2:l11" met="3" type="+-">En tvvee-dracht sijn <rhyme label="e" type="m" corresp="#s2:l10">bevrijt</rhyme>,</l>
+        <l id="s2:l12" met="3" type="-+">Thoont dat gh'een minnaers <rhyme label="e" type="m" corresp="#s2:l10">sijt</rhyme></l>
+        <l id="s2:l13" met="3" type="+-">Vande <rhyme label="d" type="f" corresp="#s2:l8">houvvelijcken</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Iont oock den Bruydegom veel <rhyme label="a" type="m">goets</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Ghy Nymphen, en <rhyme label="b" type="f">Nayaden</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Den Horen rijck, des <rhyme label="a" type="m" corresp="#s3:l1">ouervloets</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Met vruchten svvaer <rhyme label="b" type="f" corresp="#s3:l2">gheladen</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Van Eyck, en Lauvvers <rhyme label="c" type="m">schoon</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Vlecht t'samen nu een <rhyme label="c" type="m" corresp="#s3:l5">croon</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Wilt soo ghy sijt <rhyme label="c" type="m" corresp="#s3:l5">ghevvoon</rhyme></l>
+        <l id="s3:l8" met="3" type="+-">Hem het hooft <rhyme label="d" type="f">Lauvv'rieren</rhyme>:</l>
+        <l id="s3:l9" met="3" type="-+">Brenght Rooskens, <rhyme label="d" type="f" corresp="#s3:l8">Violieren</rhyme>,</l>
+        <l id="s3:l10" met="3" type="-+">En duysent bloemkens <rhyme label="e" type="m">net</rhyme>,</l>
+        <l id="s3:l11" met="3" type="+-">Voort ander ciersel <rhyme label="e" type="m" corresp="#s3:l10">met</rhyme></l>
+        <l id="s3:l12" met="3" type="-+">En vvilt daer me het <rhyme label="e" type="m" corresp="#s3:l10">bedt</rhyme></l>
+        <l id="s3:l13" met="3" type="+-">Vande Bruyt <rhyme label="d" type="f" corresp="#s3:l8">vercieren</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Noch vvenschen vvy u bouen <rhyme label="a" type="m">dien</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Dat gh'out, en sonder <rhyme label="b" type="f">lusten</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Van kinders moeght kints kinders <rhyme label="a" type="m" corresp="#s4:l1">sien</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Om u dan op te <rhyme label="b" type="f" corresp="#s4:l2">rusten</rhyme>:</l>
+        <l id="s4:l5" met="3" type="-+">Leeft vredich nu te <rhyme label="c" type="m">gaer</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Gheluckich, salich <rhyme label="c" type="m" corresp="#s4:l5">paer</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Wilt altijt volghen <rhyme label="c" type="m" corresp="#s4:l5">naer</rhyme></l>
+        <l id="s4:l8" met="3" type="+-">Die de deucht <rhyme label="d" type="f">aen-cleuen</rhyme></l>
+        <l id="s4:l9" met="3" type="-+">Den Hemel vvil u <rhyme label="d" type="f" corresp="#s4:l8">gheuen</rhyme>,</l>
+        <l id="s4:l10" met="3" type="-+">Dat ghy den Echt met <rhyme label="e" type="m">vreucht</rhyme>,</l>
+        <l id="s4:l11" met="3" type="+-">Bevvaren moet in <rhyme label="e" type="m" corresp="#s4:l10">deucht</rhyme>,</l>
+        <l id="s4:l12" met="3" type="-+">En namaels comen <rhyme label="e" type="m" corresp="#s4:l10">meucht</rhyme></l>
+        <l id="s4:l13" met="3" type="+-">In het eeuvvich <rhyme label="d" type="f" corresp="#s4:l8">leuen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

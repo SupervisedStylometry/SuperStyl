@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>115887</id>
+    <date>
+      <year-start>1694</year-start>
+      <year-end>1694</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Non non tu n'aimes</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author>Cornelis Sweerts</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Neen neen gy bemint my toch niet <rhyme label="a" type="m">onge</rhyme>-</l>
+        <l id="s1:l2" met="3" type="-+">voel'ge <rhyme label="b" type="f">Herd'rinne</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Neen neen gy bemint my toch <rhyme label="a" type="m" corresp="#s1:l1">niet</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Ik ken myn ziels <rhyme label="a" type="m" corresp="#s1:l1">verdriet</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Schoon ik u uit liefd' en <rhyme label="b" type="f" corresp="#s1:l2">minne</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Spreek altyd vriend'lyk <rhyme label="a" type="m" corresp="#s1:l1">aan</rhyme>,</l>
+        <l id="s1:l7" met="3" type="+-">Doet gy, myn <rhyme label="b" type="f" corresp="#s1:l2">hertsgodinne</rhyme>,</l>
+        <l id="s1:l8" met="3" type="+-">My uw strafheid <rhyme label="a" type="m" corresp="#s1:l1">aan</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Wech, wech wat geef ik na de <rhyme label="a" type="m">Min</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Al u doen is <rhyme label="b" type="f">verlooren</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Wech, wech wat geef ik na de <rhyme label="a" type="m" corresp="#s2:l1">Min</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Verbant my uit uw <rhyme label="a" type="m" corresp="#s2:l1">zin</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Wel wat moet ik zien en <rhyme label="b" type="f" corresp="#s2:l2">hooren</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Die gramschap heeft wat <rhyme label="a" type="m" corresp="#s2:l1">in</rhyme>!</l>
+        <l id="s2:l7" met="3" type="+-">Gaat, Herder, vry <rhyme label="b" type="f" corresp="#s2:l2">bekooren</rhyme>,</l>
+        <l id="s2:l8" met="3" type="+-">Liever <rhyme label="a" type="m" corresp="#s2:l1">Herderin</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Neen, neen, gy beheerst noch myn <rhyme label="a" type="m">hert</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Die wel straf schynt te <rhyme label="b" type="f">wezen</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Neen, neen, gy beheerst noch myn <rhyme label="a" type="m" corresp="#s3:l1">hert</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Te zeer in min <rhyme label="a" type="m" corresp="#s3:l1">verwert</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">'k Zal u noit, ô Schoone! <rhyme label="b" type="f" corresp="#s3:l2">vreezen</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Al is uw hert <rhyme label="a" type="m" corresp="#s3:l1">verhert</rhyme>,</l>
+        <l id="s3:l7" met="3" type="+-">En straf gelyk uw <rhyme label="b" type="f" corresp="#s3:l2">weezen</rhyme>,</l>
+        <l id="s3:l8" met="3" type="+-">Als 't verwekt myn <rhyme label="a" type="m" corresp="#s3:l1">smert</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Wel! wel! ik beken, 't is heel <rhyme label="a" type="m">schoon</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Zo myn hert te <rhyme label="b" type="f">doorgronden</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">Wel! wel! ik beken, 't is heel <rhyme label="a" type="m" corresp="#s4:l1">schoon</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Had gy 'er oit uw <rhyme label="a" type="m" corresp="#s4:l1">woon</rhyme>?</l>
+        <l id="s4:l5" met="4" type="+-">Dan had ik myn wensch <rhyme label="b" type="f" corresp="#s4:l2">gevonden</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Nu hoopt dan eind'lyk <rhyme label="a" type="m" corresp="#s4:l1">loon</rhyme>,</l>
+        <l id="s4:l7" met="3" type="+-">Ga het verzacht uw <rhyme label="b" type="f" corresp="#s4:l2">wonden</rhyme>,</l>
+        <l id="s4:l8" met="3" type="+-">Als ik strafheid <rhyme label="a" type="m" corresp="#s4:l1">toon</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

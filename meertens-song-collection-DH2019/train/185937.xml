@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185937</id>
+    <date>
+      <year-start>1717</year-start>
+      <year-end>1717</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Leef Rozemond voor mij gelijk ik leef voor u</melody>
+  <author>Hermanus van den Burg</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">LEef Roozemond voor my, gelyk ik leef voor <rhyme label="a" type="m">u</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Kus als ik kus, Blus als ik <rhyme label="b" type="m">blus</rhyme>,</l>
+        <l id="s1:l3" met="6" type="-+">En toon u voor de Pyl, van Kupido niet <rhyme label="a" type="m" corresp="#s1:l1">schuuw</rhyme>.</l>
+        <l id="s1:l4" met="6" type="-+">Omhels my in uw schoot, Als ik uw' leden <rhyme label="c" type="m">druk</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Lonk als ik lonk, Vonk als ik <rhyme label="d" type="m">vonk</rhyme>,</l>
+        <l id="s1:l6" met="6" type="-+">En houw uw schoot doch op, Wanneer ik Pruimpjes <rhyme label="c" type="m" corresp="#s1:l4">pluk</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">In Venus Boomgaard wierd geen traagheit ooit <rhyme label="a" type="m">geduld</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Roer uwe leên, weez wel te <rhyme label="b" type="m">vreen</rhyme>,</l>
+        <l id="s2:l3" met="6" type="-+">En zoo gy machtloos word, ei geef dan my de <rhyme label="a" type="m" corresp="#s2:l1">schuld</rhyme>.</l>
+        <l id="s2:l4" met="6" type="-+">Gun my te zuigen 't zap der Kersjes uwer <rhyme label="c" type="m">borst</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Zoo fi is als zoet, zoo root als <rhyme label="d" type="m">bloed</rhyme>.</l>
+        <l id="s2:l6" met="6" type="-+">Hun vocht verslaat alleen myn heete liefde <rhyme label="c" type="m" corresp="#s2:l4">dorst</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

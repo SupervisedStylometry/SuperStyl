@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>118843</id>
+    <date>
+      <year-start>1730</year-start>
+      <year-end>1730</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>De boer op klompen</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Jakobus Rosseau</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">WEg met de <rhyme label="a" type="m">Min</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">Weg met de <rhyme label="a" type="m" corresp="#s1:l1">Min</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Daar steekt veel rampe, en sinerten <rhyme label="a" type="m" corresp="#s1:l1">in</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Weg met de <rhyme label="a" type="m" corresp="#s1:l1">Min</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Weg met de <rhyme label="a" type="m" corresp="#s1:l1">Min</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">En band die kuuren uit uwe <rhyme label="a" type="m" corresp="#s1:l1">zin</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Eerd Bagchus, <rhyme label="b" type="f">Silenus</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">En lach wat met <rhyme label="b" type="f" corresp="#s1:l7">Venus</rhyme>,</l>
+        <l id="s1:l9" met="2" type="-+">Zyt altyd <rhyme label="c" type="m">zoet</rhyme>,</l>
+        <l id="s1:l10" met="2" type="+-">By drinken, en <rhyme label="d" type="f">klinken</rhyme>,</l>
+        <l id="s1:l11" met="2" type="-+">En braaf <rhyme label="d" type="f" corresp="#s1:l10">rinkinken</rhyme>,</l>
+        <l id="s1:l12" met="2" type="-+">Gy weze <rhyme label="c" type="m" corresp="#s1:l9">moet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

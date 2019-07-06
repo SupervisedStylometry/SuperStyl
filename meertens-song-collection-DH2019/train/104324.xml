@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>104324</id>
+    <date>
+      <year-start>1656</year-start>
+      <year-end>1656</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Granida prinses</melody>
+  <author>Arnold Bon</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">ICk voel mijn Geestje <rhyme label="a" type="f">zitten</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Op hare volle <rhyme label="b" type="f">lippen</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">Glijck een Bie die uytet <rhyme label="c" type="m">roose-blad</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Het soet gaat <rhyme label="a" type="f" corresp="#s1:l1">spitten</rhyme>.</l>
+        <l id="s1:l5" met="2" type="-+">Soo laat k'me <rhyme label="b" type="f" corresp="#s1:l2">glippen</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Doort net Evoor, en suygme nimmer <rhyme label="c" type="m" corresp="#s1:l3">sat</rhyme>:</l>
+        <l id="s1:l7" met="5" type="-+">Maar laas! Hoe ick mijn lusten, meerder <rhyme label="d" type="m">boet</rhyme>,</l>
+        <l id="s1:l8" met="6" type="-+">Hoe ick in lust vergraag, en my in lust meerder <rhyme label="d" type="m" corresp="#s1:l7">wroet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175075</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Arm bloemetje! hoe staat ge zoo <rhyme label="a" type="m">verdord</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Uw blaadjes rimplen aan den <rhyme label="b" type="m">steel</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Wat zijn ze flets, wat zijn ze <rhyme label="b" type="m" corresp="#s1:l2">geel</rhyme>!</l>
+        <l id="s1:l4" met="5" type="-+">Zeg, bloemken! is 't aan water, dat het <rhyme label="a" type="m" corresp="#s1:l1">schort</rhyme>?</l>
+        <l id="s1:l5" met="5" type="-+">Ei! wacht, dat ik u handig eens <rhyme label="c" type="m">begiet</rhyme>....</l>
+        <l id="s1:l6" met="5" type="-+">Dat doet-je goed, hê, bloemken! doet het <rhyme label="c" type="m" corresp="#s1:l5">niet</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">- Och, aardig kind! wat zijt ge lief en <rhyme label="a" type="m">goed</rhyme>!</l>
+        <l id="s2:l2" met="4" type="-+">'k Word frisscher weêr bij iedren <rhyme label="b" type="m">drop</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En al mijn blaadjes luiken <rhyme label="b" type="m" corresp="#s2:l2">op</rhyme>:</l>
+        <l id="s2:l4" met="5" type="-+">Och, 't is zoo naar, als men verwelken <rhyme label="a" type="m" corresp="#s2:l1">moet</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Terwijl een weinig water uit de <rhyme label="c" type="m">bron</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">Zoo 't iemand geven woû, ons helpen <rhyme label="c" type="m" corresp="#s2:l5">kon</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">En 't doet u zelv' plêzier, zeg! doet het <rhyme label="a" type="m">niet</rhyme>?</l>
+        <l id="s3:l2" met="4" type="-+">Gij voelt uw hartje blijder <rhyme label="b" type="m">slaan</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Nu dat ge mij hebt <rhyme label="b" type="m" corresp="#s3:l2">welgedaan</rhyme>:</l>
+        <l id="s3:l4" met="5" type="-+">Och! denk om mij, als ge eens een' Arme <rhyme label="a" type="m" corresp="#s3:l1">ziet</rhyme>:</l>
+        <l id="s3:l5" met="5" type="-+">Ligt helpt den stumpert uit zijn' diepen <rhyme label="c" type="m">nood</rhyme></l>
+        <l id="s3:l6" met="5" type="-+">Één teugje water en één bete <rhyme label="c" type="m" corresp="#s3:l5">brood</rhyme>. -</l>
+      </lg>
+    </lg>
+  </text>
+</song>

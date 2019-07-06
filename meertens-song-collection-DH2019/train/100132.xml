@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100132</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Si c'est pour mon pucelage</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">'t Zoetst, dat iemand heeft <rhyme label="a" type="f">vernomen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">d' Aldergoddelykste <rhyme label="b" type="m">zaak</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">'t Aldergrootste <rhyme label="b" type="m" corresp="#s1:l2">zielvermaak</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Is, dat ymand heeft <rhyme label="a" type="f" corresp="#s1:l1">bekomen</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Min, die aan eene <rhyme label="c" type="m">kant</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Soo wel als aan d'ander <rhyme label="c" type="m" corresp="#s1:l5">brand</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

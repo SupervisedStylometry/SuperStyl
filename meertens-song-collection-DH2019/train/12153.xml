@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12153</id>
+    <date>
+      <year-start>1617</year-start>
+      <year-end>1617</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Jesu corona virginum</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">IESV corona <rhyme label="a" type="m">virginum</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Quem mater illa <rhyme label="b" type="m">concipit</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Quae sola virgo <rhyme label="b" type="m" corresp="#s1:l2">parturit</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Haec vota clemens <rhyme label="c" type="m">accipe</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Qui pascis inter <rhyme label="a" type="m">lilia</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Septus choreis <rhyme label="b" type="m">virginum</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Sponsas decorans <rhyme label="b" type="m" corresp="#s2:l2">gloria</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Sponsisque reddens <rhyme label="c" type="m">praemia</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Quocumque pergis, <rhyme label="a" type="m">virgines</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Sequuntur, atque <rhyme label="b" type="m">laudibus</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Post te canentes <rhyme label="b" type="m" corresp="#s3:l2">cursitant</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Hymnosque dulces <rhyme label="c" type="m">personant</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Te deprecamur <rhyme label="a" type="m">largiùs</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Nostris adauge <rhyme label="b" type="m">sensibus</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Nescire prorsus <rhyme label="b" type="m" corresp="#s4:l2">omnia</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Corruptionis <rhyme label="c" type="m">vulnera</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Laus, honor, virtus, <rhyme label="a" type="m">gloria</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Deo Patri, &amp; <rhyme label="b" type="m">Filio</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Sancto simul <rhyme label="b" type="m" corresp="#s5:l2">Paraclito</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">In seculorum <rhyme label="c" type="m">secula</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

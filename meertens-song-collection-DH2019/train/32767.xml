@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32767</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
+    </tags>
+    <melody>Heer Jezus heeft een hofje</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">HEer Iesus heeft een hofken daer schoon bloemmen <rhyme label="a" type="m">staen</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Daerin soo wil ick plucken gaen, t' is wel <rhyme label="a" type="m" corresp="#s1:l1">ghedaen</rhyme>.</l>
+        <l id="s1:l3" met="6" type="-+">Men hoort daer niet dan Enghelen sanck, En Herpen <rhyme label="b" type="m">ghespel</rhyme></l>
+        <l id="s1:l4" met="6" type="-+">Trompetten en Claretten, en die Veelkens alsoo <rhyme label="b" type="m" corresp="#s1:l3">wel</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Die Lelikens die ick daer sach, zijn <rhyme label="a" type="m">Suyverheydt</rhyme>,</l>
+        <l id="s2:l2" met="6" type="-+">Die soete Violetten, zijn <rhyme label="a" type="m" corresp="#s2:l1">Oodtmoedicheydt</rhyme>.</l>
+        <l id="s2:l3" met="6" type="-+">Men hoort daer niet dan Enghelen sanck, en Herpen <rhyme label="b" type="m">ghespel</rhyme>.</l>
+        <l id="s2:l4" met="6" type="-+">Trompetten en Claretten, en die Veelkens alsoo <rhyme label="b" type="m" corresp="#s2:l3">wel</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">De schoon purper' Roose was de <rhyme label="a" type="m">Lijdtsaemheydt</rhyme>.</l>
+        <l id="s3:l2" met="6" type="-+">De schoone vergulde Goudeblom, <rhyme label="a" type="m" corresp="#s3:l1">Ghehoorsaemheydt</rhyme>.</l>
+        <l id="s3:l3" met="6" type="-+">Men hoort daer niet dan Enghelen sanck, en Herpen <rhyme label="b" type="m">ghespe</rhyme>.</l>
+        <l id="s3:l4" met="6" type="-+">Trompetten en Claretten, en die Veelkens alsoo <rhyme label="b" type="m" corresp="#s3:l3">wel</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">Noch wasser een die boven al spanden de <rhyme label="a" type="m">croon</rhyme>.</l>
+        <l id="s4:l2" met="6" type="-+">De Croon Imperiale 't was de Liefde <rhyme label="a" type="m" corresp="#s4:l1">schoon</rhyme>,</l>
+        <l id="s4:l3" met="6" type="-+">Men hoort daer niet dan Enghelen sanck, en Herpen <rhyme label="b" type="m">ghespel</rhyme>.</l>
+        <l id="s4:l4" met="6" type="-+">Trompetten en Claretten, en die Veelkens alsoo <rhyme label="b" type="m" corresp="#s4:l3">wel</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="6" type="-+">Maer d' alderschoonste beste blom al in dat <rhyme label="a" type="m">hof</rhyme>,</l>
+        <l id="s5:l2" met="6" type="-+">Dat was den Heere Iesus soet, dus zy hem <rhyme label="a" type="m" corresp="#s5:l1">lof</rhyme>.</l>
+        <l id="s5:l3" met="6" type="-+">Men hoort daer niet dan Enghelen sanck, en Herpen <rhyme label="b" type="m">ghespel</rhyme>.</l>
+        <l id="s5:l4" met="6" type="-+">Trompetten en Claretten, en die Veelkens alsoo <rhyme label="b" type="m" corresp="#s5:l3">wel</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="6" type="-+">Och Iesus al mijn goet, en al mijn <rhyme label="a" type="m">salichheyt</rhyme></l>
+        <l id="s6:l2" met="6" type="-+">Maect van mijn hert u hoveken, het is <rhyme label="a" type="m" corresp="#s6:l1">bereydt</rhyme>:</l>
+        <l id="s6:l3" met="6" type="-+">Men hoort daer niet dan Enghelen sanck, en Herpen <rhyme label="b" type="m">ghespel</rhyme>.</l>
+        <l id="s6:l4" met="6" type="-+">Trompetten en Claretten, en die Veelkens alsoo <rhyme label="b" type="m" corresp="#s6:l3">wel</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

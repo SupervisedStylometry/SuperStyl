@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12286</id>
+    <date>
+      <year-start>1639</year-start>
+      <year-end>1639</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Amarilli mia bella</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Daniel Joncktys</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">ROSELIINE, vvat <rhyme label="a" type="f">lichten</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">VVat herte-terend vuyr, vvat <rhyme label="a" type="f" corresp="#s1:l1">Ooge-schichten</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Schiett gy in mijn <rhyme label="a" type="f" corresp="#s1:l1">gevvrichten</rhyme>!</l>
+        <l id="s1:l4" met="5" type="-+">Recht als een blomm, dien't dauvvtjen is <rhyme label="b" type="f">ontzogen</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Sterft door de <rhyme label="b" type="f" corresp="#s1:l4">Sonne-Oogen</rhyme>;</l>
+        <l id="s1:l6" met="5" type="-+">Soo doen uvv' Lichjes, als'ck lippen-dauvv moet <rhyme label="c" type="f">derven</rhyme>,</l>
+        <l id="s1:l7" met="7" type="-+">ROSELIINE, ROSELIINE, ROSELIINE my <rhyme label="c" type="f" corresp="#s1:l6">sterven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Maer vvanneer ick de <rhyme label="a" type="f">tippen</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Van u coralen mond, die lieve <rhyme label="a" type="f" corresp="#s2:l1">lippen</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Voel haer aen mijne <rhyme label="a" type="f" corresp="#s2:l1">rippen</rhyme>;</l>
+        <l id="s2:l4" met="5" type="-+">Dan doe je een geest in mijne ad'ren <rhyme label="b" type="f">kommen</rhyme>:</l>
+        <l id="s2:l5" met="3" type="-+">En gelijck als een <rhyme label="b" type="f" corresp="#s2:l4">blomme</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">Rijst door de Sonne, na een vochten dauvv, soo groey <rhyme label="c" type="f">ick</rhyme>,</l>
+        <l id="s2:l7" met="7" type="-+">ROSELIINE, ROSELIINE, ROSELIINE soo bloey <rhyme label="c" type="f" corresp="#s2:l6">ick</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Wel dan, Lief, soo de <rhyme label="a" type="f">strale</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">Van uvv uytmuntend OOG kan in my <rhyme label="a" type="f" corresp="#s3:l1">dalen</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">En de Ziell uyt my <rhyme label="a" type="f" corresp="#s3:l1">halen</rhyme>;</l>
+        <l id="s3:l4" met="5" type="-+">En dat een kus my vvederom kan <rhyme label="b" type="f">zoogen</rhyme>;</l>
+        <l id="s3:l5" met="3" type="-+">Doodt dan vry, met uvv' <rhyme label="b" type="f" corresp="#s3:l4">OOGEN</rhyme>.</l>
+        <l id="s3:l6" met="5" type="-+">Maer als ick sterve, vvilt my dan kusjes <rhyme label="c" type="f">geven</rhyme>,</l>
+        <l id="s3:l7" met="7" type="-+">ROSELIINE, ROSELIINE, ROSELIINE 'k sal <rhyme label="c" type="f" corresp="#s3:l6">leven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

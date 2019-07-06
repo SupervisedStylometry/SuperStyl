@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22446</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="danklied" translation="gratitude song">danklied</tag>
+    </tags>
+    <melody>Herr Christ der einig Gottes Sohn</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O Godt den mont u <rhyme label="a" type="f">prijset</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">En singhet u grooten <rhyme label="b" type="m">danck</rhyme>:</l>
+        <l id="s1:l3" met="3" type="-+">Dat ghy ons hebt <rhyme label="a" type="f" corresp="#s1:l1">ghespijset</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En ghegheuen goeden <rhyme label="b" type="m" corresp="#s1:l2">dranck</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Dijn mildicheyt om <rhyme label="c" type="f">mercken</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">En ons ghelooue te <rhyme label="c" type="f" corresp="#s1:l5">stercken</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Dat ghy zijt onsen <rhyme label="d" type="m">Godt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Hebben wy dit <rhyme label="a" type="f">ghenomen</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Met luste en bouen <rhyme label="b" type="m">maet</rhyme>:</l>
+        <l id="s2:l3" met="3" type="-+">Waer door wy mochten <rhyme label="a" type="f" corresp="#s2:l1">comen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">In dijnen tooren en <rhyme label="b" type="m" corresp="#s2:l2">haet</rhyme>:</l>
+        <l id="s2:l5" met="3" type="-+">So wilt ons wt <rhyme label="c" type="f">ghenaden</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Dat selue niet laeten <rhyme label="c" type="f" corresp="#s2:l5">schaden</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Door Christum dijnen <rhyme label="d" type="m">Soon</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Wilt altijt so <rhyme label="a" type="f">vermeeren</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Heere onse Siele en <rhyme label="b" type="m">Gheest</rhyme>:</l>
+        <l id="s3:l3" met="3" type="-+">Dat wy tot Christum <rhyme label="a" type="f" corresp="#s3:l1">keeren</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">En door u worden <rhyme label="b" type="m" corresp="#s3:l2">vermeest</rhyme>:</l>
+        <l id="s3:l5" met="3" type="-+">Dat wy sterck syn int <rhyme label="c" type="f">lijden</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">En der sonden hongher <rhyme label="c" type="f" corresp="#s3:l5">mijden</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Nu, ende <rhyme label="d" type="m">eewichlijck</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

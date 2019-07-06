@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20093</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Als Atalante doden maakte</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">ALs den dagh eens quam <rhyme label="a" type="f">door-dringen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">En sijn stralen <rhyme label="a" type="f" corresp="#s1:l1">gingen</rhyme></l>
+        <l id="s1:l3" met="7" type="+-">Lieflijck, door de telgen al van het groene <rhyme label="b" type="m">wout</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Alwaar ick vind, mijn lief Clarind, dees woorden <rhyme label="a" type="f" corresp="#s1:l1">singen</rhyme>,</l>
+        <l id="s1:l5" met="7" type="-+">O Herders kint, mijn lief Amint, waer of ghy u <rhyme label="b" type="m" corresp="#s1:l3">onthout</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Mocht ick u d’ aangename <rhyme label="a" type="f">kusjes</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">En vergode <rhyme label="a" type="f" corresp="#s2:l1">lusjes</rhyme>,</l>
+        <l id="s2:l3" met="7" type="+-">Plucken van u lieve mont, en soete kaakjes <rhyme label="b" type="m">root</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Ick gaffer u, wel duysent nu, en sou <rhyme label="a" type="f" corresp="#s2:l1">gerusjes</rhyme>,</l>
+        <l id="s2:l5" met="7" type="-+">V dalen doen, door menigh soen tot in Clarindes <rhyme label="b" type="m" corresp="#s2:l3">schoot</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Op soo aangename <rhyme label="a" type="f">woorden</rhyme>,</l>
+        <l id="s3:l2" met="3" type="+-">Als ik van er <rhyme label="a" type="f" corresp="#s3:l1">hoorden</rhyme>,</l>
+        <l id="s3:l3" met="7" type="+-">Kom ik onverwacht haar door de telghjes <rhyme label="b" type="m">by</rhyme>;</l>
+        <l id="s3:l4" met="6" type="-+">Daar kusten ick en blusten ick die lieve <rhyme label="a" type="f" corresp="#s3:l1">boorden</rhyme>,</l>
+        <l id="s3:l5" met="7" type="-+">Als een Robijn, op ’t Ambrosijn van hare lipjes <rhyme label="b" type="m" corresp="#s3:l3">bly</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Sy begint van schrick te <rhyme label="a" type="f">karmen</rhyme>,</l>
+        <l id="s4:l2" met="3" type="+-">Maar ick met mijn <rhyme label="a" type="f" corresp="#s4:l1">armen</rhyme>,</l>
+        <l id="s4:l3" met="7" type="+-">Neem en werp haar op een bedt van Roosjes wit en <rhyme label="b" type="m">root</rhyme>.</l>
+        <l id="s4:l4" met="6" type="-+">Daer ick haar doe, stoeyde soo moe, sy riep och <rhyme label="a" type="f" corresp="#s4:l1">armen</rhyme>,</l>
+        <l id="s4:l5" met="7" type="-+">Maaght Clarint, houd op Amint of anders ick raak <rhyme label="b" type="m" corresp="#s4:l3">doot</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

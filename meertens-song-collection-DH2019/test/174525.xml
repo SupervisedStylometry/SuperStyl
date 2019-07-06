@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174525</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="morgenlied" translation="morning song">morgenlied</tag>
+    </tags>
+    <melody>Ei zo! Gij schone dageraad</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wel zoo! gij schoone <rhyme label="a" type="m">dageraad</rhyme>!</l>
+        <l id="s1:l2" met="3" type="-+">Wat zeggen ons de <rhyme label="b" type="m">liên</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Komt gij met rozen in uw' <rhyme label="c" type="m">mond</rhyme>?</l>
+        <l id="s1:l4" met="3" type="-+">Dat mogt ik weleens <rhyme label="b" type="m" corresp="#s1:l2">zien</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">En plukt gij ieder' knaap of <rhyme label="a" type="m">maagd</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Die langer slaapt dan <rhyme label="b" type="m">gij</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Een roosje van de volle <rhyme label="c" type="m">wang</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Wanneer ge gaat <rhyme label="b" type="m" corresp="#s2:l2">voorbij</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">En geeft gij ieder' knaap of <rhyme label="a" type="m">maagd</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Die korter slaapt dan <rhyme label="b" type="m">gij</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Twee roosjes uit uw rijken <rhyme label="c" type="m">schat</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Wanneer ge gaat <rhyme label="b" type="m" corresp="#s3:l2">voorbij</rhyme>? -</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Op, kinders! op, het schemert <rhyme label="a" type="m">al</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Daar komt de <rhyme label="b" type="m">Dageraad</rhyme>! -</l>
+        <l id="s4:l3" met="4" type="-+">Hij houdt wel veel van bleek te <rhyme label="c" type="m">zien</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Die nu niet op en <rhyme label="b" type="m" corresp="#s4:l2">staat</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

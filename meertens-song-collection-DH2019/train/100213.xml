@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100213</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Kon ik de min ontvluchten</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">WAt leidt daar? 't is een <rhyme label="a" type="f">Meisje</rhyme>;</l>
+        <l id="s1:l2" met="3" type="-+">Hier zal ik nu een <rhyme label="a" type="f" corresp="#s1:l1">reisje</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Ontbinden myne <rhyme label="b" type="m">lust</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Eerst eensjes zagt <rhyme label="b" type="m" corresp="#s1:l3">gekust</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Dan 't ander. Silv. Moort ô <rhyme label="c" type="f">Goden</rhyme>!</l>
+        <l id="s1:l6" met="3" type="-+">Neen niemant wil u <rhyme label="c" type="f" corresp="#s1:l5">dooden</rhyme>.</l>
+        <l id="s1:l7" met="3" type="-+">Help Herders help myn <rhyme label="d" type="m">eer</rhyme>;</l>
+        <l id="s1:l8" met="3" type="-+">Moord, moord! Sat. jou <rhyme label="d" type="m" corresp="#s1:l7">tegenweer</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Is niet dan moeit <rhyme label="a" type="f">verlooren</rhyme>.</l>
+        <l id="s2:l2" met="3" type="-+">Waar toe ben ik <rhyme label="a" type="f" corresp="#s2:l1">geboren</rhyme>.</l>
+        <l id="s2:l3" met="3" type="-+">Moord, Vrouwe kragt, <rhyme label="b" type="m">gewelt</rhyme>!</l>
+        <l id="s2:l4" met="3" type="-+">Wat klagt is hier in 't <rhyme label="b" type="m" corresp="#s2:l3">veldt</rhyme>?</l>
+        <l id="s2:l5" met="3" type="-+">Ha Schelm, ik zal u <rhyme label="c" type="f">leeren</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Ons Meisjes dus <rhyme label="c" type="f" corresp="#s2:l5">onteeren</rhyme>.</l>
+        <l id="s2:l7" met="3" type="-+">Help Herder staat my <rhyme label="d" type="m">by</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Dat 's voor uw' <rhyme label="d" type="m" corresp="#s2:l7">Schelmery</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Flux beest. Sat. ô Moort myn <rhyme label="a" type="f">lenden</rhyme>!</l>
+        <l id="s3:l2" met="3" type="-+">Ach Herder Ach! Tyt. Te <rhyme label="a" type="f" corresp="#s3:l1">schenden</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Zoo'n Vrouw van zoo een <rhyme label="b" type="m">Bok</rhyme>!</l>
+        <l id="s3:l4" met="3" type="-+">Gy hebt nog dubbelt <rhyme label="b" type="m" corresp="#s3:l3">lok</rhyme>.</l>
+        <l id="s3:l5" met="3" type="-+">Uw' vlugt baat u uw' <rhyme label="c" type="f">leven</rhyme>.</l>
+        <l id="s3:l6" met="3" type="-+">Wat kan ik Herder <rhyme label="c" type="f" corresp="#s3:l5">geven</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Tot dankbaarheid? dat <rhyme label="d" type="m">gy</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">My maakt zo vylig <rhyme label="d" type="m" corresp="#s3:l7">vry</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

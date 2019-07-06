@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21012</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
+    </tags>
+    <melody>Prins Robberts mars</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author>Jan Zoet</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">AL brult het Wijff gelijck een <rhyme label="a" type="m">Leeuw</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">En tiert gelijck een <rhyme label="b" type="m">Beer</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Soo sal dogh niet haar dul <rhyme label="a" type="m" corresp="#s1:l1">geschreeuw</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Noch haar vergifte <rhyme label="b" type="m" corresp="#s1:l2">Spheer</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Een vroom oprecht Godsaligh <rhyme label="c" type="m">Man</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Bewegen tot de <rhyme label="d" type="m">wraack</rhyme>:</l>
+        <l id="s1:l7" met="4" type="-+">Maar hy ontfangt hier echter <rhyme label="c" type="m" corresp="#s1:l5">van</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Een Geestelijck <rhyme label="d" type="m" corresp="#s1:l6">vermaack</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hoe wel het vloecken veel <rhyme label="a" type="m">vermagh</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Op een Godsaligh <rhyme label="b" type="m">hert</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Het maackt hem wel een Rouwe <rhyme label="a" type="m" corresp="#s2:l1">klagh</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">En lijden loose <rhyme label="b" type="m" corresp="#s2:l2">smert</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Maar evenwel sal sijn <rhyme label="c" type="m">gemoet</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">De boose tong <rhyme label="d" type="m">versmaan</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">En sal met een verliefde <rhyme label="c" type="m" corresp="#s2:l5">groet</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Doen't boose Wijff <rhyme label="d" type="m" corresp="#s2:l6">vermaan</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Haar schelden slaat hy inden <rhyme label="a" type="m">wind</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Haar knorren acht hy <rhyme label="b" type="m">niet</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Sijn vromigheydt die hy <rhyme label="a" type="m" corresp="#s3:l1">bemindt</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Maeckt dat hy 't quade <rhyme label="b" type="m" corresp="#s3:l2">vliedt</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Dus dan een vroom Godsaal'ge <rhyme label="c" type="m">ziel</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Wordt niet door vier en <rhyme label="d" type="m">vlam</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Verdreven tot des Satans <rhyme label="c" type="m" corresp="#s3:l5">kiel</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Noch van des waerheydts <rhyme label="d" type="m" corresp="#s3:l6">stam</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

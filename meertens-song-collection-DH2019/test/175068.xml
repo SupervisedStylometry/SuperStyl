@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175068</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="meilied" translation="May song">meilied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">De winterkoû is <rhyme label="a" type="m">weggejaagd</rhyme>:</l>
+        <l id="s1:l2" met="4" type="-+">Zie maar! wat bloemen, <rhyme label="b" type="m">overal</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">De hof, de haag, de boomgaard <rhyme label="a" type="m" corresp="#s1:l1">draagt</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">'k Hoop, dat het niet meer vriezen <rhyme label="b" type="m" corresp="#s1:l2">zal</rhyme>!</l>
+        <l id="s1:l5" met="4" type="-+">En dat 'k geen andre sneeuw meer <rhyme label="c" type="m">zie</rhyme>,</l>
+        <l id="s1:l6" met="1" type="-+">Dan <rhyme label="c" type="m" corresp="#s1:l5">die</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Als witte bloesem <rhyme label="d" type="m">sneeuwt</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Of haast de zwaluw komen <rhyme label="a" type="m">zal</rhyme>? -</l>
+        <l id="s2:l2" met="4" type="-+">Met stroo en fijngekamde <rhyme label="b" type="m">wol</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Maakte ik de nestjes, in den <rhyme label="a" type="m" corresp="#s2:l1">stal</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">En onder aan de dakgoot, <rhyme label="b" type="m" corresp="#s2:l2">vol</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Ik denk: 't doet vast het trouwe <rhyme label="c" type="m">dier</rhyme></l>
+        <l id="s2:l6" met="1" type="-+"><rhyme label="c" type="m" corresp="#s2:l5">Plêzier</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Dat 'k zóóveel van hem <rhyme label="d" type="m">hoû</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">En komt onze ooijevaar dan <rhyme label="a" type="m">weêr</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">De langpoot met zijn langen <rhyme label="b" type="m">bek</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Dan zal 't een pret zijn! - vrij wat <rhyme label="a" type="m" corresp="#s3:l1">meer</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Dan, toen hij stond op zijn <rhyme label="b" type="m" corresp="#s3:l2">vertrek</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">En ieder droevig keek naar 't <rhyme label="c" type="m">dak</rhyme></l>
+        <l id="s3:l6" met="1" type="-+">En <rhyme label="c" type="m" corresp="#s3:l5">sprak</rhyme>:</l>
+        <l id="s3:l7" met="3" type="-+">‘Hij neemt den zomer <rhyme label="d" type="m">meê</rhyme>!’</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Zoo klink' het dan, aan allen <rhyme label="a" type="m">kant</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Terwijl we ons scharen tot een <rhyme label="b" type="m">dans</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">‘Hoezee! - de Lente kwam in 't <rhyme label="a" type="m" corresp="#s4:l1">land</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Vlecht haar een <rhyme label="b" type="m" corresp="#s4:l2">madelievenkrans</rhyme>!’ -</l>
+        <l id="s4:l5" met="4" type="-+">En de Armoê roept, nog eens zoo <rhyme label="c" type="m">blij</rhyme></l>
+        <l id="s4:l6" met="1" type="-+">Als <rhyme label="c" type="m" corresp="#s4:l5">wij</rhyme>:</l>
+        <l id="s4:l7" met="3" type="-+">‘Koû en gebrek zijn nu <rhyme label="d" type="m">voorbij</rhyme>!’</l>
+      </lg>
+    </lg>
+  </text>
+</song>

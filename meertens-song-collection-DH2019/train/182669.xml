@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182669</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Mes enfants travaillons gaiment</melody>
+  <author>Hendrik Riemsnijder</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Klein Jantje speelde onlangs op 't <rhyme label="a" type="m">Land</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En voelde door een' By' zig <rhyme label="b" type="f">steeken</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Straks riep hy toornig: ‘'k zal my <rhyme label="b" type="f" corresp="#s1:l2">wreeken</rhyme>’!</l>
+        <l id="s1:l4" met="4" type="-+">Hy wierp met steenen, kluiten, <rhyme label="a" type="m" corresp="#s1:l1">zand</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">En, schoon het Bytje was <rhyme label="b" type="f" corresp="#s1:l2">ontweeken</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Zogt nochtans zyne woeste <rhyme label="a" type="m" corresp="#s1:l1">hand</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Den korf der Byen stuk te <rhyme label="b" type="f" corresp="#s1:l2">breeken</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wat won hy met zyn dol <rhyme label="a" type="m">bestaan</rhyme>?</l>
+        <l id="s2:l2" met="4" type="-+">Hy zag zig ras, bedeesd, <rhyme label="b" type="f">verslagen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Door steek op steek gewond, <rhyme label="b" type="f" corresp="#s2:l2">verjaagen</rhyme>:</l>
+        <l id="s2:l4" met="4" type="-+">Hem viel de gantsche zwerm toen <rhyme label="a" type="m" corresp="#s2:l1">aan</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Dit was zyn' schuld; hy moet niet <rhyme label="b" type="f" corresp="#s2:l2">klagen</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Maar leeren, meer bedaard, <rhyme label="a" type="m" corresp="#s2:l1">voortaan</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Een kleine spyt geduldig <rhyme label="b" type="f" corresp="#s2:l2">dragen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

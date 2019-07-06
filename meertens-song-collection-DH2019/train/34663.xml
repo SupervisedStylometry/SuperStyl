@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34663</id>
+    <date>
+      <year-start>1653</year-start>
+      <year-end>1653</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+    </tags>
+    <melody>Poi che il mio fuoco e spento</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Albertus Ignatius d'Hanins</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">TApt wijn, tapt wijn <rhyme label="a" type="f">Weerdinne</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Want ick dit sap <rhyme label="a" type="f" corresp="#s1:l1">beminne</rhyme>:</l>
+        <l id="s1:l3" met="2" type="+-">Ick moet <rhyme label="b" type="f">singhen</rhyme>,</l>
+        <l id="s1:l4" met="1" type="-+">En <rhyme label="b" type="f" corresp="#s1:l3">klinghen</rhyme>,</l>
+        <l id="s1:l5" met="1" type="-+">En <rhyme label="b" type="f" corresp="#s1:l3">springhen</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Ghy ’t wijntjen <rhyme label="b" type="f" corresp="#s1:l3">bringen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Het sparen will’ ick <rhyme label="a" type="f">vlieden</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">En met de jonghe <rhyme label="a" type="f" corresp="#s2:l1">lieden</rhyme></l>
+        <l id="s2:l3" met="2" type="+-">Lustigh <rhyme label="b" type="f">smeiren</rhyme>,</l>
+        <l id="s2:l4" met="1" type="-+">En <rhyme label="b" type="f" corresp="#s2:l3">teiren</rhyme></l>
+        <l id="s2:l5" met="1" type="-+">Seer <rhyme label="b" type="f" corresp="#s2:l3">gheiren</rhyme>:</l>
+        <l id="s2:l6" met="2" type="-+">Dit ’s mijn <rhyme label="b" type="f" corresp="#s2:l3">begheiren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">‘k Bidd’ u mijn’ <rhyme label="a" type="f">med’-gheselle</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Trect eensjens doch de <rhyme label="a" type="f" corresp="#s3:l1">belle</rhyme>,</l>
+        <l id="s3:l3" met="2" type="+-">Want de <rhyme label="b" type="f">snellen</rhyme></l>
+        <l id="s3:l4" met="1" type="-+">Met <rhyme label="b" type="f" corresp="#s3:l3">hellen</rhyme></l>
+        <l id="s3:l5" met="1" type="-+">Ons <rhyme label="b" type="f" corresp="#s3:l3">quellen</rhyme>:</l>
+        <l id="s3:l6" met="2" type="-+">Flux treckt de <rhyme label="b" type="f" corresp="#s3:l3">belle</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Tapt wijn, tapt wijn <rhyme label="a" type="f">vrindinne</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Want hier is niet meer <rhyme label="a" type="f" corresp="#s4:l1">binnen</rhyme>:</l>
+        <l id="s4:l3" met="2" type="+-">Laet hem <rhyme label="b" type="f">vloeyen</rhyme>,</l>
+        <l id="s4:l4" met="1" type="-+">En <rhyme label="b" type="f" corresp="#s4:l3">bloeyen</rhyme>,</l>
+        <l id="s4:l5" met="1" type="-+">(Wilt <rhyme label="b" type="f" corresp="#s4:l3">spoeyen</rhyme>)</l>
+        <l id="s4:l6" met="2" type="-+">Daer sal noch <rhyme label="b" type="f" corresp="#s4:l3">groeyen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">O soete <rhyme label="a" type="f">Bacchi-gaven</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Die onse ziel’ komt <rhyme label="a" type="f" corresp="#s5:l1">laven</rhyme>:</l>
+        <l id="s5:l3" met="2" type="+-">Ick sal <rhyme label="b" type="f">trachten</rhyme></l>
+        <l id="s5:l4" met="1" type="-+">Te <rhyme label="b" type="f" corresp="#s5:l3">achten</rhyme></l>
+        <l id="s5:l5" met="1" type="-+">Dijn’ <rhyme label="b" type="f" corresp="#s5:l3">krachten</rhyme>,</l>
+        <l id="s5:l6" met="2" type="-+">Dagh ende <rhyme label="b" type="f" corresp="#s5:l3">nachten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

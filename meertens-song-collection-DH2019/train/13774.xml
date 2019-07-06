@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13774</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>De uitmuntendste herderin</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>anoniem</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">WIe souw mijn Harderinne niet konnen eere <rhyme label="a" type="m">bien</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Die haer schoonheyt en soete <rhyme label="b" type="m">aerdigheyt</rhyme>:</l>
+        <l id="s1:l3" met="3" type="-+">Maer een-mael heeft <rhyme label="a" type="m" corresp="#s1:l1">ghesien</rhyme>?</l>
+        <l id="s1:l4" met="6" type="-+">Wie sou haer niet beminnen die maer een-mael en <rhyme label="c" type="m">heeft</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">‘T volmaeckt ghebouw van mijn lofwaerde <rhyme label="d" type="m">vrouw</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Ghesien, gheen mensch die <rhyme label="c" type="m" corresp="#s1:l4">leeft</rhyme>?</l>
+        <l id="s1:l7" met="5" type="-+">‘T is dan gheen wonder ghy my hebt <rhyme label="e" type="f">bewogen</rhyme>,</l>
+        <l id="s1:l8" met="6" type="+-">En tot min ghebracht, door soete minne <rhyme label="f" type="m">kracht</rhyme>:</l>
+        <l id="s1:l9" met="6" type="+-">Want wie sou den boghen, ban u loddre <rhyme label="e" type="f" corresp="#s1:l7">ooghen</rhyme></l>
+        <l id="s1:l10" met="4" type="+-">Niet benemen al sijn <rhyme label="f" type="m" corresp="#s1:l8">macht</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

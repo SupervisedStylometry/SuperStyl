@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>118840</id>
+    <date>
+      <year-start>1730</year-start>
+      <year-end>1730</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>C'est le dieu des eaux qui va paraître</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">IK hou wel van een zoet en poezel <rhyme label="a" type="f">Meisje</rhyme>,</l>
+        <l id="s1:l2" met="5" type="+-">Lief van trony blank en zagt van <rhyme label="a" type="f" corresp="#s1:l1">vleisje</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Een <rhyme label="b" type="m">Engelin</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Die door de <rhyme label="b" type="m" corresp="#s1:l3">Min</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">My gund zo menig <rhyme label="a" type="f" corresp="#s1:l1">reisje</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">'t Zoet van Pafos <rhyme label="b" type="m" corresp="#s1:l3">Koningin</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Ja ik hoop wel haast met haar te <rhyme label="a" type="f">treden</rhyme>,</l>
+        <l id="s2:l2" met="5" type="+-">Om als Bruidegom haar naakte <rhyme label="a" type="f" corresp="#s2:l1">leden</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Op 't <rhyme label="b" type="m">Ledikant</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">Door <rhyme label="b" type="m" corresp="#s2:l3">Minnebrand</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Tot weder-min te <rhyme label="a" type="f" corresp="#s2:l1">kneden</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">En te strelen zulk een <rhyme label="b" type="m" corresp="#s2:l3">Pand</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">ô! Wat zal ik haar dan zoet <rhyme label="a" type="f">omarmen</rhyme>,</l>
+        <l id="s3:l2" met="5" type="+-">En wat zulle wy elkaâr <rhyme label="a" type="f" corresp="#s3:l1">verwarmen</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">Wyl 't <rhyme label="b" type="m">Minne-kind</rhyme>,</l>
+        <l id="s3:l4" met="2" type="-+">Myn boezem <rhyme label="b" type="m" corresp="#s3:l3">vrind</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Blaast alderlei <rhyme label="a" type="f" corresp="#s3:l1">allarmen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">En ons liefde vaster <rhyme label="b" type="m" corresp="#s3:l3">bind</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

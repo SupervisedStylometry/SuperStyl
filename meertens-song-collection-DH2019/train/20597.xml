@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20597</id>
+    <date>
+      <year-start>1628</year-start>
+      <year-end>1628</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Al hebben de prinsen haar wens</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Joan Ysermans</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">,,AL hebben de Princen haren <rhyme label="a" type="m">vvensch</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">,,Sy en sijn maer slauen vanden <rhyme label="a" type="m" corresp="#s1:l1">mensch</rhyme>:</l>
+        <l id="s1:l3" met="4" type="+-">Maer ons Herder-ampt vol <rhyme label="b" type="m">vre</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Is becommert nievers <rhyme label="b" type="m" corresp="#s1:l3">me</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Al is in het hof vvatmen <rhyme label="a" type="m">versiert</rhyme>:</l>
+        <l id="s2:l2" met="4" type="+-">Schoonder is ons vvooningh noch <rhyme label="a" type="m" corresp="#s2:l1">gheciert</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Met gras, bloemkens, en <rhyme label="b" type="m">gheboomt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Daer soo menich beexken <rhyme label="b" type="m" corresp="#s2:l3">stroomt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Al is in het hof veel snaer-spel <rhyme label="a" type="m">soet</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Dat den droeuen gheest verheughen <rhyme label="a" type="m" corresp="#s3:l1">doet</rhyme>:</l>
+        <l id="s3:l3" met="4" type="+-">By ons is den <rhyme label="b" type="m">vveder-clanck</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Van des voghels soeten <rhyme label="b" type="m" corresp="#s3:l3">sanck</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Al is eenen Coninckx hooft <rhyme label="a" type="m">om-rinckt</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Met een goude-croon die cierlijck <rhyme label="a" type="m" corresp="#s4:l1">blinckt</rhyme>:</l>
+        <l id="s4:l3" met="4" type="+-">Wy-lie draghen oock een <rhyme label="b" type="m">croon</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Van verscheyden bloemkens <rhyme label="b" type="m" corresp="#s4:l3">schoon</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Al heeft eenen Coninck in sijn <rhyme label="a" type="m">hant</rhyme></l>
+        <l id="s5:l2" met="4" type="+-">Eenen gulden staf, om heerschen <rhyme label="a" type="m" corresp="#s5:l1">t'lant</rhyme>:</l>
+        <l id="s5:l3" met="4" type="+-">Wy-lie voeren oock in <rhyme label="b" type="m">ste</rhyme></l>
+        <l id="s5:l4" met="4" type="+-">Daer vv'ons Schaepkens heerschen <rhyme label="b" type="m" corresp="#s5:l3">me</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">,, Is het niet den rijcksten mensch die <rhyme label="a" type="m">leeft</rhyme></l>
+        <l id="s6:l2" met="4" type="+-">,, Die in alles sijn ghenoeghen <rhyme label="a" type="m" corresp="#s6:l1">heeft</rhyme>?</l>
+        <l id="s6:l3" met="4" type="+-">,, Wat is doch al s'vverelts <rhyme label="b" type="m">lust</rhyme></l>
+        <l id="s6:l4" met="4" type="+-">,, Als het hert is <rhyme label="b" type="m" corresp="#s6:l3">ongherust</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

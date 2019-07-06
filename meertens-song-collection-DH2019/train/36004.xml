@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36004</id>
+    <date>
+      <year-start>1664</year-start>
+      <year-end>1664</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen [=amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+      <tag standard-name="marialied" translation="Maria song">Marialied</tag>
+    </tags>
+    <melody>Edele kersouw</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Joannes van Dyck</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">O Iesu <rhyme label="a" type="m">soet</rhyme>!</l>
+        <l id="s1:l2" met="3" type="-+">Leydt my in uwen <rhyme label="b" type="f">Tempel</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Door uwen Heyl’gen <rhyme label="c" type="m">Geest</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">U te <rhyme label="a" type="m" corresp="#s1:l1">gemoet</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Na Simeons <rhyme label="b" type="f" corresp="#s1:l2">exempel</rhyme>.</l>
+        <l id="s1:l6" met="3" type="-+">Dat mijn ziel <rhyme label="c" type="m" corresp="#s1:l3">onbevreest</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Die dus langh is <rhyme label="c" type="m" corresp="#s1:l3">geweest</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Benauwt en vol van <rhyme label="d" type="f">lijden</rhyme>,</l>
+        <l id="s1:l9" met="4" type="-+">Mach oock van hier in vrede <rhyme label="e" type="m">gaen</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">En eeuwigh haer <rhyme label="d" type="f" corresp="#s1:l8">verblijden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Geeft my te <rhyme label="a" type="m">sien</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Met mijnder zielen <rhyme label="b" type="f">oogen</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Uw’ zaligheyt <rhyme label="c" type="m">bereydt</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">Voor alle <rhyme label="a" type="m" corresp="#s2:l1">Lien</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Die u te vinden <rhyme label="b" type="f" corresp="#s2:l2">poogen</rhyme>;</l>
+        <l id="s2:l6" met="3" type="-+">Want mijn ziele <rhyme label="c" type="m" corresp="#s2:l3">verbeydt</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Alleen uw’ <rhyme label="c" type="m" corresp="#s2:l3">Majesteyt</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Met een licht in haer <rhyme label="d" type="f">handen</rhyme>:</l>
+        <l id="s2:l9" met="4" type="-+">Maer ghy, die zijt het eeuwigh <rhyme label="e" type="m">Licht</rhyme>,</l>
+        <l id="s2:l10" met="3" type="-+">Doet mijn licht meerder <rhyme label="d" type="f" corresp="#s2:l8">branden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Maria <rhyme label="a" type="m">fijn</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Reyn onbevleckte <rhyme label="b" type="f">Maget</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Een dageraet <rhyme label="c" type="m">ydoon</rhyme>,</l>
+        <l id="s3:l4" met="2" type="-+">Die geeft een <rhyme label="a" type="m" corresp="#s3:l1">schijn</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Des morgens als ‘t vroegh <rhyme label="b" type="f" corresp="#s3:l2">daget</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Soo ghy der Sonnen <rhyme label="c" type="m" corresp="#s3:l3">Throon</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Brenght ons het Licht seer <rhyme label="c" type="m" corresp="#s3:l3">schoon</rhyme>;</l>
+        <l id="s3:l8" met="3" type="-+">Heel vroegh komt ghy <rhyme label="d" type="f">oprijsen</rhyme>:</l>
+        <l id="s3:l9" met="4" type="-+">Dus singen wy: weest <rhyme label="e" type="m">wellekoom</rhyme>,</l>
+        <l id="s3:l10" met="3" type="-+">En gaen u eer <rhyme label="d" type="f" corresp="#s3:l8">bewijsen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">Godts Moeder <rhyme label="a" type="m">reyn</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">U mijnder wilt <rhyme label="b" type="f">ontfermen</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Toont my uw klaer <rhyme label="c" type="m">aenschijn</rhyme>,</l>
+        <l id="s4:l4" met="2" type="-+">Uw’ kindlijn <rhyme label="a" type="m" corresp="#s4:l1">kleyn</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Geeft my in mijnen <rhyme label="b" type="f" corresp="#s4:l2">ermen</rhyme>;</l>
+        <l id="s4:l6" met="3" type="-+">Druckt het in ‘t herte <rhyme label="c" type="m" corresp="#s4:l3">mijn</rhyme>.</l>
+        <l id="s4:l7" met="3" type="-+">Ick bid u door de <rhyme label="c" type="m" corresp="#s4:l3">pijn</rhyme>,</l>
+        <l id="s4:l8" met="3" type="-+">Die u hert’ heeft <rhyme label="d" type="f">doorsneden</rhyme>,</l>
+        <l id="s4:l9" met="4" type="-+">Dat ick mach wijs en suyver <rhyme label="e" type="m">zijn</rhyme>,</l>
+        <l id="s4:l10" met="3" type="-+">En lichten door goe <rhyme label="d" type="f" corresp="#s4:l8">zeden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

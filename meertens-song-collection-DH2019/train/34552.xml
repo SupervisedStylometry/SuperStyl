@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34552</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Jan Mommaert</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">ICk loop in myne <rhyme label="a" type="m">doodt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Nu my in mynen <rhyme label="a" type="m" corresp="#s1:l1">noodt</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Ontruckt is 't soetste <rhyme label="b" type="m">beldt</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Dat elck in liefde <rhyme label="b" type="m" corresp="#s1:l3">stelt</rhyme>;</l>
+        <l id="s1:l5" met="3" type="-+">Myn Schoon en twyffelt <rhyme label="c" type="m">niet</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Oft het <rhyme label="c" type="m" corresp="#s1:l5">verdriet</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Dat ghy myn ziel <rhyme label="d" type="m">bereydt</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Is d'oorsaeck dat sy <rhyme label="d" type="m" corresp="#s1:l7">scheydt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ghy siet op myn <rhyme label="a" type="m">ghetraen</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">En hoort myn suchten <rhyme label="a" type="m" corresp="#s2:l1">aen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Ghy siet myn levens <rhyme label="b" type="m">kracht</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Door u bedryf <rhyme label="b" type="m" corresp="#s2:l3">versmacht</rhyme>;</l>
+        <l id="s2:l5" met="3" type="-+">En naer al dit kont <rhyme label="c" type="m">ghy</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Noch wesen <rhyme label="c" type="m" corresp="#s2:l5">bly</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">En laechen als ick <rhyme label="d" type="m">klaegh</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Van myne smert en <rhyme label="d" type="m" corresp="#s2:l7">plaegh</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">En zyt niet al te <rhyme label="a" type="m">trots</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">De liefd' door-dringht een <rhyme label="a" type="m" corresp="#s3:l1">rots</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Ghy sult al metter <rhyme label="b" type="m">tydt</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Ghevoelen haren <rhyme label="b" type="m" corresp="#s3:l3">strydt</rhyme>;</l>
+        <l id="s3:l5" met="3" type="-+">Als sy u, Schoon, dan <rhyme label="c" type="m">quelt</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">Soo bidd' ick <rhyme label="c" type="m" corresp="#s3:l5">stelt</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">V eens myn leet ter <rhyme label="d" type="m">hert</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">En let doch op de <rhyme label="d" type="m" corresp="#s3:l7">smert</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

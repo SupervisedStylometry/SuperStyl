@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34677</id>
+    <date>
+      <year-start>1651</year-start>
+      <year-end>1651</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+    </tags>
+    <melody>Hélas ma Phyllis je m'en vais mourir</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Philippus Jennyn</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">'T Is nu die ure, het is nu den <rhyme label="a" type="m">tijt</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Dat ghy den slaep der sonden u maeckt <rhyme label="a" type="m" corresp="#s1:l1">quijt</rhyme>:</l>
+        <l id="s1:l3" met="4" type="+-">De salicheyt // Nader <rhyme label="a" type="m" corresp="#s1:l1">leyt</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Als ghy wel <rhyme label="b" type="m">meent</rhyme>:</l>
+        <l id="s1:l5" met="5" type="-+">Den Sone van Godt den Vader is <rhyme label="b" type="m" corresp="#s1:l4">verkleent</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">En met onse mensch'lijckheyt <rhyme label="b" type="m" corresp="#s1:l4">ver-eent</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Weest dan (ô mensch) in uwen gheest <rhyme label="a" type="m">verblijdt</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">En Godt den Heer met vreught <rhyme label="a" type="m" corresp="#s2:l1">ghebenedijdt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Die sijnen Soon // Wt den <rhyme label="a" type="m" corresp="#s2:l1">throon</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Ghesonden <rhyme label="b" type="m">heeft</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">In teecken, dat hy u sonden al <rhyme label="b" type="m" corresp="#s2:l4">vergheeft</rhyme>;</l>
+        <l id="s2:l6" met="5" type="-+">Bemint hem alsoo langh' als ghy <rhyme label="b" type="m" corresp="#s2:l4">leeft</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Van Abrahams, en Davids e'el <rhyme label="a" type="m">gheslacht</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Een Maghet heeft Godts Sone voort <rhyme label="a" type="m" corresp="#s3:l1">ghebracht</rhyme>;</l>
+        <l id="s3:l3" met="4" type="+-">Die, voor ons al // Lijden <rhyme label="a" type="m" corresp="#s3:l1">sal</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">Seer grooten <rhyme label="b" type="m">noodt</rhyme>,</l>
+        <l id="s3:l5" met="5" type="-+">En aen het kruys sterven eens de bitter <rhyme label="b" type="m" corresp="#s3:l4">doodt</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">Om te voldoen voor de sonden <rhyme label="b" type="m" corresp="#s3:l4">groot</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Siet hoe onnoosel is hy, en hoe <rhyme label="a" type="m">kleen</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Die Godt met Vader, ende Gheest is <rhyme label="a" type="m" corresp="#s4:l1">een</rhyme>:</l>
+        <l id="s4:l3" met="4" type="+-">Van koude root // naeckt en <rhyme label="a" type="m" corresp="#s4:l1">bloot</rhyme>,</l>
+        <l id="s4:l4" met="2" type="-+">Hy schudt, en <rhyme label="b" type="m">beeft</rhyme>;</l>
+        <l id="s4:l5" met="5" type="-+">Die wull' aen de schapen, loof aen d'aerde <rhyme label="b" type="m" corresp="#s4:l4">gheeft</rhyme>,</l>
+        <l id="s4:l6" met="5" type="-+">Niet daer hy sijn Hooft op rust en <rhyme label="b" type="m" corresp="#s4:l4">heeft</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Hy sal (ghelijck als den <rhyme label="a" type="m">Samaritaen</rhyme>)</l>
+        <l id="s5:l2" met="5" type="-+">Al die ghewondt zijn in ghenaed' <rhyme label="a" type="m" corresp="#s5:l1">ontfaen</rhyme>:</l>
+        <l id="s5:l3" met="4" type="+-">Hy sal de smert // Van ons <rhyme label="a" type="m" corresp="#s5:l1">hert'</rhyme>,</l>
+        <l id="s5:l4" met="2" type="-+">En alle <rhyme label="b" type="m">pijn</rhyme></l>
+        <l id="s5:l5" met="5" type="-+">Verdrijven met krachtigh' oly, ende <rhyme label="b" type="m" corresp="#s5:l4">wijn</rhyme>,</l>
+        <l id="s5:l6" met="5" type="-+">Van hem sullen wy ghenesen <rhyme label="b" type="m" corresp="#s5:l4">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="5" type="-+">Die Godt sijn Vader altijdt eer' <rhyme label="a" type="m">bewijst</rhyme>,</l>
+        <l id="s6:l2" met="5" type="-+">En in den lof van Godt den gheest <rhyme label="a" type="m" corresp="#s6:l1">op-rijst</rhyme>,</l>
+        <l id="s6:l3" met="4" type="+-">In't aerdsche dal // Die het <rhyme label="a" type="m" corresp="#s6:l1">al</rhyme></l>
+        <l id="s6:l4" met="2" type="-+">Spijst, en <rhyme label="b" type="m">versaedt</rhyme>,</l>
+        <l id="s6:l5" met="5" type="-+">Lijdt hongher, en dorst, en bee sijn ooghen <rhyme label="b" type="m" corresp="#s6:l4">slaet</rhyme></l>
+        <l id="s6:l6" met="5" type="-+">Naer onse borst, maer hy wordt <rhyme label="b" type="m" corresp="#s6:l4">versmaet</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="5" type="-+">Siet hoe de Maghet hem in doecxkens <rhyme label="a" type="m">bindt</rhyme>,</l>
+        <l id="s7:l2" met="5" type="-+">Die wandelt op de vleughels van den <rhyme label="a" type="m" corresp="#s7:l1">windt</rhyme>:</l>
+        <l id="s7:l3" met="4" type="+-">Hy schijnt verdooft // En <rhyme label="a" type="m" corresp="#s7:l1">berooft</rhyme></l>
+        <l id="s7:l4" met="2" type="-+">Van sijn <rhyme label="b" type="m">verstandt</rhyme>,</l>
+        <l id="s7:l5" met="5" type="-+">Die selve de kroon van alle wijsheyt <rhyme label="b" type="m" corresp="#s7:l4">spandt</rhyme>,</l>
+        <l id="s7:l6" met="5" type="-+">En die de wereldt draeght in sijn <rhyme label="b" type="m" corresp="#s7:l4">handt</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="5" type="-+">Laet ons de Goddelijcke <rhyme label="a" type="m">Majesteyt</rhyme>,</l>
+        <l id="s8:l2" met="5" type="-+">(Die Mensch gheboren in de kribbe <rhyme label="a" type="m" corresp="#s8:l1">schreyt</rhyme>)</l>
+        <l id="s8:l3" met="4" type="+-">Met 'tEnghels-Hof // Gheven <rhyme label="a" type="m" corresp="#s8:l1">Lof</rhyme>,</l>
+        <l id="s8:l4" met="2" type="-+">En alle <rhyme label="b" type="m">eer</rhyme>;</l>
+        <l id="s8:l5" met="5" type="-+">Dat vry al de schepsels prijsen Godt den <rhyme label="b" type="m" corresp="#s8:l4">Heer</rhyme>,</l>
+        <l id="s8:l6" met="5" type="-+">Die sich vernedert maer al te <rhyme label="b" type="m" corresp="#s8:l4">seer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

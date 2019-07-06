@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>7016</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>gent</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Lofzang van Simeon [Datheen]</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Lucas de Heere</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">NV laett Heer' uwen <rhyme label="a" type="m">knecht</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">In pays rusten te <rhyme label="a" type="m" corresp="#s1:l1">recht</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Naer dijn woord en <rhyme label="b" type="f">belouen</rhyme>:</l>
+        <l id="s1:l4" met="3" type="-+">Wāt mijn <rhyme label="c" type="m">ooghē(voorwaer</rhyme>)</l>
+        <l id="s1:l5" met="3" type="-+">Ghesiē hebbē seer <rhyme label="c" type="m" corresp="#s1:l4">claer</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Dijn zalicheit van <rhyme label="b" type="f" corresp="#s1:l3">bouen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Die ghibereedt laett <rhyme label="a" type="m">zien</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Voor t'anschijn alder <rhyme label="a" type="m" corresp="#s2:l1">lie'n</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Een licht, lichtende <rhyme label="b" type="f">zeere</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">D'heydenen ouer <rhyme label="c" type="m">al</rhyme>;</l>
+        <l id="s2:l5" met="3" type="-+">En d'welc ooc wesen <rhyme label="c" type="m" corresp="#s2:l4">sal</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Van dijn volck Isr'ël <rhyme label="b" type="f" corresp="#s2:l3">d'eere</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

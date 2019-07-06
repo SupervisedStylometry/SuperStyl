@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34596</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Chers amis réjouïssons-nous</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GOeden vriendt laet ons vrolyck <rhyme label="a" type="m">zyn</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">En sot in <rhyme label="a" type="m" corresp="#s1:l1">schyn</rhyme>:</l>
+        <l id="s1:l3" met="4" type="+-">Sot zyn, eer onse hayren grys <rhyme label="a" type="m" corresp="#s1:l1">zyn</rhyme>,</l>
+        <l id="s1:l4" met="2" type="+-">Is recht wys <rhyme label="a" type="m" corresp="#s1:l1">zyn</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Die wys is, en met blydschap <rhyme label="b" type="m">spot</rhyme>,</l>
+        <l id="s1:l6" met="2" type="+-">Is eenen <rhyme label="b" type="m" corresp="#s1:l5">sot</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Voeght by 't nat, by den wyn, en <rhyme label="a" type="m">schael</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">Een goede <rhyme label="a" type="m" corresp="#s2:l1">tael</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Goede tael doet den wyn eerst <rhyme label="a" type="m" corresp="#s2:l1">smaken</rhyme>,</l>
+        <l id="s2:l4" met="2" type="+-">Aen goed' <rhyme label="a" type="m" corresp="#s2:l1">snaken</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Goeden wyn maeckt dat <rhyme label="b" type="m">alle-man</rhyme></l>
+        <l id="s2:l6" met="2" type="+-">Wel spreken <rhyme label="b" type="m" corresp="#s2:l5">kan</rhyme>:</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Die wel leeft, en wel smeert de <rhyme label="a" type="m">borst</rhyme>,</l>
+        <l id="s3:l2" met="2" type="-+">Is eenen <rhyme label="a" type="m" corresp="#s3:l1">Vorst</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Vorst zyn, en noyt op blydschap haef <rhyme label="a" type="m" corresp="#s3:l1">zyn</rhyme>,</l>
+        <l id="s3:l4" met="2" type="+-">Is maer slaef <rhyme label="a" type="m" corresp="#s3:l1">zyn</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">Die slaef is, en op blyschap <rhyme label="b" type="m">zweeft</rhyme>,</l>
+        <l id="s3:l6" met="2" type="+-">Als 't Heerschap <rhyme label="b" type="m" corresp="#s3:l5">leeft</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Wel gheluckigh is het soet <rhyme label="a" type="m">ghespan</rhyme>,</l>
+        <l id="s4:l2" met="2" type="-+">'t Gheen lacchen <rhyme label="a" type="m" corresp="#s4:l1">kan</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">'t Vrolyck volck bandt met 's hemels <rhyme label="a" type="m" corresp="#s4:l1">Gheesten</rhyme></l>
+        <l id="s4:l4" met="2" type="+-">De <rhyme label="a" type="m" corresp="#s4:l1">tempeesten</rhyme>:</l>
+        <l id="s4:l5" met="4" type="-+">Treurigh volck dryft sich als ter <rhyme label="b" type="m">hel</rhyme></l>
+        <l id="s4:l6" met="2" type="+-">Door het <rhyme label="b" type="m" corresp="#s4:l5">ghequel</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

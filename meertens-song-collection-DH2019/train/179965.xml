@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>179965</id>
+    <date>
+      <year-start>1757</year-start>
+      <year-end>1757</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Liefste Phyllis hoor mijn klacht</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Phebus had zyn Broek pas <rhyme label="a" type="m">uit</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Om ter Vlooibak in te <rhyme label="b" type="f">kruipen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Phebus had zyn Broek pas <rhyme label="a" type="m" corresp="#s1:l1">uit</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Toen ik hoorden dit <rhyme label="a" type="m" corresp="#s1:l1">geluit</rhyme>:</l>
+        <l id="s1:l5" met="4" type="+-">Jonkman, maak u vaardig, <rhyme label="c" type="m">kom</rhyme>!</l>
+        <l id="s1:l6" met="4" type="+-">Gy moet spelen, gy moet <rhyme label="d" type="f">zingen</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Gy moet dansen, gy moet <rhyme label="d" type="f" corresp="#s1:l6">springen</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Met de Bruid en <rhyme label="c" type="m" corresp="#s1:l5">Bruidegom</rhyme>;</l>
+        <l id="s1:l9" met="3" type="+-">Met... met... <rhyme label="e" type="m">met</rhyme>...</l>
+        <l id="s1:l10" met="4" type="-+">Met de Bruid en <rhyme label="c" type="m" corresp="#s1:l5">Bruidegom</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">'k Zag toen dat het Jantje <rhyme label="a" type="m">was</rhyme>;</l>
+        <l id="s2:l2" met="4" type="+-">Hy stond voor myn <rhyme label="b" type="f">Kamerdeurtje</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">'k Zag toen dat het Jantje <rhyme label="a" type="m" corresp="#s2:l1">was</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Die my ook terstond <rhyme label="a" type="m" corresp="#s2:l1">belas</rhyme>;</l>
+        <l id="s2:l5" met="4" type="+-">'k Trok myn plunje schielyk <rhyme label="c" type="m">aan</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">En ben met hem hier <rhyme label="d" type="f">gekomen</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Daar ik heb met vreugd <rhyme label="d" type="f" corresp="#s2:l6">vernomen</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Wat hier weder om zal <rhyme label="c" type="m" corresp="#s2:l5">gaan</rhyme>;</l>
+        <l id="s2:l9" met="3" type="+-">Wat... wat... <rhyme label="e" type="m">wat</rhyme>...</l>
+        <l id="s2:l10" met="4" type="-+">Wat hier weder om zal <rhyme label="c" type="m" corresp="#s2:l5">gaan</rhyme>;</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">'t Is my lief dat ik u <rhyme label="a" type="m">hier</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">All' te saam' zoo wel mag <rhyme label="b" type="f">vinden</rhyme>;</l>
+        <l id="s3:l3" met="4" type="+-">'t Is my lief, dat ik u <rhyme label="a" type="m" corresp="#s3:l1">hier</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Zal verzellen by 't <rhyme label="a" type="m" corresp="#s3:l1">Plaizier</rhyme>;</l>
+        <l id="s3:l5" met="4" type="+-">'k Zal ook trachten van myn <rhyme label="c" type="m">kant</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Om de vreugde te <rhyme label="d" type="f">vermeren</rhyme>.</l>
+        <l id="s3:l7" met="4" type="+-">Bruid en Bruidegom ter <rhyme label="d" type="f" corresp="#s3:l6">eeren</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Vat ik Mietje by haar <rhyme label="c" type="m" corresp="#s3:l5">hand</rhyme>;</l>
+        <l id="s3:l9" met="3" type="+-">Vat... vat... <rhyme label="e" type="m">vat</rhyme>...</l>
+        <l id="s3:l10" met="4" type="-+">Vat ik Mietje by haar <rhyme label="c" type="m" corresp="#s3:l5">hand</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

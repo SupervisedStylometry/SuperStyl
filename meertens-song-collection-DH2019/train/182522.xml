@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182522</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Quand on sait aimer et plaire</melody>
+  <author>Hendrik Riemsnijder</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Zoo ik Swift geloof mag <rhyme label="a" type="f">bieden</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">(Mooglyk mat hy niet te <rhyme label="b" type="m">ruim</rhyme>:)</l>
+        <l id="s1:l3" met="4" type="+-">Zyn in Lelieput de <rhyme label="a" type="f" corresp="#s1:l1">lieden</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Niet veel grooter dan myn <rhyme label="b" type="m" corresp="#s1:l2">duim</rhyme>;</l>
+        <l id="s1:l5" met="4" type="+-">'t Moeten dus wel muggen <rhyme label="c" type="f">lyken</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Wil men hen van verr' <rhyme label="c" type="f" corresp="#s1:l5">bekyken</rhyme>!</l>
+        <l id="s1:l7" met="4" type="+-">Zag men my daar <rhyme label="d" type="m">onverwagt</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">'k Wierd 'er voor een' Reus <rhyme label="d" type="m" corresp="#s1:l7">geächt</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Ieder zou me ontzien en <rhyme label="a" type="f">vreezen</rhyme>!...</l>
+        <l id="s2:l2" met="4" type="+-">Maar zoo 'k dan niet wyzer <rhyme label="b" type="m">waar'</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Zou my achting zyn <rhyme label="a" type="f" corresp="#s2:l1">beweezen</rhyme>?</l>
+        <l id="s2:l4" met="4" type="+-">Zeeker, neen! die kleine <rhyme label="b" type="m" corresp="#s2:l2">schaar'</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Mooglyk meer begaast met <rhyme label="c" type="f">reden</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Grooter in verstand en <rhyme label="c" type="f" corresp="#s2:l5">zeden</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Riep gewis dan, <rhyme label="d" type="m">onbedeesd</rhyme>:</l>
+        <l id="s2:l8" met="4" type="+-">‘Groot van leest, maar klein van <rhyme label="d" type="m" corresp="#s2:l7">Geest</rhyme>!’</l>
+      </lg>
+    </lg>
+  </text>
+</song>

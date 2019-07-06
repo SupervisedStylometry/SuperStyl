@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4358</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Pieter Dubbels</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MEn zieltje ree op een <rhyme label="a" type="m">kordewagetjen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">As ik tot Belitje <rhyme label="b" type="m">Bongt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Mijn suikere Celitje <rhyme label="b" type="m" corresp="#s1:l2">vongt</rhyme>,</l>
+        <l id="s1:l4" met="1" type="-+">Hoe <rhyme label="c" type="f">woelden</rhyme>,</l>
+        <l id="s1:l5" met="1" type="-+">En <rhyme label="c" type="f" corresp="#s1:l4">doelden</rhyme>,</l>
+        <l id="s1:l6" met="1" type="-+">Mijn <rhyme label="d" type="f">knokkelen</rhyme>,</l>
+        <l id="s1:l7" met="1" type="-+">Na 't <rhyme label="d" type="f" corresp="#s1:l6">hokkelen</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">In 't vlaisje; tot <rhyme label="e" type="m">dat</rhyme></l>
+        <l id="s1:l9" met="1" type="+-">'k <rhyme label="f" type="f">Verslikten</rhyme>,</l>
+        <l id="s1:l10" met="1" type="-+">In <rhyme label="g" type="f">lussjes</rhyme>,</l>
+        <l id="s1:l11" met="1" type="-+">Van <rhyme label="g" type="f" corresp="#s1:l10">kusjes</rhyme>,</l>
+        <l id="s1:l12" met="1" type="-+">En <rhyme label="f" type="f" corresp="#s1:l9">stikten</rhyme>,</l>
+        <l id="s1:l13" met="4" type="-+">As paling in Celitjes <rhyme label="h" type="m">schoot</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

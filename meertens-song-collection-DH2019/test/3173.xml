@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3173</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>De uitmuntendste herderin</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">1DE Heer sal die <rhyme label="a" type="f">bewaren</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Die sich op hem <rhyme label="b" type="m">verlaet</rhyme>,</l>
+        <l id="s1:l3" met="5" type="+-">En altijdt nae sijne Wetten <rhyme label="b" type="m" corresp="#s1:l2">staet</rhyme>,</l>
+        <l id="s1:l4" met="5" type="+-">En 'er nimmermeer niet af en <rhyme label="b" type="m" corresp="#s1:l2">gaet</rhyme>:</l>
+        <l id="s1:l5" met="4" type="+-">Saligh die met de Deught sich <rhyme label="a" type="f" corresp="#s1:l1">paren</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">En door d'enghe <rhyme label="c" type="m">poort</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Gaen staegh in Deughden <rhyme label="c" type="m" corresp="#s1:l6">voort</rhyme>:</l>
+        <l id="s1:l8" met="4" type="+-">Godt die sal 'er <rhyme label="d" type="m">gheven</rhyme></l>
+        <l id="s1:l9" met="4" type="+-">Naemaels 't eeuwicht <rhyme label="d" type="m" corresp="#s1:l8">leven</rhyme>,</l>
+        <l id="s1:l10" met="4" type="+-">nae sijn onverandert <rhyme label="c" type="m" corresp="#s1:l6">woordt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Dus laten wy <rhyme label="a" type="f">beminnen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Ghestadigh onsen <rhyme label="b" type="m">Godt</rhyme>,</l>
+        <l id="s2:l3" met="5" type="+-">Ende vli'en het leelijck heyloos <rhyme label="b" type="m" corresp="#s2:l2">rot</rhyme>,</l>
+        <l id="s2:l4" met="5" type="+-">Dat gheduerichlijck met sulcke <rhyme label="b" type="m" corresp="#s2:l2">spot</rhyme>;</l>
+        <l id="s2:l5" met="4" type="+-">Laten wy staegh met hart en <rhyme label="a" type="f" corresp="#s2:l1">sinnen</rhyme></l>
+        <l id="s2:l6" met="3" type="+-">Vlieden alle <rhyme label="c" type="m">quaedt</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">En 't gun de ziele <rhyme label="c" type="m" corresp="#s2:l6">schaedt</rhyme>:</l>
+        <l id="s2:l8" met="4" type="+-">Sonden als een pest // <rhyme label="d" type="m">vlien</rhyme>,</l>
+        <l id="s2:l9" met="4" type="+-">Altijdt naer 'et best // <rhyme label="d" type="m" corresp="#s2:l8">sien</rhyme>,</l>
+        <l id="s2:l10" met="4" type="+-">Is den aldernutsten <rhyme label="c" type="m" corresp="#s2:l6">raedt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">3Want laes! dees boose <rhyme label="a" type="f">tijden</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Die dapper zwangher <rhyme label="b" type="m">gaen</rhyme></l>
+        <l id="s3:l3" met="5" type="+-">Van bedrogh, van leughen, ende <rhyme label="b" type="m" corresp="#s3:l2">waen</rhyme>,</l>
+        <l id="s3:l4" met="5" type="+-">Van bedrieghery, van twist en <rhyme label="b" type="m" corresp="#s3:l2">slaen</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Van moordery, elend' en <rhyme label="a" type="f" corresp="#s3:l1">strijden</rhyme>:</l>
+        <l id="s3:l6" met="3" type="+-">Daerom vlijtigh <rhyme label="c" type="m">waeckt</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Eer dat den grouwel <rhyme label="c" type="m" corresp="#s3:l6">naeckt</rhyme>;</l>
+        <l id="s3:l8" met="4" type="+-">Wilt de enghe baen // <rhyme label="d" type="m">gaen</rhyme>,</l>
+        <l id="s3:l9" met="4" type="+-">Ende noyt nae waen // <rhyme label="d" type="m" corresp="#s3:l8">staen</rhyme>,</l>
+        <l id="s3:l10" met="4" type="+-">Heyl, die in den Hemel <rhyme label="c" type="m" corresp="#s3:l6">raeckt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

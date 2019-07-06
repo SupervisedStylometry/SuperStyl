@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34429</id>
+    <date>
+      <year-start>1664</year-start>
+      <year-end>1664</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="gezongen onze vader" translation="sung Lord's prayer">gezongen onze vader</tag>
+    </tags>
+    <melody>O Vader die in hemelen zijt</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Godfried Bussé</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Vaeder die in hem'len <rhyme label="a" type="m">sijt</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">U naem moet sijn <rhyme label="a" type="m" corresp="#s1:l1">ghebenedijt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Ghy hebt het al ghemaeckt van <rhyme label="b" type="m">niet</rhyme></l>
+        <l id="s1:l4" met="6" type="-+">Datmen hier in, datmen hier inde werelt <rhyme label="b" type="m" corresp="#s1:l3">siet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wy bidden u hier al <rhyme label="a" type="m">ghelijck</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Laet tot ons komen uwe <rhyme label="a" type="m" corresp="#s2:l1">rijck</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Op dat wy saemen in't <rhyme label="b" type="m">ghemeyn'</rhyme></l>
+        <l id="s2:l4" met="6" type="-+">Gheniten moghen, gheniten moghen u <rhyme label="b" type="m" corresp="#s2:l3">aenschijn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Uwen wille <rhyme label="a" type="m">ghebenedijt</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Die moet gheschieden hier <rhyme label="a" type="m" corresp="#s3:l1">altijdt</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">T'ghebiet dat g'in den hemel <rhyme label="b" type="m">doet</rhyme>,</l>
+        <l id="s3:l4" met="6" type="-+">Hier op der aerden, hier op der aerden wesen <rhyme label="b" type="m" corresp="#s3:l3">moet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Verleent ons heden t'daeghelijckx <rhyme label="a" type="m">broodt</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Niet meer als wy hebben van <rhyme label="a" type="m" corresp="#s4:l1">noodt</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">Laet uwe miltheydt over <rhyme label="b" type="m">al</rhyme>,</l>
+        <l id="s4:l4" met="6" type="-+">Hier blijcken in, hier blijcken in het <rhyme label="b" type="m" corresp="#s4:l3">aertsche-dal</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Vergheeft onss' schuld aerme <rhyme label="a" type="m">sondaers</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Ghelijck wy doen onss' <rhyme label="a" type="m" corresp="#s5:l1">schuldenaers</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Want ghy altijdt bermhertigh <rhyme label="b" type="m">sijt</rhyme>,</l>
+        <l id="s5:l4" met="6" type="-+">Aen die sijn quaet, aen die sijn quaet met rouw' <rhyme label="b" type="m" corresp="#s5:l3">beschreyt</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Laet ons niet in tentie <rhyme label="a" type="m">quaet</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Verlost ons vanden boosen <rhyme label="a" type="m" corresp="#s6:l1">raet</rhyme>:</l>
+        <l id="s6:l3" met="4" type="-+">Als ons den vyant hier <rhyme label="b" type="m">bestrijdt</rhyme>,</l>
+        <l id="s6:l4" met="6" type="-+">Van alle quaet, van alle quaet ons dan <rhyme label="b" type="m" corresp="#s6:l3">bevrijdt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

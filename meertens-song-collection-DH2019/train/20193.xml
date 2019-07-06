@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20193</id>
+    <date>
+      <year-start>1647</year-start>
+      <year-end>1647</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">WAnneer sal eens de <rhyme label="a" type="m">smert</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Die mijn staeg knelt in 't <rhyme label="a" type="m" corresp="#s1:l1">hert</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Verwonne <rhyme label="b" type="m">zijn</rhyme>?</l>
+        <l id="s1:l4" met="3" type="-+">Tot nieuwing van me <rhyme label="c" type="m">vreugt</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">En vlugt mijns <rhyme label="b" type="m" corresp="#s1:l3">pijn</rhyme>?</l>
+        <l id="s1:l6" met="3" type="-+">Die schijnt in <rhyme label="c" type="m" corresp="#s1:l4">ongeneugt</rhyme></l>
+        <l id="s1:l7" met="1" type="-+">Te <rhyme label="d" type="m">glo'en</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Met smert te <rhyme label="d" type="m" corresp="#s1:l7">vo'en</rhyme>;</l>
+        <l id="s1:l9" met="5" type="-+">Die als een vlam me vreugt verdelge, <rhyme label="e" type="m">van</rhyme></l>
+        <l id="s1:l10" met="2" type="-+">Wanneer u <rhyme label="f" type="f">goetheyt</rhyme>,</l>
+        <l id="s1:l11" met="2" type="+-">My door de <rhyme label="f" type="f" corresp="#s1:l10">soetheyt</rhyme></l>
+        <l id="s1:l12" met="5" type="-+">Van u we'er-min, tot vreugt verwekke <rhyme label="e" type="m" corresp="#s1:l9">kan</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ik sal mijn yver <rhyme label="a" type="m">doen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Om u met smaek te <rhyme label="a" type="m" corresp="#s2:l1">vo'en</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Tot u <rhyme label="b" type="m">vermaek</rhyme>.</l>
+        <l id="s2:l4" met="3" type="-+">En my: verwonne <rhyme label="c" type="m">leet</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Op dat de <rhyme label="b" type="m" corresp="#s2:l3">smaek</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">(Vw's soet) mijn smert <rhyme label="c" type="m" corresp="#s2:l4">bekleet</rhyme>:</l>
+        <l id="s2:l7" met="1" type="-+">
+          <rhyme label="d" type="m">Indien</rhyme>
+        </l>
+        <l id="s2:l8" met="2" type="-+">'t Niet kan <rhyme label="d" type="m" corresp="#s2:l7">geschi'en</rhyme></l>
+        <l id="s2:l9" met="5" type="-+">Door 't losse lit, of uytting van me <rhyme label="e" type="m">Pen</rhyme>:</l>
+        <l id="s2:l10" met="2" type="-+">Soo kond gy <rhyme label="f" type="f">denke</rhyme>,</l>
+        <l id="s2:l11" met="2" type="+-">'t Sal me niet <rhyme label="f" type="f" corresp="#s2:l10">krenke</rhyme>,</l>
+        <l id="s2:l12" met="5" type="-+">Door dien de wil is goet, (maer 'k) niet en <rhyme label="e" type="m" corresp="#s2:l9">ken</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">'k Wens dat de vreugt uw's <rhyme label="a" type="m">soet</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Die mijn niet treure <rhyme label="a" type="m" corresp="#s3:l1">doet</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">Staeg winne; <rhyme label="b" type="m">en</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Dat die u haet, of <rhyme label="c" type="m">mijn</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">Haer selve <rhyme label="b" type="m" corresp="#s3:l3">schen</rhyme>:</l>
+        <l id="s3:l6" met="3" type="-+">Ik weet wel datter <rhyme label="c" type="m" corresp="#s3:l4">zijn</rhyme>,</l>
+        <l id="s3:l7" met="1" type="-+">Die <rhyme label="d" type="m">naer</rhyme></l>
+        <l id="s3:l8" met="2" type="-+">Een anders <rhyme label="d" type="m" corresp="#s3:l7">maer</rhyme></l>
+        <l id="s3:l9" met="5" type="-+">Staeg haken, die strekt tot haer <rhyme label="e" type="m">achterdeel</rhyme>:</l>
+        <l id="s3:l10" met="2" type="-+">Ey! (laet u <rhyme label="f" type="f">segge</rhyme>)</l>
+        <l id="s3:l11" met="2" type="+-">Me Pen wil <rhyme label="f" type="f" corresp="#s3:l10">legge</rhyme>,</l>
+        <l id="s3:l12" met="5" type="-+">Maer wacht u, want daer zijnder noch soo <rhyme label="e" type="m" corresp="#s3:l9">veel</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

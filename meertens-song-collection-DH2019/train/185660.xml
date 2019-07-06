@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185660</id>
+    <date>
+      <year-start>1830</year-start>
+      <year-end>1840</year-end>
+    </date>
+    <location>
+      <orginal-name>purmerend</orginal-name>
+      <standard-name>Purmerend</standard-name>
+      <coordinates>
+        <lon>52.5024789</lon>
+        <lat>4.9614827</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Gijsbertus van Sandwijk</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ik ben een Turk van de echte <rhyme label="a" type="m">soort</rhyme>;</l>
+        <l id="s1:l2" met="4" type="-+">Een Muzelman, zoo als 't <rhyme label="a" type="m" corresp="#s1:l1">behoort</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Ik dien mijn God, 'k aanbid, <rhyme label="b" type="m">vereer</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Steeds Mahomed en zijne <rhyme label="b" type="m" corresp="#s1:l3">leer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als Sultan Machmouds <rhyme label="a" type="m">onderdaan</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Vereer ik Mekka's halve <rhyme label="a" type="m" corresp="#s2:l1">maan</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Van al de boeken dezer <rhyme label="b" type="m">aard'</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Is mij de Koran 't meeste <rhyme label="b" type="m" corresp="#s2:l3">waard</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Hoe trotsch ook, ga ik thans <rhyme label="a" type="m">gebukt</rhyme>:</l>
+        <l id="s3:l2" met="4" type="-+">Mijn vaderland werd zeer <rhyme label="a" type="m" corresp="#s3:l1">gedrukt</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Door 't Russisch rijk en diens <rhyme label="b" type="m">Cezaar</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">En Ibrahim <rhyme label="b" type="m" corresp="#s3:l3">d'Egijptenaar</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

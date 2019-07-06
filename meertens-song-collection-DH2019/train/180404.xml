@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>180404</id>
+    <date>
+      <year-start>1660</year-start>
+      <year-end>1660</year-end>
+    </date>
+    <location>
+      <orginal-name>leuven</orginal-name>
+      <standard-name>Leuven, Belgium</standard-name>
+      <coordinates>
+        <lon>50.879202</lon>
+        <lat>4.7011675</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Plaude laetabunda tellus</melody>
+  <author>Gaudentius van Loemel</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Iesu onsen troost en <rhyme label="a" type="f">leven</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Die de doodt in ‘t aertsche <rhyme label="b" type="m">dall</rhyme>’,</l>
+        <l id="s1:l3" met="4" type="+-">Hebt geheel van ons <rhyme label="a" type="f" corresp="#s1:l1">verdreven</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Waerom wy nu singen <rhyme label="b" type="m" corresp="#s1:l2">all</rhyme>’,</l>
+        <l id="s1:l5" met="4" type="+-">Alleluia, <rhyme label="c" type="f">Alleluia</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Tot u overgrooten <rhyme label="d" type="m">loff</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Alleluia, <rhyme label="c" type="f" corresp="#s1:l5">Alleluia</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Singht met ons u hemelsch <rhyme label="d" type="m" corresp="#s1:l6">hoff</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">O Maria blijde <rhyme label="a" type="f">Moeder</rhyme>!</l>
+        <l id="s2:l2" met="4" type="+-">Ghy die voor ons waert <rhyme label="b" type="m">belaen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">En met onsen lieven <rhyme label="a" type="f" corresp="#s2:l1">Broeder</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Hebt eens onder ‘t Cruys <rhyme label="b" type="m" corresp="#s2:l2">gestaen</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Tongh wilt singhen, en <rhyme label="c" type="f">ontspringhen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Alleluia met <rhyme label="d" type="m">jolijdt</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">Alleluia wy u <rhyme label="c" type="f" corresp="#s2:l5">singhen</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">O Maria! ‘t <rhyme label="d" type="m" corresp="#s2:l6">aldertijdt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Lief Apostels <rhyme label="a" type="f">altesamen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">En ghy Patriarchen <rhyme label="b" type="m">me</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Oock Propheten naer <rhyme label="a" type="f" corresp="#s3:l1">betamen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Martelaers die zyt in <rhyme label="b" type="m" corresp="#s3:l2">vre</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">Sonder lijden ‘t alder <rhyme label="c" type="f">tijden</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Singhen met u voor en <rhyme label="d" type="m">na</rhyme></l>
+        <l id="s3:l7" met="4" type="+-">Om ons alle te <rhyme label="c" type="f" corresp="#s3:l5">verblyden</rhyme>;</l>
+        <l id="s3:l8" met="4" type="+-">‘T soete liedt <rhyme label="d" type="m" corresp="#s3:l6">Alleluia</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">O ghy heylighe <rhyme label="a" type="f">Confessooren</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Die u stemmen <rhyme label="b" type="m">overluydt</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Met de Maeghden oock laet <rhyme label="a" type="f" corresp="#s4:l1">hooren</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">En ons soo de vreughd’ <rhyme label="b" type="m" corresp="#s4:l2">beduydt</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">Wilt ons mede nu in <rhyme label="c" type="f">vrede</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">Eens verkrijghen dat wy <rhyme label="d" type="m">na</rhyme>,</l>
+        <l id="s4:l7" met="4" type="+-">Heylchlijck in Godes <rhyme label="c" type="f" corresp="#s4:l5">stede</rhyme>,</l>
+        <l id="s4:l8" met="4" type="+-">Singhen oock <rhyme label="d" type="m" corresp="#s4:l6">Alleluia</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

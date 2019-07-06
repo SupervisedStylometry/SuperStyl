@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185338</id>
+    <date>
+      <year-start>1790</year-start>
+      <year-end>1792</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Het kuipertje</melody>
+  <author>Gerrit Manheer</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Ja wij gaanen zo aanstonds <rhyme label="a" type="m">heen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Wij zullen u in uw rust niet <rhyme label="b" type="f">storen</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Ik ben al moê van het <rhyme label="a" type="m" corresp="#s1:l1">geween</rhyme>;</l>
+        <l id="s1:l4" met="4" type="+-">Klagen kan ik niet langer <rhyme label="b" type="f" corresp="#s1:l2">horen</rhyme>:</l>
+        <l id="s1:l5" met="4" type="+-">Morgen, morgen weêr met <rhyme label="c" type="m">kragt</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Heeft 'er den dag u <rhyme label="c" type="m" corresp="#s1:l5">toegebragt</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Wij gaan en, wij gaan, en wij maken <rhyme label="c" type="m" corresp="#s1:l5">jagt</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Ja: wij wenschen u goeden <rhyme label="c" type="m" corresp="#s1:l5">nagt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

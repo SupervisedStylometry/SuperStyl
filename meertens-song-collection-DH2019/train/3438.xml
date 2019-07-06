@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3438</id>
+    <date>
+      <year-start>1575</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Lofzang van Maria</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>D.V. Coornhert</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">T'Cruys moet ghedraghen <rhyme label="a" type="m">zyn</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">In droefheyd of in <rhyme label="a" type="m" corresp="#s1:l1">pyn</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Onlydzaam of <rhyme label="b" type="f">gheduldigh</rhyme>.</l>
+        <l id="s1:l4" met="3" type="-+">Twe vintmer om <rhyme label="c" type="m">misdaad</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">T'een ghoed en t'ander <rhyme label="c" type="m" corresp="#s1:l4">quaad</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Maar t'derde is ghants <rhyme label="b" type="f" corresp="#s1:l3">onschuldigh</rhyme>:</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">De slincker moorder <rhyme label="a" type="m">boos</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Lyd als een <rhyme label="a" type="m" corresp="#s2:l1">Goddeloos</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Zonder berouw van <rhyme label="b" type="f">zonden</rhyme>.</l>
+        <l id="s2:l4" met="3" type="-+">Het quaad bemint zyn <rhyme label="c" type="m">hert</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">Hy haat des kruyces <rhyme label="c" type="m" corresp="#s2:l4">smert</rhyme>.</l>
+        <l id="s2:l6" met="3" type="-+">En lastert Christi <rhyme label="b" type="f" corresp="#s2:l3">wonden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">De rechter schaker <rhyme label="a" type="m">ghoed</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Bekent met ware <rhyme label="a" type="m" corresp="#s3:l1">ootmoed</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Dat hy zyn straf is <rhyme label="b" type="f">waardigh</rhyme>.</l>
+        <l id="s3:l4" met="3" type="-+">Die lyd hy met <rhyme label="c" type="m">gheduld</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">En pryst Christi <rhyme label="c" type="m" corresp="#s3:l4">onschuld</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Die maackt hem flux <rhyme label="b" type="f" corresp="#s3:l3">rechtvaardigh</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Maar die onschuldigh <rhyme label="a" type="m">lyt</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">En in zyn kruys <rhyme label="a" type="m" corresp="#s4:l1">verblyt</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Sterft willigh al zyn <rhyme label="b" type="f">lusten</rhyme>.</l>
+        <l id="s4:l4" met="3" type="-+">Het kruys Christi <rhyme label="c" type="m">lydzaam</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Draaght hy in zyn <rhyme label="c" type="m" corresp="#s4:l4">Lichaam</rhyme>.</l>
+        <l id="s4:l6" met="3" type="-+">Gheen kruys magh hem <rhyme label="b" type="f" corresp="#s4:l3">ontrusten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

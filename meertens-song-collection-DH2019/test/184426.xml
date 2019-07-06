@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184426</id>
+    <date>
+      <year-start>1738</year-start>
+      <year-end>1738</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O, bind ons aan uw Liefde <rhyme label="a" type="m">vast</rhyme>:,:</l>
+        <l id="s1:l2" met="4" type="-+">En geef ons, 't geen zy hebben <rhyme label="b" type="f">moeten</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Die als uw Kind'ren U <rhyme label="b" type="f" corresp="#s1:l2">ontmoeten</rhyme>:</l>
+        <l id="s1:l4" met="4" type="-+">En Jok:,: dat op hun schoud'ren <rhyme label="a" type="m" corresp="#s1:l1">past</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Een inniglyk te vreeden <rhyme label="a" type="m">hert</rhyme>:,:</l>
+        <l id="s2:l2" met="4" type="-+">Een zwemmend hert in uwen <rhyme label="b" type="f">bloede</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Het noodigste van <rhyme label="b" type="f" corresp="#s2:l2">helden-moede</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">By 't lieven:,: eene zachte <rhyme label="a" type="m" corresp="#s2:l1">smert</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>11963</id>
+    <date>
+      <year-start>1648</year-start>
+      <year-end>1648</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Wanneer ik slaap</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WIe kan van die op Aerden <rhyme label="a" type="f">woonen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Die quaet van Ach-terklap <rhyme label="a" type="f" corresp="#s1:l1">verschoonen</rhyme>?</l>
+        <l id="s1:l3" met="3" type="-+">Wie heeft soo kloeck <rhyme label="b" type="m">verstant</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">In't gantsche <rhyme label="b" type="m" corresp="#s1:l3">lant</rhyme>;</l>
+        <l id="s1:l5" met="3" type="+-">Dat hy dit <rhyme label="c" type="m">venijn</rhyme></l>
+        <l id="s1:l6" met="3" type="+-">Als een <rhyme label="c" type="m" corresp="#s1:l5">Medicijn</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Dat hy dit venijn der <rhyme label="d" type="f">Hellen</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Kan op den hooghen Autaer <rhyme label="d" type="f" corresp="#s1:l7">stellen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

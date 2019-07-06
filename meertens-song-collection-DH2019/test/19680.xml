@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19680</id>
+    <date>
+      <year-start>1640</year-start>
+      <year-end>1640</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="theatre">theater</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Hy komt, hy komt, die jonge <rhyme label="a" type="m">borst</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Als 't hygent hart, 't welck zynen <rhyme label="a" type="m" corresp="#s1:l1">dorst</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Wil lesschen aen de versche <rhyme label="b" type="f">sprongen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Der zilverzuivre koele <rhyme label="c" type="m">bron</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Terwijl de jaegers, schuw van <rhyme label="c" type="m" corresp="#s1:l4">zon</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">(Op hoop, of zy het wildt eens <rhyme label="b" type="f" corresp="#s1:l3">vongen</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">In donkre en naere schaduw <rhyme label="d" type="m">vast</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Daer looze brack noch winthont <rhyme label="d" type="m" corresp="#s1:l7">bast</rhyme>)</l>
+        <l id="s1:l9" met="4" type="-+">Met zwijnspriet en gespanne <rhyme label="e" type="f">boogen</rhyme></l>
+        <l id="s1:l10" met="4" type="-+">Beloeren het onnozel <rhyme label="f" type="m">bloet</rhyme>;</l>
+        <l id="s1:l11" met="4" type="+-">'t Welck niemant leedt noch letsel <rhyme label="f" type="m" corresp="#s1:l10">doet</rhyme>,</l>
+        <l id="s1:l12" met="4" type="-+">En, al te jammerlijck <rhyme label="e" type="f" corresp="#s1:l9">bedrogen</rhyme>,</l>
+        <l id="s1:l13" met="4" type="-+">Zich vint op 't onverzienst <rhyme label="g" type="m">bezet</rhyme></l>
+        <l id="s1:l14" met="4" type="-+">Van jaeger jaghtspriet hont en <rhyme label="g" type="m" corresp="#s1:l13">net</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hy kom, getroost op 's hemels <rhyme label="a" type="m">hulp</rhyme>.</l>
+        <l id="s2:l2" met="4" type="-+">Gelijck de perlen in haer <rhyme label="a" type="m" corresp="#s2:l1">schulp</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Der perlen moeder, zullen <rhyme label="b" type="f">hangen</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">De laeuwe traenen, zilt van <rhyme label="c" type="m">smaeck</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Van wederzyden op de <rhyme label="c" type="m" corresp="#s2:l4">kaeck</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Op 't perlemoer der lieve <rhyme label="b" type="f" corresp="#s2:l3">wangen</rhyme>.</l>
+        <l id="s2:l7" met="4" type="-+">Och stremdenze op dit <rhyme label="d" type="m">perlemoer</rhyme>;</l>
+        <l id="s2:l8" met="4" type="-+">Dat wy dien reegen aen een <rhyme label="d" type="m" corresp="#s2:l7">snoer</rhyme></l>
+        <l id="s2:l9" met="4" type="-+">Van gout om onzen hals te <rhyme label="e" type="f">cieren</rhyme>;</l>
+        <l id="s2:l10" met="4" type="-+">Wanneer wy, tot de keel <rhyme label="f" type="m">vervult</rhyme></l>
+        <l id="s2:l11" met="4" type="+-">Van blyschap, 's jongelings <rhyme label="f" type="m" corresp="#s2:l10">gedult</rhyme></l>
+        <l id="s2:l12" met="4" type="-+">En onverbloemde deughden <rhyme label="e" type="f" corresp="#s2:l9">vieren</rhyme>!</l>
+        <l id="s2:l13" met="4" type="-+">Zijn eer wil bloeien op zijn <rhyme label="g" type="m">graf</rhyme>.</l>
+        <l id="s2:l14" met="4" type="-+">Het lof der deught valt nimmer <rhyme label="g" type="m" corresp="#s2:l13">af</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

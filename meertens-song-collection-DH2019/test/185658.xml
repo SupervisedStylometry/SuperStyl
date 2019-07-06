@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185658</id>
+    <date>
+      <year-start>1830</year-start>
+      <year-end>1840</year-end>
+    </date>
+    <location>
+      <orginal-name>purmerend</orginal-name>
+      <standard-name>Purmerend</standard-name>
+      <coordinates>
+        <lon>52.5024789</lon>
+        <lat>4.9614827</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Ik zag een walvis in de bomen</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Birgers! nah wie zal het <rhyme label="a" type="f">wagen</rhyme>?</l>
+        <l id="s1:l2" met="4" type="+-">Koopt heen briefje voor hacht <rhyme label="a" type="f" corresp="#s1:l1">dagen</rhyme>.</l>
+        <l id="s1:l3" met="4" type="+-">Groote prijzen zijn her <rhyme label="b" type="m">in</rhyme>.</l>
+        <l id="s1:l4" met="4" type="+-">Als het immers kan <rhyme label="c" type="f">geberen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Als je rijk wordt, hait een <rhyme label="c" type="f" corresp="#s1:l4">treren</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Mit je gansche <rhyme label="b" type="m" corresp="#s1:l3">haisgezin</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Birgers! wil't baij Nathan <rhyme label="a" type="f">wagen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Nah! je zilt je niet <rhyme label="a" type="f" corresp="#s2:l1">beklagen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Als je zilt gelikkig <rhyme label="b" type="m">zijn</rhyme>;</l>
+        <l id="s2:l4" met="4" type="+-">Als je een groote prijs zilt <rhyme label="c" type="f">trekken</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">'t Loterijen his geen <rhyme label="c" type="f" corresp="#s2:l4">gekken</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Als het is een <rhyme label="b" type="m" corresp="#s2:l3">zilvermijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

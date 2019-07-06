@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>186175</id>
+    <date>
+      <year-start>1881</year-start>
+      <year-end>1891</year-end>
+    </date>
+    <location>
+      <orginal-name>arnhem-nijmegen</orginal-name>
+      <standard-name>Nijmegen, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.8427385</lon>
+        <lat>5.8634696</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Kom vrienden laat ons vrolijk zijn</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Den meisjes, die zoo vaak op <rhyme label="a" type="m">aard</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Ons met haar min <rhyme label="b" type="f">verblijden</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Den vrouwen immer ons zoo <rhyme label="a" type="m" corresp="#s1:l1">waard</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Wil ik dit glas thans <rhyme label="b" type="f" corresp="#s1:l2">wijden</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Zij leven lang, wier minnend <rhyme label="c" type="m">hart</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Ons troost en die in leed of <rhyme label="c" type="m" corresp="#s1:l5">smart</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Ons met haar min ter zijde <rhyme label="d" type="m">staan</rhyme>!</l>
+        <l id="s1:l8" met="4" type="-+">Stoot <rhyme label="d" type="m" corresp="#s1:l7">aan</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">En nu met opgewekten <rhyme label="a" type="m">zin</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Ons glas geheel <rhyme label="b" type="f">geledigd</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Die slechts éen druppel laat er <rhyme label="a" type="m" corresp="#s2:l1">in</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Heeft haar daarmee <rhyme label="b" type="f" corresp="#s2:l2">beleedigd</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Heft allen aan ons blij <rhyme label="c" type="m">gezang</rhyme>:</l>
+        <l id="s2:l6" met="4" type="-+">‘De schoone sexe leve <rhyme label="c" type="m" corresp="#s2:l5">lang</rhyme>!’</l>
+        <l id="s2:l7" met="4" type="-+">Neemt op uw glas en tot <rhyme label="d" type="m">besluit</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Drinkt 't <rhyme label="d" type="m" corresp="#s2:l7">uit</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Eén glas slechts op haar liefde en <rhyme label="a" type="m">trouw</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Dat kan mij niet <rhyme label="b" type="f">bevallen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Want eindloos is de min der <rhyme label="a" type="m" corresp="#s3:l1">vrouw</rhyme>, -</l>
+        <l id="s3:l4" met="3" type="-+">Haar lof moet eindloos <rhyme label="b" type="f" corresp="#s3:l2">schallen</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Wij maken dus een nieuw <rhyme label="c" type="m">begin</rhyme>:</l>
+        <l id="s3:l6" met="4" type="-+">Wij schenken fluks ons glas weer <rhyme label="c" type="m" corresp="#s3:l5">in</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">En drinken dan haar heil, zoo 't <rhyme label="d" type="m">hoort</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Steeds <rhyme label="d" type="m" corresp="#s3:l7">voort</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10849</id>
+    <date>
+      <year-start>1605</year-start>
+      <year-end>1605</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Op mijn hant staat een beecker <rhyme label="a" type="f">ronde</rhyme></l>
+        <l id="s1:l2" met="7" type="-+">die selt gy setten aen u mont en drincken totten <rhyme label="a" type="f" corresp="#s1:l1">gronde</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Sels el sel icket oock of <rhyme label="b" type="f">sterven</rhyme></l>
+        <l id="s1:l4" met="7" type="-+">Neen ghy fraye Knaepgen niet ten sal u niet <rhyme label="b" type="f" corresp="#s1:l3">bederven</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Wie sal ick dese Croes <rhyme label="a" type="f">toedrincken</rhyme></l>
+        <l id="s2:l2" met="7" type="-+">t’Meysken dat daer by u sit die sult ghy dan weer <rhyme label="a" type="f" corresp="#s2:l1">schincken</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Sels el selser oock of <rhyme label="b" type="f">hincken</rhyme></l>
+        <l id="s2:l4" met="7" type="-+">Neense fraye Knaepgen niet, sy salder u by <rhyme label="b" type="f" corresp="#s2:l3">dincken</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Wat sal ick haer daar toe <rhyme label="a" type="f">vereeren</rhyme></l>
+        <l id="s3:l2" met="7" type="-+">een cusgen aen haer roode mont, om liefde te <rhyme label="a" type="f" corresp="#s3:l1">vermeeren</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Sels el sel icker dan oock wee <rhyme label="b" type="f">doen</rhyme></l>
+        <l id="s3:l4" met="7" type="-+">Neen ghy fraye knaepgen niet, wy sullent liever mee <rhyme label="b" type="f" corresp="#s3:l3">doen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

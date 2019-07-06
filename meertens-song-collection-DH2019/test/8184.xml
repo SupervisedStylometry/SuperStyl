@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8184</id>
+    <date>
+      <year-start>1678</year-start>
+      <year-end>1678</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WIe sou sijn jeuchdigh hert en <rhyme label="a" type="m">sin</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Niet trecken tot de soete <rhyme label="a" type="m" corresp="#s1:l1">min</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Die sulcken schoonen <rhyme label="a" type="m" corresp="#s1:l1">Engelin</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Aanschouwt met <rhyme label="b" type="f">oogen</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Ick meen het over-schoone <rhyme label="c" type="m">Beeld</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Catrina van de deucht <rhyme label="c" type="m" corresp="#s1:l5">geteelt</rhyme>;</l>
+        <l id="s1:l7" met="4" type="-+">In wiens gelaat Diana <rhyme label="c" type="m" corresp="#s1:l5">speelt</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Vol van <rhyme label="b" type="f" corresp="#s1:l4">meedoogen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

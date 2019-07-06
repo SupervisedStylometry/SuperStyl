@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176636</id>
+    <date>
+      <year-start>1683</year-start>
+      <year-end>1683</year-end>
+    </date>
+    <location>
+      <orginal-name>leeuwarden</orginal-name>
+      <standard-name>Leeuwarden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>53.2005936</lon>
+        <lat>5.7918548</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 001 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Die niet en gaet in der Godloosen <rhyme label="a" type="m">raet</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Die op den weg der Sondaren niet <rhyme label="a" type="m" corresp="#s1:l1">staet</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">En niet en sit by den Spotters <rhyme label="b" type="f">onreyne</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Maer dag en nagt heeft in Gods Wet <rhyme label="b" type="f" corresp="#s1:l3">alleyne</rhyme></l>
+        <l id="s1:l5" met="5" type="-+">Al sijnen lust, jae spreekt daer van <rhyme label="c" type="m">eenpaer</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Die mensch is wel gheluckzaligh <rhyme label="c" type="m" corresp="#s1:l5">voorwaer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Hy sal gelijck zijn eenen schonen <rhyme label="a" type="m">boom</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Gheplant by eenen klaren <rhyme label="a" type="m" corresp="#s2:l1">water-stroom</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Die sijn vruchten geeft in bequame <rhyme label="b" type="f">tijden</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Van welcken geen drooght bladt valt <rhyme label="b" type="f" corresp="#s2:l3">besijden</rhyme></l>
+        <l id="s2:l5" met="5" type="-+">Soo sal den mensche zaligh zijn <rhyme label="c" type="m">bekent</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">Met al sijn doen, tot welcken hy hem <rhyme label="c" type="m" corresp="#s2:l5">went</rhyme>:</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Maer so en ist met den Godloosen <rhyme label="a" type="m">niet</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Die als kaf verstroyt werden daer men ‘t <rhyme label="a" type="m" corresp="#s3:l1">siet</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Welk van den wint hier en daer wert <rhyme label="b" type="f">gedreven</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">So sullen sy voor Gods gherichte <rhyme label="b" type="f" corresp="#s3:l3">beven</rhyme>,</l>
+        <l id="s3:l5" met="5" type="-+">En niet bestaen maer haest vergaen <rhyme label="c" type="m">beschaemt</rhyme></l>
+        <l id="s3:l6" met="5" type="-+">Met den vroomen werden sy niet <rhyme label="c" type="m" corresp="#s3:l5">ghenaemt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Godt kent den weg en der vromen <rhyme label="a" type="m">gemoet</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">Hy draegt sorghe voor hen en voor haer <rhyme label="a" type="m" corresp="#s4:l1">goet</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">Dies sullen sy wel gheluckzalich <rhyme label="b" type="f">wesen</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">Maer naedemael dat onse Godt <rhyme label="b" type="f" corresp="#s4:l3">ghepresen</rhyme>:</l>
+        <l id="s4:l5" met="5" type="-+">Op der Godloosen weghen niet en <rhyme label="c" type="m">acht</rhyme>,</l>
+        <l id="s4:l6" met="5" type="-+">Sy en haer doen werden tot niet <rhyme label="c" type="m" corresp="#s4:l5">ghebracht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

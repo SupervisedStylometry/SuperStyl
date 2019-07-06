@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>163445</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="mythologisch lied" translation="mythological song">mythologisch lied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Tranquilles coeurs</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wat baat het uw dat men uw <rhyme label="a" type="m">noemd</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">De schoonste in uws vaders <rhyme label="b" type="f">Ryken</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Ja, dat men steeds van Psiche <rhyme label="a" type="m" corresp="#s1:l1">roemd</rhyme>:</l>
+        <l id="s1:l4" met="4" type="-+">Wie kan in schoonheid haar <rhyme label="b" type="f" corresp="#s1:l2">gelijken</rhyme>,</l>
+        <l id="s1:l5" met="6" type="-+">Nu gy, alom vervolgd van Venus dulle <rhyme label="c" type="m">haat</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Wert van elk een <rhyme label="c" type="m" corresp="#s1:l5">versmaad</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ag, had my nimmer vrou <rhyme label="a" type="m">Natuur</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">So mildelijk haar schoon <rhyme label="b" type="f">gegeven</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Ik sag noit dit rampsalig <rhyme label="a" type="m" corresp="#s2:l1">uur</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Ik sou in rust en vrede <rhyme label="b" type="f" corresp="#s2:l2">leven</rhyme>.</l>
+        <l id="s2:l5" met="6" type="-+">O Schoonheid vol gevaar, gy baard my niet als <rhyme label="c" type="m">druk</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">En hevig <rhyme label="c" type="m" corresp="#s2:l5">ongeluk</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Maar wat betreurd gy uwe <rhyme label="a" type="m">staat</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Wie kan de Goden wil <rhyme label="b" type="f">weerstreven</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">Daar is geen uitkomst, hulp nog <rhyme label="a" type="m" corresp="#s3:l1">raad</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Voor uw in dese nood <rhyme label="b" type="f" corresp="#s3:l2">gegeven</rhyme>!</l>
+        <l id="s3:l5" met="6" type="-+">Wel aan dan Psiche, draag, schoon buiten uwe <rhyme label="c" type="m">schuld</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Uwe straffe met <rhyme label="c" type="m" corresp="#s3:l5">geduld</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

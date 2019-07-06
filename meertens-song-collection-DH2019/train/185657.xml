@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185657</id>
+    <date>
+      <year-start>1830</year-start>
+      <year-end>1840</year-end>
+    </date>
+    <location>
+      <orginal-name>purmerend</orginal-name>
+      <standard-name>Purmerend</standard-name>
+      <coordinates>
+        <lon>52.5024789</lon>
+        <lat>4.9614827</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Aan de oever van een snelle vliet</melody>
+  <author>Gijsbertus van Sandwijk</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wanneer mijn man, des morgens <rhyme label="a" type="m">vroeg</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Zich naar den akker <rhyme label="b" type="m">spoedt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Dan trek ik naar mijn koeijen <rhyme label="c" type="m">heên</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Met een verheugd <rhyme label="b" type="m" corresp="#s1:l2">gemoed</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">En brengt hij groenten naar de <rhyme label="a" type="m">markt</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Of 't vet gemeste <rhyme label="b" type="m">zwijn</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Ik breng er kaas en boter <rhyme label="c" type="m">heên</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Die ook onmisbaar <rhyme label="b" type="m" corresp="#s2:l2">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ik zing daarom zoo wel als <rhyme label="a" type="m">hij</rhyme>:</l>
+        <l id="s3:l2" met="3" type="-+">Heil zij den <rhyme label="b" type="m">boerenstand</rhyme>!</l>
+        <l id="s3:l3" met="4" type="-+">Hjj schenkt ons spijs in <rhyme label="c" type="m">overvloed</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Den bloei aan 't <rhyme label="b" type="m" corresp="#s3:l2">Vaderland</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

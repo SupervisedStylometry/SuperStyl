@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>130775</id>
+    <date>
+      <year-start>1711</year-start>
+      <year-end>1711</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Tranquilles coeurs</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Men wil dat ik uw by zijn   <rhyme label="a" type="m">sal</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Beminde Kloris, heel <rhyme label="b" type="f">verlaten</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Maer neen, nog storm nog <rhyme label="a" type="m" corresp="#s1:l1">ongeval</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Doet my oit uwe schoonheid <rhyme label="b" type="f" corresp="#s1:l2">haten</rhyme>;</l>
+        <l id="s1:l5" met="6" type="-+">Geen nyt, hoe fel of hoe verwoed van hart en <rhyme label="c" type="m">hooft</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Die my uw liefde <rhyme label="c" type="m" corresp="#s1:l5">ontrooft</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Nee, schoone, uw aengenaem <rhyme label="a" type="m">gezigt</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Heeft my de ziel te fel <rhyme label="b" type="f">ontsteken</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Dat lief en hart betoovrend <rhyme label="a" type="m" corresp="#s2:l1">ligt</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Houd my voor de haet <rhyme label="b" type="f" corresp="#s2:l2">onbezweken</rhyme>.</l>
+        <l id="s2:l5" met="6" type="-+">Geen nyt, hoe fel of hoe verwoed van hart en <rhyme label="c" type="m">hooft</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Die my uw liefde <rhyme label="c" type="m" corresp="#s2:l5">ontrooft</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

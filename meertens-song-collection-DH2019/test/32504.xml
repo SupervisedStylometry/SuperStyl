@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32504</id>
+    <date>
+      <year-start>1667</year-start>
+      <year-end>1667</year-end>
+    </date>
+    <location>
+      <orginal-name>mechelen</orginal-name>
+      <standard-name>Mechelen, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0281381</lon>
+        <lat>4.4803453</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Si l'amour est un crime</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">MYn soete <rhyme label="a" type="f">Engelinne</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Tot wie alleen my <rhyme label="b" type="m">wen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Met ganscher hert, en <rhyme label="a" type="f" corresp="#s1:l1">sinne</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En anders geen en <rhyme label="b" type="m" corresp="#s1:l2">ken</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Die syt mijn ryn <rhyme label="c" type="f">Princesse</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">En die mijn ziel <rhyme label="d" type="m">gebiet</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Mijn hoop, en mijn <rhyme label="c" type="f" corresp="#s1:l5">Voeghdesse</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">U Slaeve dogh eens <rhyme label="d" type="m" corresp="#s1:l6">aen-siet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">U Ooghskens door 't soet <rhyme label="a" type="f">loncken</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Mijn hert hebben <rhyme label="b" type="m">door-wont</rhyme>;</l>
+        <l id="s2:l3" met="3" type="-+">Daer op u Wanghskens <rhyme label="a" type="f" corresp="#s2:l1">proncken</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Twee Rooskens, 't hayrken <rhyme label="b" type="m" corresp="#s2:l2">blont</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Die staen als inden <rhyme label="c" type="f">Tempel</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Van mijn verlieft <rhyme label="d" type="m">gedacht</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">En ick door het <rhyme label="c" type="f" corresp="#s2:l5">verwempel</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Met eene soo droeve <rhyme label="d" type="m" corresp="#s2:l6">klacht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Al uwe schoone <rhyme label="a" type="f">deughden</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Die t' saemen by u <rhyme label="b" type="m">sijn</rhyme>;</l>
+        <l id="s3:l3" met="3" type="-+">Die sijn, 't die m' eerst <rhyme label="a" type="f" corresp="#s3:l1">verheughden</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Nochtans nu baeren <rhyme label="b" type="m" corresp="#s3:l2">pyn</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Die doen u t'saem <rhyme label="c" type="f">getuygen</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Dat met een recht <rhyme label="d" type="m">belyt</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Ick onder u moet <rhyme label="c" type="f" corresp="#s3:l5">buygen</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Die mijne klaer Sonne <rhyme label="d" type="m" corresp="#s3:l6">syt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

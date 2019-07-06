@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6955</id>
+    <date>
+      <year-start>1637</year-start>
+      <year-end>1637</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Johan van Heemskerck</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">TErwijl u oogh noch somtijdts vriendlijck <rhyme label="a" type="m">stondt</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">En ick een kus mocht kryghen van u <rhyme label="a" type="m" corresp="#s1:l1">mondt</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Was niemandt soo gheluckigh hier in 't <rhyme label="b" type="m">Landt</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Als ick mijn selven <rhyme label="b" type="m" corresp="#s1:l3">vandt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Dat is voorby, en nu voel ick mijn <rhyme label="a" type="m">hert</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Allenckxkens in een ander net <rhyme label="a" type="m" corresp="#s2:l1">verwert</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Dat sacht als sijd', my aen een zieltje <rhyme label="b" type="m">bindt</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">'t Gheen sijns gelijck naeuw <rhyme label="b" type="m" corresp="#s2:l3">vindt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Doch of 't geviel dat d'uyt-ghebluste <rhyme label="a" type="m">vlam</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">Weer leven kreegh, en weer aen 't branden <rhyme label="a" type="m" corresp="#s3:l1">quam</rhyme>?</l>
+        <l id="s3:l3" met="5" type="-+">Of d' oude Min weer in mijn boesem <rhyme label="b" type="m">sloop</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">En mijn gemoedt <rhyme label="b" type="m" corresp="#s3:l3">bekroop</rhyme>?</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Hoe-wel dat ghy zijt schichtigh als een <rhyme label="a" type="m">Rhee</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Hard als een Rots, verbolghen als de <rhyme label="a" type="m" corresp="#s4:l1">Zee</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">Sy suycker-soet, en vriendlijck als 't <rhyme label="b" type="m">gesicht</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Van 't eerste <rhyme label="b" type="m" corresp="#s4:l3">Morgen-licht</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Nochtans met u wensch ick te mogen <rhyme label="a" type="m">leven</rhyme>,</l>
+        <l id="s5:l2" met="5" type="-+">Met u wensch ick mijn gheest te mogen <rhyme label="a" type="m" corresp="#s5:l1">gheven</rhyme>,</l>
+        <l id="s5:l3" met="5" type="-+">Met u wensch ick, door on-verbroocken <rhyme label="b" type="m">Wet</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Een Dack, een Disch, een <rhyme label="b" type="m" corresp="#s5:l3">Bedt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

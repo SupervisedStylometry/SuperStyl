@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32510</id>
+    <date>
+      <year-start>1667</year-start>
+      <year-end>1667</year-end>
+    </date>
+    <location>
+      <orginal-name>mechelen</orginal-name>
+      <standard-name>Mechelen, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0281381</lon>
+        <lat>4.4803453</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Courante monsieur</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">VRou-voester van mijn <rhyme label="a" type="m">jeught</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Meesters van mijnen <rhyme label="b" type="m">sin</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Mijn troost, mijn <rhyme label="a" type="m" corresp="#s1:l1">vreught</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Mijn hoop, en mijn <rhyme label="b" type="m" corresp="#s1:l2">Goddin</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">Mijn licht, mijn heyl, mijn soete <rhyme label="b" type="m" corresp="#s1:l2">Engelin</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Springh-ader van mijn eerbaer <rhyme label="c" type="m">lust</rhyme>,</l>
+        <l id="s1:l7" met="5" type="-+">Schat-kiste van mijn aengenaeme <rhyme label="c" type="m" corresp="#s1:l6">rust</rhyme>;</l>
+        <l id="s1:l8" met="5" type="-+">Siet hoe ick leef in druck, en groot <rhyme label="d" type="m">gequyn</rhyme></l>
+        <l id="s1:l9" met="5" type="-+">Wilt uwen Dienaer wat getroostigh <rhyme label="d" type="m" corresp="#s1:l8">syn</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">O oorsaeck van mijn <rhyme label="a" type="m">MIN</rhyme>!</l>
+        <l id="s2:l2" met="3" type="-+">Erbermt my, die u <rhyme label="b" type="m">klaeght</rhyme>;</l>
+        <l id="s2:l3" met="2" type="-+">k Hoop niet dat <rhyme label="a" type="m" corresp="#s2:l1">g'in</rhyme>.</l>
+        <l id="s2:l4" met="3" type="-+">Mijn lijden schept <rhyme label="b" type="m" corresp="#s2:l2">behaegh</rhyme>:</l>
+        <l id="s2:l5" met="5" type="-+">Siet Nymph mijn Liefde die ick tot u <rhyme label="b" type="m" corresp="#s2:l2">draegh</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Soo groot is, dat noyt Minnaer <rhyme label="c" type="m">heeft</rhyme></l>
+        <l id="s2:l7" met="5" type="-+">Oytsoo eē vreught gesiē, noch dach <rhyme label="c" type="m" corresp="#s2:l6">beleeft</rhyme></l>
+        <l id="s2:l8" met="5" type="-+">Die syn Goddin met rechte trau <rhyme label="d" type="m">bemint</rhyme></l>
+        <l id="s2:l9" met="5" type="-+">Dan als ick, soo gy inder daet <rhyme label="d" type="m" corresp="#s2:l8">bevint</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

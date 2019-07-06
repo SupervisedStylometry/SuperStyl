@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8820</id>
+    <date>
+      <year-start>1625</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Durch Adams Fall ist ganz verderbt</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">REcht my Heer, end' mijn saeck <rhyme label="a" type="m">aenneemt</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Tegen d' Onheylig' <rhyme label="b" type="f">schare</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Verlost my van die Valsch' <rhyme label="a" type="m" corresp="#s1:l1">Gemeent'</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Van Boosen <rhyme label="b" type="f" corresp="#s1:l2">allegare</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Ghy zijt die Godt der sterckheyt <rhyme label="c" type="m">mijn</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Waerom laet ghy my <rhyme label="d" type="f">treuren</rhyme>?</l>
+        <l id="s1:l7" met="4" type="-+">Waerom verstoot ghy my met <rhyme label="c" type="m" corresp="#s1:l5">Pijn</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Beswaerlick t'Allen <rhyme label="d" type="f" corresp="#s1:l6">uyren</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Dijn Licht seyndt en dijn Waerheyt <rhyme label="a" type="m">HEer</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Dat sy my sonder <rhyme label="b" type="f">beyden</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Tot uwen heyl'gen Berch vol <rhyme label="a" type="m" corresp="#s2:l1">Eer</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">En Wooninghe <rhyme label="b" type="f" corresp="#s2:l2">gheleyden</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Dat ick gae in tot dijn <rhyme label="c" type="m">Altaer</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Tot den Godt mijnder <rhyme label="d" type="f">Vreugden</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">End' op mijn Herp u Dancke <rhyme label="c" type="m" corresp="#s2:l5">daer</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">In alder Eer en <rhyme label="d" type="f" corresp="#s2:l6">Deuchden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Mijn siel waerom ghy my doch <rhyme label="a" type="m">quele</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">En by bedroeft dus <rhyme label="b" type="f">seere</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Verbeyt op Godt <rhyme label="a" type="m" corresp="#s3:l1">Emanuel</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Ick dancken sal den <rhyme label="b" type="f" corresp="#s3:l2">HEERE</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Noch om syns Aensichts <rhyme label="c" type="m">Salicheyt</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Want hy ons al te <rhyme label="d" type="f">samen</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Een schoon Verlossingh' heeft <rhyme label="c" type="m" corresp="#s3:l5">bereydt</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Door JEsum Christum <rhyme label="d" type="f" corresp="#s3:l6">Amen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

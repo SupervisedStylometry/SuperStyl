@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24484</id>
+    <date>
+      <year-start>1596</year-start>
+      <year-end>1596</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="danslied" translation="dancing song">danslied</tag>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+      <tag standard-name="rederijkerslied" translation="rhetorician song">rederijkerslied</tag>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+    </tags>
+    <melody>Gij zotten en zottinnen</melody>
+    <categories>
+      <category translation="groups">groepen</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Wilt al ter Feeste <rhyme label="a" type="f">comen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Ghy Sotten en <rhyme label="b" type="f">Sottinnen</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Hier vry al sonder <rhyme label="a" type="f" corresp="#s1:l1">schromen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Van buyten en van <rhyme label="b" type="f" corresp="#s1:l2">binnen</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Na Ioncker Mors comt <rhyme label="b" type="f" corresp="#s1:l2">rinnen</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Die zijt van zijn <rhyme label="c" type="m">Gheslacht</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Bescheten tot u <rhyme label="b" type="f" corresp="#s1:l2">kinnen</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Hy heeft na u <rhyme label="c" type="m" corresp="#s1:l6">gewacht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Vrou Lors die doet <rhyme label="a" type="f">ontbieden</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Hare gesusters <rhyme label="b" type="f">alle</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Wilt haer plaetse <rhyme label="a" type="f" corresp="#s2:l1">bespieden</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Tsy Griet, Lijs, ofte <rhyme label="b" type="f" corresp="#s2:l2">Calle</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Vrou dantelory <rhyme label="b" type="f" corresp="#s2:l2">smalle</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">En slapschijt hier ter <rhyme label="c" type="m">stee</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Comt ghy claddonijs <rhyme label="b" type="f" corresp="#s2:l2">malle</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">En hout aen onse <rhyme label="c" type="m" corresp="#s2:l6">stee</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Ghy dronckaerts die vol <rhyme label="a" type="f">suypen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">En zijt hier niet <rhyme label="b" type="f">vergeten</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Al in u pack gaet <rhyme label="a" type="f" corresp="#s3:l1">luypen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Als den brouck is <rhyme label="b" type="f" corresp="#s3:l2">bescheten</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Slock in comt vry mee <rhyme label="b" type="f" corresp="#s3:l2">eten</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Coppen met u <rhyme label="c" type="m">Clapspaen</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Die met tspit is <rhyme label="b" type="f" corresp="#s3:l2">gesmeten</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Coomt vry sonder <rhyme label="c" type="m" corresp="#s3:l6">beraen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Princen met groote <rhyme label="a" type="f">hoopen</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Clappeyen al te <rhyme label="b" type="f">malen</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">Coomt vry drinct volle <rhyme label="a" type="f" corresp="#s4:l1">stopen</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Ghy sult hier niet <rhyme label="b" type="f" corresp="#s4:l2">betalen</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Noch tgelt en sult ghy <rhyme label="b" type="f" corresp="#s4:l2">halen</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Al inde Lombaert <rhyme label="c" type="m">niet</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Coomt ghy aerdige <rhyme label="b" type="f" corresp="#s4:l2">alen</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Ons Feeste wel <rhyme label="c" type="m" corresp="#s4:l6">doorsiet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

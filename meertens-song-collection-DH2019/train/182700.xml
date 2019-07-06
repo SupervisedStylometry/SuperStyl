@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182700</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Chère Annette reçois l'hommage</melody>
+  <author>Hendrik Riemsnijder</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Uw fraaie kruin verliest zyn' <rhyme label="a" type="f">blaêren</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">ô Boom! reeds ruischt, verdroogt, uw <rhyme label="b" type="m">loof</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">En wat uw' top nog schynt te <rhyme label="a" type="f" corresp="#s1:l1">spaaren</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Hangt dor en bleek den wind ten <rhyme label="b" type="m" corresp="#s1:l2">roof</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Zoo schoon als nuttig was uw <rhyme label="c" type="f">leven</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Met eere neigt ge u dus ter <rhyme label="d" type="m">rust</rhyme>:</l>
+        <l id="s1:l7" met="4" type="-+">Uw' vruchten hebt ge ons mild <rhyme label="c" type="f" corresp="#s1:l5">gegeeven</rhyme>!</l>
+        <l id="s1:l8" met="4" type="-+">Uw lommer schonk ons koelte en <rhyme label="d" type="m" corresp="#s1:l6">lust</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wanneer de herfst des levens <rhyme label="a" type="f">mede</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">My roepen mogt naar 't rustend <rhyme label="b" type="m">graf</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Wat heil! zoo ik dan stierf in <rhyme label="a" type="f" corresp="#s2:l1">vrede</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">En men met recht den lof my <rhyme label="b" type="m" corresp="#s2:l2">gaf</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Dat ik veel vruchten heb <rhyme label="c" type="f">gedraagen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">En elk gewillig, naar myn' <rhyme label="d" type="m">magt</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Van nut te zyn, den nood te <rhyme label="c" type="f" corresp="#s2:l5">schraagen</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">En wél te doen steeds heb <rhyme label="d" type="m" corresp="#s2:l6">getragt</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22257</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Jauchzet dem Herrn alle Land</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">LOeft den Heere ghy Heyden <rhyme label="a" type="m">al</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Prijst hem ghy volcken met <rhyme label="a" type="m" corresp="#s1:l1">gheschal</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Want syne ghenade <rhyme label="b" type="f">goede</rhyme>:</l>
+        <l id="s1:l4" met="4" type="-+">Die is crachtelijck ouer ons <rhyme label="a" type="m" corresp="#s1:l1">al</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">En sal ons eewelijck <rhyme label="b" type="f" corresp="#s1:l3">behoeden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Halleluya singhen wy <rhyme label="a" type="m">verblijdt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">(Om dat wy sien eenen goeden <rhyme label="a" type="m" corresp="#s2:l1">tijdt</rhyme>)</l>
+        <l id="s2:l3" met="3" type="-+">In ons liefs Heeren <rhyme label="b" type="f">name</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">En door Christum so worden wy <rhyme label="a" type="m" corresp="#s2:l1">gheleydt</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">In het eewich leuen <rhyme label="b" type="f" corresp="#s2:l3">Amen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6066</id>
+    <date>
+      <year-start>1632</year-start>
+      <year-end>1632</year-end>
+    </date>
+    <location>
+      <orginal-name>emmerik</orginal-name>
+      <standard-name>Emmerik, Germany</standard-name>
+      <coordinates>
+        <lon>51.8322137</lon>
+        <lat>6.2428283</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gezongen onze vader" translation="sung Lord's prayer">gezongen onze vader</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Ik stond op hoge bergen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">ONs Vader Godt <rhyme label="a" type="f">gepresen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Die inden Hemel <rhyme label="b" type="m">zijt</rhyme>:</l>
+        <l id="s1:l3" met="3" type="-+">Geheylicht so moet <rhyme label="a" type="f" corresp="#s1:l1">wesen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">V naem <rhyme label="b" type="m" corresp="#s1:l2">gebenedijt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">V rijck van grooter <rhyme label="a" type="f">weerden</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Laet comen metter <rhyme label="b" type="m">spoet</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">In Hemel, en op <rhyme label="a" type="f" corresp="#s2:l1">eerden</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Geschie u wille <rhyme label="b" type="m" corresp="#s2:l2">goet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Wilt ons o Heer <rhyme label="a" type="f">verleenen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Coninck van machten <rhyme label="b" type="m">groot</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Peys, vreed', en oock met <rhyme label="a" type="f" corresp="#s3:l1">eenen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Den kost tot 's levens <rhyme label="b" type="m" corresp="#s3:l2">noot</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Vergeeft ons Heer <rhyme label="a" type="f">verheven</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Al dat wy schuldich <rhyme label="b" type="m">staen</rhyme>:</l>
+        <l id="s4:l3" met="3" type="-+">Gelijck wy oock <rhyme label="a" type="f" corresp="#s4:l1">vergeven</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Die ons hebben <rhyme label="b" type="m" corresp="#s4:l2">misdaen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">En laet ons doch niet <rhyme label="a" type="f">vallen</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Oock in becoring' <rhyme label="b" type="m">quaet</rhyme>:</l>
+        <l id="s5:l3" met="3" type="-+">Maer Heer verlost ons <rhyme label="a" type="f" corresp="#s5:l1">allen</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Van 's vyants boosen <rhyme label="b" type="m" corresp="#s5:l2">raet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

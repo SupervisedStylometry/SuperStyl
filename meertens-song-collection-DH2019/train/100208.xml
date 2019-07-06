@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100208</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
+    </tags>
+    <melody>Rozemondje troeteldiertje</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DE liefd' is blind, maar weet haar <rhyme label="a" type="f">pylen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Op d'allersterkste borst te <rhyme label="a" type="f" corresp="#s1:l1">vylen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Die zy door vinnig vier <rhyme label="b" type="m">verslind</rhyme>:</l>
+        <l id="s1:l4" met="4" type="-+">Zy is een kind, en roofd den <rhyme label="c" type="f">degen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Van d'Oorlogs-God tot haren <rhyme label="c" type="f" corresp="#s1:l4">zegen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Als zy m' in looze netten <rhyme label="b" type="m" corresp="#s1:l3">bind</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O groote Koningin der <rhyme label="a" type="f">Aarde</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Die alle Goôn in magt en <rhyme label="a" type="f" corresp="#s2:l1">waarde</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Verwind, en zoo veel zegens <rhyme label="b" type="m">torst</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">O schrik'lyk kind, dat alle <rhyme label="c" type="f">palen</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Aan uw vergoden throon doet <rhyme label="c" type="f" corresp="#s2:l4">pralen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Gy zeit der Goden grootste <rhyme label="b" type="m" corresp="#s2:l3">Vorst</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Gy, die de Aard en Lugt <rhyme label="a" type="f">doorbrande</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Den Hemel, en de See <rhyme label="a" type="f" corresp="#s3:l1">vermande</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Wy loven uw verhoogden <rhyme label="b" type="m">throon</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Al ons vermaak leid in 't <rhyme label="c" type="f">verwond'ren</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Van uwe magt: u past het <rhyme label="c" type="f" corresp="#s3:l4">dond'ren</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Tot uwen lof strekt aller <rhyme label="b" type="m" corresp="#s3:l3">toon</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

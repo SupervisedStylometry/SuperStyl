@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14361</id>
+    <date>
+      <year-start>1638</year-start>
+      <year-end>1638</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="adventslied" translation="advent song">adventslied</tag>
+    </tags>
+    <melody>Conditor alme siderum</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author>Aegidius Haeffacker</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Alderbesten Ian <rhyme label="a" type="m">Baptist</rhyme>!</l>
+        <l id="s1:l2" met="4" type="-+">Die oyt van vrou geboren <rhyme label="a" type="m" corresp="#s1:l1">bist</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Maeckt my des Heeren wegh <rhyme label="b" type="m">bekend</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">In desen heylighen <rhyme label="b" type="m" corresp="#s1:l3">Advent</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Leert my, dat krom is, maken <rhyme label="a" type="m">recht</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">D' oneffen paden glad en <rhyme label="a" type="m" corresp="#s2:l1">slecht</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">De dalen vol, de berghen <rhyme label="b" type="m">laegh</rhyme>;</l>
+        <l id="s2:l4" met="4" type="-+">Op dat mijn leven God <rhyme label="b" type="m" corresp="#s2:l3">behaegh</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Krijght my, tot dwangh van 't snode <rhyme label="a" type="m">vlees</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Voor 't oordeel Gods een stage <rhyme label="a" type="m" corresp="#s3:l1">vrees</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Op dat ick wie en wat ick <rhyme label="b" type="m">ben</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Gedachtigh, my tot IESVM <rhyme label="b" type="m" corresp="#s3:l3">wen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Tot IESVM, door wiens heyligh <rhyme label="a" type="m">woord</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Den blinden siet, den doven <rhyme label="a" type="m" corresp="#s4:l1">hoord</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Den stommen spreect, den krepel <rhyme label="b" type="m">gaet</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Den Lazarus zijn sweeren <rhyme label="b" type="m" corresp="#s4:l3">laet</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">God Vader, die ten Hemel <rhyme label="a" type="m">leeft</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">End' ons uw' soon uyt liefden <rhyme label="a" type="m" corresp="#s5:l1">geeft</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Gunt dat ick met een waer <rhyme label="b" type="m">berou</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">U vlees-geworden woord <rhyme label="b" type="m" corresp="#s5:l3">aenschou</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Gundt dat die reyne <rhyme label="a" type="m">Maeghdevrucht</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Mijn ziel vervul met alle <rhyme label="a" type="m" corresp="#s6:l1">tucht</rhyme>:</l>
+        <l id="s6:l3" met="4" type="-+">en die 'k nu als Verlosser <rhyme label="b" type="m">wacht</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">My spare van sijn Rechters <rhyme label="b" type="m" corresp="#s6:l3">maght</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

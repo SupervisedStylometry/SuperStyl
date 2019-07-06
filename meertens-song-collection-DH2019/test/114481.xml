@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>114481</id>
+    <date>
+      <year-start>1745</year-start>
+      <year-end>1745</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Schoon bloemgewas</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HAd ik een Koonings kroon op 't <rhyme label="a" type="m">Hooft</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">En gy waerd <rhyme label="b" type="m">Herderin</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Al had my een Princes <rhyme label="a" type="m" corresp="#s1:l1">belooft</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Te geeven haere <rhyme label="b" type="m" corresp="#s1:l2">Min</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Ik keurde u nog boven <rhyme label="c" type="m">haer</rhyme>!</l>
+        <l id="s1:l6" met="3" type="-+">Ja 'k zwoer u by <rhyme label="d" type="m">Jupyn</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Als ik een van de Goden <rhyme label="c" type="m" corresp="#s1:l5">waer</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Gy zoud Godinne <rhyme label="d" type="m" corresp="#s1:l6">zyn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ach! dat ik maer u Slaef eens <rhyme label="a" type="m">waer</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">En wierd van u <rhyme label="b" type="m">bemind</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Myn Lief ik ben, gelooft my <rhyme label="a" type="m" corresp="#s2:l1">maer</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">De trouwste die men <rhyme label="b" type="m" corresp="#s2:l2">vind</rhyme>;</l>
+        <l id="s2:l5" met="4" type="-+">Ja heel bedrukt en meer <rhyme label="c" type="m">bedroeft</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Als een die Sterven <rhyme label="d" type="m">zal</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Myn Ziel geen and're troost <rhyme label="c" type="m" corresp="#s2:l5">behoeft</rhyme>:</l>
+        <l id="s2:l8" met="3" type="-+">De Doodt die sluyt het <rhyme label="d" type="m" corresp="#s2:l6">al</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ziet alles is <rhyme label="a" type="m">vergankelyk</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Wat men op aerde <rhyme label="b" type="m">brengt</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">Verschynd niet in een <rhyme label="a" type="m" corresp="#s3:l1">ogenblik</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Een Star aen 't <rhyme label="b" type="m" corresp="#s3:l2">Firmament</rhyme>?</l>
+        <l id="s3:l5" met="4" type="-+">Waerom zoo dan zoo gansch myn <rhyme label="c" type="m">hoop</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Zich keren af van <rhyme label="d" type="m">myn</rhyme>?</l>
+        <l id="s3:l7" met="4" type="-+">Neen, neen ik moet des Werelds <rhyme label="c" type="m" corresp="#s3:l5">loop</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Noch onderworpen <rhyme label="d" type="m" corresp="#s3:l6">zyn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

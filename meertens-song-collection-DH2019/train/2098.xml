@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2098</id>
+    <date>
+      <year-start>1674</year-start>
+      <year-end>1674</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
+    </tags>
+    <melody>J'aime rarement</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Daniel Bellemans</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">SOnder u te <rhyme label="a" type="m">zyn</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Is my een helsche <rhyme label="a" type="m" corresp="#s1:l1">pyn</rhyme></l>
+        <l id="s1:l3" met="1" type="-+">O <rhyme label="b" type="f">Heere</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En met u te <rhyme label="b" type="f" corresp="#s1:l3">verkeeren</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Is my een <rhyme label="c" type="m">Hemel-ryck</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Hier op het <rhyme label="c" type="m" corresp="#s1:l5">Aerde-ryck</rhyme></l>
+        <l id="s1:l7" met="1" type="-+">O <rhyme label="b" type="f" corresp="#s1:l3">Heere</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Al-waer 't dat ick <rhyme label="a" type="m">hier</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">In solfer, peck en <rhyme label="a" type="m" corresp="#s2:l1">vier</rhyme></l>
+        <l id="s2:l3" met="1" type="-+">Moest <rhyme label="b" type="f">blaken</rhyme>;</l>
+        <l id="s2:l4" met="3" type="-+">Magh ick uw' liefde <rhyme label="b" type="f" corresp="#s2:l3">smaken</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Soo sal ick vrolyck <rhyme label="c" type="m">zyn</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Ick sal my in de <rhyme label="c" type="m" corresp="#s2:l5">pyn</rhyme></l>
+        <l id="s2:l7" met="1" type="-+"><rhyme label="b" type="f" corresp="#s2:l3">Vermaken</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Wanneêr, ach! <rhyme label="a" type="m">wannêer</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Sal iek voor u ô <rhyme label="a" type="m" corresp="#s3:l1">Heer'</rhyme></l>
+        <l id="s3:l3" met="1" type="-+"><rhyme label="b" type="f">Verschynen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Verlost van alle <rhyme label="b" type="f" corresp="#s3:l3">pynen</rhyme>:</l>
+        <l id="s3:l5" met="3" type="-+">Uw' liefde doet myn <rhyme label="c" type="m">hert'</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">In pyn, in druck, in <rhyme label="c" type="m" corresp="#s3:l5">smert'</rhyme></l>
+        <l id="s3:l7" met="1" type="-+"><rhyme label="b" type="f" corresp="#s3:l3">Verdwynen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

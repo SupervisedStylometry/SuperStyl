@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22703</id>
+    <date>
+      <year-start>1576</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Nu houd aan wel</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Nu holdt aen <rhyme label="a" type="m">wel</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Want ick voor-singhen <rhyme label="a" type="m" corresp="#s1:l1">sel</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Na uwen lust soet om <rhyme label="b" type="f">hooren</rhyme>:</l>
+        <l id="s1:l4" met="3" type="-+">Die boosheyt wintet <rhyme label="a" type="m" corresp="#s1:l1">spel</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Daer is ghehoor na <rhyme label="a" type="m" corresp="#s1:l1">snel</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Dat ghoedt is weynich <rhyme label="b" type="f" corresp="#s1:l3">wtvercoren</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Alle ydelheyt <rhyme label="a" type="m">quaet</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Vroech unde daer toe <rhyme label="a" type="m" corresp="#s2:l1">laet</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Die stater nu vast <rhyme label="b" type="f">ontbonden</rhyme>:</l>
+        <l id="s2:l4" met="3" type="-+">Weynich isser der es <rhyme label="a" type="m" corresp="#s2:l1">haet</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Maer elck sijn toepat <rhyme label="a" type="m" corresp="#s2:l1">ghaet</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Die werter van haer <rhyme label="b" type="f" corresp="#s2:l3">ghevonden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Is dat niet groot <rhyme label="a" type="m">oneer</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Dat Godt onse <rhyme label="a" type="m" corresp="#s3:l1">Heer</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Al in so weynich herten <rhyme label="b" type="f">rustet</rhyme>:</l>
+        <l id="s3:l4" met="3" type="-+">Dat sy van herten <rhyme label="a" type="m" corresp="#s3:l1">seer</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Van sijn Lofsang loopen <rhyme label="a" type="m" corresp="#s3:l1">veer</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Haer Ziele daer niet na <rhyme label="b" type="f" corresp="#s3:l3">lustet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

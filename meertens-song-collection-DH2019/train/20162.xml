@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20162</id>
+    <date>
+      <year-start>1647</year-start>
+      <year-end>1647</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>C'est trop courir les eaux</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">WAnneer het Dachje <rhyme label="a" type="m">dealt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Mijn Vee seer treurig <rhyme label="a" type="m" corresp="#s1:l1">dwaelt</rhyme>:</l>
+        <l id="s1:l3" met="6" type="-+">Dan strekt mijn droeve geest tot mijne <rhyme label="b" type="m">Herderin</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Die haer af-keerigh hout van mijn stantvaste <rhyme label="b" type="m" corresp="#s1:l3">Min</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Al kom ik voor haer <rhyme label="a" type="m">deur</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">En sucht, en klaegh, en <rhyme label="a" type="m" corresp="#s2:l1">treur</rhyme>,</l>
+        <l id="s2:l3" met="6" type="-+">En bid, en smeek, en ween: noyt kan haer harde <rhyme label="b" type="m">hert</rhyme></l>
+        <l id="s2:l4" met="6" type="-+">Tot my genegen zijn, hoe s’ ook gebeden <rhyme label="b" type="m" corresp="#s2:l3">wert</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Al klaeg ik klacht op <rhyme label="a" type="m">klacht</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">By Avont, of by <rhyme label="a" type="m" corresp="#s3:l1">Nacht</rhyme>,</l>
+        <l id="s3:l3" met="6" type="-+">By Morgen, of Daeg, en klare <rhyme label="b" type="m">Sonne-schijn</rhyme>;</l>
+        <l id="s3:l4" met="6" type="-+">En wil sy even-wel niet mijn beminde <rhyme label="b" type="m" corresp="#s3:l3">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Ach! mijne droeve <rhyme label="a" type="m">geest</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Die noyt en zijt <rhyme label="a" type="m" corresp="#s4:l1">geweest</rhyme></l>
+        <l id="s4:l3" met="6" type="-+">Van u Meest’res verlicht, waer sal ik met u <rhyme label="b" type="m">heen</rhyme></l>
+        <l id="s4:l4" met="6" type="-+">Die voor u menighmael gesmeekt heb, en <rhyme label="b" type="m" corresp="#s4:l3">gebe’en</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Sal ik dan al mijn <rhyme label="a" type="m">tijdt</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Die ik om u <rhyme label="a" type="m" corresp="#s5:l1">verslijt</rhyme>,</l>
+        <l id="s5:l3" met="6" type="-+">Bestadigh zijn gequelt: soo wensch ik dat de <rhyme label="b" type="m">doot</rhyme></l>
+        <l id="s5:l4" met="6" type="-+">My haest verrassen komt uyt dese groote <rhyme label="b" type="m" corresp="#s5:l3">noot</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

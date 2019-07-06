@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12012</id>
+    <date>
+      <year-start>1648</year-start>
+      <year-end>1648</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="morgenlied" translation="morning song">morgenlied</tag>
+      <tag standard-name="danklied" translation="gratitude song">danklied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Gezwinde bode van de min</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Cornelis de Leeuw</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DE nacht haer swarte sluyer <rhyme label="a" type="m">heeft</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">Van haer hooft <rhyme label="b" type="m">geleyt</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Het Morgen-root nu weder <rhyme label="a" type="m" corresp="#s1:l1">geeft</rhyme></l>
+        <l id="s1:l4" met="3" type="+-">Goude <rhyme label="b" type="m" corresp="#s1:l2">heerlijckheyt</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">En de ster die ons <rhyme label="c" type="m">weckt</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Uyt den slaep, we'er <rhyme label="c" type="m" corresp="#s1:l5">vertreckt</rhyme></l>
+        <l id="s1:l7" met="1" type="-+">Door 't <rhyme label="d" type="m">licht</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Van 's Hemelsch <rhyme label="d" type="m" corresp="#s1:l7">aengesicht</rhyme>.</l>
+        <l id="s1:l9" met="3" type="+-">En het <rhyme label="e" type="m">pluym-gediert</rhyme></l>
+        <l id="s1:l10" met="3" type="+-">Aerdig <rhyme label="e" type="m" corresp="#s1:l9">tiereliert</rhyme>,</l>
+        <l id="s1:l11" met="3" type="+-">Door het bosch en <rhyme label="f" type="m">velt</rhyme>,</l>
+        <l id="s1:l12" met="4" type="+-">En haer danckbaerheyt <rhyme label="f" type="m" corresp="#s1:l11">vermelt</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Komt laet ons alle voor den <rhyme label="a" type="m">Throon</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">Van den Hooghsten <rhyme label="b" type="m">Heer</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En voor sijn een-ghebooren <rhyme label="a" type="m" corresp="#s2:l1">Soon</rhyme>,</l>
+        <l id="s2:l4" met="3" type="+-">Danckbaer vallen <rhyme label="b" type="m" corresp="#s2:l2">ne'er</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">Gheeft hem loff voor het <rhyme label="c" type="m">goet</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Dat hy de'e en noch <rhyme label="c" type="m" corresp="#s2:l5">doet</rhyme></l>
+        <l id="s2:l7" met="1" type="-+">Door <rhyme label="d" type="m">kracht</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">U lijff en ziel by <rhyme label="d" type="m" corresp="#s2:l7">nacht</rhyme>.</l>
+        <l id="s2:l9" met="3" type="+-">Hy heeft u <rhyme label="e" type="m">bevrijt</rhyme></l>
+        <l id="s2:l10" met="3" type="+-">Van des Duyvelsch <rhyme label="e" type="m" corresp="#s2:l9">strijt</rhyme>,</l>
+        <l id="s2:l11" met="3" type="+-">En voor alle <rhyme label="f" type="m">noot</rhyme>.</l>
+        <l id="s2:l12" met="4" type="+-">En voor een onsal'ghe <rhyme label="f" type="m" corresp="#s2:l11">doodt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ghy laet my met een lichaem <rhyme label="a" type="m">fris</rhyme>,</l>
+        <l id="s3:l2" met="3" type="+-">Of ghesonde <rhyme label="b" type="m">le'en</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Verrijsen uyt de <rhyme label="a" type="m" corresp="#s3:l1">duysternis</rhyme>;</l>
+        <l id="s3:l4" met="3" type="+-">En de aerd <rhyme label="b" type="m" corresp="#s3:l2">betreen</rhyme>.</l>
+        <l id="s3:l5" met="3" type="-+">Blijft o! Godt, staegh by <rhyme label="c" type="m">my</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Door u Gheest, hout my <rhyme label="c" type="m" corresp="#s3:l5">vry</rhyme></l>
+        <l id="s3:l7" met="1" type="-+">Van 't <rhyme label="d" type="m">quaet</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Dat ziel en lichaem <rhyme label="d" type="m" corresp="#s3:l7">schaet</rhyme>.</l>
+        <l id="s3:l9" met="3" type="+-">My voor <rhyme label="e" type="m">ongheluck</rhyme></l>
+        <l id="s3:l10" met="3" type="+-">En voor alle <rhyme label="e" type="m" corresp="#s3:l9">druck</rhyme></l>
+        <l id="s3:l11" met="3" type="+-">Door u gunst <rhyme label="f" type="m">bewaert</rhyme>;</l>
+        <l id="s3:l12" met="4" type="+-">En voor al wat 't hert <rhyme label="f" type="m" corresp="#s3:l11">beswaert</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Bedwingh mijn tongh, maeck dat sy <rhyme label="a" type="m">niet</rhyme></l>
+        <l id="s4:l2" met="3" type="+-">Onghereghelt <rhyme label="b" type="m">spreeckt</rhyme>.</l>
+        <l id="s4:l3" met="4" type="-+">Gheeff, dat mijn ooghe niet en <rhyme label="a" type="m" corresp="#s4:l1">siet</rhyme></l>
+        <l id="s4:l4" met="3" type="+-">Dat mijn kuyscheyt <rhyme label="b" type="m" corresp="#s4:l2">breeckt</rhyme>.</l>
+        <l id="s4:l5" met="3" type="-+">Houdt altijt sin en <rhyme label="c" type="m">hert</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">In 't Ghelooff, en <rhyme label="c" type="m" corresp="#s4:l5">ververt</rhyme></l>
+        <l id="s4:l7" met="1" type="-+">Van <rhyme label="d" type="m">sond</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Die ghy haet in den <rhyme label="d" type="m" corresp="#s4:l7">grond</rhyme>.</l>
+        <l id="s4:l9" met="3" type="+-">Gheeft my kloeck <rhyme label="e" type="m">verstant</rhyme>.</l>
+        <l id="s4:l10" met="3" type="+-">In my kloeckheyt <rhyme label="e" type="m" corresp="#s4:l9">plant</rhyme>.</l>
+        <l id="s4:l11" met="3" type="+-">Gheeff my <rhyme label="f" type="m">lijtsaemheydt</rhyme>,</l>
+        <l id="s4:l12" met="4" type="+-">En daer toe <rhyme label="f" type="m" corresp="#s4:l11">ghenoeghsaemheydt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Vergheeft my het bedreven <rhyme label="a" type="m">quaet</rhyme></l>
+        <l id="s5:l2" met="3" type="+-">Teghen u <rhyme label="b" type="m">misdaen</rhyme>.</l>
+        <l id="s5:l3" met="4" type="-+">My door u goeden Gheest <rhyme label="a" type="m" corresp="#s5:l1">bystaet</rhyme>.</l>
+        <l id="s5:l4" met="3" type="+-">Leert my wijs'lijck <rhyme label="b" type="m" corresp="#s5:l2">gaen</rhyme>.</l>
+        <l id="s5:l5" met="3" type="-+">Satans list my <rhyme label="c" type="m">ontdeck</rhyme>.</l>
+        <l id="s5:l6" met="3" type="-+">d' Overhant in <rhyme label="c" type="m" corresp="#s5:l5">ghebreck</rhyme></l>
+        <l id="s5:l7" met="1" type="-+">My <rhyme label="d" type="m">gheeff</rhyme>.</l>
+        <l id="s5:l8" met="3" type="-+">Maeck dat ick stadigh <rhyme label="d" type="m" corresp="#s5:l7">leeff</rhyme></l>
+        <l id="s5:l9" met="3" type="+-">Nae u Heyligh <rhyme label="e" type="m">woort</rhyme>.</l>
+        <l id="s5:l10" met="3" type="+-">Wilt my helpen <rhyme label="e" type="m" corresp="#s5:l9">voort</rhyme></l>
+        <l id="s5:l11" met="3" type="+-">Aen u <rhyme label="f" type="m">saligheydt</rhyme>:</l>
+        <l id="s5:l12" met="4" type="+-">Op de liefde <rhyme label="f" type="m" corresp="#s5:l11">toegheseyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

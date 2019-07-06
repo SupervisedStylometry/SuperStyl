@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3836</id>
+    <date>
+      <year-start>1582</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Heer wie zal hebben zijn woning</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Hans de Ries</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">HEere wie sal hebben † syn <rhyme label="a" type="m">woone</rhyme>,</l>
+        <l id="s1:l2" met="5" type="+-">In uwen Tabernakel <rhyme label="a" type="m" corresp="#s1:l1">schoone</rhyme>,</l>
+        <l id="s1:l3" met="5" type="+-">Wie sal op uwen heylghen berch <rhyme label="b" type="m">reyn</rhyme>,</l>
+        <l id="s1:l4" met="5" type="+-">Alle tijdt by v blijuen <rhyme label="b" type="m" corresp="#s1:l3">ghemeyn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Die sonder smette hier in gaet <rhyme label="a" type="m">slecht</rhyme></l>
+        <l id="s2:l2" met="5" type="+-">Die tquade laet ende doet het <rhyme label="a" type="m" corresp="#s2:l1">recht</rhyme></l>
+        <l id="s2:l3" met="5" type="+-">Wie die reyn waerheyt tot <rhyme label="b" type="m">aldertijt</rhyme></l>
+        <l id="s2:l4" met="5" type="+-">Van herten spreecket ende <rhyme label="b" type="m" corresp="#s2:l3">belijt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">Wie al hier met zijn tonghe <rhyme label="a" type="m">onsoet</rhyme></l>
+        <l id="s3:l2" met="5" type="+-">Niet en achterclapt noch oock <rhyme label="a" type="m" corresp="#s3:l1">onvroet</rhyme></l>
+        <l id="s3:l3" met="5" type="+-">Sijnen naesten en doet leet oft <rhyme label="b" type="m">quaet</rhyme></l>
+        <l id="s3:l4" met="5" type="+-">Noch hem met eenighen smaet <rhyme label="b" type="m" corresp="#s3:l3">belaet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="+-">Die hier den Godtloosen <rhyme label="a" type="m">mispresen</rhyme></l>
+        <l id="s4:l2" met="5" type="+-">Veracht en eert die den Heere <rhyme label="a" type="m" corresp="#s4:l1">vreesen</rhyme></l>
+        <l id="s4:l3" met="5" type="+-">Die synen naesten trouwlijck <rhyme label="b" type="m">voldoet</rhyme></l>
+        <l id="s4:l4" met="5" type="+-">Al zijn beloften snel metter <rhyme label="b" type="m" corresp="#s4:l3">spoet</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="+-">† Wie zijn gheldt niet op woecker en <rhyme label="a" type="m">gheeft</rhyme></l>
+        <l id="s5:l2" met="5" type="+-">En ouer hem die ontschuldich <rhyme label="a" type="m" corresp="#s5:l1">leeft</rhyme></l>
+        <l id="s5:l3" met="5" type="+-">† Hem niet en laet gheschencken <rhyme label="b" type="m">gheuen</rhyme></l>
+        <l id="s5:l4" met="5" type="+-">Wie dit doet siet die sal wel <rhyme label="b" type="m" corresp="#s5:l3">leuen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

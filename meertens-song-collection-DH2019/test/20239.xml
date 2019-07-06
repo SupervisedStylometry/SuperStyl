@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20239</id>
+    <date>
+      <year-start>1612</year-start>
+      <year-end>1612</year-end>
+    </date>
+    <location>
+      <orginal-name>franeker</orginal-name>
+      <standard-name>Franeker</standard-name>
+      <coordinates>
+        <lon>53.1904513</lon>
+        <lat>5.5417414</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Windje daar het bos af drilt</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Wackere Nymphe bruyne// <rhyme label="a" type="m">maegt</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Die hier inde duyne// <rhyme label="a" type="m" corresp="#s1:l1">jaeght</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Herten, k’nijnen// siet <rhyme label="b" type="f">verdwijnen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">V Herder en trouwe// <rhyme label="c" type="m">knecht</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Die om u in veel rouwe// <rhyme label="c" type="m" corresp="#s1:l4">lecht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Nummermeer wort ghy’t lopen// <rhyme label="a" type="m">moe</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Dies ick niet als hopen// <rhyme label="a" type="m" corresp="#s2:l1">doe</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Dat ghy g’nieten// t’wilt mocht <rhyme label="b" type="f">schieten</rhyme>:</l>
+        <l id="s2:l4" met="4" type="+-">Daer ghy nae met crachten// <rhyme label="c" type="m">spoort</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Dat ghy niet eens mijn clachten <rhyme label="c" type="m" corresp="#s2:l4">hoort</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Wat vlucht ghy soo verbolgen?// <rhyme label="a" type="m">van</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Die u toch niet volghen// <rhyme label="a" type="m" corresp="#s3:l1">can</rhyme>:</l>
+        <l id="s3:l3" met="4" type="+-">Want de wonden// <rhyme label="b" type="f">onverbonden</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Die ick in mijn herte// <rhyme label="c" type="m">draegh</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Maken my door veel smerte// <rhyme label="c" type="m" corresp="#s3:l4">traegh</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Als ick u soo sie vluchten// <rhyme label="a" type="m">heen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Dan gae ick met suchten// <rhyme label="a" type="m" corresp="#s4:l1">treen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Tot de bomen// en de <rhyme label="b" type="f">stromen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Die ick met een truerich// <rhyme label="c" type="m">hert</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">Claghe mijn lang-geduerich// <rhyme label="c" type="m" corresp="#s4:l4">smert</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Sullen de bomen, vlieten// <rhyme label="a" type="m">claer</rhyme></l>
+        <l id="s5:l2" met="4" type="+-">Blusschen mijn verdrieten// <rhyme label="a" type="m" corresp="#s5:l1">swaer</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">En my t’leven// weder <rhyme label="b" type="f">gheven</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Dat de min my rovich// <rhyme label="c" type="m">schaekt</rhyme>:</l>
+        <l id="s5:l5" met="4" type="+-">Vreese my onghelovich// <rhyme label="c" type="m" corresp="#s5:l4">maeckt</rhyme>,</l>
+      </lg>
+    </lg>
+  </text>
+</song>

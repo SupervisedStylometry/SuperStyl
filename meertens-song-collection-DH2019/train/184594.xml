@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184594</id>
+    <date>
+      <year-start>1740</year-start>
+      <year-end>1740</year-end>
+    </date>
+    <location>
+      <orginal-name>leuven</orginal-name>
+      <standard-name>Leuven, Belgium</standard-name>
+      <coordinates>
+        <lon>50.879202</lon>
+        <lat>4.7011675</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Vlucht winter wil ons zoet weer geven</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">GOdt Schepper, doet my uw' liefde <rhyme label="a" type="f">trecken</rhyme>,</l>
+        <l id="s1:l2" met="5" type="+-">Komt myn tongh' tot uwen Lof <rhyme label="a" type="f" corresp="#s1:l1">verwecken</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Dat ick nacht en <rhyme label="b" type="m">dagh</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Van uw lof singen <rhyme label="b" type="m" corresp="#s1:l3">magh</rhyme>.</l>
+        <l id="s1:l5" met="5" type="+-">Laet myn hert niet anders oyt <rhyme label="c" type="f">verlangen</rhyme></l>
+        <l id="s1:l6" met="5" type="+-">Als om naer-te-volgen d'Engels <rhyme label="c" type="f" corresp="#s1:l5">sangen</rhyme>:</l>
+        <l id="s1:l7" met="2" type="+-">Uyt myn <rhyme label="d" type="m">mondt</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Wegh ydel sangh <rhyme label="d" type="m" corresp="#s1:l7">terstondt</rhyme>,</l>
+        <l id="s1:l9" met="2" type="-+">Van't hooghste <rhyme label="e" type="m">goet</rhyme></l>
+        <l id="s1:l10" met="2" type="-+">Ick singen <rhyme label="e" type="m" corresp="#s1:l9">moet</rhyme>,</l>
+        <l id="s1:l11" met="3" type="+-">Waer voor alleen wy <rhyme label="f" type="f">leven</rhyme>:</l>
+        <l id="s1:l12" met="5" type="+-">Godt, tot u alleen wordt ick <rhyme label="f" type="f" corresp="#s1:l11">gedreven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

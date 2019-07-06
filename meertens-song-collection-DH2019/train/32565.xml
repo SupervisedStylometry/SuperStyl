@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32565</id>
+    <date>
+      <year-start>1667</year-start>
+      <year-end>1667</year-end>
+    </date>
+    <location>
+      <orginal-name>mechelen</orginal-name>
+      <standard-name>Mechelen, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0281381</lon>
+        <lat>4.4803453</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GY siet hoe over al de <rhyme label="a" type="m">straet</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Is wit door sneeuwe <rhyme label="b" type="f">vlocken</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">En hoemen niet te werck en <rhyme label="a" type="m" corresp="#s1:l1">gaet</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En niet en hoeft te <rhyme label="b" type="f" corresp="#s1:l2">blocken</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Want ons lichaem dat is, en <rhyme label="c" type="m">blijft</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Door desen kauden vorst <rhyme label="c" type="m" corresp="#s1:l5">verstyft</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Verjaeght de koude vanden <rhyme label="a" type="m">haert</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Met lustigh op te <rhyme label="b" type="f">stoken</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Voor vriendē dient geen broot <rhyme label="a" type="m" corresp="#s2:l1">gespaert</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Dus haelt hier inde <rhyme label="b" type="f" corresp="#s2:l2">koken</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Een kanneken van 't rynste <rhyme label="c" type="m">nat</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Uyt 't beste Baccheraetse <rhyme label="c" type="m" corresp="#s2:l5">vat</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Beveelt den goeden Godt de <rhyme label="a" type="m">rest</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Die 't alles wel sal <rhyme label="b" type="f">voegen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">En die alleen weet <rhyme label="a" type="m" corresp="#s3:l1">alderbest</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Wat jder kan <rhyme label="b" type="f" corresp="#s3:l2">vernoeghen</rhyme>;</l>
+        <l id="s3:l5" met="4" type="-+">Hy weet dat wy maer soecken <rhyme label="c" type="m">rust</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Daer ons hert is nae <rhyme label="c" type="m" corresp="#s3:l5">belust</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Terwyl u jeught noch niet <rhyme label="a" type="m">veraut</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">En u de gryse <rhyme label="b" type="f">haeren</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Niet maecken heel styff, en <rhyme label="a" type="m" corresp="#s4:l1">kaut</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Gebruyckt u jonge <rhyme label="b" type="f" corresp="#s4:l2">jaeren</rhyme>;</l>
+        <l id="s4:l5" met="4" type="-+">Geen beter medicyn u <rhyme label="c" type="m">dint</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Genesen als de lieve <rhyme label="c" type="m" corresp="#s4:l5">Pint</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Terwyl het ons gebeuren <rhyme label="a" type="m">magh</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Soo laet ons vry wat <rhyme label="b" type="f">mallen</rhyme>;</l>
+        <l id="s5:l3" met="4" type="-+">Want licht kan komen sulcken <rhyme label="a" type="m" corresp="#s5:l1">dagh</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Dat 't niet sou willen <rhyme label="b" type="f" corresp="#s5:l2">vallen</rhyme>.</l>
+        <l id="s5:l5" met="4" type="-+">En machmen 't mallen niet <rhyme label="c" type="m">ontgaen</rhyme>,</l>
+        <l id="s5:l6" met="4" type="-+">Soo ist beter jonck als aut <rhyme label="c" type="m" corresp="#s5:l5">gedaen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

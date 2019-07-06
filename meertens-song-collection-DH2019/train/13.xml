@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
+    </tags>
+    <melody>Lofzang van Maria</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">WAer doolje soete <rhyme label="a" type="m">Schaep</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">En laet u <rhyme label="a" type="m" corresp="#s1:l1">Herders-Knaep</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">In droevige <rhyme label="b" type="f">gepeynsen</rhyme>:</l>
+        <l id="s1:l4" met="3" type="-+">Of Schaepjen dat ick <rhyme label="c" type="m">vant</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Most sijn mijn <rhyme label="c" type="m" corresp="#s1:l4">Bellarand'</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Dan sou mijn vreucht Son <rhyme label="b" type="f" corresp="#s1:l3">rijsen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ay jeugdigh pluym <rhyme label="a" type="m">gediert</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Hoe legje dus en <rhyme label="a" type="m" corresp="#s2:l1">tiert</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Ey kunt my niet <rhyme label="b" type="f">vermaken</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Of 't Schaepjen dat ick <rhyme label="c" type="m">vant</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Most sijn mijn <rhyme label="c" type="m" corresp="#s2:l4">Bellarant</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Na wiens by sijn ick <rhyme label="b" type="f" corresp="#s2:l3">hake</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Deck Phebe, deck u <rhyme label="a" type="m">Sael</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">U schitterend' <rhyme label="a" type="m" corresp="#s3:l1">gestrael</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Can 't Hertje niet <rhyme label="b" type="f">verblijen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Of 't Schaepjen dat ick <rhyme label="c" type="m">van't</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Most sijn mijn <rhyme label="c" type="m" corresp="#s3:l4">Bellarant</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Dan seeg mijn druck ter <rhyme label="b" type="f" corresp="#s3:l3">sijen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Sou Bellarant wel <rhyme label="a" type="m">sijn</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">De heelster van mijn <rhyme label="a" type="m" corresp="#s4:l1">pijn</rhyme>.</l>
+        <l id="s4:l3" met="3" type="-+">Och jae 'k en kan niet <rhyme label="b" type="f">rusten</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Of 't Schaepjen dat ick van <rhyme label="c" type="m">'t</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Most sijn mijn <rhyme label="c" type="m" corresp="#s4:l4">Bellarant</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Het doel-wit van mijn <rhyme label="b" type="f" corresp="#s4:l3">lusten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

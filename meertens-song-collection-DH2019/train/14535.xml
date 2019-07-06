@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14535</id>
+    <date>
+      <year-start>1638</year-start>
+      <year-end>1638</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody>Jesu corona virginum</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Aegidius Haeffacker</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Gheboren van een Maget <rhyme label="a" type="m">schoon</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Die Godt gebaert heeft <rhyme label="a" type="m" corresp="#s1:l1">wonderlijck</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Hoort ons ghebedt <rhyme label="b" type="m">ghenadelijck</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Ghy weydt onder de <rhyme label="b" type="m" corresp="#s1:l3">lelikens</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Al-om betuynt met <rhyme label="a" type="m">Maeghdekens</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Een Bruydegom seer <rhyme label="a" type="m" corresp="#s2:l1">glorioos</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Uw' Bruydts verciert ghy <rhyme label="b" type="m">precioos</rhyme>.</l>
+        <l id="s2:l4" met="4" type="-+">Waer dat ghy gaet, de Maeghden <rhyme label="b" type="m" corresp="#s2:l3">wijs</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

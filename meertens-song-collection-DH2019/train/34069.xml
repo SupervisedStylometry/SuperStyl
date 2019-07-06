@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34069</id>
+    <date>
+      <year-start>1660</year-start>
+      <year-end>1660</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="paaslied" translation="Easter song">paaslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Peeter de Vleeschoudere</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">WEest hooghsten dagh ghegroet, geviert op allen <rhyme label="a" type="f">tyde</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Als God de helle won, en maeckte d'Hemels <rhyme label="a" type="f" corresp="#s1:l1">blyde</rhyme>.</l>
+        <l id="s1:l3" met="6" type="-+">Des werelds nieuwe jeughd be-tuyght nu door haer <rhyme label="b" type="m">vreughd</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Dat sy van haeren Heer' ont-faen heeft alle <rhyme label="b" type="m" corresp="#s1:l3">deughd</rhyme>:</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Want alle loof en kruyd ver-toonen hun bly <rhyme label="a" type="f">wesen</rhyme>,</l>
+        <l id="s2:l2" met="6" type="-+">Als Christus blinckende is van de dood <rhyme label="a" type="f" corresp="#s2:l1">ver-resen</rhyme>,</l>
+        <l id="s2:l3" met="6" type="-+">Locht, Hemel, Aerd, en Zee God loven <rhyme label="b" type="m">al-ghelyck</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Die winner van de hell' keert in zyn <rhyme label="b" type="m" corresp="#s2:l3">Hemel-ryck</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

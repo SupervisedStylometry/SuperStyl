@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20246</id>
+    <date>
+      <year-start>1612</year-start>
+      <year-end>1612</year-end>
+    </date>
+    <location>
+      <orginal-name>franeker</orginal-name>
+      <standard-name>Franeker</standard-name>
+      <coordinates>
+        <lon>53.1904513</lon>
+        <lat>5.5417414</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="meilied" translation="May song">meilied</tag>
+    </tags>
+    <melody>In een groot ongeluk ben ik geboren</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WIe zoud’ bedwingen// de lust van <rhyme label="a" type="f">singen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Insonderlinghen// nu t’groen <rhyme label="b" type="m">cruyt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">En alle dinghen// uyt d’aerde <rhyme label="a" type="f" corresp="#s1:l1">dringhen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Bloemkens voortbringhen// in s’ Meys <rhyme label="b" type="m" corresp="#s1:l2">virtuyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">De domme dieren// van vreuchde <rhyme label="a" type="f">gieren</rhyme>.</l>
+        <l id="s2:l2" met="4" type="-+">In ons quartieren// Hoortmen <rhyme label="b" type="m">t’gheluyt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Op veel manieren// sy <rhyme label="a" type="f" corresp="#s2:l1">tierelieren</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">En t’Hof vercieren// in s’Meys <rhyme label="b" type="m" corresp="#s2:l2">virtuyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ionck mans u kelen// laet lieflick <rhyme label="a" type="f">quelen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Op Herp, en Felen// Oft ander <rhyme label="b" type="m">fluyt</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Wilt voor u spelen// Een soentjen <rhyme label="a" type="f" corresp="#s3:l1">stelen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Sy sal’t wel helen// in s’Meys <rhyme label="b" type="m" corresp="#s3:l2">virtuyt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Toch int beluycken// gheen quaet te <rhyme label="a" type="f">suycken</rhyme>:</l>
+        <l id="s4:l2" met="4" type="-+">Maer eer ghebruycken// dat lof <rhyme label="b" type="m">beduyt</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">En van de struycken// geen rooskens <rhyme label="a" type="f" corresp="#s4:l1">pluycken</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Dan die wel ruycken// In s’Meys <rhyme label="b" type="m" corresp="#s4:l2">virtuyt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Of al u daghen// sult ghy’t <rhyme label="a" type="f">beclaghen</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Voor vriend en maghen// wesen <rhyme label="b" type="m">vermuyt</rhyme>:</l>
+        <l id="s5:l3" met="4" type="-+">Haer wilt raet vraghen// eer ghy’t gaet <rhyme label="a" type="f" corresp="#s5:l1">waghen</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Soo sal’t wel slaghen// in s’Meys <rhyme label="b" type="m" corresp="#s5:l2">virtuyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

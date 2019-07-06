@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20120</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Koker Janszen</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">t’ SA wilt vrolijk <rhyme label="a" type="f">quinkeleeren</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Speelnoots singt eens helder <rhyme label="b" type="m">uyt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Doch wilt eerst u keeltjes <rhyme label="a" type="f" corresp="#s1:l1">smeeren</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Met de traantjes van de <rhyme label="b" type="m" corresp="#s1:l2">Bruyt</rhyme>:</l>
+        <l id="s1:l5" met="2" type="+-">Hoe! <rhyme label="c" type="m">Bruyd’gom</rhyme>,</l>
+        <l id="s1:l6" met="2" type="+-">Denkjer <rhyme label="c" type="m" corresp="#s1:l5">om</rhyme>?</l>
+        <l id="s1:l7" met="4" type="+-">Ras! Gespeeltjes met een <rhyme label="d" type="m">zet</rhyme>,</l>
+        <l id="s1:l8" met="2" type="+-">Leyd’, met <rhyme label="e" type="f">vreugde</rhyme></l>
+        <l id="s1:l9" met="2" type="+-">En <rhyme label="e" type="f" corresp="#s1:l8">geneugde</rhyme></l>
+        <l id="s1:l10" met="4" type="+-">Te viervoet, de Bruid naar <rhyme label="d" type="m" corresp="#s1:l7">bed</rhyme>’.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

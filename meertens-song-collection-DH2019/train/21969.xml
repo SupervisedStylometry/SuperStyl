@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21969</id>
+    <date>
+      <year-start>1580</year-start>
+      <year-end>1580</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Lofzang van Simeon [Datheen]</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Philips van Marnix</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">LAet Heer van nu <rhyme label="a" type="m">voortaen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Dijn knecht in vreden <rhyme label="a" type="m" corresp="#s1:l1">gaen</rhyme>:</l>
+        <l id="s1:l3" met="3" type="-+">Na dynen woord' <rhyme label="b" type="f">warachtigh</rhyme>.</l>
+        <l id="s1:l4" met="3" type="-+">Die wyl' mijn oogh <rhyme label="c" type="m">verheugt</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Heeft  aenghesien met <rhyme label="c" type="m" corresp="#s1:l4">vreugt</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Dijn Heylant sterck end' <rhyme label="b" type="f" corresp="#s1:l3">machtigh</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Den heylant lang <rhyme label="a" type="m">verbeyt</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">End' klaerlijck <rhyme label="a" type="m" corresp="#s2:l1">voorbereyt</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Den volcken, vanden <rhyme label="b" type="f">Heere</rhyme>:</l>
+        <l id="s2:l4" met="3" type="-+">Een licht dat voorschijnt <rhyme label="c" type="m">klaer</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Den heydens <rhyme label="c" type="m" corresp="#s2:l4">allegaer</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Dijns volcks Israels <rhyme label="b" type="f" corresp="#s2:l3">eere</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>115347</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>alkmaar</orginal-name>
+      <standard-name>Alkmaar, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.6312592</lon>
+        <lat>4.7503798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Het gewas van het vlas en het weven dat</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Zyt welkom Bruyd’gom en Vrou <rhyme label="a" type="m">Bruydt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Welkom geheten <rhyme label="a" type="m" corresp="#s1:l1">overluydt</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Tot deser <rhyme label="b" type="m">stee</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En u geselschap <rhyme label="b" type="m" corresp="#s1:l3">mee</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ghy zijt gebonden met echten <rhyme label="a" type="m">bandt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Door ‘t geven van u <rhyme label="a" type="m" corresp="#s2:l1">rechterhant</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">Neemt waer ‘t <rhyme label="b" type="m">verbondt</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Gemaeckt met uwen <rhyme label="b" type="m" corresp="#s2:l3">mondt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Zijt lief u Man hooft <rhyme label="a" type="m">aengenaem</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">In ‘t goede altijdt <rhyme label="a" type="m" corresp="#s3:l1">gehoorsaem</rhyme>:</l>
+        <l id="s3:l3" met="2" type="-+">Bemindt dijn <rhyme label="b" type="m">Wijf</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Gelijck u eygen <rhyme label="b" type="m" corresp="#s3:l3">lijf</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">De liefde tusschen Man en <rhyme label="a" type="m">Wijf</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Is een belet van veel <rhyme label="a" type="m" corresp="#s4:l1">gekijf</rhyme>,</l>
+        <l id="s4:l3" met="2" type="-+">Volght voort schrift <rhyme label="b" type="m">na</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Van Abram en <rhyme label="b" type="m" corresp="#s4:l3">Sara</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Gheluck in deughdes <rhyme label="a" type="m">overvloedt</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Geluck u staet vermeeren <rhyme label="a" type="m" corresp="#s5:l1">moet</rhyme>,</l>
+        <l id="s5:l3" met="2" type="-+">Geluck en <rhyme label="b" type="m">vree</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Voor ‘t Jaer eynd’ een van <rhyme label="b" type="m" corresp="#s5:l3">twee</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

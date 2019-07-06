@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>9831</id>
+    <date>
+      <year-start>1627</year-start>
+      <year-end>1627</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Hij mag wel vrolijk wezen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">SIet hoe fijn, end' hoe lieflijck <rhyme label="a" type="f">mede</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Ende hoe ghenoechlijck <rhyme label="b" type="m">ist</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Dat Broederen in <rhyme label="a" type="f" corresp="#s1:l1">vrede</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Woonen met <rhyme label="a" type="f" corresp="#s1:l1">eendrachtichede</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">By malkanderen sonder <rhyme label="b" type="m" corresp="#s1:l2">twist</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">T'is ghelijck als de <rhyme label="a" type="f">vermaerde</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Balssem, kostelijck en <rhyme label="b" type="m">goet</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Die vloeyt als <rhyme label="a" type="f" corresp="#s2:l1">d'onghespaerde</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Vanden hoofde inden <rhyme label="a" type="f" corresp="#s2:l1">baerde</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Ia den baerdt van Aaron <rhyme label="b" type="m" corresp="#s2:l2">soet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Die daer van boven <rhyme label="a" type="f">verheven</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Tot in zijn kleedt <rhyme label="b" type="m">afvloeyt</rhyme>:</l>
+        <l id="s3:l3" met="4" type="+-">Ghelijck den dauw <rhyme label="a" type="f" corresp="#s3:l1">bekleven</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Die van Hermon daelt <rhyme label="a" type="f" corresp="#s3:l1">ghedreven</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">En de berghen Zyons <rhyme label="b" type="m" corresp="#s3:l2">besproeyt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Want de Heere <rhyme label="a" type="f">onversweghen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Die belooft te gheven <rhyme label="b" type="m">aldaer</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">Synen troostelijcken <rhyme label="a" type="f" corresp="#s4:l1">zeghen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">End' het leven al te <rhyme label="a" type="f" corresp="#s4:l1">deghen</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">In der eeuwichteyt <rhyme label="b" type="m" corresp="#s4:l2">eenpaer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

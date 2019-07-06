@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>163210</id>
+    <date>
+      <year-start>1671</year-start>
+      <year-end>1671</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>La marine</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">TWee Lief kens t’samen <rhyme label="a" type="f">minnen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">By Godt geacht wert <rhyme label="b" type="m">groot</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Sijn zeegen sullen <rhyme label="a" type="f" corresp="#s1:l1">winnen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Helpen malkaer in <rhyme label="b" type="m" corresp="#s1:l2">noot</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Soo Liefd’ met Deught <rhyme label="c" type="m">op-wast</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Op ‘s Heeren Wetten <rhyme label="c" type="m" corresp="#s1:l5">past</rhyme>,</l>
+        <l id="s1:l7" met="2" type="+-">Sal niet <rhyme label="d" type="f">klagen</rhyme></l>
+        <l id="s1:l8" met="2" type="+-">Van te <rhyme label="d" type="f" corresp="#s1:l7">dragen</rhyme></l>
+        <l id="s1:l9" met="2" type="+-">Swaren <rhyme label="c" type="m" corresp="#s1:l5">last</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ganineed schenckt <rhyme label="a" type="f">Wijnen</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Op soo waerden <rhyme label="b" type="m">bruylofs-feest</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Roemers, Fluyten, laet <rhyme label="a" type="f" corresp="#s2:l1">verschijnen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">‘t Schijnt hier niemant suft of <rhyme label="b" type="m" corresp="#s2:l2">vreest</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Wenschen dit nieuwe <rhyme label="c" type="m">Paer</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Sy mogen binnen ‘t <rhyme label="c" type="m" corresp="#s2:l5">Iaer</rhyme></l>
+        <l id="s2:l7" met="2" type="+-">Spruytjes <rhyme label="d" type="f">teelen</rhyme>,</l>
+        <l id="s2:l8" met="2" type="+-">Hooren <rhyme label="d" type="f" corresp="#s2:l7">queelen</rhyme></l>
+        <l id="s2:l9" met="2" type="+-">Moer en <rhyme label="c" type="m" corresp="#s2:l5">Vaer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

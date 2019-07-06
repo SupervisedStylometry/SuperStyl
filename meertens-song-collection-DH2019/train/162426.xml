@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>162426</id>
+    <date>
+      <year-start>1718</year-start>
+      <year-end>1718</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>O Simon die nog fluks</melody>
+  <author>Govert van Mater</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">ó Simon die nog flus de onnozelheid uws <rhyme label="a" type="f">Heeren</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Zo yvrig woudt te hulpe <rhyme label="b" type="m">staan</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">En zynen Vyand tegen <rhyme label="b" type="m" corresp="#s1:l2">gaan</rhyme>!</l>
+        <l id="s1:l4" met="6" type="-+">Hoe! kunt ge nu u zelf nu 't tyd is niet <rhyme label="a" type="f" corresp="#s1:l1">verweeren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

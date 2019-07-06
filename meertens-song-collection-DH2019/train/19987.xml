@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19987</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Maman je ai bien à vous conter</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MAman I’ay bien à vous <rhyme label="a" type="m">conter</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Mais il ne faut pas <rhyme label="a" type="m" corresp="#s1:l1">sestonner</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Cest d’un garson le plus <rhyme label="b" type="m">parfait</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Que l’esprit se <rhyme label="c" type="f">propose</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Si je le possede en <rhyme label="b" type="m" corresp="#s1:l3">effect</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">De mon coeur il <rhyme label="c" type="f" corresp="#s1:l4">dispose</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ma Belle me dit il un <rhyme label="a" type="m">jour</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Tu vois ce Coeur remply <rhyme label="a" type="m" corresp="#s2:l1">d’amour</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">‘s Il Brusle pour ton seul <rhyme label="b" type="m">subject</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Il encherit la <rhyme label="c" type="f">cause</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Et bien Maman si je l’ay <rhyme label="b" type="m" corresp="#s2:l3">fait</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Ce n’est pas si grand <rhyme label="c" type="f" corresp="#s2:l4">chose</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Au reste il est fidel <rhyme label="a" type="m">amant</rhyme>;</l>
+        <l id="s3:l2" met="4" type="-+">Il n’ayme poynt le <rhyme label="a" type="m" corresp="#s3:l1">changement</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Il scait bien garder le <rhyme label="b" type="m">secret</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Ie ne crains pas quil <rhyme label="c" type="f">cause</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Si je possede en <rhyme label="b" type="m" corresp="#s3:l3">effect</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Il en cherit la <rhyme label="c" type="f" corresp="#s3:l4">cause</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">En fin sans vous <rhyme label="a" type="m">dissimuler</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Il me scait si bien en <rhyme label="a" type="m" corresp="#s4:l1">geoller</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Que je luy donne en <rhyme label="b" type="m">effect</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Ce que dire je <rhyme label="c" type="f">n’oze</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Et bien Maman pour l’avoir <rhyme label="b" type="m" corresp="#s4:l3">fait</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Ce n’est pas si grand <rhyme label="c" type="f" corresp="#s4:l4">chose</rhyme>,</l>
+      </lg>
+    </lg>
+  </text>
+</song>

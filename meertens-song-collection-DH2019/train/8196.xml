@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8196</id>
+    <date>
+      <year-start>1678</year-start>
+      <year-end>1678</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Pier is in de hemel</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">KOm mijn soete <rhyme label="a" type="f">Antje</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Ey kom by myn een <rhyme label="b" type="m">reys</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Praat ick te veel uyt 't <rhyme label="a" type="f" corresp="#s1:l1">mantje</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Het gaat niet in het <rhyme label="b" type="m" corresp="#s1:l2">vleys</rhyme>;</l>
+        <l id="s1:l5" met="3" type="-+">Ey geeft myn doch een <rhyme label="c" type="f">kusje</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Kom hier Menniste <rhyme label="c" type="f" corresp="#s1:l5">Susje</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Voldoet doch myne <rhyme label="b" type="m" corresp="#s1:l2">eysch</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Wy moeten t' samen <rhyme label="a" type="f">drincken</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Een glaasje Rinsche <rhyme label="b" type="m">wyn</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">De kanne moeter <rhyme label="a" type="f" corresp="#s2:l1">klincken</rhyme>;</l>
+        <l id="s2:l4" met="3" type="-+">Za wilt dan <rhyme label="b" type="m" corresp="#s2:l2">vroolick</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">Laat ons te samen <rhyme label="c" type="f">woelen</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">En onse brand <rhyme label="c" type="f" corresp="#s2:l5">verkoelen</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Tot uytkomst van ons <rhyme label="b" type="m" corresp="#s2:l2">pyn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

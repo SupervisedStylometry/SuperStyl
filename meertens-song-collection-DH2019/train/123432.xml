@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>123432</id>
+    <date>
+      <year-start>1717</year-start>
+      <year-end>1717</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+    </tags>
+    <melody>De meeste mannen die men ziet</melody>
+    <categories>
+      <category translation="theatre">theater</category>
+    </categories>
+  <author>Andries Pels</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">De meeste Mannen die men <rhyme label="a" type="m">ziet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Deugen wel de héllift <rhyme label="a" type="m" corresp="#s1:l1">niet</rhyme>.</l>
+        <l id="s1:l3" met="4" type="+-">Laat ze als Kie-vits eiren <rhyme label="b" type="f">zinken</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">In een sloot óf in een <rhyme label="c" type="m">vliet</rhyme>;</l>
+        <l id="s1:l5" met="4" type="+-">Och! hoe mee-nig zal 'er <rhyme label="b" type="f" corresp="#s1:l3">stinken</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Zo men ze een, voor een, <rhyme label="c" type="m" corresp="#s1:l4">beziet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

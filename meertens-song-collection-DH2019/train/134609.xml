@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>134609</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>alkmaar</orginal-name>
+      <standard-name>Alkmaar, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.6312592</lon>
+        <lat>4.7503798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Laet ons, laet ons, laet ons nu vrolijck <rhyme label="a" type="m">zijn</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Laet droefheydt varen en druck op dit <rhyme label="a" type="m" corresp="#s1:l1">termijn</rhyme>:</l>
+        <l id="s1:l3" met="2" type="-+">Die ‘t Water <rhyme label="b" type="f">maeckte</rhyme></l>
+        <l id="s1:l4" met="3" type="+-">Wijn die lieflijck <rhyme label="b" type="f" corresp="#s1:l3">smaeckte</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Heeft selfs ‘t Huw’lijck <rhyme label="c" type="m">playsant</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Christus <rhyme label="c" type="m" corresp="#s1:l5">geplant</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Speelnoots ter beyde zijden komt her <rhyme label="a" type="m">voort</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Zijt openhertigh, toont u soo ‘t <rhyme label="a" type="m" corresp="#s2:l1">behoort</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Singht <rhyme label="b" type="f">Bruylofts-dichten</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">Die ‘t geselschap <rhyme label="b" type="f" corresp="#s2:l3">stichten</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Weest vroolijck in goede <rhyme label="c" type="m">chier</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Na de <rhyme label="c" type="m" corresp="#s2:l5">manier</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">U vrolijckheden laet die zijn <rhyme label="a" type="m">gemenght</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Met matigheden, d’eerbaerheyt niet <rhyme label="a" type="m" corresp="#s3:l1">krenckt</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">Dan sult ghy <rhyme label="b" type="f">wesen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="+-">d’eere die <rhyme label="b" type="f" corresp="#s3:l3">gepresen</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Van u wort af <rhyme label="c" type="m">ge-eest</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">In deser <rhyme label="c" type="m" corresp="#s3:l5">Feest</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Prince Jongh-paer, oock vrolijckt zijt <rhyme label="a" type="m">gesint</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">U staet eerbaer, is die u t’samen <rhyme label="a" type="m" corresp="#s4:l1">bindt</rhyme>,</l>
+        <l id="s4:l3" met="2" type="-+">Wandelt met <rhyme label="b" type="f">eeren</rhyme>,</l>
+        <l id="s4:l4" met="3" type="+-">in de vrees des <rhyme label="b" type="f" corresp="#s4:l3">Heeren</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">En u Olijf-spruytkens <rhyme label="c" type="m">soet</rhyme>,</l>
+        <l id="s4:l6" met="2" type="-+">Daer in <rhyme label="c" type="m" corresp="#s4:l5">opvoedt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

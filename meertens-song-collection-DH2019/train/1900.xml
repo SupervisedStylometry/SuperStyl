@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1900</id>
+    <date>
+      <year-start>1615</year-start>
+      <year-end>1615</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Cupido geef mij raad</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O Schoon Goddinne <rhyme label="a" type="m">schoon</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Ghy doet my sterven <rhyme label="b" type="f">leeren</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Helaes voor liefdens <rhyme label="a" type="m" corresp="#s1:l1">loon</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Gaet ghy mijn smert <rhyme label="b" type="f" corresp="#s1:l2">vermeeren</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Aen vvien gantsch gheenen <rhyme label="c" type="m">raedt</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Komt ghy mijn niet te <rhyme label="c" type="m" corresp="#s1:l5">baet</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Soo sal in korten <rhyme label="d" type="m">stondt</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Mijn vreucht in druck <rhyme label="b" type="f" corresp="#s1:l2">verkeeren</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Den gantschen dach en <rhyme label="a" type="m">nacht</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">En doen ick niet dan <rhyme label="b" type="f">klaghen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">My dunckt de Svvaen ick <rhyme label="a" type="m" corresp="#s2:l1">slacht</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Die stervend’ gaet <rhyme label="b" type="f" corresp="#s2:l2">ghevvaghen</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Bedroeft een danckich <rhyme label="c" type="m">liedt</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Tot teecken van <rhyme label="c" type="m" corresp="#s2:l5">verdriet</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">En dat misdien ick <rhyme label="d" type="m">moet</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Alleen dit lijden <rhyme label="b" type="f" corresp="#s2:l2">draghen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">De heldre Son en <rhyme label="a" type="m">Maen</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">De lichte fackels <rhyme label="b" type="f">blondich</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Met droefheyt zijn <rhyme label="a" type="m" corresp="#s3:l1">belaen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Door ’t lijden svvaer <rhyme label="b" type="f" corresp="#s3:l2">hertvvondich</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Dat ick steedts draghen <rhyme label="c" type="m">moet</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Door Venus brandt en <rhyme label="c" type="m" corresp="#s3:l5">gloet</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">En ghy Goddinne <rhyme label="d" type="m">vvreedt</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Thoont my gheen vveerliefd <rhyme label="b" type="f" corresp="#s3:l2">bondich</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Och waerom vvilt ghy <rhyme label="a" type="m">niet</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Mijn uytverkoren <rhyme label="b" type="f">vrouvve</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">My helpen uyt ’t <rhyme label="a" type="m" corresp="#s4:l1">verdriet</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">En schenken my u <rhyme label="b" type="f" corresp="#s4:l2">trouvve</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Ghy dertel lonckend <rhyme label="c" type="m">dier</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Blust Venus vonckich <rhyme label="c" type="m" corresp="#s4:l5">vyer</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Helpt my uyt desen <rhyme label="d" type="m">noodt</rhyme>,</l>
+        <l id="s4:l8" met="3" type="-+">Of ’t herte berst van <rhyme label="b" type="f" corresp="#s4:l2">rouvve</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Mijn suchten en <rhyme label="a" type="m">gheschrey</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">’T ghedierte doet <rhyme label="b" type="f">erbarmen</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">VViens klanck in des <rhyme label="a" type="m" corresp="#s5:l1">contrey</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Gheeft Echo van mijn <rhyme label="b" type="f" corresp="#s5:l2">darmen</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">De beken ruysschen <rhyme label="c" type="m">klaer</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Oock door mijn groot <rhyme label="c" type="m" corresp="#s5:l5">misbaer</rhyme>,</l>
+        <l id="s5:l7" met="3" type="-+">Voort brenghen sulcken <rhyme label="d" type="m">voys</rhyme></l>
+        <l id="s5:l8" met="3" type="-+">Dat yeder mach <rhyme label="b" type="f" corresp="#s5:l2">ontfarmen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Ick bid u schoon <rhyme label="a" type="m">Princes</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Voor druck my vreucht vvilt <rhyme label="b" type="f">schencken</rhyme>,</l>
+        <l id="s6:l3" met="3" type="-+">VVie ’t lijdens oorsaeck <rhyme label="a" type="m" corresp="#s6:l1">is</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Kont ghy Godin <rhyme label="b" type="f" corresp="#s6:l2">bedencken</rhyme>,</l>
+        <l id="s6:l5" met="3" type="-+">Thoont my doch u <rhyme label="c" type="m">ghena</rhyme></l>
+        <l id="s6:l6" met="3" type="-+">Schoon lief eert valt te <rhyme label="c" type="m" corresp="#s6:l5">spa</rhyme>,</l>
+        <l id="s6:l7" met="3" type="-+">Eer dat de vvreede <rhyme label="d" type="m">doodt</rhyme></l>
+        <l id="s6:l8" met="3" type="-+">Mijn lichaem dan komt <rhyme label="b" type="f" corresp="#s6:l2">drencken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

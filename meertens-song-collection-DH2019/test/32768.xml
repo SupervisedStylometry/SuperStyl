@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32768</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="paaslied" translation="Easter song">paaslied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O Wonderlijcke <rhyme label="a" type="m">daet</rhyme>?</l>
+        <l id="s1:l2" met="3" type="-+">Waer door des vijandts <rhyme label="a" type="m" corresp="#s1:l1">saet</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">Verplettert leydt, en gans te neer <rhyme label="b" type="m">ghevelt</rhyme>:</l>
+        <l id="s1:l4" met="3" type="-+">Want Christus heeft de <rhyme label="c" type="m">doodt</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">En haren <rhyme label="c" type="m" corresp="#s1:l4">teghen-stoot</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Doen buyghen met <rhyme label="b" type="m" corresp="#s1:l3">ghewelt</rhyme>;</l>
+        <l id="s1:l7" met="3" type="-+">En ons in vreught <rhyme label="b" type="m" corresp="#s1:l3">ghestelt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Verheught nu over <rhyme label="a" type="m">al</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">En singht met bly <rhyme label="a" type="m" corresp="#s2:l1">geschal</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Den Alleluia; want t'is nu den <rhyme label="b" type="m">tijdt</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Nu Christus voor <rhyme label="c" type="m">ghewis</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Voor ons verresen <rhyme label="c" type="m" corresp="#s2:l4">is</rhyme>:</l>
+        <l id="s2:l6" met="3" type="-+">Dus maeckt u droefheydt <rhyme label="b" type="m" corresp="#s2:l3">quijt</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Verrijst en weest <rhyme label="b" type="m" corresp="#s2:l3">verblijdt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Verrijst uyt s'wereldts <rhyme label="a" type="m">graf</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">En leght u sonden <rhyme label="a" type="m" corresp="#s3:l1">af</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Looft uwen Schepper die uyt liefde <rhyme label="b" type="m">heeft</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Voor u de doodt <rhyme label="c" type="m">ontfaen</rhyme>:</l>
+        <l id="s3:l5" met="3" type="-+">Om dat ghy op soudt <rhyme label="c" type="m" corresp="#s3:l4">staen</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Dus siet dat ghy <rhyme label="b" type="m" corresp="#s3:l3">aencleeft</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Hem die u't leven <rhyme label="b" type="m" corresp="#s3:l3">gheeft</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Lof onghemeten <rhyme label="a" type="m">Godt</rhyme>!</l>
+        <l id="s4:l2" met="3" type="-+">Lof Godt van <rhyme label="a" type="m" corresp="#s4:l1">Sabaoth</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">V zy glori in der <rhyme label="b" type="m">eeuwigheydt</rhyme>:</l>
+        <l id="s4:l4" met="3" type="-+">Die voor ons hebt <rhyme label="c" type="m">betaelt</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Dat Adam hadd' <rhyme label="c" type="m" corresp="#s4:l4">ghefaelt</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">En ons den wegh <rhyme label="b" type="m" corresp="#s4:l3">bereydt</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Dan d'opper <rhyme label="b" type="m" corresp="#s4:l3">saligheydt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Lof heyligh God'lijck <rhyme label="a" type="m">Lam</rhyme>!</l>
+        <l id="s5:l2" met="3" type="-+">Dat voor ons neder <rhyme label="a" type="m" corresp="#s5:l1">quam</rhyme></l>
+        <l id="s5:l3" met="5" type="-+">Ghedaelt, uyt liefde, uyt u <rhyme label="b" type="m">Vaders-land</rhyme>!</l>
+        <l id="s5:l4" met="3" type="-+">Laet ons dogh sijn <rhyme label="c" type="m">behoedt</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">Ghesuyvert door u <rhyme label="c" type="m" corresp="#s5:l4">Bloedt</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Op dat met vasten <rhyme label="b" type="m" corresp="#s5:l3">standt</rhyme>,</l>
+        <l id="s5:l7" met="3" type="-+">Ons hert in Liefde <rhyme label="b" type="m" corresp="#s5:l3">Brandt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

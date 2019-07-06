@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>114921</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Beau sujet de mon tourment</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Guilielmus Bolognino</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Waeckt doch, Heer, op mijnen <rhyme label="a" type="m">noodt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">Siet my hier <rhyme label="b" type="f">bene-den</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Van de hel vervolght ter <rhyme label="a" type="m" corresp="#s1:l1">doodt</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Swarelijck <rhyme label="b" type="f" corresp="#s1:l2">bestreden</rhyme>.</l>
+        <l id="s1:l5" met="3" type="+-">Staet my, Iesu, <rhyme label="c" type="m">by</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Van den val maeckt <rhyme label="c" type="m" corresp="#s1:l5">vry</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Waeckt doch, Heer, op mijnen <rhyme label="a" type="m">noodt</rhyme>,</l>
+        <l id="s2:l2" met="3" type="+-">Siet my hier <rhyme label="b" type="f">beneden</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Van de hel vervolght ter <rhyme label="a" type="m" corresp="#s2:l1">doodt</rhyme>,</l>
+        <l id="s2:l4" met="3" type="+-">Swarelijck <rhyme label="b" type="f" corresp="#s2:l2">bestreden</rhyme>.</l>
+        <l id="s2:l5" met="3" type="+-">Staet my, Iesv, <rhyme label="c" type="m">by</rhyme>,</l>
+        <l id="s2:l6" met="3" type="+-">Van den val maect <rhyme label="c" type="m" corresp="#s2:l5">vry</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Brect ghenadich 't groot <rhyme label="a" type="m">ghewelt</rhyme>,</l>
+        <l id="s3:l2" met="3" type="+-">Daer sy me <rhyme label="b" type="f">bevechten</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Mijn broos hert, te seer <rhyme label="a" type="m" corresp="#s3:l1">onstelt</rhyme>,</l>
+        <l id="s3:l4" met="3" type="+-">Wilt dat aen u <rhyme label="b" type="f" corresp="#s3:l2">hechten</rhyme>.</l>
+        <l id="s3:l5" met="3" type="+-">Staet <rhyme label="c" type="m">my</rhyme>.</l>
+        <l id="s3:l6" met="3" type="+-">Siet mijn sinnen heel <rhyme label="c" type="m" corresp="#s3:l5">ontset</rhyme>,</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">'t Hert tot 't quaet <rhyme label="a" type="m">gheneghen</rhyme>,</l>
+        <l id="s4:l2" met="3" type="+-">Siet de duysternis <rhyme label="b" type="f">belet</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">My de sond' te <rhyme label="a" type="m" corresp="#s4:l1">weghen</rhyme>.</l>
+        <l id="s4:l4" met="3" type="+-">Staet <rhyme label="b" type="f" corresp="#s4:l2">my</rhyme>.</l>
+        <l id="s4:l5" met="3" type="+-">Mijn gheloof te slapen <rhyme label="c" type="m">schijnt</rhyme>,</l>
+        <l id="s4:l6" met="3" type="+-">Dat soo pleegh te <rhyme label="c" type="m" corresp="#s4:l5">leven</rhyme>,</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Alle kennis my <rhyme label="a" type="m">verdwijnt</rhyme>,</l>
+        <l id="s5:l2" met="3" type="+-">Moedt die pleegh te <rhyme label="b" type="f">gheven</rhyme>.</l>
+        <l id="s5:l3" met="4" type="+-">Staet <rhyme label="a" type="m" corresp="#s5:l1">my</rhyme>.</l>
+        <l id="s5:l4" met="3" type="+-">De bekoringh meer en <rhyme label="b" type="f" corresp="#s5:l2">meer</rhyme></l>
+        <l id="s5:l5" met="3" type="+-">Trect my tot <rhyme label="c" type="m">behaeghen</rhyme>,</l>
+        <l id="s5:l6" met="3" type="+-">Tot den val den wil helt <rhyme label="c" type="m" corresp="#s5:l5">seer</rhyme>,</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Neer bynae <rhyme label="a" type="m">gheslaghen</rhyme>.</l>
+        <l id="s6:l2" met="3" type="+-">Staet <rhyme label="b" type="f">my</rhyme>.</l>
+        <l id="s6:l3" met="4" type="+-">Mijnen vyant hem <rhyme label="a" type="m" corresp="#s6:l1">beroemt</rhyme></l>
+        <l id="s6:l4" met="3" type="+-">Dat hy my sal <rhyme label="b" type="f" corresp="#s6:l2">winnen</rhyme>,</l>
+        <l id="s6:l5" met="3" type="+-">My de sijn' alree hy <rhyme label="c" type="m">noemt</rhyme>,</l>
+        <l id="s6:l6" met="3" type="+-">Meester van mijn <rhyme label="c" type="m" corresp="#s6:l5">sinnen</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">Staet <rhyme label="a" type="m">my</rhyme>.</l>
+        <l id="s7:l2" met="3" type="+-">Somtijts ick benauwt <rhyme label="b" type="f">gheloof</rhyme></l>
+        <l id="s7:l3" met="4" type="+-">Dat ick ben <rhyme label="a" type="m" corresp="#s7:l1">besweken</rhyme>,</l>
+        <l id="s7:l4" met="3" type="+-">Hem gheworden ben tot <rhyme label="b" type="f" corresp="#s7:l2">roof</rhyme>,</l>
+        <l id="s7:l5" met="3" type="+-">Van u <rhyme label="c" type="m">afgheweken</rhyme>.</l>
+        <l id="s7:l6" met="3" type="+-">Staet <rhyme label="c" type="m" corresp="#s7:l5">[my</rhyme>.]</l>
+      </lg>
+    </lg>
+  </text>
+</song>

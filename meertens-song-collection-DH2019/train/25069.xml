@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25069</id>
+    <date>
+      <year-start>1425</year-start>
+      <year-end>1430</year-end>
+    </date>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Eyn wijf, dye hertz unde <rhyme label="a" type="f">zinne</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">mit truwen hayt <rhyme label="b" type="m">ghekeert</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">an eynes mannes <rhyme label="a" type="f" corresp="#s1:l1">minne</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">zo das ziin leyt zi das yr <rhyme label="b" type="m" corresp="#s1:l2">bezweert</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">of he mit valscher list yr ere <rhyme label="c" type="f">krenchet</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">zo ist yr prijs bedorÜen, yr minner, das <rhyme label="c" type="f" corresp="#s1:l5">bedenchet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Weer eyn wijf mit <rhyme label="a" type="f">besceyde</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">dorch minne in tzarzen <rhyme label="b" type="m">zetzet</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">yr ere, by mime <rhyme label="a" type="f" corresp="#s2:l1">eyde</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">zol billich van ym bliven <rhyme label="b" type="m" corresp="#s2:l2">ongheletzet</rhyme>.</l>
+        <l id="s2:l5" met="5" type="-+">Want ere yst ziereyt und crone groten <rhyme label="c" type="f">vrouwen</rhyme>.</l>
+        <l id="s2:l6" met="5" type="-+">Weer ziin lief das beroÜet, was wÜnnen mach he me dan an yr <rhyme label="c" type="f" corresp="#s2:l5">scouwen</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Eyn wijf, dyr zich chan <rhyme label="a" type="f">vrÜden</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">eyn man mit lieven <rhyme label="b" type="m">dinghen</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">die merche ich yr <rhyme label="a" type="f" corresp="#s3:l1">orconden</rhyme>:</l>
+        <l id="s3:l4" met="5" type="-+">wye ziis vernymt, wil he valche <rhyme label="b" type="m" corresp="#s3:l2">ringhen</rhyme>,</l>
+        <l id="s3:l5" met="5" type="-+">gheert he an yr, des ze mach haven <rhyme label="c" type="f">scande</rhyme>, -</l>
+        <l id="s3:l6" met="5" type="-+">zi hÜete zich, of zi wille, he druchet zi: des steyt miin eyt tsÜ <rhyme label="c" type="f" corresp="#s3:l5">pande</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

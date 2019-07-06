@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22150</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>O Herr wer wird Wohnungen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">IN Zyon loeftmen u, o <rhyme label="a" type="m">Godt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Ghy hoort oock alle <rhyme label="b" type="f">ghebeden</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Ons misdaden die zijn seer <rhyme label="a" type="m" corresp="#s1:l1">groot</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Vergheeft ons <rhyme label="b" type="f" corresp="#s1:l2">ouertreden</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Salich is hy dien ghy hebt <rhyme label="c" type="m">vercorn</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Om te woonen in uwen Palleys <rhyme label="c" type="m" corresp="#s1:l5">vorn</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Dien en sal niet <rhyme label="d" type="f">ghebreken</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O Godt door u <rhyme label="a" type="m">rechtuaerdicheyt</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Wilt ons verhooren <rhyme label="b" type="f">gnadelijcke</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Ghy zijt de hoep, van daertrijck <rhyme label="a" type="m" corresp="#s2:l1">breyt</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">En vander Zee <rhyme label="b" type="f" corresp="#s2:l2">diesglijcken</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Ghy onderhoudt de berghen met <rhyme label="c" type="m">cracht</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Ghy stilt de Zee baren, door u <rhyme label="c" type="m" corresp="#s2:l5">macht</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">En het rasen van allen <rhyme label="d" type="f">volcke</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">En die daer woonen aen swereldts <rhyme label="a" type="m">eyndt</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Van u teecknen sy <rhyme label="b" type="f">verschricken</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Ghy maecktse blijde en <rhyme label="a" type="m" corresp="#s3:l1">onghescheyndt</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Als u hulp hun comt <rhyme label="b" type="f" corresp="#s3:l2">bequicken</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">De gheel werelt besoeckt u <rhyme label="c" type="m">goetheyt</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Och gheeft den vruchten waters <rhyme label="c" type="m" corresp="#s3:l5">planteyt</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">U goetheyt verciert het <rhyme label="d" type="f">Jare</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Daer wast wat goets, al waer ghy <rhyme label="a" type="m">gaet</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Vol zijn oock die <rhyme label="b" type="f">Woestijnen</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">Die hoeulen hebben van u groote <rhyme label="a" type="m" corresp="#s4:l1">baet</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">De Beesten oock tallen <rhyme label="b" type="f" corresp="#s4:l2">termijnen</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Der Schapen wol die gheeft ons <rhyme label="c" type="m">cleeren</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Die Velden staen vol Zaets: dies <rhyme label="c" type="m" corresp="#s4:l5">Heere</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Louen sy u, ende <rhyme label="d" type="f">singhen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

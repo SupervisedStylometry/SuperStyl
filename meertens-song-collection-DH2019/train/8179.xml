@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8179</id>
+    <date>
+      <year-start>1678</year-start>
+      <year-end>1678</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Pier is in de hemel</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">HEy za jonge <rhyme label="a" type="f">maatjes</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Laat ons nu vroolick <rhyme label="b" type="m">zijn</rhyme>;</l>
+        <l id="s1:l3" met="3" type="-+">'k Lagh met al u <rhyme label="a" type="f" corresp="#s1:l1">praatjes</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Ick hou het met de <rhyme label="b" type="m" corresp="#s1:l2">wijn</rhyme>:</l>
+        <l id="s1:l5" met="3" type="-+">'K hou veel van volle <rhyme label="c" type="f">glasen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Als ick daar in mach <rhyme label="c" type="f" corresp="#s1:l5">blasen</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">O dan verheugh ick <rhyme label="b" type="m" corresp="#s1:l2">mijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">A vous mijn <rhyme label="a" type="f">Cameraatjen</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">A vous ick breng 't u <rhyme label="b" type="m">dan</rhyme>;</l>
+        <l id="s2:l3" met="3" type="-+">Daar is genoeg in 't <rhyme label="a" type="f" corresp="#s2:l1">vaatjen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Ey drinckt maar stijfjes <rhyme label="b" type="m" corresp="#s2:l2">an</rhyme>:</l>
+        <l id="s2:l5" met="3" type="-+">Laat ons nu vroolick <rhyme label="c" type="f">wesen</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Wy weten van geen <rhyme label="c" type="f" corresp="#s2:l5">vreesen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Drinckt lustigh als een <rhyme label="b" type="m" corresp="#s2:l2">man</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

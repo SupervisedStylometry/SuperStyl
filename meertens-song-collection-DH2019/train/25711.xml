@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25711</id>
+    <date>
+      <year-start>1598</year-start>
+      <year-end>1598</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="avondlied" translation="evening song">avondlied</tag>
+      <tag standard-name="acrostichon" translation="acrostic song">acrostichon</tag>
+    </tags>
+    <melody>Op een kerstnacht werd God geboren</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Leenaert Clock</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">T’is tijdt dat men te rusten <rhyme label="a" type="m">gaet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Den dach is heen, het wordt nu <rhyme label="a" type="m" corresp="#s1:l1">laet</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Laet ons wel overlegghen <rhyme label="b" type="m">gaen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Wat wy heden hebben <rhyme label="b" type="m" corresp="#s1:l3">ghedaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Anders niet en hebben <rhyme label="a" type="m">betracht</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Dan nu den wille Gods <rhyme label="a" type="m" corresp="#s2:l1">volbracht</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Met woorden ende wercken <rhyme label="b" type="m">fijn</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Daer toe dat wy gheschapen <rhyme label="b" type="m" corresp="#s2:l3">zijn</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Neen wy, O Heer, het dient <rhyme label="a" type="m">verhaelt</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Wy hebben daer in seer <rhyme label="a" type="m" corresp="#s3:l1">ghefaelt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Vergheeft het ons, O lieve <rhyme label="b" type="m">Heer</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Dat is onses herten <rhyme label="b" type="m" corresp="#s3:l3">begeer</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Kent dat wy zijn van cleyner <rhyme label="a" type="m">macht</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Bewaert ons doch in deser <rhyme label="a" type="m" corresp="#s4:l1">nacht</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Nu voor des vyandts <rhyme label="b" type="m">listicheyt</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Daer met hy de Menschen <rhyme label="b" type="m" corresp="#s4:l3">verleyt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Pooght u by ons te zijn met <rhyme label="a" type="m">lust</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">En gheeft ons Godtsalighe <rhyme label="a" type="m" corresp="#s5:l1">rust</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Matich te zijn in ons <rhyme label="b" type="m">bedrijf</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">En onbevleckt aen ziel en <rhyme label="b" type="m" corresp="#s5:l3">lijf</rhyme></l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Avondt ist nu,  verlicht ons <rhyme label="a" type="m">claer</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Inwendich int herte te <rhyme label="a" type="m" corresp="#s6:l1">gaer</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Dat wy deur die duysternis <rhyme label="b" type="m">groot</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Niet en ontslapen in den <rhyme label="b" type="m" corresp="#s6:l3">doot</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">En soo ghy nu d’Aerde <rhyme label="a" type="m">bedeckt</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Met duysternis zy <rhyme label="a" type="m" corresp="#s7:l1">overtreckt</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Soo wilt oock onse zonden <rhyme label="b" type="m">quaet</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">Bedecken, en all’ ons <rhyme label="b" type="m" corresp="#s7:l3">misdaet</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Laet ons zijn (lieve Heere) <rhyme label="a" type="m">soet</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">Onder u bescherminghe <rhyme label="a" type="m" corresp="#s8:l1">goet</rhyme>,</l>
+        <l id="s8:l3" met="4" type="-+">En u goede Enghelsche <rhyme label="b" type="m">shcaer</rhyme></l>
+        <l id="s8:l4" met="4" type="-+">Moet onser doch nu nemen <rhyme label="b" type="m" corresp="#s8:l3">waer</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Soo laet ons Heere rusten <rhyme label="a" type="m">stil</rhyme>,</l>
+        <l id="s9:l2" met="4" type="-+">En desen nacht nae uwen <rhyme label="a" type="m" corresp="#s9:l1">wil</rhyme></l>
+        <l id="s9:l3" met="4" type="-+">Nu deurbringhen alst u <rhyme label="b" type="m">behaeght</rhyme>,</l>
+        <l id="s9:l4" met="4" type="-+">Amen, Godt voor ons sorghe <rhyme label="b" type="m" corresp="#s9:l3">draeght</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

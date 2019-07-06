@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176438</id>
+    <date>
+      <year-start>1805</year-start>
+      <year-end>1805</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="politiek lied" translation="political song">politiek lied</tag>
+      <tag standard-name="vreugdelied" translation="joyful song">vreugdelied</tag>
+    </tags>
+    <melody>Van Bonaparte</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wilt u blydschap niet <rhyme label="a" type="f">bedwingen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Maar zyt verg’noegd en bly van <rhyme label="b" type="m">zin</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">En wild van vreugd te zaam <rhyme label="a" type="f" corresp="#s1:l1">opspringen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Leef nu gerust vol <rhyme label="b" type="m" corresp="#s1:l2">broedermin</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Gy Volken weest nu eens <rhyme label="c" type="m">gezind</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Dat geen partyschap uw <rhyme label="c" type="m" corresp="#s1:l5">verblind</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">’t Zwaard is thans in de schee <rhyme label="a" type="f">gestooken</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">’t Bloedstorten is nu eindelyk <rhyme label="b" type="m">uit</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">De Wraakzugt legt in ’t stof <rhyme label="a" type="f" corresp="#s2:l1">gedooken</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Ach kwam zy daar maar nimmer <rhyme label="b" type="m" corresp="#s2:l2">uit</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">ô Wat een aangenaame <rhyme label="c" type="m">tyd</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Men raakt weer aan den <rhyme label="c" type="m" corresp="#s2:l5">arrebyd</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Weg nu met al u <rhyme label="a" type="f">semelaaren</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Weg met dat stoute hels <rhyme label="b" type="m">gespuis</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">En ook gy snoode <rhyme label="a" type="f" corresp="#s3:l1">Woekeraaren</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Voor u is ’t thans niet al te <rhyme label="b" type="m" corresp="#s3:l2">pluis</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Ook zit ‘er niet meer voor uw <rhyme label="c" type="m">op</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">’t Is afgedaan gy krygd de <rhyme label="c" type="m" corresp="#s3:l5">schop</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Gy hebt ons lang genoeg doen <rhyme label="a" type="f">zugten</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Alles werd duur door u <rhyme label="b" type="m">beleid</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Nu zal men u niet langer <rhyme label="a" type="f" corresp="#s4:l1">duchten</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Wy zyn nu van u juk <rhyme label="b" type="m" corresp="#s4:l2">bevryd</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Leeven in vriend- en <rhyme label="c" type="m">broederschap</rhyme>.</l>
+        <l id="s4:l6" met="4" type="-+">Wy tellen niet u vuil <rhyme label="c" type="m" corresp="#s4:l5">gesnap</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

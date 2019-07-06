@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21204</id>
+    <date>
+      <year-start>1646</year-start>
+      <year-end>1646</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Geen smart en duurt des mensen ronde tijd</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Nou Phebus duyckt, en voor den avondt <rhyme label="a" type="m">vlucht</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Mach ick by nacht my veyligh weer <rhyme label="b" type="f">vertrouwen</rhyme>:</l>
+        <l id="s1:l3" met="5" type="-+">Wanneer de Wolck bedeckt de blaeuwe <rhyme label="a" type="m" corresp="#s1:l1">Lucht</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">De Maen en 't Licht van al haer <rhyme label="b" type="f" corresp="#s1:l2">Staet-Iuffrouwen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Ay Donder-Godt! stuert eens u Blixem <rhyme label="a" type="m">uyt</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Drijft van de straet het volck, door kracht van <rhyme label="b" type="f">Winde</rhyme>:</l>
+        <l id="s2:l3" met="5" type="-+">Dan sal ick, schoon hoe dat het waeyt en <rhyme label="a" type="m" corresp="#s2:l1">buyt</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Gheen weer ontsien te soecken mijn <rhyme label="b" type="f" corresp="#s2:l2">Beminde</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Voormaels als my de nacht geluckigh <rhyme label="a" type="m">scheen</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Eer ick de Ringh aen mijn Liefs deur noch <rhyme label="b" type="f">roerde</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Soo sagh ick hooger by de Ghevels <rhyme label="a" type="m" corresp="#s3:l1">heen</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Veel Vensters op, van veel die op my <rhyme label="b" type="f" corresp="#s3:l2">loerde</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Dan werd' ick weer in 't gaen rondtom <rhyme label="a" type="m">beset</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Van yder een verspiedt, en nae <rhyme label="b" type="f">ghekeecken</rhyme>:</l>
+        <l id="s4:l3" met="5" type="-+">Gheen meerder droefheydt, docht ik <rhyme label="a" type="m" corresp="#s4:l1">al-te-met</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">Als dat ick nou mijn onwil niet kan <rhyme label="b" type="f" corresp="#s4:l2">wreecken</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Had ick de macht, of stondt 't in mijn <rhyme label="a" type="m">ghebiedt</rhyme>,</l>
+        <l id="s5:l2" met="5" type="-+">Niemandt en sou de straet by nacht <rhyme label="b" type="f">passeeren</rhyme>,</l>
+        <l id="s5:l3" met="5" type="-+">Als die door Liefde leeft in zwaer <rhyme label="a" type="m" corresp="#s5:l1">verdriet</rhyme>:</l>
+        <l id="s5:l4" met="5" type="-+">Wie anders deed' soud' ick wat anders <rhyme label="b" type="f" corresp="#s5:l2">leeren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

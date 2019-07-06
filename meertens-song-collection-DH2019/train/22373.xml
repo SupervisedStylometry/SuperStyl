@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22373</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Gelobt seist du Jesu Christ</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">OM den Heer te louen zijt <rhyme label="a" type="m">bereydt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">In zijne hooghe <rhyme label="a" type="m" corresp="#s1:l1">heylicheyt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Loeft hem in zijn firmaments <rhyme label="b" type="m">cracht</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Loeft hem in zijn wercken, en macht. <rhyme label="c" type="m">Alleluya</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Loeft zijn sterckheyt wtermaten <rhyme label="a" type="m">seer</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">En zijn grootheyt, hoe langher hoe <rhyme label="a" type="m" corresp="#s2:l1">meer</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Sijn heerlijckheyt, loeft met <rhyme label="b" type="m">gheschal</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Loeft hem met de Trompetten al: <rhyme label="c" type="m">Alleluya</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Met den Souter, en Harpe loeft <rhyme label="a" type="m">hem</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Met danssen, Fluyten, en <rhyme label="a" type="m" corresp="#s3:l1">Cymbalen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">De Trommel, en Orghel hem loff <rhyme label="b" type="m">gheeft</rhyme>.</l>
+        <l id="s3:l4" met="6" type="-+">Loeft den Heer al wat asem heeft: <rhyme label="c" type="m">Alleluya</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

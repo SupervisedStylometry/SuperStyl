@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>120387</id>
+    <date>
+      <year-start>1800</year-start>
+      <year-end>1800</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Wat ziet men in deze huwelijksdagen</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wat ziet men in deez’ huwlyks <rhyme label="a" type="f">dagen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Dat ons meer ramp dan voorspoed <rhyme label="b" type="m">wagt</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Naar zo veel storm en onweers <rhyme label="a" type="f" corresp="#s1:l1">vlagen</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Naar een blyde morgen <rhyme label="b" type="m" corresp="#s1:l2">wagt</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Maar hoe het <rhyme label="c" type="m">geschied</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Dat weet ik <rhyme label="c" type="m" corresp="#s1:l5">niet</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Doch ik zal hier naar ’t voorbeeld <rhyme label="d" type="f">leven</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">’t Welk myn Moeder, ’t Welk myn <rhyme label="e" type="f">Moeder</rhyme>,</l>
+        <l id="s1:l9" met="3" type="+-">Myn Moeder heeft <rhyme label="d" type="f" corresp="#s1:l7">gegeeven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Myn Vader had zoms wondere <rhyme label="a" type="f">kuuren</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Beklaagde haar met <rhyme label="b" type="m">onbescheid</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Haar zugte dee dit al <rhyme label="a" type="f" corresp="#s2:l1">verduuren</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Zy antwoorde hem met <rhyme label="b" type="m" corresp="#s2:l2">vriendelykheid</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">Maar hoe het <rhyme label="c" type="m">geschiet</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">Dat weet ik <rhyme label="c" type="m" corresp="#s2:l5">niet</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Doch ik zal hier naar ’t voorbeeld <rhyme label="d" type="f">leeven</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">’t Welk myn Moeder, ’t Welk myn <rhyme label="e" type="f">Moeder</rhyme>,</l>
+        <l id="s2:l9" met="3" type="+-">Myn Moeder heeft <rhyme label="d" type="f" corresp="#s2:l7">gegeeven</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wat ziet myn naar een reeks van <rhyme label="a" type="f">trouwe</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Een Echtgenoot ligtzinnig <rhyme label="b" type="m">is</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Maar nu wil myn Heer zyn woord niet <rhyme label="a" type="f" corresp="#s3:l1">houden</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Dan breekt zyn Vrouw die ook <rhyme label="b" type="m" corresp="#s3:l2">gewis</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">Maar hoe het <rhyme label="c" type="m">geschiet</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">Dat weet ik <rhyme label="c" type="m" corresp="#s3:l5">niet</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Doch ik zal hier naar ’t voorbeeld <rhyme label="d" type="f">leeven</rhyme></l>
+        <l id="s3:l8" met="4" type="+-">’t Welk myn Moeder, ’t Welk myn <rhyme label="e" type="f">Moeder</rhyme>,</l>
+        <l id="s3:l9" met="3" type="+-">Myn Moeder heeft <rhyme label="d" type="f" corresp="#s3:l7">gegeeven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34506</id>
+    <date>
+      <year-start>1720</year-start>
+      <year-end>1720</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="meilied" translation="May song">meilied</tag>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Maak Phoebus dat het daagt</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author>Jacobus de Ruyter</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">DEn soeten Maey komt <rhyme label="a" type="m">aen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Wilt u verblijden, Stelt aen een <rhyme label="b" type="f">zijde</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Droefheydt en <rhyme label="a" type="m" corresp="#s1:l1">ghetraen</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Men siet de blommekens nu jeudigh <rhyme label="c" type="f">spruyten</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Komt buyten hoort fluyten, den <rhyme label="d" type="m">Nachtergael</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Wilt vreudigh <rhyme label="e" type="f">springhen</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Vlechten groene <rhyme label="e" type="f" corresp="#s1:l6">stringhen</rhyme>,</l>
+        <l id="s1:l8" met="3" type="+-">En hoort de Voghels <rhyme label="e" type="f" corresp="#s1:l6">singhen</rhyme>,</l>
+        <l id="s1:l9" met="3" type="+-">Met vreught <rhyme label="d" type="m" corresp="#s1:l5">altemael</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Neemt uw' Lief by der <rhyme label="a" type="m">hant</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Met groot verblijen, Wilt haer <rhyme label="b" type="f">vermeijen</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Langhst der groenen <rhyme label="a" type="m" corresp="#s2:l1">kant</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Aen-schout het groene gras en oock de <rhyme label="c" type="f">Boomen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">De stroomen, Die komen in de <rhyme label="d" type="m">rievier</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">Wilt vreught <rhyme label="e" type="f">beginnen</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">uw Liefste <rhyme label="e" type="f" corresp="#s2:l6">beminnen</rhyme>,</l>
+        <l id="s2:l8" met="3" type="+-">Herders en <rhyme label="e" type="f" corresp="#s2:l6">Heyderinnen</rhyme></l>
+        <l id="s2:l9" met="3" type="+-">blust uw' minne <rhyme label="d" type="m" corresp="#s2:l5">vier</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Vlecht nu den roosen <rhyme label="a" type="m">hoet</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Wilt vreughden pleghen, Door <rhyme label="b" type="f">deughde-weghen</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">En uyt Liefde <rhyme label="a" type="m" corresp="#s3:l1">soet</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Ghy Meyskens laet u vande min door <rhyme label="c" type="f">stralen</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Wilt daelen, En haelen, Liefde uyt den <rhyme label="d" type="m">rouw</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">Wilt niet meer <rhyme label="e" type="f">klaghe</rhyme>,</l>
+        <l id="s3:l7" met="2" type="-+">men sal u nu <rhyme label="e" type="f" corresp="#s3:l6">vraeghen</rhyme>,</l>
+        <l id="s3:l8" met="3" type="+-">Of ghy wilt Liefde <rhyme label="e" type="f" corresp="#s3:l6">draghen</rhyme>,</l>
+        <l id="s3:l9" met="3" type="+-">En wesen een <rhyme label="d" type="m" corresp="#s3:l5">Vrouw</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

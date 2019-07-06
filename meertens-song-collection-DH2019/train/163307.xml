@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>163307</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Als ik mijn Phyllis kussen mag</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Waarom lied gy uw mond soo <rhyme label="a" type="m">straf</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Beminde Kloris, my <rhyme label="b" type="f">ontglippen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Doe ik u laast die kusjes <rhyme label="a" type="m" corresp="#s1:l1">gaf</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Op uwe Nektar soete <rhyme label="b" type="f" corresp="#s1:l2">lippen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Of is het om daar na het <rhyme label="a" type="m">soet</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Daar van te beter te doen <rhyme label="b" type="f">smaken</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Of, als men zig maar half <rhyme label="a" type="m" corresp="#s2:l1">voldoet</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Daar na te vieriger te <rhyme label="b" type="f" corresp="#s2:l2">blaken</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ik weet wel dat een kort <rhyme label="a" type="m">vermaak</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Mijn waarde Kloris, 't meest kan <rhyme label="b" type="f">streelen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Maar denk niet dat my ooyt de <rhyme label="a" type="m" corresp="#s3:l1">smaak</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Van uwe kusjes sal <rhyme label="b" type="f" corresp="#s3:l2">verveelen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Hoe meer ik die van uw <rhyme label="a" type="m">ontfang</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Hoe feller ik mijn hert voel <rhyme label="b" type="f">blaken</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Hoe meer ik vol van drift <rhyme label="a" type="m" corresp="#s4:l1">verlang</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Om eeuwig die te mogen <rhyme label="b" type="f" corresp="#s4:l2">smaken</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Wel, wild dan nimmer dat <rhyme label="a" type="m">geluk</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">O schoone Kloris, my <rhyme label="b" type="f">ontroven</rhyme>;</l>
+        <l id="s5:l3" met="4" type="-+">Want als ik uwe lipjes <rhyme label="a" type="m" corresp="#s5:l1">druk</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Gaat geen vermaak mijn vreugd te <rhyme label="b" type="f" corresp="#s5:l2">boven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

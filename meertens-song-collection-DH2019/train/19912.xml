@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19912</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Al hebben de prinsen haar wens</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Johan van Born</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">VRolijcke velden, lieflijck <rhyme label="a" type="m">geboomt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Waer in soo menich Beecxken <rhyme label="a" type="m" corresp="#s1:l1">stroomt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">En soo aerdigh dierken <rhyme label="b" type="m">sweeft</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Dat van uwe rijckdom <rhyme label="b" type="m" corresp="#s1:l3">leeft</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Siet hier het Hert en ginder de <rhyme label="a" type="m">Kind</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Onder de Elsen, Esschen en <rhyme label="a" type="m" corresp="#s2:l1">Lind</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Als sy kruysen 't groene <rhyme label="b" type="m">wout</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Waer soo menigh Jager <rhyme label="b" type="m" corresp="#s2:l3">houdt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Weeldrige dierkens, die soo vrolijc <rhyme label="a" type="m">springt</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Die op de tacxkens lieflijck <rhyme label="a" type="m" corresp="#s3:l1">singt</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">En hebt sorge noch <rhyme label="b" type="m">verdriet</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Laes! ghy siet u droefheyt <rhyme label="b" type="m" corresp="#s3:l3">niet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Hier komt de Jager met sijn Bracken <rhyme label="a" type="m">aen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Siet hoe hy snuflend komt <rhyme label="a" type="m" corresp="#s4:l1">gegaen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">En hoe loos hy u <rhyme label="b" type="m">belaeght</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Siet dat ghy 't u doch niet <rhyme label="b" type="m" corresp="#s4:l3">beklaeght</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Daer komt de Voog'laer met zijn loose <rhyme label="a" type="m">fluyt</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Siet hoe hy 't net en knip set <rhyme label="a" type="m" corresp="#s5:l1">uyt</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">En queelt een soo vrolijck <rhyme label="b" type="m">Lied</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Maer het is al tot u <rhyme label="b" type="m" corresp="#s5:l3">verdriet</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Waerom o dierkens! stoortmen uwe <rhyme label="a" type="m">rust</rhyme>?</l>
+        <l id="s6:l2" met="4" type="+-">Waerom o Vincxken! breecktmen uwe <rhyme label="a" type="m" corresp="#s6:l1">lust</rhyme>?</l>
+        <l id="s6:l3" met="4" type="+-">Ey wat hebdy doch <rhyme label="b" type="m">misdaen</rhyme>:</l>
+        <l id="s6:l4" met="4" type="+-">Datmen u dus soeckt te <rhyme label="b" type="m" corresp="#s6:l3">verraen</rhyme>?</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">Daer ghy doch met uwe lusjes te <rhyme label="a" type="m">vreen</rhyme>,</l>
+        <l id="s7:l2" met="4" type="+-">Niets met de giergaert hebt <rhyme label="a" type="m" corresp="#s7:l1">gemeen</rhyme>:</l>
+        <l id="s7:l3" met="4" type="+-">Want ghy niemant en <rhyme label="b" type="m">misdoet</rhyme>,</l>
+        <l id="s7:l4" met="4" type="+-">Noch yet quaeds hebt in u <rhyme label="b" type="m" corresp="#s7:l3">gemoed</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="+-">Dit is het beeldt van de vroome <rhyme label="a" type="m">Mensch</rhyme>,</l>
+        <l id="s8:l2" met="4" type="+-">Die wort belaegt na 's boosen <rhyme label="a" type="m" corresp="#s8:l1">wensch</rhyme>,</l>
+        <l id="s8:l3" met="4" type="+-">Door beveynstheyd en <rhyme label="b" type="m">bedrogh</rhyme>:</l>
+        <l id="s8:l4" met="4" type="+-">Laes! dees boosheyt regeerter <rhyme label="b" type="m" corresp="#s8:l3">noch</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

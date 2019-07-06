@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12943</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Laura zat laatst bij de beek</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">EChter Pan die nam de <rhyme label="a" type="m">vlucht</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Lachte, knipte, en wipte 't <rhyme label="b" type="f">startje</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Schaterde in de dunne <rhyme label="a" type="m" corresp="#s1:l1">lucht</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Om zijn geile <rhyme label="b" type="f" corresp="#s1:l2">minnepartje</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">Rozemondje, zoete <rhyme label="b" type="f" corresp="#s1:l2">hartje</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">(Zeide Damon) leer hier <rhyme label="c" type="m">naar</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Altijdt d'eenzaamheidt <rhyme label="d" type="f">verachten</rhyme>;</l>
+        <l id="s1:l8" met="4" type="+-">Pan derf knippen en <rhyme label="d" type="f" corresp="#s1:l7">verkrachten</rhyme>.</l>
+        <l id="s1:l9" met="4" type="+-">Eenzaam zijn is vol <rhyme label="c" type="m" corresp="#s1:l6">gevaar</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

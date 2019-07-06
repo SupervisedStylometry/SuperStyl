@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176515</id>
+    <date>
+      <year-start>1637</year-start>
+      <year-end>1637</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Malheureux jour</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Jan van der Veen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">IOHANNA suyv're <rhyme label="a" type="m">Maaght</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Hoe komt dat u mis <rhyme label="a" type="m" corresp="#s1:l1">haaght</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">In onsen staat te <rhyme label="b" type="f">blyven</rhyme>?</l>
+        <l id="s1:l4" met="3" type="-+">Hoe komt het myn <rhyme label="c" type="m">Vriendin</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Is dan u hert en <rhyme label="c" type="m" corresp="#s1:l4">sin</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Te treen in't Jok der <rhyme label="b" type="f" corresp="#s1:l3">Wyven</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

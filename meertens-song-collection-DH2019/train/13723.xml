@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13723</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Amarilli mia bella</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>anoniem</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">ACh Rosemont <rhyme label="a" type="f">beminde</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Hoe vlucht ghy soo verbaest, Gelijk een <rhyme label="a" type="f" corresp="#s1:l1">Hinde</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Dat vliedt voor grage <rhyme label="a" type="f" corresp="#s1:l1">Winde</rhyme>?</l>
+        <l id="s1:l4" met="5" type="-+">Vlucht niet mijn Lief, wel waer voor gaet ghy <rhyme label="b" type="f">vluchten</rhyme>?</l>
+        <l id="s1:l5" met="3" type="-+">Of vliedt ghy voor mijn <rhyme label="b" type="f" corresp="#s1:l4">suchten</rhyme>?</l>
+        <l id="s1:l6" met="2" type="-+">Soo wil ick <rhyme label="c" type="f">mijden</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">En stellen aen een <rhyme label="c" type="f" corresp="#s1:l6">zijden</rhyme>,</l>
+        <l id="s1:l8" met="8" type="+-">Rosemonde, Rosemonde al mijn <rhyme label="c" type="f" corresp="#s1:l6">lijden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Mishaeght het u ach <rhyme label="a" type="f">schoone</rhyme>?</l>
+        <l id="s2:l2" met="5" type="-+">Dat ick mijn lijden steets, u kom <rhyme label="a" type="f" corresp="#s2:l1">vertoone</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Ey wilt mijn doch <rhyme label="a" type="f" corresp="#s2:l1">verschoone</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Voor dese mael, ten sal niet meer <rhyme label="b" type="f">geschieden</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Ghy kondt my maer <rhyme label="b" type="f" corresp="#s2:l4">gebieden</rhyme>:</l>
+        <l id="s2:l6" met="2" type="-+">Ist u <rhyme label="c" type="f">behage</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Dat ick ly, en niet <rhyme label="c" type="f" corresp="#s2:l6">klage</rhyme>,</l>
+        <l id="s2:l8" met="8" type="+-">Rosemonde, Rosemonde ‘k salt <rhyme label="c" type="f" corresp="#s2:l6">verdrage</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Maer als ick dan <rhyme label="a" type="f">gemoete</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Ach Rosemonde u, en ick u <rhyme label="a" type="f" corresp="#s3:l1">groete</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">En my buygh voor u <rhyme label="a" type="f" corresp="#s3:l1">voete</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Laet dat maer toe, en denckt dat ick wil <rhyme label="b" type="f">seggen</rhyme>:</l>
+        <l id="s3:l5" met="3" type="-+">Ey wilt u strafheyt <rhyme label="b" type="f" corresp="#s3:l4">leggen</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">Ach <rhyme label="c" type="f">Herderinne</rhyme>!</l>
+        <l id="s3:l7" met="3" type="-+">Sal ick u straffe <rhyme label="c" type="f" corresp="#s3:l6">sinne</rhyme>,</l>
+        <l id="s3:l8" met="8" type="+-">Rosemonde, Rosemonde noyt <rhyme label="c" type="f" corresp="#s3:l6">verwinnen</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2055</id>
+    <date>
+      <year-start>1674</year-start>
+      <year-end>1674</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Courante la reine</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">DEn Heer' zy lof, en <rhyme label="a" type="m">eer'</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Die van d'onkuysche <rhyme label="b" type="f">Vryers</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Vleyers, en <rhyme label="b" type="f" corresp="#s1:l2">Verleyers</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">De <rhyme label="c" type="m">Wittigheydt</rhyme></l>
+        <l id="s1:l5" met="5" type="-+">Altydt bewaert heeft van myn <rhyme label="c" type="m" corresp="#s1:l4">Suyverheydt</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Sy waer al over langh <rhyme label="d" type="m">vergae</rhyme>[...]</l>
+        <l id="s1:l7" met="5" type="-+">Hadd' ghy ô Jesu die niet <rhyme label="d" type="m" corresp="#s1:l6">byghestaen</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Maer door uw' <rhyme label="e" type="f">Handen</rhyme></l>
+        <l id="s1:l9" met="2" type="-+">Zyn Venus <rhyme label="e" type="f" corresp="#s1:l8">banden</rhyme></l>
+        <l id="s1:l10" met="3" type="+-">Al-te-mael <rhyme label="d" type="m" corresp="#s1:l6">ontdaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ach! wat een soet <rhyme label="a" type="m">Mottet</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Sal 't Vogheltjen gaen <rhyme label="b" type="f">singhen</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Als het komt <rhyme label="b" type="f" corresp="#s2:l2">t'ontspringhen</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Den Wey-mans <rhyme label="c" type="m">Net</rhyme></l>
+        <l id="s2:l5" met="5" type="-+">Daer d'arme Beest by-naer was in <rhyme label="c" type="m" corresp="#s2:l4">verplet</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Soo loof ick Jesum met <rhyme label="d" type="m">jolyt</rhyme></l>
+        <l id="s2:l7" met="5" type="-+">Die my van Venus Netten heeft <rhyme label="d" type="m" corresp="#s2:l6">bevrydt</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Die in syn' <rhyme label="e" type="f">Wonden</rhyme></l>
+        <l id="s2:l9" met="2" type="-+">Hiel on - <rhyme label="e" type="f" corresp="#s2:l8">gheschonden</rhyme></l>
+        <l id="s2:l10" met="3" type="+-">My ne <rhyme label="d" type="m" corresp="#s2:l6">Reynigheydt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">O Witten <rhyme label="a" type="m">Bruydegom</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Die heden in 't Beggyn <rhyme label="b" type="f">Hof</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Dat net ende reyn <rhyme label="b" type="f" corresp="#s3:l2">Hof</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">De <rhyme label="c" type="m">leli'-Blom</rhyme></l>
+        <l id="s3:l5" met="5" type="-+">Verplant van mynen reynen <rhyme label="c" type="m" corresp="#s3:l4">Maghedom</rhyme>:</l>
+        <l id="s3:l6" met="4" type="-+">Ick bidd' u dat gy die <rhyme label="d" type="m">besproeyt</rhyme></l>
+        <l id="s3:l7" met="5" type="-+">Door 't dierbaer Bloet dat uyt uw' Wonden <rhyme label="d" type="m" corresp="#s3:l6">vloeyt</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">Dat sy met <rhyme label="e" type="f">vreughden</rhyme></l>
+        <l id="s3:l9" met="2" type="-+">In alle <rhyme label="e" type="f" corresp="#s3:l8">Deughden</rhyme></l>
+        <l id="s3:l10" met="3" type="+-">Jeugdig groeyt en <rhyme label="d" type="m" corresp="#s3:l6">bloeyt</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36915</id>
+    <date>
+      <year-start>1677</year-start>
+      <year-end>1677</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Schone Cato</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Livinus van der Minnen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">O Schoon <rhyme label="a" type="f">Diane</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">Ach! ick sterve <rhyme label="b" type="m">schier</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">'k Verdrinck in <rhyme label="a" type="f" corresp="#s1:l1">tranen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">'k Brand' in minne <rhyme label="b" type="m" corresp="#s1:l2">vier</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Moet ick dan <rhyme label="c" type="f">sterven</rhyme></l>
+        <l id="s1:l6" met="3" type="+-">Van druck ende <rhyme label="d" type="m">rouw</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Ach! moet ick <rhyme label="c" type="f" corresp="#s1:l5">derven</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">Uw' ghewenschste <rhyme label="d" type="m" corresp="#s1:l6">trouw</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Siet my <rhyme label="a" type="f">besprenghelt</rhyme></l>
+        <l id="s2:l2" met="3" type="+-">Met een <rhyme label="b" type="m">traen-rivier</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Myn hert' <rhyme label="a" type="f" corresp="#s2:l1">versenghelt</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">In uw <rhyme label="b" type="m" corresp="#s2:l2">minne-vier</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Siet hoe ick <rhyme label="c" type="f">menghel</rhyme></l>
+        <l id="s2:l6" met="3" type="+-">Tranen met myn <rhyme label="d" type="m">bloedt</rhyme>,</l>
+        <l id="s2:l7" met="2" type="-+">O schoonen <rhyme label="c" type="f" corresp="#s2:l5">Enghel</rhyme>,</l>
+        <l id="s2:l8" met="3" type="+-">Troost myn droef <rhyme label="d" type="m" corresp="#s2:l6">ghemoet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Dat 't u <rhyme label="a" type="f">beliefden</rhyme></l>
+        <l id="s3:l2" met="3" type="+-">Eens op my te <rhyme label="b" type="m">slaen</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">Een strael van <rhyme label="a" type="f" corresp="#s3:l1">liefde</rhyme>,</l>
+        <l id="s3:l4" met="3" type="+-">'t soud' haest beter <rhyme label="b" type="m" corresp="#s3:l2">gaen</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">Myn bitter <rhyme label="c" type="f">suchten</rhyme></l>
+        <l id="s3:l6" met="3" type="+-">Ende droef <rhyme label="d" type="m">gheklagh</rhyme>,</l>
+        <l id="s3:l7" met="2" type="-+">Wirden <rhyme label="c" type="f" corresp="#s3:l5">ghenuchten</rhyme>,</l>
+        <l id="s3:l8" met="3" type="+-">Mynen nacht wirdt <rhyme label="d" type="m" corresp="#s3:l6">dagh</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

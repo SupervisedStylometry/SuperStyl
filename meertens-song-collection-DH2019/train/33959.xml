@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>33959</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
+    </tags>
+    <melody>Bedroefd hartje</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacob Rosant</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DE Phariseën nogh waren <rhyme label="a" type="f">t'same</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En Jesus vraeghde haer ook eens <rhyme label="b" type="m">wat</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Wilt mijn eens geeven antwoort <rhyme label="a" type="f" corresp="#s1:l1">bequame</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Wiens Soon is Christus, seght mijn eens <rhyme label="b" type="m" corresp="#s1:l2">dat</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Sy seggen, David: waer op hy <rhyme label="a" type="f">seyde</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Hoe noemt hem David dan sijnen <rhyme label="b" type="m">Heer</rhyme>?</l>
+        <l id="s2:l3" met="4" type="-+">Wanneer hy spreekt met seer klaer <rhyme label="a" type="f" corresp="#s2:l1">bescheyde</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">In 't Boek der Psalmen uyt 's Geestes <rhyme label="b" type="m" corresp="#s2:l2">leer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Den Heer die heeft tot mijn Heer <rhyme label="a" type="f">gesprooken</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Kom, sit aen mijn rechter-sy, so <rhyme label="b" type="m">lank</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Tot ik uw vyanden heb <rhyme label="a" type="f" corresp="#s3:l1">gebrooken</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">En die gestelt u tot een <rhyme label="b" type="m" corresp="#s3:l2">voet-bank</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Soo David selfs hem noemt sijnen <rhyme label="a" type="f">Heere</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Hoe of het weesen dan magh sijn <rhyme label="b" type="m">Soon</rhyme>?</l>
+        <l id="s4:l3" met="4" type="-+">En niemand kond' hem hier op <rhyme label="a" type="f" corresp="#s4:l1">verweere</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Of met een antwoort haer maken <rhyme label="b" type="m" corresp="#s4:l2">schoon</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Dien dagh en dorsten s' hem niet meer <rhyme label="a" type="f">vragen</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">En al de Schare die daer stondt <rhyme label="b" type="m">by</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Aenhoorden hem met seer goet <rhyme label="a" type="f" corresp="#s5:l1">behagen</rhyme>.</l>
+        <l id="s5:l4" met="4" type="-+">Heer, Davids ende Goodts Soon sijt <rhyme label="b" type="m" corresp="#s5:l2">gy</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

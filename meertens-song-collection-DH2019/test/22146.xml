@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22146</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Aus tiefer Not schrei ich zu dir</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Godt hoort mijn ghebedt, en <rhyme label="a" type="m">geclaech</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Ick roep van swerelts <rhyme label="b" type="f">eynde</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Als mijn hert benaudt is en <rhyme label="a" type="m" corresp="#s1:l1">verzaecht</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">U handt en laet my dan niet <rhyme label="b" type="f" corresp="#s1:l2">scheynden</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Maer wilt my voeren op een Steenrotz <rhyme label="c" type="m">gendt</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Ghij zijt mijn Torn, Toeuerlaet, en <rhyme label="c" type="m" corresp="#s1:l5">Tendt</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Beschermdt my met uwen <rhyme label="d" type="f">vloeglen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O Godt, ghy doet nae den wille <rhyme label="a" type="m">mijn</rhyme>:</l>
+        <l id="s2:l2" met="3" type="-+">Die u vreesen, dat zijn u <rhyme label="b" type="f">Eruen</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Des Conincks tijdt sal eewich <rhyme label="a" type="m" corresp="#s2:l1">zijn</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Hy en sal oock nimmermeer <rhyme label="b" type="f" corresp="#s2:l2">steruen</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Sijnen Stoel blijft eewlijck voor Godt <rhyme label="c" type="m">goet</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">U goedertierenheyt hem oock <rhyme label="c" type="m" corresp="#s2:l5">behoedt</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Ick prijs u, en betael mijn <rhyme label="d" type="f">gheloeften</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

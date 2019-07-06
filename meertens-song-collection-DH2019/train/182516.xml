@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182516</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Oubliez jusqu'à la trace</melody>
+  <author>Hendrik Riemsnijder</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">'t Kleine Vischje speelt en <rhyme label="a" type="f">dartelt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">'t Volgt zyn' lust op in deez' <rhyme label="b" type="m">vliet</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">En, daar 't onbedagtzaam <rhyme label="a" type="f" corresp="#s1:l1">spartelt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Merkt het 's Visschers aanslag <rhyme label="b" type="m" corresp="#s1:l2">niet</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Die, zoo valsch en loos als <rhyme label="c" type="f">vleijend</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Met zyn' aas aan d'angel <rhyme label="d" type="m">lokt</rhyme>;</l>
+        <l id="s1:l7" met="4" type="+-">'t Vischje vind dat aas <rhyme label="c" type="f" corresp="#s1:l5">verleiênd</rhyme>:</l>
+        <l id="s1:l8" met="4" type="+-">'t Schiet begeerig toe, en <rhyme label="d" type="m" corresp="#s1:l6">slokt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Ach! wat durfde ge u <rhyme label="a" type="f">vermeeten</rhyme>?</l>
+        <l id="s2:l2" met="4" type="+-">Arme diertje, 'k zie gy <rhyme label="b" type="m">bloedt</rhyme>!</l>
+        <l id="s2:l3" met="4" type="+-">Hadt gy toch niet <rhyme label="a" type="f" corresp="#s2:l1">toegebeeten</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Noch uw' wuften lust <rhyme label="b" type="m" corresp="#s2:l2">geboet</rhyme>!.....</l>
+        <l id="s2:l5" met="4" type="+-">Laat ik nimmer dwaas <rhyme label="c" type="f">begeeren</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Noch verleiding toegang <rhyme label="d" type="m">biên</rhyme>!</l>
+        <l id="s2:l7" met="4" type="+-">Laat my uit uw voorbeeld <rhyme label="c" type="f" corresp="#s2:l5">leeren</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">'s Waerelds lokäas steeds te <rhyme label="d" type="m" corresp="#s2:l6">ontvliên</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

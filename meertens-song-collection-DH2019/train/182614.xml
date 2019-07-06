@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182614</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Dieu d'amour en ce jour</melody>
+  <author>Hendrik Riemsnijder</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Dat 't <rhyme label="a" type="m">gewis</rhyme>.</l>
+        <l id="s1:l2" met="2" type="+-">Wenschlyk <rhyme label="a" type="m" corresp="#s1:l1">is</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Ryk en in aanzien te <rhyme label="b" type="f">leeven</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Zal 'k niet <rhyme label="b" type="f" corresp="#s1:l3">weêstreeven</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">'k Geef deez' <rhyme label="a" type="m" corresp="#s1:l1">getuigenis</rhyme>:</l>
+        <l id="s1:l6" met="3" type="-+">Maar 't grootst geluk kan <rhyme label="c" type="f">hieten</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Wanneer wy, vry van <rhyme label="d" type="m">schyn</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Dat geluk, dat wy <rhyme label="c" type="f" corresp="#s1:l6">genieten</rhyme>,</l>
+        <l id="s1:l9" met="4" type="-+">Ja zelfs het grootste waardig <rhyme label="d" type="m" corresp="#s1:l7">zyn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

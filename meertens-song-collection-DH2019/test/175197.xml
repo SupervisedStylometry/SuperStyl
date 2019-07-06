@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175197</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ik ken een aapje, loos en <rhyme label="a" type="m">vlug</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Een baasjen onder de <rhyme label="b" type="f">apen</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Een rokjen dekt zijn' slanken <rhyme label="a" type="m" corresp="#s1:l1">rug</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Een hoedje dekt zijn <rhyme label="b" type="f" corresp="#s1:l2">slapen</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Wanneer hij voor zijn hokje <rhyme label="c" type="m">staat</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Denkt gij een' Heer te <rhyme label="d" type="f">groeten</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Maar als hij aan het klimmen <rhyme label="c" type="m" corresp="#s1:l5">gaat</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Ziet gij zijn bloote <rhyme label="d" type="f" corresp="#s1:l6">voeten</rhyme>: -</l>
+        <l id="s1:l9" met="4" type="-+">En wat ge dan nog verder <rhyme label="e" type="m">ziet</rhyme>,</l>
+        <l id="s1:l10" met="2" type="-+">Dat zeg ik <rhyme label="e" type="m" corresp="#s1:l9">niet</rhyme>....</l>
+        <l id="s1:l11" met="4" type="+-">Of waarom zou ik woorden <rhyme label="f" type="f">spillen</rhyme>?....</l>
+        <l id="s1:l12" met="4" type="-+">Gij weet toch, Jongens (Meisjes)! wat men <rhyme label="e" type="m" corresp="#s1:l9">ziet</rhyme>,</l>
+        <l id="s1:l13" met="4" type="-+">Als apen hoogop klimmen <rhyme label="f" type="f" corresp="#s1:l11">willen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Gij, aardige aapjes, klein en <rhyme label="a" type="m">groot</rhyme>!</l>
+        <l id="s2:l2" met="3" type="-+">Die hoedjes draagt en <rhyme label="b" type="f">rokken</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Och! denkt'reis aan uw beentjes <rhyme label="a" type="m" corresp="#s2:l1">bloot</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">En blijft wat bij uw <rhyme label="b" type="f" corresp="#s2:l2">hokken</rhyme>: -</l>
+        <l id="s2:l5" met="4" type="-+">Wie hooger zijn wil dan zijn <rhyme label="c" type="m">staat</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Of meer dan zijns <rhyme label="d" type="f">gelijken</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">(Gij kunt er vast op gaan) die <rhyme label="c" type="m" corresp="#s2:l5">laat</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Zijn bloote beenen <rhyme label="d" type="f" corresp="#s2:l6">kijken</rhyme>:</l>
+        <l id="s2:l9" met="4" type="-+">En wat ge dan nog verder <rhyme label="e" type="m">ziet</rhyme>,</l>
+        <l id="s2:l10" met="2" type="-+">Dat zeg ik <rhyme label="e" type="m" corresp="#s2:l9">niet</rhyme>....</l>
+        <l id="s2:l11" met="4" type="+-">Of waarom zou ik woorden <rhyme label="f" type="f">spillen</rhyme>?....</l>
+        <l id="s2:l12" met="4" type="-+">Gij weet toch, Jongens (Meisjes)! wat men <rhyme label="e" type="m" corresp="#s2:l9">ziet</rhyme>,</l>
+        <l id="s2:l13" met="4" type="-+">Als apen hoogop klimmen <rhyme label="f" type="f" corresp="#s2:l11">willen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

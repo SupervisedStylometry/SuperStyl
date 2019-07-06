@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32758</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="paaslied" translation="Easter song">paaslied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>De lustelijke mei is nu in de tijd</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">MEt gheestelijcke vreught <rhyme label="a" type="m">melodieus</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Laet ons vrolijck <rhyme label="b" type="f">wesen</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Want Christus onsen Heer <rhyme label="a" type="m" corresp="#s1:l1">victorieus</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Vander doot is <rhyme label="b" type="f" corresp="#s1:l2">verresen</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Nu in de geest van Paesschen <rhyme label="c" type="m">certeyn</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Want nu soo wort een soet liet <rhyme label="c" type="m" corresp="#s1:l5">ghemeyn</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Met spelen gheloovighe <rhyme label="d" type="f">tonghen</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Alleluia al omme <rhyme label="d" type="f" corresp="#s1:l7">ghesonghen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Ghestorven is hy eens naer Paulus <rhyme label="a" type="m">leer</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Hy en sal niet meer <rhyme label="b" type="f">sterven</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Die doot en sal niet domineren <rhyme label="a" type="m" corresp="#s2:l1">meer</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Wy sullen 't leven <rhyme label="b" type="f" corresp="#s2:l2">erven</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Voor hem die inder eeuwicheyt <rhyme label="c" type="m">leeft</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Die ons sijn bloet seer mildelijck <rhyme label="c" type="m" corresp="#s2:l5">gheeft</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Als een Pellicaen voor sijn <rhyme label="d" type="f">jonghen</rhyme>.</l>
+        <l id="s2:l8" met="4" type="-+">Dus wort Alleluia <rhyme label="d" type="f" corresp="#s2:l7">ghesonghen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Victorieus Christus koninck <rhyme label="a" type="m">groot</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Klaerder dan duysent <rhyme label="b" type="f">Sonnen</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Die helsche poorte der eeuwighe <rhyme label="a" type="m" corresp="#s3:l1">doot</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Heeft hy gheheel <rhyme label="b" type="f" corresp="#s3:l2">verwonnen</rhyme>?</l>
+        <l id="s3:l5" met="4" type="-+">Zijn lieve vrienden daer uyt <rhyme label="c" type="m">ghebracht</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">En heeft benomen Lucifers <rhyme label="c" type="m" corresp="#s3:l5">macht</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Hy can ons tot sonden niet <rhyme label="d" type="f">dwinghen</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Dus wilt nu Alleluia <rhyme label="d" type="f" corresp="#s3:l7">singhen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

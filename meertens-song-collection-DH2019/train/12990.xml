@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12990</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+    </tags>
+    <melody>Een ruitertje jong van jaren</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">WA duiker wa gaat auw <rhyme label="a" type="f">over</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Zegt Hummeling, minde mayn <rhyme label="b" type="m">Lief</rhyme>?</l>
+        <l id="s1:l3" met="3" type="-+">Ke Pof-hans moak 'et nie <rhyme label="a" type="f" corresp="#s1:l1">groover</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Af 'k vil auw me mayn <rhyme label="b" type="m" corresp="#s1:l2">kanief</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Betrap ik auw eens, kik zweer auw den <rhyme label="c" type="m">doodt</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Betrap ik auw eens, kik zweer auw den <rhyme label="c" type="m" corresp="#s1:l5">doodt</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">G'en zult mayn Lief niet krayge, <rhyme label="d" type="m">Schar-luin</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Al stonde gay op auw <rhyme label="c" type="m" corresp="#s1:l5">hoot</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Pots doezent! wat let tich to <rhyme label="a" type="f">vlukken</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Doe Hoosze-kof? lichk mier dem <rhyme label="b" type="m">moors</rhyme>:</l>
+        <l id="s2:l3" met="3" type="-+">Wo rijd dich dem Droes, tum <rhyme label="a" type="f" corresp="#s2:l1">zukken</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Spregt Brabb'laar, meenstu al <rhyme label="b" type="m" corresp="#s2:l2">woors</rhyme>?</l>
+        <l id="s2:l5" met="4" type="-+">Hoe stayt dich dem Reutel-kay zo <rhyme label="c" type="m">losk</rhyme>?</l>
+        <l id="s2:l6" met="4" type="-+">Hoe stayt dich dem Reutel-kay zo <rhyme label="c" type="m" corresp="#s2:l5">losk</rhyme>?</l>
+        <l id="s2:l7" met="4" type="-+">Du schalft am dem Deern nicht snoeven, <rhyme label="d" type="m">Schen-hond</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Al scheets stu haar wie ain <rhyme label="c" type="m" corresp="#s2:l5">Vosk</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="+-">Wa 's jar me dees <rhyme label="a" type="f">vuyle-plugge</rhyme>!</l>
+        <l id="s3:l2" met="3" type="-+">Hans maf maf, ba haut 'er auw <rhyme label="b" type="m">bek</rhyme>;</l>
+        <l id="s3:l3" met="3" type="-+">Brilt naar auw Land, vrayd daar een <rhyme label="a" type="f" corresp="#s3:l1">Zugge</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Ba hauwde may voor auw <rhyme label="b" type="m" corresp="#s3:l2">Gek</rhyme>?</l>
+        <l id="s3:l5" met="4" type="-+">Wa quelme dees rappigen <rhyme label="c" type="m">Schuyfel-baut</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Wa quelme dees rappigen <rhyme label="c" type="m" corresp="#s3:l5">Schuyfel-baut</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">G'en zult mayn lief nie kraygen, <rhyme label="d" type="m">Schar-luin</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Al scheete ook bahes vol <rhyme label="c" type="m" corresp="#s3:l5">Gaut</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="+-">Hold smoel toe doe <rhyme label="a" type="f">Berrenhoeter</rhyme>:</l>
+        <l id="s4:l2" met="3" type="-+">Lauf Bogger, lauf vorig dem <rhyme label="b" type="m">Droes</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Ohn maght mier met dijn <rhyme label="a" type="f" corresp="#s4:l1">gekoeter</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Mier dullen kof nicht al to <rhyme label="b" type="m" corresp="#s4:l2">kroes</rhyme>;</l>
+        <l id="s4:l5" met="4" type="-+">Wat bruid mich des Nar? tza, licht mier dem <rhyme label="c" type="m">voet</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Wat bruid mich des Nar? tza, licht mier dem <rhyme label="c" type="m" corresp="#s4:l5">voet</rhyme>,</l>
+        <l id="s4:l7" met="4" type="-+">Du schalst am dem Deern nicht snoeven, <rhyme label="d" type="m">Schen-hond</rhyme>,</l>
+        <l id="s4:l8" met="3" type="-+">Al sprongstu auch oet dijn <rhyme label="c" type="m" corresp="#s4:l5">hoet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

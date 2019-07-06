@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36993</id>
+    <date>
+      <year-start>1677</year-start>
+      <year-end>1677</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="spotlied" translation="mocking song">spotlied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Canaries</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WElderigh Hansken’ sagh eens een <rhyme label="a" type="f">kansken</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Aen ons mal Truyken die hupse <rhyme label="b" type="m">Baesin</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Want sy droegh Locken, en syde <rhyme label="c" type="f">Rocken</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Met groote Borsen en luttel daer <rhyme label="b" type="m" corresp="#s1:l2">in</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Truyken gingh proncken’ Hansken gingh <rhyme label="a" type="f">voncken</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">'t Huysken van Hansken gheraeckten in <rhyme label="b" type="m">brandt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Hansken besoeckt haer’ Hansken versoeckt <rhyme label="c" type="f">haer</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Truyken gheeft Hansken haer Trouw en haer <rhyme label="b" type="m" corresp="#s2:l2">handt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Als sy nu souwen’ Bruyloft gaen <rhyme label="a" type="f">houwen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Wasser noch Tafel, noch Stoelen <rhyme label="b" type="m">gheset</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Maer sy-lied' saten,; Samen en <rhyme label="c" type="f">aten</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Op een blauw steene Banck sonder <rhyme label="b" type="m" corresp="#s3:l2">servet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Noch Taert, noch Wafel’ Wasser op <rhyme label="a" type="f">Tafel</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Ja, daer was qualyck een Broodtjen in <rhyme label="b" type="m">Huys</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Hansken noch Truytjen’ hadd' niet een <rhyme label="c" type="f">Duytjen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Truyken en droegh maer een valsch gouwen <rhyme label="b" type="m" corresp="#s4:l2">Kruys</rhyme>,</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Nu heeft ons Hansken’ een magher <rhyme label="a" type="f">Gansken</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Die niet en heeft als van alles <rhyme label="b" type="m">ghebreck</rhyme>;</l>
+        <l id="s5:l3" met="4" type="-+">Nu heeft ons Truytjen’ een kael <rhyme label="c" type="f">Reyn-uytjen</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Ieghelyck houwter noch mede den <rhyme label="b" type="m" corresp="#s5:l2">geck</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

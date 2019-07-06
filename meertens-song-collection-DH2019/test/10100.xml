@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10100</id>
+    <date>
+      <year-start>1634</year-start>
+      <year-end>1634</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Als ik uit wandelen ga</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O Puyckse vande <rhyme label="a" type="m">jeught</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">‘tLant is om u <rhyme label="a" type="m" corresp="#s1:l1">verheught</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Waer dat ghy comt daer sietmen <rhyme label="a" type="m" corresp="#s1:l1">vreught</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">O wesen yder een <rhyme label="b" type="m">verblijt</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Ick wil oock roemen breet en <rhyme label="b" type="m" corresp="#s1:l4">wijt</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">O deught, al schoon ghy wert <rhyme label="b" type="m" corresp="#s1:l4">benijt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Komt Nimphjens vande <rhyme label="a" type="m">kandt</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Der Zuyer-Zeesche <rhyme label="a" type="m" corresp="#s2:l1">strandt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Neemt nu met vreughden inde <rhyme label="a" type="m" corresp="#s2:l1">handt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Fioelen, Harpen ende <rhyme label="b" type="m">Luyt</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Syters, Bassen ende <rhyme label="b" type="m" corresp="#s2:l4">Fluyt</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Basuynt mijn liefjens deuchden <rhyme label="b" type="m" corresp="#s2:l4">uyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">‘Tis waerdich datmen <rhyme label="a" type="m">queelt</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Want Hooren heeft <rhyme label="a" type="m" corresp="#s3:l1">gheteelt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Nae dat my dunckt, het schoonste <rhyme label="a" type="m" corresp="#s3:l1">beeldt</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Voorwaer niet een in’t <rhyme label="b" type="m">Noorder-Landt</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Mijns oordeels, men soo schoon en <rhyme label="b" type="m" corresp="#s3:l4">vandt</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Ghelijck als dees Godin <rhyme label="b" type="m" corresp="#s3:l4">valjandt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">O soete <rhyme label="a" type="m">Zuyer-Zee</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Laet doch van liever <rhyme label="a" type="m" corresp="#s4:l1">lee</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">De Nimphjens komen op de <rhyme label="a" type="m" corresp="#s4:l1">ree</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Sy willen gheven lof en <rhyme label="b" type="m">roem</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Een teere Maeght, noch jongh van <rhyme label="b" type="m" corresp="#s4:l4">bloem</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Die ick steets mijn liefste <rhyme label="b" type="m" corresp="#s4:l4">noem</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Seer vriendelijck en <rhyme label="a" type="m">soet</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Sy stadich haer op <rhyme label="a" type="m" corresp="#s5:l1">doet</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">De deuchde woont in haer <rhyme label="a" type="m" corresp="#s5:l1">ghemoet</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Op’t alderhooghst wert sy <rhyme label="b" type="m">bemint</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">Van het soete Venus <rhyme label="b" type="m" corresp="#s5:l4">kint</rhyme>,</l>
+        <l id="s5:l6" met="4" type="-+">Dat haer schoonheydt heeft <rhyme label="b" type="m" corresp="#s5:l4">ghesint</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Princes biedt my u <rhyme label="a" type="m">handt</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">Ick bid doet <rhyme label="a" type="m" corresp="#s6:l1">onderstandt</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Ach liefste blust mijn heete <rhyme label="a" type="m" corresp="#s6:l1">brandt</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Op dat ick roemen mach <rhyme label="b" type="m">altijdt</rhyme>,</l>
+        <l id="s6:l5" met="4" type="-+">Van herten vrolijck en <rhyme label="b" type="m" corresp="#s6:l4">verblijdt</rhyme>,</l>
+        <l id="s6:l6" met="4" type="-+">U eed’le deuchde breet en <rhyme label="b" type="m" corresp="#s6:l4">wijt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

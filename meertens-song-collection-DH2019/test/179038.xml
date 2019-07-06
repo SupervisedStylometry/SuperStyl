@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>179038</id>
+    <date>
+      <year-start>1866</year-start>
+      <year-end>1866</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Mieke min ik teder</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">Mie- ken min ik <rhyme label="a" type="m">teêr</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">Mie-ken mint me <rhyme label="a" type="m" corresp="#s1:l1">weêr</rhyme>:</l>
+        <l id="s1:l3" met="4" type="+-">Dies is Miekens moeder <rhyme label="b" type="m">kwaad</rhyme>!</l>
+        <l id="s1:l4" met="4" type="-+">Wat of ik doe, hoe fraai ik <rhyme label="b" type="m" corresp="#s1:l3">praat</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Kom ik aan huis, zij jaagt me op <rhyme label="b" type="m" corresp="#s1:l3">straat</rhyme>...</l>
+        <l id="s1:l6" met="1" type="+-"><rhyme label="c" type="m">Och</rhyme>!</l>
+        <l id="s1:l7" met="2" type="-+">Wat meent ze dan <rhyme label="c" type="m" corresp="#s1:l6">toch</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Wakker houdt ze <rhyme label="a" type="m">wacht</rhyme>,</l>
+        <l id="s2:l2" met="3" type="+-">Doof voor Miekens <rhyme label="a" type="m" corresp="#s2:l1">klacht</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Spottend met mijn smeekend <rhyme label="b" type="m">woord</rhyme>...</l>
+        <l id="s2:l4" met="4" type="-+">Zendt me bij dag wreedaardig <rhyme label="b" type="m" corresp="#s2:l3">voort</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Sluit me bij nachte luik en <rhyme label="b" type="m" corresp="#s2:l3">poort</rhyme>...</l>
+        <l id="s2:l6" met="1" type="+-"><rhyme label="c" type="m">Och</rhyme>,</l>
+        <l id="s2:l7" met="2" type="-+">Wat meent ze dan <rhyme label="c" type="m" corresp="#s2:l6">toch</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="+-">Maak zoo <rhyme label="a" type="m">nutteloos</rhyme>,</l>
+        <l id="s3:l2" met="3" type="+-">Moeder, u niet <rhyme label="a" type="m" corresp="#s3:l1">boos</rhyme>...</l>
+        <l id="s3:l3" met="4" type="+-">Liefde is machtig als het <rhyme label="b" type="m">lot</rhyme>:</l>
+        <l id="s3:l4" met="4" type="-+">Niet te weêrstaan is haar <rhyme label="b" type="m" corresp="#s3:l3">gebod</rhyme>!</l>
+        <l id="s3:l5" met="4" type="-+">Houdt gij mijn lief ook achter <rhyme label="b" type="m" corresp="#s3:l3">slot</rhyme>,</l>
+        <l id="s3:l6" met="1" type="+-">
+          <rhyme label="c" type="m">Mijn</rhyme>
+        </l>
+        <l id="s3:l7" met="2" type="-+">Zal Mieken toch <rhyme label="c" type="m" corresp="#s3:l6">zijn</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

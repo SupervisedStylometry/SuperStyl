@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>150619</id>
+    <date>
+      <year-start>1630</year-start>
+      <year-end>1630</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 123 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Dirk Rafaelsz. Camphuysen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">TOt u, wiens stoel des Hemels hooghste <rhyme label="a" type="m">hoogh</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Ten gront heeft, heff ic’t <rhyme label="a" type="m" corresp="#s1:l1">oogh</rhyme>.</l>
+        <l id="s1:l3" met="5" type="-+">Een slave volght, door hoop’ van gift <rhyme label="b" type="f">getogen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Sijns Heeren handt met <rhyme label="b" type="f" corresp="#s1:l3">d’oogen</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">Een dienst-maechdt staart, door’t gierigh <rhyme label="c" type="f">gaeff-vertrouwen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Op d’handen haerder <rhyme label="c" type="f" corresp="#s1:l5">vrouwen</rhyme>:</l>
+        <l id="s1:l7" met="5" type="-+">Ons oogh op Godt op dat (dus treckt elck <rhyme label="d" type="m">’tsijn</rhyme>)</l>
+        <l id="s1:l8" met="3" type="-+">Hy ons verloss’ uyt <rhyme label="d" type="m" corresp="#s1:l7">pijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Vergunt, o Godt, ons bitter <rhyme label="a" type="m">herten-wee</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">In uw’ gemoedt een <rhyme label="a" type="m" corresp="#s2:l1">ste’e</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Op dat des leets dicht en getrou <rhyme label="b" type="f">op-mercken</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Erbarmings vrucht mach <rhyme label="b" type="f" corresp="#s2:l3">wercken</rhyme>.</l>
+        <l id="s2:l5" met="5" type="-+">Ach! ach! wy zijn van ’tbitsch en bitter <rhyme label="c" type="f">smaden</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Der dert’len <rhyme label="c" type="f" corresp="#s2:l5">overladen</rhyme>.</l>
+        <l id="s2:l7" met="5" type="-+">En van’t geschimp (want al te veel maeckt <rhyme label="d" type="m">mat</rhyme>)</l>
+        <l id="s2:l8" met="3" type="-+">Der trotsen zijn wy <rhyme label="d" type="m" corresp="#s2:l7">zat</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

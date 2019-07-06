@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8905</id>
+    <date>
+      <year-start>1625</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Herr Christ der einig Gottes Sohn</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">MYn Ooghen ick <rhyme label="a" type="f">oprechte</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Tot dy in s'HEmels <rhyme label="b" type="m">Throon</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Als Maechden ende <rhyme label="a" type="f" corresp="#s1:l1">Knechte</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">In sware Tijden <rhyme label="b" type="m" corresp="#s1:l2">doen</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Haer Ooghen sonder <rhyme label="c" type="f">schande</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Op Heer en Vrouwen <rhyme label="c" type="f" corresp="#s1:l5">hande</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Vrymoedich sien <rhyme label="d" type="m">altijdt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Also sien onse <rhyme label="a" type="f">Ooghen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Op den HEER onsen <rhyme label="b" type="m">Godt</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Bet dat hy ons gaet <rhyme label="a" type="f" corresp="#s2:l1">voeghen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Weldadig sonder <rhyme label="b" type="m" corresp="#s2:l2">spot</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Zijt ons Ghenadich <rhyme label="c" type="f">HEERE</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Ghenaedich zijt noch <rhyme label="c" type="f" corresp="#s2:l5">meere</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Want ghy zijt <rhyme label="d" type="m">goedertier</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Versmaetheyt end <rhyme label="a" type="f">Verachten</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">In ons een groot <rhyme label="b" type="m">ghequel</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Syn staedich noch <rhyme label="a" type="f" corresp="#s3:l1">verwachten</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Der Stouten spot soo <rhyme label="b" type="m" corresp="#s3:l2">fel</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Seer vol is onse <rhyme label="c" type="f">Siele</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Des Schimpens al te <rhyme label="c" type="f" corresp="#s3:l5">vele</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Van t'hovaerdich <rhyme label="d" type="m">ghespuys</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19491</id>
+    <date>
+      <year-start>1677</year-start>
+      <year-end>1677</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+    </tags>
+    <melody>Boksvoetje</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WEl vrolikke Maagden, waer blijft nu de <rhyme label="a" type="m">vreugd</rhyme>?</l>
+        <l id="s1:l2" met="4" type="-+">Aen't queelen, aen 't speelen. ay zijt toch <rhyme label="a" type="m" corresp="#s1:l1">verheugd</rhyme>.</l>
+        <l id="s1:l3" met="2" type="-+">Fris op. <rhyme label="b" type="m">Sangrewie</rhyme>.</l>
+        <l id="s1:l4" met="2" type="-+">'t Sa, repje. Kom <rhyme label="b" type="m" corresp="#s1:l3">zie</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Wat doet nu het kussen aen Geertruidje <rhyme label="a" type="m" corresp="#s1:l1">deugd</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Nu loncktze, nu lachtse, nu heeftse haer <rhyme label="a" type="m">deeg</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Nu staet'er geen hater nocht yets in de <rhyme label="a" type="m" corresp="#s2:l1">weegh</rhyme>.</l>
+        <l id="s2:l3" met="2" type="-+">Zy mach alsse <rhyme label="b" type="m">wil</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Nu mede op den <rhyme label="b" type="m" corresp="#s2:l3">tril</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">En zien waer heur Moeder de Bruyds-schat voor <rhyme label="a" type="m" corresp="#s2:l1">kreeg</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Och! wist ghy eens wat zy, in d'aenstaende <rhyme label="a" type="m">nacht</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Al neepjes, en greepjes en deuntjes <rhyme label="a" type="m" corresp="#s3:l1">verwacht</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">Ghy zout, neevens <rhyme label="b" type="m">haer</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">Mee zeggen: zoo <rhyme label="b" type="m" corresp="#s3:l3">waer</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Wy hebben onwetend te lange <rhyme label="a" type="m" corresp="#s3:l1">gewacht</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Want twee zoete liefjes in 't warreme <rhyme label="a" type="m">bed</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Die meste ten leste malkander heel <rhyme label="a" type="m" corresp="#s4:l1">vet</rhyme>:</l>
+        <l id="s4:l3" met="2" type="-+">Ja, in dese <rhyme label="b" type="m">staet</rhyme>,</l>
+        <l id="s4:l4" met="2" type="-+">Zeyt yder, hoe 't <rhyme label="b" type="m" corresp="#s4:l3">gaet</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Staeg weer. Sangrewie, dat's edelste <rhyme label="a" type="m" corresp="#s4:l1">pret</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Des Maegden zoo u die vreugde <rhyme label="a" type="m">behaegt</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Uw' bloosjes en roosjes door 't zoenen vry <rhyme label="a" type="m" corresp="#s5:l1">waegt</rhyme>.</l>
+        <l id="s5:l3" met="2" type="-+">Dijn Speelnood gaet <rhyme label="b" type="m">voor</rhyme>.</l>
+        <l id="s5:l4" met="2" type="-+">Koom vollig haer <rhyme label="b" type="m" corresp="#s5:l3">spoor</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">En zeg: Sangrewie zoo yemand u 't <rhyme label="a" type="m" corresp="#s5:l1">vraegd</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22444</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody>Herr Christ der einig Gottes Sohn</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">U Bidden wy dijn <rhyme label="a" type="f">kinderen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">O Vader en Heere <rhyme label="b" type="m">groot</rhyme>:</l>
+        <l id="s1:l3" met="3" type="-+">Doet onse sorghen <rhyme label="a" type="f" corresp="#s1:l1">minderen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Gheeft ons dat daghelijcx <rhyme label="b" type="m" corresp="#s1:l2">Broot</rhyme>:</l>
+        <l id="s1:l5" met="3" type="-+">Behoedt in ons dat <rhyme label="c" type="f">leuen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Dat ghy ons hebt <rhyme label="c" type="f" corresp="#s1:l5">ghegheuen</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Tot wy ons vinden by <rhyme label="d" type="m">dy</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Wilt oock <rhyme label="a" type="f">ghebenedijden</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Wat ghy ons hebt <rhyme label="b" type="m">bereyt</rhyme>:</l>
+        <l id="s2:l3" met="3" type="-+">Dat wy cranckheyt <rhyme label="a" type="f" corresp="#s2:l1">ontglijden</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Vermeerdert ons <rhyme label="b" type="m" corresp="#s2:l2">sterckheyt</rhyme>:</l>
+        <l id="s2:l5" met="3" type="-+">Om in dijnen dienst te <rhyme label="c" type="f">blijuen</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">En wercken der liefden te <rhyme label="c" type="f" corresp="#s2:l5">drijuen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Teghen den naesten <rhyme label="d" type="m">fijn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Wilt U liefde <rhyme label="a" type="f">bewijsen</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Ons gheuende goeden <rhyme label="b" type="m">raet</rhyme>:</l>
+        <l id="s3:l3" met="3" type="-+">Wilt dhongherighe <rhyme label="a" type="f" corresp="#s3:l1">spijsen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">En versaeden sonder <rhyme label="b" type="m" corresp="#s3:l2">verlaet</rhyme>:</l>
+        <l id="s3:l5" met="3" type="-+">Dat wy u alle <rhyme label="c" type="f">louen</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Dijne goetheyt van hier <rhyme label="c" type="f" corresp="#s3:l5">bouen</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">En bekennen altijt met <rhyme label="d" type="m">danck</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

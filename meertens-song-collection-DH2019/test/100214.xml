@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100214</id>
+    <date>
+      <year-start>1746</year-start>
+      <year-end>1760</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Laura zat laatst bij de beek</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">NOit kon ymand heeter <rhyme label="a" type="m">vier</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Voelen, nog vergrimder <rhyme label="b" type="f">plagen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Als die quetzen, die nu <rhyme label="a" type="m" corresp="#s1:l1">hier</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Sterrevend' myn droefheid <rhyme label="b" type="f" corresp="#s1:l2">klagen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Ach! te bitze minne <rhyme label="b" type="f" corresp="#s1:l2">klagen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Hoe verteerd gy my als <rhyme label="c" type="m">sneê</rhyme>:</l>
+        <l id="s1:l7" met="4" type="+-">G'lyk een schip in dulle <rhyme label="d" type="f">golven</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Leg ik angstig <rhyme label="d" type="f" corresp="#s1:l7">neêrgedolven</rhyme></l>
+        <l id="s1:l9" met="4" type="+-">In een barsse <rhyme label="c" type="m" corresp="#s1:l6">liefdezee</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Dees verwoede <rhyme label="a" type="m">razerny</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Doet my hopend' hoop'loos <rhyme label="b" type="f">leven</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">'k Ben in eige droefheid <rhyme label="a" type="m" corresp="#s2:l1">bly</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Mogt ik myn ziel <rhyme label="b" type="f" corresp="#s2:l2">overgeven</rhyme>!</l>
+        <l id="s2:l5" met="4" type="+-">'k Ben dit al te bange <rhyme label="b" type="f" corresp="#s2:l2">leven</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Sat. Maar, ach! of myn <rhyme label="c" type="m">Godin</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">Was mêdoogent met dit <rhyme label="d" type="f">lyen</rhyme>;</l>
+        <l id="s2:l8" met="4" type="+-">Niemand kan my zoo <rhyme label="d" type="f" corresp="#s2:l7">verblyen</rhyme>,</l>
+        <l id="s2:l9" met="4" type="+-">Als haar minste <rhyme label="c" type="m" corresp="#s2:l6">weder-min</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

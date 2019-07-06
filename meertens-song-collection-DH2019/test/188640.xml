@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188640</id>
+    <date>
+      <year-start>1795</year-start>
+      <year-end>1795</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>De wereld is in rep en roer</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Daar rijst de Vrijheids-boom <rhyme label="a" type="m">omhoog</rhyme>!</l>
+        <l id="s1:l2" met="4" type="-+">Hoe streeld zijn schoon ons harte en <rhyme label="a" type="m" corresp="#s1:l1">oog</rhyme>.</l>
+        <l id="s1:l3" met="3" type="-+">Juich vrije <rhyme label="b" type="f">Batavieren</rhyme>!</l>
+        <l id="s1:l4" met="4" type="-+">En zing den Franschen <rhyme label="c" type="m">legerdrom</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Die ons verlost heeft, <rhyme label="c" type="m" corresp="#s1:l4">wellekom</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Kroon dien met <rhyme label="b" type="f" corresp="#s1:l3">eerlaurieren</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Vlugt vuige slaaf, die, met <rhyme label="a" type="m">verdriet</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Dit Vrijheids teeken pralen <rhyme label="a" type="m" corresp="#s2:l1">ziet</rhyme>.</l>
+        <l id="s2:l3" met="3" type="-+">Gij kunt ons feest niet <rhyme label="b" type="f">vieren</rhyme>.</l>
+        <l id="s2:l4" met="4" type="-+">Vlugt naar het Albionsche <rhyme label="c" type="m">strand</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">En kruip daar voor uw <rhyme label="c" type="m" corresp="#s2:l4">Dwingeland</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Dat past geen <rhyme label="b" type="f" corresp="#s2:l3">Batavieren</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">O Belgen! welk een <rhyme label="a" type="m">zegepraal</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Nu mag het gantsche <rhyme label="a" type="m" corresp="#s3:l1">Leeuwendaal</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Den Boom der Vrijheid <rhyme label="b" type="f">sieren</rhyme>!</l>
+        <l id="s3:l4" met="4" type="-+">Dat hij, dat hij hier eeuwig <rhyme label="c" type="m">bloeij'</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">In Hollandsch tuingrond weelig <rhyme label="c" type="m" corresp="#s3:l4">groeij'</rhyme>!</l>
+        <l id="s3:l6" met="3" type="-+">Zijn kruin draagt <rhyme label="b" type="f" corresp="#s3:l3">eerlaurieren</rhyme>!</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Juich nu Civilis <rhyme label="a" type="m">Nageslacht</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Ten spijt van Pruissens <rhyme label="a" type="m" corresp="#s4:l1">legermagt</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">En Englands <rhyme label="b" type="f">krijgsbanieren</rhyme>.</l>
+        <l id="s4:l4" met="4" type="-+">Koom, laat ons met den dappren <rhyme label="c" type="m">Gal</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Wien Neêrland eeuwig danken <rhyme label="c" type="m" corresp="#s4:l4">zal</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Het Feest der Vrijheid <rhyme label="b" type="f" corresp="#s4:l3">vieren</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Koom nu, Bataafsche <rhyme label="a" type="m">Maagden-stoet</rhyme>!</l>
+        <l id="s5:l2" met="4" type="-+">Koom, schoone! uit het edel <rhyme label="a" type="m" corresp="#s5:l1">bloed</rhyme></l>
+        <l id="s5:l3" met="3" type="-+">Geteeld, der <rhyme label="b" type="f">Batavieren</rhyme>.</l>
+        <l id="s5:l4" met="4" type="-+">Danst, danst nu met het <rhyme label="c" type="m">Jonglingschap</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">En laat bij 't vrolijk <rhyme label="c" type="m" corresp="#s5:l4">handgeklap</rhyme>,</l>
+        <l id="s5:l6" met="3" type="-+">De Vrijheids-vlaggen <rhyme label="b" type="f" corresp="#s5:l3">zwieren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

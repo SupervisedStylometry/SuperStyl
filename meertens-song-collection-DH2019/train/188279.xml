@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188279</id>
+    <date>
+      <year-start>1780</year-start>
+      <year-end>1780</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>O stille nacht</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">WAt is u Zieltje, ô Doris! wel te <rhyme label="a" type="m">vreen</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Myn invloed heeft ontroerd het hert van <rhyme label="a" type="m" corresp="#s1:l1">Clorimeen</rhyme>!</l>
+        <l id="s1:l3" met="5" type="-+">De vryheyd haar ontroofd door myn <rhyme label="b" type="f">vermoogen</rhyme>:</l>
+        <l id="s1:l4" met="6" type="-+">Ja U doen kwynen door de gloed van haar schoone <rhyme label="b" type="f" corresp="#s1:l3">oogen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Vertoeff nog maar een poos, ô Jeugdig <rhyme label="a" type="m">Paar</rhyme>!</l>
+        <l id="s2:l2" met="6" type="-+">Ik voer u dartelend voor myn geweid <rhyme label="a" type="m" corresp="#s2:l1">Altaar</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Daar Clorimeen van enkle Min zal <rhyme label="b" type="f">bloozen</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">En Doris haar omhelst, op eenen Bed van <rhyme label="b" type="f" corresp="#s2:l3">Roozen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

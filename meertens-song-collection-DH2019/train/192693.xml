@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>192693</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>La marine</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">BEekjes die dees <rhyme label="a" type="f">Weiden</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">Klieft met uw <rhyme label="b" type="m">geruis</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Ey, wild wat <rhyme label="a" type="f" corresp="#s1:l1">verbeiden</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Maakt nog geen <rhyme label="b" type="m" corresp="#s1:l2">gedruis</rhyme>:</l>
+        <l id="s1:l5" met="3" type="+-">Laat myn herder <rhyme label="c" type="f">slaapen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Hy legt zoo <rhyme label="d" type="m">gerust</rhyme>.</l>
+        <l id="s1:l7" met="4" type="+-">Stil gy schapen, laat hem <rhyme label="c" type="f" corresp="#s1:l5">rapen</rhyme></l>
+        <l id="s1:l8" met="2" type="+-">Nog wat <rhyme label="d" type="m" corresp="#s1:l6">rust</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Hy is moe van <rhyme label="a" type="f">Jagen</rhyme>,</l>
+        <l id="s2:l2" met="3" type="+-">Westewindje <rhyme label="b" type="m">blaas</rhyme></l>
+        <l id="s2:l3" met="3" type="+-">Zagjes zonder <rhyme label="a" type="f" corresp="#s2:l1">vlagen</rhyme>:</l>
+        <l id="s2:l4" met="3" type="+-">Maak tog geen <rhyme label="b" type="m" corresp="#s2:l2">geraas</rhyme>.</l>
+        <l id="s2:l5" met="3" type="+-">'t Mogt te zeer <rhyme label="c" type="f">verveelen</rhyme></l>
+        <l id="s2:l6" met="3" type="+-">cefalus myn <rhyme label="d" type="m">lust</rhyme>.</l>
+        <l id="s2:l7" met="4" type="+-">Staakt uw kweelen, <rhyme label="c" type="f" corresp="#s2:l5">Filomeele</rhyme>,</l>
+        <l id="s2:l8" met="2" type="+-">Laat hem <rhyme label="d" type="m" corresp="#s2:l6">rust</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

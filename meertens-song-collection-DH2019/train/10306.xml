@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10306</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>C'est trop courir les eaux</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Ghelijck den dauw <rhyme label="a" type="m">verspreyt</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Op roose blaedtjes <rhyme label="a" type="m" corresp="#s1:l1">leydt</rhyme>,</l>
+        <l id="s1:l3" met="6" type="-+">Ghelijck de Sonne-schyn (voor wien het Roosje <rhyme label="b" type="m">buyght</rhyme>)</l>
+        <l id="s1:l4" met="6" type="-+">De soete morghen dauw, van Roose bladen <rhyme label="b" type="m" corresp="#s1:l3">suyght</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Gelijck een blomepjen <rhyme label="a" type="m">soet</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Door Son en dauw <rhyme label="a" type="m" corresp="#s2:l1">gevoedt</rhyme>,</l>
+        <l id="s2:l3" met="6" type="-+">Een levendighe ziel in levens wellust <rhyme label="b" type="m">brenght</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Wanneer sijn jeughdigh blos is met Kristal <rhyme label="b" type="m" corresp="#s2:l3">vermenght</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Mijn zieltje wellust <rhyme label="a" type="m">schept</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Als ghy u Lipjes <rhyme label="a" type="m" corresp="#s3:l1">rept</rhyme>;</l>
+        <l id="s3:l3" met="6" type="-+">Wiens root korael, myn lief! is als een roos die <rhyme label="b" type="m">bloeyt</rhyme></l>
+        <l id="s3:l4" met="6" type="-+">Waer op Kristalle douw van Hemels Nectar <rhyme label="b" type="m" corresp="#s3:l3">vloeyt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Wat wellust kreegh mijn <rhyme label="a" type="m">ziel</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Als 't oogh hier op <rhyme label="a" type="m" corresp="#s4:l1">verviel</rhyme>;</l>
+        <l id="s4:l3" met="6" type="-+">Ik dacht, dat ick nu moght mijn Engel sonne <rhyme label="b" type="m">sijn</rhyme>,</l>
+        <l id="s4:l4" met="6" type="-+">Ick zoogh mijn zieltje vol, op klipjes van <rhyme label="b" type="m" corresp="#s4:l3">Robijn</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Wat beeck stort soeter <rhyme label="a" type="m">vloedt</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Als Heunich-beeckjen <rhyme label="a" type="m" corresp="#s5:l1">doet</rhyme>?</l>
+        <l id="s5:l3" met="6" type="-+">Die uyt een Hemels grondt de Nectar drupjes <rhyme label="b" type="m">haelt</rhyme>,</l>
+        <l id="s5:l4" met="6" type="-+">En schietse op korael met wit Yvoor <rhyme label="b" type="m" corresp="#s5:l3">bepaelt</rhyme>,</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Daer 't tuyschen van haer <rhyme label="a" type="m">keel</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">(Veer boven het <rhyme label="a" type="m" corresp="#s6:l1">ghespeel</rhyme>,</l>
+        <l id="s6:l3" met="6" type="-+">Of stemmen in Musyck) tot vreuchd de Goden <rhyme label="b" type="m">dwingt</rhyme>,</l>
+        <l id="s6:l4" met="6" type="-+">Wanneer haer lieve keel een minne deuntje <rhyme label="b" type="m" corresp="#s6:l3">zinght</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

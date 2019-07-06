@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25704</id>
+    <date>
+      <year-start>1598</year-start>
+      <year-end>1598</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="acrostichon" translation="acrostic song">acrostichon</tag>
+    </tags>
+    <melody>Als de heer verkeren wou</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Leenaert Clock</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Soet en lieflijck is Gods <rhyme label="a" type="m">Rijck</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Heerlijck tot onser <rhyme label="b" type="f">vromen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Die dat begeeren al <rhyme label="a" type="m" corresp="#s1:l1">ghelijck</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Nemen daer toe nu haren <rhyme label="a" type="m" corresp="#s1:l1">wijck</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Men macht nu wel <rhyme label="b" type="f" corresp="#s1:l2">becomen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Over al en vindtment <rhyme label="a" type="m">niet</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Maer in sekere <rhyme label="b" type="f">steden</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Soo ons dat die Schriftuer <rhyme label="a" type="m" corresp="#s2:l1">aenbiet</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Vroet is hy die’t alsoo <rhyme label="a" type="m" corresp="#s2:l1">aensiet</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Nae Iesu Christi <rhyme label="b" type="f" corresp="#s2:l2">reden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">En die alsoo doen <rhyme label="a" type="m">ghewelt</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Die sullen dat oock <rhyme label="b" type="f">vinden</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Hoort toe waer het nu is <rhyme label="a" type="m" corresp="#s3:l1">ghestelt</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Diep, soo ons de Schriftuer <rhyme label="a" type="m" corresp="#s3:l1">vermelt</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Onbekent voor de <rhyme label="b" type="f" corresp="#s3:l2">blinden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Tot vermeeren <rhyme label="a" type="m">aldermeest</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Moet men hem nu <rhyme label="b" type="f">verhooghen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Wil men hier naemaels <rhyme label="a" type="m" corresp="#s4:l1">onbevreest</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Deur den goeden heylighen <rhyme label="a" type="m" corresp="#s4:l1">Gheest</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Int Rijcke Gods <rhyme label="b" type="f" corresp="#s4:l2">verhooghen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Ghy cleyne vernederde <rhyme label="a" type="m">schaer</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">En wilt doch nu niet <rhyme label="b" type="f">vresen</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">T’is den wille van uwen <rhyme label="a" type="m" corresp="#s5:l1">Vaer</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">V te gheven het Rijck <rhyme label="a" type="m" corresp="#s5:l1">voorwaer</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">Seyt Christus hoogh <rhyme label="b" type="f" corresp="#s5:l2">ghepresen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">En daerom wat ghy <rhyme label="a" type="m">bestaet</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Laet dat nederich <rhyme label="b" type="f">toonen</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">T’zijn woorden, wercken, oft u <rhyme label="a" type="m" corresp="#s6:l1">daet</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Ghedachten, des lichaems <rhyme label="a" type="m" corresp="#s6:l1">cieraet</rhyme>,</l>
+        <l id="s6:l5" met="3" type="-+">Wilt ghy int Rijck Gods <rhyme label="b" type="f" corresp="#s6:l2">woonen</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">Naer desen t’Rijck Gods oock <rhyme label="a" type="m">leydt</rhyme></l>
+        <l id="s7:l2" met="3" type="-+">Subtijl in die <rhyme label="b" type="f">armoede</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Wel hoort haer toe die <rhyme label="a" type="m" corresp="#s7:l1">salicheyt</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">Die Armen gheestelijck <rhyme label="a" type="m" corresp="#s7:l1">bereydt</rhyme>,</l>
+        <l id="s7:l5" met="3" type="-+">T’sal haer comen te <rhyme label="b" type="f" corresp="#s7:l2">goede</rhyme></l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="+-">Des rijcks stifter noyt en <rhyme label="a" type="m">was</rhyme></l>
+        <l id="s8:l2" met="3" type="-+">Rijck nochte <rhyme label="b" type="f">overvloedich</rhyme>,</l>
+        <l id="s8:l3" met="4" type="-+">Noyt en sach men hem soo te <rhyme label="a" type="m" corresp="#s8:l1">pas</rhyme>,</l>
+        <l id="s8:l4" met="4" type="-+">Christus de Heer die ons <rhyme label="a" type="m" corresp="#s8:l1">ghenas</rhyme></l>
+        <l id="s8:l5" met="3" type="-+">Was arm en seer <rhyme label="b" type="f" corresp="#s8:l2">ootmoedich</rhyme></l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="+-">En dees armoede <rhyme label="a" type="m">perfeckt</rhyme></l>
+        <l id="s9:l2" met="3" type="-+">Die moet zijn recht <rhyme label="b" type="f">gheneghen</rhyme>,</l>
+        <l id="s9:l3" met="4" type="-+">Maer wie int begeeren noch <rhyme label="a" type="m" corresp="#s9:l1">streckt</rhyme>,</l>
+        <l id="s9:l4" met="4" type="-+">Om rijck te worden, hem <rhyme label="a" type="m" corresp="#s9:l1">ghebreckt</rhyme></l>
+        <l id="s9:l5" met="3" type="-+">D’armoe, en staet hem <rhyme label="b" type="f" corresp="#s9:l2">teghen</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="+-">Rechtveerdich zijnde <rhyme label="a" type="m">alleyn</rhyme>,</l>
+        <l id="s10:l2" met="3" type="-+">En vervolgingh te <rhyme label="b" type="f">lijden</rhyme>,</l>
+        <l id="s10:l3" met="4" type="-+">Daer in soo vindt men oock <rhyme label="a" type="m" corresp="#s10:l1">ghemeyn</rhyme></l>
+        <l id="s10:l4" met="4" type="-+">Het Rijcke Gods, acht dit niet <rhyme label="a" type="m" corresp="#s10:l1">cleyn</rhyme>,</l>
+        <l id="s10:l5" met="3" type="-+">Wilt ghy met hem <rhyme label="b" type="f" corresp="#s10:l2">verblijden</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="+-">Rijpelijck wilt u <rhyme label="a" type="m">beraen</rhyme></l>
+        <l id="s11:l2" met="3" type="-+">Het cruys willich te <rhyme label="b" type="f">draghen</rhyme>,</l>
+        <l id="s11:l3" met="4" type="-+">Soo sult ghy in het Rijck Gods <rhyme label="a" type="m" corresp="#s11:l1">gaen</rhyme>,</l>
+        <l id="s11:l4" met="4" type="-+">Het hoort u toe, nae Schrifts <rhyme label="a" type="m" corresp="#s11:l1">vermaen</rhyme>,</l>
+        <l id="s11:l5" met="3" type="-+">Soo Christus doet <rhyme label="b" type="f" corresp="#s11:l2">ghewaghen</rhyme>.</l>
+      </lg>
+      <lg id="s12" type="stanza">
+        <l id="s12:l1" met="4" type="+-">In die deuchdelijcke <rhyme label="a" type="m">cracht</rhyme></l>
+        <l id="s12:l2" met="3" type="-+">En daet, soo is <rhyme label="b" type="f">gheleghen</rhyme></l>
+        <l id="s12:l3" met="4" type="-+">Het Rijcke Gods met sijner <rhyme label="a" type="m" corresp="#s12:l1">macht</rhyme>,</l>
+        <l id="s12:l4" met="4" type="-+">Soeckt dit daer in dach ende <rhyme label="a" type="m" corresp="#s12:l1">nacht</rhyme></l>
+        <l id="s12:l5" met="3" type="-+">Tot dat ghy’t hebt <rhyme label="b" type="f" corresp="#s12:l2">vercreghen</rhyme>.</l>
+      </lg>
+      <lg id="s13" type="stanza">
+        <l id="s13:l1" met="4" type="+-">T’rijck Gods en is spijs noch <rhyme label="a" type="m">dranck</rhyme>,</l>
+        <l id="s13:l2" met="3" type="-+">Gherechticheyt is <rhyme label="b" type="f">t’meeste</rhyme></l>
+        <l id="s13:l3" met="4" type="-+">Dat Godt behaeght int leven <rhyme label="a" type="m" corresp="#s13:l1">lanck</rhyme>,</l>
+        <l id="s13:l4" met="4" type="-+">Vreed’ en blijschap, hoort desen <rhyme label="a" type="m" corresp="#s13:l1">sanck</rhyme>,</l>
+        <l id="s13:l5" met="3" type="-+">Nu in den heyl’ghen <rhyme label="b" type="f" corresp="#s13:l2">Gheeste</rhyme>.</l>
+      </lg>
+      <lg id="s14" type="stanza">
+        <l id="s14:l1" met="4" type="+-">Seer beminde in den <rhyme label="a" type="m">Heer</rhyme></l>
+        <l id="s14:l2" met="3" type="-+">Ick laet u hier niet <rhyme label="b" type="f">groeten</rhyme>,</l>
+        <l id="s14:l3" met="4" type="-+">Soeckt hier in t’Rijck Gods even <rhyme label="a" type="m" corresp="#s14:l1">seer</rhyme>,</l>
+        <l id="s14:l4" met="4" type="-+">Men vindt het anders <rhyme label="a" type="m" corresp="#s14:l1">nimmermeer</rhyme>,</l>
+        <l id="s14:l5" met="3" type="-+">Wy moetent aldaer <rhyme label="b" type="f" corresp="#s14:l2">soecken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

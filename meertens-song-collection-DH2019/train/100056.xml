@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>100056</id>
+    <date>
+      <year-start>1652</year-start>
+      <year-end>1652</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>C'est trop courir les eaux</melody>
+  <author>Arnold Bon</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">ONnozel Kintje, <rhyme label="a" type="m">speen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">U traantjes niet, <rhyme label="a" type="m" corresp="#s1:l1">beween</rhyme></l>
+        <l id="s1:l3" met="6" type="-+">(Zo spreekt zijn yver, met een Goddelijk <rhyme label="b" type="m">bescheit</rhyme>)</l>
+        <l id="s1:l4" met="6" type="-+">De werelt vry, en al des werelts <rhyme label="b" type="m" corresp="#s1:l3">ydelheit</rhyme>:</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Steun vieriglijk op <rhyme label="a" type="m">Gods</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Gerechtigheit, de <rhyme label="a" type="m" corresp="#s2:l1">rots</rhyme></l>
+        <l id="s2:l3" met="6" type="-+">Daar wrevel' achterklap, en onvernoegde <rhyme label="b" type="m">Nijt</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Haar altijt-knagent hart en herzens op <rhyme label="b" type="m" corresp="#s2:l3">verslijt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Onnozel Kintje <rhyme label="a" type="m">speen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">U traantjes niet, <rhyme label="a" type="m" corresp="#s3:l1">beween</rhyme></l>
+        <l id="s3:l3" met="6" type="-+">De werelt, stuur alleen u zinnen na om <rhyme label="b" type="m">hoog</rhyme>,</l>
+        <l id="s3:l4" met="6" type="-+">Wy waken om u met een altijt- wakker <rhyme label="b" type="m" corresp="#s3:l3">oog</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

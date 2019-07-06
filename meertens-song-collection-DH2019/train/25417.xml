@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25417</id>
+    <date>
+      <year-start>1425</year-start>
+      <year-end>1430</year-end>
+    </date>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ich vrouwe mir_, das ich zal aen <rhyme label="a" type="m">zien</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">das liever wijf, van der ich nye en <rhyme label="b" type="f">keerte</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Ich moys yr alre duegheden <rhyme label="a" type="m" corresp="#s1:l1">gyen</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">mijn steder moet mir nye anders <rhyme label="b" type="f" corresp="#s1:l2">leerte</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Ich claghede yr ye mijn <rhyme label="c" type="m">ongheval</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">gayr stede in minen <rhyme label="d" type="f">moyte</rhyme>.</l>
+        <l id="s1:l7" met="4" type="+-">Wal mir, das ich ye <rhyme label="c" type="m" corresp="#s1:l5">ghezach</rhyme></l>
+        <l id="s1:l8" met="5" type="-+">by minen daghen eyn wijf zo rechte <rhyme label="d" type="f" corresp="#s1:l6">guete</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Daer om byn ich yr zo <rhyme label="a" type="m">holt</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">yst yr tse danche, oph yr ghenade ich <rhyme label="b" type="f">waerte</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Ich dyende yr ye um rechten <rhyme label="a" type="m" corresp="#s2:l1">tsolt</rhyme>.</l>
+        <l id="s2:l4" met="5" type="-+">Aen allen wanc yst zy eyn wijf zo <rhyme label="b" type="f" corresp="#s2:l2">tsaerte</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Ich wil yr dyenen <rhyme label="c" type="m">onversocht</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">mit truwen ich zy <rhyme label="d" type="f">meyne</rhyme>.</l>
+        <l id="s2:l7" met="4" type="+-">Ze wast zi mijns hertzen <rhyme label="c" type="m" corresp="#s2:l5">voecht</rhyme>,</l>
+        <l id="s2:l8" met="5" type="-+">oph minen eyd, jo zi end anders <rhyme label="d" type="f" corresp="#s2:l6">gheyne</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

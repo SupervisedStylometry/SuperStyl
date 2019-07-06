@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>180383</id>
+    <date>
+      <year-start>1660</year-start>
+      <year-end>1660</year-end>
+    </date>
+    <location>
+      <orginal-name>leuven</orginal-name>
+      <standard-name>Leuven, Belgium</standard-name>
+      <coordinates>
+        <lon>50.879202</lon>
+        <lat>4.7011675</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Plaude laetabunda tellus</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">O Maria <rhyme label="a" type="f">uytgelesen</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Ghy ontfonckt de Engelsch <rhyme label="b" type="m">groet</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">En dat ons al sult <rhyme label="a" type="f" corresp="#s1:l1">genesen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Vwen Sone Iesus <rhyme label="b" type="m" corresp="#s1:l2">soet</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Op u dalen, schoone <rhyme label="c" type="f">stralen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Van den Gheest die heyligh <rhyme label="d" type="m">maeckt</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Want u wesen, seer <rhyme label="e" type="f">gepresen</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Heeft hooverdicheyt <rhyme label="d" type="m" corresp="#s1:l6">versaeckt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

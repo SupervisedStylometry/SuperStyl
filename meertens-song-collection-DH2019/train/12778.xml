@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12778</id>
+    <date>
+      <year-start>1658</year-start>
+      <year-end>1658</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Psalm 116 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Franciscus Ridderus</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">GOds volck heeft tot zijn dienst een vaste <rhyme label="a" type="m">tijt</rhyme>:</l>
+        <l id="s1:l2" met="5" type="-+">Selfs Adam kreegh de last van seven <rhyme label="b" type="f">daegen</rhyme>:</l>
+        <l id="s1:l3" met="5" type="-+">Dees Sabbath oock de Patriarchen <rhyme label="b" type="f" corresp="#s1:l2">saegen</rhyme>:</l>
+        <l id="s1:l4" met="5" type="-+">En 'twerck most doe van Joden zijn <rhyme label="a" type="m" corresp="#s1:l1">vermijt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Gods wet stelt vast, dat 'tsevende <rhyme label="a" type="m">gedeelt</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Van onse tijt ten Gods-dienst zy <rhyme label="b" type="f">gegeven</rhyme>:</l>
+        <l id="s2:l3" met="5" type="-+">'tLeydt oock tot last van ons die nu noch <rhyme label="b" type="f" corresp="#s2:l2">leven</rhyme>.</l>
+        <l id="s2:l4" met="5" type="-+">Hoe wel dit menigh Christen seer <rhyme label="a" type="m" corresp="#s2:l1">verdeelt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">De strenge rust op straf selfs van de <rhyme label="a" type="m">dot</rhyme>:</l>
+        <l id="s3:l2" met="5" type="-+">Het dubbelen van haere <rhyme label="b" type="f">offer-schaepen</rhyme>:</l>
+        <l id="s3:l3" met="5" type="-+">Oock 'tAfbeeld van ons Heeren stille <rhyme label="b" type="f" corresp="#s3:l2">slaepen</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">In 'tgraf was doemaels eygen aen de <rhyme label="a" type="m" corresp="#s3:l1">Joodt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Maer Tempel ganck, de Psalmen, en <rhyme label="a" type="m">'tgebedt</rhyme>:</l>
+        <l id="s4:l2" met="5" type="-+">Het Predicken, de aelmis, en het <rhyme label="b" type="f">lesen</rhyme></l>
+        <l id="s4:l3" met="5" type="-+">Van de Schriftuer, zijn nu noch als voor <rhyme label="b" type="f" corresp="#s4:l2">desen</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">Voor Christenen een vaste Sabbaths <rhyme label="a" type="m" corresp="#s4:l1">wet</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Soo moet de marckt, de hal, de straet, het <rhyme label="a" type="m">velt</rhyme>,</l>
+        <l id="s5:l2" met="5" type="-+">Het huysgesin en oock de winckel <rhyme label="b" type="f">rusten</rhyme>:</l>
+        <l id="s5:l3" met="5" type="-+">Op dat wy ons in Godt mogen <rhyme label="b" type="f" corresp="#s5:l2">verlusten</rhyme>.</l>
+        <l id="s5:l4" met="5" type="-+">Het noodige alleen is vry <rhyme label="a" type="m" corresp="#s5:l1">gestelt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

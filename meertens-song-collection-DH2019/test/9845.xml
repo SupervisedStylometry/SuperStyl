@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>9845</id>
+    <date>
+      <year-start>1627</year-start>
+      <year-end>1627</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 023 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">VAn genade en recht te singen, wil <rhyme label="a" type="f">ick</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Ende u, o Heere, lof segghen <rhyme label="a" type="f" corresp="#s1:l1">billick</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Voorsichtigh ende redelijck ick <rhyme label="b" type="f">handel</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">By die my toegehooren, en ick <rhyme label="b" type="f" corresp="#s1:l3">wandel</rhyme></l>
+        <l id="s1:l5" met="5" type="-+">Getrouwelijck in mijn huys nae't <rhyme label="c" type="f">behooren</rhyme></l>
+        <l id="s1:l6" met="5" type="-+">Ick en neem my gheen boose saecke <rhyme label="c" type="f" corresp="#s1:l5">vooren</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Ia den overtreder met rechten haer <rhyme label="a" type="f">ick</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Ende hem by my niet blyven en laet <rhyme label="a" type="f" corresp="#s2:l1">ick</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Een verkeert herte dat moet van my <rhyme label="b" type="f">wijcken</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Den boosen en lijd' ick niet van <rhyme label="b" type="f" corresp="#s2:l3">ghelijcken</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Soo wie dat heymelijck van zijnen <rhyme label="c" type="f">naesten</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">Achterclap doet, dien verniel ick met <rhyme label="c" type="f" corresp="#s2:l5">haesten</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Ic en vermagh ooc niet, noch en <rhyme label="a" type="f">gedooge</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Die stout gebaer heeft, en eenen moet <rhyme label="a" type="f" corresp="#s3:l1">hooge</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Mijn ooghen over al na den <rhyme label="b" type="f">ghetrouwen</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Inden Lande mercken ende <rhyme label="b" type="f" corresp="#s3:l3">aenschouwen</rhyme>,</l>
+        <l id="s3:l5" met="5" type="-+">Dat sy by my woonen sonder <rhyme label="c" type="f">ontbeeren</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">Ende vrome dienaren heb ick <rhyme label="c" type="f" corresp="#s3:l5">gheeren</rhyme>,</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">In mijn huys houd' ic geen valsche <rhyme label="a" type="f">lieden</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">De leughenaers by my niet en <rhyme label="a" type="f" corresp="#s4:l1">bedieden</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">Ick verniele oock vroegh alle <rhyme label="b" type="f">Godtloose</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">In den lande soo dat ick alle <rhyme label="b" type="f" corresp="#s4:l3">boose</rhyme></l>
+        <l id="s4:l5" met="5" type="-+">Quaetdoenders, oft misdaders vol <rhyme label="c" type="f">oneeren</rhyme></l>
+        <l id="s4:l6" met="5" type="-+">Tsamen uytroeye, uyt de stadt des <rhyme label="c" type="f" corresp="#s4:l5">Heeren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

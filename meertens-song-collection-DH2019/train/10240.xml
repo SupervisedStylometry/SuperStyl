@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10240</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="mythologisch lied" translation="mythological song">mythologisch lied</tag>
+    </tags>
+    <melody>Cessez mortels de soupirer</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Agenors Dochter teere <rhyme label="a" type="m">plant</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Wat noopt den Blixem-Godt <rhyme label="b" type="f">t'ontswemmen</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Vier-klaeuwich de Sidoonse <rhyme label="a" type="m" corresp="#s1:l1">strandt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Om 't maagdelyck yvoor te <rhyme label="b" type="f" corresp="#s1:l2">stremmen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">De Creetse grens door Prooy <rhyme label="c" type="m">gevoedt</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Hy door sijn last en lusten <rhyme label="c" type="m" corresp="#s1:l5">boedt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">'t Is Pafos die maeckt door sijn <rhyme label="a" type="m">vier</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Asterius de Koning <rhyme label="b" type="f">droncken</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">De Vorst een wtgehoolde <rhyme label="a" type="m" corresp="#s2:l1">Stier</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Aen Nereus Dochter heeft <rhyme label="b" type="f" corresp="#s2:l2">geschoncken</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Tot 't Hooren-dier in Thetis <rhyme label="c" type="m">schoot</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Zyn liefdens voester-kindt <rhyme label="c" type="m" corresp="#s2:l5">genoot</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Het eyck gewelf voort vlot' en <rhyme label="a" type="m">vlug'</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">'t Gesponne lyn door Eols <rhyme label="b" type="f">kaken</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Phenicien keert toe den <rhyme label="a" type="m" corresp="#s3:l1">rug'</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">En laet d'onnoosle schoonheyt <rhyme label="b" type="f" corresp="#s3:l2">schaken</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Geen rouw hebt ô Fortuyns <rhyme label="c" type="m">gespeell'</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">U naem wort 's weerelts <rhyme label="c" type="m" corresp="#s3:l5">derdendeell'</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Wat Oever ist die gy <rhyme label="a" type="m">aenschout</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Maeckt Tyro noch u harsens <rhyme label="b" type="f">wacker</rhyme>?</l>
+        <l id="s4:l3" met="4" type="-+">Door u wert Candia <rhyme label="a" type="m" corresp="#s4:l1">gebout</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">En Minos Jupyns zoon en <rhyme label="b" type="f" corresp="#s4:l2">macker</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">O kleinst maer vollick-ryckste <rhyme label="c" type="m">schoot</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Geluckich is u <rhyme label="c" type="m" corresp="#s4:l5">Bedt-genoot</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

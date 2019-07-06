@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>153516</id>
+    <date>
+      <year-start>1686</year-start>
+      <year-end>1686</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Ik weet niet waar ik me bergen zal</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Mattheus Gargon</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">IK heb, ô Heer! geen trots <rhyme label="a" type="m">gemoed</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Geen heersch-zugt spelt men uit myn <rhyme label="b" type="f">ogen</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Ik tragt na staat, nog o- <rhyme label="a" type="m" corresp="#s1:l1">vervloed</rhyme>;</l>
+        <l id="s1:l4" met="4" type="-+">En hoop alleen op uw' meê- do- <rhyme label="b" type="f" corresp="#s1:l2">gen</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Ik heb, ik heb myn <rhyme label="c" type="m">drivt</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">als het ge- speen- de <rhyme label="c" type="m" corresp="#s1:l5">wigt</rhyme>,</l>
+        <l id="s1:l7" met="5" type="+-">Betoomt, en neêrgezet, neêrge- <rhyme label="d" type="m">zet</rhyme>,</l>
+        <l id="s1:l8" met="3" type="+-">Tot kwyting van myn <rhyme label="c" type="m" corresp="#s1:l5">pligt</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ik ben als een onmagtig <rhyme label="a" type="m">kind</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Dat 's moeders voedsel-borst moest <rhyme label="b" type="f">derven</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Zagtmoedig en niet <rhyme label="a" type="m" corresp="#s2:l1">pragt-gezind</rhyme>;</l>
+        <l id="s2:l4" met="4" type="-+">En hoop alleen uw gunst te <rhyme label="b" type="f" corresp="#s2:l2">erven</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">Verlaat, verlaat u <rhyme label="c" type="m">vry</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">van-God-gelievde <rhyme label="c" type="m" corresp="#s2:l5">schaar</rhyme>,</l>
+        <l id="s2:l7" met="5" type="+-">Op hulpe van den Heer, van den <rhyme label="d" type="m">Heer</rhyme>,</l>
+        <l id="s2:l8" met="3" type="+-">Die u helpt uit <rhyme label="c" type="m" corresp="#s2:l5">gevaar</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

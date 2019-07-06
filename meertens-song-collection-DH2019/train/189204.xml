@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>189204</id>
+    <date>
+      <year-start>1694</year-start>
+      <year-end>1694</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Cornelis Sweerts</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">De mag're <rhyme label="a" type="m">Gierigaart</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">syn gelt en kost <rhyme label="a" type="m" corresp="#s1:l1">bespaart</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">En zelf gebrek moet <rhyme label="b" type="f">lyden</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Hy is een ryke <rhyme label="c" type="m">bedelaar</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">En heeft met zorg en angst te <rhyme label="b" type="f" corresp="#s1:l3">stryden</rhyme>.</l>
+        <l id="s1:l6" met="4" type="-+">Hy vreest voor onheil en <rhyme label="c" type="m" corresp="#s1:l4">gevaar</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Als hy syn schaduw word <rhyme label="c" type="m" corresp="#s1:l4">gewaar</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

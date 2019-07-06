@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8019</id>
+    <date>
+      <year-start>1644</year-start>
+      <year-end>1644</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 100 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jan Jansz. Deutel</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MYn hert is, Heer, in groot <rhyme label="a" type="m">eenvout</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Ootmoedigh: oock en zijn niet <rhyme label="a" type="m" corresp="#s1:l1">stout</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Mijn ooghen, ick derf niet <rhyme label="b" type="m">bestaen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Dinghen die my te boven <rhyme label="b" type="m" corresp="#s1:l3">gaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Heb ick mijn boose lusten <rhyme label="a" type="m">wilt</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Niet overwonnen en <rhyme label="a" type="m" corresp="#s2:l1">gestilt</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Heb ick my alsoo niet <rhyme label="b" type="m">vercleent</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Als een kindt dat de Moeder <rhyme label="b" type="m" corresp="#s2:l3">speent</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Heb ick my niet gelijck, o <rhyme label="a" type="m">Heer</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Gheacht als een kindeken <rhyme label="a" type="m" corresp="#s3:l1">teer</rhyme>?</l>
+        <l id="s3:l3" met="4" type="-+">Iae als een ghespeent kindt seer <rhyme label="b" type="m">fijn</rhyme>:</l>
+        <l id="s3:l4" met="4" type="-+">Met recht mach ick verstooten <rhyme label="b" type="m" corresp="#s3:l3">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Israel sal van nu <rhyme label="a" type="m">voortaen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Op den Heer sijnen Godt vast <rhyme label="a" type="m" corresp="#s4:l1">staen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">End' hopen op zijn <rhyme label="b" type="m">goedigheyt</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Van nu tot inder <rhyme label="b" type="m" corresp="#s4:l3">eeuwigheyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

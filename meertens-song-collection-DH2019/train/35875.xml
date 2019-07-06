@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35875</id>
+    <date>
+      <year-start>1678</year-start>
+      <year-end>1678</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author>Johanna de Gavre</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">Iesus siet hoe dat ick ben <rhyme label="a" type="m">ghewondt</rhyme>,</l>
+        <l id="s1:l2" met="5" type="+-">Door de stralen van u soet <rhyme label="a" type="m" corresp="#s1:l1">ghelonck</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">V ghesicht verlicht mijn teer <rhyme label="b" type="m">ghemoet</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Die smert die het hert, soo <rhyme label="c" type="m">verherdt</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Door u Vriendt die my <rhyme label="d" type="m">Mint</rhyme>.</l>
+        <l id="s1:l6" met="5" type="+-">Ick roep ick sucht tot u <rhyme label="e" type="m">Medecijn</rhyme>,</l>
+        <l id="s1:l7" met="5" type="-+">Och Heer wilt my helpen uyt dees <rhyme label="e" type="m" corresp="#s1:l6">pijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Hoe mijn Bruydt klaeght ghy van dese <rhyme label="a" type="m">smert</rhyme>,</l>
+        <l id="s2:l2" met="5" type="+-">Siet eens hoe door-wondt dat staet mijn <rhyme label="a" type="m" corresp="#s2:l1">hert</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Wilt ghy meer, Liefste teer, dan die u, <rhyme label="b" type="m">Mindt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Dat ghy klaeght, u mishaeght, dat ghy <rhyme label="c" type="m">draeght</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Liefste mijn dese <rhyme label="d" type="m">pijn</rhyme>,</l>
+        <l id="s2:l6" met="5" type="+-">Wilt ghy meer dan dat ghy zijt <rhyme label="e" type="m">ghemeen</rhyme>,</l>
+        <l id="s2:l7" met="5" type="-+">Met my ick die ben uwen Godt <rhyme label="e" type="m" corresp="#s2:l6">alleen</rhyme>,</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">Hoort den lieven Iesus soet en <rhyme label="a" type="m">beleeft</rhyme>,</l>
+        <l id="s3:l2" met="5" type="+-">Hoort wat soeter antwoort hy my <rhyme label="a" type="m" corresp="#s3:l1">gheeft</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Komt ach Komt o alder-liefste <rhyme label="b" type="m">mijn</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Komt toch aen laet ons gaen, op de <rhyme label="c" type="m">baen</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Van den Hof daer Bloemen <rhyme label="d" type="m">staen</rhyme>,</l>
+        <l id="s3:l6" met="5" type="+-">Daer sal ick u thoonen hoe k’u <rhyme label="e" type="m">bemin</rhyme>,</l>
+        <l id="s3:l7" met="5" type="-+">En u ghenieten naer mijnen <rhyme label="e" type="m" corresp="#s3:l6">sin</rhyme>,</l>
+      </lg>
+    </lg>
+  </text>
+</song>

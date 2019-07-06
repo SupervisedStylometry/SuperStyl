@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3440</id>
+    <date>
+      <year-start>1575</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Het voer een maagdje over Rijn</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>D.V. Coornhert</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">SPint vlytigh ghy spinsters al <rhyme label="a" type="m">ghemeyn</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">V Bruylofts kleed, slecht, fyn en <rhyme label="a" type="m" corresp="#s1:l1">kleyn</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Na u bruyghoms <rhyme label="b" type="f">behaghen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">V tyd die nu is, was, of wert zeer <rhyme label="a" type="m" corresp="#s1:l1">kleyn</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Bruyckt recht, het zyn drie <rhyme label="b" type="f" corresp="#s1:l3">daghen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">De draat die ghy op u spille <rhyme label="a" type="m">wint</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Is nu van daghe, u werck <rhyme label="a" type="m" corresp="#s2:l1">beghint</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Buyght om Goods Wet u <rhyme label="b" type="f">wille</rhyme>:</l>
+        <l id="s2:l4" met="4" type="-+">Verenight met God die u zeer <rhyme label="a" type="m" corresp="#s2:l1">bemint</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Volght snel zyn draayen <rhyme label="b" type="f" corresp="#s2:l3">stille</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ist dat u tghehaspeld ghaarn <rhyme label="a" type="m">mishaaght</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">En twerck van ghister t'herte <rhyme label="a" type="m" corresp="#s3:l1">knaaght</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Laat dit den morghen <rhyme label="b" type="f">leren</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">Maackt opzet in Christo zyn hulp <rhyme label="a" type="m" corresp="#s3:l1">bejaaght</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Om u vant quaad te <rhyme label="b" type="f" corresp="#s3:l3">keren</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">T'vlasch aanden rocken dat morghen <rhyme label="a" type="m">is</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">En hoopt niet op tis <rhyme label="a" type="m" corresp="#s4:l1">onghewis</rhyme>.</l>
+        <l id="s4:l3" met="3" type="-+">Spint nu dueghd int <rhyme label="b" type="f">hanteren</rhyme>.</l>
+        <l id="s4:l4" met="4" type="-+">Weest liefd dan dit webbe, zo kryghdy <rhyme label="a" type="m" corresp="#s4:l1">fris</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Een Bruylofts kleed van <rhyme label="b" type="f" corresp="#s4:l3">eren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

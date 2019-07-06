@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3167</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>O kerstnacht schoner dan de dagen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anthony Jansen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Godt! die door u groote <rhyme label="a" type="f">goedtheydt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Mijn steeghe Ziel gheheel tot <rhyme label="a" type="f" corresp="#s1:l1">boetleydt</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">V zy voor eeuwigh danck en <rhyme label="b" type="m">lof</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Ghyh ebt mijn ziel om hoogh <rhyme label="c" type="f">ghetoghen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">En schoon ick lagh door sond' <rhyme label="c" type="f" corresp="#s1:l4">gheboghen</rhyme>:</l>
+        <l id="s1:l6" met="4" type="-+">Ghy recht' en trockt my uyt'et <rhyme label="b" type="m" corresp="#s1:l3">stof</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">V Naem sal altijdt eeuwigh <rhyme label="a" type="f">wesen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Daerom van yder een <rhyme label="a" type="f" corresp="#s2:l1">ghepresen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Om dat ghy dees' weldaden <rhyme label="b" type="m">doet</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Door Christum, uwen lieven <rhyme label="c" type="f">Soone</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Wilt ghy, wanneerwe boetsucht <rhyme label="c" type="f" corresp="#s2:l4">toonen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Verquicken ons benouwt <rhyme label="b" type="m" corresp="#s2:l3">ghemoedt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Lof Heer, tot aen de kim der <rhyme label="a" type="f">wolcken</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Lof machtigh Coninck aller <rhyme label="a" type="f" corresp="#s3:l1">Volcken</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Lof heylbre Zielen <rhyme label="b" type="m">Medecijn</rhyme>:</l>
+        <l id="s3:l4" met="4" type="-+">Ghy hebt ghegoten in ons <rhyme label="c" type="f">wonden</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Oly en Wijn, en die <rhyme label="c" type="f" corresp="#s3:l4">verbonden</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Soo dat wy nu ghenesen <rhyme label="b" type="m" corresp="#s3:l3">zijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

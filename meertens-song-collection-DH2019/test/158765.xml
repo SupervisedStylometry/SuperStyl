@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>158765</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+    </tags>
+    <melody>O zalig heilig Bethlehem</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">'T Is nu juyst drie-en-sestigh <rhyme label="a" type="m">meer</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Als sestien hondert Iaer <rhyme label="b" type="f">geleden</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Dat tot ons quam Christus de <rhyme label="a" type="m" corresp="#s1:l1">Heer</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">En worde nae de Wet <rhyme label="b" type="f" corresp="#s1:l2">besneden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Op Christen Ziel, hier komt tot <rhyme label="a" type="m">u</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Het Hemelsch Manna <rhyme label="b" type="f">neder-dalen</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Hier komt uw Borge, die sal <rhyme label="a" type="m" corresp="#s2:l1">nu</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Uw schuldt, als eygen schuldt <rhyme label="b" type="f" corresp="#s2:l2">betalen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Hier komt ne'er-dalen uyt sijn <rhyme label="a" type="m">Throon</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Uyt sijn vomaeckt' en rijcke <rhyme label="b" type="f">Wooningh</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Godts wel-bemind' en lieve <rhyme label="a" type="m" corresp="#s3:l1">Soon</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Tot ons alleen, tot ons <rhyme label="b" type="f" corresp="#s3:l2">verschooningh</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Om ons te maecken vol en <rhyme label="a" type="m">rijck</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Is hy in armoed <rhyme label="b" type="f">neêr-gekomen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Sijn Broederen in als <rhyme label="a" type="m" corresp="#s4:l1">gelijck</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Alleen de sonde <rhyme label="b" type="f" corresp="#s4:l2">uytgenomen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Des Hemels Heer, de <rhyme label="a" type="m">Vrede-Vorst</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Die kan nau plaets op aerde <rhyme label="b" type="f">vinden</rhyme>;</l>
+        <l id="s5:l3" met="4" type="-+">Een vuyle Stal en Krib, <rhyme label="a" type="m" corresp="#s5:l1">bemost</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Daer laet hy hem in doecken <rhyme label="b" type="f" corresp="#s5:l2">binden</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Het waren oock geen luy van <rhyme label="a" type="m">staet</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Die Godt dit Heyl liet <rhyme label="b" type="f">openbaren</rhyme>:</l>
+        <l id="s6:l3" met="4" type="-+">Maer 't waren Herders, slecht <rhyme label="a" type="m" corresp="#s6:l1">versmaet</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Die waeckend' by haer' Kudde <rhyme label="b" type="f" corresp="#s6:l2">waren</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Godt heeft haer met sijn' <rhyme label="a" type="m">Heerlijckheydt</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Omscheenen, 't welck haer vreesen <rhyme label="b" type="f">dede</rhyme>;</l>
+        <l id="s7:l3" met="4" type="-+">Een Engel stondt voor haer <rhyme label="a" type="m" corresp="#s7:l1">bereydt</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Die haer verkondight Vreught en <rhyme label="b" type="f" corresp="#s7:l2">Vrede</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Terstont soo wierdt van haer <rhyme label="a" type="m">gehoort</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">Een Lof-Zangh van Hemelsche <rhyme label="b" type="f">Volcken</rhyme>,</l>
+        <l id="s8:l3" met="4" type="-+">Die vroolijck songen Godts <rhyme label="a" type="m" corresp="#s8:l1">Geboort'</rhyme>,</l>
+        <l id="s8:l4" met="4" type="-+">Soo dat het drongh door aerd' en <rhyme label="b" type="f" corresp="#s8:l2">Wolcken</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Hoe kan Godts goetheydt hooger <rhyme label="a" type="m">gaen</rhyme>?</l>
+        <l id="s9:l2" met="4" type="-+">Wat kan ons meer tot deught <rhyme label="b" type="f">verwecken</rhyme>?</l>
+        <l id="s9:l3" met="4" type="-+">Wat kan de sond' meer neder <rhyme label="a" type="m" corresp="#s9:l1">slaen</rhyme>,</l>
+        <l id="s9:l4" met="4" type="-+">En ons tot beter leven <rhyme label="b" type="f" corresp="#s9:l2">trecken</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

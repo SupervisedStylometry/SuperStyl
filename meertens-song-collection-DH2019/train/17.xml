@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>17</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Granida prinses</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">OP mijn wit <rhyme label="a" type="f">gehaerde</rhyme></l>
+        <l id="s1:l2" met="3" type="+-">Swart gebeckte <rhyme label="b" type="f">boode</rhyme></l>
+        <l id="s1:l3" met="5" type="+-">Metter vaert dit blancke velt door <rhyme label="c" type="m">reijs</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Op mijn breijn te <rhyme label="a" type="f" corresp="#s1:l1">paerde</rhyme></l>
+        <l id="s1:l5" met="3" type="+-">Tis op 't hoogst' van <rhyme label="b" type="f" corresp="#s1:l2">noode</rhyme></l>
+        <l id="s1:l6" met="5" type="+-">Weckt de faem op dat haer volle <rhyme label="c" type="m" corresp="#s1:l3">krijs</rhyme></l>
+        <l id="s1:l7" met="5" type="-+">Sich spoeyt te post voor 't kriecken van den <rhyme label="d" type="m">dagh</rhyme>,</l>
+        <l id="s1:l8" met="6" type="-+">Op dat Amstels Atheen sie waer 't op roemen <rhyme label="d" type="m" corresp="#s1:l7">mach</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

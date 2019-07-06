@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3618</id>
+    <date>
+      <year-start>1566</year-start>
+      <year-end>1566</year-end>
+    </date>
+    <location>
+      <orginal-name>heidelberg</orginal-name>
+      <standard-name>Heidelberg, Germany</standard-name>
+      <coordinates>
+        <lon>49.4093582</lon>
+        <lat>8.694724</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 015 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Pieter Datheen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WIE is't die sal wonen <rhyme label="a" type="m">eenpaer</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">In v lieflicke tenten <rhyme label="b" type="f">Heere</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">Wie sal doch verkeeren hier <rhyme label="a" type="m" corresp="#s1:l1">naer</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">(Doer v goetheit sonder <rhyme label="a" type="m" corresp="#s1:l1">geuaer</rhyme>)</l>
+        <l id="s1:l5" met="4" type="-+">Op uwen heylgen bergh met <rhyme label="b" type="f" corresp="#s1:l2">eere</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Het sal wesen die mensch' <rhyme label="a" type="m">eerbaer</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Die steedts wel doet in allen <rhyme label="b" type="f">dingen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">End recht handelt in 't <rhyme label="a" type="m" corresp="#s2:l1">openbaer</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Wiens mondt dat oprecht is end <rhyme label="a" type="m" corresp="#s2:l1">waer</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Gestaedelicken sal <rhyme label="b" type="f" corresp="#s2:l2">voortbringen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Die gheen achterklap spreeckt <rhyme label="a" type="m">onvroet</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Tot synes naesten smaet end <rhyme label="b" type="f">schande</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Die tegen hem oock niet <rhyme label="a" type="m" corresp="#s3:l1">misdoet</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Noch mishandelt: maer hem <rhyme label="a" type="m" corresp="#s3:l1">behoet</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Voor oneeren <rhyme label="b" type="f" corresp="#s3:l2">menigerhande</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Die oock de godtloosen <rhyme label="a" type="m">veracht</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">End daertoe eert tot allen <rhyme label="b" type="f">stonden</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Hem die den Heer vreest met <rhyme label="a" type="m" corresp="#s4:l1">aendacht</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Die syn beloften heeft <rhyme label="a" type="m" corresp="#s4:l1">volbracht</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Al waer't oock sijn schaede <rhyme label="b" type="f" corresp="#s4:l2">beuonden</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Die tot woecker niet geeft sijn <rhyme label="a" type="m">geldt</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">End geen gaeuen oyt heeft <rhyme label="b" type="f">gepresen</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Om t'recht des vromen met <rhyme label="a" type="m" corresp="#s5:l1">geweldt</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Te breken, die so is <rhyme label="a" type="m" corresp="#s5:l1">gestelt</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">Sal voorwaer gelucksaligh <rhyme label="b" type="f" corresp="#s5:l2">wesen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

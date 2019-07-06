@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35512</id>
+    <date>
+      <year-start>1719</year-start>
+      <year-end>1719</year-end>
+    </date>
+    <location>
+      <orginal-name>brugge</orginal-name>
+      <standard-name>Brugge, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2315785</lon>
+        <lat>3.20809951603418</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+    </tags>
+    <melody>La duchesse</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Al die beminnen <rhyme label="a" type="m">d’Aerde-rijck</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Zijn aerd’, en <rhyme label="a" type="m" corresp="#s1:l1">slijck</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Maer die uyt all’ hun <rhyme label="b" type="f">sinnen</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Godt vierigh <rhyme label="b" type="f" corresp="#s1:l3">minnen</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">Die zijn <rhyme label="a" type="m" corresp="#s1:l1">Goddelijck</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">De liefde weet den Minnaer soo te <rhyme label="c" type="f">keeren</rhyme></l>
+        <l id="s1:l7" met="5" type="-+">Dat s’hem het wesen gheeft van sijnen <rhyme label="c" type="f" corresp="#s1:l6">Heer</rhyme></l>
+        <l id="s1:l8" met="5" type="-+">De Berghen van Alevernen hebben dit <rhyme label="d" type="m">ghesien</rhyme></l>
+        <l id="s1:l9" met="5" type="-+">Als daer Franciscus van den <rhyme label="d" type="m" corresp="#s1:l8">Seraphien</rhyme></l>
+        <l id="s1:l10" met="4" type="-+">De wondekens van Christus <rhyme label="e" type="m">heeft</rhyme></l>
+        <l id="s1:l11" met="3" type="+-">Ontfanghen in sijn <rhyme label="f" type="m">Lichaem</rhyme>,</l>
+        <l id="s1:l12" met="6" type="-+">Soo dat de form van Christus in Franciscus <rhyme label="e" type="m" corresp="#s1:l10">leeft</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Franciscus leght af uw’ <rhyme label="a" type="m">habijt</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Voor kleynen <rhyme label="a" type="m" corresp="#s2:l1">tijdt</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Komt sonder kap <rhyme label="b" type="f">verschijnen</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">Sy sullen <rhyme label="b" type="f" corresp="#s2:l3">meynen</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">Dat ghy Christus <rhyme label="a" type="m" corresp="#s2:l1">zijt</rhyme>:</l>
+        <l id="s2:l6" met="5" type="-+">O Christus kleedt u in Franciscus <rhyme label="c" type="f">kleeren</rhyme>,</l>
+        <l id="s2:l7" met="5" type="-+">Soo sullen sy u voor Franciscus <rhyme label="c" type="f" corresp="#s2:l6">eeren</rhyme>,</l>
+        <l id="s2:l8" met="5" type="-+">De Son die siet haer selven in een klaer <rhyme label="d" type="m">Fontijn</rhyme>,</l>
+        <l id="s2:l9" met="5" type="-+">En Christus siet nu in Franciscus sijn <rhyme label="d" type="m" corresp="#s2:l8">aenschijn</rhyme>,</l>
+        <l id="s2:l10" met="4" type="-+">Die Iesus mindt die wordt <rhyme label="e" type="m">ghelijck</rhyme></l>
+        <l id="s2:l11" met="3" type="+-">Aen Iesus, die hy lief <rhyme label="f" type="m">heeft</rhyme>,</l>
+        <l id="s2:l12" met="6" type="-+">De goddelijcke liefde maeckt ons <rhyme label="e" type="m" corresp="#s2:l10">goddelijck</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

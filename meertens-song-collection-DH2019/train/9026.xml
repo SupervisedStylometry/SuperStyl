@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>9026</id>
+    <date>
+      <year-start>1625</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Nun lasst uns den Leib begraben</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">NV laet ons t'lichaem <rhyme label="a" type="f">begraven</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Daer aen gheen twijffel meer <rhyme label="a" type="f" corresp="#s1:l1">dragen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Hy sal ten Jongsten Dach <rhyme label="b" type="m">opstaen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">En onverderff'lijck her voor <rhyme label="b" type="m" corresp="#s1:l3">gaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Aerd' is hy, end van der <rhyme label="a" type="f">Aerden</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Sal oock tot Aerd' weder <rhyme label="a" type="f" corresp="#s2:l1">waerden</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">End vander Aerd' weder <rhyme label="b" type="m">opstaen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Als Gods Basuyne sal <rhyme label="b" type="m" corresp="#s2:l3">aenslaen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Die Siele leeft Eewich in <rhyme label="a" type="f">Godt</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Diese al hier wt Louter <rhyme label="a" type="f" corresp="#s3:l1">Gnaed'</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Van alle Sond' end <rhyme label="b" type="m">Missedaet</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Door synen Soon Verlosset <rhyme label="b" type="m" corresp="#s3:l3">haedt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Syn Jamer, droeffnis end <rhyme label="a" type="f">Eleynd'</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Is comen tot een Salich <rhyme label="a" type="f" corresp="#s4:l1">Eynd'</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Hy heeft ghedraghen Christus <rhyme label="b" type="m">Joch</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Hy is ghestorven en leeft <rhyme label="b" type="m" corresp="#s4:l3">noch</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">De Ziele Levet sonder <rhyme label="a" type="f">Clach</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">T'lichaem slaept t'aen den Jongsten <rhyme label="a" type="f" corresp="#s5:l1">Dach</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Godt sal hem verclaeren <rhyme label="b" type="m">subijt</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">In d'Eewich Vreuchde met <rhyme label="b" type="m" corresp="#s5:l3">jolijt</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Hier is hy in Ancxt <rhyme label="a" type="f">ghewesen</rhyme>,</l>
+        <l id="s6:l2" met="4" type="+-">Maer sal hier nae wel <rhyme label="a" type="f" corresp="#s6:l1">ghenesen</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">In d'Eewich Vreught en blijschap <rhyme label="b" type="m">fijn</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Lichten ghelijck der Sonnen <rhyme label="b" type="m" corresp="#s6:l3">schijn</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">Nu laten wy hem hier <rhyme label="a" type="f">Slaepen</rhyme>,</l>
+        <l id="s7:l2" met="4" type="+-">End gaen all' tHuys onser <rhyme label="a" type="f" corresp="#s7:l1">Straeten</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Bereyden ons met allen <rhyme label="b" type="m">Vlijt</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Want de Doot ons verschoonet <rhyme label="b" type="m" corresp="#s7:l3">niet</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="+-">Des help ons Christus onse <rhyme label="a" type="f">Troost</rhyme></l>
+        <l id="s8:l2" met="4" type="+-">Die ons door syn Bloet heeft <rhyme label="a" type="f" corresp="#s8:l1">Verloost</rhyme>,</l>
+        <l id="s8:l3" met="4" type="-+">Van 's Vyants Macht end Eewig' <rhyme label="b" type="m">Pijn</rhyme>,</l>
+        <l id="s8:l4" met="4" type="-+">Hem sy Lof, Prijs, end Eer <rhyme label="b" type="m" corresp="#s8:l3">Alleyn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

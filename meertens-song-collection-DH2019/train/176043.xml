@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176043</id>
+    <date>
+      <year-start>1640</year-start>
+      <year-end>1640</year-end>
+    </date>
+    <location>
+      <orginal-name>deventer</orginal-name>
+      <standard-name>Deventer, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.2532272</lon>
+        <lat>6.1584725</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 017 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacobus Revius</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O God, op wien mijn hope <rhyme label="a" type="m">staet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Haest u, en comt my te <rhyme label="b" type="f">bevrijden</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">In dit ondragelijcke <rhyme label="b" type="f" corresp="#s1:l2">lijden</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">My langer doch niet liggen <rhyme label="a" type="m" corresp="#s1:l1">laet</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Haer die na mijne siele <rhyme label="c" type="f">jagen</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Veel schand' en ongeluck <rhyme label="d" type="m">toesend'</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">En die met vreucht sien mijn <rhyme label="d" type="m" corresp="#s1:l6">ellend'</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Laet doch te rugge zijn <rhyme label="c" type="f" corresp="#s1:l5">geslagen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Drijft wech, o goedertieren <rhyme label="a" type="m">God</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Die roepen, met vervaerlijck <rhyme label="b" type="f">vloecken</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Ha, ha, dat is het dat wy <rhyme label="b" type="f" corresp="#s2:l2">soecken</rhyme>.</l>
+        <l id="s2:l4" met="4" type="-+">Geeft haer den loon van desen <rhyme label="a" type="m" corresp="#s2:l1">spot</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Maer laet in uwe hulp <rhyme label="c" type="f">verblijden</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Al die u soecken met <rhyme label="d" type="m">begeer</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">En die beminnen uwe <rhyme label="d" type="m" corresp="#s2:l6">eer</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Laet die u roemen t' allen <rhyme label="c" type="f" corresp="#s2:l5">tijden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

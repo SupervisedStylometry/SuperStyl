@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175071</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Geen van de bloempjes heeft zijn' knop meer <rhyme label="a" type="m">toe</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Het lieve zonnetje lacht <rhyme label="a" type="m" corresp="#s1:l1">weltemoê</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">De dartle vogels springen hoog en <rhyme label="b" type="m">laag</rhyme>;</l>
+        <l id="s1:l4" met="5" type="-+">Och Heer! wat is het alles mooi van <rhyme label="b" type="m" corresp="#s1:l3">daag</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Och Heer!... foei! 'k zeî dat woord daar <rhyme label="a" type="m">onbedacht</rhyme>,-</l>
+        <l id="s2:l2" met="5" type="-+">En alles spreekt toch van Gods liefde en <rhyme label="a" type="m" corresp="#s2:l1">magt</rhyme>;</l>
+        <l id="s2:l3" met="5" type="-+">Ja alles roemt de goedheid van den <rhyme label="b" type="m">Heer</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">En bloeit en lacht en huppelt Hem ter <rhyme label="b" type="m" corresp="#s2:l3">eer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">En ik, die zoo veel goeds genieten <rhyme label="a" type="m">mag</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Ik zou Grods naam niet noemen met <rhyme label="a" type="m" corresp="#s3:l1">ontzag</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Niet denken aan den Gever van dat <rhyme label="b" type="m">goed</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Die ook mijn jeugd zoo vaderlijk <rhyme label="b" type="m" corresp="#s3:l3">behoedt</rhyme>!...</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Vergeef't, o Heer! en moog' mijn liefde en <rhyme label="a" type="m">dank</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">Uw goedheid prijzen heel mijn leven <rhyme label="a" type="m" corresp="#s4:l1">lank</rhyme>;</l>
+        <l id="s4:l3" met="5" type="-+">En iedren dag zeg' biddend mijn <rhyme label="b" type="m">gemoed</rhyme>:</l>
+        <l id="s4:l4" met="5" type="-+">Och, lieve Heer! wat zijt Ge groot en <rhyme label="b" type="m" corresp="#s4:l3">goed</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

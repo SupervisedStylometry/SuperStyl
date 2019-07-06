@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3099</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>De juffers in Den Haag</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Cornelis Stribeé</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">ANtenette, die door 't <rhyme label="a" type="f">loncken</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Doet de Minnaers vaeck <rhyme label="a" type="f" corresp="#s1:l1">ontfoncken</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Door het aengename <rhyme label="b" type="m">licht</rhyme>:</l>
+        <l id="s1:l4" met="4" type="+-">'t Geen u Oogjens vaeck doet <rhyme label="c" type="f">dalen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Want twee tintelende <rhyme label="c" type="f" corresp="#s1:l4">stralen</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Blincken uyt u bruyn <rhyme label="b" type="m" corresp="#s1:l3">gesicht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Ick ghelijck u lieve <rhyme label="a" type="f">blickjes</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">By twee soete krull'ge <rhyme label="a" type="f" corresp="#s2:l1">strickjes</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Waer den Minnaer in <rhyme label="b" type="m">verwert</rhyme>:</l>
+        <l id="s2:l4" met="4" type="+-">Want wanneer ghy gluert als d' <rhyme label="c" type="f">Ander</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Soo ist offer een <rhyme label="c" type="f" corresp="#s2:l4">Salmander</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Worstelt in u lievers <rhyme label="b" type="m" corresp="#s2:l3">hert</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">U volmaeckte pronck van <rhyme label="a" type="f">leden</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">En u blonde <rhyme label="a" type="f" corresp="#s3:l1">schoonigheden</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Heeft Natura soo <rhyme label="b" type="m">beglanst</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">'t Witte vel, en blauwe <rhyme label="c" type="f">aren</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">En 't ghekruykel van u <rhyme label="c" type="f" corresp="#s3:l4">haeren</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Wert van Cypria <rhyme label="b" type="m" corresp="#s3:l3">bekranst</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Hoe gheluckigh zijn de <rhyme label="a" type="f">zielen</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Die Natura soo <rhyme label="a" type="f" corresp="#s4:l1">gevielen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Dat de schoonheyt by haer <rhyme label="b" type="m">woont</rhyme>;</l>
+        <l id="s4:l4" met="4" type="+-">Daerom laet ons alle <rhyme label="c" type="f">wenschen</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">Dat de Zieltjes van de <rhyme label="c" type="f" corresp="#s4:l4">menschen</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">Met de deughden zijn <rhyme label="b" type="m" corresp="#s4:l3">bekroondt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">'k Wensch den Hemel wil u <rhyme label="a" type="f">geven</rhyme></l>
+        <l id="s5:l2" met="4" type="+-">(Tot de lusjes van u <rhyme label="a" type="f" corresp="#s5:l1">leven</rhyme>)</l>
+        <l id="s5:l3" met="4" type="+-">Binnen 't Jaer u hertens <rhyme label="b" type="m">lust</rhyme>:</l>
+        <l id="s5:l4" met="4" type="+-">Die tot zijn en u <rhyme label="c" type="f">gelucken</rhyme></l>
+        <l id="s5:l5" met="4" type="+-">Sal u Maeghde-bloempje <rhyme label="c" type="f" corresp="#s5:l4">plucken</rhyme>,</l>
+        <l id="s5:l6" met="4" type="+-">Daer op dient ghy eens <rhyme label="b" type="m" corresp="#s5:l3">ghekust</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

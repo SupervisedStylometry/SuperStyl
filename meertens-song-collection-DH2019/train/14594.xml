@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14594</id>
+    <date>
+      <year-start>1638</year-start>
+      <year-end>1638</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Ik heb de groene straten</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Aegidius Haeffacker</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">ICk groet u vol van <rhyme label="a" type="f">graci'</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Sprack d' Enghel <rhyme label="b" type="m">Gabriel</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Met u tot alder <rhyme label="a" type="f" corresp="#s1:l1">spaci'</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Is Godt <rhyme label="b" type="m" corresp="#s1:l2">Emmanuel</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Want over alle <rhyme label="a" type="f">Vrouwen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Zijt ghy <rhyme label="b" type="m">ghebenedijdt</rhyme>:</l>
+        <l id="s2:l3" met="3" type="-+">Gheluckigh die <rhyme label="a" type="f" corresp="#s2:l1">aenschouwen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Uw' glori' met <rhyme label="b" type="m" corresp="#s2:l2">jolijt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Ghebenedijt moet <rhyme label="a" type="f">wesen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Jesus, uws lichaems <rhyme label="b" type="m">draght</rhyme>:</l>
+        <l id="s3:l3" met="3" type="-+">Door hem zijn wy <rhyme label="a" type="f" corresp="#s3:l1">gheresen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Al uyt des vyandts <rhyme label="b" type="m" corresp="#s3:l2">macht</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Maria Godes <rhyme label="a" type="f">Moeder</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Wilt ons ghedachtigh <rhyme label="b" type="m">zijn</rhyme>:</l>
+        <l id="s4:l3" met="3" type="-+">Bidt voor ons onsen <rhyme label="a" type="f" corresp="#s4:l1">Hoeder</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Nu, en in 's doodes <rhyme label="b" type="m" corresp="#s4:l2">pijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

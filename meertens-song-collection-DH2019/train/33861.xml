@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>33861</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
+    </tags>
+    <melody>Als Jezus in zijn majesteit</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacob Rosant</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GOodts Rijk is als een <rhyme label="a" type="m">Mostaert-saet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Dat men in d'Acker saeijen <rhyme label="a" type="m" corresp="#s1:l1">gaet</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Het welk is in 't <rhyme label="b" type="f">gemeyne</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">By ander Saet seer <rhyme label="b" type="f" corresp="#s1:l3">kleyne</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Maer wanneer dat te wassen <rhyme label="a" type="m">koom</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Soo wordt het groot gelijk een <rhyme label="a" type="m" corresp="#s2:l1">Boom</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Dat in sijn tacken <rhyme label="b" type="f">schoone</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">De Voogels koomen <rhyme label="b" type="f" corresp="#s2:l3">woone</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Goodts Rijk is als een kleyne <rhyme label="a" type="m">deel</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Van Deegh, dat een Vrouw doet in 't <rhyme label="a" type="m" corresp="#s3:l1">Meel'</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">En laet het tot 'er <rhyme label="b" type="f">uere</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Het van den Deegh wordt <rhyme label="b" type="f" corresp="#s3:l3">suere</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Heer, saeyt in ons uw' Godlijk <rhyme label="a" type="m">Saet</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Op dat het wasch tot onser <rhyme label="a" type="m" corresp="#s4:l1">baet</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">En laet in ons <rhyme label="b" type="f">vermeeren</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Uw Rijk, tot uwer <rhyme label="b" type="f" corresp="#s4:l3">eeren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

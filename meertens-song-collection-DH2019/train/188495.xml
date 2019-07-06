@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188495</id>
+    <date>
+      <year-start>1751</year-start>
+      <year-end>1752</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Antoine Mahaut, Kornelis Elzevier</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Neen Jaep dat raedt gy <rhyme label="a" type="m">niet</rhyme>.</l>
+        <l id="s1:l2" met="3" type="-+">Gae vry by Klaertje <rhyme label="b" type="f">vryen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Ik zal 't haer niet <rhyme label="b" type="f" corresp="#s1:l2">benyen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Breng haer vry in 't <rhyme label="a" type="m" corresp="#s1:l1">verdriet</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Toen ik myn Linden uit ging <rhyme label="c" type="f">spoelen</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Hoorde ik wat in den Hooiberg <rhyme label="c" type="f" corresp="#s1:l5">woelen</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Het scheelt my niet een <rhyme label="d" type="m">hair</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Loop Jaep loop vry by <rhyme label="d" type="m" corresp="#s1:l7">Klaer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Gy zult myn Man niet <rhyme label="a" type="m">zyn</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Gy zyt een lichte <rhyme label="b" type="f">Veugel</rhyme>.</l>
+        <l id="s2:l3" met="3" type="-+">Ik heb een Zilvren <rhyme label="b" type="f" corresp="#s2:l2">Beugel</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Gekregen van myn' <rhyme label="a" type="m" corresp="#s2:l1">Kryn</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Ik heb myn Kryn nu <rhyme label="c" type="f">uitgelezen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">'t Zal t' avond by my Voorspel <rhyme label="c" type="f" corresp="#s2:l5">wezen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Wilt gy ook komen, <rhyme label="d" type="m">Zeg</rhyme>?</l>
+        <l id="s2:l8" met="3" type="-+">Neen, blyf veel liever <rhyme label="d" type="m" corresp="#s2:l7">weg</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

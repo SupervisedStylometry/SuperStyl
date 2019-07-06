@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12963</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Vulcanusdans</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DIt Klaver-blaadje met een <rhyme label="a" type="f">steeltje</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Is recht een Jongmans <rhyme label="a" type="f" corresp="#s1:l1">maagde-deeltje</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Ik breng 'et u eens mijn <rhyme label="a" type="f" corresp="#s1:l1">Gespeeltje</rhyme>.</l>
+        <l id="s1:l4" met="3" type="-+">Wel, hoe, schrik jy'er <rhyme label="b" type="m">van</rhyme>?</l>
+        <l id="s1:l5" met="4" type="-+">Foei schaamje, zou je daar voor <rhyme label="c" type="f">vreezen</rhyme>;</l>
+        <l id="s1:l6" met="4" type="-+">Kom, kom, het moet voor dees tijd <rhyme label="c" type="f" corresp="#s1:l5">weezen</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Ay! laat u dan van mijn <rhyme label="c" type="f" corresp="#s1:l5">belezen</rhyme>:</l>
+        <l id="s1:l8" met="3" type="-+">Voort, voort, jy moet'er <rhyme label="b" type="m" corresp="#s1:l4">aan</rhyme>.</l>
+        <l id="s1:l9" met="4" type="-+">Wel jeny, wel jeny, wel jeny, wel <rhyme label="d" type="f">jeny</rhyme>,</l>
+        <l id="s1:l10" met="3" type="+-">Wel jeny, wat ben je <rhyme label="e" type="m">teer</rhyme>!</l>
+        <l id="s1:l11" met="2" type="-+">Wat ben je <rhyme label="e" type="m" corresp="#s1:l10">teer</rhyme>!</l>
+        <l id="s1:l12" met="3" type="-+">Nou, werpt'et niet zoo <rhyme label="e" type="m" corresp="#s1:l10">veer</rhyme>:</l>
+        <l id="s1:l13" met="5" type="+-">Wat! zeg liever, liever, <rhyme label="f" type="f">liever</rhyme>,</l>
+        <l id="s1:l14" met="3" type="-+">Waarom breng jy mijn geen <rhyme label="e" type="m" corresp="#s1:l10">meer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

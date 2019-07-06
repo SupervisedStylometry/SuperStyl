@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>160624</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Ik zucht ik klaag ik ween</melody>
+  <author>Cornelis Maertsz.</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">MOses gebruyckt sijn <rhyme label="a" type="m">Staf</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Soo langh als die sijn <rhyme label="b" type="f">leden</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Een saghte rust, en steunsel <rhyme label="a" type="m" corresp="#s1:l1">gaf</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">In hare <rhyme label="b" type="f" corresp="#s1:l2">moeylijckheden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Maer doen die als een <rhyme label="a" type="m">Slangh</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Quam voor hem te <rhyme label="b" type="f">verschijnen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Soo vlught hy seer bevreest en <rhyme label="a" type="m" corresp="#s2:l1">bangh</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Besorght voor haer <rhyme label="b" type="f" corresp="#s2:l2">fenijnen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Dees Staf van Moses <rhyme label="a" type="m">dient</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Ons, tot een nutte <rhyme label="b" type="f">leere</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Hoe dat een yder met een <rhyme label="a" type="m" corresp="#s3:l1">Vriendt</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Sal wijsselijck <rhyme label="b" type="f" corresp="#s3:l2">verkeeren</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Eert yder, die u <rhyme label="a" type="m">nut</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Toe-brenght, met raet of <rhyme label="b" type="f">daden</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">En u getrouwelijck <rhyme label="a" type="m" corresp="#s4:l1">beschut</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Voor alderhande <rhyme label="b" type="f" corresp="#s4:l2">quaden</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Maer soo een valschen <rhyme label="a" type="m">aerdt</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Komt in haer t' <rhyme label="b" type="f">openbaren</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Soo weest voor het bedrogh <rhyme label="a" type="m" corresp="#s5:l1">vervaert</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">En laet de vriendtschap <rhyme label="b" type="f" corresp="#s5:l2">varen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

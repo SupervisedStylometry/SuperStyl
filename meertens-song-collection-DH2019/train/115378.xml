@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>115378</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>alkmaar</orginal-name>
+      <standard-name>Alkmaar, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.6312592</lon>
+        <lat>4.7503798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Zal ik nog langer in hete tranen</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wel op mijn Harp wilt vrolijck <rhyme label="a" type="f">wesen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En spelen een nieu brylofts <rhyme label="b" type="m">lied</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Ghy die hier zijt vergaert midts <rhyme label="a" type="f" corresp="#s1:l1">desen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Weest vrolijck alle die ghy <rhyme label="b" type="m" corresp="#s1:l2">siet</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Als Man en <rhyme label="c" type="m">Vrou</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">In Echt en <rhyme label="c" type="m" corresp="#s1:l5">Trou</rhyme>,</l>
+        <l id="s1:l7" met="5" type="-+">Als Man en Vrou vergaert tot een <rhyme label="d" type="m">gemeen</rhyme>,</l>
+        <l id="s1:l8" met="5" type="-+">Die waren twee door ‘t Houw’lijck worden <rhyme label="d" type="m" corresp="#s1:l7">een</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Dit soet ghespan tot Godes <rhyme label="a" type="f">eeren</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">De werelt wijt vermeeren <rhyme label="b" type="m">doet</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Wijckt niet daer van, maer van die <rhyme label="a" type="f" corresp="#s2:l1">leeren</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Afkeeren van den echten <rhyme label="b" type="m" corresp="#s2:l2">voet</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Oorblasers <rhyme label="c" type="m">quaet</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">en haren <rhyme label="c" type="m" corresp="#s2:l5">raet</rhyme></l>
+        <l id="s2:l7" met="5" type="-+">Oorblasers quaet vliet, de schriftuer <rhyme label="d" type="m">verband</rhyme>,</l>
+        <l id="s2:l8" met="5" type="-+">En die quaedt spreecken vanden echten <rhyme label="d" type="m" corresp="#s2:l7">stand</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Prins Bruyd’gom leeft lange <rhyme label="a" type="f">Jaren</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Met u vrou Bruyt in vrede <rhyme label="b" type="m">rijc</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">En spant tot vrede liefdes <rhyme label="a" type="f" corresp="#s3:l1">snaren</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">En Godvreesentheyt te <rhyme label="b" type="m" corresp="#s3:l2">gelijck</rhyme>:</l>
+        <l id="s3:l5" met="2" type="-+">Soo sal den <rhyme label="c" type="m">tijd</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">die ‘t al <rhyme label="c" type="m" corresp="#s3:l5">verslijt</rhyme>,</l>
+        <l id="s3:l7" met="5" type="-+">Soo sal den tijd u altijd maecken <rhyme label="d" type="m">vroedt</rhyme>,</l>
+        <l id="s3:l8" met="5" type="-+">In lijden duldigh, danckbaer in <rhyme label="d" type="m" corresp="#s3:l7">voorspoet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

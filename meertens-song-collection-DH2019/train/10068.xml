@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10068</id>
+    <date>
+      <year-start>1658</year-start>
+      <year-end>1658</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Si vous ne voulez me guérir</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HElaes! bedroefde jonge <rhyme label="a" type="m">Maeght</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Met recht mach ick wel droevich <rhyme label="b" type="f">klagen</rhyme></l>
+        <l id="s1:l3" met="3" type="+-">In myn jonge <rhyme label="b" type="f" corresp="#s1:l2">dagen</rhyme></l>
+        <l id="s1:l4" met="3" type="+-">Nu 't myn memandt <rhyme label="a" type="m" corresp="#s1:l1">vraacht</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Ach! dat de Moode quam in 't <rhyme label="c" type="m">landt</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Dat Vrijsters vrijde, 't waar dan hupts en <rhyme label="c" type="m" corresp="#s1:l5">kant</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Ick socht zoo lang ick <rhyme label="d" type="m">vont</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Een pleyster tot myn <rhyme label="d" type="m" corresp="#s1:l7">wont</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Maar ach! die Moode is noch <rhyme label="a" type="m">niet</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">De Vrijsters die moeten <rhyme label="b" type="f">verbye</rhyme></l>
+        <l id="s2:l3" met="3" type="+-">Tot men haar komt <rhyme label="b" type="f" corresp="#s2:l2">vrye</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">Ach wat groot <rhyme label="a" type="m" corresp="#s2:l1">verdriet</rhyme>!</l>
+        <l id="s2:l5" met="4" type="-+">Ick heb verbeyt zoo meenich <rhyme label="c" type="m">jaar</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">Geen Vryer komt eens kijcken, hoe ick <rhyme label="c" type="m" corresp="#s2:l5">vaar</rhyme>;</l>
+        <l id="s2:l7" met="3" type="-+">Men spreekt my nimmer <rhyme label="d" type="m">toe</rhyme>;</l>
+        <l id="s2:l8" met="3" type="-+">Dit leven ben ick <rhyme label="d" type="m" corresp="#s2:l7">moe</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">En daar ick ben zoo braaf van <rhyme label="a" type="m">leên</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Mijn neus en montje wel <rhyme label="b" type="f">besneeden</rhyme></l>
+        <l id="s3:l3" met="3" type="+-">En voorts al mijn <rhyme label="b" type="f" corresp="#s3:l2">leeden</rhyme></l>
+        <l id="s3:l4" met="3" type="+-">Syn vol <rhyme label="a" type="m" corresp="#s3:l1">aardigheden</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">En daar ick sie soo meenich <rhyme label="c" type="m">kruck</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">Van mancke scheele, ja die hebben 't <rhyme label="c" type="m" corresp="#s3:l5">luck</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Die spijt die is te <rhyme label="d" type="m">groot</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Ick treur my by na <rhyme label="d" type="m" corresp="#s3:l7">doot</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

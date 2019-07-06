@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>27032</id>
+    <date>
+      <year-start>1576</year-start>
+      <year-end>1576</year-end>
+    </date>
+    <tags>
+      <tag standard-name="geuzenlied" translation="Geuzen song">geuzenlied</tag>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+      <tag standard-name="spotlied" translation="mocking song">spotlied</tag>
+    </tags>
+    <melody>Psalm 002 Datheen</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+      <category translation="amusement">vermaak</category>
+      <category translation="politics and history">politiek en geschiedenis</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Waerom rasen die Geusen met <rhyme label="a" type="m">hoochmoet</rhyme>?</l>
+        <l id="s1:l2" met="5" type="-+">Waerom comen sy inden Briel te <rhyme label="b" type="f">samen</rhyme>?</l>
+        <l id="s1:l3" met="5" type="-+">Wat ist datmen te Vlissingen nu <rhyme label="a" type="m" corresp="#s1:l1">doet</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">En tEnchuyzen, om my te gaen <rhyme label="b" type="f" corresp="#s1:l2">beschamen</rhyme></l>
+        <l id="s1:l5" met="5" type="-+">Met Coningen sy hen connen <rhyme label="c" type="f">verbinden</rhyme></l>
+        <l id="s1:l6" met="5" type="-+">En Vorsten, die oock daer toe zijn <rhyme label="d" type="m">bedacht</rhyme></l>
+        <l id="s1:l7" met="5" type="-+">My te bestrijden, en gants te <rhyme label="c" type="f" corresp="#s1:l5">verslinden</rhyme>,</l>
+        <l id="s1:l8" met="5" type="-+">En mijnen Godt die Paus met gantscher <rhyme label="d" type="m" corresp="#s1:l6">macht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Sy spreken Laet ons werpen vanden <rhyme label="a" type="m">hals</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Den Tienden Penninc met al haer <rhyme label="b" type="f">beswaren</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">Ducdalbens Commissy, want sy is <rhyme label="a" type="m" corresp="#s2:l1">vals</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">En willen my voor Vyant gaen <rhyme label="b" type="f" corresp="#s2:l2">verclaren</rhyme>:</l>
+        <l id="s2:l5" met="5" type="-+">My met al mijn Spangiaerden hooch <rhyme label="c" type="f">gepresen</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">Willen sy gantschelijck te lande <rhyme label="d" type="m">wtslaen</rhyme>,</l>
+        <l id="s2:l7" met="5" type="-+">Den Paus willen sy niet ghehoorsaem <rhyme label="c" type="f" corresp="#s2:l5">wesen</rhyme>,</l>
+        <l id="s2:l8" met="5" type="-+">Noch dienen Melis in de halve <rhyme label="d" type="m" corresp="#s2:l6">Maen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Maer ick sal noch dapper comen te <rhyme label="a" type="m">velt</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Om haer te dwingen dat sy mijn beelt <rhyme label="b" type="f">eeren</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">Dat Thantwerpen opt Casteel is <rhyme label="a" type="m" corresp="#s3:l1">ghestelt</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Daer aen sy mijn Commissy sullen <rhyme label="b" type="f" corresp="#s3:l2">leeren</rhyme></l>
+        <l id="s3:l5" met="5" type="-+">Maer sy comen tsamen met grooten <rhyme label="c" type="f">hoopen</rhyme></l>
+        <l id="s3:l6" met="5" type="-+">Daer voor ic my niet eenmael had <rhyme label="d" type="m">ontset</rhyme></l>
+        <l id="s3:l7" met="5" type="-+">Den Tienden Penninc sal ick dier <rhyme label="c" type="f" corresp="#s3:l5">becoopen</rhyme>,</l>
+        <l id="s3:l8" met="5" type="-+">En dat ick den Adel heb gants <rhyme label="d" type="m" corresp="#s3:l6">verplet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">En ben ick niet Stadthouder <rhyme label="a" type="m">toebereyt</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">Van mijn Coninck, en d Jnquisicy <rhyme label="b" type="f">mede</rhyme>:</l>
+        <l id="s4:l3" met="5" type="-+">En heeft die Paus my niet claer <rhyme label="a" type="m" corresp="#s4:l1">toegeseyt</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">Dat ick het Lant besitten sal in <rhyme label="b" type="f" corresp="#s4:l2">vrede</rhyme>?</l>
+        <l id="s4:l5" met="5" type="-+">Maer sal ick dus mijn loon van haer <rhyme label="c" type="f">verwachten</rhyme>,</l>
+        <l id="s4:l6" met="5" type="-+">Dat ick haer aller Beudel ben <rhyme label="d" type="m">gheweest</rhyme>,</l>
+        <l id="s4:l7" met="5" type="-+">Datmen my sonder hulpe laet <rhyme label="c" type="f" corresp="#s4:l5">versmachten</rhyme>,</l>
+        <l id="s4:l8" met="5" type="-+">Js dit het loon van dat gecroonde <rhyme label="d" type="m" corresp="#s4:l6">Beest</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

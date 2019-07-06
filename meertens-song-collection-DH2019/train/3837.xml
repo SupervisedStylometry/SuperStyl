@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3837</id>
+    <date>
+      <year-start>1582</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>De Heer is mijn herder goed</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Hans de Ries</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DIe Heere is mijn * Herder <rhyme label="a" type="m">goet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Siet my en sal gebreecken <rhyme label="b" type="m">niet</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Hy weydt mijn siel vriendlijck en <rhyme label="a" type="m" corresp="#s1:l1">soet</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Al op dat groene lant met <rhyme label="b" type="m" corresp="#s1:l2">vliedt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hy leydt my aen dat water <rhyme label="a" type="m">claer</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">En verquijckt seer de siele <rhyme label="b" type="m">mijn</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Op die rechte strate <rhyme label="a" type="m" corresp="#s2:l1">voorwaer</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Voert hy my om syns naems wil <rhyme label="b" type="m" corresp="#s2:l2">fijn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">† Oft ick wandel in <rhyme label="a" type="m">duysternis</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Ende sie aen ancxt ende <rhyme label="b" type="m">noot</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Mijn siele niet bevreest en <rhyme label="a" type="m" corresp="#s3:l1">is</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Voor ongheluck noch voor de <rhyme label="b" type="m" corresp="#s3:l2">doot</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Wandt Heer in noodt in ancxt en <rhyme label="a" type="m">smert</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Sijt ghy by my tallen <rhyme label="b" type="m">tijden</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">V stock en woort mijn siel en <rhyme label="a" type="m" corresp="#s4:l1">hert</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Seer vertoosten en <rhyme label="b" type="m" corresp="#s4:l2">verblijden</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Ghy bereydt my een taffel <rhyme label="a" type="m">schoon</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">En salft my met oly <rhyme label="b" type="m">lieflijck</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Voor al mijn vyanden ten <rhyme label="a" type="m" corresp="#s5:l1">toon</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Vult ghy mijn siel met goeden <rhyme label="b" type="m" corresp="#s5:l2">rijck</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Godts bermherticheyt ende <rhyme label="a" type="m">tgoet</rhyme></l>
+        <l id="s6:l2" met="4" type="-+">Sal my volghen al dleuen <rhyme label="b" type="m">mijn</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">† In Godes huys en syn <rhyme label="a" type="m" corresp="#s6:l1">behoet</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Sal ick eewichlijck blijde <rhyme label="b" type="m" corresp="#s6:l2">syn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

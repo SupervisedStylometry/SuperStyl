@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2084</id>
+    <date>
+      <year-start>1674</year-start>
+      <year-end>1674</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="christuslied" translation="Christ song">Christuslied</tag>
+    </tags>
+    <melody>Festum diem hodie</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Daniel Bellemans</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">ALs ick lest op eenen <rhyme label="a" type="m">dagh</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">'t Hemels Seraphientjen <rhyme label="a" type="m" corresp="#s1:l1">sagh</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Sonder Boogsken, sonder <rhyme label="b" type="f">schichtjens</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Sonder fackels, sonder <rhyme label="b" type="f" corresp="#s1:l3">lichtjens</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Sonder Sluyer, sonder <rhyme label="a" type="m" corresp="#s1:l1">vlagh</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Vraeghden ick op dat <rhyme label="c" type="m">pas</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Waer syn ghereedtschap <rhyme label="c" type="m" corresp="#s1:l6">was</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Daer hy ons hert' med' <rhyme label="d" type="m">wondt</rhyme>?</l>
+        <l id="s1:l9" met="3" type="-+">Seght my eens waer dat <rhyme label="e" type="m">light</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">Uw Boogsken met den <rhyme label="e" type="m" corresp="#s1:l9">schicht</rhyme></l>
+        <l id="s1:l11" met="6" type="+-">Daer ghy soo soetelyck ons hert' med'treffen <rhyme label="d" type="m" corresp="#s1:l8">kondt</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Hy seyd'; mynen Pyl en <rhyme label="a" type="m">Boogh</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Daer ick langs de locht mé <rhyme label="a" type="m" corresp="#s2:l1">vloog</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Hebb' ick naer den Berg <rhyme label="b" type="f">gedragen</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Daer Godt is aen't Kruys <rhyme label="b" type="f" corresp="#s2:l3">geslagen</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">En daer zyn sy heden <rhyme label="a" type="m" corresp="#s2:l1">noch</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">'t Kruys dat den Heer' <rhyme label="c" type="m">ontfangt</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">'t Kruys daer dẽ Heer <rhyme label="c" type="m" corresp="#s2:l6">aenhangt</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Is van den Boogh <rhyme label="d" type="m">ghemaeckt</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">Myn Pylen die zyn <rhyme label="e" type="m">daer</rhyme></l>
+        <l id="s2:l10" met="3" type="-+">Voor Naghels <rhyme label="e" type="m" corresp="#s2:l9">al-te-gaer</rhyme></l>
+        <l id="s2:l11" met="6" type="+-">Door handen, voeten, ende zyd' <rhyme label="d" type="m" corresp="#s2:l8">gheraeckt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Myn flambeeuw blaeckt even <rhyme label="a" type="m">seer</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">In het hert' van mynen <rhyme label="a" type="m" corresp="#s3:l1">Heer'</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Als den Heer' van 't Kruys sal af <rhyme label="b" type="f">zyn</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Sal 't Pyl-kokerken het Graf <rhyme label="b" type="f" corresp="#s3:l3">zyn</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">Dat ick aen Heer <rhyme label="a" type="m" corresp="#s3:l1">ver-eer</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">'t Doots-kleedt daer syn <rhyme label="c" type="m">bebloet</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Lichaem in ligghen <rhyme label="c" type="m" corresp="#s3:l6">moet</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Sal mynen Sluyer <rhyme label="d" type="m">zyn</rhyme>,</l>
+        <l id="s3:l9" met="3" type="-+">Sterft nu den Lieven <rhyme label="e" type="m">Heer</rhyme></l>
+        <l id="s3:l10" met="3" type="-+">Die ons bemindt soo <rhyme label="e" type="m" corresp="#s3:l9">seer</rhyme></l>
+        <l id="s3:l11" met="6" type="+-">Om onse Liefde, niet van enckel <rhyme label="d" type="m" corresp="#s3:l8">Minne-pyn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>183930</id>
+    <date>
+      <year-start>1806</year-start>
+      <year-end>1806</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Air de Joconde</melody>
+  <author>Jan Steven van Esveldt Holtrop, Willem Holtrop</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">De me voir avec les <rhyme label="a" type="m">Maçons</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Que j'ai l'ame <rhyme label="b" type="f">ravie</rhyme>!</l>
+        <l id="s1:l3" met="4" type="-+">Je règlerai sur leurs <rhyme label="a" type="m" corresp="#s1:l1">lèçons</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Les actes de ma <rhyme label="b" type="f" corresp="#s1:l2">vie</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">C'est par la vertu, la <rhyme label="c" type="m">candeur</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Qu'ils se font <rhyme label="d" type="f">reconnoître</rhyme>:</l>
+        <l id="s1:l7" met="4" type="-+">Ils ont sçu corriger mon <rhyme label="c" type="m" corresp="#s1:l5">coeur</rhyme>.</l>
+        <l id="s1:l8" met="3" type="-+">Je suis un nouvel <rhyme label="d" type="f" corresp="#s1:l6">être</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">La plus exacte <rhyme label="a" type="m">charité</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Conduit ces hommes <rhyme label="b" type="f">sages</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">On rencontre leur <rhyme label="a" type="m" corresp="#s2:l1">verité</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Dans leurs moindres <rhyme label="b" type="f" corresp="#s2:l2">langages</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Heureux, qui peut de leurs <rhyme label="c" type="m">secrets</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Pénètrer le <rhyme label="d" type="f">mystère</rhyme>!</l>
+        <l id="s2:l7" met="4" type="-+">Plus heureux, qui suit leurs <rhyme label="c" type="m" corresp="#s2:l5">décrets</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Vivant en digne <rhyme label="d" type="f" corresp="#s2:l6">Frère</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">De la loi de <rhyme label="a" type="m">l'égalité</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">On connoit <rhyme label="b" type="f">l'avantage</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">Et la charmante <rhyme label="a" type="m" corresp="#s3:l1">urbanité</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Du Chef est le <rhyme label="b" type="f" corresp="#s3:l2">partage</rhyme>;</l>
+        <l id="s3:l5" met="4" type="-+">S'il est obligé de <rhyme label="c" type="m">punir</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Quelque leger <rhyme label="d" type="f">caprice</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">En témoignant du <rhyme label="c" type="m" corresp="#s3:l5">repentir</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">On flêchit sa <rhyme label="d" type="f" corresp="#s3:l6">justice</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Des règles de <rhyme label="a" type="m">l'humanité</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Chacun suit les <rhyme label="b" type="f">maximes</rhyme>;</l>
+        <l id="s4:l3" met="4" type="-+">On s'arme de <rhyme label="a" type="m" corresp="#s4:l1">sévérité</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Contre les moindres <rhyme label="b" type="f" corresp="#s4:l2">crimes</rhyme>;</l>
+        <l id="s4:l5" met="4" type="-+">On admire le <rhyme label="c" type="m">vertueux</rhyme>:</l>
+        <l id="s4:l6" met="3" type="-+">On le chérit, on <rhyme label="d" type="f">l'aime</rhyme>;</l>
+        <l id="s4:l7" met="4" type="-+">On éloigne le <rhyme label="c" type="m" corresp="#s4:l5">vicieux</rhyme>,</l>
+        <l id="s4:l8" met="3" type="-+">Le livrant à <rhyme label="d" type="f" corresp="#s4:l6">lui-même</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

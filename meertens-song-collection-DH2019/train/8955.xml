@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8955</id>
+    <date>
+      <year-start>1625</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Christ ist erstanden</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">CHRIstus is <rhyme label="a" type="f">verresen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Van alle Pijn <rhyme label="a" type="f" corresp="#s1:l1">ghenesen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Des sullen wy alle bly <rhyme label="b" type="m">zijn</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Christus wil onse Troost <rhyme label="b" type="m" corresp="#s1:l3">zijn</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+"><rhyme label="c" type="m">Alleluia</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Waer hy niet <rhyme label="a" type="f">opghestane</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Die Werelt waer <rhyme label="a" type="f" corresp="#s2:l1">vergane</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Maer want hy opghestanden <rhyme label="b" type="m">is</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Soo Loven wy den HEEre <rhyme label="b" type="m" corresp="#s2:l3">Christi</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+"><rhyme label="c" type="m">Alleluia</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

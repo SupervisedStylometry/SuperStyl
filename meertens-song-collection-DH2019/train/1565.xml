@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1565</id>
+    <date>
+      <year-start>1627</year-start>
+      <year-end>1627</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Als ik uit wandelen ga</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">AL waer ick soo bemindt als d'algoedighe <rhyme label="a" type="m">Goon</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Dat sy om my te schenck, o schoone Ridder <rhyme label="a" type="m" corresp="#s1:l1">boon</rhyme></l>
+        <l id="s1:l3" met="6" type="-+">De Scepter ende Kroon van Hemel en van <rhyme label="b" type="m">Aert</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">S'en waren sonder u, my geen spoogh waters <rhyme label="b" type="m" corresp="#s1:l3">waert</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Al waert d' Opper-vooght van 't hoogh en heyligh <rhyme label="a" type="m">Rijck</rhyme>,</l>
+        <l id="s2:l2" met="6" type="-+">Mijn in zijn grootheyt wou my maken zijns <rhyme label="a" type="m" corresp="#s2:l1">gelijck</rhyme>,</l>
+        <l id="s2:l3" met="6" type="-+">En ick moest u mijn Lief, hier laten in <rhyme label="b" type="m">ghequel</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Wat sou den Hemel my zijn anders als een <rhyme label="b" type="m" corresp="#s2:l3">Hel</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">Al waert dat ick alhier mocht dwingen met <rhyme label="a" type="m">gebot</rhyme>,</l>
+        <l id="s3:l2" met="6" type="-+">En heerschappyde al de volk'ren dol en <rhyme label="a" type="m" corresp="#s3:l1">sot</rhyme>,</l>
+        <l id="s3:l3" met="6" type="-+">Doch sonder u ick sou het wereltlijck <rhyme label="b" type="m">ghebien</rhyme>,</l>
+        <l id="s3:l4" met="6" type="-+">Groot hertigh van ter zy niet willen eens <rhyme label="b" type="m" corresp="#s3:l3">aen-zien</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">Maer als ick mach by u mijn Prins zijn <rhyme label="a" type="m">onbevreest</rhyme>,</l>
+        <l id="s4:l2" met="6" type="-+">Soo vind ick my soo rijck, en soo vernoeght van <rhyme label="a" type="m" corresp="#s4:l1">geest</rhyme></l>
+        <l id="s4:l3" met="6" type="-+">Dat ick verachten puf de doot en twreet <rhyme label="b" type="m">gheval</rhyme>,</l>
+        <l id="s4:l4" met="6" type="-+">Want in u Zieltje is mijn Hemeltjen en <rhyme label="b" type="m" corresp="#s4:l3">al</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19587</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="moralistisch lied" translation="moralistic song">moralistisch lied</tag>
+    </tags>
+    <melody>Beur op uw hoofd tsa Brutus</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">NOoit heeft de zee zo veele quaads <rhyme label="a" type="m">ingezlokt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Als ons der Vrouwen <rhyme label="b" type="m">Mond</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">En daaden, hebben uit’ er boos riff <rhyme label="a" type="m" corresp="#s1:l1">geschokt</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Vol stankx, in hart en <rhyme label="b" type="m" corresp="#s1:l2">grond</rhyme></l>
+        <l id="s1:l5" met="5" type="-+">Dat yder gruiwd// en voor ‘er handel <rhyme label="c" type="m">schuiwd</rhyme></l>
+        <l id="s1:l6" met="2" type="+-">Met <rhyme label="d" type="f">verschrikken</rhyme>.</l>
+        <l id="s1:l7" met="5" type="-+">Waar was ooit rouw// die groot was, die een <rhyme label="e" type="m">Vrouw</rhyme></l>
+        <l id="s1:l8" met="2" type="+-">Niet quam <rhyme label="d" type="f" corresp="#s1:l6">schikken</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>118700</id>
+    <date>
+      <year-start>1730</year-start>
+      <year-end>1730</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="antwoordlied" translation="response song">antwoordlied</tag>
+    </tags>
+    <melody>Rozemond die lag gedoken</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">ô! MEn zieter veele <rhyme label="a" type="f">trouwen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Als verliefde, dog in <rhyme label="b" type="m">schyn</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Die daar na hun hoofden <rhyme label="a" type="f" corresp="#s1:l1">klouwen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">En gestaâg aan 't knorren <rhyme label="b" type="m" corresp="#s1:l2">zyn</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Daar 's geen swaarder straf op <rhyme label="c" type="m">aard</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Dan op zulken wys <rhyme label="c" type="m" corresp="#s1:l5">gepaard</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">'t Wyf dat zal haar Man <rhyme label="a" type="f">braveren</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">En de Man braveerd zyn <rhyme label="b" type="m">Wyf</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Van de morgen als de <rhyme label="a" type="f" corresp="#s2:l1">kleeren</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Naauwelyks nog zyn aan 't <rhyme label="b" type="m" corresp="#s2:l2">lyf</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Men al aan het schelden <rhyme label="c" type="m">gaat</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Dikmaals tot den avond <rhyme label="c" type="m" corresp="#s2:l5">laat</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Geld en goedje werd <rhyme label="a" type="f">verzopen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">ô! De Vrouw die <rhyme label="b" type="m">dommineerd</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Man wil na de Bierbank <rhyme label="a" type="f" corresp="#s3:l1">loopen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Daar hy voort de rest <rhyme label="b" type="m" corresp="#s3:l2">verteerd</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Ja men boud een hel in 't <rhyme label="c" type="m">huis</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Zeg waar is ooit grooter <rhyme label="c" type="m" corresp="#s3:l5">kruis</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Jonge Jeugd wilt dit <rhyme label="a" type="f">bemerken</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Ziet wat u te wagten <rhyme label="b" type="m">staat</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Zyt voorzichtig in die <rhyme label="a" type="f" corresp="#s4:l1">werken</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Oordeeld wel eer 't is te <rhyme label="b" type="m" corresp="#s4:l2">laat</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">Daar den Echt niet wel en <rhyme label="c" type="m">slaagt</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Gy ligt maag're kaaken <rhyme label="c" type="m" corresp="#s4:l5">draagt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

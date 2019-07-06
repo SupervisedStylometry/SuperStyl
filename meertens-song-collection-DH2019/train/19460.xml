@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19460</id>
+    <date>
+      <year-start>1642</year-start>
+      <year-end>1642</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+    </tags>
+    <melody>Amarylletje mijn vriendin</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Jan van der Veen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MYn soetje ik moetje dit op syn <rhyme label="a" type="m">Vries</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Eens bringen, 't zyn dingen van gheen <rhyme label="a" type="m" corresp="#s1:l1">verlies</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Myn susjen een kusjen soo sachjes en <rhyme label="b" type="m">week</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Dat smaakt als Baars met botter en <rhyme label="b" type="m" corresp="#s1:l3">eek</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ons lobben door 't sobben syn uyt 't <rhyme label="a" type="m">fasol</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Neen Pietje dat gietje myn al te <rhyme label="a" type="m" corresp="#s2:l1">vol</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Weest statich en matich maakt gheen <rhyme label="b" type="m">ghetier</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Wat soenen is dat, ly breekme <rhyme label="b" type="m" corresp="#s2:l3">schter</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Dat smaaktme dat raaktme an 't sharsen <rhyme label="a" type="m">bloet</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Wat duiker gheen suiker en is soe <rhyme label="a" type="m" corresp="#s3:l1">soet</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Myn roosje myn troosje van heunich <rhyme label="b" type="m">stof</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Ey voel, myn polsje dat slaater <rhyme label="b" type="m" corresp="#s3:l3">of</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Iy queltme, en speltme nu op de <rhyme label="a" type="m">mouw</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Wat quakjes maar strak jes soo sal ik <rhyme label="a" type="m" corresp="#s4:l1">jou</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Het meysjen een reysj en uoemen myn <rhyme label="b" type="m">vrient</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Dat jy met harten en sinnen <rhyme label="b" type="m" corresp="#s4:l3">mient</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">O neenje, wat meenje wel wat een <rhyme label="a" type="m">struyf</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Myn schaapje, myn aapje myn uyltje, myn <rhyme label="a" type="m" corresp="#s5:l1">duyf</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Myn liefje, myn diefje, myn eele <rhyme label="b" type="m">boerin</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Dat ik een ander als Iou <rhyme label="b" type="m" corresp="#s5:l3">bemin</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">O maatje, hoe praatje beter als <rhyme label="a" type="m">stom</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Siet Gysjen en Lysjen die lachender <rhyme label="a" type="m" corresp="#s6:l1">om</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Iou kallen en mallen dat hooren sy <rhyme label="b" type="m">juyst</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Nou griffelt dat volkan jen in heur <rhyme label="b" type="m" corresp="#s6:l3">vuyst</rhyme>:</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Neen bekje en trekje dat gheensins <rhyme label="a" type="m">an</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">Doch 't vryen kan lyen gheen darde <rhyme label="a" type="m" corresp="#s7:l1">man</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Dus laten wy praten in 't duyster dat's <rhyme label="b" type="m">puyk</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Daar krijghtmen reusel van inde <rhyme label="b" type="m" corresp="#s7:l3">buyk</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Myn weerde vrint en myn <rhyme label="a" type="m">vrindin</rhyme></l>
+        <l id="s8:l2" met="4" type="-+">Ghy haddet meer als groot <rhyme label="a" type="m" corresp="#s8:l1">ghewin</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">Mocht u myn wensch <rhyme label="b" type="m">ghebeuren</rhyme>,</l>
+        <l id="s8:l4" met="4" type="-+">Ghy soudet nummer <rhyme label="b" type="m" corresp="#s8:l3">treuren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

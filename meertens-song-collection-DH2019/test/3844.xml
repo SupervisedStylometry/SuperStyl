@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3844</id>
+    <date>
+      <year-start>1582</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Loof altezamen gij knechten des Heren</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">† Ouertaltsaem ghy knechten des <rhyme label="a" type="f">Heeren</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Den naem des Heeren wilt lof <rhyme label="a" type="f" corresp="#s1:l1">vermeeren</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Lof sy nu des HEEREN naem <rhyme label="b" type="m">gheseydt</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Van nu aen tot inder <rhyme label="b" type="m" corresp="#s1:l3">eewicheyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Vanden opganck der sonnen seer <rhyme label="a" type="f">clare</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Tot haren nederganck <rhyme label="a" type="f" corresp="#s2:l1">openbare</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">So sy ghelooft en ghepresen <rhyme label="b" type="m">me</rhyme>.</l>
+        <l id="s2:l4" met="5" type="-+">Den name des Heerder talder <rhyme label="b" type="m" corresp="#s2:l3">ste</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Die Heer is hooch ouer de heydnen <rhyme label="a" type="f">fris</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">Sijn eer gaet so wijt als den hemel <rhyme label="a" type="f" corresp="#s3:l1">is</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">† Wie is die Heer onsen Godt <rhyme label="b" type="m">ghelijck</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Die hem gheset heeft hooch in syn <rhyme label="b" type="m" corresp="#s3:l3">rijck</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Op dat nedrighe siet Godt <rhyme label="a" type="f">verheuen</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">Inden hemel en aerde sonder <rhyme label="a" type="f" corresp="#s4:l1">sneuen</rhyme></l>
+        <l id="s4:l3" met="5" type="-+">‡ Hy recht op wtten stof die <rhyme label="b" type="m">cleyne</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">D'arme verhoocht hy int <rhyme label="b" type="m" corresp="#s4:l3">ghemeyne</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Hy siet haer neffens Princen <rhyme label="a" type="f">ydoone</rhyme></l>
+        <l id="s5:l2" met="5" type="-+">By de Princen syns volcx heerlijc <rhyme label="a" type="f" corresp="#s5:l1">schoone</rhyme></l>
+        <l id="s5:l3" met="5" type="-+">† Donvruchtbaer hy int huys woonen <rhyme label="b" type="m">doet</rhyme></l>
+        <l id="s5:l4" met="5" type="-+">En maeckt haer een kindermoeder <rhyme label="b" type="m" corresp="#s5:l3">soet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

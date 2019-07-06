@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2417</id>
+    <date>
+      <year-start>1597</year-start>
+      <year-end>1597</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Houd aan ik zal u zingen voor</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Mijn jeucht, die moet nv vreucht <rhyme label="a" type="f">hanteren</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Gheneucht, is nv alle mijn <rhyme label="a" type="f" corresp="#s1:l1">begheeren</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Helpt my nv jubileren, met <rhyme label="a" type="f" corresp="#s1:l1">eeren</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">In d'eertsche <rhyme label="b" type="m">slijck</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Coemt voort musijck, en <rhyme label="b" type="m" corresp="#s1:l4">rethorijck</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Sterckt vreuchde <rhyme label="b" type="m" corresp="#s1:l4">ghelijck</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Geen mensch, mocht meerder vreucht <rhyme label="a" type="f">toecommen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Ic wensch, hen pijn die dit <rhyme label="a" type="f" corresp="#s2:l1">verdomen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Mijn vreucht waer niet te nommen, te <rhyme label="a" type="f" corresp="#s2:l1">sommen</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Van menschen <rhyme label="b" type="m">al</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Coemt groot en smal, helpt mijn <rhyme label="b" type="m" corresp="#s2:l4">ghetal</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">Met bly <rhyme label="b" type="m" corresp="#s2:l4">gheschal</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

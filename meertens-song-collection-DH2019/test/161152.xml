@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>161152</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Het beste op aarde is een gerust gemoed</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Ontaarde minnaars die het goud <rhyme label="a" type="m">bemind</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">En slegts daar in behagen <rhyme label="a" type="m" corresp="#s1:l1">vind</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">En doold verkeerdelijk van 't spoor der <rhyme label="b" type="f">reden</rhyme>:</l>
+        <l id="s1:l4" met="5" type="-+">De ware min agt geen <rhyme label="b" type="f" corresp="#s1:l3">verganklijkheden</rhyme>,</l>
+        <l id="s1:l5" met="7" type="-+">Maar eerd de deugd, Maar eerd de deugd, Die meer dan staf of <rhyme label="c" type="m">kroon</rhyme></l>
+        <l id="s1:l6" met="7" type="-+">Vercierd de Jeugd, Vercierd de Jeugd, Met euwig duirend <rhyme label="c" type="m" corresp="#s1:l5">schoon</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">De liefde die alleen om 't goud <rhyme label="a" type="m">ontstaat</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Veranderd ligtelijk in dulle <rhyme label="a" type="m" corresp="#s2:l1">haat</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">Wanneer 't geval   de schatten doet <rhyme label="b" type="f">verteren</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Waar van 't verlies de liefde doet <rhyme label="b" type="f" corresp="#s2:l3">verkeren</rhyme>.</l>
+        <l id="s2:l5" met="7" type="-+">Hij voeld berouw, Hij voeld berouw, Die slegts om goud <rhyme label="c" type="m">bemind</rhyme></l>
+        <l id="s2:l6" met="7" type="-+">En syne trouw, En syne trouw, Met gulde ketens <rhyme label="c" type="m" corresp="#s2:l5">bind</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Eert des de deugd, die boven alle <rhyme label="a" type="m">schat</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">'t Opregt vermaak van ware min <rhyme label="a" type="m" corresp="#s3:l1">bevat</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Ja, die alleen   ons altoos kan <rhyme label="b" type="f">behagen</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Dewyl 't geval die nimmer weg kan <rhyme label="b" type="f" corresp="#s3:l3">dragen</rhyme>.</l>
+        <l id="s3:l5" met="7" type="-+">Waar sulk een schigt, Waar sulk een schigt, Het hert in min <rhyme label="c" type="m">ontsteekt</rhyme>,</l>
+        <l id="s3:l6" met="7" type="-+">Werd trouw gestigt, Werd trouw gestigt, Die noit door twist <rhyme label="c" type="m" corresp="#s3:l5">verbreekt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

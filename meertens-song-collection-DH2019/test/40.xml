@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>40</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Zuyvre ciersel van die <rhyme label="a" type="m">Stadt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Die, in 'er lijst, meer wonders <rhyme label="a" type="m" corresp="#s1:l1">vat</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Als immer vatte 't oud' <rhyme label="b" type="f">Athenen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Hoe zal ik u toch, naer de <rhyme label="c" type="m">kunst</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Bedanken, voor de milde <rhyme label="c" type="m" corresp="#s1:l4">gunst</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Die uwe miltheyt wou <rhyme label="b" type="f" corresp="#s1:l3">verlenen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Aen een die zullix niet <rhyme label="a" type="m">verdiend'</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Zeg, had gy niet een liever <rhyme label="a" type="m" corresp="#s2:l1">vrient</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Daer gy u miltheyt aen <rhyme label="b" type="f">verquiste</rhyme>?</l>
+        <l id="s2:l4" met="4" type="-+">Ik ken de minste van der <rhyme label="c" type="m">Aerd</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Derhalven zoo veel gunst niet <rhyme label="c" type="m" corresp="#s2:l4">ward</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Ik zeg 't u, of gy 't noch niet <rhyme label="b" type="f" corresp="#s2:l3">wiste</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Een die zijn eyg' <rhyme label="a" type="m">hoedanigheyt</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Aen dien hy liefd, zo rustig, <rhyme label="a" type="m" corresp="#s3:l1">zeyt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Men van bedrog niet mach <rhyme label="b" type="f">belastren</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">Ik blind' u door geen schonen <rhyme label="c" type="m">schijn</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Die zullicx doen, wie datse ook <rhyme label="c" type="m" corresp="#s3:l4">zijn</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Verklaer ik dat van deugt <rhyme label="b" type="f" corresp="#s3:l3">verbastren</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Maer gy, vol zoet' en goede <rhyme label="a" type="m">zeen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Hebt naulicx dit van my <rhyme label="a" type="m" corresp="#s4:l1">geleen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Dies gy aen my geen gunsten <rhyme label="b" type="f">spaerde</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Wat eyschen zy tot danck van <rhyme label="c" type="m">my</rhyme>?</l>
+        <l id="s4:l5" met="4" type="-+">Zeg, is 'er danck die waerdig <rhyme label="c" type="m" corresp="#s4:l4">zy</rhyme>?</l>
+        <l id="s4:l6" met="4" type="-+">Hoe noem ik haer dan na haer <rhyme label="b" type="f" corresp="#s4:l3">waerde</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13819</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Tweede Carileen</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">HEy tsa Herders wacker <rhyme label="a" type="m">aen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Voert u Nimphjes aen de <rhyme label="b" type="m">Rey</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">d’Wijl de Lent haer <rhyme label="c" type="m">vertoont</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">En de tijdt u verschoont, <rhyme label="c" type="m" corresp="#s1:l3">Herderinne</rhyme></l>
+        <l id="s1:l5" met="5" type="+-">Voeght u hier mee <rhyme label="b" type="m" corresp="#s1:l2">by</rhyme>,</l>
+        <l id="s1:l6" met="2" type="+-">Sprinckt vrolijck uyt in dese koele <rhyme label="d" type="m">Mey</rhyme>,</l>
+        <l id="s1:l7" met="6" type="-+">Omhelst sijn groene <rhyme label="e" type="m">jeught</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Rent door ‘t Wout maeckt <rhyme label="f" type="m">gheluyt</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">Daer sich hout in ‘t <rhyme label="f" type="m" corresp="#s1:l8">gheboomt</rhyme>,</l>
+        <l id="s1:l10" met="6" type="+-">Nu de Nachtegael die <rhyme label="d" type="m" corresp="#s1:l6">fluyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Hoort hoe soetjens dat hy <rhyme label="a" type="m">queelt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">‘t Is om uyt te locken de <rhyme label="b" type="m">Goon</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">Hey nu tsa wacker <rhyme label="c" type="m">uyt</rhyme>,</l>
+        <l id="s2:l4" met="3" type="+-">Siet ‘t ghebloemt en het <rhyme label="c" type="m" corresp="#s2:l3">kruyt</rhyme>,</l>
+        <l id="s2:l5" met="5" type="+-">By de Beeckjes ons me buyten <rhyme label="b" type="m" corresp="#s2:l2">noon</rhyme>,</l>
+        <l id="s2:l6" met="2" type="+-">Sprinckt vrolijck uyt in dese koele <rhyme label="d" type="m">Mey</rhyme>,</l>
+        <l id="s2:l7" met="6" type="-+">Omhelst sijn groene <rhyme label="e" type="m">jeught</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Rent door ‘t Wout maeckt <rhyme label="f" type="m">gheluyt</rhyme>,</l>
+        <l id="s2:l9" met="4" type="+-">Daer sich hout in ‘t <rhyme label="f" type="m" corresp="#s2:l8">gheboomt</rhyme>,</l>
+        <l id="s2:l10" met="6" type="+-">Nu de Nachtegael die <rhyme label="d" type="m" corresp="#s2:l6">fluyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Rept u vlugghe voetjes <rhyme label="a" type="m">heen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Spoeyt u rasch ten Boschwaert <rhyme label="b" type="m">in</rhyme>,</l>
+        <l id="s3:l3" met="3" type="+-">Waer elck Herder een <rhyme label="c" type="m">krans</rhyme></l>
+        <l id="s3:l4" met="3" type="+-">Vlecht, nu om aen den <rhyme label="c" type="m" corresp="#s3:l3">dans</rhyme></l>
+        <l id="s3:l5" met="5" type="+-">Te vercieren sijne <rhyme label="b" type="m" corresp="#s3:l2">Herderin</rhyme>,</l>
+        <l id="s3:l6" met="2" type="+-">Sprinckt vrolijck uyt in dese koele <rhyme label="d" type="m">Mey</rhyme>,</l>
+        <l id="s3:l7" met="6" type="-+">Omhelst sijn groene <rhyme label="e" type="m">jeught</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">Rent door ‘t Wout, maeckt <rhyme label="f" type="m">gheluyt</rhyme>,</l>
+        <l id="s3:l9" met="4" type="+-">Daer sich hout in ‘t <rhyme label="f" type="m" corresp="#s3:l8">gheboomt</rhyme>,</l>
+        <l id="s3:l10" met="6" type="+-">Nu de Nachtegael die <rhyme label="d" type="m" corresp="#s3:l6">fluyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

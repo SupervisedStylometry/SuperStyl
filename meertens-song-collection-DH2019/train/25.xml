@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>25</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Cessez mortels de soupirer</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Wrede Jason: wie <rhyme label="a" type="m">verspreyt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En steelt de reen uyt harssens <rhyme label="b" type="f">Acker</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">Is 't rijck, 't geen onder d' Aerde <rhyme label="a" type="m" corresp="#s1:l1">leydt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Of trouloosheyt, Alcides <rhyme label="b" type="f" corresp="#s1:l2">macker</rhyme>?</l>
+        <l id="s1:l5" met="4" type="-+">Wat port uw vlugt naer t' Grieckx <rhyme label="c" type="m">gewest</rhyme>?</l>
+        <l id="s1:l6" met="4" type="-+">Door balcken tal, aen een <rhyme label="c" type="m" corresp="#s1:l5">gevest</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Herdenkt, mijn trouw, in Colchos <rhyme label="a" type="m">kring</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Doen ick u door mijn gunst <rhyme label="b" type="f">omvaemde</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Of lust-genoodt, tot lust <rhyme label="a" type="m" corresp="#s2:l1">ontfing</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Veel meerder, dan een Maegt <rhyme label="b" type="f" corresp="#s2:l2">betaemde</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Vergelt ghy dus genoten <rhyme label="c" type="m">deugt</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Gepluckt in 't schoonste van uw <rhyme label="c" type="m" corresp="#s2:l5">jeugt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Had u de vol fenijnde <rhyme label="a" type="m">Draack</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">'t Meinedich rif, van een <rhyme label="b" type="f">gebeeten</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Of Colchos Coning u tot <rhyme label="a" type="m" corresp="#s3:l1">wraack</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Door Tygeraers, tot gruijs <rhyme label="b" type="f" corresp="#s3:l2">gereeten</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">Soo waer uw lof om hooch <rhyme label="c" type="m">gestuwt</rhyme>;</l>
+        <l id="s3:l6" met="4" type="-+">Waer voor men nu als Cerbius <rhyme label="c" type="m" corresp="#s3:l5">gruwt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Vervloeckten dach! doen t' weeldrich <rhyme label="a" type="m">Kint</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Sijn Pijl in dees borst <rhyme label="b" type="f">vermengde</rhyme>;</l>
+        <l id="s4:l3" met="4" type="-+">Door dien ick d' ongetrouwheyt <rhyme label="a" type="m" corresp="#s4:l1">vindt</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Van hem, wiens Oogh, mijn borst <rhyme label="b" type="f" corresp="#s4:l2">doorsengde</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">ô! Ridder! Ridder, <rhyme label="c" type="m">Ridderloos</rhyme>!</l>
+        <l id="s4:l6" met="4" type="-+">Uw glans vergaet, als Purpre <rhyme label="c" type="m" corresp="#s4:l5">Roos</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Vliedt waer ghy wilt, by Phoebus <rhyme label="a" type="m">kar</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Of onderaertse <rhyme label="b" type="f">schrey-Speloncken</rhyme>;</l>
+        <l id="s5:l3" met="4" type="-+">Ghy vliedt hoe hoogh, hoe leeg, hoe <rhyme label="a" type="m" corresp="#s5:l1">var</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Ick volg u nae door liefdens <rhyme label="b" type="f" corresp="#s5:l2">voncken</rhyme>:</l>
+        <l id="s5:l5" met="4" type="-+">Tot dat ick weer uw min <rhyme label="c" type="m">geniet</rhyme>;</l>
+        <l id="s5:l6" met="4" type="-+">Of haer verdelg, aen wien ghy 't <rhyme label="c" type="m" corresp="#s5:l5">biet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13751</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Schoonste nimf van het woud</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>anoniem</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">MAer wat is den <rhyme label="a" type="m">Echten-staet</rhyme>,</l>
+        <l id="s1:l2" met="2" type="+-">Alst wel <rhyme label="a" type="m" corresp="#s1:l1">gaet</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">‘t Is een Hemel hier <rhyme label="b" type="f">beneden</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Mits sy geen gelijck en <rhyme label="c" type="m">heeft</rhyme>,</l>
+        <l id="s1:l5" met="2" type="+-">Somen <rhyme label="c" type="m" corresp="#s1:l4">leest</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Daer in naer de Wet en <rhyme label="b" type="f" corresp="#s1:l3">reden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Als de Man heeft gantsch <rhyme label="a" type="m">bemint</rhyme>,</l>
+        <l id="s2:l2" met="2" type="+-">En <rhyme label="a" type="m" corresp="#s2:l1">gesint</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Sijn Gemael en hout in <rhyme label="b" type="f">eeren</rhyme>:</l>
+        <l id="s2:l4" met="4" type="+-">En dat daer deur dan <rhyme label="c" type="m">getrouw</rhyme>,</l>
+        <l id="s2:l5" met="2" type="+-">Weer de <rhyme label="c" type="m" corresp="#s2:l4">Vrouw</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">(Als Sara) Haer Man noemt <rhyme label="b" type="f" corresp="#s2:l3">Heere</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">En haer Godt dan gesegent <rhyme label="a" type="m">by</rhyme>,</l>
+        <l id="s3:l2" met="2" type="+-">Mits dat <rhyme label="a" type="m" corresp="#s3:l1">sy</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Wandelen in sijne <rhyme label="b" type="f">wegen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Wat sou haer ontbreken <rhyme label="c" type="m">hier</rhyme>?</l>
+        <l id="s3:l5" met="2" type="+-">Niet een <rhyme label="c" type="m" corresp="#s3:l4">sier</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Dan daer sy toe zijn <rhyme label="b" type="f" corresp="#s3:l3">genegen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Kroon, noch Keyserlicke <rhyme label="a" type="m">pracht</rhyme>,</l>
+        <l id="s4:l2" met="2" type="+-">Is <rhyme label="a" type="m" corresp="#s4:l1">geacht</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">By een paer alsoo <rhyme label="b" type="f">gebonden</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Wel-geluckigh is de <rhyme label="c" type="m">Man</rhyme>,</l>
+        <l id="s4:l5" met="2" type="+-">Die soo <rhyme label="c" type="m" corresp="#s4:l4">dan</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Sijne helft hier heeft <rhyme label="b" type="f" corresp="#s4:l3">gevonden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

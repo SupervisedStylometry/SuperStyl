@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>130300</id>
+    <date>
+      <year-start>1710</year-start>
+      <year-end>1710</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Tranquilles coeurs</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wat is 'er in de zoete <rhyme label="a" type="m">min</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Zoo bitter als het droevig <rhyme label="b" type="f">scheiden</rhyme>!</l>
+        <l id="s1:l3" met="4" type="-+">Daar twee gelieven, eens van <rhyme label="a" type="m" corresp="#s1:l1">zin</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">In hare band zig laten <rhyme label="b" type="f" corresp="#s1:l2">leiden</rhyme>,</l>
+        <l id="s1:l5" met="6" type="-+">Ag, daar is geene smart zoo groot, als deze <rhyme label="c" type="m">alleen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">In 't woord van ‘ik GA <rhyme label="c" type="m" corresp="#s1:l5">heen</rhyme>.’</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Want boven dat men mist zijn <rhyme label="a" type="m">lust</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Zijn hoop en wensen en <rhyme label="b" type="f">begeeren</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Is in 't vertrek ons <rhyme label="a" type="m" corresp="#s2:l1">onbewust</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Of we immer weder zullen <rhyme label="b" type="f" corresp="#s2:l2">keeren</rhyme>:</l>
+        <l id="s2:l5" met="6" type="-+">Want waar wy trekken heen, door zee of berg of <rhyme label="c" type="m">dal</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">'t Lot volgt ons <rhyme label="c" type="m" corresp="#s2:l5">overal</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Dit is de smart die 't hart nu <rhyme label="a" type="m">grieft</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Van uwen minnaar, waard <rhyme label="b" type="f">mededoogen</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Dit is het leed dat, zoo <rhyme label="a" type="m" corresp="#s3:l1">verlieft</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Hem rukt de traanen uit zijn <rhyme label="b" type="f" corresp="#s3:l2">oogen</rhyme>:</l>
+        <l id="s3:l5" met="6" type="-+">Terwyl zyn lot hem roept om eerlang, aan den <rhyme label="c" type="m">Rijn</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Uit Kloris oog te <rhyme label="c" type="m" corresp="#s3:l5">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">En brengt u dit geen lyden <rhyme label="a" type="m">aan</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">O Kloris, die, zoo fier van <rhyme label="b" type="f">sinnen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Gewoon zijt alles te <rhyme label="a" type="m" corresp="#s4:l1">weerstaan</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Wat u te laf schijnt in 't <rhyme label="b" type="f" corresp="#s4:l2">beminnen</rhyme>,</l>
+        <l id="s4:l5" met="6" type="-+">Zo zijt ge (mag ik regt uitspreken, en met <rhyme label="c" type="m">reen</rhyme>)</l>
+        <l id="s4:l6" met="3" type="-+">Niet waard dus <rhyme label="c" type="m" corresp="#s4:l5">aangebeen</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

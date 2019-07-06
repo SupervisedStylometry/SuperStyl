@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>164304</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+      <tag standard-name="dialectlied" translation="dialect song">dialectlied</tag>
+    </tags>
+    <melody>O jammer en ellende</melody>
+    <categories>
+      <category translation="groups">groepen</category>
+      <category translation="theatre">theater</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Wel, mien jy 't in eer en <rhyme label="a" type="m">deugd</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Gun ik jou opregt de <rhyme label="a" type="m" corresp="#s1:l1">vreugd</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Van voortaan mit heur te <rhyme label="b" type="f">leven</rhyme>.</l>
+        <l id="s1:l4" met="4" type="+-">'k Sel 'er daar toe nog ien <rhyme label="c" type="m">bed</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Mit sen toebehoren <rhyme label="b" type="f" corresp="#s1:l3">geven</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">So se sin an trouwen <rhyme label="c" type="m" corresp="#s1:l4">het</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

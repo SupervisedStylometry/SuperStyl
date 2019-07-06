@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>4363</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Het vinnige stralen van de zon</melody>
+  <author>Pieter Dubbels</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">VVAar toefje, waarde <rhyme label="a" type="m">Klorimont</rhyme>!</l>
+        <l id="s1:l2" met="3" type="-+">En laat u lief <rhyme label="b" type="f">verlangen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Verlangen, na die zoete <rhyme label="a" type="m" corresp="#s1:l1">stont</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Dat gij mij zult <rhyme label="b" type="f" corresp="#s1:l2">ontvangen</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ontvangen, tot uw Bruit, en <rhyme label="a" type="m">Vrouw</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Door klem van hant, en <rhyme label="b" type="f">kusjes</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">En knopen zo de egte <rhyme label="a" type="m" corresp="#s2:l1">Trouw</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">In opgehoopte <rhyme label="b" type="f" corresp="#s2:l2">lusjes</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ach, Hemel! zal die zoete <rhyme label="a" type="m">stont</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Eer lang niet zijn voor <rhyme label="b" type="f">handen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">VVanneer wij zullen, mont aan <rhyme label="a" type="m" corresp="#s3:l1">mont</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Onz' zieltjes t'zaam <rhyme label="b" type="f" corresp="#s3:l2">verpanden</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

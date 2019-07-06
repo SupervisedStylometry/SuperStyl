@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21245</id>
+    <date>
+      <year-start>1646</year-start>
+      <year-end>1646</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Florida zo het wezen mag</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Alwaerde Kermis, soete <rhyme label="a" type="m">vreught</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Want dan een yders Hart <rhyme label="a" type="m" corresp="#s1:l1">verheught</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">En daer nae doet <rhyme label="b" type="f">verlanghen</rhyme>:</l>
+        <l id="s1:l4" met="3" type="-+">Want als men dan sal <rhyme label="c" type="m">gaen</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Ter Kermis, <rhyme label="c" type="m" corresp="#s1:l4">onbelaen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Soo hoordtmen veele <rhyme label="b" type="f" corresp="#s1:l3">Sanghen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">D'een roept: hael <rhyme label="a" type="m">Rotte-Valle-koop</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Want daer verdrijft men mee met <rhyme label="a" type="m" corresp="#s2:l1">hoop</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">De schadelijcke <rhyme label="b" type="f">Beesten</rhyme>.</l>
+        <l id="s2:l4" met="3" type="-+">En dan komter weer een <rhyme label="c" type="m">Vent</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Die roept by hem 't <rhyme label="c" type="m" corresp="#s2:l4">content</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">En seydt: ick ben van 't <rhyme label="b" type="f" corresp="#s2:l3">meeste</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Die seydt: Koopt Kruyen, <rhyme label="a" type="m">Blaen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Al die met Sieckte zijn <rhyme label="a" type="m" corresp="#s3:l1">belae'en</rhyme>:</l>
+        <l id="s3:l3" met="3" type="-+">Want ick die gheen <rhyme label="b" type="f">ghenese</rhyme>.</l>
+        <l id="s3:l4" met="3" type="-+">En dan komter weer een <rhyme label="c" type="m">Haen</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Die seydt: ey, blijft wat <rhyme label="c" type="m" corresp="#s3:l4">staen</rhyme>:</l>
+        <l id="s3:l6" met="3" type="-+">Want mijn goedt is <rhyme label="b" type="f" corresp="#s3:l3">ghepresen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Die roept: hael kammen, Brillen <rhyme label="a" type="m">fijn</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Ey komt, koopt van my dit <rhyme label="a" type="m" corresp="#s4:l1">dozijn</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Ten sal u niet <rhyme label="b" type="f">berouwen</rhyme>:</l>
+        <l id="s4:l4" met="3" type="-+">Want ick moet tavondt op de <rhyme label="c" type="m">been</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Nae Amsterdam gaen <rhyme label="c" type="m" corresp="#s4:l4">tre'en</rhyme>:</l>
+        <l id="s4:l6" met="3" type="-+">Want Kermis moet ick <rhyme label="b" type="f" corresp="#s4:l3">houwen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

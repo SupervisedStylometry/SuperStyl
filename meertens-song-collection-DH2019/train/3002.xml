@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3002</id>
+    <date>
+      <year-start>1574</year-start>
+      <year-end>1574</year-end>
+    </date>
+    <location>
+      <orginal-name>gent</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
+    </tags>
+    <melody>De lustelijke mei is nu in de tijd</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
+  <author>Matthijs de Castelein</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HOe lustelick bloeyen alle <rhyme label="a" type="f">dinghen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">De bloemkins spruyten verre ende <rhyme label="b" type="m">naer</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Dat tswinters tijt treurt hoortmen nu <rhyme label="a" type="f" corresp="#s1:l1">zinghen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Elc voghel zouct nu zijn <rhyme label="b" type="m" corresp="#s1:l2">wederpaer</rhyme>:</l>
+        <l id="s1:l5" met="2" type="-+">Dus aenschijn <rhyme label="b" type="m" corresp="#s1:l2">claer</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Schoon lief <rhyme label="b" type="m" corresp="#s1:l2">eerbaer</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">Die my doet druck en droefheyt <rhyme label="c" type="f">lyden</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Ueur al mijn pyne int langhe <rhyme label="b" type="m" corresp="#s1:l2">iaer</rhyme>,</l>
+        <l id="s1:l9" met="4" type="-+">Alst al verheught, laet my <rhyme label="c" type="f" corresp="#s1:l7">verblyden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Soo wie zijn schoon lief heeft <rhyme label="a" type="f">wtuercoren</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Ende souct die te menigher <rhyme label="b" type="m">stondt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Hoe veel voetstappen gaet hy <rhyme label="a" type="f" corresp="#s2:l1">verloren</rhyme>?</l>
+        <l id="s2:l4" met="4" type="-+">Hier by is v mijn liefde <rhyme label="b" type="m" corresp="#s2:l2">condt</rhyme>:</l>
+        <l id="s2:l5" met="2" type="-+">Dus rooden <rhyme label="b" type="m" corresp="#s2:l2">mondt</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">Dijns herten <rhyme label="b" type="m" corresp="#s2:l2">grondt</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Uermurwet wat, als mijn <rhyme label="c" type="f">vriendinne</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Tooght dat ghy my dijn liefde <rhyme label="b" type="m" corresp="#s2:l2">iont</rhyme>,</l>
+        <l id="s2:l9" met="4" type="-+">Jck sal v tooghen goede <rhyme label="c" type="f" corresp="#s2:l7">minne</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Dijn minne doedy my hert <rhyme label="a" type="f">verghelden</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Niet min ghy weghet die my dat <rhyme label="b" type="m">doet</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Och lacen vind’ v veel te <rhyme label="a" type="f" corresp="#s3:l1">selden</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Maer als ick v vind’ ick vind’v <rhyme label="b" type="m" corresp="#s3:l2">goet</rhyme>:</l>
+        <l id="s3:l5" met="2" type="-+">Dus aenschijn <rhyme label="b" type="m" corresp="#s3:l2">zoet</rhyme>,</l>
+        <l id="s3:l6" met="2" type="-+">Reyn edel <rhyme label="b" type="m" corresp="#s3:l2">bloet</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Jck hope bet, met Smeys <rhyme label="c" type="f">saysoene</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Ghy weet, als draechdy hooghen <rhyme label="b" type="m" corresp="#s3:l2">moet</rhyme>,</l>
+        <l id="s3:l9" met="4" type="-+">Deen lief behoort dander vriendtschap te <rhyme label="c" type="f" corresp="#s3:l7">doene</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Adieu dalder schoonst van alle <rhyme label="a" type="f">wyuen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Clachtich maect ghy my thenden <rhyme label="b" type="m">raet</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Altoos wil ick v ghetrouwe <rhyme label="a" type="f" corresp="#s4:l1">blyuen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Uerlaet my toch niet mijn <rhyme label="b" type="m" corresp="#s4:l2">toeuerlaet</rhyme>:</l>
+        <l id="s4:l5" met="2" type="-+">Leeft ghy naer <rhyme label="b" type="m" corresp="#s4:l2">staet</rhyme>,</l>
+        <l id="s4:l6" met="2" type="-+">En peyst gheen <rhyme label="b" type="m" corresp="#s4:l2">quaet</rhyme>,</l>
+        <l id="s4:l7" met="4" type="-+">Alst dus verre is, schoon lief <rhyme label="c" type="f">ghepresen</rhyme>,</l>
+        <l id="s4:l8" met="4" type="-+">Dberou comt laete naer de <rhyme label="b" type="m" corresp="#s4:l2">daet</rhyme>:</l>
+        <l id="s4:l9" met="4" type="-+">Dus laet ons tsamen vrolijck <rhyme label="c" type="f" corresp="#s4:l7">wesen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

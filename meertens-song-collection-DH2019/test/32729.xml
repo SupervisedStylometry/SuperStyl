@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32729</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Corydon ei laat uw schaapjes staan</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">SIel vol van Liefde, naer den stal u <rhyme label="a" type="m">spoeyt</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">aenschout den Hemel die daer Honinck <rhyme label="a" type="m" corresp="#s1:l1">vloeydt</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Ontfanght, ontfanght, hem in u herte <rhyme label="b" type="m">goet</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Het is den cleynen lieven Iesus <rhyme label="b" type="m" corresp="#s1:l3">soet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Ghelijck de Son, de wereldt gheeft haer <rhyme label="a" type="m">licht</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Soo oock voorstraelt, ons met soet <rhyme label="a" type="m" corresp="#s2:l1">ghesicht</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Het kind, het kindt, dat is dat Heylich <rhyme label="b" type="m">vier</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Dat ons verbranden wilt op sijn <rhyme label="b" type="m" corresp="#s2:l3">manier</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Waer sijt ghy sondaer en weest niet <rhyme label="a" type="m">vermijdt</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">Hy compt u soecken daerom weest <rhyme label="a" type="m" corresp="#s3:l1">verblijdt</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Compt siet, compt siet, hy is den <rhyme label="b" type="m">Medecijn</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Die haest ghenesen can u groote <rhyme label="b" type="m" corresp="#s3:l3">pijn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Siet hier den Vrede die de Liefde <rhyme label="a" type="m">paeyt</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Siet hier den minnaer die het hert <rhyme label="a" type="m" corresp="#s4:l1">versaeyt</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">Compt siet, compt siet, het suyver <rhyme label="b" type="m">Christelijn</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">Dat daer vernielt al dat, wat schijnt te <rhyme label="b" type="m" corresp="#s4:l3">sijn</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="-+">Looft oock de Maghet die hem heeft <rhyme label="a" type="m">ghebaert</rhyme></l>
+        <l id="s5:l2" met="5" type="-+">Prijst oock den voester Heer die haer <rhyme label="a" type="m" corresp="#s5:l1">bewaert</rhyme>,</l>
+        <l id="s5:l3" met="5" type="-+">T'is veel, t'is veel, dat Godt den grooten <rhyme label="b" type="m">al</rhyme>,</l>
+        <l id="s5:l4" met="5" type="-+">Gheboren wordt in eenen cleynen <rhyme label="b" type="m" corresp="#s5:l3">stal</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

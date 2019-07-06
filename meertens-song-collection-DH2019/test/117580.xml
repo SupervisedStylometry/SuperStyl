@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>117580</id>
+    <date>
+      <year-start>1741</year-start>
+      <year-end>1741</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Van de herder Pyramus en Thisbe</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Hebt gy voor my die Rozekrans <rhyme label="a" type="f">gevlogten</rhyme>?</l>
+        <l id="s1:l2" met="5" type="-+">Zo heb ik wis de Zegekroon <rhyme label="a" type="f" corresp="#s1:l1">bevogten</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">De Zegen van u <rhyme label="b" type="m">Hert</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Het eynde van myn <rhyme label="b" type="m" corresp="#s1:l3">smert</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Zeg Ja! myn <rhyme label="c" type="m">Engelin</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">En Kroon hier mê myn <rhyme label="c" type="m" corresp="#s1:l5">Min</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Waarom ontvynst uw minn'lyk <rhyme label="a" type="f">medogen</rhyme>?</l>
+        <l id="s2:l2" met="5" type="-+">Hoe zeer gy vynst, ik leest uyt uw schone <rhyme label="a" type="f" corresp="#s2:l1">ogen</rhyme>.</l>
+        <l id="s2:l3" met="3" type="-+">Schoon gy te rugge <rhyme label="b" type="m">treed</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Gy zyt my niet meer <rhyme label="b" type="m" corresp="#s2:l3">wreed</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">De Liefde blaast uw <rhyme label="c" type="m">Min</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">My reets den Boezem <rhyme label="c" type="m" corresp="#s2:l5">in</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Nu kroon dan met die Zegenkrans myn <rhyme label="a" type="f">Haren</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Zoo weet de Zon al 't onweer op te <rhyme label="a" type="f" corresp="#s3:l1">klaren</rhyme>.</l>
+        <l id="s3:l3" met="3" type="-+">Wanneer de Storm-Wind <rhyme label="b" type="m">duykt</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">En zy al 't veld <rhyme label="b" type="m" corresp="#s3:l3">ontluykt</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Gelyk de Wreetheyt <rhyme label="c" type="m">wykt</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Zoo Liefde niet <rhyme label="c" type="m" corresp="#s3:l5">bezwykt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Myn Roze mond gy hebt het <rhyme label="a" type="f">opgegeven</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Ik heb uw Hert, ô Leven van myn <rhyme label="a" type="f" corresp="#s4:l1">Leven</rhyme>.</l>
+        <l id="s4:l3" met="3" type="-+">Nu kus ik op u <rhyme label="b" type="m">Mond</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Myn kwynend Hart <rhyme label="b" type="m" corresp="#s4:l3">gezond</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">En zoek ik verder <rhyme label="c" type="m">yet</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Gy wederstaat my <rhyme label="c" type="m" corresp="#s4:l5">niet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

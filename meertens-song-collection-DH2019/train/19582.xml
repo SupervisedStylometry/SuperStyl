@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19582</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Als Garint zijn oogjes open deed</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Thomas Fonteyn</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">Zy, verschrikt, als uit een Droom <rhyme label="a" type="m">ontwaakt</rhyme>,</l>
+        <l id="s1:l2" met="6" type="+-">Ziet haar Herder aan, en, ze zei, wat of u zorglijk <rhyme label="a" type="m" corresp="#s1:l1">maakt</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">Ik heb, vermoeit door jagt// <rhyme label="b" type="m">getragt</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Hier neer// te zlapen naarmen <rhyme label="c" type="m">lust</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">En gy verstoordmen <rhyme label="c" type="m" corresp="#s1:l4">rust</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Al we’er// gelijk gy lestend me’e// eens <rhyme label="d" type="m">de’e</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Hy hier op, wel zoete <rhyme label="a" type="m">Herderin</rhyme>,</l>
+        <l id="s2:l2" met="6" type="+-">‘t Komt door reine liefd, dat ik u, en u leeven <rhyme label="a" type="m" corresp="#s2:l1">bemin</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">En, vreesd ik voor geen leet// zo <rhyme label="b" type="m">wreet</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Ik zou// me’e knielen an u <rhyme label="c" type="m">zy</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">En blijven zo lang <rhyme label="c" type="m" corresp="#s2:l4">by</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">In trou// tot dat ‘et scheiden quam// mijn <rhyme label="d" type="m">Lam</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">Zy, gepaeid, zei Harder trouwe <rhyme label="a" type="m">viend</rhyme></l>
+        <l id="s3:l2" met="6" type="+-">‘Tis een lust, wen Liefd ongevalst tot ‘et goed, Maagden <rhyme label="a" type="m" corresp="#s3:l1">diend</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">In eenig amper luk// of <rhyme label="b" type="m">druk</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">‘Tis zoet// als alles word <rhyme label="c" type="m">oprecht</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Gehandeld van een <rhyme label="c" type="m" corresp="#s3:l4">knegt</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">Die doet// ‘tgun wet en reede raat// met <rhyme label="d" type="m">maat</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="+-">Lucial, beloofde, hier op, <rhyme label="a" type="m">toen</rhyme></l>
+        <l id="s4:l2" met="6" type="+-">Dat hy nimmer quaad, aan een Maagd, met zijn wil, zoude <rhyme label="a" type="m" corresp="#s4:l1">doen</rhyme>.</l>
+        <l id="s4:l3" met="4" type="-+">Zy houd zijn zeggen wis// en <rhyme label="b" type="m">is</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Nu voord// op hem te meer <rhyme label="c" type="m">gezind</rhyme>;</l>
+        <l id="s4:l5" met="3" type="-+">Wijl zy hem heus <rhyme label="c" type="m" corresp="#s4:l4">bevind</rhyme></l>
+        <l id="s4:l6" met="5" type="-+">Van woord// en, daarop gaanze heen// te <rhyme label="d" type="m">vre’en</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

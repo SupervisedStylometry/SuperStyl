@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>114211</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="passielied" translation="passion song">passielied</tag>
+      <tag standard-name="marialied" translation="Maria song">Marialied</tag>
+    </tags>
+    <melody>Triste et cruelle éloignement</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Guilielmus Bolognino</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">AH met wat groote <rhyme label="a" type="m">bitterheydt</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Heeft t'sweert mijn ziel <rhyme label="b" type="f">doorsneden</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">'Tsweert, my van Simeon <rhyme label="a" type="m" corresp="#s1:l1">voorseyt</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Wat heb ick al <rhyme label="b" type="f" corresp="#s1:l2">gheleden</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">In u, mijn Soon, soo seer <rhyme label="c" type="m">doorwont</rhyme>,</l>
+        <l id="s1:l6" met="7" type="-+">Soo bemint, soo bemint uyt allen hertsen <rhyme label="c" type="m" corresp="#s1:l5">gront</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">'K sien u in d' alderswaerste <rhyme label="a" type="m">pijn</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Als eenen bogh <rhyme label="b" type="f">ghespannen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Mismaect als een ghevilt <rhyme label="a" type="m" corresp="#s2:l1">conijn</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Den lesten aller <rhyme label="b" type="f" corresp="#s2:l2">mannen</rhyme>/</l>
+        <l id="s2:l5" met="4" type="-+">Met dornen 'thooft all' om <rhyme label="c" type="m">beplant</rhyme>,</l>
+        <l id="s2:l6" met="7" type="-+">O verdriet! o verdriet! o wee van alle <rhyme label="c" type="m" corresp="#s2:l5">kant</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">U naghels gans mijn hert <rhyme label="a" type="m">doorgaen</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">U dornen daer in <rhyme label="b" type="f">steken</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">U wonden daer ghedruckt in <rhyme label="a" type="m" corresp="#s3:l1">staen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">U lijden doet het <rhyme label="b" type="f" corresp="#s3:l2">breken</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Ah! hoe sal ick dit <rhyme label="c" type="m">wederstaen</rhyme>?</l>
+        <l id="s3:l6" met="7" type="-+">Ick beswijck, ick beswijck, de crachten my <rhyme label="c" type="m" corresp="#s3:l5">ontgaen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Hoe sal ick leven sonder <rhyme label="a" type="m">u</rhyme>?</l>
+        <l id="s4:l2" met="3" type="-+">Die my nu gaet <rhyme label="b" type="f">verlaten</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Dat my wel swaer sal vallen <rhyme label="a" type="m" corresp="#s4:l1">nu</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">En bitter boven <rhyme label="b" type="f" corresp="#s4:l2">maten</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Waer is hy die my gheven <rhyme label="c" type="m">sal</rhyme></l>
+        <l id="s4:l6" met="7" type="-+">Dat ick sterf, dat ick sterf, die verlies u mijnen <rhyme label="c" type="m" corresp="#s4:l5">Al</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174940</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Nu roept de kerkklok met zacht <rhyme label="a" type="m">geluid</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">De kindren alle ter woning <rhyme label="a" type="m" corresp="#s1:l1">uit</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Naar 't Huis des Heeren gaat groot en <rhyme label="b" type="m">kleen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">In stillen eerbied, aandachtig <rhyme label="b" type="m" corresp="#s1:l3">heen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Om Hem te danken, die zoo veel <rhyme label="a" type="m">goed</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Aan alle menschen en kindren <rhyme label="a" type="m" corresp="#s2:l1">doet</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Om Hem te bidden, dat Hij <rhyme label="b" type="m">vergeev'</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Wat ieder onzer voor kwaad <rhyme label="b" type="m" corresp="#s2:l3">bedreef</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">o Lieve Heere, Gij, goede <rhyme label="a" type="m">God</rhyme>!</l>
+        <l id="s3:l2" met="4" type="-+">o Leer ons leven naar uw <rhyme label="a" type="m" corresp="#s3:l1">gebod</rhyme>!</l>
+        <l id="s3:l3" met="4" type="-+">En ieder kerkgang zij ons een <rhyme label="b" type="m">feest</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Waarop we U loven met blijden <rhyme label="b" type="m" corresp="#s3:l3">geest</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

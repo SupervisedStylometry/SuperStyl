@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32794</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Al hebben de prinsen haar wens</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MAria schoon Bruyt, schoon <rhyme label="a" type="m">Coninghin</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Ghy staet soo vast in mijnen <rhyme label="a" type="m" corresp="#s1:l1">sin</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Dat ick nauw een oogh' <rhyme label="b" type="m">opslagh</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Sonder u yet peysen <rhyme label="b" type="m" corresp="#s1:l3">mach</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ick schenck u dan mijn ziel', mijn hert, mijn <rhyme label="a" type="m">bloet</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Ick stel my heel in u <rhyme label="a" type="m" corresp="#s2:l1">behoet</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Ick schenck u al mijnen <rhyme label="b" type="m">druck</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Ick schenck u al mijn <rhyme label="b" type="m" corresp="#s2:l3">gheluck</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Maer als ick in u liefde hier heb <rhyme label="a" type="m">gheleeft</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">My dan by u een plaetsken <rhyme label="a" type="m" corresp="#s3:l1">gheeft</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Soo dat ick voor al mijn <rhyme label="b" type="m">pijn</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Eens gheniet u claer <rhyme label="b" type="m" corresp="#s3:l3">aenschijn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">En al is desen wech noch verr' en <rhyme label="a" type="m">wijt</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">My doch een goet leydt-sterre <rhyme label="a" type="m" corresp="#s4:l1">zijt</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Die my uyt dit Aerdtsche <rhyme label="b" type="m">dal</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Tot den Hemel richten <rhyme label="b" type="m" corresp="#s4:l3">sal</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Soo sullen tot u lof noch zijn <rhyme label="a" type="m">ghesticht</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Veel Liedekens wel schoon <rhyme label="a" type="m" corresp="#s5:l1">gedicht</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Om dat ick hebbe <rhyme label="b" type="m">behaeghd</rhyme></l>
+        <l id="s5:l4" met="4" type="+-">V schoone Bruyt, Moeder en <rhyme label="b" type="m" corresp="#s5:l3">Maeght</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

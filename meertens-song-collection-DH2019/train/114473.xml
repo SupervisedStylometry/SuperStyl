@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>114473</id>
+    <date>
+      <year-start>1745</year-start>
+      <year-end>1745</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Tircis au bord de la Seine</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">CUpidootje reed' op <rhyme label="a" type="f">Schaesjes</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">'s Avonds in de <rhyme label="b" type="m">Manescheyn</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Met nog veele kleine <rhyme label="a" type="f" corresp="#s1:l1">baesjes</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Kleine baesjes,, Die als <rhyme label="a" type="f" corresp="#s1:l1">haesjes</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Zweefden in het Gesigt van <rhyme label="b" type="m" corresp="#s1:l2">myn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Maer dees Minnebengels <rhyme label="a" type="f">lachten</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Wyl ik stond voor Lauraes <rhyme label="b" type="m">deur</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">In de kou alleen te <rhyme label="a" type="f" corresp="#s2:l1">wagten</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Ja te wagten,, Myn <rhyme label="a" type="f" corresp="#s2:l1">gedagten</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Waren Schoone ey kom tog <rhyme label="b" type="m" corresp="#s2:l2">veur</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">'k Riep genade <rhyme label="a" type="f">Cupidoodje</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Wit Gevlerkte <rhyme label="b" type="m">Minnegod</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Tref myn Laura met een <rhyme label="a" type="f" corresp="#s3:l1">schootje</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Met een schootje,, Vlugge <rhyme label="a" type="f" corresp="#s3:l1">Goodje</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Doet haer buigen voor u <rhyme label="b" type="m" corresp="#s3:l2">gebod</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">'k Wil een Altaer op gaen <rhyme label="a" type="f">regten</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Dat ter eere al van de <rhyme label="b" type="m">Min</rhyme>;</l>
+        <l id="s4:l3" met="4" type="+-">'k Wil veel bloemen samen <rhyme label="a" type="f" corresp="#s4:l1">Vlegten</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Samen Vlegten,, Geurig <rhyme label="a" type="f" corresp="#s4:l1">hegten</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">Tot ik eens genade <rhyme label="b" type="m" corresp="#s4:l2">vin</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

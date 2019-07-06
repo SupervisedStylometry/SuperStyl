@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>9951</id>
+    <date>
+      <year-start>1613</year-start>
+      <year-end>1613</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Psalm 057 Datheen</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Karel van Mander</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">OP Achitob laet ons aen desen <rhyme label="a" type="m">cant</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Yet singhen t'saem oock naer ons best <rhyme label="a" type="m" corresp="#s1:l1">verstand</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Ter wijlen wy in stem ghenoech <rhyme label="b" type="f">ghelijcken</rhyme>.</l>
+        <l id="s1:l4" met="5" type="-+">Ons Schaepkens zijn al in behouder <rhyme label="a" type="m" corresp="#s1:l1">hand</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">Sy sullen ons niet uyt der weyde <rhyme label="b" type="f" corresp="#s1:l3">ontwijcken</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Het gae soot mag ick volge singt ghy <rhyme label="a" type="m">voor</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Wy singhen niet voor doove, goed <rhyme label="a" type="m" corresp="#s2:l1">ghehoor</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">Geeft ons den choor, van Herders <rhyme label="b" type="f">Herderinnen</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Bergh bosch en dal elck leend ons oock de <rhyme label="a" type="m" corresp="#s2:l1">oor</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">T'saem met gehoor weerclincken zy <rhyme label="b" type="f" corresp="#s2:l3">beginne</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">GOddanck ons Lied ten eynd is nu <rhyme label="a" type="m">gebracht</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Van Gods beloft daer lange op is <rhyme label="a" type="m" corresp="#s3:l1">gewacht</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Ten deel verhaeld och of de comst des <rhyme label="b" type="f">Heeren</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Gheschiede nu, dat desen droeven <rhyme label="a" type="m" corresp="#s3:l1">nacht</rhyme>,</l>
+        <l id="s3:l5" met="5" type="-+">Alsoo in vreughd op t'leste mocht <rhyme label="b" type="f" corresp="#s3:l3">verkeeren</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">O Raguel den tijd is God <rhyme label="a" type="m">bekend</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Of wy noch zijn van daer verre of <rhyme label="a" type="m" corresp="#s4:l1">ontrent</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">Maer dits gewis dit can ons niet <rhyme label="b" type="f">bedriegen</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">Gods toesegh sal geschreven noch int <rhyme label="a" type="m" corresp="#s4:l1">eynd</rhyme>,</l>
+        <l id="s4:l5" met="5" type="-+">Onmooglijc waert dat God eens soude <rhyme label="b" type="f" corresp="#s4:l3">liegen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

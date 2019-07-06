@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3117</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="mythologisch lied" translation="mythological song">mythologisch lied</tag>
+    </tags>
+    <melody>Dimmi donna crudel</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Cornelis Stribeé</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">DE droeve doncker <rhyme label="a" type="m">snoot</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Is nu <rhyme label="b" type="f">verdwenen</rhyme>;</l>
+        <l id="s1:l3" met="3" type="-+">Die blonde Ochtent <rhyme label="a" type="m" corresp="#s1:l1">root</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Is nu <rhyme label="b" type="f" corresp="#s1:l2">verschenen</rhyme>:</l>
+        <l id="s1:l5" met="5" type="-+">Mercurius die schuyft de blaeu <rhyme label="c" type="f">Gordijnen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Op dat de blecke <rhyme label="d" type="m">Maen</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">De Jacht-Goddin <rhyme label="d" type="m" corresp="#s1:l6">Diaen</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Niet langh sal blijven <rhyme label="d" type="m" corresp="#s1:l6">staen</rhyme></l>
+        <l id="s1:l9" met="2" type="-+">Maer moet <rhyme label="c" type="f" corresp="#s1:l5">verdwijnen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Nu ick om Thebens <rhyme label="a" type="m">val</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Ben <rhyme label="b" type="f">af-gekomen</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">En ga na 't Helsche <rhyme label="a" type="m" corresp="#s2:l1">Dal</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">By Lethis <rhyme label="b" type="f" corresp="#s2:l2">stroomen</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Om een Offer snoot dat sy my <rhyme label="c" type="f">deden</rhyme>:</l>
+        <l id="s2:l6" met="3" type="-+">Daerom soo dael ick <rhyme label="d" type="m">af</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Om tot verdiende <rhyme label="d" type="m" corresp="#s2:l6">straf</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Dat sy den Stief-soon <rhyme label="d" type="m" corresp="#s2:l6">gaf</rhyme></l>
+        <l id="s2:l9" met="2" type="-+">Door mins <rhyme label="c" type="f" corresp="#s2:l5">onvrede</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Om 's Koninginnen <rhyme label="a" type="m">val</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">En oock de <rhyme label="b" type="f">Koningh</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Is dat ick dalen <rhyme label="a" type="m" corresp="#s3:l1">sal</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">In Plutoos <rhyme label="b" type="f" corresp="#s3:l2">wooningh</rhyme>,</l>
+        <l id="s3:l5" met="5" type="-+">Om datse Bacchus boven my gingh <rhyme label="c" type="f">eeren</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">En gingh des Koninghs <rhyme label="d" type="m">Soon</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">(Tot spijt van al de <rhyme label="d" type="m" corresp="#s3:l6">Goon</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Van Jovis hoogen <rhyme label="d" type="m" corresp="#s3:l6">Throon</rhyme>)</l>
+        <l id="s3:l9" met="2" type="-+">Soo vlas <rhyme label="c" type="f" corresp="#s3:l5">bezweeren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

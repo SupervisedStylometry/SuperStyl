@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20212</id>
+    <date>
+      <year-start>1647</year-start>
+      <year-end>1647</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>Courante monsieur</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">D	E nare nacht was geen <rhyme label="a" type="m">belet</rhyme></l>
+        <l id="s1:l2" met="6" type="-+">Voor Thisbe, om'er Lief, die sy had dagh <rhyme label="a" type="m" corresp="#s1:l1">geset</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Te soeken in het Aekelijke <rhyme label="b" type="m">Wout</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Dat menig kloek gemoet <rhyme label="b" type="m" corresp="#s1:l3">verbrout</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">By een Fonteyn daer soe <rhyme label="c" type="f">verkooren</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Om d' een des anders liefd' te <rhyme label="c" type="f" corresp="#s1:l5">hooren</rhyme>.</l>
+        <l id="s1:l7" met="4" type="-+">Maer eer sy quam was sy <rhyme label="c" type="f" corresp="#s1:l5">verlooren</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Vermits terwijle sy hem <rhyme label="a" type="m">wacht</rhyme>,</l>
+        <l id="s2:l2" met="6" type="-+">Een Leeuwen Moeder haer een groot vrees <rhyme label="a" type="m" corresp="#s2:l1">aenbracht</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Sy liep verbaest in een verhoole <rhyme label="b" type="m">hoek</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">En in de vlucht stroyd' sy de <rhyme label="b" type="m" corresp="#s2:l3">doek</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Daer meed' haer hayr was <rhyme label="c" type="f">opgebonden</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Die Pyramus we'er heeft <rhyme label="c" type="f" corresp="#s2:l5">gevonden</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Die meende doen sy was <rhyme label="c" type="f" corresp="#s2:l5">verslonden</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Van 't felle Beest, dat doen hy <rhyme label="a" type="m">quam</rhyme>,</l>
+        <l id="s3:l2" met="6" type="-+">Op 't snelste dat het kon, sijn loop ter Boswaert <rhyme label="a" type="m" corresp="#s3:l1">nam</rhyme>:</l>
+        <l id="s3:l3" met="5" type="-+">O! seyd hy doen, 't is wis, wis mijn Lief is <rhyme label="b" type="m">doot</rhyme>;</l>
+        <l id="s3:l4" met="4" type="-+">Wat ramp, wiens wee, wat harde <rhyme label="b" type="m" corresp="#s3:l3">stoot</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Is by mijn onluk te <rhyme label="c" type="f">gelijken</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">De doot kan my nu niet <rhyme label="c" type="f" corresp="#s3:l5">ontwijken</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Ik sal mijn trouwe liefde <rhyme label="c" type="f" corresp="#s3:l5">yken</rhyme></l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Met dese stempel: en soo <rhyme label="a" type="m">voort</rhyme></l>
+        <l id="s4:l2" met="6" type="-+">Neemt hy sijn eygen kling, daer hy hem me'e <rhyme label="a" type="m" corresp="#s4:l1">vermoort</rhyme>:</l>
+        <l id="s4:l3" met="5" type="-+">En soo sijn ziel het schoone lichaem <rhyme label="b" type="m">liet</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Quam Thisbe, die soo haest sy <rhyme label="b" type="m" corresp="#s4:l3">siet</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Pyramus geest de romp <rhyme label="c" type="f">begeven</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Een eynde maekte van haer <rhyme label="c" type="f" corresp="#s4:l5">leven</rhyme>:</l>
+        <l id="s4:l7" met="4" type="-+">Dit heeft de trouwe liefd' <rhyme label="c" type="f" corresp="#s4:l5">bedreven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34036</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Belle qui me vas martyrisant</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacob Rosant</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ALs Iesus had Petrus te kenn' <rhyme label="a" type="f">gegeeven</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">Met wat doodt dat <rhyme label="b" type="m">hy</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Ter eeren van Godt soude enden 't <rhyme label="a" type="f" corresp="#s1:l1">leeven</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Seyd hy, volght gy <rhyme label="b" type="m" corresp="#s1:l2">my</rhyme>.</l>
+        <l id="s1:l5" met="5" type="-+">Petrus keek om, en dien Discipel <rhyme label="c" type="m">sagh</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Die in 't lest Avondt-mael aen sijn borst <rhyme label="c" type="m" corresp="#s1:l5">lagh</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als Petrus sagh deesen dien Iesus <rhyme label="a" type="f">minde</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">Soo seyde hy, <rhyme label="b" type="m">Heer</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Hoe sal het togh weesen met deesen <rhyme label="a" type="f" corresp="#s2:l1">vrinde</rhyme>?</l>
+        <l id="s2:l4" met="2" type="-+">En Iesus seydt <rhyme label="b" type="m" corresp="#s2:l2">weer</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Soo ik hem hier laet, tot dat ik kom' <rhyme label="c" type="m">by</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">Wat of u dat aengaet; kom' volght gy <rhyme label="c" type="m" corresp="#s2:l5">my</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Dus onder de Broederen quam de <rhyme label="a" type="f">prate</rhyme>,</l>
+        <l id="s3:l2" met="2" type="-+">Dees niet sterven <rhyme label="b" type="m">sal</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">Maer Jesus die seyd', maer soo ik hem <rhyme label="a" type="f" corresp="#s3:l1">late</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">Ter tijdt blijven <rhyme label="b" type="m" corresp="#s3:l2">al</rhyme></l>
+        <l id="s3:l5" met="5" type="-+">Dat ik weerkom, wat of u daer aen <rhyme label="c" type="m">leydt</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">Maer, hy niet sterf; heeft Iesus niet <rhyme label="c" type="m" corresp="#s3:l5">geseydt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Dit is die Discipel, die heeft <rhyme label="a" type="f">geschreeven</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">Van dit al <rhyme label="b" type="m">gelijk</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Hy is die getuyghenis heeft <rhyme label="a" type="f" corresp="#s4:l1">gegeeven</rhyme>,</l>
+        <l id="s4:l4" met="2" type="-+">En is <rhyme label="b" type="m" corresp="#s4:l2">waerelijk</rhyme>.</l>
+        <l id="s4:l5" met="5" type="-+">Dus in Goods Soone loven wy te <rhyme label="c" type="m">saem</rhyme>,</l>
+        <l id="s4:l6" met="5" type="-+">Op dat wy 't leeven hebben door sijn <rhyme label="c" type="m" corresp="#s4:l5">Naem</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

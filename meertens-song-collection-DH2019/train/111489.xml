@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111489</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Que chacun de nous s'énivre</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">DIanier, vreugd van myn <rhyme label="a" type="f">leven</rhyme>.</l>
+        <l id="s1:l2" met="4" type="+-">Dageraad, die my een <rhyme label="b" type="m">ligt</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Schoonder als de Son kund <rhyme label="a" type="f" corresp="#s1:l1">geven</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Door uw Minnelyk <rhyme label="b" type="m" corresp="#s1:l2">Gesigt</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Gy doet my in vreugde <rhyme label="c" type="f">baden</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Al myn Smert en droef <rhyme label="d" type="m">gesugt</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Mits ik leef in uw <rhyme label="c" type="f" corresp="#s1:l5">genade</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Zyn verkeerd in <rhyme label="d" type="m" corresp="#s1:l6">ziels-genugt</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Slâ 'k myn Oogen op uw <rhyme label="a" type="f">Oogen</rhyme>.</l>
+        <l id="s2:l2" met="4" type="+-">'t Is of my de ziel <rhyme label="b" type="m">ontvliegd</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">En ten Hemel wert <rhyme label="a" type="f" corresp="#s2:l1">getoogen</rhyme>:</l>
+        <l id="s2:l4" met="4" type="+-">'t Ligchaam als in slaap <rhyme label="b" type="m" corresp="#s2:l2">gewiegt</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">Komt een sluym'ring te <rhyme label="c" type="f">genieten</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Die myn doffe geest <rhyme label="d" type="m">verligt</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">En verlost my van <rhyme label="c" type="f" corresp="#s2:l5">verdrieten</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Door dat lieve <rhyme label="d" type="m" corresp="#s2:l6">Sonne-ligt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Zoete mond wiens teed're <rhyme label="a" type="f">tippen</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Tarten 't schoonst' koraal in <rhyme label="b" type="m">kleur</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Druk ik eens uw lieve <rhyme label="a" type="f" corresp="#s3:l1">lippen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">'k Ruik een zoete <rhyme label="b" type="m" corresp="#s3:l2">Nectar-geur</rhyme>;</l>
+        <l id="s3:l5" met="4" type="+-">'k Smaak het zoetst' der <rhyme label="c" type="f">Honingraten</rhyme>:</l>
+        <l id="s3:l6" met="4" type="+-">Tot door 't zoet, daar ik van <rhyme label="d" type="m">sterf</rhyme></l>
+        <l id="s3:l7" met="4" type="+-">Als de ziel my heeft <rhyme label="c" type="f" corresp="#s3:l5">verlaten</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">Zoeter leven ik <rhyme label="d" type="m" corresp="#s3:l6">verwerf</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

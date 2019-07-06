@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185959</id>
+    <date>
+      <year-start>1717</year-start>
+      <year-end>1717</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Had ik krachten naar mijn lust</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">HAd ik krachten naar myn <rhyme label="a" type="m">lust</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Was ik nimmer moê <rhyme label="a" type="m" corresp="#s1:l1">gekust</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">'k Zou my aan uw schoon <rhyme label="b" type="f">vergaapen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Altoos wakker, nimmer <rhyme label="b" type="f" corresp="#s1:l3">slaapen</rhyme>:</l>
+        <l id="s1:l5" met="4" type="+-">En ik zoude een <rhyme label="c" type="m">Moordenaar</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Klorimeen myn <rhyme label="d" type="f">uytgeleezen</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Van u en my zelven <rhyme label="d" type="f" corresp="#s1:l6">wezen</rhyme>;</l>
+        <l id="s1:l8" met="4" type="+-">Want de min steekt vol <rhyme label="c" type="m" corresp="#s1:l5">gevaar</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

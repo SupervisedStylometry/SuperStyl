@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>80</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Florida zo het wezen mag</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GY Nymfjes van het weelich <rhyme label="a" type="m">Y</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Zoo zoet als neersjes van <rhyme label="a" type="m" corresp="#s1:l1">Candy</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Omheint met varsse <rhyme label="b" type="f">roosjes</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Des Dageraadjes blyde <rhyme label="c" type="m">schoot</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Haer Leliwit en roosjens <rhyme label="c" type="m" corresp="#s1:l4">roodt</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Die trost gy met u <rhyme label="b" type="f" corresp="#s1:l3">bloosjes</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Komt schoon gekruysde Cypris <rhyme label="a" type="m">schiet</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">V kusjes in dees <rhyme label="a" type="m" corresp="#s2:l1">Amstel-vliet</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Op 'n schaerlake <rhyme label="b" type="f">blommen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Daer jeught en mijn aen 't stroompje <rhyme label="c" type="m">swiert</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Waer 't blonde tuytje kaackjes <rhyme label="c" type="m" corresp="#s2:l4">ziert</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Met reuckjes <rhyme label="b" type="f" corresp="#s2:l3">Heligdommen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ey Engeltjes die 't zuyver <rhyme label="a" type="m">wit</rhyme>?</l>
+        <l id="s3:l2" met="4" type="-+">Rond'om albaste leedjes <rhyme label="a" type="m" corresp="#s3:l1">sit</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Laat vlug u voetjes <rhyme label="b" type="f">swieren</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Al langs de gracht de <rhyme label="c" type="m">Heere-gracht</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Of 't grachje voll' van Keysers <rhyme label="c" type="m" corresp="#s3:l4">macht</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Dees kunt gy gaen <rhyme label="b" type="f" corresp="#s3:l3">verzieren</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">V Killich borsje vuirtjes <rhyme label="a" type="m">sticht</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Waer door gy yder buycht tot <rhyme label="a" type="m" corresp="#s4:l1">plicht</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">'t Zy onder 't lommer <rhyme label="b" type="f">loofje</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Als Febus kar op 't hoochste <rhyme label="c" type="m">rijd</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Of als 't de felle vorst <rhyme label="c" type="m" corresp="#s4:l4">benijd</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">Des winters op een <rhyme label="b" type="f" corresp="#s4:l3">stoofje</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

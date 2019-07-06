@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111493</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Allez où le sort vous conduit</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WEl Cloris hoe dus los van <rhyme label="a" type="m">Aard</rhyme>?</l>
+        <l id="s1:l2" met="5" type="-+">Hoe zyt gy zo veranderlyk van <rhyme label="b" type="f">sinnen</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">Gy dwongt my eerst om u te <rhyme label="b" type="f" corresp="#s1:l2">minnen</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">En nu agt gy my u gesigt <rhyme label="a" type="m" corresp="#s1:l1">onwaard</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Is 't u genoeg dat gy myn <rhyme label="c" type="m">Hert</rhyme></l>
+        <l id="s1:l6" met="5" type="-+">Hebt door uw list in 't minne-net <rhyme label="c" type="m" corresp="#s1:l5">verwerd</rhyme>?</l>
+        <l id="s1:l7" met="5" type="-+">Daar gy nu op myn aankomst schynd te <rhyme label="d" type="f">vreesen</rhyme>:</l>
+        <l id="s1:l8" met="4" type="-+">Ik weet schier niet, Wat dit sal <rhyme label="d" type="f" corresp="#s1:l7">wesen</rhyme>,</l>
+        <l id="s1:l9" met="3" type="+-">Of waarom gy <rhyme label="e" type="m">vlied</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Zoo gy waard sonder my <rhyme label="a" type="m">vernoegd</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Waarom myn Vryheyd dan zoo fel <rhyme label="b" type="f">besteden</rhyme>?</l>
+        <l id="s2:l3" met="4" type="-+">Waarom by al uw <rhyme label="b" type="f" corresp="#s2:l2">Minzaamheden</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Zoo meenig lonk en zoete kus <rhyme label="a" type="m" corresp="#s2:l1">gevoegd</rhyme>?</l>
+        <l id="s2:l5" met="4" type="-+">Ja selver op de eerste <rhyme label="c" type="m">stond</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">Dat ik my in uw lief geselschap <rhyme label="c" type="m" corresp="#s2:l5">vond</rhyme>,</l>
+        <l id="s2:l7" met="5" type="-+">Hebt gy die uyt uw selve my <rhyme label="d" type="f">geschonken</rhyme>;</l>
+        <l id="s2:l8" met="4" type="-+">En nu gy my, Hebt doen <rhyme label="d" type="f" corresp="#s2:l7">ontvonken</rhyme>,</l>
+        <l id="s2:l9" met="3" type="+-">Steld gy my ter <rhyme label="e" type="m">sy</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wel aan! mishaag uw <rhyme label="a" type="m">alree</rhyme>?</l>
+        <l id="s3:l2" met="5" type="-+">Daar 'k uw in 't minst geen reden heb <rhyme label="b" type="f">gegeven</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">Ben ik uyt uwe gunst <rhyme label="b" type="f" corresp="#s3:l2">verdreven</rhyme>?</l>
+        <l id="s3:l4" met="5" type="-+">Zo mishaagd uwen lossen Aerdt my <rhyme label="a" type="m" corresp="#s3:l1">mee</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">'k Sal u niet minnen tegen <rhyme label="c" type="m">sin</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">Neen, Ik eisch voor myn liefde <rhyme label="c" type="m" corresp="#s3:l5">Wedermin</rhyme>,</l>
+        <l id="s3:l7" met="5" type="-+">En zo ik uw dus niet en kan <rhyme label="d" type="f">verwinnen</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Zo houd ik <rhyme label="d" type="f" corresp="#s3:l7">op</rhyme></l>
+        <l id="s3:l9" met="3" type="+-">Van te beminnen Dese <rhyme label="e" type="m">Kermis-Pop</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

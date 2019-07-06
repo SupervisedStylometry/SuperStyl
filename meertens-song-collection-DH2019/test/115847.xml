@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>115847</id>
+    <date>
+      <year-start>1694</year-start>
+      <year-end>1694</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="formal genres">formele genres</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">Na dat ik had getelt myn schaapjes in de <rhyme label="a" type="f">wyde</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Liep ik uit myn aassem ter <rhyme label="a" type="f" corresp="#s1:l1">zyde</rhyme>,</l>
+        <l id="s1:l3" met="6" type="-+">Begaan om 't liefste beest dat van my wierd <rhyme label="b" type="m">gemist</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Maar Tirsis die myn kwelling <rhyme label="b" type="m" corresp="#s1:l3">wist</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Die heeft het beestje weer <rhyme label="c" type="f">gevonden</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Ach ik bezweek van blydschap <rhyme label="d" type="m">schier</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Wanneer hy my dat kwam <rhyme label="c" type="f" corresp="#s1:l5">verkonden</rhyme>,</l>
+        <l id="s1:l8" met="6" type="-+">Maar helaas! helaas! die zorge stondme <rhyme label="d" type="m" corresp="#s1:l6">dier</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Wanneer gy Amaril uw schaapje had <rhyme label="a" type="f">verlooren</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Vond ik het in de <rhyme label="a" type="f" corresp="#s2:l1">hagedooren</rhyme>,</l>
+        <l id="s2:l3" met="6" type="-+">Ter zyde van myn vee; maar als ik 't beestje <rhyme label="b" type="m">vond</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Toen verloor ik myn zelf <rhyme label="b" type="m" corresp="#s2:l3">terstond</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">En verbly my in 't zoet <rhyme label="c" type="f">verliezen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Wyl ikm' in u weer vinden <rhyme label="d" type="m">wil</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Indien dat ik u mag <rhyme label="c" type="f" corresp="#s2:l5">verkiezen</rhyme>,</l>
+        <l id="s2:l8" met="6" type="-+">Of helaas! helaas ik sterf myn <rhyme label="d" type="m" corresp="#s2:l6">Amaril</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

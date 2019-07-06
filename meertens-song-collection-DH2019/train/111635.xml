@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111635</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Studentenmars</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">ACh Phillis! wist gy wat thans in myn <rhyme label="a" type="m">Hert</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Al stryden omme gaan, en welk een <rhyme label="a" type="m" corresp="#s1:l1">Smert</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">Althans myn ziel gevoerd, nu ik u <rhyme label="b" type="m">Min</rhyme>:</l>
+        <l id="s1:l4" met="5" type="-+">'t Meedogen raakte uwe ziel haast <rhyme label="b" type="m" corresp="#s1:l3">in</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Vrindin, of eer <rhyme label="b" type="m" corresp="#s1:l3">Godin</rhyme>:</l>
+        <l id="s1:l6" met="5" type="-+">Dan zouwd gy zien, hoe dat de Schroom myn <rhyme label="c" type="m">ziel</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Myne drift steeds tegen <rhyme label="c" type="m" corresp="#s1:l6">hiel</rhyme>:</l>
+        <l id="s1:l8" met="5" type="-+">Dan zouwd gy zien hoe hoog dat ik u <rhyme label="d" type="m">agt</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Dat ik myn <rhyme label="d" type="m" corresp="#s1:l8">Minne-klagt</rhyme></l>
+        <l id="s1:l10" met="5" type="+-">Niet wil melden aan u <rhyme label="d" type="m" corresp="#s1:l8">onbedagt</rhyme>.</l>
+        <l id="s1:l11" met="3" type="+-">Dies laat me een <rhyme label="e" type="m">Oog</rhyme>,</l>
+        <l id="s1:l12" met="3" type="-+">Als 't Son-ligt van om <rhyme label="e" type="m" corresp="#s1:l11">hoog</rhyme>,</l>
+        <l id="s1:l13" met="5" type="-+">Eens dalen op my, Ey, myn Tranen <rhyme label="e" type="m" corresp="#s1:l11">droog</rhyme>,</l>
+        <l id="s1:l14" met="2" type="-+">Ik val dan <rhyme label="f" type="m">weer</rhyme></l>
+        <l id="s1:l15" met="3" type="-+">Voor uwe Voeten <rhyme label="f" type="m" corresp="#s1:l14">neer</rhyme>,</l>
+        <l id="s1:l16" met="5" type="-+">En toon dat ik uw lang beminde <rhyme label="f" type="m" corresp="#s1:l14">teer</rhyme>.</l>
+        <l id="s1:l17" met="3" type="+-">Ey! gun my <rhyme label="f" type="m" corresp="#s1:l14">d'Eer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

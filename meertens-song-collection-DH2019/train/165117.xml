@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>165117</id>
+    <date>
+      <year-start>1670</year-start>
+      <year-end>1670</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Ik heb twee bruine oogjes in mijn zin</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">De suyverlijcke Min vlecht een <rhyme label="a" type="m">bandt</rhyme></l>
+        <l id="s1:l2" met="6" type="-+">Die noyt sal breecken: blijft getrouw aen <rhyme label="a" type="m" corresp="#s1:l1">weder-kant</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Die beyd' uw zieltjes <rhyme label="b" type="m">boeyt</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Als een Fonteyne <rhyme label="b" type="m" corresp="#s1:l3">vloeyt</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Jn 't herte altoos <rhyme label="b" type="m" corresp="#s1:l3">gloeyt</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Jn 't herte altoos <rhyme label="b" type="m" corresp="#s1:l3">gloeyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Zo Liefd' vast is gebouwt, <rhyme label="a" type="m">gekneet</rhyme>,</l>
+        <l id="s2:l2" met="6" type="-+">Daer hoort, siet, denckt men aen beyde zijden nimmermeer <rhyme label="a" type="m" corresp="#s2:l1">leet</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Den Hemel haer <rhyme label="b" type="m">toeseydt</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Geluck, zegen <rhyme label="b" type="m" corresp="#s2:l3">bereydt</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Trouw baert veel <rhyme label="b" type="m" corresp="#s2:l3">sietigheyt</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Trouw baert veel <rhyme label="b" type="m" corresp="#s2:l3">soetigheyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

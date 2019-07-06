@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2112</id>
+    <date>
+      <year-start>1674</year-start>
+      <year-end>1674</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>O Corydon zie hier de stal</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Daniel Bellemans</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Dochters van <rhyme label="a" type="m">Jerusalem</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Seght aen myn Licht, hoe ick verlangh naer <rhyme label="a" type="m" corresp="#s1:l1">hem</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Myn' Ziel' die naer Jesum <rhyme label="b" type="m">wenscht</rhyme></l>
+        <l id="s1:l4" met="7" type="-+">Queelt als een Roos die door de stralen van de Son <rhyme label="b" type="m" corresp="#s1:l3">verslenscht</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Den Bergh van Etna brandt wel <rhyme label="c" type="m">seer</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Maer ick brand' meer van liefde tot den <rhyme label="c" type="m" corresp="#s1:l5">Heer</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als Jesus lest den Pyl <rhyme label="a" type="m">uyt-sondt</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Die my in syne liefde heeft <rhyme label="a" type="m" corresp="#s2:l1">ghewondt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Bevond' ick dat hy selver <rhyme label="b" type="m">stack</rhyme></l>
+        <l id="s2:l4" met="7" type="-+">In diên pyl, die my het hert' soo krachtigh <rhyme label="b" type="m" corresp="#s2:l3">open-brack</rhyme>;</l>
+        <l id="s2:l5" met="4" type="-+">Want soo den pyl myn hert' <rhyme label="c" type="m">in-nam</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">Veranderden hy my in vier en <rhyme label="c" type="m" corresp="#s2:l5">vlam</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Vraeght Jesus meer, haelt hy u <rhyme label="a" type="m">uyt</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Ghelyck den Minnaer veel vraeght van syn' <rhyme label="a" type="m" corresp="#s3:l1">Bruydt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Gheeft hem in all's bescheet <rhyme label="b" type="m">daer-van</rhyme>,</l>
+        <l id="s3:l4" met="7" type="-+">En seght hem meer als myn' verstorven tongh hem seggen <rhyme label="b" type="m" corresp="#s3:l3">kan</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Seght hem hoe dat syn' vlam my <rhyme label="c" type="m">pynt</rhyme>,</l>
+        <l id="s3:l6" met="5" type="-+">En hoe myn' Ziele door syn vier <rhyme label="c" type="m" corresp="#s3:l5">verdwynt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Seght dat ick als een' blom <rhyme label="a" type="m">verdwyn</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Die gansch verdort sterft in den Sonne <rhyme label="a" type="m" corresp="#s4:l1">schyn</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Seght dat ick hier ligh over <rhyme label="b" type="m">doodt</rhyme>,</l>
+        <l id="s4:l4" met="7" type="-+">Myn hert beswyckt, myn' siecke handt die light in mynen <rhyme label="b" type="m" corresp="#s4:l3">schoot</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Men siet in my gheen leven <rhyme label="c" type="m">meer</rhyme>,</l>
+        <l id="s4:l6" met="5" type="-+">Als dat myn hert Versucht tot Godt den <rhyme label="c" type="m" corresp="#s4:l5">Heer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

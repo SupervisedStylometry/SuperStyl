@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111923</id>
+    <date>
+      <year-start>1650</year-start>
+      <year-end>1660</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+    </tags>
+    <melody>Ach schone Cariclea</melody>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">ACh schoone <rhyme label="a" type="m">Krieckelia</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Waerom is 't dat ghy klagent drijft u <rhyme label="b" type="m">Vee</rhyme>?</l>
+        <l id="s1:l3" met="3" type="-+">'k Volgh u voetstappen <rhyme label="a" type="m" corresp="#s1:l1">na</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Dus barrevoets strantwaert by de wilde <rhyme label="b" type="m" corresp="#s1:l2">zee</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Met dees mijn kudde al drijvende <rhyme label="c" type="m">voort</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Op hoop mijn klachte mogt zijn <rhyme label="c" type="m" corresp="#s1:l5">verhoort</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ghy bidt my om mijn <rhyme label="a" type="m">Min</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Die ick Teagenis langh voor desen <rhyme label="b" type="m">gaf</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Die noyt sijn <rhyme label="a" type="m" corresp="#s2:l1">Harderin</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Verlaten sal, al waert dat hem een <rhyme label="b" type="m" corresp="#s2:l2">staf</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Van Gout wert voor de zijn <rhyme label="c" type="m">geboon</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Hy ruylden geen Min voor 's Konincks <rhyme label="c" type="m" corresp="#s2:l5">Kroon</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Teagenus sijn <rhyme label="a" type="m">Trouw</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">En ken ick Harderinnetjen laten <rhyme label="b" type="m">niet</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Maer denck O schoone <rhyme label="a" type="m" corresp="#s3:l1">Vrouw</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Hoe menighmael ick heb door u <rhyme label="b" type="m" corresp="#s3:l2">gebiedt</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">U Lammertjes by een <rhyme label="c" type="m">vergaert</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Als ghy niet wel te pas en <rhyme label="c" type="m" corresp="#s3:l5">waert</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Ick kent dat ghy u <rhyme label="a" type="m">dienst</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">Gewilligh hebt gepresenteert aen <rhyme label="b" type="m">mijn</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Maer lacy! op 't <rhyme label="a" type="m" corresp="#s4:l1">onversienst</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">Veranderde mijn sinne weer van <rhyme label="b" type="m" corresp="#s4:l2">dijn</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Soo ras als ick dees Jongen <rhyme label="c" type="m">Helt</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Sijn Vee sagh drijven door het <rhyme label="c" type="m" corresp="#s4:l5">Velt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Ses Jaren is 't <rhyme label="a" type="m">verleen</rhyme>,</l>
+        <l id="s5:l2" met="5" type="-+">Dat ick het ooghs gegluer van u in <rhyme label="b" type="m">nam</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Was 't eerst ghy my <rhyme label="a" type="m" corresp="#s5:l1">verscheen</rhyme>,</l>
+        <l id="s5:l4" met="5" type="-+">Dicht by de Beek daer 't ruysschent water <rhyme label="b" type="m" corresp="#s5:l2">quam</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Af-vallende van de klippen <rhyme label="c" type="m">neer</rhyme>,</l>
+        <l id="s5:l6" met="4" type="-+">U eerst groette, en ghy my <rhyme label="c" type="m" corresp="#s5:l5">weer</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">De groet die ick u <rhyme label="a" type="m">dee</rhyme>,</l>
+        <l id="s6:l2" met="5" type="-+">Was uyt vrientschap, en niet uyt liefdens <rhyme label="b" type="m">Min</rhyme>,</l>
+        <l id="s6:l3" met="3" type="-+">Vermits <rhyme label="a" type="m" corresp="#s6:l1">Theagene</rhyme>,</l>
+        <l id="s6:l4" met="5" type="-+">Al langhs te vooren was in mijnen <rhyme label="b" type="m" corresp="#s6:l2">sin</rhyme></l>
+        <l id="s6:l5" met="4" type="-+">Gehuysvest, daer hy noch in <rhyme label="c" type="m">woont</rhyme>,</l>
+        <l id="s6:l6" met="4" type="-+">Dus houdt u stil, en my <rhyme label="c" type="m" corresp="#s6:l5">verschoont</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

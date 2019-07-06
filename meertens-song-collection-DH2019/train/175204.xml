@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175204</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Kittelsteentje, rond en <rhyme label="a" type="m">glad</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Als gij plompt in 't klare <rhyme label="a" type="m" corresp="#s1:l1">nat</rhyme>,</l>
+        <l id="s1:l3" met="2" type="+-">En het <rhyme label="b" type="f">water</rhyme></l>
+        <l id="s1:l4" met="2" type="+-">Met <rhyme label="b" type="f" corresp="#s1:l3">geklater</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Paarlend uit elkander <rhyme label="a" type="m" corresp="#s1:l1">spat</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Zijt ge pas der hand <rhyme label="c" type="f">ontgleden</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Of ge wiggelt naar <rhyme label="c" type="f" corresp="#s1:l6">beneden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Doch, waar 't vocht u heeft <rhyme label="a" type="m">omvat</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Komt een kringetjen op 't <rhyme label="a" type="m" corresp="#s2:l1">nat</rhyme>;</l>
+        <l id="s2:l3" met="2" type="+-">Verder vloeit <rhyme label="b" type="f">het</rhyme>,</l>
+        <l id="s2:l4" met="2" type="+-">Lang nog groeit <rhyme label="b" type="f" corresp="#s2:l3">het</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Eer het uit elkander <rhyme label="a" type="m" corresp="#s2:l1">spat</rhyme>:</l>
+        <l id="s2:l6" met="4" type="+-">'t Wijst, hoe snel ge ook zinkt, aan <rhyme label="c" type="f">allen</rhyme></l>
+        <l id="s2:l7" met="4" type="+-">'t Plekje, waar gij zijt <rhyme label="c" type="f" corresp="#s2:l6">gevallen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Elk onthoû het steeds - het <rhyme label="a" type="m">gaat</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Even zoo met goed en <rhyme label="a" type="m" corresp="#s3:l1">kwaad</rhyme>:</l>
+        <l id="s3:l3" met="2" type="+-">Uren, <rhyme label="b" type="f">Dagen</rhyme>,</l>
+        <l id="s3:l4" met="2" type="+-">Jaren, <rhyme label="b" type="f" corresp="#s3:l3">dragen</rhyme></l>
+        <l id="s3:l5" met="4" type="+-">Nog het teeken van uw <rhyme label="a" type="m" corresp="#s3:l1">daad</rhyme>.</l>
+        <l id="s3:l6" met="4" type="+-">Och, onthoû het toch, <rhyme label="c" type="f">mêvrinden</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">'t Plekje is lang nog weêr te <rhyme label="c" type="f" corresp="#s3:l6">vinden</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

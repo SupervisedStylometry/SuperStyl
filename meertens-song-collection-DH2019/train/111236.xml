@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111236</id>
+    <date>
+      <year-start>1785</year-start>
+      <year-end>1785</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
+    </tags>
+    <melody>Adieu dan vaderland en vrienden</melody>
+    <categories>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Vaerd wel myn Vaderland en <rhyme label="a" type="f">vrinden</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Ik moet naer <rhyme label="b" type="m">zee</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Vaerd wel dan schoone die ik <rhyme label="a" type="f" corresp="#s1:l1">minden</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Die ik in zoete <rhyme label="c" type="m">rust</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Zoo dikwils heb <rhyme label="c" type="m" corresp="#s1:l4">gekust</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Helaes hoe swaar valt myn dat <rhyme label="a" type="f">lyden</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Wyl ik van <rhyme label="b" type="m">u</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Mijn teedere Siels-Voogdes moet <rhyme label="a" type="f" corresp="#s2:l1">scheide</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">ô Vreed <rhyme label="c" type="m">verdriet</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Ik moet en kan nog <rhyme label="c" type="m" corresp="#s2:l4">niet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wil myn min standvastig <rhyme label="a" type="f">weezen</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Blyft myn <rhyme label="b" type="m">getrouw</rhyme>?</l>
+        <l id="s3:l3" met="4" type="-+">Dan zoo zal ik Dood nog baeren <rhyme label="a" type="f" corresp="#s3:l1">vreesen</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">Hoe de zee zal <rhyme label="c" type="m">woēn</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">De Hoop zal myn <rhyme label="c" type="m" corresp="#s3:l4">behoēn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Goôn hoop ik zal my die gunst <rhyme label="a" type="f">betoone</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">U weer te <rhyme label="b" type="m">zien</rhyme>!</l>
+        <l id="s4:l3" met="4" type="-+">Ons min en deugden zaemen <rhyme label="a" type="f" corresp="#s4:l1">kroonen</rhyme>,</l>
+        <l id="s4:l4" met="2" type="-+">Gunt ons die <rhyme label="c" type="m">vreugd</rhyme>?</l>
+        <l id="s4:l5" met="3" type="-+">ô Bron van allen <rhyme label="c" type="m" corresp="#s4:l4">deugd</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Ontfangt myn Lief myn tweede <rhyme label="a" type="f">leven</rhyme></l>
+        <l id="s5:l2" met="2" type="-+">Het laest <rhyme label="b" type="m">vaerwel</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">ô Dood ik moet u gaen <rhyme label="a" type="f" corresp="#s5:l1">begeven</rhyme>,</l>
+        <l id="s5:l4" met="2" type="-+">voor 't laest <rhyme label="c" type="m">vaerwel</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">vaerd voor Eeuwig <rhyme label="c" type="m" corresp="#s5:l4">wel</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

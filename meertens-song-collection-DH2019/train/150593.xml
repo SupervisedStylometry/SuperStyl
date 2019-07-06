@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>150593</id>
+    <date>
+      <year-start>1630</year-start>
+      <year-end>1630</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 114 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Dirk Rafaelsz. Camphuysen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">DOe Israel, de Godt-geliefde <rhyme label="a" type="m">stam</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Trock uyt Egipt, en Iacobs huys <rhyme label="a" type="m" corresp="#s1:l1">ontquam</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Des vreemt-taels <rhyme label="b" type="f">slavernije</rhyme>:</l>
+        <l id="s1:l4" met="5" type="-+">Doe sachmen dat Godt Iuda hem <rhyme label="c" type="m">verkoos</rhyme></l>
+        <l id="s1:l5" met="5" type="-+">Tot heylighdom, en Isrel werdt <rhyme label="c" type="m" corresp="#s1:l4">altoos</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Sijn lieve <rhyme label="b" type="f" corresp="#s1:l3">heerschappije</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">De Zee sagh’t aen, de Zee sagh’t aen, en <rhyme label="a" type="m">vloodt</rhyme>.</l>
+        <l id="s2:l2" met="5" type="-+">De vloedt Iordaen nam tegenstroomschen <rhyme label="a" type="m" corresp="#s2:l1">schoot</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">En draeyden rugwaerts <rhyme label="b" type="f">henen</rhyme>.</l>
+        <l id="s2:l4" met="5" type="-+">’tGeberghte danst’ als satte rammen <rhyme label="c" type="m">doen</rhyme>.</l>
+        <l id="s2:l5" met="5" type="-+">’tGeheuvelt sprong niet anders als in’t <rhyme label="c" type="m" corresp="#s2:l4">groen</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Der lamm’ren dert’le <rhyme label="b" type="f" corresp="#s2:l3">beenen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Wat gaff uw’ vlucht soo snellen drift, o <rhyme label="a" type="m">Zee</rhyme>?</l>
+        <l id="s3:l2" met="5" type="-+">Wat was’t, Iordaen, dat u ver-stroomen <rhyme label="a" type="m" corresp="#s3:l1">de’e</rhyme>?</l>
+        <l id="s3:l3" met="3" type="-+">Wat sprongt ghy, hooge <rhyme label="b" type="f">bergen</rhyme>?</l>
+        <l id="s3:l4" met="5" type="-+">Wat was’t dat u, o heuvels, op dat <rhyme label="c" type="m">pas</rhyme></l>
+        <l id="s3:l5" met="5" type="-+">(Als ’tjonge vee in’t weelderige <rhyme label="c" type="m" corresp="#s3:l4">gras</rhyme>)</l>
+        <l id="s3:l6" met="3" type="-+">Den huppel-dans quam <rhyme label="b" type="f" corresp="#s3:l3">vergen</rhyme>?</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Natuer-schrick meldt yet ongemeens en <rhyme label="a" type="m">waerdts</rhyme>.</l>
+        <l id="s4:l2" met="5" type="-+">Daer was (voor wis) daer was wat meer dan <rhyme label="a" type="m" corresp="#s4:l1">Aerts</rhyme>.</l>
+        <l id="s4:l3" met="3" type="-+">’tWas Godt, die’t al de’e <rhyme label="b" type="f">beven</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">En daer gh’ o Aerd, met recht voor beven <rhyme label="c" type="m">moet</rhyme></l>
+        <l id="s4:l5" met="5" type="-+">Die laeflijck vocht en milden <rhyme label="c" type="m" corresp="#s4:l4">water-vloedt</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">uyt dorren steen kan <rhyme label="b" type="f" corresp="#s4:l3">geven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182515</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Wat is het schoon het mensdom te verplichten</melody>
+  <author>Hendrik Riemsnijder</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Waarom toch zwerft, om geld en groote <rhyme label="a" type="f">schatten</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Op afgeleegen zeën de <rhyme label="b" type="m">mensch</rhyme>?</l>
+        <l id="s1:l3" met="5" type="-+">Als of hem niet één waereld kon <rhyme label="a" type="f" corresp="#s1:l1">bevatten</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Noch stillen zyn' begeerte en <rhyme label="b" type="m" corresp="#s1:l2">wensch</rhyme>?</l>
+        <l id="s1:l5" met="4" type="-+">Krygt hy al eens 't geneuchlykst <rhyme label="c" type="m">lot</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Dan stoort de dood al zyn <rhyme label="c" type="m" corresp="#s1:l5">genot</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Dit goed is 't niet, dat men zig moet <rhyme label="a" type="f">verwerven</rhyme>:</l>
+        <l id="s2:l2" met="4" type="-+">Een Wyze, die het best <rhyme label="b" type="m">verkiest</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Zoekt eenen schat, die nimmer kan <rhyme label="a" type="f" corresp="#s2:l1">bederven</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Noch dien hy door den tyd <rhyme label="b" type="m" corresp="#s2:l2">verliest</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Deugd is het, die dit heil <rhyme label="c" type="m">bereid</rhyme>;</l>
+        <l id="s2:l6" met="4" type="-+">Zy volgt ons na in de <rhyme label="c" type="m" corresp="#s2:l5">eeuwigheid</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

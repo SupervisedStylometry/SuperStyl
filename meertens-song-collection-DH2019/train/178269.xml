@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>178269</id>
+    <date>
+      <year-start>1623</year-start>
+      <year-end>1623</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Stabat mater dolorosa</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">O Maria maghet <rhyme label="a" type="f">schoone</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Bidt veur ons by uwen <rhyme label="a" type="f" corresp="#s1:l1">Soone</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">O Maria bidt veur <rhyme label="b" type="m">ons</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">O Maria maghet <rhyme label="a" type="f">reyne</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">En der wijsheydt claer <rhyme label="a" type="f" corresp="#s2:l1">fonteyne</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">O Maria bidt veur <rhyme label="b" type="m">ons</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">O Maria hoogh <rhyme label="a" type="f">ghepresen</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Deur u zijn wy al <rhyme label="a" type="f" corresp="#s3:l1">ghenesen</rhyme>.</l>
+        <l id="s3:l3" met="4" type="+-">O Maria bidt veur <rhyme label="b" type="m">ons</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">O Maria reyn van <rhyme label="a" type="f">sonden</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Wilt ghenesen onse <rhyme label="a" type="f" corresp="#s4:l1">wonden</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">O Maria bidt veur <rhyme label="b" type="m">ons</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">O Maria hoogh <rhyme label="a" type="f">verheven</rhyme></l>
+        <l id="s5:l2" met="4" type="+-">Deur u ist dat wy nu <rhyme label="a" type="f" corresp="#s5:l1">leven</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">O Maria bidt veur <rhyme label="b" type="m">ons</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">O Maria <rhyme label="a" type="f">Coninghinne</rhyme></l>
+        <l id="s6:l2" met="4" type="+-">Gheeft ons Iesus soete <rhyme label="a" type="f" corresp="#s6:l1">minne</rhyme>,</l>
+        <l id="s6:l3" met="4" type="+-">O Maria bidt veur <rhyme label="b" type="m">ons</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

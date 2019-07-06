@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>154232</id>
+    <date>
+      <year-start>1698</year-start>
+      <year-end>1698</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Als men eens gaat overwegen</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Als men eens gaat <rhyme label="a" type="f">overweegen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Hoe 't met Jesus was <rhyme label="a" type="f" corresp="#s1:l1">gelegen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">In den Hof <rhyme label="b" type="m">Gethzémané</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Toen hy zwom in bloed en <rhyme label="c" type="f">traanen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Om het hemels spoor te <rhyme label="c" type="f" corresp="#s1:l4">baanen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Wat dat zyne ziel toen <rhyme label="b" type="m" corresp="#s1:l3">lee</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Wie en word dan niet <rhyme label="a" type="f">bewogen</rhyme>?</l>
+        <l id="s2:l2" met="4" type="+-">Wie en stort dan door zyn' <rhyme label="a" type="f" corresp="#s2:l1">oogen</rhyme></l>
+        <l id="s2:l3" met="4" type="+-">Niet een zee van traanen <rhyme label="b" type="m">uit</rhyme>?</l>
+        <l id="s2:l4" met="4" type="+-">Wie voelt niet zyn hert <rhyme label="c" type="f">beklemmen</rhyme>?</l>
+        <l id="s2:l5" met="4" type="+-">'t Bloed niet in zyn aders <rhyme label="c" type="f" corresp="#s2:l4">stremmen</rhyme>?</l>
+        <l id="s2:l6" met="4" type="+-">Wie maakt niet een bang <rhyme label="b" type="m" corresp="#s2:l3">geluyd</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">O myn ziel hebt gy <rhyme label="a" type="f">medoogen</rhyme>!</l>
+        <l id="s3:l2" met="4" type="+-">Weest met uwen heer <rhyme label="a" type="f" corresp="#s3:l1">bewoogen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Waakt met hem in deeze <rhyme label="b" type="m">nacht</rhyme>;</l>
+        <l id="s3:l4" met="4" type="+-">Volgt hem na in al zyn <rhyme label="c" type="f">ly'en</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Zo zult ge u met hem <rhyme label="c" type="f" corresp="#s3:l4">verbly'en</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">By al 't zalige <rhyme label="b" type="m" corresp="#s3:l3">geslacht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

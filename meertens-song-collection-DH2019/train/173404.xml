@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>173404</id>
+    <date>
+      <year-start>1802</year-start>
+      <year-end>1802</year-end>
+    </date>
+    <location>
+      <orginal-name>den haag</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Psalm 136 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Hieronymus van Alphen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Eeuwig is, o God! uw <rhyme label="a" type="m">rijk</rhyme>.</l>
+        <l id="s1:l2" met="4" type="+-">Wie is onzen God <rhyme label="a" type="m" corresp="#s1:l1">gelijk</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Die, met magt en <rhyme label="b" type="m">majesteit</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Heerschen zal in <rhyme label="b" type="m" corresp="#s1:l3">eeuwigheid</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Eeuwig is, o God! uw <rhyme label="a" type="m">Naam</rhyme>.</l>
+        <l id="s2:l2" met="4" type="+-">Looft, verlosten! looft Hem <rhyme label="a" type="m" corresp="#s2:l1">t'saam</rhyme>!</l>
+        <l id="s2:l3" met="4" type="+-">Die, met magt en <rhyme label="b" type="m">majesteit</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Vader blijft in <rhyme label="b" type="m" corresp="#s2:l3">eeuwigheid</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Looft Hem, die U Jesus <rhyme label="a" type="m">gaf</rhyme>;</l>
+        <l id="s3:l2" met="4" type="+-">U eens oproept uit het <rhyme label="a" type="m" corresp="#s3:l1">graf</rhyme>;</l>
+        <l id="s3:l3" met="4" type="+-">En, met magt en <rhyme label="b" type="m">majesteit</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">'t Leven geeft in <rhyme label="b" type="m" corresp="#s3:l3">eeuwigheid</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Looft Hem, zalig <rhyme label="a" type="m">geestendom</rhyme>!</l>
+        <l id="s4:l2" met="4" type="+-">Looft Hem eeuwig en <rhyme label="a" type="m" corresp="#s4:l1">alom</rhyme>?</l>
+        <l id="s4:l3" met="4" type="+-">Hem, wiens magt en <rhyme label="b" type="m">majesteit</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Uw bestraalt in <rhyme label="b" type="m" corresp="#s4:l3">eeuwigheid</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Looft Hem, onbegrensd <rhyme label="a" type="m">Heel-al</rhyme>!</l>
+        <l id="s5:l2" met="4" type="+-">Waar Hij eeuwig heerschen <rhyme label="a" type="m" corresp="#s5:l1">zal</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Die, met magt en <rhyme label="b" type="m">majesteit</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Schepper blijft in <rhyme label="b" type="m" corresp="#s5:l3">eeuwigheid</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>112160</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Mars van Marlborough</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">KOm, Lekker neusje repje <rhyme label="a" type="m">ras</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Wilt ge in den Hemel <rhyme label="b" type="m">zyn</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Kom ruik dees <rhyme label="a" type="m" corresp="#s1:l1">Goden-Ipekras</rhyme>.</l>
+        <l id="s1:l4" met="3" type="-+">'t Is muskadelle <rhyme label="b" type="m" corresp="#s1:l2">wyn</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Gewassen in't Toskaans <rhyme label="c" type="m">gewest</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Geteekent met drie dubbel <rhyme label="c" type="m" corresp="#s1:l5">EST</rhyme>;</l>
+        <l id="s1:l7" met="3" type="-+">Ruik, ruik, ruik, ruik, <rhyme label="d" type="m">ruik</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Maar eens aan deze <rhyme label="d" type="m" corresp="#s1:l7">kruik</rhyme>.</l>
+        <l id="s1:l9" met="3" type="+-">Banielje zult gy <rhyme label="e" type="f">speuren</rhyme></l>
+        <l id="s1:l10" met="3" type="-+">Kaneel-en <rhyme label="e" type="f" corresp="#s1:l9">Amber-geuren</rhyme>.</l>
+        <l id="s1:l11" met="4" type="-+">Kom Lekkerneusje waar gy <rhyme label="f" type="m">zyt</rhyme>,</l>
+        <l id="s1:l12" met="3" type="-+">Verlies, verlies geen <rhyme label="f" type="m" corresp="#s1:l11">tyd</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ik wensch, als Kloris van dit <rhyme label="a" type="m">nat</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">In 't geurig mondje <rhyme label="b" type="m">neemt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Dat ik nog duizend neuzen <rhyme label="a" type="m" corresp="#s2:l1">had</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Voor die Molukse <rhyme label="b" type="m" corresp="#s2:l2">beemd'</rhyme>!</l>
+        <l id="s2:l5" met="4" type="-+">In dien reukhof van <rhyme label="c" type="m">Attalus</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Ruik ik heel Ambon, als ik <rhyme label="c" type="m" corresp="#s2:l5">kus</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Besproeit, besproeit, <rhyme label="d" type="m">besproeit</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Met Balsem, wat'er <rhyme label="d" type="m" corresp="#s2:l7">groeit</rhyme>.</l>
+        <l id="s2:l9" met="3" type="+-">Hier zuld gy, na ik <rhyme label="e" type="f">reken</rhyme>,</l>
+        <l id="s2:l10" met="3" type="-+">Met my jupyn gaan <rhyme label="e" type="f" corresp="#s2:l9">smeeken</rhyme>,</l>
+        <l id="s2:l11" met="4" type="-+">Dat hy terstont van hooft tot <rhyme label="f" type="m">voet</rhyme></l>
+        <l id="s2:l12" met="3" type="-+">Ons Neuzen worden <rhyme label="f" type="m" corresp="#s2:l11">doet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

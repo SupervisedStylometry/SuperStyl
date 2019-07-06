@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>180320</id>
+    <date>
+      <year-start>1783</year-start>
+      <year-end>1783</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">MEysje laet ons, wyl wy <rhyme label="a" type="f">beiden</rhyme>;</l>
+        <l id="s1:l2" met="4" type="+-">In der Bomen schaduw <rhyme label="b" type="m">gaen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Eens besien der <rhyme label="a" type="f" corresp="#s1:l1">Lente-Tyden</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Want de Somer die komt <rhyme label="b" type="m" corresp="#s1:l2">aen</rhyme>:</l>
+        <l id="s1:l5" met="4" type="+-">Wilt u Oogjes speelen <rhyme label="a" type="f" corresp="#s1:l1">leiden</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Door deez' aengename <rhyme label="b" type="m" corresp="#s1:l2">Laen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Denk hoe ras de <rhyme label="a" type="f">Lente-dagen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">In de Somer zijn <rhyme label="b" type="m">verkeert</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Die de Herfst ons voor komt <rhyme label="a" type="f" corresp="#s2:l1">dragen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Wiens vertrek ons weder <rhyme label="b" type="m" corresp="#s2:l2">leerd</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Hoe de kragt der Winter <rhyme label="a" type="f" corresp="#s2:l1">Vlagen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Al de Spruitjes <rhyme label="b" type="m" corresp="#s2:l2">overheerd</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Wilt U dit ten voorbeeld <rhyme label="a" type="f">zetten</rhyme>;</l>
+        <l id="s3:l2" met="4" type="+-">Ik bemin U, min ook <rhyme label="b" type="m">My</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Eer gy U liefde voelt <rhyme label="a" type="f" corresp="#s3:l1">beletten</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Door een strenger <rhyme label="b" type="m" corresp="#s3:l2">Jaer-gety</rhyme>:</l>
+        <l id="s3:l5" met="4" type="+-">Kies U Lente, <rhyme label="a" type="f" corresp="#s3:l1">Rozinette</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Want U Somer is <rhyme label="b" type="m" corresp="#s3:l2">naby</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

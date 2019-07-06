@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>9727</id>
+    <date>
+      <year-start>1627</year-start>
+      <year-end>1627</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="schriftuurlijk lied" translation="scripture song">schriftuurlijk lied</tag>
+    </tags>
+    <melody>Is het nu niet wel gekermd geklaagd</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Karel van Mander</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">IN kromme weghen, duyster en <rhyme label="a" type="m">swaer</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Vol doode vruchten, en wercken <rhyme label="a" type="m" corresp="#s1:l1">onvruchtbaer</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Daer namen wy ons ydel <rhyme label="b" type="f">wandelinghe</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Maer uyt ghenade werden wy <rhyme label="a" type="m" corresp="#s1:l1">ghewaer</rhyme></l>
+        <l id="s1:l5" met="6" type="-+">Eenen soeten reucke, stem, ende licht <rhyme label="a" type="m" corresp="#s1:l1">klaer</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Wt 'sHeeren Hof ende <rhyme label="b" type="f" corresp="#s1:l3">wooninghe</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Dies wy gheringhe // merckten <rhyme label="c" type="m">saen</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Dat wy de baen // misten int <rhyme label="c" type="m" corresp="#s1:l7">gaen</rhyme>,</l>
+        <l id="s1:l9" met="5" type="+-">Maer wy vonden daer staen // van desen // <rhyme label="d" type="m">Hof</rhyme></l>
+        <l id="s1:l10" met="5" type="+-">De deur ontdaen // end' hem moet wesen // <rhyme label="d" type="m" corresp="#s1:l9">lof</rhyme></l>
+        <l id="s1:l11" met="5" type="-+">Die ons daer heeft so vriendelijck <rhyme label="c" type="m" corresp="#s1:l7">ontfaen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Wy vonden daer in des Hofs <rhyme label="a" type="m">besluyt</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Van alderhande welrieckende <rhyme label="a" type="m" corresp="#s2:l1">kruyt</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Maer boven al // hooghe <rhyme label="b" type="f">verheven</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Een roos int dal // die door haer soet <rhyme label="a" type="m" corresp="#s2:l1">virtuyt</rhyme></l>
+        <l id="s2:l5" met="6" type="-+">Syon des Heeren uytvercoren <rhyme label="a" type="m" corresp="#s2:l1">Bruydt</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Geeft troost en vreucht, welvaert en <rhyme label="b" type="f" corresp="#s2:l3">leven</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">En vast beneven // der beecken <rhyme label="c" type="m">kant</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Wierden gheplant // seer <rhyme label="c" type="m" corresp="#s2:l7">abundant</rhyme>,</l>
+        <l id="s2:l9" met="5" type="+-">Groen spruytkens playsant // die als leden, <rhyme label="d" type="m">goet</rhyme></l>
+        <l id="s2:l10" met="5" type="+-">Opwiessen inden bandt // van vreden // <rhyme label="d" type="m" corresp="#s2:l9">soet</rhyme>,</l>
+        <l id="s2:l11" met="5" type="-+">In deucht, en jeucht, seer schoon en <rhyme label="c" type="m" corresp="#s2:l7">triumphant</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">Menigh was vroylijck hier ter <rhyme label="a" type="m">feest</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Soo lang als in dit Cruyde-hofs <rhyme label="a" type="m" corresp="#s3:l1">foreest</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">Den Zuyden windt waeyde seer <rhyme label="b" type="f">stille</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Maer werden door den Noorden windt <rhyme label="a" type="m" corresp="#s3:l1">bevreest</rhyme>,</l>
+        <l id="s3:l5" met="6" type="-+">Want daer een bitter wortel is <rhyme label="a" type="m" corresp="#s3:l1">ghekeest</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Door eenen gheest // vol van <rhyme label="b" type="f" corresp="#s3:l3">gheschille</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">En vol moedtwille // ginghen daer <rhyme label="c" type="m">voort</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Vele verstoort // buyten de <rhyme label="c" type="m" corresp="#s3:l7">poort</rhyme>,</l>
+        <l id="s3:l9" met="5" type="+-">Want desen windt van Noordt // doet verkonden // <rhyme label="d" type="m">haer</rhyme>,</l>
+        <l id="s3:l10" met="5" type="+-">Alle die aent woort // niet en houden // <rhyme label="d" type="m" corresp="#s3:l9">maer</rhyme></l>
+        <l id="s3:l11" met="5" type="-+">Haer laten omwaeyen met fel <rhyme label="c" type="m" corresp="#s3:l7">discoort</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="+-">Princelijcke Bruydegom, tot <rhyme label="a" type="m">wien</rhyme></l>
+        <l id="s4:l2" met="5" type="-+">Sullen wy ons keeren, oft henen <rhyme label="a" type="m" corresp="#s4:l1">vlien</rhyme>,</l>
+        <l id="s4:l3" met="5" type="-+">Dan by u in u Hof ons wooningh' <rhyme label="b" type="f">maken</rhyme>,</l>
+        <l id="s4:l4" met="5" type="-+">Ghemerckt dat wy soo klaerlijcken <rhyme label="a" type="m" corresp="#s4:l1">sien</rhyme>,</l>
+        <l id="s4:l5" met="6" type="-+">Die by u niet volherden in <rhyme label="a" type="m" corresp="#s4:l1">dien</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Waer sy int eynde <rhyme label="b" type="f" corresp="#s4:l3">toegheraken</rhyme>:</l>
+        <l id="s4:l7" met="4" type="+-">O Heer ons waken // helpt met <rhyme label="c" type="m">vlijt</rhyme>,</l>
+        <l id="s4:l8" met="4" type="-+">In allen strijdt // zijt ons <rhyme label="c" type="m" corresp="#s4:l7">bevrijdt</rhyme>,</l>
+        <l id="s4:l9" met="5" type="+-">Dat niemant ons in zijd-wegen dwaligh // <rhyme label="d" type="m">leydt</rhyme>,</l>
+        <l id="s4:l10" met="5" type="+-">Maer wat profijt // is t'onser <rhyme label="d" type="m" corresp="#s4:l9">saligheyt</rhyme>,</l>
+        <l id="s4:l11" met="5" type="-+">Geeft ons, want een is noodigh <rhyme label="c" type="m" corresp="#s4:l7">altijt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>114461</id>
+    <date>
+      <year-start>1745</year-start>
+      <year-end>1745</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HEt valt niet swaer een jeugdig <rhyme label="a" type="m">hart</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Door liefde 't <rhyme label="b" type="f">overheren</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Als 't is gegrieft door <rhyme label="a" type="m" corresp="#s1:l1">Minnesmart</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Dan krygt men zyn <rhyme label="b" type="f" corresp="#s1:l2">begeren</rhyme>;</l>
+        <l id="s1:l5" met="5" type="-+">Wat is het zoet te Minnen zulke <rhyme label="c" type="m">Maegt</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Die nooit het Minne had <rhyme label="c" type="m" corresp="#s1:l5">behaegt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O! Schoonheid, die myn boezem <rhyme label="a" type="m">blaekt</rhyme>;</l>
+        <l id="s2:l2" met="3" type="-+">'k Eerbiedig u <rhyme label="b" type="f">beveelen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">'k Ben door het Minnevuur <rhyme label="a" type="m" corresp="#s2:l1">geraekt</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">'t Welk oog en hart kan <rhyme label="b" type="f" corresp="#s2:l2">Streelen</rhyme>.</l>
+        <l id="s2:l5" met="5" type="-+">Wat is het zoet, wat is het groot van <rhyme label="c" type="m">waerd</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Te Minne 't Schoonste schoon op <rhyme label="c" type="m" corresp="#s2:l5">aerd</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wanneer een Hert eens vast <rhyme label="a" type="m">gestelt</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Zyn banden heeft <rhyme label="b" type="f">verbroken</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Het loopt alweer langs Bos en <rhyme label="a" type="m" corresp="#s3:l1">Velt</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Dat al zyn hoorens <rhyme label="b" type="f" corresp="#s3:l2">koken</rhyme>;</l>
+        <l id="s3:l5" met="5" type="-+">Het is zeer zoet, te leyden zulk een <rhyme label="c" type="m">Hart</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Gequest, gegriefd, door <rhyme label="c" type="m" corresp="#s3:l5">Minnesmart</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6873</id>
+    <date>
+      <year-start>1637</year-start>
+      <year-end>1637</year-end>
+    </date>
+    <location>
+      <orginal-name>emmerick</orginal-name>
+      <standard-name>Emmerik, Germany</standard-name>
+      <coordinates>
+        <lon>51.8322137</lon>
+        <lat>6.2428283</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Tot Godt den Heeren treden <rhyme label="a" type="m">wy</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">Door u <rhyme label="b" type="f">Ignati</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Wy loven Godt door u <rhyme label="a" type="m" corresp="#s1:l1">Xaveri</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Alleluia, Bidt Godt voor ons <rhyme label="b" type="f" corresp="#s1:l2">Xaveri</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Lof, eer en prijs, en <rhyme label="a" type="m">heerligheyt</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Door u <rhyme label="b" type="f">Ignati</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Godt den Vader in <rhyme label="a" type="m" corresp="#s2:l1">eewigheyt</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Alleluia, Bidt Godt voor ons <rhyme label="b" type="f" corresp="#s2:l2">Xaveri</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Eer sy oock sijn geliefsten <rhyme label="a" type="m">Soon</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Door u <rhyme label="b" type="f">Ignati</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Die ons door beyden veel goets <rhyme label="a" type="m" corresp="#s3:l1">gedaen</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Alleluia, Bidt Godt voor ons <rhyme label="b" type="f" corresp="#s3:l2">Xaveri</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Eer sy oock Godt den heyligen <rhyme label="a" type="m">Geist</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">Door u <rhyme label="b" type="f">Ignati</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Die u soo groote gnaed <rhyme label="a" type="m" corresp="#s4:l1">geleist</rhyme></l>
+        <l id="s4:l4" met="5" type="-+">Alleluia, Bidt Godt voor ons <rhyme label="b" type="f" corresp="#s4:l2">Xaveri</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Der heyligen <rhyme label="a" type="m">Dryvuldigheyt</rhyme></l>
+        <l id="s5:l2" met="2" type="-+">Door u <rhyme label="b" type="f">Ignati</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Sy lof en eer in <rhyme label="a" type="m" corresp="#s5:l1">eewigheyt</rhyme></l>
+        <l id="s5:l4" met="5" type="-+">Alleluia, Bidt Godt voor ons <rhyme label="b" type="f" corresp="#s5:l2">Xaveri</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

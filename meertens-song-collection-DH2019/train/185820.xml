@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185820</id>
+    <date>
+      <year-start>1605</year-start>
+      <year-end>1605</year-end>
+    </date>
+    <location>
+      <orginal-name>leuven</orginal-name>
+      <standard-name>Leuven, Belgium</standard-name>
+      <coordinates>
+        <lon>50.879202</lon>
+        <lat>4.7011675</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>In dulci jubilo</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">In dulci iubilo, singht ende weset <rhyme label="a" type="m">vro</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Al ons herten vroude, licht in <rhyme label="a" type="m" corresp="#s1:l1">presepio</rhyme>,</l>
+        <l id="s1:l3" met="6" type="-+">Het lichtet als de Sonne, matris in <rhyme label="a" type="m" corresp="#s1:l1">gremio</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Ergo merito, Ergo <rhyme label="a" type="m" corresp="#s1:l1">merito</rhyme>,</l>
+        <l id="s1:l5" met="6" type="-+">Des sullen alle herten wesen, in <rhyme label="a" type="m" corresp="#s1:l1">gaidio</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">O Iesu parvule, nae dy is my so <rhyme label="a" type="m">wee</rhyme>,</l>
+        <l id="s2:l2" met="6" type="-+">Trooster al mijn gemoede, tu puer <rhyme label="a" type="m" corresp="#s2:l1">optime</rhyme>,</l>
+        <l id="s2:l3" met="6" type="-+">Ende dat door zijn genade, tu princeps <rhyme label="a" type="m" corresp="#s2:l1">glorie</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Traheme post te, al in dyns Vaders <rhyme label="a" type="m" corresp="#s2:l1">rijcke</rhyme>,</l>
+        <l id="s2:l5" met="6" type="-+">Tu puer <rhyme label="a" type="m" corresp="#s2:l1">inclite</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">Vbi funt gaudia? nerghens meer dan <rhyme label="a" type="m">daer</rhyme>,</l>
+        <l id="s3:l2" met="6" type="-+">Daer de Engelen singen, de nova <rhyme label="a" type="m" corresp="#s3:l1">cantica</rhyme>,</l>
+        <l id="s3:l3" met="6" type="-+">Haer soete stemmen clingen, in regis <rhyme label="a" type="m" corresp="#s3:l1">curia</rhyme>,</l>
+        <l id="s3:l4" met="6" type="-+">Eya qualia, Eya <rhyme label="a" type="m" corresp="#s3:l1">qualia</rhyme>,</l>
+        <l id="s3:l5" met="6" type="-+">Daer sy ons moeten wijsen, Christi <rhyme label="a" type="m" corresp="#s3:l1">presentia</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">Maria nostra spes, wy bidden u Ioncvrouwe <rhyme label="a" type="m">des</rhyme>,</l>
+        <l id="s4:l2" met="6" type="-+">Dat wy salich worden, door u <rhyme label="a" type="m" corresp="#s4:l1">progenies</rhyme>,</l>
+        <l id="s4:l3" met="6" type="-+">Vergeeft ons onse sonden, noch meer dan <rhyme label="a" type="m" corresp="#s4:l1">centies</rhyme>,</l>
+        <l id="s4:l4" met="6" type="-+">Vitam nobis des, vitam nobis <rhyme label="a" type="m" corresp="#s4:l1">des</rhyme></l>
+        <l id="s4:l5" met="6" type="-+">Dat ons te loone werde, aeterna <rhyme label="a" type="m" corresp="#s4:l1">requies</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

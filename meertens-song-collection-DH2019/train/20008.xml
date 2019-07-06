@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20008</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Petite royale</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GY die int hert de winter <rhyme label="a" type="m">draegt</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">En Somer op uw’ <rhyme label="b" type="f">kaken</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Ay laet dan het <rhyme label="b" type="f" corresp="#s1:l2">blaken</rhyme></l>
+        <l id="s1:l4" met="3" type="+-">(Schoon geooghde <rhyme label="a" type="m" corresp="#s1:l1">Maeght</rhyme>,)</l>
+        <l id="s1:l5" met="2" type="-+">Der heete <rhyme label="c" type="f">loncken</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Die d’ontfonckte <rhyme label="d" type="m">twee</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Wt helder ooghen <rhyme label="c" type="f" corresp="#s1:l5">voncken</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">Vw ys-hert nu <rhyme label="d" type="m" corresp="#s1:l6">mee</rhyme></l>
+        <l id="s1:l9" met="3" type="-+">Doen gloen uyt <rhyme label="d" type="m" corresp="#s1:l6">minne-wee</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Heeft God aen u te kost <rhyme label="a" type="m">geleyt</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Die ziel en lichaem <rhyme label="b" type="f">gaven</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Omze te <rhyme label="b" type="f" corresp="#s2:l2">begraven</rhyme>,</l>
+        <l id="s2:l4" met="3" type="+-">In u <rhyme label="a" type="m" corresp="#s2:l1">eenigheyt</rhyme>?</l>
+        <l id="s2:l5" met="2" type="-+">O neen: geen <rhyme label="c" type="f">Maeghden</rhyme></l>
+        <l id="s2:l6" met="3" type="+-">Zijn eer recht <rhyme label="d" type="m">volmaeckt</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Hoe seer sy elck <rhyme label="c" type="f" corresp="#s2:l5">behaeghden</rhyme>,</l>
+        <l id="s2:l8" met="3" type="+-">Voor men ’t huw soet <rhyme label="d" type="m" corresp="#s2:l6">smaeckt</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">O soet dat hertjes <rhyme label="d" type="m" corresp="#s2:l6">raeckt</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Sie hoe de Bruyt geen maegde <rhyme label="a" type="m">krans</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Maer vrouwe-kroon wil <rhyme label="b" type="f">vlegten</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Sie hoe de Min kan <rhyme label="b" type="f" corresp="#s3:l2">hechten</rhyme></l>
+        <l id="s3:l4" met="3" type="+-">Haer, aen ’t hert haers <rhyme label="a" type="m" corresp="#s3:l1">Mans</rhyme>.</l>
+        <l id="s3:l5" met="2" type="-+">Een rijcklijck <rhyme label="c" type="f">leven</rhyme></l>
+        <l id="s3:l6" met="3" type="+-">Siet sy te <rhyme label="d" type="m">gemoet</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Waer’ Eendracht sal haer <rhyme label="c" type="f" corresp="#s3:l5">geven</rhyme></l>
+        <l id="s3:l8" met="3" type="+-">’s Werelts hooghste <rhyme label="d" type="m" corresp="#s3:l6">goet</rhyme>,</l>
+        <l id="s3:l9" met="3" type="-+">Ay volgh haer op de <rhyme label="d" type="m" corresp="#s3:l6">voet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

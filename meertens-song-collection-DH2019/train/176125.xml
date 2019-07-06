@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176125</id>
+    <date>
+      <year-start>1640</year-start>
+      <year-end>1640</year-end>
+    </date>
+    <location>
+      <orginal-name>deventer</orginal-name>
+      <standard-name>Deventer, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.2532272</lon>
+        <lat>6.1584725</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 126 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacobus Revius</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ALs God bracht uyt des vyants <rhyme label="a" type="m">hant</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">'tGevangen Sion weer te <rhyme label="a" type="m" corresp="#s1:l1">land'</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Het was soo vremt voor onsen <rhyme label="b" type="m">geest</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Als waer het slechts een droom <rhyme label="b" type="m" corresp="#s1:l3">geweest</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Van vreugde onse keelen <rhyme label="c" type="f">songen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Vol lacchens waren onse <rhyme label="c" type="f" corresp="#s1:l5">tongen</rhyme>:</l>
+        <l id="s1:l7" met="4" type="-+">De heydens seyden: siet doch <rhyme label="d" type="m">aen</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Hoe veel heeft God dit volck <rhyme label="d" type="m" corresp="#s1:l7">gedaen</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Voorseker heeft des Heeren <rhyme label="a" type="m">macht</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Een groote daet aen ons <rhyme label="a" type="m" corresp="#s2:l1">gewracht</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Dies wy in dees gewenschte <rhyme label="b" type="m">tijt</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Van gantscher herten zijn <rhyme label="b" type="m" corresp="#s2:l3">verblijt</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Wilt de gevanckenis oock <rhyme label="c" type="f">wenden</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Van die noch sitten in <rhyme label="c" type="f" corresp="#s2:l5">ellenden</rhyme>.</l>
+        <l id="s2:l7" met="4" type="-+">Dat sal haer zijn soo <rhyme label="d" type="m">welle-coom</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Als 't dorre lant een <rhyme label="d" type="m" corresp="#s2:l7">water-stroom</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Hy die in d'aerde vallen <rhyme label="a" type="m">laet</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Syn costelijck vercregen <rhyme label="a" type="m" corresp="#s3:l1">saet</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Met tranen synen voorraet <rhyme label="b" type="m">saeyt</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Maer namaels met geneuchte <rhyme label="b" type="m" corresp="#s3:l3">maeyt</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Hy draecht het na syn lant met <rhyme label="c" type="f">weenen</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">En worpet het bedruckt daer <rhyme label="c" type="f" corresp="#s3:l5">henen</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Maer brenget, op een goede <rhyme label="d" type="m">uyr</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">De volle garven in syn <rhyme label="d" type="m" corresp="#s3:l7">schuyr</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

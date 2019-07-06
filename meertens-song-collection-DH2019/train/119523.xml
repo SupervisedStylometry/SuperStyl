@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>119523</id>
+    <date>
+      <year-start>1745</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Tranquilles coeurs</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">'k WEet niet waar ik my bergen <rhyme label="a" type="m">zal</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Zo zit de Min my op de <rhyme label="b" type="f">hielen</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Het Boefjen volgd my <rhyme label="a" type="m" corresp="#s1:l1">overal</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Zo hy my vind, hy zal me <rhyme label="b" type="f" corresp="#s1:l2">ontzielen</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Waar, waar tog, berg ik <rhyme label="c" type="m">myn</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Ach! Philis, myn <rhyme label="c" type="m" corresp="#s1:l5">Godin</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Wild tog meêdogend <rhyme label="c" type="m" corresp="#s1:l5">zyn</rhyme>:</l>
+        <l id="s1:l8" met="3" type="-+">Waar, waar dog, berg ik <rhyme label="c" type="m" corresp="#s1:l5">myn</rhyme>:</l>
+        <l id="s1:l9" met="3" type="-+">Ach! Philis, heeld myn <rhyme label="d" type="m">smert</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">Verschuil my in u <rhyme label="d" type="m" corresp="#s1:l9">hert</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

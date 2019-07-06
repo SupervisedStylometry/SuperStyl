@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20007</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+      <tag standard-name="ambachtslied" translation="trademan's song">ambachtslied</tag>
+    </tags>
+    <melody>Ik voer al over zee</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="work">werk</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">‘k SIngh met mijn lichte <rhyme label="a" type="m">vracht</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">‘k Singh met mijn lichte vracht, ja <rhyme label="a" type="m" corresp="#s1:l1">vracht</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">‘k Ry met dees lichte <rhyme label="b" type="f">Koijen</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Wacker op, dobbe dobbe <rhyme label="c" type="m">dob</rhyme>,</l>
+        <l id="s1:l5" met="3" type="+-">Nae ’t Gasthuys van Sint <rhyme label="c" type="m" corresp="#s1:l4">Iob</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Dus smeertmen kous en <rhyme label="a" type="m">schoen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Dus smeertmen kous en schoen, jae <rhyme label="a" type="m" corresp="#s2:l1">schoen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Men eet kostel <rhyme label="b" type="f">gebraden</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Dobbe dobbe dob, lustig <rhyme label="c" type="m">op</rhyme>,</l>
+        <l id="s2:l5" met="3" type="+-">Men vreest niet voor Sint <rhyme label="c" type="m" corresp="#s2:l4">Iob</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Men roept al na men <rhyme label="a" type="m">dorst</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Men roept al na men dorst, jae <rhyme label="a" type="m" corresp="#s3:l1">dorst</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Men zijn vast <rhyme label="b" type="f">onbeladen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">By de Wijn, let op <rhyme label="c" type="m">Stijn</rhyme>,</l>
+        <l id="s3:l5" met="3" type="+-">Hoe sy nu smeert den <rhyme label="c" type="m" corresp="#s3:l4">Borst</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">De Mannen sien dat <rhyme label="a" type="m">an</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">De Mannen sien dat an, ja <rhyme label="a" type="m" corresp="#s4:l1">an</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Met lachen, om te <rhyme label="b" type="f">prachen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Dobbe dobbe dob, wacker <rhyme label="c" type="m">op</rhyme>,</l>
+        <l id="s4:l5" met="3" type="+-">Tapt weer een volle <rhyme label="c" type="m" corresp="#s4:l4">kan</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Dan Griet Silenus <rhyme label="a" type="m">roept</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Dag Griet Sylenus roept, ja <rhyme label="a" type="m" corresp="#s5:l1">roept</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Mijn Lief en wilt niet <rhyme label="b" type="f">vreesen</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Wacker op, dobbe dobbe <rhyme label="c" type="m">dob</rhyme>,</l>
+        <l id="s5:l5" met="3" type="+-">Of Piet een Druyfje <rhyme label="c" type="m" corresp="#s5:l4">snoept</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Hy hakende na <rhyme label="a" type="m">munt</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Hy hakende na munt, ja <rhyme label="a" type="m" corresp="#s6:l1">munt</rhyme>,</l>
+        <l id="s6:l3" met="3" type="-+">Speelt selver op sijn <rhyme label="b" type="f">Fluytje</rhyme>,</l>
+        <l id="s6:l4" met="4" type="+-">Dobbe dobbe dob, wacker <rhyme label="c" type="m">op</rhyme>,</l>
+        <l id="s6:l5" met="3" type="+-">Mijn vrient ’t is u <rhyme label="c" type="m" corresp="#s6:l4">vergunt</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="3" type="-+">Maer ick, o! <rhyme label="a" type="m">Horen-beest</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">Maer ick, o! Horenbeest, ja <rhyme label="a" type="m" corresp="#s7:l1">beest</rhyme>,</l>
+        <l id="s7:l3" met="3" type="-+">Den Koeckoeck moet u <rhyme label="b" type="f">schenden</rhyme>,</l>
+        <l id="s7:l4" met="4" type="+-">Daer ghy ’t siet, niet <rhyme label="c" type="m">verbiet</rhyme>,</l>
+        <l id="s7:l5" met="3" type="+-">Dat men u Vrou <rhyme label="c" type="m" corresp="#s7:l4">verleest</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="3" type="-+">Noch datse u <rhyme label="a" type="m">verwijt</rhyme>,</l>
+        <l id="s8:l2" met="4" type="-+">Noch datse u verwijt, <rhyme label="a" type="m" corresp="#s8:l1">verwijt</rhyme>,</l>
+        <l id="s8:l3" met="3" type="-+">‘k Sweert ghy sult hoorens <rhyme label="b" type="f">draghen</rhyme>,</l>
+        <l id="s8:l4" met="4" type="+-">Dobbe dobbe dob, lustigh <rhyme label="c" type="m">op</rhyme>,</l>
+        <l id="s8:l5" met="3" type="+-">Hoe leelijck ghy oock <rhyme label="c" type="m" corresp="#s8:l4">krijt</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="3" type="-+">Weest welkom lieve <rhyme label="a" type="m">Rey</rhyme>,</l>
+        <l id="s9:l2" met="4" type="-+">Weest welkom lieve Rey, ja <rhyme label="a" type="m" corresp="#s9:l1">Rey</rhyme>,</l>
+        <l id="s9:l3" met="3" type="-+">Verweende <rhyme label="b" type="f">Hoorendraghers</rhyme>,</l>
+        <l id="s9:l4" met="4" type="+-">Gildebroers, door u <rhyme label="c" type="m">Hoers</rhyme>,</l>
+        <l id="s9:l5" met="3" type="+-">Roept koeckoeck inde <rhyme label="c" type="m" corresp="#s9:l4">Mey</rhyme>.</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="3" type="-+">Nu Voerman slaet vry <rhyme label="a" type="m">voort</rhyme>,</l>
+        <l id="s10:l2" met="4" type="-+">Nu Voerman slaet vry voort, vry <rhyme label="a" type="m" corresp="#s10:l1">voort</rhyme>,</l>
+        <l id="s10:l3" met="3" type="-+">Ick sal u wel <rhyme label="b" type="f">onthalen</rhyme>,</l>
+        <l id="s10:l4" met="4" type="+-">Dobbe dobbe dob, lustigh <rhyme label="c" type="m">op</rhyme>,</l>
+        <l id="s10:l5" met="3" type="+-">In ’t Gasthuys van Sint <rhyme label="c" type="m" corresp="#s10:l4">Iob</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="3" type="-+">G’lijck an mijn paertjes <rhyme label="a" type="m">dan</rhyme>,</l>
+        <l id="s11:l2" met="4" type="-+">G’lijck an mijn paertjes dan, g’lijck <rhyme label="a" type="m" corresp="#s11:l1">an</rhyme>,</l>
+        <l id="s11:l3" met="3" type="-+">Sit vast mijn <rhyme label="b" type="f">Horen-dragers</rhyme>,</l>
+        <l id="s11:l4" met="4" type="+-">Dobbe dobbe dob, lustigh <rhyme label="c" type="m">op</rhyme>,</l>
+        <l id="s11:l5" met="3" type="+-">En maeckt u beursen <rhyme label="c" type="m" corresp="#s11:l4">wan</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

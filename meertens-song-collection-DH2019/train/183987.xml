@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>183987</id>
+    <date>
+      <year-start>1633</year-start>
+      <year-end>1634</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Luz de mi alma</melody>
+  <author>Jacob Cats</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">LVst van myn herte, vreught myner <rhyme label="a" type="f">sinnen</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">God sagh mijn smerten, en myn vierigh <rhyme label="a" type="f" corresp="#s1:l1">minnen</rhyme>;</l>
+        <l id="s1:l3" met="3" type="+-">En gaf nieuwe <rhyme label="b" type="m">vreught</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Tot lust en troost van mijn bedroufde <rhyme label="b" type="m" corresp="#s1:l3">jeught</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">O suyver bloemtje, eer van de <rhyme label="a" type="f">vrouwen</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Ick magh u weder als de mijn <rhyme label="a" type="f" corresp="#s2:l1">aenschouwen</rhyme>;</l>
+        <l id="s2:l3" met="3" type="+-">Want als uyt het <rhyme label="b" type="m">graf</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Ist dat my God uyt gunst u weder <rhyme label="b" type="m" corresp="#s2:l3">gaf</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Hem wil ick dienen gansche <rhyme label="a" type="f">dagen</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Een danckbaer herte sal den <rhyme label="a" type="f" corresp="#s3:l1">Heerbehagen</rhyme>.</l>
+        <l id="s3:l3" met="3" type="+-">Wech benaude <rhyme label="b" type="m">pijn</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Ick wil met vreught syn dienaer eeuwigh <rhyme label="b" type="m" corresp="#s3:l3">syn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

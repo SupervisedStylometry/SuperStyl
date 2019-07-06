@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3723</id>
+    <date>
+      <year-start>1566</year-start>
+      <year-end>1566</year-end>
+    </date>
+    <location>
+      <orginal-name>heidelberg</orginal-name>
+      <standard-name>Heidelberg, Germany</standard-name>
+      <coordinates>
+        <lon>49.4093582</lon>
+        <lat>8.694724</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 120 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Pieter Datheen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ALS ick met swaer kruys ben <rhyme label="a" type="f">belaeden</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Ick roepe tot Godt vol <rhyme label="a" type="f" corresp="#s1:l1">ghenaeden</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Myn ghebedt komt tot sijnen <rhyme label="b" type="f">ooren</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Hy pleeght my altydt te <rhyme label="b" type="f" corresp="#s1:l3">verhooren</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Voor die lueghenachtighe <rhyme label="c" type="f">monden</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">End valsche tonghen t'allen <rhyme label="c" type="f" corresp="#s1:l5">ston-den</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Wilt myn siel' nae v' <rhyme label="d" type="m">goedicheit</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Verlossen Heer' in <rhyme label="d" type="m" corresp="#s1:l7">eewicheit</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wat kan die valsche tonghe <rhyme label="a" type="f">stichten</rhyme>?</l>
+        <l id="s2:l2" met="4" type="-+">Wat kan die lueghenaer <rhyme label="a" type="f" corresp="#s2:l1">wtrichten</rhyme>?</l>
+        <l id="s2:l3" met="4" type="-+">Wat sullen sijn listighe <rhyme label="b" type="f">sinnen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">End valsche tonghe doch <rhyme label="b" type="f" corresp="#s2:l3">ghewinnen</rhyme>?</l>
+        <l id="s2:l5" met="4" type="-+">V' woorden sijn als scherpe <rhyme label="c" type="f">pylen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Die een sterck man schiett <rhyme label="c" type="f" corresp="#s2:l5">onderwylen</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Vwe reden sijn vol <rhyme label="d" type="m">venyn</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Als gloeyende kolen sy <rhyme label="d" type="m" corresp="#s2:l7">sijn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wee my dat ick vremdlinck moet <rhyme label="a" type="f">wesen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">In Mesech vervloeckt end <rhyme label="a" type="f" corresp="#s3:l1">mispresen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Dat ick in Cedars tenten <rhyme label="b" type="f">blyuen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Moet, daer sy niet dan boosheit <rhyme label="b" type="f" corresp="#s3:l3">dryuen</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Dat ick so langhe ben <rhyme label="c" type="f">verlaeten</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">By hen die steedts den vrede <rhyme label="c" type="f" corresp="#s3:l5">haeten</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Ick die paeys soecke sonder <rhyme label="d" type="m">dwangh</rhyme>,</l>
+        <l id="s3:l8" met="4" type="-+">Ben by hen gheweest veel te <rhyme label="d" type="m" corresp="#s3:l7">langh</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

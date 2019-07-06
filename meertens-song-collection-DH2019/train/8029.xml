@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8029</id>
+    <date>
+      <year-start>1644</year-start>
+      <year-end>1644</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Psalm 100 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jan Jansz. Deutel</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GOd onsen Heer u loven <rhyme label="a" type="m">wy</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">End' dancken dy met moede <rhyme label="a" type="m" corresp="#s1:l1">bly</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Want u genade en <rhyme label="b" type="m">goetheydt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Duert nu en inder <rhyme label="b" type="m" corresp="#s1:l3">eeuwigheyt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Vwen heyligen name, <rhyme label="a" type="m">Heer</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Singen wy lof, prijs ende <rhyme label="a" type="m" corresp="#s2:l1">eer</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Heyligh, heyligh, heyligh ghy <rhyme label="b" type="m">zijt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Ghy onsen Godt <rhyme label="b" type="m" corresp="#s2:l3">gebenedijt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Soo langh wy hier zijn in dit <rhyme label="a" type="m">dal</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Sullen wy met vrolijck <rhyme label="a" type="m" corresp="#s3:l1">geschal</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Met der Engh'len en Christen <rhyme label="b" type="m">schaer</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">V loven prijsen <rhyme label="b" type="m" corresp="#s3:l3">allegaer</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Want ghy alleen eenige <rhyme label="a" type="m">Godt</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Zijt onse toevlucht, borch en <rhyme label="a" type="m" corresp="#s4:l1">slot</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">V gunst, genade, en <rhyme label="b" type="m">goedtheyt</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Hebdy over ons <rhyme label="b" type="m" corresp="#s4:l3">uytgebreyt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Des wy u singen <rhyme label="a" type="m">altesaem</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Lof, prijs, ende eere <rhyme label="a" type="m" corresp="#s5:l1">bequaem</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">V onsen Godt, vriend'lijck en <rhyme label="b" type="m">soet</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Voor alle u weldaden <rhyme label="b" type="m" corresp="#s5:l3">goet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

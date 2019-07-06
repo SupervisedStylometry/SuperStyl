@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13544</id>
+    <date>
+      <year-start>1662</year-start>
+      <year-end>1662</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Ach wie elend ist unsere Zeit</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Tjaert Sonnema</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">OCh! hoe elendigh is de <rhyme label="a" type="m">tyd</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Hoe broos is 't aerdsche <rhyme label="b" type="f">leven</rhyme>!</l>
+        <l id="s1:l3" met="4" type="-+">De mensch heeft niet als moeit en <rhyme label="a" type="m" corresp="#s1:l1">stryd</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En haest den geest moet <rhyme label="b" type="f" corresp="#s1:l2">geven</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Wat is 't in desen <rhyme label="c" type="m">jammerdal</rhyme>?</l>
+        <l id="s1:l6" met="4" type="-+">Verdriet en arbeid over <rhyme label="c" type="m" corresp="#s1:l5">al</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">In haet en nyd te <rhyme label="b" type="f" corresp="#s1:l2">streven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Door Adams val en ons' <rhyme label="a" type="m">misdaed</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Verlooren zijn wy <rhyme label="b" type="f">arme</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">O God, verleen uw hulp en <rhyme label="a" type="m" corresp="#s2:l1">raed</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">En ons hier in <rhyme label="b" type="f" corresp="#s2:l2">bescharme</rhyme>;</l>
+        <l id="s2:l5" met="4" type="-+">In sulke droefenis en <rhyme label="c" type="m">pyn</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">O Heer, wilt ons genaedigh <rhyme label="c" type="m" corresp="#s2:l5">zijn</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">En onser U <rhyme label="b" type="f" corresp="#s2:l2">erbarme</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Op U alleen ons hoope <rhyme label="a" type="m">staet</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Uw hulp send ons te <rhyme label="b" type="f">saemen</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">Want Gy tot geene tyd <rhyme label="a" type="m" corresp="#s3:l1">verlaet</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Die sich tot U <rhyme label="b" type="f" corresp="#s3:l2">bequaemen</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Wilt ons met Uwen Geest <rhyme label="c" type="m">bystaen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Als wy uit dese werelt <rhyme label="c" type="m" corresp="#s3:l5">gaen</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Door Jesum Christum, <rhyme label="b" type="f" corresp="#s3:l2">Amen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

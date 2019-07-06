@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36640</id>
+    <date>
+      <year-start>1631</year-start>
+      <year-end>1631</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>In wat wilder gesticht</melody>
+    <categories>
+      <category translation="narratives">verhalen</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">GHewenschte vrolijckheydt! woonstede der <rhyme label="a" type="f">ghenuchte</rhyme>!</l>
+        <l id="s1:l2" met="6" type="-+">Daer Godt haer hadd' gheleydt, die al om hem <rhyme label="a" type="f" corresp="#s1:l1">ontvluchte</rhyme>:</l>
+        <l id="s1:l3" met="6" type="-+">Ghelucksalighen Niet, daer Godt haer woonen <rhyme label="b" type="m">liet</rhyme>!</l>
+        <l id="s1:l4" met="7" type="-+">Blyde ste', blyden vre, daer Godt die Salighe <rhyme label="c" type="m">me'</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">In hem versmilten <rhyme label="c" type="m" corresp="#s1:l4">de'</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Mijn hert' schijnt op te gaen', met duysent <rhyme label="a" type="f">vrolijckheden</rhyme>,</l>
+        <l id="s2:l2" met="6" type="-+">Dat ick comm' te verstaen op aertrijck hier <rhyme label="a" type="f" corresp="#s2:l1">beneden</rhyme></l>
+        <l id="s2:l3" met="6" type="-+">T'gheluck, dat op die siel', door dat vernieten <rhyme label="b" type="m">viel</rhyme></l>
+        <l id="s2:l4" met="7" type="-+">In den grondt', daer sy stondt vol weelden die sy <rhyme label="c" type="m">bevondt</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Haer van den Heer <rhyme label="c" type="m" corresp="#s2:l4">ghejont</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">O blijschap wonderbaer! o Nietheydt vol <rhyme label="a" type="f">wellusten</rhyme>!</l>
+        <l id="s3:l2" met="6" type="-+">Hoe smolt die siele daer, in die bly' rust' der <rhyme label="a" type="f" corresp="#s3:l1">rusten</rhyme>?</l>
+        <l id="s3:l3" met="6" type="-+">Vol rijckheydt ende vreught, vermakelijck <rhyme label="b" type="m">verheught</rhyme></l>
+        <l id="s3:l4" met="7" type="-+">In t'gheniet, dat Godt biet, die hy oprechtelijck <rhyme label="c" type="m">siet</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Dat al vliedt en <rhyme label="c" type="m" corresp="#s3:l4">ont-vliedt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">O die uyt desen druck, Vriendin' by claren <rhyme label="a" type="f">daghe</rhyme></l>
+        <l id="s4:l2" met="6" type="-+">Dat oversoet gheluck, van die ghestorven <rhyme label="a" type="f" corresp="#s4:l1">saghe</rhyme>,</l>
+        <l id="s4:l3" met="6" type="-+">Die weelden overgroot van hare blyde <rhyme label="b" type="m">doot</rhyme>,</l>
+        <l id="s4:l4" met="7" type="-+">Die sy socht, waer sy mocht, en daer sy toe wierdt <rhyme label="c" type="m">ghebrocht</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Met al t'ghen' dat sy <rhyme label="c" type="m" corresp="#s4:l4">wrocht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

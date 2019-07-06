@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>177629</id>
+    <date>
+      <year-start>1774</year-start>
+      <year-end>1774</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Psalm 001 Datheen</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Welzalig hij, die in der boozen <rhyme label="a" type="m">raad</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Niet wandelt; noch op 't pad der zondaars <rhyme label="a" type="m" corresp="#s1:l1">staat</rhyme>;</l>
+        <l id="s1:l3" met="5" type="-+">Noch nederzit, daar zulken <rhyme label="b" type="f">samenrotten</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Die roekeloos met God en Godsdienst <rhyme label="b" type="f" corresp="#s1:l3">spotten</rhyme>;</l>
+        <l id="s1:l5" met="5" type="-+">Maar 's HEEREN wet blijmoedig dag en <rhyme label="c" type="m">nacht</rhyme></l>
+        <l id="s1:l6" met="5" type="-+">Herdenkt, bepeinst, en ijverig <rhyme label="c" type="m" corresp="#s1:l5">betracht</rhyme>:</l>
+      </lg>
+    </lg>
+  </text>
+</song>

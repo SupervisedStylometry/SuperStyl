@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>184482</id>
+    <date>
+      <year-start>1738</year-start>
+      <year-end>1738</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">ZYn bloed bedauw' ons <rhyme label="a" type="m">maar</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Tot zyne stroomen <rhyme label="b" type="f">reeg'nen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">En onze Zielen <rhyme label="b" type="f" corresp="#s1:l2">zeeg'nen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En onze gansche <rhyme label="a" type="m" corresp="#s1:l1">Schaar</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Genadiglyk <rhyme label="c" type="f">bevloejen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Dat elke Plant mag <rhyme label="c" type="f" corresp="#s1:l5">groejen</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">En al ons zap en <rhyme label="d" type="m">kracht</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Door Hem zy <rhyme label="d" type="m" corresp="#s1:l7">voortgebragt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Gy kent ons yder <rhyme label="a" type="m">een</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Ons zoeken, zuchten, <rhyme label="b" type="f">weenen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Die U alleen dog <rhyme label="b" type="f" corresp="#s2:l2">meenen</rhyme>;</l>
+        <l id="s2:l4" met="3" type="-+">Zo geeven wy ons <rhyme label="a" type="m" corresp="#s2:l1">heen</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">Wy waren gaarn nog <rhyme label="c" type="f">kleiner</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Nog louterer, nog <rhyme label="c" type="f" corresp="#s2:l5">reiner</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Tot uw <rhyme label="d" type="m">genaade-Ryk</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">En uwen beeld' <rhyme label="d" type="m" corresp="#s2:l7">gelyk</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

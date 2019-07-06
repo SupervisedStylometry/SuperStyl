@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12782</id>
+    <date>
+      <year-start>1658</year-start>
+      <year-end>1658</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Lofzang van Maria</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Franciscus Ridderus</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">'kWOrt noyt een <rhyme label="a" type="m">hemelingh</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Sonder <rhyme label="a" type="m" corresp="#s1:l1">verandering</rhyme>:</l>
+        <l id="s1:l3" met="3" type="-+">'kMoet zijn <rhyme label="b" type="f">wedergebooren</rhyme>.</l>
+        <l id="s1:l4" met="3" type="-+">Dit staet niet in mijn <rhyme label="c" type="m">macht</rhyme>:</l>
+        <l id="s1:l5" met="3" type="-+">'tTis 'twerck van Christi <rhyme label="c" type="m" corresp="#s1:l4">kracht</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Voor zijne <rhyme label="b" type="f" corresp="#s1:l3">uytverkooren</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Gods wet vernedert <rhyme label="a" type="m">my</rhyme>:</l>
+        <l id="s2:l2" met="3" type="-+">Godt doeter ellend <rhyme label="a" type="m" corresp="#s2:l1">by</rhyme>.</l>
+        <l id="s2:l3" met="3" type="-+">Maer 'trecht herstelde <rhyme label="b" type="f">leven</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Door 'tEvangelisch <rhyme label="c" type="m">woort</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Geloovigh <rhyme label="c" type="m" corresp="#s2:l4">aengehoort</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Kan Gods Geest alleen <rhyme label="b" type="f" corresp="#s2:l3">geven</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Dan is mijn ziel <rhyme label="a" type="m">bekeert</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Als 'tquaedt is <rhyme label="a" type="m" corresp="#s3:l1">overheert</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">En 'thert tot Godt <rhyme label="b" type="f">genegen</rhyme>:</l>
+        <l id="s3:l4" met="3" type="-+">Als 'twoort met lust <rhyme label="c" type="m">gehoort</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Brenght 'tnieuwe leven <rhyme label="c" type="m" corresp="#s3:l4">voort</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">En schrick voor quade <rhyme label="b" type="f" corresp="#s3:l3">wegen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">'kVertraegh 'twel leven <rhyme label="a" type="m">niet</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Terwijl het Godt <rhyme label="a" type="m" corresp="#s4:l1">gebiedt</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Vytstel baert meerder <rhyme label="b" type="f">smerten</rhyme>:</l>
+        <l id="s4:l4" met="3" type="-+">Mijns levens tijt is <rhyme label="c" type="m">geen</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Het leven is <rhyme label="c" type="m" corresp="#s4:l4">alleen</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Voor recht bekeerde <rhyme label="b" type="f" corresp="#s4:l3">herten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

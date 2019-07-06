@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>115809</id>
+    <date>
+      <year-start>1681</year-start>
+      <year-end>1681</year-end>
+    </date>
+    <location>
+      <orginal-name>alkmaar</orginal-name>
+      <standard-name>Alkmaar, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.6312592</lon>
+        <lat>4.7503798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Son mille tormenti</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Claes Stapel</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">LAat krijgen en schanden, en rooven en <rhyme label="a" type="f">branden</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Verwoesten, verwoesten de <rhyme label="a" type="f" corresp="#s1:l1">landen</rhyme>.</l>
+        <l id="s1:l3" met="4" type="+-">Laat koomen de donder, de winden en <rhyme label="b" type="f">stroomen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Wat schaad het, wat schaad het de <rhyme label="b" type="f" corresp="#s1:l3">vroomen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als swaare gerugten // een ander doen <rhyme label="a" type="f">zugten</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">En woelen, en woelen en <rhyme label="a" type="f" corresp="#s2:l1">vlugten</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Dan zit hy in vreede, in ruste en <rhyme label="b" type="f">vreugden</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Om-zingeld, om-zingeld met <rhyme label="b" type="f" corresp="#s2:l3">deugden</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Zijn schat in on-zigtbaar en grooter in <rhyme label="a" type="f">waarde</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Den Heemel, dan Heemel en <rhyme label="a" type="f" corresp="#s3:l1">aarde</rhyme>.</l>
+        <l id="s3:l3" met="4" type="+-">Zijn kragten en heerzing gaat alles te <rhyme label="b" type="f">booven</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Wat zou men, wat zou men hem <rhyme label="b" type="f" corresp="#s3:l3">rooven</rhyme>?</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Verliezd hy zijn haaven en leeven te <rhyme label="a" type="f">gaader</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Zoo komt hy, zoo komt hy te <rhyme label="a" type="f" corresp="#s4:l1">naader</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Zijn Heere, zijn oorspronk, zijn rijkdom, zijn <rhyme label="b" type="f">leeven</rhyme>.</l>
+        <l id="s4:l4" met="3" type="-+">Waar-om dan, waar-om dan <rhyme label="b" type="f" corresp="#s4:l3">gebleeven</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34431</id>
+    <date>
+      <year-start>1664</year-start>
+      <year-end>1664</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="paaslied" translation="Easter song">paaslied</tag>
+    </tags>
+    <melody>O allerhoogste mogendheid</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author>Godfried Bussé</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Mensch weest nu heel <rhyme label="a" type="m">verblijt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Want t'is nu eenen blijden <rhyme label="a" type="m" corresp="#s1:l1">tijdt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Met dese goede <rhyme label="b" type="m">Pasche-feest</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Verrijst met Christo inden <rhyme label="b" type="m" corresp="#s1:l3">gheest</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Verrijst met hem die naeckt en <rhyme label="c" type="m">bloodt</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Verresen is nu vander <rhyme label="c" type="m" corresp="#s1:l5">doodt</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Verrijst nu uyt der aerden <rhyme label="c" type="m" corresp="#s1:l5">schoot</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">Daer ghy in light by naer <rhyme label="d" type="m">versmoort</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Verrijst nu ô Adams <rhyme label="a" type="m">gheslacht</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Want nu verplet is vyandts <rhyme label="a" type="m" corresp="#s2:l1">macht</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Verrijst met Christo vander <rhyme label="b" type="m">doodt</rhyme>;</l>
+        <l id="s2:l4" met="4" type="-+">Dat is, uyt uwe sonden <rhyme label="b" type="m" corresp="#s2:l3">groodt</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Siet Jesus heeft den wegh <rhyme label="c" type="m">ghebaeynt</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Door sijne Passîe nu <rhyme label="c" type="m" corresp="#s2:l5">gheeynt</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Hy gaet u voor, volght ghy hem <rhyme label="c" type="m" corresp="#s2:l5">nae</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Singhende nu <rhyme label="d" type="m">Alleluya</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Alleluya, in <rhyme label="a" type="m">eeuwigheydt</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Daer d'Engh'len singhen met <rhyme label="a" type="m" corresp="#s3:l1">jolijt</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">De doodt heeft hy verwonnen <rhyme label="b" type="m">hier</rhyme>;</l>
+        <l id="s3:l4" met="4" type="-+">En ons verlost van t'eeuwigh <rhyme label="b" type="m" corresp="#s3:l3">vier</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Hy is verresen <rhyme label="c" type="m">triumphant</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">En sit nu aen de <rhyme label="c" type="m" corresp="#s3:l5">rechte-handt</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Des Vaeders, die hem is <rhyme label="c" type="m" corresp="#s3:l5">bereyt</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Van eeuw' tot inder <rhyme label="d" type="m">eeuwigheyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

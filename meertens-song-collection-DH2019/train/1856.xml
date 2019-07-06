@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1856</id>
+    <date>
+      <year-start>1615</year-start>
+      <year-end>1615</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="dialectlied" translation="dialect song">dialectlied</tag>
+    </tags>
+    <melody>Allemande de Spiers</melody>
+    <categories>
+      <category translation="groups">groepen</category>
+      <category translation="formal genres">formele genres</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MAerten Aepjes eer je <rhyme label="a" type="m">gaet</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">So blijft hier noch ien kleyn <rhyme label="b" type="f">beetje</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Ick rae je neefje dat je <rhyme label="a" type="m" corresp="#s1:l1">staet</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Noch een lutje by jou <rhyme label="b" type="f" corresp="#s1:l2">peetje</rhyme>:</l>
+        <l id="s1:l5" met="4" type="+-">Gaet dan vry by Branckjes <rhyme label="c" type="m">Brecht</rhyme>:</l>
+        <l id="s1:l6" met="4" type="+-">Datsen vryer, datsen <rhyme label="c" type="m" corresp="#s1:l5">knecht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Gaet benierlijck over <rhyme label="a" type="m">wegh</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Liert jou woordtjes wel <rhyme label="b" type="f">belegghen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Hoort mijn seun wat ick je <rhyme label="a" type="m" corresp="#s2:l1">segh</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Ierstin as je wat wilt <rhyme label="b" type="f" corresp="#s2:l2">segghen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Siet dat je ghenavent <rhyme label="c" type="m">seght</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Datsen vryen, datsen <rhyme label="c" type="m" corresp="#s2:l5">knecht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">De noom, en ick de sin al <rhyme label="a" type="m">klaer</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Gae je moeytjes na jou <rhyme label="b" type="f">vrijster</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Datsen man, wat soo mijn <rhyme label="a" type="m" corresp="#s3:l1">vaer</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Trouwe vriendt, je keunt te <rhyme label="b" type="f" corresp="#s3:l2">bijster</rhyme>!</l>
+        <l id="s3:l5" met="4" type="+-">Heer je haet soo reghel <rhyme label="c" type="m">recht</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Datsen vryer, datsen <rhyme label="c" type="m" corresp="#s3:l5">knecht</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Tis ien wereld vannen <rhyme label="a" type="m">man</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Van lijf en leen <rhyme label="b" type="f">uytghelesen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Hy speult soo aertigh mit de <rhyme label="a" type="m" corresp="#s4:l1">kan</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Dat hy't puyckjen plegh te <rhyme label="b" type="f" corresp="#s4:l2">wesen</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">Van Diemen, en van <rhyme label="c" type="m">Duvendrecht</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">Datsen vryer, datsen <rhyme label="c" type="m" corresp="#s4:l5">knecht</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Wel neefjen wilje dan soo <rhyme label="a" type="m">voort</rhyme>?</l>
+        <l id="s5:l2" met="4" type="+-">Lustje noch niet wat te <rhyme label="b" type="f">eten</rhyme>?</l>
+        <l id="s5:l3" met="4" type="-+">Hem sick Maerten! noch een <rhyme label="a" type="m" corresp="#s5:l1">woort</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Iou sloncksien heb je noch <rhyme label="b" type="f" corresp="#s5:l2">vergeten</rhyme>,</l>
+        <l id="s5:l5" met="4" type="+-">Wel mijn kijnd dat is te <rhyme label="c" type="m">slecht</rhyme>,</l>
+        <l id="s5:l6" met="4" type="+-">Datsen vryer, datsen <rhyme label="c" type="m" corresp="#s5:l5">knecht</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Maerten segh ick koomt in <rhyme label="a" type="m">huys</rhyme>,</l>
+        <l id="s6:l2" met="4" type="+-">Benje al vry van Simens <rhyme label="b" type="f">Sijtjen</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Van scheele Trijn, van Griete <rhyme label="a" type="m" corresp="#s6:l1">Gruys</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">Van Claertje Klonters en van <rhyme label="b" type="f" corresp="#s6:l2">Fijtjen</rhyme>,</l>
+        <l id="s6:l5" met="4" type="+-">Sinjer oock mee in den <rhyme label="c" type="m">echt</rhyme>,</l>
+        <l id="s6:l6" met="4" type="+-">Datsen vryer, datsen <rhyme label="c" type="m" corresp="#s6:l5">knecht</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">De jongens hebben lankt noch <rhyme label="a" type="m">goet</rhyme></l>
+        <l id="s7:l2" met="4" type="+-">Daerom schat ick bin je <rhyme label="b" type="f">scheyen</rhyme>,</l>
+        <l id="s7:l3" met="4" type="-+">Tot Brechtjens is kley aen de <rhyme label="a" type="m" corresp="#s7:l1">kloet</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Ick sie een hijlick uyt jou <rhyme label="b" type="f" corresp="#s7:l2">beyen</rhyme>,</l>
+        <l id="s7:l5" met="4" type="+-">Gaet mijn seun en maeckt het <rhyme label="c" type="m">hecht</rhyme>,</l>
+        <l id="s7:l6" met="4" type="+-">Datsen vryer, datsen <rhyme label="c" type="m" corresp="#s7:l5">knecht</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Macht met Brechtjen niet <rhyme label="a" type="m">geschien</rhyme></l>
+        <l id="s8:l2" met="4" type="+-">Of en keunjet soo niet <rhyme label="b" type="f">muyren</rhyme>?</l>
+        <l id="s8:l3" met="4" type="-+">Ick sou niet mier na heur <rhyme label="a" type="m" corresp="#s8:l1">omsien</rhyme>,</l>
+        <l id="s8:l4" met="4" type="-+">Maer ick sou na stee gaen <rhyme label="b" type="f" corresp="#s8:l2">kuyren</rhyme>,</l>
+        <l id="s8:l5" met="4" type="+-">Doe soo Maerten als je <rhyme label="c" type="m">pleght</rhyme>,</l>
+        <l id="s8:l6" met="4" type="+-">Datsen vryer, datsen <rhyme label="c" type="m" corresp="#s8:l5">knecht</rhyme>.</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="-+">Al quam in stee soo plompen <rhyme label="a" type="m">Boer</rhyme></l>
+        <l id="s9:l2" met="4" type="+-">Als ien Kinckel oyt mocht <rhyme label="b" type="f">maken</rhyme>:</l>
+        <l id="s9:l3" met="4" type="-+">Al quam Mal Oene met sijn <rhyme label="a" type="m" corresp="#s9:l1">Moer</rhyme></l>
+        <l id="s9:l4" met="4" type="-+">Had hy goet hy sou an <rhyme label="b" type="f" corresp="#s9:l2">raken</rhyme>,</l>
+        <l id="s9:l5" met="4" type="+-">Siet Maerten dat jey't wel <rhyme label="c" type="m">beleght</rhyme>,</l>
+        <l id="s9:l6" met="4" type="+-">Datsen vryer, datsen <rhyme label="c" type="m" corresp="#s9:l5">knecht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21224</id>
+    <date>
+      <year-start>1646</year-start>
+      <year-end>1646</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>O zalig heilig Bethlehem</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Guillaume Abrahams Ooijevaer</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Si tost que vostre oeil m'eut <rhyme label="a" type="m">blessé</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Tant de feu s'esprist en mon <rhyme label="b" type="f">ame</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Que je n'eusse jamais <rhyme label="a" type="m" corresp="#s1:l1">pensé</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Pouvoir ardre en plus chaude <rhyme label="b" type="f" corresp="#s1:l2">flame</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Mais croissans en vous chacun <rhyme label="a" type="m">jour</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Les graces qui vous font si <rhyme label="b" type="f">belle</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">J'qy veu croistre aussy mon <rhyme label="a" type="m" corresp="#s2:l1">amour</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Tousjours de quelque ardeur <rhyme label="b" type="f" corresp="#s2:l2">nouvelle</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Elle est ore á <rhyme label="a" type="m">l'extremité</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Plus grande on ne la sçauroit <rhyme label="b" type="f">rendre</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Ne croissez donc plus en <rhyme label="a" type="m" corresp="#s3:l1">beauté</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Ou vois me mettrez tout en <rhyme label="b" type="f" corresp="#s3:l2">cendre</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

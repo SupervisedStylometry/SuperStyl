@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22284</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Ach Gott wie sind mein Sünd</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ICk roepe tot Godt met mijne <rhyme label="a" type="m">stem</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Ick vley, en smeeck voor den <rhyme label="b" type="f">Heere</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Mijn gebedt, dat schud ick wt voor <rhyme label="a" type="m" corresp="#s1:l1">hem</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Hy sal dat verhooren <rhyme label="b" type="f" corresp="#s1:l2">seere</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Ick gheef hem te kennen all mijnen <rhyme label="c" type="m">noot</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Als mijn Gheest van ancxt sinckt inden <rhyme label="c" type="m" corresp="#s1:l5">doot</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Soo neemt hy dan mijnder <rhyme label="d" type="f">aeve</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Sij hebben my stricken op mijne <rhyme label="a" type="m">baen</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Gheleyt, aldaer ick soud <rhyme label="b" type="f">wandlen</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Merckt ter rechter handt : ende siet <rhyme label="a" type="m" corresp="#s2:l1">aen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Hoe dat sy doch met my <rhyme label="b" type="f" corresp="#s2:l2">handlen</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Niemandt en wilt my kennen <rhyme label="c" type="m">meer</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">En te vergheefs is mijn vlieden <rhyme label="c" type="m" corresp="#s2:l5">seer</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Niemandt en vraecht nae mijn <rhyme label="d" type="f">Siele</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Tot u roep ick mijn toeuerlaet <rhyme label="a" type="m">gheel</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">en ick seg dat ghy zijt mijn <rhyme label="b" type="f">hope</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">In dlandt der leuende, zijt ghy mijn <rhyme label="a" type="m" corresp="#s3:l1">deel</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">En met mijn clacht ick tot u <rhyme label="b" type="f" corresp="#s3:l2">loope</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">Aenmerckt Heer want ick wordt seer <rhyme label="c" type="m">geplaecht</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Verlost my, en mijn veruolghers <rhyme label="c" type="m" corresp="#s3:l5">veriaecht</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Want sy zijn my te <rhyme label="d" type="f">machtich</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Mijn Siel Heer wt de ghevanghenis <rhyme label="a" type="m">leydt</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Soo sal ick dancken uwen <rhyme label="b" type="f">naeme</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">De rechtuaerdighe die sullen <rhyme label="a" type="m" corresp="#s4:l1">bereydt</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">By my al comen te <rhyme label="b" type="f" corresp="#s4:l2">samen</rhyme>:</l>
+        <l id="s4:l5" met="4" type="-+">Wanneer dat ghy my Heere wel <rhyme label="c" type="m">doet</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Dat selfst sal ick u ghemeynte <rhyme label="c" type="m" corresp="#s4:l5">goet</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">En u goetheyt vertellen. <rhyme label="d" type="f">Amen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8888</id>
+    <date>
+      <year-start>1625</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Nun freut euch liebe Christen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O GOdt mijn Hert is Recht <rhyme label="a" type="m">bereydt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Om Dichten ende <rhyme label="b" type="f">singhen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Ghy Psalter ende Harpen <rhyme label="a" type="m" corresp="#s1:l1">beyd'</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Wel op, wilt Vroech <rhyme label="b" type="f" corresp="#s1:l2">ontspringhen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Ick wil dy Dancken HEERE <rhyme label="c" type="m">mijn</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">End onder allen Volcken <rhyme label="c" type="m" corresp="#s1:l5">dijn</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Loff singhen end <rhyme label="d" type="f">Verconden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Want dijne goetheyt strecket <rhyme label="a" type="m">wijt</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Ghelijck des HEmels <rhyme label="b" type="f">Throone</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">End uwe Waerheyt gaet <rhyme label="a" type="m" corresp="#s2:l1">Altijdt</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Tot aen de Wolcken <rhyme label="b" type="f" corresp="#s2:l2">schoone</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Over den HEmel dy, O <rhyme label="c" type="m">HEER</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Verhefft, En laet Ras uwe <rhyme label="c" type="m" corresp="#s2:l5">Eer</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Doch over al t'Lande <rhyme label="d" type="f">comen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Op dat dijn Lieve Vrienden <rhyme label="a" type="m">t'saem</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Verlosset moghen <rhyme label="b" type="f">weerden</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Help met dijn Rechter Handt <rhyme label="a" type="m" corresp="#s3:l1">bequaem</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Verhoort my hier op <rhyme label="b" type="f" corresp="#s3:l2">Eerden</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Het spreeckt Godt in syn <rhyme label="c" type="m">Heylichdom</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Dies ben ick bly, En wil <rhyme label="c" type="m" corresp="#s3:l5">daerom</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Nu Sichem oock wt <rhyme label="d" type="f">deelen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">t'Dal Suchot, Gilead te <rhyme label="a" type="m">gaer</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Manasse my <rhyme label="b" type="f">behooren</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Mijn sterckt is Ephraim <rhyme label="a" type="m" corresp="#s4:l1">aldaer</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Juda mijn Vorst <rhyme label="b" type="f" corresp="#s4:l2">vercooren</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Maer Moab sal mijn Waschpot <rhyme label="c" type="m">zijn</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">End' over Edom wil ick <rhyme label="c" type="m" corresp="#s4:l5">fijn</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Oock mijne schoenen <rhyme label="d" type="f">strecken</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Ick wil over die <rhyme label="a" type="m">Philistijn</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Syn bly end' my <rhyme label="b" type="f">Vermeyden</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Wie sal ter vasten Stadt hen <rhyme label="a" type="m" corresp="#s5:l1">in</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">End my te Edom <rhyme label="b" type="f" corresp="#s5:l2">Leyden</rhyme>?</l>
+        <l id="s5:l5" met="4" type="-+">En sult ghy dat niet doen, O <rhyme label="c" type="m">Heer</rhyme>?</l>
+        <l id="s5:l6" met="4" type="-+">Die ons verstoot, en treckt niet <rhyme label="c" type="m" corresp="#s5:l5">meer</rhyme></l>
+        <l id="s5:l7" met="3" type="-+">Met onsen Heyr ten <rhyme label="d" type="f">strijde</rhyme>?</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Heer in der Noot ons Bystant <rhyme label="a" type="m">doet</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Wilt ons dijn Macht <rhyme label="b" type="f">bewijsen</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Want Menschen hulp en is niet <rhyme label="a" type="m" corresp="#s6:l1">goet</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">Maer uwen Naem wy <rhyme label="b" type="f" corresp="#s6:l2">Prijsen</rhyme>,</l>
+        <l id="s6:l5" met="4" type="-+">Met Godt wy willen Daden <rhyme label="c" type="m">doen</rhyme>,</l>
+        <l id="s6:l6" met="4" type="-+">Die sal ons Vyanden so <rhyme label="c" type="m" corresp="#s6:l5">koen</rhyme></l>
+        <l id="s6:l7" met="3" type="-+">Gantsch teenemael <rhyme label="d" type="f">vertreden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

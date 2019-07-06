@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>9991</id>
+    <date>
+      <year-start>1649</year-start>
+      <year-end>1649</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>De stille nacht genaakt</melody>
+  <author>Isaak A. van Vaerlen en Jan Jansz. van Asten</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">ICk wensch gheen soeter <rhyme label="a" type="m">tijdt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Als datmen staet en <rhyme label="a" type="m" corresp="#s1:l1">vrijt</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Voor zijn Zieltreckend <rhyme label="b" type="f">deurtje</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Slechts om een lieve <rhyme label="c" type="m">lonck</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Die strakx dees Borst <rhyme label="c" type="m" corresp="#s1:l4">ontvonck</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Door 't aldernauste <rhyme label="b" type="f" corresp="#s1:l3">scheurtje</rhyme>;</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">En dat by nare <rhyme label="a" type="m">nacht</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Met onghemeene <rhyme label="a" type="m" corresp="#s2:l1">klacht</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Alleen om troost te <rhyme label="b" type="f">winnen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Schoon dat ick buyten <rhyme label="c" type="m">sta</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Gheschiet mijn groot <rhyme label="c" type="m" corresp="#s2:l4">ghena</rhyme>.</l>
+        <l id="s2:l6" met="3" type="-+">Als ick haer soo mach <rhyme label="b" type="f" corresp="#s2:l3">minnen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Mijn hart dat springht van <rhyme label="a" type="m">vreught</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Wie kan dees trouwe <rhyme label="a" type="m" corresp="#s3:l1">deught</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Na sijn waerdy <rhyme label="b" type="f">beloone</rhyme>?</l>
+        <l id="s3:l4" met="3" type="-+">Ick kus tot danck de <rhyme label="c" type="m">ringh</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Singh sachjes Keeltje <rhyme label="c" type="m" corresp="#s3:l4">singh</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Ter eeren <rhyme label="b" type="f" corresp="#s3:l3">d'overschoone</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

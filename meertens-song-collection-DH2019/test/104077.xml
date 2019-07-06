@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>104077</id>
+    <date>
+      <year-start>1656</year-start>
+      <year-end>1656</year-end>
+    </date>
+    <location>
+      <orginal-name>delft</orginal-name>
+      <standard-name>Delft, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0114017</lon>
+        <lat>4.35839</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>O kerstnacht schoner dan de dagen</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DAar drijft mjn Ziel mijn eenich <rhyme label="a" type="f">leven</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">(Mijn hert beklemt, mijn leden <rhyme label="a" type="f" corresp="#s1:l1">beven</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Verdronken int verduyvelt <rhyme label="b" type="m">nat</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Ach, had Neptun geen <rhyme label="c" type="f">mededogen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Was hy met Hero niet <rhyme label="c" type="f" corresp="#s1:l4">bewogen</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Voor hy haar helft verdroncken <rhyme label="b" type="m" corresp="#s1:l3">had</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Daar tobt en sollen hem de <rhyme label="a" type="f">baren</rhyme>:</l>
+        <l id="s2:l2" met="4" type="-+">Daar komt den Helsche Voerman <rhyme label="a" type="f" corresp="#s2:l1">varen</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">En soekt zijn Rif int woeste <rhyme label="b" type="m">meer</rhyme>:</l>
+        <l id="s2:l4" met="4" type="-+">Ach wrede Zee, ach Helse <rhyme label="c" type="f">stormen</rhyme>!</l>
+        <l id="s2:l5" met="4" type="-+">Hebt gy Leander weg <rhyme label="c" type="f" corresp="#s2:l4">genomen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Versaat u met zijn Hero <rhyme label="b" type="m" corresp="#s2:l3">weer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">K'spring dan in Zee, k'om hels zijn <rhyme label="a" type="f">leden</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">'K wil met mijn lief ten afgront <rhyme label="a" type="f" corresp="#s3:l1">treeden</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Hy heeft mijn in genomen <rhyme label="b" type="m">dat</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Ick midden inde golve <rhyme label="c" type="f">blaake</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">K'sal mijne liefde niet <rhyme label="c" type="f" corresp="#s3:l4">versake</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Op onsen brant geen water <rhyme label="b" type="m" corresp="#s3:l3">vat</rhyme>,</l>
+      </lg>
+    </lg>
+  </text>
+</song>

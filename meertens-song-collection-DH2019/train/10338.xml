@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10338</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+    </tags>
+    <melody>Ach schone Cariclea</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="8" type="-+">'t Bedroef my als ick 't denck hoe Cloris daer sijns Heeren dienst <rhyme label="a" type="m">verlaet</rhyme>.</l>
+        <l id="s1:l2" met="8" type="-+">Wel hoe mijn liefste lief is Cloris dan verstoort dat hy deur <rhyme label="a" type="m" corresp="#s1:l1">gaet</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Of stelt sijn Meester hem heel <rhyme label="b" type="m">vry</rhyme>?</l>
+        <l id="s1:l4" met="4" type="-+">Och neen mijn lief 't komt anders <rhyme label="b" type="m" corresp="#s1:l3">by</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="8" type="-+">Wat heeft hem Philida in liefdens hoop sijn soete wensch <rhyme label="a" type="m">verkort</rhyme>!</l>
+        <l id="s2:l2" met="8" type="-+">Och 't is een droever scha // ten is geen liefdens onspoet dat hem <rhyme label="a" type="m" corresp="#s2:l1">schort</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Maer d'oorsaeck die hem port tot <rhyme label="b" type="m">vlien</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Is tot een leringh van ons <rhyme label="b" type="m" corresp="#s2:l3">lien</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="8" type="-+">Heeft hy ontrouwigheyt gepleeght in sijnen toevertrouwen <rhyme label="a" type="m">dienst</rhyme>.</l>
+        <l id="s3:l2" met="8" type="-+">Neen lief hy heeft geweyt, sijn Vee, daer hem de Wolf op 't <rhyme label="a" type="m" corresp="#s3:l1">onversienst</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">By nacht sijn schaepjes heeft <rhyme label="b" type="m">betraept</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Dewijl dat hy gherustigh <rhyme label="b" type="m" corresp="#s3:l3">slaept</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="8" type="-+">Eylaes sijn jonstge Vee // 't geen dat ick minden om haer witte <rhyme label="a" type="m">vacht</rhyme>,</l>
+        <l id="s4:l2" met="8" type="-+">Is dat onnoosel mee // ghelijck mijn eene Lammeken <rhyme label="a" type="m" corresp="#s4:l1">omghebracht</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Och ist hier soo onveyligh <rhyme label="b" type="m">noch</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Soo bid ick lief behoet my <rhyme label="b" type="m" corresp="#s4:l3">doch</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="8" type="-+">Wel sal sijn droef ghekerm // my strecken dan tot sulcken grooten <rhyme label="a" type="m">vreucht</rhyme>?</l>
+        <l id="s5:l2" met="8" type="-+">V neem ick tot bescherm // van mijne Schaepjes en mijn jonghe <rhyme label="a" type="m" corresp="#s5:l1">Ieught</rhyme>.</l>
+        <l id="s5:l3" met="4" type="-+">Hier sien ick lief dat d'een sijn <rhyme label="b" type="m">druck</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Streckt somtijts d'ander tot <rhyme label="b" type="m" corresp="#s5:l3">gheluck</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

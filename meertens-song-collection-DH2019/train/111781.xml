@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111781</id>
+    <date>
+      <year-start>1745</year-start>
+      <year-end>1745</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Belle brune que j'adore</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">'t AEngenaem en geurig <rhyme label="a" type="f">bloozen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Dat uw Wangen <rhyme label="b" type="m">overspreyd</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Frisser als de Frisse <rhyme label="a" type="f" corresp="#s1:l1">Roosen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Daer de Morgendauw <rhyme label="b" type="m" corresp="#s1:l2">opleyd</rhyme>;</l>
+        <l id="s1:l5" met="4" type="+-">'t Bloezem dat zoo geestig <rhyme label="c" type="f">waezemd</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Op uw Ziel verlokkend' <rhyme label="d" type="m">wit</rhyme>:</l>
+        <l id="s1:l7" met="4" type="+-">'t Mondje dat Phiolen <rhyme label="c" type="f" corresp="#s1:l5">aezemd</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Houd myn Zieltje in 't <rhyme label="d" type="m" corresp="#s1:l6">bezit</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Doen ik laest uw lipjes <rhyme label="a" type="f">drukten</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Ik bezweem door 't zoet <rhyme label="b" type="m">vermaek</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Doen 'k de Roozeknopjes <rhyme label="a" type="f" corresp="#s2:l1">plukten</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Die daer bloozen op uw <rhyme label="b" type="m" corresp="#s2:l2">kaek</rhyme>;</l>
+        <l id="s2:l5" met="4" type="+-">Maer gy schynd geen Vreugd te <rhyme label="c" type="f">achten</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Altyd aen de min, <rhyme label="d" type="m">Rebel</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Ach wie zal uw hart <rhyme label="c" type="f" corresp="#s2:l5">verzagten</rhyme>,</l>
+        <l id="s2:l8" met="4" type="+-">Dat zoo menig baerd <rhyme label="d" type="m" corresp="#s2:l6">gekwel</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Gun myn Min een weinig <rhyme label="a" type="f">leeven</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">In uw gunste schoone <rhyme label="b" type="m">Maegt</rhyme>:</l>
+        <l id="s3:l3" met="4" type="+-">Laet uw keurig oog eens <rhyme label="a" type="f" corresp="#s3:l1">Zweeven</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Op hem die uw beeldnis <rhyme label="b" type="m" corresp="#s3:l2">draegt</rhyme>:</l>
+        <l id="s3:l5" met="4" type="+-">Met medoogen zyt <rhyme label="c" type="f">bevangen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Troost myn treurig <rhyme label="d" type="m">Minziekhart</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">En voldoet eens myn <rhyme label="c" type="f" corresp="#s3:l5">verlangen</rhyme>,</l>
+        <l id="s3:l8" met="4" type="+-">Tot verzagting van myn <rhyme label="d" type="m" corresp="#s3:l6">smert</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

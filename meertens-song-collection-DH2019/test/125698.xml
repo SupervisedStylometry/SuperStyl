@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>125698</id>
+    <date>
+      <year-start>1767</year-start>
+      <year-end>1767</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+    </tags>
+    <melody>Men ziet nu veel meisjes zwieren</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">ZY heeft twee dikke <rhyme label="a" type="f">Beenen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En twee Voeten als een <rhyme label="b" type="m">Zwaan</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Met Boggels op haar <rhyme label="a" type="f" corresp="#s1:l1">Scheenen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Binnewaards haar Voeten <rhyme label="b" type="m" corresp="#s1:l2">staan</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Van Lijf en <rhyme label="c" type="f">Leden</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Zeer wel <rhyme label="c" type="f" corresp="#s1:l5">besneden</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Is deze Meyd // Is deze <rhyme label="d" type="m">Meyd</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Zy 's dubbeld waerd te <rhyme label="e" type="f">noemen</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">Zo ik meermaals heb <rhyme label="d" type="m" corresp="#s1:l7">gezeyd</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

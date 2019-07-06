@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>11506</id>
+    <date>
+      <year-start>1627</year-start>
+      <year-end>1627</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="dialectlied" translation="dialect song">dialectlied</tag>
+      <tag standard-name="vastenavondlied" translation="Shrovetide Carnival song">vastenavondlied</tag>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+    </tags>
+    <melody>Corydon kom hier wat praten</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="groups">groepen</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">TAvent houtmen <rhyme label="a" type="f">Vastelavent</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Hier tot Dibrich roffel <rhyme label="b" type="m">monts</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Tryn-buur, maeckt doch <rhyme label="a" type="f" corresp="#s1:l1">heyligh-avent</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">'k Wort schier aers, dat dit <rhyme label="b" type="m" corresp="#s1:l2">gegons</rhyme></l>
+        <l id="s1:l5" met="4" type="+-">Nimmermeer is in een <rhyme label="c" type="m">hoeck</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Wat je bint te byster <rhyme label="c" type="m" corresp="#s1:l5">kloeck</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Tryn-buur deynckt dat Kniertje <rhyme label="a" type="f">Floren</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Turf raept teugen Ionge <rhyme label="b" type="m">Ian</rhyme>!</l>
+        <l id="s2:l3" met="4" type="+-">En Gerrit slecht, die het <rhyme label="a" type="f" corresp="#s2:l1">verloren</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Gins teugen de wevers <rhyme label="b" type="m" corresp="#s2:l2">An</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Ien hiele pot mit wafelen <rhyme label="c" type="m">moer</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Men seyt van die dicke <rhyme label="c" type="m" corresp="#s2:l5">stoer</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Laet hy hum soo veul of <rhyme label="a" type="f">winnen</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Van mal An? dat is te <rhyme label="b" type="m">slecht</rhyme>.</l>
+        <l id="s3:l3" met="4" type="+-">Hy mienden by sijn vijf <rhyme label="a" type="f" corresp="#s3:l1">sinnen</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Se deed hum gien gelijck noch <rhyme label="b" type="m" corresp="#s3:l2">recht</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Ia wel moer daer was sulcken <rhyme label="c" type="m">ty</rhyme>.</l>
+        <l id="s3:l6" met="4" type="+-">Sagh jy 't? Wis! ick stonger <rhyme label="c" type="m" corresp="#s3:l5">by</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Sijn paers-pack het Satyne <rhyme label="a" type="f">mouwen</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Die wel fraeytjes <rhyme label="b" type="m">eprickeert</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">En sy as een vrouw der <rhyme label="a" type="f" corresp="#s4:l1">vrouwen</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">An sijn groene zy <rhyme label="b" type="m" corresp="#s4:l2">brageert</rhyme>.</l>
+        <l id="s4:l5" met="4" type="+-">Ja wel kijnt hy wint moye <rhyme label="c" type="m">huur</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">Die Mayt het wel een saligh <rhyme label="c" type="m" corresp="#s4:l5">uur</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Asse seper doet Tryn <rhyme label="a" type="f">Krelis</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Maer moet, deynck dat dolle <rhyme label="b" type="m">Griet</rhyme></l>
+        <l id="s5:l3" met="4" type="+-">Mit heur speulnoot, die so scheel <rhyme label="a" type="f" corresp="#s5:l1">is</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Gysen, Lijn en mancke <rhyme label="b" type="m" corresp="#s5:l2">Tiet</rhyme>,</l>
+        <l id="s5:l5" met="4" type="+-">Gingen gelijcker hangt flus <rhyme label="c" type="m">uyt</rhyme></l>
+        <l id="s5:l6" met="4" type="+-">Speulen vande vuyle <rhyme label="c" type="m" corresp="#s5:l5">bruyt</rhyme>,</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Kijck! se keunen moy gelt <rhyme label="a" type="f">winnen</rhyme></l>
+        <l id="s6:l2" met="4" type="+-">As de Schout heur niet <rhyme label="b" type="m">versteurt</rhyme>,</l>
+        <l id="s6:l3" met="4" type="+-">'t Is wel iens so goet as <rhyme label="a" type="f" corresp="#s6:l1">spinnen</rhyme>,</l>
+        <l id="s6:l4" met="4" type="+-">Is 't verleen Iaer niet <rhyme label="b" type="m" corresp="#s6:l2">ebeurt</rhyme></l>
+        <l id="s6:l5" met="4" type="+-">Dat Tryn lors, uyt de <rhyme label="c" type="m">kruys-steegh</rhyme>,</l>
+        <l id="s6:l6" met="4" type="+-">Vijf baen mit ien pijntje <rhyme label="c" type="m" corresp="#s6:l5">kreegh</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">Wel sie daer, 'k hadt schier <rhyme label="a" type="f">vergeten</rhyme></l>
+        <l id="s7:l2" met="4" type="+-">Daerom dat ick hier ierst <rhyme label="b" type="m">quam</rhyme>,</l>
+        <l id="s7:l3" met="4" type="+-">Siet ick souwje laten <rhyme label="a" type="f" corresp="#s7:l1">weten</rhyme></l>
+        <l id="s7:l4" met="4" type="+-">Dat Piet slinger en Ian <rhyme label="b" type="m" corresp="#s7:l2">schram</rhyme></l>
+        <l id="s7:l5" met="4" type="+-">Iou verwachten t'avont <rhyme label="c" type="m">vroegh</rhyme></l>
+        <l id="s7:l6" met="4" type="+-">Hiet tot Dibrich inde <rhyme label="c" type="m" corresp="#s7:l5">kroegh</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="+-">Piet die sweert by al zijn <rhyme label="a" type="f">huysraet</rhyme></l>
+        <l id="s8:l2" met="4" type="+-">Hy sel drincken as ien <rhyme label="b" type="m">man</rhyme>,</l>
+        <l id="s8:l3" met="4" type="+-">Maer so hy Ian Krynen t'huys <rhyme label="a" type="f" corresp="#s8:l1">laet</rhyme>,</l>
+        <l id="s8:l4" met="4" type="+-">Lieve moer hy isser <rhyme label="b" type="m" corresp="#s8:l2">van</rhyme>,</l>
+        <l id="s8:l5" met="4" type="+-">Want kleyne Klaesje dat 's een <rhyme label="c" type="m">geest</rhyme></l>
+        <l id="s8:l6" met="4" type="+-">Die veur ien vaen vijf ses niet <rhyme label="c" type="m" corresp="#s8:l5">vreest</rhyme>,</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="4" type="+-">Mijn wondert Tryn-buur, wat ien <rhyme label="a" type="f">neringh</rhyme></l>
+        <l id="s9:l2" met="4" type="+-">Datter t'avent om sel <rhyme label="b" type="m">gaen</rhyme>,</l>
+        <l id="s9:l3" met="4" type="+-">'k Wort schier wilt om die <rhyme label="a" type="f" corresp="#s9:l1">hoveringh</rhyme>,</l>
+        <l id="s9:l4" met="4" type="+-">Maer hoe kluftigh wil dat <rhyme label="b" type="m" corresp="#s9:l2">staen</rhyme></l>
+        <l id="s9:l5" met="4" type="+-">As Els dangst, hoe op den <rhyme label="c" type="m">boer</rhyme></l>
+        <l id="s9:l6" met="4" type="+-">Wel ier ien kuyper kuypen <rhyme label="c" type="m" corresp="#s9:l5">voer</rhyme>?</l>
+      </lg>
+      <lg id="s10" type="stanza">
+        <l id="s10:l1" met="4" type="+-">Want scheel Herry speult dat <rhyme label="a" type="f">lietje</rhyme></l>
+        <l id="s10:l2" met="4" type="+-">Op sijn Veeltje uyt ter <rhyme label="b" type="m">maet</rhyme>,</l>
+        <l id="s10:l3" met="4" type="+-">En Ian Mispels dochter <rhyme label="a" type="f" corresp="#s10:l1">Grietje</rhyme></l>
+        <l id="s10:l4" met="4" type="+-">Singht (datje me wel <rhyme label="b" type="m" corresp="#s10:l2">verstaet</rhyme>)</l>
+        <l id="s10:l5" met="4" type="+-">Dat liedje datmen van outs noch <rhyme label="c" type="m">vijnt</rhyme></l>
+        <l id="s10:l6" met="4" type="+-">Van Aecht, Aechtjen, Ariaens <rhyme label="c" type="m" corresp="#s10:l5">kijnt</rhyme>.</l>
+      </lg>
+      <lg id="s11" type="stanza">
+        <l id="s11:l1" met="4" type="+-">Nou adieu, je meught dan <rhyme label="a" type="f">komen</rhyme>,</l>
+        <l id="s11:l2" met="4" type="+-">Want sy wachte jou <rhyme label="b" type="m">allegaer</rhyme>,</l>
+        <l id="s11:l3" met="4" type="+-">Pieter slinger <rhyme label="a" type="f" corresp="#s11:l1">uytgenomen</rhyme></l>
+        <l id="s11:l4" met="4" type="+-">Seyt: Iy bint sijn liefste <rhyme label="b" type="m" corresp="#s11:l2">kaer</rhyme>,</l>
+        <l id="s11:l5" met="4" type="+-">Een Biertje staetje in 't vyer en <rhyme label="c" type="m">wacht</rhyme></l>
+        <l id="s11:l6" met="4" type="+-">Adieu Tryn-buur, maer gien <rhyme label="c" type="m" corresp="#s11:l5">ghenacht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

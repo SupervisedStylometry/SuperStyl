@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>118169</id>
+    <date>
+      <year-start>1687</year-start>
+      <year-end>1687</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody>Wenn mein Stündlein vorhanden ist</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Willem Sluiter</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">CIeraet en voorbeelt aller <rhyme label="a" type="m">deugt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">O liefste Jesu <rhyme label="b" type="f">Christe</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Hoe sou mijn ziele zijn <rhyme label="a" type="m" corresp="#s1:l1">verheugt</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Soo 'k u te volgen <rhyme label="b" type="f" corresp="#s1:l2">wiste</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">En van die waere leevens <rhyme label="c" type="m">baen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">(Waer op gy ons zijt <rhyme label="c" type="m" corresp="#s1:l5">voorgegaen</rhyme>,)</l>
+        <l id="s1:l7" met="3" type="-+">Soo dikwils niet en <rhyme label="b" type="f" corresp="#s1:l2">gliste</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wanneer ik overleg by <rhyme label="a" type="m">my</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Uw heilig suiver <rhyme label="b" type="f">leven</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En 't mijne vergelijk daer <rhyme label="a" type="m" corresp="#s2:l1">by</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Is alles gantsch <rhyme label="b" type="f" corresp="#s2:l2">on-even</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">O gy verduldig vriendlick <rhyme label="c" type="m">hert</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Aensiet mijn jammer ende <rhyme label="c" type="m" corresp="#s2:l5">smert</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">En wilt my niet <rhyme label="b" type="f" corresp="#s2:l2">begeven</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Gy weet hoe ernstig dat ik <rhyme label="a" type="m">tragt</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">U na te volgen, <rhyme label="b" type="f">Heere</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Maer kan niet, door mijn swakke <rhyme label="a" type="m" corresp="#s3:l1">kragt</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Het geen ik wel <rhyme label="b" type="f" corresp="#s3:l2">begeere</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Ik wil met uw na-volgers <rhyme label="c" type="m">gaen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">En komen langsaem achter <rhyme label="c" type="m" corresp="#s3:l5">aen</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Tot dat mijn kragt <rhyme label="b" type="f" corresp="#s3:l2">vermeere</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">O gy mijn eenig heil, mijn <rhyme label="a" type="m">ligt</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Mijn hoop, mijn eer, mijn <rhyme label="b" type="f">leeven</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Mijn troost, mijn eenig <rhyme label="a" type="m" corresp="#s4:l1">toeversigt</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">En wilt my niet <rhyme label="b" type="f" corresp="#s4:l2">begeven</rhyme>:</l>
+        <l id="s4:l5" met="4" type="-+">Soo sal ik, waer gy my <rhyme label="c" type="m">geleyt</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">U na te volgen zijn <rhyme label="c" type="m" corresp="#s4:l5">bereyt</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">En nimmer <rhyme label="b" type="f" corresp="#s4:l2">tegen-streven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

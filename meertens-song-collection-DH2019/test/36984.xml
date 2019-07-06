@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>36984</id>
+    <date>
+      <year-start>1677</year-start>
+      <year-end>1677</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+    </tags>
+    <melody>Rosbol wou laatst buizen</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">BIer-buyck den <rhyme label="a" type="f">As-vryster</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">Die meer wercks maeckt van den <rhyme label="b" type="m">Pot</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">En syn Kot’ Als van <rhyme label="b" type="m" corresp="#s1:l2">Godt</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Was lest op Cato <rhyme label="b" type="m" corresp="#s1:l2">versot</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Den Man seyd'; tot syn' <rhyme label="a" type="f" corresp="#s1:l1">Vryster</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Ick vind' u soo <rhyme label="c" type="m">gentiel</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Soo habiel’ En <rhyme label="c" type="m" corresp="#s1:l6">civiel</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Ick bemin u als myn <rhyme label="c" type="m" corresp="#s1:l6">Ziel</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Maer Catoken <rhyme label="a" type="f">seyde</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Ick heb liever (my nen <rhyme label="b" type="m">Vrindt</rhyme>)</l>
+        <l id="s2:l3" met="4" type="+-">Dat. g'uw Wyf’ Als uw <rhyme label="b" type="m" corresp="#s2:l2">Lyf</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">En niet als uw Ziel <rhyme label="b" type="m" corresp="#s2:l2">bemindt</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Gy gaet uw buycsken <rhyme label="a" type="f" corresp="#s2:l1">leyden</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Al daenghy Potten <rhyme label="c" type="m">vindt</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">En ghy. dindt’ Met de <rhyme label="c" type="m" corresp="#s2:l6">Pint</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Uwen Buyck die ghy <rhyme label="c" type="m" corresp="#s2:l6">bemindt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="+-">Komt hier niet meer <rhyme label="a" type="f">segghen</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">Dat ghy m' als uw Ziel <rhyme label="b" type="m">bemint</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Weldigh Kindt’ Gby <rhyme label="b" type="m" corresp="#s3:l2">verslindt</rhyme></l>
+        <l id="s3:l4" met="4" type="+-">Uw arm Zieltjen in de <rhyme label="b" type="m" corresp="#s3:l2">Pint</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Kondt ghy dit <rhyme label="a" type="f" corresp="#s3:l1">weder-legghen</rhyme>?</l>
+        <l id="s3:l6" met="3" type="-+">Blyft uyt de Herbergh <rhyme label="c" type="m">dan</rhyme>,</l>
+        <l id="s3:l7" met="4" type="+-">Soo sult ghy’ In den <rhyme label="c" type="m" corresp="#s3:l6">Mey</rhyme>.</l>
+        <l id="s3:l8" met="4" type="+-">Misschien worden my nen <rhyme label="c" type="m" corresp="#s3:l6">Man</rhyme>,</l>
+      </lg>
+    </lg>
+  </text>
+</song>

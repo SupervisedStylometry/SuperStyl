@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>125689</id>
+    <date>
+      <year-start>1767</year-start>
+      <year-end>1767</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+    </tags>
+    <melody>Ach moeder laat mij</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">HAar Tanden zijn <rhyme label="a" type="m">zwart</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">Verrot in haar <rhyme label="b" type="f">Bakhuys</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Een yder die <rhyme label="a" type="m" corresp="#s1:l1">tart</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">De reuk van een <rhyme label="b" type="f" corresp="#s1:l2">Kakhuys</rhyme>,</l>
+        <l id="s1:l5" met="8" type="+-">Fa la la, Fa la lare, Fa la lare, Fa la <rhyme label="c" type="f">la</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

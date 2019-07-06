@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19983</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Echo wil ik tergen</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="+-">OP wat losser <rhyme label="a" type="m">grondt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Steunt mijn hoop, ach de <rhyme label="b" type="m">knoop</rhyme></l>
+        <l id="s1:l3" met="3" type="+-">Van het dier <rhyme label="a" type="m" corresp="#s1:l1">verbondt</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Ghedaen mondt aen <rhyme label="a" type="m" corresp="#s1:l1">mondt</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Is aen ’t glippen; wreede <rhyme label="c" type="f">lippen</rhyme></l>
+        <l id="s1:l6" met="3" type="+-">Wilt de Vierschaer <rhyme label="d" type="f">spannen</rhyme></l>
+        <l id="s1:l7" met="3" type="+-">In ’t bedeckt <rhyme label="e" type="m">gemoet</rhyme>,</l>
+        <l id="s1:l8" met="3" type="+-">Wordt ick hier <rhyme label="d" type="f" corresp="#s1:l6">gebannen</rhyme>,</l>
+        <l id="s1:l9" met="3" type="+-">Licht my vry de <rhyme label="e" type="m" corresp="#s1:l7">voet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="+-">Best een korte <rhyme label="a" type="m">stoot</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Wtgestaen, vangh maer <rhyme label="b" type="m">aen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="+-">‘k Wensch na sulck een <rhyme label="a" type="m" corresp="#s2:l1">doodt</rhyme>,</l>
+        <l id="s2:l4" met="3" type="+-">Soo ick die <rhyme label="a" type="m" corresp="#s2:l1">genoot</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Van u handen; nu de <rhyme label="c" type="f">banden</rhyme></l>
+        <l id="s2:l6" met="3" type="+-">Van u zijn <rhyme label="d" type="f">ghebroken</rhyme>,</l>
+        <l id="s2:l7" met="3" type="+-">Soo en spaer geen <rhyme label="e" type="m">bloet</rhyme>,</l>
+        <l id="s2:l8" met="3" type="+-">Ick sterf <rhyme label="d" type="f" corresp="#s2:l6">ongewroken</rhyme>,</l>
+        <l id="s2:l9" met="3" type="+-">Licht my vry de <rhyme label="e" type="m" corresp="#s2:l7">voet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="+-">Nu ist stervens <rhyme label="a" type="m">tijt</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Ick begeer, <rhyme label="b" type="m">nimmermeer</rhyme>,</l>
+        <l id="s3:l3" met="3" type="+-">Dat men u <rhyme label="a" type="m" corresp="#s3:l1">verwijt</rhyme></l>
+        <l id="s3:l4" met="3" type="+-">Dat ghy d’oorsaeck <rhyme label="a" type="m" corresp="#s3:l1">zijt</rhyme>;</l>
+        <l id="s3:l5" met="4" type="+-">Maer mijn ooghen, ‘k ben <rhyme label="c" type="f">bedrogen</rhyme></l>
+        <l id="s3:l6" met="3" type="+-">Door twee held’re <rhyme label="d" type="f">stralen</rhyme>,</l>
+        <l id="s3:l7" met="3" type="+-">Van u lief <rhyme label="e" type="m">ghesicht</rhyme>,</l>
+        <l id="s3:l8" met="3" type="+-">Die my nu doen <rhyme label="d" type="f" corresp="#s3:l6">dwalen</rhyme></l>
+        <l id="s3:l9" met="3" type="+-">Best de voet <rhyme label="e" type="m" corresp="#s3:l7">gelicht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

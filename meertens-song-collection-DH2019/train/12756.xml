@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12756</id>
+    <date>
+      <year-start>1658</year-start>
+      <year-end>1658</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Psalm 040 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Franciscus Ridderus</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">VVAt nut het my, of schoon mijn tafel <rhyme label="a" type="m">disch</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Van spijs en dranck wel is <rhyme label="b" type="m">bereydt</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">En dat de markt my niet <rhyme label="b" type="m" corresp="#s1:l2">ontseydt</rhyme>:</l>
+        <l id="s1:l4" met="5" type="-+">Dat oock de Zee my schaft de beste <rhyme label="a" type="m" corresp="#s1:l1">visch</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Wat konnen hooge <rhyme label="c" type="f">staeten</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">My in het minste <rhyme label="c" type="f" corresp="#s1:l5">baeten</rhyme>:</l>
+        <l id="s1:l7" met="3" type="-+">Soo ick nie seecker <rhyme label="d" type="m">ben</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Dat my in Godes <rhyme label="e" type="m">bladt</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Tot 't Heyl van Godes <rhyme label="e" type="m" corresp="#s1:l8">Stadt</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">Geteykent heeft Gods <rhyme label="d" type="m" corresp="#s1:l7">pen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">'kWeet dat van eeuwigheyt Gods vast <rhyme label="a" type="m">besluyt</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Verkooren heeft tot t'eeuwigh <rhyme label="b" type="m">wel</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Die hy wil redden van de <rhyme label="b" type="m" corresp="#s2:l2">hel</rhyme>;</l>
+        <l id="s2:l4" met="5" type="-+">En dat geen mensch die rol kan wisschen <rhyme label="a" type="m" corresp="#s2:l1">uyt</rhyme>.</l>
+        <l id="s2:l5" met="3" type="-+">Hy sagh doe op het werk <rhyme label="c" type="f">niet</rhyme>:</l>
+        <l id="s2:l6" met="3" type="-+">'tGeloof stelt hier het perk <rhyme label="c" type="f" corresp="#s2:l5">niet</rhyme>:</l>
+        <l id="s2:l7" met="3" type="-+">'tIs enckele <rhyme label="d" type="m">genaed</rhyme>!</l>
+        <l id="s2:l8" met="3" type="-+">Heer, hadt ghy die <rhyme label="e" type="m">verdoemt</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">Die ghy ten leven <rhyme label="e" type="m" corresp="#s2:l8">noemt</rhyme>,</l>
+        <l id="s2:l10" met="3" type="-+">Rechtvaerdigh waer u <rhyme label="d" type="m" corresp="#s2:l7">raed</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">'tGeen dat myn ziel noch menighmael <rhyme label="a" type="m">ontstelt</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Is, dat des levens bouck te <rhyme label="b" type="m">hoogh</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Verborgen leyt voor 'smenschen <rhyme label="b" type="m" corresp="#s3:l2">oogh</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Daer in nochtans het vonnis leydt <rhyme label="a" type="m" corresp="#s3:l1">gevelt</rhyme>.</l>
+        <l id="s3:l5" met="3" type="-+">Kan ick soo hoogh niet <rhyme label="c" type="f">steyg'ren</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Ah! wilt my dan niet <rhyme label="c" type="f" corresp="#s3:l5">weyg'ren</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">De inspraeck van u <rhyme label="d" type="m">Geest</rhyme>!</l>
+        <l id="s3:l8" met="3" type="-+">Dan ben ick van u <rhyme label="e" type="m">rust</rhyme>,</l>
+        <l id="s3:l9" met="3" type="-+">Soo seeckerlijck <rhyme label="e" type="m" corresp="#s3:l8">bewust</rhyme>,</l>
+        <l id="s3:l10" met="3" type="-+">Als waer ick daer <rhyme label="d" type="m" corresp="#s3:l7">geweest</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

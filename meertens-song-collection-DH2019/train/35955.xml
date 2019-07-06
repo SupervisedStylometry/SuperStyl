@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>35955</id>
+    <date>
+      <year-start>1630</year-start>
+      <year-end>1630</year-end>
+    </date>
+    <location>
+      <orginal-name>cortryck [kortrijk]</orginal-name>
+      <standard-name>Kortrijk, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8276199</lon>
+        <lat>3.2659948</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>La Vignonne</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">De gramschap leet hier heel <rhyme label="a" type="f">gebonden</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En deerlijck heel <rhyme label="b" type="m">uytghestreckt</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+"><rhyme label="c" type="m">Sachtmoedigheydt</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+"><rhyme label="c" type="m" corresp="#s1:l3">Sachtmoedigheydt</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Maeckt nu <rhyme label="c" type="m" corresp="#s1:l3">jolijt</rhyme>:</l>
+        <l id="s1:l6" met="3" type="-+">De blijdschap die hier <rhyme label="d" type="m">klinckt</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">En die de werelt <rhyme label="d" type="m" corresp="#s1:l6">schinckt</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Is nu in <rhyme label="e" type="m">pijn</rhyme>,</l>
+        <l id="s1:l9" met="2" type="-+">Is nu in <rhyme label="e" type="m" corresp="#s1:l8">pijn</rhyme>,</l>
+        <l id="s1:l10" met="2" type="-+">Noch <rhyme label="e" type="m" corresp="#s1:l8">medecijn</rhyme></l>
+        <l id="s1:l11" met="2" type="+-">Kan voor haer <rhyme label="e" type="m" corresp="#s1:l8">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">D’onbeschaemtheydt oock <rhyme label="a" type="f">verloren</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Heeft hare kracht en haren <rhyme label="b" type="m">strijdt</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Al haren <rhyme label="c" type="m">raet</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">Is nu te <rhyme label="c" type="m" corresp="#s2:l3">laet</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">Die haer wel meynden wesen te <rhyme label="c" type="m" corresp="#s2:l3">baet</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Want siet sy light heel <rhyme label="d" type="m">neer</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Noch en kan niet keeren <rhyme label="d" type="m" corresp="#s2:l6">weer</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Tot hare <rhyme label="e" type="m">macht</rhyme>,</l>
+        <l id="s2:l9" met="2" type="-+">Seer groot <rhyme label="e" type="m" corresp="#s2:l8">gheacht</rhyme>,</l>
+        <l id="s2:l10" met="2" type="-+">Want haere <rhyme label="e" type="m" corresp="#s2:l8">kracht</rhyme></l>
+        <l id="s2:l11" met="2" type="+-">Light heel <rhyme label="e" type="m" corresp="#s2:l8">versmacht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">D’onbermhertigheydt <rhyme label="a" type="f">verslaghen</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Wordt hier van de <rhyme label="b" type="m">bermhertigheydt</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">Oock light nu <rhyme label="c" type="m">druck</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">En <rhyme label="c" type="m" corresp="#s3:l3">ongheluck</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">Bermhertigheydt is vol <rhyme label="c" type="m" corresp="#s3:l3">gheluck</rhyme>:</l>
+        <l id="s3:l6" met="3" type="-+">De sonde wordt <rhyme label="d" type="m">misacht</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Die tot d’onkuysheydt <rhyme label="d" type="m" corresp="#s3:l6">tracht</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">Sonde u <rhyme label="e" type="m">quaedt</rhyme>,</l>
+        <l id="s3:l9" met="2" type="-+">Sonde u <rhyme label="e" type="m" corresp="#s3:l8">quaedt</rhyme>,</l>
+        <l id="s3:l10" met="2" type="-+">Sonde u <rhyme label="e" type="m" corresp="#s3:l8">quaedt</rhyme>,</l>
+        <l id="s3:l11" met="2" type="+-">Is nu in <rhyme label="e" type="m" corresp="#s3:l8">haet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Den Jonghelinck meynd’ Agnes wel te <rhyme label="a" type="f">schenden</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Maer is ghestraft <rhyme label="b" type="m">subitelijck</rhyme>,</l>
+        <l id="s4:l3" met="2" type="-+">Agnes <rhyme label="c" type="m">regneert</rhyme>,</l>
+        <l id="s4:l4" met="2" type="-+">Agnes <rhyme label="c" type="m" corresp="#s4:l3">regneert</rhyme>,</l>
+        <l id="s4:l5" met="2" type="-+">En <rhyme label="c" type="m" corresp="#s4:l3">triompheert</rhyme>.</l>
+        <l id="s4:l6" met="3" type="-+">De stoutheydt light <rhyme label="d" type="m">ghestraft</rhyme>,</l>
+        <l id="s4:l7" met="3" type="-+">Van hem seer kleyn <rhyme label="d" type="m" corresp="#s4:l6">gheacht</rhyme>:</l>
+        <l id="s4:l8" met="2" type="-+">Agnes <rhyme label="e" type="m">regneert</rhyme>,</l>
+        <l id="s4:l9" met="2" type="-+">Agnes <rhyme label="e" type="m" corresp="#s4:l8">regneert</rhyme>,</l>
+        <l id="s4:l10" met="2" type="-+">Agnes <rhyme label="e" type="m" corresp="#s4:l8">regneert</rhyme>,</l>
+        <l id="s4:l11" met="2" type="+-">En <rhyme label="e" type="m" corresp="#s4:l8">triompheert</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

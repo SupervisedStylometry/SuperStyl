@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>129616</id>
+    <date>
+      <year-start>1708</year-start>
+      <year-end>1708</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="morgenlied" translation="morning song">morgenlied</tag>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Wanneer de zon het morgenrood</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wanneer de Son het <rhyme label="a" type="m">morgen-rood</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">In ’t Oosten quam <rhyme label="b" type="f">ontmoeten</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Lag Phoebus in Aurooraas <rhyme label="a" type="m" corresp="#s1:l1">schoot</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Om Zee en duyn te <rhyme label="b" type="f" corresp="#s1:l2">groeten</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Om Roos, om Blom, om <rhyme label="c" type="m">Phyolet</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Met Elst   en Linde digt <rhyme label="c" type="m" corresp="#s1:l5">bezet</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Door zuyer koelt te <rhyme label="d" type="f">buigen</rhyme>;</l>
+        <l id="s1:l8" met="4" type="-+">Om druppels die als <rhyme label="e" type="m">Christalyn</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Op Roos en Blom gedropen <rhyme label="e" type="m" corresp="#s1:l8">zyn</rhyme></l>
+        <l id="s1:l10" met="4" type="-+">Vol Nektar in te <rhyme label="d" type="f" corresp="#s1:l7">zuigen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">De vers ontloken <rhyme label="a" type="m">dageraat</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Begroet van Zuyer <rhyme label="b" type="f">winden</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Haar morgen zugjen vallen <rhyme label="a" type="m" corresp="#s2:l1">laat</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Op digt beladen <rhyme label="b" type="f" corresp="#s2:l2">Linden</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">De Zon, in 't Oosten <rhyme label="c" type="m">opgestaan</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Speelt met sijn glans op groene <rhyme label="c" type="m" corresp="#s2:l5">blaan</rhyme></l>
+        <l id="s2:l7" met="4" type="-+">Van hoog getopte <rhyme label="d" type="f">Boomen</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Van waar mijn   Philis dreev haar <rhyme label="e" type="m">Vee</rhyme></l>
+        <l id="s2:l9" met="4" type="-+">Tot op den Oever van de <rhyme label="e" type="m" corresp="#s2:l8">Zee</rhyme></l>
+        <l id="s2:l10" met="4" type="-+">En brakke <rhyme label="d" type="f" corresp="#s2:l7">waterstroomen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Haar Schaapjes aan de <rhyme label="a" type="m">waterkant</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Verquikten door ’t <rhyme label="b" type="f">verkoelen</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Mijn Philis gaat terwijl op <rhyme label="a" type="m" corresp="#s3:l1">strant</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Haar blanke Voetjes <rhyme label="b" type="f" corresp="#s3:l2">spoelen</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">En slobbert in het ruisend <rhyme label="c" type="m">nat</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Dat haar tot aan de middel <rhyme label="c" type="m" corresp="#s3:l5">spat</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Door drifjes   op <rhyme label="d" type="f">gevlogen</rhyme>.</l>
+        <l id="s3:l8" met="4" type="-+">Noit zoeter vreugd, noit blijder <rhyme label="e" type="m">dag</rhyme>,</l>
+        <l id="s3:l9" met="4" type="-+">Als doen ik weer mijn Philis <rhyme label="e" type="m" corresp="#s3:l8">zag</rhyme></l>
+        <l id="s3:l10" met="4" type="-+">Haar natte Leden <rhyme label="d" type="f" corresp="#s3:l7">drogen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Haar open boesem, heel <rhyme label="a" type="m">ontbloot</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">’t Albastert wit <rhyme label="b" type="f">verdoofde</rhyme>;</l>
+        <l id="s4:l3" met="4" type="-+">Haar blanke Kaakjes bloosend <rhyme label="a" type="m" corresp="#s4:l1">rood</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Auroor haar glans <rhyme label="b" type="f" corresp="#s4:l2">verdoofde</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Hoe graagde mijn verliefde <rhyme label="c" type="m">zin</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Na dit genot door soete <rhyme label="c" type="m" corresp="#s4:l5">Min</rhyme>,</l>
+        <l id="s4:l7" met="4" type="-+">Dog dorst het niet <rhyme label="d" type="f">betragten</rhyme>.</l>
+        <l id="s4:l8" met="4" type="-+">Dies was de vreugde my een <rhyme label="e" type="m">smert</rhyme>,</l>
+        <l id="s4:l9" met="4" type="-+">Een vreugd voor ’t oog en pyn voor ’t <rhyme label="e" type="m" corresp="#s4:l8">hert</rhyme></l>
+        <l id="s4:l10" met="4" type="-+">En stuyt voor mijn <rhyme label="d" type="f" corresp="#s4:l7">gedagten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

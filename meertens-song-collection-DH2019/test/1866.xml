@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1866</id>
+    <date>
+      <year-start>1615</year-start>
+      <year-end>1615</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="dageraadslied" translation="dawn song">dageraadslied</tag>
+    </tags>
+    <melody>Willen onze koeien dan niet stilstaan</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">GAlatea siet den dach komt <rhyme label="a" type="m">aen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Och mijn lief wilt noch wat <rhyme label="b" type="f">marren</rhyme>,</l>
+        <l id="s1:l3" met="2" type="+-">'T zijn de <rhyme label="b" type="f" corresp="#s1:l2">starren</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Och mijn lief wilt noch wat <rhyme label="b" type="f" corresp="#s1:l2">marren</rhyme>,</l>
+        <l id="s1:l5" met="3" type="+-">'T is de <rhyme label="a" type="m" corresp="#s1:l1">Maen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Galate aenschout den Hemel <rhyme label="a" type="m">wel</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Laes! ick sie den <rhyme label="b" type="f">dagherade</rhyme>,</l>
+        <l id="s2:l3" met="2" type="+-">T'onser <rhyme label="b" type="f" corresp="#s2:l2">schade</rhyme>,</l>
+        <l id="s2:l4" met="3" type="+-">Laes! ick sie den <rhyme label="b" type="f" corresp="#s2:l2">dagheraede</rhyme>:</l>
+        <l id="s2:l5" met="3" type="+-">Ach den tijdt loopt <rhyme label="a" type="m" corresp="#s2:l1">snel</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">Och mijn liefjen komdy tavondt <rhyme label="a" type="m">weer</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Laes u moeder mocht het <rhyme label="b" type="f">hooren</rhyme>,</l>
+        <l id="s3:l3" met="2" type="+-">En haer <rhyme label="b" type="f" corresp="#s3:l2">stooren</rhyme>,</l>
+        <l id="s3:l4" met="3" type="+-">Maer als sou s' haer <rhyme label="b" type="f" corresp="#s3:l2">stooren</rhyme></l>
+        <l id="s3:l5" met="3" type="+-">Ick kom even <rhyme label="a" type="m" corresp="#s3:l1">seer</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="+-">Nu adieu mijn lief en blijft <rhyme label="a" type="m">ghesont</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Wilt my noch een kusjen <rhyme label="b" type="f">gheven</rhyme>,</l>
+        <l id="s4:l3" met="2" type="+-">Och mijn <rhyme label="b" type="f" corresp="#s4:l2">leven</rhyme>,</l>
+        <l id="s4:l4" met="3" type="+-">Iont my toch een <rhyme label="b" type="f" corresp="#s4:l2">kusjen</rhyme></l>
+        <l id="s4:l5" met="3" type="+-">Aen u rooder <rhyme label="a" type="m" corresp="#s4:l1">mondt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

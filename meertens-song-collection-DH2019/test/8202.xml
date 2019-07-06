@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8202</id>
+    <date>
+      <year-start>1678</year-start>
+      <year-end>1678</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>La Dauphine</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">ONs Annetje wasser soo garen een <rhyme label="a" type="m">vrou</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Om met een schietspoeltjen op haer <rhyme label="a" type="m" corresp="#s1:l1">getou</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">Te weven, te <rhyme label="b" type="f">weven</rhyme>;</l>
+        <l id="s1:l4" met="5" type="+-">Want anders sou het schaepjen in <rhyme label="a" type="m" corresp="#s1:l1">rou</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Verslijten al haer <rhyme label="b" type="f" corresp="#s1:l3">leven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Wel waerom of dat Meysjen soo <rhyme label="a" type="m">treurt</rhyme>?</l>
+        <l id="s2:l2" met="5" type="-+">Het werter noch wel een reysjen haer <rhyme label="a" type="m" corresp="#s2:l1">beurt</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Met stommelen, met <rhyme label="b" type="f">stommelen</rhyme>:</l>
+        <l id="s2:l4" met="5" type="+-">Daerom is sy van voren <rhyme label="a" type="m" corresp="#s2:l1">gescheurt</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Om alternet te <rhyme label="b" type="f" corresp="#s2:l3">sommelen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Langh vasten en isser geen broot <rhyme label="a" type="m">gespaert</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">Riep iantjen, en weester doch niet <rhyme label="a" type="m" corresp="#s3:l1">vervaert</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">Want ick jou, want ick <rhyme label="b" type="f">jou</rhyme>,</l>
+        <l id="s3:l4" met="5" type="+-">Wel strelen wil, met mijn quisquel <rhyme label="a" type="m" corresp="#s3:l1">staert</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Op jou gespanne weef <rhyme label="b" type="f" corresp="#s3:l3">tou</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Mijn Jantje, mijn quantje, mijn <rhyme label="a" type="m">harte-dief</rhyme>,</l>
+        <l id="s4:l2" met="5" type="-+">Riep 't Meysjen, hier op gy benter mijn <rhyme label="a" type="m" corresp="#s4:l1">lief</rhyme>,</l>
+        <l id="s4:l3" met="2" type="-+">Vol trouwen, vol <rhyme label="b" type="f">trouwen</rhyme>,</l>
+        <l id="s4:l4" met="5" type="+-">Kont ghy op 't scheurtjen van mijnen <rhyme label="a" type="m" corresp="#s4:l1">brief</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">U Wapen, of Merck in <rhyme label="b" type="f" corresp="#s4:l3">douwen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

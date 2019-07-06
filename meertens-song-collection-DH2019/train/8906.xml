@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8906</id>
+    <date>
+      <year-start>1625</year-start>
+      <year-end>1625</year-end>
+    </date>
+    <location>
+      <orginal-name>utrecht</orginal-name>
+      <standard-name>Utrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0949753</lon>
+        <lat>5.109708</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Hilf Gott wie geht das immer zu</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WAer God niet met ons desen <rhyme label="a" type="m">Tijt</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Soo sal Israel <rhyme label="b" type="f">saghen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Waer God niet mz ons desen <rhyme label="a" type="m" corresp="#s1:l1">tijt</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Wy moesten all' <rhyme label="b" type="f" corresp="#s1:l2">vertzagen</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Die soo een Arme Hoopken <rhyme label="c" type="m">sindt</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Veracht van so veel Menschen <rhyme label="c" type="m" corresp="#s1:l5">kindt</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Die haer teghen ons <rhyme label="d" type="f">setten</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Op ons is so vergramt haer <rhyme label="a" type="m">sin</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Hadd' Godt het toe <rhyme label="b" type="f">ghegheven</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Verslonden hadden sy ons <rhyme label="a" type="m" corresp="#s2:l1">hin</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Met gantschen Lijff end <rhyme label="b" type="f" corresp="#s2:l2">Leven</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Wy war'n als dien een Vloet <rhyme label="c" type="m">verdrinckt</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">En die in groote Water <rhyme label="c" type="m" corresp="#s2:l5">sinckt</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">End met Ghewelt wech <rhyme label="d" type="f">swemmet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Maer God heb Loff, die niet toe <rhyme label="a" type="m">liet</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Dat haer muyl ons mocht <rhyme label="b" type="f">vangen</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Als een vogel den strick <rhyme label="a" type="m" corresp="#s3:l1">ontvliet</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Is onse Siel <rhyme label="b" type="f" corresp="#s3:l2">ontganghen</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">T'strick is ontwey, end wy syn <rhyme label="c" type="m">Vry</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Des HEERen Name staet ons <rhyme label="c" type="m" corresp="#s3:l5">by</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Des Gods HEmels end <rhyme label="d" type="f">Eerden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

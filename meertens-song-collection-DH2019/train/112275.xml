@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>112275</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Allemande Ik prees weleer</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">ô! <rhyme label="a" type="m">BAcherach</rhyme>!</l>
+        <l id="s1:l2" met="2" type="-+">In uw <rhyme label="a" type="m" corresp="#s1:l1">gezag</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">Vind men het vogt, dat ik zo garen <rhyme label="a" type="m" corresp="#s1:l1">mag</rhyme>.</l>
+        <l id="s1:l4" met="2" type="-+">Schenk my een <rhyme label="b" type="m">fles</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">Van 't jaar van <rhyme label="b" type="m" corresp="#s1:l4">zes</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Daar ik myn dorst mee <rhyme label="b" type="m" corresp="#s1:l4">les</rhyme>.</l>
+        <l id="s1:l7" met="2" type="-+">Dat nat doet <rhyme label="c" type="m">my</rhyme></l>
+        <l id="s1:l8" met="5" type="-+">Zo dapper als een Alexander <rhyme label="d" type="m">zyn</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Geleerder al <rhyme label="d" type="m" corresp="#s1:l8">Maryn</rhyme>,</l>
+        <l id="s1:l10" met="3" type="-+">Volgeestig als <rhyme label="d" type="m" corresp="#s1:l8">Crispyn</rhyme>:</l>
+        <l id="s1:l11" met="2" type="+-">ô! <rhyme label="c" type="m" corresp="#s1:l7">Artseny</rhyme>,</l>
+        <l id="s1:l12" met="3" type="-+">Gy maakt dat ik wel <rhyme label="e" type="m">rust</rhyme>,</l>
+        <l id="s1:l13" met="3" type="-+">Als my niet meerder <rhyme label="e" type="m" corresp="#s1:l12">lust</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

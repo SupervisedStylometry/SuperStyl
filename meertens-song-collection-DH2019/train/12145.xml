@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12145</id>
+    <date>
+      <year-start>1617</year-start>
+      <year-end>1617</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>L'étrenne d'ici bas</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">L’Estréne d’icy <rhyme label="a" type="m">bas</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Est chose <rhyme label="b" type="f">basse</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">Qui tot se <rhyme label="b" type="f" corresp="#s1:l2">passes</rhyme>;</l>
+        <l id="s1:l4" met="3" type="-+">Et ne merite <rhyme label="a" type="m" corresp="#s1:l1">pas</rhyme></l>
+        <l id="s1:l5" met="2" type="+-">Qu’on s’en <rhyme label="c" type="m">soucie</rhyme>:</l>
+        <l id="s1:l6" met="3" type="+-">L’estréne de là <rhyme label="d" type="m">sus</rhyme></l>
+        <l id="s1:l7" met="3" type="+-">C’est Marie &amp; <rhyme label="d" type="m" corresp="#s1:l6">Iesus</rhyme>,</l>
+        <l id="s1:l8" met="2" type="+-">Iesus <rhyme label="c" type="m" corresp="#s1:l5">Marie</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Mon petit Roy des <rhyme label="a" type="m">roys</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">I’estois en <rhyme label="b" type="f">peine</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Pour ton <rhyme label="b" type="f" corresp="#s2:l2">estréne</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Où ie la <rhyme label="a" type="m" corresp="#s2:l1">trouuerois</rhyme></l>
+        <l id="s2:l5" met="2" type="+-">Bien <rhyme label="c" type="m">accomplie</rhyme>:</l>
+        <l id="s2:l6" met="3" type="+-">Ie ne veux chercher <rhyme label="d" type="m">plus</rhyme>;</l>
+        <l id="s2:l7" met="3" type="+-">I’ay trouué mon <rhyme label="d" type="m" corresp="#s2:l6">Iesus</rhyme></l>
+        <l id="s2:l8" met="2" type="+-">Pour toy <rhyme label="c" type="m" corresp="#s2:l5">Marie</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Mais qu’auras tu de <rhyme label="a" type="m">moy</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Pour tes <rhyme label="b" type="f">estrénes</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">Royne des <rhyme label="b" type="f" corresp="#s3:l2">Roynes</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Qui soit chery de <rhyme label="a" type="m" corresp="#s3:l1">toy</rhyme>,</l>
+        <l id="s3:l5" met="2" type="+-">Vierge <rhyme label="c" type="m">cherie</rhyme>:</l>
+        <l id="s3:l6" met="3" type="+-">Ie ne veux chercher <rhyme label="d" type="m">plus</rhyme>;</l>
+        <l id="s3:l7" met="3" type="+-">I’ay trouué mon <rhyme label="d" type="m" corresp="#s3:l6">Iesus</rhyme></l>
+        <l id="s3:l8" met="2" type="+-">Pour toy <rhyme label="c" type="m" corresp="#s3:l5">Marie</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Prenez auec mes <rhyme label="a" type="m">voeus</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">Ma double <rhyme label="b" type="f">estréne</rhyme>,</l>
+        <l id="s4:l3" met="2" type="-+">Couple <rhyme label="b" type="f" corresp="#s4:l2">seraine</rhyme>;</l>
+        <l id="s4:l4" met="3" type="-+">Puis rendez moy tous <rhyme label="a" type="m" corresp="#s4:l1">deux</rhyme>,</l>
+        <l id="s4:l5" met="2" type="+-">La mesme <rhyme label="c" type="m">vnie</rhyme>:</l>
+        <l id="s4:l6" met="3" type="+-">Car ie ne veux rien de <rhyme label="d" type="m">plus</rhyme>,</l>
+        <l id="s4:l7" met="3" type="+-">Que Marie &amp; <rhyme label="d" type="m" corresp="#s4:l6">Iesus</rhyme>,</l>
+        <l id="s4:l8" met="2" type="+-">Iesus <rhyme label="c" type="m" corresp="#s4:l5">Marie</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

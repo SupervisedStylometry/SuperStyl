@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>190924</id>
+    <date>
+      <year-start>1845</year-start>
+      <year-end>1845</year-end>
+    </date>
+    <tags/>
+    <melody/>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">De Zomer is <rhyme label="a" type="f">verdwenen</rhyme>;</l>
+        <l id="s1:l2" met="3" type="-+">De zon verliest haar <rhyme label="b" type="m">kracht</rhyme>.</l>
+        <l id="s1:l3" met="3" type="-+">Thans is de Herfst <rhyme label="a" type="f" corresp="#s1:l1">verschenen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Met velden, rijk <rhyme label="b" type="m" corresp="#s1:l2">bevracht</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">Rijk bevracht. Rijk <rhyme label="b" type="m" corresp="#s1:l2">bevracht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">De tuinman schudt de <rhyme label="a" type="f">boomen</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Met vruchten rijk <rhyme label="b" type="m">belaân</rhyme>;</l>
+        <l id="s2:l3" met="3" type="-+">En voert ons, langs de <rhyme label="a" type="f" corresp="#s2:l1">stroomen</rhyme>.</l>
+        <l id="s2:l4" met="3" type="-+">Zijn fruit en vruchten <rhyme label="b" type="m" corresp="#s2:l2">aan</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">Vruchten aan. Vruchten <rhyme label="b" type="m" corresp="#s2:l2">aan</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">De landman scheert den <rhyme label="a" type="f">akker</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">En zamelt granen <rhyme label="b" type="m">in</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Waarvan de nijvre <rhyme label="a" type="f" corresp="#s3:l1">bakker</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Het brood bakt voor 't <rhyme label="b" type="m" corresp="#s3:l2">gezin</rhyme>.</l>
+        <l id="s3:l5" met="4" type="+-">Voor 't gezin. Voor 't <rhyme label="b" type="m" corresp="#s3:l2">gezin</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">De boer bevracht zijn <rhyme label="a" type="f">wagen</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Met zuivel, frisch en <rhyme label="b" type="m">vet</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Bezorgt ons, alle <rhyme label="a" type="f" corresp="#s4:l1">dagen</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Zijn keurig <rhyme label="b" type="m" corresp="#s4:l2">veldbanket</rhyme>.</l>
+        <l id="s4:l5" met="4" type="+-">Veldbanket. <rhyme label="b" type="m" corresp="#s4:l2">Veldbanket</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Zoo brengt de Herfst haar <rhyme label="a" type="f">zoetheid</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Door veld- en <rhyme label="b" type="m">akkerbouw</rhyme>.</l>
+        <l id="s5:l3" met="3" type="-+">Loof, schepsel! 's Heeren <rhyme label="a" type="f" corresp="#s5:l1">goedheid</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Zijn liefde, zorg en <rhyme label="b" type="m" corresp="#s5:l2">trouwt</rhyme>.</l>
+        <l id="s5:l5" met="4" type="+-">Zorg en trouw. Zorg en <rhyme label="b" type="m" corresp="#s5:l2">trouw</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

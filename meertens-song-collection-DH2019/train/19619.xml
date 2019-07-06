@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19619</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Nadien uw goddelijkheid</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Thomas Fonteyn</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">HEeft iemand <rhyme label="a" type="m">overvloed</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Van machtig Geld en <rhyme label="a" type="m" corresp="#s1:l1">goed</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Wat heeft hy, ae’rs dan <rhyme label="b" type="f">zorge</rhyme>?</l>
+        <l id="s1:l4" met="3" type="-+">Maar die een Maagd al <rhyme label="c" type="m">heeft</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Tot zijn troost, stijl, en <rhyme label="b" type="f" corresp="#s1:l3">borge</rhyme>:</l>
+        <l id="s1:l6" met="3" type="-+">Die ist die weeldrig <rhyme label="c" type="m" corresp="#s1:l4">leeft</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

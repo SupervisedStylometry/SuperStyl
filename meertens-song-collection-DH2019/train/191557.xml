@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>191557</id>
+    <date>
+      <year-start>1678</year-start>
+      <year-end>1678</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Aernout van Overbeke</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">DIt is de With, die voor 's Lands vryheydt was <rhyme label="a" type="f">geschapen</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Die sich vrywilligh van het kussen heeft <rhyme label="b" type="m">berooft</rhyme>,</l>
+        <l id="s1:l3" met="6" type="-+">Dat hy sijn Vaderland geleyt heeft onder 't <rhyme label="b" type="m" corresp="#s1:l2">hooft</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Op dat het afgeslooft eens mocht gerust gaen <rhyme label="a" type="f" corresp="#s1:l1">slapen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

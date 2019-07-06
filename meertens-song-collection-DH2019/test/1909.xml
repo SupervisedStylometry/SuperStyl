@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1909</id>
+    <date>
+      <year-start>1615</year-start>
+      <year-end>1615</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Fortuin helaas</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">DEn langh ghewenschten tijdt, daer langh naer is <rhyme label="a" type="m">gehaeckt</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Den driemael blijden dach, is voor de handt <rhyme label="a" type="m" corresp="#s1:l1">gheraeckt</rhyme>,</l>
+        <l id="s1:l3" met="6" type="-+">Den Minnaer wel te recht, gheluckich heeft <rhyme label="b" type="m">gheslaeft</rhyme>,</l>
+        <l id="s1:l4" met="6" type="-+">Die eynd’lijck al sijn leedt, in Hymens schoot <rhyme label="b" type="m" corresp="#s1:l3">begraeft</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Den strijder overwint, en werdt op’t lest <rhyme label="a" type="m">ghekroont</rhyme>,</l>
+        <l id="s2:l2" met="6" type="-+">Den arbeydt is gheringh, naer dat hy werdt <rhyme label="a" type="m" corresp="#s2:l1">beloont</rhyme>,</l>
+        <l id="s2:l3" met="6" type="-+">Den liever werdt ghelieft, en krijght ’t gheen hem <rhyme label="b" type="m">ghelust</rhyme>,</l>
+        <l id="s2:l4" met="6" type="-+">Wat moeyt en is niet weerdt, dees aenghename <rhyme label="b" type="m" corresp="#s2:l3">rust</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">’T is desen Bruydegom, en dese Bruydt, die <rhyme label="a" type="m">beyd</rhyme>,</l>
+        <l id="s3:l2" met="6" type="-+">Vereenighen te saem, in alle <rhyme label="a" type="m" corresp="#s3:l1">vriendlijckheyt</rhyme>.</l>
+        <l id="s3:l3" met="6" type="-+">Ghenoode maeckt u ree, en met een soet <rhyme label="b" type="m">gheluyt</rhyme>,</l>
+        <l id="s3:l4" met="6" type="-+">Wenscht voorspoet, heyl, en vree, den Bruyd’gom met sijn <rhyme label="b" type="m" corresp="#s3:l3">Bruyt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">Den padt met bloemkens stroyt, werpt lauwer hier en <rhyme label="a" type="m">daer</rhyme>,</l>
+        <l id="s4:l2" met="6" type="-+">Weckt lieflijck snaren-spel, vervrolijckt u te <rhyme label="a" type="m" corresp="#s4:l1">gaer</rhyme>,</l>
+        <l id="s4:l3" met="6" type="-+">Den Bruyd’gom sulcx ghebiedt, dat ghy met vreucht <rhyme label="b" type="m">vervult</rhyme>,</l>
+        <l id="s4:l4" met="6" type="-+">In sijnen blijden dach, ghy u vermaken <rhyme label="b" type="m" corresp="#s4:l3">sult</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="6" type="-+">Wech droefheyt, nijdt en strijdt, ghy zijt hier niet <rhyme label="a" type="m">ghenoot</rhyme>,</l>
+        <l id="s5:l2" met="6" type="-+">Dees Feeste niet en steurt, noch van haer vreuchdt <rhyme label="a" type="m" corresp="#s5:l1">ontbloot</rhyme>,</l>
+        <l id="s5:l3" met="6" type="-+">Elck dese twee versel, in hunnen hooghen <rhyme label="b" type="m">staet</rhyme>,</l>
+        <l id="s5:l4" met="6" type="-+">Met een bly aenghesicht, en minnelijck <rhyme label="b" type="m" corresp="#s5:l3">ghelaet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

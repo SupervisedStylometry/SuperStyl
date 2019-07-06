@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175171</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Regtop van lijf, regtop van <rhyme label="a" type="m">ziel</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Dat is een stand naar mijn <rhyme label="b" type="f">behagen</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">'t Zij, dat ge een' staatsierok moogt <rhyme label="b" type="f" corresp="#s1:l2">dragen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">'t Zij, dat ge een' buis draagt of een <rhyme label="a" type="m" corresp="#s1:l1">kiel</rhyme>...</l>
+        <l id="s1:l5" met="4" type="-+">Regtop van lijf, regtop van <rhyme label="a" type="m" corresp="#s1:l1">ziel</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">En buig' men ooit zijn hoofd of <rhyme label="a" type="m">knie</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">'t Zij dan alleen voor God, den <rhyme label="b" type="f">Heere</rhyme>!</l>
+        <l id="s2:l3" met="4" type="-+">Voor elk, wien men als braver <rhyme label="b" type="f" corresp="#s2:l2">eere</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Voor ieder, dien men wijzer <rhyme label="a" type="m" corresp="#s2:l1">zie</rhyme>....</l>
+        <l id="s2:l5" met="4" type="-+">Voor die slechts buig' men hoofd of <rhyme label="a" type="m" corresp="#s2:l1">knie</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Maar anders - regt van lijf en <rhyme label="a" type="m">ziel</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">In vreugd of leed, door heel ons <rhyme label="b" type="f">leven</rhyme>!</l>
+        <l id="s3:l3" met="4" type="-+">Niet links, niet regts, maar 't hoofd <rhyme label="b" type="f" corresp="#s3:l2">geheven</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Wat of er buig', wat of er <rhyme label="a" type="m" corresp="#s3:l1">kniel'</rhyme>....</l>
+        <l id="s3:l5" met="4" type="-+">Dat 's Nederlandsch, naar lijf en <rhyme label="a" type="m" corresp="#s3:l1">ziel</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

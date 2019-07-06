@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>158206</id>
+    <date>
+      <year-start>1713</year-start>
+      <year-end>1713</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="toneellied" translation="theatre song">toneellied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Al wat men doet</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="formal genres">formele genres</category>
+      <category translation="theatre">theater</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Hoe kan het lot so gants verschillig   <rhyme label="a" type="f">wesen</rhyme>!</l>
+        <l id="s1:l2" met="5" type="-+">Ag, viel my eenmaal het geluk te <rhyme label="b" type="m">beurt</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">Dat gy my minde, mijne <rhyme label="a" type="f" corresp="#s1:l1">uytgelesen</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Gelijk als Kloris die om Damon <rhyme label="b" type="m" corresp="#s1:l2">treurd</rhyme>:</l>
+        <l id="s1:l5" met="2" type="-+">Sy eerd sijn <rhyme label="c" type="f">liefde</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Die haar <rhyme label="c" type="f" corresp="#s1:l5">doorgriefde</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Sy eerd sijn <rhyme label="c" type="f" corresp="#s1:l5">liefde</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">Die sy 't beste <rhyme label="b" type="m" corresp="#s1:l2">keurd</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Hoe weet gy dus 't geheim van hare <rhyme label="a" type="f">pynen</rhyme>?</l>
+        <l id="s2:l2" met="5" type="-+">Of heeft sy selve uw haar nood <rhyme label="b" type="m">geklaagd</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Dat haar de liefde doet aldus <rhyme label="a" type="f" corresp="#s2:l1">verkwynen</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">En dat sy   Damon hare Ziel <rhyme label="b" type="m" corresp="#s2:l2">opdraagd</rhyme>?</l>
+        <l id="s2:l5" met="2" type="-+">Weet dat dat <rhyme label="c" type="f">gissen</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Seer ligt kan <rhyme label="c" type="f" corresp="#s2:l5">missen</rhyme>,</l>
+        <l id="s2:l7" met="2" type="-+">Weet dat dat <rhyme label="c" type="f" corresp="#s2:l5">gissen</rhyme></l>
+        <l id="s2:l8" met="3" type="+-">My geheel <rhyme label="b" type="m" corresp="#s2:l2">mishaagd</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

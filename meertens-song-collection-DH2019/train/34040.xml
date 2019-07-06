@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34040</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
+    </tags>
+    <melody>Nerea schoonste van uw geburen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacob Rosant</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ALs Iesus leeringh had <rhyme label="a" type="f">gegeeven</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En sijnde te <rhyme label="b" type="m">Bethanien</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Heeft hy sijn handen op <rhyme label="a" type="f" corresp="#s1:l1">geheeven</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Gaf haer <rhyme label="b" type="m" corresp="#s1:l2">gebenedydingen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Terwijl hy haer <rhyme label="a" type="f">gebenedyde</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Trok hy van haer ten <rhyme label="b" type="m">Heemelwaert</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En sit aen Goodes rechter <rhyme label="a" type="f" corresp="#s2:l1">sijde</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Sy bleeven daer staen seer <rhyme label="b" type="m" corresp="#s2:l2">vervaert</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">En siet, twee Mans met witte <rhyme label="a" type="f">kleën</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Die hebben neffens haer <rhyme label="b" type="m">gestaen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">En seyden, mans van <rhyme label="a" type="f" corresp="#s3:l1">Galileën</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Hoe siet gy dus den Heemel <rhyme label="b" type="m" corresp="#s3:l2">aen</rhyme>?</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Dees Iesus, die is <rhyme label="a" type="f">op-genoomen</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Ten Heemel van u-lie van <rhyme label="b" type="m">daen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Die sal nogh alsoo weeder <rhyme label="a" type="f" corresp="#s4:l1">koomen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Gelijk gy hem hebt heen sien <rhyme label="b" type="m" corresp="#s4:l2">gaen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Dus sy met vreughden en <rhyme label="a" type="f">Lof-sangen</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Sijn na Jerusalem <rhyme label="b" type="m">gegaen</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">En bleeven daer te saem soo <rhyme label="a" type="f" corresp="#s5:l1">langen</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Tot s' hadden d' Heyligh Geest <rhyme label="b" type="m" corresp="#s5:l2">ontfaen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Toen hebben s' over al gaen <rhyme label="a" type="f">preeken</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Den Heere werkte meed' met <rhyme label="b" type="m">haer</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Die welk haer woort met menigh <rhyme label="a" type="f" corresp="#s6:l1">teeken</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Bevestighden seer <rhyme label="b" type="m" corresp="#s6:l2">wonderbaer</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">O Iesu, die sijt <rhyme label="a" type="f">opgeklommen</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">Ten Heemel, om voor ons <rhyme label="b" type="m">aldaer</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">Plaets te bereyden, laet ons <rhyme label="a" type="f" corresp="#s7:l1">kommen</rhyme></l>
+        <l id="s7:l4" met="4" type="-+">Door uwe grati tot den <rhyme label="b" type="m" corresp="#s7:l2">Vaêr</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

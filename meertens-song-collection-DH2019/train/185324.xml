@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185324</id>
+    <date>
+      <year-start>1795</year-start>
+      <year-end>1795</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ik wil eens gaan zingen van myn <rhyme label="a" type="m">avontuur</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">'t komt myn zo heeden in myn <rhyme label="a" type="m" corresp="#s1:l1">humeur</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">'k Heb myn begeven al in den <rhyme label="b" type="m">Echtenstaat</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Maar ik beklaag myn un alles teegen <rhyme label="b" type="m" corresp="#s1:l3">gaat</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Ik heb 'er gaan trouwen een Zeeman o <rhyme label="a" type="m">pyn</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Nu dat ik voor altoos alleenig moet <rhyme label="a" type="m" corresp="#s2:l1">zyn</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Dat valt my zo lastig, doe ik was jonge <rhyme label="b" type="m">meid</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Doe wierd ik van ieder bemind en <rhyme label="b" type="m" corresp="#s2:l3">gevlyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ik was 'er een Meisje in 't best van myn <rhyme label="a" type="m">fleur</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Ik wist van geen verdriet, nog van geen <rhyme label="a" type="m" corresp="#s3:l1">getreur</rhyme>!</l>
+        <l id="s3:l3" met="4" type="-+">Het danssen en zingen, dat was myn <rhyme label="b" type="m">vermaak</rhyme>;</l>
+        <l id="s3:l4" met="4" type="-+">Ik was van mynambagt een Naister <rhyme label="b" type="m" corresp="#s3:l3">verstaat</rhyme>,</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ik heb myn verbonden, myn vryheid ô <rhyme label="a" type="m">spyt</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Ik Ben voor al myn leven, myn plyzier gaan <rhyme label="a" type="m" corresp="#s4:l1">kwyt</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Dat ik ben gaan trouwen, dat baart myn <rhyme label="b" type="m">verdriet</rhyme>!</l>
+        <l id="s4:l4" met="4" type="-+">Als ik maar weer vry ben dan trouw ik nooit <rhyme label="b" type="m" corresp="#s4:l3">niet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

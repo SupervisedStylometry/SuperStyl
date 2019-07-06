@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>156069</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Prins Robberts mars</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ALs eerst de Mensch ter wereldt <rhyme label="a" type="m">komt</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Soo is hy ganslijck <rhyme label="b" type="m">naeckt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Een ander is 't die voor hem <rhyme label="a" type="m" corresp="#s1:l1">schroomt</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">En kleeren voor hem <rhyme label="b" type="m" corresp="#s1:l2">maeckt</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Een ander voor hem sit en <rhyme label="c" type="m">spint</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Een ander voor hem <rhyme label="d" type="m">weeft</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">De Zijd', en Laecken, Koord', en <rhyme label="c" type="m" corresp="#s1:l5">Lindt</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Ja alles wat hy <rhyme label="d" type="m" corresp="#s1:l6">heeft</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als nu een Proncker dit <rhyme label="a" type="m">Ghewaet</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Rondom sijn lijf <rhyme label="b" type="m">bekijckt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En seydt dan met een trots <rhyme label="a" type="m" corresp="#s2:l1">ghelaet</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Wie is 't die my <rhyme label="b" type="m" corresp="#s2:l2">ghelijckt</rhyme>?</l>
+        <l id="s2:l5" met="4" type="-+">Soo denck ick: dat elck nu af <rhyme label="c" type="m">trock</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Wat hy u heeft <rhyme label="d" type="m">ghedaen</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Daer soud den Geck tot yders <rhyme label="c" type="m" corresp="#s2:l5">jock</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Met bloote billen <rhyme label="d" type="m" corresp="#s2:l6">staen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12763</id>
+    <date>
+      <year-start>1658</year-start>
+      <year-end>1658</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Lofzang van Simeon [Datheen]</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Franciscus Ridderus</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">WAt is o Heer! mijn <rhyme label="a" type="m">kracht</rhyme>?</l>
+        <l id="s1:l2" met="3" type="-+">Wat heb ick oyt <rhyme label="a" type="m" corresp="#s1:l1">volbracht</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Door eygen herts <rhyme label="b" type="f">bewegen</rhyme>?</l>
+        <l id="s1:l4" met="3" type="-+">Dan 'tgeen dat u <rhyme label="c" type="m">mishaeght</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Daer 'thert noch over <rhyme label="c" type="m" corresp="#s1:l4">klaeght</rhyme>:</l>
+        <l id="s1:l6" met="3" type="-+">'kBen over al <rhyme label="b" type="f" corresp="#s1:l3">verlegen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">'tIs waer, 'tnatuerlijck <rhyme label="a" type="m">goedt</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Daer 'tlijf door wort <rhyme label="a" type="m" corresp="#s2:l1">gevoedt</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Is noch in myn <rhyme label="b" type="f">vermogen</rhyme>:</l>
+        <l id="s2:l4" met="3" type="-+">'tIs waer, door uwe <rhyme label="c" type="m">gunst</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Kan in de burger <rhyme label="c" type="m" corresp="#s2:l4">kunst</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">De mensch sigh wat <rhyme label="b" type="f" corresp="#s2:l3">verhoogen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Maer sie ick hoe de <rhyme label="a" type="m">ziel</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">In sonden voormaels <rhyme label="a" type="m" corresp="#s3:l1">viel</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Soo vindt ick wil noch <rhyme label="b" type="f">krachten</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Tot 'tminste Hemelsch <rhyme label="c" type="m">goet</rhyme>:</l>
+        <l id="s3:l5" met="3" type="-+">Mijn gansch versteent <rhyme label="c" type="m" corresp="#s3:l4">gemoet</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Kan 'tgoede niet <rhyme label="b" type="f" corresp="#s3:l3">betrachten</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Ick hoor, ick sie, ick <rhyme label="a" type="m">vraegh</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Maer 'kblijf noch steeds om <rhyme label="a" type="m" corresp="#s4:l1">laegh</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">In onmacht neer <rhyme label="b" type="f">gedrucket</rhyme>;</l>
+        <l id="s4:l4" met="3" type="-+">Tot dat u eygen <rhyme label="c" type="m">handt</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">My biede <rhyme label="c" type="m" corresp="#s4:l4">onderstandt</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">En 'thert nae boven <rhyme label="b" type="f" corresp="#s4:l3">rucket</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

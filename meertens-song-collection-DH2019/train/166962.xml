@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>166962</id>
+    <date>
+      <year-start>1751</year-start>
+      <year-end>1800</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Phielis laet ons Minne <rhyme label="a" type="f">kussen</rhyme>:</l>
+        <l id="s1:l2" met="4" type="+-">Ziet u boesem ziet u <rhyme label="b" type="m">schoot</rhyme>;</l>
+        <l id="s1:l3" met="4" type="+-">Soetste sus laet mijn daer <rhyme label="a" type="f" corresp="#s1:l1">tussen</rhyme>:</l>
+        <l id="s1:l4" met="4" type="+-">Want mijn lust is <rhyme label="b" type="m" corresp="#s1:l2">groot</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Men hoort ‘t Weste windje <rhyme label="a" type="f">suisen</rhyme>;</l>
+        <l id="s2:l2" met="4" type="+-">In het aengename <rhyme label="b" type="m">groen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Mogt ik in haer Boomgaert <rhyme label="a" type="f" corresp="#s2:l1">ruisen</rhyme>!</l>
+        <l id="s2:l4" met="4" type="+-">Als de geyle Mosjes <rhyme label="b" type="m" corresp="#s2:l2">doen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Dan ziet men haer oogjes <rhyme label="a" type="f">draijen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Ag het Meisjes mond is <rhyme label="b" type="m">eel</rhyme>!</l>
+        <l id="s3:l3" met="4" type="+-">Zy is klaer om ons te <rhyme label="a" type="f" corresp="#s3:l1">maijen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">In haer schoot het beste <rhyme label="b" type="m" corresp="#s3:l2">deel</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Ziet wy volgen onsen <rhyme label="a" type="f">Vader</rhyme>;</l>
+        <l id="s4:l2" met="4" type="+-">Van ‘t begin des Weerelts <rhyme label="b" type="m">af</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">Bloeit en teelt maer weinig <rhyme label="a" type="f" corresp="#s4:l1">dagen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Wy beminne Adams <rhyme label="b" type="m" corresp="#s4:l2">staf</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

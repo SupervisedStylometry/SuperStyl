@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>180413</id>
+    <date>
+      <year-start>1660</year-start>
+      <year-end>1660</year-end>
+    </date>
+    <location>
+      <orginal-name>leuven</orginal-name>
+      <standard-name>Leuven, Belgium</standard-name>
+      <coordinates>
+        <lon>50.879202</lon>
+        <lat>4.7011675</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Herders hij is geboren</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O Maria die voor <rhyme label="a" type="f">desen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Ghy ons hier hebt <rhyme label="b" type="m">gebaert</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Is vander doodt <rhyme label="a" type="f" corresp="#s1:l1">verresen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Soo d’Engel heeft <rhyme label="b" type="m" corresp="#s1:l2">verklaert</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Hy heeft door groote <rhyme label="c" type="m">macht</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">De Doodt te niet <rhyme label="c" type="m" corresp="#s1:l5">gebracht</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Moeder bevrydt u <rhyme label="d" type="m">schaer</rhyme>!</l>
+        <l id="s1:l8" met="3" type="-+">Door uwen <rhyme label="d" type="m" corresp="#s1:l7">Rooselaer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

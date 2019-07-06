@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>173341</id>
+    <date>
+      <year-start>1802</year-start>
+      <year-end>1802</year-end>
+    </date>
+    <location>
+      <orginal-name>den haag</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="troostlied" translation="consolation song">troostlied</tag>
+    </tags>
+    <melody>Psalm 135 Datheen</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Rijst nu op, verloste <rhyme label="a" type="m">schaar</rhyme>!</l>
+        <l id="s1:l2" met="4" type="+-">Om voor uwen God te <rhyme label="b" type="m">staan</rhyme>.</l>
+        <l id="s1:l3" met="4" type="+-">Steekt, op 't brandend <rhyme label="a" type="m" corresp="#s1:l1">hart-altaar</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Milden wierook dankbaar <rhyme label="b" type="m" corresp="#s1:l2">aan</rhyme>!</l>
+        <l id="s1:l5" met="4" type="+-">Brengt eenstemmig uwen <rhyme label="c" type="m">Heer</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Lof, aanbidding, huld' en <rhyme label="c" type="m" corresp="#s1:l5">eer</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Wagt getroost de <rhyme label="a" type="m">zaligheid</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Die Hij u, in 's Vaders <rhyme label="b" type="m">huis</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Toegezegd heeft en <rhyme label="a" type="m" corresp="#s2:l1">bereidt</rhyme>.</l>
+        <l id="s2:l4" met="4" type="+-">Buigt uw schouders onder 't <rhyme label="b" type="m" corresp="#s2:l2">kruis</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Dat u hier vermoeit en <rhyme label="c" type="m">knelt</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Maar een wisse kroon <rhyme label="c" type="m" corresp="#s2:l5">voorspelt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Reist, als broeders, hand aan <rhyme label="a" type="m">hand</rhyme>;</l>
+        <l id="s3:l2" met="4" type="+-">Reist in liefde, reist in <rhyme label="b" type="m">vreugd</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Naar het eeuwig <rhyme label="a" type="m" corresp="#s3:l1">vaderland</rhyme>;</l>
+        <l id="s3:l4" met="4" type="+-">'t Rijk van blijdschap, licht en <rhyme label="b" type="m" corresp="#s3:l2">deugd</rhyme>;</l>
+        <l id="s3:l5" met="4" type="+-">Waar reeds menig <rhyme label="c" type="m">strijdeling</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Eenen lauwerkrans <rhyme label="c" type="m" corresp="#s3:l5">ontving</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Draagt elkanders lasten! <rhyme label="a" type="m">treurt</rhyme></l>
+        <l id="s4:l2" met="4" type="+-">Met den droeven; weest <rhyme label="b" type="m">verblijd</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">Met het vrolijk hart; en <rhyme label="a" type="m" corresp="#s4:l1">beurt</rhyme></l>
+        <l id="s4:l4" met="4" type="+-">Moeden op, in bangen <rhyme label="b" type="m" corresp="#s4:l2">strijd</rhyme>.</l>
+        <l id="s4:l5" met="4" type="+-">Op de togt door een <rhyme label="c" type="m">woestijn</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">Moet men allen alles <rhyme label="c" type="m" corresp="#s4:l5">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Gij, die zegent en <rhyme label="a" type="m">behoedt</rhyme>,</l>
+        <l id="s5:l2" met="4" type="+-">Op ons allen schijn' uw <rhyme label="b" type="m">licht</rhyme>!</l>
+        <l id="s5:l3" met="4" type="+-">Geef ons allen kragt en <rhyme label="a" type="m" corresp="#s5:l1">moed</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Door uw vriendlijk <rhyme label="b" type="m" corresp="#s5:l2">aangezigt</rhyme>!</l>
+        <l id="s5:l5" met="4" type="+-">Uw Genaê, o Heiland! <rhyme label="c" type="m">zij</rhyme></l>
+        <l id="s5:l6" met="4" type="+-">Ons in nood en dood <rhyme label="c" type="m" corresp="#s5:l5">nabij</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

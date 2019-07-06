@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19570</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Laura zat laatst bij de beek</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Thomas Fonteyn</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">BLust vergalde <rhyme label="a" type="m">Minnespijt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Delligt! Want u hellze <rhyme label="b" type="f">droppen</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Konnen tog mijn leet, zo <rhyme label="a" type="m" corresp="#s1:l1">wijd</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Ree verspreid, niet lichte <rhyme label="b" type="f" corresp="#s1:l2">stoppen</rhyme>;</l>
+        <l id="s1:l5" met="4" type="+-">Vlieg’ van my tot op de <rhyme label="b" type="f" corresp="#s1:l2">zoppen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Daar ‘t Reviertje, Lethis, <rhyme label="c" type="m">vloeid</rhyme>;</l>
+        <l id="s1:l7" met="4" type="+-">‘Kwil vergeeten mijn <rhyme label="d" type="f">vervloekken</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">En wil baat, en leeven <rhyme label="d" type="f" corresp="#s1:l7">zoekken</rhyme></l>
+        <l id="s1:l9" met="4" type="+-">Zelfs aan die, die my zo <rhyme label="c" type="m" corresp="#s1:l6">znoeid</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

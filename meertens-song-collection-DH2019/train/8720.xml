@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8720</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Naar oostland wil ik varen</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">VVAer vaert ghy Tirsis <rhyme label="a" type="f">heenen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">En laet hi er u Phillis <rhyme label="b" type="m">staen</rhyme>?</l>
+        <l id="s1:l3" met="4" type="-+">Haer ramp en ongeval <rhyme label="a" type="f" corresp="#s1:l1">beweenen</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Vervloecken de <rhyme label="c" type="f">stranden</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Daer ghy zijt gekomen <rhyme label="b" type="m" corresp="#s1:l2">aen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ach! trouweloos <rhyme label="a" type="f">verrader</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Hoe vriendelijck bad ghy <rhyme label="b" type="m">my</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Dat ick het toe-staen van mijn <rhyme label="a" type="f" corresp="#s2:l1">Vader</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Sou soecken te <rhyme label="c" type="f">krijgen</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Door smeecken en <rhyme label="b" type="m" corresp="#s2:l2">vleyery</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Noch doe 'k u geyle <rhyme label="a" type="f">minne</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Voldede na u <rhyme label="b" type="m">begeer</rhyme>:</l>
+        <l id="s3:l3" met="4" type="-+">Doe noemde ghy my u <rhyme label="a" type="f" corresp="#s3:l1">Godinne</rhyme>,</l>
+        <l id="s3:l4" met="2" type="-+">En swoert by u <rhyme label="c" type="f">trouwe</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Te laten my <rhyme label="b" type="m" corresp="#s3:l2">nimmermeer</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Maer laes! u lichte <rhyme label="a" type="f">woorden</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Die hebben mijn zieltje <rhyme label="b" type="m">mis-leyd</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Nu woud ick dat de Locht <rhyme label="a" type="f" corresp="#s4:l1">verstoorden</rhyme>,</l>
+        <l id="s4:l4" met="2" type="-+">En straften u <rhyme label="c" type="f">ontrou</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">En groote <rhyme label="b" type="m" corresp="#s4:l2">lichtvaerdicheyd</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Ia dat de straffe <rhyme label="a" type="f">baren</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">V dreven ten Boesem <rhyme label="b" type="m">in</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Gedachten van mijn <rhyme label="a" type="f" corresp="#s5:l1">weder-varen</rhyme>,</l>
+        <l id="s5:l4" met="2" type="-+">En wroegingh der <rhyme label="c" type="f">sonden</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">Begaen door u vuyle <rhyme label="b" type="m" corresp="#s5:l2">min</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Op dat ghy in u <rhyme label="a" type="f">sterven</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Beschreyen mooght mijn <rhyme label="b" type="m">ellent</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">En dat om dat ick u moet <rhyme label="a" type="f" corresp="#s6:l1">derven</rhyme>,</l>
+        <l id="s6:l4" met="2" type="-+">En trouweloos <rhyme label="c" type="f">achten</rhyme>,</l>
+        <l id="s6:l5" met="3" type="-+">Steeds trachten sal na mijn <rhyme label="b" type="m" corresp="#s6:l2">ent</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

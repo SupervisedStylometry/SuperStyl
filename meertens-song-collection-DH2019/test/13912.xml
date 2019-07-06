@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13912</id>
+    <date>
+      <year-start>1646</year-start>
+      <year-end>1646</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Het daagt in de oosten</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">HOe is’t, ô gheestigh Meysjen, dat wanhoop van de <rhyme label="a" type="m">Min</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Dat wanhoop van de Liefde my marteldt in den <rhyme label="a" type="m" corresp="#s1:l1">zin</rhyme>?</l>
+        <l id="s1:l3" met="5" type="+-">Daer ick u noyt wil laten, noyt wil <rhyme label="b" type="f">laten</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Daer ick u noyt wil laten; maer lieven tot mijn <rhyme label="a" type="m">Graf</rhyme>,</l>
+        <l id="s2:l2" met="6" type="-+">Om door gestadigheden u Min te smeecken <rhyme label="a" type="m" corresp="#s2:l1">af</rhyme>,</l>
+        <l id="s2:l3" met="5" type="+-">V soete gonst te wachten, gonst te <rhyme label="b" type="f">wachten</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">V soete gonst te wachten is my de hooghste <rhyme label="a" type="m">vreught</rhyme>,</l>
+        <l id="s3:l2" met="6" type="-+">Is ‘t voedtsel van mijn leven, en d’ader van mijn <rhyme label="a" type="m" corresp="#s3:l1">Ieught</rhyme>:</l>
+        <l id="s3:l3" met="5" type="+-">Waerom wilt ghy dan vlieden, ghy dan <rhyme label="b" type="f">vlieden</rhyme>?</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="6" type="-+">Waerom wilt ghy dan vlieden die u noyt en <rhyme label="a" type="m">versaeckt</rhyme>?</l>
+        <l id="s4:l2" met="6" type="-+">Die niet als u ghenoeghen, uw’ lieve lusten <rhyme label="a" type="m" corresp="#s4:l1">haeckt</rhyme>,</l>
+        <l id="s4:l3" met="5" type="+-">Die eenigh hem doen rusten rusten, hem doen <rhyme label="b" type="f">rusten</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="6" type="-+">Die eenigh hem doen rusten, zijn gonst en <rhyme label="a" type="m">lieflijckhe’en</rhyme>,</l>
+        <l id="s5:l2" met="6" type="-+">Die dert’len in u ooghen en duysendt <rhyme label="a" type="m" corresp="#s5:l1">vyerighe’en</rhyme></l>
+        <l id="s5:l3" met="5" type="+-">My stralen in het Herte, in het <rhyme label="b" type="f">Herte</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="6" type="-+">My stralen in het Herte, u ooghen ‘t <rhyme label="a" type="m">Minne-vyer</rhyme>:</l>
+        <l id="s6:l2" met="6" type="-+">Hoe is het, geestigh meysje, hoe is het aerdigh <rhyme label="a" type="m" corresp="#s6:l1">Dier</rhyme>,</l>
+        <l id="s6:l3" met="5" type="+-">Dat ghy my dan wilt laten, dan wilt <rhyme label="b" type="f">laten</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

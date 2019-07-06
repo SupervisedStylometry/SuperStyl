@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2071</id>
+    <date>
+      <year-start>1674</year-start>
+      <year-end>1674</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody>Belle Phyllis pleine d'amour</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Daniel Bellemans</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">'t HErt sy <rhyme label="a" type="m">vervloeckt</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">Dat niet en <rhyme label="a" type="m" corresp="#s1:l1">soeckt</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">Uyt hert' en <rhyme label="b" type="m">sin</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Naer Jesus soete <rhyme label="b" type="m" corresp="#s1:l3">min</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">O blinde <rhyme label="c" type="f">sinnen</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Die niet en <rhyme label="c" type="f" corresp="#s1:l5">minnen</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Den Heer' die voor ons <rhyme label="d" type="m">sterft</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">In 't Bloedt <rhyme label="d" type="m" corresp="#s1:l7">gheverft</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Datter een <rhyme label="a" type="m">hair</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Op myn hooft <rhyme label="a" type="m" corresp="#s2:l1">waer</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Maer een hair <rhyme label="b" type="m">dat</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Den Heer' niet lief en <rhyme label="b" type="m" corresp="#s2:l3">hadt</rhyme>,</l>
+        <l id="s2:l5" met="2" type="-+">'k Sou dat <rhyme label="c" type="f">verfoeyen</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">'k Sou dat <rhyme label="c" type="f" corresp="#s2:l5">uyt-roeyen</rhyme>,</l>
+        <l id="s2:l7" met="3" type="-+">Godt en begheert gheen <rhyme label="d" type="m">deel</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Maer 't Hert' <rhyme label="d" type="m" corresp="#s2:l7">gheheel</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Uyt all' myn <rhyme label="a" type="m">kracht</rhyme>,</l>
+        <l id="s3:l2" met="2" type="-+">Uyt all' myn <rhyme label="a" type="m" corresp="#s3:l1">macht</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">Van hert', en <rhyme label="b" type="m">sin</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Tracht ick naer uwe <rhyme label="b" type="m" corresp="#s3:l3">min</rhyme>,</l>
+        <l id="s3:l5" met="2" type="-+">Spreyt uwe <rhyme label="c" type="f">Vieren</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">In hert' en <rhyme label="c" type="f" corresp="#s3:l5">nieren</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Besit myn hert <rhyme label="d" type="m">alleen</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">En anders <rhyme label="d" type="m" corresp="#s3:l7">gheen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

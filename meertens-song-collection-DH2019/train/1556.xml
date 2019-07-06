@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1556</id>
+    <date>
+      <year-start>1624</year-start>
+      <year-end>1624</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Onze vader in hemelrijk</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Samuel Ampzing</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Godt die onse Vader <rhyme label="a" type="m">zijt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En dat bewijst tot alle <rhyme label="a" type="m" corresp="#s1:l1">tijdt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Die ghy in uwen <rhyme label="b" type="m">Hemels-throon</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Stelt uwe Majesteyt ten <rhyme label="b" type="m" corresp="#s1:l3">toon</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">V Naem zy van ons recht <rhyme label="c" type="m">bekent</rhyme>.</l>
+        <l id="s1:l6" met="4" type="-+">V Koninckrijck op aerden <rhyme label="c" type="m" corresp="#s1:l5">sendt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">V wil zy van ons <rhyme label="a" type="m">al-gelijck</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Uerricht, gelijck in 't <rhyme label="a" type="m" corresp="#s2:l1">Hemel-rijck</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Geef huyden ons gericht des <rhyme label="b" type="m">broodts</rhyme>.</l>
+        <l id="s2:l4" met="4" type="-+">Vergeef ons alle schuldt des <rhyme label="b" type="m" corresp="#s2:l3">doodts</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">Gelijck wy oock een <rhyme label="c" type="m">igelijck</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Vergeven allen <rhyme label="c" type="m" corresp="#s2:l5">ongelijck</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">In geen versoecking' ons en <rhyme label="a" type="m">leyd'</rhyme>:</l>
+        <l id="s3:l2" met="4" type="-+">Hoed' ons voor Satans <rhyme label="a" type="m" corresp="#s3:l1">listicheydt</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Want u ist Rijck, en Macht, en <rhyme label="b" type="m">Eer</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">In Eeuwicheydt, en <rhyme label="b" type="m" corresp="#s3:l3">immermeer</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Heer! laet dit in u ooren <rhyme label="c" type="m">gaen</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">En neem' dear op ons Amen <rhyme label="c" type="m" corresp="#s3:l5">aen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

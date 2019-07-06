@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3220</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>L'Orangère</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">DIe hier sijn levens <rhyme label="a" type="m">tijdt</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">In ydelheydt <rhyme label="a" type="m" corresp="#s1:l1">verslijt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">En noyt nae ware Deught en <rhyme label="b" type="m">vraeght</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">En noyt nae wetenschap en <rhyme label="b" type="m" corresp="#s1:l3">jaeght</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Wiens sinnen // beminnen de sotte <rhyme label="c" type="m">vreught</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">En niet de ware <rhyme label="c" type="m" corresp="#s1:l5">Deught</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">Sal suchten // en <rhyme label="d" type="f">duchten</rhyme></l>
+        <l id="s1:l8" met="5" type="+-">Als hy versleten heeft sijn tijdt en <rhyme label="c" type="m" corresp="#s1:l5">Ieught</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">O! 't is een groot <rhyme label="a" type="m">verdriet</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Maer dit beklagh <rhyme label="a" type="m" corresp="#s2:l1">gheschiedt</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">En dit gheschiedt aen sulcken <rhyme label="b" type="m">een</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Die noyt wou op den Heyl-wegh <rhyme label="b" type="m" corresp="#s2:l3">tre'en</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Met vreuchden // en deuchden, maer ging 'er <rhyme label="c" type="m">af</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Met stuersheydt, nors en <rhyme label="c" type="m" corresp="#s2:l5">straf</rhyme>:</l>
+        <l id="s2:l7" met="2" type="-+">Sijn leven // en <rhyme label="d" type="f">streven</rhyme></l>
+        <l id="s2:l8" met="5" type="+-">Beweent, beschreyt hy tot hy gaet in't <rhyme label="c" type="m" corresp="#s2:l5">graf</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">De lust is dapper <rhyme label="a" type="m">kort</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Die hier ghenooten <rhyme label="a" type="m" corresp="#s3:l1">wordt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Van een die anders niet en <rhyme label="b" type="m">doet</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Als dat hy buyck en maghe <rhyme label="b" type="m" corresp="#s3:l3">voedt</rhyme>:</l>
+        <l id="s3:l5" met="4" type="-+">Maer meerder // en veerder verstreckt de <rhyme label="c" type="m">lust</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Die hier sijn daghen <rhyme label="c" type="m" corresp="#s3:l5">blust</rhyme></l>
+        <l id="s3:l7" met="2" type="-+">In Deuchde // de <rhyme label="d" type="f">vreuchde</rhyme>,</l>
+        <l id="s3:l8" met="5" type="+-">Die die geniet, dat's eeuwigh <rhyme label="c" type="m" corresp="#s3:l5">zielen-rust</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>116751</id>
+    <date>
+      <year-start>1716</year-start>
+      <year-end>1716</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+      <tag standard-name="dialectlied" translation="dialect song">dialectlied</tag>
+    </tags>
+    <melody>Hebst du dan</melody>
+    <categories>
+      <category translation="groups">groepen</category>
+      <category translation="formal genres">formele genres</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Jan van Gijsen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="8" type="-+">HEbstoe dan das ongewetser wied’rom in de Kreug <rhyme label="a" type="m">gefeurt</rhyme>?</l>
+        <l id="s1:l2" met="8" type="-+">Wel wat wolstu door van haben Wyb? das is wel meir <rhyme label="a" type="m" corresp="#s1:l1">gebeurt</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Ach was lyd ich grootsen <rhyme label="b" type="m">nood</rhyme>!</l>
+        <l id="s1:l4" met="4" type="-+">O doe dybel weerstoe <rhyme label="b" type="m" corresp="#s1:l3">dood</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="8" type="-+">Dyne Kinner, die erhinner, sterben schier van <rhyme label="a" type="m">hongersnood</rhyme>.</l>
+        <l id="s2:l2" met="8" type="-+">Gibse krauwt of haut te fretsen, zo schytsen zy zich nich <rhyme label="a" type="m" corresp="#s2:l1">dood</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Ach was lyd ich grootsen <rhyme label="b" type="m">nood</rhyme>!</l>
+        <l id="s2:l4" met="4" type="-+">O doe dybel weerstoe <rhyme label="b" type="m" corresp="#s2:l3">dood</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="8" type="-+">’k Wol das ich waer blind geweezen, wan ich dier hond haab <rhyme label="a" type="m">gezien</rhyme>.</l>
+        <l id="s3:l2" met="8" type="-+">Wyb in dynen oog geschissen, zo wil ’t naer uw wens <rhyme label="a" type="m" corresp="#s3:l1">geschien</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Ach was lyd ich grootsen <rhyme label="b" type="m">nood</rhyme>!</l>
+        <l id="s3:l4" met="4" type="-+">O doe dybel weerstoe <rhyme label="b" type="m" corresp="#s3:l3">dood</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="8" type="-+">Ei zo soef doe galgevogel pik on zwabel in dyn <rhyme label="a" type="m">lyb</rhyme>.</l>
+        <l id="s4:l2" met="8" type="-+">Wyn on bier in ’t hert ezoogen, is mier betser snoode <rhyme label="a" type="m" corresp="#s4:l1">wyb</rhyme>.</l>
+        <l id="s4:l3" met="4" type="-+">Souf das her an stikken <rhyme label="b" type="m">moest</rhyme>.</l>
+        <l id="s4:l4" met="4" type="-+">Daer soe haab ich geinen <rhyme label="b" type="m" corresp="#s4:l3">loest</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="8" type="-+">’k Wol das ich Himmel waeren, ich moes ’er doch einmael <rhyme label="a" type="m">in</rhyme>.</l>
+        <l id="s5:l2" met="8" type="-+">Man. ’k Wol das ou was van der aerde, dan haab ich het naer myn <rhyme label="a" type="m" corresp="#s5:l1">zin</rhyme>.</l>
+        <l id="s5:l3" met="4" type="-+">Ach was lyd ich grootsen <rhyme label="b" type="m">nood</rhyme>!</l>
+        <l id="s5:l4" met="4" type="-+">O doe dybel weerstoe <rhyme label="b" type="m" corresp="#s5:l3">dood</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

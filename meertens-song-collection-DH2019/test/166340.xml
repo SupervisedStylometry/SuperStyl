@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>166340</id>
+    <date>
+      <year-start>1828</year-start>
+      <year-end>1828</year-end>
+    </date>
+    <location>
+      <orginal-name>monickendam</orginal-name>
+      <standard-name>Monnickendam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.4570766</lon>
+        <lat>5.0373214</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Ik heb eene andre poes <rhyme label="a" type="f">gekregen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">De mijne is bij haar <rhyme label="b" type="m">voorgeslacht</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">'t Is van de dooden best <rhyme label="a" type="f" corresp="#s1:l1">gezwegen</rhyme>!</l>
+        <l id="s1:l4" met="4" type="-+">'k Begroef haar zelf, zij ruste <rhyme label="b" type="m" corresp="#s1:l2">zacht</rhyme>!</l>
+        <l id="s1:l5" met="4" type="-+">Maar deze leeft, en 'k sta <rhyme label="c" type="f">verlegen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Wat ik van haar u melden <rhyme label="d" type="m">zal</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Ik heb haar gistren pas <rhyme label="c" type="f" corresp="#s1:l5">gekregen</rhyme></l>
+        <l id="s1:l8" met="4" type="-+">En zeg dus liefst nog niet met <rhyme label="d" type="m" corresp="#s1:l6">al</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

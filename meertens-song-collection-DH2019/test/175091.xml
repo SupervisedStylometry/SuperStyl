@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175091</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Hop, hop! mijn vrolijk <rhyme label="a" type="m">hobbelpaard</rhyme>!</l>
+        <l id="s1:l2" met="4" type="-+">Nu moet gij rijden met een <rhyme label="a" type="m" corresp="#s1:l1">vaart</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Want och! ik heb zoo'n groote <rhyme label="b" type="m">haast</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Ik moet wat halen van <rhyme label="b" type="m" corresp="#s1:l3">hiernaast</rhyme>; -</l>
+        <l id="s1:l5" met="4" type="-+">Daar is door Moeder, om de <rhyme label="c" type="m">pret</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Een bord met kersen <rhyme label="c" type="m" corresp="#s1:l5">neêrgezet</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">En als ge nu niet voort en <rhyme label="d" type="m">maakt</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Misschien is 't bord dan <rhyme label="d" type="m" corresp="#s1:l7">leêggeraakt</rhyme>:</l>
+        <l id="s1:l9" met="4" type="-+">Dus rep-je, rep-je, wat je <rhyme label="e" type="m">kan</rhyme>,</l>
+        <l id="s1:l10" met="4" type="-+">Dan krijg-je er ook een kersje <rhyme label="e" type="m" corresp="#s1:l9">van</rhyme>;</l>
+        <l id="s1:l11" met="4" type="+-">Want Vader zeît: een vlijtig <rhyme label="a" type="m" corresp="#s1:l1">paard</rhyme></l>
+        <l id="s1:l12" met="4" type="-+">Dat is de haver dubbel <rhyme label="a" type="m" corresp="#s1:l1">waard'</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

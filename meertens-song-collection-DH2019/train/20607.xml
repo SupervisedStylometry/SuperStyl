@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20607</id>
+    <date>
+      <year-start>1628</year-start>
+      <year-end>1628</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="meilied" translation="May song">meilied</tag>
+    </tags>
+    <melody>Al naar de markt zo neem de tert</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author>Joan Ysermans</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">VErheucht verblijt,, vvie dat ghy <rhyme label="a" type="m">sijt</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Den vvinter vliet met <rhyme label="b" type="f">schanden</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Den droeven tijt,, sijn vvy nu <rhyme label="a" type="m" corresp="#s1:l1">quijt</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Den somer is <rhyme label="b" type="f" corresp="#s1:l2">voor-handen</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">De Slangh maeckt haer vveer <rhyme label="c" type="f">jeuchdich</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">T'ghevoghelt svviert,, en <rhyme label="d" type="m">tiereliert</rhyme>,</l>
+        <l id="s1:l7" met="3" type="+-">Mensch, en ghediert,, is <rhyme label="c" type="f" corresp="#s1:l5">vreuchden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Den soeten mey,, ick lof <rhyme label="a" type="m">verbrey</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Midts alle vruchten <rhyme label="b" type="f">bloeyen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">De dorre hey,, en vale <rhyme label="a" type="m" corresp="#s2:l1">vvey</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Vol clauers, nu vveer <rhyme label="b" type="f" corresp="#s2:l2">groeyen</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Voor t'Herders-ampt <rhyme label="c" type="f">gherief'lijck</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Boreas flauvvt,, die't al <rhyme label="d" type="m">benauvvt</rhyme>,</l>
+        <l id="s2:l7" met="3" type="+-">Aurora dauvvt,, vveer <rhyme label="c" type="f" corresp="#s2:l5">lief'lijck</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Verheucht Siluan',, u boschkens <rhyme label="a" type="m">staen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Nu lustich voor die <rhyme label="b" type="f">minnen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Nu mach Dian',, haer baden <rhyme label="a" type="m" corresp="#s3:l1">gaen</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Met al haer <rhyme label="b" type="f" corresp="#s3:l2">dinst-Goddinnen</rhyme>:</l>
+        <l id="s3:l5" met="3" type="-+">Langhs de Cristale <rhyme label="c" type="f">stroomkens</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Soet Zeph'rus vvaeyt,, die blomkens <rhyme label="d" type="m">saeyt</rhyme>,</l>
+        <l id="s3:l7" met="3" type="+-">En groen beblaeyt,, de <rhyme label="c" type="f" corresp="#s3:l5">boomkens</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ops milde borst,, daer al vvt <rhyme label="a" type="m">dorst</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Maeckt Phoebus vruchbaer <rhyme label="b" type="f">vveder</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Sneeuvv, haghel voorst,, is nu <rhyme label="a" type="m" corresp="#s4:l1">gheschorst</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Die Ceres druckten <rhyme label="b" type="f" corresp="#s4:l2">neder</rhyme>:</l>
+        <l id="s4:l5" met="3" type="-+">Den vvijn-Godt Bacchus <rhyme label="c" type="f">coene</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Den olm beroost,, met clijf <rhyme label="d" type="m">om-looft</rhyme>,</l>
+        <l id="s4:l7" met="3" type="+-">En ciert sijn hooft,, met <rhyme label="c" type="f" corresp="#s4:l5">groene</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Rooft Flora van,, haer bloemkens <rhyme label="a" type="m">dan</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Vlecht cranskens met <rhyme label="b" type="f">genuchten</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Op cieren Pan,, die t'vee vveer <rhyme label="a" type="m" corresp="#s5:l1">can</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Verleenen nieuvve <rhyme label="b" type="f" corresp="#s5:l2">vruchten</rhyme>:</l>
+        <l id="s5:l5" met="3" type="-+">Staeckt oock u droeue <rhyme label="c" type="f">termkens</rhyme></l>
+        <l id="s5:l6" met="4" type="-+">Ghy minnaers, kust,, u lief met <rhyme label="d" type="m">lust</rhyme>,</l>
+        <l id="s5:l7" met="3" type="+-">Maeckt dat ghy rust,, in <rhyme label="c" type="f" corresp="#s5:l5">d'ermkens</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

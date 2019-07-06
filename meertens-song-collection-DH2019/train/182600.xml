@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182600</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Oui je le aime pour jamais</melody>
+  <author>Hendrik Riemsnijder</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">'k Bid u, laat ons heenen <rhyme label="a" type="m">gaan</rhyme>;</l>
+        <l id="s1:l2" met="4" type="+-">Kyk dien beed'laar toch niet <rhyme label="a" type="m" corresp="#s1:l1">aan</rhyme>.</l>
+        <l id="s1:l3" met="4" type="+-">Hoe verhongert staat zyn <rhyme label="b" type="f">wezen</rhyme>!</l>
+        <l id="s1:l4" met="4" type="+-">'t Dor geraamte doet my <rhyme label="b" type="f" corresp="#s1:l3">vreezen</rhyme>!</l>
+        <l id="s1:l5" met="4" type="+-">Neen; het walgt my hem te <rhyme label="c" type="m">zien</rhyme>.</l>
+        <l id="s1:l6" met="2" type="-+">Kan het <rhyme label="d" type="f">geschieden</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Dat gy aan <rhyme label="d" type="f" corresp="#s1:l6">lieden</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Zoo veracht, kunt aandagt <rhyme label="c" type="m" corresp="#s1:l5">biên</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Neen, ik zal hem niet <rhyme label="a" type="m">ontvliên</rhyme>;</l>
+        <l id="s2:l2" met="4" type="+-">'k wil al zyne elende <rhyme label="a" type="m" corresp="#s2:l1">zien</rhyme>.</l>
+        <l id="s2:l3" met="4" type="+-">Die de elend niet leert <rhyme label="b" type="f">bevatten</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Kan ook nooit naar waarde <rhyme label="b" type="f" corresp="#s2:l3">schatten</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">Het geluk, 't welk hy <rhyme label="c" type="m">geniet</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">Noch daar voor <rhyme label="d" type="f">loven</rhyme></l>
+        <l id="s2:l7" met="2" type="-+">Hem, die van <rhyme label="d" type="f" corresp="#s2:l6">boven</rhyme></l>
+        <l id="s2:l8" met="4" type="+-">Dat geluk hem gunstig <rhyme label="c" type="m" corresp="#s2:l5">biedt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

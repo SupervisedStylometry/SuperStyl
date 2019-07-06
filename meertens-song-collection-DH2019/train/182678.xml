@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182678</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Une fille est un oiseau</melody>
+  <author>Hendrik Riemsnijder</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Zie, hoe schitt'rend, leevend, <rhyme label="a" type="m">schoon</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Welk een gloed, wat fraaie <rhyme label="b" type="f">kleuren</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Ieder om het schoonst te <rhyme label="b" type="f" corresp="#s1:l2">keuren</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Spreidt deez' Vlinder nu ten <rhyme label="a" type="m" corresp="#s1:l1">toon</rhyme>!</l>
+        <l id="s1:l5" met="4" type="+-">'t Diertje, dat eerst van geen <rhyme label="c" type="f">waarde</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Als een wurmpje kroop op <rhyme label="c" type="f" corresp="#s1:l5">aarde</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">En my byna afkeer <rhyme label="c" type="f" corresp="#s1:l5">baarde</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Vliegt nu vrolyk <rhyme label="d" type="m">opgewekt</rhyme>.</l>
+        <l id="s1:l9" met="4" type="+-">'k Zie 't in een Kapel <rhyme label="e" type="f">herbooren</rhyme>,</l>
+        <l id="s1:l10" met="4" type="+-">Die onze oogen kan <rhyme label="e" type="f" corresp="#s1:l9">bekooren</rhyme></l>
+        <l id="s1:l11" met="4" type="+-">En eens kenners aandagt <rhyme label="d" type="m" corresp="#s1:l8">trekt</rhyme>.</l>
+        <l id="s1:l12" met="4" type="+-">Dit moet my tot leering <rhyme label="f" type="f">strekken</rhyme>,</l>
+        <l id="s1:l13" met="4" type="+-">Nooit gevolgen slegts te <rhyme label="f" type="f" corresp="#s1:l12">trekken</rhyme></l>
+        <l id="s1:l14" met="4" type="+-">Uit den uiterlyken <rhyme label="g" type="m">schyn</rhyme>;</l>
+        <l id="s1:l15" met="4" type="+-">Want het kan wel mooglyk <rhyme label="g" type="m" corresp="#s1:l14">zyn</rhyme>,</l>
+        <l id="s1:l16" met="4" type="+-">Dat hy, dien wy nu niet <rhyme label="h" type="f">achten</rhyme>,</l>
+        <l id="s1:l17" met="4" type="+-">Hooger stygt, dan ik kan <rhyme label="h" type="f" corresp="#s1:l16">tragten</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

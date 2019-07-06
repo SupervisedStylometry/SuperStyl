@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1915</id>
+    <date>
+      <year-start>1615</year-start>
+      <year-end>1615</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Wij twee zijn hier alleen</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">KOmpt voestersse van mijn <rhyme label="a" type="m">hert</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Neemt van my dese <rhyme label="a" type="m" corresp="#s1:l1">smert</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Komt, komt reyckt de <rhyme label="b" type="m">handt</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Die hier leyt int <rhyme label="b" type="m" corresp="#s1:l3">voet-sandt</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Komt, komt reyckt de <rhyme label="b" type="m" corresp="#s1:l3">handt</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Die ghy siet, die ghy siet, die ghy <rhyme label="c" type="m">siet</rhyme>,</l>
+        <l id="s1:l7" met="5" type="-+">Hier leven sonder u in svvaer <rhyme label="c" type="m" corresp="#s1:l6">verdriet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ghy leeft Godin int <rhyme label="a" type="m">dal</rhyme>.</l>
+        <l id="s2:l2" met="3" type="-+">En doetet leven <rhyme label="a" type="m" corresp="#s2:l1">al</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Dus die drenckt in de <rhyme label="b" type="m">brandt</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Reyckt die toch u <rhyme label="b" type="m" corresp="#s2:l3">bystant</rhyme>:</l>
+        <l id="s2:l5" met="3" type="-+">Dus die drenckt in de <rhyme label="b" type="m" corresp="#s2:l3">brandt</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Treckt uyt, treckt uyt, treckt <rhyme label="c" type="m">uyt</rhyme>,</l>
+        <l id="s2:l7" met="5" type="-+">En houdt hem dan lief voor eygen <rhyme label="c" type="m" corresp="#s2:l6">buyt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Koudt zijnde schoon <rhyme label="a" type="m">Godin</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Sticht ghy mijn dees brandt <rhyme label="a" type="m" corresp="#s3:l1">in</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Dus dus blust <rhyme label="b" type="m">karnuyt</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Met vveer-liefden <rhyme label="b" type="m" corresp="#s3:l3">uyt</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Dus dus blust <rhyme label="b" type="m" corresp="#s3:l3">karnuyt</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">het vier, het vier, het <rhyme label="c" type="m">vier</rhyme>,</l>
+        <l id="s3:l7" met="5" type="-+">VVaer in dat ghy my nu doet branden <rhyme label="c" type="m" corresp="#s3:l6">hier</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Van u o lief mijn <rhyme label="a" type="m">licht</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">Dus 't licht in my doch <rhyme label="a" type="m" corresp="#s4:l1">sticht</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Op op dat ick <rhyme label="b" type="m">u</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Oock mach houden <rhyme label="b" type="m" corresp="#s4:l3">nu</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Op op dat ick <rhyme label="b" type="m" corresp="#s4:l3">u</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Met vreucht, met vreucht, met <rhyme label="c" type="m">vreucht</rhyme>,</l>
+        <l id="s4:l7" met="5" type="-+">Mach houden voor die gheefster van mijn <rhyme label="c" type="m" corresp="#s4:l6">jeucht</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Die ziele neemt en <rhyme label="a" type="m">gheeft</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Zijt ghy Princes <rhyme label="a" type="m" corresp="#s5:l1">beleeft</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Dus dus't leven <rhyme label="b" type="m">schenckt</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Die door u is <rhyme label="b" type="m" corresp="#s5:l3">ghekrenckt</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">Dus dus 't leven <rhyme label="b" type="m" corresp="#s5:l3">schenckt</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Godin, Godin, <rhyme label="c" type="m">Godin</rhyme>,</l>
+        <l id="s5:l7" met="5" type="-+">Eer dat ick sterf sonder <rhyme label="c" type="m" corresp="#s5:l6">vveder-min</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

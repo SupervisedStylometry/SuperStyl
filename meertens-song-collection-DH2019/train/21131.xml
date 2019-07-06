@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21131</id>
+    <date>
+      <year-start>1649</year-start>
+      <year-end>1649</year-end>
+    </date>
+    <location>
+      <orginal-name>zaandam</orginal-name>
+      <standard-name>Zaandam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.4424926</lon>
+        <lat>4.8298607</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>O kerstnacht schoner dan de dagen</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Hendrik Jacobz. Soetenboom</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DE liefde, die u heeft <rhyme label="a" type="f">gesloten</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Moet door de trou al meer <rhyme label="a" type="f" corresp="#s1:l1">vergroten</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Soo blijftge in gestage <rhyme label="b" type="m">vreught</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">O! soete Twee, tot dat de <rhyme label="c" type="f">Jaren</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Verand'ren uwe blonde <rhyme label="c" type="f" corresp="#s1:l4">hayren</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">En stremmen uwe radde <rhyme label="b" type="m" corresp="#s1:l3">Jeught</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">O! goede Godt, stort uwe <rhyme label="a" type="f">zegen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Op hen, gelijck een <rhyme label="a" type="f" corresp="#s2:l1">Ochtend-regen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Die Bloem en Kruydt tot wasdom <rhyme label="b" type="m">voedt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Dat alles watse t'saem <rhyme label="c" type="f">beginnen</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Gedy tot nut, om soo te <rhyme label="c" type="f" corresp="#s2:l4">winnen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">By 't aerdtsch, voor al het Hemels <rhyme label="b" type="m" corresp="#s2:l3">goet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ey! laet de Bruydt, naer u <rhyme label="a" type="f">behagen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Toch als den Wijn-gaerdt vruchten <rhyme label="a" type="f" corresp="#s3:l1">dragen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Ter rechter, en bequamer <rhyme label="b" type="m">tijdt</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Dat, als een Kroon, hun Kind'ren <rhyme label="c" type="f">blijven</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Rondtom den Disch, gelijck <rhyme label="c" type="f" corresp="#s3:l4">Olijven</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Wiens wasdom yeder Mensch <rhyme label="b" type="m" corresp="#s3:l3">verblijdt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Soo maecktge hen bequaem tot <rhyme label="a" type="f">singen</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Van uwen lof, die alle <rhyme label="a" type="f" corresp="#s4:l1">dingen</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Regeert, door uwe stercke <rhyme label="b" type="m">handt</rhyme>;</l>
+        <l id="s4:l4" met="4" type="-+">Stuur, stuurtse op de rechte <rhyme label="c" type="f">paden</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Soo raecken sy, door dijn <rhyme label="c" type="f" corresp="#s4:l4">genaden</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">In 't eeuwigh vrolijck <rhyme label="b" type="m" corresp="#s4:l3">Vaderlandt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

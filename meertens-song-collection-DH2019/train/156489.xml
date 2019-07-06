@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>156489</id>
+    <date>
+      <year-start>1661</year-start>
+      <year-end>1661</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Ach schoonste nimf aanzie</melody>
+  <author>Cornelis Maertsz.</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">GEen and're stroom en kon Naaman af <rhyme label="a" type="f">wasschen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Sijn wit Melaetsche <rhyme label="b" type="m">vleck</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Als de Jordaen, die met haer suyv're <rhyme label="a" type="f" corresp="#s1:l1">plassen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Af-spoelde dat <rhyme label="b" type="m" corresp="#s1:l2">ghebreck</rhyme>:</l>
+        <l id="s1:l5" met="5" type="-+">Hoe wel hy meend, dat and're Sirisch' <rhyme label="c" type="f">stroomen</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Oock mee die kracht hebben <rhyme label="d" type="m">ghehadt</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">'t Was mis, alleen in 't Jordaens <rhyme label="d" type="m" corresp="#s1:l6">nat</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">Kon hy 't <rhyme label="c" type="f" corresp="#s1:l5">bekomen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Wy alle sijn Melaetsch door vuyle <rhyme label="a" type="f">sonden</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Van 't Hooft af tot de <rhyme label="b" type="m">voet</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Maer nergens wordt ghenesinghe <rhyme label="a" type="f" corresp="#s2:l1">gevonden</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Als in ons Heylandts <rhyme label="b" type="m" corresp="#s2:l2">bloet</rhyme>:</l>
+        <l id="s2:l5" met="5" type="-+">Behalven hem, geen naem hoe hoogh in <rhyme label="c" type="f">waerden</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Daer ons vergevingh in <rhyme label="d" type="m">gheschiet</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Self in den Heyl'ghen Hemel <rhyme label="d" type="m" corresp="#s2:l6">niet</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">Veel min op <rhyme label="c" type="f" corresp="#s2:l5">Aerden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

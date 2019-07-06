@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10595</id>
+    <date>
+      <year-start>1591</year-start>
+      <year-end>1591</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Het waren twee gespelen stout</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DIe my dit Bekerken schencken <rhyme label="a" type="m">deet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Die sal ic beminnenal wasser haer <rhyme label="a" type="m" corresp="#s1:l1">leet</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Dat syer my boot, dat syer my <rhyme label="b" type="m">boodt</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Dat had ick veel liever haer mondelijn <rhyme label="b" type="m" corresp="#s1:l3">root</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Al heb ick het meysken niet goets <rhyme label="a" type="m">genoech</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Het isser voor jonghe luy ymmer te <rhyme label="a" type="m" corresp="#s2:l1">vroech</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Om t'goetgen te raen, om t'goetgen te <rhyme label="b" type="m">raen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Daer laet ick de oude luy mede <rhyme label="b" type="m" corresp="#s2:l3">begaen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">De rijckdommen steken veel sorghen <rhyme label="a" type="m">in</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Hoe weyniger goets hoe vrolijcker <rhyme label="a" type="m" corresp="#s3:l1">sin</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Sy binnen al vroo // sy binnen al <rhyme label="b" type="m">vroo</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Diet bedde verteeren en slapen int <rhyme label="b" type="m" corresp="#s3:l3">stroo</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Die mijner dit croesgen zal doen <rhyme label="a" type="m">bescheyt</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Die sal ick beminnen al wasset haer <rhyme label="a" type="m" corresp="#s4:l1">leyt</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">En dencken daer an, en dencken daer <rhyme label="b" type="m">an</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Als icker vro morgens niet slapen en <rhyme label="b" type="m" corresp="#s4:l3">can</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

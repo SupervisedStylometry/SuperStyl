@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>7006</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>gent</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 113 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Lucas de Heere</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">GHy dienaeren des Heeren <rhyme label="a" type="m">goet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Looft hem prijst zijnen name <rhyme label="a" type="m" corresp="#s1:l1">zoet</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Die daer ghebenedijt moet <rhyme label="b" type="f">wesen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Van nu voort, en̄ t'alder <rhyme label="c" type="m">tijdt</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Van oost tot west breet ende <rhyme label="c" type="m" corresp="#s1:l4">wijt</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Zoo is zijnen name <rhyme label="b" type="f" corresp="#s1:l3">gheprezen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hoogh is verheuen God den <rhyme label="a" type="m">Heer</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Bouen alle gheslachten <rhyme label="a" type="m" corresp="#s2:l1">zeer</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En zijn eere die strect haer <rhyme label="b" type="f">mede</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Ouer alle d'Hemelen <rhyme label="c" type="m">rijck</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">VVie is ons Heere God <rhyme label="c" type="m" corresp="#s2:l4">ghelijc</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">VVonende in d'alder hooghste <rhyme label="b" type="f" corresp="#s2:l3">stede</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Die verneert en booght hem om <rhyme label="a" type="m">zien</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Hemel eerde en ooc alle <rhyme label="a" type="m" corresp="#s3:l1">lien</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Die d'ellendighe helpt wt den <rhyme label="b" type="f">sande</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">En den aermen wt den dreck <rhyme label="c" type="m">snoot</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Doende hem zitten by Princen <rhyme label="c" type="m" corresp="#s3:l4">groot</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Heeren van zinen volck en <rhyme label="b" type="f" corresp="#s3:l3">lande</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Hy eyst die huusghezinne <rhyme label="a" type="m">iont</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Die ontvruchtbaer was langhe <rhyme label="a" type="m" corresp="#s4:l1">stondt</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Haer maekende, deur zijn <rhyme label="b" type="f">ghenade</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Dat zi diuersche kinders <rhyme label="c" type="m">baert</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">Dies zi verblijdt, die was <rhyme label="c" type="m" corresp="#s4:l4">beswaert</rhyme>:</l>
+        <l id="s4:l6" met="4" type="-+">Looft dan den Heere vrouch en <rhyme label="b" type="f" corresp="#s4:l3">spade</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

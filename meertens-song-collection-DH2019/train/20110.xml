@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20110</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="ambachtslied" translation="trademan's song">ambachtslied</tag>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+    </tags>
+    <melody>Si c'est pour mon pucelage</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+      <category translation="work">werk</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">HEy, wat soe, dat mach ick <rhyme label="a" type="f">lyen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Laet eens hooren, waer ’s je <rhyme label="b" type="m">zwiep</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Wat, ‘k meende dat je <rhyme label="b" type="m" corresp="#s1:l2">sliep</rhyme>;</l>
+        <l id="s1:l4" met="4" type="+-">Maeck de raedtjes radt door ’t <rhyme label="a" type="f" corresp="#s1:l1">ryen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Laet jou Paertjes dravend <rhyme label="c" type="m">gaen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Strack sal daer een dronck op <rhyme label="c" type="m" corresp="#s1:l5">staen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Brengh ons op verscheye <rhyme label="a" type="f">wegen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Rijdt geen Bruggetjes <rhyme label="b" type="m">verby</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Maer al over, op dat <rhyme label="b" type="m" corresp="#s2:l2">wy</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">’t Heulen eens te degen <rhyme label="a" type="f" corresp="#s2:l1">plegen</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">Heulen, heulen, is ons <rhyme label="c" type="m">sin</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">’t Heulen brenght veel vreughden <rhyme label="c" type="m" corresp="#s2:l5">in</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Get, ick had my schier <rhyme label="a" type="f">verkeken</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">Sie, gins is een <rhyme label="b" type="m">Bonte-koe</rhyme>:</l>
+        <l id="s3:l3" met="4" type="+-">Lustigh Voerman, daer na <rhyme label="b" type="m" corresp="#s3:l2">toe</rhyme>.</l>
+        <l id="s3:l4" met="4" type="+-">Repje, by gantsch <rhyme label="a" type="f" corresp="#s3:l1">eleweken</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Kom mijn Susje, set je <rhyme label="c" type="m">schrap</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">En je montje vry in ’t <rhyme label="c" type="m" corresp="#s3:l5">krap</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Heer, hoe kenje jou oock <rhyme label="a" type="f">houwen</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">’t Is te bijster (lieve <rhyme label="b" type="m">kint</rhyme>)</l>
+        <l id="s4:l3" met="4" type="+-">Dat je nu dus weygerigh <rhyme label="b" type="m" corresp="#s4:l2">sint</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Niet een kusje? wel, ja <rhyme label="a" type="f" corresp="#s4:l1">trouwen</rhyme>,</l>
+        <l id="s4:l5" met="4" type="+-">Kijck mijn Moer, sy houdt haer <rhyme label="c" type="m">traegh</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">‘k Weet nochtans sy wil soo <rhyme label="c" type="m" corresp="#s4:l5">graegh</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Wel jy hoeft jou niet te <rhyme label="a" type="f">schamen</rhyme></l>
+        <l id="s5:l2" met="4" type="+-">Voor de Voerman, ’t staet doch <rhyme label="b" type="m">vry</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Als men hier of daer heen <rhyme label="b" type="m" corresp="#s5:l2">ry</rhyme>,</l>
+        <l id="s5:l4" met="4" type="+-">Om een luchjen, dus te <rhyme label="a" type="f" corresp="#s5:l1">samen</rhyme>,</l>
+        <l id="s5:l5" met="4" type="+-">‘k Weet wel dat de Voerman, in <rhyme label="c" type="m">‘t</rhyme></l>
+        <l id="s5:l6" met="4" type="+-">Heulen ook veel vreughde <rhyme label="c" type="m" corresp="#s5:l5">vindt</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">’k Sal jou doeckje niet <rhyme label="a" type="f">versollen</rhyme>,</l>
+        <l id="s6:l2" met="4" type="+-">Wees daer niet eens voor <rhyme label="b" type="m">vervaert</rhyme>:</l>
+        <l id="s6:l3" met="4" type="+-">‘k Sie dat ghy ’t Soo wel <rhyme label="b" type="m" corresp="#s6:l2">bewaert</rhyme>;</l>
+        <l id="s6:l4" met="4" type="+-">Gut, hoe sou ick jou daer <rhyme label="a" type="f" corresp="#s6:l1">rollen</rhyme>,</l>
+        <l id="s6:l5" met="4" type="+-">(Gints in ’t soete klav’re <rhyme label="c" type="m">gras</rhyme>)</l>
+        <l id="s6:l6" met="4" type="+-">Dat ick van de wagen <rhyme label="c" type="m" corresp="#s6:l5">was</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="+-">Houd hier Voerman, eens <rhyme label="a" type="f">gedroncken</rhyme>,</l>
+        <l id="s7:l2" met="4" type="+-">Dese Haven niet <rhyme label="b" type="m">voorby</rhyme>,</l>
+        <l id="s7:l3" met="4" type="+-">Soetertje treedt af met <rhyme label="b" type="m" corresp="#s7:l2">my</rhyme>.</l>
+        <l id="s7:l4" met="4" type="+-">Hospes kom, nu eens <rhyme label="a" type="f" corresp="#s7:l1">geschoncken</rhyme>,</l>
+        <l id="s7:l5" met="4" type="+-">Brengh de Voerman ook een <rhyme label="c" type="m">kan</rhyme>,</l>
+        <l id="s7:l6" met="4" type="+-">’t Is verdient, hy jaeght wel <rhyme label="c" type="m" corresp="#s7:l5">an</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

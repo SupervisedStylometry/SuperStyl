@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13933</id>
+    <date>
+      <year-start>1670</year-start>
+      <year-end>1670</year-end>
+    </date>
+    <location>
+      <orginal-name>middelburg</orginal-name>
+      <standard-name>Middelburg, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.4997302</lon>
+        <lat>3.6136962</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="nieuwjaarslied" translation="new year's song">nieuwjaarslied</tag>
+    </tags>
+    <melody>Cette cruelle</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author>M. van de Speybroek</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DOchters Jerusalems <rhyme label="a" type="f">ghepresen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Juygt uwen Koning met vreugden <rhyme label="b" type="m">in</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">Wilt toch van herten blijde <rhyme label="a" type="f" corresp="#s1:l1">wesen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Hy brandt al vast in uwe <rhyme label="b" type="m" corresp="#s1:l2">min</rhyme>:</l>
+        <l id="s1:l5" met="5" type="+-">Hy gaet verlaten // 's Vaders rijcke <rhyme label="c" type="m">schoon</rhyme>,</l>
+        <l id="s1:l6" met="5" type="+-">Tot uwer baten // en komt van den <rhyme label="c" type="m" corresp="#s1:l5">Throon</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Al om uwen <rhyme label="c" type="m" corresp="#s1:l5">persoon</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Gaet tot hem uyt met <rhyme label="a" type="f">offerhanden</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">En maeckt u lampen nu <rhyme label="b" type="m">bereyt</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Dat sy gestadig mogen <rhyme label="a" type="f" corresp="#s2:l1">branden</rhyme>;</l>
+        <l id="s2:l4" met="4" type="-+">Verciert u met dat <rhyme label="b" type="m" corresp="#s2:l2">Bruyloftskleyt</rhyme>,</l>
+        <l id="s2:l5" met="5" type="+-">So sal hy hebben lust // in u <rhyme label="c" type="m">cieraet</rhyme>:</l>
+        <l id="s2:l6" met="5" type="+-">Den Sone kust // eer dat ghy hier <rhyme label="c" type="m" corresp="#s2:l5">vergaet</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Al op den wege <rhyme label="c" type="m" corresp="#s2:l5">quaet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Valt uwen Koningh nu ter <rhyme label="a" type="f">voete</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Met die dry Wijsen uyt Oosten <rhyme label="b" type="m">Landt</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">Om hem in vreugden te <rhyme label="a" type="f" corresp="#s3:l1">ontmoeten</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Gy wert ontfangen met d' <rhyme label="b" type="m" corresp="#s3:l2">offerhandt</rhyme>:</l>
+        <l id="s3:l5" met="5" type="+-">Geleyt in vreden // tot sijn ruste <rhyme label="c" type="m">bloot</rhyme>,</l>
+        <l id="s3:l6" met="5" type="+-">Tot deser steden // zijn wy al <rhyme label="c" type="m" corresp="#s3:l5">ghenoot</rhyme>,</l>
+        <l id="s3:l7" met="3" type="-+">Van desen Koninck <rhyme label="c" type="m" corresp="#s3:l5">groot</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Om tot desen Koning te <rhyme label="a" type="f">gane</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Schijnt een Leydt-sterre tot een <rhyme label="b" type="m">Licht</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">Veel klaerder dan Sonne of <rhyme label="a" type="f" corresp="#s4:l1">Mane</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">'t Welck is sijn Woort in het <rhyme label="b" type="m" corresp="#s4:l2">ghesicht</rhyme>:</l>
+        <l id="s4:l5" met="5" type="+-">Die wilt u leyden // tot sijn Rijck <rhyme label="c" type="m">eerbaer</rhyme>,</l>
+        <l id="s4:l6" met="5" type="+-">En ons bereyden // een' saligh nieu <rhyme label="c" type="m" corresp="#s4:l5">Jaer</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Wensch ick u <rhyme label="c" type="m" corresp="#s4:l5">alle-gaer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

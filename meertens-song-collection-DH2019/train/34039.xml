@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34039</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
+    </tags>
+    <melody>Bedroefd hartje</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacob Rosant</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HEer Jesus heeft wel veertigh <rhyme label="a" type="f">dagen</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Na sijn Verrijsenis <rhyme label="b" type="m">verkeert</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Met sijn Discipels, die hem <rhyme label="a" type="f" corresp="#s1:l1">sagen</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Terwijl heeft hy haer veel <rhyme label="b" type="m" corresp="#s1:l2">geleert</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Uyt Moyses, en uyt de <rhyme label="a" type="f">Propheeten</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Uyt Davids Psalmen toond' hy <rhyme label="b" type="m">haer</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">'t Geen hy haer veel hadt laten <rhyme label="a" type="f" corresp="#s2:l1">weeten</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Hoe dat geschreven stondt seer <rhyme label="b" type="m" corresp="#s2:l2">klaer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Hy heeft ge-opent haer <rhyme label="a" type="f">verstanden</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Dat yder klarelijke <rhyme label="b" type="m">sagh</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Dat Christus sterven most met <rhyme label="a" type="f" corresp="#s3:l1">schanden</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Verrijsen weer ten derden <rhyme label="b" type="m" corresp="#s3:l2">dagh</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Men over-al moet gaen <rhyme label="a" type="f">verkonden</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">De Heydens in den Naem van <rhyme label="b" type="m">hem</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Boet' en vergiffenis der <rhyme label="a" type="f" corresp="#s4:l1">sonden</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Beginnend' van <rhyme label="b" type="m" corresp="#s4:l2">Jerusalem</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Gy sult hier van getuygen <rhyme label="a" type="f">weesen</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">En ik u senden sal, <rhyme label="b" type="m">voorwaer</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Dien ik u heb belooft voor <rhyme label="a" type="f" corresp="#s5:l1">deesen</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Den Heyl'gen Geeste van den <rhyme label="b" type="m" corresp="#s5:l2">Vaêr</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Maer sit soo lange stil in <rhyme label="a" type="f">steede</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Tot dat gy-lieden werd <rhyme label="b" type="m">vervult</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Van booven met de <rhyme label="a" type="f" corresp="#s6:l1">vroomigheede</rhyme>,</l>
+        <l id="s6:l4" met="4" type="-+">De welke gy ontfangen <rhyme label="b" type="m" corresp="#s6:l2">sult</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

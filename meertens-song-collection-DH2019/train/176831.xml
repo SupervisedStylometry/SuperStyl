@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176831</id>
+    <date>
+      <year-start>1683</year-start>
+      <year-end>1683</year-end>
+    </date>
+    <location>
+      <orginal-name>leeuwarden</orginal-name>
+      <standard-name>Leeuwarden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>53.2005936</lon>
+        <lat>5.7918548</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Ich ruf zu dir Herr Jesu Christ</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Hendrik Rintjes</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Godt Vader <rhyme label="a" type="m">ghebenedijt</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Wy moghen u wel <rhyme label="b" type="f">prijsen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Dat ghy ons soo ghenadigh <rhyme label="a" type="m" corresp="#s1:l1">zijt</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">En laet ons ziele <rhyme label="b" type="f" corresp="#s1:l2">spijsen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Door uwe Goddelijcke <rhyme label="c" type="m">Woort</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Dat wy alhier hebben <rhyme label="c" type="m" corresp="#s1:l5">ghehoort</rhyme>,</l>
+        <l id="s1:l7" met="5" type="-+">Daerom moeten u loven // Moeten u <rhyme label="d" type="f">loven</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">O groote Godt hier <rhyme label="d" type="f" corresp="#s1:l7">boven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Sterckt ons door u <rhyme label="a" type="m">ghenadicheyt</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Dat wy uws woorts <rhyme label="b" type="f">verklaren</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Van herten vyerich wel <rhyme label="a" type="m" corresp="#s2:l1">bereyt</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Ghetrouwelijck <rhyme label="b" type="f" corresp="#s2:l2">bewaren</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Op dat door ons u Heylighe <rhyme label="c" type="m">naem</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Mach ghe-eert worden seer <rhyme label="c" type="m" corresp="#s2:l5">bequaem</rhyme>,</l>
+        <l id="s2:l7" met="5" type="-+">En haer noch veel bekeren, noch veel <rhyme label="d" type="f">bekeren</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Met ons u naem te <rhyme label="d" type="f" corresp="#s2:l7">eeren</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Lof, prijs en danck zy Godt den <rhyme label="a" type="m">Vaer</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Door Christum sijnen <rhyme label="b" type="f">Soone</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Van ons ghegheven <rhyme label="a" type="m" corresp="#s3:l1">allegaer</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Voor sijn weldaden <rhyme label="b" type="f" corresp="#s3:l2">schoone</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Nu hier den tijdt voor handen <rhyme label="c" type="m">is</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Dat wy sullen scheyden <rhyme label="c" type="m" corresp="#s3:l5">ghewis</rhyme>,</l>
+        <l id="s3:l7" met="5" type="-+">Wil ick u al-te-samen // U <rhyme label="d" type="f">al-te-samen</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Den Heer bevelen, <rhyme label="d" type="f" corresp="#s3:l7">Amen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

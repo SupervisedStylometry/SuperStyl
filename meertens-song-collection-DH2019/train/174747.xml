@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>174747</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody>Hoor kinderen wat een klaar geluid</melody>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Hoort, kindren! wat een klaar <rhyme label="a" type="m">geluid</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Dringt ginder door de bladren <rhyme label="b" type="m">heen</rhyme>!</l>
+        <l id="s1:l3" met="4" type="-+">De vogels zijn allang in <rhyme label="c" type="m">slaap</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">En zóó, zoo zingt er zeker <rhyme label="b" type="m" corresp="#s1:l2">geen</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Wie of zóó heerlijk zingen <rhyme label="d" type="m">kan</rhyme>?</l>
+        <l id="s1:l6" met="4" type="-+">'t Is waar, mijn hartje klopt er <rhyme label="d" type="m" corresp="#s1:l5">van</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Stil! - Dat is vast de <rhyme label="a" type="m">nachtegaal</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Daar Moeder lest zooveel van <rhyme label="b" type="m">zeî</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">'k Wist niet, dat dàt te hooren <rhyme label="c" type="m">was</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Wanneer men ons te slapen <rhyme label="b" type="m" corresp="#s2:l2">leî</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">'k Had anders Moeder lang <rhyme label="d" type="m">verzocht</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Of ik wat laat naar bed toe <rhyme label="d" type="m" corresp="#s2:l5">mogt</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Och! zoo ik ooit weêr ziek mogt <rhyme label="a" type="m">zijn</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">'k Woû, dat het voorjaar dan <rhyme label="b" type="m">begon</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">Dan hoorde ik vast den <rhyme label="c" type="m">nachtegaal</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Wanneer ik 's nachts niet slapen <rhyme label="b" type="m" corresp="#s3:l2">kon</rhyme>! -</l>
+        <l id="s3:l5" met="4" type="-+">Zeg, Moeder! zingt dat lieve <rhyme label="d" type="m">beest</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Wel niet voor zieke kindren <rhyme label="d" type="m" corresp="#s3:l5">meest</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

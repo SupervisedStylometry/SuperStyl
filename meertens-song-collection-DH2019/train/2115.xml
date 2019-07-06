@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>2115</id>
+    <date>
+      <year-start>1674</year-start>
+      <year-end>1674</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="devoot lied" translation="devotional song">devoot lied</tag>
+    </tags>
+    <melody>Ik drink de nieuwe most</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Daniel Bellemans</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O JESU <rhyme label="a" type="m">Maeghde-kroon</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">O Jesu mynen <rhyme label="a" type="m" corresp="#s1:l1">loon</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Myn Saligheydt, myn alderhooghste <rhyme label="b" type="m">goet</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Die myn ghemoet naer u verlanghen <rhyme label="b" type="m" corresp="#s1:l3">doet</rhyme>;</l>
+        <l id="s1:l5" met="3" type="-+">O <rhyme label="c" type="m">Hemels-Paradys</rhyme>!</l>
+        <l id="s1:l6" met="5" type="-+">O saligh Vader-landt, waer-naer ick <rhyme label="c" type="m" corresp="#s1:l5">reys</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">O groote <rhyme label="d" type="f">vreughden</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">Voor kleyne <rhyme label="d" type="f" corresp="#s1:l7">deughden</rhyme>;</l>
+        <l id="s1:l9" met="3" type="-+">O langhe <rhyme label="e" type="m">eeuwigheydt</rhyme></l>
+        <l id="s1:l10" met="4" type="-+">Bereydt voor korten <rhyme label="e" type="m" corresp="#s1:l9">arebydt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Gheluckigh <rhyme label="a" type="m">hondert-mael</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Die in des <rhyme label="a" type="m" corresp="#s2:l1">Hemels-Sael</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">Verdroncken zyn in Goddelycke <rhyme label="b" type="m">vreught</rhyme>,</l>
+        <l id="s2:l4" met="5" type="-+">Met Godt, door Godt, in Godt soo seer <rhyme label="b" type="m" corresp="#s2:l3">verheught</rhyme>:</l>
+        <l id="s2:l5" met="3" type="-+">O vredsaem <rhyme label="c" type="m">Koningh-ryck</rhyme>,</l>
+        <l id="s2:l6" met="5" type="-+">Verr' boven 's Wereldts modder ende <rhyme label="c" type="m" corresp="#s2:l5">slyck</rhyme>,</l>
+        <l id="s2:l7" met="2" type="-+">Daer t'alle <rhyme label="d" type="f">kanten</rhyme></l>
+        <l id="s2:l8" met="2" type="-+">Staen <rhyme label="d" type="f" corresp="#s2:l7">Diamanten</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">Daer gulde Sterren <rhyme label="e" type="m">staen</rhyme>,</l>
+        <l id="s2:l10" met="4" type="-+">Daer Son en Maen noyt <rhyme label="e" type="m" corresp="#s2:l9">ondergaen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Heer' Jesu 't is my <rhyme label="a" type="m">pyn</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">In ballinghschap te <rhyme label="a" type="m" corresp="#s3:l1">zyn</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">In druck en smert' van 's <rhyme label="b" type="m">Wereldts</rhyme></l>
+        <l id="s3:l4" met="5" type="-+"><rhyme label="b" type="m" corresp="#s3:l3">Tranen-dal</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">Daer kruycen zyn en droef heydt <rhyme label="c" type="m">over-al</rhyme>:</l>
+        <l id="s3:l6" met="5" type="-+">Myn hert' haeckt naer de <rhyme label="c" type="m" corresp="#s3:l5">Kroon</rhyme>,</l>
+        <l id="s3:l7" met="2" type="-+">Naer mynen Godt, myn' <rhyme label="d" type="f">Kroon</rhyme>,</l>
+        <l id="s3:l8" met="2" type="-+">En mynen <rhyme label="d" type="f" corresp="#s3:l7">loon</rhyme>,</l>
+        <l id="s3:l9" met="3" type="-+">Naer Jesum <rhyme label="e" type="m">trachten</rhyme></l>
+        <l id="s3:l10" met="4" type="-+">Al myn' <rhyme label="e" type="m" corresp="#s3:l9">ghedachten</rhyme>;</l>
+      </lg>
+    </lg>
+  </text>
+</song>

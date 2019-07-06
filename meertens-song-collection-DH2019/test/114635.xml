@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>114635</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="heiligenlied" translation="saint song">heiligenlied</tag>
+    </tags>
+    <melody>Déesse dont la beauté</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">BEnedicte, van den <rhyme label="a" type="m">Heer</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">In sijn glorie hoogh <rhyme label="b" type="f">verheven</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Die ghy hier beminde <rhyme label="a" type="m" corresp="#s1:l1">seer</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Hebt behaeght door 't heyligh <rhyme label="b" type="f" corresp="#s1:l2">leven</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Gheeft mijn kleynheydt doch <rhyme label="c" type="m">verlof</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Dat ick singhe uwen <rhyme label="c" type="m" corresp="#s1:l5">lof</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Seer zijt ghy <rhyme label="a" type="m">ghebenedijt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Nae de naem aen u <rhyme label="b" type="f">ghegheven</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Die berughticht nu soo <rhyme label="a" type="m" corresp="#s2:l1">wijt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Sal in allen eeuwen <rhyme label="b" type="f" corresp="#s2:l2">leven</rhyme>:</l>
+        <l id="s2:l5" met="4" type="+-">U gheluckich vruchtbaer <rhyme label="c" type="m">saet</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Groeit en bloeit nu sonder <rhyme label="c" type="m" corresp="#s2:l5">maet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">G' hebt u heel tot Godt <rhyme label="a" type="m">ghewendt</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">In een spelonck u <rhyme label="b" type="f">verborghen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Aen Romano maer <rhyme label="a" type="m" corresp="#s3:l1">bekent</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Die van spijs u moest <rhyme label="b" type="f" corresp="#s3:l2">besorghen</rhyme>:</l>
+        <l id="s3:l5" met="4" type="+-">Godt met iever hebdy <rhyme label="c" type="m">daer</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">Ghedient tot in 't derde <rhyme label="c" type="m" corresp="#s3:l5">jaer</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Maer ghecomen daer in 't <rhyme label="a" type="m">licht</rhyme>,</l>
+        <l id="s4:l2" met="4" type="+-">Seer wijt vermaert door u <rhyme label="b" type="f">deughden</rhyme>,</l>
+        <l id="s4:l3" met="4" type="+-">'t Welf cloosters g' hebt <rhyme label="a" type="m" corresp="#s4:l1">ghesticht</rhyme>,</l>
+        <l id="s4:l4" met="4" type="+-">Onder u die Godt met <rhyme label="b" type="f" corresp="#s4:l2">vreughden</rhyme></l>
+        <l id="s4:l5" met="4" type="+-">Hebben nacht en dach <rhyme label="c" type="m">ghedient</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">En als vader u <rhyme label="c" type="m" corresp="#s4:l5">bemint</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Nae Cassinen ghy daer <rhyme label="a" type="m">naer</rhyme></l>
+        <l id="s5:l2" met="4" type="+-">Troct, waer ghy het veldt deet <rhyme label="b" type="f">vellen</rhyme></l>
+        <l id="s5:l3" met="4" type="+-">Van Apollo, en hebt <rhyme label="a" type="m" corresp="#s5:l1">daer</rhyme></l>
+        <l id="s5:l4" met="4" type="+-">Een capell' in plaets doen <rhyme label="b" type="f" corresp="#s5:l2">stellen</rhyme>,</l>
+        <l id="s5:l5" met="4" type="+-">Daer Martinus wert <rhyme label="c" type="m">vereert</rhyme>,</l>
+        <l id="s5:l6" met="4" type="+-">Van het volck, door u <rhyme label="c" type="m" corresp="#s5:l5">bekeert</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="+-">Daer hebdy u doodt <rhyme label="a" type="m">voorseyt</rhyme>,</l>
+        <l id="s6:l2" met="4" type="+-">Rijck van alle <rhyme label="b" type="f">deughden</rhyme>,</l>
+        <l id="s6:l3" met="4" type="+-">En u graf in tijdts <rhyme label="a" type="m" corresp="#s6:l1">bereyt</rhyme>,</l>
+        <l id="s6:l4" met="4" type="+-">En nu sitt' in <rhyme label="b" type="f" corresp="#s6:l2">vreughden</rhyme>.</l>
+        <l id="s6:l5" met="4" type="+-">Maer op ons u oogh eens <rhyme label="c" type="m">slaet</rhyme>,</l>
+        <l id="s6:l6" met="4" type="+-">By met u ghebedt ons <rhyme label="c" type="m" corresp="#s6:l5">staet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

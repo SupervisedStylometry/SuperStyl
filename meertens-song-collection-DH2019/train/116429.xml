@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>116429</id>
+    <date>
+      <year-start>1681</year-start>
+      <year-end>1681</year-end>
+    </date>
+    <location>
+      <orginal-name>alkmaar</orginal-name>
+      <standard-name>Alkmaar, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.6312592</lon>
+        <lat>4.7503798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody>Verjubileer u gij Venus' jongens</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Claes Stapel</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">O Heere! Gy staat al-tijd in mijnen <rhyme label="a" type="f">zinne</rhyme>:</l>
+        <l id="s1:l2" met="4" type="-+">Mijn ziele verlanget om by U te <rhyme label="b" type="m">zijn</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Mijn hert is door-brooken van uwen <rhyme label="a" type="f" corresp="#s1:l1">minne</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">O wanneer zal ik koomen voor uw <rhyme label="b" type="m" corresp="#s1:l2">aanschijn</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">'t En lust my niet langer, o Heere! hier te <rhyme label="a" type="f">blijven</rhyme>.</l>
+        <l id="s2:l2" met="4" type="-+">Mijn ziele verlanget om by U te <rhyme label="b" type="m">zijn</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">O zaalige uure, die my zal <rhyme label="a" type="f" corresp="#s2:l1">ont-lijven</rhyme>!</l>
+        <l id="s2:l4" met="4" type="-+">O wanneer zal ik koomen voor uw <rhyme label="b" type="m" corresp="#s2:l2">aanschijn</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wech Weereld, wech, gy kond my niet <rhyme label="a" type="f">behaagen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Mijn ziele verlanget naa de Heemelze <rhyme label="b" type="m">goed</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Aan-lokkende legt gy bedekte <rhyme label="a" type="f" corresp="#s3:l1">laagen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">O wanneer zal eens koomen dat waare <rhyme label="b" type="m" corresp="#s3:l2">zoet</rhyme>!</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">By U, Heer! is vreugde de volheid te <rhyme label="a" type="f">vinden</rhyme>.</l>
+        <l id="s4:l2" met="4" type="-+">Mijn ziele verlanget om by U te <rhyme label="b" type="m">zijn</rhyme>.</l>
+        <l id="s4:l3" met="4" type="-+">Wild my met de snoeren der liefden aan U <rhyme label="a" type="f" corresp="#s4:l1">binden</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">O wanneer zal ik koomen voor uw <rhyme label="b" type="m" corresp="#s4:l2">aanschijn</rhyme>!</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Licht, zoet en lief'lijk, o Christus! zijn uw <rhyme label="a" type="f">paaden</rhyme>.</l>
+        <l id="s5:l2" met="4" type="-+">Mijn ziele verlanget om by U te <rhyme label="b" type="m">zijn</rhyme>.</l>
+        <l id="s5:l3" met="4" type="-+">Gy kund alleene mijns herten lust <rhyme label="a" type="f" corresp="#s5:l1">verzaaden</rhyme>.</l>
+        <l id="s5:l4" met="4" type="-+">O wanneer zal ik koomen voor uw <rhyme label="b" type="m" corresp="#s5:l2">aanschijn</rhyme>!</l>
+      </lg>
+    </lg>
+  </text>
+</song>

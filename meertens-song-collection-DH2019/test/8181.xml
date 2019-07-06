@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>8181</id>
+    <date>
+      <year-start>1678</year-start>
+      <year-end>1678</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Belle Iris</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">OVerschoone soete <rhyme label="a" type="m">beelt</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Uwe geur die ruykt als <rhyme label="b" type="f">Flora</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">En u glans blinckt als <rhyme label="b" type="f" corresp="#s1:l2">Aurora</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Venus selfs in u <rhyme label="a" type="m" corresp="#s1:l1">speelt</rhyme>:</l>
+        <l id="s1:l5" met="4" type="+-">Puykje, 't soetst van alle <rhyme label="c" type="f">maagden</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Glans en parel van de <rhyme label="d" type="m">deucht</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Die soo meenigh borst <rhyme label="c" type="f" corresp="#s1:l5">behaaghden</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">En verweckt tot Venus <rhyme label="d" type="m" corresp="#s1:l6">vreucht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

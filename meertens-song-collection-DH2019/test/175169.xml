@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175169</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wie 't lekkerst eet en altijd <rhyme label="a" type="m">graag</rhyme>.....</l>
+        <l id="s1:l2" met="3" type="-+">Dàt weet ik en ter <rhyme label="b" type="f">dege</rhyme>: -</l>
+        <l id="s1:l3" met="4" type="-+">Die daaglijks van zijn volle <rhyme label="a" type="m" corresp="#s1:l1">maag</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Iets afhoudt voor een <rhyme label="b" type="f" corresp="#s1:l2">leêge</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Het beste middel tot <rhyme label="a" type="m">aptijt</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Dat 'k ooit nog heb <rhyme label="b" type="f">geweten</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Dat is: een' man, die honger <rhyme label="a" type="m" corresp="#s2:l1">lijdt</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Eens smaaklijk te zien <rhyme label="b" type="f" corresp="#s2:l2">eten</rhyme>!</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Of gij dus weinig hebt of <rhyme label="a" type="m">veel</rhyme>....</l>
+        <l id="s3:l2" met="3" type="-+">Mogt gij regt smullen <rhyme label="b" type="f">willen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Laat dan het halfjen of een <rhyme label="a" type="m" corresp="#s3:l1">deel</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Der armren honger <rhyme label="b" type="f" corresp="#s3:l2">stillen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

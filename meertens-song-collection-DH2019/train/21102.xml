@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21102</id>
+    <date>
+      <year-start>1649</year-start>
+      <year-end>1649</year-end>
+    </date>
+    <location>
+      <orginal-name>zaandam</orginal-name>
+      <standard-name>Zaandam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.4424926</lon>
+        <lat>4.8298607</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Wie schön leuchtet der Morgenstern</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Hendrik Jacobz. Soetenboom</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wat ist een vreughde voor den <rhyme label="a" type="m">mensch</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Als hy verkrijght zijns harten <rhyme label="a" type="m" corresp="#s1:l1">wensch</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Het is een nieuwe <rhyme label="b" type="f">leven</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Het is een licht voor <rhyme label="c" type="m">duysternis</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Een vryheyt voor <rhyme label="c" type="m" corresp="#s1:l4">gevanckenis</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Een springen voor een <rhyme label="b" type="f" corresp="#s1:l3">beven</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Als 't hart, van <rhyme label="d" type="m">smart</rhyme>,</l>
+        <l id="s1:l8" met="6" type="+-">Ongesonden, en van wonden, is <rhyme label="e" type="f">ontbonden</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">'t Is een vreughde niet om <rhyme label="e" type="f" corresp="#s1:l8">gronden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als yemant maer tot angelen <rhyme label="a" type="m">staet</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">En siet hoe 'er sijn dobber <rhyme label="a" type="m" corresp="#s2:l1">gaet</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Als 't visje maer eens <rhyme label="b" type="f">tucket</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Het is voor hem een groot <rhyme label="c" type="m">gerijf</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Terstont verblijt zijn hart in 't <rhyme label="c" type="m" corresp="#s2:l4">lijf</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">De ziel die wordt <rhyme label="b" type="f" corresp="#s2:l3">verrucket</rhyme>,</l>
+        <l id="s2:l7" met="2" type="-+">Om ras, op t <rhyme label="d" type="m">pas</rhyme>,</l>
+        <l id="s2:l8" met="6" type="+-">Met verlangen, na veel gangen, visch te <rhyme label="e" type="f">vangen</rhyme>,</l>
+        <l id="s2:l9" met="4" type="+-">Maer wat vreught als het blijft <rhyme label="e" type="f" corresp="#s2:l8">hangen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Een jager die nae 't wilde <rhyme label="a" type="m">jaeght</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">En hier en daer na 't wilde <rhyme label="a" type="m" corresp="#s3:l1">vraeght</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Wanneer men hem 't wild' <rhyme label="b" type="f">wijset</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Het is voor hem geweldigh <rhyme label="c" type="m">soet</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Hy rijdt te paerd', hy loopt te <rhyme label="c" type="m" corresp="#s3:l4">voet</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">De Bergen hy <rhyme label="b" type="f" corresp="#s3:l3">op-stijget</rhyme>,</l>
+        <l id="s3:l7" met="2" type="-+">En daelt, en <rhyme label="d" type="m">dwaelt</rhyme>,</l>
+        <l id="s3:l8" met="6" type="+-">En hy hijget, en hy sijget, en hy <rhyme label="e" type="f">swijget</rhyme>,</l>
+        <l id="s3:l9" met="4" type="+-">Maer wat vreught als hy 't wildt <rhyme label="e" type="f" corresp="#s3:l8">krijget</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Wat moet'er dan een vreughde <rhyme label="a" type="m">zijn</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Als 't hart, bedwelmt van <rhyme label="a" type="m" corresp="#s4:l1">minne-pijn</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Zijn weer-helft gaet <rhyme label="b" type="f">om-soecken</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">En vintse dan na sijnen <rhyme label="c" type="m">wensch</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Het maeckt gewis een nieuwen <rhyme label="c" type="m" corresp="#s4:l4">mensch</rhyme>,</l>
+        <l id="s4:l6" met="3" type="-+">'t Is vreught in allen <rhyme label="b" type="f" corresp="#s4:l3">hoecken</rhyme>:</l>
+        <l id="s4:l7" met="2" type="-+">Een vrouw, die <rhyme label="d" type="m">trouw</rhyme>,</l>
+        <l id="s4:l8" met="6" type="+-">In haer vonden, t' allen stonden, is <rhyme label="e" type="f">bevonden</rhyme>,</l>
+        <l id="s4:l9" met="4" type="+-">'t Is een vreught in hart en <rhyme label="e" type="f" corresp="#s4:l8">monden</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Dit proeft ghy nu Heer <rhyme label="a" type="m">Bruydegom</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Ghy zijt u liefste <rhyme label="a" type="m" corresp="#s5:l1">wellekom</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">Oock welkom moet u <rhyme label="b" type="f">wesen</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">V lieve Bruydt, die aen u <rhyme label="c" type="m">zy</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Geseten is u dichte <rhyme label="c" type="m" corresp="#s5:l4">by</rhyme>.</l>
+        <l id="s5:l6" met="3" type="-+">Oock welkom zijn by <rhyme label="b" type="f" corresp="#s5:l3">desen</rhyme>,</l>
+        <l id="s5:l7" met="2" type="-+">Welkom, <rhyme label="d" type="m">rondtom</rhyme>,</l>
+        <l id="s5:l8" met="6" type="+-">Al de vrinden, wel-gesinden, de <rhyme label="e" type="f">beminden</rhyme>,</l>
+        <l id="s5:l9" met="4" type="+-">Die sigh op de Bruyloft <rhyme label="e" type="f" corresp="#s5:l8">vinden</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Wy zijn met u, o Bruydegom, <rhyme label="a" type="m">bly</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">'t Is vreught voor ons, 't is vreught voor <rhyme label="a" type="m" corresp="#s6:l1">dy</rhyme>,</l>
+        <l id="s6:l3" met="3" type="-+">'t Is vreught voor u <rhyme label="b" type="f">Vriendinne</rhyme>:</l>
+        <l id="s6:l4" met="4" type="-+">De Heere geef u beyd' te <rhyme label="c" type="m">saem</rhyme>,</l>
+        <l id="s6:l5" met="4" type="-+">Dat ghy meught leven seer <rhyme label="c" type="m" corresp="#s6:l4">bequaem</rhyme>,</l>
+        <l id="s6:l6" met="3" type="-+">Met zegen in 't <rhyme label="b" type="f" corresp="#s6:l3">beginne</rhyme>;</l>
+        <l id="s6:l7" met="2" type="-+">En voort, alst <rhyme label="d" type="m">hoort</rhyme>,</l>
+        <l id="s6:l8" met="6" type="+-">In u wegen, als een regen, wel te <rhyme label="e" type="f">degen</rhyme>,</l>
+        <l id="s6:l9" met="4" type="+-">Altijdt meught beleven <rhyme label="e" type="f" corresp="#s6:l8">zegen</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">'t Is Godt de Heer die 't lieve <rhyme label="a" type="m">Paer</rhyme>,</l>
+        <l id="s7:l2" met="4" type="-+">Seer lieffelijcken by <rhyme label="a" type="m" corresp="#s7:l1">malkaer</rhyme>,</l>
+        <l id="s7:l3" met="3" type="-+">Te samen heeft <rhyme label="b" type="f">gebonden</rhyme>:</l>
+        <l id="s7:l4" met="4" type="-+">Wel vrienden laet ons al te <rhyme label="c" type="m">saem</rhyme></l>
+        <l id="s7:l5" met="4" type="-+">Met sangen prijsen Godes <rhyme label="c" type="m" corresp="#s7:l4">naem</rhyme>,</l>
+        <l id="s7:l6" met="3" type="-+">Sijn eer met eer <rhyme label="b" type="f" corresp="#s7:l3">verkonden</rhyme>:</l>
+        <l id="s7:l7" met="2" type="-+">Vry uyt, <rhyme label="d" type="m">geluyt</rhyme>,</l>
+        <l id="s7:l8" met="6" type="+-">Laet de keelen, nu eens queelen, met ons <rhyme label="e" type="f">veelen</rhyme>,</l>
+        <l id="s7:l9" met="4" type="+-">Handt en tongh, Muzijck <rhyme label="e" type="f" corresp="#s7:l8">speelen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

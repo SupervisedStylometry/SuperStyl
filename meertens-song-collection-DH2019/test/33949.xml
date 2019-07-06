@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>33949</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Fortuin helaas</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">ALs d'Heydens woud' hem sien, sprak Iesus deese <rhyme label="a" type="m">reen</rhyme>,</l>
+        <l id="s1:l2" met="6" type="-+">Voorwaer, voorwaer ik seg, indien een <rhyme label="b" type="m">Koren-graen</rhyme></l>
+        <l id="s1:l3" met="6" type="-+">In d'aerde niet en valt, en sterve, blijft <rhyme label="a" type="m" corresp="#s1:l1">alleen</rhyme>;</l>
+        <l id="s1:l4" met="6" type="-+">Maer alst verstorven is komt daer veel vrugten <rhyme label="b" type="m" corresp="#s1:l2">aen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Soo wie sijn siel bemint, die sal bedorven <rhyme label="a" type="m">sijn</rhyme>;</l>
+        <l id="s2:l2" met="6" type="-+">Die in dees Weerelt haet sijn siele, die <rhyme label="b" type="m">bewaert</rhyme></l>
+        <l id="s2:l3" met="6" type="-+">Ten eeuwigh leeven; die mijn dient, die volge <rhyme label="a" type="m" corresp="#s2:l1">mijn</rhyme>;</l>
+        <l id="s2:l4" met="6" type="-+">En daer ik ben, daer sal mijn dienaer sijn <rhyme label="b" type="m" corresp="#s2:l2">vergaert</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="6" type="-+">En van mijn Vader sal mijn dienaer sijn <rhyme label="a" type="m">geëert</rhyme>.</l>
+        <l id="s3:l2" met="6" type="-+">O Jesu, stelt ons in uw dienaren <rhyme label="b" type="m">getal</rhyme>,</l>
+        <l id="s3:l3" met="6" type="-+">Op dat wy dienen u gelijk als gy <rhyme label="a" type="m" corresp="#s3:l1">begeert</rhyme>,</l>
+        <l id="s3:l4" met="6" type="-+">Wy willen goet en bloet  voor u vergieten <rhyme label="b" type="m" corresp="#s3:l2">al</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

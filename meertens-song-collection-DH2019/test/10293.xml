@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10293</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Je ne puis éviter</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Bedroghen <rhyme label="a" type="m">nimmermeer</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Dat sweer ick by mijn <rhyme label="a" type="m" corresp="#s1:l1">eer</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Ay set u hier wat <rhyme label="a" type="m" corresp="#s1:l1">neer</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Mijn <rhyme label="b" type="m">Sylvia</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Ick sal 't u doen <rhyme label="c" type="m">verstaen</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Hoe het is <rhyme label="c" type="m" corresp="#s1:l5">toe-ghegaen</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Dus wilt niet <rhyme label="d" type="f">vreesen</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">Mijn <rhyme label="d" type="f" corresp="#s1:l7">uytghelesen</rhyme>,</l>
+        <l id="s1:l9" met="2" type="-+">Mijn waerd' <rhyme label="b" type="m" corresp="#s1:l4">Ega</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

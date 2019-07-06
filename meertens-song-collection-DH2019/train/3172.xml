@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3172</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Gaillarde Margriet</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anthony Jansen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="6" type="-+">HEylich Godt, ghy die ons so menichmael <rhyme label="a" type="m">behoedt</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">En onse Zielen met u gunste <rhyme label="a" type="m" corresp="#s1:l1">voedt</rhyme>:</l>
+        <l id="s1:l3" met="2" type="-+">Wiltse ons <rhyme label="b" type="f">gheven</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Soo langhe als wy <rhyme label="b" type="f" corresp="#s1:l3">leven</rhyme>:</l>
+        <l id="s1:l5" met="6" type="+-">Want sonder u gunste soo vallen wy <rhyme label="c" type="m">ne'er</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">En blijven ter Doodt toe <rhyme label="d" type="m">ghewondt</rhyme>:</l>
+        <l id="s1:l7" met="4" type="-+">Maer uw gunste verheft ons <rhyme label="c" type="m" corresp="#s1:l5">we'er</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">En maeckt ons weder <rhyme label="d" type="m" corresp="#s1:l6">ghesont</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="6" type="-+">Heyligh God, hoed ons staeg voor sulcken leet en <rhyme label="a" type="m">rouw</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Die onse Ziel ter neder drucken <rhyme label="a" type="m" corresp="#s2:l1">souw</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Wilt ons <rhyme label="b" type="f">bewaren</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Op dat wy eens <rhyme label="b" type="f" corresp="#s2:l3">vergaren</rhyme>,</l>
+        <l id="s2:l5" met="6" type="+-">Als Jesus eens komt en de Wolcken <rhyme label="c" type="m">deursnijdt</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Om richten de wereldsche <rhyme label="d" type="m">Schaer</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Dat wy dan zijn van quael <rhyme label="c" type="m" corresp="#s2:l5">bevrijdt</rhyme>:</l>
+        <l id="s2:l8" met="4" type="+-">O Godt! hier suchten wy <rhyme label="d" type="m" corresp="#s2:l6">naer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

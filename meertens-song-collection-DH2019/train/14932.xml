@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14932</id>
+    <date>
+      <year-start>1622</year-start>
+      <year-end>1622</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">BEwoonders van dit <rhyme label="a" type="m">laagh</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Diet Minne vier gaet <rhyme label="b" type="f">roosten</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">En stadich beult een Promotheus <rhyme label="c" type="m">quael</rhyme></l>
+        <l id="s1:l4" met="2" type="-+">Hoort <rhyme label="c" type="m" corresp="#s1:l3">altemael</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Myn pyn en droefheyt <rhyme label="a" type="m" corresp="#s1:l1">clacht</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Laet die u sielen <rhyme label="b" type="f" corresp="#s1:l2">troosten</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Ach! ach! ick bent <rhyme label="a" type="m">alleen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Die stadelijck moet <rhyme label="b" type="f">suchten</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Onder t’ghesnor van Ixiones <rhyme label="c" type="m">rat</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">En t’Boomloos <rhyme label="c" type="m" corresp="#s2:l3">vat</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Oock by het staagh <rhyme label="a" type="m" corresp="#s2:l1">gheween</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">In Tartars  rouw <rhyme label="b" type="f" corresp="#s2:l2">ghehuchte</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Waer het verdoemt <rhyme label="a" type="m">ghedrocht</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Door Thesiphont moet <rhyme label="b" type="f">kermen</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Ick rol vermoyt Sisippus harde <rhyme label="c" type="m">steen</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">En anders <rhyme label="c" type="m" corresp="#s3:l3">gheen</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Als ick bent, die <rhyme label="a" type="m" corresp="#s3:l1">bevocht</rhyme></l>
+        <l id="s3:l6" met="3" type="-+">Dien Hydra snel int <rhyme label="b" type="f" corresp="#s3:l2">schermen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Tantalus dorst myn <rhyme label="a" type="m">keel</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">En hongher staagh doet <rhyme label="b" type="f">gaepen</rhyme></l>
+        <l id="s4:l3" met="5" type="-+">Een altijt brandent vier myn siele <rhyme label="c" type="m">roost</rhyme></l>
+        <l id="s4:l4" met="2" type="-+">En nummer <rhyme label="c" type="m" corresp="#s4:l3">troost</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Dies is te recht myn <rhyme label="a" type="m" corresp="#s4:l1">deel</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Ontydich en <rhyme label="b" type="f" corresp="#s4:l2">wanschaepen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

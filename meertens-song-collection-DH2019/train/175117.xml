@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175117</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Of ge deur en venster <rhyme label="a" type="m">sluit</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Booze dieven, booze <rhyme label="b" type="f">boeven</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Die berooven en <rhyme label="b" type="f" corresp="#s1:l2">bedroeven</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Weert ge daarmeê 't huis niet <rhyme label="a" type="m" corresp="#s1:l1">uit</rhyme>!</l>
+        <l id="s1:l5" met="4" type="+-">Neen! twee schildwachts moet ge <rhyme label="c" type="f">kiezen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Wilt ge geld noch rust <rhyme label="c" type="f" corresp="#s1:l5">verliezen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">‘Arbeid’ sta getrouw op <rhyme label="a" type="m">post</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Om voor ‘buitenshuis’ te <rhyme label="b" type="f">zorgen</rhyme>;</l>
+        <l id="s2:l3" met="4" type="+-">Wakend van den vroegen <rhyme label="b" type="f" corresp="#s2:l2">morgen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">'s Avonds laat pas <rhyme label="a" type="m" corresp="#s2:l1">afgelost</rhyme>; -</l>
+        <l id="s2:l5" met="4" type="+-">‘Liefde’ hoû, met kalme <rhyme label="c" type="f">zinnen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Vroom en ijvrig wacht ‘van <rhyme label="c" type="f" corresp="#s2:l5">binnen</rhyme>.’</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Waar die beiden staan op <rhyme label="a" type="m">wacht</rhyme>,</l>
+        <l id="s3:l2" met="4" type="+-">En de blanke wapens <rhyme label="b" type="f">trekken</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">Als ze boef of dief <rhyme label="b" type="f" corresp="#s3:l2">ontdekken</rhyme>,</l>
+        <l id="s3:l4" met="4" type="+-">Zijt ge veilig, dag en <rhyme label="a" type="m" corresp="#s3:l1">nacht</rhyme>!</l>
+        <l id="s3:l5" met="4" type="+-">Kunt gij roepen, zonder <rhyme label="c" type="f">schromen</rhyme>:</l>
+        <l id="s3:l6" met="4" type="+-">‘Laat het booze volk maar <rhyme label="c" type="f" corresp="#s3:l5">komen</rhyme>!’</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182607</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Contente je chante</melody>
+  <author>Hendrik Riemsnijder</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Hoe fleurig, hoe <rhyme label="a" type="f">keurig</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Hoe aangenaam, hoe <rhyme label="a" type="f" corresp="#s1:l1">geurig</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Ei zie! hoe fraai en <rhyme label="a" type="f" corresp="#s1:l1">kleurig</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Deez' frisschen Perzik <rhyme label="b" type="m">is</rhyme>!</l>
+        <l id="s1:l5" met="2" type="-+">Ja, Zusje, <rhyme label="b" type="m" corresp="#s1:l4">gewis</rhyme></l>
+        <l id="s1:l6" met="1" type="-+">Zyn' <rhyme label="c" type="f">trekken</rhyme></l>
+        <l id="s1:l7" met="1" type="-+">
+          <rhyme label="c" type="f" corresp="#s1:l6">Verwekken</rhyme>
+        </l>
+        <l id="s1:l8" met="3" type="-+">U graagte, indien ik niet <rhyme label="b" type="m" corresp="#s1:l4">mis</rhyme>?</l>
+        <l id="s1:l9" met="2" type="-+">Daar! wilt hem <rhyme label="d" type="f">ontvangen</rhyme>!</l>
+        <l id="s1:l10" met="2" type="+-">Voldoe myn <rhyme label="d" type="f" corresp="#s1:l9">verlangen</rhyme>:</l>
+        <l id="s1:l11" met="3" type="-+">Bly schenk ik hem, want ik <rhyme label="e" type="m">smaak'</rhyme>,</l>
+        <l id="s1:l12" met="2" type="-+">Als 'k vreugd doe erlan..... <rhyme label="d" type="f" corresp="#s1:l9">gen</rhyme>,</l>
+        <l id="s1:l13" met="3" type="-+">Een streelend en dubbel <rhyme label="e" type="m" corresp="#s1:l11">vermaak</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

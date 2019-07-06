@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>130716</id>
+    <date>
+      <year-start>1711</year-start>
+      <year-end>1711</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>Ach schoonste nimf aanzie</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Ey, siet de Bruid, betulband met <rhyme label="a" type="f">cieraden</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Omheynt met <rhyme label="b" type="m">maegdeloof</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Verlangt om haest   haer lusjes te <rhyme label="a" type="f" corresp="#s1:l1">versaden</rhyme>.</l>
+        <l id="s1:l4" met="3" type="-+">Sy bloost en 't groen word <rhyme label="b" type="m" corresp="#s1:l2">doof</rhyme>!</l>
+        <l id="s1:l5" met="5" type="-+">Wel Nimphjes,   ras, wil haer de koets   op <rhyme label="c" type="f">spreije</rhyme>!</l>
+        <l id="s1:l6" met="4" type="-+">Ontbloot het bed van 't frisse <rhyme label="d" type="m">groen</rhyme>!</l>
+        <l id="s1:l7" met="4" type="-+">Laet daer dees twee haer lusjes <rhyme label="d" type="m" corresp="#s1:l6">voen</rhyme>,</l>
+        <l id="s1:l8" met="2" type="-+">Stil met haer <rhyme label="c" type="f" corresp="#s1:l5">beije</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Maer holla, sagt, laet hem soo gaeuw niet <rhyme label="a" type="f">komen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">By sijn geliefde <rhyme label="b" type="m">Bruid</rhyme>!</l>
+        <l id="s2:l3" met="5" type="-+">Dees lessen dienen vaerdig waer <rhyme label="a" type="f" corresp="#s2:l1">genomen</rhyme>:</l>
+        <l id="s2:l4" met="3" type="-+">Band hem de kamer <rhyme label="b" type="m" corresp="#s2:l2">uit</rhyme></l>
+        <l id="s2:l5" met="5" type="-+">Soo lang hy niet belooft uw suiker <rhyme label="c" type="f">eisje</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Of wat u lust voor soets <rhyme label="d" type="m">begeert</rhyme>.</l>
+        <l id="s2:l7" met="4" type="-+">Belooft hy 't, hey 's de maagdom <rhyme label="d" type="m" corresp="#s2:l6">waert</rhyme></l>
+        <l id="s2:l8" met="2" type="-+">Van 't poesel <rhyme label="c" type="f" corresp="#s2:l5">vleisje</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Is 't Paer te bed, daerom geen moet <rhyme label="a" type="f">verloren</rhyme>.</l>
+        <l id="s3:l2" met="3" type="-+">Elk stel sijn zinnen <rhyme label="b" type="m">schrap</rhyme>:</l>
+        <l id="s3:l3" met="5" type="-+">Hier is de regte uur van vreugt <rhyme label="a" type="f" corresp="#s3:l1">geboren</rhyme>!</l>
+        <l id="s3:l4" met="3" type="-+">Wat speeltme <rhyme label="b" type="m" corresp="#s3:l2">handtjeklap</rhyme>!</l>
+        <l id="s3:l5" met="5" type="-+">Sagt, houwje stil, de speelnoots sullen 't <rhyme label="c" type="f">seggen</rhyme>!</l>
+        <l id="s3:l6" met="4" type="-+">Dat zijn twee borsten vol van <rhyme label="d" type="m">geest</rhyme></l>
+        <l id="s3:l7" met="4" type="-+">Die de intree van de vreugt der <rhyme label="d" type="m" corresp="#s3:l6">feest</rhyme></l>
+        <l id="s3:l8" met="2" type="-+">Wel sullen <rhyme label="c" type="f" corresp="#s3:l5">leggen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

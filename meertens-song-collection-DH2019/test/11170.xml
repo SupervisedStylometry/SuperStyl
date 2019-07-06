@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>11170</id>
+    <date>
+      <year-start>1607</year-start>
+      <year-end>1607</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Verjubileer u gij Venus' jongens</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Js themels velt u vaderlant <rhyme label="a" type="f">geriev'lick</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Jst dat ghy hebt der Goden broot voor <rhyme label="b" type="m">cost</rhyme></l>
+        <l id="s1:l3" met="5" type="-+">Js Venus ooc u weerde moeder liev' <rhyme label="a" type="f" corresp="#s1:l1">lick</rhyme></l>
+        <l id="s1:l4" met="5" type="-+">Jst dat ghy drinckt der Goden soeten <rhyme label="b" type="m" corresp="#s1:l2">most</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Waerom comt ghy ons eertsche lant <rhyme label="a" type="f">beschryden</rhyme>?</l>
+        <l id="s2:l2" met="5" type="-+">Waerom berght ghy u dan in mijnen <rhyme label="b" type="m">schoot</rhyme>?</l>
+        <l id="s2:l3" met="5" type="-+">Waerom comt ghy mijn leden zoo <rhyme label="a" type="f" corresp="#s2:l1">bestryden</rhyme>?</l>
+        <l id="s2:l4" met="5" type="-+">Waerom drinct ghy dan menschelick bloet <rhyme label="b" type="m" corresp="#s2:l2">root</rhyme>?</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Waerom neemt ghy u voetsel van mijn <rhyme label="a" type="f">herte</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">O Tygris kindt o dier wilt fel end' <rhyme label="b" type="m">wreet</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">Ghy heet een God maer zijt seer quaet van <rhyme label="a" type="f" corresp="#s3:l1">perte</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Jck ben gants dijn waerom doet ghy my <rhyme label="b" type="m" corresp="#s3:l2">leet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

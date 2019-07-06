@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20733</id>
+    <date>
+      <year-start>1664</year-start>
+      <year-end>1664</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Nato Deo gloria solemnis</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Willem de Swaen</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="+-">RE-sur-rexit di-e hâc <rhyme label="a" type="f">solenni</rhyme></l>
+        <l id="s1:l2" met="5" type="+-">Jesus Christus glo-ri-à <rhyme label="a" type="f" corresp="#s1:l1">perenni</rhyme>:</l>
+        <l id="s1:l3" met="5" type="+-">Laudes ergò di-ci-te <rhyme label="b" type="f">gaudentes</rhyme>,</l>
+        <l id="s1:l4" met="5" type="+-">Laudes Iesu dicite <rhyme label="b" type="f" corresp="#s1:l3">canentes</rhyme>,</l>
+        <l id="s1:l5" met="7" type="+-">Vivus es ô Iesu! Vivus es <rhyme label="c" type="m">E-ma-nu-el</rhyme>;</l>
+        <l id="s1:l6" met="8" type="+-">A-dorate, a-dorate Jesum flexis <rhyme label="d" type="f">ge-ni-bus</rhyme>,</l>
+        <l id="s1:l7" met="8" type="+-">A-dorate, a-dorete Iesum flexis <rhyme label="d" type="f" corresp="#s1:l6">ge-ni-bus</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="+-">Congaudete nostro <rhyme label="a" type="f">Salvatori</rhyme>,</l>
+        <l id="s2:l2" met="5" type="+-">Iesu Christo orbis <rhyme label="a" type="f" corresp="#s2:l1">Redemptori</rhyme>.</l>
+        <l id="s2:l3" met="5" type="+-">En! Apparet totus <rhyme label="b" type="f">speciosus</rhyme>,</l>
+        <l id="s2:l4" met="5" type="+-">Iesus Christus totus <rhyme label="b" type="f" corresp="#s2:l3">gloriosus</rhyme>:</l>
+        <l id="s2:l5" met="7" type="+-">Vivus est Salvator, vivus est <rhyme label="c" type="m">Emanuel</rhyme>.</l>
+        <l id="s2:l6" met="8" type="+-">Temperemus, temperemus ergò nos à <rhyme label="d" type="f">fletibus</rhyme>.</l>
+        <l id="s2:l7" met="8" type="+-">Temperemus, temperemus ergò nos à <rhyme label="d" type="f" corresp="#s2:l6">fletibus</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="+-">O quis dicet gaudia <rhyme label="a" type="f">Parentis</rhyme>,</l>
+        <l id="s3:l2" met="5" type="+-">Adhuc heri maximè <rhyme label="a" type="f" corresp="#s3:l1">dolentis</rhyme>!</l>
+        <l id="s3:l3" met="5" type="+-">O quis dicet gaudia <rhyme label="b" type="f">Mariae</rhyme>,</l>
+        <l id="s3:l4" met="5" type="+-">Quae accepit hodiernâ <rhyme label="b" type="f" corresp="#s3:l3">die</rhyme>,</l>
+        <l id="s3:l5" met="7" type="+-">Quando ejus Natus vivus est <rhyme label="c" type="m">Emanuel</rhyme>?</l>
+        <l id="s3:l6" met="8" type="+-">Exultavit, exultavit Sanctis cum <rhyme label="d" type="f">Spiritibus</rhyme>,</l>
+        <l id="s3:l7" met="8" type="+-">Exultavit, exultavit Sanctis cum <rhyme label="d" type="f" corresp="#s3:l6">Spiritibus</rhyme>,</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="+-">Jesum videt Dux <rhyme label="a" type="f">Apostolorum</rhyme>;</l>
+        <l id="s4:l2" met="5" type="+-">Iesum videt Grex <rhyme label="a" type="f" corresp="#s4:l1">Discipulorum</rhyme>;</l>
+        <l id="s4:l3" met="5" type="+-">Iesum videt mulier <rhyme label="b" type="f">Peccatrix</rhyme>,</l>
+        <l id="s4:l4" met="5" type="+-">Gratiarum Dei <rhyme label="b" type="f" corresp="#s4:l3">dissipatrix</rhyme>,</l>
+        <l id="s4:l5" met="7" type="+-">Omnibus his adest vividus <rhyme label="c" type="m">Emanuel</rhyme>,</l>
+        <l id="s4:l6" met="8" type="+-">Gloriosis, gloriosis adest cum <rhyme label="d" type="f">Vulneribus</rhyme>,</l>
+        <l id="s4:l7" met="8" type="+-">Gloriosis, gloriosis adest cum <rhyme label="d" type="f" corresp="#s4:l6">Vulneribus</rhyme>,</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="5" type="+-">Osculemur vulnera <rhyme label="a" type="f">Pastoris</rhyme>,</l>
+        <l id="s5:l2" met="5" type="+-">Nostri Sponsi, Ducis, &amp; <rhyme label="a" type="f" corresp="#s5:l1">Rectoris</rhyme>,</l>
+        <l id="s5:l3" met="5" type="+-">Qui redemit suo nos <rhyme label="b" type="f">cruore</rhyme>,</l>
+        <l id="s5:l4" met="5" type="+-">Quem effudit summo cum <rhyme label="b" type="f" corresp="#s5:l3">dolore</rhyme>.</l>
+        <l id="s5:l5" met="7" type="+-">Eja jam dicamus, Vivus est <rhyme label="c" type="m">Emanuel</rhyme>,</l>
+        <l id="s5:l6" met="8" type="+-">Alleluja, alleluja, voce, plectro, <rhyme label="d" type="f">cordibus</rhyme>,</l>
+        <l id="s5:l7" met="8" type="+-">Alleluja, alleluja, voce, plectro, <rhyme label="d" type="f" corresp="#s5:l6">cordibus</rhyme>,</l>
+      </lg>
+    </lg>
+  </text>
+</song>

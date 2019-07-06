@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>5003</id>
+    <date>
+      <year-start>1637</year-start>
+      <year-end>1637</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Psalm 034 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Myn Ziel in Gode <rhyme label="a" type="m">rust</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Gode in my, van <rhyme label="b" type="m">eeuwigheydt</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Geen dinck my van de Liefde <rhyme label="b" type="m" corresp="#s1:l2">scheyd</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Mijn Ziele wordt <rhyme label="a" type="m" corresp="#s1:l1">ghekust</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">In ‘t ware wesen <rhyme label="a" type="m">reyn</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Is ‘t’ gemoed altijd <rhyme label="b" type="m">verheught</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Met een lieflijck en bly <rhyme label="b" type="m" corresp="#s2:l2">geneucht</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Stae ick op Godt <rhyme label="a" type="m" corresp="#s2:l1">alleyn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Hy is ‘t’ Borght, mijn <rhyme label="a" type="m">Steen</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Mijn heyl, mijn bystandt in der <rhyme label="b" type="m">noodt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Mijn kracht, en al mijn sterckte <rhyme label="b" type="m" corresp="#s3:l2">groot</rhyme>;</l>
+        <l id="s3:l4" met="3" type="-+">Hy is ‘t, en anders <rhyme label="a" type="m" corresp="#s3:l1">gheen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Wel hem die op hem <rhyme label="a" type="m">bouwt</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Die en sal nimmermeer <rhyme label="b" type="m">vergaen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Maer eeuwighlijcken blyven <rhyme label="b" type="m" corresp="#s4:l2">staen</rhyme>:</l>
+        <l id="s4:l4" met="3" type="-+">Sijn kracht haer <rhyme label="a" type="m" corresp="#s4:l1">onderhoudt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

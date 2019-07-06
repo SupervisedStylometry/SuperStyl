@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22238</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Hilf Herr Gott dem deinem Knecht</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Een nieu Liedt singt den Heer <rhyme label="a" type="m">bequaem</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Want hi heeft seer groot wonder <rhyme label="a" type="m" corresp="#s1:l1">gedaen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Met zijne heylighe <rhyme label="b" type="f">handen</rhyme>:</l>
+        <l id="s1:l4" met="4" type="-+">En met zijnen arm seer hooch <rhyme label="c" type="m">gheacht</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Heeft hy zijn salicheyt condt <rhyme label="c" type="m" corresp="#s1:l4">ghemacht</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">Gheheel wijdt door alle <rhyme label="b" type="f" corresp="#s1:l3">landen</rhyme>:</l>
+        <l id="s1:l7" met="4" type="-+">Hy heeft oock zijn <rhyme label="d" type="m">rechtuaerdicheyt</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Den Heyden gheopenbaert seer <rhyme label="d" type="m" corresp="#s1:l7">breyt</rhyme>,</l>
+        <l id="s1:l9" met="3" type="-+">Dies moeten sy oock <rhyme label="e" type="f">belijden</rhyme>,</l>
+        <l id="s1:l10" met="4" type="-+">Dat hy ghedenckt aen zijne <rhyme label="f" type="m">waerheyt</rhyme>,</l>
+        <l id="s1:l11" met="4" type="+-">Ouer Israels huys: en zijn <rhyme label="f" type="m" corresp="#s1:l10">salicheyt</rhyme>,</l>
+        <l id="s1:l12" met="3" type="-+">Die siet al de werelt <rhyme label="e" type="f" corresp="#s1:l9">wijde</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Iuycht den Heere, in alle <rhyme label="a" type="m">landt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Met Herpen loeft hem, tallen <rhyme label="a" type="m" corresp="#s2:l1">candt</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">En met alderley spel seer <rhyme label="b" type="f">schoone</rhyme>:</l>
+        <l id="s2:l4" met="4" type="-+">Singt doch den Coninck altijts <rhyme label="c" type="m">ghewis</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">De Zeebaren en wat daer in <rhyme label="c" type="m" corresp="#s2:l4">is</rhyme>,</l>
+        <l id="s2:l6" met="3" type="-+">Deertrijck, en dier op <rhyme label="b" type="f" corresp="#s2:l3">woonen</rhyme>:</l>
+        <l id="s2:l7" met="4" type="-+">De watren zijn vrolijck, sonder <rhyme label="d" type="m">erg</rhyme>,</l>
+        <l id="s2:l8" met="4" type="-+">Oock zijn verblijdt, alle de <rhyme label="d" type="m" corresp="#s2:l7">berg</rhyme>,</l>
+        <l id="s2:l9" met="3" type="-+">Voor den Heere van grooter <rhyme label="e" type="f">ghewelt</rhyme>,</l>
+        <l id="s2:l10" met="4" type="-+">Hy comt om tordeelen deertrijck <rhyme label="f" type="m">slecht</rhyme>,</l>
+        <l id="s2:l11" met="4" type="+-">Hy sal tvolck oock ordeelen te <rhyme label="f" type="m" corresp="#s2:l10">recht</rhyme>,</l>
+        <l id="s2:l12" met="3" type="-+">En oock met redene, de <rhyme label="e" type="f" corresp="#s2:l9">werelt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

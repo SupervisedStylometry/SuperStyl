@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>40787</id>
+    <date>
+      <year-start>1681</year-start>
+      <year-end>1681</year-end>
+    </date>
+    <location>
+      <orginal-name>leeuwarden</orginal-name>
+      <standard-name>Leeuwarden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>53.2005936</lon>
+        <lat>5.7918548</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 033 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Gysbert Japicx</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">WEsse' uwz goe-njue-mijld, Heer' God seyngje <rhyme label="a" type="f">uws</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Ion eansichts glanz' ljeacht' blier uwz <rhyme label="b" type="m">oer</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Dat me' oppe' Yerd' kin d'wey ney jon eyn <rhyme label="a" type="f" corresp="#s1:l1">buwz</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Dat de' Heyd'nen jon wol-ferte' <rhyme label="b" type="m" corresp="#s1:l2">oon-gloer'</rhyme>.</l>
+        <l id="s1:l5" met="3" type="+-">Den schil all' wrads <rhyme label="c" type="f">tonge</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">God, jon lof, <rhyme label="c" type="f" corresp="#s1:l5">lof-sjonge</rhyme>.</l>
+        <l id="s1:l7" met="3" type="+-">Io, dy 't folck rjuecht <rhyme label="d" type="m">rjuecht't</rhyme>,</l>
+        <l id="s1:l8" met="3" type="+-">Io sil naessje' in <rhyme label="e" type="f">naesßje</rhyme></l>
+        <l id="s1:l9" met="3" type="+-">Iuwchje' ijn herts <rhyme label="e" type="f" corresp="#s1:l8">heag-staeßje</rhyme>,</l>
+        <l id="s1:l10" met="3" type="+-">Dy Y liedje' op 't <rhyme label="d" type="m" corresp="#s1:l7">sljuecht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Dy ljue fen east, west, noarde' in <rhyme label="a" type="f">suwden</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Dy ljue fen heyn', dy ljue fen <rhyme label="b" type="m">fier'</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Ion lof op hellje', uwt herts gruwn', luwde', <rhyme label="a" type="f" corresp="#s2:l1">in</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Iae meytsje' yen heachlijcke' heag-tijds <rhyme label="b" type="m" corresp="#s2:l2">tier'</rhyme>,</l>
+        <l id="s2:l5" met="3" type="+-">Om dat de' Yerd' gewas <rhyme label="c" type="f">jout</rhyme>,</l>
+        <l id="s2:l6" met="3" type="+-">Mits d'goe God fen pas <rhyme label="c" type="f" corresp="#s2:l5">jout</rhyme></l>
+        <l id="s2:l7" met="3" type="+-">Seyn, Sinn', wiette' in <rhyme label="d" type="m">druwgt'</rhyme>.</l>
+        <l id="s2:l8" met="3" type="+-">God sit seyne' <rhyme label="e" type="f">uwt-seyne</rhyme></l>
+        <l id="s2:l9" met="3" type="+-">Oer all' wijd wradz <rhyme label="e" type="f" corresp="#s2:l8">eyne</rhyme></l>
+        <l id="s2:l10" met="3" type="+-">Doz him de' Yerde' <rhyme label="d" type="m" corresp="#s2:l7">ontsjocht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>159826</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Petite jalousie</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Hoe! zoud gy my dus <rhyme label="a" type="f">beloonen</rhyme>?</l>
+        <l id="s1:l2" met="4" type="+-">Voor myn lang beproefde <rhyme label="b" type="m">Min</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Wel dat meenje niet myn <rhyme label="a" type="f" corresp="#s1:l1">schoone</rhyme>;</l>
+        <l id="s1:l4" met="4" type="+-">Heugt u niet, myn <rhyme label="b" type="m" corresp="#s1:l2">Engelin</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Hoe ik in <rhyme label="c" type="m">opregtigheid</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">U myn dienst heb toe <rhyme label="c" type="m" corresp="#s1:l5">gewyd</rhyme>;</l>
+        <l id="s1:l7" met="2" type="+-">En dat <rhyme label="d" type="m">gy</rhyme></l>
+        <l id="s1:l8" met="3" type="+-">Wedermin liet <rhyme label="e" type="f">blyken</rhyme>.</l>
+        <l id="s1:l9" met="2" type="+-">Woud ge <rhyme label="d" type="m" corresp="#s1:l7">my</rhyme></l>
+        <l id="s1:l10" met="3" type="+-">Nu weer laten <rhyme label="e" type="f" corresp="#s1:l8">kyken</rhyme>?</l>
+        <l id="s1:l11" met="4" type="+-">Dat is juist niet hups <rhyme label="c" type="m" corresp="#s1:l5">gezeid</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

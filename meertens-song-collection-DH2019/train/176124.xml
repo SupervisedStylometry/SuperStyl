@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176124</id>
+    <date>
+      <year-start>1640</year-start>
+      <year-end>1640</year-end>
+    </date>
+    <location>
+      <orginal-name>deventer</orginal-name>
+      <standard-name>Deventer, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.2532272</lon>
+        <lat>6.1584725</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 125 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Jacobus Revius</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">DIe op den Heer alleen <rhyme label="a" type="f">betrouwen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">En sullen niet <rhyme label="b" type="m">vergaen</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Maer eeuwich blijven <rhyme label="b" type="m" corresp="#s1:l2">staen</rhyme>.</l>
+        <l id="s1:l4" met="4" type="-+">Ia mogen haer soo seker <rhyme label="a" type="f" corresp="#s1:l1">houwen</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Als Sions berch is vast <rhyme label="c" type="f">gelegen</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Vry van <rhyme label="c" type="f" corresp="#s1:l5">bewegen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Gelijck Ierusalem <rhyme label="a" type="f">om-henen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Met bergen is <rhyme label="b" type="m">bevrijt</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Soo sal tot aller <rhyme label="b" type="m" corresp="#s2:l2">tijt</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">De Heere syn geley <rhyme label="a" type="f" corresp="#s2:l1">verleenen</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Aen alle die hem geven <rhyme label="c" type="f">eere</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Als haren <rhyme label="c" type="f" corresp="#s2:l5">Heere</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Den harden scepter van de <rhyme label="a" type="f">boosen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Sal tot der vroomen <rhyme label="b" type="m">spot</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Niet rusten op haer <rhyme label="b" type="m" corresp="#s3:l2">lot</rhyme>.</l>
+        <l id="s3:l4" met="4" type="-+">Op datse met de <rhyme label="a" type="f" corresp="#s3:l1">goddelosen</rhyme></l>
+        <l id="s3:l5" met="4" type="-+">Oock hare handen niet <rhyme label="c" type="f">uytsteken</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">Tot quade <rhyme label="c" type="f" corresp="#s3:l5">treken</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Begunsticht, Heer, met uwen <rhyme label="a" type="f">segen</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Die oprecht zijn en <rhyme label="b" type="m">goet</rhyme>.</l>
+        <l id="s4:l3" met="3" type="-+">Drijft wech die haer <rhyme label="b" type="m" corresp="#s4:l2">gemoet</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Steeds neygen na verkeerde <rhyme label="a" type="f" corresp="#s4:l1">wegen</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Wilt Israël den vrede <rhyme label="c" type="f">geven</rhyme></l>
+        <l id="s4:l6" met="2" type="-+">En rustich <rhyme label="c" type="f" corresp="#s4:l5">leven</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

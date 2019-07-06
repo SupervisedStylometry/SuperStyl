@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32793</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>O welig Amsterdam</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">LOff Maria seer <rhyme label="a" type="m">reyn</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Schoon suyver claer <rhyme label="a" type="m" corresp="#s1:l1">Fonteyn</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">Godts Moeder <rhyme label="b" type="m">goet</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Wy menschen groot en <rhyme label="a" type="m" corresp="#s1:l1">kleyn</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Loven u al <rhyme label="a" type="m" corresp="#s1:l1">ghemeyn</rhyme></l>
+        <l id="s1:l6" met="2" type="-+">Met sanghen <rhyme label="b" type="m" corresp="#s1:l3">soet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Schoon als den <rhyme label="a" type="m">daghe-raet</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Met Goddelijck <rhyme label="a" type="m" corresp="#s2:l1">cieraet</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">Blinck ghy seer <rhyme label="b" type="m">claer</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Want ghy altijt by <rhyme label="a" type="m" corresp="#s2:l1">staet</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Met troost vroech ende <rhyme label="a" type="m" corresp="#s2:l1">laet</rhyme></l>
+        <l id="s2:l6" met="2" type="-+">Ons alle <rhyme label="b" type="m" corresp="#s2:l3">gaer</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Ghy zijt des levens <rhyme label="a" type="m">vreucht</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Daer Godt in heeft <rhyme label="a" type="m" corresp="#s3:l1">verheucht</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">O Moeder <rhyme label="b" type="m">soet</rhyme>!</l>
+        <l id="s3:l4" met="3" type="-+">Ghy zijt vol alder <rhyme label="a" type="m" corresp="#s3:l1">deucht</rhyme>!</l>
+        <l id="s3:l5" met="3" type="-+">Naest Godt ghy t'al <rhyme label="a" type="m" corresp="#s3:l1">vermeucht</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">In <rhyme label="b" type="m" corresp="#s3:l3">teghen-spoet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Versterckt dan onsen <rhyme label="a" type="m">moet</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">In druck en <rhyme label="a" type="m" corresp="#s4:l1">teghenspoet</rhyme></l>
+        <l id="s4:l3" met="2" type="-+">Wilt ons <rhyme label="b" type="m">bystaen</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Neemt ons in u <rhyme label="a" type="m" corresp="#s4:l1">behoet</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Dat wy dat eeuwich <rhyme label="a" type="m" corresp="#s4:l1">goet</rhyme></l>
+        <l id="s4:l6" met="2" type="-+">Door u <rhyme label="b" type="m" corresp="#s4:l3">ontfaen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Dus segh ick <rhyme label="a" type="m">onvermijt</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Den Ketteren tot <rhyme label="a" type="m" corresp="#s5:l1">spijt</rhyme></l>
+        <l id="s5:l3" met="2" type="-+">Tot uwen <rhyme label="b" type="m">loff</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Ghy zijt <rhyme label="a" type="m" corresp="#s5:l1">ghebenedijt</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">Van Godt voor allen <rhyme label="a" type="m" corresp="#s5:l1">tijt</rhyme></l>
+        <l id="s5:l6" met="2" type="-+">In s'Hemels <rhyme label="b" type="m" corresp="#s5:l3">hoff</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

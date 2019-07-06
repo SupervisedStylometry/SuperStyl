@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24054</id>
+    <date>
+      <year-start>1678</year-start>
+      <year-end>1678</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bijbels historielied" translation="biblical history song">bijbels historielied</tag>
+    </tags>
+    <melody>Christe qui lux es et dies</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HEt gheviel op eenen <rhyme label="a" type="m">donderdach</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Daer Christus hoorde ons <rhyme label="a" type="m" corresp="#s1:l1">gheclach</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">In Schrifturen was <rhyme label="b" type="f">ghesloten</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Dat hy een nieu Testament <rhyme label="a" type="m" corresp="#s1:l1">versach</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Het oude heeft hy <rhyme label="b" type="f" corresp="#s1:l3">ghebroken</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hy heeft dat waer is ende <rhyme label="a" type="m">openbaer</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Die wt den hemel was ghecomen <rhyme label="a" type="m" corresp="#s2:l1">daer</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Gheboren van eender <rhyme label="b" type="f">Maghet</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Ende heeftse dry-en-dertich <rhyme label="a" type="m" corresp="#s2:l1">Jaer</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">De Siele gesocht, <rhyme label="b" type="f" corresp="#s2:l3">verstaghet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Hem selven ghelaten al in dat <rhyme label="a" type="m">schijn</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Vanden Broode, ende vanden <rhyme label="a" type="m" corresp="#s3:l1">Wijn</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Gaf hy met sijnen <rhyme label="b" type="f">handen</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Sijn lichaem gelevert, T'bloet moest ghestort <rhyme label="a" type="m" corresp="#s3:l1">sijn</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Dat waren twee diere <rhyme label="b" type="f" corresp="#s3:l3">panden</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Hy gaf hem selven in een <rhyme label="a" type="m">preent</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">In spijse in dranck, seer <rhyme label="a" type="m" corresp="#s4:l1">excelent</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">De Sielen om te <rhyme label="b" type="f">schencken</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Ontspringht en singht lof <rhyme label="a" type="m" corresp="#s4:l1">Sacrament</rhyme>,</l>
+        <l id="s4:l5" met="3" type="-+">Wy willen uws <rhyme label="b" type="f" corresp="#s4:l3">ghedencken</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

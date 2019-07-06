@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10857</id>
+    <date>
+      <year-start>1605</year-start>
+      <year-end>1605</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="tafellied" translation="dining song">tafellied</tag>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>In mijn hart ligt gesloten een bloempje delicaat</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Laat ons nu vrolijck <rhyme label="a" type="f">wesen</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Verblyden in dees <rhyme label="b" type="m">feest</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">En singhen sonder <rhyme label="a" type="f" corresp="#s1:l1">vreesen</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Een Lietghen uyt den <rhyme label="b" type="m" corresp="#s1:l2">Gheest</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Dus schinct, en drinct, en sinckt, vanden <rhyme label="c" type="m">wijn</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">De Waart vanden haart, wil dat ghy sult <rhyme label="c" type="m" corresp="#s1:l5">zijn</rhyme></l>
+        <l id="s1:l7" met="3" type="-+">Vrolijck lustich en <rhyme label="c" type="m" corresp="#s1:l5">fijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Die liefste wil ickt <rhyme label="a" type="f">bringhen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Een kroesgen zoot zijn <rhyme label="b" type="m">mach</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Ick hoop sy salt <rhyme label="a" type="f" corresp="#s2:l1">ghehinghen</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Alsoo sy voormaels <rhyme label="b" type="m" corresp="#s2:l2">plach</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">So claer, maer, als Christal oft <rhyme label="c" type="m">Robijn</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">So is hier ghewis, ey den dis, nu den <rhyme label="c" type="m" corresp="#s2:l5">Wijn</rhyme></l>
+        <l id="s2:l7" met="3" type="-+">Ghewassen aen den <rhyme label="c" type="m" corresp="#s2:l5">Rijn</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Mijn liefste Lief ter <rhyme label="a" type="f">eeren</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Drinck ick dit kroesgen <rhyme label="b" type="m">fier</rhyme></l>
+        <l id="s3:l3" met="3" type="-+">Sy can haer wel <rhyme label="a" type="f" corresp="#s3:l1">gheneeren</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Dat proper edel <rhyme label="b" type="m" corresp="#s3:l2">dier</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Nu weest onbedeest, en treckt al een <rhyme label="c" type="m">lijn</rhyme></l>
+        <l id="s3:l6" met="4" type="+-">V lust, hier toch binst, en kustet <rhyme label="c" type="m" corresp="#s3:l5">aenschijn</rhyme></l>
+        <l id="s3:l7" met="3" type="-+">Van d’alderliefste <rhyme label="c" type="m" corresp="#s3:l5">dijn</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Princen laet ons <rhyme label="a" type="f">bedancken</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Die Waert die in vreucht <rhyme label="b" type="m">groeyt</rhyme></l>
+        <l id="s4:l3" met="3" type="-+">En voorts d’Englentiers <rhyme label="a" type="f" corresp="#s4:l1">rancken</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">En hem die in liefd <rhyme label="b" type="m" corresp="#s4:l2">bloeyt</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">In deucht, verheucht, met vreucht hier toch <rhyme label="c" type="m">sinckt</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">De Waart, vande haart, de wijn om nz <rhyme label="c" type="m" corresp="#s4:l5">schinct</rhyme></l>
+        <l id="s4:l7" met="3" type="-+">Dus elck een kroesken <rhyme label="c" type="m" corresp="#s4:l5">drinckt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

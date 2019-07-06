@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>182673</id>
+    <date>
+      <year-start>1781</year-start>
+      <year-end>1781</year-end>
+    </date>
+    <location>
+      <orginal-name>'s-gravenhage</orginal-name>
+      <standard-name>The Hague, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.0799838</lon>
+        <lat>4.3113461</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Une jeune batelière</melody>
+  <author>Hendrik Riemsnijder</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Worden dan uw' blyde <rhyme label="a" type="f">toonen</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Die de booden zyn der <rhyme label="b" type="m">Lent'</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Op die wreede wyz' <rhyme label="b" type="m" corresp="#s1:l2">erkent</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Dat de mensch, die u moest <rhyme label="a" type="f" corresp="#s1:l1">loonen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Listig, listig u <rhyme label="c" type="m">belaagt</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">En in zyn net roofgierig <rhyme label="c" type="m" corresp="#s1:l5">jaagt</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Lieve Leeuwrik, <rhyme label="a" type="f">mededogen</rhyme></l>
+        <l id="s2:l2" met="4" type="+-">Baart my uw gevaar en <rhyme label="b" type="m">pyn</rhyme>!</l>
+        <l id="s2:l3" met="4" type="+-">Neen, zoo wreed zal ik nooit <rhyme label="b" type="m" corresp="#s2:l2">zyn</rhyme></l>
+        <l id="s2:l4" met="4" type="+-">Om naar uw verderf te <rhyme label="a" type="f" corresp="#s2:l1">poogen</rhyme>!.....</l>
+        <l id="s2:l5" met="4" type="+-">Maar wat zeg ik? ik <rhyme label="c" type="m">vergeet</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Dat ik u juist deez' middag <rhyme label="c" type="m" corresp="#s2:l5">eet</rhyme></l>
+      </lg>
+    </lg>
+  </text>
+</song>

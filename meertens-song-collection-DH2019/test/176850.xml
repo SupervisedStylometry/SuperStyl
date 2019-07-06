@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>176850</id>
+    <date>
+      <year-start>1683</year-start>
+      <year-end>1683</year-end>
+    </date>
+    <location>
+      <orginal-name>leeuwarden</orginal-name>
+      <standard-name>Leeuwarden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>53.2005936</lon>
+        <lat>5.7918548</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="nieuwjaarslied" translation="new year's song">nieuwjaarslied</tag>
+    </tags>
+    <melody>Psalm 100 Datheen</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wy die nu uyt het <rhyme label="a" type="m">Oude-Iaer</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Ghetreden zijn in ‘t Nieu <rhyme label="a" type="m" corresp="#s1:l1">eenpaer</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Ons leven dient wel <rhyme label="b" type="m">overdacht</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Hoe ‘t in het oudt is <rhyme label="b" type="m" corresp="#s1:l3">overbracht</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Den ouden Mensch dient <rhyme label="a" type="m">aff-gheleyt</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Den nieuwen aen, tot Godt <rhyme label="a" type="m" corresp="#s2:l1">bereyt</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">In suyverheyt, met deught <rhyme label="b" type="m">bekleet</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Het Nieuwe-Iaer alsoo in <rhyme label="b" type="m" corresp="#s2:l3">treet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Wie soo in ‘t nieuwe aenvangh <rhyme label="a" type="m">neemt</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">En van het oude hem <rhyme label="a" type="m" corresp="#s3:l1">vervreemt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Die is ‘t die Godt behaghen <rhyme label="b" type="m">sal</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">En hem bevrijden voor den <rhyme label="b" type="m" corresp="#s3:l3">val</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Daerom leght af het zondigh <rhyme label="a" type="m">kleet</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">En dat als met de voeten <rhyme label="a" type="m" corresp="#s4:l1">treedt</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">‘t Kleedt der gherechticheyt treckt <rhyme label="b" type="m">aen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Met liefd’ en waerheyt <rhyme label="b" type="m" corresp="#s4:l3">aen-ghedaen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Wie soo in ‘t herte hem <rhyme label="a" type="m">besnijt</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">En overwint alsoo den <rhyme label="a" type="m" corresp="#s5:l1">strijdt</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">‘t Welck staeg in ‘t Geestlijck moet <rhyme label="b" type="m">gheschien</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Soo konnen wy het quaet <rhyme label="b" type="m" corresp="#s5:l3">ontvlien</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Hier toe o Godt wilt ons <rhyme label="a" type="m">bystaedn</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">En siet ons met ghenaden <rhyme label="a" type="m" corresp="#s6:l1">aen</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Eyndt soo ons leven <rhyme label="b" type="m">deughdelijck</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Gheeft ons al t’saem u eeuwigh <rhyme label="b" type="m" corresp="#s6:l3">Rijck</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1544</id>
+    <date>
+      <year-start>1629</year-start>
+      <year-end>1629</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody>Psalm 116 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">O heyl'ge Heer! o groote waere <rhyme label="a" type="m">God</rhyme>!</l>
+        <l id="s1:l2" met="5" type="-+">Hoe lang sult gy met wraek noch niet <rhyme label="b" type="f">ontsteken</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Hoe lang toch noch hoe lang ons bloed niet <rhyme label="b" type="f" corresp="#s1:l2">wreken</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Noch neder-sien van uyt dijns hemels <rhyme label="a" type="m" corresp="#s1:l1">slot</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32715</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="kerstlied" translation="Christmas song">kerstlied</tag>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Polyphemus aan de stranden</melody>
+    <categories>
+      <category translation="seasons and annual events">jaarkring</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">ISser ymandt in groot <rhyme label="a" type="f">lijden</rhyme>,</l>
+        <l id="s1:l2" met="2" type="+-">Wilt <rhyme label="a" type="f" corresp="#s1:l1">verblijden</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Met dit kint // dat ons <rhyme label="b" type="m">bemindt</rhyme>:</l>
+        <l id="s1:l4" met="4" type="+-">Die voor ons cleyn, ende <rhyme label="c" type="f">teere</rhyme>,</l>
+        <l id="s1:l5" met="2" type="+-">Siet, den <rhyme label="c" type="f" corresp="#s1:l4">Heere</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Wilt met blijschap sijn <rhyme label="b" type="m" corresp="#s1:l3">ghedient</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Hebt ghy lust om te <rhyme label="a" type="f">beminnen</rhyme>,</l>
+        <l id="s2:l2" met="2" type="+-">Hanght u <rhyme label="a" type="f" corresp="#s2:l1">sinnen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Aen den al // nu inden <rhyme label="b" type="m">stal</rhyme>:</l>
+        <l id="s2:l4" met="4" type="+-">Hebt ghy quellingh oft <rhyme label="c" type="f">temtatie</rhyme>,</l>
+        <l id="s2:l5" met="2" type="+-"><rhyme label="c" type="f" corresp="#s2:l4">Reckerasie</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Ist dat hy u gheven <rhyme label="b" type="m" corresp="#s2:l3">sal</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Hy ist die u wel sal <rhyme label="a" type="f">paeyen</rhyme>,</l>
+        <l id="s3:l2" met="2" type="+-">En <rhyme label="a" type="f" corresp="#s3:l1">versaeyen</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Inden strijt // die ghy hier <rhyme label="b" type="m">lijdt</rhyme>:</l>
+        <l id="s3:l4" met="4" type="+-">Daerom wilt u selven <rhyme label="c" type="f">gheven</rhyme>,</l>
+        <l id="s3:l5" met="2" type="+-">In dit <rhyme label="c" type="f" corresp="#s3:l4">leven</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Om te lijden wie ghy <rhyme label="b" type="m" corresp="#s3:l3">sijt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="+-">Laet ons dit cleyn kint <rhyme label="a" type="f">ontfanghen</rhyme>,</l>
+        <l id="s4:l2" met="2" type="+-">En aen <rhyme label="a" type="f" corresp="#s4:l1">hanghen</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Hoe wy sijn // in vreught of <rhyme label="b" type="m">pijn</rhyme>:</l>
+        <l id="s4:l4" met="4" type="+-">Soo sal het ons seer <rhyme label="c" type="f">wel-lusten</rhyme>,</l>
+        <l id="s4:l5" met="2" type="+-">Hier te <rhyme label="c" type="f" corresp="#s4:l4">rusten</rhyme>,</l>
+        <l id="s4:l6" met="4" type="+-">By dit cleyn soet <rhyme label="b" type="m" corresp="#s4:l3">kindekijn</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="+-">Soete Maghet siet wy <rhyme label="a" type="f">loven</rhyme>,</l>
+        <l id="s5:l2" met="2" type="+-">Die van <rhyme label="a" type="f" corresp="#s5:l1">boven</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Wt den troon // wordt uwen <rhyme label="b" type="m">loon</rhyme>:</l>
+        <l id="s5:l4" met="4" type="+-">Wilt u kleyn kint voor ons <rhyme label="c" type="f">bidden</rhyme>,</l>
+        <l id="s5:l5" met="2" type="+-">Dat in't <rhyme label="c" type="f" corresp="#s5:l4">midden</rhyme>,</l>
+        <l id="s5:l6" met="4" type="+-">Van het hert heeft sijnen <rhyme label="b" type="m" corresp="#s5:l3">woon</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

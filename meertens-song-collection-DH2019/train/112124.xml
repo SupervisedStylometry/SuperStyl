@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>112124</id>
+    <date>
+      <year-start>1750</year-start>
+      <year-end>1750</year-end>
+    </date>
+    <location>
+      <orginal-name>dordrecht</orginal-name>
+      <standard-name>Dordrecht, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.7958812</lon>
+        <lat>4.6779351</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Un inconnu pour vos charmes soupire</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">HOe kan Endimion nog slapen <rhyme label="a" type="f">blyven</rhyme>?</l>
+        <l id="s1:l2" met="5" type="-+">Terwyl de bleeke Maan van Liefde <rhyme label="b" type="m">root</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Komt neder dryven In zynen <rhyme label="b" type="m" corresp="#s1:l2">schoot</rhyme>.</l>
+        <l id="s1:l4" met="5" type="-+">Hy slaapt niet. neen, Endimion is <rhyme label="b" type="m" corresp="#s1:l2">dood</rhyme>.</l>
+        <l id="s1:l5" met="5" type="-+">Wat bosch-gediert kon dezen held <rhyme label="a" type="f" corresp="#s1:l1">ontlyven</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Getrouwe knegt van Jupiters <rhyme label="a" type="f">bevelen</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">O Morfeus boei den Herder niet zo <rhyme label="b" type="m">vast</rhyme>.</l>
+        <l id="s2:l3" met="4" type="-+">Wat kan 't u scheelen Diana <rhyme label="b" type="m" corresp="#s2:l2">past</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Op het ontwaken van dien schoonen <rhyme label="b" type="m" corresp="#s2:l2">gast</rhyme>.</l>
+        <l id="s2:l5" met="5" type="-+">Sy gloeit van drift om wakker hem te <rhyme label="a" type="f" corresp="#s2:l1">streelen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Maar ach 't is al vergeefs, hy blyft nog <rhyme label="a" type="f">slapen</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">Diana keer, blus uyt uw Liefde <rhyme label="b" type="m">gloed</rhyme>.</l>
+        <l id="s3:l3" met="4" type="-+">Daar zyn wel knapen, Die 't driftig <rhyme label="b" type="m" corresp="#s3:l2">bloed</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Van minnetocht steeds wakker blyven <rhyme label="b" type="m" corresp="#s3:l2">doet</rhyme>.</l>
+        <l id="s3:l5" met="5" type="-+">Uw leen zyn voor dien dromer niet <rhyme label="a" type="f" corresp="#s3:l1">geschapen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="5" type="-+">Maar zy van drift nu feller aan 't <rhyme label="a" type="f">krioelen</rhyme>.</l>
+        <l id="s4:l2" met="5" type="-+">Drukt in zyn schoot, en tragt dus haren <rhyme label="b" type="m">lust</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Daar te verkoelen, Al schoon hy <rhyme label="b" type="m" corresp="#s4:l2">rust</rhyme>.</l>
+        <l id="s4:l4" met="5" type="-+">De Liefde werkt, terwyl hy slaapend <rhyme label="b" type="m" corresp="#s4:l2">kust</rhyme>,</l>
+        <l id="s4:l5" met="5" type="-+">En doet zyn bloed in Minnebuizen <rhyme label="a" type="f" corresp="#s4:l1">woelen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

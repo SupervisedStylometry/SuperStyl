@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12950</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Laura zat laatst bij de beek</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">IS dit korstwijl, snoode <rhyme label="a" type="m">Guit</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">(Zey Diaan) dat ghy dees <rhyme label="b" type="f">schoone</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Zo verbaast maakt door 't <rhyme label="a" type="m" corresp="#s1:l1">geluidt</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Van uw' geile Knippers <rhyme label="b" type="f" corresp="#s1:l2">toonen</rhyme>:</l>
+        <l id="s1:l5" met="4" type="+-">'k Zal uw' 't knippen zoo <rhyme label="b" type="f" corresp="#s1:l2">beloone</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Dat ghy 't wel versweeren <rhyme label="c" type="m">zult</rhyme>:</l>
+        <l id="s1:l7" met="4" type="+-">Kom dan tza Gespeelen <rhyme label="d" type="f">zaamen</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Laat ons nu een straf <rhyme label="d" type="f" corresp="#s1:l7">beraamen</rhyme>,</l>
+        <l id="s1:l9" met="4" type="+-">Na verdiensten van zijn <rhyme label="c" type="m" corresp="#s1:l6">schuldt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

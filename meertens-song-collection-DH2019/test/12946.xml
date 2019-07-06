@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12946</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Laura zat laatst bij de beek</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">PAn, vol smart en pijn, die <rhyme label="a" type="m">riep</rhyme>:</l>
+        <l id="s1:l2" met="4" type="+-">Zijn dit straffen voor mijn <rhyme label="b" type="f">knippen</rhyme>?</l>
+        <l id="s1:l3" met="4" type="+-">Mits dees Doorens my zoo <rhyme label="a" type="m" corresp="#s1:l1">diep</rhyme></l>
+        <l id="s1:l4" met="4" type="+-">Steeken in mijn mondt en <rhyme label="b" type="f" corresp="#s1:l2">lippen</rhyme>:</l>
+        <l id="s1:l5" met="4" type="+-">'k Sweer zy zal my niet <rhyme label="b" type="f" corresp="#s1:l2">ontslippen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Schoon een knip my baart dees <rhyme label="c" type="m">smart</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">'k Zalze echter eens <rhyme label="d" type="f">verraden</rhyme>,</l>
+        <l id="s1:l8" met="4" type="+-">Als zy zich weêr zal gaan <rhyme label="d" type="f" corresp="#s1:l7">baden</rhyme>;</l>
+        <l id="s1:l9" met="4" type="+-">Want in knip-lust leeft my 't <rhyme label="c" type="m" corresp="#s1:l6">hart</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

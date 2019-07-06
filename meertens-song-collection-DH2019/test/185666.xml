@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>185666</id>
+    <date>
+      <year-start>1830</year-start>
+      <year-end>1840</year-end>
+    </date>
+    <location>
+      <orginal-name>purmerend</orginal-name>
+      <standard-name>Purmerend</standard-name>
+      <coordinates>
+        <lon>52.5024789</lon>
+        <lat>4.9614827</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Auf auf ihr Brüder und seid stark</melody>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Gij ziet in mij een <rhyme label="a" type="m">kamenier</rhyme>;</l>
+        <l id="s1:l2" met="3" type="-+">Ik dien een eedle <rhyme label="b" type="m">vrouw</rhyme>.</l>
+        <l id="s1:l3" met="4" type="-+">Ze is over mij gestaag te <rhyme label="c" type="m">vreên</rhyme>;</l>
+        <l id="s1:l4" met="4" type="-+">Ik doe mijn werk ook, zoo ik <rhyme label="c" type="m" corresp="#s1:l3">meen</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Volbreng mijn pligt <rhyme label="b" type="m" corresp="#s1:l2">getrouw</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">'t Is waar, veel wordt er toe <rhyme label="a" type="m">vereischt</rhyme>:</l>
+        <l id="s2:l2" met="3" type="-+">Veel kunde, een rein <rhyme label="b" type="m">gemoed</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Beschaving, zindlijkheid en <rhyme label="c" type="m">smaak</rhyme>;</l>
+        <l id="s2:l4" met="4" type="-+">Maar met een goeden wil, wordt <rhyme label="c" type="m" corresp="#s2:l3">vaak</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Ons pogen rijk <rhyme label="b" type="m" corresp="#s2:l2">vergoed</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

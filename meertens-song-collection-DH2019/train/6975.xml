@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>6975</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>gent</orginal-name>
+      <standard-name>Gent, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0538286</lon>
+        <lat>3.7250121</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Psalm 001 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Lucas de Heere</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">WElhē die niet en wādelt in dē <rhyme label="a" type="m">raed</rhyme></l>
+        <l id="s1:l2" met="5" type="-+">Van de menschen Goddeloos, ende <rhyme label="a" type="m" corresp="#s1:l1">quaed</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Noch en terd ooc vp den wech der <rhyme label="b" type="f">zondaren</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Die ooc en zitt onder der spotters <rhyme label="b" type="f" corresp="#s1:l3">scharen</rhyme>:</l>
+        <l id="s1:l5" met="5" type="-+">Maer diēs lust draegt tot Gods ghebodē <rhyme label="c" type="m">naect</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">VVaer in hy hem dach ende nacht <rhyme label="c" type="m" corresp="#s1:l5">vermaect</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Desen zal zijn, als eenen boom <rhyme label="a" type="m">plaisant</rhyme></l>
+        <l id="s2:l2" met="5" type="-+">Die gheplantt is ontrent der beken <rhyme label="a" type="m" corresp="#s2:l1">cant</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">En zijn vruchten voortbrijngt naer de <rhyme label="b" type="f">terminen</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">VViens bladeren nemmermeer en <rhyme label="b" type="f" corresp="#s2:l3">verdwinen</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Al dat zulck een meinsch' anslaet ende <rhyme label="c" type="m">doet</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">Zal ghelucken, en hebben groot <rhyme label="c" type="m" corresp="#s2:l5">voorspoet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Maer zules en zal den boozen niet <rhyme label="a" type="m">gheschien</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">VVant hy beschaēt zal voor Gods anschijn <rhyme label="a" type="m" corresp="#s3:l1">vliē</rhyme>,</l>
+        <l id="s3:l3" met="5" type="-+">Ghelijckmen ziet t' caf vanden wind <rhyme label="b" type="f">wegdriuen</rhyme>:</l>
+        <l id="s3:l4" met="5" type="-+">Daerom en zal ooc gheensins staende <rhyme label="b" type="f" corresp="#s3:l3">bliuen</rhyme></l>
+        <l id="s3:l5" met="5" type="-+">De Godloos' in Gods oordeel <rhyme label="c" type="m">excellent</rhyme></l>
+        <l id="s3:l6" met="5" type="-+">Noch int ghemeent' der vprechter <rhyme label="c" type="m" corresp="#s3:l5">bekent</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

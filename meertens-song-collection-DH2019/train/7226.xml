@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>7226</id>
+    <date>
+      <year-start>1630</year-start>
+      <year-end>1640</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Helaas fortuin nu mag ik wel</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Geen mens en weet wat hem <rhyme label="a" type="m">genaect</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Dat heb ick nu <rhyme label="b" type="f">bevonden</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Wanneer een Schip op Klippen <rhyme label="a" type="m" corresp="#s1:l1">raeckt</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Zoo gaet dat vaeck te <rhyme label="b" type="f" corresp="#s1:l2">gronde</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Wanneer een Minnaer mist zijn <rhyme label="c" type="m">Bruydt</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">En eeuwigh die moet <rhyme label="d" type="f">derven</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Zoo barsten hem de traentjent <rhyme label="c" type="m" corresp="#s1:l5">uyt</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Zo naeckt hem ’t droevigh <rhyme label="d" type="f" corresp="#s1:l6">sterven</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Doch ’t sterven is soo bitter <rhyme label="a" type="m">niet</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Als ’t Leven dat ick <rhyme label="b" type="f">Leye</rhyme>:</l>
+        <l id="s2:l3" met="4" type="-+">Want my groot onghelijck <rhyme label="a" type="m" corresp="#s2:l1">gheschiet</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Datmen my niet en <rhyme label="b" type="f" corresp="#s2:l2">geve</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Die ick soo seker had <rhyme label="c" type="m">gemeendt</rhyme>:</l>
+        <l id="s2:l6" met="3" type="-+">Maer haer van my gaen <rhyme label="d" type="f">leyen</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Mijn teere Ziel inwendigh <rhyme label="c" type="m" corresp="#s2:l5">weent</rhyme></l>
+        <l id="s2:l8" met="3" type="-+">Mijn hart doet niet dan <rhyme label="d" type="f" corresp="#s2:l6">schreyen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Sy die my Trouw geswooren <rhyme label="a" type="m">had</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">En ick haer van <rhyme label="b" type="f">ghelijcken</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Zy was naest Godt mijn waerste <rhyme label="a" type="m" corresp="#s3:l1">schat</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Zy liet haer trouwe <rhyme label="b" type="f" corresp="#s3:l2">blijcken</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Zy was mijn Zieltjes <rhyme label="c" type="m">Medecijn</rhyme>,</l>
+        <l id="s3:l6" met="3" type="-+">Zy was wat ick sou <rhyme label="d" type="f">wenschen</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Zy was ’t vermaec, en vreucht van <rhyme label="c" type="m" corresp="#s3:l5">mijn</rhyme></l>
+        <l id="s3:l8" met="3" type="-+">Men vondt noyt liever <rhyme label="d" type="f" corresp="#s3:l6">menschen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Waer dat ick was, sy wasser <rhyme label="a" type="m">oock</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">In vreucht verdriet of <rhyme label="b" type="f">lijden</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">Sy vreesde niet het hels <rhyme label="a" type="m" corresp="#s4:l1">Gespoock</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Iae trad voor my ten <rhyme label="b" type="f" corresp="#s4:l2">strijden</rhyme>,</l>
+        <l id="s4:l5" met="4" type="-+">Sy ginck haer Vaeder en Moeder <rhyme label="c" type="m">af</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">Om mijnen ’t wil <rhyme label="d" type="f">alleyne</rhyme>,</l>
+        <l id="s4:l7" met="4" type="-+">Ontziende onghena oft <rhyme label="c" type="m" corresp="#s4:l5">straf</rhyme>,</l>
+        <l id="s4:l8" met="3" type="-+">Zy hielt my van het <rhyme label="d" type="f" corresp="#s4:l6">weyne</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Och als ick overdencken <rhyme label="a" type="m">gae</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Wat sy my heeft <rhyme label="b" type="f">beweesen</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">En dat ick hier alleynen <rhyme label="a" type="m" corresp="#s5:l1">stae</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">En zy vol anghst en <rhyme label="b" type="f" corresp="#s5:l2">vreesen</rhyme></l>
+        <l id="s5:l5" met="4" type="-+">Zoo tast ick schier mijn selven <rhyme label="c" type="m">aen</rhyme>:</l>
+        <l id="s5:l6" met="3" type="-+">Ziet daer ick sal ’t <rhyme label="d" type="f">volbringhen</rhyme>,</l>
+        <l id="s5:l7" met="4" type="-+">Ick moet doch nu verlooren <rhyme label="c" type="m" corresp="#s5:l5">gaen</rhyme>,</l>
+        <l id="s5:l8" met="3" type="-+">Ick kan my niet <rhyme label="d" type="f" corresp="#s5:l6">bedwinghen</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Bereydet u mijn vrome <rhyme label="a" type="m">Ziel</rhyme>,</l>
+        <l id="s6:l2" met="3" type="-+">Bereydet u tot <rhyme label="b" type="f">scheyden</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Die my teghen haer danck af <rhyme label="a" type="m" corresp="#s6:l1">viel</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">Die wil ick gaen <rhyme label="b" type="f" corresp="#s6:l2">verbeyden</rhyme>,</l>
+        <l id="s6:l5" met="4" type="-+">In d’hoogen Hemel Godes <rhyme label="c" type="m">Throon</rhyme>,</l>
+        <l id="s6:l6" met="3" type="-+">Daer d’ Enghelen <rhyme label="d" type="f">vercieren</rhyme></l>
+        <l id="s6:l7" met="4" type="-+">Voor my, en mijn Princesse <rhyme label="c" type="m" corresp="#s6:l5">schoon</rhyme></l>
+        <l id="s6:l8" met="3" type="-+">Kransjes van <rhyme label="d" type="f" corresp="#s6:l6">Lauwerieren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10307</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Luz de mi alma</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Nimph vol vermoge, mijns ziels <rhyme label="a" type="f">Vooghdesse</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">O flickerende ooghe, schoon <rhyme label="a" type="f" corresp="#s1:l1">Herderesse</rhyme>,</l>
+        <l id="s1:l3" met="5" type="+-">O soete Philis, ey ghy dert'le <rhyme label="b" type="f">Phillis</rhyme>,</l>
+        <l id="s1:l4" met="3" type="+-">Die 't Vee boswaerts <rhyme label="c" type="m">weyt</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">O Phillis, Phillis, wie heeft u <rhyme label="c" type="m" corresp="#s1:l4">verleyt</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Als ick gedencke u aessem <rhyme label="a" type="f">geurtjes</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">O lodder wencke, schaemroode <rhyme label="a" type="f" corresp="#s2:l1">kleurtjes</rhyme>,</l>
+        <l id="s2:l3" met="5" type="+-">Ia poesel hande, die mijn hart in <rhyme label="b" type="f">bande</rhyme></l>
+        <l id="s2:l4" met="3" type="+-">Soo gekluystert <rhyme label="c" type="m">hout</rhyme>.</l>
+        <l id="s2:l5" met="5" type="-+">O Phillis, Phillis, ach! ick ben <rhyme label="c" type="m" corresp="#s2:l4">vervrouwt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">O Phillis kander in u <rhyme label="a" type="f">gedachte</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">Met vreucht een ander helaes! <rhyme label="a" type="f" corresp="#s3:l1">vernachte</rhyme>?</l>
+        <l id="s3:l3" met="5" type="+-">Ia sterve, sterve moet ick Phillis <rhyme label="b" type="f">derve</rhyme>,</l>
+        <l id="s3:l4" met="3" type="+-">Waer toe langh <rhyme label="c" type="m">geleeft</rhyme>?</l>
+        <l id="s3:l5" met="5" type="-+">'t Is Phillis soet die my de doodt-steeck <rhyme label="c" type="m" corresp="#s3:l4">geeft</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Sult ghy my dooden, en ick u <rhyme label="a" type="f">minne</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Volght u geboode soete <rhyme label="a" type="f" corresp="#s4:l1">vriendinne</rhyme>,</l>
+        <l id="s4:l3" met="5" type="+-">Mijn hert en leve, sal ick willigh <rhyme label="b" type="f">geve</rhyme>,</l>
+        <l id="s4:l4" met="3" type="+-">Daelt ten grave <rhyme label="c" type="m">neer</rhyme>,</l>
+        <l id="s4:l5" met="5" type="-+">O Phillis, Phillis, u komt meerder <rhyme label="c" type="m" corresp="#s4:l4">eer</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Ach soo 't u wil is, toont doch <rhyme label="a" type="f">medooghe</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">O Nimpje Phillis, genaed' uwer <rhyme label="a" type="f" corresp="#s5:l1">ooghe</rhyme>,</l>
+        <l id="s5:l3" met="5" type="+-">Aensiet mijn lijden, wilt my eens <rhyme label="b" type="f">verblijden</rhyme>,</l>
+        <l id="s5:l4" met="3" type="+-">Aen hem niet <rhyme label="c" type="m">ontwert</rhyme></l>
+        <l id="s5:l5" met="5" type="-+">Die u soo lief heeft, en <rhyme label="c" type="m" corresp="#s5:l4">volhert</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

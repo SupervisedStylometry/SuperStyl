@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19476</id>
+    <date>
+      <year-start>1642</year-start>
+      <year-end>1642</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody>C'est trop courir les eaux</melody>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">O Hooghste <rhyme label="a" type="m">Majesty</rhyme>!</l>
+        <l id="s1:l2" met="3" type="-+">O <rhyme label="a" type="m" corresp="#s1:l1">Onbegrijplijkheyt</rhyme>!</l>
+        <l id="s1:l3" met="3" type="-+">O Cracht! waar by de <rhyme label="b" type="m">cracht</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Van Coninklijk <rhyme label="c" type="m">ghebiet</rhyme></l>
+        <l id="s1:l5" met="3" type="-+">Of Caesarlijke <rhyme label="b" type="m" corresp="#s1:l3">macht</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Veel minder is als <rhyme label="c" type="m" corresp="#s1:l4">niet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Waar vintmen sulken <rhyme label="a" type="m">stof</rhyme>?</l>
+        <l id="s2:l2" met="3" type="-+">Om met volcomen <rhyme label="a" type="m" corresp="#s2:l1">lof</rhyme></l>
+        <l id="s2:l3" met="3" type="-+">Te prijsen Dijnnen <rhyme label="b" type="m">Naam</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Almogend Groote <rhyme label="c" type="m">Al</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Niemant die die <rhyme label="b" type="m" corresp="#s2:l3">bequaam</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Vol-prees, of prijsen <rhyme label="c" type="m" corresp="#s2:l4">sal</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Dies uyt <rhyme label="a" type="m">eenvuldicheyt</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Sy Dijnnen Naam <rhyme label="a" type="m" corresp="#s3:l1">verbreyt</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Gepresen en <rhyme label="b" type="m">gelooft</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">Gedankt, geviert, <rhyme label="c" type="m">ge-eert</rhyme>,</l>
+        <l id="s3:l5" met="3" type="-+">O Godt! O <rhyme label="b" type="m" corresp="#s3:l3">Over-hooft</rhyme>?</l>
+        <l id="s3:l6" met="3" type="-+">Die 't Al, en Al, <rhyme label="c" type="m" corresp="#s3:l4">regeert</rhyme>,</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Gheen çierlijkheyt van <rhyme label="a" type="m">spraak</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">En strekt Dy tot <rhyme label="a" type="m" corresp="#s4:l1">vermaak</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Op 't opgepronkt <rhyme label="b" type="m">Gebedt</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Of Pharizesche <rhyme label="c" type="m">schijn</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">De Heere weynich <rhyme label="b" type="m" corresp="#s4:l3">let</rhyme></l>
+        <l id="s4:l6" met="3" type="-+">'t Moet uyt der herten <rhyme label="c" type="m" corresp="#s4:l4">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Daerom uyt' sharten <rhyme label="a" type="m">grondt</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Ontsluyten wy den <rhyme label="a" type="m" corresp="#s5:l1">mondt</rhyme>,</l>
+        <l id="s5:l3" met="3" type="-+">En bidden onsen <rhyme label="b" type="m">Heer</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Dat hy dit lieve <rhyme label="c" type="m">Paar</rhyme></l>
+        <l id="s5:l5" met="3" type="-+">Tot synner prijs en <rhyme label="b" type="m" corresp="#s5:l3">eer</rhyme></l>
+        <l id="s5:l6" met="3" type="-+">Ter zalicheyt <rhyme label="c" type="m" corresp="#s5:l4">bewaar</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

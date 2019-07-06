@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>187</id>
+    <date>
+      <year-start>1589</year-start>
+      <year-end>1589</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="wachterlied" translation="watchman's song">wachterlied</tag>
+      <tag standard-name="dageraadslied" translation="dawn song">dageraadslied</tag>
+    </tags>
+    <melody>Rijke God verleen ons avontuur</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="formal genres">formele genres</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Rijck God verleent ons <rhyme label="a" type="m">auontuer</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Sprack daer een frisch <rhyme label="b" type="m">ionglinck</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">dat ic mach comen binnen der <rhyme label="a" type="m" corresp="#s1:l1">muer</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Daer woont die alder liefste <rhyme label="b" type="m" corresp="#s1:l2">mijn</rhyme></l>
+        <l id="s1:l5" met="2" type="-+">Rijck God gheeft <rhyme label="c" type="m">raet</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">De wachter en is mijn vriende <rhyme label="d" type="m">niet</rhyme>,</l>
+        <l id="s1:l7" met="2" type="-+">Dit dunckt my <rhyme label="c" type="m" corresp="#s1:l5">quaet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Die Jongvrouw niet zo vast en <rhyme label="a" type="m">sliep</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Zy hadde verhoort den <rhyme label="b" type="m">ionglinck</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Zeer haestelick zy ter venster <rhyme label="a" type="m" corresp="#s2:l1">liep</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Zy bant een coordeken aenden <rhyme label="b" type="m" corresp="#s2:l2">rinck</rhyme></l>
+        <l id="s2:l5" met="2" type="-+">Daer na niet <rhyme label="c" type="m">lanck</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">doen zy dat coordeken dalen <rhyme label="d" type="m">liet</rhyme> //</l>
+        <l id="s2:l7" met="2" type="-+">Den rinck die <rhyme label="c" type="m" corresp="#s2:l5">clanck</rhyme></l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Die wachter niet so vast en <rhyme label="a" type="m">sliep</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Hy hadde verhoort dat rincx <rhyme label="b" type="m">gheluyt</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Seer haestelick hy ter tinnen <rhyme label="a" type="m" corresp="#s3:l1">liep</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Hy stack zijn hooft ter venster <rhyme label="b" type="m" corresp="#s3:l2">wt</rhyme></l>
+        <l id="s3:l5" met="2" type="-+">Hy sprack wie is <rhyme label="c" type="m">daer</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">die Jonghelinck neder ter aerden <rhyme label="d" type="m">viel</rhyme>,</l>
+        <l id="s3:l7" met="2" type="-+">Van groter <rhyme label="c" type="m" corresp="#s3:l5">vaer</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Die ioncvrou sprac mit zinnen <rhyme label="a" type="m">verstoort</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">Wat isset Wachter dat v <rhyme label="b" type="m">deert</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Het zijn mijn vensteren die ghy <rhyme label="a" type="m" corresp="#s4:l1">hoort</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">die herren die zijn droghe <rhyme label="b" type="m" corresp="#s4:l2">onghesmeert</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">Maeckt my niet <rhyme label="c" type="m">gram</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Ick sie al nae den lichten <rhyme label="d" type="m">dach</rhyme>,</l>
+        <l id="s4:l7" met="2" type="-+">Als oft hy yet <rhyme label="c" type="m" corresp="#s4:l5">quaem</rhyme></l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">De Jongelinck sprac och wachter <rhyme label="a" type="m">goet</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Wilt ons niet melden door v <rhyme label="b" type="m">deucht</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Daer mocht of comen groot <rhyme label="a" type="m" corresp="#s5:l1">onmoet</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Wat schadet dat wy twee zijn <rhyme label="b" type="m" corresp="#s5:l2">verheucht</rhyme>,</l>
+        <l id="s5:l5" met="2" type="-+">Hy sprack ick <rhyme label="c" type="m">sal</rhyme>,</l>
+        <l id="s5:l6" met="4" type="-+">Nu gaet al daert de liefste <rhyme label="d" type="m">begeert</rhyme> //</l>
+        <l id="s5:l7" met="2" type="-+">Maeckt gheen <rhyme label="c" type="m" corresp="#s5:l5">gheschal</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Al inden rinck sette hy zinen <rhyme label="a" type="m">voet</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Ghelijck hy dickwils hadde <rhyme label="b" type="m">ghedaen</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Hy haelde hem metter <rhyme label="a" type="m" corresp="#s6:l1">spoet</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Seer vriendelick was hy daer <rhyme label="b" type="m" corresp="#s6:l2">ontfaen</rhyme>,</l>
+        <l id="s6:l5" met="2" type="-+">In corter <rhyme label="c" type="m">stont</rhyme> //</l>
+        <l id="s6:l6" met="4" type="-+">Sy custe hem meer dan duysent <rhyme label="d" type="m">weruen</rhyme>,</l>
+        <l id="s6:l7" met="2" type="-+">Aen zinen <rhyme label="c" type="m" corresp="#s6:l5">Mont</rhyme>.</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="4" type="-+">Och willecome me seyde sy soete <rhyme label="a" type="m">Lieff</rhyme></l>
+        <l id="s7:l2" met="4" type="-+">My en quaem mijn dagen noyt lieuer <rhyme label="b" type="m">gast</rhyme></l>
+        <l id="s7:l3" met="4" type="-+">Nu laet ons met ghenoechte <rhyme label="a" type="m" corresp="#s7:l1">zijn</rhyme>,</l>
+        <l id="s7:l4" met="4" type="-+">Wy willen gaen drincken den coelen <rhyme label="b" type="m" corresp="#s7:l2">wijn</rhyme></l>
+        <l id="s7:l5" met="2" type="-+">Wy worden <rhyme label="c" type="m">ghewacht</rhyme>,</l>
+        <l id="s7:l6" met="4" type="-+">Die Wachter sal zijnen horen <rhyme label="d" type="m">blasen</rhyme>,</l>
+        <l id="s7:l7" met="2" type="-+">Als comt den <rhyme label="c" type="m" corresp="#s7:l5">dach</rhyme>.</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="4" type="-+">Een corte wyle en was daer niet <rhyme label="a" type="m">lanck</rhyme>,</l>
+        <l id="s8:l2" met="4" type="-+">Die Wachter sanck zijn daghe <rhyme label="b" type="m">liet</rhyme></l>
+        <l id="s8:l3" met="4" type="-+">In zynen armen dat hyse <rhyme label="a" type="m" corresp="#s8:l1">nam</rhyme>,</l>
+        <l id="s8:l4" met="4" type="-+">Het scheyden was hem een groot <rhyme label="b" type="m" corresp="#s8:l2">verdriet</rhyme></l>
+        <l id="s8:l5" met="2" type="-+">Och leyder <rhyme label="c" type="m">dach</rhyme> //</l>
+        <l id="s8:l6" met="4" type="-+">Ghy doet my vander Liefste <rhyme label="d" type="m">scheyden</rhyme>,</l>
+        <l id="s8:l7" met="2" type="-+">Die ick oyt <rhyme label="c" type="m" corresp="#s8:l5">sach</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

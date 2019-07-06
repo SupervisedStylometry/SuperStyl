@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>34604</id>
+    <date>
+      <year-start>1641</year-start>
+      <year-end>1641</year-end>
+    </date>
+    <location>
+      <orginal-name>brussel</orginal-name>
+      <standard-name>Brussels, Belgium</standard-name>
+      <coordinates>
+        <lon>50.8465573</lon>
+        <lat>4.351697</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdesklacht" translation="love complaint">liefdesklacht</tag>
+    </tags>
+    <melody>Prinses idoon geef mij tot loon</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Guilelmus van der Borcht</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ACh sal mijn klaghen // mijn ernstigh <rhyme label="a" type="f">waghen</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">En al mijn moeyte niet eens raken 't <rhyme label="b" type="m">hert'</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Naer 't ghen' ick jaghe // by nacht' en <rhyme label="a" type="f" corresp="#s1:l1">daghen</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">In soo veel pijnen en ghestaghe <rhyme label="b" type="m" corresp="#s1:l2">smert'</rhyme>,</l>
+        <l id="s1:l5" met="5" type="-+">Soo is 't ghewis dat ick ghedoodet <rhyme label="b" type="m" corresp="#s1:l2">werdt</rhyme> ?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Neemt daer Goddinne // uw' <rhyme label="a" type="f">weder-minne</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Botst dan tot salvingh' in mijns zielens <rhyme label="b" type="m">steed'</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">En kijckt van binnen // hoe hert' en <rhyme label="a" type="f" corresp="#s2:l1">sinnen</rhyme></l>
+        <l id="s2:l4" met="5" type="-+">Ligghen om 't voedtsel dat ghy hun <rhyme label="b" type="m" corresp="#s2:l2">ontseedt</rhyme>,</l>
+        <l id="s2:l5" met="5" type="-+">Laet soo eens minderen het innigh <rhyme label="b" type="m" corresp="#s2:l2">leet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Ach ! wilt ghy scheyden // en my <rhyme label="a" type="f">ontseyden</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">Alleen uw' we'er-liefd' // waer naer dat ick <rhyme label="b" type="m">snaeck</rhyme> ?</l>
+        <l id="s3:l3" met="4" type="-+">Mijn suer mis-vleyden // sal door mijn <rhyme label="a" type="f" corresp="#s3:l1">schreyden</rhyme></l>
+        <l id="s3:l4" met="5" type="-+">Wercken, dat ick in eenen vloedt <rhyme label="b" type="m" corresp="#s3:l2">gheraeck</rhyme>,</l>
+        <l id="s3:l5" met="5" type="-+">En nieuwers, dan by u, mijn vloeden <rhyme label="b" type="m" corresp="#s3:l2">staeck</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

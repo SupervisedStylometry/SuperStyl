@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>13791</id>
+    <date>
+      <year-start>1643</year-start>
+      <year-end>1643</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+    </tags>
+    <melody>Laura zat laatst bij de beek</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>anoniem</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Hoort eens weeligh <rhyme label="a" type="m">Pluym-ghediert</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">En ghy lieve <rhyme label="b" type="f">Nachtegalen</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Die steets op u wieckjes <rhyme label="a" type="m" corresp="#s1:l1">swiert</rhyme>:</l>
+        <l id="s1:l4" met="4" type="+-">Als mijn Lief hier aem komt <rhyme label="b" type="f" corresp="#s1:l2">halen</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">En gaet met sijn beesjes <rhyme label="b" type="f" corresp="#s1:l2">dwalen</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Of ghy hem niet hebt <rhyme label="c" type="m">ghehoort</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Weet ghy waer hy nu gaet <rhyme label="d" type="f">weyden</rhyme>?</l>
+        <l id="s1:l8" met="4" type="+-">‘K bid ey wilt my daer <rhyme label="d" type="f" corresp="#s1:l7">gheleyden</rhyme>:</l>
+        <l id="s1:l9" met="4" type="-+">Want Amint Lerinde <rhyme label="c" type="m" corresp="#s1:l6">hoort</rhyme>?</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Sacht Lerinde ‘t is te <rhyme label="a" type="m">vroegh</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">V Amint kan noch niet <rhyme label="b" type="f">komen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">‘T was de liefde die u <rhyme label="a" type="m" corresp="#s2:l1">joegh</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Wilt wat wachten inde <rhyme label="b" type="f" corresp="#s2:l2">bomen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Yle voetjes niet en <rhyme label="b" type="f" corresp="#s2:l2">lomen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Naer al ‘t gheen het hertje <rhyme label="c" type="m">haeckt</rhyme>,</l>
+        <l id="s2:l7" met="4" type="+-">Komt Amintas wilt niet <rhyme label="d" type="f">beyen</rhyme>:</l>
+        <l id="s2:l8" met="4" type="+-">Want Lerinda u sal <rhyme label="d" type="f" corresp="#s2:l7">leyen</rhyme>,</l>
+        <l id="s2:l9" met="4" type="-+">Daer de liefde weer-liefd’ <rhyme label="c" type="m" corresp="#s2:l6">smaeckt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

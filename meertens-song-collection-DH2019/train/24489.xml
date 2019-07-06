@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24489</id>
+    <date>
+      <year-start>1596</year-start>
+      <year-end>1596</year-end>
+    </date>
+    <location>
+      <orginal-name>leiden</orginal-name>
+      <standard-name>Leiden, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.1598645</lon>
+        <lat>4.4824271</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+      <tag standard-name="danklied" translation="gratitude song">danklied</tag>
+      <tag standard-name="rederijkerslied" translation="rhetorician song">rederijkerslied</tag>
+      <tag standard-name="kluchtlied" translation="humorous song">kluchtlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="groups">groepen</category>
+      <category translation="amusement">vermaak</category>
+      <category translation="cycle of life">levenscyclus</category>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Pieter Cornelisz. van der Morsch</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">LAet ons nu al// drollich en <rhyme label="a" type="m">mal</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Bruygom en Bruyt <rhyme label="b" type="f">bedancken</rhyme></l>
+        <l id="s1:l3" met="4" type="-+">Met Ioncker Mors// en Ioffrou <rhyme label="c" type="m">Lors</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Voortstellen sotte <rhyme label="b" type="f" corresp="#s1:l2">rancken</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Wy niet alleen// maer al de <rhyme label="a" type="m">geen</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Die haer een Kaers <rhyme label="b" type="f">ontsteecken</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">Voor welcx getal// men onlancx <rhyme label="c" type="m">sal</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Noch Cappen sien <rhyme label="b" type="f" corresp="#s2:l2">ontbreken</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Mors Bruygom ruydt, Lors slechte <rhyme label="a" type="m">Bruyt</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Ick heb Erten <rhyme label="b" type="f">gegeten</rhyme></l>
+        <l id="s3:l3" met="4" type="-+">Met Kout gebroct// jae so <rhyme label="c" type="m">geschoct</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Mijn buyck hadt na <rhyme label="b" type="f" corresp="#s3:l2">gespleten</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Noch adt ick oock// mijn pens vol <rhyme label="a" type="m">Koock</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Met seventhien pont <rhyme label="b" type="f">vijgen</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Den bloemen Bry// hoop ick hier <rhyme label="c" type="m">by</rhyme></l>
+        <l id="s4:l4" met="3" type="-+">Met drollicheyt te <rhyme label="b" type="f" corresp="#s4:l2">crijgen</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Oubollich Drol// Mors met u <rhyme label="a" type="m">Snol</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Die nu pronct met haer <rhyme label="b" type="f">Ruycker</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Wy dancken v, dat ghy ons <rhyme label="c" type="m">nu</rhyme></l>
+        <l id="s5:l4" met="3" type="-+">Gedeelt hebt wel <rhyme label="b" type="f" corresp="#s5:l2">Drolsuycker</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Oorlof int ent, Corebus <rhyme label="a" type="m">jent</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">Vry Prince van de <rhyme label="b" type="f">keyen</rhyme></l>
+        <l id="s6:l3" met="4" type="-+">Voor mijn plaeysier// so oom ick <rhyme label="c" type="m">hier</rhyme></l>
+        <l id="s6:l4" met="3" type="-+">Met die Blaeu <rhyme label="b" type="f" corresp="#s6:l2">Accoleyen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

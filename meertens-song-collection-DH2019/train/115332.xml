@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>115332</id>
+    <date>
+      <year-start>1659</year-start>
+      <year-end>1659</year-end>
+    </date>
+    <location>
+      <orginal-name>alkmaar</orginal-name>
+      <standard-name>Alkmaar, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.6312592</lon>
+        <lat>4.7503798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+      <tag standard-name="morgenlied" translation="morning song">morgenlied</tag>
+    </tags>
+    <melody>Belle qui me vas martyrisant</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">De nacht vergaet, den <rhyme label="a" type="m">dageraet</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Komt nu opluycken <rhyme label="a" type="m" corresp="#s1:l1">soet</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Looft God mijn ziel die u van ‘t <rhyme label="b" type="m">quaedt</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Genadelijck <rhyme label="b" type="m" corresp="#s1:l3">behoedt</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">Nu gaet voortaen van deught tot <rhyme label="c" type="m">deught</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Door wiens vermogen ghy ‘t alles <rhyme label="c" type="m" corresp="#s1:l5">vermeught</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Laet uwen Gheest Heer <rhyme label="a" type="m">nimmermeer</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Nimmermeer van ons <rhyme label="a" type="m" corresp="#s2:l1">gaen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Doet wel gelucken t’uwer <rhyme label="b" type="m">eer</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Sulcx ick ter handt sal <rhyme label="b" type="m" corresp="#s2:l3">slaen</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Om Christi verdiensten en <rhyme label="c" type="m">doot</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">Verhoort my, en vergheeft mijn sonden <rhyme label="c" type="m" corresp="#s2:l5">bloot</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

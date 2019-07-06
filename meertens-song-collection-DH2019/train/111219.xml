@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>111219</id>
+    <date>
+      <year-start>1650</year-start>
+      <year-end>1660</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+      <tag standard-name="verhalend lied" translation="narrative song">verhalend lied</tag>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
+    </tags>
+    <melody>Een ruitertje jong van jaren</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="occasions">gelegenheden</category>
+      <category translation="narratives">verhalen</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">EEn Ruytertjen Jongh van <rhyme label="a" type="f">Jaren</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Hy vryde een Meysje <rhyme label="b" type="m">soet</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Hy vrydese vierde <rhyme label="a" type="f" corresp="#s1:l1">half-Jaren</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Te komen in haer <rhyme label="b" type="m" corresp="#s1:l2">gemoedt</rhyme>;</l>
+        <l id="s1:l5" met="4" type="-+">Hy boodse de trou en de minne was <rhyme label="b" type="m" corresp="#s1:l2">soet</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Hy boodse de trou en de minne was <rhyme label="b" type="m" corresp="#s1:l2">soet</rhyme>,</l>
+        <l id="s1:l7" met="4" type="-+">Als sy malkanderen sagen schoon <rhyme label="c" type="m">Lief</rhyme>,</l>
+        <l id="s1:l8" met="3" type="-+">Veranderde beyd' haer <rhyme label="b" type="m" corresp="#s1:l2">bloedt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Sy sprack met soete <rhyme label="a" type="f">woorden</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">'k Hebt alsoo wel <rhyme label="b" type="m">verstaen</rhyme>,</l>
+        <l id="s2:l3" met="3" type="-+">Ghy gaet op een ander <rhyme label="a" type="f" corresp="#s2:l1">vrijen</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Ghy meughter wel heenen <rhyme label="b" type="m" corresp="#s2:l2">gaen</rhyme>:</l>
+        <l id="s2:l5" met="4" type="-+">G'hebt alle jou moeyte voor niet <rhyme label="b" type="m" corresp="#s2:l2">gedaen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">G'hebt alle jou moeyte voor niet <rhyme label="b" type="m" corresp="#s2:l2">gedaen</rhyme>,</l>
+        <l id="s2:l7" met="4" type="-+">Ghy komter my veel te selde, schoon <rhyme label="c" type="m">lief</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Daerom laet icker jou <rhyme label="b" type="m" corresp="#s2:l2">gaen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Dat ick jou veel te selden <rhyme label="a" type="f">kom</rhyme>,</l>
+        <l id="s3:l2" met="3" type="-+">Dat 's my van herten <rhyme label="b" type="m">leydt</rhyme>,</l>
+        <l id="s3:l3" met="3" type="-+">Een ander Lief wil ick <rhyme label="a" type="f" corresp="#s3:l1">vrijen</rhyme>,</l>
+        <l id="s3:l4" met="3" type="-+">De Wereldt is wijdt en <rhyme label="b" type="m" corresp="#s3:l2">breydt</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">'k Wil vrijen die mijner gebeuren <rhyme label="b" type="m" corresp="#s3:l2">magh</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">'k Wil vrijen die mijner gebeuren <rhyme label="b" type="m" corresp="#s3:l2">magh</rhyme>,</l>
+        <l id="s3:l7" met="4" type="-+">Ghy meughter my niet gebeuren, schoon <rhyme label="c" type="m">lief</rhyme>,</l>
+        <l id="s3:l8" met="3" type="-+">Al vrijde ghy nacht en <rhyme label="b" type="m" corresp="#s3:l2">dagh</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Al staen ick voor jou <rhyme label="a" type="f">deurtje</rhyme>,</l>
+        <l id="s4:l2" met="3" type="-+">'k En bidder jou om geen <rhyme label="b" type="m">broodt</rhyme>,</l>
+        <l id="s4:l3" met="3" type="-+">Ghy meughtet my niet <rhyme label="a" type="f" corresp="#s4:l1">gebeuren</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Wel Edele Roosje <rhyme label="b" type="m" corresp="#s4:l2">Roodt</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Oorlof mijn Lief, ick schelder jou <rhyme label="b" type="m" corresp="#s4:l2">quijt</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Oorlof mijn Lief, ick schelder jou <rhyme label="b" type="m" corresp="#s4:l2">quijt</rhyme>,</l>
+        <l id="s4:l7" met="4" type="-+">Jou hertje dat sou wel breken schoon <rhyme label="c" type="m">lief</rhyme></l>
+        <l id="s4:l8" met="3" type="-+">Dat ick noch langer <rhyme label="b" type="m" corresp="#s4:l2">beydt</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Hy stacker fijn Paert met <rhyme label="a" type="f">spooren</rhyme>,</l>
+        <l id="s5:l2" met="3" type="-+">Hy rieper soo luyde, O <rhyme label="b" type="m">mijn</rhyme>!</l>
+        <l id="s5:l3" met="3" type="-+">Mijn Vrijen is nu <rhyme label="a" type="f" corresp="#s5:l1">verlooren</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">De Vrijsters die vrijen <rhyme label="b" type="m" corresp="#s5:l2">mijn</rhyme>,</l>
+        <l id="s5:l5" met="4" type="-+">Oorlof het moeter gescheyden <rhyme label="b" type="m" corresp="#s5:l2">zijn</rhyme>,</l>
+        <l id="s5:l6" met="4" type="-+">Oorlof het moeter gescheyden <rhyme label="b" type="m" corresp="#s5:l2">zijn</rhyme>,</l>
+        <l id="s5:l7" met="4" type="-+">Schenckt hy my de Roode <rhyme label="c" type="m">Roosjes</rhyme>,</l>
+        <l id="s5:l8" met="3" type="-+">Ick Schenckje de koele <rhyme label="b" type="m" corresp="#s5:l2">Wijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

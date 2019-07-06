@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>186415</id>
+    <date>
+      <year-start>1678</year-start>
+      <year-end>1678</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Aernout van Overbeke</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">HIer komt noch een Dooven <rhyme label="a" type="m">an</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Die sijn leet niet hooren <rhyme label="a" type="m" corresp="#s1:l1">kan</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">'k Was vaeck met hem in de <rhyme label="b" type="m">kroegh</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Dat de klock al luttel <rhyme label="b" type="m" corresp="#s1:l3">sloegh</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Als men dan riep kom gae <rhyme label="c" type="m">voort</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Seyd' hy 'k heb geen klock <rhyme label="c" type="m" corresp="#s1:l5">gehoort</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Twee heeft hy'er maer <rhyme label="a" type="m">gewis</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Schoon dat hy geen Midas <rhyme label="a" type="m" corresp="#s2:l1">is</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Vraeght hem eens hoe smaeckt uw <rhyme label="b" type="m">wijn</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">Hy seyt, 't kan soo laet niet <rhyme label="b" type="m" corresp="#s2:l3">sijn</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Seght dat hy ons nooden <rhyme label="c" type="m">moet</rhyme>,</l>
+        <l id="s2:l6" met="4" type="+-">Hy vraeght, hoe veel kost dien <rhyme label="c" type="m" corresp="#s2:l5">hoet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

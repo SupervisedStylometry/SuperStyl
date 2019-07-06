@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>192855</id>
+    <date>
+      <year-start>1850</year-start>
+      <year-end>1850</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Het wordt duister mijn Roosje</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">'t Wordt duister, mijn Roosje, kom speel nu niet <rhyme label="a" type="m">meer</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Staak liefje dat woelen, vlei rustig u <rhyme label="a" type="m" corresp="#s1:l1">neer</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Gij ligt in uw wiegje zoo warm en zoo <rhyme label="b" type="m">zacht</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Dat God u bewake mijn kind goeden <rhyme label="b" type="m" corresp="#s1:l3">nacht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Daar ligt zij, mijn rijkdom, van 't dartelen <rhyme label="a" type="m">moe</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Thans sluit zij haar mondje, haar oogjes gaan <rhyme label="a" type="m" corresp="#s2:l1">toe</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Maar 'k lees nog op 't wezen dat schuldeloos <rhyme label="b" type="m">lacht</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Waakt God voor haar moeder, mijn kind goeden <rhyme label="b" type="m" corresp="#s2:l3">nacht</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Nog leeft gij, mijn engel! in zorglooze <rhyme label="a" type="m">jeugd</rhyme>.</l>
+        <l id="s3:l2" met="4" type="-+">Mijn borst is uw hemel, een hel is uw <rhyme label="a" type="m" corresp="#s3:l1">vreugd</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Nog slapen uw driften, eens voelt gij haar <rhyme label="b" type="m">kracht</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Dat God u bewake, mijn kind! goeden <rhyme label="b" type="m" corresp="#s3:l3">nacht</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Gelukkig, mijn Roosje! wie sluimert als <rhyme label="a" type="m">gij</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">O! dat door uw onschuld dit immer zoo <rhyme label="a" type="m" corresp="#s4:l1">zij</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Hij sluimert zoo zacht die zijn plichten <rhyme label="b" type="m">betracht</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Dat God u bewake, mijn kind! goeden <rhyme label="b" type="m" corresp="#s4:l3">nacht</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

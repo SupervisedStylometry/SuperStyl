@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>1844</id>
+    <date>
+      <year-start>1615</year-start>
+      <year-end>1615</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>La Durette</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">MYn hert laet vryheyt <rhyme label="a" type="f">varen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">’T beschermen is te <rhyme label="b" type="m">laet</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">VVant ten mach u doen gheen <rhyme label="b" type="m" corresp="#s1:l2">baet</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Het soud’ mijn pijn <rhyme label="a" type="f" corresp="#s1:l1">besvvaren</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">En oock mijn straffe <rhyme label="c" type="m">fel</rhyme></l>
+        <l id="s1:l6" met="4" type="+-">Door die mijn doet dit <rhyme label="c" type="m" corresp="#s1:l5">ghequel</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="3" type="-+">Niemandt sonder sijn <rhyme label="a" type="f">schade</rhyme></l>
+        <l id="s2:l2" met="3" type="-+">Die Goden oyt <rhyme label="b" type="m">aensach</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Alsoo doen ick mijn <rhyme label="b" type="m" corresp="#s2:l2">gheklach</rhyme></l>
+        <l id="s2:l4" met="3" type="-+">Door ’tghesichte <rhyme label="a" type="f" corresp="#s2:l1">beladen</rhyme></l>
+        <l id="s2:l5" met="3" type="-+">Van mijn liefs schoonheyt <rhyme label="c" type="m">vvreet</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Komt mijn nu alleen dit <rhyme label="c" type="m" corresp="#s2:l5">leet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="3" type="-+">Yemandt door blixems <rhyme label="a" type="f">slaghen</rhyme></l>
+        <l id="s3:l2" met="3" type="-+">Somtijdts beschadicht <rhyme label="b" type="m">vverdt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="+-">Ende is verbaest in ’t <rhyme label="b" type="m" corresp="#s3:l2">hert</rhyme></l>
+        <l id="s3:l4" met="3" type="-+">Als die niet kan <rhyme label="a" type="f" corresp="#s3:l1">verdraghen</rhyme></l>
+        <l id="s3:l5" met="3" type="-+">Het groote Hemels <rhyme label="c" type="m">licht</rhyme>,</l>
+        <l id="s3:l6" met="4" type="+-">Soo straelt op mijn haer <rhyme label="c" type="m" corresp="#s3:l5">gesicht</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="3" type="-+">Haer keeltjen claer om <rhyme label="a" type="f">singhen</rhyme></l>
+        <l id="s4:l2" met="3" type="-+">Veel soeter is <rhyme label="b" type="m">ghestelt</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">Als des Nachtegaels op’t <rhyme label="b" type="m" corresp="#s4:l2">velt</rhyme>,</l>
+        <l id="s4:l4" met="3" type="-+">Om d’herten te <rhyme label="a" type="f" corresp="#s4:l1">doordringhen</rhyme></l>
+        <l id="s4:l5" met="3" type="-+">Met lieffelijck <rhyme label="c" type="m">accoort</rhyme></l>
+        <l id="s4:l6" met="4" type="+-">Van een yder die het <rhyme label="c" type="m" corresp="#s4:l5">hoort</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="3" type="-+">Als ick u deuchden <rhyme label="a" type="f">poghe</rhyme></l>
+        <l id="s5:l2" met="3" type="-+">Te schrijven <rhyme label="b" type="m">altemet</rhyme>,</l>
+        <l id="s5:l3" met="4" type="+-">Liefjen hier doch eens op <rhyme label="b" type="m" corresp="#s5:l2">let</rhyme>,</l>
+        <l id="s5:l4" met="3" type="-+">Soo vind’ ick mijn <rhyme label="a" type="f" corresp="#s5:l1">bedroghen</rhyme>,</l>
+        <l id="s5:l5" met="3" type="-+">En prijs u altijdt <rhyme label="c" type="m">min</rhyme></l>
+        <l id="s5:l6" met="4" type="+-">Als ghy vvaert zijt in mijn <rhyme label="c" type="m" corresp="#s5:l5">sin</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="3" type="-+">Ghy Prince van hier <rhyme label="a" type="f">boven</rhyme></l>
+        <l id="s6:l2" met="3" type="-+">My dees Princesse <rhyme label="b" type="m">gheeft</rhyme>,</l>
+        <l id="s6:l3" met="4" type="+-">Die om haer te dienen <rhyme label="b" type="m" corresp="#s6:l2">leeft</rhyme>,</l>
+        <l id="s6:l4" met="3" type="-+">Op dat ick u mach <rhyme label="a" type="f" corresp="#s6:l1">loven</rhyme></l>
+        <l id="s6:l5" met="3" type="-+">En dancken vroech en <rhyme label="c" type="m">laet</rhyme>,</l>
+        <l id="s6:l6" met="4" type="+-">Tot spijt der benijders <rhyme label="c" type="m" corresp="#s6:l5">quaet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

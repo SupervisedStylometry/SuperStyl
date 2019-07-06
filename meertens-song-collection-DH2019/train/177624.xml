@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>177624</id>
+    <date>
+      <year-start>1757</year-start>
+      <year-end>1757</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Hoor Kees mijn vrijer</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">Met blyde <rhyme label="a" type="f">klanken</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Is ieder <rhyme label="b" type="m">Herderskind</rhyme></l>
+        <l id="s1:l3" met="2" type="-+">Verplicht te <rhyme label="a" type="f" corresp="#s1:l1">danken</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Zyn' Cloris, zynen <rhyme label="b" type="m" corresp="#s1:l2">vrind</rhyme>.</l>
+        <l id="s1:l5" met="3" type="-+">Kom, gaan wy <rhyme label="c" type="m">Philida</rhyme>!</l>
+        <l id="s1:l6" met="3" type="-+">Celinde 'k volg u <rhyme label="c" type="m" corresp="#s1:l5">naa</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">Waar gy my zult <rhyme label="d" type="f">geleiden</rhyme>.</l>
+        <l id="s1:l8" met="3" type="-+">Mag ik u volgen? <rhyme label="c" type="m" corresp="#s1:l5">Jaa</rhyme>,</l>
+        <l id="s1:l9" met="2" type="-+">Gaa met ons <rhyme label="d" type="f" corresp="#s1:l7">beiden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

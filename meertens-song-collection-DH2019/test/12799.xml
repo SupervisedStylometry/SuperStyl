@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12799</id>
+    <date>
+      <year-start>1658</year-start>
+      <year-end>1658</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Psalm 025 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">ALs ghy sult ter maeltijt <rhyme label="a" type="f">treden</rhyme></l>
+        <l id="s1:l2" met="4" type="+-">'tWelck den Christenen staet <rhyme label="b" type="m">vry</rhyme>:</l>
+        <l id="s1:l3" met="4" type="+-">Gaet daer niet om <rhyme label="a" type="f" corresp="#s1:l1">ydelheden</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Of om tonge <rhyme label="b" type="m" corresp="#s1:l2">leckerny</rhyme>.</l>
+        <l id="s1:l5" met="4" type="+-">Die om spijs of dranck daer <rhyme label="c" type="m">gaet</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Is niet beter als de <rhyme label="d" type="f">beesten</rhyme>:</l>
+        <l id="s1:l7" met="4" type="+-">Die sigh geeft tot ydle <rhyme label="c" type="m" corresp="#s1:l5">praet</rhyme></l>
+        <l id="s1:l8" met="4" type="+-">Is in dienst van quade <rhyme label="d" type="f" corresp="#s1:l6">geesten</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Dat is recht een Christen <rhyme label="a" type="f">maeltijt</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Daermen Jesus set voor <rhyme label="b" type="m">aen</rhyme>.</l>
+        <l id="s2:l3" met="4" type="+-">Daermen 'tstightige verhael <rhyme label="a" type="f" corresp="#s2:l1">lijdt</rhyme>:</l>
+        <l id="s2:l4" met="4" type="+-">Daermen zedigh op kan <rhyme label="b" type="m" corresp="#s2:l2">staen</rhyme>.</l>
+        <l id="s2:l5" met="4" type="+-">Daer de spijs niet <rhyme label="c" type="m">overlaedt</rhyme>:</l>
+        <l id="s2:l6" met="4" type="+-">Daer te veel niet wort <rhyme label="d" type="f">geschoncken</rhyme>:</l>
+        <l id="s2:l7" met="4" type="+-">Daermen niet sit al te <rhyme label="c" type="m" corresp="#s2:l5">laet</rhyme>:</l>
+        <l id="s2:l8" met="4" type="+-">Daer men niet wort vol en <rhyme label="d" type="f" corresp="#s2:l6">droncken</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Souckt 'tgeselschap van de <rhyme label="a" type="f">vroome</rhyme>.</l>
+        <l id="s3:l2" met="4" type="+-">Daermen ydel praet <rhyme label="b" type="m">vermijt</rhyme>:</l>
+        <l id="s3:l3" met="4" type="+-">Daer de spotters niet en <rhyme label="a" type="f" corresp="#s3:l1">kome</rhyme>.</l>
+        <l id="s3:l4" met="4" type="+-">Daermen achterklap <rhyme label="b" type="m" corresp="#s3:l2">bestrijdt</rhyme>.</l>
+        <l id="s3:l5" met="4" type="+-">Daermen spreeckt van Godes <rhyme label="c" type="m">woort</rhyme>:</l>
+        <l id="s3:l6" met="4" type="+-">Daer niet is een vuyl <rhyme label="d" type="f">gewemel</rhyme>.</l>
+        <l id="s3:l7" met="4" type="+-">Daer u Venus niet <rhyme label="c" type="m" corresp="#s3:l5">bekoort</rhyme>.</l>
+        <l id="s3:l8" met="4" type="+-">Dat is 'tbeeltsel van den <rhyme label="d" type="f" corresp="#s3:l6">hemel</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>32508</id>
+    <date>
+      <year-start>1667</year-start>
+      <year-end>1667</year-end>
+    </date>
+    <location>
+      <orginal-name>mechelen</orginal-name>
+      <standard-name>Mechelen, Belgium</standard-name>
+      <coordinates>
+        <lon>51.0281381</lon>
+        <lat>4.4803453</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody>Eerste musketier</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">HElaes! ick leeff in groot <rhyme label="a" type="m">verdriet</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Want Coridon en acht my <rhyme label="a" type="m" corresp="#s1:l1">niet</rhyme></l>
+        <l id="s1:l3" met="4" type="+-">Menigh traen om hem <rhyme label="a" type="m" corresp="#s1:l1">vergiet</rhyme>;</l>
+        <l id="s1:l4" met="4" type="-+">Dat komt door al de klappers <rhyme label="b" type="m">quaet</rhyme></l>
+        <l id="s1:l5" met="4" type="-+">Die maecken hem soo <rhyme label="b" type="m" corresp="#s1:l4">obstinaet</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Dat hy my vliet, door boosen <rhyme label="b" type="m" corresp="#s1:l4">raet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Hy schynt van my nu <rhyme label="a" type="m">ongewent</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">En vynst, oft hy my niet en <rhyme label="a" type="m" corresp="#s2:l1">kent</rhyme>,</l>
+        <l id="s2:l3" met="4" type="+-">Dat baert my een groot <rhyme label="a" type="m" corresp="#s2:l1">torment</rhyme>;</l>
+        <l id="s2:l4" met="4" type="-+">Ick hoop, Godt sal het doen <rhyme label="b" type="m">vergaen</rhyme></l>
+        <l id="s2:l5" met="4" type="-+">Van 't leet dat hy my heeft <rhyme label="b" type="m" corresp="#s2:l4">gedaen</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Dat hy my nu in druck laet <rhyme label="b" type="m" corresp="#s2:l4">staen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">O Heer wat sal ick nu gaen <rhyme label="a" type="m">doen</rhyme>!</l>
+        <l id="s3:l2" met="4" type="-+">Helaes, was dat den blijden <rhyme label="a" type="m" corresp="#s3:l1">soen</rhyme></l>
+        <l id="s3:l3" met="4" type="+-">En die Trauw, naer u <rhyme label="a" type="m" corresp="#s3:l1">vermoen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Sy is voor-waer nu heel <rhyme label="b" type="m">verkroemt</rhyme>,</l>
+        <l id="s3:l5" met="4" type="-+">Siet dat g'u niet te veel <rhyme label="b" type="m" corresp="#s3:l4">beroemt</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Eer dat gy u ziel <rhyme label="b" type="m" corresp="#s3:l4">verdoemt</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Nu ben ick van mijn eer <rhyme label="a" type="m">ontbloot</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">O wee! ick sterf die droeve <rhyme label="a" type="m" corresp="#s4:l1">doot</rhyme></l>
+        <l id="s4:l3" met="4" type="+-">Door u ontrau al te <rhyme label="a" type="m" corresp="#s4:l1">groot</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">Adieu voor my ô! blijden <rhyme label="b" type="m">dagh</rhyme></l>
+        <l id="s4:l5" met="4" type="-+">O wee! dat ick nu seggen <rhyme label="b" type="m" corresp="#s4:l4">magh</rhyme></l>
+        <l id="s4:l6" met="4" type="-+">Dat hy my oyt immer <rhyme label="b" type="m" corresp="#s4:l4">sagh</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

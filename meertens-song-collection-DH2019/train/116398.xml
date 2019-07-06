@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>116398</id>
+    <date>
+      <year-start>1681</year-start>
+      <year-end>1681</year-end>
+    </date>
+    <location>
+      <orginal-name>alkmaar</orginal-name>
+      <standard-name>Alkmaar, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.6312592</lon>
+        <lat>4.7503798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+    </tags>
+    <melody>Psalm 100 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Claes Stapel</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">ALs ik des Weerelds doen te <rhyme label="a" type="m">deeg</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">In mijnder herten <rhyme label="a" type="m" corresp="#s1:l1">over-weeg</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Niet is 'er, dat my meer <rhyme label="b" type="m">behaagd</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Dan dat men zich God-vruchtig <rhyme label="b" type="m" corresp="#s1:l3">draagt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Want al wat hier beneeden <rhyme label="a" type="m">leid</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Vergaat, en is slechts <rhyme label="a" type="m" corresp="#s2:l1">ydelheid</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Maar die zijn hert naa booven <rhyme label="b" type="m">stuurd</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Die vind een goed dat eeuwig <rhyme label="b" type="m" corresp="#s2:l3">duurd</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Prijs-waardig is de jonge <rhyme label="a" type="m">jeugd</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">In wien de lust ontsteekt tot <rhyme label="a" type="m" corresp="#s3:l1">deugd</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Die steeds het oog op Christus <rhyme label="b" type="m">slaan</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Waar door zy recht ten Heemel <rhyme label="b" type="m" corresp="#s3:l3">gaan</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Die zoo een lust in zich <rhyme label="a" type="m">gevoeld</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">En nergens als naa booven <rhyme label="a" type="m" corresp="#s4:l1">doeld</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Die heeft gants niet met d' aard in 't <rhyme label="b" type="m">zin</rhyme>:</l>
+        <l id="s4:l4" met="4" type="-+">Maar houd de Heer voor zin <rhyme label="b" type="m" corresp="#s4:l3">gewin</rhyme>,</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">O! dat die lust noit op en <rhyme label="a" type="m">hiel</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">Tot rust en troost van mijne <rhyme label="a" type="m" corresp="#s5:l1">ziel</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">En tot mijn heilands lof en <rhyme label="b" type="m">eer</rhyme>!</l>
+        <l id="s5:l4" met="4" type="-+">O God! dit is al mijn <rhyme label="b" type="m" corresp="#s5:l3">begeer</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

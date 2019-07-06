@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>21179</id>
+    <date>
+      <year-start>1646</year-start>
+      <year-end>1646</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="vermaanlied" translation="admonitory song">vermaanlied</tag>
+    </tags>
+    <melody>Ballet Bronkhorst</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Guillaume Abrahams Ooijevaer</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">Hoe boosaerdigh // zijn nu de Menschen <rhyme label="a" type="f">kind'ren</rhyme></l>
+        <l id="s1:l2" met="2" type="-+">Van onse <rhyme label="b" type="m">tijdt</rhyme>?</l>
+        <l id="s1:l3" met="5" type="-+">Die soo vaerdigh // eens anders eer <rhyme label="a" type="f" corresp="#s1:l1">vermind'ren</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Door Haet en <rhyme label="b" type="m" corresp="#s1:l2">Nijdt</rhyme>:</l>
+        <l id="s1:l5" met="5" type="+-">Hoe verkeert, hoe nijdigh spreeckt de <rhyme label="c" type="m">mondt</rhyme>?</l>
+        <l id="s1:l6" met="4" type="-+">Veel valsche dinghen // jae <rhyme label="d" type="f">beuselinghen</rhyme>,</l>
+        <l id="s1:l7" met="5" type="+-">Om soo te bringhen // haer Naesten in 't <rhyme label="e" type="m">verdriet</rhyme>,</l>
+        <l id="s1:l8" met="6" type="+-">Verdriet, verdriet, jae te storten in den <rhyme label="c" type="m" corresp="#s1:l5">grondt</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Loosen Klapper // Faem-rover, <rhyme label="a" type="f">Deugt-verberger</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">Elcks <rhyme label="b" type="m">ongerief</rhyme>,</l>
+        <l id="s2:l3" met="5" type="-+">Leugen-snapper // weer vry dat ghy veel <rhyme label="a" type="f" corresp="#s2:l1">erger</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Zijt, als een <rhyme label="b" type="m" corresp="#s2:l2">Dief</rhyme>:</l>
+        <l id="s2:l5" met="5" type="+-">Want een Dief soeckt maer het tijd'lijck <rhyme label="c" type="m">goedt</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Tot sijn behoeven // Maer sulcke <rhyme label="d" type="f">Boeven</rhyme></l>
+        <l id="s2:l7" met="5" type="+-">Sal Godt bedroeven, die haren vriendt sijn <rhyme label="e" type="m">eer</rhyme>,</l>
+        <l id="s2:l8" met="6" type="+-">Sijn eer, sijn eer nijdigh treden onder <rhyme label="c" type="m" corresp="#s2:l5">voet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Doch de Vrome // die op Godes goetheyt <rhyme label="a" type="f">hopen</rhyme>,</l>
+        <l id="s3:l2" met="2" type="-+">Sullen 't <rhyme label="b" type="m">verdriet</rhyme></l>
+        <l id="s3:l3" met="5" type="-+">Boven komen // Want Godts genaed' staet <rhyme label="a" type="f" corresp="#s3:l1">open</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">Die tot hem <rhyme label="b" type="m" corresp="#s3:l2">vliedt</rhyme>:</l>
+        <l id="s3:l5" met="5" type="+-">Laet de Booz' uytspouwen haer <rhyme label="c" type="m">fenijn</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Die Godt betrouwen // en op hem <rhyme label="d" type="f">bouwen</rhyme></l>
+        <l id="s3:l7" met="5" type="+-">In haer benouwen // die sullen noch in 't <rhyme label="e" type="m">endt</rhyme>,</l>
+        <l id="s3:l8" met="6" type="+-">In 't endt, in 't endt wel gemoedt en vrolijck <rhyme label="c" type="m" corresp="#s3:l5">zijn</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

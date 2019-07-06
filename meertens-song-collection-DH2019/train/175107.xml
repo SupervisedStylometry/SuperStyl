@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>175107</id>
+    <date>
+      <year-start>1861</year-start>
+      <year-end>1861</year-end>
+    </date>
+    <tags>
+      <tag standard-name="dialooglied" translation="dialogue song">dialooglied</tag>
+      <tag standard-name="kinderlied" translation="children's song">kinderlied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="formal genres">formele genres</category>
+      <category translation="children">kinderen</category>
+    </categories>
+  <author>Jan Pieter Heije</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Wel, vogeltjes! wat ben-je <rhyme label="a" type="m">dom</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Dat ge alle wegvliegt als ge 't <rhyme label="b" type="m">ziet</rhyme>!....</l>
+        <l id="s1:l3" met="4" type="-+">Het is een pop en anders <rhyme label="b" type="m" corresp="#s1:l2">niet</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Met menig' ouden lap er <rhyme label="a" type="m" corresp="#s1:l1">om</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Kijk! of ge 'em pikt en of ge 'em <rhyme label="c" type="m">slaat</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Hij blijft een doode, <rhyme label="c" type="m" corresp="#s1:l5">kameraad</rhyme>!</l>
+        <l id="s1:l7" met="4" type="-+">En doet u zeker leed noch <rhyme label="c" type="m" corresp="#s1:l5">kwaad</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">- Wel, jongelief! zijn wij zoo <rhyme label="a" type="m">dom</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Gij zijt toch ook zoo'n slimmert <rhyme label="b" type="m">niet</rhyme>;</l>
+        <l id="s2:l3" met="4" type="-+">Want, als ge 's avonds eens wat <rhyme label="b" type="m" corresp="#s2:l2">ziet</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Dan schrikt ge er van, en loopt <rhyme label="a" type="m" corresp="#s2:l1">weêrom</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">En vreest voor spook of ander <rhyme label="c" type="m">kwaad</rhyme>....</l>
+        <l id="s2:l6" met="4" type="-+">En keek-je eens op de keper, <rhyme label="c" type="m" corresp="#s2:l5">maat</rhyme>!</l>
+        <l id="s2:l7" met="4" type="-+">Dan was 't verbeelding, <rhyme label="c" type="m" corresp="#s2:l5">kameraad</rhyme>! -</l>
+      </lg>
+    </lg>
+  </text>
+</song>

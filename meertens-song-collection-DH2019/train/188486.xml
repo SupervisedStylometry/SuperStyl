@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188486</id>
+    <date>
+      <year-start>1751</year-start>
+      <year-end>1752</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Antoine Mahaut, Kornelis Elzevier</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">De goelyke <rhyme label="a" type="m">Amaril</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">Bemind door knaep <rhyme label="a" type="m" corresp="#s1:l1">Myrtil</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Was doof voor al zyn <rhyme label="b" type="f">klagen</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">O Sprak de looze <rhyme label="c" type="m">min</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Een maegd moet liefde <rhyme label="b" type="f" corresp="#s1:l3">dragen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="-+">'t Zy met of tegen <rhyme label="c" type="m" corresp="#s1:l4">zin</rhyme>.</l>
+        <l id="s1:l7" met="4" type="+-">Ik wil dezen Herder <rhyme label="d" type="f">helpen</rhyme>.</l>
+        <l id="s1:l8" met="4" type="+-">Niemand kan myn wonden <rhyme label="d" type="f" corresp="#s1:l7">stelpen</rhyme>.</l>
+        <l id="s1:l9" met="4" type="+-">Hy nam fluks de beeldnis <rhyme label="e" type="m">aen</rhyme>,</l>
+        <l id="s1:l10" met="4" type="+-">Van een Roos met dauw <rhyme label="e" type="m" corresp="#s1:l9">belaên</rhyme>:</l>
+        <l id="s1:l11" met="4" type="+-">'t Meisje plukt die met haer <rhyme label="f" type="m">hand</rhyme>;</l>
+        <l id="s1:l12" met="4" type="+-">Voort voelt zy de liefde <rhyme label="f" type="m" corresp="#s1:l11">brand</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12780</id>
+    <date>
+      <year-start>1658</year-start>
+      <year-end>1658</year-end>
+    </date>
+    <location>
+      <orginal-name>rotterdam</orginal-name>
+      <standard-name>Rotterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.9228958</lon>
+        <lat>4.4631727</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Psalm 050 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">MYn Heer, mijn Jesus, staet nu al <rhyme label="a" type="m">gereet</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Gewapent in zijn heerlijck ricijter <rhyme label="a" type="m" corresp="#s1:l1">kleet</rhyme>:</l>
+        <l id="s1:l3" met="5" type="-+">Hy salse daegen alle kleyn en <rhyme label="b" type="m">groot</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Die levend' zijn, en die oock dan zijn <rhyme label="b" type="m" corresp="#s1:l3">doot</rhyme></l>
+        <l id="s1:l5" met="5" type="-+">Ten oordeel, niemandt sal sigh konnen <rhyme label="c" type="f">bergen</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Schoon dat hy lagh onder de hooghste <rhyme label="c" type="f" corresp="#s1:l5">bergen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Die 'tEuangely niet en heeft <rhyme label="a" type="m">gelooft</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Sal door tgeroup des wets worden <rhyme label="a" type="m" corresp="#s2:l1">verdooft</rhyme></l>
+        <l id="s2:l3" met="5" type="-+">Int naer gekerm, ten doem van ziel en <rhyme label="b" type="m">lijf</rhyme>:</l>
+        <l id="s2:l4" met="5" type="-+">Dits 'tloon van al het sondige <rhyme label="b" type="m" corresp="#s2:l3">bedrijf</rhyme>:</l>
+        <l id="s2:l5" met="5" type="-+">Dan wort de mensch ter hellen <rhyme label="c" type="f">afgestooten</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">En eeuwigh met Gods wraeck-vyer <rhyme label="c" type="f" corresp="#s2:l5">overgooten</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Maer, wel de mensch! die sigh hier heeft <rhyme label="a" type="m">bekeert</rhyme>,</l>
+        <l id="s3:l2" met="5" type="-+">En door 'tgeloof zijn rechter heeft <rhyme label="a" type="m" corresp="#s3:l1">ge-eert</rhyme>:</l>
+        <l id="s3:l3" met="5" type="-+">Die sigh alsoo ten grave uyt <rhyme label="b" type="m">verthoont</rhyme>:</l>
+        <l id="s3:l4" met="5" type="-+">En Christi liefd' door 'twerck terstont <rhyme label="b" type="m" corresp="#s3:l3">bethoont</rhyme>.</l>
+        <l id="s3:l5" met="5" type="-+">O! die vindt by zijn Rechter dan <rhyme label="c" type="f">verschooningh</rhyme></l>
+        <l id="s3:l6" met="5" type="-+">En treedt soo over tot zijn Hemelsch <rhyme label="c" type="f" corresp="#s3:l5">Wooningh</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

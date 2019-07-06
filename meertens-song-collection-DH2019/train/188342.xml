@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>188342</id>
+    <date>
+      <year-start>1780</year-start>
+      <year-end>1780</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>In de Nes daar moet je wezen</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">BRuigom zoo gy wilt <rhyme label="a" type="f">beloven</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Ons te onthaalen naar ons <rhyme label="b" type="m">Zin</rhyme>,</l>
+        <l id="s1:l3" met="2" type="+-">Zullen <rhyme label="c" type="m">wy</rhyme>,</l>
+        <l id="s1:l4" met="2" type="+-">Zamen <rhyme label="c" type="m" corresp="#s1:l3">bly</rhyme>,</l>
+        <l id="s1:l5" met="4" type="+-">Uw geleiden daar gy <rhyme label="c" type="m" corresp="#s1:l3">vry</rhyme>,</l>
+        <l id="s1:l6" met="4" type="+-">Met uw Bruidt in Cyprus <rhyme label="a" type="f" corresp="#s1:l1">Hoven</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Smaken zult het zoet der <rhyme label="b" type="m" corresp="#s1:l2">Min</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Ha! gy knikt. Nu <rhyme label="a" type="f">ingeschonken</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">En met bloemen 't Paar <rhyme label="b" type="m">bekranst</rhyme></l>
+        <l id="s2:l3" met="2" type="+-">In dees <rhyme label="c" type="m">stant</rhyme>,</l>
+        <l id="s2:l4" met="2" type="+-">Lugt van <rhyme label="c" type="m" corresp="#s2:l3">trant</rhyme>,</l>
+        <l id="s2:l5" met="4" type="+-">Elk een roemer op zyn <rhyme label="c" type="m" corresp="#s2:l3">hant</rhyme></l>
+        <l id="s2:l6" met="4" type="+-">Dus op 't goed Succes <rhyme label="a" type="f" corresp="#s2:l1">gedronken</rhyme>;</l>
+        <l id="s2:l7" met="4" type="+-">Nu het Paar naar Bedt <rhyme label="b" type="m" corresp="#s2:l2">gedanst</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Zoo mag 't zoet omhelsen <rhyme label="a" type="f">geven</rhyme></l>
+        <l id="s3:l2" met="4" type="+-">In dees onverzaatb'ren <rhyme label="b" type="m">nagt</rhyme>,</l>
+        <l id="s3:l3" met="2" type="+-">Zulken <rhyme label="c" type="m">spruit</rhyme></l>
+        <l id="s3:l4" met="2" type="+-">Aan de <rhyme label="c" type="m" corresp="#s3:l3">Bruidt</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Eer de Gras en Bloeimaant <rhyme label="c" type="m" corresp="#s3:l3">sluit</rhyme>;</l>
+        <l id="s3:l6" met="4" type="+-">Daar de Deugden in <rhyme label="a" type="f" corresp="#s3:l1">herleven</rhyme></l>
+        <l id="s3:l7" met="4" type="+-">Aan hun wederzyds <rhyme label="b" type="m" corresp="#s3:l2">Geslagt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

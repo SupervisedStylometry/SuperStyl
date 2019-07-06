@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3427</id>
+    <date>
+      <year-start>1575</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Al hadden wij 25 bedden</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>D.V. Coornhert</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">WY dancken den <rhyme label="a" type="m">waard</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">Om dat hy ons <rhyme label="b" type="m">voet</rhyme>:</l>
+        <l id="s1:l3" met="2" type="-+">En dedel <rhyme label="a" type="m" corresp="#s1:l1">wynghaard</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Die dees druyfkens <rhyme label="b" type="m" corresp="#s1:l2">zoet</rhyme>,</l>
+        <l id="s1:l5" met="2" type="-+">Ons mildelick <rhyme label="c" type="m">biet</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Dit wyntken wilt <rhyme label="d" type="f">drincken</rhyme></l>
+        <l id="s1:l7" met="2" type="-+">Hy doet het ons <rhyme label="d" type="f" corresp="#s1:l6">schincken</rhyme></l>
+        <l id="s1:l8" met="2" type="-+">uyt Liefde om <rhyme label="c" type="m" corresp="#s1:l5">niet</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">Drinckt al vry <rhyme label="a" type="m">droncken</rhyme></l>
+        <l id="s2:l2" met="2" type="-+">Van dees zoete <rhyme label="b" type="m">most</rhyme></l>
+        <l id="s2:l3" met="2" type="-+">Zy wert <rhyme label="a" type="m" corresp="#s2:l1">gheschoncken</rhyme>,</l>
+        <l id="s2:l4" met="2" type="-+">Buyten onze <rhyme label="b" type="m" corresp="#s2:l2">kost</rhyme>.</l>
+        <l id="s2:l5" met="2" type="-+">En mindert <rhyme label="c" type="m">verdriet</rhyme>,</l>
+        <l id="s2:l6" met="2" type="-+">Dit wyntken wilt <rhyme label="d" type="f">drincken</rhyme>.</l>
+        <l id="s2:l7" met="2" type="-+">Hy doet het ons <rhyme label="d" type="f" corresp="#s2:l6">schincken</rhyme>,</l>
+        <l id="s2:l8" met="2" type="-+">uyt liefde om <rhyme label="c" type="m" corresp="#s2:l5">niet</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Dees vruchtbare <rhyme label="a" type="m">ranck</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Verdrijft ons <rhyme label="b" type="m">rouwe</rhyme></l>
+        <l id="s3:l3" met="2" type="-+">Door lieflicke <rhyme label="a" type="m" corresp="#s3:l1">dranck</rhyme>,</l>
+        <l id="s3:l4" met="2" type="-+">En Hemels <rhyme label="b" type="m" corresp="#s3:l2">douwe</rhyme>.</l>
+        <l id="s3:l5" met="2" type="-+">Die hy in ons <rhyme label="c" type="m">ghiet</rhyme></l>
+        <l id="s3:l6" met="2" type="-+">Dit wynken wilt <rhyme label="d" type="f">drincken</rhyme>.</l>
+        <l id="s3:l7" met="2" type="-+">Hy doet het ons <rhyme label="d" type="f" corresp="#s3:l6">schincken</rhyme>.</l>
+        <l id="s3:l8" met="2" type="-+">uyt Liefden om <rhyme label="c" type="m" corresp="#s3:l5">niet</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">Smaackt prince dees <rhyme label="a" type="m">wyn</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">In reynder <rhyme label="b" type="m">borste</rhyme></l>
+        <l id="s4:l3" met="2" type="-+">Zy doet vrolick <rhyme label="a" type="m" corresp="#s4:l1">zyn</rhyme></l>
+        <l id="s4:l4" met="2" type="-+">En bluscht den <rhyme label="b" type="m" corresp="#s4:l2">dorste</rhyme></l>
+        <l id="s4:l5" met="2" type="-+">Met Hemels <rhyme label="c" type="m">bediet</rhyme></l>
+        <l id="s4:l6" met="2" type="-+">Dit wynken wilt <rhyme label="d" type="f">drincken</rhyme>.</l>
+        <l id="s4:l7" met="2" type="-+">Hy doet het ons <rhyme label="d" type="f" corresp="#s4:l6">schincken</rhyme>,</l>
+        <l id="s4:l8" met="2" type="-+">uyt liefden om <rhyme label="c" type="m" corresp="#s4:l5">niet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

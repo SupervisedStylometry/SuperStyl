@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20122</id>
+    <date>
+      <year-start>1654</year-start>
+      <year-end>1654</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bruiloftslied" translation="wedding song">bruiloftslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="cycle of life">levenscyclus</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">HEy! wy willen noch niet <rhyme label="a" type="f">scheyde</rhyme>,</l>
+        <l id="s1:l2" met="4" type="+-">Want wy hebben noch tijts <rhyme label="b" type="m">genoegh</rhyme>,</l>
+        <l id="s1:l3" met="4" type="+-">Hey! wy wille noch niet <rhyme label="a" type="f" corresp="#s1:l1">scheyde</rhyme>,</l>
+        <l id="s1:l4" met="4" type="+-">Want wy hebben noch tijts <rhyme label="b" type="m" corresp="#s1:l2">genoegh</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Kom laater ons danzen en <rhyme label="c" type="f">springen</rhyme>,</l>
+        <l id="s1:l6" met="3" type="+-">Wandelen, speelen, en <rhyme label="c" type="f" corresp="#s1:l5">singen</rhyme>,</l>
+        <l id="s1:l7" met="4" type="+-">Hey van nu tot morgen <rhyme label="b" type="m" corresp="#s1:l2">vroegh</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

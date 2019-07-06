@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22264</id>
+    <date>
+      <year-start>1565</year-start>
+      <year-end>1565</year-end>
+    </date>
+    <location>
+      <orginal-name>frankfurt [=wesel?]</orginal-name>
+      <standard-name>Wesel, Germany</standard-name>
+      <coordinates>
+        <lon>51.6576909</lon>
+        <lat>6.617087</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="psalm" translation="psalm">psalm</tag>
+    </tags>
+    <melody>Vom Himmel hoch da komm ich her</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">MYn ooghen opheff ick tot u <rhyme label="a" type="m">schoon</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Ghy die daer sidt in sHemels <rhyme label="a" type="m" corresp="#s1:l1">troon</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Glijck dooghen vanden knechten <rhyme label="b" type="m">syn</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Op hun Heeren handen siende <rhyme label="b" type="m" corresp="#s1:l3">zijn</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Glijck dooghe vande Meysens <rhyme label="a" type="m">aenschouwen</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Altijts op de handen van hun <rhyme label="a" type="m" corresp="#s2:l1">Vrouwen</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Also sien ons ooghen oock op <rhyme label="b" type="m">Godt</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Tot dat hy ons helpt wt allen <rhyme label="b" type="m" corresp="#s2:l3">noodt</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Sijt ghenadich Heer, ons ghenadich <rhyme label="a" type="m">zijt</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Met u hulp en blijft van ons niet <rhyme label="a" type="m" corresp="#s3:l1">wijdt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Want wy syn vol verachtinghe <rhyme label="b" type="m">seer</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Ghy zijt die ons can helpen o <rhyme label="b" type="m" corresp="#s3:l3">Heer</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Onse Siel die is bespodt <rhyme label="a" type="m">belacht</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Vanden stouten, oock versmayt, en <rhyme label="a" type="m" corresp="#s4:l1">veracht</rhyme>:</l>
+        <l id="s4:l3" met="4" type="-+">Van thooueerdich gheslacht al te <rhyme label="b" type="m">samen</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Helpt ons lieue Heere Godt <rhyme label="b" type="m" corresp="#s4:l3">Amen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>20018</id>
+    <date>
+      <year-start>1655</year-start>
+      <year-end>1655</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+    </tags>
+    <melody>Je voudrais bien o Cloris</melody>
+    <categories>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">ICk mach met recht my over u <rhyme label="a" type="f">beklaghen</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">O tijdt, die my mijn vreughde hebt <rhyme label="b" type="m">berooft</rhyme>,</l>
+        <l id="s1:l3" met="5" type="-+">Een Minne-vlam was haer om ’t hert <rhyme label="a" type="f" corresp="#s1:l1">geslagen</rhyme>,</l>
+        <l id="s1:l4" met="5" type="-+">Die ick by haer noyt hadt te zijn <rhyme label="b" type="m" corresp="#s1:l2">gelooft</rhyme>;</l>
+        <l id="s1:l5" met="5" type="-+">Sy liet my toe, een vreught; O tongh wilt <rhyme label="c" type="f">swijghen</rhyme>,</l>
+        <l id="s1:l6" met="5" type="-+">Een vreught, daer ick haer niet weer toe kan <rhyme label="c" type="f" corresp="#s1:l5">krijgen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Mijn hoop is uyt, ten sy de Min sijn <rhyme label="a" type="f">krachten</rhyme>,</l>
+        <l id="s2:l2" met="5" type="-+">Op nieus te werck stelt aen mijn tweede <rhyme label="b" type="m">Ziel</rhyme>:</l>
+        <l id="s2:l3" met="5" type="-+">Maer hoe kom ick te weten haer <rhyme label="a" type="f" corresp="#s2:l1">ghedachten</rhyme>;</l>
+        <l id="s2:l4" met="5" type="-+">Genomen het al na mijn wensch <rhyme label="b" type="m" corresp="#s2:l2">uytviel</rhyme>:</l>
+        <l id="s2:l5" met="5" type="-+">Sy liet my toe, een vreught: O tongh wilt <rhyme label="c" type="f">swijgen</rhyme></l>
+        <l id="s2:l6" met="5" type="-+">Een vreught, daer ick haer niet weer toe kan <rhyme label="c" type="f" corresp="#s2:l5">krijgen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

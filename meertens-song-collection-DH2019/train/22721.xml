@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>22721</id>
+    <date>
+      <year-start>1576</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Ein feste Burg</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author>David Joris</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Myn ooren hebben van boven <rhyme label="a" type="m">ghehoort</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Mijn ooghen hebben van verren int <rhyme label="b" type="m">wout</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Die onnooselheyt (verstaet dat <rhyme label="a" type="m" corresp="#s1:l1">Woort</rhyme>)</l>
+        <l id="s1:l4" met="4" type="-+">In die Schapen Christi snellijck <rhyme label="b" type="m" corresp="#s1:l2">beschout</rhyme>:</l>
+        <l id="s1:l5" met="4" type="-+">Die al huylende komen <rhyme label="c" type="m">slecht</rhyme>,</l>
+        <l id="s1:l6" met="2" type="-+">Enckel <rhyme label="c" type="m" corresp="#s1:l5">oprecht</rhyme>:</l>
+        <l id="s1:l7" met="4" type="-+">Sonder schalckheyt sy simpel <rhyme label="d" type="m">sijn</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Als Duyfkens sonder rimpel <rhyme label="d" type="m" corresp="#s1:l7">fijn</rhyme>,</l>
+        <l id="s1:l9" met="4" type="-+">Onse schaemt of eenich gheveynsden <rhyme label="e" type="m">Gheest</rhyme>,</l>
+        <l id="s1:l10" met="4" type="-+">Als Adam unde Eva eerst waren, <rhyme label="e" type="m" corresp="#s1:l9">leest</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

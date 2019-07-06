@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>163478</id>
+    <date>
+      <year-start>1813</year-start>
+      <year-end>1813</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody/>
+  <author>Katharina Wilhelmina Bilderdijk-Schweickhardt</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="+-">Vlecht Oranjen om den <rhyme label="a" type="m">hoed</rhyme>!</l>
+        <l id="s1:l2" met="4" type="+-">Holland rijst met nieuwen <rhyme label="a" type="m" corresp="#s1:l1">moed</rhyme></l>
+        <l id="s1:l3" met="3" type="+-">Uit den schoot der <rhyme label="b" type="f">waat'ren</rhyme>!</l>
+        <l id="s1:l4" met="4" type="+-">Huppelt vrolijk in het <rhyme label="c" type="m">rond</rhyme>!</l>
+        <l id="s1:l5" met="4" type="+-">Daver Hollands vruchtbre <rhyme label="c" type="m" corresp="#s1:l4">grond</rhyme>!</l>
+        <l id="s1:l6" met="3" type="+-">Laat de vreugde <rhyme label="b" type="f" corresp="#s1:l3">schaat'ren</rhyme>!</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="+-">Holland grijpt de wapens <rhyme label="a" type="m">aan</rhyme>,</l>
+        <l id="s2:l2" met="4" type="+-">Om den vijand <rhyme label="a" type="m" corresp="#s2:l1">afteslaan</rhyme>;</l>
+        <l id="s2:l3" met="3" type="+-">Plant de leger <rhyme label="b" type="f">vanen</rhyme>,</l>
+        <l id="s2:l4" met="4" type="+-">En het uitgetogen <rhyme label="c" type="m">zwaard</rhyme></l>
+        <l id="s2:l5" met="4" type="+-">Zal den fieren <rhyme label="c" type="m" corresp="#s2:l4">Leeuwstandaard</rhyme></l>
+        <l id="s2:l6" met="3" type="+-">'t Spoor der zege <rhyme label="b" type="f" corresp="#s2:l3">banen</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="+-">Holland blinkt in 't <rhyme label="a" type="m">krijgsgeweer</rhyme>;</l>
+        <l id="s3:l2" met="4" type="+-">Holland vlamt op krijgsmans <rhyme label="a" type="m" corresp="#s3:l1">eer</rhyme>;</l>
+        <l id="s3:l3" met="3" type="+-">'t Zal zijn haard <rhyme label="b" type="f">bevrijden</rhyme>.</l>
+        <l id="s3:l4" met="4" type="+-">En de God, die wond'ren <rhyme label="c" type="m">doet</rhyme>,</l>
+        <l id="s3:l5" met="4" type="+-">Zegent aller braven <rhyme label="c" type="m" corresp="#s3:l4">moed</rhyme>:</l>
+        <l id="s3:l6" met="3" type="+-">Hij zal met ons <rhyme label="b" type="f" corresp="#s3:l3">strijden</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

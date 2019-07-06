@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14654</id>
+    <date>
+      <year-start>1633</year-start>
+      <year-end>1633</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="herderslied" translation="pastoral song">herderslied</tag>
+      <tag standard-name="afscheidslied" translation="farewell song">afscheidslied</tag>
+    </tags>
+    <melody>Puer natus in Bethleem</melody>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="occasions">gelegenheden</category>
+    </categories>
+  <author>Pieter van Gelre</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="2" type="-+">ONs Godt, ons <rhyme label="a" type="m">Al</rhyme>,</l>
+        <l id="s1:l2" met="2" type="-+">Is na ons <rhyme label="b" type="m">wensch</rhyme>,</l>
+        <l id="s1:l3" met="2" type="-+">In't aerdtsche <rhyme label="a" type="m" corresp="#s1:l1">dal</rhyme>,</l>
+        <l id="s1:l4" met="2" type="-+">Gheworden <rhyme label="b" type="m" corresp="#s1:l2">mensch'</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Alleluia, <rhyme label="c" type="m">Alleluia</rhyme>,</l>
+        <l id="s1:l6" met="4" type="-+">Alleluia, <rhyme label="c" type="m" corresp="#s1:l5">Alleluia</rhyme>,</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="2" type="-+">'T is veel, dat <rhyme label="a" type="m">soo</rhyme>,</l>
+        <l id="s2:l2" met="2" type="-+">Godts rijcke <rhyme label="b" type="m">soon</rhyme>,</l>
+        <l id="s2:l3" met="2" type="-+">Komt in een <rhyme label="a" type="m" corresp="#s2:l1">stroo</rhyme></l>
+        <l id="s2:l4" met="2" type="-+">Ghemaeckte <rhyme label="b" type="m" corresp="#s2:l2">troon</rhyme>,</l>
+        <l id="s2:l5" met="4" type="-+">Noe, Noe, Noe, <rhyme label="c" type="m">Noe</rhyme>,</l>
+        <l id="s2:l6" met="4" type="-+">Noe, Noe, Noe, <rhyme label="c" type="m" corresp="#s2:l5">Noe</rhyme>,</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="2" type="-+">Twee beesten, <rhyme label="a" type="m">gaen</rhyme></l>
+        <l id="s3:l2" met="2" type="-+">Ronts-om hem <rhyme label="b" type="m">heen</rhyme>,</l>
+        <l id="s3:l3" met="2" type="-+">Sy moghen <rhyme label="a" type="m" corresp="#s3:l1">aen</rhyme></l>
+        <l id="s3:l4" met="2" type="-+">Haer kreb niet <rhyme label="b" type="m" corresp="#s3:l2">treen</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Alleluia, <rhyme label="c" type="m">Alleluia</rhyme>,</l>
+        <l id="s3:l6" met="4" type="-+">Alleluia, <rhyme label="c" type="m" corresp="#s3:l5">Alleluia</rhyme>,</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="2" type="-+">Want hy, die 't <rhyme label="a" type="m">moy</rhyme></l>
+        <l id="s4:l2" met="2" type="-+">Vercierden, <rhyme label="b" type="m">al</rhyme>.</l>
+        <l id="s4:l3" met="2" type="-+">Leydt in haer <rhyme label="a" type="m" corresp="#s4:l1">hoy</rhyme>,</l>
+        <l id="s4:l4" met="2" type="-+">Haer kreb, haer <rhyme label="b" type="m" corresp="#s4:l2">stal</rhyme>.</l>
+        <l id="s4:l5" met="4" type="-+">Noe, Noe, Noe, <rhyme label="c" type="m">Noe</rhyme>,</l>
+        <l id="s4:l6" met="4" type="-+">Noe, Noe, Noe, <rhyme label="c" type="m" corresp="#s4:l5">Noe</rhyme>,</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="2" type="-+">O wonder! <rhyme label="a" type="m">tis</rhyme></l>
+        <l id="s5:l2" met="2" type="-+">Te wonder <rhyme label="b" type="m">groot</rhyme>!</l>
+        <l id="s5:l3" met="2" type="-+">Dat Godt, by <rhyme label="a" type="m" corresp="#s5:l1">mis</rhyme>,</l>
+        <l id="s5:l4" met="2" type="-+">Ons tot hem <rhyme label="b" type="m" corresp="#s5:l2">noodt</rhyme>.</l>
+        <l id="s5:l5" met="4" type="-+">Alleluia, <rhyme label="c" type="m">Alleluia</rhyme>,</l>
+        <l id="s5:l6" met="4" type="-+">Alleluia, <rhyme label="c" type="m" corresp="#s5:l5">Alleluia</rhyme>,</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="2" type="-+">Wy hebben <rhyme label="a" type="m">hem</rhyme>,</l>
+        <l id="s6:l2" met="2" type="-+">Dus selfs <rhyme label="b" type="m">ghesien</rhyme>,</l>
+        <l id="s6:l3" met="2" type="-+">Tot <rhyme label="a" type="m" corresp="#s6:l1">Betlehem</rhyme>,</l>
+        <l id="s6:l4" met="2" type="-+">Op onse <rhyme label="b" type="m" corresp="#s6:l2">knien</rhyme>.</l>
+        <l id="s6:l5" met="4" type="-+">Noe, Noe, Noe, <rhyme label="c" type="m">Noe</rhyme>,</l>
+        <l id="s6:l6" met="4" type="-+">Noe, Noe, Noe, <rhyme label="c" type="m" corresp="#s6:l5">Noe</rhyme>,</l>
+      </lg>
+      <lg id="s7" type="stanza">
+        <l id="s7:l1" met="2" type="-+">Al ist dat <rhyme label="a" type="m">hy</rhyme></l>
+        <l id="s7:l2" met="2" type="-+">Daer traentjes <rhyme label="b" type="m">schreyt</rhyme></l>
+        <l id="s7:l3" met="2" type="-+">Nochtans sijn <rhyme label="a" type="m" corresp="#s7:l1">wy</rhyme></l>
+        <l id="s7:l4" met="2" type="-+">Vol <rhyme label="b" type="m" corresp="#s7:l2">vrolijckheydt</rhyme>.</l>
+        <l id="s7:l5" met="4" type="-+">Alleluia, <rhyme label="c" type="m">Alleluia</rhyme>,</l>
+        <l id="s7:l6" met="4" type="-+">Alleluia, <rhyme label="c" type="m" corresp="#s7:l5">Alleluia</rhyme>,</l>
+      </lg>
+      <lg id="s8" type="stanza">
+        <l id="s8:l1" met="2" type="-+">Want d' Engh'len <rhyme label="a" type="m">self</rhyme>,</l>
+        <l id="s8:l2" met="2" type="-+">Die komen <rhyme label="b" type="m">meed'</rhyme></l>
+        <l id="s8:l3" met="2" type="-+">Van't hoogh <rhyme label="a" type="m" corresp="#s8:l1">ghewelf</rhyme>,</l>
+        <l id="s8:l4" met="2" type="-+">Ons wenschen <rhyme label="b" type="m" corresp="#s8:l2">vreed'</rhyme>.</l>
+        <l id="s8:l5" met="4" type="-+">Noe, Noe, Noe, <rhyme label="c" type="m">Noe</rhyme>,</l>
+        <l id="s8:l6" met="4" type="-+">Noe, Noe, Noe, <rhyme label="c" type="m" corresp="#s8:l5">Noe</rhyme>,</l>
+      </lg>
+      <lg id="s9" type="stanza">
+        <l id="s9:l1" met="2" type="-+">Hoe souden <rhyme label="a" type="m">dan</rhyme></l>
+        <l id="s9:l2" met="2" type="-+">Ons stemmen <rhyme label="b" type="m">niet</rhyme></l>
+        <l id="s9:l3" met="2" type="-+">Blijd' singhen, <rhyme label="a" type="m" corresp="#s9:l1">van</rhyme></l>
+        <l id="s9:l4" met="2" type="-+">Dat ons <rhyme label="b" type="m" corresp="#s9:l2">gheschiet</rhyme>.</l>
+        <l id="s9:l5" met="4" type="-+">Alleluia, <rhyme label="c" type="m">Alleluia</rhyme>,</l>
+        <l id="s9:l6" met="4" type="-+">Alleluia, <rhyme label="c" type="m" corresp="#s9:l5">Alleluia</rhyme>,</l>
+      </lg>
+    </lg>
+  </text>
+</song>

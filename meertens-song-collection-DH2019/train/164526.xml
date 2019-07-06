@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>164526</id>
+    <date>
+      <year-start>1663</year-start>
+      <year-end>1663</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Wanneer de zon zijn paarden ment</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">SEcht Amarilli, siet ghy <rhyme label="a" type="m">niet</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Hoe dat ick voor u <rhyme label="b" type="m">kniel</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">En dat ick u, in mijn <rhyme label="a" type="m" corresp="#s1:l1">verdriet</rhyme></l>
+        <l id="s1:l4" met="3" type="-+">Op-offer lijf en <rhyme label="b" type="m" corresp="#s1:l2">ziel</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">Ick ben, eyleas! <rhyme label="c" type="f">gevangen</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">Door 't loncken van uw <rhyme label="d" type="m">gesicht</rhyme>,</l>
+        <l id="s1:l7" met="3" type="-+">'t Schijnt Flora heeft op uw <rhyme label="c" type="f" corresp="#s1:l5">wangen</rhyme></l>
+        <l id="s1:l8" met="3" type="-+">Een roode Roosje <rhyme label="d" type="m" corresp="#s1:l6">gesticht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Cupido heeft door <rhyme label="a" type="m">abelheydt</rhyme>,</l>
+        <l id="s2:l2" met="3" type="-+">Met ketens van de <rhyme label="b" type="m">min</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Mijn jeughdich hertje vast <rhyme label="a" type="m" corresp="#s2:l1">geleydt</rhyme>,</l>
+        <l id="s2:l4" met="3" type="-+">Dus neyght doch eens uw <rhyme label="b" type="m" corresp="#s2:l2">sin</rhyme>,</l>
+        <l id="s2:l5" met="3" type="-+">Laet uw klaer-schijnende <rhyme label="c" type="f">oogen</rhyme></l>
+        <l id="s2:l6" met="3" type="-+">Mijn lichten sonder <rhyme label="d" type="m">maet</rhyme>;</l>
+        <l id="s2:l7" met="3" type="-+">Hebt doch met my <rhyme label="c" type="f" corresp="#s2:l5">me-dogen</rhyme>,</l>
+        <l id="s2:l8" met="3" type="-+">Of kort mijn <rhyme label="d" type="m" corresp="#s2:l6">levens-draet</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

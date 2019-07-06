@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>19572</id>
+    <date>
+      <year-start>1645</year-start>
+      <year-end>1645</year-end>
+    </date>
+    <location>
+      <orginal-name>haarlem</orginal-name>
+      <standard-name>Haarlem, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3885317</lon>
+        <lat>4.6388048</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="klaaglied" translation="lamentation">klaaglied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="emotions">emoties</category>
+    </categories>
+  <author>Thomas Fonteyn</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">ZAl nimmer, Schone <rhyme label="a" type="m">Zon</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Mijn trouwe Minn’, u tegenheid <rhyme label="b" type="f">behagen</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Ik zmeek u, stadig, nacht en <rhyme label="c" type="m">dag</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Met goede neiging, en <rhyme label="c" type="m" corresp="#s1:l3">geklacht</rhyme>,</l>
+        <l id="s1:l5" met="4" type="-+">En kond gy dit zo al <rhyme label="b" type="f" corresp="#s1:l2">verdragen</rhyme>?</l>
+      </lg>
+    </lg>
+  </text>
+</song>

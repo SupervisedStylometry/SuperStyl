@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>190239</id>
+    <date>
+      <year-start>1753</year-start>
+      <year-end>1753</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Iris est plus charmante</melody>
+  <author>Jan Jacob Mauricius</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">NU is het tyd van <rhyme label="a" type="f">zingen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="-+">En in de ronde <rhyme label="a" type="f" corresp="#s1:l1">kringen</rhyme></l>
+        <l id="s1:l3" met="3" type="-+">Eens lustig om te <rhyme label="a" type="f" corresp="#s1:l1">springen</rhyme>.</l>
+        <l id="s1:l4" met="3" type="-+">Zaag op nu, bas en <rhyme label="b" type="m">fluit</rhyme>!</l>
+        <l id="s1:l5" met="3" type="-+">Weg nu met al je <rhyme label="c" type="f">smartjes</rhyme>,</l>
+        <l id="s1:l6" met="1" type="+-"><rhyme label="c" type="f" corresp="#s1:l5">Hartjes</rhyme>.</l>
+        <l id="s1:l7" met="3" type="-+">Duurt altyd, zoete <rhyme label="d" type="f">lusjes</rhyme>,</l>
+        <l id="s1:l8" met="1" type="+-"><rhyme label="d" type="f" corresp="#s1:l7">Kusjes</rhyme>!</l>
+        <l id="s1:l9" met="3" type="-+">Reinhart heeft nu zyn <rhyme label="b" type="m" corresp="#s1:l4">Bruid</rhyme></l>
+        <l id="s1:l10" met="4" type="-+">Eindelyk in de gewenschte <rhyme label="b" type="m" corresp="#s1:l4">schuit</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

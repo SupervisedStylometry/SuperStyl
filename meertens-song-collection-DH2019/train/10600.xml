@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>10600</id>
+    <date>
+      <year-start>1591</year-start>
+      <year-end>1591</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam]</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+      <tag standard-name="liefdeslied" translation="love song">liefdeslied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="love and sex">liefde en seks</category>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">DE wijle wy zijn <rhyme label="a" type="f">hiere</rhyme></l>
+        <l id="s1:l2" met="3" type="-+">Makende goede <rhyme label="a" type="f" corresp="#s1:l1">chiere</rhyme>,</l>
+        <l id="s1:l3" met="3" type="-+">Niet meer dan v lust <rhyme label="b" type="m">drinckt</rhyme>,</l>
+        <l id="s1:l4" met="3" type="-+">Maeckt in v t'minnen <rhyme label="a" type="f" corresp="#s1:l1">viere</rhyme>,</l>
+        <l id="s1:l5" met="3" type="-+">In uwen tijt seer <rhyme label="a" type="f" corresp="#s1:l1">diere</rhyme></l>
+        <l id="s1:l6" met="3" type="-+">D'een d'ander tot vreucht <rhyme label="b" type="m" corresp="#s1:l3">bringt</rhyme></l>
+        <l id="s1:l7" met="4" type="+-">Stelt v hartekens tot <rhyme label="c" type="m">rust</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">V lief voedt v met goe <rhyme label="a" type="f" corresp="#s1:l1">manieren</rhyme></l>
+        <l id="s1:l9" met="4" type="-+">Soo langhet v beyen <rhyme label="c" type="m" corresp="#s1:l7">lust</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

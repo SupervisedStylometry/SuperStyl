@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>3443</id>
+    <date>
+      <year-start>1575</year-start>
+      <year-end>1582</year-end>
+    </date>
+    <location>
+      <orginal-name>amsterdam</orginal-name>
+      <standard-name>Amsterdam, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.3745403</lon>
+        <lat>4.89797550561798</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="bespiegelend lied" translation="reflective song">bespiegelend lied</tag>
+    </tags>
+    <melody>Psalm 012 Datheen</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="5" type="-+">DE ere Goods, van kruys verdriet en <rhyme label="a" type="f">lyden</rhyme>,</l>
+        <l id="s1:l2" met="5" type="-+">Is talre tyd den Wereld een <rhyme label="b" type="m">ghespot</rhyme>.</l>
+        <l id="s1:l3" met="5" type="-+">Die heeft gheen hoop om namaals te <rhyme label="a" type="f" corresp="#s1:l1">verblyden</rhyme>:</l>
+        <l id="s1:l4" met="5" type="-+">En spreeckt int hert, daar was noch is gheen <rhyme label="b" type="m" corresp="#s1:l2">God</rhyme></l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="5" type="-+">Daarom acht zyt voor blinde <rhyme label="a" type="f">razerye</rhyme>.</l>
+        <l id="s2:l2" met="5" type="-+">Datmen zyn wil, om Godes wille <rhyme label="b" type="m">haat</rhyme>.</l>
+        <l id="s2:l3" met="5" type="-+">Der vromen wegh noemt zy een <rhyme label="a" type="f" corresp="#s2:l1">dwazerye</rhyme>.</l>
+        <l id="s2:l4" met="5" type="-+">Om dat hy zelf zyn lust en wil <rhyme label="b" type="m" corresp="#s2:l2">verlaat</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="5" type="-+">Maar als zyt zien de zonen Goods te <rhyme label="a" type="f">wezen</rhyme></l>
+        <l id="s3:l2" met="5" type="-+">Wiens leven hier, hen was een <rhyme label="b" type="m">spotterny</rhyme>.</l>
+        <l id="s3:l3" met="5" type="-+">Dan roepen zy uyt wanhoop van <rhyme label="a" type="f" corresp="#s3:l1">ghenezen</rhyme>,</l>
+        <l id="s3:l4" met="5" type="-+">Helaas te laat blyckt onze <rhyme label="b" type="m" corresp="#s3:l2">zotterny</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

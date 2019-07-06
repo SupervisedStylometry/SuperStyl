@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>186169</id>
+    <date>
+      <year-start>1881</year-start>
+      <year-end>1891</year-end>
+    </date>
+    <location>
+      <orginal-name>arnhem-nijmegen</orginal-name>
+      <standard-name>Nijmegen, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.8427385</lon>
+        <lat>5.8634696</lat>
+      </coordinates>
+    </location>
+    <tags/>
+    <melody>Venez venez dans mon parterre</melody>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">'k Maak mijne ruikers naar <rhyme label="a" type="f">begeeren</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">Ieder kan krijgen, wat hij <rhyme label="b" type="m">wil</rhyme>;</l>
+        <l id="s1:l3" met="4" type="-+">Minnende harten geef ik <rhyme label="b" type="m" corresp="#s1:l2">stil</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Rozen en leliën met <rhyme label="a" type="f" corresp="#s1:l1">primulaveren</rhyme>.</l>
+        <l id="s1:l5" met="4" type="-+">Hier heb ik de <rhyme label="c" type="m">vergeet-mij-niet</rhyme></l>
+        <l id="s1:l6" met="4" type="-+">Voor reizigers wanneer zij <rhyme label="d" type="f">scheiden</rhyme></l>
+        <l id="s1:l7" met="4" type="-+">En met de goudsbloem, die gij <rhyme label="c" type="m" corresp="#s1:l5">ziet</rhyme>,</l>
+        <l id="s1:l8" met="4" type="-+">Kan ik wellicht een vrek <rhyme label="d" type="f" corresp="#s1:l6">verblijden</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Dan heb ik voor de <rhyme label="a" type="f">hovelingen</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Nog zonnebloemen groot en <rhyme label="b" type="m">klein</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">En voor de pronkers, wie ze ook <rhyme label="b" type="m" corresp="#s2:l2">zijn</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Heb ik nog tulpen en <rhyme label="a" type="f" corresp="#s2:l1">seringen</rhyme>.</l>
+        <l id="s2:l5" met="4" type="-+">Hier is het <rhyme label="c" type="m">kruidje-roer-mij-niet</rhyme></l>
+        <l id="s2:l6" met="4" type="-+">Voor dichters, schilders, <rhyme label="d" type="f">componisten</rhyme>;</l>
+        <l id="s2:l7" met="4" type="-+">Hier gouden regen, dien ik <rhyme label="c" type="m" corresp="#s2:l5">bied</rhyme></l>
+        <l id="s2:l8" met="4" type="-+">Aan allen, die hun goed <rhyme label="d" type="f" corresp="#s2:l6">verkwisten</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">De belladonna voor de <rhyme label="a" type="f">grisettes</rhyme></l>
+        <l id="s3:l2" met="4" type="-+">En voor de vlijt de <rhyme label="b" type="m">reseda</rhyme>;</l>
+        <l id="s3:l3" met="4" type="-+">'k Geef aan de trots de <rhyme label="b" type="m" corresp="#s3:l2">dahlia</rhyme></l>
+        <l id="s3:l4" met="4" type="-+">Klokjes en suchsia's aan de <rhyme label="a" type="f" corresp="#s3:l1">coquettes</rhyme>.</l>
+        <l id="s3:l5" met="4" type="-+">Rozen heb 'k steeds naar ieders <rhyme label="c" type="m">zin</rhyme></l>
+        <l id="s3:l6" met="4" type="-+">Voor alle jonge, minnende <rhyme label="d" type="f">paren</rhyme>;</l>
+        <l id="s3:l7" met="4" type="-+">Maar voor het voorwerp mijner <rhyme label="c" type="m" corresp="#s3:l5">min</rhyme></l>
+        <l id="s3:l8" met="4" type="-+">Zal 'k er een zonder doornen <rhyme label="d" type="f" corresp="#s3:l6">bewaren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>14648</id>
+    <date>
+      <year-start>1633</year-start>
+      <year-end>1633</year-end>
+    </date>
+    <location>
+      <orginal-name>hoorn</orginal-name>
+      <standard-name>Hoorn, The Netherlands</standard-name>
+      <coordinates>
+        <lon>52.653272</lon>
+        <lat>5.0735802</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="loflied" translation="praise song">loflied</tag>
+      <tag standard-name="geestelijk lied" translation="spiritual song">geestelijk lied</tag>
+    </tags>
+    <melody/>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="3" type="-+">Die door het Cruys quam <rhyme label="a" type="f">dwinghen</rhyme>,</l>
+        <l id="s1:l2" met="3" type="+-">'t Wreede Hels <rhyme label="b" type="f">temteere</rhyme>,</l>
+        <l id="s1:l3" met="3" type="+-">Wilt als <rhyme label="b" type="f" corresp="#s1:l2">Opper-Heere</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Een nieuwe Lof-sangh singhen, <rhyme label="a" type="f" corresp="#s1:l1">singen</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

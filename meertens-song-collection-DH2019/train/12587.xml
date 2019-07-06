@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>12587</id>
+    <date>
+      <year-start>1642</year-start>
+      <year-end>1642</year-end>
+    </date>
+    <location>
+      <orginal-name>vlissingen</orginal-name>
+      <standard-name>Vlissingen, The Netherlands</standard-name>
+      <coordinates>
+        <lon>51.4609007</lon>
+        <lat>3.5713468</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="drinklied" translation="drinking song">drinklied</tag>
+    </tags>
+    <melody>Psalm 009 Datheen</melody>
+    <categories>
+      <category translation="amusement">vermaak</category>
+    </categories>
+  <author>Anonymous</author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">COmt Broeders comt, comt hier by <rhyme label="a" type="m">mijn</rhyme>,</l>
+        <l id="s1:l2" met="4" type="-+">En laet ons t'samen vrolijck <rhyme label="a" type="m" corresp="#s1:l1">zijn</rhyme>:</l>
+        <l id="s1:l3" met="4" type="-+">En onsen Godt, niet om vol <rhyme label="b" type="f">prijsen</rhyme></l>
+        <l id="s1:l4" met="4" type="-+">Die onse ziel eeuwigh wilt <rhyme label="b" type="f" corresp="#s1:l3">spijsen</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Compt, compt, drinckt van dat water <rhyme label="a" type="m">reyn</rhyme>,</l>
+        <l id="s2:l2" met="4" type="-+">Dat vloeyt uyt des levens <rhyme label="a" type="m" corresp="#s2:l1">Fonteyn</rhyme>,</l>
+        <l id="s2:l3" met="4" type="-+">Drinckt droncken van dien wijn <rhyme label="b" type="f">verheven</rhyme>,</l>
+        <l id="s2:l4" met="4" type="-+">Soeckt 't soet begin van 't eewich <rhyme label="b" type="f" corresp="#s2:l3">leven</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Godt is ons wapen, en ons <rhyme label="a" type="m">schilt</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Voor dien die ons bestormen <rhyme label="a" type="m" corresp="#s3:l1">wilt</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Dies vrees ick niet in geene <rhyme label="b" type="f">dinghen</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Alwaert dat Hemel, en aerd' <rhyme label="b" type="f" corresp="#s3:l3">verginghen</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">Ons Hooft sit boven inden <rhyme label="a" type="m">throon</rhyme>,</l>
+        <l id="s4:l2" met="4" type="-+">Dats Christus, Godes eenich <rhyme label="a" type="m" corresp="#s4:l1">Soon</rhyme>,</l>
+        <l id="s4:l3" met="4" type="-+">Bidd' staegh voor ons wy zijn sijn <rhyme label="b" type="f">leden</rhyme>,</l>
+        <l id="s4:l4" met="4" type="-+">Gaet tot sijn Huys stort u <rhyme label="b" type="f" corresp="#s4:l3">gebeden</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Hoe seer dat nu den Satan <rhyme label="a" type="m">vroedt</rhyme>,</l>
+        <l id="s5:l2" met="4" type="-+">En vreest hem niet, weest wel <rhyme label="a" type="m" corresp="#s5:l1">ghemoedt</rhyme>,</l>
+        <l id="s5:l3" met="4" type="-+">Noch hoocht, noch diept, en can ons <rhyme label="b" type="f">hindren</rhyme>,</l>
+        <l id="s5:l4" met="4" type="-+">Godt is met ons, wij zijn sijn <rhyme label="b" type="f" corresp="#s5:l3">Kindren</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>

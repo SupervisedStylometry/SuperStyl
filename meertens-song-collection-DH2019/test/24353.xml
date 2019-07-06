@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes'?>
+<song>
+  <meta>
+    <id>24353</id>
+    <date>
+      <year-start>1590</year-start>
+      <year-end>1590</year-end>
+    </date>
+    <location>
+      <orginal-name>antwerpen</orginal-name>
+      <standard-name>Antwerp, Belgium</standard-name>
+      <coordinates>
+        <lon>51.2211097</lon>
+        <lat>4.3997081</lat>
+      </coordinates>
+    </location>
+    <tags>
+      <tag standard-name="gebedslied" translation="prayer">gebedslied</tag>
+    </tags>
+    <melody>Conditor alme siderum</melody>
+    <categories>
+      <category translation="religion">godsdienst</category>
+    </categories>
+  <author></author></meta>
+  <text>
+    <lg type="song">
+      <lg id="s1" type="stanza">
+        <l id="s1:l1" met="4" type="-+">Van al t’ghesterten schepper <rhyme label="a" type="m">soet</rhyme></l>
+        <l id="s1:l2" met="4" type="-+">Der gheloouigher eewich <rhyme label="b" type="m">licht</rhyme>,</l>
+        <l id="s1:l3" met="4" type="-+">Christus alder verlosser <rhyme label="a" type="m" corresp="#s1:l1">goet</rhyme>,</l>
+        <l id="s1:l4" met="4" type="-+">Verhoort t’ghebet <rhyme label="b" type="m" corresp="#s1:l2">verootmoedicht</rhyme>.</l>
+      </lg>
+      <lg id="s2" type="stanza">
+        <l id="s2:l1" met="4" type="-+">Sijnde droef wt <rhyme label="a" type="m">medelijden</rhyme></l>
+        <l id="s2:l2" met="4" type="-+">Om dat die werelt nv was <rhyme label="b" type="m">doot</rhyme></l>
+        <l id="s2:l3" met="4" type="-+">hebt ghy ons willen <rhyme label="a" type="m" corresp="#s2:l1">beurijden</rhyme></l>
+        <l id="s2:l4" met="4" type="-+">Ons hulpe gheuende ter <rhyme label="b" type="m" corresp="#s2:l2">noot</rhyme>.</l>
+      </lg>
+      <lg id="s3" type="stanza">
+        <l id="s3:l1" met="4" type="-+">Als s’werelts auent naer was <rhyme label="a" type="m">by</rhyme>,</l>
+        <l id="s3:l2" met="4" type="-+">Als wt eens Bruygoms <rhyme label="b" type="m">slaepcamer</rhyme>,</l>
+        <l id="s3:l3" met="4" type="-+">Quaemt ghy voorts van een Maghet <rhyme label="a" type="m" corresp="#s3:l1">bly</rhyme>,</l>
+        <l id="s3:l4" met="4" type="-+">Noyt tot v Moeder <rhyme label="b" type="m" corresp="#s3:l2">bequamer</rhyme>.</l>
+      </lg>
+      <lg id="s4" type="stanza">
+        <l id="s4:l1" met="4" type="-+">O Heer voor uwe groote <rhyme label="a" type="m">macht</rhyme></l>
+        <l id="s4:l2" met="4" type="-+">So boocht alle schepsel sijn <rhyme label="b" type="m">knien</rhyme></l>
+        <l id="s4:l3" met="4" type="-+">Des Hemels en der aerden <rhyme label="a" type="m" corresp="#s4:l1">macht</rhyme></l>
+        <l id="s4:l4" met="4" type="-+">En onderdanich eere <rhyme label="b" type="m" corresp="#s4:l2">bien</rhyme>.</l>
+      </lg>
+      <lg id="s5" type="stanza">
+        <l id="s5:l1" met="4" type="-+">Wy bidden v die heylich <rhyme label="a" type="m">sijt</rhyme></l>
+        <l id="s5:l2" met="4" type="-+">Diet al sult commen <rhyme label="b" type="m">oordeele</rhyme></l>
+        <l id="s5:l3" met="4" type="-+">Bevrijdt ons al op onsen <rhyme label="a" type="m" corresp="#s5:l1">tijt</rhyme></l>
+        <l id="s5:l4" met="4" type="-+">Van s’Vyandts schichten <rhyme label="b" type="m" corresp="#s5:l2">gheheele</rhyme>.</l>
+      </lg>
+      <lg id="s6" type="stanza">
+        <l id="s6:l1" met="4" type="-+">Den Vader sy lof, eer en <rhyme label="a" type="m">prijs</rhyme>,</l>
+        <l id="s6:l2" met="4" type="-+">Den Soon ghelijck in <rhyme label="b" type="m">eenicheyt</rhyme>,</l>
+        <l id="s6:l3" met="4" type="-+">Den heylighen Gheest alles <rhyme label="a" type="m" corresp="#s6:l1">wijs</rhyme></l>
+        <l id="s6:l4" met="4" type="-+">Van nv tot inder <rhyme label="b" type="m" corresp="#s6:l2">eewicheyt</rhyme>.</l>
+      </lg>
+    </lg>
+  </text>
+</song>
