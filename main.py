@@ -20,12 +20,9 @@ if __name__ == '__main__':
     # path = "meertens-song-collection-DH2019/train/34153.xml"
     myTexts = []
 
-    langCerts = []
+    #langCerts = []
 
     model = fasttext.load_model("jagen_will/preproc/models/lid.176.bin")
-
-    # Pour le test
-    aut = "unknown"
 
     for path in sys.argv[1:]:
         with open(path, 'r') as f:
@@ -35,41 +32,41 @@ if __name__ == '__main__':
             lang = lang[0].replace("__label__", "")
 
             myTexts.append({"name": name, "aut": aut, "text": text, "lang": lang,
-                            "wordCounts": fex.count_words(text, relFreqs=True)})
+                            "wordCounts": fex.count_words(text, feats="chars", n = 3, relFreqs=True)})
 
             #if cert < 1:
-            langCerts.append((lang, name, cert))
+            #langCerts.append((lang, name, cert))
 
-            directory = "train_txt/" + lang + "/" + aut + "/"
+            #directory = "train_txt/" + lang + "/" + aut + "/"
 
-            if not os.path.exists(directory):
-                os.makedirs(directory)
+            #if not os.path.exists(directory):
+            #    os.makedirs(directory)
 
-            with open(directory + name + ".txt", "w") as out:
-                out.write(text)
+            #with open(directory + name + ".txt", "w") as out:
+            #    out.write(text)
 
-    with open("lang_certs.csv", 'w') as out:
-        for line in langCerts:
-            out.write("{}\t{}\t{}\t\n".format(line[0], line[1], float(line[2])))
+    #with open("lang_certs.csv", 'w') as out:
+    #    for line in langCerts:
+    #        out.write("{}\t{}\t{}\t\n".format(line[0], line[1], float(line[2])))
 
-    # unique_words = set([k for t in myTexts for k in t["wordCounts"].keys()])
-    #
-    # with open("feats.csv", "w") as out:
-    #     # First line
-    #     out.write("\t" + "author" + "\t" + "lang")
-    #     for word in unique_words:
-    #         out.write("\t"+word)
-    #
-    #     out.write("\n")
-    #
-    #     for text in myTexts:
-    #         out.write(text["name"] + "\t" + text["aut"] + "\t" + text["lang"])
-    #         for word in unique_words:
-    #             if not word in text["wordCounts"].keys():
-    #                 out.write("\t"+"0")
-    #
-    #             else:
-    #                 out.write("\t"+str(text["wordCounts"][word]))
-    #
-    #         out.write("\n")
-    #
+    unique_words = set([k for t in myTexts for k in t["wordCounts"].keys()])
+
+    with open("feats.csv", "w") as out:
+        # First line
+        out.write("\t" + "author" + "\t" + "lang")
+        for word in unique_words:
+            out.write("\t"+word)
+
+        out.write("\n")
+
+        for text in myTexts:
+            out.write(text["name"] + "\t" + text["aut"] + "\t" + text["lang"])
+            for word in unique_words:
+                if not word in text["wordCounts"].keys():
+                    out.write("\t"+"0")
+
+                else:
+                    out.write("\t"+str(text["wordCounts"][word]))
+
+            out.write("\n")
+
