@@ -35,7 +35,7 @@ if __name__ == '__main__':
             lang = lang[0].replace("__label__", "")
 
             myTexts.append({"name": name, "aut": aut, "text": text, "lang": lang,
-                            "wordCounts": fex.count_words(text.lower(), relFreqs=True)})
+                            "wordCounts": fex.count_words(text, relFreqs=True)})
 
             #if cert < 1:
             langCerts.append((lang, name, cert))
