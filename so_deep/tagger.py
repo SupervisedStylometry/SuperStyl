@@ -19,38 +19,7 @@ import tqdm
 from .models import GoodWillHunting, ConvEmbedding, LinearDecoder
 from . import utils
 
-DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-
-
-class Vocabulary:
-    def __init__(self):
-        self.id_to_class: Dict[int, str] = {}
-        self.class_to_id: Dict[str, int] = {}
-
-    def record(self, classname: str):
-        if classname not in self.class_to_id:
-            _id = len(self.class_to_id)
-            self.class_to_id[classname] = _id
-            self.id_to_class[_id] = classname
-
-    def get_id(self, classname: str):
-        return self.class_to_id[classname]
-
-    def get_classname(self, id_):
-        return self.id_to_class[id_]
-
-    @classmethod
-    def load(cls, class_to_id: Dict[str, int]):
-        self = cls()
-        self.class_to_id = class_to_id
-        self.id_to_class = dict({value: key for key, value in self.class_to_id})
-        return self
-
-    def save(self):
-        return self.class_to_id
-
-    def __len__(self):
-        return len(self.class_to_id)
+DEVICE = utils.DEVICE
 
 
 class WillHelmsDeep:
@@ -63,7 +32,7 @@ class WillHelmsDeep:
             classifier_class: str,
             classifier_params: Dict[str, Any],
             device: str = DEVICE,
-            classes_map: Vocabulary = None
+            classes_map: utils.Vocabulary = None
     ):
         self.device: str = device
         self.nb_features = nb_features
@@ -71,7 +40,7 @@ class WillHelmsDeep:
         self.encoder_class = encoder_class
         self.classifier_class = classifier_class
 
-        self.classes_map: Vocabulary = classes_map
+        self.classes_map: utils.Vocabulary = classes_map
 
         self.encoder = None
         self.classifier = None
@@ -121,7 +90,7 @@ class WillHelmsDeep:
             settings = json.loads(utils.get_gzip_from_tar(tar, 'settings.json.zip'))
 
             # Load the author <-> id maps
-            classes = Vocabulary.load(json.loads(utils.get_gzip_from_tar(tar, "classes.json")))
+            classes = utils.Vocabulary.load(json.loads(utils.get_gzip_from_tar(tar, "classes.json")))
             assert len(classes) == settings["nb_classes"], "Vocabulary size should equal nb_classes"
 
             settings.update({"device": device})
@@ -145,8 +114,8 @@ class WillHelmsDeep:
               train_dataset, dev_dataset,
               model_output_path,
               nb_epochs: int = 10, lr: float = 1e-3,
-              _seed=1234,
-              batch_size = 64):
+              _seed: int = 1234,
+              batch_size: int = 64):
         if _seed:
             random.seed(_seed)
             torch.manual_seed(_seed)

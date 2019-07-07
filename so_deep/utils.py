@@ -5,6 +5,15 @@ import os
 import shutil
 
 
+import torch
+import torch.cuda
+
+from typing import Dict
+
+
+DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+
 # What follows comes from the nice https://github.com/emanjavacas/pie/blob/master/pie/utils.py
 @contextmanager
 def tmpfile(parent='/tmp/'):
@@ -55,3 +64,34 @@ def ensure_ext(path, ext, infix=None):
         path = '.'.join([path, oldext])
 
     return '.'.join([path, ext])
+
+
+class Vocabulary:
+    def __init__(self):
+        self.id_to_class: Dict[int, str] = {}
+        self.class_to_id: Dict[str, int] = {}
+
+    def record(self, classname: str):
+        if classname not in self.class_to_id:
+            _id = len(self.class_to_id)
+            self.class_to_id[classname] = _id
+            self.id_to_class[_id] = classname
+
+    def get_id(self, classname: str):
+        return self.class_to_id[classname]
+
+    def get_classname(self, id_):
+        return self.id_to_class[id_]
+
+    @classmethod
+    def load(cls, class_to_id: Dict[str, int]):
+        self = cls()
+        self.class_to_id = class_to_id
+        self.id_to_class = dict({value: key for key, value in self.class_to_id})
+        return self
+
+    def save(self):
+        return self.class_to_id
+
+    def __len__(self):
+        return len(self.class_to_id)
