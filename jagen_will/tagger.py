@@ -17,6 +17,7 @@ import tqdm
 
 # Local imports
 from jagen_will.models import GoodWillHunting, ConvEmbedding, LinearDecoder
+from jagen_will.dataset import DatasetIterator
 from jagen_will import utils
 
 DEVICE = utils.DEVICE
@@ -82,21 +83,35 @@ class WillHelmsDeep:
         self.encoder.to(self._device)
         self.model.to(self._device)
 
-    def save(self, file):
+    def save(self, fpath: str):
+        """
 
+        :param fpath: File path
+        :return:
+        """
 
-    def settings(self):
-        return {
-            "nb_features": self.nb_features,
-            "nb_classes": self.nb_classes,
+        fpath = utils.ensure_ext(fpath, 'tar', infix=None)
 
-            "encoder_class": self.encoder_class,
-            "encoder_params": self.encoder.params,
+        # create dir if necessary
+        dirname = os.path.dirname(fpath)
+        if dirname and not os.path.isdir(dirname):
+            os.makedirs(dirname)
 
-            "classifier_class": self.classifier_class,
-            "classifier_params": self.classifier.params,
-            "device": self.device,
-        }
+        with tarfile.open(fpath, 'w') as tar:
+
+            # serialize settings
+            string, path = json.dumps(self.settings), 'settings.json.zip'
+            utils.add_gzip_to_tar(string, path, tar)
+
+            string, path = self.classes_map.dumps(), 'classes.json'
+            utils.add_gzip_to_tar(string, path, tar)
+
+            # serialize field
+            with utils.tmpfile() as tmppath:
+                torch.save(self.model.state_dict(), tmppath)
+                tar.add(tmppath, arcname='state_dict.pt')
+
+        return fpath
 
     @classmethod
     def load(cls, fpath="./model.tar", device=DEVICE):
@@ -125,6 +140,20 @@ class WillHelmsDeep:
         obj.model.eval()
 
         return obj
+
+    @property
+    def settings(self):
+        return {
+            "nb_features": self.nb_features,
+            "nb_classes": self.nb_classes,
+
+            "encoder_class": self.encoder_class,
+            "encoder_params": self.encoder.params,
+
+            "classifier_class": self.classifier_class,
+            "classifier_params": self.classifier.params,
+            "device": self.device,
+        }
 
     def train(self,
               train_dataset, dev_dataset,
@@ -261,15 +290,56 @@ class WillHelmsDeep:
 
         return epoch_loss / iterator.batch_count, accuracy
 
-    def predict(self):
-        pass
+    def predict(self, csv_features):
+        dataset = DatasetIterator(
+            class_encoder=self.classes_map,
+            file=csv_features
+        )
 
-    def test(self):
-        pass
+    def test(self, csv_features, batch_size=32):
+        dataset = DatasetIterator(
+            class_encoder=self.classes_map,
+            file=csv_features,
+            test=True
+        )
+
+        batch_generator = dataset.get_epoch(
+            batch_size=batch_size,
+            device=self.device,
+            with_filename=True
+        )
+        batches = batch_generator()
+
+        preds = []
+        trues = []
+        full_names = []
+
+        for batch_index in tqdm.tqdm(range(0, dataset.batch_count), desc="Testing...."):
+            src, trg, names = next(batches)
+
+            preds.extend(self.model.predict(src, classnames=None))
+            full_names.extend(names)
+
+            with torch.cuda.device_of(trg):
+                trues.extend(trg.view(-1).tolist())
+
+        accuracy = sum([
+            int(pred == truth)
+            for pred, truth in zip(preds, trues)
+        ]) / len(preds)
+
+        print(accuracy)
+
+        for pred, truth, full_name in zip(preds, trues, full_names):
+            yield "{name: <10}\t{status}\t{pred: <20}\t=\t{truth: <20}".format(
+                name=full_name,
+                status="✓" if pred == truth else "⨯",
+                pred=self.classes_map.get_classname(pred),
+                truth=self.classes_map.get_classname(truth))
+
 
 
 if __name__ == "__main__":
-    from jagen_will.dataset import DatasetIterator
     vocab = utils.Vocabulary()
     train = DatasetIterator(vocab, "data/train.csv")
     dev = DatasetIterator(vocab, "data/dev.csv")
@@ -281,9 +351,11 @@ if __name__ == "__main__":
         classifier_class="linear",
         classes_map=vocab,
         device="cuda",
-        encoder_params=dict(emb_dim=256, hid_dim=256, n_layers=3, kernel_size=3, dropout=0.1),
+        encoder_params=dict(emb_dim=256, hid_dim=256, n_layers=3, kernel_size=3, dropout_ratio=0.1),
         classifier_params=dict()
     )
+
     print(tagger.device)
     print(tagger.model)
-    tagger.train(train, dev, "here.zip", batch_size=4, lr=1e-4)
+
+    tagger.train(train, dev, "here.model.tar", batch_size=4, lr=1e-4, nb_epochs=2)

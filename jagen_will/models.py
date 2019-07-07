@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 
-from typing import Dict, List
+from typing import Dict, List, Optional
 
 
 class Encoder(nn.Module):
@@ -23,7 +23,7 @@ class Encoder(nn.Module):
 
 class ConvEmbedding(Encoder):
     def __init__(self, input_dim=15000, device: str = "cpu",
-                 emb_dim=128, hid_dim=128, n_layers=3, kernel_size=3, dropout=0.1,
+                 emb_dim=128, hid_dim=128, n_layers=3, kernel_size=3, dropout_ratio=0.1,
                  out_dim=256):
         super().__init__(input_dim=input_dim, device=device)
 
@@ -32,7 +32,7 @@ class ConvEmbedding(Encoder):
         self.emb_dim = emb_dim
         self.hid_dim = hid_dim
         self.kernel_size = kernel_size
-        self.dropout = dropout
+        self.dropout_ratio = dropout_ratio
         self.out_dim = out_dim
 
         self.scale = torch.sqrt(torch.FloatTensor([0.5])).to(self.device)
@@ -48,7 +48,7 @@ class ConvEmbedding(Encoder):
                                               padding=(self.kernel_size - 1) // 2)
                                     for _ in range(n_layers)])
 
-        self.dropout = nn.Dropout(self.dropout)
+        self.dropout = nn.Dropout(self.dropout_ratio)
 
     def to(self, device, *args, **kwargs):
         super(ConvEmbedding, self).to(device, *args, **kwargs)
@@ -112,7 +112,8 @@ class ConvEmbedding(Encoder):
             "emb_dim": self.emb_dim,
             "hid_dim": self.hid_dim,
             "kernel_size": self.kernel_size,
-            "dropout": self.dropout
+            "dropout_ratio": self.dropout_ratio
+
         }
 
 
@@ -210,23 +211,26 @@ class GoodWillHunting(nn.Module):
 
         return classifier_out
 
-    def predict(self, src, classnames: Dict[int, str]) -> List[str]:
+    def predict(self, src, classnames: Optional[Dict[int, str]]) -> List[str]:
         """ Predicts value for a given tensor
 
         :param src: tensor(batch size x sentence_length)
         :param classnames: Name of the classes in a dict
         :return: Reversed Batch
         """
-        out = self(src, out=None)
-        logits = torch.argmax(out, 2)
+        out = self(src)
+        logits = torch.argmax(out, 1)
 
         with torch.cuda.device_of(logits):
             out_as_list = logits.tolist()
 
-        return [
-            classnames.get(item, "WTF ?")
-            for item in out_as_list
-        ]
+        if classnames is None:
+            return out_as_list
+        else:
+            return [
+                classnames.get(item, "WTF ?")
+                for item in out_as_list
+            ]
 
     def train_epoch(
         self,

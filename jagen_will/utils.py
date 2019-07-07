@@ -1,8 +1,9 @@
 import gzip
 import uuid
-from contextlib import contextmanager
 import os
 import shutil
+import json
+from contextlib import contextmanager
 
 
 import torch
@@ -89,11 +90,11 @@ class Vocabulary:
     def load(cls, class_to_id: Dict[str, int]):
         self = cls()
         self.class_to_id.update(class_to_id)
-        self.id_to_class.update({value: key for key, value in self.class_to_id})
+        self.id_to_class.update({value: key for key, value in self.class_to_id.items()})
         return self
 
-    def save(self):
-        return self.class_to_id
+    def dumps(self):
+        return json.dumps(self.class_to_id)
 
     def __len__(self):
         return len(self.class_to_id)

@@ -11,7 +11,7 @@ from typing import Tuple, Dict, List, Optional, Iterator, Sequence, Callable, Un
 # From here
 from jagen_will import utils
 
-GT_PAIR = collections.namedtuple("GT", ("x", "y", "line_index"))
+GT_PAIR = collections.namedtuple("GT", ("x", "y", "line_index", "file_name"))
 DEVICE = utils.DEVICE
 
 
@@ -69,10 +69,10 @@ class DatasetIterator:
                 if not line.strip() or line_index == 0:
                     continue
 
-                x, y = self.read_unit(*line.strip().split(","))
+                x, y, fname = self.read_unit(*line.strip().split(","))
 
                 self.encoded.append(
-                    GT_PAIR(x, y, line_index)
+                    GT_PAIR(x, y, line_index, fname)
                 )
 
         self.nb_features = len(self.encoded[-1].x)
@@ -86,24 +86,24 @@ class DatasetIterator:
         self.batch_size = batch_size
         self.batch_count = len(self) // self.batch_size + bool(len(self) % self.batch_size)
 
-    def read_unit(self, name, aut, lang, *features) -> Tuple[List[float], List[Union[int]]]:
+    def read_unit(self, name, aut, lang, *features) -> Tuple[List[float], List[Union[int]], str]:
         """ Returns x then y
 
-        :param name:
-        :param aut:
-        :param lang:
-        :param features:
-        :return:
+        :param name: Name of the file
+        :param aut: Author class
+        :param lang: Lang class
+        :param features: Features
+        :return: xs, [y], filename
         """
         if self.type != "test":
             self._class_encoder.record(aut)
         y = self._class_encoder.get_id(aut)
         xs = features
         if self.cast_to_int:
-            return list(map(cast_to_int_fn, xs)), [y]
-        return list(map(float, xs)), [y]
+            return list(map(cast_to_int_fn, xs)), [y], name
+        return list(map(float, xs)), [y], name
 
-    def get_epoch(self, device: str = DEVICE, batch_size: int = 32) -> Callable[[], Iterator[Tuple[torch.Tensor, ...]]]:
+    def get_epoch(self, device: str = DEVICE, batch_size: int = 32, with_filename=False) -> Callable[[], Iterator[Tuple[torch.Tensor, ...]]]:
         # If the batch size is not the original one (most probably is !)
         if batch_size != self.batch_size:
             self.reset_batch_size(batch_size)
@@ -119,9 +119,12 @@ class DatasetIterator:
             for n in range(0, len(lines), self.batch_size):
                 xs, y_trues = [], []
 
+                filenames = []
+
                 for gt_pair in lines[n:n+self.batch_size]:
                     xs.append(gt_pair.x)
                     y_trues.append(gt_pair.y)
+                    filenames.append(gt_pair.file_name)
 
                 try:
                     x_tensor = torch.tensor(xs, device=device)
@@ -129,10 +132,11 @@ class DatasetIterator:
                 except ValueError:
                     print([b.line_index for b in lines[n:n+self.batch_size]])
                     raise
-                yield (
-                    x_tensor,
-                    y_tensor
-                )
+
+                if with_filename:
+                    yield (x_tensor, y_tensor, filenames)
+                else:
+                    yield (x_tensor, y_tensor)
 
         return iterable
 
