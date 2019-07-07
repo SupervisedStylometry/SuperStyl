@@ -56,7 +56,9 @@ if __name__ == '__main__':
     unique_words = set([k for t in myTexts for k in t["wordCounts"].keys()])
     unique_texts = [text["name"] for text in myTexts]
 
-    feats = pandas.DataFrame(columns=['author', 'lang'] + list(unique_words), index=unique_texts)
+    # loosing author and lang to have homogeneous data for now
+    #feats = pandas.DataFrame(columns=['author', 'lang'] + list(unique_words), index=unique_texts)
+    feats = pandas.DataFrame(columns=list(unique_words), index=unique_texts)
 
     for text in myTexts:
 
@@ -69,6 +71,16 @@ if __name__ == '__main__':
             else:
                 local_freqs.append(text["wordCounts"][word])
 
-        feats.loc[text["name"]] = [text["aut"]] + [text["lang"]] + local_freqs
+        feats.loc[text["name"]] = local_freqs #[text["aut"]] + [text["lang"]] + local_freqs
+
+    # And here is the place to implement selection and normalisation
+
+    # frequence based selection
+    # WOW, pandas is a great tool, almost as good as using R
+    # But confusing as well: boolean selection works on rows by default
+    # were elsewhere it works on columns
+    # take only rows where the number of values above 0 is superior to two
+    # (i.e. appears in at least two texts)
+    feats = feats.loc[:, feats[feats > 0].count() > 2]
 
     feats.to_csv("feats.csv")
