@@ -30,11 +30,21 @@ def XML_to_text(path):
         my_doc = etree.parse(f)
 
         auts = my_doc.findall("//author")
-        if len(auts) > 1:
-            print("Error: more than one author in" + path)
+        auts = [a.text for a in auts]
 
+        if not len(auts) == 1:
+            print("Error: more or less than one author in" + path)
 
-        return auts[0].text, re.sub(r"\s+", " ", str(myxsl(my_doc)))
+            if len(auts) == 0:
+                auts = [None]
+
+        if auts == [None]:
+            aut = "unknown"
+
+        else:
+            aut = auts[0]
+
+        return aut, re.sub(r"\s+", " ", str(myxsl(my_doc)))
 
 def identify_lang(string, model):
     """
