@@ -84,7 +84,7 @@ if __name__ == '__main__':
         for col in list(feats.columns):
             feats[col] = (feats[col] - feats[col].mean()) / feats[col].std()
 
-        #TODO: vector-length normalisation?
+        # TODO: vector-length normalisation?
 
     print(".......saving results.......")
     # frequence based selection
