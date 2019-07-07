@@ -1,7 +1,7 @@
 import sys
 import os
-import preproc.tuyau as tuy
-import preproc.features_extract as fex
+import jagen_will.preproc.tuyau as tuy
+import jagen_will.preproc.features_extract as fex
 import fasttext
 # from importlib import reload
 # tuy = reload(tuy)
