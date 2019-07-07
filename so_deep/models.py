@@ -5,11 +5,20 @@ import torch.nn.functional as F
 
 from typing import Dict, List
 
+
 class Encoder(nn.Module):
     def __init__(self, input_dim: int, device: str = "cpu"):
         super(Encoder, self).__init__()
         self.input_dim = input_dim
         self.device = device
+
+    @property
+    def params(self):
+        return {}
+
+    @property
+    def output_dimension(self):
+        raise NotImplementedError("You are missing an implementation for the Output Dimension")
 
 
 class ConvEmbedding(Encoder):
@@ -26,7 +35,7 @@ class ConvEmbedding(Encoder):
 
         self.scale = torch.sqrt(torch.FloatTensor([0.5])).to(self.device)
 
-        self.tok_embedding = nn.Embedding(input_dim, emb_dim)
+        self.embedding = nn.Embedding(input_dim, emb_dim)
 
         self.emb2hid = nn.Linear(emb_dim, hid_dim)
         self.hid2emb = nn.Linear(hid_dim, emb_dim)
@@ -39,19 +48,21 @@ class ConvEmbedding(Encoder):
 
         self.dropout = nn.Dropout(dropout)
 
+    @property
+    def output_dimension(self):
+        return self.emb_dim
+
     def forward(self, src):
         """
 
         :param src: Tensor(batch_size, input_dim)
         :return:
         """
-        # embed tokens and positions
-        tok_embedded = self.tok_embedding(src)
-
-        # tok_embedded = pos_embedded = [batch size, src sent len, emb dim]
+        # embed features
+        feature_embedding = self.embedding(src)
 
         # combine embeddings by elementwise summing
-        embedded = self.dropout(tok_embedded)
+        embedded = self.dropout(feature_embedding)
 
         # embedded = [batch size, src sent len, emb dim]
 
@@ -90,21 +101,59 @@ class ConvEmbedding(Encoder):
 
         return conved
 
+    @property
+    def params(self):
+        return {
+            "emb_dim": self.emb_dim,
+            "hid_dim": self.hid_dim,
+            "kernel_size": self.kernel_size,
+            "dropout": self.dropout
+        }
 
-class LinearDecoder(nn.Module):
+
+class Classifier(nn.Module):
+    def __init__(self,
+                 encoder_output_dim, nb_classes,
+                 device: str = "cpu"):
+        super(Classifier, self).__init__()
+        self.device = device
+        self.encoder_output_dim = encoder_output_dim
+        self.nb_classes = nb_classes
+        
+    @property
+    def params(self):
+        return {}
+
+
+class LinearDecoder(Classifier):
     """
     Simple Linear Decoder that outputs a probability distribution
-    over the vocabulary
+    over the classes
 
     """
-    def __init__(self, enc_dim, out_dim, highway_layers=0, highway_act='relu'):
-        super().__init__()
-        # Encoder dimension (input dimension)
-        self.out_dim = out_dim
+
+    @property
+    def params(self):
+        return {
+            "highway_layers": 0,
+            "highway_act": 'relu'
+        }
+
+    def __init__(self,
+                 encoder_output_dim, nb_classes,
+                 device: str = "cpu",
+                 highway_layers=0, highway_act='relu'):
+        super().__init__(encoder_output_dim=encoder_output_dim, nb_classes=nb_classes, device=device)
+        self.device = device
+
         # highway
-        self.highway = None
+        if highway_layers > 0:
+            pass
+        else:
+            self.highway = None
+
         # decoder output
-        self.decoder = nn.Linear(enc_dim, out_dim)
+        self.decoder = nn.Linear(self.encoder_output_dim, self.nb_classes)
 
         self.relu = True
 
@@ -128,21 +177,21 @@ class GoodWillHunting(nn.Module):
     def __init__(
         self,
         encoder: Encoder,
-        categorizer: LinearDecoder,
+        classifier: Classifier,
         device: str = "cpu",
         **kwargs
     ):
         super().__init__()
 
         self.encoder: Encoder = encoder
-        self.decoder: LinearDecoder = categorizer
+        self.categorizer: Classifier= classifier
         self.device = device
 
-        assert self.encoder.device == self.device and self.decoder.device == self.device, \
+        assert self.encoder.device == self.device and self.categorizer.device == self.device, \
             "All devices should be the same !"
 
         # nll weight
-        nll_weight = torch.ones(categorizer.out_dim)
+        nll_weight = torch.ones(classifier.out_dim)
         self.register_buffer('nll_weight', nll_weight)
 
     def forward(self, src):
@@ -153,7 +202,7 @@ class GoodWillHunting(nn.Module):
         """
 
         encoder_out = self.encoder(src)
-        classifier_out = self.decoder(encoder_out)
+        classifier_out = self.categorizer(encoder_out)
 
         return classifier_out
 
@@ -177,7 +226,7 @@ class GoodWillHunting(nn.Module):
 
     def train_epoch(
         self,
-        src, trg, scorer: "Scorer" = None, criterion=None
+        src, trg, criterion=None
     ):
         """
 
@@ -190,14 +239,8 @@ class GoodWillHunting(nn.Module):
         """
         output = self(src)
 
-        scorer.register_batch(
-            torch.argmax(output, 2),
-            trg,
-            src
-        )
-
         loss = criterion(
-            output.view(-1, self.decoder.out_dim),
+            output.view(-1, self.categorizer.out_dim),
             trg.view(-1)
         )
 
