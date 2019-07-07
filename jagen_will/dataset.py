@@ -9,10 +9,14 @@ import torch.nn
 from typing import Tuple, Dict, List, Optional, Iterator, Sequence, Callable, Union
 
 # From here
-from . import utils
+from jagen_will import utils
 
 GT_PAIR = collections.namedtuple("GT", ("x", "y", "line_index"))
 DEVICE = utils.DEVICE
+
+
+def cast_to_int_fn(float_number: str) -> int:
+    return int(float(float_number) * 10000)
 
 
 class DatasetIterator:
@@ -20,7 +24,9 @@ class DatasetIterator:
                  class_encoder: utils.Vocabulary,
                  file,
                  batch_size: int = 32,
-                 randomized: bool = False):
+                 randomized: bool = False,
+                 test=False,
+                 cast_to_int=True):
 
         self._class_encoder = class_encoder
 
@@ -30,6 +36,10 @@ class DatasetIterator:
         self.file = file
         self.batch_count = 0
         self.batch_size = batch_size
+        self.type = "test" if test else "train"
+        self.nb_features: int = 0
+
+        self.cast_to_int = cast_to_int
 
         self._setup()
 
@@ -59,11 +69,13 @@ class DatasetIterator:
                 if not line.strip() or line_index == 0:
                     continue
 
-                x, y = self.read_unit(*line.strip().split("\t"))
+                x, y = self.read_unit(*line.strip().split(","))
 
                 self.encoded.append(
                     GT_PAIR(x, y, line_index)
                 )
+
+        self.nb_features = len(self.encoded[-1].x)
 
         logging.info("DatasetIterator found {} lines in {}".format(len(self), self.file))
 
@@ -74,7 +86,7 @@ class DatasetIterator:
         self.batch_size = batch_size
         self.batch_count = len(self) // self.batch_size + bool(len(self) % self.batch_size)
 
-    def read_unit(self, name, aut, lang, *features) -> Tuple[List[float], List[int]]:
+    def read_unit(self, name, aut, lang, *features) -> Tuple[List[float], List[Union[int]]]:
         """ Returns x then y
 
         :param name:
@@ -83,9 +95,13 @@ class DatasetIterator:
         :param features:
         :return:
         """
-        y = self._class_encoder.get_classname(aut)
-        x = features
-        return list(x), [y]
+        if self.type != "test":
+            self._class_encoder.record(aut)
+        y = self._class_encoder.get_id(aut)
+        xs = features
+        if self.cast_to_int:
+            return list(map(cast_to_int_fn, xs)), [y]
+        return list(map(float, xs)), [y]
 
     def get_epoch(self, device: str = DEVICE, batch_size: int = 32) -> Callable[[], Iterator[Tuple[torch.Tensor, ...]]]:
         # If the batch size is not the original one (most probably is !)
@@ -108,8 +124,8 @@ class DatasetIterator:
                     y_trues.append(gt_pair.y)
 
                 try:
-                    x_tensor = torch.tensor(xs, device=device, dtype=torch.int)
-                    y_tensor = torch.tensor(y_trues, device=device, dtype=torch.float)
+                    x_tensor = torch.tensor(xs, device=device)
+                    y_tensor = torch.tensor(y_trues, device=device)
                 except ValueError:
                     print([b.line_index for b in lines[n:n+self.batch_size]])
                     raise
@@ -119,3 +135,13 @@ class DatasetIterator:
                 )
 
         return iterable
+
+
+if __name__ == "__main__":
+    vocab = utils.Vocabulary()
+    train = DatasetIterator(vocab, "data/train.csv")
+    epoch = train.get_epoch()
+
+    batches = epoch()
+    for x, y in batches:
+        print(x.shape, y.shape)

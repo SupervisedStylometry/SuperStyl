@@ -16,8 +16,8 @@ from typing import Dict, Any, Optional
 import tqdm
 
 # Local imports
-from .models import GoodWillHunting, ConvEmbedding, LinearDecoder
-from . import utils
+from jagen_will.models import GoodWillHunting, ConvEmbedding, LinearDecoder
+from jagen_will import utils
 
 DEVICE = utils.DEVICE
 
@@ -34,7 +34,7 @@ class WillHelmsDeep:
             device: str = DEVICE,
             classes_map: utils.Vocabulary = None
     ):
-        self.device: str = device
+        self._device: str = "cpu"
         self.nb_features = nb_features
         self.nb_classes = nb_classes
         self.encoder_class = encoder_class
@@ -49,7 +49,7 @@ class WillHelmsDeep:
         if encoder_class == "cnn_embedding":
             self.encoder = ConvEmbedding(
                 input_dim=nb_features,
-                device=device,
+                device=self.device,
                 **encoder_params
             )
         if classifier_class == "linear":
@@ -57,7 +57,7 @@ class WillHelmsDeep:
                 encoder_output_dim=self.encoder.output_dimension,
                 nb_classes=self.nb_classes,
                 device=self.device,
-                **classifier_params
+                **classifier_params or {}
             )
 
         self.model = GoodWillHunting(
@@ -65,6 +65,22 @@ class WillHelmsDeep:
             classifier=self.classifier,
             device=self.device
         )
+
+        self.device = device
+
+    @property
+    def device(self):
+        return self._device
+
+    @device.setter
+    def device(self, value):
+        self._device = value
+
+        self.classifier.device = self.encoder.device = self.model.device = self.device
+
+        self.classifier.to(self._device)
+        self.encoder.to(self._device)
+        self.model.to(self._device)
 
     def save(self, file):
         pass
@@ -236,3 +252,24 @@ class WillHelmsDeep:
 
     def test(self):
         pass
+
+
+if __name__ == "__main__":
+    from jagen_will.dataset import DatasetIterator
+    vocab = utils.Vocabulary()
+    train = DatasetIterator(vocab, "data/train.csv")
+    dev = DatasetIterator(vocab, "data/dev.csv")
+
+    tagger = WillHelmsDeep(
+        nb_features=train.nb_features,
+        nb_classes=len(vocab),
+        encoder_class="cnn_embedding",
+        classifier_class="linear",
+        classes_map=vocab,
+        device="cuda",
+        encoder_params=dict(emb_dim=128, hid_dim=128, n_layers=3, kernel_size=3, dropout=0.1),
+        classifier_params=dict()
+    )
+    print(tagger.device)
+    print(tagger.model)
+    tagger.train(train, dev, "here.zip", batch_size=4)
