@@ -3,11 +3,12 @@ import os
 import jagen_will.preproc.tuyau as tuy
 import jagen_will.preproc.features_extract as fex
 import fasttext
+import pandas
 # from importlib import reload
 # tuy = reload(tuy)
 #import json , json.dump, file et object, json.load sur des files, dumps et loads sur des str
 #import json
-import nltk.tokenize
+
 
 # TODO: eliminate features that occur only n times ?
 # Do the Moisl Selection ?
@@ -31,6 +32,9 @@ if __name__ == '__main__':
             lang, cert = tuy.identify_lang(text, model)
             lang = lang[0].replace("__label__", "")
 
+            # Normalise text once and for all
+            text = fex.normalise(text)
+
             myTexts.append({"name": name, "aut": aut, "text": text, "lang": lang,
                             "wordCounts": fex.count_words(text, feats="chars", n = 3, relFreqs=True)})
 
@@ -50,23 +54,21 @@ if __name__ == '__main__':
     #        out.write("{}\t{}\t{}\t\n".format(line[0], line[1], float(line[2])))
 
     unique_words = set([k for t in myTexts for k in t["wordCounts"].keys()])
+    unique_texts = [text["name"] for text in myTexts]
 
-    with open("feats.csv", "w") as out:
-        # First line
-        out.write("\t" + "author" + "\t" + "lang")
+    feats = pandas.DataFrame(columns=['author', 'lang'] + list(unique_words), index=unique_texts)
+
+    for text in myTexts:
+
+        local_freqs = []
+
         for word in unique_words:
-            out.write("\t"+word)
+            if not word in text["wordCounts"].keys():
+                local_freqs.append(0)
 
-        out.write("\n")
+            else:
+                local_freqs.append(text["wordCounts"][word])
 
-        for text in myTexts:
-            out.write(text["name"] + "\t" + text["aut"] + "\t" + text["lang"])
-            for word in unique_words:
-                if not word in text["wordCounts"].keys():
-                    out.write("\t"+"0")
+        feats.loc[text["name"]] = [text["aut"]] + [text["lang"]] + local_freqs
 
-                else:
-                    out.write("\t"+str(text["wordCounts"][word]))
-
-            out.write("\n")
-
+    feats.to_csv("feats.csv")

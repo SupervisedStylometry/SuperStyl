@@ -14,8 +14,6 @@ def count_words(text, feats = "words", n = 1, relFreqs = False):
     :return: feature frequencies in text
     """
 
-    text = normalise(text)
-
     if feats == "words":
         tokens = nltk.tokenize.wordpunct_tokenize(text)
 
