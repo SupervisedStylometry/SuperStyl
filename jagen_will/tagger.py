@@ -83,7 +83,7 @@ class WillHelmsDeep:
         self.model.to(self._device)
 
     def save(self, file):
-        pass
+
 
     def settings(self):
         return {
@@ -150,13 +150,13 @@ class WillHelmsDeep:
         for epoch in range(1, nb_epochs+1):
             try:
 
-                train_score = self._full_epoch(
+                train_score, train_acc = self._full_epoch(
                     iterator=train_dataset,
                     optimizer=optimizer, criterion=criterion,
                     clip=None, batch_size=batch_size,
                     desc="[Epoch Training %s/%s]" % (epoch, nb_epochs)
                 )
-                dev_score = self._full_epoch(
+                dev_score, dev_acc = self._full_epoch(
                     iterator=dev_dataset, criterion=criterion,
                     batch_size=batch_size,
                     desc="[Epoch Dev %s/%s]" % (epoch, nb_epochs)
@@ -165,7 +165,9 @@ class WillHelmsDeep:
                 # Run a check on saving the current model
                 best_valid_loss = self._temp_save(fid, best_valid_loss, dev_score)
 
+                print()
                 print(f'\tTrain Loss: {train_score:.3f} | Dev Loss: {dev_score:.3f}')
+                print(f'\tTrain Accu: {train_acc:.3f} | Dev Accu: {dev_acc:.3f}')
                 print()
 
                 # Advance Learning Rate if needed
@@ -210,7 +212,7 @@ class WillHelmsDeep:
                     clip: Optional[float] = None,
                     desc="Going through an epoch"):
 
-        train_mode = optimizer is None
+        train_mode = optimizer is not None
 
         if train_mode:
             self.model.train()
@@ -225,15 +227,22 @@ class WillHelmsDeep:
         )
         batches = batch_generator()
 
+        preds = []
+        trues = []
+
         for batch_index in tqdm.tqdm(range(0, iterator.batch_count), desc=desc):
             src, trg = next(batches)
 
             if train_mode:
                 optimizer.zero_grad()
 
-            loss = self.model.train_epoch(
+            loss, predictions = self.model.train_epoch(
                 src, trg, criterion=criterion
             )
+
+            with torch.cuda.device_of(predictions):
+                preds.extend(predictions.tolist())
+                trues.extend(trg.view(-1).tolist())
 
             if train_mode:
                 loss.backward()
@@ -245,7 +254,12 @@ class WillHelmsDeep:
 
             epoch_loss += loss.item()
 
-        return epoch_loss / iterator.batch_count
+        accuracy = sum([
+            int(pred == truth)
+            for pred, truth in zip(preds, trues)
+        ]) / len(preds)
+
+        return epoch_loss / iterator.batch_count, accuracy
 
     def predict(self):
         pass
@@ -267,9 +281,9 @@ if __name__ == "__main__":
         classifier_class="linear",
         classes_map=vocab,
         device="cuda",
-        encoder_params=dict(emb_dim=128, hid_dim=128, n_layers=3, kernel_size=3, dropout=0.1),
+        encoder_params=dict(emb_dim=256, hid_dim=256, n_layers=3, kernel_size=3, dropout=0.1),
         classifier_params=dict()
     )
     print(tagger.device)
     print(tagger.model)
-    tagger.train(train, dev, "here.zip", batch_size=4)
+    tagger.train(train, dev, "here.zip", batch_size=4, lr=1e-4)

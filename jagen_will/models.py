@@ -79,7 +79,7 @@ class ConvEmbedding(Encoder):
 
         # conv_input = [batch size, hid dim, feature_size]
         conv_input = conv_input.permute(0, 2, 1)
-        print(conv_input.shape)
+
         for i, conv in enumerate(self.convs):
             # pass through convolutional layer
             conved = conv(self.dropout(conv_input))
@@ -100,10 +100,10 @@ class ConvEmbedding(Encoder):
             conv_input = conved
 
         # permute and convert back to emb dim
-        # conved = [batch size, emb dim]
-
+        # conved = [batch size, nbfeatures, emb dim]
+        #    --> [batch_size, nb_features]
         out = conv_input.sum(dim=1)
-        print("out", out.shape)
+
         return out
 
     @property
@@ -204,12 +204,7 @@ class GoodWillHunting(nn.Module):
         :param src: Tensor(Batch_size, feature length)
         :return: Tensor(Batch_size, Classes Count)
         """
-        print(src.shape)
-        print(self.encoder.device, self.categorizer.device, self.device)
-
         encoder_out = self.encoder(src)
-
-        print("Enc out", encoder_out.shape)
 
         classifier_out = self.categorizer(encoder_out)
 
@@ -246,16 +241,10 @@ class GoodWillHunting(nn.Module):
         :return: tensor(batch_size x output_length)
 
         """
-        # (batch_size x nb_features x nb_classes)
+        # (batch_size x nb_classes)
         output = self(src)
 
-        print("Output shape", output.shape)
-        print("View", output.view(-1, self.categorizer.nb_classes).shape)
+        # Target needs to be each class in a vector (batch_size) and not (batch_size * nb_classes)
+        loss = criterion(output, trg.view(-1))
 
-        # Float
-        loss = criterion(
-            output.view(-1),
-            trg.view(-1)
-        )
-
-        return loss
+        return loss, torch.argmax(output, 1)
