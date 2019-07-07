@@ -4,83 +4,76 @@ import jagen_will.preproc.tuyau as tuy
 import jagen_will.preproc.features_extract as fex
 import fasttext
 import pandas
+import json
 # from importlib import reload
 # tuy = reload(tuy)
 #import json , json.dump, file et object, json.load sur des files, dumps et loads sur des str
 #import json
 
-
 # TODO: eliminate features that occur only n times ?
 # Do the Moisl Selection ?
 # Z-scores, etc. ?
 # Vector-length normalisation ?
-#
+
 
 if __name__ == '__main__':
 
-    # path = "meertens-song-collection-DH2019/train/34153.xml"
-    myTexts = []
-
-    #langCerts = []
-
     model = fasttext.load_model("jagen_will/preproc/models/lid.176.bin")
 
-    for path in sys.argv[1:]:
-        with open(path, 'r') as f:
-            name = path.split('/')[-1]
-            aut, text = tuy.XML_to_text(path)
-            lang, cert = tuy.identify_lang(text, model)
-            lang = lang[0].replace("__label__", "")
+    print(".......loading texts.......")
 
-            # Normalise text once and for all
-            text = fex.normalise(text)
+    myTexts = tuy.load_texts(sys.argv[1:], model)
 
-            myTexts.append({"name": name, "aut": aut, "text": text, "lang": lang,
-                            "wordCounts": fex.count_words(text, feats="chars", n = 3, relFreqs=True)})
+    print(".......getting features.......")
 
-            #if cert < 1:
-            #langCerts.append((lang, name, cert))
+    my_feats = fex.get_feature_list(myTexts, feats="chars", n=3, relFreqs=True)
 
-            #directory = "train_txt/" + lang + "/" + aut + "/"
+    # and now, cut at around rank k
+    k = 5000
+    val = my_feats[k][1]
+    my_feats = [m for m in my_feats if m[1] >= val]
 
-            #if not os.path.exists(directory):
-            #    os.makedirs(directory)
+    with open("feature_list.json", "w") as out:
+        out.write(json.dumps(my_feats))
 
-            #with open(directory + name + ".txt", "w") as out:
-            #    out.write(text)
 
-    #with open("lang_certs.csv", 'w') as out:
-    #    for line in langCerts:
-    #        out.write("{}\t{}\t{}\t\n".format(line[0], line[1], float(line[2])))
+    print(".......getting counts.......")
+
+    # myTexts = fex.get_counts(myTexts, feats="chars", n=3, relFreqs=True)
 
     unique_words = set([k for t in myTexts for k in t["wordCounts"].keys()])
     unique_texts = [text["name"] for text in myTexts]
 
-    # loosing author and lang to have homogeneous data for now
-    #feats = pandas.DataFrame(columns=['author', 'lang'] + list(unique_words), index=unique_texts)
-    feats = pandas.DataFrame(columns=list(unique_words), index=unique_texts)
-
-    for text in myTexts:
-
-        local_freqs = []
-
-        for word in unique_words:
-            if not word in text["wordCounts"].keys():
-                local_freqs.append(0)
-
-            else:
-                local_freqs.append(text["wordCounts"][word])
-
-        feats.loc[text["name"]] = local_freqs #[text["aut"]] + [text["lang"]] + local_freqs
-
-    # And here is the place to implement selection and normalisation
-
-    # frequence based selection
-    # WOW, pandas is a great tool, almost as good as using R
-    # But confusing as well: boolean selection works on rows by default
-    # were elsewhere it works on columns
-    # take only rows where the number of values above 0 is superior to two
-    # (i.e. appears in at least two texts)
-    feats = feats.loc[:, feats[feats > 0].count() > 2]
-
-    feats.to_csv("feats.csv")
+    # print(".......feeding data frame.......")
+    # feats = pandas.DataFrame(columns=list(unique_words), index=unique_texts)
+    #
+    # for text in myTexts:
+    #
+    #     local_freqs = []
+    #
+    #     for word in unique_words:
+    #         if not word in text["wordCounts"].keys():
+    #             local_freqs.append(0)
+    #
+    #         else:
+    #             local_freqs.append(text["wordCounts"][word])
+    #
+    #     feats.loc[text["name"]] = local_freqs
+    #
+    # # And here is the place to implement selection and normalisation
+    #
+    # print(".......saving results.......")
+    # # frequence based selection
+    # # WOW, pandas is a great tool, almost as good as using R
+    # # But confusing as well: boolean selection works on rows by default
+    # # were elsewhere it works on columns
+    # # take only rows where the number of values above 0 is superior to two
+    # # (i.e. appears in at least two texts)
+    # feats = feats.loc[:, feats[feats > 0].count() > 2]
+    #
+    # metadata = pandas.DataFrame(columns=['author', 'lang'], index=unique_texts, data =
+    #                             [[t["aut"], t["lang"]] for t in myTexts])
+    #
+    # pandas.concat([metadata, feats], axis=1).to_csv("feats_tests.csv")
+    #
+    #
