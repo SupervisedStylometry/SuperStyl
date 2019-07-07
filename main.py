@@ -5,6 +5,7 @@ import jagen_will.preproc.features_extract as fex
 import fasttext
 import pandas
 import json
+import tqdm
 # from importlib import reload
 # tuy = reload(tuy)
 #import json , json.dump, file et object, json.load sur des files, dumps et loads sur des str
@@ -60,7 +61,7 @@ if __name__ == '__main__':
     print(".......feeding data frame.......")
     feats = pandas.DataFrame(columns=list(feat_list), index=unique_texts)
 
-    for text in myTexts:
+    for text in tqdm.tqdm(myTexts):
 
         local_freqs = []
 
