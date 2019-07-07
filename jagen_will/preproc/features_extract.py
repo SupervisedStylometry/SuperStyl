@@ -3,7 +3,7 @@ import nltk.tokenize
 import nltk
 
 
-def count_words(text, feats = "words", n = 1, relFreqs = False):
+def count_words(text, feat_list=None, feats = "words", n = 1, relFreqs = False):
     """
     Get word counts from  a text
     :param text: the source text
@@ -38,6 +38,10 @@ def count_words(text, feats = "words", n = 1, relFreqs = False):
         for t in counts.keys():
             counts[t] = counts[t] / total
 
+    if feat_list:
+        # and keep only the ones in the feature list
+        counts = {f: counts[f] for f in feat_list if f in counts.keys()}
+
     return counts
 
 
@@ -68,7 +72,7 @@ def get_feature_list(myTexts, feats="words", n = 1, relFreqs=True):
     return my_feats
 
 
-def get_counts(myTexts, feats = "words", n = 1, relFreqs = False):
+def get_counts(myTexts, feat_list, feats = "words", n = 1, relFreqs = False):
     """
     Get counts for a collection of texts
     :param myTexts: the document collection
@@ -80,6 +84,6 @@ def get_counts(myTexts, feats = "words", n = 1, relFreqs = False):
 
     for i in enumerate(myTexts):
         myTexts[i[0]]["wordCounts"] = count_words(
-            myTexts[i[0]]["text"], feats=feats, n=n, relFreqs=relFreqs)
+            myTexts[i[0]]["text"], feat_list=feat_list, feats=feats, n=n, relFreqs=relFreqs)
 
     return myTexts
