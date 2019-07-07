@@ -1,6 +1,7 @@
 from lxml import etree
 import re
 import fasttext
+import unidecode
 
 
 def XML_to_text(path):
@@ -30,11 +31,22 @@ def XML_to_text(path):
         my_doc = etree.parse(f)
 
         auts = my_doc.findall("//author")
-        if len(auts) > 1:
-            print("Error: more than one author in" + path)
+        auts = [a.text for a in auts]
 
+        if not len(auts) == 1:
+            print("Error: more or less than one author in" + path)
 
-        return auts[0].text, re.sub(r"\s+", " ", str(myxsl(my_doc)))
+            if len(auts) == 0:
+                auts = [None]
+
+        if auts == [None]:
+            aut = "unknown"
+
+        else:
+            aut = auts[0]
+
+        return aut, re.sub(r"\s+", " ", str(myxsl(my_doc)))
+
 
 def identify_lang(string, model):
     """
@@ -44,5 +56,51 @@ def identify_lang(string, model):
     :return: the language
     """
 
-    return model.predict(string)#, k = 3)
+    return model.predict(string)  # , k = 3)
 
+
+def normalise(text):
+    # Remove all but word chars, remove accents, and normalise space
+    # and then normalise unicode
+
+    return unidecode.unidecode(re.sub(r"\s+", " ", re.sub(r"[\W0-9]+", " ", text.lower()).strip()))
+
+
+def load_texts(paths, fasttext_model):
+    """
+    Loads a collection of documents into a 'myTexts' object for further processing.
+    TODO: a proper class
+    :param paths: path to docs
+    :param fasttext_model: model for language identification
+    :return: a myTexts object
+    """
+
+    myTexts = []
+    # langCerts = []
+
+    for path in paths:
+        name = path.split('/')[-1]
+        aut, text = XML_to_text(path)
+        lang, cert = identify_lang(text, fasttext_model)
+        lang = lang[0].replace("__label__", "")
+
+        # Normalise text once and for all
+        text = normalise(text)
+
+        myTexts.append({"name": name, "aut": aut, "text": text, "lang": lang})
+
+        # if cert < 1:
+        # langCerts.append((lang, name, cert))
+
+        # directory = "train_txt/" + lang + "/" + aut + "/"
+
+        # if not os.path.exists(directory):
+        #    os.makedirs(directory)
+
+        # with open(directory + name + ".txt", "w") as out:
+        #    out.write(text)
+
+    # with open("lang_certs.csv", 'w') as out:
+    #    for line in langCerts:
+    #        out.write("{}\t{}\t{}\t\n".format(line[0], line[1], float(line[2])))
+    return myTexts

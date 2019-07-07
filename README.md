@@ -27,7 +27,13 @@ pip install -r requirements.txt
 
 ## If you are here, you already know.
 
+### Get feats
 
+```bash
+python main.py [-f feature_list.json] -t chars -n 3 -s path/to/docs/*
+# eg
+python main.py -f feature_list.json -t chars -n 3 -s meertens-song-collection-DH2019/train/*
+```
 
 
 PS: if you need to download `feats.csv`, it's here: https://mab.to/GY9CfiqcD (No it sucks).
