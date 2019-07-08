@@ -2,9 +2,14 @@ import sys
 import os
 import jagen_will.preproc.tuyau as tuy
 import jagen_will.preproc.features_extract as fex
+from jagen_will.preproc.text_count import count_process
 import fasttext
 import pandas
 import json
+# from multiprocessing import Pool
+from multiprocessing.pool import ThreadPool as Pool
+import tqdm
+
 # from importlib import reload
 # tuy = reload(tuy)
 #import json , json.dump, file et object, json.load sur des files, dumps et loads sur des str
@@ -23,6 +28,7 @@ if __name__ == '__main__':
     parser.add_argument('-f', action="store", help="optional list of features in json", default=False)
     parser.add_argument('-t', action='store', help="types of features (words or chars)", type=str)
     parser.add_argument('-n', action='store', help="n grams lengths (default 1)", default=1, type=int)
+    parser.add_argument('-p', action='store', help="Processes to use (default 1)", default=1, type=int)
     parser.add_argument('--z_scores', action='store_true', help="Use z-scores?", default=False)
     parser.add_argument('-s', nargs='+', help="paths to files")
     args = parser.parse_args()
@@ -58,20 +64,21 @@ if __name__ == '__main__':
     unique_texts = [text["name"] for text in myTexts]
 
     print(".......feeding data frame.......")
-    feats = pandas.DataFrame(columns=list(feat_list), index=unique_texts)
+    #feats = pandas.DataFrame(columns=list(feat_list), index=unique_texts)
 
-    for text in myTexts:
+    # with Pool(args.p) as pool:
+    #     print(args.p)
+    # target = zip(myTexts, [feat_list] * len(myTexts))
+        # with tqdm.tqdm(total=len(myTexts)) as pbar:
+            # for text, local_freqs in pool.map(count_process, target):
 
-        local_freqs = []
+    loc = {}
 
-        for word in feat_list:
-            if word not in text["wordCounts"].keys():
-                local_freqs.append(0)
+    for t in tqdm.tqdm(myTexts):
+        text, local_freqs = count_process((t, feat_list))
+        loc[text["name"]] = local_freqs
 
-            else:
-                local_freqs.append(text["wordCounts"][word])
-
-        feats.loc[text["name"]] = local_freqs
+    feats = pandas.DataFrame.from_dict(loc, columns=list(feat_list), orient="index")
 
     print(".......applying normalisations.......")
     # And here is the place to implement selection and normalisation
