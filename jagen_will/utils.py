@@ -1,8 +1,9 @@
 import gzip
 import uuid
-from contextlib import contextmanager
 import os
 import shutil
+import json
+from contextlib import contextmanager
 
 
 import torch
@@ -68,8 +69,10 @@ def ensure_ext(path, ext, infix=None):
 
 class Vocabulary:
     def __init__(self):
-        self.id_to_class: Dict[int, str] = {}
-        self.class_to_id: Dict[str, int] = {}
+        self.unknown = "UNKNOWN"
+
+        self.id_to_class: Dict[int, str] = {0: self.unknown}
+        self.class_to_id: Dict[str, int] = {self.unknown: 0}
 
     def record(self, classname: str):
         if classname not in self.class_to_id:
@@ -78,7 +81,7 @@ class Vocabulary:
             self.id_to_class[_id] = classname
 
     def get_id(self, classname: str):
-        return self.class_to_id[classname]
+        return self.class_to_id.get(classname, 0)
 
     def get_classname(self, id_):
         return self.id_to_class[id_]
@@ -86,12 +89,12 @@ class Vocabulary:
     @classmethod
     def load(cls, class_to_id: Dict[str, int]):
         self = cls()
-        self.class_to_id = class_to_id
-        self.id_to_class = dict({value: key for key, value in self.class_to_id})
+        self.class_to_id.update(class_to_id)
+        self.id_to_class.update({value: key for key, value in self.class_to_id.items()})
         return self
 
-    def save(self):
-        return self.class_to_id
+    def dumps(self):
+        return json.dumps(self.class_to_id)
 
     def __len__(self):
         return len(self.class_to_id)

@@ -16,8 +16,9 @@ from typing import Dict, Any, Optional
 import tqdm
 
 # Local imports
-from .models import GoodWillHunting, ConvEmbedding, LinearDecoder
-from . import utils
+from jagen_will.models import GoodWillHunting, ConvEmbedding, LinearDecoder
+from jagen_will.dataset import DatasetIterator
+from jagen_will import utils
 
 DEVICE = utils.DEVICE
 
@@ -34,7 +35,7 @@ class WillHelmsDeep:
             device: str = DEVICE,
             classes_map: utils.Vocabulary = None
     ):
-        self.device: str = device
+        self._device: str = "cpu"
         self.nb_features = nb_features
         self.nb_classes = nb_classes
         self.encoder_class = encoder_class
@@ -49,7 +50,7 @@ class WillHelmsDeep:
         if encoder_class == "cnn_embedding":
             self.encoder = ConvEmbedding(
                 input_dim=nb_features,
-                device=device,
+                device=self.device,
                 **encoder_params
             )
         if classifier_class == "linear":
@@ -57,7 +58,7 @@ class WillHelmsDeep:
                 encoder_output_dim=self.encoder.output_dimension,
                 nb_classes=self.nb_classes,
                 device=self.device,
-                **classifier_params
+                **classifier_params or {}
             )
 
         self.model = GoodWillHunting(
@@ -66,21 +67,51 @@ class WillHelmsDeep:
             device=self.device
         )
 
-    def save(self, file):
-        pass
+        self.device = device
 
-    def settings(self):
-        return {
-            "nb_features": self.nb_features,
-            "nb_classes": self.nb_classes,
+    @property
+    def device(self):
+        return self._device
 
-            "encoder_class": self.encoder_class,
-            "encoder_params": self.encoder.params,
+    @device.setter
+    def device(self, value):
+        self._device = value
 
-            "classifier_class": self.classifier_class,
-            "classifier_params": self.classifier.params,
-            "device": self.device,
-        }
+        self.classifier.device = self.encoder.device = self.model.device = self.device
+
+        self.classifier.to(self._device)
+        self.encoder.to(self._device)
+        self.model.to(self._device)
+
+    def save(self, fpath: str):
+        """
+
+        :param fpath: File path
+        :return:
+        """
+
+        fpath = utils.ensure_ext(fpath, 'tar', infix=None)
+
+        # create dir if necessary
+        dirname = os.path.dirname(fpath)
+        if dirname and not os.path.isdir(dirname):
+            os.makedirs(dirname)
+
+        with tarfile.open(fpath, 'w') as tar:
+
+            # serialize settings
+            string, path = json.dumps(self.settings), 'settings.json.zip'
+            utils.add_gzip_to_tar(string, path, tar)
+
+            string, path = self.classes_map.dumps(), 'classes.json'
+            utils.add_gzip_to_tar(string, path, tar)
+
+            # serialize field
+            with utils.tmpfile() as tmppath:
+                torch.save(self.model.state_dict(), tmppath)
+                tar.add(tmppath, arcname='state_dict.pt')
+
+        return fpath
 
     @classmethod
     def load(cls, fpath="./model.tar", device=DEVICE):
@@ -110,6 +141,20 @@ class WillHelmsDeep:
 
         return obj
 
+    @property
+    def settings(self):
+        return {
+            "nb_features": self.nb_features,
+            "nb_classes": self.nb_classes,
+
+            "encoder_class": self.encoder_class,
+            "encoder_params": self.encoder.params,
+
+            "classifier_class": self.classifier_class,
+            "classifier_params": self.classifier.params,
+            "device": self.device,
+        }
+
     def train(self,
               train_dataset, dev_dataset,
               model_output_path,
@@ -134,13 +179,13 @@ class WillHelmsDeep:
         for epoch in range(1, nb_epochs+1):
             try:
 
-                train_score = self._full_epoch(
+                train_score, train_acc = self._full_epoch(
                     iterator=train_dataset,
                     optimizer=optimizer, criterion=criterion,
                     clip=None, batch_size=batch_size,
                     desc="[Epoch Training %s/%s]" % (epoch, nb_epochs)
                 )
-                dev_score = self._full_epoch(
+                dev_score, dev_acc = self._full_epoch(
                     iterator=dev_dataset, criterion=criterion,
                     batch_size=batch_size,
                     desc="[Epoch Dev %s/%s]" % (epoch, nb_epochs)
@@ -149,7 +194,9 @@ class WillHelmsDeep:
                 # Run a check on saving the current model
                 best_valid_loss = self._temp_save(fid, best_valid_loss, dev_score)
 
+                print()
                 print(f'\tTrain Loss: {train_score:.3f} | Dev Loss: {dev_score:.3f}')
+                print(f'\tTrain Accu: {train_acc:.3f} | Dev Accu: {dev_acc:.3f}')
                 print()
 
                 # Advance Learning Rate if needed
@@ -194,7 +241,7 @@ class WillHelmsDeep:
                     clip: Optional[float] = None,
                     desc="Going through an epoch"):
 
-        train_mode = optimizer is None
+        train_mode = optimizer is not None
 
         if train_mode:
             self.model.train()
@@ -209,15 +256,22 @@ class WillHelmsDeep:
         )
         batches = batch_generator()
 
+        preds = []
+        trues = []
+
         for batch_index in tqdm.tqdm(range(0, iterator.batch_count), desc=desc):
             src, trg = next(batches)
 
             if train_mode:
                 optimizer.zero_grad()
 
-            loss = self.model.train_epoch(
+            loss, predictions = self.model.train_epoch(
                 src, trg, criterion=criterion
             )
+
+            with torch.cuda.device_of(predictions):
+                preds.extend(predictions.tolist())
+                trues.extend(trg.view(-1).tolist())
 
             if train_mode:
                 loss.backward()
@@ -229,10 +283,79 @@ class WillHelmsDeep:
 
             epoch_loss += loss.item()
 
-        return epoch_loss / iterator.batch_count
+        accuracy = sum([
+            int(pred == truth)
+            for pred, truth in zip(preds, trues)
+        ]) / len(preds)
 
-    def predict(self):
-        pass
+        return epoch_loss / iterator.batch_count, accuracy
 
-    def test(self):
-        pass
+    def predict(self, csv_features):
+        dataset = DatasetIterator(
+            class_encoder=self.classes_map,
+            file=csv_features
+        )
+
+    def test(self, csv_features, batch_size=32):
+        dataset = DatasetIterator(
+            class_encoder=self.classes_map,
+            file=csv_features,
+            test=True
+        )
+
+        batch_generator = dataset.get_epoch(
+            batch_size=batch_size,
+            device=self.device,
+            with_filename=True
+        )
+        batches = batch_generator()
+
+        preds = []
+        trues = []
+        full_names = []
+
+        for batch_index in tqdm.tqdm(range(0, dataset.batch_count), desc="Testing...."):
+            src, trg, names = next(batches)
+
+            preds.extend(self.model.predict(src, classnames=None))
+            full_names.extend(names)
+
+            with torch.cuda.device_of(trg):
+                trues.extend(trg.view(-1).tolist())
+
+        accuracy = sum([
+            int(pred == truth)
+            for pred, truth in zip(preds, trues)
+        ]) / len(preds)
+
+        print(accuracy)
+
+        for pred, truth, full_name in zip(preds, trues, full_names):
+            yield "{name: <10}\t{status}\t{pred: <20}\t=\t{truth: <20}".format(
+                name=full_name,
+                status="✓" if pred == truth else "⨯",
+                pred=self.classes_map.get_classname(pred),
+                truth=self.classes_map.get_classname(truth))
+
+
+
+if __name__ == "__main__":
+    vocab = utils.Vocabulary()
+    train = DatasetIterator(vocab, "data/train.csv")
+    dev = DatasetIterator(vocab, "data/dev.csv")
+
+    tagger = WillHelmsDeep(
+        nb_features=train.nb_features,
+        nb_classes=len(vocab),
+        encoder_class="cnn_embedding",
+        classifier_class="linear",
+        classes_map=vocab,
+        device="cuda",
+        encoder_params=dict(emb_dim=256, hid_dim=256, n_layers=3, kernel_size=3, dropout_ratio=0.1),
+        classifier_params=dict()
+    )
+
+    print(tagger.device)
+    print(tagger.model)
+
+    tagger.train(train, dev, "here.model.tar", batch_size=4, lr=1e-4, nb_epochs=2)

@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 
-from typing import Dict, List
+from typing import Dict, List, Optional
 
 
 class Encoder(nn.Module):
@@ -23,7 +23,8 @@ class Encoder(nn.Module):
 
 class ConvEmbedding(Encoder):
     def __init__(self, input_dim=15000, device: str = "cpu",
-                 emb_dim=128, hid_dim=128, n_layers=6, kernel_size=3, dropout=0.5):
+                 emb_dim=128, hid_dim=128, n_layers=3, kernel_size=3, dropout_ratio=0.1,
+                 out_dim=256):
         super().__init__(input_dim=input_dim, device=device)
 
         assert kernel_size % 2 == 1, "Kernel size must be odd!"
@@ -31,26 +32,31 @@ class ConvEmbedding(Encoder):
         self.emb_dim = emb_dim
         self.hid_dim = hid_dim
         self.kernel_size = kernel_size
-        self.dropout = dropout
+        self.dropout_ratio = dropout_ratio
+        self.out_dim = out_dim
 
         self.scale = torch.sqrt(torch.FloatTensor([0.5])).to(self.device)
 
-        self.embedding = nn.Embedding(input_dim, emb_dim)
+        self.embedding = nn.Embedding(self.input_dim, self.emb_dim)
 
-        self.emb2hid = nn.Linear(emb_dim, hid_dim)
-        self.hid2emb = nn.Linear(hid_dim, emb_dim)
+        self.emb2hid = nn.Linear(self.emb_dim, self.hid_dim)
+        self.hid2emb = nn.Linear(self.hid_dim, self.emb_dim)
 
-        self.convs = nn.ModuleList([nn.Conv1d(in_channels=hid_dim,
-                                              out_channels=2 * hid_dim,
-                                              kernel_size=kernel_size,
-                                              padding=(kernel_size - 1) // 2)
+        self.convs = nn.ModuleList([nn.Conv1d(in_channels=self.hid_dim,
+                                              out_channels=2 * self.hid_dim,
+                                              kernel_size=self.kernel_size,
+                                              padding=(self.kernel_size - 1) // 2)
                                     for _ in range(n_layers)])
 
-        self.dropout = nn.Dropout(dropout)
+        self.dropout = nn.Dropout(self.dropout_ratio)
+
+    def to(self, device, *args, **kwargs):
+        super(ConvEmbedding, self).to(device, *args, **kwargs)
+        self.scale = torch.sqrt(torch.FloatTensor([0.5])).to(self.device)
 
     @property
     def output_dimension(self):
-        return self.emb_dim
+        return self.input_dim
 
     def forward(self, src):
         """
@@ -59,47 +65,46 @@ class ConvEmbedding(Encoder):
         :return:
         """
         # embed features
-        feature_embedding = self.embedding(src)
-
+        embedded = self.embedding(src)
         # combine embeddings by elementwise summing
-        embedded = self.dropout(feature_embedding)
+        embedded = self.dropout(embedded)
 
-        # embedded = [batch size, src sent len, emb dim]
+        # embedded = [batch size, emb dim]
 
         # pass embedded through linear layer to go through emb dim -> hid dim
         conv_input = self.emb2hid(embedded)
 
-        # conv_input = [batch size, src sent len, hid dim]
+        # conv_input = [batch size, hid dim]
         # permute for convolutional layer
-        conv_input = conv_input.permute(0, 2, 1)
 
-        # conv_input = [batch size, hid dim, src sent len]
+        # conv_input = [batch size, hid dim, feature_size]
+        conv_input = conv_input.permute(0, 2, 1)
 
         for i, conv in enumerate(self.convs):
             # pass through convolutional layer
             conved = conv(self.dropout(conv_input))
 
-            # conved = [batch size, 2*hid dim, src sent len]
+            # conved = [batch size, 2*hid dim]
 
             # pass through GLU activation function
             conved = F.glu(conved, dim=1)
 
-            # conved = [batch size, hid dim, src sent len]
+            # conved = [batch size, hid dim]
 
             # apply residual connection
             conved = (conved + conv_input) * self.scale
 
-            # conved = [batch size, hid dim, src sent len]
+            # conved = [batch size, hid dim]
 
             # set conv_input to conved for next lo`op iteration
             conv_input = conved
 
         # permute and convert back to emb dim
-        conved = self.hid2emb(conved.permute(0, 2, 1))
+        # conved = [batch size, nbfeatures, emb dim]
+        #    --> [batch_size, nb_features]
+        out = conv_input.sum(dim=1)
 
-        # conved = [batch size, src sent len, emb dim]
-
-        return conved
+        return out
 
     @property
     def params(self):
@@ -107,7 +112,8 @@ class ConvEmbedding(Encoder):
             "emb_dim": self.emb_dim,
             "hid_dim": self.hid_dim,
             "kernel_size": self.kernel_size,
-            "dropout": self.dropout
+            "dropout_ratio": self.dropout_ratio
+
         }
 
 
@@ -155,14 +161,13 @@ class LinearDecoder(Classifier):
         # decoder output
         self.decoder = nn.Linear(self.encoder_output_dim, self.nb_classes)
 
-        self.relu = True
-
     def forward(self, enc_outs):
         """
 
         :param enc_outs: Tensor(Encoder output dimension, Classes)
         :return:
         """
+
         if self.highway is not None:
             enc_outs = self.highway(enc_outs)
 
@@ -184,14 +189,14 @@ class GoodWillHunting(nn.Module):
         super().__init__()
 
         self.encoder: Encoder = encoder
-        self.categorizer: Classifier= classifier
+        self.categorizer: Classifier = classifier
         self.device = device
 
         assert self.encoder.device == self.device and self.categorizer.device == self.device, \
             "All devices should be the same !"
 
         # nll weight
-        nll_weight = torch.ones(classifier.out_dim)
+        nll_weight = torch.ones(classifier.encoder_output_dim)
         self.register_buffer('nll_weight', nll_weight)
 
     def forward(self, src):
@@ -200,29 +205,32 @@ class GoodWillHunting(nn.Module):
         :param src: Tensor(Batch_size, feature length)
         :return: Tensor(Batch_size, Classes Count)
         """
-
         encoder_out = self.encoder(src)
+
         classifier_out = self.categorizer(encoder_out)
 
         return classifier_out
 
-    def predict(self, src, classnames: Dict[int, str]) -> List[str, ...]:
+    def predict(self, src, classnames: Optional[Dict[int, str]]) -> List[str]:
         """ Predicts value for a given tensor
 
         :param src: tensor(batch size x sentence_length)
         :param classnames: Name of the classes in a dict
         :return: Reversed Batch
         """
-        out = self(src, out=None)
-        logits = torch.argmax(out, 2)
+        out = self(src)
+        logits = torch.argmax(out, 1)
 
         with torch.cuda.device_of(logits):
             out_as_list = logits.tolist()
 
-        return [
-            classnames.get(item, "WTF ?")
-            for item in out_as_list
-        ]
+        if classnames is None:
+            return out_as_list
+        else:
+            return [
+                classnames.get(item, "WTF ?")
+                for item in out_as_list
+            ]
 
     def train_epoch(
         self,
@@ -237,11 +245,10 @@ class GoodWillHunting(nn.Module):
         :return: tensor(batch_size x output_length)
 
         """
+        # (batch_size x nb_classes)
         output = self(src)
 
-        loss = criterion(
-            output.view(-1, self.categorizer.out_dim),
-            trg.view(-1)
-        )
+        # Target needs to be each class in a vector (batch_size) and not (batch_size * nb_classes)
+        loss = criterion(output, trg.view(-1))
 
-        return loss
+        return loss, torch.argmax(output, 1)
