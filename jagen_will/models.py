@@ -38,12 +38,12 @@ class ConvEmbedding(Encoder):
         self.scale = torch.sqrt(torch.FloatTensor([0.5])).to(self.device)
 
         self.embedding = nn.Embedding(self.input_dim, self.emb_dim)
+        #
+        # self.emb2hid = nn.Linear(self.emb_dim, self.hid_dim)
+        # self.hid2emb = nn.Linear(self.hid_dim, self.emb_dim)
 
-        self.emb2hid = nn.Linear(self.emb_dim, self.hid_dim)
-        self.hid2emb = nn.Linear(self.hid_dim, self.emb_dim)
-
-        self.convs = nn.ModuleList([nn.Conv1d(in_channels=self.hid_dim,
-                                              out_channels=2 * self.hid_dim,
+        self.convs = nn.ModuleList([nn.Conv1d(in_channels=self.emb_dim,
+                                              out_channels=2 * self.emb_dim,
                                               kernel_size=self.kernel_size,
                                               padding=(self.kernel_size - 1) // 2)
                                     for _ in range(n_layers)])
@@ -56,7 +56,7 @@ class ConvEmbedding(Encoder):
 
     @property
     def output_dimension(self):
-        return self.input_dim
+        return self.input_dim * self.emb_dim
 
     def forward(self, src):
         """
@@ -72,13 +72,13 @@ class ConvEmbedding(Encoder):
         # embedded = [batch size, emb dim]
 
         # pass embedded through linear layer to go through emb dim -> hid dim
-        conv_input = self.emb2hid(embedded)
+        # conv_input = self.emb2hid(embedded)
 
         # conv_input = [batch size, hid dim]
         # permute for convolutional layer
 
         # conv_input = [batch size, hid dim, feature_size]
-        conv_input = conv_input.permute(0, 2, 1)
+        conv_input = embedded.permute(0, 2, 1)
 
         for i, conv in enumerate(self.convs):
             # pass through convolutional layer
@@ -100,11 +100,9 @@ class ConvEmbedding(Encoder):
             conv_input = conved
 
         # permute and convert back to emb dim
-        # conved = [batch size, nbfeatures, emb dim]
-        #    --> [batch_size, nb_features]
-        out = conv_input.sum(dim=1)
-
-        return out
+        # conved = [batch size, emb dim, nbfeatures]
+        #    --> [batch_size, nb_features * hid dim]
+        return conv_input.view(conv_input.size(0), -1)
 
     @property
     def params(self):

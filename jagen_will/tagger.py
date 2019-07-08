@@ -169,6 +169,9 @@ class WillHelmsDeep:
         # Set up optimizer
         optimizer = optim.Adam(self.model.parameters(), lr=lr)
         criterion = nn.CrossEntropyLoss()
+        plateau = optim.lr_scheduler.ReduceLROnPlateau(
+            optimizer, factor=0.1
+        )
 
         # Generates a temp file to store the best model
         fid = '/tmp/{}'.format(str(uuid.uuid1()))
@@ -210,6 +213,7 @@ class WillHelmsDeep:
 
                 #if debug is not None:
                 #    debug(self.tagger)
+                plateau.step(dev_score, epoch=epoch)
 
             except KeyboardInterrupt:
                 print("Interrupting training...")
@@ -261,7 +265,6 @@ class WillHelmsDeep:
 
         for batch_index in tqdm.tqdm(range(0, iterator.batch_count), desc=desc):
             src, trg = next(batches)
-
             if train_mode:
                 optimizer.zero_grad()
 
@@ -338,11 +341,10 @@ class WillHelmsDeep:
                 truth=self.classes_map.get_classname(truth))
 
 
-
 if __name__ == "__main__":
     vocab = utils.Vocabulary()
-    train = DatasetIterator(vocab, "data/train.csv")
-    dev = DatasetIterator(vocab, "data/dev.csv")
+    train = DatasetIterator(vocab, "data/full_feats_train.csv")
+    dev = DatasetIterator(vocab, "data/full_feats_valid.csv")
 
     tagger = WillHelmsDeep(
         nb_features=train.nb_features,
@@ -351,11 +353,11 @@ if __name__ == "__main__":
         classifier_class="linear",
         classes_map=vocab,
         device="cuda",
-        encoder_params=dict(emb_dim=256, hid_dim=256, n_layers=3, kernel_size=3, dropout_ratio=0.1),
+        encoder_params=dict(emb_dim=128, hid_dim=128, n_layers=2, kernel_size=3, dropout_ratio=0.25),
         classifier_params=dict()
     )
 
     print(tagger.device)
     print(tagger.model)
 
-    tagger.train(train, dev, "here.model.tar", batch_size=4, lr=1e-4, nb_epochs=2)
+    tagger.train(train, dev, "here.model.tar", batch_size=4, lr=1e-4, nb_epochs=20)
