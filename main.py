@@ -9,7 +9,6 @@ import json
 # from multiprocessing import Pool
 from multiprocessing.pool import ThreadPool as Pool
 import tqdm
-
 # from importlib import reload
 # tuy = reload(tuy)
 #import json , json.dump, file et object, json.load sur des files, dumps et loads sur des str
@@ -64,7 +63,9 @@ if __name__ == '__main__':
     unique_texts = [text["name"] for text in myTexts]
 
     print(".......feeding data frame.......")
+
     #feats = pandas.DataFrame(columns=list(feat_list), index=unique_texts)
+
 
     # with Pool(args.p) as pool:
     #     print(args.p)
