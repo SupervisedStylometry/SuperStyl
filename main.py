@@ -30,6 +30,8 @@ if __name__ == '__main__':
     parser.add_argument('-t', action='store', help="types of features (words or chars)", type=str)
     parser.add_argument('-n', action='store', help="n grams lengths (default 1)", default=1, type=int)
     parser.add_argument('-p', action='store', help="Processes to use (default 1)", default=1, type=int)
+    parser.add_argument('-c', action='store', help="Path to file with metadata corrections", default=None, type=str)
+    parser.add_argument('-k', action='store', help="How many most frequent?", default=5000, type=int)
     parser.add_argument('--z_scores', action='store_true', help="Use z-scores?", default=False)
     parser.add_argument('-s', nargs='+', help="paths to files")
     args = parser.parse_args()
@@ -38,19 +40,26 @@ if __name__ == '__main__':
 
     print(".......loading texts.......")
 
-    myTexts = tuy.load_texts(args.s, model)
+    if args.c:
+        # "debug_authors.csv"
+        correct_aut= pandas.read_csv(args.c)
+        # a bit hacky. Improve later
+        correct_aut.index = list(correct_aut.loc[:, "Original"])
+        myTexts = tuy.load_texts(args.s, model, correct_aut=correct_aut)
+
+    else:
+        myTexts = tuy.load_texts(args.s, model)
 
     print(".......getting features.......")
 
     if not args.f:
         my_feats = fex.get_feature_list(myTexts, feats=args.t, n=args.n, relFreqs=True)
         # and now, cut at around rank k
-        k = 5000
-        val = my_feats[k][1]
+        val = my_feats[args.k][1]
         my_feats = [m for m in my_feats if m[1] >= val]
 
-        # with open("feature_list.json", "w") as out:
-        #    out.write(json.dumps(my_feats))
+        with open("feature_list_" + args.t + args.n + "grams" + args.k + "mf.json", "w") as out:
+            out.write(json.dumps(my_feats))
 
     else:
         print(".......loading preexisting feature list.......")
@@ -80,8 +89,17 @@ if __name__ == '__main__':
     for t in tqdm.tqdm(myTexts):
         text, local_freqs = count_process((t, feat_list))
         loc[text["name"]] = local_freqs
+    # Saving metadata for later
+    metadata = pandas.DataFrame(columns=['author', 'lang'], index=unique_texts, data =
+                                [[t["aut"], t["lang"]] for t in myTexts])
+    
+    # Free some space before doing this...
+    del myTexts
 
     feats = pandas.DataFrame.from_dict(loc, columns=list(feat_list), orient="index")
+
+    # Free some more
+    del loc
 
     print(".......applying normalisations.......")
     # And here is the place to implement selection and normalisation
@@ -104,9 +122,6 @@ if __name__ == '__main__':
     # take only rows where the number of values above 0 is superior to two
     # (i.e. appears in at least two texts)
     #feats = feats.loc[:, feats[feats > 0].count() > 2]
-
-    metadata = pandas.DataFrame(columns=['author', 'lang'], index=unique_texts, data =
-                                [[t["aut"], t["lang"]] for t in myTexts])
 
     pandas.concat([metadata, feats], axis=1).to_csv("feats_tests.csv")
 
