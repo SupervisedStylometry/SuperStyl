@@ -29,12 +29,13 @@ if __name__ == "__main__":
                       help="Size of the first layer (Embedding or Linear)")
     args.add_argument("-r", dest="random", action="store_true", default=False,
                       help="Randomize the batches")
-    args.add_argument("-b", dest="batch", action="store", default=4,
+    args.add_argument("-b", dest="batch", action="store", default=4, type=int,
                       help="Batch size")
-    args.add_argument("-e", dest="epochs", action="store", default=20,
+    args.add_argument("-e", dest="epochs", action="store", default=20, type=int,
                       help="Epochs")
     args.add_argument("--lr", dest="lr", action="store", default=1e-4, type=float,
                       help="Learning Rate")
+    args.add_argument("-f", dest="file", action="store", default="full_feats")
 
     args = args.parse_args()
 
@@ -51,8 +52,8 @@ if __name__ == "__main__":
         train = DatasetIterator(vocab, "data/train.csv", **dataset_kwargs)
         dev = DatasetIterator(vocab, "data/dev.csv", **dataset_kwargs)
     else:
-        train = DatasetIterator(vocab, "data/feats_tests_train.csv", **dataset_kwargs)
-        dev = DatasetIterator(vocab, "data/feats_tests_valid.csv", **dataset_kwargs)
+        train = DatasetIterator(vocab, "data/" + args.file + "_train.csv", **dataset_kwargs)
+        dev = DatasetIterator(vocab, "data/" + args.file + "_valid.csv", **dataset_kwargs)
 
     tagger = WillHelmsDeep(
         nb_features=train.nb_features,
