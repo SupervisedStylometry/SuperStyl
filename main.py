@@ -58,8 +58,8 @@ if __name__ == '__main__':
         val = my_feats[args.k][1]
         my_feats = [m for m in my_feats if m[1] >= val]
 
-        # with open("feature_list.json", "w") as out:
-        #    out.write(json.dumps(my_feats))
+        with open("feature_list_" + args.t + args.n + "grams" + args.k + "mf.json", "w") as out:
+            out.write(json.dumps(my_feats))
 
     else:
         print(".......loading preexisting feature list.......")
@@ -90,7 +90,13 @@ if __name__ == '__main__':
         text, local_freqs = count_process((t, feat_list))
         loc[text["name"]] = local_freqs
 
+    # Free some space before doing this...
+    del myTexts
+
     feats = pandas.DataFrame.from_dict(loc, columns=list(feat_list), orient="index")
+
+    # Free some more
+    del loc
 
     print(".......applying normalisations.......")
     # And here is the place to implement selection and normalisation
