@@ -31,13 +31,14 @@ class ConvEmbedding(Encoder):
 
         self.emb_dim = emb_dim
         self.hid_dim = hid_dim
+        self.n_layers = n_layers
         self.kernel_size = kernel_size
         self.dropout_ratio = dropout_ratio
         self.out_dim = out_dim
 
         self.scale = torch.sqrt(torch.FloatTensor([0.5])).to(self.device)
 
-        self.embedding = nn.Embedding(self.input_dim, self.emb_dim)
+        self.embedding = nn.Linear(self.input_dim, self.emb_dim)
         #
         # self.emb2hid = nn.Linear(self.emb_dim, self.hid_dim)
         # self.hid2emb = nn.Linear(self.hid_dim, self.emb_dim)
@@ -46,7 +47,7 @@ class ConvEmbedding(Encoder):
                                               out_channels=2 * self.emb_dim,
                                               kernel_size=self.kernel_size,
                                               padding=(self.kernel_size - 1) // 2)
-                                    for _ in range(n_layers)])
+                                    for _ in range(self.n_layers)])
 
         self.dropout = nn.Dropout(self.dropout_ratio)
 
@@ -110,8 +111,8 @@ class ConvEmbedding(Encoder):
             "emb_dim": self.emb_dim,
             "hid_dim": self.hid_dim,
             "kernel_size": self.kernel_size,
-            "dropout_ratio": self.dropout_ratio
-
+            "dropout_ratio": self.dropout_ratio,
+            "n_layers": self.n_layers
         }
 
 

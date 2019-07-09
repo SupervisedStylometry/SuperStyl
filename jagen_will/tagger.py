@@ -120,7 +120,7 @@ class WillHelmsDeep:
 
             # Load the WillHelmsDeep settings
             settings = json.loads(utils.get_gzip_from_tar(tar, 'settings.json.zip'))
-
+            print(settings)
             # Load the author <-> id maps
             classes = utils.Vocabulary.load(json.loads(utils.get_gzip_from_tar(tar, "classes.json")))
             assert len(classes) == settings["nb_classes"], "Vocabulary size should equal nb_classes"
