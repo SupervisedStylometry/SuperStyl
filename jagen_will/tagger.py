@@ -223,7 +223,9 @@ class WillHelmsDeep:
                 )
 
                 # Run a check on saving the current model
-                best_valid_loss = self._temp_save(fid, best_valid_loss, dev_score)
+                if dev_score >= train_score:
+                    best_valid_loss = self._temp_save(fid, best_valid_loss, dev_score)
+
 
                 print()
                 print(f'\tTrain Loss: {train_score:.3f} | Dev Loss: {dev_score:.3f}')
@@ -240,8 +242,9 @@ class WillHelmsDeep:
                 print("Interrupting training...")
                 break
 
-            if dev_score > train_score or epoch > 5:
-                best_valid_loss = self._temp_save(fid, best_valid_loss, dev_score)
+        if dev_score > train_score or epoch > 5:
+            best_valid_loss = self._temp_save(fid, best_valid_loss, dev_score)
+            print("Saving the model")
 
         try:
             self.model.load_state_dict(torch.load(fid))
@@ -256,6 +259,7 @@ class WillHelmsDeep:
 
     def _temp_save(self, file_path: str, best_score: float, current_score: float) -> float:
         if current_score < best_score:
+            print("Saving the model temporary...")
             torch.save(self.model.state_dict(), file_path)
             best_score = current_score
         return best_score
@@ -312,11 +316,38 @@ class WillHelmsDeep:
 
         return epoch_loss / iterator.batch_count, accuracy
 
-    def predict(self, csv_features):
+    def predict(self, csv_features, batch_size=32):
         dataset = DatasetIterator(
             class_encoder=self.classes_map,
-            file=csv_features
+            file=csv_features,
+            test=True
         )
+
+        batch_generator = dataset.get_epoch(
+            batch_size=batch_size,
+            device=self.device,
+            with_filename=True
+        )
+        batches = batch_generator()
+
+        preds = []
+        trues = []
+        full_names = []
+
+        for batch_index in tqdm.tqdm(range(0, dataset.batch_count), desc="Testing...."):
+            src, trg, names = next(batches)
+
+            preds.extend(self.model.predict(src, classnames=None))
+            full_names.extend(names)
+
+            with torch.cuda.device_of(trg):
+                trues.extend(trg.view(-1).tolist())
+
+        for pred, truth, full_name in zip(preds, trues, full_names):
+            yield "{name}\t{pred}".format(
+                name=full_name,
+                pred=self.classes_map.get_classname(pred)
+            )
 
     def test(self, csv_features, batch_size=32):
         dataset = DatasetIterator(

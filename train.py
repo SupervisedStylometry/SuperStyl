@@ -31,6 +31,10 @@ if __name__ == "__main__":
                       help="Randomize the batches")
     args.add_argument("-b", dest="batch", action="store", default=4,
                       help="Batch size")
+    args.add_argument("-e", dest="epochs", action="store", default=20,
+                      help="Epochs")
+    args.add_argument("--lr", dest="lr", action="store", default=1e-4, type=float,
+                      help="Learning Rate")
 
     args = args.parse_args()
 
@@ -69,4 +73,4 @@ if __name__ == "__main__":
     print(tagger.device)
     print(tagger.model)
 
-    tagger.train(train, dev, model_name, batch_size=args.batch, lr=1e-4, nb_epochs=50)
+    tagger.train(train, dev, model_name, batch_size=args.batch, lr=args.lr, nb_epochs=args.epochs)
