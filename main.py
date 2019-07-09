@@ -89,7 +89,10 @@ if __name__ == '__main__':
     for t in tqdm.tqdm(myTexts):
         text, local_freqs = count_process((t, feat_list))
         loc[text["name"]] = local_freqs
-
+    # Saving metadata for later
+    metadata = pandas.DataFrame(columns=['author', 'lang'], index=unique_texts, data =
+                                [[t["aut"], t["lang"]] for t in myTexts])
+    
     # Free some space before doing this...
     del myTexts
 
@@ -119,9 +122,6 @@ if __name__ == '__main__':
     # take only rows where the number of values above 0 is superior to two
     # (i.e. appears in at least two texts)
     #feats = feats.loc[:, feats[feats > 0].count() > 2]
-
-    metadata = pandas.DataFrame(columns=['author', 'lang'], index=unique_texts, data =
-                                [[t["aut"], t["lang"]] for t in myTexts])
 
     pandas.concat([metadata, feats], axis=1).to_csv("feats_tests.csv")
 
