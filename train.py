@@ -43,8 +43,8 @@ if __name__ == "__main__":
         train = DatasetIterator(vocab, "data/train.csv", **dataset_kwargs)
         dev = DatasetIterator(vocab, "data/dev.csv", **dataset_kwargs)
     else:
-        train = DatasetIterator(vocab, "data/full_feats_train.csv", **dataset_kwargs)
-        dev = DatasetIterator(vocab, "data/full_feats_valid.csv", **dataset_kwargs)
+        train = DatasetIterator(vocab, "data/feats_tests_train.csv", **dataset_kwargs)
+        dev = DatasetIterator(vocab, "data/feats_tests_valid.csv", **dataset_kwargs)
 
     tagger = WillHelmsDeep(
         nb_features=train.nb_features,
@@ -54,7 +54,7 @@ if __name__ == "__main__":
         classes_map=vocab,
         device="cuda",
         encoder_params=dict(
-            emb_dim=256,
+            emb_dim=args.size,
             n_layers=layers,
             kernel_size=5,
             dropout_ratio=0.25

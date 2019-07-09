@@ -17,7 +17,8 @@ from typing import Dict, Any, Optional
 import tqdm
 
 # Local imports
-from jagen_will.models import GoodWillHunting, ConvEmbedding, LinearDecoder
+from jagen_will.models import GoodWillHunting, ConvEmbedding, LinearDecoder, \
+    ConvStraight
 from jagen_will.dataset import DatasetIterator
 from jagen_will import utils
 
@@ -50,6 +51,12 @@ class WillHelmsDeep:
         # Create the classes
         if encoder_class == "cnn_embedding":
             self.encoder = ConvEmbedding(
+                input_dim=nb_features,
+                device=self.device,
+                **encoder_params
+            )
+        elif encoder_class == "straight":
+            self.encoder = ConvStraight(
                 input_dim=nb_features,
                 device=self.device,
                 **encoder_params
