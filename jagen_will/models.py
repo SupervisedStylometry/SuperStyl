@@ -1,6 +1,7 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+import torch.autograd as autograd
 
 
 from typing import Dict, List, Optional
@@ -87,33 +88,75 @@ class ConvStraight(Encoder):
     @property
     def params(self):
         return {
-            "emb_dim": self.emb_dim,
-            "hid_dim": self.hid_dim,
             "kernel_size": self.kernel_size,
             "dropout_ratio": self.dropout_ratio,
             "n_layers": self.n_layers
         }
 
 
+class LSTMClassifier(Encoder):
+
+    @property
+    def params(self):
+        return {
+            "second_dim": self.hidden_dim,
+            "n_layers": self.n_layers,
+            "dropout_ratio": self.dropout_ratio
+        }
+
+    def __init__(self, input_dim=15000, device: str = "cpu",
+                 second_dim=128, dropout_ratio=0.1, n_layers=3,
+                 **kwargs):
+        super().__init__(input_dim=input_dim, device=device)
+
+        self.hidden_dim = second_dim
+        self.dropout_ratio = dropout_ratio
+        self.n_layers = n_layers
+
+        self.lstm = nn.LSTM(self.input_dim, self.hidden_dim, num_layers=self.n_layers)
+        self.dropout_layer = nn.Dropout(self.dropout_ratio)
+
+    def init_hidden(self, batch_size):
+        return (autograd.Variable(torch.randn(1, batch_size, self.hidden_dim)),
+                autograd.Variable(torch.randn(1, batch_size, self.hidden_dim)))
+
+    def forward(self, batch):
+        hidden = self.init_hidden(batch.size(0))
+
+        # [ batch_size x nb_features ]
+        outputs, (ht, ct) = self.lstm(batch, hidden)
+
+        # ht is the last hidden state of the sequences
+        # ht = (1 x batch_size x hidden_dim)
+        # ht[-1] = (batch_size x hidden_dim)
+        output = self.dropout_layer(ht[-1])
+
+        return output
+
+    @property
+    def output_dimension(self):
+        return self.hidden_dim
+
+
 class ConvEmbedding(Encoder):
     def __init__(self, input_dim=15000, device: str = "cpu",
-                 emb_dim=128, n_layers=3, kernel_size=3, dropout_ratio=0.1,
+                 second_dim=128, n_layers=3, kernel_size=3, dropout_ratio=0.1,
                  **kwargs):
         super().__init__(input_dim=input_dim, device=device)
 
         assert kernel_size % 2 == 1, "Kernel size must be odd!"
 
-        self.emb_dim = emb_dim
+        self.second_dim = second_dim
         self.n_layers = n_layers
         self.kernel_size = kernel_size
         self.dropout_ratio = dropout_ratio
 
         self.scale = torch.sqrt(torch.FloatTensor([0.5])).to(self.device)
 
-        self.embedding = nn.Linear(self.input_dim, self.emb_dim)
+        self.embedding = nn.Embedding(self.input_dim, self.second_dim)
 
-        self.convs = nn.ModuleList([nn.Conv1d(in_channels=self.emb_dim,
-                                              out_channels=2 * self.emb_dim,
+        self.convs = nn.ModuleList([nn.Conv1d(in_channels=self.second_dim,
+                                              out_channels=2 * self.second_dim,
                                               kernel_size=self.kernel_size,
                                               padding=(self.kernel_size - 1) // 2)
                                     for _ in range(self.n_layers)])
@@ -126,7 +169,7 @@ class ConvEmbedding(Encoder):
 
     @property
     def output_dimension(self):
-        return self.input_dim * self.emb_dim
+        return self.input_dim * self.second_dim
 
     def forward(self, src):
         """
@@ -170,7 +213,7 @@ class ConvEmbedding(Encoder):
     @property
     def params(self):
         return {
-            "emb_dim": self.emb_dim,
+            "second_dim": self.second_dim,
             "kernel_size": self.kernel_size,
             "dropout_ratio": self.dropout_ratio,
             "n_layers": self.n_layers

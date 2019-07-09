@@ -23,10 +23,14 @@ if __name__ == "__main__":
                       action="store", type=Models, choices=list(Models), default=Models.cnn_embedding,
                       help="Structure of the CNN to use")
     args.add_argument("-l", dest="layers", action="store", default=3, type=int, help="Layers of the CNN")
+    args.add_argument("-k", dest="kernel", action="store", default=5, type=int, help="Kernels of the CNN")
+    args.add_argument("-d", dest="dropout", action="store", default=0.25, type=float, help="Dropout")
     args.add_argument("-s", dest="size", action="store", default=32, type=int,
                       help="Size of the first layer (Embedding or Linear)")
     args.add_argument("-r", dest="random", action="store_true", default=False,
                       help="Randomize the batches")
+    args.add_argument("-b", dest="batch", action="store", default=4,
+                      help="Batch size")
 
     args = args.parse_args()
 
@@ -54,10 +58,10 @@ if __name__ == "__main__":
         classes_map=vocab,
         device="cuda",
         encoder_params=dict(
-            emb_dim=args.size,
+            second_dim=args.size,
             n_layers=layers,
-            kernel_size=5,
-            dropout_ratio=0.25
+            kernel_size=args.kernel,
+            dropout_ratio=args.dropout
         ),
         classifier_params=dict()
     )
@@ -65,4 +69,4 @@ if __name__ == "__main__":
     print(tagger.device)
     print(tagger.model)
 
-    tagger.train(train, dev, model_name, batch_size=4, lr=1e-4, nb_epochs=50)
+    tagger.train(train, dev, model_name, batch_size=args.batch, lr=1e-4, nb_epochs=50)

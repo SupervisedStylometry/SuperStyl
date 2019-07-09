@@ -18,7 +18,7 @@ import tqdm
 
 # Local imports
 from jagen_will.models import GoodWillHunting, ConvEmbedding, LinearDecoder, \
-    ConvStraight
+    ConvStraight, LSTMClassifier
 from jagen_will.dataset import DatasetIterator
 from jagen_will import utils
 
@@ -61,6 +61,13 @@ class WillHelmsDeep:
                 device=self.device,
                 **encoder_params
             )
+        elif encoder_class == "lstm":
+            self.encoder = LSTMClassifier(
+                input_dim=nb_features,
+                device=self.device,
+                **encoder_params
+            )
+
         if classifier_class == "linear":
             self.classifier = LinearDecoder(
                 encoder_output_dim=self.encoder.output_dimension,
@@ -232,15 +239,13 @@ class WillHelmsDeep:
             except KeyboardInterrupt:
                 print("Interrupting training...")
                 break
-            #except EarlyStopException:
-            #    print("Reached plateau for too long, stopping.")
-            #    break
 
-        best_valid_loss = self._temp_save(fid, best_valid_loss, dev_score)
+            if dev_score > train_score or epoch > 5:
+                best_valid_loss = self._temp_save(fid, best_valid_loss, dev_score)
 
         try:
             self.model.load_state_dict(torch.load(fid))
-            print("Saving model with loss %s " % best_valid_loss)
+            print("Saving model with loss {:.3f} ".format(best_valid_loss))
             os.remove(fid)
         except FileNotFoundError:
             print("No model was saved during training")
