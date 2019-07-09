@@ -45,6 +45,9 @@ def XML_to_text(path, correct_aut=None):
 
         else:
             aut = auts[0]
+            if correct_aut and aut in list(correct_aut.loc[:, "Original"]):
+                print("correcting " + aut + "to" + correct_aut.loc[aut, "Actual"])
+                aut = correct_aut.loc[aut, "Actual"]
 
         return aut, re.sub(r"\s+", " ", str(myxsl(my_doc)))
 

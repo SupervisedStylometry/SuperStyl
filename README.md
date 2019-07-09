@@ -29,10 +29,12 @@ pip install -r requirements.txt
 
 ### Get feats
 
+With or without preexisting feature list:
+
 ```bash
-python main.py [-f feature_list.json] -t chars -n 3 -s path/to/docs/*
-# eg
-python main.py -f feature_list.json -t chars -n 3 -s meertens-song-collection-DH2019/train/*
+python main.py -t chars -n 3 -c debug_authors.csv -k 5000 -s path/to/docs/*
+# with it
+python main.py -f feature_list.json -t chars -n 3 -c debug_authors.csv -k 5000 -s meertens-song-collection-DH2019/train/*
 ```
 
 
