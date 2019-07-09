@@ -1,4 +1,5 @@
 from builtins import sum
+from collections import Counter
 import nltk.tokenize
 import nltk
 
@@ -20,7 +21,7 @@ def count_words(text, feat_list=None, feats = "words", n = 1, relFreqs = False):
             tokens = ["_".join(t) for t in list(nltk.ngrams(tokens, n))]
 
     if feats == "chars":
-        tokens = [c for c in text.replace(' ', '_')]
+        tokens = list(text.replace(' ', '_'))
         if n > 1:
             tokens = ["".join(t) for t in list(nltk.ngrams(tokens, n))]
 
@@ -45,7 +46,7 @@ def count_words(text, feat_list=None, feats = "words", n = 1, relFreqs = False):
     return counts
 
 
-def get_feature_list(myTexts, feats="words", n = 1, relFreqs=True):
+def get_feature_list(myTexts, feats="words", n=1, relFreqs=True):
     """
 
     :param myTexts: a 'myTexts' object, containing documents to be processed
@@ -53,17 +54,12 @@ def get_feature_list(myTexts, feats="words", n = 1, relFreqs=True):
     :param n: n-grams length
     :return: list of features, with total frequency
     """
-    my_feats = {}
+    my_feats = Counter()
 
     for text in myTexts:
         counts = count_words(text["text"], feats=feats, n=n, relFreqs=relFreqs)
 
-        for word in counts.keys():
-            if word not in my_feats.keys():
-                my_feats[word] = counts[word]
-
-            else:
-                my_feats[word] = my_feats[word] + counts[word]
+        my_feats.update(counts)
 
     # sort them
 

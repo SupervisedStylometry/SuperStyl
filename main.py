@@ -42,7 +42,7 @@ if __name__ == '__main__':
 
     if args.c:
         # "debug_authors.csv"
-        correct_aut= pandas.read_csv(args.c)
+        correct_aut = pandas.read_csv(args.c)
         # a bit hacky. Improve later
         correct_aut.index = list(correct_aut.loc[:, "Original"])
         myTexts = tuy.load_texts(args.s, model, correct_aut=correct_aut)
@@ -54,11 +54,14 @@ if __name__ == '__main__':
 
     if not args.f:
         my_feats = fex.get_feature_list(myTexts, feats=args.t, n=args.n, relFreqs=True)
-        # and now, cut at around rank k
-        val = my_feats[args.k][1]
-        my_feats = [m for m in my_feats if m[1] >= val]
+        if args.k > len(my_feats):
+            print("K Limit ignore because the size of the list is lower ({} < {})".format(len(my_feats), args.k))
+        else:
+            # and now, cut at around rank k
+            val = my_feats[args.k][1]
+            my_feats = [m for m in my_feats if m[1] >= val]
 
-        with open("feature_list_" + args.t + args.n + "grams" + args.k + "mf.json", "w") as out:
+        with open("feature_list_{}{}grams{}mf.json".format(args.t, args.n, args.k), "w") as out:
             out.write(json.dumps(my_feats))
 
     else:
@@ -123,6 +126,6 @@ if __name__ == '__main__':
     # (i.e. appears in at least two texts)
     #feats = feats.loc[:, feats[feats > 0].count() > 2]
 
-    pandas.concat([metadata, feats], axis=1).to_csv("feats_tests.csv")
+    pandas.concat([metadata, feats], axis=1).to_csv("feats_tests_n{}_k_{}.csv".format(args.n, args.k))
 
 

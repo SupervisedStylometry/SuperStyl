@@ -223,7 +223,9 @@ class WillHelmsDeep:
                 )
 
                 # Run a check on saving the current model
-                best_valid_loss = self._temp_save(fid, best_valid_loss, dev_score)
+                if dev_score >= train_score:
+                    best_valid_loss = self._temp_save(fid, best_valid_loss, dev_score)
+
 
                 print()
                 print(f'\tTrain Loss: {train_score:.3f} | Dev Loss: {dev_score:.3f}')
@@ -240,9 +242,9 @@ class WillHelmsDeep:
                 print("Interrupting training...")
                 break
 
-            if dev_score > train_score or epoch > 5:
-                best_valid_loss = self._temp_save(fid, best_valid_loss, dev_score)
-                print("Saving the model")
+        if dev_score > train_score or epoch > 5:
+            best_valid_loss = self._temp_save(fid, best_valid_loss, dev_score)
+            print("Saving the model")
 
         try:
             self.model.load_state_dict(torch.load(fid))
@@ -257,6 +259,7 @@ class WillHelmsDeep:
 
     def _temp_save(self, file_path: str, best_score: float, current_score: float) -> float:
         if current_score < best_score:
+            print("Saving the model temporary...")
             torch.save(self.model.state_dict(), file_path)
             best_score = current_score
         return best_score

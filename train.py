@@ -73,4 +73,4 @@ if __name__ == "__main__":
     print(tagger.device)
     print(tagger.model)
 
-    tagger.train(train, dev, model_name, batch_size=args.batch, lr=args.lr, nb_epochs=args.epoch)
+    tagger.train(train, dev, model_name, batch_size=args.batch, lr=args.lr, nb_epochs=args.epochs)
