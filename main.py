@@ -19,6 +19,8 @@ import tqdm
 # Z-scores, etc. ?
 # Vector-length normalisation ?
 
+# TODO: free up memory as the script goes by deleting unnecessary objects
+
 if __name__ == '__main__':
 
     import argparse
