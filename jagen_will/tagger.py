@@ -4,6 +4,7 @@ import tarfile
 import json
 import random
 import uuid
+import csv
 
 # Deeeeep
 import torch
@@ -155,6 +156,19 @@ class WillHelmsDeep:
             "device": self.device,
         }
 
+    def write_csv(self, file, row, headers=[]):
+        rows = []
+        if os.path.exists(file):
+            with open(file) as f:
+                rows = list(csv.reader(f))
+                headers, rows = rows[0], rows[1:]
+        with open(file, "w") as f:
+            writer: csv.writer = csv.writer(f)
+            writer.writerow(headers)
+            if rows:
+                writer.writerows(rows)
+            writer.writerow(row)
+
     def train(self,
               train_dataset, dev_dataset,
               model_output_path,
@@ -201,18 +215,11 @@ class WillHelmsDeep:
                 print(f'\tTrain Loss: {train_score:.3f} | Dev Loss: {dev_score:.3f}')
                 print(f'\tTrain Accu: {train_acc:.3f} | Dev Accu: {dev_acc:.3f}')
                 print()
-
-                # Advance Learning Rate if needed
-                #lr_scheduler.step(dev_score)
-
-                #if lr_scheduler.steps >= lr_patience and lr_scheduler.lr < min_lr:
-                #    raise EarlyStopException()
-
-                #if epoch == lr_grace_periode:
-                #    lr_scheduler.lr_scheduler.patience = lr_patience
-
-                #if debug is not None:
-                #    debug(self.tagger)
+                self.write_csv(
+                    model_output_path+".csv",
+                    [str(epoch), f"{train_score:.3f}", f"{dev_score:.3f}", f"{train_acc:.3f}", f"{dev_acc:.3f}"],
+                    ["Train loss", "Dev Loss", "Train Acc", "Dev acc"]
+                )
                 plateau.step(dev_score, epoch=epoch)
 
             except KeyboardInterrupt:
@@ -343,8 +350,14 @@ class WillHelmsDeep:
 
 if __name__ == "__main__":
     vocab = utils.Vocabulary()
-    train = DatasetIterator(vocab, "data/full_feats_train.csv")
-    dev = DatasetIterator(vocab, "data/full_feats_valid.csv")
+    test = True
+
+    if test == True:
+        train = DatasetIterator(vocab, "data/train.csv")
+        dev = DatasetIterator(vocab, "data/dev.csv")
+    else:
+        train = DatasetIterator(vocab, "data/full_feats_train.csv")
+        dev = DatasetIterator(vocab, "data/full_feats_valid.csv")
 
     tagger = WillHelmsDeep(
         nb_features=train.nb_features,
@@ -353,11 +366,11 @@ if __name__ == "__main__":
         classifier_class="linear",
         classes_map=vocab,
         device="cuda",
-        encoder_params=dict(emb_dim=128, hid_dim=128, n_layers=2, kernel_size=3, dropout_ratio=0.25),
+        encoder_params=dict(emb_dim=64, hid_dim=128, n_layers=2, kernel_size=3, dropout_ratio=0.25),
         classifier_params=dict()
     )
 
     print(tagger.device)
     print(tagger.model)
 
-    tagger.train(train, dev, "here.model.tar", batch_size=4, lr=1e-4, nb_epochs=20)
+    tagger.train(train, dev, "here.model.tar", batch_size=4, lr=1e-4, nb_epochs=50)
