@@ -30,6 +30,7 @@ if __name__ == '__main__':
     parser.add_argument('-t', action='store', help="types of features (words or chars)", type=str)
     parser.add_argument('-n', action='store', help="n grams lengths (default 1)", default=1, type=int)
     parser.add_argument('-p', action='store', help="Processes to use (default 1)", default=1, type=int)
+    parser.add_argument('-c', action='store', help="Path to file with metadata corrections", default=None, type=str)
     parser.add_argument('--z_scores', action='store_true', help="Use z-scores?", default=False)
     parser.add_argument('-s', nargs='+', help="paths to files")
     args = parser.parse_args()
@@ -38,7 +39,11 @@ if __name__ == '__main__':
 
     print(".......loading texts.......")
 
-    myTexts = tuy.load_texts(args.s, model)
+    if args.c:
+        myTexts = tuy.load_texts(args.s, model)
+
+    else:
+        myTexts = tuy.load_texts(args.s, model)
 
     print(".......getting features.......")
 

@@ -4,10 +4,11 @@ import fasttext
 import unidecode
 
 
-def XML_to_text(path):
+def XML_to_text(path, correct_aut=None):
     """
     Get main text from xml file
     :param path: path to the file to transform
+    :param correct_aut: optional data frame of metadata correction (authors)
     :return: a tuple with auts, and string (the text).
     """
 
@@ -66,12 +67,13 @@ def normalise(text):
     return unidecode.unidecode(re.sub(r"\s+", " ", re.sub(r"[\W0-9]+", " ", text.lower()).strip()))
 
 
-def load_texts(paths, fasttext_model):
+def load_texts(paths, fasttext_model, correct_aut=None):
     """
     Loads a collection of documents into a 'myTexts' object for further processing.
     TODO: a proper class
     :param paths: path to docs
     :param fasttext_model: model for language identification
+    :param correct_aut: optional data frame of metadata correction (authors)
     :return: a myTexts object
     """
 
@@ -80,7 +82,7 @@ def load_texts(paths, fasttext_model):
 
     for path in paths:
         name = path.split('/')[-1]
-        aut, text = XML_to_text(path)
+        aut, text = XML_to_text(path, correct_aut=correct_aut)
         lang, cert = identify_lang(text, fasttext_model)
         lang = lang[0].replace("__label__", "")
 
