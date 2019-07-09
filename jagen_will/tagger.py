@@ -17,7 +17,8 @@ from typing import Dict, Any, Optional
 import tqdm
 
 # Local imports
-from jagen_will.models import GoodWillHunting, ConvEmbedding, LinearDecoder
+from jagen_will.models import GoodWillHunting, ConvEmbedding, LinearDecoder, \
+    ConvStraight, LSTMClassifier
 from jagen_will.dataset import DatasetIterator
 from jagen_will import utils
 
@@ -54,6 +55,19 @@ class WillHelmsDeep:
                 device=self.device,
                 **encoder_params
             )
+        elif encoder_class == "straight":
+            self.encoder = ConvStraight(
+                input_dim=nb_features,
+                device=self.device,
+                **encoder_params
+            )
+        elif encoder_class == "lstm":
+            self.encoder = LSTMClassifier(
+                input_dim=nb_features,
+                device=self.device,
+                **encoder_params
+            )
+
         if classifier_class == "linear":
             self.classifier = LinearDecoder(
                 encoder_output_dim=self.encoder.output_dimension,
@@ -120,7 +134,7 @@ class WillHelmsDeep:
 
             # Load the WillHelmsDeep settings
             settings = json.loads(utils.get_gzip_from_tar(tar, 'settings.json.zip'))
-
+            print(settings)
             # Load the author <-> id maps
             classes = utils.Vocabulary.load(json.loads(utils.get_gzip_from_tar(tar, "classes.json")))
             assert len(classes) == settings["nb_classes"], "Vocabulary size should equal nb_classes"
@@ -225,15 +239,13 @@ class WillHelmsDeep:
             except KeyboardInterrupt:
                 print("Interrupting training...")
                 break
-            #except EarlyStopException:
-            #    print("Reached plateau for too long, stopping.")
-            #    break
 
-        best_valid_loss = self._temp_save(fid, best_valid_loss, dev_score)
+            if dev_score > train_score or epoch > 5:
+                best_valid_loss = self._temp_save(fid, best_valid_loss, dev_score)
 
         try:
             self.model.load_state_dict(torch.load(fid))
-            print("Saving model with loss %s " % best_valid_loss)
+            print("Saving model with loss {:.3f} ".format(best_valid_loss))
             os.remove(fid)
         except FileNotFoundError:
             print("No model was saved during training")
@@ -347,30 +359,3 @@ class WillHelmsDeep:
                 pred=self.classes_map.get_classname(pred),
                 truth=self.classes_map.get_classname(truth))
 
-
-if __name__ == "__main__":
-    vocab = utils.Vocabulary()
-    test = True
-
-    if test == True:
-        train = DatasetIterator(vocab, "data/train.csv")
-        dev = DatasetIterator(vocab, "data/dev.csv")
-    else:
-        train = DatasetIterator(vocab, "data/full_feats_train.csv")
-        dev = DatasetIterator(vocab, "data/full_feats_valid.csv")
-
-    tagger = WillHelmsDeep(
-        nb_features=train.nb_features,
-        nb_classes=len(vocab),
-        encoder_class="cnn_embedding",
-        classifier_class="linear",
-        classes_map=vocab,
-        device="cuda",
-        encoder_params=dict(emb_dim=64, hid_dim=128, n_layers=2, kernel_size=3, dropout_ratio=0.25),
-        classifier_params=dict()
-    )
-
-    print(tagger.device)
-    print(tagger.model)
-
-    tagger.train(train, dev, "here.model.tar", batch_size=4, lr=1e-4, nb_epochs=50)
