@@ -1,6 +1,7 @@
 import logging
 import collections
 import random
+import csv
 
 # DEEEP
 import torch.nn
@@ -65,12 +66,15 @@ class DatasetIterator:
         """
         logging.info("DatasetIterator reading indexes of lines")
         with open(self.file, "r") as fio:
-            for line_index, line in enumerate(fio.readlines()):
-                if not line.strip() or line_index == 0:
+            reader = csv.reader(fio)
+            for line_index, line in enumerate(reader):
+                if not line or line_index == 0:
                     continue
-
-                x, y, fname = self.read_unit(*line.strip().split(","))
-
+                try:
+                    x, y, fname = self.read_unit(*line)
+                except Exception:
+                    print(line)
+                    raise
                 self.encoded.append(
                     GT_PAIR(x, y, line_index, fname)
                 )
@@ -97,6 +101,7 @@ class DatasetIterator:
         """
         if self.type != "test":
             self._class_encoder.record(aut)
+        #print(name, aut, lang, features)
         y = self._class_encoder.get_id(aut)
         xs = features
         if self.cast_to_int:
