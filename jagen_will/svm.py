@@ -19,6 +19,7 @@ def train_svm(train, test, withPca=False):
     test = test.drop(['author', 'lang'], axis=1)
 
     if withPca:
+        print(".......... performing PCA ........")
         pca = decomp.PCA(n_components=100)  # adjust yourself
         pca.fit(train)
         train = pca.transform(train)
