@@ -4,7 +4,7 @@ import sklearn.decomposition as decomp
 import sklearn.preprocessing as preproc
 import pandas
 
-def train_svm(train, test, withPca=False, norms=False):
+def train_svm(train, test, withPca=False, norms=False, kernel="LinearSVC"):
     """
     Function to train svm
     :param train: train data... (in panda dataframe)
@@ -63,12 +63,20 @@ def train_svm(train, test, withPca=False, norms=False):
 
     print(".......... training SVM ........")
     # let's try a standard one: only with PCA, otherwise too hard
-    if withPca:
-        classif = sk.SVC(kernel='linear')
+    #if withPca:
+    #    classif = sk.SVC(kernel='linear')
+
+    #else:
+        # try a faster one
+    #    classif = sk.LinearSVC()
+
+    if kernel == "LinearSVC":
+    # try a faster one
+        classif = sk.LinearSVC()
 
     else:
-        # try a faster one
-        classif = sk.LinearSVC()
+        classif = sk.SVC(kernel=kernel)
+
 
     classif.fit(train, classes)
 
