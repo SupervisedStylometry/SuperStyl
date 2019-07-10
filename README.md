@@ -50,6 +50,15 @@ If you want to split according to existing json file,
 python split.py feats_tests.csv -s split.json
 ```
 
+### Train svm
+
+It's quite simple riilly,
+```bash
+python train_svm.py path-to-train-data.csv path-to-test-data.csv
+# e.g.
+python train_svm.py data/feats_tests_train.csv data/feats_tests_valid.csv
+```
+
 PS: if you need to download `feats.csv`, it's here: https://mab.to/GY9CfiqcD (No it sucks).
 
 - Fasttext model that way: https://fasttext.cc/docs/en/language-identification.html
