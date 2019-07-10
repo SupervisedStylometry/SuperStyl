@@ -74,7 +74,7 @@ def read_clean_split(path, metadata_path=None, excludes_path=None, savesplit=Non
     with open(savesplit, "w") as out:
         out.write(json.dumps(selection))
 
-def read_clean_nosplit(path, metadata_path=None, excludes_path=None, savesplit=None):
+def read_clean(path, metadata_path=None, excludes_path=None, savesplit=None):
     """
     Function to read a csv, clean it.
     :param path: path to csv file
