@@ -19,7 +19,9 @@ def train_svm(train, test):
 
     print(".......... training SVM ........")
     # let's try a standard one
-    classif = sk.SVC(kernel='linear')
+    # classif = sk.SVC(kernel='linear')
+    # try a faster one
+    classif = sk.LinearSVC()
     classif.fit(train, classes)
 
     print(".......... testing SVM ........")
