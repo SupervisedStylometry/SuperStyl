@@ -1,6 +1,7 @@
 import sklearn.svm as sk
 import sklearn.metrics as metrics
 import sklearn.decomposition as decomp
+import sklearn.preprocessing as preproc
 import pandas
 
 def train_svm(train, test, withPca=False, norms=False):
@@ -20,6 +21,8 @@ def train_svm(train, test, withPca=False, norms=False):
 
     if norms:
         # Z-scores
+        # TODO: me suis embeté à implémenter quelque chose qui existe
+        # déjà via sklearn.preprocessing.StandardScaler()
         print(".......... performing normalisations ........")
         feat_stats = pandas.DataFrame(columns=["mean", "std"])
         feat_stats.loc[:, "mean"] = list(train.mean(axis=0))
@@ -38,6 +41,15 @@ def train_svm(train, test, withPca=False, norms=False):
 
                 else:
                     test.iloc[:, index] = (test.iloc[:, index] - test.iloc[:, index].mean()) / test.iloc[:, index].std()
+
+        # NB: je ne refais pas la meme erreur, et cette fois j'utilise le built-in
+        # normalisation L2
+        # cf. https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.Normalizer.html#sklearn.preprocessing.Normalizer
+
+        transformer = preproc.Normalizer().fit(train)
+        train = transformer.transform(train)
+        transformer = preproc.Normalizer().fit(test)
+        test = transformer.transform(test)
 
 
 
@@ -71,5 +83,6 @@ def train_svm(train, test, withPca=False, norms=False):
                            columns=['pred:{:}'.format(x) for x in unique_labels]).to_csv("confusion_matrix.csv")
 
     print(metrics.classification_report(classes_test, preds))
+    #print(metrics.accuracy_score(classes_test, preds))
 
     return classif
