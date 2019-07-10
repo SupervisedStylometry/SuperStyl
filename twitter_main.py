@@ -53,7 +53,7 @@ if __name__ == '__main__':
     loc = {}
 
     for t in tqdm.tqdm(myTexts):
-        text, transcode = encode_texts(t, feat_map, n=args.n)
+        text, transcode = encode_texts(t, feat_map, n=args.n, feats=args.t)
         loc[text["name"]] = [text["aut"], text["lang"]] + list(map(str, transcode))
 
     max_size = max(map(len, loc.values()))
