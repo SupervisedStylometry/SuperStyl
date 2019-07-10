@@ -3,7 +3,7 @@ import sklearn.metrics as metrics
 import sklearn.decomposition as decomp
 import pandas
 
-def train_svm(train, test, withPca=False):
+def train_svm(train, test, withPca=False, norms=False):
     """
     Function to train svm
     :param train: train data... (in panda dataframe)
@@ -17,6 +17,21 @@ def train_svm(train, test, withPca=False):
 
     classes_test = list(test.loc[:, 'author'])
     test = test.drop(['author', 'lang'], axis=1)
+
+    if norms:
+        # Z-scores
+        print(".......... performing normalisations ........")
+        feat_stats = pandas.DataFrame(columns=["mean", "std"])
+        feat_stats.loc[:, "mean"] = list(train.mean(axis=0))
+        feat_stats.loc[:, "std"] = list(train.std(axis=0))
+        feat_stats.to_csv("feat_stats.csv")
+
+        for col in list(train.columns):
+            train[col] = (train[col] - train[col].mean()) / train[col].std()
+
+        for index,col in enumerate(test.columns):
+            test[:,index] = (test[:,index] - feat_stats[index,"mean"]) / feat_stats[index,"std"]
+
 
     if withPca:
         print(".......... performing PCA ........")
