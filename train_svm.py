@@ -7,8 +7,8 @@ if __name__ == "__main__":
 
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument('train_path', action='store', help="Path to train file", type=str, required=True)
-    parser.add_argument('test_path', action='store', help="Path to test file", type=str, required=True)
+    parser.add_argument('train_path', action='store', help="Path to train file", type=str)
+    parser.add_argument('test_path', action='store', help="Path to test file", type=str)
     args = parser.parse_args()
 
     # path = "data/feats_tests_train.csv"
