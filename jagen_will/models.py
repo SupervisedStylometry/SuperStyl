@@ -154,7 +154,7 @@ class ConvEmbedding(Encoder):
         self.scale = torch.sqrt(torch.FloatTensor([0.5])).to(self.device)
 
         self.embedding = nn.Embedding(self.input_dim, self.second_dim)
-
+        self.linear = nn.Linear(self.second_dim, self.second_dim)
         self.convs = nn.ModuleList([nn.Conv1d(in_channels=self.second_dim,
                                               out_channels=2 * self.second_dim,
                                               kernel_size=self.kernel_size,
@@ -179,8 +179,11 @@ class ConvEmbedding(Encoder):
         """
         # embed features
         embedded = self.embedding(src)
+
         # combine embeddings by elementwise summing
         embedded = self.dropout(embedded)
+
+        embedded = self.linear(embedded)
 
         # embedded = [batch size, nb_features, emb dim]
         # conv_input = [batch size, hid dim, feature_size]

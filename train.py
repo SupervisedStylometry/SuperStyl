@@ -10,7 +10,7 @@ class Models(Enum):
     cnn_embedding = "cnn_embedding"
     cnn_linear = "cnn_linear"
     straight = "straight"
-
+    cnn_no_cast = "cnn_no_cast"
 
 if __name__ == "__main__":
     vocab = utils.Vocabulary()
@@ -47,6 +47,8 @@ if __name__ == "__main__":
     # If model is embedding, it needs integers
     cast_to_int = model == "cnn_embedding"
     dataset_kwargs = dict(cast_to_int=cast_to_int, randomized=args.random)
+    if model == "cnn_no_cast":
+        model = "cnn_embedding"
 
     if test:
         train = DatasetIterator(vocab, "data/train.csv", **dataset_kwargs)
@@ -61,7 +63,7 @@ if __name__ == "__main__":
         encoder_class=model,
         classifier_class="linear",
         classes_map=vocab,
-        device="cuda",
+        device="cpu",
         encoder_params=dict(
             second_dim=args.size,
             n_layers=layers,

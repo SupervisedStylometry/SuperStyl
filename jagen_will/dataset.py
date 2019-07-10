@@ -106,7 +106,7 @@ class DatasetIterator:
         xs = features
         if self.cast_to_int:
             return list(map(cast_to_int_fn, xs)), [y], name
-        return list(map(float, xs)), [y], name
+        return list(map(int, xs)), [y], name
 
     def get_epoch(self, device: str = DEVICE, batch_size: int = 32, with_filename=False) -> Callable[[], Iterator[Tuple[torch.Tensor, ...]]]:
         # If the batch size is not the original one (most probably is !)
