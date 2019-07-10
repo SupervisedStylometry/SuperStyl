@@ -2,9 +2,10 @@ from builtins import sum
 from collections import Counter
 import nltk.tokenize
 import nltk
+import tqdm
 
 
-def count_words(text, feat_list=None, feats = "words", n = 1, relFreqs = False):
+def count_words(text, feat_list=None, feats="words", n=1, relFreqs = False):
     """
     Get word counts from  a text
     :param text: the source text
@@ -46,7 +47,7 @@ def count_words(text, feat_list=None, feats = "words", n = 1, relFreqs = False):
     return counts
 
 
-def get_feature_list(myTexts, feats="words", n=1, relFreqs=True):
+def get_feature_list(myTexts, feats="words", n=1, relFreqs=True, keys_only=False):
     """
 
     :param myTexts: a 'myTexts' object, containing documents to be processed
@@ -56,10 +57,13 @@ def get_feature_list(myTexts, feats="words", n=1, relFreqs=True):
     """
     my_feats = Counter()
 
-    for text in myTexts:
+    for text in tqdm.tqdm(myTexts):
         counts = count_words(text["text"], feats=feats, n=n, relFreqs=relFreqs)
 
         my_feats.update(counts)
+
+    if keys_only:
+        return list(my_feats.keys())
 
     # sort them
 
