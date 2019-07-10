@@ -14,6 +14,7 @@ if __name__ == "__main__":
     parser.add_argument('--kernel', action='store',
                         help="type of kernel to use (default LinearSVC; possible alternatives, linear, polynomial, rbf, sigmoid)",
                         default="LinearSVC", choices=['LinearSVC', 'linear', 'polynomial', 'rbf', 'sigmoid'], type=str)
+    parser.add_argument('--final', action='store_true', help="final analysis on unknown dataset (no evaluation)?", default=False)
     args = parser.parse_args()
 
     # path = "data/feats_tests_train.csv"
@@ -22,6 +23,7 @@ if __name__ == "__main__":
     train = pandas.read_csv(args.train_path, index_col=0)
     test = pandas.read_csv(args.test_path, index_col=0)
 
-    svm = jagen_will.svm.train_svm(train, test, withPca=args.pca, norms=args.norms, kernel=args.kernel)
+    svm = jagen_will.svm.train_svm(train, test, withPca=args.pca, norms=args.norms,
+                                   kernel=args.kernel, final_pred=args.final)
 
     joblib.dump(svm, 'mySVM.joblib')

@@ -4,7 +4,7 @@ import sklearn.decomposition as decomp
 import sklearn.preprocessing as preproc
 import pandas
 
-def train_svm(train, test, withPca=False, norms=False, kernel="LinearSVC"):
+def train_svm(train, test, withPca=False, norms=False, kernel="LinearSVC", final_pred=False):
     """
     Function to train svm
     :param train: train data... (in panda dataframe)
@@ -18,6 +18,7 @@ def train_svm(train, test, withPca=False, norms=False, kernel="LinearSVC"):
 
     classes_test = list(test.loc[:, 'author'])
     test = test.drop(['author', 'lang'], axis=1)
+    preds_index = list(test.index)
 
     if norms:
         # Z-scores
@@ -83,14 +84,18 @@ def train_svm(train, test, withPca=False, norms=False, kernel="LinearSVC"):
     print(".......... testing SVM ........")
     preds = classif.predict(test)
 
-    unique_labels = set(classes + classes_test)
-    unique_labels = list(unique_labels)
+    if final_pred:
+        pandas.DataFrame(data={'filename': preds_index, 'author': list(preds)}).to_csv("FINAL_PREDICTIONS.csv")
 
-    pandas.DataFrame(metrics.confusion_matrix(classes_test, preds, labels=unique_labels),
-                           index=['true:{:}'.format(x) for x in unique_labels],
-                           columns=['pred:{:}'.format(x) for x in unique_labels]).to_csv("confusion_matrix.csv")
+    else:
+        unique_labels = set(classes + classes_test)
+        unique_labels = list(unique_labels)
 
-    print(metrics.classification_report(classes_test, preds))
-    #print(metrics.accuracy_score(classes_test, preds))
+        pandas.DataFrame(metrics.confusion_matrix(classes_test, preds, labels=unique_labels),
+                               index=['true:{:}'.format(x) for x in unique_labels],
+                               columns=['pred:{:}'.format(x) for x in unique_labels]).to_csv("confusion_matrix.csv")
+
+        print(metrics.classification_report(classes_test, preds))
+        #print(metrics.accuracy_score(classes_test, preds))
 
     return classif
