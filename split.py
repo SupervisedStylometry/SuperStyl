@@ -12,16 +12,25 @@ if __name__ == '__main__':
                         default=False)
     parser.add_argument('-m', action="store", help="path to metadata file", required=False)
     parser.add_argument('-e', action="store", help="path to excludes file", required=False)
+    parser.add_argument('--nosplit', action="store_true", help="no split (do not provide split file)", default=False)
     args = parser.parse_args()
 
-    if not args.s:
-        # to create initial selection
-        sel.read_clean_split(path=args.path,
-                         metadata_path=args.m,
-                         excludes_path=args.e,
-                         savesplit="split.json"
-                         )
-
+    if args.nosplit:
+        sel.read_clean(path=args.path,
+                             metadata_path=args.m,
+                             excludes_path=args.e,
+                             savesplit="split.json"
+                             )
     else:
-        # to load and apply a selection
-        sel.apply_selection(path=args.path, presplit_path=args.s)
+
+        if not args.s:
+            # to create initial selection
+            sel.read_clean_split(path=args.path,
+                             metadata_path=args.m,
+                             excludes_path=args.e,
+                             savesplit="split.json"
+                             )
+
+        else:
+            # to load and apply a selection
+            sel.apply_selection(path=args.path, presplit_path=args.s)
