@@ -27,10 +27,18 @@ def train_svm(train, test, withPca=False, norms=False):
         feat_stats.to_csv("feat_stats.csv")
 
         for col in list(train.columns):
-            train[col] = (train[col] - train[col].mean()) / train[col].std()
+            if not train[col].sum() == 0:
+                train[col] = (train[col] - train[col].mean()) / train[col].std()
 
-        for index,col in enumerate(test.columns):
-            test[:,index] = (test[:,index] - feat_stats[index,"mean"]) / feat_stats[index,"std"]
+        for index, col in enumerate(test.columns):
+            if not test.iloc[:, index].sum() == 0:
+                # keep same as train if possible
+                if not feat_stats.loc[index,"mean"] == 0 and not feat_stats.loc[index,"std"] == 0:
+                    test.iloc[:,index] = (test.iloc[:,index] - feat_stats.loc[index,"mean"]) / feat_stats.loc[index,"std"]
+
+                else:
+                    test.iloc[:, index] = (test.iloc[:, index] - test.iloc[:, index].mean()) / test.iloc[:, index].std()
+
 
 
     if withPca:
