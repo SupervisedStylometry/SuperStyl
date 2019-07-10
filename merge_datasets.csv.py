@@ -21,4 +21,4 @@ if __name__ == "__main__":
         else:
             out = pandas.concat([out, data], axis=1)
 
-    out = pandas.concat([out, metadata], axis=1).to_csv(args.o)
+    out = pandas.concat([metadata, out], axis=1).to_csv(args.o)
