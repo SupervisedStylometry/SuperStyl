@@ -55,7 +55,7 @@ if __name__ == '__main__':
     if not args.f:
         my_feats = fex.get_feature_list(myTexts, feats=args.t, n=args.n, relFreqs=True)
         if args.k > len(my_feats):
-            print("K Limit ignore because the size of the list is lower ({} < {})".format(len(my_feats), args.k))
+            print("K Limit ignored because the size of the list is lower ({} < {})".format(len(my_feats), args.k))
         else:
             # and now, cut at around rank k
             val = my_feats[args.k][1]
