@@ -13,7 +13,7 @@ if __name__ == "__main__":
     parser.add_argument('-norms', action='store_true', help="perform normalisations?", default=False)
     parser.add_argument('--kernel', action='store',
                         help="type of kernel to use (default LinearSVC; possible alternatives, linear, polynomial, rbf, sigmoid)",
-                        default="LinearSVC", choices=['LinearSVC', 'linear', 'polynomial', 'rbf', 'sigmoid'])
+                        default="LinearSVC", choices=['LinearSVC', 'linear', 'polynomial', 'rbf', 'sigmoid'], type=str)
     args = parser.parse_args()
 
     # path = "data/feats_tests_train.csv"

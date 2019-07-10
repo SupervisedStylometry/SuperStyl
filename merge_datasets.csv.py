@@ -19,6 +19,7 @@ if __name__ == "__main__":
             out = data.drop(['author', 'lang'], axis=1)
 
         else:
+            data = data.drop(['author', 'lang'], axis=1)
             out = pandas.concat([out, data], axis=1)
 
     out = pandas.concat([metadata, out], axis=1).to_csv(args.o)
