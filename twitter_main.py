@@ -40,7 +40,7 @@ if __name__ == '__main__':
 
         # + 2 where 2 = pad + unk
         feat_map = dict(PAD=0, UNK=1, **{key: index+2 for index, key in enumerate(my_feats)})
-        with open(args.f, "w") as f:
+        with open("twitter_feats.json", "w") as f:
             json.dump(feat_map, f)
     else:
         with open(args.f) as f:
