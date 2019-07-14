@@ -9,7 +9,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('train_path', action='store', help="Path to train file", type=str)
     parser.add_argument('test_path', action='store', help="Path to test file", type=str)
-    parser.add_argument('-pca', action='store_true', help="use PCA for dimensionality reduction?", default=False)
+    parser.add_argument('--dim_reduc', action='store', choices=['pca', 'som'], help="optional dimensionality reduction of input data", default=None)
     parser.add_argument('-norms', action='store_true', help="perform normalisations?", default=False)
     parser.add_argument('--kernel', action='store',
                         help="type of kernel to use (default LinearSVC; possible alternatives, linear, polynomial, rbf, sigmoid)",
@@ -23,7 +23,7 @@ if __name__ == "__main__":
     train = pandas.read_csv(args.train_path, index_col=0)
     test = pandas.read_csv(args.test_path, index_col=0)
 
-    svm = jagen_will.svm.train_svm(train, test, withPca=args.pca, norms=args.norms,
+    svm = jagen_will.svm.train_svm(train, test, dim_reduc=args.dim_reduc, norms=args.norms,
                                    kernel=args.kernel, final_pred=args.final)
 
     joblib.dump(svm, 'mySVM.joblib')

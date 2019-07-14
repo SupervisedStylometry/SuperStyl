@@ -3,12 +3,14 @@ import sklearn.metrics as metrics
 import sklearn.decomposition as decomp
 import sklearn.preprocessing as preproc
 import pandas
+import minisom
 
-def train_svm(train, test, withPca=False, norms=False, kernel="LinearSVC", final_pred=False):
+def train_svm(train, test, dim_reduc=None, norms=False, kernel="LinearSVC", final_pred=False):
     """
     Function to train svm
     :param train: train data... (in panda dataframe)
     :param test: test data (itou)
+    :param dim_reduc: dimensionality reduction of input data. Implemented values are pca and som.
     :return: we'll see
     """
     print(".......... loading data ........")
@@ -52,15 +54,23 @@ def train_svm(train, test, withPca=False, norms=False, kernel="LinearSVC", final
         transformer = preproc.Normalizer().fit(test)
         test = transformer.transform(test)
 
-
-
-    if withPca:
+    if dim_reduc == 'pca':
         print(".......... performing PCA ........")
         pca = decomp.PCA(n_components=100)  # adjust yourself
         pca.fit(train)
         train = pca.transform(train)
         test = pca.transform(test)
 
+    if dim_reduc == 'som':
+        print(".......... training SOM ........")
+        som = minisom.MiniSom(50, 50, 5001, sigma=0.3, learning_rate=0.5)  # initialization of 50x50 SOM
+        # TODO: set robust defaults
+        som.train_random(train, 100)
+        # too long to compute
+        # som.quantization_error(train)
+        print(".......... assigning SOM coordinates to texts ........")
+        train = som.quantization(train)
+        test = som.quantization(test)
 
     print(".......... training SVM ........")
     # let's try a standard one: only with PCA, otherwise too hard
