@@ -10,6 +10,9 @@ cd willhelmus
 virtualenv -p python3.6 env
 source env/bin/activate
 pip install -r requirements.txt
+# And get the model for language prediction
+mkdir jagen_will/preproc/models
+wget https://dl.fbaipublicfiles.com/fasttext/supervised-models/lid.176.bin -P ./jagen_will/preproc/models/
 ```
 
 ### Train
@@ -32,7 +35,7 @@ pip install -r requirements.txt
 With or without preexisting feature list:
 
 ```bash
-python main.py -t chars -n 3 -c debug_authors.csv -k 5000 -s path/to/docs/*
+python main.py -t chars -n 3 -c debug_authors.csv [-p 1] -k 5000 -s path/to/docs/*
 # with it
 python main.py -f feature_list.json -t chars -n 3 -c debug_authors.csv -k 5000 -s meertens-song-collection-DH2019/train/*
 ```
@@ -54,9 +57,9 @@ python split.py feats_tests.csv -s split.json
 
 It's quite simple riilly,
 ```bash
-python train_svm.py path-to-train-data.csv path-to-test-data.csv
+python train_svm.py path-to-train-data.csv path-to-test-data.csv [--norms] [--dim_reduc None, 'pca', 'som'] [--kernel, 'LinearSVC', 'linear', 'polynomial', 'rbf', 'sigmoid'] [--final]
 # e.g.
-python train_svm.py data/feats_tests_train.csv data/feats_tests_valid.csv
+python train_svm.py data/feats_tests_train.csv data/feats_tests_valid.csv --norms --dim_reduc som
 ```
 
 PS: if you need to download `feats.csv`, it's here: https://mab.to/GY9CfiqcD (No it sucks).
