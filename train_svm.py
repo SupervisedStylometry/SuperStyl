@@ -20,7 +20,7 @@ if __name__ == "__main__":
     # path = "data/feats_tests_train.csv"
     # train_path = "data/feats_tests_realForTest.csv"
     # test_path = "data/feats_tests_valid_realForTest.csv"
-    print("........ loading data .......")
+    print(".......... loading data ........")
     train = pandas.read_csv(args.train_path, index_col=0)
     test = pandas.read_csv(args.test_path, index_col=0)
 
