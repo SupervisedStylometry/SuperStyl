@@ -21,5 +21,4 @@ def encode_texts(text, feat_map, n, feats="chars"):
         tokens = list(text["text"].replace(' ', '_'))
         if n > 1:
             tokens = ["".join(t) for t in list(nltk.ngrams(tokens, n))]
-
     return text, list([feat_map[ngram] for ngram in tokens])

@@ -59,6 +59,12 @@ python train_svm.py path-to-train-data.csv path-to-test-data.csv
 python train_svm.py data/feats_tests_train.csv data/feats_tests_valid.csv
 ```
 
+### Train Twitter
+
+```bash
+
+python train.py -f twitter_feats model_twitter.tar -l 1 -k 5,4,3 -d 0.5 -s 128
+```
 PS: if you need to download `feats.csv`, it's here: https://mab.to/GY9CfiqcD (No it sucks).
 
 - Fasttext model that way: https://fasttext.cc/docs/en/language-identification.html

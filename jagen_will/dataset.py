@@ -2,6 +2,7 @@ import logging
 import collections
 import random
 import csv
+import tqdm
 
 # DEEEP
 import torch.nn
@@ -17,7 +18,7 @@ DEVICE = utils.DEVICE
 
 
 def cast_to_int_fn(float_number: str) -> int:
-    return int(float(float_number) * 10000)
+    return int(float(float_number))
 
 
 class DatasetIterator:
@@ -41,6 +42,7 @@ class DatasetIterator:
         self.nb_features: int = 0
 
         self.cast_to_int = cast_to_int
+        self.max_size: int = 0
 
         self._setup()
 
@@ -65,9 +67,17 @@ class DatasetIterator:
         is gonna cut utf-8 chars in the middle
         """
         logging.info("DatasetIterator reading indexes of lines")
+
+        # We dont keep the dictionary here but it's fairly simple : the max value of X is the size of the dictionary +1
+        nb_features = 0
         with open(self.file, "r") as fio:
+
+            max_line = max(line_index for line_index, _ in enumerate(fio.readlines()))
+            fio.seek(0)
+
             reader = csv.reader(fio)
-            for line_index, line in enumerate(reader):
+
+            for line_index, line in tqdm.tqdm(enumerate(reader), total=max_line):
                 if not line or line_index == 0:
                     continue
                 try:
@@ -78,10 +88,13 @@ class DatasetIterator:
                 self.encoded.append(
                     GT_PAIR(x, y, line_index, fname)
                 )
+                nb_features = max([max(x), nb_features])
 
-        self.nb_features = len(self.encoded[-1].x)
+        self.nb_features = nb_features + 1
+        self.max_size = len(x)
 
         logging.info("DatasetIterator found {} lines in {}".format(len(self), self.file))
+        logging.info("DatasetIterator found {} features in {}".format(self.nb_features, self.file))
 
         # Get the number of batch for TQDM
         self.batch_count = len(self) // self.batch_size + bool(len(self) % self.batch_size)
@@ -101,12 +114,12 @@ class DatasetIterator:
         """
         if self.type != "test":
             self._class_encoder.record(aut)
-        #print(name, aut, lang, features)
+
         y = self._class_encoder.get_id(aut)
         xs = features
         if self.cast_to_int:
-            return list(map(cast_to_int_fn, xs)), [y], name
-        return list(map(int, xs)), [y], name
+            return list(map(int, xs)), [y], name
+        return list(map(float, xs)), [y], name
 
     def get_epoch(self, device: str = DEVICE, batch_size: int = 32, with_filename=False) -> Callable[[], Iterator[Tuple[torch.Tensor, ...]]]:
         # If the batch size is not the original one (most probably is !)

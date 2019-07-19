@@ -17,8 +17,7 @@ from typing import Dict, Any, Optional
 import tqdm
 
 # Local imports
-from jagen_will.models import GoodWillHunting, ConvEmbedding, LinearDecoder, \
-    ConvStraight, LSTMClassifier
+from jagen_will.models import GoodWillHunting, ConvEmbedding, LinearDecoder
 from jagen_will.dataset import DatasetIterator
 from jagen_will import utils
 
@@ -35,7 +34,8 @@ class WillHelmsDeep:
             classifier_class: str,
             classifier_params: Dict[str, Any],
             device: str = DEVICE,
-            classes_map: utils.Vocabulary = None
+            classes_map: utils.Vocabulary = None,
+            max_size: int = 0
     ):
         self._device: str = "cpu"
         self.nb_features = nb_features
@@ -51,18 +51,6 @@ class WillHelmsDeep:
         # Create the classes
         if encoder_class == "cnn_embedding":
             self.encoder = ConvEmbedding(
-                input_dim=nb_features,
-                device=self.device,
-                **encoder_params
-            )
-        elif encoder_class == "straight":
-            self.encoder = ConvStraight(
-                input_dim=nb_features,
-                device=self.device,
-                **encoder_params
-            )
-        elif encoder_class == "lstm":
-            self.encoder = LSTMClassifier(
                 input_dim=nb_features,
                 device=self.device,
                 **encoder_params
