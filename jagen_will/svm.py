@@ -3,15 +3,17 @@ import sklearn.metrics as metrics
 import sklearn.decomposition as decomp
 import sklearn.preprocessing as preproc
 import pandas
+import minisom
 
-def train_svm(train, test, withPca=False, norms=False, kernel="LinearSVC", final_pred=False):
+def train_svm(train, test, dim_reduc=None, norms=False, kernel="LinearSVC", final_pred=False):
     """
     Function to train svm
     :param train: train data... (in panda dataframe)
     :param test: test data (itou)
+    :param dim_reduc: dimensionality reduction of input data. Implemented values are pca and som.
     :return: we'll see
     """
-    print(".......... loading data ........")
+    print(".......... formatting data ........")
     # Save the classes
     classes = list(train.loc[:,'author'])
     train = train.drop(['author', 'lang'], axis=1)
@@ -20,28 +22,52 @@ def train_svm(train, test, withPca=False, norms=False, kernel="LinearSVC", final
     test = test.drop(['author', 'lang'], axis=1)
     preds_index = list(test.index)
 
+    nfeats = train.columns.__len__()
+    
+    if dim_reduc == 'pca':
+        print(".......... performing PCA ........")
+        pca = decomp.PCA(n_components=100)  # adjust yourself
+        pca.fit(train)
+        train = pca.transform(train)
+        test = pca.transform(test)
+
+    if dim_reduc == 'som':
+        print(".......... training SOM ........")
+        som = minisom.MiniSom(20, 20, nfeats, sigma=0.3, learning_rate=0.5)  # initialization of 50x50 SOM
+        # TODO: set robust defaults, and calculate number of columns automatically
+        som.train_random(train.values, 100)
+        # too long to compute
+        # som.quantization_error(train)
+        print(".......... assigning SOM coordinates to texts ........")
+        train = som.quantization(train.values)
+        test = som.quantization(test.values)
+    
     if norms:
         # Z-scores
         # TODO: me suis embeté à implémenter quelque chose qui existe
         # déjà via sklearn.preprocessing.StandardScaler()
         print(".......... performing normalisations ........")
-        feat_stats = pandas.DataFrame(columns=["mean", "std"])
-        feat_stats.loc[:, "mean"] = list(train.mean(axis=0))
-        feat_stats.loc[:, "std"] = list(train.std(axis=0))
-        feat_stats.to_csv("feat_stats.csv")
 
-        for col in list(train.columns):
-            if not train[col].sum() == 0:
-                train[col] = (train[col] - train[col].mean()) / train[col].std()
-
-        for index, col in enumerate(test.columns):
-            if not test.iloc[:, index].sum() == 0:
-                # keep same as train if possible
-                if not feat_stats.loc[index,"mean"] == 0 and not feat_stats.loc[index,"std"] == 0:
-                    test.iloc[:,index] = (test.iloc[:,index] - feat_stats.loc[index,"mean"]) / feat_stats.loc[index,"std"]
-
-                else:
-                    test.iloc[:, index] = (test.iloc[:, index] - test.iloc[:, index].mean()) / test.iloc[:, index].std()
+        scaler = preproc.StandardScaler().fit(train)
+        train = scaler.transform(train)
+        test = scaler.transform(test)
+        # feat_stats = pandas.DataFrame(columns=["mean", "std"])
+        # feat_stats.loc[:, "mean"] = list(train.mean(axis=0))
+        # feat_stats.loc[:, "std"] = list(train.std(axis=0))
+        # feat_stats.to_csv("feat_stats.csv")
+        #
+        # for col in list(train.columns):
+        #     if not train[col].sum() == 0:
+        #         train[col] = (train[col] - train[col].mean()) / train[col].std()
+        #
+        # for index, col in enumerate(test.columns):
+        #     if not test.iloc[:, index].sum() == 0:
+        #         # keep same as train if possible
+        #         if not feat_stats.loc[index,"mean"] == 0 and not feat_stats.loc[index,"std"] == 0:
+        #             test.iloc[:,index] = (test.iloc[:,index] - feat_stats.loc[index,"mean"]) / feat_stats.loc[index,"std"]
+        #
+        #         else:
+        #             test.iloc[:, index] = (test.iloc[:, index] - test.iloc[:, index].mean()) / test.iloc[:, index].std()
 
         # NB: je ne refais pas la meme erreur, et cette fois j'utilise le built-in
         # normalisation L2
@@ -51,16 +77,6 @@ def train_svm(train, test, withPca=False, norms=False, kernel="LinearSVC", final
         train = transformer.transform(train)
         transformer = preproc.Normalizer().fit(test)
         test = transformer.transform(test)
-
-
-
-    if withPca:
-        print(".......... performing PCA ........")
-        pca = decomp.PCA(n_components=100)  # adjust yourself
-        pca.fit(train)
-        train = pca.transform(train)
-        test = pca.transform(test)
-
 
     print(".......... training SVM ........")
     # let's try a standard one: only with PCA, otherwise too hard
