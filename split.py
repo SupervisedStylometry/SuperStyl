@@ -20,7 +20,8 @@ if __name__ == '__main__':
         sel.read_clean(path=args.path,
                              metadata_path=args.m,
                              excludes_path=args.e,
-                             savesplit="split_nosplit.json"
+                             savesplit="split_nosplit.json",
+                             lang=args.lang
                              )
     else:
 
