@@ -51,6 +51,7 @@ def XML_to_text(path, correct_aut=None):
 
         return aut, re.sub(r"\s+", " ", str(myxsl(my_doc)))
 
+
 def TXT_to_text(path, correct_aut=None):
     """
     Get main text from xml file
@@ -66,8 +67,6 @@ def TXT_to_text(path, correct_aut=None):
     aut = path.split('/')[-1].split("_")[0]
 
     return aut, re.sub(r"\s+", " ", str(txt))
-
-
 
 
 def identify_lang(string, model):
@@ -88,12 +87,13 @@ def normalise(text):
     return unidecode.unidecode(re.sub(r"\s+", " ", re.sub(r"[\W0-9]+", " ", text.lower()).strip()))
 
 
-def load_texts(paths, fasttext_model, format=txt, correct_aut=None):
+def load_texts(paths, fasttext_model, format="txt", correct_aut=None):
     """
     Loads a collection of documents into a 'myTexts' object for further processing.
     TODO: a proper class
     :param paths: path to docs
     :param fasttext_model: model for language identification
+    :param format: format of the source files (implemented values: txt [default], xml)
     :param correct_aut: optional data frame of metadata correction (authors)
     :return: a myTexts object
     """
@@ -108,7 +108,7 @@ def load_texts(paths, fasttext_model, format=txt, correct_aut=None):
             aut, text = XML_to_text(path, correct_aut=correct_aut)
 
         else:
-            aut, text = TXT_to_text(path) #implement correct_aut
+            aut, text = TXT_to_text(path)  # implement correct_aut
 
         lang, cert = identify_lang(text, fasttext_model)
         lang = lang[0].replace("__label__", "")
