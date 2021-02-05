@@ -30,7 +30,7 @@ if __name__ == '__main__':
                              metadata_path=args.m,
                              excludes_path=args.e,
                              savesplit="split.json",
-                             lang=args.langs
+                             lang=args.lang
                              )
 
         else:
