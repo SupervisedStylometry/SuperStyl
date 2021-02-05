@@ -34,6 +34,7 @@ if __name__ == '__main__':
     parser.add_argument('-k', action='store', help="How many most frequent?", default=5000, type=int)
     parser.add_argument('--z_scores', action='store_true', help="Use z-scores?", default=False)
     parser.add_argument('-s', nargs='+', help="paths to files")
+    parser.add_argument('-x', action='store', help="format (txt or xml)", default="txt")
     args = parser.parse_args()
 
     model = fasttext.load_model("jagen_will/preproc/models/lid.176.bin")
@@ -45,10 +46,10 @@ if __name__ == '__main__':
         correct_aut = pandas.read_csv(args.c)
         # a bit hacky. Improve later
         correct_aut.index = list(correct_aut.loc[:, "Original"])
-        myTexts = tuy.load_texts(args.s, model, correct_aut=correct_aut)
+        myTexts = tuy.load_texts(args.s, model, format=args.x, correct_aut=correct_aut)
 
     else:
-        myTexts = tuy.load_texts(args.s, model)
+        myTexts = tuy.load_texts(args.s, model, format=args.x)
 
     print(".......getting features.......")
 
