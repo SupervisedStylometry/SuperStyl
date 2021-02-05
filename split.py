@@ -12,6 +12,7 @@ if __name__ == '__main__':
                         default=False)
     parser.add_argument('-m', action="store", help="path to metadata file", required=False)
     parser.add_argument('-e', action="store", help="path to excludes file", required=False)
+    parser.add_argument('--lang', action="store", help="analyse only file in this language (optional, for initial split only)", required=False)
     parser.add_argument('--nosplit', action="store_true", help="no split (do not provide split file)", default=False)
     args = parser.parse_args()
 
@@ -28,7 +29,8 @@ if __name__ == '__main__':
             sel.read_clean_split(path=args.path,
                              metadata_path=args.m,
                              excludes_path=args.e,
-                             savesplit="split.json"
+                             savesplit="split.json",
+                             lang=args.langs
                              )
 
         else:
