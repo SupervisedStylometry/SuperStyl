@@ -9,9 +9,9 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('train_path', action='store', help="Path to train file", type=str)
     parser.add_argument('--test_path', action='store', help="Path to test file", type=str, required=False, default=None)
-    parser.add_argument('--leave_one_out', action='store', help="perform leave-one-out cross validation (test_path will be used only for final prediction)", default=False)
+    parser.add_argument('--leave_one_out', action='store_true', help="perform leave-one-out cross validation (test_path will be used only for final prediction)", default=False)
     parser.add_argument('--dim_reduc', action='store', choices=['pca', 'som'], help="optional dimensionality reduction of input data", default=None)
-    parser.add_argument('--norms', action='store_true', help="perform normalisations?", default=False)
+    parser.add_argument('--norms', action='store_true', help="perform normalisations?", default=True)
     parser.add_argument('--kernel', action='store',
                         help="type of kernel to use (default LinearSVC; possible alternatives, linear, polynomial, rbf, sigmoid)",
                         default="LinearSVC", choices=['LinearSVC', 'linear', 'polynomial', 'rbf', 'sigmoid'], type=str)

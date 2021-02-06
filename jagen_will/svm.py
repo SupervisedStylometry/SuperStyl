@@ -20,7 +20,7 @@ def train_svm(train, test, leave_one_out=False, dim_reduc=None, norms=True, kern
     :param kernel: kernel for SVM
     :param final_pred: do the final predictions?
     :return: returns a pipeline with a fitted svm model, and if possible prints evaluation and writes to disk:
-    confusion_matrix.csv and (if required) FINAL_PREDICTIONS.csv
+    confusion_matrix.csv, misattributions.csv and (if required) FINAL_PREDICTIONS.csv
     """
 
     print(".......... Formatting data ........")
@@ -41,11 +41,8 @@ def train_svm(train, test, leave_one_out=False, dim_reduc=None, norms=True, kern
 
     if dim_reduc == 'pca':
         print(".......... using PCA ........")
-        estimators.append(('dim_reduc', decomp.PCA(n_components=100)))  # TODO: chose better the n components
-        # pca = decomp.PCA(n_components=100)  # adjust yourself
-        # pca.fit(train)
-        # train = pca.transform(train)
-        # test = pca.transform(test)
+        estimators.append(('dim_reduc', decomp.PCA()))  # chosen with default
+        # wich is: n_components = min(n_samples, n_features)
 
     if dim_reduc == 'som':
         print(".......... using SOM ........")  # TODO: fix SOM
@@ -145,6 +142,10 @@ def train_svm(train, test, leave_one_out=False, dim_reduc=None, norms=True, kern
                          columns=['pred:{:}'.format(x) for x in unique_labels]).to_csv("confusion_matrix.csv")
 
         print(metrics.classification_report(classes, preds))
+        # writing misattributions
+        pandas.DataFrame([i for i in zip(list(train.index), list(classes), list(preds)) if i[1] != i[2] ],
+                         columns=["id", "True", "Pred"]
+                         ).set_index('id').to_csv("misattributions.csv")
 
         # and now making the model for final preds after leave one out if necessary
         if final_pred:
