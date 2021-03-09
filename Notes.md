@@ -1,16 +1,3 @@
-
-Pipelines steps:
-
-- language identification;
-    -> penses-tu qu'on aurait des textes mixtes? 
-    
-- n. words -> threshold?
-- n. writers (how to deal with co-authoriality);
-- 
-
-
-
-
 ## FastText
 
 If you use these models, please cite the following papers:
