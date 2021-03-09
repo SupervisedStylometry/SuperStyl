@@ -32,7 +32,7 @@ if __name__ == '__main__':
     parser.add_argument('-p', action='store', help="Processes to use (default 1)", default=1, type=int)
     parser.add_argument('-c', action='store', help="Path to file with metadata corrections", default=None, type=str)
     parser.add_argument('-k', action='store', help="How many most frequent?", default=5000, type=int)
-    parser.add_argument('--z_scores', action='store_true', help="Use z-scores?", default=False)
+    parser.add_argument('--z_scores', action='store_true', help="Use z-scores?", default=False) # TODO: remove this as already covered in model training?
     parser.add_argument('-s', nargs='+', help="paths to files")
     parser.add_argument('-x', action='store', help="format (txt or xml)", default="txt")
     args = parser.parse_args()
