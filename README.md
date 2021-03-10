@@ -15,20 +15,15 @@ mkdir jagen_will/preproc/models
 wget https://dl.fbaipublicfiles.com/fasttext/supervised-models/lid.176.bin -P ./jagen_will/preproc/models/
 ```
 
-### Train
+## Workflow
+
+FIXME: look inside the scripts, or do
 
 ```bash
-
+python main.py --help
 ```
 
-### Test
-
-```bash
-
-```
-
-
-## If you are here, you already know.
+for full documentation on the CLI.
 
 ### Get feats
 
@@ -55,14 +50,9 @@ python split.py feats_tests.csv -s split.json
 
 ### Train svm
 
-It's quite simple riilly,
+It's quite simple really,
 ```bash
 python train_svm.py path-to-train-data.csv path-to-test-data.csv [--norms] [--dim_reduc None, 'pca', 'som'] [--kernel, 'LinearSVC', 'linear', 'polynomial', 'rbf', 'sigmoid'] [--final]
 # e.g.
 python train_svm.py data/feats_tests_train.csv data/feats_tests_valid.csv --norms --dim_reduc som
 ```
-
-PS: if you need to download `feats.csv`, it's here: https://mab.to/GY9CfiqcD (No it sucks).
-
-- Fasttext model that way: https://fasttext.cc/docs/en/language-identification.html
-
