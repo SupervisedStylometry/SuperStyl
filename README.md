@@ -15,20 +15,15 @@ mkdir jagen_will/preproc/models
 wget https://dl.fbaipublicfiles.com/fasttext/supervised-models/lid.176.bin -P ./jagen_will/preproc/models/
 ```
 
-### Train
+## Workflow
+
+FIXME: look inside the scripts, or do
 
 ```bash
-
+python main.py --help
 ```
 
-### Test
-
-```bash
-
-```
-
-
-## If you are here, you already know.
+for full documentation on the CLI.
 
 ### Get feats
 
@@ -55,14 +50,40 @@ python split.py feats_tests.csv -s split.json
 
 ### Train svm
 
-It's quite simple riilly,
+It's quite simple really,
 ```bash
 python train_svm.py path-to-train-data.csv path-to-test-data.csv [--norms] [--dim_reduc None, 'pca', 'som'] [--kernel, 'LinearSVC', 'linear', 'polynomial', 'rbf', 'sigmoid'] [--final]
 # e.g.
 python train_svm.py data/feats_tests_train.csv data/feats_tests_valid.csv --norms --dim_reduc som
 ```
 
-PS: if you need to download `feats.csv`, it's here: https://mab.to/GY9CfiqcD (No it sucks).
 
-- Fasttext model that way: https://fasttext.cc/docs/en/language-identification.html
+## Sources
+
+### FastText models
+
+## FastText
+
+If you use these models, please cite the following papers:
+
+[1] A. Joulin, E. Grave, P. Bojanowski, T. Mikolov, Bag of Tricks for Efficient Text Classification
+
+@article{joulin2016bag,
+  title={Bag of Tricks for Efficient Text Classification},
+  author={Joulin, Armand and Grave, Edouard and Bojanowski, Piotr and Mikolov, Tomas},
+  journal={arXiv preprint arXiv:1607.01759},
+  year={2016}
+}
+
+[2] A. Joulin, E. Grave, P. Bojanowski, M. Douze, H. Jégou, T. Mikolov, FastText.zip: Compressing text classification models
+
+@article{joulin2016fasttext,
+  title={FastText.zip: Compressing text classification models},
+  author={Joulin, Armand and Grave, Edouard and Bojanowski, Piotr and Douze, Matthijs and J{\'e}gou, H{\'e}rve and Mikolov, Tomas},
+  journal={arXiv preprint arXiv:1612.03651},
+  year={2016}
+}
+
+
+
 
