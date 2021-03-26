@@ -16,3 +16,5 @@ feature*.json
 full_feats*.csv
 mySVM.joblib
 .DS_Store
+.ipynb_checkpoints
+.ipynb_checkpoints/*
