@@ -1,19 +1,35 @@
-## How to use
+# SUPERvised STYLometry
 
-You will need python3.6, virtualenv and pip
+## Installing
 
-### Install
+You will need python3.6 or later, virtualenv and pip
 
 ```bash
-git clone https://github.com/Jean-Baptiste-Camps/willhelmus.git
-cd willhelmus
-virtualenv -p python3.6 env
+git clone https://github.com/SupervisedStylometry/SuperStyl.git
+cd SuperStyl
+virtualenv -p python3.7 env
 source env/bin/activate
 pip install -r requirements.txt
 # And get the model for language prediction
 mkdir jagen_will/preproc/models
 wget https://dl.fbaipublicfiles.com/fasttext/supervised-models/lid.176.bin -P ./jagen_will/preproc/models/
 ```
+
+## /!\ DHAI training particulars -- to use the notebooks !
+
+Install a Jupyter Notebook environnement
+
+```bash
+pip install -r requirements_extra.txt
+```
+
+then run 
+```bash
+jupyter notebook
+```
+
+The notebook files gives you a taste of what can be done using stylometric methods, and, in the end, some of the functions coded here.
+
 
 ## Workflow
 
@@ -34,7 +50,6 @@ python main.py -t chars -n 3 -c debug_authors.csv [-p 1] -k 5000 -s path/to/docs
 # with it
 python main.py -f feature_list.json -t chars -n 3 -c debug_authors.csv -k 5000 -s meertens-song-collection-DH2019/train/*
 ```
-
 
 ### Do the split
 
