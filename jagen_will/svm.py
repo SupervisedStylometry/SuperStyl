@@ -169,6 +169,7 @@ def train_svm(train, test, leave_one_out=False, dim_reduc=None, norms=True, kern
 
     # AND NOW, we need to evaluate or create the final predictions
     if final_pred:
+        print(".......... Writing final predictions to FINAL_PREDICTIONS.csv ........")
         pandas.DataFrame(data={'filename': preds_index, 'author': list(preds)}).to_csv("FINAL_PREDICTIONS.csv")
 
     return pipe
