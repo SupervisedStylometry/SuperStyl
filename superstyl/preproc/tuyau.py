@@ -2,7 +2,7 @@ from lxml import etree
 import re
 import fasttext
 import unidecode
-
+import glob
 
 def XML_to_text(path, correct_aut=None):
     """
@@ -132,4 +132,87 @@ def load_texts(paths, fasttext_model, format="txt", correct_aut=None):
     # with open("lang_certs.csv", 'w') as out:
     #    for line in langCerts:
     #        out.write("{}\t{}\t{}\t\n".format(line[0], line[1], float(line[2])))
+    return myTexts
+
+
+# Load and split in samples of length -n- a collection of files
+def get_samples(path, size, step=None, units="verses", feature="tokens", format="tei"):
+    """
+    Take samples of n words or verses from a document, and then parse it.
+    ONLY IMPLEMENTED FOR NOW: XML/TEI and verses as units
+    :param path : path to file
+    :param size: sample size
+    :param size: size of the step when sampling successively (determines overlap) default is the same
+    as sample size (i.e. no overlap)
+    :param units: the units to use, one of "words" or "verses"
+    :param feature: type of tokens to extract (default is tokens, not lemmas or POS)
+    :param format: type of document, one of full text, TEI or simple XML (ONLY TEI IMPLEMENTED)
+    """
+
+    if step is None:
+        step = size
+
+    if feature == "tokens" and units == "verses" and format == "tei":
+        myxsl = etree.XML('''<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:txm="http://textometrie.org/1.0" 
+    version="1.0">
+
+    <xsl:output method="text"/>
+
+    <xsl:template match="/">
+        <xsl:apply-templates select="descendant::tei:l"/>
+    </xsl:template>
+
+    <xsl:template match="tei:l">
+        <xsl:apply-templates select="descendant::tei:w[
+            not(txm:ana[@type='#frpos'] = 'NOMpro')
+            ]"/>
+        <xsl:text>&#xA;</xsl:text>
+    </xsl:template>
+
+    <xsl:template match="tei:w">
+        <xsl:text> </xsl:text>
+        <xsl:apply-templates select="txm:form"/>
+    </xsl:template>
+
+</xsl:stylesheet>''')
+        myxsl = etree.XSLT(myxsl)
+
+    with open(path, 'r') as f:
+        my_doc = etree.parse(f)
+
+    lines = str(myxsl(my_doc)).splitlines()
+
+    # and now generating output
+    samples = []
+    current = 0
+    while current + size <= len(lines):
+        samples.append({"start": current, "end": current + size, "text": list(lines[current:(current + size)])})
+        current = current + step
+
+    return samples
+
+
+def docs_to_samples(paths, size, step=None, units="verses", feature="tokens", format="tei"):
+    """
+    Loads a collection of documents into a 'myTexts' object for further processing BUT with samples !
+    :param paths: path to docs
+    :param size: sample size
+    :param size: size of the step when sampling successively (determines overlap) default is the same
+    as sample size (i.e. no overlap)
+    :param units: the units to use, one of "words" or "verses"
+    :param feature: type of tokens to extract (default is tokens, not lemmas or POS)
+    :param format: type of document, one of full text, TEI or simple XML (ONLY TEI IMPLEMENTED)
+    """
+    myTexts = []
+    for path in paths:
+        aut = path.split('/')[-1].split('_')[0]
+        lang = 'fr'  # POM POM POM
+        samples = get_samples(path, size=size, step=step, units=units, feature=feature, format=format)
+
+        for sample in samples:
+            name = path.split('/')[-1].split('_')[1] + 'v_' + str(sample["start"]) + "-" + str(sample["end"])
+            text = normalise(''.join(sample["text"]))
+            myTexts.append({"name": name, "aut": aut, "text": text, "lang": lang})
+
     return myTexts

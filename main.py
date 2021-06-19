@@ -1,8 +1,8 @@
 import sys
 import os
-import jagen_will.preproc.tuyau as tuy
-import jagen_will.preproc.features_extract as fex
-from jagen_will.preproc.text_count import count_process
+import superstyl.preproc.tuyau as tuy
+import superstyl.preproc.features_extract as fex
+from superstyl.preproc.text_count import count_process
 import fasttext
 import pandas
 import json
@@ -34,10 +34,14 @@ if __name__ == '__main__':
     parser.add_argument('-k', action='store', help="How many most frequent?", default=5000, type=int)
     parser.add_argument('--z_scores', action='store_true', help="Use z-scores?", default=False) # TODO: remove this as already covered in model training?
     parser.add_argument('-s', nargs='+', help="paths to files")
-    parser.add_argument('-x', action='store', help="format (txt or xml)", default="txt")
+    parser.add_argument('-x', action='store', help="format (txt, xml or tei)", default="txt")
+    parser.add_argument('--sampling', action='store_true', help="Sample the texts?", default=False)
+    parser.add_argument('--sample_units', action='store', help="Units of length for sampling (default: verses)", default="verses", type=str)
+    parser.add_argument('--sample_size', action='store', help="Size for sampling (default: 400)", default=400, type=int)
+    parser.add_argument('--sample_step', action='store', help="Step for sampling with overlap (default is no overlap)", default=None, type=int)
     args = parser.parse_args()
 
-    model = fasttext.load_model("jagen_will/preproc/models/lid.176.bin")
+    model = fasttext.load_model("superstyl/preproc/models/lid.176.bin")
 
     print(".......loading texts.......")
 
@@ -49,7 +53,12 @@ if __name__ == '__main__':
         myTexts = tuy.load_texts(args.s, model, format=args.x, correct_aut=correct_aut)
 
     else:
-        myTexts = tuy.load_texts(args.s, model, format=args.x)
+        if args.sampling:
+            myTexts = tuy.docs_to_samples(args.s, size=args.sample_size, step=args.sample_step,
+                                      units=args.sample_units, feature="tokens", format=args.x) #TODO: fastText model implementation
+
+        else:
+            myTexts = tuy.load_texts(args.s, model, format=args.x)
 
     print(".......getting features.......")
 

@@ -1,8 +1,8 @@
 import sys
 import os
-import jagen_will.preproc.tuyau as tuy
-import jagen_will.preproc.features_extract as fex
-from jagen_will.preproc.text_count import count_process
+import superstyl.preproc.tuyau as tuy
+import superstyl.preproc.features_extract as fex
+from superstyl.preproc.text_count import count_process
 import fasttext
 import pandas
 import json
@@ -36,7 +36,7 @@ if __name__ == '__main__':
     parser.add_argument('-s', nargs='+', help="paths to files")
     args = parser.parse_args()
 
-    model = fasttext.load_model("jagen_will/preproc/models/lid.176.bin")
+    model = fasttext.load_model("superstyl/preproc/models/lid.176.bin")
 
     print(".......loading texts.......")
 
