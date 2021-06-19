@@ -1,4 +1,4 @@
-import jagen_will.svm
+import superstyl.svm
 import pandas
 import joblib
 
@@ -30,7 +30,7 @@ if __name__ == "__main__":
     else:
         test = None
 
-    svm = jagen_will.svm.train_svm(train, test, leave_one_out=args.leave_one_out, dim_reduc=args.dim_reduc, norms=args.norms,
+    svm = superstyl.svm.train_svm(train, test, leave_one_out=args.leave_one_out, dim_reduc=args.dim_reduc, norms=args.norms,
                                    kernel=args.kernel, final_pred=args.final)
 
     joblib.dump(svm, 'mySVM.joblib')

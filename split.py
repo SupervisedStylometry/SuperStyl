@@ -1,4 +1,4 @@
-import jagen_will.preproc.select as sel
+import superstyl.preproc.select as sel
 
 
 if __name__ == '__main__':

@@ -11,8 +11,8 @@ virtualenv -p python3.7 env
 source env/bin/activate
 pip install -r requirements.txt
 # And get the model for language prediction
-mkdir jagen_will/preproc/models
-wget https://dl.fbaipublicfiles.com/fasttext/supervised-models/lid.176.bin -P ./jagen_will/preproc/models/
+mkdir superstyl/preproc/models
+wget https://dl.fbaipublicfiles.com/fasttext/supervised-models/lid.176.bin -P ./superstyl/preproc/models/
 ```
 
 ## /!\ DHAI training particulars -- to use the notebooks !
@@ -49,6 +49,13 @@ With or without preexisting feature list:
 python main.py -t chars -n 3 -c debug_authors.csv [-p 1] -k 5000 -s path/to/docs/*
 # with it
 python main.py -f feature_list.json -t chars -n 3 -c debug_authors.csv -k 5000 -s meertens-song-collection-DH2019/train/*
+```
+
+Alternatively, you can build samples out of the data, 
+for a given number of verses or words:
+
+```bash
+python main.py -s data/psyche/train/* -t chars -n 3 -x tei --sampling --sample_units verses --sample_size 400
 ```
 
 ### Do the split
