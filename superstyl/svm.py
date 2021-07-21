@@ -152,7 +152,7 @@ def train_svm(train, test, leave_one_out=False, dim_reduc=None, norms=True, kern
             print(".......... Training final SVM with all train set ........")
             pipe.fit(train, classes)
             preds = pipe.predict(test)
-            pandas.DataFrame(data={'filename': preds_index, 'author': list(preds)}).to_csv("FINAL_PREDICTIONS.csv")
+            #pandas.DataFrame(data={'filename': preds_index, 'author': list(preds)}).to_csv("FINAL_PREDICTIONS.csv") # already there lower
 
     # And now the simple case where there is only one svm to train
     else:
@@ -170,6 +170,13 @@ def train_svm(train, test, leave_one_out=False, dim_reduc=None, norms=True, kern
     # AND NOW, we need to evaluate or create the final predictions
     if final_pred:
         print(".......... Writing final predictions to FINAL_PREDICTIONS.csv ........")
-        pandas.DataFrame(data={'filename': preds_index, 'author': list(preds)}).to_csv("FINAL_PREDICTIONS.csv")
+        # Get the decision function too
+        myclasses = pipe.classes_
+        decs = pipe.decision_function(test)
+        dists = {}
+        for myclass in enumerate(myclasses):
+            dists[myclass[1]] = [d[myclass[0]] for d in decs]
+
+        pandas.DataFrame(data={**{'filename': preds_index, 'author': list(preds)}, **dists}).to_csv("FINAL_PREDICTIONS.csv")
 
     return pipe
