@@ -37,7 +37,10 @@ def count_words(text, feat_list=None, feats = "words", n = 1, relFreqs = False):
     if relFreqs:
         total = sum(counts.values())
         for t in counts.keys():
-            counts[t] = counts[t] / total
+            if counts[t] > 0:
+                counts[t] = counts[t] / total
+            else:
+                counts[t] = 0
 
     if feat_list:
         # and keep only the ones in the feature list

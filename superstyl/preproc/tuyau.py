@@ -1,8 +1,9 @@
 from lxml import etree
-import re
+import regex as re
 import fasttext
 import unidecode
 import glob
+import nltk.tokenize
 
 def XML_to_text(path, correct_aut=None):
     """
@@ -61,12 +62,13 @@ def TXT_to_text(path, correct_aut=None):
     """
 
     with open(path, 'r') as f:
+        #txt = [line.rstrip() for line in f if line.rstrip() != '']
         txt = f.readlines()
 
     # get author from filename (string before first _)
     aut = path.split('/')[-1].split("_")[0]
 
-    return aut, re.sub(r"\s+", " ", str(txt))
+    return aut, re.sub(r"\s+", " ", str(' '.join(txt)))
 
 
 def identify_lang(string, model):
@@ -80,14 +82,20 @@ def identify_lang(string, model):
     return model.predict(string)  # , k = 3)
 
 
-def normalise(text):
+def normalise(text, keep_punct = False):
     # Remove all but word chars, remove accents, and normalise space
     # and then normalise unicode
 
-    return unidecode.unidecode(re.sub(r"\s+", " ", re.sub(r"[\W0-9]+", " ", text.lower()).strip()))
+    if keep_punct:
+        out = unidecode.unidecode(re.sub(r"\s+", " ", re.sub(r"[^\p{L}\p{P}]+", " ", text.strip())))
+
+    else:
+        out = unidecode.unidecode(re.sub(r"\s+", " ", re.sub(r"[\W0-9]+", " ", text.lower()).strip()))
+
+    return out
 
 
-def load_texts(paths, fasttext_model, format="txt", correct_aut=None):
+def load_texts(paths, fasttext_model, format="txt", correct_aut=None, keep_punct=False):
     """
     Loads a collection of documents into a 'myTexts' object for further processing.
     TODO: a proper class
@@ -95,6 +103,7 @@ def load_texts(paths, fasttext_model, format="txt", correct_aut=None):
     :param fasttext_model: model for language identification
     :param format: format of the source files (implemented values: txt [default], xml)
     :param correct_aut: optional data frame of metadata correction (authors)
+    :param keep_punct: whether or not to keep punctuation and caps.
     :return: a myTexts object
     """
 
@@ -114,7 +123,7 @@ def load_texts(paths, fasttext_model, format="txt", correct_aut=None):
         lang = lang[0].replace("__label__", "")
 
         # Normalise text once and for all
-        text = normalise(text)
+        text = normalise(text, keep_punct=keep_punct)
 
         myTexts.append({"name": name, "aut": aut, "text": text, "lang": lang})
 
@@ -136,21 +145,26 @@ def load_texts(paths, fasttext_model, format="txt", correct_aut=None):
 
 
 # Load and split in samples of length -n- a collection of files
-def get_samples(path, size, step=None, units="verses", feature="tokens", format="tei"):
+def get_samples(path, size, step=None, units="verses", feature="tokens", format="tei", keep_punct=False):
     """
     Take samples of n words or verses from a document, and then parse it.
-    ONLY IMPLEMENTED FOR NOW: XML/TEI and verses as units
+    ONLY IMPLEMENTED FOR NOW: XML/TEI, TXT and verses or words as units
     :param path : path to file
     :param size: sample size
     :param size: size of the step when sampling successively (determines overlap) default is the same
     as sample size (i.e. no overlap)
     :param units: the units to use, one of "words" or "verses"
     :param feature: type of tokens to extract (default is tokens, not lemmas or POS)
-    :param format: type of document, one of full text, TEI or simple XML (ONLY TEI IMPLEMENTED)
+    :param format: type of document, one of full text, TEI or simple XML (ONLY TEI and TXT IMPLEMENTED)
     """
 
     if step is None:
         step = size
+
+    if feature == "tokens" and units == "words" and format == "txt":
+        my_doc = TXT_to_text(path)
+        text = normalise(my_doc[1], keep_punct=keep_punct)
+        units = nltk.tokenize.wordpunct_tokenize(text)
 
     if feature == "tokens" and units == "verses" and format == "tei":
         myxsl = etree.XML('''<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
@@ -178,22 +192,22 @@ def get_samples(path, size, step=None, units="verses", feature="tokens", format=
 </xsl:stylesheet>''')
         myxsl = etree.XSLT(myxsl)
 
-    with open(path, 'r') as f:
-        my_doc = etree.parse(f)
+        with open(path, 'r') as f:
+            my_doc = etree.parse(f)
 
-    lines = str(myxsl(my_doc)).splitlines()
+        units = str(myxsl(my_doc)).splitlines()
 
     # and now generating output
     samples = []
     current = 0
-    while current + size <= len(lines):
-        samples.append({"start": current, "end": current + size, "text": list(lines[current:(current + size)])})
+    while current + size <= len(units):
+        samples.append({"start": current, "end": current + size, "text": list(units[current:(current + size)])})
         current = current + step
 
     return samples
 
 
-def docs_to_samples(paths, size, step=None, units="verses", feature="tokens", format="tei"):
+def docs_to_samples(paths, size, step=None, units="verses", feature="tokens", format="tei", keep_punct=False):
     """
     Loads a collection of documents into a 'myTexts' object for further processing BUT with samples !
     :param paths: path to docs
@@ -202,17 +216,19 @@ def docs_to_samples(paths, size, step=None, units="verses", feature="tokens", fo
     as sample size (i.e. no overlap)
     :param units: the units to use, one of "words" or "verses"
     :param feature: type of tokens to extract (default is tokens, not lemmas or POS)
-    :param format: type of document, one of full text, TEI or simple XML (ONLY TEI IMPLEMENTED)
+    :param format: type of document, one of full text, TEI or simple XML (ONLY TEI and TXT IMPLEMENTED)
+    :param keep_punct: whether or not to keep punctuation and caps.
     """
     myTexts = []
     for path in paths:
         aut = path.split('/')[-1].split('_')[0]
         lang = 'fr'  # POM POM POM
-        samples = get_samples(path, size=size, step=step, units=units, feature=feature, format=format)
+        samples = get_samples(path, size=size, step=step, units=units, feature=feature, format=format,
+                              keep_punct=keep_punct)
 
         for sample in samples:
-            name = path.split('/')[-1].split('_')[1] + 'v_' + str(sample["start"]) + "-" + str(sample["end"])
-            text = normalise(''.join(sample["text"]))
+            name = path.split('/')[-1].split('_')[1] + '_' + str(sample["start"]) + "-" + str(sample["end"])
+            text = normalise(' '.join(sample["text"]), keep_punct=keep_punct)
             myTexts.append({"name": name, "aut": aut, "text": text, "lang": lang})
 
     return myTexts
