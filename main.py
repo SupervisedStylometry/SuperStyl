@@ -39,7 +39,12 @@ if __name__ == '__main__':
     parser.add_argument('--sample_units', action='store', help="Units of length for sampling (default: verses)", default="verses", type=str)
     parser.add_argument('--sample_size', action='store', help="Size for sampling (default: 400)", default=400, type=int)
     parser.add_argument('--sample_step', action='store', help="Step for sampling with overlap (default is no overlap)", default=None, type=int)
+    parser.add_argument('--max_samples', action='store', help="Maximum number of (randomly selected) samples per author (default is all) /!\ Only with sampling",
+                        default=None, type=int)
     parser.add_argument('--keep_punct', action='store_true', help="whether or not to keep punctuation and caps (default is False)",
+                        default=False)
+    parser.add_argument('--keep_sym', action='store_true',
+                        help="if true, no Unidecode, and numbers are kept as well (default is False)",
                         default=False)
     args = parser.parse_args()
 
@@ -52,16 +57,16 @@ if __name__ == '__main__':
         correct_aut = pandas.read_csv(args.c)
         # a bit hacky. Improve later
         correct_aut.index = list(correct_aut.loc[:, "Original"])
-        myTexts = tuy.load_texts(args.s, model, format=args.x, correct_aut=correct_aut, keep_punct=args.keep_punct)
+        myTexts = tuy.load_texts(args.s, model, format=args.x, correct_aut=correct_aut, keep_punct=args.keep_punct, keep_sym=args.keep_sym)
 
     else:
         if args.sampling:
             myTexts = tuy.docs_to_samples(args.s, size=args.sample_size, step=args.sample_step,
                                       units=args.sample_units, feature="tokens", format=args.x,
-                                          keep_punct=args.keep_punct) #TODO: fastText model implementation
+                                          keep_punct=args.keep_punct, keep_sym=args.keep_sym, max_samples=args.max_samples) #TODO: fastText model implementation
 
         else:
-            myTexts = tuy.load_texts(args.s, model, format=args.x, keep_punct=args.keep_punct)
+            myTexts = tuy.load_texts(args.s, model, format=args.x, keep_punct=args.keep_punct, keep_sym=args.keep_sym)
 
     print(".......getting features.......")
 

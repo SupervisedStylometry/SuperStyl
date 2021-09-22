@@ -126,7 +126,7 @@ def train_svm(train, test, leave_one_out=False, dim_reduc=None, norms=True, kern
         # 2. get prediction
         # 3. compute score: precision, recall, F1 for all categories
 
-        skmodel.cross_val_score(pipe, train, classes, cv=loo)
+        skmodel.cross_val_score(pipe, train, classes, cv=loo, verbose=1, n_jobs=-1)
 
         # Create the preds array
         preds = np.array([], dtype='<U9')

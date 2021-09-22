@@ -1,9 +1,12 @@
+from builtins import set
+
 from lxml import etree
 import regex as re
 import fasttext
 import unidecode
 import glob
 import nltk.tokenize
+import random
 
 def XML_to_text(path, correct_aut=None):
     """
@@ -82,12 +85,16 @@ def identify_lang(string, model):
     return model.predict(string)  # , k = 3)
 
 
-def normalise(text, keep_punct = False):
+def normalise(text, keep_punct = False, keep_sym=False):
     # Remove all but word chars, remove accents, and normalise space
     # and then normalise unicode
 
-    if keep_punct:
+    if keep_punct and not keep_sym:
         out = unidecode.unidecode(re.sub(r"\s+", " ", re.sub(r"[^\p{L}\p{P}]+", " ", text.strip())))
+
+    if keep_sym:
+        out = re.sub(r"\s+", " ", re.sub(r"[^\p{L}\p{P}\p{N}]+", " ", text.strip()))
+
 
     else:
         out = unidecode.unidecode(re.sub(r"\s+", " ", re.sub(r"[\W0-9]+", " ", text.lower()).strip()))
@@ -95,7 +102,7 @@ def normalise(text, keep_punct = False):
     return out
 
 
-def load_texts(paths, fasttext_model, format="txt", correct_aut=None, keep_punct=False):
+def load_texts(paths, fasttext_model, format="txt", correct_aut=None, keep_punct=False, keep_sym=False):
     """
     Loads a collection of documents into a 'myTexts' object for further processing.
     TODO: a proper class
@@ -104,6 +111,7 @@ def load_texts(paths, fasttext_model, format="txt", correct_aut=None, keep_punct
     :param format: format of the source files (implemented values: txt [default], xml)
     :param correct_aut: optional data frame of metadata correction (authors)
     :param keep_punct: whether or not to keep punctuation and caps.
+    :param keep_sym: whether or not to keep punctuation, caps, letter variants and numbers (no unidecode).
     :return: a myTexts object
     """
 
@@ -123,7 +131,7 @@ def load_texts(paths, fasttext_model, format="txt", correct_aut=None, keep_punct
         lang = lang[0].replace("__label__", "")
 
         # Normalise text once and for all
-        text = normalise(text, keep_punct=keep_punct)
+        text = normalise(text, keep_punct=keep_punct, keep_sym=keep_sym)
 
         myTexts.append({"name": name, "aut": aut, "text": text, "lang": lang})
 
@@ -145,7 +153,7 @@ def load_texts(paths, fasttext_model, format="txt", correct_aut=None, keep_punct
 
 
 # Load and split in samples of length -n- a collection of files
-def get_samples(path, size, step=None, units="verses", feature="tokens", format="tei", keep_punct=False):
+def get_samples(path, size, step=None, units="verses", feature="tokens", format="tei", keep_punct=False, keep_sym=False):
     """
     Take samples of n words or verses from a document, and then parse it.
     ONLY IMPLEMENTED FOR NOW: XML/TEI, TXT and verses or words as units
@@ -163,7 +171,7 @@ def get_samples(path, size, step=None, units="verses", feature="tokens", format=
 
     if feature == "tokens" and units == "words" and format == "txt":
         my_doc = TXT_to_text(path)
-        text = normalise(my_doc[1], keep_punct=keep_punct)
+        text = normalise(my_doc[1], keep_punct=keep_punct, keep_sym=keep_sym)
         units = nltk.tokenize.wordpunct_tokenize(text)
 
     if feature == "tokens" and units == "verses" and format == "tei":
@@ -207,7 +215,7 @@ def get_samples(path, size, step=None, units="verses", feature="tokens", format=
     return samples
 
 
-def docs_to_samples(paths, size, step=None, units="verses", feature="tokens", format="tei", keep_punct=False):
+def docs_to_samples(paths, size, step=None, units="verses", feature="tokens", format="tei", keep_punct=False, keep_sym=False, max_samples=None):
     """
     Loads a collection of documents into a 'myTexts' object for further processing BUT with samples !
     :param paths: path to docs
@@ -218,6 +226,7 @@ def docs_to_samples(paths, size, step=None, units="verses", feature="tokens", fo
     :param feature: type of tokens to extract (default is tokens, not lemmas or POS)
     :param format: type of document, one of full text, TEI or simple XML (ONLY TEI and TXT IMPLEMENTED)
     :param keep_punct: whether or not to keep punctuation and caps.
+    :param max_samples: maximum number of samples per author.
     """
     myTexts = []
     for path in paths:
@@ -228,7 +237,26 @@ def docs_to_samples(paths, size, step=None, units="verses", feature="tokens", fo
 
         for sample in samples:
             name = path.split('/')[-1].split('_')[1] + '_' + str(sample["start"]) + "-" + str(sample["end"])
-            text = normalise(' '.join(sample["text"]), keep_punct=keep_punct)
+            text = normalise(' '.join(sample["text"]), keep_punct=keep_punct, keep_sym=keep_sym)
             myTexts.append({"name": name, "aut": aut, "text": text, "lang": lang})
+
+    if max_samples is not None:
+        autsCounts = dict()
+        for text in myTexts:
+            if text['aut'] not in autsCounts.keys():
+                autsCounts[text['aut']] =1
+
+            else:
+                autsCounts[text['aut']] += 1
+
+            for autCount in autsCounts.items():
+                if autCount[1] > max_samples:
+                    # get random selection
+                    toBeSelected = [text for text in myTexts if text['aut'] is autCount[0]]
+                    toBeSelected = random.sample(toBeSelected, k=max_samples)
+                    # Great, now remove all texts from this author from our samples
+                    myTexts = [text for text in myTexts if text['aut'] is not autCount[0]]
+                    # and now concat
+                    myTexts = myTexts + toBeSelected
 
     return myTexts
