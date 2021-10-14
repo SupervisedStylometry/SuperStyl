@@ -15,31 +15,24 @@ mkdir superstyl/preproc/models
 wget https://dl.fbaipublicfiles.com/fasttext/supervised-models/lid.176.bin -P ./superstyl/preproc/models/
 ```
 
-## /!\ DHAI training particulars -- to use the notebooks !
-
-Install a Jupyter Notebook environnement
-
-```bash
-pip install -r requirements_extra.txt
-```
-
-then run 
-```bash
-jupyter notebook
-```
-
-The notebook files gives you a taste of what can be done using stylometric methods, and, in the end, some of the functions coded here.
-
-
 ## Workflow
 
 FIXME: look inside the scripts, or do
 
 ```bash
 python main.py --help
+python train_svm.py --help
 ```
 
-for full documentation on the CLI.
+for full documentation on the main functionnalities of the CLI, regarding data generation (`main.py`) and SVM training (`train_svm.py`).
+
+For more particular data processing usages (splitting and merging datasets), see also:
+
+```bash
+python split.py --help
+python merge_datasets.csv.py --help
+```
+
 
 ### Get feats
 
@@ -70,6 +63,9 @@ If you want to split according to existing json file,
 python split.py feats_tests.csv -s split.json
 ```
 
+Alternatively, you can choose to do not specific split, but to use a leave-one-out approach.
+
+
 ### Train svm
 
 It's quite simple really,
@@ -79,8 +75,14 @@ python train_svm.py path-to-train-data.csv path-to-test-data.csv [--norms] [--di
 python train_svm.py data/feats_tests_train.csv data/feats_tests_valid.csv --norms --dim_reduc som
 ```
 
-
 ## Sources
+
+## Cite this repository
+
+You can cite it using the CITATION.cff file (and Github cite functionnalities), following:
+
+@software{Camps_SUPERvised_STYLometry_SuperStyl_2021,author = {Camps, Jean-Baptiste},doi = {...},month = {...},title = {{SUPERvised STYLometry (SuperStyl)}},version = {...},year = {2021}}
+
 
 ### FastText models
 
