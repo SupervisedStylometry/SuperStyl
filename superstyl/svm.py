@@ -5,8 +5,8 @@ import sklearn.preprocessing as preproc
 import sklearn.pipeline as skp
 import sklearn.model_selection as skmodel
 import pandas
-import minisom
 import numpy as np
+import matplotlib.pyplot as plt
 
 
 def train_svm(train, test, leave_one_out=False, dim_reduc=None, norms=True, kernel="LinearSVC", final_pred=False):
@@ -21,6 +21,9 @@ def train_svm(train, test, leave_one_out=False, dim_reduc=None, norms=True, kern
     :param final_pred: do the final predictions?
     :return: returns a pipeline with a fitted svm model, and if possible prints evaluation and writes to disk:
     confusion_matrix.csv, misattributions.csv and (if required) FINAL_PREDICTIONS.csv
+    also write to the disk the 10 most important coefficient for each classifier, with
+    a plot
+    #TODO: add options to set the number of features, and control plotting
     """
 
     print(".......... Formatting data ........")
@@ -179,4 +182,30 @@ def train_svm(train, test, leave_one_out=False, dim_reduc=None, norms=True, kern
 
         pandas.DataFrame(data={**{'filename': preds_index, 'author': list(preds)}, **dists}).to_csv("FINAL_PREDICTIONS.csv")
 
+    # For “one-vs-rest” LinearSVC the attributes coef_ and intercept_ have the shape (n_classes, n_features) and
+    # (n_classes,) respectively.
+    # Each row of the coefficients corresponds to one of the n_classes “one-vs-rest” classifiers and similar for the
+    # intercepts, in the order of the “one” class.
+
+    for i in range(len(pipe.classes_)):
+        plot_coefficients(pipe.named_steps['model'].coef_[i], train.columns[2:], pipe.classes_[i])
+
     return pipe
+
+
+# Following function from Aneesha Bakharia
+# https://aneesha.medium.com/visualising-top-features-in-linear-svm-with-scikit-learn-and-matplotlib-3454ab18a14d
+
+def plot_coefficients(coefs, feature_names, current_class, top_features=10):
+    top_positive_coefficients = np.argsort(coefs)[-top_features:]
+    top_negative_coefficients = np.argsort(coefs)[:top_features]
+    top_coefficients = np.hstack([top_negative_coefficients, top_positive_coefficients])
+    # create plot
+    plt.figure(figsize=(15, 5))
+    colors = ['red' if c < 0 else 'blue' for c in coefs[top_coefficients]]
+    plt.bar(np.arange(2 * top_features), coefs[top_coefficients], color=colors)
+    feature_names = np.array(feature_names)
+    plt.xticks(np.arange(1, 1 + 2 * top_features), feature_names[top_coefficients], rotation=60, ha='right')
+    plt.title("Coefficients for "+current_class)
+    plt.savefig('coefs_' + current_class + '.png')
+    # TODO: write them to disk as CSV files
