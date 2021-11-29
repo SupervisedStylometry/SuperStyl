@@ -186,9 +186,15 @@ def train_svm(train, test, leave_one_out=False, dim_reduc=None, norms=True, kern
     # (n_classes,) respectively.
     # Each row of the coefficients corresponds to one of the n_classes “one-vs-rest” classifiers and similar for the
     # intercepts, in the order of the “one” class.
+    # Save coefficients for the last model
+    # TODO: decide how to proceed for leave-one-out
+    pandas.DataFrame(pipe.named_steps['model'].coef_,
+                     index=pipe.classes_,
+                     columns=train.columns).to_csv("coefficients.csv")
 
+    # TODO: optionalise coefs
     for i in range(len(pipe.classes_)):
-        plot_coefficients(pipe.named_steps['model'].coef_[i], train.columns[2:], pipe.classes_[i])
+        plot_coefficients(pipe.named_steps['model'].coef_[i], train.columns, pipe.classes_[i])
 
     return pipe
 
