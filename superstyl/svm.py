@@ -9,7 +9,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-def train_svm(train, test, leave_one_out=False, dim_reduc=None, norms=True, kernel="LinearSVC", final_pred=False):
+def train_svm(train, test, leave_one_out=False, dim_reduc=None, norms=True, kernel="LinearSVC", final_pred=False,
+              get_coefs=False):
     """
     Function to train svm
     :param train: train data... (in panda dataframe)
@@ -19,11 +20,9 @@ def train_svm(train, test, leave_one_out=False, dim_reduc=None, norms=True, kern
     :param norms: perform normalisations, i.e. z-scores and L2 (default True)
     :param kernel: kernel for SVM
     :param final_pred: do the final predictions?
+    :param get_coefs, if true, writes to disk (coefficients.csv) and plots the most important coefficients for each class
     :return: returns a pipeline with a fitted svm model, and if possible prints evaluation and writes to disk:
     confusion_matrix.csv, misattributions.csv and (if required) FINAL_PREDICTIONS.csv
-    also write to the disk the 10 most important coefficient for each classifier, with
-    a plot
-    #TODO: add options to set the number of features, and control plotting
     """
 
     print(".......... Formatting data ........")
@@ -129,14 +128,7 @@ def train_svm(train, test, leave_one_out=False, dim_reduc=None, norms=True, kern
         # 2. get prediction
         # 3. compute score: precision, recall, F1 for all categories
 
-        skmodel.cross_val_score(pipe, train, classes, cv=loo, verbose=1, n_jobs=-1)
-
-        # Create the preds array
-        preds = np.array([], dtype='<U9')
-        for train_index, test_index in loo.split(train):
-            # print(test_index)
-            pipe.fit(train.iloc[train_index, ], [classes[i] for i in list(train_index)])
-            preds = np.concatenate((preds, pipe.predict(train.iloc[test_index, ])))
+        preds = skmodel.cross_val_predict(pipe, train, classes, cv=loo, verbose=1, n_jobs=-1)
 
         # and now, leave one out evaluation (very small redundancy here, one line that could be stored elsewhere)
         unique_labels = list(set(classes))
@@ -151,11 +143,12 @@ def train_svm(train, test, leave_one_out=False, dim_reduc=None, norms=True, kern
                          ).set_index('id').to_csv("misattributions.csv")
 
         # and now making the model for final preds after leave one out if necessary
-        if final_pred:
+        if final_pred or get_coefs:
             print(".......... Training final SVM with all train set ........")
             pipe.fit(train, classes)
+
+        if final_pred:
             preds = pipe.predict(test)
-            #pandas.DataFrame(data={'filename': preds_index, 'author': list(preds)}).to_csv("FINAL_PREDICTIONS.csv") # already there lower
 
     # And now the simple case where there is only one svm to train
     else:
@@ -182,19 +175,19 @@ def train_svm(train, test, leave_one_out=False, dim_reduc=None, norms=True, kern
 
         pandas.DataFrame(data={**{'filename': preds_index, 'author': list(preds)}, **dists}).to_csv("FINAL_PREDICTIONS.csv")
 
-    # For “one-vs-rest” LinearSVC the attributes coef_ and intercept_ have the shape (n_classes, n_features) and
-    # (n_classes,) respectively.
-    # Each row of the coefficients corresponds to one of the n_classes “one-vs-rest” classifiers and similar for the
-    # intercepts, in the order of the “one” class.
-    # Save coefficients for the last model
-    # TODO: decide how to proceed for leave-one-out
-    pandas.DataFrame(pipe.named_steps['model'].coef_,
-                     index=pipe.classes_,
-                     columns=train.columns).to_csv("coefficients.csv")
+    if get_coefs:
+        # For “one-vs-rest” LinearSVC the attributes coef_ and intercept_ have the shape (n_classes, n_features) and
+        # (n_classes,) respectively.
+        # Each row of the coefficients corresponds to one of the n_classes “one-vs-rest” classifiers and similar for the
+        # intercepts, in the order of the “one” class.
+        # Save coefficients for the last model
+        pandas.DataFrame(pipe.named_steps['model'].coef_,
+                         index=pipe.classes_,
+                         columns=train.columns).to_csv("coefficients.csv")
 
-    # TODO: optionalise coefs
-    for i in range(len(pipe.classes_)):
-        plot_coefficients(pipe.named_steps['model'].coef_[i], train.columns, pipe.classes_[i])
+        # TODO: optionalise  the number of top_features… ?
+        for i in range(len(pipe.classes_)):
+            plot_coefficients(pipe.named_steps['model'].coef_[i], train.columns, pipe.classes_[i])
 
     return pipe
 
@@ -211,7 +204,7 @@ def plot_coefficients(coefs, feature_names, current_class, top_features=10):
     colors = ['red' if c < 0 else 'blue' for c in coefs[top_coefficients]]
     plt.bar(np.arange(2 * top_features), coefs[top_coefficients], color=colors)
     feature_names = np.array(feature_names)
-    plt.xticks(np.arange(1, 1 + 2 * top_features), feature_names[top_coefficients], rotation=60, ha='right')
+    plt.xticks(np.arange(0, 2 * top_features), feature_names[top_coefficients], rotation=60, ha='right')
     plt.title("Coefficients for "+current_class)
     plt.savefig('coefs_' + current_class + '.png')
     # TODO: write them to disk as CSV files

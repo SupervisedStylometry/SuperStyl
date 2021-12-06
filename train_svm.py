@@ -16,6 +16,8 @@ if __name__ == "__main__":
                         help="type of kernel to use (default LinearSVC; possible alternatives, linear, polynomial, rbf, sigmoid)",
                         default="LinearSVC", choices=['LinearSVC', 'linear', 'polynomial', 'rbf', 'sigmoid'], type=str)
     parser.add_argument('--final', action='store_true', help="final analysis on unknown dataset (no evaluation)?", default=False)
+    parser.add_argument('--get_coefs', action='store_true', help="switch to write to disk and plots the most important coefficients for the training feats for each class",
+                        default=False)
     args = parser.parse_args()
 
     # path = "data/feats_tests_train.csv"
@@ -31,6 +33,6 @@ if __name__ == "__main__":
         test = None
 
     svm = superstyl.svm.train_svm(train, test, leave_one_out=args.leave_one_out, dim_reduc=args.dim_reduc, norms=args.norms,
-                                   kernel=args.kernel, final_pred=args.final)
+                                   kernel=args.kernel, final_pred=args.final, get_coefs=args.get_coefs)
 
     joblib.dump(svm, 'mySVM.joblib')
