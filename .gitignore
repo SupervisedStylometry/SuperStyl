@@ -11,6 +11,7 @@ full_feats.csv
 /*.csv
 *.tar*
 *lock*
+coefs_*.png
 feature*.json
 full_feats*.csv
 mySVM.joblib
@@ -20,3 +21,7 @@ mySVM.joblib
 .ipynb_checkpoints/*
 *.ipynb_checkpoints*
 data
+*.json
+*.log
+*.txt
+*.bash
