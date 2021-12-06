@@ -9,7 +9,10 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('train_path', action='store', help="Path to train file", type=str)
     parser.add_argument('--test_path', action='store', help="Path to test file", type=str, required=False, default=None)
-    parser.add_argument('--leave_one_out', action='store_true', help="perform leave-one-out cross validation (test_path will be used only for final prediction)", default=False)
+    parser.add_argument('--cross_validate', action='store',
+                        help="perform cross validation (test_path will be used only for final prediction)",
+                        default=None, choices=['leave-one-out', 'k-fold'], type=str)
+    parser.add_argument('--k', action='store', help="k for k-fold", default=10, type=int)
     parser.add_argument('--dim_reduc', action='store', choices=['pca'], help="optional dimensionality reduction of input data (warn: som is broken)", default=None)
     parser.add_argument('--norms', action='store_true', help="perform normalisations?", default=True)
     parser.add_argument('--kernel', action='store',
@@ -32,7 +35,7 @@ if __name__ == "__main__":
     else:
         test = None
 
-    svm = superstyl.svm.train_svm(train, test, leave_one_out=args.leave_one_out, dim_reduc=args.dim_reduc, norms=args.norms,
+    svm = superstyl.svm.train_svm(train, test, cross_validate=args.cross_validate, k=args.k, dim_reduc=args.dim_reduc, norms=args.norms,
                                    kernel=args.kernel, final_pred=args.final, get_coefs=args.get_coefs)
 
     joblib.dump(svm, 'mySVM.joblib')
