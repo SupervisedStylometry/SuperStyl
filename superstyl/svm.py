@@ -7,10 +7,12 @@ import sklearn.model_selection as skmodel
 import pandas
 import numpy as np
 import matplotlib.pyplot as plt
+import imblearn.under_sampling as under
+import imblearn.over_sampling as over
+import imblearn.combine as comb
 
-
-def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True, kernel="LinearSVC", final_pred=False,
-              get_coefs=False):
+def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True, balance=False, kernel="LinearSVC",
+              final_pred=False, get_coefs=False):
     """
     Function to train svm
     :param train: train data... (in panda dataframe)
@@ -19,6 +21,8 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
     :param k: k parameter for k-fold cross validation
     :param dim_reduc: dimensionality reduction of input data. Implemented values are pca and som.
     :param norms: perform normalisations, i.e. z-scores and L2 (default True)
+    :param balance: adjust class weights to balance unbalanced datasets, with weights inversely proportional to class
+     frequencies in the input data as n_samples / (n_classes * np.bincount(y))
     :param kernel: kernel for SVM
     :param final_pred: do the final predictions?
     :param get_coefs, if true, writes to disk (coefficients.csv) and plots the most important coefficients for each class
@@ -37,6 +41,40 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
         preds_index = list(test.index)
 
     nfeats = train.columns.__len__()
+
+    #TODO: implement mixture of down and upsampling as SMOTE+Tomek or SMOTE+Edited NN Undersampling
+    #cf. machinelearningmastery.com/combine-oversampling-and-undersampling-for-imbalanced-classification
+    # https://github.com/scikit-learn-contrib/imbalanced-learn
+    # Tons of option, look up the best ones
+    cw = None
+    if balance == "class_weight":
+        cw = "balanced"
+
+    if balance == 'downsampling':
+        rus = under.RandomUnderSampler(random_state=42, replacement=False)
+        train, classes = rus.fit_resample(train, classes)
+
+    #if balance == 'ENN':
+    #    enn = under.EditedNearestNeighbours()
+    #    train, classes = enn.fit_resample(train, classes)
+
+    if balance == 'Tomek':
+        tl = under.TomekLinks()
+        train, classes = tl.fit_resample(train, classes)
+
+    #TODO: avoid upsampling BEFORE the leave-them-out of kfold
+    # should be done DURING
+    if balance == 'upsampling':
+        ros = over.RandomOverSampler(random_state=42)
+        train, classes = ros.fit_resample(train, classes)
+
+    if balance == 'SMOTE':
+        sm = over.SMOTE(random_state=42)
+        train, classes = sm.fit_resample(train, classes)
+
+    if balance == 'SMOTETomek':
+        smt = comb.SMOTETomek(random_state=42)
+        train, classes = smt.fit_resample(train, classes)
 
     # CREATING PIPELINE
     print(".......... Creating pipeline according to user choices ........")
@@ -74,11 +112,11 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
 
     if kernel == "LinearSVC":
         # try a faster one
-        estimators.append(('model', sk.LinearSVC()))
+        estimators.append(('model', sk.LinearSVC(class_weight=cw)))
         # classif = sk.LinearSVC()
 
     else:
-        estimators.append(('model', sk.SVC(kernel=kernel)))
+        estimators.append(('model', sk.SVC(kernel=kernel, class_weight=cw)))
         # classif = sk.SVC(kernel=kernel)
 
     print(".......... Creating pipeline with steps ........")
