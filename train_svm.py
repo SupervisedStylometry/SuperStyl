@@ -17,8 +17,7 @@ if __name__ == "__main__":
     parser.add_argument('--norms', action='store_true', help="perform normalisations?", default=True)
     parser.add_argument('--balance', action='store', choices=["class_weight", "downsampling", "Tomek", "upsampling", "SMOTE", "SMOTETomek"],
         help="which "
-            "strategy to use in case of unbalanced datasets: "
-            "class weights (inversely proportional to total class samples), "
+            "strategy to use in case of imbalanced datasets: "
             "downsampling (random without replacement), "
             "Tomek (downs. by removing Tomek links), "
 #            "ENN (EditedNearestNeighbours, downs. by removing samples close to the decision boundary), "                                                                                                                  
@@ -26,6 +25,11 @@ if __name__ == "__main__":
             "SMOTE (upsampling with SMOTE - Synthetic Minority Over-sampling Technique)"
             "SMOTETomek (over+undersampling with SMOTE+Tomek)",
                         default=None)
+    parser.add_argument('--class_weights', action='store_true', help="whether to use class weights in imbalanced "
+                                                                     "datasets (inversely proportional to total "
+                                                                     "class samples)",
+                        default=False
+                        )
     parser.add_argument('--kernel', action='store',
                         help="type of kernel to use (default LinearSVC; possible alternatives, linear, polynomial, rbf, sigmoid)",
                         default="LinearSVC", choices=['LinearSVC', 'linear', 'polynomial', 'rbf', 'sigmoid'], type=str)
@@ -47,7 +51,7 @@ if __name__ == "__main__":
         test = None
 
     svm = superstyl.svm.train_svm(train, test, cross_validate=args.cross_validate, k=args.k, dim_reduc=args.dim_reduc,
-                                  norms=args.norms, balance=args.balance,
+                                  norms=args.norms, balance=args.balance, class_weights=args.class_weights,
                                    kernel=args.kernel, final_pred=args.final, get_coefs=args.get_coefs)
 
     joblib.dump(svm, 'mySVM.joblib')
