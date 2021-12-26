@@ -10,8 +10,9 @@ import matplotlib.pyplot as plt
 import imblearn.under_sampling as under
 import imblearn.over_sampling as over
 import imblearn.combine as comb
+import imblearn.pipeline as imbp
 
-def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True, balance=False, kernel="LinearSVC",
+def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True, balance=False, class_weights=False, kernel="LinearSVC",
               final_pred=False, get_coefs=False):
     """
     Function to train svm
@@ -21,7 +22,8 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
     :param k: k parameter for k-fold cross validation
     :param dim_reduc: dimensionality reduction of input data. Implemented values are pca and som.
     :param norms: perform normalisations, i.e. z-scores and L2 (default True)
-    :param balance: adjust class weights to balance unbalanced datasets, with weights inversely proportional to class
+    :param balance: up/downsampling strategy to use in imbalanced datasets
+    :param class_weights: adjust class weights to balance imbalanced datasets, with weights inversely proportional to class
      frequencies in the input data as n_samples / (n_classes * np.bincount(y))
     :param kernel: kernel for SVM
     :param final_pred: do the final predictions?
@@ -29,6 +31,9 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
     :return: returns a pipeline with a fitted svm model, and if possible prints evaluation and writes to disk:
     confusion_matrix.csv, misattributions.csv and (if required) FINAL_PREDICTIONS.csv
     """
+    # TODO: fix n samples in SMOTE and SMOTETomek
+    # ValueError: Expected n_neighbors <= n_samples,  but n_samples = 5, n_neighbors = 6
+    #
 
     print(".......... Formatting data ........")
     # Save the classes
@@ -42,39 +47,9 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
 
     nfeats = train.columns.__len__()
 
-    #TODO: implement mixture of down and upsampling as SMOTE+Tomek or SMOTE+Edited NN Undersampling
-    #cf. machinelearningmastery.com/combine-oversampling-and-undersampling-for-imbalanced-classification
-    # https://github.com/scikit-learn-contrib/imbalanced-learn
-    # Tons of option, look up the best ones
     cw = None
-    if balance == "class_weight":
+    if class_weights:
         cw = "balanced"
-
-    if balance == 'downsampling':
-        rus = under.RandomUnderSampler(random_state=42, replacement=False)
-        train, classes = rus.fit_resample(train, classes)
-
-    #if balance == 'ENN':
-    #    enn = under.EditedNearestNeighbours()
-    #    train, classes = enn.fit_resample(train, classes)
-
-    if balance == 'Tomek':
-        tl = under.TomekLinks()
-        train, classes = tl.fit_resample(train, classes)
-
-    #TODO: avoid upsampling BEFORE the leave-them-out of kfold
-    # should be done DURING
-    if balance == 'upsampling':
-        ros = over.RandomOverSampler(random_state=42)
-        train, classes = ros.fit_resample(train, classes)
-
-    if balance == 'SMOTE':
-        sm = over.SMOTE(random_state=42)
-        train, classes = sm.fit_resample(train, classes)
-
-    if balance == 'SMOTETomek':
-        smt = comb.SMOTETomek(random_state=42)
-        train, classes = smt.fit_resample(train, classes)
 
     # CREATING PIPELINE
     print(".......... Creating pipeline according to user choices ........")
@@ -98,8 +73,6 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
 
     if norms:
         # Z-scores
-        # TODO: me suis embeté à implémenter quelque chose qui existe
-        # déjà via sklearn.preprocessing.StandardScaler()
         print(".......... using normalisations ........")
         estimators.append(('scaler', preproc.StandardScaler()))
         # NB: j'utilise le built-in
@@ -107,6 +80,32 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
         # cf. https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.Normalizer.html#sklearn.preprocessing.Normalizer
 
         estimators.append(('normalizer', preproc.Normalizer()))
+
+    if balance is not None:
+        # cf. machinelearningmastery.com/combine-oversampling-and-undersampling-for-imbalanced-classification
+        # https://github.com/scikit-learn-contrib/imbalanced-learn
+        # Tons of option, look up the best ones
+
+        print(".......... implementing strategy to solve imbalance in data ........")
+
+        if balance == 'downsampling':
+            estimators.append(('sampling', under.RandomUnderSampler(random_state=42, replacement=False)))
+
+        # if balance == 'ENN':
+        #    enn = under.EditedNearestNeighbours()
+        #    train, classes = enn.fit_resample(train, classes)
+
+        if balance == 'Tomek':
+            estimators.append(('sampling', under.TomekLinks()))
+
+        if balance == 'upsampling':
+            estimators.append(('sampling', over.RandomOverSampler(random_state=42)))
+
+        if balance == 'SMOTE':
+            estimators.append(('sampling', over.SMOTE(random_state=42)))
+
+        if balance == 'SMOTETomek':
+            estimators.append(('sampling', comb.SMOTETomek(random_state=42)))
 
     print(".......... choosing SVM ........")
 
@@ -121,7 +120,12 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
 
     print(".......... Creating pipeline with steps ........")
     print(estimators)
-    pipe = skp.Pipeline(estimators)
+
+    if 'sampling' in [k[0] for k in estimators]:
+        pipe = imbp.Pipeline(estimators)
+
+    else:
+        pipe = skp.Pipeline(estimators)
 
     # Now, doing leave one out validation or training single SVM with train / test split
 
