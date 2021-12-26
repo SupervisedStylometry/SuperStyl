@@ -7,7 +7,7 @@ You will need python3.6 or later, virtualenv and pip
 ```bash
 git clone https://github.com/SupervisedStylometry/SuperStyl.git
 cd SuperStyl
-virtualenv -p python3.7 env
+virtualenv -p python3.8 env
 source env/bin/activate
 pip install -r requirements.txt
 # And get the model for language prediction
