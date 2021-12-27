@@ -2,7 +2,7 @@
 
 ## Installing
 
-You will need python3.6 or later, virtualenv and pip
+You will need python3.8 or later, virtualenv and pip
 
 ```bash
 git clone https://github.com/SupervisedStylometry/SuperStyl.git
@@ -39,23 +39,31 @@ python merge_datasets.csv.py --help
 With or without preexisting feature list:
 
 ```bash
-python main.py -t chars -n 3 -c debug_authors.csv [-p 1] -k 5000 -s path/to/docs/*
+python main.py -s path/to/docs/* -t chars -n 3
 # with it
-python main.py -f feature_list.json -t chars -n 3 -c debug_authors.csv -k 5000 -s meertens-song-collection-DH2019/train/*
+python main.py -s path/to/docs/* -f feature_list.json -t chars -n 3
+# There are several other available options
+# See --help
 ```
 
 Alternatively, you can build samples out of the data, 
 for a given number of verses or words:
 
 ```bash
-python main.py -s data/psyche/train/* -t chars -n 3 -x tei --sampling --sample_units verses --sample_size 400
+# words from txt
+python main.py -s data/psyche/train/* -t chars -n 3 -x txt --sampling --sample_units words --sample_size 1000
+# verses from TEI encoded docs
+python main.py -s data/psyche/train/* -t chars -n 3 -x tei --sampling --sample_units verses --sample_size 200
 ```
 
-### Do the split
+### Optional: Do a fix split
+
+You can choose either choose to perform k-fold cross-validation (including leave-one-out), in which case
+this step is unnecessary. Or you can do a classical train/test random split.
 
 If you want to do initial random split,
 ```bash
-python split.py feats_tests.csv -m langcert_revised.csv -e wilhelmus_train.csv
+python split.py feats_tests.csv
 ```
 
 If you want to split according to existing json file,
@@ -63,17 +71,51 @@ If you want to split according to existing json file,
 python split.py feats_tests.csv -s split.json
 ```
 
-Alternatively, you can choose to do not specific split, but to use a leave-one-out approach.
+There are other available options, see `--help`, e.g.
+
+```bash
+python split.py feats_tests.csv -m langcert_revised.csv -e wilhelmus_train.csv
+```
 
 
 ### Train svm
 
 It's quite simple really,
+
 ```bash
-python train_svm.py path-to-train-data.csv path-to-test-data.csv [--norms] [--dim_reduc None, 'pca', 'som'] [--kernel, 'LinearSVC', 'linear', 'polynomial', 'rbf', 'sigmoid'] [--final]
-# e.g.
-python train_svm.py data/feats_tests_train.csv data/feats_tests_valid.csv --norms --dim_reduc som
+python train_svm.py path-to-train-data.csv [--test_path TEST_PATH] [--cross_validate {leave-one-out,k-fold}] [--k K] [--dim_reduc {pca}] [--norms] [--balance {class_weight,downsampling,Tomek,upsampling,SMOTE,SMOTETomek}] [--class_weights] [--kernel {LinearSVC,linear,polynomial,rbf,sigmoid}] [--final] [--get_coefs]
 ```
+
+For instance, using leave-one-out or 10-fold cross-validation
+
+```bash
+# e.g.
+python train_svm.py data/feats_tests_train.csv --norms --cross_validate leave-one-out
+python train_svm.py data/feats_tests_train.csv --norms --cross_validate k-fold --k 10
+```
+
+Or a train/test split
+
+```bash
+# e.g.
+python train_svm.py data/feats_tests_train.csv --test_path test_feats.csv --norms
+```
+
+And for a final analysis, applied on unseen data:
+
+```bash
+# e.g.
+python train_svm.py data/feats_tests_train.csv --test_path unseen.csv --norms --final
+```
+
+With a little more options,
+
+```bash
+# e.g.
+python train_svm.py data/feats_tests_train.csv --test_path unseen.csv --norms --class_weights --final --get_coefs
+```
+
+
 
 ## Sources
 
