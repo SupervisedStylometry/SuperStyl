@@ -56,7 +56,7 @@ python main.py -s data/psyche/train/* -t chars -n 3 -x txt --sampling --sample_u
 python main.py -s data/psyche/train/* -t chars -n 3 -x tei --sampling --sample_units verses --sample_size 200
 ```
 
-### Optional: Do a fix split
+### Optional: Do a fixed split
 
 You can choose either choose to perform k-fold cross-validation (including leave-one-out), in which case
 this step is unnecessary. Or you can do a classical train/test random split.
