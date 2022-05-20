@@ -32,11 +32,12 @@ if __name__ == '__main__':
     parser.add_argument('-p', action='store', help="Processes to use (default 1)", default=1, type=int)
     parser.add_argument('-c', action='store', help="Path to file with metadata corrections", default=None, type=str)
     parser.add_argument('-k', action='store', help="How many most frequent?", default=5000, type=int)
+    parser.add_argument('--absolute_freqs', action='store_true', help="switch to get absolute instead of relative freqs", default=False)
     parser.add_argument('--z_scores', action='store_true', help="Use z-scores?", default=False) # TODO: remove this as already covered in model training?
     parser.add_argument('-s', nargs='+', help="paths to files")
     parser.add_argument('-x', action='store', help="format (txt, xml or tei)", default="txt")
     parser.add_argument('--sampling', action='store_true', help="Sample the texts?", default=False)
-    parser.add_argument('--sample_units', action='store', help="Units of length for sampling (default: verses)", default="verses", type=str)
+    parser.add_argument('--sample_units', action='store', help="Units of length for sampling (words, verses; default: verses)", default="verses", type=str)
     parser.add_argument('--sample_size', action='store', help="Size for sampling (default: 400)", default=400, type=int)
     parser.add_argument('--sample_step', action='store', help="Step for sampling with overlap (default is no overlap)", default=None, type=int)
     parser.add_argument('--max_samples', action='store', help="Maximum number of (randomly selected) samples per author (default is all) /!\ Only with sampling",
@@ -71,7 +72,7 @@ if __name__ == '__main__':
     print(".......getting features.......")
 
     if not args.f:
-        my_feats = fex.get_feature_list(myTexts, feats=args.t, n=args.n, relFreqs=True)
+        my_feats = fex.get_feature_list(myTexts, feats=args.t, n=args.n, relFreqs=not args.absolute_freqs)
         if args.k > len(my_feats):
             print("K Limit ignored because the size of the list is lower ({} < {})".format(len(my_feats), args.k))
         else:
@@ -90,7 +91,7 @@ if __name__ == '__main__':
     print(".......getting counts.......")
 
     feat_list = [m[0] for m in my_feats]
-    myTexts = fex.get_counts(myTexts, feat_list=feat_list, feats=args.t, n=args.n, relFreqs=True)
+    myTexts = fex.get_counts(myTexts, feat_list=feat_list, feats=args.t, n=args.n, relFreqs=not args.absolute_freqs)
 
     unique_texts = [text["name"] for text in myTexts]
 
@@ -133,7 +134,7 @@ if __name__ == '__main__':
         for col in list(feats.columns):
             feats[col] = (feats[col] - feats[col].mean()) / feats[col].std()
 
-        # TODO: vector-length normalisation?
+        # TODO: vector-length normalisation? -> No, in pipeline
 
     print(".......saving results.......")
     # frequence based selection
