@@ -15,14 +15,14 @@ if __name__ == "__main__":
     parser.add_argument('--k', action='store', help="k for k-fold", default=10, type=int)
     parser.add_argument('--dim_reduc', action='store', choices=['pca'], help="optional dimensionality reduction of input data (warn: som is broken)", default=None)
     parser.add_argument('--norms', action='store_true', help="perform normalisations?", default=True)
-    parser.add_argument('--balance', action='store', choices=["class_weight", "downsampling", "Tomek", "upsampling", "SMOTE", "SMOTETomek"],
+    parser.add_argument('--balance', action='store', choices=["downsampling", "Tomek", "upsampling", "SMOTE", "SMOTETomek"],
         help="which "
             "strategy to use in case of imbalanced datasets: "
             "downsampling (random without replacement), "
             "Tomek (downs. by removing Tomek links), "
 #            "ENN (EditedNearestNeighbours, downs. by removing samples close to the decision boundary), "                                                                                                                  
-            "upsampling (random over sampling with replacement)"
-            "SMOTE (upsampling with SMOTE - Synthetic Minority Over-sampling Technique)"
+            "upsampling (random over sampling with replacement), "
+            "SMOTE (upsampling with SMOTE - Synthetic Minority Over-sampling Technique), "
             "SMOTETomek (over+undersampling with SMOTE+Tomek)",
                         default=None)
     parser.add_argument('--class_weights', action='store_true', help="whether to use class weights in imbalanced "
