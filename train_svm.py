@@ -14,7 +14,7 @@ if __name__ == "__main__":
                         default=None, choices=['leave-one-out', 'k-fold'], type=str)
     parser.add_argument('--k', action='store', help="k for k-fold", default=10, type=int)
     parser.add_argument('--dim_reduc', action='store', choices=['pca'], help="optional dimensionality reduction of input data (warn: som is broken)", default=None)
-    parser.add_argument('--norms', action='store_true', help="perform normalisations?", default=True)
+    parser.add_argument('--norms', action='store_true', help="perform normalisations? (default: True)", default=True)
     parser.add_argument('--balance', action='store', choices=["downsampling", "Tomek", "upsampling", "SMOTE", "SMOTETomek"],
         help="which "
             "strategy to use in case of imbalanced datasets: "
