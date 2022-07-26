@@ -45,7 +45,7 @@ if __name__ == '__main__':
     parser.add_argument('--keep_punct', action='store_true', help="whether or not to keep punctuation and caps (default is False)",
                         default=False)
     parser.add_argument('--keep_sym', action='store_true',
-                        help="if true, no Unidecode, and numbers are kept as well (default is False)",
+                        help="if true, same as keep_punct, plus no Unidecode, and numbers are kept as well (default is False)",
                         default=False)
     args = parser.parse_args()
 
