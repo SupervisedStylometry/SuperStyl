@@ -89,15 +89,15 @@ def normalise(text, keep_punct = False, keep_sym=False):
     # Remove all but word chars, remove accents, and normalise space
     # and then normalise unicode
 
-    if keep_punct:
-        if keep_sym:
-            out = re.sub(r"\s+", " ", re.sub(r"[^\p{L}\p{P}\p{N}]+", " ", text.strip()))
-
-        else:
-            out = unidecode.unidecode(re.sub(r"\s+", " ", re.sub(r"[^\p{L}\p{P}]+", " ", text.strip())))
+    if keep_sym:
+        out = re.sub(r"\s+", " ", re.sub(r"[^\p{L}\p{P}\p{N}]+", " ", text.strip()))
 
     else:
-        out = unidecode.unidecode(re.sub(r"\s+", " ", re.sub(r"[\W0-9]+", " ", text.lower()).strip()))
+        if keep_punct:
+            out = unidecode.unidecode(re.sub(r"\s+", " ", re.sub(r"[^\p{L}\p{P}]+", " ", text.strip())))
+
+        else:
+            out = unidecode.unidecode(re.sub(r"\s+", " ", re.sub(r"[\W0-9]+", " ", text.lower()).strip()))
 
     return out
 
