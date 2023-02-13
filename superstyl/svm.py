@@ -167,14 +167,15 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
     else:
         pipe.fit(train, classes)
         preds = pipe.predict(test)
-        # and evaluate
-        unique_labels = list(set(classes + classes_test))
+        if not final_pred:
+            # and evaluate
+            unique_labels = list(set(classes + classes_test))
 
-        pandas.DataFrame(metrics.confusion_matrix(classes_test, preds, labels=unique_labels),
-                         index=['true:{:}'.format(x) for x in unique_labels],
-                         columns=['pred:{:}'.format(x) for x in unique_labels]).to_csv("confusion_matrix.csv")
+            pandas.DataFrame(metrics.confusion_matrix(classes_test, preds, labels=unique_labels),
+                             index=['true:{:}'.format(x) for x in unique_labels],
+                             columns=['pred:{:}'.format(x) for x in unique_labels]).to_csv("confusion_matrix.csv")
 
-        print(metrics.classification_report(classes_test, preds))
+            print(metrics.classification_report(classes_test, preds))
 
     # AND NOW, we need to evaluate or create the final predictions
     if final_pred:
@@ -183,10 +184,14 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
         myclasses = pipe.classes_
         decs = pipe.decision_function(test)
         dists = {}
-        for myclass in enumerate(myclasses):
-            dists[myclass[1]] = [d[myclass[0]] for d in decs]
+        if len(pipe.classes_) == 2:
+            pandas.DataFrame(data={**{'filename': preds_index, 'author': list(preds)}, 'Decision function': decs}).to_csv(
+                "FINAL_PREDICTIONS.csv")
 
-        pandas.DataFrame(data={**{'filename': preds_index, 'author': list(preds)}, **dists}).to_csv("FINAL_PREDICTIONS.csv")
+        else:
+            for myclass in enumerate(myclasses):
+                dists[myclass[1]] = [d[myclass[0]] for d in decs]
+                pandas.DataFrame(data={**{'filename': preds_index, 'author': list(preds)}, **dists}).to_csv("FINAL_PREDICTIONS.csv")
 
     if get_coefs:
         if kernel != "LinearSVC":
