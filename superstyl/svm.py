@@ -45,8 +45,6 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
         test = test.drop(['author', 'lang'], axis=1)
         preds_index = list(test.index)
 
-    nfeats = train.columns.__len__()
-
     cw = None
     if class_weights:
         cw = "balanced"
@@ -78,7 +76,6 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
         # NB: j'utilise le built-in
         # normalisation L2
         # cf. https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.Normalizer.html#sklearn.preprocessing.Normalizer
-
         estimators.append(('normalizer', preproc.Normalizer()))
 
     if balance is not None:
@@ -192,18 +189,29 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
         pandas.DataFrame(data={**{'filename': preds_index, 'author': list(preds)}, **dists}).to_csv("FINAL_PREDICTIONS.csv")
 
     if get_coefs:
-        # For “one-vs-rest” LinearSVC the attributes coef_ and intercept_ have the shape (n_classes, n_features) and
-        # (n_classes,) respectively.
-        # Each row of the coefficients corresponds to one of the n_classes “one-vs-rest” classifiers and similar for the
-        # intercepts, in the order of the “one” class.
-        # Save coefficients for the last model
-        pandas.DataFrame(pipe.named_steps['model'].coef_,
-                         index=pipe.classes_,
-                         columns=train.columns).to_csv("coefficients.csv")
+        if kernel != "LinearSVC":
+            print(".......... COEFS ARE ONLY IMPLEMENTED FOR linearSVC ........")
 
-        # TODO: optionalise  the number of top_features… ?
-        for i in range(len(pipe.classes_)):
-            plot_coefficients(pipe.named_steps['model'].coef_[i], train.columns, pipe.classes_[i])
+        else:
+            # For “one-vs-rest” LinearSVC the attributes coef_ and intercept_ have the shape (n_classes, n_features) and
+            # (n_classes,) respectively.
+            # Each row of the coefficients corresponds to one of the n_classes “one-vs-rest” classifiers and similar for the
+            # intercepts, in the order of the “one” class.
+            if len(pipe.classes_) == 2:
+                pandas.DataFrame(pipe.named_steps['model'].coef_,
+                                 index=[pipe.classes_[0]],
+                                 columns=train.columns).to_csv("coefficients.csv")
+
+                plot_coefficients(pipe.named_steps['model'].coef_[0], train.columns, pipe.classes_[0] + " versus " + pipe.classes_[1])
+
+            else:
+                pandas.DataFrame(pipe.named_steps['model'].coef_,
+                                 index=pipe.classes_,
+                                 columns=train.columns).to_csv("coefficients.csv")
+
+                # TODO: optionalise  the number of top_features… ?
+                for i in range(len(pipe.classes_)):
+                    plot_coefficients(pipe.named_steps['model'].coef_[i], train.columns, pipe.classes_[i])
 
     return pipe
 
