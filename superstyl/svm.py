@@ -133,15 +133,20 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
         if cross_validate == 'k-fold':
             myCV = skmodel.KFold(n_splits=k)
 
+        if cross_validate == 'group-k-fold':
+            # Get the groups as the different source texts
+            works = [t.split('_')[0] for t in train.index.values]
+            myCV = skmodel.GroupKFold(n_splits=len(set(works)))
+
         print(".......... "+ cross_validate +" cross validation will be performed ........")
-        print(".......... using " + str(myCV.get_n_splits(train)) + " samples ........")
+        print(".......... using " + str(myCV.get_n_splits(train)) + " samples or groups........")
 
         # Will need to
         # 1. train a model
         # 2. get prediction
         # 3. compute score: precision, recall, F1 for all categories
 
-        preds = skmodel.cross_val_predict(pipe, train, classes, cv=myCV, verbose=1, n_jobs=-1)
+        preds = skmodel.cross_val_predict(pipe, train, classes, cv=myCV, verbose=1, n_jobs=-1, groups=works)
 
         # and now, leave one out evaluation (very small redundancy here, one line that could be stored elsewhere)
         unique_labels = list(set(classes))
@@ -225,15 +230,16 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
 # https://aneesha.medium.com/visualising-top-features-in-linear-svm-with-scikit-learn-and-matplotlib-3454ab18a14d
 
 def plot_coefficients(coefs, feature_names, current_class, top_features=10):
+    plt.rcParams.update({'font.size': 30}) #increase font size
     top_positive_coefficients = np.argsort(coefs)[-top_features:]
     top_negative_coefficients = np.argsort(coefs)[:top_features]
     top_coefficients = np.hstack([top_negative_coefficients, top_positive_coefficients])
     # create plot
-    plt.figure(figsize=(15, 15))
+    plt.figure(figsize=(15, 8))
     colors = ['red' if c < 0 else 'blue' for c in coefs[top_coefficients]]
     plt.bar(np.arange(2 * top_features), coefs[top_coefficients], color=colors)
     feature_names = np.array(feature_names)
-    plt.xticks(np.arange(0, 2 * top_features), feature_names[top_coefficients], rotation=60, ha='right')
+    plt.xticks(np.arange(0, 2 * top_features), feature_names[top_coefficients], rotation=60, ha='right', rotation_mode='anchor')
     plt.title("Coefficients for "+current_class)
-    plt.savefig('coefs_' + current_class + '.png')
+    plt.savefig('coefs_' + current_class + '.png', bbox_inches='tight')
     # TODO: write them to disk as CSV files

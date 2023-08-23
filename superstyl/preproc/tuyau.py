@@ -85,7 +85,7 @@ def identify_lang(string, model):
     return model.predict(string)  # , k = 3)
 
 
-def normalise(text, keep_punct = False, keep_sym=False):
+def normalise(text, keep_punct=False, keep_sym=False):
     # Remove all but word chars, remove accents, and normalise space
     # and then normalise unicode
 
@@ -215,7 +215,8 @@ def get_samples(path, size, step=None, units="verses", feature="tokens", format=
     return samples
 
 
-def docs_to_samples(paths, size, step=None, units="verses", feature="tokens", format="tei", keep_punct=False, keep_sym=False, max_samples=None):
+def docs_to_samples(paths, size, step=None, units="verses", feature="tokens", format="tei", keep_punct=False,
+                    keep_sym=False, max_samples=None):
     """
     Loads a collection of documents into a 'myTexts' object for further processing BUT with samples !
     :param paths: path to docs
@@ -233,7 +234,7 @@ def docs_to_samples(paths, size, step=None, units="verses", feature="tokens", fo
         aut = path.split('/')[-1].split('_')[0]
         lang = 'fr'  # POM POM POM
         samples = get_samples(path, size=size, step=step, units=units, feature=feature, format=format,
-                              keep_punct=keep_punct)
+                              keep_punct=keep_punct, keep_sym=keep_sym)
 
         for sample in samples:
             name = path.split('/')[-1].split('_')[1] + '_' + str(sample["start"]) + "-" + str(sample["end"])

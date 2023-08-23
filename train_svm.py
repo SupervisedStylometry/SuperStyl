@@ -11,7 +11,8 @@ if __name__ == "__main__":
     parser.add_argument('--test_path', action='store', help="Path to test file", type=str, required=False, default=None)
     parser.add_argument('--cross_validate', action='store',
                         help="perform cross validation (test_path will be used only for final prediction)",
-                        default=None, choices=['leave-one-out', 'k-fold'], type=str)
+                        default=None, choices=['leave-one-out', 'k-fold', 'group-k-fold'], type=str)
+    #TODO: document group-k-fold
     parser.add_argument('--k', action='store', help="k for k-fold", default=10, type=int)
     parser.add_argument('--dim_reduc', action='store', choices=['pca'], help="optional dimensionality reduction of input data (warn: som is broken)", default=None)
     parser.add_argument('--norms', action='store_true', help="perform normalisations? (default: True)", default=True)
