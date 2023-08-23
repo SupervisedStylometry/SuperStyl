@@ -81,7 +81,7 @@ if __name__ == '__main__':
             my_feats = [m for m in my_feats if m[1] >= val]
 
         with open("feature_list_{}{}grams{}mf.json".format(args.t, args.n, args.k), "w") as out:
-            out.write(json.dumps(my_feats))
+            out.write(json.dumps(my_feats, ensure_ascii=False))
 
     else:
         print(".......loading preexisting feature list.......")
