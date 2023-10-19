@@ -127,6 +127,7 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
     # Now, doing leave one out validation or training single SVM with train / test split
 
     if cross_validate is not None:
+        works = None
         if cross_validate == 'leave-one-out':
             myCV = skmodel.LeaveOneOut()
 

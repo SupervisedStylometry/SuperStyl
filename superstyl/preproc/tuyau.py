@@ -102,12 +102,12 @@ def normalise(text, keep_punct=False, keep_sym=False):
     return out
 
 
-def load_texts(paths, fasttext_model, format="txt", correct_aut=None, keep_punct=False, keep_sym=False):
+def load_texts(paths, identify_lang=None, format="txt", correct_aut=None, keep_punct=False, keep_sym=False):
     """
     Loads a collection of documents into a 'myTexts' object for further processing.
     TODO: a proper class
     :param paths: path to docs
-    :param fasttext_model: model for language identification
+    :param identify_lang: what model to use for language guessing of the texts (default: None)
     :param format: format of the source files (implemented values: txt [default], xml)
     :param correct_aut: optional data frame of metadata correction (authors)
     :param keep_punct: whether or not to keep punctuation and caps.
@@ -127,8 +127,11 @@ def load_texts(paths, fasttext_model, format="txt", correct_aut=None, keep_punct
         else:
             aut, text = TXT_to_text(path)  # implement correct_aut
 
-        lang, cert = identify_lang(text, fasttext_model)
-        lang = lang[0].replace("__label__", "")
+        if identify_lang is not None:
+            lang, cert = identify_lang(text, identify_lang)
+            lang = lang[0].replace("__label__", "")
+        else:
+            lang = "NA"
 
         # Normalise text once and for all
         text = normalise(text, keep_punct=keep_punct, keep_sym=keep_sym)
@@ -216,7 +219,7 @@ def get_samples(path, size, step=None, units="verses", feature="tokens", format=
 
 
 def docs_to_samples(paths, size, step=None, units="verses", feature="tokens", format="tei", keep_punct=False,
-                    keep_sym=False, max_samples=None):
+                    keep_sym=False, max_samples=None, identify_lang=None):
     """
     Loads a collection of documents into a 'myTexts' object for further processing BUT with samples !
     :param paths: path to docs
@@ -228,16 +231,28 @@ def docs_to_samples(paths, size, step=None, units="verses", feature="tokens", fo
     :param format: type of document, one of full text, TEI or simple XML (ONLY TEI and TXT IMPLEMENTED)
     :param keep_punct: whether or not to keep punctuation and caps.
     :param max_samples: maximum number of samples per author.
+    :param identify_lang: what model to use for language guessing of the texts (default: None)
     """
     myTexts = []
     for path in paths:
         aut = path.split('/')[-1].split('_')[0]
-        lang = 'fr'  # POM POM POM
+        if identify_lang is not None:
+            if format == 'xml':
+                aut, text = XML_to_text(path, correct_aut=correct_aut)
+
+            else:
+                aut, text = TXT_to_text(path)  # implement correct_aut
+
+            lang, cert = identify_lang(text, identify_lang)
+            lang = lang[0].replace("__label__", "")
+        else:
+            lang = 'NA'
+
         samples = get_samples(path, size=size, step=step, units=units, feature=feature, format=format,
                               keep_punct=keep_punct, keep_sym=keep_sym)
 
         for sample in samples:
-            name = path.split('/')[-1].split('_')[1] + '_' + str(sample["start"]) + "-" + str(sample["end"])
+            name = path.split('/')[-1] + '_' + str(sample["start"]) + "-" + str(sample["end"])
             text = normalise(' '.join(sample["text"]), keep_punct=keep_punct, keep_sym=keep_sym)
             myTexts.append({"name": name, "aut": aut, "text": text, "lang": lang})
 
