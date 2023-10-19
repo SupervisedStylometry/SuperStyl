@@ -18,7 +18,9 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
     Function to train svm
     :param train: train data... (in panda dataframe)
     :param test: test data (itou)
-    :param cross_validate: whether or not to perform cross validation (possible values: leave-one-out and k-fold)
+    :param cross_validate: whether or not to perform cross validation (possible values: leave-one-out, k-fold
+      and group-k-fold) if group_k-fold is chosen, each source file will be considered a group, so this is only relevant
+      if sampling was performed and more than one file per class was provided)
     :param k: k parameter for k-fold cross validation
     :param dim_reduc: dimensionality reduction of input data. Implemented values are pca and som.
     :param norms: perform normalisations, i.e. z-scores and L2 (default True)
@@ -136,7 +138,7 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
 
         if cross_validate == 'group-k-fold':
             # Get the groups as the different source texts
-            works = [t.split('_')[0] for t in train.index.values]
+            works = ["_".join(t.split("_")[:-1]) for t in train.index.values ]
             myCV = skmodel.GroupKFold(n_splits=len(set(works)))
 
         print(".......... "+ cross_validate +" cross validation will be performed ........")
