@@ -3,12 +3,12 @@ import regex as re
 import unidecode
 import nltk.tokenize
 import random
+import langdetect
 
-def XML_to_text(path, correct_aut=None):
+def XML_to_text(path):
     """
     Get main text from xml file
     :param path: path to the file to transform
-    :param correct_aut: optional data frame of metadata correction (authors)
     :return: a tuple with auts, and string (the text).
     """
 
@@ -45,18 +45,14 @@ def XML_to_text(path, correct_aut=None):
 
         else:
             aut = auts[0]
-            if correct_aut is not None and aut in list(correct_aut.loc[:, "Original"]):
-                print("correcting " + aut + " to " + correct_aut.loc[aut, "Actual"])
-                aut = correct_aut.loc[aut, "Actual"]
 
         return aut, re.sub(r"\s+", " ", str(myxsl(my_doc)))
 
 
-def TXT_to_text(path, correct_aut=None):
+def TXT_to_text(path):
     """
     Get main text from xml file
     :param path: path to the file to transform
-    :param correct_aut: optional data frame of metadata correction (authors)
     :return: a tuple with auts, and string (the text).
     """
 
@@ -70,15 +66,14 @@ def TXT_to_text(path, correct_aut=None):
     return aut, re.sub(r"\s+", " ", str(' '.join(txt)))
 
 
-def identify_lang(string, model):
+def detect_lang(string):
     """
     Get the language from a string
     :param string: a string, duh
-    :param model, the fasttext model
     :return: the language
     """
 
-    return model.predict(string)  # , k = 3)
+    return langdetect.detect(string)  # , k = 3)
 
 
 def normalise(text, keep_punct=False, keep_sym=False):
@@ -98,14 +93,13 @@ def normalise(text, keep_punct=False, keep_sym=False):
     return out
 
 
-def load_texts(paths, identify_lang=None, format="txt", correct_aut=None, keep_punct=False, keep_sym=False):
+def load_texts(paths, identify_lang=False, format="txt", keep_punct=False, keep_sym=False):
     """
     Loads a collection of documents into a 'myTexts' object for further processing.
     TODO: a proper class
     :param paths: path to docs
-    :param identify_lang: what model to use for language guessing of the texts (default: None)
+    :param identify_lang: whether or not try to identify lang (default: False)
     :param format: format of the source files (implemented values: txt [default], xml)
-    :param correct_aut: optional data frame of metadata correction (authors)
     :param keep_punct: whether or not to keep punctuation and caps.
     :param keep_sym: whether or not to keep punctuation, caps, letter variants and numbers (no unidecode).
     :return: a myTexts object
@@ -118,14 +112,13 @@ def load_texts(paths, identify_lang=None, format="txt", correct_aut=None, keep_p
         name = path.split('/')[-1]
 
         if format=='xml':
-            aut, text = XML_to_text(path, correct_aut=correct_aut)
+            aut, text = XML_to_text(path)
 
         else:
-            aut, text = TXT_to_text(path)  # implement correct_aut
+            aut, text = TXT_to_text(path)
 
-        if identify_lang is not None:
-            lang, cert = identify_lang(text, identify_lang)
-            lang = lang[0].replace("__label__", "")
+        if identify_lang:
+            lang = detect_lang(text)
         else:
             lang = "NA"
 
@@ -215,7 +208,7 @@ def get_samples(path, size, step=None, units="verses", feature="tokens", format=
 
 
 def docs_to_samples(paths, size, step=None, units="verses", feature="tokens", format="tei", keep_punct=False,
-                    keep_sym=False, max_samples=None, identify_lang=None):
+                    keep_sym=False, max_samples=None, identify_lang=False):
     """
     Loads a collection of documents into a 'myTexts' object for further processing BUT with samples !
     :param paths: path to docs
@@ -227,20 +220,20 @@ def docs_to_samples(paths, size, step=None, units="verses", feature="tokens", fo
     :param format: type of document, one of full text, TEI or simple XML (ONLY TEI and TXT IMPLEMENTED)
     :param keep_punct: whether or not to keep punctuation and caps.
     :param max_samples: maximum number of samples per author.
-    :param identify_lang: what model to use for language guessing of the texts (default: None)
+    :param identify_lang: whether or not try to identify lang (default: False)
     """
     myTexts = []
     for path in paths:
         aut = path.split('/')[-1].split('_')[0]
-        if identify_lang is not None:
+        if identify_lang:
             if format == 'xml':
-                aut, text = XML_to_text(path, correct_aut=correct_aut)
+                aut, text = XML_to_text(path)
 
             else:
-                aut, text = TXT_to_text(path)  # implement correct_aut
+                aut, text = TXT_to_text(path)
 
-            lang, cert = identify_lang(text, identify_lang)
-            lang = lang[0].replace("__label__", "")
+            lang = detect_lang(text)
+
         else:
             lang = 'NA'
 

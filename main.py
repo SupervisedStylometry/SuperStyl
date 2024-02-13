@@ -26,7 +26,6 @@ if __name__ == '__main__':
     parser.add_argument('-t', action='store', help="types of features (words or chars)", type=str)
     parser.add_argument('-n', action='store', help="n grams lengths (default 1)", default=1, type=int)
     parser.add_argument('-p', action='store', help="Processes to use (default 1)", default=1, type=int)
-    parser.add_argument('-c', action='store', help="Path to file with metadata corrections", default=None, type=str)
     parser.add_argument('-k', action='store', help="How many most frequent?", default=5000, type=int)
     parser.add_argument('--absolute_freqs', action='store_true', help="switch to get absolute instead of relative freqs", default=False)
     parser.add_argument('--z_scores', action='store_true', help="Use z-scores?", default=False) # TODO: remove this as already covered in model training?
@@ -44,32 +43,19 @@ if __name__ == '__main__':
                         help="if true, same as keep_punct, plus no Unidecode, and numbers are kept as well (default is False)",
                         default=False)
     parser.add_argument('--identify_lang', action='store_true',
-                        help="if true, should the language of each text be guessed, using a fasttext model (default is False) -- Necessitates downloading the model",
+                        help="if true, should the language of each text be guessed, using langdetect (default is False)",
                         default=False)
     args = parser.parse_args()
 
-    if args.identify_lang:
-        model = fasttext.load_model("superstyl/preproc/models/lid.176.bin")
-    else:
-        model=None
-
     print(".......loading texts.......")
 
-    if args.c:
-        # "debug_authors.csv"
-        correct_aut = pandas.read_csv(args.c)
-        # a bit hacky. Improve later
-        correct_aut.index = list(correct_aut.loc[:, "Original"])
-        myTexts = tuy.load_texts(args.s, identify_lang=model, format=args.x, correct_aut=correct_aut, keep_punct=args.keep_punct, keep_sym=args.keep_sym)
+    if args.sampling:
+        myTexts = tuy.docs_to_samples(args.s, identify_lang=args.identify_lang, size=args.sample_size, step=args.sample_step,
+                                  units=args.sample_units, feature="tokens", format=args.x,
+                                      keep_punct=args.keep_punct, keep_sym=args.keep_sym, max_samples=args.max_samples)
 
     else:
-        if args.sampling:
-            myTexts = tuy.docs_to_samples(args.s, identify_lang=model, size=args.sample_size, step=args.sample_step,
-                                      units=args.sample_units, feature="tokens", format=args.x,
-                                          keep_punct=args.keep_punct, keep_sym=args.keep_sym, max_samples=args.max_samples)
-
-        else:
-            myTexts = tuy.load_texts(args.s, identify_lang=model, format=args.x, keep_punct=args.keep_punct, keep_sym=args.keep_sym)
+        myTexts = tuy.load_texts(args.s, identify_lang=args.identify_lang, format=args.x, keep_punct=args.keep_punct, keep_sym=args.keep_sym)
 
     print(".......getting features.......")
 
