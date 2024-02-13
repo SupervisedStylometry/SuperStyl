@@ -4,12 +4,12 @@
 
 ## Installing
 
-You will need python3.9 or later, the corresponding `-dev` package, `virtualenv` and `pip`
+You will need python3.9 or later, `pip` and optionnaly `virtualenv`
 
 ```bash
 git clone https://github.com/SupervisedStylometry/SuperStyl.git
 cd SuperStyl
-virtualenv -p python3.9 env
+virtualenv -p python3.9 env #or later
 source env/bin/activate
 pip install -r requirements.txt
 ```
