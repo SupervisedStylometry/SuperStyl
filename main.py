@@ -9,8 +9,6 @@ from multiprocessing.pool import ThreadPool as Pool
 import tqdm
 # from importlib import reload
 # tuy = reload(tuy)
-#import json , json.dump, file et object, json.load sur des files, dumps et loads sur des str
-#import json
 
 # TODO: eliminate features that occur only n times ?
 # Do the Moisl Selection ?
@@ -45,7 +43,7 @@ if __name__ == '__main__':
     parser.add_argument('--keep_sym', action='store_true',
                         help="if true, same as keep_punct, plus no Unidecode, and numbers are kept as well (default is False)",
                         default=False)
-    parser.add_argument('--identify_lang', action='store_false',
+    parser.add_argument('--identify_lang', action='store_true',
                         help="if true, should the language of each text be guessed, using a fasttext model (default is False) -- Necessitates downloading the model",
                         default=False)
     args = parser.parse_args()
