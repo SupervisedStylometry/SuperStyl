@@ -1,10 +1,6 @@
-from builtins import set
-
 from lxml import etree
 import regex as re
-import fasttext
 import unidecode
-import glob
 import nltk.tokenize
 import random
 
@@ -94,10 +90,10 @@ def normalise(text, keep_punct=False, keep_sym=False):
 
     else:
         if keep_punct:
-            out = unidecode.unidecode(re.sub(r"\s+", " ", re.sub(r"[^\p{L}\p{P}]+", " ", text.strip())))
+            out = re.sub(r"\s+", " ", unidecode.unidecode(re.sub(r"[^\p{L}\p{P}]+", " ", text.strip())))
 
         else:
-            out = unidecode.unidecode(re.sub(r"\s+", " ", re.sub(r"[\W0-9]+", " ", text.lower()).strip()))
+            out = re.sub(r"\s+", " ", unidecode.unidecode(re.sub(r"[\W0-9]+", " ", text.lower()).strip()))
 
     return out
 
@@ -260,7 +256,7 @@ def docs_to_samples(paths, size, step=None, units="verses", feature="tokens", fo
         autsCounts = dict()
         for text in myTexts:
             if text['aut'] not in autsCounts.keys():
-                autsCounts[text['aut']] =1
+                autsCounts[text['aut']] = 1
 
             else:
                 autsCounts[text['aut']] += 1

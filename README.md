@@ -2,12 +2,15 @@
 
 ## Installing
 
-You will need python3.8 or later, virtualenv and pip
+You will need python3.9 or later, the corresponding `-dev` package, `virtualenv` and `pip`
 
 ```bash
+# Only if you don't have it
+sudo apt install python3.9-dev
+# then
 git clone https://github.com/SupervisedStylometry/SuperStyl.git
 cd SuperStyl
-virtualenv -p python3.8 env
+virtualenv -p python3.9 env
 source env/bin/activate
 pip install -r requirements.txt
 # And get the model for language prediction
