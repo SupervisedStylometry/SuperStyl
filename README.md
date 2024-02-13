@@ -1,5 +1,7 @@
 # SUPERvised STYLometry
 
+[![codecov](https://codecov.io/github/SupervisedStylometry/SuperStyl/graph/badge.svg?token=TY5HCBOOKL)](https://codecov.io/github/SupervisedStylometry/SuperStyl)
+
 ## Installing
 
 You will need python3.9 or later, the corresponding `-dev` package, `virtualenv` and `pip`
