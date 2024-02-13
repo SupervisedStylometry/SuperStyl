@@ -260,7 +260,7 @@ def docs_to_samples(paths, size, step=None, units="verses", feature="tokens", fo
         autsCounts = dict()
         for text in myTexts:
             if text['aut'] not in autsCounts.keys():
-                autsCounts[text['aut']] =1
+                autsCounts[text['aut']] = 1
 
             else:
                 autsCounts[text['aut']] += 1
