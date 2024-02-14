@@ -19,7 +19,7 @@ class DataLoading(unittest.TestCase):
         # english = "Hello, How do you do good sir?"
         # still too hard
         # english = "Hello, How do you do good sir? Are you well today?"
-        english = "Hello, How do you do good sir? Are you well today? Is this so bloody hard?"
+        english = "Hello, How do you do good sir? Are you well today? Is this so bloody hard? Really, this is still failing?"
         italian = "Buongiorno signore, come sta?"
         #TODO: find something that manages old languages, like fasttext did…
         self.assertEqual(superstyl.preproc.tuyau.detect_lang(french), "fr")
