@@ -29,15 +29,53 @@ class DataLoading(unittest.TestCase):
     # Now, lower level features,
     # from features_extract
     def test_counts(self):
-        text = "the the the the"
+        text = "the cat the dog the squirrel the cat the cat"
         superstyl.preproc.features_extract.count_words(text, feat_list=None, feats = "words", n = 1, relFreqs = False)
         self.assertEqual(
             superstyl.preproc.features_extract.count_words(text, feat_list=None, feats = "words", n = 1, relFreqs = False),
-            {'the': 4}
+            {'the': 5, 'cat': 3, 'dog': 1, 'squirrel': 1}
         )
         self.assertEqual(
             superstyl.preproc.features_extract.count_words(text, feat_list=None, feats="words", n=1, relFreqs=True),
-            {'the': 1.0}
+            {'the': 0.5, 'cat': 0.3, 'dog': 0.1, 'squirrel': 0.1}
+        )
+        self.assertEqual(
+            superstyl.preproc.features_extract.count_words(text, feat_list=['the', 'cat'], feats="words", n=1, relFreqs=False),
+            {'the': 5, 'cat': 3}
+        )
+        self.assertEqual(
+            superstyl.preproc.features_extract.count_words(text, feat_list=['the', 'cat'], feats="words", n=1, relFreqs=True),
+            {'the': 0.5, 'cat': 0.3}
+        )
+        self.assertEqual(
+            superstyl.preproc.features_extract.count_words(text, feat_list=None, feats="words", n=2, relFreqs=False),
+            {'the_cat': 3, 'cat_the': 2, 'the_dog': 1, 'dog_the': 1, 'the_squirrel': 1, 'squirrel_the': 1}
+        )
+        self.assertEqual(
+            superstyl.preproc.features_extract.count_words(text, feat_list=None, feats="words", n=2, relFreqs=True),
+            {'the_cat': 3/9, 'cat_the': 2/9, 'the_dog': 1/9, 'dog_the': 1/9, 'the_squirrel': 1/9, 'squirrel_the': 1/9}
+        )
+
+        text = "the yo yo"
+        self.assertEqual(
+            superstyl.preproc.features_extract.count_words(text, feat_list=None, feats="chars", n=3, relFreqs=False),
+            {'the': 1, 'he_': 1, 'e_y': 1, '_yo': 2, 'yo_': 1, 'o_y': 1}
+        )
+        self.assertEqual(
+            superstyl.preproc.features_extract.count_words(text, feat_list=['the'], feats="chars", n=3, relFreqs=True),
+            {'the': 1/7}
+        )
+
+    # Testing the processing of "myTexts" objects
+    def test_get_feature_list(self):
+        myTexts = [
+            {"name": "Letter1", "aut": "Smith", "text": "This is the text", "lang": "en"},
+            {"name": "Letter2", "aut": "Smith", "text": "This is also the text", "lang": "en"},
+            {"name": "Letter1", "aut": "Dupont", "text": "Voici le texte", "lang": "fr"},
+        ]
+        self.assertEqual(
+            superstyl.preproc.features_extract.get_feature_list(myTexts, feats="words", n=1, relFreqs=False),
+            [('This', 2), ('is', 2), ('the', 2), ('text', 2), ('also', 1), ('Voici', 1), ('le', 1), ('texte', 1)]
         )
 
         #TODO: a lot more tests

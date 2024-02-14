@@ -8,9 +8,10 @@ def count_words(text, feat_list=None, feats = "words", n = 1, relFreqs = False):
     """
     Get word counts from  a text
     :param text: the source text
+    :param feat_list: a list of features to be selected
     :param feats: the type of feats (words, chars, etc.)
     :param n: the length of n-grams
-    :param relFreqs: whether or not to compute relative freqs
+    :param relFreqs: whether to compute relative freqs
     :return: feature frequencies in text
     """
 
@@ -53,6 +54,7 @@ def get_feature_list(myTexts, feats="words", n=1, relFreqs=True):
     """
 
     :param myTexts: a 'myTexts' object, containing documents to be processed
+    :param feat_list: a list of features to be selected
     :param feats: type of feats (words, chars)
     :param n: n-grams length
     :return: list of features, with total frequency
@@ -65,7 +67,6 @@ def get_feature_list(myTexts, feats="words", n=1, relFreqs=True):
         my_feats.update(counts)
 
     # sort them
-
     my_feats = [(i, my_feats[i]) for i in sorted(my_feats, key=my_feats.get, reverse=True)]
 
     return my_feats
@@ -77,7 +78,7 @@ def get_counts(myTexts, feat_list, feats = "words", n = 1, relFreqs = False):
     :param myTexts: the document collection
     :param feats: the type of feats (words, chars, etc.)
     :param n: the length of n-grams
-    :param relFreqs: whether or not to compute relative freqs
+    :param relFreqs: whether to compute relative freqs
     :return: the collection with, for each text, a 'wordCounts' dictionary
     """
 

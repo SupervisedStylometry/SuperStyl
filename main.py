@@ -1,7 +1,6 @@
 import superstyl.preproc.tuyau as tuy
 import superstyl.preproc.features_extract as fex
 from superstyl.preproc.text_count import count_process
-import fasttext
 import pandas
 import json
 # from multiprocessing import Pool
