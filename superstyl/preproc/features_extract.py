@@ -75,6 +75,7 @@ def get_counts(myTexts, feat_list, feats = "words", n = 1, relFreqs = False):
     """
     Get counts for a collection of texts
     :param myTexts: the document collection
+    :param feat_list: a list of features to be selected
     :param feats: the type of feats (words, chars, etc.)
     :param n: the length of n-grams
     :param relFreqs: whether to compute relative freqs
