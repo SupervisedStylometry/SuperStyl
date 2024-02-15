@@ -78,6 +78,23 @@ class DataLoading(unittest.TestCase):
             [('This', 2), ('is', 2), ('the', 2), ('text', 2), ('also', 1), ('Voici', 1), ('le', 1), ('texte', 1)]
         )
 
+    def test_get_counts(self):
+        myTexts = [
+            {"name": "Letter1", "aut": "Smith", "text": "This is the text", "lang": "en"},
+            {"name": "Letter2", "aut": "Smith", "text": "This is also the text", "lang": "en"},
+            {"name": "Letter1", "aut": "Dupont", "text": "Voici le texte", "lang": "fr"},
+        ]
+
+        self.assertEqual(
+            superstyl.preproc.features_extract.get_counts(myTexts, ['the', 'is', 'also', 'le'], feats = "words",
+                                                          n = 1, relFreqs = True),
+            [{'name': 'Letter1', 'aut': 'Smith', 'text': 'This is the text', 'lang': 'en',
+              'wordCounts': {'the': 0.25, 'is': 0.25}},
+             {'name': 'Letter2', 'aut': 'Smith', 'text': 'This is also the text', 'lang': 'en',
+              'wordCounts': {'the': 0.2, 'is': 0.2, 'also': 0.2}},
+             {'name': 'Letter1', 'aut': 'Dupont', 'text': 'Voici le texte', 'lang': 'fr', 'wordCounts': {'le': 1/3}}]
+        )
+
         #TODO: a lot more tests
 
 
