@@ -52,7 +52,6 @@ def count_words(text, feat_list=None, feats = "words", n = 1, relFreqs = False):
 
 def get_feature_list(myTexts, feats="words", n=1, relFreqs=True):
     """
-
     :param myTexts: a 'myTexts' object, containing documents to be processed
     :param feat_list: a list of features to be selected
     :param feats: type of feats (words, chars)
