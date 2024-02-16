@@ -12,7 +12,6 @@ import tqdm
 
 # TODO: eliminate features that occur only n times ?
 # Do the Moisl Selection ?
-# TODO: free up memory as the script goes by deleting unnecessary objects
 
 if __name__ == '__main__':
 
@@ -62,7 +61,8 @@ if __name__ == '__main__':
                                       keep_punct=args.keep_punct, keep_sym=args.keep_sym, max_samples=args.max_samples)
 
     else:
-        myTexts = tuy.load_texts(args.s, identify_lang=args.identify_lang, format=args.x, keep_punct=args.keep_punct, keep_sym=args.keep_sym)
+        myTexts = tuy.load_texts(args.s, identify_lang=args.identify_lang, format=args.x, keep_punct=args.keep_punct,
+                                 keep_sym=args.keep_sym, max_samples=args.max_samples)
 
     print(".......getting features.......")
 
@@ -95,15 +95,6 @@ if __name__ == '__main__':
     unique_texts = [text["name"] for text in myTexts]
 
     print(".......feeding data frame.......")
-
-    #feats = pandas.DataFrame(columns=list(feat_list), index=unique_texts)
-
-
-    # with Pool(args.p) as pool:
-    #     print(args.p)
-    # target = zip(myTexts, [feat_list] * len(myTexts))
-        # with tqdm.tqdm(total=len(myTexts)) as pbar:
-            # for text, local_freqs in pool.map(count_process, target):
 
     loc = {}
 

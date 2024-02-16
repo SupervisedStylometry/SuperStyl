@@ -98,6 +98,8 @@ class DataLoading(unittest.TestCase):
         #TODO: a lot more tests
 
 
+# TODO: tests for SVM, etc.
+# Test all options of main commands, see if they are accepted or not
 
 if __name__ == '__main__':
     unittest.main()
