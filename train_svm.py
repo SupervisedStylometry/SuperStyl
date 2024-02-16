@@ -33,8 +33,8 @@ if __name__ == "__main__":
                         default=False
                         )
     parser.add_argument('--kernel', action='store',
-                        help="type of kernel to use (default LinearSVC; possible alternatives, linear, polynomial, rbf, sigmoid)",
-                        default="LinearSVC", choices=['LinearSVC', 'linear', 'polynomial', 'rbf', 'sigmoid'], type=str)
+                        help="type of kernel to use (default and recommended choice is LinearSVC; possible alternatives are linear, sigmoid, rbf and poly, as per sklearn.svm.SVC)",
+                        default="LinearSVC", choices=['LinearSVC', 'linear', 'sigmoid', 'rbf', 'poly'], type=str)
     parser.add_argument('--final', action='store_true', help="final analysis on unknown dataset (no evaluation)?", default=False)
     parser.add_argument('--get_coefs', action='store_true', help="switch to write to disk and plots the most important coefficients for the training feats for each class",
                         default=False)

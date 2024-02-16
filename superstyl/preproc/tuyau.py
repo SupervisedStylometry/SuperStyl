@@ -92,8 +92,35 @@ def normalise(text, keep_punct=False, keep_sym=False):
 
     return out
 
+def max_sampling(myTexts, max_samples=10):
+    """
+    Select a random number of samples, equal to max_samples, for authors or classes that have more than max_samples
+    :param myTexts: the input myTexts object
+    :param max_samples: the maximum number of samples for any class
+    :return: a myTexts object, with the resulting selection of samples
+    """
+    autsCounts = dict()
+    for text in myTexts:
+        if text['aut'] not in autsCounts.keys():
+            autsCounts[text['aut']] = 1
 
-def load_texts(paths, identify_lang=False, format="txt", keep_punct=False, keep_sym=False):
+        else:
+            autsCounts[text['aut']] += 1
+
+    for autCount in autsCounts.items():
+        if autCount[1] > max_samples:
+            # get random selection
+            toBeSelected = [text for text in myTexts if text['aut'] == autCount[0]]
+            toBeSelected = random.sample(toBeSelected, k=max_samples)
+            # Great, now remove all texts from this author from our samples
+            myTexts = [text for text in myTexts if text['aut'] != autCount[0]]
+            # and now concat
+            myTexts = myTexts + toBeSelected
+
+    return myTexts
+
+
+def load_texts(paths, identify_lang=False, format="txt", keep_punct=False, keep_sym=False, max_samples=10):
     """
     Loads a collection of documents into a 'myTexts' object for further processing.
     TODO: a proper class
@@ -102,11 +129,11 @@ def load_texts(paths, identify_lang=False, format="txt", keep_punct=False, keep_
     :param format: format of the source files (implemented values: txt [default], xml)
     :param keep_punct: whether or not to keep punctuation and caps.
     :param keep_sym: whether or not to keep punctuation, caps, letter variants and numbers (no unidecode).
+    :param max_samples: the maximum number of samples for any class
     :return: a myTexts object
     """
 
     myTexts = []
-    # langCerts = []
 
     for path in paths:
         name = path.split('/')[-1]
@@ -127,20 +154,9 @@ def load_texts(paths, identify_lang=False, format="txt", keep_punct=False, keep_
 
         myTexts.append({"name": name, "aut": aut, "text": text, "lang": lang})
 
-        # if cert < 1:
-        # langCerts.append((lang, name, cert))
+    if max_samples is not None:
+        myTexts = max_sampling(myTexts, max_samples=max_samples)
 
-        # directory = "train_txt/" + lang + "/" + aut + "/"
-
-        # if not os.path.exists(directory):
-        #    os.makedirs(directory)
-
-        # with open(directory + name + ".txt", "w") as out:
-        #    out.write(text)
-
-    # with open("lang_certs.csv", 'w') as out:
-    #    for line in langCerts:
-    #        out.write("{}\t{}\t{}\t\n".format(line[0], line[1], float(line[2])))
     return myTexts
 
 
@@ -219,8 +235,9 @@ def docs_to_samples(paths, size, step=None, units="verses", feature="tokens", fo
     :param feature: type of tokens to extract (default is tokens, not lemmas or POS)
     :param format: type of document, one of full text, TEI or simple XML (ONLY TEI and TXT IMPLEMENTED)
     :param keep_punct: whether or not to keep punctuation and caps.
-    :param max_samples: maximum number of samples per author.
+    :param max_samples: maximum number of samples per author/class.
     :param identify_lang: whether or not try to identify lang (default: False)
+    :return: a myTexts object
     """
     myTexts = []
     for path in paths:
@@ -246,22 +263,6 @@ def docs_to_samples(paths, size, step=None, units="verses", feature="tokens", fo
             myTexts.append({"name": name, "aut": aut, "text": text, "lang": lang})
 
     if max_samples is not None:
-        autsCounts = dict()
-        for text in myTexts:
-            if text['aut'] not in autsCounts.keys():
-                autsCounts[text['aut']] = 1
-
-            else:
-                autsCounts[text['aut']] += 1
-
-            for autCount in autsCounts.items():
-                if autCount[1] > max_samples:
-                    # get random selection
-                    toBeSelected = [text for text in myTexts if text['aut'] is autCount[0]]
-                    toBeSelected = random.sample(toBeSelected, k=max_samples)
-                    # Great, now remove all texts from this author from our samples
-                    myTexts = [text for text in myTexts if text['aut'] is not autCount[0]]
-                    # and now concat
-                    myTexts = myTexts + toBeSelected
+        myTexts = max_sampling(myTexts, max_samples=max_samples)
 
     return myTexts
