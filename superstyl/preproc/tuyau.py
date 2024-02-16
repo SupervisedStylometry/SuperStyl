@@ -254,14 +254,14 @@ def docs_to_samples(paths, size, step=None, units="verses", feature="tokens", fo
             else:
                 autsCounts[text['aut']] += 1
 
-            for autCount in autsCounts.items():
-                if autCount[1] > max_samples:
-                    # get random selection
-                    toBeSelected = [text for text in myTexts if text['aut'] is autCount[0]]
-                    toBeSelected = random.sample(toBeSelected, k=max_samples)
-                    # Great, now remove all texts from this author from our samples
-                    myTexts = [text for text in myTexts if text['aut'] is not autCount[0]]
-                    # and now concat
-                    myTexts = myTexts + toBeSelected
+        for autCount in autsCounts.items():
+            if autCount[1] > max_samples:
+                # get random selection
+                toBeSelected = [text for text in myTexts if text['aut'] == autCount[0]]
+                toBeSelected = random.sample(toBeSelected, k=max_samples)
+                # Great, now remove all texts from this author from our samples
+                myTexts = [text for text in myTexts if text['aut'] != autCount[0]]
+                # and now concat
+                myTexts = myTexts + toBeSelected
 
     return myTexts
