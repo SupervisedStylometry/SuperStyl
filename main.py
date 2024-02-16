@@ -41,17 +41,17 @@ if __name__ == '__main__':
     parser.add_argument('--identify_lang', action='store_true',
                         help="if true, should the language of each text be guessed, using langdetect (default is False)",
                         default=False)
-    parser.add_argument('--embedding', action="store", help="optional path to a Glove embedding to compute frequencies among a set of semantic neighbourgs (i.e., pseudo-paronyms)",
+    parser.add_argument('--embedding', action="store", help="optional path to a word2vec embedding in txt format to compute frequencies among a set of semantic neighbourgs (i.e., pseudo-paronyms)",
                         default=False)
     parser.add_argument('--neighbouring_size', action="store", help="size of semantic neighbouring in the embedding (n closest neighbours)",
-                        default=10)
+                        default=10, type=int)
     args = parser.parse_args()
 
     embeddedFreqs = False
     if args.embedding:
         print(".......loading embedding.......")
         args.absolute_freqs = True # we need absolute freqs as a basis for embedded frequencies
-        embeddings_dict = embed.load_glove_embeddings(args.embedding)
+        model = embed.load_embeddings(args.embedding)
         embeddedFreqs = True
 
     print(".......loading texts.......")
@@ -90,7 +90,7 @@ if __name__ == '__main__':
 
     if args.embedding:
         print(".......embedding counts.......")
-        myTexts = embed.get_embedded_counts(myTexts, feat_list, embeddings_dict, topn=args.neighbouring_size)
+        myTexts = embed.get_embedded_counts(myTexts, feat_list, model, topn=args.neighbouring_size)
 
     unique_texts = [text["name"] for text in myTexts]
 

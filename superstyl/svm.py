@@ -110,7 +110,7 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
 
     if kernel == "LinearSVC":
         # try a faster one
-        estimators.append(('model', sk.LinearSVC(class_weight=cw)))
+        estimators.append(('model', sk.LinearSVC(class_weight=cw, dual="auto")))
         # classif = sk.LinearSVC()
 
     else:
