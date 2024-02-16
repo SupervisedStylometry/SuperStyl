@@ -12,16 +12,17 @@ class DataLoading(unittest.TestCase):
         # FEATURE: from a list of paths, and several options, get a myTexts object, i.e., a list of dictionaries
         # for each text, with metadata and the text itself
         # GIVEN
-        paths = glob.glob(THIS_DIR+"/testdata/*.txt")
+        paths = sorted(glob.glob(THIS_DIR+"/testdata/*.txt"))
         # WHEN
         result = superstyl.preproc.tuyau.load_texts(paths, identify_lang=False, format="txt", keep_punct=False,
                        keep_sym=False, max_samples=None)
         # THEN
         expected = [{'name': 'Dupont_Letter1.txt', 'aut': 'Dupont', 'text': 'voici le texte', 'lang': 'NA'},
-                   {'name': 'Smith_Letter2.txt', 'aut': 'Smith', 'text': 'this is also the text', 'lang': 'NA'},
-                   {'name': 'Smith_Letter1.txt', 'aut': 'Smith', 'text': 'this is the text', 'lang': 'NA'}]
+                   {'name': 'Smith_Letter1.txt', 'aut': 'Smith', 'text': 'this is the text', 'lang': 'NA'},
+                    {'name': 'Smith_Letter2.txt', 'aut': 'Smith', 'text': 'this is also the text', 'lang': 'NA'}
+                    ]
 
-        self.assertEqual(result, expected)
+        self.assertEqual(sorted(result), expected)
 
     # Now down to more precise features
     # First, testing the tuyau features
