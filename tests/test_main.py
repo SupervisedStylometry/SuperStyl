@@ -12,7 +12,7 @@ class DataLoading(unittest.TestCase):
         # FEATURE: from a list of paths, and several options, get a myTexts object, i.e., a list of dictionaries
         # for each text, with metadata and the text itself
         # GIVEN
-        paths = [os.path.join(THIS_DIR,path) for path in glob.glob("testdata/*.txt")]
+        paths = glob.glob(THIS_DIR+"/testdata/*.txt")
         # WHEN
         result = superstyl.preproc.tuyau.load_texts(paths, identify_lang=False, format="txt", keep_punct=False,
                        keep_sym=False, max_samples=None)
