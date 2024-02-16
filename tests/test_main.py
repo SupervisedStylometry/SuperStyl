@@ -22,7 +22,7 @@ class DataLoading(unittest.TestCase):
                     {'name': 'Smith_Letter2.txt', 'aut': 'Smith', 'text': 'this is also the text', 'lang': 'NA'}
                     ]
 
-        self.assertEqual(sorted(result), expected)
+        self.assertEqual(result, expected)
 
     # Now down to more precise features
     # First, testing the tuyau features
