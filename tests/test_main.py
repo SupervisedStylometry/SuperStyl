@@ -6,25 +6,40 @@ import glob
 
 THIS_DIR = os.path.dirname(os.path.abspath(__file__))
 
-class DataLoading(unittest.TestCase):
-    # Let's test the highest level functions
+class Main(unittest.TestCase):
+    # FEATURE: from a list of paths, and several options, get a myTexts object, i.e., a list of dictionaries
+    # for each text or samples, with metadata and the text itself
+    # GIVEN
+    paths = sorted(glob.glob(THIS_DIR + "/testdata/*.txt"))
     def test_load_texts(self):
-        # FEATURE: from a list of paths, and several options, get a myTexts object, i.e., a list of dictionaries
-        # for each text, with metadata and the text itself
-        # GIVEN
-        paths = sorted(glob.glob(THIS_DIR+"/testdata/*.txt"))
         # WHEN
-        result = superstyl.preproc.tuyau.load_texts(paths, identify_lang=False, format="txt", keep_punct=False,
-                       keep_sym=False, max_samples=None)
+        result = superstyl.preproc.tuyau.load_texts(self.paths, identify_lang=False, format="txt", keep_punct=False,
+                                                    keep_sym=False, max_samples=None)
         # THEN
         expected = [{'name': 'Dupont_Letter1.txt', 'aut': 'Dupont', 'text': 'voici le texte', 'lang': 'NA'},
-                   {'name': 'Smith_Letter1.txt', 'aut': 'Smith', 'text': 'this is the text', 'lang': 'NA'},
+                    {'name': 'Smith_Letter1.txt', 'aut': 'Smith', 'text': 'this is the text', 'lang': 'NA'},
                     {'name': 'Smith_Letter2.txt', 'aut': 'Smith', 'text': 'this is also the text', 'lang': 'NA'}
                     ]
 
         self.assertEqual(result, expected)
 
-    # Now down to more precise features
+    def test_docs_to_samples(self):
+        # WHEN
+        result = superstyl.preproc.tuyau.docs_to_samples(self.paths, identify_lang=False, size=2, step=None, units="words",
+                                                feature="tokens", format="txt", keep_punct=False, keep_sym=False,
+                                                max_samples=None)
+        # THEN
+        expected = [{'name': 'Dupont_Letter1.txt_0-2', 'aut': 'Dupont', 'text': 'voici le', 'lang': 'NA'},
+                    {'name': 'Smith_Letter1.txt_0-2', 'aut': 'Smith', 'text': 'this is', 'lang': 'NA'},
+                    {'name': 'Smith_Letter1.txt_2-4', 'aut': 'Smith', 'text': 'the text', 'lang': 'NA'},
+                    {'name': 'Smith_Letter2.txt_0-2', 'aut': 'Smith', 'text': 'this is', 'lang': 'NA'},
+                    {'name': 'Smith_Letter2.txt_2-4', 'aut': 'Smith', 'text': 'also the', 'lang': 'NA'}]
+        self.assertEqual(result, expected)
+
+
+class DataLoading(unittest.TestCase):
+
+     # Now down to lower level features
     # First, testing the tuyau features
     def test_normalise(self):
         text = " Hello,  Mr. 𓀁, how are §§ you; doing?"
