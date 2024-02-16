@@ -1,8 +1,29 @@
 import unittest
 import superstyl.preproc.tuyau
 import superstyl.preproc.features_extract
+import os
+import glob
+
+THIS_DIR = os.path.dirname(os.path.abspath(__file__))
 
 class DataLoading(unittest.TestCase):
+    # Let's test the highest level functions
+    def test_load_texts(self):
+        # FEATURE: from a list of paths, and several options, get a myTexts object, i.e., a list of dictionaries
+        # for each text, with metadata and the text itself
+        # GIVEN
+        paths = [os.path.join(THIS_DIR,path) for path in glob.glob("testdata/*.txt")]
+        # WHEN
+        result = superstyl.preproc.tuyau.load_texts(paths, identify_lang=False, format="txt", keep_punct=False,
+                       keep_sym=False, max_samples=None)
+        # THEN
+        expected = [{'name': 'Dupont_Letter1.txt', 'aut': 'Dupont', 'text': 'voici le texte', 'lang': 'NA'},
+                   {'name': 'Smith_Letter2.txt', 'aut': 'Smith', 'text': 'this is also the text', 'lang': 'NA'},
+                   {'name': 'Smith_Letter1.txt', 'aut': 'Smith', 'text': 'this is the text', 'lang': 'NA'}]
+
+        self.assertEqual(result, expected)
+
+    # Now down to more precise features
     # First, testing the tuyau features
     def test_normalise(self):
         text = " Hello,  Mr. 𓀁, how are §§ you; doing?"
@@ -65,6 +86,19 @@ class DataLoading(unittest.TestCase):
             superstyl.preproc.features_extract.count_words(text, feat_list=['the'], feats="chars", n=3, relFreqs=True),
             {'the': 1/7}
         )
+
+    def test_max_sampling(self):
+        # FEATURE: randomly select a maximum number of samples by author/class
+        # GIVEN
+        myTexts = [
+            {"name": "Letter1", "aut": "Smith", "text": "This is the text", "lang": "en"},
+            {"name": "Letter2", "aut": "Smith", "text": "This is also the text", "lang": "en"},
+            {"name": "Letter1", "aut": "Dupont", "text": "Voici le texte", "lang": "fr"},
+        ]
+        # WHEN
+        results = superstyl.preproc.tuyau.max_sampling(myTexts, max_samples=1)
+        # EXPECT
+        self.assertEqual(len([text for text in results if text["aut"] == 'Smith']), 1)
 
     # Testing the processing of "myTexts" objects
     def test_get_feature_list(self):
