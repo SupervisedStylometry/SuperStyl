@@ -242,3 +242,13 @@ def plot_coefficients(coefs, feature_names, current_class, top_features=10):
     plt.title("Coefficients for "+current_class)
     plt.savefig('coefs_' + current_class + '.png', bbox_inches='tight')
     # TODO: write them to disk as CSV files
+    # FOLLOW-UP: New code to write coefficients to disk as CSV 
+    # I also give back a message notifying of the file creation and showing the file name.
+    # First: pairing feature names with their coefficients
+    coefficients_df = pd.DataFrame({'Feature Name': feature_names, 'Coefficient': coefs})
+    # Sorting the dataframe by values of coefficients in descending order
+    coefficients_df = coefficients_df.reindex(coefficients_df.Coefficient.abs().sort_values(ascending=False).index)
+    # Writing to CSV
+    coefficients_filename = 'coefs_' + current_class + '.csv'
+    coefficients_df.to_csv(coefficients_filename, index=False)
+    print(f"Coefficients for {current_class} written to {coefficients_filename}")
