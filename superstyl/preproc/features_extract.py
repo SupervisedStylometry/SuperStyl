@@ -14,6 +14,8 @@ def count_words(text, feat_list=None, feats = "words", n = 1, relFreqs = False):
     :param relFreqs: whether to compute relative freqs
     :return: feature frequencies in text
     """
+    # Should this be called count_words ? It counts other features as well... count_features ? It's just a grep and replace away.
+    # Same for the first sentence of the paragraph that I find confusing.
 
     if feats == "words":
         tokens = nltk.tokenize.wordpunct_tokenize(text)
