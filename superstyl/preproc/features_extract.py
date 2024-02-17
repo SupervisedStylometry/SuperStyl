@@ -38,6 +38,11 @@ def count_words(text, feat_list=None, feats = "words", n = 1, relFreqs = False):
         else:
             tokens = pos_tags
 
+    # Adding sentence length ; still commented as it is a work in progress, an integer won't do, a quantile would be better
+    #elif feats == "sentenceLength":
+    #    sentences = nltk.tokenize.sent_tokenize(text)
+    #      tokens = tokens = [str(len(nltk.tokenize.word_tokenize(sentence))) for sentence in sentences]
+
     #Adding an error message in case some distracted guy like me would enter something wrong:
     else:
         raise ValueError("Unsupported feature type. Choose from 'words', 'chars', or 'pos'.")
