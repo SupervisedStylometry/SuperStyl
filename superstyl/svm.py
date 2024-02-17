@@ -61,7 +61,7 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
     if dim_reduc == 'pca':
         print(".......... using PCA ........")
         estimators.append(('dim_reduc', decomp.PCA()))  # chosen with default
-        # wich is: n_components = min(n_samples, n_features)
+        # which is: n_components = min(n_samples, n_features)
 
 #    if dim_reduc == 'som':
 #        print(".......... using SOM ........")  # TODO: fix SOM
