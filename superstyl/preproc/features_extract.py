@@ -9,7 +9,7 @@ def count_words(text, feat_list=None, feats = "words", n = 1, relFreqs = False):
     Get word counts from  a text
     :param text: the source text
     :param feat_list: a list of features to be selected
-    :param feats: the type of feats (words, chars, etc.)
+    :param feats: the type of feats: words, chars, POS (supported only for English)
     :param n: the length of n-grams
     :param relFreqs: whether to compute relative freqs
     :return: feature frequencies in text
@@ -23,10 +23,25 @@ def count_words(text, feat_list=None, feats = "words", n = 1, relFreqs = False):
         if n > 1:
             tokens = ["_".join(t) for t in list(nltk.ngrams(tokens, n))]
 
-    if feats == "chars":
+    elif feats == "chars":
         tokens = list(text.replace(' ', '_'))
         if n > 1:
             tokens = ["".join(t) for t in list(nltk.ngrams(tokens, n))]
+
+    #Adding POS for English language with NLTK
+    
+    elif feats == "pos":
+        words = nltk.tokenize.word_tokenize(text)
+        pos_tags = [pos for word, pos in nltk.pos_tag(words)]
+        if n > 1:
+            tokens = ["_".join(t) for t in list(nltk.ngrams(pos_tags, n))]
+        else:
+            tokens = pos_tags
+
+    #Adding an error message in case some distracted guy like me would enter something wrong:
+    else:
+        raise ValueError("Unsupported feature type. Choose from 'words', 'chars', or 'pos'.")
+
 
     counts = {}
 
@@ -56,7 +71,7 @@ def get_feature_list(myTexts, feats="words", n=1, relFreqs=True):
     """
     :param myTexts: a 'myTexts' object, containing documents to be processed
     :param feat_list: a list of features to be selected
-    :param feats: type of feats (words, chars)
+    :param feats: type of feats (words, chars, POS)
     :param n: n-grams length
     :return: list of features, with total frequency
     """
