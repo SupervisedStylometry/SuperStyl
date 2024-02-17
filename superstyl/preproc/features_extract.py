@@ -19,7 +19,6 @@ def count_words(text, feat_list=None, feats = "words", n = 1, relFreqs = False):
 
     if feats == "words":
         tokens = nltk.tokenize.wordpunct_tokenize(text)
-
         if n > 1:
             tokens = ["_".join(t) for t in list(nltk.ngrams(tokens, n))]
 
@@ -28,8 +27,7 @@ def count_words(text, feat_list=None, feats = "words", n = 1, relFreqs = False):
         if n > 1:
             tokens = ["".join(t) for t in list(nltk.ngrams(tokens, n))]
 
-    #Adding POS for English language with NLTK
-    
+    #POS in english with NLTK - need to propose spacy later on
     elif feats == "pos":
         words = nltk.tokenize.word_tokenize(text)
         pos_tags = [pos for word, pos in nltk.pos_tag(words)]
@@ -41,7 +39,7 @@ def count_words(text, feat_list=None, feats = "words", n = 1, relFreqs = False):
     # Adding sentence length ; still commented as it is a work in progress, an integer won't do, a quantile would be better
     #elif feats == "sentenceLength":
     #    sentences = nltk.tokenize.sent_tokenize(text)
-    #      tokens = tokens = [str(len(nltk.tokenize.word_tokenize(sentence))) for sentence in sentences]
+    #    tokens = [str(len(nltk.tokenize.word_tokenize(sentence))) for sentence in sentences]
 
     #Adding an error message in case some distracted guy like me would enter something wrong:
     else:
