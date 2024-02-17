@@ -104,7 +104,8 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
             estimators.append(('sampling', over.RandomOverSampler(random_state=42)))
 
         if balance in ['SMOTE', 'SMOTETomek']:
-            # Adjust n_neighbors for SMOTE/SMOTETomek based on smallest class size
+            # Adjust n_neighbors for SMOTE/SMOTETomek based on smallest class size: 
+            # Ensures that the resampling method does not attempt to use more neighbors than available samples in the minority class, which produced the error.
             min_class_size = min(Counter(classes).values())
             n_neighbors = min(5, min_class_size - 1)  # Default n_neighbors in SMOTE is 5
 
