@@ -62,18 +62,6 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
         print(".......... using PCA ........")
         estimators.append(('dim_reduc', decomp.PCA()))  # chosen with default
         # which is: n_components = min(n_samples, n_features)
-
-#    if dim_reduc == 'som':
-#        print(".......... using SOM ........")  # TODO: fix SOM
-#        som = minisom.MiniSom(20, 20, nfeats, sigma=0.3, learning_rate=0.5)  # initialization of 50x50 SOM
-#        # TODO: set robust defaults, and calculate number of columns automatically
-#        som.train_random(train.values, 100)
-#        # too long to compute
-#        # som.quantization_error(train)
-#        print(".......... assigning SOM coordinates to texts ........")
-#        train = som.quantization(train.values)
-#        test = som.quantization(test.values)
-
     if norms:
         # Z-scores
         print(".......... using normalisations ........")
@@ -84,10 +72,7 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
         estimators.append(('normalizer', preproc.Normalizer()))
 
     if balance is not None:
-        # cf. machinelearningmastery.com/combine-oversampling-and-undersampling-for-imbalanced-classification
-        # https://github.com/scikit-learn-contrib/imbalanced-learn
-        # Tons of option, look up the best ones
-
+    
         print(".......... implementing strategy to solve imbalance in data ........")
 
         if balance == 'downsampling':
