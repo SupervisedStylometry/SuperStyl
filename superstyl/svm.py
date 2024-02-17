@@ -36,9 +36,15 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
     :return: returns a pipeline with a fitted svm model, and if possible prints evaluation and writes to disk:
     confusion_matrix.csv, misattributions.csv and (if required) FINAL_PREDICTIONS.csv
     """
-    # TODO: fix n samples in SMOTE and SMOTETomek
-    # ValueError: Expected n_neighbors <= n_samples,  but n_samples = 5, n_neighbors = 6
-    #
+    valid_dim_reduc_options = {None, 'pca'}
+    valid_balance_options = {None, 'downsampling', 'upsampling', 'Tomek', 'SMOTE', 'SMOTETomek'}
+    # Validate dimension reduction parameter
+    if dim_reduc not in valid_dim_reduc_options:
+        raise ValueError(f"Invalid dimensionality reduction option: '{dim_reduc}'. Valid options are {valid_dim_reduc_options}.")
+    # Validate 'balance' parameter
+    if balance not in valid_balance_options:
+        raise ValueError(f"Invalid balance option: '{balance}'. Valid options are {valid_balance_options}.")
+
 
     print(".......... Formatting data ........")
     # Save the classes
