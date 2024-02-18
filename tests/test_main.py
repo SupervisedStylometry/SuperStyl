@@ -11,9 +11,9 @@ class Main(unittest.TestCase):
     # for each text or samples, with metadata and the text itself
     # GIVEN
     paths = sorted(glob.glob(THIS_DIR + "/testdata/*.txt"))
-    def test_load_texts(self):
+    def test_load_texts_txt(self):
         # WHEN
-        result = superstyl.preproc.tuyau.load_texts(self.paths, identify_lang=False, format="txt", keep_punct=False,
+        results = superstyl.preproc.tuyau.load_texts(self.paths, identify_lang=False, format="txt", keep_punct=False,
                                                     keep_sym=False, max_samples=None)
         # THEN
         expected = [{'name': 'Dupont_Letter1.txt', 'aut': 'Dupont', 'text': 'voici le texte', 'lang': 'NA'},
@@ -21,7 +21,41 @@ class Main(unittest.TestCase):
                     {'name': 'Smith_Letter2.txt', 'aut': 'Smith', 'text': 'this is also the text', 'lang': 'NA'}
                     ]
 
-        self.assertEqual(result, expected)
+        self.assertEqual(results, expected)
+
+        # WHEN
+        results = superstyl.preproc.tuyau.load_texts(self.paths, identify_lang=False, format="txt", keep_punct=False,
+                                                    keep_sym=False, max_samples=1)
+        # THEN
+        self.assertEqual(len([text for text in results if text["aut"] == 'Smith']), 1)
+
+        # WHEN
+        results = superstyl.preproc.tuyau.load_texts(self.paths, identify_lang=False, format="txt", keep_punct=True,
+                                                     keep_sym=False, max_samples=None)
+        # THEN
+        expected = [{'name': 'Dupont_Letter1.txt', 'aut': 'Dupont', 'text': 'Voici le texte!', 'lang': 'NA'},
+                    {'name': 'Smith_Letter1.txt', 'aut': 'Smith', 'text': 'This is the text!', 'lang': 'NA'},
+                    {'name': 'Smith_Letter2.txt', 'aut': 'Smith', 'text': 'This is, also , the text!', 'lang': 'NA'}]
+
+        self.assertEqual(results, expected)
+
+        #TODO: test keep_sym, according to revised definition
+        # WHEN
+        # results = superstyl.preproc.tuyau.load_texts(self.paths, identify_lang=False, format="txt",
+        #                                             keep_sym=True, max_samples=None)
+        # THEN
+        # expected = [{'name': 'Dupont_Letter1.txt', 'aut': 'Dupont', 'text': 'Voici le texte!', 'lang': 'NA'},
+        #            {'name': 'Smith_Letter1.txt', 'aut': 'Smith', 'text': 'This is the text!', 'lang': 'NA'},
+        #            {'name': 'Smith_Letter2.txt', 'aut': 'Smith', 'text': 'This is, also , the text!', 'lang': 'NA'}]
+
+        # WHEN
+        results = superstyl.preproc.tuyau.load_texts(self.paths, identify_lang=True, format="txt", keep_punct=True,
+                                                     keep_sym=False, max_samples=None)
+        # THEN
+        # Just testing that a lang is predicted, not if it is ok or not
+        self.assertEqual(len([text for text in results if text["lang"] != 'NA']), 3)
+
+    #TODO: test other loading formats, that are not txt (and decide on their implementation)
 
     def test_docs_to_samples(self):
         # WHEN
