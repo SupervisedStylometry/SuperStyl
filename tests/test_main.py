@@ -59,7 +59,7 @@ class Main(unittest.TestCase):
 
     def test_docs_to_samples(self):
         # WHEN
-        result = superstyl.preproc.tuyau.docs_to_samples(self.paths, identify_lang=False, size=2, step=None, units="words",
+        results = superstyl.preproc.tuyau.docs_to_samples(self.paths, identify_lang=False, size=2, step=None, units="words",
                                                 feature="tokens", format="txt", keep_punct=False, keep_sym=False,
                                                 max_samples=None)
         # THEN
@@ -68,8 +68,53 @@ class Main(unittest.TestCase):
                     {'name': 'Smith_Letter1.txt_2-4', 'aut': 'Smith', 'text': 'the text', 'lang': 'NA'},
                     {'name': 'Smith_Letter2.txt_0-2', 'aut': 'Smith', 'text': 'this is', 'lang': 'NA'},
                     {'name': 'Smith_Letter2.txt_2-4', 'aut': 'Smith', 'text': 'also the', 'lang': 'NA'}]
-        self.assertEqual(result, expected)
+        self.assertEqual(results, expected)
 
+        # WHEN
+        results = superstyl.preproc.tuyau.docs_to_samples(self.paths, identify_lang=False, size=2, step=1,
+                                                          units="words",
+                                                          feature="tokens", format="txt", keep_punct=True,
+                                                          keep_sym=False,
+                                                          max_samples=None)
+
+        # THEN
+        expected = [{'name': 'Dupont_Letter1.txt_0-2', 'aut': 'Dupont', 'text': 'Voici le', 'lang': 'NA'},
+                    {'name': 'Dupont_Letter1.txt_1-3', 'aut': 'Dupont', 'text': 'le texte', 'lang': 'NA'},
+                    {'name': 'Dupont_Letter1.txt_2-4', 'aut': 'Dupont', 'text': 'texte !', 'lang': 'NA'},
+                    {'name': 'Smith_Letter1.txt_0-2', 'aut': 'Smith', 'text': 'This is', 'lang': 'NA'},
+                    {'name': 'Smith_Letter1.txt_1-3', 'aut': 'Smith', 'text': 'is the', 'lang': 'NA'},
+                    {'name': 'Smith_Letter1.txt_2-4', 'aut': 'Smith', 'text': 'the text', 'lang': 'NA'},
+                    {'name': 'Smith_Letter1.txt_3-5', 'aut': 'Smith', 'text': 'text !', 'lang': 'NA'},
+                    {'name': 'Smith_Letter2.txt_0-2', 'aut': 'Smith', 'text': 'This is', 'lang': 'NA'},
+                    {'name': 'Smith_Letter2.txt_1-3', 'aut': 'Smith', 'text': 'is ,', 'lang': 'NA'},
+                    {'name': 'Smith_Letter2.txt_2-4', 'aut': 'Smith', 'text': ', also', 'lang': 'NA'},
+                    {'name': 'Smith_Letter2.txt_3-5', 'aut': 'Smith', 'text': 'also ,', 'lang': 'NA'},
+                    {'name': 'Smith_Letter2.txt_4-6', 'aut': 'Smith', 'text': ', the', 'lang': 'NA'},
+                    {'name': 'Smith_Letter2.txt_5-7', 'aut': 'Smith', 'text': 'the text', 'lang': 'NA'},
+                    {'name': 'Smith_Letter2.txt_6-8', 'aut': 'Smith', 'text': 'text !', 'lang': 'NA'}]
+        self.assertEqual(results, expected)
+
+        # TODO: test keep_sym
+
+        # WHEN
+        results = superstyl.preproc.tuyau.docs_to_samples(self.paths, identify_lang=True, size=2, step=None,
+                                                          units="words",
+                                                          feature="tokens", format="txt", keep_punct=False,
+                                                          keep_sym=False,
+                                                          max_samples=None)
+        # THEN
+        self.assertEqual(len([text for text in results if text["lang"] != 'NA']), 5)
+
+        # WHEN
+        results = superstyl.preproc.tuyau.docs_to_samples(self.paths, identify_lang=False, size=2, step=None,
+                                                         units="words",
+                                                         feature="tokens", format="txt", keep_punct=False,
+                                                         keep_sym=False,
+                                                         max_samples=1)
+        # THEN
+        self.assertEqual(len([text for text in results if text["aut"] == 'Smith']), 1)
+
+    # TODO: test other loading formats with sampling, that are not txt (and decide on their implementation)
 
 class DataLoading(unittest.TestCase):
 
@@ -81,7 +126,7 @@ class DataLoading(unittest.TestCase):
         self.assertEqual(superstyl.preproc.tuyau.normalise(text), expected_default)
         expected_keeppunct = "Hello, Mr. , how are SSSS you; doing?"
         self.assertEqual(superstyl.preproc.tuyau.normalise(text, keep_punct=True), expected_keeppunct)
-        expected_keepsym = "Hello, Mr. 𓀁, how are §§ you; doing?"
+        expected_keepsym = "Hello, Mr. 𓀁, how are §§ you; doing?" #TODO: modify test according to new def
         self.assertEqual(superstyl.preproc.tuyau.normalise(text, keep_sym=True), expected_keepsym)
 
     def test_detect_lang(self):
