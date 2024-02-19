@@ -197,15 +197,44 @@ class DataLoading(unittest.TestCase):
 
     # Testing the processing of "myTexts" objects
     def test_get_feature_list(self):
+        # FEATURE For a myTexts object with several texts, extract the relevant features (words or chars n-grams)
+        # GIVEN
         myTexts = [
             {"name": "Letter1", "aut": "Smith", "text": "This is the text", "lang": "en"},
             {"name": "Letter2", "aut": "Smith", "text": "This is also the text", "lang": "en"},
             {"name": "Letter1", "aut": "Dupont", "text": "Voici le texte", "lang": "fr"},
         ]
-        self.assertEqual(
-            superstyl.preproc.features_extract.get_feature_list(myTexts, feats="words", n=1, relFreqs=False),
-            [('This', 2), ('is', 2), ('the', 2), ('text', 2), ('also', 1), ('Voici', 1), ('le', 1), ('texte', 1)]
-        )
+        # WHEN
+        results = superstyl.preproc.features_extract.get_feature_list(myTexts, feats="words", n=1, relFreqs=False)
+        # THEN
+        expected = [('This', 2), ('is', 2), ('the', 2), ('text', 2), ('also', 1), ('Voici', 1), ('le', 1), ('texte', 1)]
+        self.assertEqual(results, expected)
+
+        # WHEN
+        results = superstyl.preproc.features_extract.get_feature_list(myTexts, feats="words", n=1, relFreqs=True)
+        # THEN
+        # TODO: BUG (sum of relative frequencies?)
+        expected = [('This', 2/12), ('is', 2/12), ('the', 2/12), ('text', 2/12), ('Voici', 1/12),
+                    ('le', 1/12), ('texte', 1/12), ('also', 1/12)]
+        self.assertEqual(results, expected)
+
+        # WHEN
+        results = superstyl.preproc.features_extract.get_feature_list(myTexts, feats="words", n=2, relFreqs=False)
+
+        # THEN
+        expected = [('This_is', 2), ('the_text', 2), ('is_the', 1), ('is_also', 1), ('also_the', 1), ('Voici_le', 1), ('le_texte', 1)]
+        self.assertEqual(results, expected)
+
+        # WHEN
+        results = superstyl.preproc.features_extract.get_feature_list(myTexts[0:2], feats="chars", n=2, relFreqs=False)
+
+        # THEN
+        expected = [('is', 4), ('s_', 4), ('_t', 4), ('Th', 2), ('hi', 2), ('_i', 2), ('th', 2), ('he', 2), ('e_', 2),
+                    ('te', 2), ('ex', 2), ('xt', 2), ('_a', 1), ('al', 1), ('ls', 1), ('so', 1), ('o_', 1)]
+        self.assertEqual(results, expected)
+
+
+
 
     def test_get_counts(self):
         myTexts = [

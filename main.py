@@ -4,8 +4,6 @@ from superstyl.preproc.text_count import count_process
 import superstyl.preproc.embedding as embed
 import pandas
 import json
-# from multiprocessing import Pool
-from multiprocessing.pool import ThreadPool as Pool
 import tqdm
 # from importlib import reload
 # tuy = reload(tuy)
