@@ -3,7 +3,7 @@ import regex as re
 def filter_ngrams(feat_list, affixes=True, punct=True):
     """
     Filter a list of features in input to yield a selection of n-grams, according to the parameters,
-    following Sapktota et al.
+    following Sapkota et al., NAACL 2015
     feat_list: the feature list (typically, coming of main.py and loaded)
      affixes: affixes (n-grams beginning or ending by space)
      punct: n-grams containing punctuation

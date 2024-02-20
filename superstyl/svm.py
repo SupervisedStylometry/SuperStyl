@@ -11,6 +11,9 @@ import imblearn.under_sampling as under
 import imblearn.over_sampling as over
 import imblearn.combine as comb
 import imblearn.pipeline as imbp
+from collections import Counter
+
+
 
 def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True, balance=False, class_weights=False, kernel="LinearSVC",
               final_pred=False, get_coefs=False):
@@ -33,9 +36,15 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
     :return: returns a pipeline with a fitted svm model, and if possible prints evaluation and writes to disk:
     confusion_matrix.csv, misattributions.csv and (if required) FINAL_PREDICTIONS.csv
     """
-    # TODO: fix n samples in SMOTE and SMOTETomek
-    # ValueError: Expected n_neighbors <= n_samples,  but n_samples = 5, n_neighbors = 6
-    #
+    valid_dim_reduc_options = {None, 'pca'}
+    valid_balance_options = {None, 'downsampling', 'upsampling', 'Tomek', 'SMOTE', 'SMOTETomek'}
+    # Validate dimension reduction parameter
+    if dim_reduc not in valid_dim_reduc_options:
+        raise ValueError(f"Invalid dimensionality reduction option: '{dim_reduc}'. Valid options are {valid_dim_reduc_options}.")
+    # Validate 'balance' parameter
+    if balance not in valid_balance_options:
+        raise ValueError(f"Invalid balance option: '{balance}'. Valid options are {valid_balance_options}.")
+
 
     print(".......... Formatting data ........")
     # Save the classes
@@ -58,19 +67,7 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
     if dim_reduc == 'pca':
         print(".......... using PCA ........")
         estimators.append(('dim_reduc', decomp.PCA()))  # chosen with default
-        # wich is: n_components = min(n_samples, n_features)
-
-#    if dim_reduc == 'som':
-#        print(".......... using SOM ........")  # TODO: fix SOM
-#        som = minisom.MiniSom(20, 20, nfeats, sigma=0.3, learning_rate=0.5)  # initialization of 50x50 SOM
-#        # TODO: set robust defaults, and calculate number of columns automatically
-#        som.train_random(train.values, 100)
-#        # too long to compute
-#        # som.quantization_error(train)
-#        print(".......... assigning SOM coordinates to texts ........")
-#        train = som.quantization(train.values)
-#        test = som.quantization(test.values)
-
+        # which is: n_components = min(n_samples, n_features)
     if norms:
         # Z-scores
         print(".......... using normalisations ........")
@@ -81,10 +78,7 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
         estimators.append(('normalizer', preproc.Normalizer()))
 
     if balance is not None:
-        # cf. machinelearningmastery.com/combine-oversampling-and-undersampling-for-imbalanced-classification
-        # https://github.com/scikit-learn-contrib/imbalanced-learn
-        # Tons of option, look up the best ones
-
+    
         print(".......... implementing strategy to solve imbalance in data ........")
 
         if balance == 'downsampling':
@@ -100,11 +94,19 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
         if balance == 'upsampling':
             estimators.append(('sampling', over.RandomOverSampler(random_state=42)))
 
-        if balance == 'SMOTE':
-            estimators.append(('sampling', over.SMOTE(random_state=42)))
+        if balance in ['SMOTE', 'SMOTETomek']:
+            # Adjust n_neighbors for SMOTE/SMOTETomek based on smallest class size: 
+            # Ensures that the resampling method does not attempt to use more neighbors than available samples in the minority class, which produced the error.
+            min_class_size = min(Counter(classes).values())
+            n_neighbors = min(5, min_class_size - 1)  # Default n_neighbors in SMOTE is 5
+            # In case we have to temper with the n_neighbors, we print a warning message to the user (might be written more clearly, but we want a short message, right?)
+            if n_neighbors >= min_class_size:
+                print(f"Warning: Adjusting n_neighbors for SMOTE / SMOTETomek to {n_neighbors} due to small class size.")
+            if balance == 'SMOTE':
+                estimators.append(('sampling', over.SMOTE(n_neighbors=n_neighbors, random_state=42)))
+            elif balance == 'SMOTETomek':
+                estimators.append(('sampling', comb.SMOTETomek(n_neighbors=n_neighbors, random_state=42)))
 
-        if balance == 'SMOTETomek':
-            estimators.append(('sampling', comb.SMOTETomek(random_state=42)))
 
     print(".......... choosing SVM ........")
 
@@ -246,3 +248,13 @@ def plot_coefficients(coefs, feature_names, current_class, top_features=10):
     plt.title("Coefficients for "+current_class)
     plt.savefig('coefs_' + current_class + '.png', bbox_inches='tight')
     # TODO: write them to disk as CSV files
+    # FOLLOW-UP: New code to write coefficients to disk as CSV 
+    # I also give back a message notifying of the file creation and showing the file name.
+    # First: pairing feature names with their coefficients
+    coefficients_df = pandas.DataFrame({'Feature Name': feature_names, 'Coefficient': coefs})
+    # Sorting the dataframe by values of coefficients in descending order
+    coefficients_df = coefficients_df.reindex(coefficients_df.Coefficient.abs().sort_values(ascending=False).index)
+    # Writing to CSV
+    coefficients_filename = 'coefs_' + current_class + '.csv'
+    coefficients_df.to_csv(coefficients_filename, index=False)
+    print(f"Coefficients for {current_class} written to {coefficients_filename}")
