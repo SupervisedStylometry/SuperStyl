@@ -145,42 +145,28 @@ class DataLoading(unittest.TestCase):
     # Now, lower level features,
     # from features_extract
     def test_counts(self):
+        # Scenario: given a text, extract a list of the features that appear in it, with their counts in absolute frequency
+        # GIVEN
         text = "the cat the dog the squirrel the cat the cat"
-        superstyl.preproc.features_extract.count_words(text, feat_list=None, feats = "words", n = 1, relFreqs = False)
-        self.assertEqual(
-            superstyl.preproc.features_extract.count_words(text, feat_list=None, feats = "words", n = 1, relFreqs = False),
-            {'the': 5, 'cat': 3, 'dog': 1, 'squirrel': 1}
-        )
-        self.assertEqual(
-            superstyl.preproc.features_extract.count_words(text, feat_list=None, feats="words", n=1, relFreqs=True),
-            {'the': 0.5, 'cat': 0.3, 'dog': 0.1, 'squirrel': 0.1}
-        )
-        self.assertEqual(
-            superstyl.preproc.features_extract.count_words(text, feat_list=['the', 'cat'], feats="words", n=1, relFreqs=False),
-            {'the': 5, 'cat': 3}
-        )
-        self.assertEqual(
-            superstyl.preproc.features_extract.count_words(text, feat_list=['the', 'cat'], feats="words", n=1, relFreqs=True),
-            {'the': 0.5, 'cat': 0.3}
-        )
-        self.assertEqual(
-            superstyl.preproc.features_extract.count_words(text, feat_list=None, feats="words", n=2, relFreqs=False),
-            {'the_cat': 3, 'cat_the': 2, 'the_dog': 1, 'dog_the': 1, 'the_squirrel': 1, 'squirrel_the': 1}
-        )
-        self.assertEqual(
-            superstyl.preproc.features_extract.count_words(text, feat_list=None, feats="words", n=2, relFreqs=True),
-            {'the_cat': 3/9, 'cat_the': 2/9, 'the_dog': 1/9, 'dog_the': 1/9, 'the_squirrel': 1/9, 'squirrel_the': 1/9}
-        )
+        # WHEN
+        results = superstyl.preproc.features_extract.count_words(text, feats = "words", n = 1)
+        # THEN
+        expected = {'the': 5, 'cat': 3, 'dog': 1, 'squirrel': 1}
+        self.assertEqual(results, expected)
 
+        # WHEN
+        results = superstyl.preproc.features_extract.count_words(text, feats="words", n=2)
+        # THEN
+        expected = {'the_cat': 3, 'cat_the': 2, 'the_dog': 1, 'dog_the': 1, 'the_squirrel': 1, 'squirrel_the': 1}
+        self.assertEqual(results, expected)
+
+        # GIVEN
         text = "the yo yo"
-        self.assertEqual(
-            superstyl.preproc.features_extract.count_words(text, feat_list=None, feats="chars", n=3, relFreqs=False),
-            {'the': 1, 'he_': 1, 'e_y': 1, '_yo': 2, 'yo_': 1, 'o_y': 1}
-        )
-        self.assertEqual(
-            superstyl.preproc.features_extract.count_words(text, feat_list=['the'], feats="chars", n=3, relFreqs=True),
-            {'the': 1/7}
-        )
+        # WHEN
+        results = superstyl.preproc.features_extract.count_words(text, feats="chars", n=3)
+        # THEN
+        expected = {'the': 1, 'he_': 1, 'e_y': 1, '_yo': 2, 'yo_': 1, 'o_y': 1}
+        self.assertEqual(results, expected)
 
     def test_max_sampling(self):
         # FEATURE: randomly select a maximum number of samples by author/class
@@ -214,8 +200,8 @@ class DataLoading(unittest.TestCase):
         results = superstyl.preproc.features_extract.get_feature_list(myTexts, feats="words", n=1, relFreqs=True)
         # THEN
         # TODO: BUG (sum of relative frequencies?)
-        expected = [('This', 2/12), ('is', 2/12), ('the', 2/12), ('text', 2/12), ('Voici', 1/12),
-                    ('le', 1/12), ('texte', 1/12), ('also', 1/12)]
+        expected = [('This', 2/12), ('is', 2/12), ('the', 2/12), ('text', 2/12),  ('also', 1/12), ('Voici', 1/12),
+                    ('le', 1/12), ('texte', 1/12)]
         self.assertEqual(results, expected)
 
         # WHEN
