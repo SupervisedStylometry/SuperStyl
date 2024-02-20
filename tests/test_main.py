@@ -1,5 +1,5 @@
 import unittest
-import superstyl.preproc.tuyau
+import superstyl.preproc.pipe
 import superstyl.preproc.features_extract
 import os
 import glob
@@ -13,7 +13,7 @@ class Main(unittest.TestCase):
     paths = sorted(glob.glob(THIS_DIR + "/testdata/*.txt"))
     def test_load_texts_txt(self):
         # WHEN
-        results = superstyl.preproc.tuyau.load_texts(self.paths, identify_lang=False, format="txt", keep_punct=False,
+        results = superstyl.preproc.pipe.load_texts(self.paths, identify_lang=False, format="txt", keep_punct=False,
                                                     keep_sym=False, max_samples=None)
         # THEN
         expected = [{'name': 'Dupont_Letter1.txt', 'aut': 'Dupont', 'text': 'voici le texte', 'lang': 'NA'},
@@ -24,13 +24,13 @@ class Main(unittest.TestCase):
         self.assertEqual(results, expected)
 
         # WHEN
-        results = superstyl.preproc.tuyau.load_texts(self.paths, identify_lang=False, format="txt", keep_punct=False,
+        results = superstyl.preproc.pipe.load_texts(self.paths, identify_lang=False, format="txt", keep_punct=False,
                                                     keep_sym=False, max_samples=1)
         # THEN
         self.assertEqual(len([text for text in results if text["aut"] == 'Smith']), 1)
 
         # WHEN
-        results = superstyl.preproc.tuyau.load_texts(self.paths, identify_lang=False, format="txt", keep_punct=True,
+        results = superstyl.preproc.pipe.load_texts(self.paths, identify_lang=False, format="txt", keep_punct=True,
                                                      keep_sym=False, max_samples=None)
         # THEN
         expected = [{'name': 'Dupont_Letter1.txt', 'aut': 'Dupont', 'text': 'Voici le texte!', 'lang': 'NA'},
@@ -41,7 +41,7 @@ class Main(unittest.TestCase):
 
         #TODO: test keep_sym, according to revised definition
         # WHEN
-        # results = superstyl.preproc.tuyau.load_texts(self.paths, identify_lang=False, format="txt",
+        # results = superstyl.preproc.pipe.load_texts(self.paths, identify_lang=False, format="txt",
         #                                             keep_sym=True, max_samples=None)
         # THEN
         # expected = [{'name': 'Dupont_Letter1.txt', 'aut': 'Dupont', 'text': 'Voici le texte!', 'lang': 'NA'},
@@ -49,7 +49,7 @@ class Main(unittest.TestCase):
         #            {'name': 'Smith_Letter2.txt', 'aut': 'Smith', 'text': 'This is, also , the text!', 'lang': 'NA'}]
 
         # WHEN
-        results = superstyl.preproc.tuyau.load_texts(self.paths, identify_lang=True, format="txt", keep_punct=True,
+        results = superstyl.preproc.pipe.load_texts(self.paths, identify_lang=True, format="txt", keep_punct=True,
                                                      keep_sym=False, max_samples=None)
         # THEN
         # Just testing that a lang is predicted, not if it is ok or not
@@ -59,7 +59,7 @@ class Main(unittest.TestCase):
 
     def test_docs_to_samples(self):
         # WHEN
-        results = superstyl.preproc.tuyau.docs_to_samples(self.paths, identify_lang=False, size=2, step=None, units="words",
+        results = superstyl.preproc.pipe.docs_to_samples(self.paths, identify_lang=False, size=2, step=None, units="words",
                                                 feature="tokens", format="txt", keep_punct=False, keep_sym=False,
                                                 max_samples=None)
         # THEN
@@ -71,7 +71,7 @@ class Main(unittest.TestCase):
         self.assertEqual(results, expected)
 
         # WHEN
-        results = superstyl.preproc.tuyau.docs_to_samples(self.paths, identify_lang=False, size=2, step=1,
+        results = superstyl.preproc.pipe.docs_to_samples(self.paths, identify_lang=False, size=2, step=1,
                                                           units="words",
                                                           feature="tokens", format="txt", keep_punct=True,
                                                           keep_sym=False,
@@ -97,7 +97,7 @@ class Main(unittest.TestCase):
         # TODO: test keep_sym
 
         # WHEN
-        results = superstyl.preproc.tuyau.docs_to_samples(self.paths, identify_lang=True, size=2, step=None,
+        results = superstyl.preproc.pipe.docs_to_samples(self.paths, identify_lang=True, size=2, step=None,
                                                           units="words",
                                                           feature="tokens", format="txt", keep_punct=False,
                                                           keep_sym=False,
@@ -106,7 +106,7 @@ class Main(unittest.TestCase):
         self.assertEqual(len([text for text in results if text["lang"] != 'NA']), 5)
 
         # WHEN
-        results = superstyl.preproc.tuyau.docs_to_samples(self.paths, identify_lang=False, size=2, step=None,
+        results = superstyl.preproc.pipe.docs_to_samples(self.paths, identify_lang=False, size=2, step=None,
                                                          units="words",
                                                          feature="tokens", format="txt", keep_punct=False,
                                                          keep_sym=False,
@@ -250,15 +250,15 @@ class Main(unittest.TestCase):
 class DataLoading(unittest.TestCase):
 
      # Now down to lower level features
-    # First, testing the tuyau features
+    # First, testing the pipe features
     def test_normalise(self):
         text = " Hello,  Mr. 𓀁, how are §§ you; doing?"
         expected_default = "hello mr how are you doing"
-        self.assertEqual(superstyl.preproc.tuyau.normalise(text), expected_default)
+        self.assertEqual(superstyl.preproc.pipe.normalise(text), expected_default)
         expected_keeppunct = "Hello, Mr. , how are SSSS you; doing?"
-        self.assertEqual(superstyl.preproc.tuyau.normalise(text, keep_punct=True), expected_keeppunct)
+        self.assertEqual(superstyl.preproc.pipe.normalise(text, keep_punct=True), expected_keeppunct)
         expected_keepsym = "Hello, Mr. 𓀁, how are §§ you; doing?" #TODO: modify test according to new def
-        self.assertEqual(superstyl.preproc.tuyau.normalise(text, keep_sym=True), expected_keepsym)
+        self.assertEqual(superstyl.preproc.pipe.normalise(text, keep_sym=True), expected_keepsym)
 
     def test_detect_lang(self):
         french = "Bonjour, Monsieur, comment allez-vous?"
@@ -269,9 +269,9 @@ class DataLoading(unittest.TestCase):
         english = "Hello, How do you do good sir? Are you well today? Is this so bloody hard? Really, this is still failing?"
         italian = "Buongiorno signore, come sta?"
         #TODO: find something that manages old languages, like fasttext did…
-        self.assertEqual(superstyl.preproc.tuyau.detect_lang(french), "fr")
-        self.assertEqual(superstyl.preproc.tuyau.detect_lang(english), "en")
-        self.assertEqual(superstyl.preproc.tuyau.detect_lang(italian), "it")
+        self.assertEqual(superstyl.preproc.pipe.detect_lang(french), "fr")
+        self.assertEqual(superstyl.preproc.pipe.detect_lang(english), "en")
+        self.assertEqual(superstyl.preproc.pipe.detect_lang(italian), "it")
 
     # Now, lower level features,
     # from features_extract
@@ -308,7 +308,7 @@ class DataLoading(unittest.TestCase):
             {"name": "Letter1", "aut": "Dupont", "text": "Voici le texte", "lang": "fr"},
         ]
         # WHEN
-        results = superstyl.preproc.tuyau.max_sampling(myTexts, max_samples=1)
+        results = superstyl.preproc.pipe.max_sampling(myTexts, max_samples=1)
         # EXPECT
         self.assertEqual(len([text for text in results if text["aut"] == 'Smith']), 1)
 

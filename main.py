@@ -1,4 +1,4 @@
-import superstyl.preproc.tuyau as tuy
+import superstyl.preproc.pipe as pipe
 import superstyl.preproc.features_extract as fex
 from superstyl.preproc.text_count import count_process
 import superstyl.preproc.embedding as embed
@@ -54,13 +54,13 @@ if __name__ == '__main__':
     print(".......loading texts.......")
 
     if args.sampling:
-        myTexts = tuy.docs_to_samples(args.s, identify_lang=args.identify_lang, size=args.sample_size, step=args.sample_step,
-                                  units=args.sample_units, feature="tokens", format=args.x,
-                                      keep_punct=args.keep_punct, keep_sym=args.keep_sym, max_samples=args.max_samples)
+        myTexts = pipe.docs_to_samples(args.s, identify_lang=args.identify_lang, size=args.sample_size, step=args.sample_step,
+                                       units=args.sample_units, feature="tokens", format=args.x,
+                                       keep_punct=args.keep_punct, keep_sym=args.keep_sym, max_samples=args.max_samples)
 
     else:
-        myTexts = tuy.load_texts(args.s, identify_lang=args.identify_lang, format=args.x, keep_punct=args.keep_punct,
-                                 keep_sym=args.keep_sym, max_samples=args.max_samples)
+        myTexts = pipe.load_texts(args.s, identify_lang=args.identify_lang, format=args.x, keep_punct=args.keep_punct,
+                                  keep_sym=args.keep_sym, max_samples=args.max_samples)
 
     print(".......getting features.......")
 
