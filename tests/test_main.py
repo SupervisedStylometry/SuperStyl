@@ -1,7 +1,16 @@
 import unittest
 import superstyl
+# LOADING EVERYTHING
+# TODO: should we load them in the __init__.py ?
+import superstyl.load
+import superstyl.svm
+import superstyl.preproc
 import superstyl.preproc.pipe
 import superstyl.preproc.features_extract
+import superstyl.preproc.embedding
+import superstyl.preproc.select
+import superstyl.preproc.text_count
+import superstyl.preproc.features_select
 import os
 import glob
 
