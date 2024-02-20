@@ -4,8 +4,6 @@ from superstyl.preproc.text_count import count_process
 import superstyl.preproc.embedding as embed
 import pandas
 import json
-# from multiprocessing import Pool
-from multiprocessing.pool import ThreadPool as Pool
 import tqdm
 # from importlib import reload
 # tuy = reload(tuy)
@@ -27,10 +25,10 @@ if __name__ == '__main__':
     parser.add_argument('-s', nargs='+', help="paths to files")
     parser.add_argument('-x', action='store', help="format (txt, xml or tei)", default="txt")
     parser.add_argument('--sampling', action='store_true', help="Sample the texts?", default=False)
-    parser.add_argument('--sample_units', action='store', help="Units of length for sampling (words, verses; default: verses)", default="verses", type=str)
+    parser.add_argument('--sample_units', action='store', help="Units of length for sampling (words, verses; default: words)", default="words", type=str)
     parser.add_argument('--sample_size', action='store', help="Size for sampling (default: 400)", default=400, type=int)
     parser.add_argument('--sample_step', action='store', help="Step for sampling with overlap (default is no overlap)", default=None, type=int)
-    parser.add_argument('--max_samples', action='store', help="Maximum number of (randomly selected) samples per author (default is all) /!\ Only with sampling",
+    parser.add_argument('--max_samples', action='store', help="Maximum number of (randomly selected) samples per author/class (default is all)",
                         default=None, type=int)
     parser.add_argument('--keep_punct', action='store_true', help="whether or not to keep punctuation and caps (default is False)",
                         default=False)
