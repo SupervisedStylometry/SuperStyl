@@ -61,8 +61,7 @@ class Main(unittest.TestCase):
     def test_docs_to_samples(self):
         # WHEN
         results = superstyl.preproc.pipe.docs_to_samples(self.paths, identify_lang=False, size=2, step=None, units="words",
-                                                feature="tokens", format="txt", keep_punct=False, keep_sym=False,
-                                                max_samples=None)
+                                                format="txt", keep_punct=False, keep_sym=False, max_samples=None)
         # THEN
         expected = [{'name': 'Dupont_Letter1.txt_0-2', 'aut': 'Dupont', 'text': 'voici le', 'lang': 'NA'},
                     {'name': 'Smith_Letter1.txt_0-2', 'aut': 'Smith', 'text': 'this is', 'lang': 'NA'},
@@ -73,8 +72,7 @@ class Main(unittest.TestCase):
 
         # WHEN
         results = superstyl.preproc.pipe.docs_to_samples(self.paths, identify_lang=False, size=2, step=1,
-                                                          units="words",
-                                                          feature="tokens", format="txt", keep_punct=True,
+                                                          units="words", format="txt", keep_punct=True,
                                                           keep_sym=False,
                                                           max_samples=None)
 
@@ -99,8 +97,7 @@ class Main(unittest.TestCase):
 
         # WHEN
         results = superstyl.preproc.pipe.docs_to_samples(self.paths, identify_lang=True, size=2, step=None,
-                                                          units="words",
-                                                          feature="tokens", format="txt", keep_punct=False,
+                                                          units="words", format="txt", keep_punct=False,
                                                           keep_sym=False,
                                                           max_samples=None)
         # THEN
@@ -108,8 +105,7 @@ class Main(unittest.TestCase):
 
         # WHEN
         results = superstyl.preproc.pipe.docs_to_samples(self.paths, identify_lang=False, size=2, step=None,
-                                                         units="words",
-                                                         feature="tokens", format="txt", keep_punct=False,
+                                                         units="words", format="txt", keep_punct=False,
                                                          keep_sym=False,
                                                          max_samples=1)
         # THEN
