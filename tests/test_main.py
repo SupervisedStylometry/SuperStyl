@@ -1,4 +1,5 @@
 import unittest
+import superstyl
 import superstyl.preproc.pipe
 import superstyl.preproc.features_extract
 import os
