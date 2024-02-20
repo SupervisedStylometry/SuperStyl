@@ -234,9 +234,9 @@ def docs_to_samples(paths, size, step=None, units="verses", feature="tokens", fo
     :param units: the units to use, one of "words" or "verses"
     :param feature: type of tokens to extract (default is tokens, not lemmas or POS)
     :param format: type of document, one of full text, TEI or simple XML (ONLY TEI and TXT IMPLEMENTED)
-    :param keep_punct: whether or not to keep punctuation and caps.
+    :param keep_punct: whether to keep punctuation and caps.
     :param max_samples: maximum number of samples per author/class.
-    :param identify_lang: whether or not try to identify lang (default: False)
+    :param identify_lang: whether to try to identify lang (default: False)
     :return: a myTexts object
     """
     myTexts = []
