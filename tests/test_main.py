@@ -1,19 +1,134 @@
 import unittest
-import superstyl.preproc.tuyau
+import superstyl
+import superstyl.preproc
+import superstyl.preproc.pipe
 import superstyl.preproc.features_extract
+import superstyl.preproc.embedding
+import superstyl.preproc.select
+import superstyl.preproc.text_count
+import superstyl.preproc.features_select
 import os
 import glob
 
 THIS_DIR = os.path.dirname(os.path.abspath(__file__))
 
 class Main(unittest.TestCase):
-    # FEATURE: from a list of paths, and several options, get a myTexts object, i.e., a list of dictionaries
-    # for each text or samples, with metadata and the text itself
+    # FEATURE: from a list of paths, and several options, get a corpus, composed of a pandas table of metadata and counts,
+    # as well as a list of feats
     # GIVEN
     paths = sorted(glob.glob(THIS_DIR + "/testdata/*.txt"))
-    def test_load_texts_txt(self):
+
+    def test_load_corpus(self):
         # WHEN
-        results = superstyl.preproc.tuyau.load_texts(self.paths, identify_lang=False, format="txt", keep_punct=False,
+        corpus, feats = superstyl.load.load_corpus(self.paths)
+        # THEN
+        expected_feats = [('this', 2/12), ('is', 2/12), ('the', 2/12), ('text', 2/12), ('voici', 1/12),
+                    ('le', 1/12), ('texte', 1/12), ('also', 1/12)]
+        expected_corpus = {'author': {'Dupont_Letter1.txt': 'Dupont', 'Smith_Letter1.txt': 'Smith', 'Smith_Letter2.txt': 'Smith'},
+                           'lang': {'Dupont_Letter1.txt': 'NA', 'Smith_Letter1.txt': 'NA', 'Smith_Letter2.txt': 'NA'},
+                           'this': {'Dupont_Letter1.txt': 0.0, 'Smith_Letter1.txt': 0.25, 'Smith_Letter2.txt': 0.2},
+                           'is': {'Dupont_Letter1.txt': 0.0, 'Smith_Letter1.txt': 0.25, 'Smith_Letter2.txt': 0.2},
+                           'the': {'Dupont_Letter1.txt': 0.0, 'Smith_Letter1.txt': 0.25, 'Smith_Letter2.txt': 0.2},
+                           'text': {'Dupont_Letter1.txt': 0.0, 'Smith_Letter1.txt': 0.25, 'Smith_Letter2.txt': 0.2},
+                           'voici': {'Dupont_Letter1.txt': 1/3, 'Smith_Letter1.txt': 0.0, 'Smith_Letter2.txt': 0.0},
+                           'le': {'Dupont_Letter1.txt': 1/3, 'Smith_Letter1.txt': 0.0, 'Smith_Letter2.txt': 0.0},
+                           'texte': {'Dupont_Letter1.txt': 1/3, 'Smith_Letter1.txt': 0.0, 'Smith_Letter2.txt': 0.0},
+                           'also': {'Dupont_Letter1.txt': 0.0, 'Smith_Letter1.txt': 0.0, 'Smith_Letter2.txt': 0.2}}
+        self.assertEqual(feats, expected_feats)
+        self.assertEqual(corpus.to_dict(), expected_corpus)
+
+        # WHEN
+        corpus, feats = superstyl.load.load_corpus(self.paths, feat_list=[('the', 0)], feats="chars", n=3, k=5000, relFreqs=False,
+                                                   format="txt", keep_punct=False, keep_sym=False, identify_lang=True)
+
+        # THEN
+        expected_feats = [('the', 0)]
+        # TODO: improve langage identification so we don't have to plan for error…
+        expected_corpus = {'author': {'Dupont_Letter1.txt': 'Dupont', 'Smith_Letter1.txt': 'Smith', 'Smith_Letter2.txt': 'Smith'},
+                           'lang': {'Dupont_Letter1.txt': 'ro', 'Smith_Letter1.txt': 'en', 'Smith_Letter2.txt': 'en'},
+                           'the': {'Dupont_Letter1.txt': 0, 'Smith_Letter1.txt': 1, 'Smith_Letter2.txt': 1}}
+
+        self.assertEqual(feats, expected_feats)
+        self.assertEqual(corpus.to_dict(), expected_corpus)
+
+        # WHEN
+        corpus, feats = superstyl.load.load_corpus(self.paths, feats="words", n=1,
+                                                   sampling=True, units="words", size=2, step=None,
+                                                   keep_punct=True, keep_sym=False)
+
+        # THEN
+        expected_feats = [('!', 2/16), ('This', 2/16), ('is', 2/16), ('the', 2/16), ('text', 2/16), (',', 2/16),
+                          ('Voici', 1/16), ('le', 1/16), ('texte', 1/16), ('also', 1/16)]
+
+        expected_corpus = {'author': {'Dupont_Letter1.txt_0-2': 'Dupont', 'Dupont_Letter1.txt_2-4': 'Dupont',
+                                      'Smith_Letter1.txt_0-2': 'Smith', 'Smith_Letter1.txt_2-4': 'Smith',
+                                      'Smith_Letter2.txt_0-2': 'Smith', 'Smith_Letter2.txt_2-4': 'Smith',
+                                      'Smith_Letter2.txt_4-6': 'Smith', 'Smith_Letter2.txt_6-8': 'Smith'},
+                           'lang': {'Dupont_Letter1.txt_0-2': 'NA', 'Dupont_Letter1.txt_2-4': 'NA',
+                                    'Smith_Letter1.txt_0-2': 'NA', 'Smith_Letter1.txt_2-4': 'NA',
+                                    'Smith_Letter2.txt_0-2': 'NA', 'Smith_Letter2.txt_2-4': 'NA',
+                                    'Smith_Letter2.txt_4-6': 'NA', 'Smith_Letter2.txt_6-8': 'NA'},
+                           '!': {'Dupont_Letter1.txt_0-2': 0.0, 'Dupont_Letter1.txt_2-4': 0.5,
+                                 'Smith_Letter1.txt_0-2': 0.0, 'Smith_Letter1.txt_2-4': 0.0,
+                                 'Smith_Letter2.txt_0-2': 0.0, 'Smith_Letter2.txt_2-4': 0.0,
+                                 'Smith_Letter2.txt_4-6': 0.0, 'Smith_Letter2.txt_6-8': 0.5},
+                           'This': {'Dupont_Letter1.txt_0-2': 0.0, 'Dupont_Letter1.txt_2-4': 0.0,
+                                    'Smith_Letter1.txt_0-2': 0.5, 'Smith_Letter1.txt_2-4': 0.0,
+                                    'Smith_Letter2.txt_0-2': 0.5, 'Smith_Letter2.txt_2-4': 0.0,
+                                    'Smith_Letter2.txt_4-6': 0.0, 'Smith_Letter2.txt_6-8': 0.0},
+                           'is': {'Dupont_Letter1.txt_0-2': 0.0, 'Dupont_Letter1.txt_2-4': 0.0,
+                                  'Smith_Letter1.txt_0-2': 0.5, 'Smith_Letter1.txt_2-4': 0.0,
+                                  'Smith_Letter2.txt_0-2': 0.5, 'Smith_Letter2.txt_2-4': 0.0,
+                                  'Smith_Letter2.txt_4-6': 0.0, 'Smith_Letter2.txt_6-8': 0.0},
+                           'the': {'Dupont_Letter1.txt_0-2': 0.0, 'Dupont_Letter1.txt_2-4': 0.0,
+                                   'Smith_Letter1.txt_0-2': 0.0, 'Smith_Letter1.txt_2-4': 0.5,
+                                   'Smith_Letter2.txt_0-2': 0.0, 'Smith_Letter2.txt_2-4': 0.0,
+                                   'Smith_Letter2.txt_4-6': 0.5, 'Smith_Letter2.txt_6-8': 0.0},
+                           'text': {'Dupont_Letter1.txt_0-2': 0.0, 'Dupont_Letter1.txt_2-4': 0.0,
+                                    'Smith_Letter1.txt_0-2': 0.0, 'Smith_Letter1.txt_2-4': 0.5,
+                                    'Smith_Letter2.txt_0-2': 0.0, 'Smith_Letter2.txt_2-4': 0.0,
+                                    'Smith_Letter2.txt_4-6': 0.0, 'Smith_Letter2.txt_6-8': 0.5},
+                           ',': {'Dupont_Letter1.txt_0-2': 0.0, 'Dupont_Letter1.txt_2-4': 0.0,
+                                 'Smith_Letter1.txt_0-2': 0.0, 'Smith_Letter1.txt_2-4': 0.0,
+                                 'Smith_Letter2.txt_0-2': 0.0, 'Smith_Letter2.txt_2-4': 0.5,
+                                 'Smith_Letter2.txt_4-6': 0.5, 'Smith_Letter2.txt_6-8': 0.0},
+                           'Voici': {'Dupont_Letter1.txt_0-2': 0.5, 'Dupont_Letter1.txt_2-4': 0.0,
+                                     'Smith_Letter1.txt_0-2': 0.0, 'Smith_Letter1.txt_2-4': 0.0,
+                                     'Smith_Letter2.txt_0-2': 0.0, 'Smith_Letter2.txt_2-4': 0.0,
+                                     'Smith_Letter2.txt_4-6': 0.0, 'Smith_Letter2.txt_6-8': 0.0},
+                           'le': {'Dupont_Letter1.txt_0-2': 0.5, 'Dupont_Letter1.txt_2-4': 0.0,
+                                  'Smith_Letter1.txt_0-2': 0.0, 'Smith_Letter1.txt_2-4': 0.0,
+                                  'Smith_Letter2.txt_0-2': 0.0, 'Smith_Letter2.txt_2-4': 0.0,
+                                  'Smith_Letter2.txt_4-6': 0.0, 'Smith_Letter2.txt_6-8': 0.0},
+                           'texte': {'Dupont_Letter1.txt_0-2': 0.0, 'Dupont_Letter1.txt_2-4': 0.5,
+                                     'Smith_Letter1.txt_0-2': 0.0, 'Smith_Letter1.txt_2-4': 0.0,
+                                     'Smith_Letter2.txt_0-2': 0.0, 'Smith_Letter2.txt_2-4': 0.0,
+                                     'Smith_Letter2.txt_4-6': 0.0, 'Smith_Letter2.txt_6-8': 0.0},
+                           'also': {'Dupont_Letter1.txt_0-2': 0.0, 'Dupont_Letter1.txt_2-4': 0.0,
+                                    'Smith_Letter1.txt_0-2': 0.0, 'Smith_Letter1.txt_2-4': 0.0,
+                                    'Smith_Letter2.txt_0-2': 0.0, 'Smith_Letter2.txt_2-4': 0.5,
+                                    'Smith_Letter2.txt_4-6': 0.0, 'Smith_Letter2.txt_6-8': 0.0}}
+
+
+        self.assertEqual(feats, expected_feats)
+        self.assertEqual(corpus.to_dict(), expected_corpus)
+
+        # WHEN
+        corpus, feats = superstyl.load.load_corpus(self.paths, k=4)
+        # THEN
+        expected_feats = [('this', 2 / 12), ('is', 2 / 12), ('the', 2 / 12), ('text', 2 / 12)]
+        self.assertEqual(feats, expected_feats)
+
+
+
+        # TODO: test other options
+
+
+    def test_load_texts_txt(self):
+        # SCENARIO: from paths to txt, get myTexts object, i.e., a list of dictionaries
+        #     # for each text or samples, with metadata and the text itself
+        # WHEN
+        results = superstyl.preproc.pipe.load_texts(self.paths, identify_lang=False, format="txt", keep_punct=False,
                                                     keep_sym=False, max_samples=None)
         # THEN
         expected = [{'name': 'Dupont_Letter1.txt', 'aut': 'Dupont', 'text': 'voici le texte', 'lang': 'NA'},
@@ -24,13 +139,13 @@ class Main(unittest.TestCase):
         self.assertEqual(results, expected)
 
         # WHEN
-        results = superstyl.preproc.tuyau.load_texts(self.paths, identify_lang=False, format="txt", keep_punct=False,
+        results = superstyl.preproc.pipe.load_texts(self.paths, identify_lang=False, format="txt", keep_punct=False,
                                                     keep_sym=False, max_samples=1)
         # THEN
         self.assertEqual(len([text for text in results if text["aut"] == 'Smith']), 1)
 
         # WHEN
-        results = superstyl.preproc.tuyau.load_texts(self.paths, identify_lang=False, format="txt", keep_punct=True,
+        results = superstyl.preproc.pipe.load_texts(self.paths, identify_lang=False, format="txt", keep_punct=True,
                                                      keep_sym=False, max_samples=None)
         # THEN
         expected = [{'name': 'Dupont_Letter1.txt', 'aut': 'Dupont', 'text': 'Voici le texte!', 'lang': 'NA'},
@@ -41,7 +156,7 @@ class Main(unittest.TestCase):
 
         #TODO: test keep_sym, according to revised definition
         # WHEN
-        # results = superstyl.preproc.tuyau.load_texts(self.paths, identify_lang=False, format="txt",
+        # results = superstyl.preproc.pipe.load_texts(self.paths, identify_lang=False, format="txt",
         #                                             keep_sym=True, max_samples=None)
         # THEN
         # expected = [{'name': 'Dupont_Letter1.txt', 'aut': 'Dupont', 'text': 'Voici le texte!', 'lang': 'NA'},
@@ -49,7 +164,7 @@ class Main(unittest.TestCase):
         #            {'name': 'Smith_Letter2.txt', 'aut': 'Smith', 'text': 'This is, also , the text!', 'lang': 'NA'}]
 
         # WHEN
-        results = superstyl.preproc.tuyau.load_texts(self.paths, identify_lang=True, format="txt", keep_punct=True,
+        results = superstyl.preproc.pipe.load_texts(self.paths, identify_lang=True, format="txt", keep_punct=True,
                                                      keep_sym=False, max_samples=None)
         # THEN
         # Just testing that a lang is predicted, not if it is ok or not
@@ -59,9 +174,8 @@ class Main(unittest.TestCase):
 
     def test_docs_to_samples(self):
         # WHEN
-        results = superstyl.preproc.tuyau.docs_to_samples(self.paths, identify_lang=False, size=2, step=None, units="words",
-                                                feature="tokens", format="txt", keep_punct=False, keep_sym=False,
-                                                max_samples=None)
+        results = superstyl.preproc.pipe.docs_to_samples(self.paths, identify_lang=False, size=2, step=None, units="words",
+                                                format="txt", keep_punct=False, keep_sym=False, max_samples=None)
         # THEN
         expected = [{'name': 'Dupont_Letter1.txt_0-2', 'aut': 'Dupont', 'text': 'voici le', 'lang': 'NA'},
                     {'name': 'Smith_Letter1.txt_0-2', 'aut': 'Smith', 'text': 'this is', 'lang': 'NA'},
@@ -71,9 +185,8 @@ class Main(unittest.TestCase):
         self.assertEqual(results, expected)
 
         # WHEN
-        results = superstyl.preproc.tuyau.docs_to_samples(self.paths, identify_lang=False, size=2, step=1,
-                                                          units="words",
-                                                          feature="tokens", format="txt", keep_punct=True,
+        results = superstyl.preproc.pipe.docs_to_samples(self.paths, identify_lang=False, size=2, step=1,
+                                                          units="words", format="txt", keep_punct=True,
                                                           keep_sym=False,
                                                           max_samples=None)
 
@@ -97,18 +210,16 @@ class Main(unittest.TestCase):
         # TODO: test keep_sym
 
         # WHEN
-        results = superstyl.preproc.tuyau.docs_to_samples(self.paths, identify_lang=True, size=2, step=None,
-                                                          units="words",
-                                                          feature="tokens", format="txt", keep_punct=False,
+        results = superstyl.preproc.pipe.docs_to_samples(self.paths, identify_lang=True, size=2, step=None,
+                                                          units="words", format="txt", keep_punct=False,
                                                           keep_sym=False,
                                                           max_samples=None)
         # THEN
         self.assertEqual(len([text for text in results if text["lang"] != 'NA']), 5)
 
         # WHEN
-        results = superstyl.preproc.tuyau.docs_to_samples(self.paths, identify_lang=False, size=2, step=None,
-                                                         units="words",
-                                                         feature="tokens", format="txt", keep_punct=False,
+        results = superstyl.preproc.pipe.docs_to_samples(self.paths, identify_lang=False, size=2, step=None,
+                                                         units="words", format="txt", keep_punct=False,
                                                          keep_sym=False,
                                                          max_samples=1)
         # THEN
@@ -250,15 +361,15 @@ class Main(unittest.TestCase):
 class DataLoading(unittest.TestCase):
 
      # Now down to lower level features
-    # First, testing the tuyau features
+    # First, testing the pipe features
     def test_normalise(self):
         text = " Hello,  Mr. 𓀁, how are §§ you; doing?"
         expected_default = "hello mr how are you doing"
-        self.assertEqual(superstyl.preproc.tuyau.normalise(text), expected_default)
+        self.assertEqual(superstyl.preproc.pipe.normalise(text), expected_default)
         expected_keeppunct = "Hello, Mr. , how are SSSS you; doing?"
-        self.assertEqual(superstyl.preproc.tuyau.normalise(text, keep_punct=True), expected_keeppunct)
+        self.assertEqual(superstyl.preproc.pipe.normalise(text, keep_punct=True), expected_keeppunct)
         expected_keepsym = "Hello, Mr. 𓀁, how are §§ you; doing?" #TODO: modify test according to new def
-        self.assertEqual(superstyl.preproc.tuyau.normalise(text, keep_sym=True), expected_keepsym)
+        self.assertEqual(superstyl.preproc.pipe.normalise(text, keep_sym=True), expected_keepsym)
 
     def test_detect_lang(self):
         french = "Bonjour, Monsieur, comment allez-vous?"
@@ -269,9 +380,9 @@ class DataLoading(unittest.TestCase):
         english = "Hello, How do you do good sir? Are you well today? Is this so bloody hard? Really, this is still failing?"
         italian = "Buongiorno signore, come sta?"
         #TODO: find something that manages old languages, like fasttext did…
-        self.assertEqual(superstyl.preproc.tuyau.detect_lang(french), "fr")
-        self.assertEqual(superstyl.preproc.tuyau.detect_lang(english), "en")
-        self.assertEqual(superstyl.preproc.tuyau.detect_lang(italian), "it")
+        self.assertEqual(superstyl.preproc.pipe.detect_lang(french), "fr")
+        self.assertEqual(superstyl.preproc.pipe.detect_lang(english), "en")
+        self.assertEqual(superstyl.preproc.pipe.detect_lang(italian), "it")
 
     # Now, lower level features,
     # from features_extract
@@ -308,7 +419,7 @@ class DataLoading(unittest.TestCase):
             {"name": "Letter1", "aut": "Dupont", "text": "Voici le texte", "lang": "fr"},
         ]
         # WHEN
-        results = superstyl.preproc.tuyau.max_sampling(myTexts, max_samples=1)
+        results = superstyl.preproc.pipe.max_sampling(myTexts, max_samples=1)
         # EXPECT
         self.assertEqual(len([text for text in results if text["aut"] == 'Smith']), 1)
 
