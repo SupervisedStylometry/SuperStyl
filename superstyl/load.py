@@ -62,7 +62,7 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, relFreqs
     loc = {}
 
     for t in tqdm.tqdm(myTexts):
-        text, local_freqs = count_process((t, feat_list), embeddedFreqs=embeddedFreqs)
+        text, local_freqs = count_process((t, my_feats), embeddedFreqs=embeddedFreqs)
         loc[text["name"]] = local_freqs
 
     # Saving metadata for later
@@ -80,7 +80,7 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, relFreqs
     # (i.e. appears in at least two texts)
     #feats = feats.loc[:, feats[feats > 0].count() > 2]
 
-    feats = pandas.DataFrame.from_dict(loc, columns=list(feat_list), orient="index")
+    feats = pandas.DataFrame.from_dict(loc, columns=list(my_feats), orient="index")
 
     # Free some more
     del loc
