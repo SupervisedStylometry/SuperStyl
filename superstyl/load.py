@@ -36,13 +36,13 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, relFreqs
 
     print(".......getting features.......")
 
-    if not feat_list:
+    if feat_list is None:
         feat_list = fex.get_feature_list(myTexts, feats=feats, n=n, relFreqs=relFreqs)
         if k > len(feat_list):
             print("K Limit ignored because the size of the list is lower ({} < {})".format(len(feat_list), k))
         else:
             # and now, cut at around rank k
-            val = feat_list[k][1]
+            val = feat_list[k-1][1]
             feat_list = [m for m in feat_list if m[1] >= val]
 
 

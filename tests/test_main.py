@@ -113,6 +113,12 @@ class Main(unittest.TestCase):
         self.assertEqual(feats, expected_feats)
         self.assertEqual(corpus.to_dict(), expected_corpus)
 
+        # WHEN
+        corpus, feats = superstyl.load.load_corpus(self.paths, k=4)
+        # THEN
+        expected_feats = [('this', 2 / 12), ('is', 2 / 12), ('the', 2 / 12), ('text', 2 / 12)]
+        self.assertEqual(feats, expected_feats)
+
 
 
         # TODO: test other options
