@@ -1,7 +1,5 @@
 import unittest
 import superstyl
-# LOADING EVERYTHING
-# TODO: should we load them in the __init__.py ?
 import superstyl.preproc
 import superstyl.preproc.pipe
 import superstyl.preproc.features_extract
@@ -38,6 +36,84 @@ class Main(unittest.TestCase):
                            'also': {'Dupont_Letter1.txt': 0.0, 'Smith_Letter1.txt': 0.0, 'Smith_Letter2.txt': 0.2}}
         self.assertEqual(feats, expected_feats)
         self.assertEqual(corpus.to_dict(), expected_corpus)
+
+        # WHEN
+        corpus, feats = superstyl.load.load_corpus(self.paths, feat_list=[('the', 0)], feats="chars", n=3, k=5000, relFreqs=False,
+                                                   format="txt", keep_punct=False, keep_sym=False, identify_lang=True)
+
+        # THEN
+        expected_feats = [('the', 0)]
+        # TODO: improve langage identification so we don't have to plan for error…
+        expected_corpus = {'author': {'Dupont_Letter1.txt': 'Dupont', 'Smith_Letter1.txt': 'Smith', 'Smith_Letter2.txt': 'Smith'},
+                           'lang': {'Dupont_Letter1.txt': 'ro', 'Smith_Letter1.txt': 'en', 'Smith_Letter2.txt': 'en'},
+                           'the': {'Dupont_Letter1.txt': 0, 'Smith_Letter1.txt': 1, 'Smith_Letter2.txt': 1}}
+
+        self.assertEqual(feats, expected_feats)
+        self.assertEqual(corpus.to_dict(), expected_corpus)
+
+        # WHEN
+        corpus, feats = superstyl.load.load_corpus(self.paths, feats="words", n=1,
+                                                   sampling=True, units="words", size=2, step=None,
+                                                   keep_punct=True, keep_sym=False)
+
+        # THEN
+        expected_feats = [('!', 2/16), ('This', 2/16), ('is', 2/16), ('the', 2/16), ('text', 2/16), (',', 2/16),
+                          ('Voici', 1/16), ('le', 1/16), ('texte', 1/16), ('also', 1/16)]
+
+        expected_corpus = {'author': {'Dupont_Letter1.txt_0-2': 'Dupont', 'Dupont_Letter1.txt_2-4': 'Dupont',
+                                      'Smith_Letter1.txt_0-2': 'Smith', 'Smith_Letter1.txt_2-4': 'Smith',
+                                      'Smith_Letter2.txt_0-2': 'Smith', 'Smith_Letter2.txt_2-4': 'Smith',
+                                      'Smith_Letter2.txt_4-6': 'Smith', 'Smith_Letter2.txt_6-8': 'Smith'},
+                           'lang': {'Dupont_Letter1.txt_0-2': 'NA', 'Dupont_Letter1.txt_2-4': 'NA',
+                                    'Smith_Letter1.txt_0-2': 'NA', 'Smith_Letter1.txt_2-4': 'NA',
+                                    'Smith_Letter2.txt_0-2': 'NA', 'Smith_Letter2.txt_2-4': 'NA',
+                                    'Smith_Letter2.txt_4-6': 'NA', 'Smith_Letter2.txt_6-8': 'NA'},
+                           '!': {'Dupont_Letter1.txt_0-2': 0.0, 'Dupont_Letter1.txt_2-4': 0.5,
+                                 'Smith_Letter1.txt_0-2': 0.0, 'Smith_Letter1.txt_2-4': 0.0,
+                                 'Smith_Letter2.txt_0-2': 0.0, 'Smith_Letter2.txt_2-4': 0.0,
+                                 'Smith_Letter2.txt_4-6': 0.0, 'Smith_Letter2.txt_6-8': 0.5},
+                           'This': {'Dupont_Letter1.txt_0-2': 0.0, 'Dupont_Letter1.txt_2-4': 0.0,
+                                    'Smith_Letter1.txt_0-2': 0.5, 'Smith_Letter1.txt_2-4': 0.0,
+                                    'Smith_Letter2.txt_0-2': 0.5, 'Smith_Letter2.txt_2-4': 0.0,
+                                    'Smith_Letter2.txt_4-6': 0.0, 'Smith_Letter2.txt_6-8': 0.0},
+                           'is': {'Dupont_Letter1.txt_0-2': 0.0, 'Dupont_Letter1.txt_2-4': 0.0,
+                                  'Smith_Letter1.txt_0-2': 0.5, 'Smith_Letter1.txt_2-4': 0.0,
+                                  'Smith_Letter2.txt_0-2': 0.5, 'Smith_Letter2.txt_2-4': 0.0,
+                                  'Smith_Letter2.txt_4-6': 0.0, 'Smith_Letter2.txt_6-8': 0.0},
+                           'the': {'Dupont_Letter1.txt_0-2': 0.0, 'Dupont_Letter1.txt_2-4': 0.0,
+                                   'Smith_Letter1.txt_0-2': 0.0, 'Smith_Letter1.txt_2-4': 0.5,
+                                   'Smith_Letter2.txt_0-2': 0.0, 'Smith_Letter2.txt_2-4': 0.0,
+                                   'Smith_Letter2.txt_4-6': 0.5, 'Smith_Letter2.txt_6-8': 0.0},
+                           'text': {'Dupont_Letter1.txt_0-2': 0.0, 'Dupont_Letter1.txt_2-4': 0.0,
+                                    'Smith_Letter1.txt_0-2': 0.0, 'Smith_Letter1.txt_2-4': 0.5,
+                                    'Smith_Letter2.txt_0-2': 0.0, 'Smith_Letter2.txt_2-4': 0.0,
+                                    'Smith_Letter2.txt_4-6': 0.0, 'Smith_Letter2.txt_6-8': 0.5},
+                           ',': {'Dupont_Letter1.txt_0-2': 0.0, 'Dupont_Letter1.txt_2-4': 0.0,
+                                 'Smith_Letter1.txt_0-2': 0.0, 'Smith_Letter1.txt_2-4': 0.0,
+                                 'Smith_Letter2.txt_0-2': 0.0, 'Smith_Letter2.txt_2-4': 0.5,
+                                 'Smith_Letter2.txt_4-6': 0.5, 'Smith_Letter2.txt_6-8': 0.0},
+                           'Voici': {'Dupont_Letter1.txt_0-2': 0.5, 'Dupont_Letter1.txt_2-4': 0.0,
+                                     'Smith_Letter1.txt_0-2': 0.0, 'Smith_Letter1.txt_2-4': 0.0,
+                                     'Smith_Letter2.txt_0-2': 0.0, 'Smith_Letter2.txt_2-4': 0.0,
+                                     'Smith_Letter2.txt_4-6': 0.0, 'Smith_Letter2.txt_6-8': 0.0},
+                           'le': {'Dupont_Letter1.txt_0-2': 0.5, 'Dupont_Letter1.txt_2-4': 0.0,
+                                  'Smith_Letter1.txt_0-2': 0.0, 'Smith_Letter1.txt_2-4': 0.0,
+                                  'Smith_Letter2.txt_0-2': 0.0, 'Smith_Letter2.txt_2-4': 0.0,
+                                  'Smith_Letter2.txt_4-6': 0.0, 'Smith_Letter2.txt_6-8': 0.0},
+                           'texte': {'Dupont_Letter1.txt_0-2': 0.0, 'Dupont_Letter1.txt_2-4': 0.5,
+                                     'Smith_Letter1.txt_0-2': 0.0, 'Smith_Letter1.txt_2-4': 0.0,
+                                     'Smith_Letter2.txt_0-2': 0.0, 'Smith_Letter2.txt_2-4': 0.0,
+                                     'Smith_Letter2.txt_4-6': 0.0, 'Smith_Letter2.txt_6-8': 0.0},
+                           'also': {'Dupont_Letter1.txt_0-2': 0.0, 'Dupont_Letter1.txt_2-4': 0.0,
+                                    'Smith_Letter1.txt_0-2': 0.0, 'Smith_Letter1.txt_2-4': 0.0,
+                                    'Smith_Letter2.txt_0-2': 0.0, 'Smith_Letter2.txt_2-4': 0.5,
+                                    'Smith_Letter2.txt_4-6': 0.0, 'Smith_Letter2.txt_6-8': 0.0}}
+
+
+        self.assertEqual(feats, expected_feats)
+        self.assertEqual(corpus.to_dict(), expected_corpus)
+
+
 
         # TODO: test other options
 
