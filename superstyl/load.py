@@ -6,7 +6,7 @@ import json
 import tqdm
 import pandas
 
-def load_corpus(data_paths, feat_path=False, feats="words", n=1, k=5000, relFreqs=True, format="txt", sampling=False,
+def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, relFreqs=True, format="txt", sampling=False,
                 units="words", size=3000, step=None, max_samples=None, keep_punct=False, keep_sym=False,
                 identify_lang=False, embedding=False, neighbouring_size=10):
     """
@@ -36,28 +36,24 @@ def load_corpus(data_paths, feat_path=False, feats="words", n=1, k=5000, relFreq
 
     print(".......getting features.......")
 
-    if not feat_path:
-        my_feats = fex.get_feature_list(myTexts, feats=feats, n=n, relFreqs=relFreqs)
-        if k > len(my_feats):
-            print("K Limit ignored because the size of the list is lower ({} < {})".format(len(my_feats), k))
+    if not feat_list:
+        feat_list = fex.get_feature_list(myTexts, feats=feats, n=n, relFreqs=relFreqs)
+        if k > len(feat_list):
+            print("K Limit ignored because the size of the list is lower ({} < {})".format(len(feat_list), k))
         else:
             # and now, cut at around rank k
-            val = my_feats[k][1]
-            my_feats = [m for m in my_feats if m[1] >= val]
+            val = feat_list[k][1]
+            feat_list = [m for m in feat_list if m[1] >= val]
 
-    else:
-        print(".......loading preexisting feature list.......")
-        with open(feat_path, 'r') as f:
-            my_feats = json.loads(f.read())
 
     print(".......getting counts.......")
 
-    feat_list = [m[0] for m in my_feats]
-    myTexts = fex.get_counts(myTexts, feat_list=feat_list, feats=feats, n=n, relFreqs=relFreqs)
+    my_feats = [m[0] for m in feat_list] # keeping only the features without the frequencies
+    myTexts = fex.get_counts(myTexts, feat_list=my_feats, feats=feats, n=n, relFreqs=relFreqs)
 
     if embedding:
         print(".......embedding counts.......")
-        myTexts = embed.get_embedded_counts(myTexts, feat_list, model, topn=neighbouring_size)
+        myTexts = embed.get_embedded_counts(myTexts, my_feats, model, topn=neighbouring_size)
 
     unique_texts = [text["name"] for text in myTexts]
 
@@ -91,4 +87,4 @@ def load_corpus(data_paths, feat_path=False, feats="words", n=1, k=5000, relFreq
 
     corpus = pandas.concat([metadata, feats], axis=1)
 
-    return corpus, my_feats
+    return corpus, feat_list

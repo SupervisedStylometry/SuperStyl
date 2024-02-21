@@ -14,12 +14,95 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 
-## Workflow
+## Basic usage
+
+To use Superstyl, you have two options:
+
+1. Use the provided command-line interface from your OS terminal (tested on Linux)
+2. Import Superstyl in a Python script or notebook, and use the API commands
+
+You also need a collection of files containing the text that you wish
+to analyse. The naming conventions of source files in Superstyl are as such:
+
+```
+Class_anythingthatyouwant
+```
+
+For instance:
+```
+Moliere_Amphitryon.txt
+```
+
+The text before the first underscore will be used as the class for training models.
+
+### Command-Line Interface
+
+A very simple usage, for building a corpus of text character 3-grams frequencies, 
+training a SVM model with leave-one-out cross-validation, 
+and predicting the class of unknown texts, would be:
+
+```bash
+# Creating the corpus and extracting characters 3-grams from text files
+python load_corpus.py -s data/train/*.txt -t chars -n 3 -o train
+python load_corpus.py -s data/test/*.txt -t chars -n 3 -o unknown -f train_feats.json
+# Training a SVM, with cross-validation, and using it to predict the class of unknown sample
+python train_svm.py train.csv --test_path unknown.csv --cross_validate leave-one-out --final
+```
+
+The two first commands will write to the disk the files `train.csv` and `unknown.csv` 
+containing the metadata and features frequencies for both sets of files, 
+and a file `train_feats.json` containing a list of used features.
+
+The last one will print the scores of the cross-validation, and then write 
+to disk a file `FINAL_PREDICTIONS.csv`, containing the class predictions 
+for the unknown texts.
+
+This is just a small sample of all available corpus and training options.
+
+To know more, do:
+```commandline
+python load_corpus.py --help
+python train_svm.py --help
+```
+
+### Python API
+
+A very simple usage, for building a corpus, training a SVM model with cross-validation, 
+and predicting the class of an unknown text, would be:
+
+```python
+import superstyl as sty
+import glob
+# Creating the corpus and extracting characters 3-grams from text files
+train, train_feats = sty.load_corpus(glob.glob("data/train/*.txt"), 
+                                           feats="chars", n=3)
+unknown, unknown_feats = sty.load_corpus(glob.glob("data/test/*.txt"), 
+                                         feat_list=train_feats, 
+                                         feats="chars", n=3)
+# Training a SVM, with cross-validation, and using it 
+# to predict the class of unknown sample
+sty.train_svm(train, unknown, cross_validate="leave-one-out", 
+              final_pred=True)
+```
+
+<!-- TODO: update when train_svm api will be modified -->
+
+
+This is just a small sample of all available corpus and training options.
+
+To know more, do:
+```python
+help(sty.load_corpus)
+help(sty.train_svm)
+```
+
+
+## Advanced usage
 
 FIXME: look inside the scripts, or do
 
 ```bash
-python main.py --help
+python load_corpus.py --help
 python train_svm.py --help
 ```
 
@@ -38,9 +121,9 @@ python merge_datasets.csv.py --help
 With or without preexisting feature list:
 
 ```bash
-python main.py -s path/to/docs/* -t chars -n 3
+python load_corpus.py -s path/to/docs/* -t chars -n 3
 # with it
-python main.py -s path/to/docs/* -f feature_list.json -t chars -n 3
+python load_corpus.py -s path/to/docs/* -f feature_list.json -t chars -n 3
 # There are several other available options
 # See --help
 ```
@@ -50,9 +133,9 @@ for a given number of verses or words:
 
 ```bash
 # words from txt
-python main.py -s data/psyche/train/* -t chars -n 3 -x txt --sampling --sample_units words --sample_size 1000
+python load_corpus.py -s data/psyche/train/* -t chars -n 3 -x txt --sampling --sample_units words --sample_size 1000
 # verses from TEI encoded docs
-python main.py -s data/psyche/train/* -t chars -n 3 -x tei --sampling --sample_units verses --sample_size 200
+python load_corpus.py -s data/psyche/train/* -t chars -n 3 -x tei --sampling --sample_units verses --sample_size 200
 ```
 
 You have a lot of options for feats extraction, inclusion or not of punctuation and symbols, sampling, source file formats, …, that can be accessed through the help.

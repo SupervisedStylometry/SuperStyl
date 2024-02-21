@@ -15,7 +15,7 @@ from collections import Counter
 
 
 
-def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True, balance=False, class_weights=False, kernel="LinearSVC",
+def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True, balance=None, class_weights=False, kernel="LinearSVC",
               final_pred=False, get_coefs=False):
     """
     Function to train svm

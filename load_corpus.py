@@ -9,12 +9,13 @@ if __name__ == '__main__':
     import argparse
 
     parser = argparse.ArgumentParser()
+    parser.add_argument('-s', nargs='+', help="paths to files")
+    parser.add_argument('-o', action='store', help="optional base name of output files", type=str, default=False)
     parser.add_argument('-f', action="store", help="optional list of features in json", default=False)
-    parser.add_argument('-t', action='store', help="types of features (words or chars)", type=str)
+    parser.add_argument('-t', action='store', help="types of features (words or chars)", type=str, default="words")
     parser.add_argument('-n', action='store', help="n grams lengths (default 1)", default=1, type=int)
     parser.add_argument('-k', action='store', help="How many most frequent?", default=5000, type=int)
     parser.add_argument('--absolute_freqs', action='store_true', help="switch to get absolute instead of relative freqs", default=False)
-    parser.add_argument('-s', nargs='+', help="paths to files")
     parser.add_argument('-x', action='store', help="format (txt, xml or tei)", default="txt")
     parser.add_argument('--sampling', action='store_true', help="Sample the texts?", default=False)
     parser.add_argument('--sample_units', action='store', help="Units of length for sampling (words, verses; default: words)", default="words", type=str)
@@ -37,7 +38,15 @@ if __name__ == '__main__':
 
     args = parser.parse_args()
 
-    corpus, my_feats = load_corpus(args.s, feat_path=args.f, feats=args.t, n=args.n, k=args.k,
+    if args.f:
+        print(".......loading preexisting feature list.......")
+        with open(args.f, 'r') as f:
+            my_feats = json.loads(f.read())
+
+    else:
+        my_feats = None
+
+    corpus, my_feats = load_corpus(args.s, feat_list=my_feats, feats=args.t, n=args.n, k=args.k,
                                    relFreqs=not args.absolute_freqs, format=args.x,
                                    sampling=args.sampling, units=args.sample_units,
                                    size=args.sample_size, step=args.sample_step, max_samples=args.max_samples,
@@ -47,10 +56,20 @@ if __name__ == '__main__':
 
     print(".......saving results.......")
 
-    if not args.f:
-        with open("feature_list_{}{}grams{}mf.json".format(args.t, args.n, args.k), "w") as out:
-            out.write(json.dumps(my_feats, ensure_ascii=False))
+    if args.o:
+        feat_file = args.o + "_feats.json"
+        corpus_file = args.o + ".csv"
 
-    corpus.to_csv("feats_tests_n{}_k_{}.csv".format(args.n, args.k))
+    else:
+        feat_file = "feature_list_{}{}grams{}mf.json".format(args.t, args.n, args.k)
+        corpus_file = "feats_tests_n{}_k_{}.csv".format(args.n, args.k)
+
+    if not args.f:
+        with open(feat_file, "w") as out:
+            out.write(json.dumps(my_feats, ensure_ascii=False))
+            print("Features list saved to " + feat_file)
+
+    corpus.to_csv(corpus_file)
+    print("Corpus saved to " + corpus_file)
 
 
