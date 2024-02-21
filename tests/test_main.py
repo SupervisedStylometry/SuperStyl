@@ -13,15 +13,41 @@ import superstyl.preproc.text_count
 import superstyl.preproc.features_select
 import os
 import glob
+import pandas
 
 THIS_DIR = os.path.dirname(os.path.abspath(__file__))
 
 class Main(unittest.TestCase):
-    # FEATURE: from a list of paths, and several options, get a myTexts object, i.e., a list of dictionaries
-    # for each text or samples, with metadata and the text itself
+    # FEATURE: from a list of paths, and several options, get a corpus, composed of a pandas table of metadata and counts,
+    # as well as a list of feats
     # GIVEN
     paths = sorted(glob.glob(THIS_DIR + "/testdata/*.txt"))
+
+    def test_load_corpus(self):
+        # WHEN
+        corpus, feats = superstyl.load.load_corpus(self.paths)
+        # THEN
+        expected_feats = [('this', 2/12), ('is', 2/12), ('the', 2/12), ('text', 2/12), ('voici', 1/12),
+                    ('le', 1/12), ('texte', 1/12), ('also', 1/12)]
+        expected_corpus = {'author': {'Dupont_Letter1.txt': 'Dupont', 'Smith_Letter1.txt': 'Smith', 'Smith_Letter2.txt': 'Smith'},
+                           'lang': {'Dupont_Letter1.txt': 'NA', 'Smith_Letter1.txt': 'NA', 'Smith_Letter2.txt': 'NA'},
+                           'this': {'Dupont_Letter1.txt': 0.0, 'Smith_Letter1.txt': 0.25, 'Smith_Letter2.txt': 0.2},
+                           'is': {'Dupont_Letter1.txt': 0.0, 'Smith_Letter1.txt': 0.25, 'Smith_Letter2.txt': 0.2},
+                           'the': {'Dupont_Letter1.txt': 0.0, 'Smith_Letter1.txt': 0.25, 'Smith_Letter2.txt': 0.2},
+                           'text': {'Dupont_Letter1.txt': 0.0, 'Smith_Letter1.txt': 0.25, 'Smith_Letter2.txt': 0.2},
+                           'voici': {'Dupont_Letter1.txt': 1/3, 'Smith_Letter1.txt': 0.0, 'Smith_Letter2.txt': 0.0},
+                           'le': {'Dupont_Letter1.txt': 1/3, 'Smith_Letter1.txt': 0.0, 'Smith_Letter2.txt': 0.0},
+                           'texte': {'Dupont_Letter1.txt': 1/3, 'Smith_Letter1.txt': 0.0, 'Smith_Letter2.txt': 0.0},
+                           'also': {'Dupont_Letter1.txt': 0.0, 'Smith_Letter1.txt': 0.0, 'Smith_Letter2.txt': 0.2}}
+        self.assertEqual(feats, expected_feats)
+        self.assertEqual(corpus.to_dict(), expected_corpus)
+
+        # TODO: test other options
+
+
     def test_load_texts_txt(self):
+        # SCENARIO: from paths to txt, get myTexts object, i.e., a list of dictionaries
+        #     # for each text or samples, with metadata and the text itself
         # WHEN
         results = superstyl.preproc.pipe.load_texts(self.paths, identify_lang=False, format="txt", keep_punct=False,
                                                     keep_sym=False, max_samples=None)
