@@ -2,7 +2,6 @@ import superstyl.preproc.pipe as pipe
 import superstyl.preproc.features_extract as fex
 from superstyl.preproc.text_count import count_process
 import superstyl.preproc.embedding as embed
-import json
 import tqdm
 import pandas
 
@@ -53,7 +52,8 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, relFreqs
 
     if embedding:
         print(".......embedding counts.......")
-        myTexts = embed.get_embedded_counts(myTexts, my_feats, model, topn=neighbouring_size)
+        myTexts, my_feats = embed.get_embedded_counts(myTexts, my_feats, model, topn=neighbouring_size)
+        feat_list = [f for f in feat_list if f[0] in my_feats]
 
     unique_texts = [text["name"] for text in myTexts]
 

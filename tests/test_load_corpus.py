@@ -216,6 +216,29 @@ class Main(unittest.TestCase):
         self.assertEqual(sorted(feats), sorted(expected_feats))
         self.assertEqual(corpus.to_dict(), expected_corpus)
 
+        # WHEN
+        # TODO: fix pos !
+        #corpus, feats = superstyl.load.load_corpus(self.paths, feats="pos", n=2, format="txt")
+
+        # Now, test embedding
+        # WHEN
+        corpus, feats = superstyl.load.load_corpus(self.paths, feats="words", n=1, format="txt",
+                                                  embedding=THIS_DIR+"/embed/test_embedding.wv.txt",
+                                                  neighbouring_size=1)
+        # THEN
+
+        expected_feats = [('this', 2), ('is', 2), ('the', 2), ('text', 2), ('also', 1)]
+        expected_corpus = {'author': {'Dupont_Letter1.txt': 'Dupont', 'Smith_Letter1.txt': 'Smith', 'Smith_Letter2.txt': 'Smith'},
+                           'lang': {'Dupont_Letter1.txt': 'NA', 'Smith_Letter1.txt': 'NA', 'Smith_Letter2.txt': 'NA'},
+                           'this': {'Dupont_Letter1.txt': 0.0, 'Smith_Letter1.txt': 0.5, 'Smith_Letter2.txt': 0.5},
+                           'is': {'Dupont_Letter1.txt': 0.0, 'Smith_Letter1.txt': 0.5, 'Smith_Letter2.txt': 0.5},
+                           'the': {'Dupont_Letter1.txt': 0.0, 'Smith_Letter1.txt': 0.5, 'Smith_Letter2.txt': 0.5},
+                           'text': {'Dupont_Letter1.txt': 0.0, 'Smith_Letter1.txt': 0.5, 'Smith_Letter2.txt': 0.5},
+                           'also': {'Dupont_Letter1.txt': 0.0, 'Smith_Letter1.txt': 0.0, 'Smith_Letter2.txt': 1.0}}
+        self.assertEqual(feats, expected_feats)
+        self.assertEqual(corpus.to_dict(), expected_corpus)
+
+
 
     def test_load_texts_txt(self):
         # SCENARIO: from paths to txt, get myTexts object, i.e., a list of dictionaries
@@ -523,6 +546,57 @@ class DataLoading(unittest.TestCase):
         results = superstyl.preproc.pipe.max_sampling(myTexts, max_samples=1)
         # EXPECT
         self.assertEqual(len([text for text in results if text["aut"] == 'Smith']), 1)
+
+
+class Embed(unittest.TestCase):
+    model = superstyl.preproc.embedding.load_embeddings(THIS_DIR+"/embed/test_embedding.wv.txt")
+    def test_find_similar_words(self):
+        # Feature: find the n most similar words in an embedding
+        # GIVEN
+        word = "this"
+        # WHEN
+        results = superstyl.preproc.embedding.find_similar_words(self.model, word, topn=1)
+        # THEN
+        expected = ["the"]
+        self.assertEqual(results, expected)
+
+        # GIVEN
+        word = "supercalifragilistic"
+        # WHEN
+        results = superstyl.preproc.embedding.find_similar_words(self.model, word, topn=1)
+        # THEN
+        expected = None
+        self.assertEqual(results, expected)
+
+    def test_get_embedded_counts(self):
+        # FEATURE : for a myTexts objects, containing feature counts, a list of features, and an embedding model
+        # Get the relative frequencies of each words in regard to the topn most similar in the model
+
+        # GIVEN
+        myTexts =  [{'name': 'Letter1', 'aut': 'Smith', 'text': 'This is the text', 'lang': 'en',
+                     'wordCounts': {'this': 1, 'is': 1, 'the': 1, 'text': 1}},
+                   {'name': 'Letter2', 'aut': 'Smith', 'text': 'This is also the text', 'lang': 'en', 'wordCounts':
+                       {'this': 1, 'is': 1, 'also': 1, 'the': 1, 'text': 1}},
+                    {'name': 'Letter1', 'aut': 'Dupont', 'text': 'Voici le texte', 'lang': 'fr', 'wordCounts':
+                        {'Voici': 1, 'le': 1, 'texte': 1}}]
+        feat_list = ["this", "the", "voici"]
+        # WHEN
+        results, new_feat_list = superstyl.preproc.embedding.get_embedded_counts(myTexts, feat_list, self.model, topn=1)
+        # THEN
+        expected = [{'name': 'Letter1', 'aut': 'Smith', 'text': 'This is the text', 'lang': 'en',
+                     'wordCounts': {'this': 1, 'is': 1, 'the': 1, 'text': 1},
+                     'embedded': {'this': 0.5, 'the': 0.5}},
+                    {'name': 'Letter2', 'aut': 'Smith', 'text': 'This is also the text', 'lang': 'en',
+                     'wordCounts': {'this': 1, 'is': 1, 'also': 1, 'the': 1, 'text': 1},
+                     'embedded': {'this': 0.5, 'the': 0.5}},
+                    {'name': 'Letter1', 'aut': 'Dupont', 'text': 'Voici le texte', 'lang': 'fr',
+                     'wordCounts': {'Voici': 1, 'le': 1, 'texte': 1},
+                     'embedded': {}
+                     }]
+        self.assertEqual(results, expected)
+        self.assertEqual(new_feat_list, ["this", "the"])
+
+
 
 
 # TODO: tests for SVM, etc.
