@@ -10,7 +10,32 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, relFreqs
                 identify_lang=False, embedding=False, neighbouring_size=10):
     """
     Main function to load a corpus from a collection of file, and an optional list of features to extract.
-    :param #TODO, document all params
+    :param data_paths: paths to the source files
+    :param feat_list: an optional list of features (as created by load_corpus), default None
+    :param feats: the type of features, one of 'words', 'chars', 'affixes, and 'POS'. Affixes are inspired by
+    Sapkota et al. 2015, and include space_prefix, space_suffix, prefix, suffix, and, if keep_pos, punctuation n-grams.
+    POS are currently only implemented for Modern English
+    :param n: n grams lengths (default 1)
+    :param k: How many most frequent? The function takes the rank of k (if k is smaller than the total number of features),
+    gets its frequencies, and only include features of superior or equal total frequencies.
+    :param relFreqs: return relative frequencies (default: True)
+    :param format: one of txt, xml or tei. /!\ only txt is fully implemented.
+    :param sampling: whether to sample the texts, by cutting it into slices of a given length, until the last possible
+      slice of this length, which means that often the end of the text will be eliminated (default False)
+    :param units: units of length for sampling, one of 'words', 'verses' (default: words). 'verses' is only implemented
+    for the 'tei' format
+    :param size: the size of the samples (in units)
+    :param step: step for sampling with overlap (default is step = size, which means no overlap).
+    Reduce for overlapping slices
+    :param max_samples: Maximum number of (randomly selected) samples per author/class (default is all)
+    :param keep_punct: whether to keep punctuation and caps (default is False)
+    :param keep_sym: same as keep_punct, plus no Unidecode, and numbers are kept as well (default is False). /!\ does not
+    actually keep symbols
+    :param identify_lang: if true, the language of each text will be guessed, using langdetect (default is False)
+    :param embedding: optional path to a word2vec embedding in txt format to compute frequencies among a set of
+    semantic neighbourgs (i.e., pseudo-paronyms)
+    :param neighbouring_size: size of semantic neighbouring in the embedding (as per gensim most_similar,
+    with topn=neighbouring_size)
     :return a pandas dataFrame of text metadata and feature frequencies; a global list of features with their frequencies
     """
 
