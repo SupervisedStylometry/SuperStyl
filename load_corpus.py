@@ -9,7 +9,7 @@ if __name__ == '__main__':
     import argparse
 
     parser = argparse.ArgumentParser()
-    parser.add_argument('-s', nargs='+', help="paths to files")
+    parser.add_argument('-s', nargs='+', help="paths to files", required=True)
     parser.add_argument('-o', action='store', help="optional base name of output files", type=str, default=False)
     parser.add_argument('-f', action="store", help="optional list of features in json", default=False)
     parser.add_argument('-t', action='store', help="types of features (words, chars, affixes - "
