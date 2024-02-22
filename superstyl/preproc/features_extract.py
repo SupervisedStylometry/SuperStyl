@@ -2,27 +2,37 @@ from builtins import sum
 from collections import Counter
 import nltk.tokenize
 import nltk
+import regex as re
 
-
-def count_words(text, feats = "words", n = 1):
+def count_features(text, feats ="words", n = 1):
     """
-    Get feature counts from  a text (words, chars or POS n-grams)
+    Get feature counts from  a text (words, chars or POS n-grams, or affixes(+punct if keep_punct),
+    following Sapkota et al., NAACL 2015
     :param text: the source text
-    :param feats: the type of feats: words, chars, POS (supported only for English)
+    :param feats: the type of feats: words, chars, POS (supported only for English), or affixes
     :param n: the length of n-grams
     :return: features absolute frequencies in text as a counter
     """
-    # Should this be called count_words ? It counts other features as well... count_features ? It's just a grep and replace away.
 
-    if feats == "words":
+    if feats == "words" or feats == "affixes":
         tokens = nltk.tokenize.wordpunct_tokenize(text)
         if n > 1:
             tokens = ["_".join(t) for t in list(nltk.ngrams(tokens, n))]
 
     elif feats == "chars":
-        tokens = list(text.replace(' ', '_'))
-        if n > 1:
-            tokens = ["".join(t) for t in list(nltk.ngrams(tokens, n))]
+        tokens = [re.sub(r'\p{Z}', '_', ''.join(ngram)) for ngram in nltk.ngrams(text, n)]
+
+    elif feats == "affixes":
+        words = nltk.tokenize.wordpunct_tokenize(text)
+        ngrams = [''.join(ngram) for ngram in nltk.ngrams(text, n)]
+        # and now get all types from Sapkota et al.
+        affs = [w[:3] for w in words if len(w) > n] + [w[-3:] for w in words if len(w) > n]
+        # space affixes (and punct affixes if keep_punct has been enabled)
+        space_affs_and_punct = [re.sub(r'\p{Z}', '_', ngram)
+                                for ngram in ngrams
+                                if re.search(r'(^\p{Z})|(\p{Z}$)|(\p{P})', ngram)
+                                ]
+        tokens = affs + space_affs_and_punct
 
     #POS in english with NLTK - need to propose spacy later on
     elif feats == "pos":
@@ -40,7 +50,7 @@ def count_words(text, feats = "words", n = 1):
 
     #Adding an error message in case some distracted guy like me would enter something wrong:
     else:
-        raise ValueError("Unsupported feature type. Choose from 'words', 'chars', or 'pos'.")
+        raise ValueError("Unsupported feature type. Choose from 'words', 'chars', 'affixes' or 'pos'.")
 
     counts = Counter()
     counts.update(tokens)
@@ -65,14 +75,14 @@ def get_feature_list(myTexts, feats="words", n=1, relFreqs=True):
     """
     :param myTexts: a 'myTexts' object, containing documents to be processed
     :param feat_list: a list of features to be selected
-    :param feats: type of feats (words, chars, POS)
+    :param feats: type of feats (words, chars, affixes or POS)
     :param n: n-grams length
     :return: list of features, with total frequency
     """
     my_feats = Counter()
 
     for text in myTexts:
-        counts = count_words(text["text"], feats=feats, n=n)
+        counts = count_features(text["text"], feats=feats, n=n)
 
         my_feats.update(counts)
 
@@ -90,7 +100,7 @@ def get_counts(myTexts, feat_list=None, feats = "words", n = 1, relFreqs = False
     Get counts for a collection of texts
     :param myTexts: the document collection
     :param feat_list: a list of features to be selected (None for all)
-    :param feats: the type of feats (words, chars, etc.)
+    :param feats: the type of feats (words, chars, affixes, POS)
     :param n: the length of n-grams
     :param relFreqs: whether to compute relative freqs
     :return: the collection with, for each text, a 'wordCounts' dictionary
@@ -98,7 +108,7 @@ def get_counts(myTexts, feat_list=None, feats = "words", n = 1, relFreqs = False
 
     for i in enumerate(myTexts):
 
-        counts = count_words(myTexts[i[0]]["text"], feats=feats, n=n)
+        counts = count_features(myTexts[i[0]]["text"], feats=feats, n=n)
 
         if relFreqs:
             counts = relative_frequencies(counts)

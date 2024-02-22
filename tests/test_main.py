@@ -391,13 +391,13 @@ class DataLoading(unittest.TestCase):
         # GIVEN
         text = "the cat the dog the squirrel the cat the cat"
         # WHEN
-        results = superstyl.preproc.features_extract.count_words(text, feats = "words", n = 1)
+        results = superstyl.preproc.features_extract.count_features(text, feats ="words", n = 1)
         # THEN
         expected = {'the': 5, 'cat': 3, 'dog': 1, 'squirrel': 1}
         self.assertEqual(results, expected)
 
         # WHEN
-        results = superstyl.preproc.features_extract.count_words(text, feats="words", n=2)
+        results = superstyl.preproc.features_extract.count_features(text, feats="words", n=2)
         # THEN
         expected = {'the_cat': 3, 'cat_the': 2, 'the_dog': 1, 'dog_the': 1, 'the_squirrel': 1, 'squirrel_the': 1}
         self.assertEqual(results, expected)
@@ -405,7 +405,7 @@ class DataLoading(unittest.TestCase):
         # GIVEN
         text = "the yo yo"
         # WHEN
-        results = superstyl.preproc.features_extract.count_words(text, feats="chars", n=3)
+        results = superstyl.preproc.features_extract.count_features(text, feats="chars", n=3)
         # THEN
         expected = {'the': 1, 'he_': 1, 'e_y': 1, '_yo': 2, 'yo_': 1, 'o_y': 1}
         self.assertEqual(results, expected)

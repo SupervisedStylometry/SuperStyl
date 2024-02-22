@@ -12,13 +12,21 @@ if __name__ == '__main__':
     parser.add_argument('-s', nargs='+', help="paths to files")
     parser.add_argument('-o', action='store', help="optional base name of output files", type=str, default=False)
     parser.add_argument('-f', action="store", help="optional list of features in json", default=False)
-    parser.add_argument('-t', action='store', help="types of features (words or chars)", type=str, default="words")
+    parser.add_argument('-t', action='store', help="types of features (words, chars, affixes - "
+                                                   "as per Sapkota et al. 2015 - or POS). POS are currently"
+                                                   "only implemented for Modern English", type=str,
+                        default="words", choices=["words", "chars", "affixes", "POS"])
     parser.add_argument('-n', action='store', help="n grams lengths (default 1)", default=1, type=int)
     parser.add_argument('-k', action='store', help="How many most frequent?", default=5000, type=int)
     parser.add_argument('--absolute_freqs', action='store_true', help="switch to get absolute instead of relative freqs", default=False)
-    parser.add_argument('-x', action='store', help="format (txt, xml or tei)", default="txt")
+    parser.add_argument('-x', action='store', help="format (txt, xml or tei)", default="txt",
+                        choices=["txt", "xml", "tei"]
+                        )
     parser.add_argument('--sampling', action='store_true', help="Sample the texts?", default=False)
-    parser.add_argument('--sample_units', action='store', help="Units of length for sampling (words, verses; default: words)", default="words", type=str)
+    parser.add_argument('--sample_units', action='store', help="Units of length for sampling "
+                                                               "(words, verses; default: words)",
+                        choices=["words", "verses"],
+                        default="words", type=str)
     parser.add_argument('--sample_size', action='store', help="Size for sampling (default: 3000)", default=3000, type=int)
     parser.add_argument('--sample_step', action='store', help="Step for sampling with overlap (default is no overlap)", default=None, type=int)
     parser.add_argument('--max_samples', action='store', help="Maximum number of (randomly selected) samples per author/class (default is all)",
