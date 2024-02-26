@@ -1,9 +1,22 @@
+# first line only necessary for older Python versions
 from builtins import sum
 from collections import Counter
 import nltk.tokenize
 import nltk
 import regex as re
+#the download is a one time operation: should be placed elsewhere but I put it here for now
 nltk.download('averaged_perceptron_tagger')
+
+# Defining a function for n-gram generation
+def generate_ngrams(tokens, n):
+    """
+    Generate n-grams from a list of tokens.
+    """
+    if n == 1:
+        return tokens
+    else:
+        return ["_".join(t) for t in list(ngrams(tokens, n))]
+
 
 def count_features(text, feats ="words", n = 1):
     """
@@ -24,51 +37,36 @@ def count_features(text, feats ="words", n = 1):
     if feats not in ["words", "chars", "affixes", "pos"]:
         raise ValueError("Unsupported feature type. Choose from 'words', 'chars', 'affixes', or 'pos'.")
 
+  tokens = []
     if feats == "words":
         tokens = nltk.tokenize.wordpunct_tokenize(text)
-        if n > 1:
-            tokens = ["_".join(t) for t in list(nltk.ngrams(tokens, n))]
-        total = len(tokens)
-
+        tokens = generate_ngrams(tokens, n)
+    
     elif feats == "chars":
-        tokens = [re.sub(r'\p{Z}', '_', ''.join(ngram)) for ngram in nltk.ngrams(text, n)]
-        total = len(tokens)
-
+        # Directly generating character n-grams without regex 
+        tokens = [text[i:i+n] for i in range(len(text)-n+1)]
+    
     elif feats == "affixes":
         words = nltk.tokenize.wordpunct_tokenize(text)
-        ngrams = [''.join(ngram) for ngram in nltk.ngrams(text, n)]
-        # relative frequencies should be computed from all existing n-grams
-        total = len(ngrams)
-        # and now get all types from Sapkota et al.
-        affs = [w[:3] for w in words if len(w) > n] + [w[-3:] for w in words if len(w) > n]
-        # space affixes (and punct affixes if keep_punct has been enabled)
-        space_affs_and_punct = [re.sub(r'\p{Z}', '_', ngram)
-                                for ngram in ngrams
-                                if re.search(r'(^\p{Z})|(\p{Z}$)|(\p{P})', ngram)
-                                ]
-        tokens = affs + space_affs_and_punct
-
-    #POS in english with NLTK - need to propose spacy later on
+        # Directly extract affixes based on n
+        affixes = [word[:n] for word in words if len(word) > n] + [word[-n:] for word in words if len(word) > n]
+        tokens.extend(affixes)
+    
     elif feats == "pos":
         words = nltk.tokenize.word_tokenize(text)
-        pos_tags = [pos for word, pos in nltk.pos_tag(words)]
-        if n > 1:
-            tokens = ["_".join(t) for t in list(nltk.ngrams(pos_tags, n))]
-        else:
-            tokens = pos_tags
-        total = len(tokens)
+        pos_tags = [pos for _, pos in nltk.pos_tag(words)]
+        tokens = generate_ngrams(pos_tags, n)
 
     # Adding sentence length ; still commented as it is a work in progress, an integer won't do, a quantile would be better
     #elif feats == "sentenceLength":
     #    sentences = nltk.tokenize.sent_tokenize(text)
     #    tokens = [str(len(nltk.tokenize.word_tokenize(sentence))) for sentence in sentences]
 
-    #Adding an error message in case some distracted guy like me would enter something wrong:
-
-    counts = Counter()
-    counts.update(tokens)
+    counts = Counter(tokens)
+    total = sum(counts.values())
 
     return counts, total
+
 
 def relative_frequencies(wordCounts, total):
     """
