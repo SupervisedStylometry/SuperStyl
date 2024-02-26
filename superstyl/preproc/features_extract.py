@@ -44,8 +44,8 @@ def count_features(text, feats ="words", n = 1):
         tokens = generate_ngrams(tokens, n)
     
     elif feats == "chars":
-        # Directly generating character n-grams without regex 
-        tokens = [text[i:i+n] for i in range(len(text)-n+1)]
+        # Directly generating character n-grams from text, replacing spaces with underscores in the n-grams
+        tokens = [text[i:i+n].replace(' ', '_') for i in range(len(text)-n+1)]
     
     elif feats == "affixes":
         words = nltk.tokenize.wordpunct_tokenize(text)
