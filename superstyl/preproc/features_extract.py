@@ -5,9 +5,6 @@ import nltk.tokenize
 import nltk
 import regex as re
 
-#the download is a one time operation: should be placed elsewhere but I put it here for now
-nltk.download('averaged_perceptron_tagger')
-
 def count_features(text, feats ="words", n = 1):
     """
     Get feature counts from  a text (words, chars or POS n-grams, or affixes(+punct if keep_punct),
@@ -51,6 +48,10 @@ def count_features(text, feats ="words", n = 1):
 
     #POS in english with NLTK - need to propose spacy later on
     elif feats == "pos":
+        try:
+            nltk.data.find('averaged_perceptron_tagger')
+        except:
+            nltk.download('averaged_perceptron_tagger')
         words = nltk.tokenize.word_tokenize(text)
         pos_tags = [pos for word, pos in nltk.pos_tag(words)]
         if n > 1:
