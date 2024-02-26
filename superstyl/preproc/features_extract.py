@@ -2,22 +2,11 @@
 from builtins import sum
 from collections import Counter
 import nltk.tokenize
-from nltk.util import ngrams
 import nltk
 import regex as re
+
 #the download is a one time operation: should be placed elsewhere but I put it here for now
 nltk.download('averaged_perceptron_tagger')
-
-# Defining a function for n-gram generation
-def generate_ngrams(tokens, n):
-    """
-    Generate n-grams from a list of tokens.
-    """
-    if n == 1:
-        return tokens
-    else:
-        return ["_".join(t) for t in list(ngrams(tokens, n))]
-
 
 def count_features(text, feats ="words", n = 1):
     """
@@ -28,7 +17,6 @@ def count_features(text, feats ="words", n = 1):
     :param n: the length of n-grams
     :return: features absolute frequencies in text as a counter, and the total of frequencies
     """
-
     if not isinstance(text, str):
         raise ValueError("Text must be a string.")
     if not text:
@@ -37,37 +25,53 @@ def count_features(text, feats ="words", n = 1):
         raise ValueError("n must be a positive integer.")
     if feats not in ["words", "chars", "affixes", "pos"]:
         raise ValueError("Unsupported feature type. Choose from 'words', 'chars', 'affixes', or 'pos'.")
-
-    tokens = []
     if feats == "words":
         tokens = nltk.tokenize.wordpunct_tokenize(text)
-        tokens = generate_ngrams(tokens, n)
-    
+        if n > 1:
+            tokens = ["_".join(t) for t in list(nltk.ngrams(tokens, n))]
+        total = len(tokens)
+
     elif feats == "chars":
-        # Directly generating character n-grams from text, replacing spaces with underscores in the n-grams
-        tokens = [text[i:i+n].replace(' ', '_') for i in range(len(text)-n+1)]
-    
+        tokens = [re.sub(r'\p{Z}', '_', ''.join(ngram)) for ngram in nltk.ngrams(text, n)]
+        total = len(tokens)
+
     elif feats == "affixes":
         words = nltk.tokenize.wordpunct_tokenize(text)
-        # Directly extract affixes based on n
-        affixes = [word[:n] for word in words if len(word) > n] + [word[-n:] for word in words if len(word) > n]
-        tokens.extend(affixes)
-    
+        ngrams = [''.join(ngram) for ngram in nltk.ngrams(text, n)]
+        # relative frequencies should be computed from all existing n-grams
+        total = len(ngrams)
+        # and now get all types from Sapkota et al.
+        affs = [w[:3] for w in words if len(w) > n] + [w[-3:] for w in words if len(w) > n]
+        # space affixes (and punct affixes if keep_punct has been enabled)
+        space_affs_and_punct = [re.sub(r'\p{Z}', '_', ngram)
+                                for ngram in ngrams
+                                if re.search(r'(^\p{Z})|(\p{Z}$)|(\p{P})', ngram)
+                                ]
+        tokens = affs + space_affs_and_punct
+
+    #POS in english with NLTK - need to propose spacy later on
     elif feats == "pos":
         words = nltk.tokenize.word_tokenize(text)
-        pos_tags = [pos for _, pos in nltk.pos_tag(words)]
-        tokens = generate_ngrams(pos_tags, n)
+        pos_tags = [pos for word, pos in nltk.pos_tag(words)]
+        if n > 1:
+            tokens = ["_".join(t) for t in list(nltk.ngrams(pos_tags, n))]
+        else:
+            tokens = pos_tags
+        total = len(tokens)
 
     # Adding sentence length ; still commented as it is a work in progress, an integer won't do, a quantile would be better
     #elif feats == "sentenceLength":
     #    sentences = nltk.tokenize.sent_tokenize(text)
     #    tokens = [str(len(nltk.tokenize.word_tokenize(sentence))) for sentence in sentences]
 
-    counts = Counter(tokens)
-    total = sum(counts.values())
+    #Adding an error message in case some distracted guy like me would enter something wrong:
+    else:
+        raise ValueError("Unsupported feature type. Choose from 'words', 'chars', 'affixes' or 'pos'.")
+
+    counts = Counter()
+    counts.update(tokens)
 
     return counts, total
-
 
 def relative_frequencies(wordCounts, total):
     """
@@ -76,20 +80,8 @@ def relative_frequencies(wordCounts, total):
     :param total, the total number of features
     :return a counter of word relative frequencies
     """
-    # Validate input types
-    if not isinstance(wordCounts, Counter):
-        raise TypeError("wordCounts must be a Counter object.")
-    if not (isinstance(total, int) or isinstance(total, float)):
-        raise TypeError("total must be an integer or float.")
-    if total < 0:
-        raise ValueError("total must not be negative.")
-    
-    if total > 0:  # Avoid division by zero
-        for t in wordCounts.keys():
-            wordCounts[t] = wordCounts[t] / total
-    else:
-        print("Warning: Total count is 0. Relative frequencies have not been calculated.")
-    
+    for t in wordCounts.keys():
+        wordCounts[t] = wordCounts[t] / total
     return wordCounts
 
 
@@ -144,3 +136,5 @@ def get_counts(myTexts, feat_list=None, feats = "words", n = 1, relFreqs = False
         myTexts[i[0]]["wordCounts"] = counts
 
     return myTexts
+
+
