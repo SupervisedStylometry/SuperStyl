@@ -15,7 +15,6 @@ def count_features(text, feats ="words", n = 1):
     :return: features absolute frequencies in text as a counter, and the total of frequencies
     """
 
-
     if not isinstance(text, str):
         raise ValueError("Text must be a string.")
     if not text:
@@ -65,8 +64,6 @@ def count_features(text, feats ="words", n = 1):
     #    tokens = [str(len(nltk.tokenize.word_tokenize(sentence))) for sentence in sentences]
 
     #Adding an error message in case some distracted guy like me would enter something wrong:
-    else:
-        raise ValueError("Unsupported feature type. Choose from 'words', 'chars', 'affixes' or 'pos'.")
 
     counts = Counter()
     counts.update(tokens)
