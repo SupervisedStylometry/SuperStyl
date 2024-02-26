@@ -6,7 +6,6 @@ import superstyl.preproc.features_extract
 import superstyl.preproc.embedding
 import superstyl.preproc.select
 import superstyl.preproc.text_count
-import superstyl.preproc.features_select
 import os
 import glob
 
@@ -119,9 +118,126 @@ class Main(unittest.TestCase):
         expected_feats = [('this', 2 / 12), ('is', 2 / 12), ('the', 2 / 12), ('text', 2 / 12)]
         self.assertEqual(feats, expected_feats)
 
+        # WHEN
+        corpus, feats = superstyl.load.load_corpus(self.paths, feats="chars", n=3, format="txt", keep_punct=True,
+                                                   relFreqs=False)
+
+        # THEN
+        expected_feats = [('e_t', 3), ('_te', 3), ('tex', 3), ('ext', 3), ('is_', 3), ('Thi', 2), ('his', 2), ('s_i', 2),
+                          ('_is', 2), ('_th', 2), ('the', 2), ('he_', 2), ('xt!', 2), ('Voi', 1), ('oic', 1), ('ici', 1),
+                          ('ci_', 1), ('i_l', 1), ('_le', 1), ('le_', 1), ('xte', 1), ('te!', 1), ('is,', 1), ('s,_', 1),
+                          (',_a', 1), ('_al', 1), ('als', 1), ('lso', 1), ('so_', 1), ('o_,', 1), ('_,_', 1), (',_t', 1),
+                          ('s_t', 1)]
 
 
-        # TODO: test other options
+        expected_corpus = {'author':
+                               {'Dupont_Letter1.txt': 'Dupont', 'Smith_Letter2.txt': 'Smith', 'Smith_Letter1.txt': 'Smith'},
+                           'lang': {'Dupont_Letter1.txt': 'NA', 'Smith_Letter2.txt': 'NA', 'Smith_Letter1.txt': 'NA'},
+                           'e_t': {'Dupont_Letter1.txt': 1, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 1},
+                           '_te': {'Dupont_Letter1.txt': 1, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 1},
+                           'tex': {'Dupont_Letter1.txt': 1, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 1},
+                           'ext': {'Dupont_Letter1.txt': 1, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 1},
+                           'is_': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 2},
+                           'Thi': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 1},
+                           'his': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 1},
+                           's_i': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 1},
+                           '_is': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 1},
+                           '_th': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 1},
+                           'the': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 1},
+                           'he_': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 1},
+                           'xt!': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 1},
+                           'Voi': {'Dupont_Letter1.txt': 1, 'Smith_Letter2.txt': 0, 'Smith_Letter1.txt': 0},
+                           'oic': {'Dupont_Letter1.txt': 1, 'Smith_Letter2.txt': 0, 'Smith_Letter1.txt': 0},
+                           'ici': {'Dupont_Letter1.txt': 1, 'Smith_Letter2.txt': 0, 'Smith_Letter1.txt': 0},
+                           'ci_': {'Dupont_Letter1.txt': 1, 'Smith_Letter2.txt': 0, 'Smith_Letter1.txt': 0},
+                           'i_l': {'Dupont_Letter1.txt': 1, 'Smith_Letter2.txt': 0, 'Smith_Letter1.txt': 0},
+                           '_le': {'Dupont_Letter1.txt': 1, 'Smith_Letter2.txt': 0, 'Smith_Letter1.txt': 0},
+                           'le_': {'Dupont_Letter1.txt': 1, 'Smith_Letter2.txt': 0, 'Smith_Letter1.txt': 0},
+                           'xte': {'Dupont_Letter1.txt': 1, 'Smith_Letter2.txt': 0, 'Smith_Letter1.txt': 0},
+                           'te!': {'Dupont_Letter1.txt': 1, 'Smith_Letter2.txt': 0, 'Smith_Letter1.txt': 0},
+                           'is,': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 0},
+                           's,_': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 0},
+                           ',_a': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 0},
+                           '_al': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 0},
+                           'als': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 0},
+                           'lso': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 0},
+                           'so_': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 0},
+                           'o_,': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 0},
+                           '_,_': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 0},
+                           ',_t': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 0},
+                           's_t': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 0, 'Smith_Letter1.txt': 1}}
+
+
+        self.assertEqual(sorted(feats), sorted(expected_feats))
+        self.assertEqual(corpus.to_dict(), expected_corpus)
+
+        # WHEN
+        corpus, feats = superstyl.load.load_corpus(self.paths, feats="affixes", n=3, format="txt", keep_punct=True)
+
+        # THEN
+        expected_feats = [('_te', 3/51), ('tex', 3/51), ('ext', 2/51), ('is_', 3/51), ('Thi', 2/51), ('his', 2/51),
+                          ('_is', 2/51), ('_th', 2/51),  ('he_', 2/51), ('xt!', 2/51), ('Voi', 1/51),('ici', 1/51),
+                          ('ci_', 1/51), ('_le', 1/51), ('le_', 1/51), ('xte', 1/51), ('te!', 1/51), ('is,', 1/51),
+                          ('s,_', 1/51), (',_a', 1/51), ('_al', 1/51), ('als', 1/51), ('lso', 1/51), ('so_', 1/51),
+                          ('o_,', 1/51), ('_,_', 1/51), (',_t', 1/51)]
+
+        expected_corpus = {'author':
+                               {'Dupont_Letter1.txt': 'Dupont', 'Smith_Letter2.txt': 'Smith',
+                                'Smith_Letter1.txt': 'Smith'},
+                           'lang': {'Dupont_Letter1.txt': 'NA', 'Smith_Letter2.txt': 'NA', 'Smith_Letter1.txt': 'NA'},
+                           '_te': {'Dupont_Letter1.txt': 1/13, 'Smith_Letter2.txt': 1/23, 'Smith_Letter1.txt': 1/15},
+                           'tex': {'Dupont_Letter1.txt': 1/13, 'Smith_Letter2.txt': 1/23, 'Smith_Letter1.txt': 1/15},
+                           'ext': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1/23, 'Smith_Letter1.txt': 1/15},
+                           'is_': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1/23, 'Smith_Letter1.txt': 2/15},
+                           'Thi': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1/23, 'Smith_Letter1.txt': 1/15},
+                           'his': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1/23, 'Smith_Letter1.txt': 1/15},
+                           '_is': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1/23, 'Smith_Letter1.txt': 1/15},
+                           '_th': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1/23, 'Smith_Letter1.txt': 1/15},
+                           'he_': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1/23, 'Smith_Letter1.txt': 1/15},
+                           'xt!': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1/23, 'Smith_Letter1.txt': 1/15},
+                           'Voi': {'Dupont_Letter1.txt': 1/13, 'Smith_Letter2.txt': 0, 'Smith_Letter1.txt': 0},
+                           'ici': {'Dupont_Letter1.txt': 1/13, 'Smith_Letter2.txt': 0, 'Smith_Letter1.txt': 0},
+                           'ci_': {'Dupont_Letter1.txt': 1/13, 'Smith_Letter2.txt': 0, 'Smith_Letter1.txt': 0},
+                           '_le': {'Dupont_Letter1.txt': 1/13, 'Smith_Letter2.txt': 0, 'Smith_Letter1.txt': 0},
+                           'le_': {'Dupont_Letter1.txt': 1/13, 'Smith_Letter2.txt': 0, 'Smith_Letter1.txt': 0},
+                           'xte': {'Dupont_Letter1.txt': 1/13, 'Smith_Letter2.txt': 0, 'Smith_Letter1.txt': 0},
+                           'te!': {'Dupont_Letter1.txt': 1/13, 'Smith_Letter2.txt': 0, 'Smith_Letter1.txt': 0},
+                           'is,': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1/23, 'Smith_Letter1.txt': 0},
+                           's,_': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1/23, 'Smith_Letter1.txt': 0},
+                           ',_a': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1/23, 'Smith_Letter1.txt': 0},
+                           '_al': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1/23, 'Smith_Letter1.txt': 0},
+                           'als': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1/23, 'Smith_Letter1.txt': 0},
+                           'lso': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1/23, 'Smith_Letter1.txt': 0},
+                           'so_': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1/23, 'Smith_Letter1.txt': 0},
+                           'o_,': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1/23, 'Smith_Letter1.txt': 0},
+                           '_,_': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1/23, 'Smith_Letter1.txt': 0},
+                           ',_t': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1/23, 'Smith_Letter1.txt': 0}}
+
+        self.assertEqual(sorted(feats), sorted(expected_feats))
+        self.assertEqual(corpus.to_dict(), expected_corpus)
+
+        # WHEN
+        # TODO: fix pos !
+        #corpus, feats = superstyl.load.load_corpus(self.paths, feats="pos", n=2, format="txt")
+
+        # Now, test embedding
+        # WHEN
+        corpus, feats = superstyl.load.load_corpus(self.paths, feats="words", n=1, format="txt",
+                                                  embedding=THIS_DIR+"/embed/test_embedding.wv.txt",
+                                                  neighbouring_size=1)
+        # THEN
+
+        expected_feats = [('this', 2), ('is', 2), ('the', 2), ('text', 2), ('also', 1)]
+        expected_corpus = {'author': {'Dupont_Letter1.txt': 'Dupont', 'Smith_Letter1.txt': 'Smith', 'Smith_Letter2.txt': 'Smith'},
+                           'lang': {'Dupont_Letter1.txt': 'NA', 'Smith_Letter1.txt': 'NA', 'Smith_Letter2.txt': 'NA'},
+                           'this': {'Dupont_Letter1.txt': 0.0, 'Smith_Letter1.txt': 0.5, 'Smith_Letter2.txt': 0.5},
+                           'is': {'Dupont_Letter1.txt': 0.0, 'Smith_Letter1.txt': 0.5, 'Smith_Letter2.txt': 0.5},
+                           'the': {'Dupont_Letter1.txt': 0.0, 'Smith_Letter1.txt': 0.5, 'Smith_Letter2.txt': 0.5},
+                           'text': {'Dupont_Letter1.txt': 0.0, 'Smith_Letter1.txt': 0.5, 'Smith_Letter2.txt': 0.5},
+                           'also': {'Dupont_Letter1.txt': 0.0, 'Smith_Letter1.txt': 0.0, 'Smith_Letter2.txt': 1.0}}
+        self.assertEqual(feats, expected_feats)
+        self.assertEqual(corpus.to_dict(), expected_corpus)
+
 
 
     def test_load_texts_txt(self):
@@ -391,23 +507,31 @@ class DataLoading(unittest.TestCase):
         # GIVEN
         text = "the cat the dog the squirrel the cat the cat"
         # WHEN
-        results = superstyl.preproc.features_extract.count_words(text, feats = "words", n = 1)
+        results = superstyl.preproc.features_extract.count_features(text, feats ="words", n = 1)
         # THEN
-        expected = {'the': 5, 'cat': 3, 'dog': 1, 'squirrel': 1}
+        expected = ({'the': 5, 'cat': 3, 'dog': 1, 'squirrel': 1}, 10)
         self.assertEqual(results, expected)
 
         # WHEN
-        results = superstyl.preproc.features_extract.count_words(text, feats="words", n=2)
+        results = superstyl.preproc.features_extract.count_features(text, feats="words", n=2)
         # THEN
-        expected = {'the_cat': 3, 'cat_the': 2, 'the_dog': 1, 'dog_the': 1, 'the_squirrel': 1, 'squirrel_the': 1}
+        expected = ({'the_cat': 3, 'cat_the': 2, 'the_dog': 1, 'dog_the': 1, 'the_squirrel': 1, 'squirrel_the': 1}, 9)
         self.assertEqual(results, expected)
 
         # GIVEN
-        text = "the yo yo"
+        text = "These yo yo!"
         # WHEN
-        results = superstyl.preproc.features_extract.count_words(text, feats="chars", n=3)
+        results = superstyl.preproc.features_extract.count_features(text, feats="chars", n=3)
         # THEN
-        expected = {'the': 1, 'he_': 1, 'e_y': 1, '_yo': 2, 'yo_': 1, 'o_y': 1}
+        expected = ({'_yo': 2, 'The': 1, 'hes': 1, 'ese': 1, 'se_': 1, 'e_y': 1, 'yo_': 1, 'o_y': 1, 'yo!': 1}, 10)
+        self.assertEqual(results, expected)
+
+        # GIVEN
+        text = "These yo yo!"
+        # WHEN
+        results = superstyl.preproc.features_extract.count_features(text, feats="affixes", n=3)
+        # THEN
+        expected = ({'_yo': 2, 'The': 1, 'ese': 1, 'se_': 1, 'yo_': 1, 'yo!': 1}, 10)
         self.assertEqual(results, expected)
 
     def test_max_sampling(self):
@@ -422,6 +546,57 @@ class DataLoading(unittest.TestCase):
         results = superstyl.preproc.pipe.max_sampling(myTexts, max_samples=1)
         # EXPECT
         self.assertEqual(len([text for text in results if text["aut"] == 'Smith']), 1)
+
+
+class Embed(unittest.TestCase):
+    model = superstyl.preproc.embedding.load_embeddings(THIS_DIR+"/embed/test_embedding.wv.txt")
+    def test_find_similar_words(self):
+        # Feature: find the n most similar words in an embedding
+        # GIVEN
+        word = "this"
+        # WHEN
+        results = superstyl.preproc.embedding.find_similar_words(self.model, word, topn=1)
+        # THEN
+        expected = ["the"]
+        self.assertEqual(results, expected)
+
+        # GIVEN
+        word = "supercalifragilistic"
+        # WHEN
+        results = superstyl.preproc.embedding.find_similar_words(self.model, word, topn=1)
+        # THEN
+        expected = None
+        self.assertEqual(results, expected)
+
+    def test_get_embedded_counts(self):
+        # FEATURE : for a myTexts objects, containing feature counts, a list of features, and an embedding model
+        # Get the relative frequencies of each words in regard to the topn most similar in the model
+
+        # GIVEN
+        myTexts =  [{'name': 'Letter1', 'aut': 'Smith', 'text': 'This is the text', 'lang': 'en',
+                     'wordCounts': {'this': 1, 'is': 1, 'the': 1, 'text': 1}},
+                   {'name': 'Letter2', 'aut': 'Smith', 'text': 'This is also the text', 'lang': 'en', 'wordCounts':
+                       {'this': 1, 'is': 1, 'also': 1, 'the': 1, 'text': 1}},
+                    {'name': 'Letter1', 'aut': 'Dupont', 'text': 'Voici le texte', 'lang': 'fr', 'wordCounts':
+                        {'Voici': 1, 'le': 1, 'texte': 1}}]
+        feat_list = ["this", "the", "voici"]
+        # WHEN
+        results, new_feat_list = superstyl.preproc.embedding.get_embedded_counts(myTexts, feat_list, self.model, topn=1)
+        # THEN
+        expected = [{'name': 'Letter1', 'aut': 'Smith', 'text': 'This is the text', 'lang': 'en',
+                     'wordCounts': {'this': 1, 'is': 1, 'the': 1, 'text': 1},
+                     'embedded': {'this': 0.5, 'the': 0.5}},
+                    {'name': 'Letter2', 'aut': 'Smith', 'text': 'This is also the text', 'lang': 'en',
+                     'wordCounts': {'this': 1, 'is': 1, 'also': 1, 'the': 1, 'text': 1},
+                     'embedded': {'this': 0.5, 'the': 0.5}},
+                    {'name': 'Letter1', 'aut': 'Dupont', 'text': 'Voici le texte', 'lang': 'fr',
+                     'wordCounts': {'Voici': 1, 'le': 1, 'texte': 1},
+                     'embedded': {}
+                     }]
+        self.assertEqual(results, expected)
+        self.assertEqual(new_feat_list, ["this", "the"])
+
+
 
 
 # TODO: tests for SVM, etc.

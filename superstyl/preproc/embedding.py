@@ -1,5 +1,3 @@
-import numpy as np
-from scipy import spatial
 import gensim.models
 
 def load_embeddings(path):
@@ -25,12 +23,7 @@ def find_similar_words(model, word, topn=10):
     else:
         return [s[0] for s in model.most_similar(word, topn=topn)]
 
-# For tests
-# myTexts = [{'name': 'Letter1', 'aut': 'Smith', 'text': 'This is the text', 'lang': 'en', 'wordCounts': {'the': 1, 'this': 1}},
-#  {'name': 'Letter2', 'aut': 'Smith', 'text': 'Also the text', 'lang': 'en',
-#   'wordCounts': {'the': 1, 'also': 1}}]
-# feat_list = ['the']
-# feat = "the"
+
 def get_embedded_counts(myTexts, feat_list, model, topn=10):
     """
     Replace absolute frequencies by frequencies relative to a given semantic neighbouring
@@ -40,7 +33,14 @@ def get_embedded_counts(myTexts, feat_list, model, topn=10):
     :param model: the embeddings model
     :param topn: the n closest (as per cosine similarity) words on which to compute relative frequency
     :return: the myTexts collection with, for each text, a 'wordCounts' dictionary with said semantic relative frequencies
+    as well as the new feat_list with only the features that were actually used
     """
+    # First, create the new key
+    for i in enumerate(myTexts):
+        myTexts[i[0]]["embedded"] = {}
+
+    # keep only features present in the embedding
+    feat_list = [f for f in feat_list if f in list(model.index_to_key)]
 
     for feat in feat_list:
         similars = find_similar_words(model, feat, topn=topn)
@@ -50,17 +50,11 @@ def get_embedded_counts(myTexts, feat_list, model, topn=10):
 
         else:
             for i in enumerate(myTexts):
-
                 if feat in myTexts[i[0]]["wordCounts"].keys():
-
-                    if "embedded" not in myTexts[i[0]].keys():
-                        # then, initialise
-                        myTexts[i[0]]["embedded"] = {}
-
                     total = sum([myTexts[i[0]]["wordCounts"][s] for s in [feat]+similars if s in myTexts[i[0]]["wordCounts"].keys()])
                     myTexts[i[0]]["embedded"][feat] = myTexts[i[0]]["wordCounts"][feat] / total
 
-    return myTexts
+    return myTexts, feat_list
 
 
 

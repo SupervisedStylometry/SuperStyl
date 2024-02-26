@@ -140,15 +140,6 @@ python load_corpus.py -s data/psyche/train/* -t chars -n 3 -x tei --sampling --s
 
 You have a lot of options for feats extraction, inclusion or not of punctuation and symbols, sampling, source file formats, …, that can be accessed through the help.
 
-### Optional: Filter features
-
-You can filter certain features (for instance retain only 'pseudo-affixes' from character n-grams) using the command 
-
-```bash
-python features_filter.py -f feature_list.json --affixes_grams --punct_grams
-```
-
-
 ### Optional: Merge different features
 
 You can merge several sets of features, extracted in csv with the previous commands, by doing:
