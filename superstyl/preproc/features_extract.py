@@ -3,6 +3,7 @@ from collections import Counter
 import nltk.tokenize
 import nltk
 import regex as re
+nltk.download('averaged_perceptron_tagger')
 
 def count_features(text, feats ="words", n = 1):
     """
@@ -13,6 +14,16 @@ def count_features(text, feats ="words", n = 1):
     :param n: the length of n-grams
     :return: features absolute frequencies in text as a counter, and the total of frequencies
     """
+
+
+    if not isinstance(text, str):
+        raise ValueError("Text must be a string.")
+    if not text:
+        raise ValueError("Text cannot be empty.")
+    if n < 1 or not isinstance(n, int):
+        raise ValueError("n must be a positive integer.")
+    if feats not in ["words", "chars", "affixes", "pos"]:
+        raise ValueError("Unsupported feature type. Choose from 'words', 'chars', 'affixes', or 'pos'.")
 
     if feats == "words":
         tokens = nltk.tokenize.wordpunct_tokenize(text)
@@ -69,10 +80,20 @@ def relative_frequencies(wordCounts, total):
     :param total, the total number of features
     :return a counter of word relative frequencies
     """
-
-    for t in wordCounts.keys():
+    # Validate input types
+    if not isinstance(wordCounts, Counter):
+        raise TypeError("wordCounts must be a Counter object.")
+    if not (isinstance(total, int) or isinstance(total, float)):
+        raise TypeError("total must be an integer or float.")
+    if total < 0:
+        raise ValueError("total must not be negative.")
+    
+    if total > 0:  # Avoid division by zero
+        for t in wordCounts.keys():
         wordCounts[t] = wordCounts[t] / total
-
+    else:
+        print("Warning: Total count is 0. Relative frequencies have not been calculated.")
+    
     return wordCounts
 
 
