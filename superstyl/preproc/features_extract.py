@@ -2,6 +2,7 @@
 from builtins import sum
 from collections import Counter
 import nltk.tokenize
+from nltk.util import ngrams
 import nltk
 import regex as re
 #the download is a one time operation: should be placed elsewhere but I put it here for now
