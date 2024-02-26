@@ -85,7 +85,7 @@ def relative_frequencies(wordCounts, total):
     
     if total > 0:  # Avoid division by zero
         for t in wordCounts.keys():
-        wordCounts[t] = wordCounts[t] / total
+            wordCounts[t] = wordCounts[t] / total
     else:
         print("Warning: Total count is 0. Relative frequencies have not been calculated.")
     
