@@ -37,7 +37,7 @@ def count_features(text, feats ="words", n = 1):
     if feats not in ["words", "chars", "affixes", "pos"]:
         raise ValueError("Unsupported feature type. Choose from 'words', 'chars', 'affixes', or 'pos'.")
 
-  tokens = []
+    tokens = []
     if feats == "words":
         tokens = nltk.tokenize.wordpunct_tokenize(text)
         tokens = generate_ngrams(tokens, n)
