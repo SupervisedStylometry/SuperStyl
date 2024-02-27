@@ -224,7 +224,6 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
                                  index=pipe.classes_,
                                  columns=train.columns).to_csv("coefficients.csv")
 
-                # TODO: optionalise  the number of top_features… ?
                 for i in range(len(pipe.classes_)):
                     plot_coefficients(pipe.named_steps['model'].coef_[i], train.columns, pipe.classes_[i])
 
@@ -247,14 +246,3 @@ def plot_coefficients(coefs, feature_names, current_class, top_features=10):
     plt.xticks(np.arange(0, 2 * top_features), feature_names[top_coefficients], rotation=60, ha='right', rotation_mode='anchor')
     plt.title("Coefficients for "+current_class)
     plt.savefig('coefs_' + current_class + '.png', bbox_inches='tight')
-    # TODO: write them to disk as CSV files
-    # FOLLOW-UP: New code to write coefficients to disk as CSV 
-    # I also give back a message notifying of the file creation and showing the file name.
-    # First: pairing feature names with their coefficients
-    coefficients_df = pandas.DataFrame({'Feature Name': feature_names, 'Coefficient': coefs})
-    # Sorting the dataframe by values of coefficients in descending order
-    coefficients_df = coefficients_df.reindex(coefficients_df.Coefficient.abs().sort_values(ascending=False).index)
-    # Writing to CSV
-    coefficients_filename = 'coefs_' + current_class + '.csv'
-    coefficients_df.to_csv(coefficients_filename, index=False)
-    print(f"Coefficients for {current_class} written to {coefficients_filename}")
