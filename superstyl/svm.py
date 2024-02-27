@@ -14,16 +14,16 @@ import imblearn.pipeline as imbp
 from collections import Counter
 
 
-
-def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True, balance=None, class_weights=False, kernel="LinearSVC",
+def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True, balance=None, class_weights=False,
+              kernel="LinearSVC",
               final_pred=False, get_coefs=False):
     """
     Function to train svm
     :param train: train data... (in panda dataframe)
     :param test: test data (itou)
-    :param cross_validate: whether or not to perform cross validation (possible values: leave-one-out, k-fold
+    :param cross_validate: whether to perform cross validation (possible values: leave-one-out, k-fold
       and group-k-fold) if group_k-fold is chosen, each source file will be considered a group, so this is only relevant
-      if sampling was performed and more than one file per class was provided)
+      if sampling was performed and more than one file per class was provided
     :param k: k parameter for k-fold cross validation
     :param dim_reduc: dimensionality reduction of input data. Implemented values are pca and som.
     :param norms: perform normalisations, i.e. z-scores and L2 (default True)
@@ -33,18 +33,24 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
     :param kernel: kernel for SVM
     :param final_pred: do the final predictions?
     :param get_coefs, if true, writes to disk (coefficients.csv) and plots the most important coefficients for each class
-    :return: returns a pipeline with a fitted svm model, and if possible prints evaluation and writes to disk:
-    confusion_matrix.csv, misattributions.csv and (if required) FINAL_PREDICTIONS.csv
+    :return: prints the scores, and then returns a dictionary containing the pipeline with a fitted svm model,
+    and, if computed, the classification_report, confusion_matrix, list of misattributions, and final_predictions.
     """
+    results = {}
+
+    valid_cross_validate_options = {None, "leave-one-out", "k-fold", 'group-k-fold'}
     valid_dim_reduc_options = {None, 'pca'}
     valid_balance_options = {None, 'downsampling', 'upsampling', 'Tomek', 'SMOTE', 'SMOTETomek'}
-    # Validate dimension reduction parameter
+    # Validate parameters
+    if cross_validate not in valid_cross_validate_options:
+        raise ValueError(
+            f"Invalid cross-validation option: '{cross_validate}'. Valid options are {valid_cross_validate_options}.")
     if dim_reduc not in valid_dim_reduc_options:
-        raise ValueError(f"Invalid dimensionality reduction option: '{dim_reduc}'. Valid options are {valid_dim_reduc_options}.")
+        raise ValueError(
+            f"Invalid dimensionality reduction option: '{dim_reduc}'. Valid options are {valid_dim_reduc_options}.")
     # Validate 'balance' parameter
     if balance not in valid_balance_options:
         raise ValueError(f"Invalid balance option: '{balance}'. Valid options are {valid_balance_options}.")
-
 
     print(".......... Formatting data ........")
     # Save the classes
@@ -78,7 +84,7 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
         estimators.append(('normalizer', preproc.Normalizer()))
 
     if balance is not None:
-    
+
         print(".......... implementing strategy to solve imbalance in data ........")
 
         if balance == 'downsampling':
@@ -96,17 +102,19 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
 
         if balance in ['SMOTE', 'SMOTETomek']:
             # Adjust n_neighbors for SMOTE/SMOTETomek based on smallest class size: 
-            # Ensures that the resampling method does not attempt to use more neighbors than available samples in the minority class, which produced the error.
+            # Ensures that the resampling method does not attempt to use more neighbors than available samples
+            # in the minority class, which produced the error.
             min_class_size = min(Counter(classes).values())
             n_neighbors = min(5, min_class_size - 1)  # Default n_neighbors in SMOTE is 5
-            # In case we have to temper with the n_neighbors, we print a warning message to the user (might be written more clearly, but we want a short message, right?)
+            # In case we have to temper with the n_neighbors, we print a warning message to the user
+            # (might be written more clearly, but we want a short message, right?)
             if n_neighbors >= min_class_size:
-                print(f"Warning: Adjusting n_neighbors for SMOTE / SMOTETomek to {n_neighbors} due to small class size.")
+                print(
+                    f"Warning: Adjusting n_neighbors for SMOTE / SMOTETomek to {n_neighbors} due to small class size.")
             if balance == 'SMOTE':
                 estimators.append(('sampling', over.SMOTE(n_neighbors=n_neighbors, random_state=42)))
             elif balance == 'SMOTETomek':
                 estimators.append(('sampling', comb.SMOTETomek(n_neighbors=n_neighbors, random_state=42)))
-
 
     print(".......... choosing SVM ........")
 
@@ -140,10 +148,10 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
 
         if cross_validate == 'group-k-fold':
             # Get the groups as the different source texts
-            works = ["_".join(t.split("_")[:-1]) for t in train.index.values ]
+            works = ["_".join(t.split("_")[:-1]) for t in train.index.values]
             myCV = skmodel.GroupKFold(n_splits=len(set(works)))
 
-        print(".......... "+ cross_validate +" cross validation will be performed ........")
+        print(".......... " + cross_validate + " cross validation will be performed ........")
         print(".......... using " + str(myCV.get_n_splits(train)) + " samples or groups........")
 
         # Will need to
@@ -155,15 +163,20 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
 
         # and now, leave one out evaluation (very small redundancy here, one line that could be stored elsewhere)
         unique_labels = list(set(classes))
-        pandas.DataFrame(metrics.confusion_matrix(classes, preds, labels=unique_labels),
-                         index=['true:{:}'.format(x) for x in unique_labels],
-                         columns=['pred:{:}'.format(x) for x in unique_labels]).to_csv("confusion_matrix.csv")
 
-        print(metrics.classification_report(classes, preds))
-        # writing misattributions
-        pandas.DataFrame([i for i in zip(list(train.index), list(classes), list(preds)) if i[1] != i[2] ],
-                         columns=["id", "True", "Pred"]
-                         ).set_index('id').to_csv("misattributions.csv")
+        results["confusion_matrix"] = pandas.DataFrame(metrics.confusion_matrix(classes, preds, labels=unique_labels),
+                                                       index=['true:{:}'.format(x) for x in unique_labels],
+                                                       columns=['pred:{:}'.format(x) for x in unique_labels])
+
+        report = metrics.classification_report(classes, preds)
+        print(report)
+        results["classification_report"] = report
+
+        # misattributions
+        results["misattributions"] = pandas.DataFrame(
+            [i for i in zip(list(train.index), list(classes), list(preds)) if i[1] != i[2]],
+            columns=["id", "True", "Pred"]
+        ).set_index('id')
 
         # and now making the model for final preds after leave one out if necessary
         if final_pred or get_coefs:
@@ -181,27 +194,37 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
             # and evaluate
             unique_labels = list(set(classes + classes_test))
 
-            pandas.DataFrame(metrics.confusion_matrix(classes_test, preds, labels=unique_labels),
-                             index=['true:{:}'.format(x) for x in unique_labels],
-                             columns=['pred:{:}'.format(x) for x in unique_labels]).to_csv("confusion_matrix.csv")
+            results["confusion_matrix"] = pandas.DataFrame(
+                metrics.confusion_matrix(classes_test, preds, labels=unique_labels),
+                index=['true:{:}'.format(x) for x in unique_labels],
+                columns=['pred:{:}'.format(x) for x in unique_labels])
 
-            print(metrics.classification_report(classes_test, preds))
+            report = metrics.classification_report(classes, preds)
+            print(report)
+            results["classification_report"] = report
+
+            # misattributions
+            results["misattributions"] = pandas.DataFrame(
+                [i for i in zip(list(train.index), list(classes), list(preds)) if i[1] != i[2]],
+                columns=["id", "True", "Pred"]
+            ).set_index('id')
 
     # AND NOW, we need to evaluate or create the final predictions
     if final_pred:
-        print(".......... Writing final predictions to FINAL_PREDICTIONS.csv ........")
+
         # Get the decision function too
         myclasses = pipe.classes_
         decs = pipe.decision_function(test)
         dists = {}
         if len(pipe.classes_) == 2:
-            pandas.DataFrame(data={**{'filename': preds_index, 'author': list(preds)}, 'Decision function': decs}).to_csv(
-                "FINAL_PREDICTIONS.csv")
+            results["final_predictions"] = pandas.DataFrame(
+                data={**{'filename': preds_index, 'author': list(preds)}, 'Decision function': decs})
 
         else:
             for myclass in enumerate(myclasses):
                 dists[myclass[1]] = [d[myclass[0]] for d in decs]
-                pandas.DataFrame(data={**{'filename': preds_index, 'author': list(preds)}, **dists}).to_csv("FINAL_PREDICTIONS.csv")
+                results["final_predictions"] = pandas.DataFrame(
+                    data={**{'filename': preds_index, 'author': list(preds)}, **dists})
 
     if get_coefs:
         if kernel != "LinearSVC":
@@ -213,28 +236,31 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
             # Each row of the coefficients corresponds to one of the n_classes “one-vs-rest” classifiers and similar for the
             # intercepts, in the order of the “one” class.
             if len(pipe.classes_) == 2:
-                pandas.DataFrame(pipe.named_steps['model'].coef_,
+                results["coefficients"] = pandas.DataFrame(pipe.named_steps['model'].coef_,
                                  index=[pipe.classes_[0]],
-                                 columns=train.columns).to_csv("coefficients.csv")
+                                 columns=train.columns)
 
-                plot_coefficients(pipe.named_steps['model'].coef_[0], train.columns, pipe.classes_[0] + " versus " + pipe.classes_[1])
+                plot_coefficients(pipe.named_steps['model'].coef_[0], train.columns,
+                                  pipe.classes_[0] + " versus " + pipe.classes_[1])
 
             else:
-                pandas.DataFrame(pipe.named_steps['model'].coef_,
+                results["coefficients"] = pandas.DataFrame(pipe.named_steps['model'].coef_,
                                  index=pipe.classes_,
-                                 columns=train.columns).to_csv("coefficients.csv")
+                                 columns=train.columns)
 
                 for i in range(len(pipe.classes_)):
                     plot_coefficients(pipe.named_steps['model'].coef_[i], train.columns, pipe.classes_[i])
 
-    return pipe
+    results["pipeline"] = pipe
+
+    return results
 
 
 # Following function from Aneesha Bakharia
 # https://aneesha.medium.com/visualising-top-features-in-linear-svm-with-scikit-learn-and-matplotlib-3454ab18a14d
 
 def plot_coefficients(coefs, feature_names, current_class, top_features=10):
-    plt.rcParams.update({'font.size': 30}) #increase font size
+    plt.rcParams.update({'font.size': 30})  # increase font size
     top_positive_coefficients = np.argsort(coefs)[-top_features:]
     top_negative_coefficients = np.argsort(coefs)[:top_features]
     top_coefficients = np.hstack([top_negative_coefficients, top_positive_coefficients])
@@ -243,6 +269,7 @@ def plot_coefficients(coefs, feature_names, current_class, top_features=10):
     colors = ['red' if c < 0 else 'blue' for c in coefs[top_coefficients]]
     plt.bar(np.arange(2 * top_features), coefs[top_coefficients], color=colors)
     feature_names = np.array(feature_names)
-    plt.xticks(np.arange(0, 2 * top_features), feature_names[top_coefficients], rotation=60, ha='right', rotation_mode='anchor')
-    plt.title("Coefficients for "+current_class)
+    plt.xticks(np.arange(0, 2 * top_features), feature_names[top_coefficients], rotation=60, ha='right',
+               rotation_mode='anchor')
+    plt.title("Coefficients for " + current_class)
     plt.savefig('coefs_' + current_class + '.png', bbox_inches='tight')
