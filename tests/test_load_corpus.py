@@ -217,8 +217,21 @@ class Main(unittest.TestCase):
         self.assertEqual(corpus.to_dict(), expected_corpus)
 
         # WHEN
-        # TODO: fix pos !
-        #corpus, feats = superstyl.load.load_corpus(self.paths, feats="pos", n=2, format="txt")
+        corpus, feats = superstyl.load.load_corpus(sorted(self.paths[1:]), feats="pos", n=1, format="txt")
+
+        # THEN
+        expected_feats = [('DT', 3), ('NN', 2), ('VBZ', 2), ('RB', 1)]
+        expected_corpus = {
+        'author': {'Smith_Letter1.txt': 'Smith', 'Smith_Letter2.txt': 'Smith'},
+        'lang': {'Smith_Letter1.txt': 'NA', 'Smith_Letter2.txt': 'NA'},
+        'DT': {'Smith_Letter1.txt': 1, 'Smith_Letter2.txt': 2},
+        'NN': {'Smith_Letter1.txt': 1, 'Smith_Letter2.txt': 1},  
+        'VBZ': {'Smith_Letter1.txt': 1, 'Smith_Letter2.txt': 1},
+        'RB': {'Smith_Letter1.txt': 0, 'Smith_Letter2.txt': 1}
+        }
+
+        self.assertEqual(sorted(feats), sorted(expected_feats))
+        self.assertEqual(corpus.to_dict(), expected_corpus)
 
         # Now, test embedding
         # WHEN
