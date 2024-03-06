@@ -66,6 +66,8 @@ if __name__ == "__main__":
 
     if args.o is not None:
         args.o = args.o + "_"
+    else:
+        args.o = ''
 
     svm["confusion_matrix"].to_csv(args.o+"confusion_matrix.csv")
     svm["misattributions"].to_csv(args.o+"misattributions.csv")

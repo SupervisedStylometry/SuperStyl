@@ -26,5 +26,7 @@ class Main_svm(unittest.TestCase):
         expected_results = {'filename': {0: 'Dupont_Letter1.txt', 1: 'Smith_Letter1.txt', 2: 'Smith_Letter2.txt'},
                             'author': {0: 'Dupont', 1: 'Smith', 2: 'Smith'},
                             'Decision function': {0: -0.7840855202465706, 1: 0.869169888531951, 2: 0.8619190699737995}}
+        expected_keys = ['confusion_matrix', 'classification_report', 'misattributions', 'pipeline']
         self.assertEqual(results["final_predictions"].to_dict()['author'], expected_results['author'])
+        self.assertEqual(results.keys(), expected_keys)
         # This is only the first minimal test for this function
