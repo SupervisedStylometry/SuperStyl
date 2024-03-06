@@ -52,6 +52,11 @@ class Main_svm(unittest.TestCase):
         self.assertEqual(results["classification_report"], expected_results["classification_report"])
         self.assertEqual(results["misattributions"].to_dict(), expected_results["misattributions"])
         self.assertEqual(list(results.keys()), expected_keys)
-        # This is only the first minimal test for this function
+
+        # WHEN
+        #results = superstyl.train_svm(train, test, final_pred=False, balance="SMOTETomek")
+
+
+        # This is only the first minimal tests for this function
 
 
