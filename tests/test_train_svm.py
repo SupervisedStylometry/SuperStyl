@@ -21,12 +21,37 @@ class Main_svm(unittest.TestCase):
                            'also': {'Dupont_Letter1.txt': 0.0, 'Smith_Letter1.txt': 0.0, 'Smith_Letter2.txt': 0.2}})
         test = train # easier to make no mistake :)
         # WHEN
-        results = superstyl.train_svm(train,test, final_pred=True)
+        results = superstyl.train_svm(train, test, final_pred=True)
         # THEN
         expected_results = {'filename': {0: 'Dupont_Letter1.txt', 1: 'Smith_Letter1.txt', 2: 'Smith_Letter2.txt'},
                             'author': {0: 'Dupont', 1: 'Smith', 2: 'Smith'},
                             'Decision function': {0: -0.7840855202465706, 1: 0.869169888531951, 2: 0.8619190699737995}}
-        expected_keys = ['confusion_matrix', 'classification_report', 'misattributions', 'pipeline']
+        expected_keys = ['final_predictions', 'pipeline']
         self.assertEqual(results["final_predictions"].to_dict()['author'], expected_results['author'])
-        self.assertEqual(results.keys(), expected_keys)
+        self.assertEqual(list(results.keys()), expected_keys)
         # This is only the first minimal test for this function
+
+        # WHEN
+        results = superstyl.train_svm(train, test, final_pred=False)
+        # THEN
+        expected_results = \
+            {"confusion_matrix": {'pred:Dupont': {'true:Dupont': 1, 'true:Smith': 0},
+                                                   'pred:Smith': {'true:Dupont': 0, 'true:Smith': 2}},
+             "classification_report": "              precision    recall  f1-score   support\n\n"
+                                      "      Dupont       1.00      1.00      1.00         1\n"
+                                      "       Smith       1.00      1.00      1.00         2\n\n"
+                                      "    accuracy                           1.00         3\n"
+                                      "   macro avg       1.00      1.00      1.00         3\n"
+                                      "weighted avg       1.00      1.00      1.00         3\n",
+             "misattributions": {'True': {}, 'Pred': {}}
+             }
+        #TODO: plus the sklearn pipeline
+
+        expected_keys = ['confusion_matrix', 'classification_report', 'misattributions', 'pipeline']
+        self.assertEqual(results["confusion_matrix"].to_dict(), expected_results["confusion_matrix"])
+        self.assertEqual(results["classification_report"], expected_results["classification_report"])
+        self.assertEqual(results["misattributions"].to_dict(), expected_results["misattributions"])
+        self.assertEqual(list(results.keys()), expected_keys)
+        # This is only the first minimal test for this function
+
+
