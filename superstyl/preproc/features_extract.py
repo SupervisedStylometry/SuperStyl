@@ -1,3 +1,4 @@
+# first line only necessary for older Python versions
 from builtins import sum
 from collections import Counter
 import nltk.tokenize
@@ -13,7 +14,14 @@ def count_features(text, feats ="words", n = 1):
     :param n: the length of n-grams
     :return: features absolute frequencies in text as a counter, and the total of frequencies
     """
-
+    if not isinstance(text, str):
+        raise ValueError("Text must be a string.")
+    if not text:
+        raise ValueError("Text cannot be empty.")
+    if n < 1 or not isinstance(n, int):
+        raise ValueError("n must be a positive integer.")
+    if feats not in ["words", "chars", "affixes", "pos"]:
+        raise ValueError("Unsupported feature type. Choose from 'words', 'chars', 'affixes', or 'pos'.")
     if feats == "words":
         tokens = nltk.tokenize.wordpunct_tokenize(text)
         if n > 1:
@@ -40,7 +48,11 @@ def count_features(text, feats ="words", n = 1):
 
     #POS in english with NLTK - need to propose spacy later on
     elif feats == "pos":
-        words = nltk.tokenize.word_tokenize(text)
+        try:
+            nltk.data.find('taggers/averaged_perceptron_tagger')
+        except:
+            nltk.download('averaged_perceptron_tagger')
+        words = nltk.tokenize.wordpunct_tokenize(text)
         pos_tags = [pos for word, pos in nltk.pos_tag(words)]
         if n > 1:
             tokens = ["_".join(t) for t in list(nltk.ngrams(pos_tags, n))]
@@ -69,10 +81,8 @@ def relative_frequencies(wordCounts, total):
     :param total, the total number of features
     :return a counter of word relative frequencies
     """
-
     for t in wordCounts.keys():
         wordCounts[t] = wordCounts[t] / total
-
     return wordCounts
 
 
@@ -127,3 +137,5 @@ def get_counts(myTexts, feat_list=None, feats = "words", n = 1, relFreqs = False
         myTexts[i[0]]["wordCounts"] = counts
 
     return myTexts
+
+
