@@ -13,9 +13,9 @@ if __name__ == '__main__':
     parser.add_argument('-o', action='store', help="optional base name of output files", type=str, default=False)
     parser.add_argument('-f', action="store", help="optional list of features in json", default=False)
     parser.add_argument('-t', action='store', help="types of features (words, chars, affixes - "
-                                                   "as per Sapkota et al. 2015 - or POS). POS are currently"
+                                                   "as per Sapkota et al. 2015 - or pos). pos are currently"
                                                    "only implemented for Modern English", type=str,
-                        default="words", choices=["words", "chars", "affixes", "POS"])
+                        default="words", choices=["words", "chars", "affixes", "pos"])
     parser.add_argument('-n', action='store', help="n grams lengths (default 1)", default=1, type=int)
     parser.add_argument('-k', action='store', help="How many most frequent?", default=5000, type=int)
     parser.add_argument('--absolute_freqs', action='store_true', help="switch to get absolute instead of relative freqs", default=False)
