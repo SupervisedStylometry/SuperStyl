@@ -52,7 +52,7 @@ def count_features(text, feats ="words", n = 1):
             nltk.data.find('averaged_perceptron_tagger')
         except:
             nltk.download('averaged_perceptron_tagger')
-        words = nltk.tokenize.word_tokenize(text)
+        words = nltk.tokenize.wordpunct_tokenize(text)
         pos_tags = [pos for word, pos in nltk.pos_tag(words)]
         if n > 1:
             tokens = ["_".join(t) for t in list(nltk.ngrams(pos_tags, n))]
