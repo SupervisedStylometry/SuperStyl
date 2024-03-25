@@ -73,8 +73,9 @@ if __name__ == "__main__":
     svm["misattributions"].to_csv(args.o+"misattributions.csv")
     joblib.dump(svm["pipeline"], args.o+'mySVM.joblib')
 
-    print(".......... Writing final predictions to " + args.o + "FINAL_PREDICTIONS.csv ........")
-    svm["final_predictions"].to_csv(args.o+"FINAL_PREDICTIONS.csv")
+    if args.final:
+        print(".......... Writing final predictions to " + args.o + "FINAL_PREDICTIONS.csv ........")
+        svm["final_predictions"].to_csv(args.o+"FINAL_PREDICTIONS.csv")
 
     if args.get_coefs:
         print(".......... Writing coefficients to disk ........")
