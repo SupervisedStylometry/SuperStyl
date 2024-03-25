@@ -77,18 +77,30 @@ def detect_lang(string):
 
 
 def normalise(text, keep_punct=False, keep_sym=False):
+    """
+    Function to normalise an input string. By defaults, it removes all but word chars, remove accents,
+    and normalise space, and then normalise unicode.
+    :param keep_punct: if true, in addition, also keeps Punctuation and case distinction
+    :param keep_sym: if true, same as keep_punct, but keeps also N?umbers, Symbols,  Marks, such as combining diacritics,
+    as well as Private use characters, and no Unidecode is applied
+    """
     # Remove all but word chars, remove accents, and normalise space
     # and then normalise unicode
 
     if keep_sym:
-        out = re.sub(r"\s+", " ", re.sub(r"[^\p{L}\p{P}\p{N}]+", " ", text.strip()))
+        out = re.sub(r"[^\p{L}\p{P}\p{N}\p{S}\p{M}\p{Co}]+", " ", text)
 
     else:
         if keep_punct:
-            out = re.sub(r"\s+", " ", unidecode.unidecode(re.sub(r"[^\p{L}\p{P}]+", " ", text.strip())))
+            out = re.sub(r"[^\p{L}\p{P}]+", " ", text)
 
         else:
-            out = re.sub(r"\s+", " ", unidecode.unidecode(re.sub(r"[\W0-9]+", " ", text.lower()).strip()))
+            #out = re.sub(r"[\W0-9]+", " ", text.lower())
+            out = re.sub(r"[^\p{L}]+", " ", text.lower())
+
+        out = unidecode.unidecode(out)
+
+    out = re.sub(r"\s+", " ", out).strip()
 
     return out
 
