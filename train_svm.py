@@ -69,12 +69,16 @@ if __name__ == "__main__":
     else:
         args.o = ''
 
-    svm["confusion_matrix"].to_csv(args.o+"confusion_matrix.csv")
-    svm["misattributions"].to_csv(args.o+"misattributions.csv")
+
+    if args.cross_validate is not None or (args.test_path is not None and not args.final):
+        svm["confusion_matrix"].to_csv(args.o+"confusion_matrix.csv")
+        svm["misattributions"].to_csv(args.o+"misattributions.csv")
+
     joblib.dump(svm["pipeline"], args.o+'mySVM.joblib')
 
-    print(".......... Writing final predictions to " + args.o + "FINAL_PREDICTIONS.csv ........")
-    svm["final_predictions"].to_csv(args.o+"FINAL_PREDICTIONS.csv")
+    if args.final:
+        print(".......... Writing final predictions to " + args.o + "FINAL_PREDICTIONS.csv ........")
+        svm["final_predictions"].to_csv(args.o+"FINAL_PREDICTIONS.csv")
 
     if args.get_coefs:
         print(".......... Writing coefficients to disk ........")

@@ -283,14 +283,15 @@ class Main(unittest.TestCase):
 
         self.assertEqual(results, expected)
 
-        #TODO: test keep_sym, according to revised definition
         # WHEN
-        # results = superstyl.preproc.pipe.load_texts(self.paths, identify_lang=False, format="txt",
-        #                                             keep_sym=True, max_samples=None)
+        results = superstyl.preproc.pipe.load_texts(self.paths, identify_lang=False, format="txt",
+                                                     keep_sym=True, max_samples=None)
         # THEN
-        # expected = [{'name': 'Dupont_Letter1.txt', 'aut': 'Dupont', 'text': 'Voici le texte!', 'lang': 'NA'},
-        #            {'name': 'Smith_Letter1.txt', 'aut': 'Smith', 'text': 'This is the text!', 'lang': 'NA'},
-        #            {'name': 'Smith_Letter2.txt', 'aut': 'Smith', 'text': 'This is, also , the text!', 'lang': 'NA'}]
+        expected = [{'name': 'Dupont_Letter1.txt', 'aut': 'Dupont', 'text': 'Voici le texte!', 'lang': 'NA'},
+                   {'name': 'Smith_Letter1.txt', 'aut': 'Smith', 'text': 'This is the text!', 'lang': 'NA'},
+                   {'name': 'Smith_Letter2.txt', 'aut': 'Smith', 'text': 'This is, © also © , the text!', 'lang': 'NA'}]
+
+        self.assertEqual(results, expected)
 
         # WHEN
         results = superstyl.preproc.pipe.load_texts(self.paths, identify_lang=True, format="txt", keep_punct=True,
@@ -314,9 +315,9 @@ class Main(unittest.TestCase):
         self.assertEqual(results, expected)
 
         # WHEN
-        results = superstyl.preproc.pipe.docs_to_samples(self.paths, identify_lang=False, size=2, step=1,
+        results = superstyl.preproc.pipe.docs_to_samples(sorted(self.paths), identify_lang=False, size=2, step=1,
                                                           units="words", format="txt", keep_punct=True,
-                                                          keep_sym=False,
+                                                          keep_sym=True,
                                                           max_samples=None)
 
         # THEN
@@ -329,14 +330,15 @@ class Main(unittest.TestCase):
                     {'name': 'Smith_Letter1.txt_3-5', 'aut': 'Smith', 'text': 'text !', 'lang': 'NA'},
                     {'name': 'Smith_Letter2.txt_0-2', 'aut': 'Smith', 'text': 'This is', 'lang': 'NA'},
                     {'name': 'Smith_Letter2.txt_1-3', 'aut': 'Smith', 'text': 'is ,', 'lang': 'NA'},
-                    {'name': 'Smith_Letter2.txt_2-4', 'aut': 'Smith', 'text': ', also', 'lang': 'NA'},
-                    {'name': 'Smith_Letter2.txt_3-5', 'aut': 'Smith', 'text': 'also ,', 'lang': 'NA'},
-                    {'name': 'Smith_Letter2.txt_4-6', 'aut': 'Smith', 'text': ', the', 'lang': 'NA'},
-                    {'name': 'Smith_Letter2.txt_5-7', 'aut': 'Smith', 'text': 'the text', 'lang': 'NA'},
-                    {'name': 'Smith_Letter2.txt_6-8', 'aut': 'Smith', 'text': 'text !', 'lang': 'NA'}]
-        self.assertEqual(results, expected)
+                    {'name': 'Smith_Letter2.txt_2-4', 'aut': 'Smith', 'text': ', ©', 'lang': 'NA'},
+                    {'name': 'Smith_Letter2.txt_3-5', 'aut': 'Smith', 'text': '© also', 'lang': 'NA'},
+                    {'name': 'Smith_Letter2.txt_4-6', 'aut': 'Smith', 'text': 'also ©', 'lang': 'NA'},
+                    {'name': 'Smith_Letter2.txt_5-7', 'aut': 'Smith', 'text': '© ,', 'lang': 'NA'},
+                    {'name': 'Smith_Letter2.txt_6-8', 'aut': 'Smith', 'text': ', the', 'lang': 'NA'},
+                    {'name': 'Smith_Letter2.txt_7-9', 'aut': 'Smith', 'text': 'the text', 'lang': 'NA'},
+                    {'name': 'Smith_Letter2.txt_8-10', 'aut': 'Smith', 'text': 'text !', 'lang': 'NA'}]
 
-        # TODO: test keep_sym
+        self.assertEqual(results, expected)
 
         # WHEN
         results = superstyl.preproc.pipe.docs_to_samples(self.paths, identify_lang=True, size=2, step=None,
@@ -492,13 +494,26 @@ class DataLoading(unittest.TestCase):
      # Now down to lower level features
     # First, testing the pipe features
     def test_normalise(self):
-        text = " Hello,  Mr. 𓀁, how are §§ you; doing?"
-        expected_default = "hello mr how are you doing"
-        self.assertEqual(superstyl.preproc.pipe.normalise(text), expected_default)
-        expected_keeppunct = "Hello, Mr. , how are SSSS you; doing?"
-        self.assertEqual(superstyl.preproc.pipe.normalise(text, keep_punct=True), expected_keeppunct)
-        expected_keepsym = "Hello, Mr. 𓀁, how are §§ you; doing?" #TODO: modify test according to new def
-        self.assertEqual(superstyl.preproc.pipe.normalise(text, keep_sym=True), expected_keepsym)
+        # FEATURE
+        # Normalise an input text, according to different options
+        # SCENARIO
+        # GIVEN
+        text = " Hello,  Mr. 𓀁, how are §§ you; doing? ſõ ❡"
+        # WHEN
+        results = superstyl.preproc.pipe.normalise(text)
+        # THEN
+        expected_default = "hello mr how are you doing s o"
+        self.assertEqual(results, expected_default)
+        # WHEN
+        results = superstyl.preproc.pipe.normalise(text, keep_punct=True)
+        # THEN
+        expected_keeppunct = "Hello, Mr. , how are SSSS you; doing? s o"
+        self.assertEqual(results, expected_keeppunct)
+        # WHEN
+        results = superstyl.preproc.pipe.normalise(text, keep_sym=True)
+        # THEN
+        expected_keepsym = "Hello, Mr. 𓀁, how are §§ you; doing? ſõ ❡"
+        self.assertEqual(results, expected_keepsym)
 
     def test_detect_lang(self):
         french = "Bonjour, Monsieur, comment allez-vous?"

@@ -75,7 +75,7 @@ if __name__ == '__main__':
 
     if not args.f:
         with open(feat_file, "w") as out:
-            out.write(json.dumps(my_feats, ensure_ascii=False))
+            out.write(json.dumps(my_feats, ensure_ascii=False, indent=0))
             print("Features list saved to " + feat_file)
 
     corpus.to_csv(corpus_file)
