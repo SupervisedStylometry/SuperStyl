@@ -5,7 +5,7 @@ import superstyl.preproc.embedding as embed
 import tqdm
 import pandas
 
-def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, relFreqs=True, format="txt", sampling=False,
+def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, freqsType="relative", format="txt", sampling=False,
                 units="words", size=3000, step=None, max_samples=None, keep_punct=False, keep_sym=False,
                 identify_lang=False, embedding=False, neighbouring_size=10):
     """
@@ -18,7 +18,7 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, relFreqs
     :param n: n grams lengths (default 1)
     :param k: How many most frequent? The function takes the rank of k (if k is smaller than the total number of features),
     gets its frequencies, and only include features of superior or equal total frequencies.
-    :param relFreqs: return relative frequencies (default: True)
+    :param freqsType: return relative, absolute or binarised frequencies (default: relative)
     :param format: one of txt, xml or tei. /!\ only txt is fully implemented.
     :param sampling: whether to sample the texts, by cutting it into slices of a given length, until the last possible
       slice of this length, which means that often the end of the text will be eliminated (default False)
@@ -73,7 +73,7 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, relFreqs
     print(".......getting counts.......")
 
     my_feats = [m[0] for m in feat_list] # keeping only the features without the frequencies
-    myTexts = fex.get_counts(myTexts, feat_list=my_feats, feats=feats, n=n, relFreqs=relFreqs)
+    myTexts = fex.get_counts(myTexts, feat_list=my_feats, feats=feats, n=n, freqsType=freqsType)
 
     if embedding:
         print(".......embedding counts.......")

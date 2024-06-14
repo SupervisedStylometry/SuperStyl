@@ -85,6 +85,18 @@ def relative_frequencies(wordCounts, total):
         wordCounts[t] = wordCounts[t] / total
     return wordCounts
 
+def bin_frequencies(wordCounts):
+    """
+    For a counter of word counts, return the binarised frequencies
+    :param wordCounts: a dictionary of word counts
+    :return a counter of word relative frequencies
+    """
+    for t in wordCounts.keys():
+        if wordCounts[t] > 0:
+            wordCounts[t] = 1
+
+    return wordCounts
+
 
 def get_feature_list(myTexts, feats="words", n=1, relFreqs=True):
     """
@@ -112,23 +124,29 @@ def get_feature_list(myTexts, feats="words", n=1, relFreqs=True):
     return my_feats
 
 
-def get_counts(myTexts, feat_list=None, feats = "words", n = 1, relFreqs = False):
+def get_counts(myTexts, feat_list=None, feats = "words", n = 1, freqsType = "relative"):
     """
     Get counts for a collection of texts
     :param myTexts: the document collection
     :param feat_list: a list of features to be selected (None for all)
     :param feats: the type of feats (words, chars, affixes, POS)
     :param n: the length of n-grams
-    :param relFreqs: whether to compute relative freqs
+    :param freqsType: relative, absolute or binarised freqs
     :return: the collection with, for each text, a 'wordCounts' dictionary
     """
+
+    if freqsType not in ["relative", "absolute", "binary"]:
+        raise ValueError("Unsupported frequency type. Choose from 'relative', 'absolute', or 'binary'.")
 
     for i in enumerate(myTexts):
 
         counts, total = count_features(myTexts[i[0]]["text"], feats=feats, n=n)
 
-        if relFreqs:
+        if freqsType == "relative":
             counts = relative_frequencies(counts, total)
+
+        elif freqsType == "binary":
+            counts = bin_frequencies(counts)
 
         if feat_list:
             # and keep only the ones in the feature list
