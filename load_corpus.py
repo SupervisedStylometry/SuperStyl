@@ -32,6 +32,9 @@ if __name__ == '__main__':
     parser.add_argument('--sample_step', action='store', help="Step for sampling with overlap (default is no overlap)", default=None, type=int)
     parser.add_argument('--max_samples', action='store', help="Maximum number of (randomly selected) samples per author/class (default is all)",
                         default=None, type=int)
+    parser.add_argument('--samples_random', action='store_true',
+                        help="Should random sampling with replacement be performed instead of continuous sampling (default: false)",
+                        default=False)
     parser.add_argument('--keep_punct', action='store_true', help="whether to keep punctuation and caps (default is False)",
                         default=False)
     parser.add_argument('--keep_sym', action='store_true',
@@ -59,6 +62,7 @@ if __name__ == '__main__':
                                    relFreqs=not args.absolute_freqs, format=args.x,
                                    sampling=args.sampling, units=args.sample_units,
                                    size=args.sample_size, step=args.sample_step, max_samples=args.max_samples,
+                                   samples_random=args.samples_random,
                                    keep_punct=args.keep_punct, keep_sym=args.keep_sym, identify_lang=args.identify_lang,
                                    embedding=args.embedding, neighbouring_size=args.neighbouring_size
                                    )
