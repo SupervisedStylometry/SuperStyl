@@ -1,3 +1,6 @@
+
+
+
 import sklearn.svm as sk
 import sklearn.metrics as metrics
 import sklearn.decomposition as decomp
@@ -100,8 +103,8 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
         if balance == 'upsampling':
             estimators.append(('sampling', over.RandomOverSampler(random_state=42)))
 
-        if balance in ['SMOTE', 'SMOTETomek']:
-            # Adjust n_neighbors for SMOTE/SMOTETomek based on smallest class size: 
+        if balance == 'SMOTE':
+            # Adjust n_neighbors for SMOTE based on smallest class size: 
             # Ensures that the resampling method does not attempt to use more neighbors than available samples
             # in the minority class, which produced the error.
             min_class_size = min(Counter(classes).values())
@@ -110,11 +113,11 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
             # (might be written more clearly, but we want a short message, right?)
             if n_neighbors >= min_class_size:
                 print(
-                    f"Warning: Adjusting n_neighbors for SMOTE / SMOTETomek to {n_neighbors} due to small class size.")
-            if balance == 'SMOTE':
-                estimators.append(('sampling', over.SMOTE(n_neighbors=n_neighbors, random_state=42)))
-            elif balance == 'SMOTETomek':
-                estimators.append(('sampling', comb.SMOTETomek(n_neighbors=n_neighbors, random_state=42)))
+                    f"Warning: Adjusting n_neighbors for SMOTE to {n_neighbors} due to small class size.")
+            estimators.append(('sampling', over.SMOTE(n_neighbors=n_neighbors, random_state=42)))
+        
+        elif balance == 'SMOTETomek':
+            estimators.append(('sampling', comb.SMOTETomek(random_state=42)))
 
     print(".......... choosing SVM ........")
 
@@ -254,7 +257,6 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
     results["pipeline"] = pipe
 
     return results
-
 
 # Following function from Aneesha Bakharia
 # https://aneesha.medium.com/visualising-top-features-in-linear-svm-with-scikit-learn-and-matplotlib-3454ab18a14d
