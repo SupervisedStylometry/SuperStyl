@@ -53,8 +53,22 @@ class Main_svm(unittest.TestCase):
         self.assertEqual(results["misattributions"].to_dict(), expected_results["misattributions"])
         self.assertEqual(list(results.keys()), expected_keys)
 
+        #TODO: quick tests for SMOTE, SMOTETOMEK, to improve
         # WHEN
-        #results = superstyl.train_svm(train, test, final_pred=False, balance="SMOTETomek")
+        results = superstyl.train_svm(train, test, final_pred=False, balance="SMOTETomek")
+        # THEN
+        self.assertEqual(results["confusion_matrix"].to_dict(), expected_results["confusion_matrix"])
+        self.assertEqual(results["classification_report"], expected_results["classification_report"])
+        self.assertEqual(results["misattributions"].to_dict(), expected_results["misattributions"])
+        self.assertEqual(list(results.keys()), expected_keys)
+
+        # WHEN
+        results = superstyl.train_svm(train, test, final_pred=False, balance="SMOTE")
+        # THEN
+        self.assertEqual(results["confusion_matrix"].to_dict(), expected_results["confusion_matrix"])
+        self.assertEqual(results["classification_report"], expected_results["classification_report"])
+        self.assertEqual(results["misattributions"].to_dict(), expected_results["misattributions"])
+        self.assertEqual(list(results.keys()), expected_keys)
 
 
         # This is only the first minimal tests for this function
