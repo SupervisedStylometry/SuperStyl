@@ -70,6 +70,25 @@ class Main_svm(unittest.TestCase):
         self.assertEqual(results["misattributions"].to_dict(), expected_results["misattributions"])
         self.assertEqual(list(results.keys()), expected_keys)
 
+        # now, when it can be applied, but needs to be recomputed, because of a maximum possible number of
+        # neighbors < 5
+
+        # WHEN
+        results = superstyl.train_svm(pandas.concat([train, train]), test, final_pred=False, balance="SMOTETomek")
+        # THEN
+        self.assertEqual(results["confusion_matrix"].to_dict(), expected_results["confusion_matrix"])
+        self.assertEqual(results["classification_report"], expected_results["classification_report"])
+        self.assertEqual(results["misattributions"].to_dict(), expected_results["misattributions"])
+        self.assertEqual(list(results.keys()), expected_keys)
+
+        # WHEN
+        results = superstyl.train_svm(train, test, final_pred=False, balance="SMOTE")
+        # THEN
+        self.assertEqual(results["confusion_matrix"].to_dict(), expected_results["confusion_matrix"])
+        self.assertEqual(results["classification_report"], expected_results["classification_report"])
+        self.assertEqual(results["misattributions"].to_dict(), expected_results["misattributions"])
+        self.assertEqual(list(results.keys()), expected_keys)
+
 
         # This is only the first minimal tests for this function
 
