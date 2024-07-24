@@ -53,8 +53,51 @@ class Main_svm(unittest.TestCase):
         self.assertEqual(results["misattributions"].to_dict(), expected_results["misattributions"])
         self.assertEqual(list(results.keys()), expected_keys)
 
+        #TODO: quick tests for SMOTE, SMOTETOMEK, to improve
         # WHEN
-        #results = superstyl.train_svm(train, test, final_pred=False, balance="SMOTETomek")
+        results = superstyl.train_svm(train, test, final_pred=False, balance="SMOTETomek")
+        # THEN
+        self.assertEqual(results["confusion_matrix"].to_dict(), expected_results["confusion_matrix"])
+        self.assertEqual(results["classification_report"], expected_results["classification_report"])
+        self.assertEqual(results["misattributions"].to_dict(), expected_results["misattributions"])
+        self.assertEqual(list(results.keys()), expected_keys)
+
+        # WHEN
+        results = superstyl.train_svm(train, test, final_pred=False, balance="SMOTE")
+        # THEN
+        self.assertEqual(results["confusion_matrix"].to_dict(), expected_results["confusion_matrix"])
+        self.assertEqual(results["classification_report"], expected_results["classification_report"])
+        self.assertEqual(results["misattributions"].to_dict(), expected_results["misattributions"])
+        self.assertEqual(list(results.keys()), expected_keys)
+
+        # now, when it can be applied, but needs to be recomputed, because of a maximum possible number of
+        # neighbors < 5
+        train2 = pandas.DataFrame({'author': {'Dupont_Letter1.txt': 'Dupont', 'Dupont_Letter2.txt': 'Dupont', 'Smith_Letter1.txt': 'Smith', 'Smith_Letter2.txt': 'Smith'},
+                           'lang': {'Dupont_Letter1.txt': 'NA', 'Dupont_Letter2.txt': 'NA', 'Smith_Letter1.txt': 'NA', 'Smith_Letter2.txt': 'NA'},
+                           'this': {'Dupont_Letter1.txt': 0.0, 'Dupont_Letter2.txt': 0.0, 'Smith_Letter1.txt': 0.25, 'Smith_Letter2.txt': 0.2},
+                           'is': {'Dupont_Letter1.txt': 0.0, 'Dupont_Letter2.txt': 0.0, 'Smith_Letter1.txt': 0.25, 'Smith_Letter2.txt': 0.2},
+                           'the': {'Dupont_Letter1.txt': 0.0, 'Dupont_Letter2.txt': 0.0, 'Smith_Letter1.txt': 0.25, 'Smith_Letter2.txt': 0.2},
+                           'text': {'Dupont_Letter1.txt': 0.0, 'Dupont_Letter2.txt': 0.0, 'Smith_Letter1.txt': 0.25, 'Smith_Letter2.txt': 0.2},
+                           'voici': {'Dupont_Letter1.txt': 1/3, 'Dupont_Letter2.txt': 1/3, 'Smith_Letter1.txt': 0.0, 'Smith_Letter2.txt': 0.0},
+                           'le': {'Dupont_Letter1.txt': 1/3, 'Dupont_Letter2.txt': 1/3, 'Smith_Letter1.txt': 0.0, 'Smith_Letter2.txt': 0.0},
+                           'texte': {'Dupont_Letter1.txt': 1/3, 'Dupont_Letter2.txt': 1/3, 'Smith_Letter1.txt': 0.0, 'Smith_Letter2.txt': 0.0},
+                           'also': {'Dupont_Letter1.txt': 0.0, 'Dupont_Letter2.txt': 0.0, 'Smith_Letter1.txt': 0.0, 'Smith_Letter2.txt': 0.2}})
+
+        # WHEN
+        results = superstyl.train_svm(train2, test, final_pred=True, balance="SMOTETomek")
+        # THEN
+        expected_preds = {'filename': {0: 'Dupont_Letter1.txt', 1: 'Smith_Letter1.txt',
+                                                        2: 'Smith_Letter2.txt'},
+                                           'author': {0: 'Dupont', 1: 'Smith', 2: 'Smith'},
+                                           'Decision function': {0: -0.883772535448984, 1: 0.8756912342726781,
+                                                                 2: 0.873288374519472}}
+
+        self.assertEqual(results['final_predictions'].to_dict()["author"], expected_preds["author"])
+
+        # WHEN
+        results = superstyl.train_svm(train2, test, final_pred=True, balance="SMOTE")
+        # THEN
+        self.assertEqual(results['final_predictions'].to_dict()["author"], expected_preds["author"])
 
 
         # This is only the first minimal tests for this function
