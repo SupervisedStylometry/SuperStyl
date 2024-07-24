@@ -111,9 +111,14 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
             n_neighbors = min(5, min_class_size - 1)  # Default n_neighbors in SMOTE is 5
             # In case we have to temper with the n_neighbors, we print a warning message to the user
             # (might be written more clearly, but we want a short message, right?)
-            if n_neighbors >= min_class_size:
+            if 0 < n_neighbors >= min_class_size:
                 print(
                     f"Warning: Adjusting n_neighbors for SMOTE to {n_neighbors} due to small class size.")
+            
+            if n_neighbors == 0:
+                print(
+                    f"Warning: at least one class only has a single individual; cannot apply SMOTE(Tomek) due to small class size.")
+                break
             
             if balance == 'SMOTE':
                 estimators.append(('sampling', over.SMOTE(k_neighbors=n_neighbors, random_state=42)))
