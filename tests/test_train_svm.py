@@ -86,11 +86,11 @@ class Main_svm(unittest.TestCase):
         # WHEN
         results = superstyl.train_svm(train2, test, final_pred=True, balance="SMOTETomek")
         # THEN
-        expected_preds = pandas.DataFrame({'filename': {0: 'Dupont_Letter1.txt', 1: 'Smith_Letter1.txt',
+        expected_preds = {'filename': {0: 'Dupont_Letter1.txt', 1: 'Smith_Letter1.txt',
                                                         2: 'Smith_Letter2.txt'},
                                            'author': {0: 'Dupont', 1: 'Smith', 2: 'Smith'},
                                            'Decision function': {0: -0.883772535448984, 1: 0.8756912342726781,
-                                                                 2: 0.873288374519472}})
+                                                                 2: 0.873288374519472}}
 
         self.assertEqual(results['final_predictions'].to_dict(), expected_preds)
 
