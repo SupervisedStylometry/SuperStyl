@@ -92,11 +92,12 @@ def normalise(text, keep_punct=False, keep_sym=False):
 
     else:
         if keep_punct:
-            out = re.sub(r"[^\p{L}\p{P}]+", " ", text)
+            # Keep punctuation (and diacritics for now)
+            out = re.sub(r"[^\p{L}\p{P}\p{M}]+", " ", text)
 
         else:
             #out = re.sub(r"[\W0-9]+", " ", text.lower())
-            out = re.sub(r"[^\p{L}]+", " ", text.lower())
+            out = re.sub(r"[^\p{L}\p{M}]+", " ", text.lower())
 
         out = unidecode.unidecode(out)
 
