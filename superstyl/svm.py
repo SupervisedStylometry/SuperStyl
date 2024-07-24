@@ -116,10 +116,10 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
                     f"Warning: Adjusting n_neighbors for SMOTE to {n_neighbors} due to small class size.")
             
             if balance == 'SMOTE':
-                estimators.append(('sampling', over.SMOTE(n_neighbors=n_neighbors, random_state=42)))
+                estimators.append(('sampling', over.SMOTE(k_neighbors=n_neighbors, random_state=42)))
         
             elif balance == 'SMOTETomek':
-                estimators.append(('sampling', comb.SMOTETomek(random_state=42, smote=over.SMOTE(n_neighbors=n_neighbors, random_state=42))))
+                estimators.append(('sampling', comb.SMOTETomek(random_state=42, smote=over.SMOTE(k_neighbors=n_neighbors, random_state=42))))
 
     print(".......... choosing SVM ........")
 
