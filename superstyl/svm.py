@@ -118,13 +118,13 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
             if n_neighbors == 0:
                 print(
                     f"Warning: at least one class only has a single individual; cannot apply SMOTE(Tomek) due to small class size.")
-                break
+            else:
             
-            if balance == 'SMOTE':
-                estimators.append(('sampling', over.SMOTE(k_neighbors=n_neighbors, random_state=42)))
+                if balance == 'SMOTE':
+                    estimators.append(('sampling', over.SMOTE(k_neighbors=n_neighbors, random_state=42)))
         
-            elif balance == 'SMOTETomek':
-                estimators.append(('sampling', comb.SMOTETomek(random_state=42, smote=over.SMOTE(k_neighbors=n_neighbors, random_state=42))))
+                elif balance == 'SMOTETomek':
+                    estimators.append(('sampling', comb.SMOTETomek(random_state=42, smote=over.SMOTE(k_neighbors=n_neighbors, random_state=42))))
 
     print(".......... choosing SVM ........")
 
