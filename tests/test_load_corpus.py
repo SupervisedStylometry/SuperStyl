@@ -356,6 +356,23 @@ class Main(unittest.TestCase):
         # THEN
         self.assertEqual(len([text for text in results if text["aut"] == 'Smith']), 1)
 
+        # TODO: this is just minimal testing for random sampling
+        # WHEN
+        results = superstyl.preproc.pipe.docs_to_samples(self.paths, identify_lang=False, size=2, step=None,
+                                                         units="words",
+                                                         format="txt", keep_punct=False, keep_sym=False,
+                                                         max_samples=5, samples_random=True)
+        # THEN
+        self.assertEqual(len([text for text in results if text["aut"] == 'Smith']), 5)
+
+        # and now tests that error are raised when parameters combinations are not consistent
+        # WHEN/THEN
+        self.assertRaises(ValueError, superstyl.preproc.pipe.docs_to_samples(self.paths, size=2, step=1, units="words",
+                                                         format="txt", max_samples=5, samples_random=True))
+        self.assertRaises(ValueError, superstyl.preproc.pipe.docs_to_samples(self.paths, size=2, units="words",
+                                                                             format="txt", max_samples=None,
+                                                                             samples_random=True))
+
     # TODO: test other loading formats with sampling, that are not txt (and decide on their implementation)
 
     # Testing the processing of "myTexts" objects
