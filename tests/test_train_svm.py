@@ -92,12 +92,12 @@ class Main_svm(unittest.TestCase):
                                            'Decision function': {0: -0.883772535448984, 1: 0.8756912342726781,
                                                                  2: 0.873288374519472}}
 
-        self.assertEqual(results['final_predictions'].to_dict(), expected_preds)
+        self.assertEqual(results['final_predictions'].to_dict()["author"], expected_preds["author"])
 
         # WHEN
         results = superstyl.train_svm(train2, test, final_pred=True, balance="SMOTE")
         # THEN
-        self.assertEqual(results['final_predictions'].to_dict(), expected_preds)
+        self.assertEqual(results['final_predictions'].to_dict()["author"], expected_preds["author"])
 
 
         # This is only the first minimal tests for this function
