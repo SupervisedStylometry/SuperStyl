@@ -98,11 +98,12 @@ def bin_frequencies(wordCounts):
     return wordCounts
 
 
-def get_feature_list(myTexts, feats="words", n=1, relFreqs=True):
+def get_feature_list(myTexts, feats="words", n=1, freqsType="relative"):
     """
     :param myTexts: a 'myTexts' object, containing documents to be processed
     :param feat_list: a list of features to be selected
     :param feats: type of feats (words, chars, affixes or POS)
+    :param freqsType: "relative", "absolute" or "binary" frequencies
     :param n: n-grams length
     :return: list of features, with total frequency
     """
@@ -115,8 +116,10 @@ def get_feature_list(myTexts, feats="words", n=1, relFreqs=True):
         my_feats.update(counts)
         total = total + text_total
 
-    if relFreqs:
+    if freqsType == "relative":
         my_feats = relative_frequencies(my_feats, total)
+    elif freqsType == "binary":
+        my_feats = bin_frequencies(my_feats)
 
     # sort them
     my_feats = [(i, my_feats[i]) for i in sorted(my_feats, key=my_feats.get, reverse=True)]

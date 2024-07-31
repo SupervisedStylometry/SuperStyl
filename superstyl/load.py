@@ -61,7 +61,7 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, freqsTyp
     print(".......getting features.......")
 
     if feat_list is None:
-        feat_list = fex.get_feature_list(myTexts, feats=feats, n=n, relFreqs=relFreqs)
+        feat_list = fex.get_feature_list(myTexts, feats=feats, n=n, freqsType=freqsType)
         if k > len(feat_list):
             print("K Limit ignored because the size of the list is lower ({} < {})".format(len(feat_list), k))
         else:
