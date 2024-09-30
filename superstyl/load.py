@@ -5,6 +5,7 @@ import superstyl.preproc.embedding as embed
 import tqdm
 import pandas
 
+
 def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, freqsType="relative", format="txt", sampling=False,
                 units="words", size=3000, step=None, max_samples=None, keep_punct=False, keep_sym=False,
                 identify_lang=False, embedding=False, neighbouring_size=10):
@@ -28,6 +29,7 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, freqsTyp
     :param step: step for sampling with overlap (default is step = size, which means no overlap).
     Reduce for overlapping slices
     :param max_samples: Maximum number of (randomly selected) samples per author/class (default is all)
+    :param samples_random: Should random sampling with replacement be performed instead of continuous sampling (default: false)
     :param keep_punct: whether to keep punctuation and caps (default is False)
     :param keep_sym: same as keep_punct, plus no Unidecode, and numbers are kept as well (default is False). /!\ does not
     actually keep symbols
@@ -50,7 +52,8 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, freqsTyp
 
     if sampling:
         myTexts = pipe.docs_to_samples(data_paths, format=format, units=units, size=size, step=step,
-                                       max_samples=max_samples, keep_punct=keep_punct, keep_sym=keep_sym,
+                                       max_samples=max_samples, samples_random=samples_random,
+                                       keep_punct=keep_punct, keep_sym=keep_sym,
                                        identify_lang = identify_lang
                                        )
 

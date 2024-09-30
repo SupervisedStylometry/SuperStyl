@@ -92,11 +92,12 @@ def normalise(text, keep_punct=False, keep_sym=False):
 
     else:
         if keep_punct:
-            out = re.sub(r"[^\p{L}\p{P}]+", " ", text)
+            # Keep punctuation (and diacritics for now)
+            out = re.sub(r"[^\p{L}\p{P}\p{M}]+", " ", text)
 
         else:
             #out = re.sub(r"[\W0-9]+", " ", text.lower())
-            out = re.sub(r"[^\p{L}]+", " ", text.lower())
+            out = re.sub(r"[^\p{L}\p{M}]+", " ", text.lower())
 
         out = unidecode.unidecode(out)
 
@@ -173,7 +174,8 @@ def load_texts(paths, identify_lang=False, format="txt", keep_punct=False, keep_
 
 
 # Load and split in samples of length -n- a collection of files
-def get_samples(path, size, step=None, units="words", format="txt", keep_punct=False, keep_sym=False):
+def get_samples(path, size, step=None, samples_random=False, max_samples=10,
+                units="words", format="txt", keep_punct=False, keep_sym=False):
     """
     Take samples of n words or verses from a document, and then parse it.
     ONLY IMPLEMENTED FOR NOW: XML/TEI, TXT and verses or words as units
@@ -181,9 +183,17 @@ def get_samples(path, size, step=None, units="words", format="txt", keep_punct=F
     :param size: sample size
     :param size: size of the step when sampling successively (determines overlap) default is the same
     as sample size (i.e. no overlap)
+    :param samples_random: Should random sampling with replacement be performed instead of continuous sampling (default: false)
+    :param max_samples: maximum number of samples per author/clas
     :param units: the units to use, one of "words" or "verses"
     :param format: type of document, one of full text, TEI or simple XML (ONLY TEI and TXT IMPLEMENTED)
     """
+
+    if samples_random and step is not None:
+        raise ValueError("random sampling is not compatible with continuous sampling (remove either the step or the samples_random argument")
+
+    if samples_random and not max_samples:
+        raise ValueError("random sampling needs a fixed number of samples (use the max_samples argument)")
 
     if step is None:
         step = size
@@ -226,15 +236,21 @@ def get_samples(path, size, step=None, units="words", format="txt", keep_punct=F
 
     # and now generating output
     samples = []
-    current = 0
-    while current + size <= len(units):
-        samples.append({"start": current, "end": current + size, "text": list(units[current:(current + size)])})
-        current = current + step
+
+    if samples_random:
+        for k in range(max_samples):
+            samples.append({"start": str(k)+'s', "end": str(k)+'e', "text": list(random.choices(units, k=size))})
+
+    else:
+        current = 0
+        while current + size <= len(units):
+            samples.append({"start": current, "end": current + size, "text": list(units[current:(current + size)])})
+            current = current + step
 
     return samples
 
 
-def docs_to_samples(paths, size, step=None, units="words", format="txt", keep_punct=False,
+def docs_to_samples(paths, size, step=None, units="words", samples_random=False, format="txt", keep_punct=False,
                     keep_sym=False, max_samples=None, identify_lang=False):
     """
     Loads a collection of documents into a 'myTexts' object for further processing BUT with samples !
@@ -243,6 +259,7 @@ def docs_to_samples(paths, size, step=None, units="words", format="txt", keep_pu
     :param size: size of the step when sampling successively (determines overlap) default is the same
     as sample size (i.e. no overlap)
     :param units: the units to use, one of "words" or "verses"
+    :param samples_random: Should random sampling with replacement be performed instead of continuous sampling (default: false)
     :param format: type of document, one of full text, TEI or simple XML (ONLY TEI and TXT IMPLEMENTED)
     :param keep_punct: whether to keep punctuation and caps.
     :param max_samples: maximum number of samples per author/class.
@@ -264,7 +281,8 @@ def docs_to_samples(paths, size, step=None, units="words", format="txt", keep_pu
         else:
             lang = 'NA'
 
-        samples = get_samples(path, size=size, step=step, units=units, format=format,
+        samples = get_samples(path, size=size, step=step, samples_random=samples_random, max_samples=max_samples,
+                              units=units, format=format,
                               keep_punct=keep_punct, keep_sym=keep_sym)
 
         for sample in samples:
