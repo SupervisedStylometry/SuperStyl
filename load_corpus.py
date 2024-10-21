@@ -18,7 +18,10 @@ if __name__ == '__main__':
                         default="words", choices=["words", "chars", "affixes", "pos"])
     parser.add_argument('-n', action='store', help="n grams lengths (default 1)", default=1, type=int)
     parser.add_argument('-k', action='store', help="How many most frequent?", default=5000, type=int)
-    parser.add_argument('--absolute_freqs', action='store_true', help="switch to get absolute instead of relative freqs", default=False)
+    parser.add_argument('--freqs', action='store', help="relative, absolute or binarised freqs",
+                        default="relative",
+                        choices=["relative", "absolute", "binary"]
+                        )
     parser.add_argument('-x', action='store', help="format (txt, xml or tei) /!\ only txt is fully implemented",
                         default="txt",
                         choices=["txt", "xml", "tei"]
@@ -59,7 +62,7 @@ if __name__ == '__main__':
         my_feats = None
 
     corpus, my_feats = load_corpus(args.s, feat_list=my_feats, feats=args.t, n=args.n, k=args.k,
-                                   relFreqs=not args.absolute_freqs, format=args.x,
+                                   freqsType=args.freqs, format=args.x,
                                    sampling=args.sampling, units=args.sample_units,
                                    size=args.sample_size, step=args.sample_step, max_samples=args.max_samples,
                                    samples_random=args.samples_random,

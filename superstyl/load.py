@@ -5,9 +5,10 @@ import superstyl.preproc.embedding as embed
 import tqdm
 import pandas
 
-def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, relFreqs=True, format="txt", sampling=False,
-                units="words", size=3000, step=None, max_samples=None, samples_random=False,
-                keep_punct=False, keep_sym=False, identify_lang=False, embedding=False, neighbouring_size=10):
+
+def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, freqsType="relative", format="txt", sampling=False,
+                units="words", size=3000, step=None, max_samples=None, samples_random=False, keep_punct=False, keep_sym=False,
+                identify_lang=False, embedding=False, neighbouring_size=10):
     """
     Main function to load a corpus from a collection of file, and an optional list of features to extract.
     :param data_paths: paths to the source files
@@ -18,7 +19,7 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, relFreqs
     :param n: n grams lengths (default 1)
     :param k: How many most frequent? The function takes the rank of k (if k is smaller than the total number of features),
     gets its frequencies, and only include features of superior or equal total frequencies.
-    :param relFreqs: return relative frequencies (default: True)
+    :param freqsType: return relative, absolute or binarised frequencies (default: relative)
     :param format: one of txt, xml or tei. /!\ only txt is fully implemented.
     :param sampling: whether to sample the texts, by cutting it into slices of a given length, until the last possible
       slice of this length, which means that often the end of the text will be eliminated (default False)
@@ -46,6 +47,7 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, relFreqs
         relFreqs = False  # we need absolute freqs as a basis for embedded frequencies
         model = embed.load_embeddings(embedding)
         embeddedFreqs = True
+        freqsType = "absolute" #absolute freqs are required for embedding
 
     print(".......loading texts.......")
 
@@ -53,8 +55,7 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, relFreqs
         myTexts = pipe.docs_to_samples(data_paths, format=format, units=units, size=size, step=step,
                                        max_samples=max_samples, samples_random=samples_random,
                                        keep_punct=keep_punct, keep_sym=keep_sym,
-                                       identify_lang = identify_lang
-                                       )
+                                       identify_lang = identify_lang)
 
     else:
         myTexts = pipe.load_texts(data_paths, format=format, max_samples=max_samples, keep_punct=keep_punct,
@@ -63,7 +64,7 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, relFreqs
     print(".......getting features.......")
 
     if feat_list is None:
-        feat_list = fex.get_feature_list(myTexts, feats=feats, n=n, relFreqs=relFreqs)
+        feat_list = fex.get_feature_list(myTexts, feats=feats, n=n, freqsType=freqsType)
         if k > len(feat_list):
             print("K Limit ignored because the size of the list is lower ({} < {})".format(len(feat_list), k))
         else:
@@ -75,7 +76,7 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, relFreqs
     print(".......getting counts.......")
 
     my_feats = [m[0] for m in feat_list] # keeping only the features without the frequencies
-    myTexts = fex.get_counts(myTexts, feat_list=my_feats, feats=feats, n=n, relFreqs=relFreqs)
+    myTexts = fex.get_counts(myTexts, feat_list=my_feats, feats=feats, n=n, freqsType=freqsType)
 
     if embedding:
         print(".......embedding counts.......")

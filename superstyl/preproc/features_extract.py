@@ -49,9 +49,9 @@ def count_features(text, feats ="words", n = 1):
     #POS in english with NLTK - need to propose spacy later on
     elif feats == "pos":
         try:
-            nltk.data.find('taggers/averaged_perceptron_tagger')
+            nltk.data.find('taggers/averaged_perceptron_tagger_eng')
         except:
-            nltk.download('averaged_perceptron_tagger')
+            nltk.download('averaged_perceptron_tagger_eng')
         words = nltk.tokenize.wordpunct_tokenize(text)
         pos_tags = [pos for word, pos in nltk.pos_tag(words)]
         if n > 1:
@@ -85,12 +85,25 @@ def relative_frequencies(wordCounts, total):
         wordCounts[t] = wordCounts[t] / total
     return wordCounts
 
+def bin_frequencies(wordCounts):
+    """
+    For a counter of word counts, return the binarised frequencies
+    :param wordCounts: a dictionary of word counts
+    :return a counter of word relative frequencies
+    """
+    for t in wordCounts.keys():
+        if wordCounts[t] > 0:
+            wordCounts[t] = 1
 
-def get_feature_list(myTexts, feats="words", n=1, relFreqs=True):
+    return wordCounts
+
+
+def get_feature_list(myTexts, feats="words", n=1, freqsType="relative"):
     """
     :param myTexts: a 'myTexts' object, containing documents to be processed
     :param feat_list: a list of features to be selected
     :param feats: type of feats (words, chars, affixes or POS)
+    :param freqsType: "relative", "absolute" or "binary" frequencies
     :param n: n-grams length
     :return: list of features, with total frequency
     """
@@ -103,8 +116,10 @@ def get_feature_list(myTexts, feats="words", n=1, relFreqs=True):
         my_feats.update(counts)
         total = total + text_total
 
-    if relFreqs:
+    if freqsType == "relative":
         my_feats = relative_frequencies(my_feats, total)
+    elif freqsType == "binary":
+        my_feats = bin_frequencies(my_feats)
 
     # sort them
     my_feats = [(i, my_feats[i]) for i in sorted(my_feats, key=my_feats.get, reverse=True)]
@@ -112,23 +127,29 @@ def get_feature_list(myTexts, feats="words", n=1, relFreqs=True):
     return my_feats
 
 
-def get_counts(myTexts, feat_list=None, feats = "words", n = 1, relFreqs = False):
+def get_counts(myTexts, feat_list=None, feats = "words", n = 1, freqsType = "relative"):
     """
     Get counts for a collection of texts
     :param myTexts: the document collection
     :param feat_list: a list of features to be selected (None for all)
     :param feats: the type of feats (words, chars, affixes, POS)
     :param n: the length of n-grams
-    :param relFreqs: whether to compute relative freqs
+    :param freqsType: relative, absolute or binarised freqs
     :return: the collection with, for each text, a 'wordCounts' dictionary
     """
+
+    if freqsType not in ["relative", "absolute", "binary"]:
+        raise ValueError("Unsupported frequency type. Choose from 'relative', 'absolute', or 'binary'.")
 
     for i in enumerate(myTexts):
 
         counts, total = count_features(myTexts[i[0]]["text"], feats=feats, n=n)
 
-        if relFreqs:
+        if freqsType == "relative":
             counts = relative_frequencies(counts, total)
+
+        elif freqsType == "binary":
+            counts = bin_frequencies(counts)
 
         if feat_list:
             # and keep only the ones in the feature list
