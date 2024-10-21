@@ -51,7 +51,7 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, freqsTyp
     if sampling:
         myTexts = pipe.docs_to_samples(data_paths, format=format, units=units, size=size, step=step,
                                        max_samples=max_samples, keep_punct=keep_punct, keep_sym=keep_sym,
-                                       identify_lang = identify_lang
+                                       identify_lang=identify_lang
                                        )
 
     else:
