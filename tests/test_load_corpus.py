@@ -37,7 +37,7 @@ class Main(unittest.TestCase):
         self.assertEqual(corpus.to_dict(), expected_corpus)
 
         # WHEN
-        corpus, feats = superstyl.load.load_corpus(self.paths, feat_list=[('the', 0)], feats="chars", n=3, k=5000, relFreqs=False,
+        corpus, feats = superstyl.load.load_corpus(self.paths, feat_list=[('the', 0)], feats="chars", n=3, k=5000, freqsType="absolute",
                                                    format="txt", keep_punct=False, keep_sym=False, identify_lang=True)
 
         # THEN
@@ -120,7 +120,7 @@ class Main(unittest.TestCase):
 
         # WHEN
         corpus, feats = superstyl.load.load_corpus(self.paths, feats="chars", n=3, format="txt", keep_punct=True,
-                                                   relFreqs=False)
+                                                   freqsType="absolute")
 
         # THEN
         expected_feats = [('e_t', 3), ('_te', 3), ('tex', 3), ('ext', 3), ('is_', 3), ('Thi', 2), ('his', 2), ('s_i', 2),
@@ -172,6 +172,62 @@ class Main(unittest.TestCase):
         self.assertEqual(corpus.to_dict(), expected_corpus)
 
         # WHEN
+        corpus, feats = superstyl.load.load_corpus(self.paths, feats="chars", n=3, format="txt", keep_punct=True,
+                                                   freqsType="binary")
+
+        # THEN
+        expected_feats = [('e_t', 1), ('_te', 1), ('tex', 1), ('ext', 1), ('is_', 1), ('Thi', 1), ('his', 1),
+                          ('s_i', 1),
+                          ('_is', 1), ('_th', 1), ('the', 1), ('he_', 1), ('xt!', 1), ('Voi', 1), ('oic', 1),
+                          ('ici', 1),
+                          ('ci_', 1), ('i_l', 1), ('_le', 1), ('le_', 1), ('xte', 1), ('te!', 1), ('is,', 1),
+                          ('s,_', 1),
+                          (',_a', 1), ('_al', 1), ('als', 1), ('lso', 1), ('so_', 1), ('o_,', 1), ('_,_', 1),
+                          (',_t', 1),
+                          ('s_t', 1)]
+
+        expected_corpus = {'author':
+                               {'Dupont_Letter1.txt': 'Dupont', 'Smith_Letter2.txt': 'Smith',
+                                'Smith_Letter1.txt': 'Smith'},
+                           'lang': {'Dupont_Letter1.txt': 'NA', 'Smith_Letter2.txt': 'NA', 'Smith_Letter1.txt': 'NA'},
+                           'e_t': {'Dupont_Letter1.txt': 1, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 1},
+                           '_te': {'Dupont_Letter1.txt': 1, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 1},
+                           'tex': {'Dupont_Letter1.txt': 1, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 1},
+                           'ext': {'Dupont_Letter1.txt': 1, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 1},
+                           'is_': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 1},
+                           'Thi': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 1},
+                           'his': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 1},
+                           's_i': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 1},
+                           '_is': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 1},
+                           '_th': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 1},
+                           'the': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 1},
+                           'he_': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 1},
+                           'xt!': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 1},
+                           'Voi': {'Dupont_Letter1.txt': 1, 'Smith_Letter2.txt': 0, 'Smith_Letter1.txt': 0},
+                           'oic': {'Dupont_Letter1.txt': 1, 'Smith_Letter2.txt': 0, 'Smith_Letter1.txt': 0},
+                           'ici': {'Dupont_Letter1.txt': 1, 'Smith_Letter2.txt': 0, 'Smith_Letter1.txt': 0},
+                           'ci_': {'Dupont_Letter1.txt': 1, 'Smith_Letter2.txt': 0, 'Smith_Letter1.txt': 0},
+                           'i_l': {'Dupont_Letter1.txt': 1, 'Smith_Letter2.txt': 0, 'Smith_Letter1.txt': 0},
+                           '_le': {'Dupont_Letter1.txt': 1, 'Smith_Letter2.txt': 0, 'Smith_Letter1.txt': 0},
+                           'le_': {'Dupont_Letter1.txt': 1, 'Smith_Letter2.txt': 0, 'Smith_Letter1.txt': 0},
+                           'xte': {'Dupont_Letter1.txt': 1, 'Smith_Letter2.txt': 0, 'Smith_Letter1.txt': 0},
+                           'te!': {'Dupont_Letter1.txt': 1, 'Smith_Letter2.txt': 0, 'Smith_Letter1.txt': 0},
+                           'is,': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 0},
+                           's,_': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 0},
+                           ',_a': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 0},
+                           '_al': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 0},
+                           'als': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 0},
+                           'lso': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 0},
+                           'so_': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 0},
+                           'o_,': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 0},
+                           '_,_': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 0},
+                           ',_t': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 1, 'Smith_Letter1.txt': 0},
+                           's_t': {'Dupont_Letter1.txt': 0, 'Smith_Letter2.txt': 0, 'Smith_Letter1.txt': 1}}
+
+        self.assertEqual(sorted(feats), sorted(expected_feats))
+        self.assertEqual(corpus.to_dict(), expected_corpus)
+
+        # WHEN
         corpus, feats = superstyl.load.load_corpus(self.paths, feats="affixes", n=3, format="txt", keep_punct=True)
 
         # THEN
@@ -217,7 +273,7 @@ class Main(unittest.TestCase):
         self.assertEqual(corpus.to_dict(), expected_corpus)
 
         # WHEN
-        corpus, feats = superstyl.load.load_corpus(sorted(self.paths[1:]), feats="pos", n=1, format="txt", relFreqs=False)
+        corpus, feats = superstyl.load.load_corpus(sorted(self.paths[1:]), feats="pos", n=1, format="txt", freqsType="absolute")
 
         # THEN
         expected_feats = [('DT', 4), ('NN', 2), ('VBZ', 2), ('RB', 1)]
@@ -385,27 +441,27 @@ class Main(unittest.TestCase):
             {"name": "Letter1", "aut": "Dupont", "text": "Voici le texte", "lang": "fr"},
         ]
         # WHEN
-        results = superstyl.preproc.features_extract.get_feature_list(myTexts, feats="words", n=1, relFreqs=False)
+        results = superstyl.preproc.features_extract.get_feature_list(myTexts, feats="words", n=1, freqsType="absolute")
         # THEN
         expected = [('This', 2), ('is', 2), ('the', 2), ('text', 2), ('also', 1), ('Voici', 1), ('le', 1), ('texte', 1)]
         self.assertEqual(results, expected)
 
         # WHEN
-        results = superstyl.preproc.features_extract.get_feature_list(myTexts, feats="words", n=1, relFreqs=True)
+        results = superstyl.preproc.features_extract.get_feature_list(myTexts, feats="words", n=1, freqsType="relative")
         # THEN
         expected = [('This', 2/12), ('is', 2/12), ('the', 2/12), ('text', 2/12),  ('also', 1/12), ('Voici', 1/12),
                     ('le', 1/12), ('texte', 1/12)]
         self.assertEqual(results, expected)
 
         # WHEN
-        results = superstyl.preproc.features_extract.get_feature_list(myTexts, feats="words", n=2, relFreqs=False)
+        results = superstyl.preproc.features_extract.get_feature_list(myTexts, feats="words", n=2, freqsType="absolute")
 
         # THEN
         expected = [('This_is', 2), ('the_text', 2), ('is_the', 1), ('is_also', 1), ('also_the', 1), ('Voici_le', 1), ('le_texte', 1)]
         self.assertEqual(results, expected)
 
         # WHEN
-        results = superstyl.preproc.features_extract.get_feature_list(myTexts[0:2], feats="chars", n=2, relFreqs=False)
+        results = superstyl.preproc.features_extract.get_feature_list(myTexts[0:2], feats="chars", n=2, freqsType="absolute")
 
         # THEN
         expected = [('is', 4), ('s_', 4), ('_t', 4), ('Th', 2), ('hi', 2), ('_i', 2), ('th', 2), ('he', 2), ('e_', 2),
@@ -413,7 +469,7 @@ class Main(unittest.TestCase):
         self.assertEqual(results, expected)
 
         # WHEN
-        results = superstyl.preproc.features_extract.get_feature_list(myTexts[0:2], feats="chars", n=2, relFreqs=True)
+        results = superstyl.preproc.features_extract.get_feature_list(myTexts[0:2], feats="chars", n=2, freqsType="relative")
 
         # THEN
         expected = [('is', 4/35), ('s_', 4/35), ('_t', 4/35), ('Th', 2/35), ('hi', 2/35), ('_i', 2/35), ('th', 2/35),
@@ -432,7 +488,7 @@ class Main(unittest.TestCase):
         ]
         # WHEN
         results = superstyl.preproc.features_extract.get_counts(myTexts, ['the', 'is', 'also', 'le'], feats = "words",
-                                                          n = 1, relFreqs = True)
+                                                          n = 1, freqsType="relative")
         # THEN
         expected = [{'name': 'Letter1', 'aut': 'Smith', 'text': 'This is the text', 'lang': 'en',
               'wordCounts': {'the': 0.25, 'is': 0.25}},
@@ -442,7 +498,7 @@ class Main(unittest.TestCase):
         self.assertEqual(results, expected)
 
         # WHEN
-        results = superstyl.preproc.features_extract.get_counts(myTexts, feats="words", n=1, relFreqs=True)
+        results = superstyl.preproc.features_extract.get_counts(myTexts, feats="words", n=1, freqsType="relative")
         # THEN
         expected = [{'name': 'Letter1', 'aut': 'Smith', 'text': 'This is the text', 'lang': 'en',
                      'wordCounts': {'This': 0.25, 'is': 0.25, 'the': 0.25, 'text': 0.25}},
@@ -453,7 +509,7 @@ class Main(unittest.TestCase):
         self.assertEqual(results, expected)
 
         # WHEN
-        results = superstyl.preproc.features_extract.get_counts(myTexts, feats="words", n=2, relFreqs=False)
+        results = superstyl.preproc.features_extract.get_counts(myTexts, feats="words", n=2, freqsType="absolute")
         # THEN
         expected = [{'name': 'Letter1', 'aut': 'Smith', 'text': 'This is the text', 'lang': 'en', 'wordCounts':
             {'This_is': 1, 'is_the': 1, 'the_text': 1}},
@@ -464,7 +520,7 @@ class Main(unittest.TestCase):
         self.assertEqual(results, expected)
 
         # WHEN
-        results = superstyl.preproc.features_extract.get_counts(myTexts, feats="words", n=2, relFreqs=True)
+        results = superstyl.preproc.features_extract.get_counts(myTexts, feats="words", n=2, freqsType="relative")
         # THEN
         expected = [{'name': 'Letter1', 'aut': 'Smith', 'text': 'This is the text', 'lang': 'en', 'wordCounts':
             {'This_is': 1/3, 'is_the': 1/3, 'the_text': 1/3}},
@@ -476,7 +532,7 @@ class Main(unittest.TestCase):
 
         # WHEN
         results = superstyl.preproc.features_extract.get_counts(myTexts, feat_list=["This_is", "le_texte"],
-                                                                feats="words", n=2, relFreqs=True)
+                                                                feats="words", n=2, freqsType="relative")
         # THEN
         expected = [{'name': 'Letter1', 'aut': 'Smith', 'text': 'This is the text', 'lang': 'en', 'wordCounts':
             {'This_is': 1 / 3}},
@@ -488,7 +544,7 @@ class Main(unittest.TestCase):
 
         # WHEN
         results = superstyl.preproc.features_extract.get_counts(myTexts, feat_list=["th"],
-                                                                feats="chars", n=2, relFreqs=True)
+                                                                feats="chars", n=2, freqsType="relative")
         # THEN
         expected = [{'name': 'Letter1', 'aut': 'Smith', 'text': 'This is the text', 'lang': 'en',
                      'wordCounts': {'th': 1/15}},
