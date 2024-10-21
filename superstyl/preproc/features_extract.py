@@ -49,9 +49,9 @@ def count_features(text, feats ="words", n = 1):
     #POS in english with NLTK - need to propose spacy later on
     elif feats == "pos":
         try:
-            nltk.data.find('taggers/averaged_perceptron_tagger')
+            nltk.data.find('taggers/averaged_perceptron_tagger_eng')
         except:
-            nltk.download('averaged_perceptron_tagger')
+            nltk.download('averaged_perceptron_tagger_eng')
         words = nltk.tokenize.wordpunct_tokenize(text)
         pos_tags = [pos for word, pos in nltk.pos_tag(words)]
         if n > 1:
