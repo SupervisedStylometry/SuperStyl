@@ -47,6 +47,7 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, freqsTyp
         relFreqs = False  # we need absolute freqs as a basis for embedded frequencies
         model = embed.load_embeddings(embedding)
         embeddedFreqs = True
+        freqsType = "absolute" #absolute freqs are required for embedding
 
     print(".......loading texts.......")
 
