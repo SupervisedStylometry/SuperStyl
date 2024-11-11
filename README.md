@@ -1,6 +1,7 @@
 # SUPERvised STYLometry
 
 [![codecov](https://codecov.io/github/SupervisedStylometry/SuperStyl/graph/badge.svg?token=TY5HCBOOKL)](https://codecov.io/github/SupervisedStylometry/SuperStyl)
+[![DOI](https://zenodo.org/badge/342586864.svg)](https://doi.org/10.5281/zenodo.14069799)
 
 ## Installing
 
