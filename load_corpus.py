@@ -22,7 +22,7 @@ if __name__ == '__main__':
                         default="relative",
                         choices=["relative", "absolute", "binary"]
                         )
-    parser.add_argument('-x', action='store', help="format (txt, xml or tei) /!\ only txt is fully implemented",
+    parser.add_argument('-x', action='store', help="format (txt, xml or tei) WARNING: only txt is fully implemented",
                         default="txt",
                         choices=["txt", "xml", "tei"]
                         )
@@ -33,7 +33,7 @@ if __name__ == '__main__':
                         default="words", type=str)
     parser.add_argument('--sample_size', action='store', help="Size for sampling (default: 3000)", default=3000, type=int)
     parser.add_argument('--sample_step', action='store', help="Step for sampling with overlap (default is no overlap)", default=None, type=int)
-    parser.add_argument('--max_samples', action='store', help="Maximum number of (randomly selected) samples per author/class (default is all)",
+    parser.add_argument('--max_samples', action='store', help="Maximum number of (randomly selected) samples per class, e.g. author (default is all)",
                         default=None, type=int)
     parser.add_argument('--samples_random', action='store_true',
                         help="Should random sampling with replacement be performed instead of continuous sampling (default: false)",
