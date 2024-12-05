@@ -43,6 +43,9 @@ if __name__ == '__main__':
     parser.add_argument('--keep_sym', action='store_true',
                         help="if true, same as keep_punct, plus no Unidecode, and numbers are kept as well (default is False)",
                         default=False)
+    parser.add_argument('--no_ascii', action='store_true',
+                        help="disables the conversion to ascii as per the Unidecode module. Useful for non Latin alphabet (default is conversion to ASCII)",
+                        default=False)
     parser.add_argument('--identify_lang', action='store_true',
                         help="if true, should the language of each text be guessed, using langdetect (default is False)",
                         default=False)
@@ -66,7 +69,8 @@ if __name__ == '__main__':
                                    sampling=args.sampling, units=args.sample_units,
                                    size=args.sample_size, step=args.sample_step, max_samples=args.max_samples,
                                    samples_random=args.samples_random,
-                                   keep_punct=args.keep_punct, keep_sym=args.keep_sym, identify_lang=args.identify_lang,
+                                   keep_punct=args.keep_punct, keep_sym=args.keep_sym, no_ascii=args.no_ascii,
+                                   identify_lang=args.identify_lang,
                                    embedding=args.embedding, neighbouring_size=args.neighbouring_size
                                    )
 
