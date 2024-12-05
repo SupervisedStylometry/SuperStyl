@@ -141,7 +141,8 @@ def max_sampling(myTexts, max_samples=10):
     return myTexts
 
 
-def load_texts(paths, identify_lang=False, format="txt", keep_punct=False, keep_sym=False, max_samples=None):
+def load_texts(paths, identify_lang=False, format="txt", keep_punct=False, keep_sym=False, no_ascii=False,
+               max_samples=None):
     """
     Loads a collection of documents into a 'myTexts' object for further processing.
     TODO: a proper class
@@ -150,6 +151,7 @@ def load_texts(paths, identify_lang=False, format="txt", keep_punct=False, keep_
     :param format: format of the source files (implemented values: txt [default], xml)
     :param keep_punct: whether or not to keep punctuation and caps.
     :param keep_sym: whether or not to keep punctuation, caps, letter variants and numbers (no unidecode).
+    :param no_ascii: disables conversion to ascii
     :param max_samples: the maximum number of samples for any class
     :return: a myTexts object
     """
@@ -171,7 +173,7 @@ def load_texts(paths, identify_lang=False, format="txt", keep_punct=False, keep_
             lang = "NA"
 
         # Normalise text once and for all
-        text = normalise(text, keep_punct=keep_punct, keep_sym=keep_sym)
+        text = normalise(text, keep_punct=keep_punct, keep_sym=keep_sym, no_ascii=no_ascii)
 
         myTexts.append({"name": name, "aut": aut, "text": text, "lang": lang})
 
