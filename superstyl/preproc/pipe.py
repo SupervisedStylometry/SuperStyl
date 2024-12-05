@@ -1,9 +1,12 @@
+import unicodedata
+
 from lxml import etree
 import regex as re
 import unidecode
 import nltk.tokenize
 import random
 import langdetect
+import unicodedata
 
 def XML_to_text(path):
     """
@@ -76,13 +79,14 @@ def detect_lang(string):
     return langdetect.detect(string)  # , k = 3)
 
 
-def normalise(text, keep_punct=False, keep_sym=False):
+def normalise(text, keep_punct=False, keep_sym=False, no_ascii=False):
     """
     Function to normalise an input string. By defaults, it removes all but word chars, remove accents,
     and normalise space, and then normalise unicode.
     :param keep_punct: if true, in addition, also keeps Punctuation and case distinction
     :param keep_sym: if true, same as keep_punct, but keeps also N?umbers, Symbols,  Marks, such as combining diacritics,
     as well as Private use characters, and no Unidecode is applied
+    :param no_ascii: disables conversion to ascii
     """
     # Remove all but word chars, remove accents, and normalise space
     # and then normalise unicode
@@ -99,6 +103,10 @@ def normalise(text, keep_punct=False, keep_sym=False):
             #out = re.sub(r"[\W0-9]+", " ", text.lower())
             out = re.sub(r"[^\p{L}\p{M}]+", " ", text.lower())
 
+    # Normalise unicode
+    out = unicodedata.normalize("NFC", out)
+
+    if no_ascii is not True:
         out = unidecode.unidecode(out)
 
     out = re.sub(r"\s+", " ", out).strip()
@@ -175,7 +183,7 @@ def load_texts(paths, identify_lang=False, format="txt", keep_punct=False, keep_
 
 # Load and split in samples of length -n- a collection of files
 def get_samples(path, size, step=None, samples_random=False, max_samples=10,
-                units="words", format="txt", keep_punct=False, keep_sym=False):
+                units="words", format="txt", keep_punct=False, keep_sym=False, no_ascii=False):
     """
     Take samples of n words or verses from a document, and then parse it.
     ONLY IMPLEMENTED FOR NOW: XML/TEI, TXT and verses or words as units
@@ -200,7 +208,7 @@ def get_samples(path, size, step=None, samples_random=False, max_samples=10,
 
     if units == "words" and format == "txt":
         my_doc = TXT_to_text(path)
-        text = normalise(my_doc[1], keep_punct=keep_punct, keep_sym=keep_sym)
+        text = normalise(my_doc[1], keep_punct=keep_punct, keep_sym=keep_sym, no_ascii=no_ascii)
         units = nltk.tokenize.wordpunct_tokenize(text)
 
     if units == "verses" and format == "tei":
@@ -251,7 +259,7 @@ def get_samples(path, size, step=None, samples_random=False, max_samples=10,
 
 
 def docs_to_samples(paths, size, step=None, units="words", samples_random=False, format="txt", keep_punct=False,
-                    keep_sym=False, max_samples=None, identify_lang=False):
+                    keep_sym=False, no_ascii=False, max_samples=None, identify_lang=False):
     """
     Loads a collection of documents into a 'myTexts' object for further processing BUT with samples !
     :param paths: path to docs
@@ -283,11 +291,11 @@ def docs_to_samples(paths, size, step=None, units="words", samples_random=False,
 
         samples = get_samples(path, size=size, step=step, samples_random=samples_random, max_samples=max_samples,
                               units=units, format=format,
-                              keep_punct=keep_punct, keep_sym=keep_sym)
+                              keep_punct=keep_punct, keep_sym=keep_sym, no_ascii=no_ascii)
 
         for sample in samples:
             name = path.split('/')[-1] + '_' + str(sample["start"]) + "-" + str(sample["end"])
-            text = normalise(' '.join(sample["text"]), keep_punct=keep_punct, keep_sym=keep_sym)
+            text = normalise(' '.join(sample["text"]), keep_punct=keep_punct, keep_sym=keep_sym, no_ascii=no_ascii)
             myTexts.append({"name": name, "aut": aut, "text": text, "lang": lang})
 
     if max_samples is not None:

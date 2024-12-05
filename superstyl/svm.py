@@ -17,7 +17,7 @@ import imblearn.pipeline as imbp
 from collections import Counter
 
 
-def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True, balance=None, class_weights=False,
+def train_svm(train, test, cross_validate=None, k=0, dim_reduc=None, norms=True, balance=None, class_weights=False,
               kernel="LinearSVC",
               final_pred=False, get_coefs=False):
     """
@@ -154,12 +154,18 @@ def train_svm(train, test, cross_validate=None, k=10, dim_reduc=None, norms=True
             myCV = skmodel.LeaveOneOut()
 
         if cross_validate == 'k-fold':
+            if k == 0:
+                k = 10 # set default
+
             myCV = skmodel.KFold(n_splits=k)
 
         if cross_validate == 'group-k-fold':
             # Get the groups as the different source texts
             works = ["_".join(t.split("_")[:-1]) for t in train.index.values]
-            myCV = skmodel.GroupKFold(n_splits=len(set(works)))
+            if k == 0:
+                k = len(set(works))
+
+            myCV = skmodel.GroupKFold(n_splits=k)
 
         print(".......... " + cross_validate + " cross validation will be performed ........")
         print(".......... using " + str(myCV.get_n_splits(train)) + " samples or groups........")
