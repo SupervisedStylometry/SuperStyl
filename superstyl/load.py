@@ -8,6 +8,7 @@ import pandas
 
 def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, freqsType="relative", format="txt", sampling=False,
                 units="words", size=3000, step=None, max_samples=None, samples_random=False, keep_punct=False, keep_sym=False,
+                no_ascii=False,
                 identify_lang=False, embedding=False, neighbouring_size=10):
     """
     Main function to load a corpus from a collection of file, and an optional list of features to extract.
@@ -31,8 +32,9 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, freqsTyp
     :param max_samples: Maximum number of (randomly selected) samples per author/class (default is all)
     :param samples_random: Should random sampling with replacement be performed instead of continuous sampling (default: false)
     :param keep_punct: whether to keep punctuation and caps (default is False)
-    :param keep_sym: same as keep_punct, plus no Unidecode, and numbers are kept as well (default is False). /!\ does not
+    :param keep_sym: same as keep_punct, and numbers are kept as well (default is False). /!\ does not
     actually keep symbols
+    :param no_ascii: disables conversion to ASCII (default is conversion)
     :param identify_lang: if true, the language of each text will be guessed, using langdetect (default is False)
     :param embedding: optional path to a word2vec embedding in txt format to compute frequencies among a set of
     semantic neighbourgs (i.e., pseudo-paronyms)
@@ -54,12 +56,12 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, freqsTyp
     if sampling:
         myTexts = pipe.docs_to_samples(data_paths, format=format, units=units, size=size, step=step,
                                        max_samples=max_samples, samples_random=samples_random,
-                                       keep_punct=keep_punct, keep_sym=keep_sym,
+                                       keep_punct=keep_punct, keep_sym=keep_sym, no_ascii=no_ascii,
                                        identify_lang = identify_lang)
 
     else:
         myTexts = pipe.load_texts(data_paths, format=format, max_samples=max_samples, keep_punct=keep_punct,
-                                  keep_sym=keep_sym, identify_lang=identify_lang)
+                                  keep_sym=keep_sym, no_ascii=no_ascii, identify_lang=identify_lang)
 
     print(".......getting features.......")
 
