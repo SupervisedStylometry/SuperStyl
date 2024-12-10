@@ -103,11 +103,11 @@ def normalise(text, keep_punct=False, keep_sym=False, no_ascii=False):
             #out = re.sub(r"[\W0-9]+", " ", text.lower())
             out = re.sub(r"[^\p{L}\p{M}]+", " ", text.lower())
 
+        if no_ascii is not True:
+            out = unidecode.unidecode(out)
+
     # Normalise unicode
     out = unicodedata.normalize("NFC", out)
-
-    if no_ascii is not True:
-        out = unidecode.unidecode(out)
 
     out = re.sub(r"\s+", " ", out).strip()
 
