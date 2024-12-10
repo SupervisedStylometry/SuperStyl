@@ -578,15 +578,50 @@ class DataLoading(unittest.TestCase):
         expected_default = "hello mr how are you doing s o"
         self.assertEqual(results, expected_default)
         # WHEN
+        results = superstyl.preproc.pipe.normalise(text, no_ascii=True)
+        # THEN
+        expected_default = "hello mr 𓀁 how are you doing ſ õ"
+        self.assertEqual(results, expected_default)
+        # WHEN
         results = superstyl.preproc.pipe.normalise(text, keep_punct=True)
         # THEN
         expected_keeppunct = "Hello, Mr. , how are SSSS you; doing? s o"
+        # WHEN
+        results = superstyl.preproc.pipe.normalise(text, keep_punct=True, no_ascii=True)
+        # THEN
+        expected_keeppunct = "Hello, Mr. 𓀁, how are §§ you; doing? ſ õ"
         self.assertEqual(results, expected_keeppunct)
         # WHEN
         results = superstyl.preproc.pipe.normalise(text, keep_sym=True)
         # THEN
-        expected_keepsym = "Hello, Mr. 𓀁, how are §§ you; doing? ſõ ❡"
+        expected_keepsym = "Hello, Mr. 𓀁, how are §§ you; doing? ſ\uf217õ ❡"
         self.assertEqual(results, expected_keepsym)
+
+        # SCENARIO
+        # GIVEN
+        text = 'Coucou 😅'
+        # WHEN
+        results = superstyl.preproc.pipe.normalise(text, keep_sym=True)
+        # THEN
+        expected_keepsym = 'Coucou 😅'
+        self.assertEqual(results, expected_keepsym)
+        # NOTE: careful with combining smileys: normalise("Coucou 😵‍💫", keep_sym=True)
+        # gives: 'Coucou 😵 💫'
+        # because of the way NFC normalisation is handled probably
+
+         # Test for Armenian
+        # GIVEN
+        text = " քան զսակաւս ։ Ահա նշանագրեցի"
+        # WHEN
+        results = superstyl.preproc.pipe.normalise(text, no_ascii=True)
+        # THEN
+        expected_default = "քան զսակաւս ահա նշանագրեցի"
+        self.assertEqual(results, expected_default)
+        # WHEN
+        results = superstyl.preproc.pipe.normalise(text, keep_punct=True, no_ascii=True)
+        # THEN
+        expected_keeppunct = "քան զսակաւս ։ Ահա նշանագրեցի"
+        self.assertEqual(results, expected_keeppunct)
 
     def test_detect_lang(self):
         french = "Bonjour, Monsieur, comment allez-vous?"
