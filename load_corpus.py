@@ -53,6 +53,9 @@ if __name__ == '__main__':
                         default=False)
     parser.add_argument('--neighbouring_size', action="store", help="size of semantic neighbouring in the embedding (n closest neighbours)",
                         default=10, type=int)
+    parser.add_argument('--culling', action="store",
+                        help="percentage value for culling, meaning in what percentage of samples should a feature be present to be retained (default is 0, meaning no culling)",
+                        default=0, type=float)
 
     args = parser.parse_args()
 
@@ -80,7 +83,8 @@ if __name__ == '__main__':
                                    samples_random=args.samples_random,
                                    keep_punct=args.keep_punct, keep_sym=args.keep_sym, no_ascii=args.no_ascii,
                                    identify_lang=args.identify_lang,
-                                   embedding=args.embedding, neighbouring_size=args.neighbouring_size
+                                   embedding=args.embedding, neighbouring_size=args.neighbouring_size,
+                                   culling=args.culling
                                    )
 
     print(".......saving results.......")

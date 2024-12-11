@@ -9,7 +9,7 @@ import pandas
 def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, freqsType="relative", format="txt", sampling=False,
                 units="words", size=3000, step=None, max_samples=None, samples_random=False, keep_punct=False, keep_sym=False,
                 no_ascii=False,
-                identify_lang=False, embedding=False, neighbouring_size=10):
+                identify_lang=False, embedding=False, neighbouring_size=10, culling=0):
     """
     Main function to load a corpus from a collection of file, and an optional list of features to extract.
     :param data_paths: paths to the source files
@@ -40,6 +40,7 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, freqsTyp
     semantic neighbourgs (i.e., pseudo-paronyms)
     :param neighbouring_size: size of semantic neighbouring in the embedding (as per gensim most_similar,
     with topn=neighbouring_size)
+    :param culling percentage value for culling, meaning in what percentage of samples should a feature be present to be retained (default is 0, meaning no culling)
     :return a pandas dataFrame of text metadata and feature frequencies; a global list of features with their frequencies
     """
 
@@ -86,6 +87,14 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, freqsTyp
         feat_list = [f for f in feat_list if f[0] in my_feats]
 
     unique_texts = [text["name"] for text in myTexts]
+
+    if culling > 0:
+        print(".......Culling at " + str(culling) + "%.......")
+        # Counting in how many sample the feat appear
+        feats_doc_freq = fex.get_doc_frequency(myTexts)
+        # Now selecting
+        my_feats = [f for f in my_feats if (feats_doc_freq[f] / len(myTexts) * 100) > culling]
+        feat_list = [f for f in feat_list if f[0] in my_feats]
 
     print(".......feeding data frame.......")
 
