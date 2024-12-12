@@ -37,6 +37,20 @@ class Main(unittest.TestCase):
         self.assertEqual(corpus.to_dict(), expected_corpus)
 
         # WHEN
+        corpus, feats = superstyl.load.load_corpus(self.paths, culling=50)
+        # THEN
+        expected_feats = [('this', 2 / 12), ('is', 2 / 12), ('the', 2 / 12), ('text', 2 / 12)]
+        expected_corpus = {
+            'author': {'Dupont_Letter1.txt': 'Dupont', 'Smith_Letter1.txt': 'Smith', 'Smith_Letter2.txt': 'Smith'},
+            'lang': {'Dupont_Letter1.txt': 'NA', 'Smith_Letter1.txt': 'NA', 'Smith_Letter2.txt': 'NA'},
+            'this': {'Dupont_Letter1.txt': 0.0, 'Smith_Letter1.txt': 0.25, 'Smith_Letter2.txt': 0.2},
+            'is': {'Dupont_Letter1.txt': 0.0, 'Smith_Letter1.txt': 0.25, 'Smith_Letter2.txt': 0.2},
+            'the': {'Dupont_Letter1.txt': 0.0, 'Smith_Letter1.txt': 0.25, 'Smith_Letter2.txt': 0.2},
+            'text': {'Dupont_Letter1.txt': 0.0, 'Smith_Letter1.txt': 0.25, 'Smith_Letter2.txt': 0.2}}
+        self.assertEqual(feats, expected_feats)
+        self.assertEqual(corpus.to_dict(), expected_corpus)
+
+        # WHEN
         corpus, feats = superstyl.load.load_corpus(self.paths, feat_list=[('the', 0)], feats="chars", n=3, k=5000, freqsType="absolute",
                                                    format="txt", keep_punct=False, keep_sym=False, identify_lang=True)
 

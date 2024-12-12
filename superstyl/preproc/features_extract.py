@@ -126,6 +126,17 @@ def get_feature_list(myTexts, feats="words", n=1, freqsType="relative"):
 
     return my_feats
 
+def get_doc_frequency(myTexts):
+    """
+    Compute the document frequency of features (i.e., in how many documents it appears).
+    """
+    feats_doc_freq = Counter()
+    feats_doc_freq.update([k for text in myTexts for k in text["wordCounts"].keys()])
+
+    return feats_doc_freq
+
+
+
 
 def get_counts(myTexts, feat_list=None, feats = "words", n = 1, freqsType = "relative"):
     """
