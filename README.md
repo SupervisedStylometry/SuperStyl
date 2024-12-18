@@ -213,7 +213,7 @@ python train_svm.py data/feats_tests_train.csv --test_path unseen.csv --norms --
 If you have generated samples in a rolling fashion (using `--sampling` in `load_corpus.py`), you can visualize how author predictions evolve across consecutive text segments. For example:
 
 ```bash
-# Creating rolling samples (e.g., 1000-word segments)
+# e.g., with 1000 word segments
 python load_corpus.py -s data/long_text/*.txt -t chars -n 3 -o rolling_train --sampling --units words --sample_size 1000
 python load_corpus.py -s data/long_text_to_predict/*.txt -t chars -n 3 -o rolling_unknown -f rolling_train_feats.json --sampling --units words --sample_size 1000
 
