@@ -210,7 +210,7 @@ python train_svm.py data/feats_tests_train.csv --test_path unseen.csv --norms --
 
 ### Rolling Stylometry Visualization
 
-If you have generated samples in a rolling fashion (using `--sampling` in `load_corpus.py`), you can visualize how author predictions evolve across consecutive text segments. For example:
+If you have generated samples in a rolling fashion (using `--sampling` in `load_corpus.py`), you can visualize how author predictions evolve across successive text segments:
 
 ```bash
 # e.g., with 1000 word segments
