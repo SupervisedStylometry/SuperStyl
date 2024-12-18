@@ -225,10 +225,3 @@ You can cite it using the `CITATION.cff` file (and GitHub citation functionaliti
   version = {v1.0},
   year = {2024}
 }
-
-
-
-
-
-
-
