@@ -118,7 +118,7 @@ class Main_svm(unittest.TestCase):
         final_preds.to_csv(temp_path, index=False)
 
         try:
-            superstyl.plot_rolling_stylometry(temp_path, smoothing=3)
+            superstyl.svm.plot_rolling_stylometry(temp_path, smoothing=3)
         except Exception as e:
             self.fail(f"plot_rolling_stylometry raised an exception: {e}")
         finally:
