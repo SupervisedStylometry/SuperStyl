@@ -101,7 +101,7 @@ class Main_svm(unittest.TestCase):
         self.assertEqual(results['final_predictions'].to_dict()["author"], expected_preds["author"])
 
 
-    def test_plot_rolling_stylometry(self):
+    def test_plot_rolling(self):
         train = pandas.DataFrame({
             'author': {'Text_0-1000': 'A', 'Text_1000-2000': 'A', 'Text_2000-3000': 'B'},
             'lang': {'Text_0-1000': 'NA', 'Text_1000-2000': 'NA', 'Text_2000-3000': 'NA'},
@@ -118,7 +118,7 @@ class Main_svm(unittest.TestCase):
         final_preds.to_csv(temp_path, index=False)
 
         try:
-            superstyl.svm.plot_rolling_stylometry(temp_path, smoothing=3)
+            superstyl.svm.plot_rolling(temp_path, smoothing=3)
         except Exception as e:
             self.fail(f"plot_rolling_stylometry raised an exception: {e}")
         finally:
