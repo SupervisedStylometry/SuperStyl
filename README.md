@@ -208,6 +208,22 @@ With a little more options,
 python train_svm.py data/feats_tests_train.csv --test_path unseen.csv --norms --class_weights --final --get_coefs
 ```
 
+### Rolling Stylometry Visualization
+
+If you've created samples using `--sampling` to segment your text into consecutive slices (e.g., every 1000 words):
+
+```bash
+python load_corpus.py -s data/text/*.txt -t chars -n 3 -o rolling_train --sampling --units words --sample_size 1000
+python load_corpus.py -s data/text_to_predict/*.txt -t chars -n 3 -o rolling_unknown -f rolling_train_feats.json --sampling --units words --sample_size 1000
+```
+You can then train and produce final predictions, and directly visualize how the decision function changes across these segments:
+
+```bash
+python train_svm.py rolling_train.csv --test_path rolling_unknown.csv --final --plot_rolling --plot_smoothing 5
+```
+
+This will produce FINAL_PREDICTIONS.csv and a plot showing how the classifier's authorial signals vary segment by segment through the text. The --plot_smoothing option applies a simple moving average smoothing to make trends clearer. If the smoothing is not defined, default value is 3. Smoothing can be set to None.
+
 
 
 ## Sources
@@ -237,6 +253,11 @@ MLA:
 Camps, Jean-Baptiste, and Florian Cafiero. *SUPERvised STYLometry (SuperStyl)*. Version 1.0, 11 Nov. 2024, doi:10.5281/zenodo.14069799.
 ```
 
+APA:
+
+```plaintext
+Camps, J.-B., & Cafiero, F. (2024). SUPERvised STYLometry (SuperStyl) (Version v1.0) [Computer software]. https://doi.org/10.5281/zenodo.14069799
+```
 
 
 
