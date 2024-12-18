@@ -5,7 +5,7 @@
 
 ## Installing
 
-You will need python3.9 or later, `pip` and optionnaly `virtualenv`
+You will need python3.9 or a later version, `pip` and optionnaly `virtualenv`
 
 ```bash
 git clone https://github.com/SupervisedStylometry/SuperStyl.git
