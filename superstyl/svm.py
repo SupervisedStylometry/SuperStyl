@@ -304,22 +304,25 @@ def plot_rolling(final_predictions_path, smoothing=3):
     """
 
     # Load the final predictions
-    df = pd.read_csv(final_predictions_path)
+    df = pandas.read_csv(final_predictions_path)
     
-    # Extract the segment start from the filename
-    segment_starts = []
+    # Extract the segment center from the filename
+    segment_centers = []
     for fname in df['filename']:
-        start = int(fname.split('_')[-1].split('-')[0])
-        segment_starts.append(start)
+        parts = fname.split('_')[-1].split('-')
+        start = int(parts[0])
+        end = int(parts[1])
+        center = (start + end) / 2.0
+        segment_centers.append(center)
     
-    df['segment_start'] = segment_starts
+    df['segment_center'] = segment_centers
     
     # Identify candidate columns
-    known_cols = {'filename', 'author', 'segment_start'}
+    known_cols = {'filename', 'author', 'segment_center'}
     candidate_cols = [c for c in df.columns if c not in known_cols]
 
-    # Sort by segment start to ensure chronological order
-    df = df.sort_values('segment_start')
+    # Sort by segment center to ensure chronological order
+    df = df.sort_values('segment_center')
     
     # Apply smoothing if requested
     if smoothing and smoothing > 0:
@@ -329,10 +332,10 @@ def plot_rolling(final_predictions_path, smoothing=3):
     # Plotting
     plt.figure(figsize=(12, 6))
     for col in candidate_cols:
-        plt.plot(df['segment_start'], df[col], label=col, linewidth=2)
+        plt.plot(df['segment_center'], df[col], label=col, linewidth=2)
     
     plt.title('Rolling Stylometry Decision Functions Over Text')
-    plt.xlabel('Word index (segment start)')
+    plt.xlabel('Word index (segment center)')
     plt.ylabel('Decision Function Value')
     plt.legend(title='Candidate Authors')
     plt.grid(True)
