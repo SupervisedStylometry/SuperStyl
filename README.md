@@ -214,9 +214,18 @@ python train_svm.py data/feats_tests_train.csv --test_path unseen.csv --norms --
 
 ## Cite this repository
 
-You can cite it using the CITATION.cff file (and Github cite functionnalities), following:
+You can cite it using the `CITATION.cff` file (and GitHub citation functionalities), following:
 
-@software{Camps_SUPERvised_STYLometry_SuperStyl_2021,author = {Camps, Jean-Baptiste},doi = {...},month = {...},title = {{SUPERvised STYLometry (SuperStyl)}},version = {...},year = {2021}}
+```bibtex
+@software{Camps_Cafiero_SUPERvised_STYLometry_SuperStyl_2024,
+  author = {Camps, Jean-Baptiste and Cafiero, Florian},
+  doi = {10.5281/zenodo.14069799},
+  month = {12},
+  title = {{SUPERvised STYLometry (SuperStyl)}},
+  version = {v1.0},
+  year = {2024}
+}
+
 
 
 
