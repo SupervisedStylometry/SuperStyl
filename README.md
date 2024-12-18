@@ -240,8 +240,6 @@ You can cite it using the `CITATION.cff` file (and GitHub citation functionaliti
 }
 ```
 
-MLA: 
-```plaintext
-Camps, Jean-Baptiste, and Florian Cafiero. *SUPERvised STYLometry (SuperStyl)*. Version 1.0, 2024, doi:10.5281/zenodo.14069799.
-```
+MLA: Camps, Jean-Baptiste, and Florian Cafiero. *SUPERvised STYLometry (SuperStyl)*. Version 1.0, 2024, doi:10.5281/zenodo.14069799.
+
 
