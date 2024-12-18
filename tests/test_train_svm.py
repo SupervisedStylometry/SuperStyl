@@ -100,6 +100,4 @@ class Main_svm(unittest.TestCase):
         self.assertEqual(results['final_predictions'].to_dict()["author"], expected_preds["author"])
 
 
-        # This is only the first minimal tests for this function
-
-
+        # This is only the first minimal tests for this function"
