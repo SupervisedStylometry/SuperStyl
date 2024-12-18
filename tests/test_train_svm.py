@@ -99,9 +99,7 @@ class Main_svm(unittest.TestCase):
         results = superstyl.train_svm(train2, test, final_pred=True, balance="SMOTE")
         # THEN
         self.assertEqual(results['final_predictions'].to_dict()["author"], expected_preds["author"])
-         # This is only the first minimal tests for this function
 
-   
 
     def test_plot_rolling_stylometry(self):
         train = pandas.DataFrame({
