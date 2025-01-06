@@ -28,9 +28,8 @@ if __name__ == "__main__":
                              "strategy to use in case of imbalanced datasets: "
                              "downsampling (random without replacement), "
                              "Tomek (downs. by removing Tomek links), "
-                        # "ENN (EditedNearestNeighbours, downs. by removing samples close to the decision boundary), "                                                                                                                  
                              "upsampling (random over sampling with replacement), "
-                             "SMOTE (upsampling with SMOTE - Synthetic Minority Over-sampling Technique), "
+                             "SMOTE (upsampling with SMOTE), "
                              "SMOTETomek (over+undersampling with SMOTE+Tomek)",
                         default=None)
     parser.add_argument('--class_weights', action='store_true',
@@ -49,6 +48,13 @@ if __name__ == "__main__":
                         help="switch to write to disk and plot the most important coefficients"
                              " for the training feats for each class",
                         default=False)
+    # New arguments for rolling stylometry plotting
+    parser.add_argument('--plot_rolling', action='store_true',
+                        help="If final predictions are produced, also plot rolling stylometry.")
+    parser.add_argument('--plot_smoothing', action='store', type=int, default=3,
+                        help="Smoothing window size for rolling stylometry plot (default:3)."
+                             "Set to 0 or None to disable smoothing.")
+
     args = parser.parse_args()
 
     print(".......... loading data ........")
@@ -56,7 +62,6 @@ if __name__ == "__main__":
 
     if args.test_path is not None:
         test = pandas.read_csv(args.test_path, index_col=0)
-
     else:
         test = None
 
@@ -69,7 +74,6 @@ if __name__ == "__main__":
     else:
         args.o = ''
 
-
     if args.cross_validate is not None or (args.test_path is not None and not args.final):
         svm["confusion_matrix"].to_csv(args.o+"confusion_matrix.csv")
         svm["misattributions"].to_csv(args.o+"misattributions.csv")
@@ -79,6 +83,13 @@ if __name__ == "__main__":
     if args.final:
         print(".......... Writing final predictions to " + args.o + "FINAL_PREDICTIONS.csv ........")
         svm["final_predictions"].to_csv(args.o+"FINAL_PREDICTIONS.csv")
+
+        # If user requested rolling stylometry plot
+        if args.plot_rolling:
+            print(".......... Plotting rolling stylometry ........")
+            final_pred_path = args.o+"FINAL_PREDICTIONS.csv"
+            smoothing = args.plot_smoothing if args.plot_smoothing is not None else 0
+            superstyl.svm.plot_rolling_stylometry(final_pred_path, smoothing=smoothing)
 
     if args.get_coefs:
         print(".......... Writing coefficients to disk ........")
