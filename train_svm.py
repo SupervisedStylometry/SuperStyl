@@ -17,7 +17,7 @@ if __name__ == "__main__":
                              "If group_k-fold is chosen, each source file will be considered a group "
                              "(only relevant if sampling was performed and more than one file per class was provided)",
                         default=None, choices=['leave-one-out', 'k-fold', 'group-k-fold'], type=str)
-    parser.add_argument('--k', action='store', help="k for k-fold", default=10, type=int)
+    parser.add_argument('--k', action='store', help="k for k-fold (default: 10 folds for k-fold; k=n groups for group-k-fold)", default=0, type=int)
     parser.add_argument('--dim_reduc', action='store', choices=['pca'], help="optional dimensionality "
                                                                              "reduction of input data", default=None)
     parser.add_argument('--norms', action='store_true', help="perform normalisations? (default: True)",

@@ -97,10 +97,10 @@ if __name__ == '__main__':
         feat_file = "feature_list_{}{}grams{}mf.json".format(args.t, args.n, args.k)
         corpus_file = "feats_tests_n{}_k_{}.csv".format(args.n, args.k)
 
-    if not args.f:
-        with open(feat_file, "w") as out:
-            out.write(json.dumps(my_feats, ensure_ascii=False, indent=0))
-            print("Features list saved to " + feat_file)
+    #if not args.f and :
+    with open(feat_file, "w") as out:
+        out.write(json.dumps(my_feats, ensure_ascii=False, indent=0))
+        print("Features list saved to " + feat_file)
 
     corpus.to_csv(corpus_file)
     print("Corpus saved to " + corpus_file)
