@@ -318,7 +318,7 @@ def plot_rolling(final_predictions_path, smoothing=3):
     df['segment_center'] = segment_centers
     
     # Identify candidate columns
-    known_cols = {'filename', 'author', 'segment_center'}
+    known_cols = {'filename', 'author', 'segment_center', 'Unnamed: 0'}
     candidate_cols = [c for c in df.columns if c not in known_cols]
 
     # Sort by segment center to ensure chronological order
