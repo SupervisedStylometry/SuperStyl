@@ -288,7 +288,7 @@ def plot_coefficients(coefs, feature_names, current_class, top_features=10):
 
 
 
-def plot_rolling(final_predictions_path, smoothing=3):
+def plot_rolling(final_predictions, smoothing=3):
     """
     Plots the rolling stylometry results as lines of decision function values over the text.
     
@@ -303,36 +303,33 @@ def plot_rolling(final_predictions_path, smoothing=3):
         Default is 3, which provides a slight smoothing.
     """
 
-    # Load the final predictions
-    df = pandas.read_csv(final_predictions_path)
-    
     # Extract the segment center from the filename
     segment_centers = []
-    for fname in df['filename']:
+    for fname in final_predictions['filename']:
         parts = fname.split('_')[-1].split('-')
         start = int(parts[0])
         end = int(parts[1])
         center = (start + end) / 2.0
         segment_centers.append(center)
     
-    df['segment_center'] = segment_centers
+    final_predictions['segment_center'] = segment_centers
     
     # Identify candidate columns
     known_cols = {'filename', 'author', 'segment_center', 'Unnamed: 0'}
-    candidate_cols = [c for c in df.columns if c not in known_cols]
+    candidate_cols = [c for c in final_predictions.columns if c not in known_cols]
 
     # Sort by segment center to ensure chronological order
-    df = df.sort_values('segment_center')
+    final_predictions = final_predictions.sort_values('segment_center')
     
     # Apply smoothing if requested
     if smoothing and smoothing > 0:
         for col in candidate_cols:
-            df[col] = df[col].rolling(window=smoothing, center=True, min_periods=1).mean()
+            final_predictions[col] = final_predictions[col].rolling(window=smoothing, center=True, min_periods=1).mean()
     
     # Plotting
-    plt.figure(figsize=(12, 6))
+    plt.figure(figsize=(24, 12))
     for col in candidate_cols:
-        plt.plot(df['segment_center'], df[col], label=col, linewidth=2)
+        plt.plot(final_predictions['segment_center'], final_predictions[col], label=col, linewidth=2)
     
     plt.title('Rolling Stylometry Decision Functions Over Text')
     plt.xlabel('Word index (segment center)')
@@ -340,5 +337,6 @@ def plot_rolling(final_predictions_path, smoothing=3):
     plt.legend(title='Candidate Authors')
     plt.grid(True)
     plt.tight_layout()
-    plt.show()
+    #plt.show()
+    plt.savefig('rolling.png', bbox_inches='tight')
 
