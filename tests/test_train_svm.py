@@ -111,16 +111,9 @@ class Main_svm(unittest.TestCase):
         })
         test = train.copy()
         results = superstyl.train_svm(train, test, final_pred=True)
-        final_preds = results["final_predictions"]
-
-        with tempfile.NamedTemporaryFile(suffix=".csv", delete=False) as tmpfile:
-            temp_path = tmpfile.name
-        final_preds.to_csv(temp_path, index=False)
 
         try:
-            superstyl.svm.plot_rolling(temp_path, smoothing=3)
+            superstyl.svm.plot_rolling(results["final_predictions"], smoothing=3)
         except Exception as e:
             self.fail(f"plot_rolling_stylometry raised an exception: {e}")
-        finally:
-            if os.path.exists(temp_path):
-                os.remove(temp_path)
+
