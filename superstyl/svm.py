@@ -288,7 +288,7 @@ def plot_coefficients(coefs, feature_names, current_class, top_features=10):
 
 
 
-def plot_rolling(final_predictions_path, smoothing=3):
+def plot_rolling(final_predictions, smoothing=3):
     """
     Plots the rolling stylometry results as lines of decision function values over the text.
     
@@ -303,42 +303,46 @@ def plot_rolling(final_predictions_path, smoothing=3):
         Default is 3, which provides a slight smoothing.
     """
 
-    # Load the final predictions
-    df = pandas.read_csv(final_predictions_path)
-    
     # Extract the segment center from the filename
     segment_centers = []
-    for fname in df['filename']:
+    for fname in final_predictions['filename']:
         parts = fname.split('_')[-1].split('-')
         start = int(parts[0])
         end = int(parts[1])
         center = (start + end) / 2.0
         segment_centers.append(center)
-    
-    df['segment_center'] = segment_centers
+
+    final_predictions['segment_center'] = segment_centers
+
+    final_predictions['filename'] = [fname.split('_')[1] for fname in final_predictions['filename']]
     
     # Identify candidate columns
     known_cols = {'filename', 'author', 'segment_center'}
-    candidate_cols = [c for c in df.columns if c not in known_cols]
+    candidate_cols = [c for c in final_predictions.columns if c not in known_cols]
 
-    # Sort by segment center to ensure chronological order
-    df = df.sort_values('segment_center')
-    
-    # Apply smoothing if requested
-    if smoothing and smoothing > 0:
+    for work in final_predictions['filename'].unique():
+        fpreds_work = final_predictions[final_predictions['filename'] == work]
+        # Sort by segment center to ensure chronological order
+        fpreds_work = fpreds_work.sort_values('segment_center')
+
+        # Apply smoothing if requested
+        if smoothing and smoothing > 0:
+            for col in candidate_cols:
+                fpreds_work[col] = fpreds_work[col].rolling(window=smoothing, center=True, min_periods=1).mean()
+
+        # Plotting
+        plt.figure(figsize=(24, 12))
         for col in candidate_cols:
-            df[col] = df[col].rolling(window=smoothing, center=True, min_periods=1).mean()
-    
-    # Plotting
-    plt.figure(figsize=(12, 6))
-    for col in candidate_cols:
-        plt.plot(df['segment_center'], df[col], label=col, linewidth=2)
-    
-    plt.title('Rolling Stylometry Decision Functions Over Text')
-    plt.xlabel('Word index (segment center)')
-    plt.ylabel('Decision Function Value')
-    plt.legend(title='Candidate Authors')
-    plt.grid(True)
-    plt.tight_layout()
-    plt.show()
+            plt.plot(fpreds_work['segment_center'], fpreds_work[col], label=col, linewidth=2)
+
+        plt.title('Rolling Stylometry Decision Functions Over ' + work)
+        plt.xlabel('Word index (segment center)')
+        plt.ylabel('Decision Function Value')
+        plt.ylim(min(-2, min(fpreds_work[candidate_cols].min()) - 0.2),
+                 max(1, max(fpreds_work[candidate_cols].max())) + 0.2)
+        plt.legend(title='Candidate Authors', fontsize="small")
+        plt.grid(True)
+        plt.tight_layout()
+        #plt.show()
+        plt.savefig('rolling_'+ work + '.png', bbox_inches='tight')
 

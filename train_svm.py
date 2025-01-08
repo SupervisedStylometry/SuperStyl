@@ -87,9 +87,8 @@ if __name__ == "__main__":
         # If user requested rolling stylometry plot
         if args.plot_rolling:
             print(".......... Plotting rolling stylometry ........")
-            final_pred_path = args.o+"FINAL_PREDICTIONS.csv"
             smoothing = args.plot_smoothing if args.plot_smoothing is not None else 0
-            superstyl.svm.plot_rolling_stylometry(final_pred_path, smoothing=smoothing)
+            superstyl.svm.plot_rolling(svm["final_predictions"], smoothing=smoothing)
 
     if args.get_coefs:
         print(".......... Writing coefficients to disk ........")
