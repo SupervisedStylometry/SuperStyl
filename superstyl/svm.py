@@ -311,32 +311,38 @@ def plot_rolling(final_predictions, smoothing=3):
         end = int(parts[1])
         center = (start + end) / 2.0
         segment_centers.append(center)
-    
+
     final_predictions['segment_center'] = segment_centers
+
+    final_predictions['filename'] = [fname.split('_')[1] for fname in final_predictions['filename']]
     
     # Identify candidate columns
-    known_cols = {'filename', 'author', 'segment_center', 'Unnamed: 0'}
+    known_cols = {'filename', 'author', 'segment_center'}
     candidate_cols = [c for c in final_predictions.columns if c not in known_cols]
 
-    # Sort by segment center to ensure chronological order
-    final_predictions = final_predictions.sort_values('segment_center')
-    
-    # Apply smoothing if requested
-    if smoothing and smoothing > 0:
+    for work in final_predictions['filename'].unique():
+        fpreds_work = final_predictions[final_predictions['filename'] == work]
+        # Sort by segment center to ensure chronological order
+        fpreds_work = fpreds_work.sort_values('segment_center')
+
+        # Apply smoothing if requested
+        if smoothing and smoothing > 0:
+            for col in candidate_cols:
+                fpreds_work[col] = fpreds_work[col].rolling(window=smoothing, center=True, min_periods=1).mean()
+
+        # Plotting
+        plt.figure(figsize=(24, 12))
         for col in candidate_cols:
-            final_predictions[col] = final_predictions[col].rolling(window=smoothing, center=True, min_periods=1).mean()
-    
-    # Plotting
-    plt.figure(figsize=(24, 12))
-    for col in candidate_cols:
-        plt.plot(final_predictions['segment_center'], final_predictions[col], label=col, linewidth=2)
-    
-    plt.title('Rolling Stylometry Decision Functions Over Text')
-    plt.xlabel('Word index (segment center)')
-    plt.ylabel('Decision Function Value')
-    plt.legend(title='Candidate Authors')
-    plt.grid(True)
-    plt.tight_layout()
-    #plt.show()
-    plt.savefig('rolling.png', bbox_inches='tight')
+            plt.plot(fpreds_work['segment_center'], fpreds_work[col], label=col, linewidth=2)
+
+        plt.title('Rolling Stylometry Decision Functions Over ' + work)
+        plt.xlabel('Word index (segment center)')
+        plt.ylabel('Decision Function Value')
+        plt.ylim(min(-2, min(fpreds_work[candidate_cols].min()) - 0.2),
+                 max(1, max(fpreds_work[candidate_cols].max())) + 0.2)
+        plt.legend(title='Candidate Authors')
+        plt.grid(True)
+        plt.tight_layout()
+        #plt.show()
+        plt.savefig('rolling_'+ work + '.png', bbox_inches='tight')
 
