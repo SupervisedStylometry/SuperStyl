@@ -340,7 +340,7 @@ def plot_rolling(final_predictions, smoothing=3):
         plt.ylabel('Decision Function Value')
         plt.ylim(min(-2, min(fpreds_work[candidate_cols].min()) - 0.2),
                  max(1, max(fpreds_work[candidate_cols].max())) + 0.2)
-        plt.legend(title='Candidate Authors')
+        plt.legend(title='Candidate Authors', fontsize="small")
         plt.grid(True)
         plt.tight_layout()
         #plt.show()
