@@ -185,7 +185,7 @@ def load_texts(paths, identify_lang=False, format="txt", keep_punct=False, keep_
 
 # Load and split in samples of length -n- a collection of files
 def get_samples(path, size, step=None, samples_random=False, max_samples=10,
-                units="words", format="txt", keep_punct=False, keep_sym=False, no_ascii=False):
+                units="words", format="txt", feats="words", keep_punct=False, keep_sym=False, no_ascii=False):
     """
     Take samples of n words or verses from a document, and then parse it.
     ONLY IMPLEMENTED FOR NOW: XML/TEI, TXT and verses or words as units
@@ -197,6 +197,7 @@ def get_samples(path, size, step=None, samples_random=False, max_samples=10,
     :param max_samples: maximum number of samples per author/clas
     :param units: the units to use, one of "words" or "verses"
     :param format: type of document, one of full text, TEI or simple XML (ONLY TEI and TXT IMPLEMENTED)
+    :param feats: the type of features,  TODO: document
     """
 
     if samples_random and step is not None:
@@ -213,7 +214,8 @@ def get_samples(path, size, step=None, samples_random=False, max_samples=10,
         text = normalise(my_doc[1], keep_punct=keep_punct, keep_sym=keep_sym, no_ascii=no_ascii)
         units = nltk.tokenize.wordpunct_tokenize(text)
 
-    if units == "verses" and format == "tei":
+    #TODO: DOCUMENT this format as TXM, and keep it only for retrocompatibility
+    if units == "verses" and format == "txm":
         myxsl = etree.XML('''<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:txm="http://textometrie.org/1.0" 
     version="1.0">
@@ -247,6 +249,57 @@ def get_samples(path, size, step=None, samples_random=False, max_samples=10,
     # and now generating output
     samples = []
 
+    if units == "verses" and format == "tei":
+        myxsl = etree.XML('''<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xmlns:tei="http://www.tei-c.org/ns/1.0"  
+    version="1.0">
+    
+    <xsl:output method="text"/>
+    
+    <xsl:param name="feats"></xsl:param>
+    
+    <xsl:template match="/">
+        <xsl:apply-templates select="descendant::tei:l"/>
+    </xsl:template>
+    
+    <xsl:template match="tei:l">
+        <xsl:choose>
+            <xsl:when test="$feats = 'met'">
+                <xsl:value-of select="@met"/>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:apply-templates select="descendant::tei:w"/>
+            </xsl:otherwise>
+        </xsl:choose>
+        <xsl:text>&#xA;</xsl:text>
+    </xsl:template>
+    
+    <xsl:template match="tei:w">
+        <xsl:text> </xsl:text>
+        <xsl:choose>
+            <xsl:when test="$feats = 'lemma'">
+                <xsl:value-of select="@lemma"/>
+            </xsl:when>
+            <xsl:when test="$feats = 'pos'">
+                <xsl:value-of select="@pos"/>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:apply-templates/>
+            </xsl:otherwise>
+        </xsl:choose>  
+    </xsl:template>
+    
+</xsl:stylesheet>''')
+        myxsl = etree.XSLT(myxsl)
+
+        with open(path, 'r') as f:
+            my_doc = etree.parse(f)
+
+        units = str(myxsl(my_doc, feats=etree.XSLT.strparam(feats))).splitlines()
+
+    # and now generating output
+    samples = []
+
     if samples_random:
         for k in range(max_samples):
             samples.append({"start": str(k)+'s', "end": str(k)+'e', "text": list(random.choices(units, k=size))})
@@ -260,7 +313,7 @@ def get_samples(path, size, step=None, samples_random=False, max_samples=10,
     return samples
 
 
-def docs_to_samples(paths, size, step=None, units="words", samples_random=False, format="txt", keep_punct=False,
+def docs_to_samples(paths, size, step=None, units="words", samples_random=False, format="txt", feats="words", keep_punct=False,
                     keep_sym=False, no_ascii=False, max_samples=None, identify_lang=False):
     """
     Loads a collection of documents into a 'myTexts' object for further processing BUT with samples !
@@ -292,7 +345,7 @@ def docs_to_samples(paths, size, step=None, units="words", samples_random=False,
             lang = 'NA'
 
         samples = get_samples(path, size=size, step=step, samples_random=samples_random, max_samples=max_samples,
-                              units=units, format=format,
+                              units=units, format=format, feats=feats,
                               keep_punct=keep_punct, keep_sym=keep_sym, no_ascii=no_ascii)
 
         for sample in samples:
