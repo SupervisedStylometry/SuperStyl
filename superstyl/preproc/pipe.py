@@ -249,17 +249,25 @@ def get_samples(path, size, step=None, samples_random=False, max_samples=10,
     # and now generating output
     samples = []
 
-    if units == "verses" and format == "tei":
+    if format == "tei":
         myxsl = etree.XML('''<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:tei="http://www.tei-c.org/ns/1.0"  
     version="1.0">
     
     <xsl:output method="text"/>
     
+    <xsl:param name="units"></xsl:param>
     <xsl:param name="feats"></xsl:param>
     
     <xsl:template match="/">
-        <xsl:apply-templates select="descendant::tei:l"/>
+        <xsl:choose>
+            <xsl:when test="$units = 'verses'">
+                <xsl:apply-templates select="descendant::tei:l"/>
+            </xsl:when>
+            <xsl:when test="$units = 'words'">
+                <xsl:apply-templates select="descendant::tei:w"/>
+            </xsl:when>
+        </xsl:choose>
     </xsl:template>
     
     <xsl:template match="tei:l">
@@ -277,6 +285,9 @@ def get_samples(path, size, step=None, samples_random=False, max_samples=10,
     <xsl:template match="tei:w">
         <xsl:text> </xsl:text>
         <xsl:choose>
+            <xsl:when test="$feats = 'met'">
+                <xsl:value-of select="@met"/>
+            </xsl:when>
             <xsl:when test="$feats = 'lemma'">
                 <xsl:value-of select="@lemma"/>
             </xsl:when>
@@ -286,7 +297,11 @@ def get_samples(path, size, step=None, samples_random=False, max_samples=10,
             <xsl:otherwise>
                 <xsl:apply-templates/>
             </xsl:otherwise>
-        </xsl:choose>  
+        </xsl:choose>
+        <xsl:if test="$units = 'words'">
+            <!-- Then one word per line -->
+            <xsl:text>&#xA;</xsl:text>
+        </xsl:if>
     </xsl:template>
     
 </xsl:stylesheet>''')
@@ -295,7 +310,7 @@ def get_samples(path, size, step=None, samples_random=False, max_samples=10,
         with open(path, 'r') as f:
             my_doc = etree.parse(f)
 
-        units = str(myxsl(my_doc, feats=etree.XSLT.strparam(feats))).splitlines()
+        units = str(myxsl(my_doc, units=etree.XSLT.strparam(units), feats=etree.XSLT.strparam(feats))).splitlines()
 
     # and now generating output
     samples = []
