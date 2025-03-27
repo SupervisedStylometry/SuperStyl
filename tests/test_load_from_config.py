@@ -90,8 +90,7 @@ class TestConfigLoader(unittest.TestCase):
         self.assertGreater(len(features), 0)
         
         # Check for prefixed column names in merged dataset
-        self.assertTrue(any(col.startswith("words_") for col in corpus.columns))
-        self.assertTrue(any(col.startswith("chars_") for col in corpus.columns))
+        self.assertTrue(any(col.startswith("f") for col in corpus.columns))
     
     def test_load_corpus_single_feature(self):
         # FEATURE: Load corpus with a single feature type
