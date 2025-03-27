@@ -27,21 +27,17 @@ class TestConfigLoader(unittest.TestCase):
         self.config = {
             "paths": self.test_paths,
             "format": "txt",
-            "keep_punct": False,
-            "identify_lang": False,
             "sampling": {
                 "enabled": False
             },
             "features": [
                 {
-                    "name": "words",
                     "type": "words",
                     "n": 1,
                     "k": 100,
                     "freq_type": "relative"
                 },
                 {
-                    "name": "chars",
                     "type": "chars",
                     "n": 2,
                     "k": 100,
@@ -82,8 +78,7 @@ class TestConfigLoader(unittest.TestCase):
         
         # WHEN: Loading corpus from config
         corpus, features = load_corpus_from_config(
-            config_path=self.json_config_path,
-            output_dir=self.temp_dir.name
+            config_path=self.json_config_path
         )
         
         # THEN: Corpus and features are loaded correctly
@@ -109,8 +104,7 @@ class TestConfigLoader(unittest.TestCase):
         
         # WHEN: Loading corpus from config
         corpus, features = load_corpus_from_config(
-            config_path=self.single_config_path,
-            output_dir=self.temp_dir.name
+            config_path=self.single_config_path
         )
         
         # THEN: Corpus and features are loaded correctly without prefix
@@ -144,8 +138,7 @@ class TestConfigLoader(unittest.TestCase):
         
         # WHEN: Loading corpus from config with sampling
         corpus, features = load_corpus_from_config(
-            config_path=sampling_config_path,
-            output_dir=self.temp_dir.name
+            config_path=sampling_config_path
         )
         
         # THEN: Samples are created and file names contain segment info
@@ -171,8 +164,7 @@ class TestConfigLoader(unittest.TestCase):
         
         # WHEN: Loading corpus from config with feature list
         corpus, features = load_corpus_from_config(
-            config_path=config_path,
-            output_dir=self.temp_dir.name
+            config_path=config_path
         )
         
         # THEN: Only features from the predefined list are used
