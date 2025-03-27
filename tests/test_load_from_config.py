@@ -17,6 +17,8 @@ THIS_DIR = os.path.dirname(os.path.abspath(__file__))
 
 class TestConfigLoader(unittest.TestCase):
     def setUp(self):
+        # Create temporary directory for outputs
+        self.temp_dir = tempfile.TemporaryDirectory()
         
         # Test data paths
         self.test_paths = sorted(glob.glob(os.path.join(THIS_DIR, "testdata/*.txt")))
