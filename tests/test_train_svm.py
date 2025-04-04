@@ -123,13 +123,11 @@ class Main_svm(unittest.TestCase):
         
         # Mock plt.savefig to avoid creating actual images
         with patch('matplotlib.pyplot.savefig') as mock_savefig:
-            # Create dummy coefficients and feature names
-            coefs = np.array([0.1, 0.2, 0.3, -0.1, -0.2, -0.3])
-            feature_names = ['feat1', 'feat2', 'feat3', 'feat4', 'feat5', 'feat6']
+            coefs = np.array([0.5, 0.4, 0.3, 0.2, 0.1, 0.05, 0.04, 0.03, 0.02, 0.01, 
+                            -0.01, -0.02, -0.03, -0.04, -0.05, -0.1, -0.2, -0.3, -0.4, -0.5])
+            feature_names = ['feat'+str(i) for i in range(1, 21)]
             current_class = 'test_class'
             
-            # Call the function
-            superstyl.svm.plot_coefficients(coefs, feature_names, current_class)
+            superstyl.svm.plot_coefficients(coefs, feature_names, current_class, top_features=5)
             
-            # Assert that savefig was called with the expected filename
             mock_savefig.assert_called_once_with('coefs_test_class.png', bbox_inches='tight')
