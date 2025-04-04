@@ -3,6 +3,8 @@ import superstyl
 import os
 import pandas
 import tempfile
+import numpy as np
+from unittest.mock import patch
 
 THIS_DIR = os.path.dirname(os.path.abspath(__file__))
 
@@ -117,3 +119,17 @@ class Main_svm(unittest.TestCase):
         except Exception as e:
             self.fail(f"plot_rolling_stylometry raised an exception: {e}")
 
+    def test_plot_coefficients(self):
+        
+        # Mock plt.savefig to avoid creating actual images
+        with patch('matplotlib.pyplot.savefig') as mock_savefig:
+            # Create dummy coefficients and feature names
+            coefs = np.array([0.1, 0.2, 0.3, -0.1, -0.2, -0.3])
+            feature_names = ['feat1', 'feat2', 'feat3', 'feat4', 'feat5', 'feat6']
+            current_class = 'test_class'
+            
+            # Call the function
+            superstyl.svm.plot_coefficients(coefs, feature_names, current_class)
+            
+            # Assert that savefig was called with the expected filename
+            mock_savefig.assert_called_once_with('coefs_test_class.png', bbox_inches='tight')
