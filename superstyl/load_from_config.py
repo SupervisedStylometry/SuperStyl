@@ -2,6 +2,7 @@ import json
 import superstyl
 import pandas as pd
 import os
+import glob
 
 from superstyl.load import load_corpus
 
@@ -28,11 +29,25 @@ def load_corpus_from_config(config_path):
         config = json.load(f)
     
     # Get corpus paths
+
     if 'paths' in config:
         if isinstance(config['paths'], list):
-            paths = config['paths']
+            paths = []
+            for path in config['paths']:
+                if '*' in path or '?' in path or '[' in path:
+                    expanded_paths = glob.glob(path)
+                    if not expanded_paths:
+                        print(f"Warning: No files found for pattern '{path}'")
+                    paths.extend(expanded_paths)
+                else:
+                    paths.append(path)
         elif isinstance(config['paths'], str):
-            paths = [config['paths']]
+            if '*' in config['paths'] or '?' in config['paths'] or '[' in config['paths']:
+                paths = glob.glob(config['paths'])
+                if not paths:
+                    raise ValueError(f"No files found for glob pattern '{config['paths']}'")
+            else:
+                paths = [config['paths']]
         else:
             raise ValueError("Paths in config must be either a list or a glob pattern string")
     else:
@@ -83,7 +98,7 @@ def load_corpus_from_config(config_path):
             'neighbouring_size': feature_config.get('neighbouring_size', 10),
             'culling': feature_config.get('culling', 0)
         }
-        
+
         print(f"Loading corpus with {feature_name}...")
         corpus, features = load_corpus(paths, feat_list=feat_list, **params)
         
