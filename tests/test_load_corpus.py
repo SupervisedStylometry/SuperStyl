@@ -568,8 +568,6 @@ class Main(unittest.TestCase):
 
         self.assertEqual(results, expected)
 
-    # TODO: test get_embedded_counts and load_embedding
-
     # TODO: test count_process
 
     # TODO: test features_select
@@ -746,6 +744,19 @@ class Embed(unittest.TestCase):
         self.assertEqual(results, expected)
         self.assertEqual(new_feat_list, ["this", "the"])
 
+    def test_load_embeddings(self):
+        # Test loading embeddings
+        model = superstyl.preproc.embedding.load_embeddings(THIS_DIR+"/embed/test_embedding.wv.txt")
+        # Check that the model has the expected words
+        self.assertIn("the", model)
+        self.assertIn("is", model)
+        self.assertIn("this", model)
+        self.assertIn("also", model)
+        self.assertIn("text", model)
+        # Check that model has the right dimensions
+        self.assertEqual(model.vector_size, 100)
+        # Check that model has the right number of words
+        self.assertEqual(len(model.index_to_key), 6)
 
 
 

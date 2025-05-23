@@ -20,15 +20,15 @@ def count_features(text, feats ="words", n = 1):
         raise ValueError("Text cannot be empty.")
     if n < 1 or not isinstance(n, int):
         raise ValueError("n must be a positive integer.")
-    if feats not in ["words", "chars", "affixes", "pos"]:
-        raise ValueError("Unsupported feature type. Choose from 'words', 'chars', 'affixes', or 'pos'.")
+    if feats not in ["words", "chars", "affixes", "pos", "met_line", "met_syll"]:
+        raise ValueError("Unsupported feature type. Choose from 'words', 'chars', 'affixes', 'met_line', 'met_syll', or 'pos'.")
     if feats == "words":
         tokens = nltk.tokenize.wordpunct_tokenize(text)
         if n > 1:
             tokens = ["_".join(t) for t in list(nltk.ngrams(tokens, n))]
         total = len(tokens)
 
-    elif feats == "chars":
+    elif feats in ["chars", "met_syll"]:
         tokens = [re.sub(r'\p{Z}', '_', ''.join(ngram)) for ngram in nltk.ngrams(text, n)]
         total = len(tokens)
 
@@ -60,6 +60,12 @@ def count_features(text, feats ="words", n = 1):
             tokens = pos_tags
         total = len(tokens)
 
+    elif feats == "met_line":
+        tokens = text.split()
+        if n > 1:
+            tokens = ["_".join(t) for t in list(nltk.ngrams(tokens, n))]
+        total = len(tokens)
+
     # Adding sentence length ; still commented as it is a work in progress, an integer won't do, a quantile would be better
     #elif feats == "sentenceLength":
     #    sentences = nltk.tokenize.sent_tokenize(text)
@@ -67,7 +73,7 @@ def count_features(text, feats ="words", n = 1):
 
     #Adding an error message in case some distracted guy like me would enter something wrong:
     else:
-        raise ValueError("Unsupported feature type. Choose from 'words', 'chars', 'affixes' or 'pos'.")
+        raise ValueError("Unsupported feature type. Choose from 'words', 'chars', 'affixes', 'met_line', 'met_syll' or 'pos'.")
 
     counts = Counter()
     counts.update(tokens)
@@ -102,7 +108,7 @@ def get_feature_list(myTexts, feats="words", n=1, freqsType="relative"):
     """
     :param myTexts: a 'myTexts' object, containing documents to be processed
     :param feat_list: a list of features to be selected
-    :param feats: type of feats (words, chars, affixes or POS)
+    :param feats: type of feats (words, chars, affixes, POS, met_line, or met_syll)
     :param freqsType: "relative", "absolute" or "binary" frequencies
     :param n: n-grams length
     :return: list of features, with total frequency

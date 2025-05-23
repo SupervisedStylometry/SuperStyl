@@ -17,6 +17,7 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, freqsTyp
     :param feats: the type of features, one of 'words', 'chars', 'affixes, and 'POS'. Affixes are inspired by
     Sapkota et al. 2015, and include space_prefix, space_suffix, prefix, suffix, and, if keep_pos, punctuation n-grams.
     POS are currently only implemented for Modern English
+    TODO: add met_line, met_syll
     :param n: n grams lengths (default 1)
     :param k: How many most frequent? The function takes the rank of k (if k is smaller than the total number of features),
     gets its frequencies, and only include features of superior or equal total frequencies.
@@ -55,13 +56,13 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, freqsTyp
     print(".......loading texts.......")
 
     if sampling:
-        myTexts = pipe.docs_to_samples(data_paths, format=format, units=units, size=size, step=step,
+        myTexts = pipe.docs_to_samples(data_paths, feats=feats, format=format, units=units, size=size, step=step,
                                        max_samples=max_samples, samples_random=samples_random,
                                        keep_punct=keep_punct, keep_sym=keep_sym, no_ascii=no_ascii,
                                        identify_lang = identify_lang)
 
     else:
-        myTexts = pipe.load_texts(data_paths, format=format, max_samples=max_samples, keep_punct=keep_punct,
+        myTexts = pipe.load_texts(data_paths, feats=feats, format=format, max_samples=max_samples, keep_punct=keep_punct,
                                   keep_sym=keep_sym, no_ascii=no_ascii, identify_lang=identify_lang)
 
     print(".......getting features.......")
