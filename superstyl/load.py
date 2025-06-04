@@ -81,7 +81,6 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, freqsTyp
 
     my_feats = [m[0] for m in feat_list] # keeping only the features without the frequencies
     myTexts = fex.get_counts(myTexts, feat_list=my_feats, feats=feats, n=n, freqsType=freqsType)
-
     if embedding:
         print(".......embedding counts.......")
         myTexts, my_feats = embed.get_embedded_counts(myTexts, my_feats, model, topn=neighbouring_size)

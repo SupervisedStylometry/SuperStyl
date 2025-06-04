@@ -55,7 +55,7 @@ def load_corpus_from_config(config_path):
     
     # Get sampling parameters
     sampling_params = config.get('sampling', {})
-    
+
     # Use the first feature to create the base corpus with sampling
     feature_configs = config.get('features', [])
     if not feature_configs:
@@ -89,7 +89,7 @@ def load_corpus_from_config(config_path):
             'size': sampling_params.get('sample_size', 3000),
             'step': sampling_params.get('sample_step', None),
             'max_samples': sampling_params.get('max_samples', None),
-            'samples_random': sampling_params.get('sample_random', False),
+            'samples_random': sampling_params.get('samples_random', False),
             'keep_punct': feature_config.get('keep_punct', False),
             'keep_sym': feature_config.get('keep_sym', False),
             'no_ascii': feature_config.get('no_ascii', False),
@@ -115,6 +115,7 @@ def load_corpus_from_config(config_path):
         # Check for feature list file
         feat_list = None
         feat_list_path = feature_config.get('feat_list')
+        print(feat_list_path)
         if feat_list_path:
             if feat_list_path.endswith('.json'):
                 with open(feat_list_path, 'r') as f:
@@ -135,7 +136,7 @@ def load_corpus_from_config(config_path):
             'size': sampling_params.get('sample_size', 3000),
             'step': sampling_params.get('sample_step', None),
             'max_samples': sampling_params.get('max_samples', None),
-            'samples_random': sampling_params.get('sample_random', False),
+            'samples_random': sampling_params.get('samples_random', False),
             'keep_punct': config.get('keep_punct', False),
             'keep_sym': config.get('keep_sym', False),
             'no_ascii': config.get('no_ascii', False),
@@ -146,11 +147,17 @@ def load_corpus_from_config(config_path):
         }
         
         print(f"Loading {feature_name}...")
+
         corpus, features = load_corpus(paths, feat_list=feat_list, **params)
         
         # Store corpus and features
         corpora[feature_name] = corpus
-        feature_lists[feature_name] = features
+
+        if feat_list is not None:
+            feature_lists[feature_name] = feat_list
+        else:
+            feature_lists[feature_name] = features
+        print(len(feature_lists[feature_name]))
     
     # Create a merged dataset
     print("Creating merged dataset...")
@@ -170,19 +177,22 @@ def load_corpus_from_config(config_path):
     
     # Add features from each corpus
     for name, corpus in corpora.items():
+        single_feature = []
+
         feature_cols = [col for col in corpus.columns if col not in ['author', 'lang']]
         
         # Rename columns to avoid duplicates
-        renamed_cols = {col: f"{name}_{col}" for col in feature_cols}
-        feature_df = corpus[feature_cols].rename(columns=renamed_cols)
+        #renamed_cols = {col: col for col in feature_cols}
+        feature_df = corpus[feature_cols]#.rename(columns=renamed_cols)
         
         # Merge with the main DataFrame
         merged = pd.concat([merged, feature_df], axis=1)
         
         # Add features to the combined list with prefixes
-        for feature in feature_lists[name]:
-            all_features.append((f"{name}_{feature[0]}", feature[1]))
+        for feature in corpus.columns:#feature_lists[name]:
+            single_feature.append((feature, 0))#[0], feature[1]))
     
+        all_features.append(single_feature)
     # Return the merged corpus and combined feature list
     return merged, all_features
 
