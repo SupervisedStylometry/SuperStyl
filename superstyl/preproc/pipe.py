@@ -52,6 +52,133 @@ def XML_to_text(path):
         return aut, re.sub(r"\s+", " ", str(myxsl(my_doc)))
 
 
+def txm_to_units(path, units="lines"):
+    #TODO: it would be fairly easy to implement lemma and pos feats, like for tei. If it is ever useful
+    myxsl = etree.XML('''<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:txm="http://textometrie.org/1.0" 
+    version="1.0">
+
+    <xsl:output method="text"/>
+    <xsl:param name="units"></xsl:param>
+
+    <xsl:template match="/">
+        <xsl:choose>
+            <xsl:when test="$units = 'verses'">
+                <xsl:apply-templates select="descendant::tei:l"/>
+            </xsl:when>
+            <xsl:when test="$units = 'words'">
+                <xsl:apply-templates select="descendant::tei:w"/>
+            </xsl:when>
+        </xsl:choose>
+    </xsl:template>
+
+    <xsl:template match="tei:l">
+        <xsl:apply-templates select="descendant::tei:w[
+            not(txm:ana[@type='#frpos'] = 'NOMpro')
+            ]"/>
+        <xsl:text>&#xA;</xsl:text>
+    </xsl:template>
+
+    <xsl:template match="tei:w">
+        <xsl:text> </xsl:text>
+        <xsl:apply-templates select="txm:form"/>
+    </xsl:template>
+
+</xsl:stylesheet>''')
+    myxsl = etree.XSLT(myxsl)
+
+    with open(path, 'r') as f:
+        my_doc = etree.parse(f)
+
+    #units_tokens = str(myxsl(my_doc, units=etree.XSLT.strparam(units), feats=etree.XSLT.strparam(feats))).splitlines()
+    units_tokens = str(myxsl(my_doc, units=etree.XSLT.strparam(units))).splitlines()
+    return units_tokens
+
+def tei_to_units(path, feats="words", units="lines"):
+
+    if feats in ["met_syll", "met_line"]:
+        feats = "met"
+    myxsl = etree.XML('''<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+        xmlns:tei="http://www.tei-c.org/ns/1.0"  
+        version="1.0">
+
+        <xsl:output method="text"/>
+
+        <xsl:param name="units"></xsl:param>
+        <xsl:param name="feats"></xsl:param>
+        <xsl:param name="keep_punct"></xsl:param>
+
+        <xsl:template match="/">
+            <xsl:choose>
+                <xsl:when test="$units = 'verses'">
+                    <xsl:apply-templates select="descendant::tei:l"/>
+                </xsl:when>
+                <xsl:when test="$units = 'words'">
+                    <xsl:apply-templates select="descendant::tei:w"/>
+                </xsl:when>
+            </xsl:choose>
+        </xsl:template>
+
+        <xsl:template match="tei:l">
+            <xsl:choose>
+                <xsl:when test="$feats = 'met'">
+                        <xsl:choose>
+                            <xsl:when test="$keep_punct = 'true'">
+                                <xsl:value-of select="@met"/>
+                            </xsl:when>
+                            <xsl:otherwise>
+                                <xsl:value-of select="translate(@met, '.', '')"/>
+                            </xsl:otherwise>
+                        </xsl:choose>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:apply-templates select="descendant::tei:w"/>
+                </xsl:otherwise>
+            </xsl:choose>
+            <xsl:text>&#xA;</xsl:text>
+        </xsl:template>
+
+        <xsl:template match="tei:w">
+            <xsl:text> </xsl:text>
+            <xsl:choose>
+                <xsl:when test="$feats = 'met'">
+                    <xsl:value-of select="@met"/>
+                </xsl:when>
+                <xsl:when test="$feats = 'lemma'">
+                    <xsl:value-of select="@lemma"/>
+                </xsl:when>
+                <xsl:when test="$feats = 'pos'">
+                    <xsl:value-of select="@pos"/>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:apply-templates/>
+                </xsl:otherwise>
+            </xsl:choose>
+            <xsl:if test="$units = 'words'">
+                <!-- Then one word per line -->
+                <xsl:text>&#xA;</xsl:text>
+            </xsl:if>
+        </xsl:template>
+
+    </xsl:stylesheet>''')
+    myxsl = etree.XSLT(myxsl)
+
+    with open(path, 'r') as f:
+        my_doc = etree.parse(f)
+
+    units_tokens = str(myxsl(my_doc, units=etree.XSLT.strparam(units), feats=etree.XSLT.strparam(feats))).splitlines()
+    return units_tokens
+
+def specialXML_to_text(path, format="tei", feats="words"):
+    aut = path.split('/')[-1].split("_")[0]
+    if format=="tei":
+        units_tokens = tei_to_units(path, feats=feats, units="words")
+
+    if format=="txm":
+        units_tokens = txm_to_units(path, feats=feats, units="words")
+
+    return aut, re.sub(r"\s+", " ", str(' '.join(units_tokens)))
+
 def TXT_to_text(path):
     """
     Get main text from xml file
@@ -147,7 +274,7 @@ def load_texts(paths, identify_lang=False, feats="words", format="txt", keep_pun
     Loads a collection of documents into a 'myTexts' object for further processing.
     TODO: a proper class
     :param paths: path to docs
-    TODO: add feats!
+    :param feats: the type of features, one of 'words', 'chars', 'affixes, 'lemma', 'pos', 'met_line' and 'met_syll'.
     :param identify_lang: whether or not try to identify lang (default: False)
     :param format: format of the source files (implemented values: txt [default], xml)
     :param keep_punct: whether or not to keep punctuation and caps.
@@ -164,6 +291,9 @@ def load_texts(paths, identify_lang=False, feats="words", format="txt", keep_pun
 
         if format=='xml':
             aut, text = XML_to_text(path)
+
+        if format in ('tei', 'txm'):
+            aut, text = specialXML_to_text(path, format=format, feats=feats)
 
         else:
             aut, text = TXT_to_text(path)
@@ -198,7 +328,7 @@ def get_samples(path, size, step=None, samples_random=False, max_samples=10,
     :param max_samples: maximum number of samples per author/clas
     :param units: the units to use, one of "words" or "verses"
     :param format: type of document, one of full text, TEI or simple XML (ONLY TEI and TXT IMPLEMENTED)
-    :param feats: the type of features,  TODO: document
+    :param feats: the type of features, one of 'words', 'chars', 'affixes, 'lemma', 'pos', 'met_line' and 'met_syll'.
     """
 
     if samples_random and step is not None:
@@ -213,127 +343,26 @@ def get_samples(path, size, step=None, samples_random=False, max_samples=10,
     if units == "words" and format == "txt":
         my_doc = TXT_to_text(path)
         text = normalise(my_doc[1], keep_punct=keep_punct, keep_sym=keep_sym, no_ascii=no_ascii)
-        units = nltk.tokenize.wordpunct_tokenize(text)
+        units_tokens = nltk.tokenize.wordpunct_tokenize(text)
 
-    #TODO: DOCUMENT this format as TXM, and keep it only for retrocompatibility
+    #Kept only for retrocompatibility with Psysché
     if units == "verses" and format == "txm":
-        myxsl = etree.XML('''<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-        xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:txm="http://textometrie.org/1.0" 
-        version="1.0">
-
-        <xsl:output method="text"/>
-
-        <xsl:template match="/">
-            <xsl:apply-templates select="descendant::tei:l"/>
-        </xsl:template>
-
-        <xsl:template match="tei:l">
-            <xsl:apply-templates select="descendant::tei:w[
-                not(txm:ana[@type='#frpos'] = 'NOMpro')
-                ]"/>
-            <xsl:text>&#xA;</xsl:text>
-        </xsl:template>
-
-        <xsl:template match="tei:w">
-            <xsl:text> </xsl:text>
-            <xsl:apply-templates select="txm:form"/>
-        </xsl:template>
-
-    </xsl:stylesheet>''')
-        myxsl = etree.XSLT(myxsl)
-
-        with open(path, 'r') as f:
-            my_doc = etree.parse(f)
-
-        units = str(myxsl(my_doc)).splitlines()
-
-    # and now generating output
-    samples = []
+        units_tokens = txm_to_units(path, units=units)
 
     if format == "tei":
-        if feats in ["met_syll", "met_line"]:
-            feats = "met"
-        myxsl = etree.XML('''<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:tei="http://www.tei-c.org/ns/1.0"  
-    version="1.0">
-    
-    <xsl:output method="text"/>
-    
-    <xsl:param name="units"></xsl:param>
-    <xsl:param name="feats"></xsl:param>
-    <xsl:param name="keep_punct"></xsl:param>
-    
-    <xsl:template match="/">
-        <xsl:choose>
-            <xsl:when test="$units = 'verses'">
-                <xsl:apply-templates select="descendant::tei:l"/>
-            </xsl:when>
-            <xsl:when test="$units = 'words'">
-                <xsl:apply-templates select="descendant::tei:w"/>
-            </xsl:when>
-        </xsl:choose>
-    </xsl:template>
-    
-    <xsl:template match="tei:l">
-        <xsl:choose>
-            <xsl:when test="$feats = 'met'">
-                    <xsl:choose>
-                        <xsl:when test="$keep_punct = 'true'">
-                            <xsl:value-of select="@met"/>
-                        </xsl:when>
-                        <xsl:otherwise>
-                            <xsl:value-of select="translate(@met, '.', '')"/>
-                        </xsl:otherwise>
-                    </xsl:choose>
-            </xsl:when>
-            <xsl:otherwise>
-                <xsl:apply-templates select="descendant::tei:w"/>
-            </xsl:otherwise>
-        </xsl:choose>
-        <xsl:text>&#xA;</xsl:text>
-    </xsl:template>
-    
-    <xsl:template match="tei:w">
-        <xsl:text> </xsl:text>
-        <xsl:choose>
-            <xsl:when test="$feats = 'met'">
-                <xsl:value-of select="@met"/>
-            </xsl:when>
-            <xsl:when test="$feats = 'lemma'">
-                <xsl:value-of select="@lemma"/>
-            </xsl:when>
-            <xsl:when test="$feats = 'pos'">
-                <xsl:value-of select="@pos"/>
-            </xsl:when>
-            <xsl:otherwise>
-                <xsl:apply-templates/>
-            </xsl:otherwise>
-        </xsl:choose>
-        <xsl:if test="$units = 'words'">
-            <!-- Then one word per line -->
-            <xsl:text>&#xA;</xsl:text>
-        </xsl:if>
-    </xsl:template>
-    
-</xsl:stylesheet>''')
-        myxsl = etree.XSLT(myxsl)
-
-        with open(path, 'r') as f:
-            my_doc = etree.parse(f)
-
-        units = str(myxsl(my_doc, units=etree.XSLT.strparam(units), feats=etree.XSLT.strparam(feats))).splitlines()
+        units_tokens = tei_to_units(path, units=units, feats=feats)
 
     # and now generating output
     samples = []
 
     if samples_random:
         for k in range(max_samples):
-            samples.append({"start": str(k)+'s', "end": str(k)+'e', "text": list(random.choices(units, k=size))})
+            samples.append({"start": str(k)+'s', "end": str(k)+'e', "text": list(random.choices(units_tokens, k=size))})
 
     else:
         current = 0
-        while current + size <= len(units):
-            samples.append({"start": current, "end": current + size, "text": list(units[current:(current + size)])})
+        while current + size <= len(units_tokens):
+            samples.append({"start": current, "end": current + size, "text": list(units_tokens[current:(current + size)])})
             current = current + step
 
     return samples
@@ -353,7 +382,7 @@ def docs_to_samples(paths, size, step=None, units="words", samples_random=False,
     :param keep_punct: whether to keep punctuation and caps.
     :param max_samples: maximum number of samples per author/class.
     :param identify_lang: whether to try to identify lang (default: False)
-    :param feats: TODO
+    :param feats: the type of features, one of 'words', 'chars', 'affixes, 'lemma', 'pos', 'met_line' and 'met_syll'.
     :return: a myTexts object
     """
     myTexts = []

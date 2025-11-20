@@ -20,9 +20,9 @@ def count_features(text, feats ="words", n = 1):
         raise ValueError("Text cannot be empty.")
     if n < 1 or not isinstance(n, int):
         raise ValueError("n must be a positive integer.")
-    if feats not in ["words", "chars", "affixes", "pos", "met_line", "met_syll"]:
-        raise ValueError("Unsupported feature type. Choose from 'words', 'chars', 'affixes', 'met_line', 'met_syll', or 'pos'.")
-    if feats == "words":
+    if feats not in ["words", "chars", "affixes", "lemmas", "pos", "met_line", "met_syll"]:
+        raise ValueError("Unsupported feature type. Choose from 'words', 'chars', 'affixes', 'met_line', 'met_syll', 'lemmas' or 'pos'.")
+    if feats in ("words", "lemmas", "pos"):
         tokens = nltk.tokenize.wordpunct_tokenize(text)
         if n > 1:
             tokens = ["_".join(t) for t in list(nltk.ngrams(tokens, n))]
@@ -46,20 +46,6 @@ def count_features(text, feats ="words", n = 1):
                                 ]
         tokens = affs + space_affs_and_punct
 
-    #POS in english with NLTK - need to propose spacy later on
-    elif feats == "pos":
-        try:
-            nltk.data.find('taggers/averaged_perceptron_tagger_eng')
-        except:
-            nltk.download('averaged_perceptron_tagger_eng')
-        words = nltk.tokenize.wordpunct_tokenize(text)
-        pos_tags = [pos for word, pos in nltk.pos_tag(words)]
-        if n > 1:
-            tokens = ["_".join(t) for t in list(nltk.ngrams(pos_tags, n))]
-        else:
-            tokens = pos_tags
-        total = len(tokens)
-
     elif feats == "met_line":
         tokens = text.split()
         if n > 1:
@@ -73,7 +59,7 @@ def count_features(text, feats ="words", n = 1):
 
     #Adding an error message in case some distracted guy like me would enter something wrong:
     else:
-        raise ValueError("Unsupported feature type. Choose from 'words', 'chars', 'affixes', 'met_line', 'met_syll' or 'pos'.")
+        raise ValueError("Unsupported feature type. Choose from 'words', 'chars', 'affixes', 'met_line', 'met_syll', 'lemmas' or 'pos'.")
 
     counts = Counter()
     counts.update(tokens)
@@ -108,7 +94,7 @@ def get_feature_list(myTexts, feats="words", n=1, freqsType="relative"):
     """
     :param myTexts: a 'myTexts' object, containing documents to be processed
     :param feat_list: a list of features to be selected
-    :param feats: type of feats (words, chars, affixes, POS, met_line, or met_syll)
+    :param feats: the type of features, one of 'words', 'chars', 'affixes, 'lemma', 'pos', 'met_line' and 'met_syll'.
     :param freqsType: "relative", "absolute" or "binary" frequencies
     :param n: n-grams length
     :return: list of features, with total frequency
@@ -142,14 +128,12 @@ def get_doc_frequency(myTexts):
     return feats_doc_freq
 
 
-
-
 def get_counts(myTexts, feat_list=None, feats = "words", n = 1, freqsType = "relative"):
     """
     Get counts for a collection of texts
     :param myTexts: the document collection
     :param feat_list: a list of features to be selected (None for all)
-    :param feats: the type of feats (words, chars, affixes, POS)
+    :param feats: the type of features, one of 'words', 'chars', 'affixes, 'lemma', 'pos', 'met_line' and 'met_syll'.
     :param n: the length of n-grams
     :param freqsType: relative, absolute or binarised freqs
     :return: the collection with, for each text, a 'wordCounts' dictionary

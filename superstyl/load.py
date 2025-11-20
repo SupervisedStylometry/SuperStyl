@@ -14,10 +14,11 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, freqsTyp
     Main function to load a corpus from a collection of file, and an optional list of features to extract.
     :param data_paths: paths to the source files
     :param feat_list: an optional list of features (as created by load_corpus), default None
-    :param feats: the type of features, one of 'words', 'chars', 'affixes, and 'POS'. Affixes are inspired by
-    Sapkota et al. 2015, and include space_prefix, space_suffix, prefix, suffix, and, if keep_pos, punctuation n-grams.
-    POS are currently only implemented for Modern English
-    TODO: add met_line, met_syll
+    :param feats: the type of features, one of 'words', 'chars', 'affixes, 'lemma', 'pos', 'met_line' and 'met_syll'.
+    Affixes are inspired by Sapkota et al. 2015, and include space_prefix, space_suffix, prefix, suffix, and,
+    if keep_punct, punctuation n-grams. From TEI, pos, lemma, met_line or met_syll can
+    be extracted; met_line is the prosodic (stress) annotation of a full verse; met_syll is a char n-gram of prosodic
+    annotation
     :param n: n grams lengths (default 1)
     :param k: How many most frequent? The function takes the rank of k (if k is smaller than the total number of features),
     gets its frequencies, and only include features of superior or equal total frequencies.
@@ -44,6 +45,12 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, freqsTyp
     :param culling percentage value for culling, meaning in what percentage of samples should a feature be present to be retained (default is 0, meaning no culling)
     :return a pandas dataFrame of text metadata and feature frequencies; a global list of features with their frequencies
     """
+
+    if feats in ('lemma', 'pos', 'met_line', 'met_syll') and format is not 'tei':
+        raise ValueError("lemma, pos, met_line or met_syll are only possible with adequate tei format (@lemma, @pos, @met)")
+
+    if feats in ('met_line', 'met_syll') and units is not 'lines':
+        raise ValueError("met_line or met_syll are only possible with tei format that includes lines and @met")
 
     embeddedFreqs = False
     if embedding:
