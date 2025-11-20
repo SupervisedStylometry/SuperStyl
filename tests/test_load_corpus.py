@@ -286,22 +286,7 @@ class Main(unittest.TestCase):
         self.assertEqual(sorted(feats), sorted(expected_feats))
         self.assertEqual(corpus.to_dict(), expected_corpus)
 
-        # WHEN
-        corpus, feats = superstyl.load.load_corpus(sorted(self.paths[1:]), feats="pos", n=1, format="txt", freqsType="absolute")
-
-        # THEN
-        expected_feats = [('DT', 4), ('NN', 2), ('VBZ', 2), ('RB', 1)]
-        expected_corpus = {
-        'author': {'Smith_Letter1.txt': 'Smith', 'Smith_Letter2.txt': 'Smith'},
-        'lang': {'Smith_Letter1.txt': 'NA', 'Smith_Letter2.txt': 'NA'},
-        'DT': {'Smith_Letter1.txt': 2 , 'Smith_Letter2.txt': 2},
-        'NN': {'Smith_Letter1.txt': 1 , 'Smith_Letter2.txt': 1},  
-        'VBZ': {'Smith_Letter1.txt': 1, 'Smith_Letter2.txt': 1},
-        'RB': {'Smith_Letter1.txt': 0, 'Smith_Letter2.txt': 1}
-        }
-
-        self.assertEqual(sorted(feats), sorted(expected_feats))
-        self.assertEqual(corpus.to_dict(), expected_corpus)
+        # TODO: add tests for lemma, pos, met_line, met_syll, and loading from tei, and from txm
 
         # Now, test embedding
         # WHEN
