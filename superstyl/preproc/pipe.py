@@ -1,5 +1,3 @@
-import unicodedata
-
 from lxml import etree
 import regex as re
 import unidecode
