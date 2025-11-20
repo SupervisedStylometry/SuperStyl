@@ -6,7 +6,7 @@ import glob
 
 from superstyl.load import load_corpus
 
-def load_corpus_from_config(config_path):
+def load_corpus_from_config(config_path, is_test=False):
     """
     Load a corpus based on a JSON configuration file.
     
@@ -87,7 +87,7 @@ def load_corpus_from_config(config_path):
             'sampling': sampling_params.get('enabled', False),
             'units': sampling_params.get('units', 'words'),
             'size': sampling_params.get('sample_size', 3000),
-            'step': sampling_params.get('sample_step', None),
+            'step': sampling_params.get('step', None),
             'max_samples': sampling_params.get('max_samples', None),
             'samples_random': sampling_params.get('samples_random', False),
             'keep_punct': feature_config.get('keep_punct', False),
@@ -134,7 +134,7 @@ def load_corpus_from_config(config_path):
             'sampling': sampling_params.get('enabled', False),
             'units': sampling_params.get('units', 'words'),
             'size': sampling_params.get('sample_size', 3000),
-            'step': sampling_params.get('sample_step', None),
+            'step': sampling_params.get('step', None),
             'max_samples': sampling_params.get('max_samples', None),
             'samples_random': sampling_params.get('samples_random', False),
             'keep_punct': config.get('keep_punct', False),
@@ -153,11 +153,11 @@ def load_corpus_from_config(config_path):
         # Store corpus and features
         corpora[feature_name] = corpus
 
-        if feat_list is not None:
+        if feat_list is not None and is_test:
             feature_lists[feature_name] = feat_list
         else:
             feature_lists[feature_name] = features
-        print(len(feature_lists[feature_name]))
+        
     
     # Create a merged dataset
     print("Creating merged dataset...")
@@ -182,15 +182,15 @@ def load_corpus_from_config(config_path):
         feature_cols = [col for col in corpus.columns if col not in ['author', 'lang']]
         
         # Rename columns to avoid duplicates
-        #renamed_cols = {col: col for col in feature_cols}
-        feature_df = corpus[feature_cols]#.rename(columns=renamed_cols)
+        renamed_cols = {col: col for col in feature_cols}
+        feature_df = corpus[feature_cols].rename(columns=renamed_cols)
         
         # Merge with the main DataFrame
         merged = pd.concat([merged, feature_df], axis=1)
         
         # Add features to the combined list with prefixes
-        for feature in corpus.columns:#feature_lists[name]:
-            single_feature.append((feature, 0))#[0], feature[1]))
+        for feature in feature_lists[name]:
+            single_feature.append((feature[0], feature[1]))
     
         all_features.append(single_feature)
     # Return the merged corpus and combined feature list
