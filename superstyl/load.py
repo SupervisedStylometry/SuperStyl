@@ -46,10 +46,10 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, freqsTyp
     :return a pandas dataFrame of text metadata and feature frequencies; a global list of features with their frequencies
     """
 
-    if feats in ('lemma', 'pos', 'met_line', 'met_syll') and format is not 'tei':
+    if feats in ('lemma', 'pos', 'met_line', 'met_syll') and format != 'tei':
         raise ValueError("lemma, pos, met_line or met_syll are only possible with adequate tei format (@lemma, @pos, @met)")
 
-    if feats in ('met_line', 'met_syll') and units is not 'lines':
+    if feats in ('met_line', 'met_syll') and units != 'lines':
         raise ValueError("met_line or met_syll are only possible with tei format that includes lines and @met")
 
     embeddedFreqs = False

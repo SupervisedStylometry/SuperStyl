@@ -10,7 +10,7 @@ def count_features(text, feats ="words", n = 1):
     Get feature counts from  a text (words, chars or POS n-grams, or affixes(+punct if keep_punct),
     following Sapkota et al., NAACL 2015
     :param text: the source text
-    :param feats: the type of feats: words, chars, POS (supported only for English), or affixes
+    :param feats: the type of features, one of 'words', 'chars', 'affixes, 'lemma', 'pos', 'met_line' and 'met_syll'.
     :param n: the length of n-grams
     :return: features absolute frequencies in text as a counter, and the total of frequencies
     """
@@ -20,9 +20,9 @@ def count_features(text, feats ="words", n = 1):
         raise ValueError("Text cannot be empty.")
     if n < 1 or not isinstance(n, int):
         raise ValueError("n must be a positive integer.")
-    if feats not in ["words", "chars", "affixes", "lemmas", "pos", "met_line", "met_syll"]:
-        raise ValueError("Unsupported feature type. Choose from 'words', 'chars', 'affixes', 'met_line', 'met_syll', 'lemmas' or 'pos'.")
-    if feats in ("words", "lemmas", "pos"):
+    if feats not in ["words", "chars", "affixes", "lemma", "pos", "met_line", "met_syll"]:
+        raise ValueError("Unsupported feature type. Choose from 'words', 'chars', 'affixes', 'met_line', 'met_syll', 'lemma' or 'pos'.")
+    if feats in ("words", "lemma", "pos"):
         tokens = nltk.tokenize.wordpunct_tokenize(text)
         if n > 1:
             tokens = ["_".join(t) for t in list(nltk.ngrams(tokens, n))]
