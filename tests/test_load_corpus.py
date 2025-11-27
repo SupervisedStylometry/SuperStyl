@@ -553,11 +553,6 @@ class Main(unittest.TestCase):
 
         self.assertEqual(results, expected)
 
-    # TODO: test count_process
-
-    # TODO: test features_select
-    # TODO: test select
-
 
 class DataLoading(unittest.TestCase):
 
