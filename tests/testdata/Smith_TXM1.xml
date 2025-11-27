@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:txm="http://textometrie.org/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Test TXM Text</title>
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <lg>
+                <l>
+                    <w>
+                        <txm:form>This</txm:form>
+                        <txm:lemma>this</txm:lemma>
+                        <txm:ana type="#frpos">DET</txm:ana>
+                    </w>
+                    <w>
+                        <txm:form>is</txm:form>
+                        <txm:lemma>be</txm:lemma>
+                        <txm:ana type="#frpos">VERB</txm:ana>
+                    </w>
+                    <w>
+                        <txm:form>a</txm:form>
+                        <txm:lemma>a</txm:lemma>
+                        <txm:ana type="#frpos">DET</txm:ana>
+                    </w>
+                    <w>
+                        <txm:form>test</txm:form>
+                        <txm:lemma>test</txm:lemma>
+                        <txm:ana type="#frpos">NOUN</txm:ana>
+                    </w>
+                </l>
+                <l>
+                    <w>
+                        <txm:form>Second</txm:form>
+                        <txm:lemma>second</txm:lemma>
+                        <txm:ana type="#frpos">ADJ</txm:ana>
+                    </w>
+                    <w>
+                        <txm:form>line</txm:form>
+                        <txm:lemma>line</txm:lemma>
+                        <txm:ana type="#frpos">NOUN</txm:ana>
+                    </w>
+                    <w>
+                        <txm:form>here</txm:form>
+                        <txm:lemma>here</txm:lemma>
+                        <txm:ana type="#frpos">NOMpro</txm:ana>
+                    </w>
+                </l>
+            </lg>
+        </body>
+    </text>
+</TEI>
