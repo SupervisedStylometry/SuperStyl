@@ -181,7 +181,7 @@ def load_corpus_from_config(config_path, is_test=False):
         feature_cols = [col for col in corpus.columns if col not in ['author', 'lang']]
         
         # Rename columns to avoid duplicates
-        renamed_cols = {col: col for col in feature_cols}
+        renamed_cols = {col: f"{name}_{col}" for col in feature_cols}
         feature_df = corpus[feature_cols].rename(columns=renamed_cols)
         
         # Merge with the main DataFrame
