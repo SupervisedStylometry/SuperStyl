@@ -50,14 +50,21 @@ def XML_to_text(path):
         return aut, re.sub(r"\s+", " ", str(myxsl(my_doc)))
 
 
-def txm_to_units(path, units="lines"):
-    #TODO: it would be fairly easy to implement lemma and pos feats, like for tei. If it is ever useful
+def txm_to_units(path, units="lines", feats="words"):
+    """
+    Extract units from TXM file
+    :param path: path to TXM file
+    :param units: units to extract ("lines"/"verses" or "words")
+    :param feats: features to extract ("words", "lemma", or "pos")
+    :return: list of extracted units
+    """
     myxsl = etree.XML('''<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:txm="http://textometrie.org/1.0" 
     version="1.0">
 
     <xsl:output method="text"/>
     <xsl:param name="units"></xsl:param>
+    <xsl:param name="feats"></xsl:param>
 
     <xsl:template match="/">
         <xsl:choose>
@@ -79,7 +86,21 @@ def txm_to_units(path, units="lines"):
 
     <xsl:template match="tei:w">
         <xsl:text> </xsl:text>
-        <xsl:apply-templates select="txm:form"/>
+        <xsl:choose>
+            <xsl:when test="$feats = 'lemma'">
+                <xsl:value-of select="txm:lemma"/>
+            </xsl:when>
+            <xsl:when test="$feats = 'pos'">
+                <xsl:value-of select="txm:ana[@type='#frpos']"/>
+            </xsl:when>
+            <xsl:otherwise>
+                <xsl:apply-templates select="txm:form"/>
+            </xsl:otherwise>
+        </xsl:choose>
+        <xsl:if test="$units = 'words'">
+            <!-- Then one word per line -->
+            <xsl:text>&#xA;</xsl:text>
+        </xsl:if>
     </xsl:template>
 
 </xsl:stylesheet>''')
@@ -88,8 +109,7 @@ def txm_to_units(path, units="lines"):
     with open(path, 'r') as f:
         my_doc = etree.parse(f)
 
-    #units_tokens = str(myxsl(my_doc, units=etree.XSLT.strparam(units), feats=etree.XSLT.strparam(feats))).splitlines()
-    units_tokens = str(myxsl(my_doc, units=etree.XSLT.strparam(units))).splitlines()
+    units_tokens = str(myxsl(my_doc, units=etree.XSLT.strparam(units), feats=etree.XSLT.strparam(feats))).splitlines()
     return units_tokens
 
 def tei_to_units(path, feats="words", units="lines"):

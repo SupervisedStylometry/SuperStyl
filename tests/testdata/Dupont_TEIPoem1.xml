@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Test Poem</title>
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <lg>
+                <l met="01010101">
+                    <w lemma="this" pos="DET">This</w>
+                    <w lemma="be" pos="VERB">is</w>
+                    <w lemma="the" pos="DET">the</w>
+                    <w lemma="first" pos="ADJ">first</w>
+                    <w lemma="line" pos="NOUN">line</w>
+                </l>
+                <l met="10101010">
+                    <w lemma="and" pos="CONJ">And</w>
+                    <w lemma="this" pos="DET">this</w>
+                    <w lemma="be" pos="VERB">is</w>
+                    <w lemma="the" pos="DET">the</w>
+                    <w lemma="second" pos="ADJ">second</w>
+                </l>
+            </lg>
+        </body>
+    </text>
+</TEI>
