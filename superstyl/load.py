@@ -5,13 +5,39 @@ import superstyl.preproc.embedding as embed
 import tqdm
 import pandas
 
+from typing import Optional, List, Tuple, Union
+from superstyl.config import Config
 
-def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, freqsType="relative", format="txt", sampling=False,
-                units="words", size=3000, step=None, max_samples=None, samples_random=False, keep_punct=False, keep_sym=False,
-                no_ascii=False,
-                identify_lang=False, embedding=False, neighbouring_size=10, culling=0):
+
+def load_corpus(
+    data_paths: Union[List[str], None] = None,
+    feat_list: Optional[List] = None,
+    feats: str = "words",
+    n: int = 1,
+    k: int = 5000,
+    freqsType: str = "relative",
+    format: str = "txt",
+    sampling: bool = False,
+    units: str = "words",
+    size: int = 3000,
+    step: Optional[int] = None,
+    max_samples: Optional[int] = None,
+    samples_random: bool = False,
+    keep_punct: bool = False,
+    keep_sym: bool = False,
+    no_ascii: bool = False,
+    identify_lang: bool = False,
+    embedding: Union[str, bool] = False,
+    neighbouring_size: int = 10,
+    culling: float = 0,
+    config: Optional[Config] = None
+) -> Tuple[pandas.DataFrame, List]:
     """
-    Main function to load a corpus from a collection of file, and an optional list of features to extract.
+    Main function to load a corpus from a collection of files.
+    
+    Can be called either with individual parameters (backward compatible)
+    or with a Config object.
+    
     :param data_paths: paths to the source files
     :param feat_list: an optional list of features (as created by load_corpus), default None
     :param feats: the type of features, one of 'words', 'chars', 'affixes, 'lemma', 'pos', 'met_line' and 'met_syll'.
@@ -47,47 +73,70 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, freqsTyp
     """
 
     if feats in ('lemma', 'pos', 'met_line', 'met_syll') and format != 'tei':
-        raise ValueError("lemma, pos, met_line or met_syll are only possible with adequate tei format (@lemma, @pos, @met)")
+        raise ValueError(
+            f"{feats} features are only possible with adequate TEI format (@lemma, @pos, @met)"
+        )
 
     if feats in ('met_line', 'met_syll') and units != 'lines':
-        raise ValueError("met_line or met_syll are only possible with tei format that includes lines and @met")
+        raise ValueError(
+            f"{feats} features are only possible with TEI format that includes lines and @met"
+        )
 
     embeddedFreqs = False
     if embedding:
         print(".......loading embedding.......")
-        relFreqs = False  # we need absolute freqs as a basis for embedded frequencies
         model = embed.load_embeddings(embedding)
         embeddedFreqs = True
-        freqsType = "absolute" #absolute freqs are required for embedding
+        freqsType = "absolute"  # absolute freqs are required for embedding
 
     print(".......loading texts.......")
 
-    if sampling:
-        myTexts = pipe.docs_to_samples(data_paths, feats=feats, format=format, units=units, size=size, step=step,
-                                       max_samples=max_samples, samples_random=samples_random,
-                                       keep_punct=keep_punct, keep_sym=keep_sym, no_ascii=no_ascii,
-                                       identify_lang = identify_lang)
+    # Create normalization config for pipe functions
+    norm_params = {
+        "keep_punct": keep_punct,
+        "keep_sym": keep_sym,
+        "no_ascii": no_ascii
+    }
 
+    if sampling:
+        myTexts = pipe.docs_to_samples(
+            data_paths,
+            feats=feats,
+            format=format,
+            units=units,
+            size=size,
+            step=step,
+            max_samples=max_samples,
+            samples_random=samples_random,
+            identify_lang=identify_lang,
+            **norm_params
+        )
     else:
-        myTexts = pipe.load_texts(data_paths, feats=feats, format=format, max_samples=max_samples, keep_punct=keep_punct,
-                                  keep_sym=keep_sym, no_ascii=no_ascii, identify_lang=identify_lang)
+        myTexts = pipe.load_texts(
+            data_paths,
+            feats=feats,
+            format=format,
+            max_samples=max_samples,
+            identify_lang=identify_lang,
+            **norm_params
+        )
 
     print(".......getting features.......")
 
     if feat_list is None:
         feat_list = fex.get_feature_list(myTexts, feats=feats, n=n, freqsType=freqsType)
         if k > len(feat_list):
-            print("K Limit ignored because the size of the list is lower ({} < {})".format(len(feat_list), k))
+            print(f"K Limit ignored because the size of the list is lower ({len(feat_list)} < {k})")
         else:
-            # and now, cut at around rank k
+            # Cut at around rank k
             val = feat_list[k-1][1]
             feat_list = [m for m in feat_list if m[1] >= val]
 
-
     print(".......getting counts.......")
 
-    my_feats = [m[0] for m in feat_list] # keeping only the features without the frequencies
+    my_feats = [m[0] for m in feat_list]  # keeping only the features without the frequencies
     myTexts = fex.get_counts(myTexts, feat_list=my_feats, feats=feats, n=n, freqsType=freqsType)
+    
     if embedding:
         print(".......embedding counts.......")
         myTexts, my_feats = embed.get_embedded_counts(myTexts, my_feats, model, topn=neighbouring_size)
@@ -96,8 +145,8 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, freqsTyp
     unique_texts = [text["name"] for text in myTexts]
 
     if culling > 0:
-        print(".......Culling at " + str(culling) + "%.......")
-        # Counting in how many sample the feat appear
+        print(f".......Culling at {culling}%.......")
+        # Counting in how many samples the feat appears
         feats_doc_freq = fex.get_doc_frequency(myTexts)
         # Now selecting
         my_feats = [f for f in my_feats if (feats_doc_freq[f] / len(myTexts) * 100) > culling]
@@ -112,25 +161,33 @@ def load_corpus(data_paths, feat_list=None, feats="words", n=1, k=5000, freqsTyp
         loc[text["name"]] = local_freqs
 
     # Saving metadata for later
-    metadata = pandas.DataFrame(columns=['author', 'lang'], index=unique_texts, data=
-    [[t["aut"], t["lang"]] for t in myTexts])
+    metadata = pandas.DataFrame(
+        columns=['author', 'lang'],
+        index=unique_texts,
+        data=[[t["aut"], t["lang"]] for t in myTexts]
+    )
 
     # Free some space before doing this...
     del myTexts
 
-    # frequence based selection
-    # WOW, pandas is a great tool, almost as good as using R
-    # But confusing as well: boolean selection works on rows by default
-    # were elsewhere it works on columns
-    # take only rows where the number of values above 0 is superior to two
-    # (i.e. appears in at least two texts)
-    #feats = feats.loc[:, feats[feats > 0].count() > 2]
-
-    feats = pandas.DataFrame.from_dict(loc, columns=list(my_feats), orient="index")
+    feats_df = pandas.DataFrame.from_dict(loc, columns=list(my_feats), orient="index")
 
     # Free some more
     del loc
 
-    corpus = pandas.concat([metadata, feats], axis=1)
+    corpus = pandas.concat([metadata, feats_df], axis=1)
 
     return corpus, feat_list
+
+
+def load_corpus_with_config(config: Config, feat_list: Optional[List] = None) -> Tuple[pandas.DataFrame, List]:
+    """
+    Load a corpus using a Config object.
+    
+    This is a convenience wrapper around load_corpus that uses the Config directly.
+    
+    :param config: Configuration object
+    :param feat_list: Optional pre-existing feature list
+    :return: a pandas dataFrame and a global list of features
+    """
+    return load_corpus(config=config, feat_list=feat_list)
