@@ -1,5 +1,5 @@
-from superstyl.load import load_corpus, load_corpus_with_config
-from superstyl.svm import train_svm, train_svm_with_config, plot_rolling, plot_coefficients
+from superstyl.load import load_corpus
+from superstyl.svm import train_svm, plot_rolling, plot_coefficients
 from superstyl.config import (
     Config,
     CorpusConfig,

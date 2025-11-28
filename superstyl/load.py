@@ -12,16 +12,23 @@ from superstyl.config import Config, FeatureConfig, NormalizationConfig
 def _load_single_feature(
     myTexts: List[dict],
     feat_config: FeatureConfig,
+    norm_config: NormalizationConfig,
+    use_provided_feat_list: bool = False,
 ) -> Tuple[pandas.DataFrame, List]:
     """
     Extract features for a single FeatureConfig.
     Internal function used by load_corpus.
+    
+    Args:
+        use_provided_feat_list: If True and feat_config.feat_list is provided,
+            return that list instead of the computed one. Used for test sets
+            to ensure same features as training set.
     """
     feats = feat_config.type
     n = feat_config.n
     k = feat_config.k
     freqsType = feat_config.freq_type
-    feat_list = feat_config.feat_list
+    provided_feat_list = feat_config.feat_list
     embedding = feat_config.embedding
     neighbouring_size = feat_config.neighbouring_size
     culling = feat_config.culling
@@ -35,13 +42,15 @@ def _load_single_feature(
 
     print(f".......getting features ({feats}, n={n}).......")
 
-    if feat_list is None:
+    if provided_feat_list is None:
         feat_list = fex.get_feature_list(myTexts, feats=feats, n=n, freqsType=freqsType)
         if k > len(feat_list):
             print(f"K limit ignored ({len(feat_list)} < {k})")
         else:
             val = feat_list[k-1][1]
             feat_list = [m for m in feat_list if m[1] >= val]
+    else:
+        feat_list = provided_feat_list
 
     print(".......getting counts.......")
 
@@ -70,6 +79,10 @@ def _load_single_feature(
 
     feats_df = pandas.DataFrame.from_dict(loc, columns=list(my_feats), orient="index")
 
+    # For test sets: return the provided feat_list unchanged
+    if use_provided_feat_list and provided_feat_list is not None:
+        return feats_df, provided_feat_list
+    
     return feats_df, feat_list
 
 
@@ -94,13 +107,18 @@ def load_corpus(
     embedding: Union[str, bool] = False,
     neighbouring_size: int = 10,
     culling: float = 0,
-    config: Optional[Config] = None
+    config: Optional[Config] = None,
+    use_provided_feat_list: bool = False,
 ) -> Tuple[pandas.DataFrame, Union[List, List[List]]]:
     """
     Load a corpus and extract features.
     
     Can be called with individual parameters (single feature) or with a Config object
     (single or multiple features).
+    
+    Args:
+        use_provided_feat_list: If True and a feat_list is provided (via param or Config),
+            return that list unchanged. Use for test sets to match training features.
     
     Returns:
         - If single feature: (DataFrame, feat_list)
@@ -188,7 +206,9 @@ def load_corpus(
     # Single feature case
     if len(config.features) == 1:
         feat_config = config.features[0]
-        feats_df, feat_list = _load_single_feature(myTexts, feat_config, config.normalization)
+        feats_df, feat_list = _load_single_feature(
+            myTexts, feat_config, config.normalization, use_provided_feat_list
+        )
         corpus = pandas.concat([metadata, feats_df], axis=1)
         return corpus, feat_list
 
@@ -202,7 +222,9 @@ def load_corpus(
         prefix = feat_config.name or f"f{i+1}"
         print(f".......processing {prefix}.......")
         
-        feats_df, feat_list = _load_single_feature(myTexts, feat_config, config.normalization)
+        feats_df, feat_list = _load_single_feature(
+            myTexts, feat_config, config.normalization, use_provided_feat_list
+        )
         
         # Prefix columns to avoid collisions
         feats_df = feats_df.rename(columns={col: f"{prefix}_{col}" for col in feats_df.columns})

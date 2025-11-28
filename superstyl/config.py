@@ -194,6 +194,8 @@ class Config(BaseConfig):
         """
         Validate configuration consistency.
         """
+        if self.features == []:
+            raise ValueError("No features for calculation.")
         for feat_config in self.features:
             tei_only = ["lemma", "pos", "met_line", "met_syll"]
             if feat_config.type in tei_only and self.corpus.format != "tei":

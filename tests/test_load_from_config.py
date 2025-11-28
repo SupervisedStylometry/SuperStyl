@@ -6,8 +6,8 @@ import pandas as pd
 import sys
 import glob
 
-from superstyl.load_from_config import load_corpus_from_config
-
+from superstyl.load_from_config import load_corpus
+from superstyl.config import Config
 
 # Add parent directory to sys.path
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -25,8 +25,11 @@ class TestConfigLoader(unittest.TestCase):
         
         # Create a test configuration
         self.config = {
-            "paths": self.test_paths,
-            "format": "txt",
+            "corpus": {
+                "paths": self.test_paths,
+                "format": "txt",
+                "identify_lang": False
+            },
             "sampling": {
                 "enabled": False
             },
@@ -48,8 +51,10 @@ class TestConfigLoader(unittest.TestCase):
         
         # Create a single feature configuration for testing
         self.single_config = {
-            "paths": self.test_paths,
-            "format": "txt",
+            "corpus": {
+                "paths": self.test_paths,
+                "format": "txt",
+            },
             "features": [
                 {
                     "name": "words",
@@ -77,8 +82,9 @@ class TestConfigLoader(unittest.TestCase):
         # GIVEN: Config file with multiple feature specifications
         
         # WHEN: Loading corpus from config
-        corpus, features = load_corpus_from_config(
-            config_path=self.json_config_path
+        json_config = Config.from_json(self.json_config_path)
+        corpus, features = load_corpus(
+            config_path=json_config
         )
         
         # THEN: Corpus and features are loaded correctly
@@ -97,8 +103,9 @@ class TestConfigLoader(unittest.TestCase):
         # GIVEN: Config file with a single feature specification
         
         # WHEN: Loading corpus from config
-        corpus, features = load_corpus_from_config(
-            config_path=self.single_config_path
+        config = Config.from_json(self.singleconfig_path)
+        corpus, features = load_corpus(
+            config_path=config
         )
         
         # THEN: Corpus and features are loaded correctly without prefix
@@ -122,8 +129,9 @@ class TestConfigLoader(unittest.TestCase):
             json.dump(sampling_config, f)
         
         # WHEN: Loading corpus from config with sampling
-        corpus, features = load_corpus_from_config(
-            config_path=sampling_config_path
+        config = Config.from_json(sampling_config_path)
+        corpus, features = load_corpus(
+            config_path=config
         )
         
         # THEN: Samples are created and file names contain segment info
@@ -148,8 +156,9 @@ class TestConfigLoader(unittest.TestCase):
             json.dump(feature_list_config, f)
         
         # WHEN: Loading corpus from config with feature list
-        corpus, features = load_corpus_from_config(
-            config_path=config_path
+        config = Config.from_json(config_path)
+        corpus, features = load_corpus(
+            config_path=config
         )
         
         # THEN: Only features from the predefined list are used
@@ -170,7 +179,7 @@ class TestConfigLoader(unittest.TestCase):
         
         # WHEN/THEN: Loading corpus from invalid config raises ValueError
         with self.assertRaises(ValueError):
-            load_corpus_from_config(invalid_path)
+            Config.from_json(invalid_path)
     
     def test_feature_list_path_not_found(self):
         """Test handling of a non-existent feature list path"""
@@ -186,7 +195,8 @@ class TestConfigLoader(unittest.TestCase):
         
         # Should raise FileNotFoundError when trying to load non-existent feature list
         with self.assertRaises(FileNotFoundError):
-            load_corpus_from_config(config_path)
+            config = Config.from_json(config_path)
+            load_corpus(config)
 
     def test_missing_features_in_config(self):
         """Test handling of config with no features specified"""
@@ -202,14 +212,17 @@ class TestConfigLoader(unittest.TestCase):
         
         # Should raise ValueError when no features are specified
         with self.assertRaises(ValueError):
-            load_corpus_from_config(config_path)
+            config = Config.from_json(config_path)
+            load_corpus(config)
 
     def test_empty_features_list(self):
         """Test handling of config with empty features list"""
         # Create config with empty features list
         empty_features_config = {
-            "paths": self.test_paths,
-            "format": "txt",
+            "corpus": {
+                "paths": self.test_paths,
+                "format": "txt",
+            },
             "features": []
         }
         
@@ -219,13 +232,16 @@ class TestConfigLoader(unittest.TestCase):
         
         # Should raise ValueError when features list is empty
         with self.assertRaises(ValueError):
-            load_corpus_from_config(config_path)
+            config = Config.from_json(config_path)
+            load_corpus(config)
 
     def test_missing_paths_in_config(self):
         """Test handling of config with missing paths"""
         # Create config without paths key
         no_paths_config = {
-            "format": "txt",
+            "corpus": {
+                "format": "txt",
+            },
             "features": [
                 {
                     "type": "words",
@@ -241,7 +257,8 @@ class TestConfigLoader(unittest.TestCase):
         
         # Should raise ValueError when no paths are specified
         with self.assertRaises(ValueError):
-            load_corpus_from_config(config_path)
+            config = Config.from_json(config_path)
+            load_corpus(config)
 
     def test_string_path_in_config(self):
         """Test handling of config with a string path instead of list"""
@@ -254,7 +271,8 @@ class TestConfigLoader(unittest.TestCase):
             json.dump(string_path_config, f)
         
         # Should handle string path
-        corpus, features = load_corpus_from_config(config_path)
+        config = Config.from_json(config_path)
+        corpus, features = load_corpus(config)
         self.assertIsInstance(corpus, pd.DataFrame)
         self.assertGreater(len(features), 0)
 
@@ -274,7 +292,8 @@ class TestConfigLoader(unittest.TestCase):
             json.dump(txt_list_config, f)
         
         # Should load corpus with feature list from txt
-        corpus, features = load_corpus_from_config(config_path)
+        config = Config.from_json(config_path)
+        corpus, features = load_corpus(config)
         self.assertIsInstance(corpus, pd.DataFrame)
         self.assertGreater(len(features), 0)
 
@@ -282,12 +301,16 @@ class TestConfigLoader(unittest.TestCase):
         """Test with a config that includes all optional parameters"""
         # Create config with all optional parameters
         full_config = {
-            "paths": self.test_paths,
-            "format": "txt",
-            "keep_punct": True,
-            "keep_sym": True,
-            "no_ascii": True,
-            "identify_lang": True,
+            "corpus": {
+                "paths": self.test_paths,
+                "format": "txt",
+                "identify_lang": True,
+            },
+            "normalisation": {
+                "keep_punct": True,
+                "keep_sym": True,
+                "no_ascii": True,
+            },
             "sampling": {
                 "enabled": True,
                 "units": "words",
@@ -319,7 +342,8 @@ class TestConfigLoader(unittest.TestCase):
             json.dump(full_config, f)
         
         # Should load corpus with all parameters set
-        corpus, features = load_corpus_from_config(config_path)
+        config = Config.from_json(config_path)
+        corpus, features = load_corpus(config)
         self.assertIsInstance(corpus, pd.DataFrame)
         self.assertGreater(len(features), 0)
 
@@ -340,8 +364,10 @@ class TestConfigLoader(unittest.TestCase):
         
         # Test the JSON feature list loading
         json_config = {
-            "paths": self.test_paths,
-            "format": "txt",
+            "corpus": {
+                "paths": self.test_paths,
+                "format": "txt",
+            },
             "features": [
                 {
                     "type": "words",
@@ -359,12 +385,15 @@ class TestConfigLoader(unittest.TestCase):
         print(f"\nTesting JSON feature list: {json_feature_path}")
         print(f"JSON feature list content: {json_feature_list}")
         
-        corpus_json, features_json = load_corpus_from_config(json_config_path)
+        json_config = Config.from_json(json_config_path)
+        corpus_json, features_json = load_corpus(json_config)
         
         # Now test the TXT feature list loading
         txt_config = {
-            "paths": self.test_paths,
-            "format": "txt",
+            "corpus": {
+                "paths": self.test_paths,
+                "format": "txt",
+            },
             "features": [
                 {
                     "type": "words",
@@ -383,7 +412,8 @@ class TestConfigLoader(unittest.TestCase):
         with open(txt_feature_path, 'r') as f:
             print(f"TXT feature list content: {f.read()}")
         
-        corpus_txt, features_txt = load_corpus_from_config(txt_config_path)
+        txt_config = Config.from_json(txt_config_path)
+        corpus_txt, features_txt = load_corpus(txt_config)
         
         # Basic verification
         self.assertIsInstance(corpus_json, pd.DataFrame)
@@ -401,7 +431,8 @@ class TestConfigLoader(unittest.TestCase):
         
         # Should raise ValueError for invalid paths type
         with self.assertRaises(ValueError) as context:
-            load_corpus_from_config(config_path)
+            config = Config.from_json(config_path)
+            load_corpus(config)
         
         # Verify the error message
         self.assertIn("Paths in config must be either a list or a glob pattern string", str(context.exception))

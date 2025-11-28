@@ -1,7 +1,8 @@
 import unittest
 import superstyl.load
 import superstyl.preproc.features_extract
-from superstyl.load_from_config import load_corpus_from_config
+from superstyl.load import load_corpus
+from superstyl.config import Config
 import os
 import tempfile
 import json
@@ -32,8 +33,9 @@ class ErrorHandlingTests(unittest.TestCase):
         
         # WHEN/THEN: Should raise ValueError
         with self.assertRaises(ValueError) as context:
+            config = Config.from_json(self.test_paths)
             superstyl.load.load_corpus(
-                self.test_paths,
+                config,
                 feats="lemma",
                 format="txt"
             )
@@ -47,8 +49,9 @@ class ErrorHandlingTests(unittest.TestCase):
         
         # WHEN/THEN: Should raise ValueError
         with self.assertRaises(ValueError) as context:
+            config = Config.from_json(self.test_paths)
             superstyl.load.load_corpus(
-                self.test_paths,
+                config,
                 feats="pos",
                 format="txt"
             )
@@ -62,8 +65,9 @@ class ErrorHandlingTests(unittest.TestCase):
         
         # WHEN/THEN: Should raise ValueError
         with self.assertRaises(ValueError) as context:
+            config = Config.from_json(self.test_paths)
             superstyl.load.load_corpus(
-                self.test_paths,
+                config,
                 feats="met_line",
                 format="txt"
             )
@@ -77,8 +81,9 @@ class ErrorHandlingTests(unittest.TestCase):
         
         # WHEN/THEN: Should raise ValueError
         with self.assertRaises(ValueError) as context:
+            config = Config.from_json(self.test_paths)
             superstyl.load.load_corpus(
-                self.test_paths,
+                config,
                 feats="met_syll",
                 format="txt"
             )
@@ -97,8 +102,9 @@ class ErrorHandlingTests(unittest.TestCase):
         
         # WHEN/THEN: Should raise ValueError
         with self.assertRaises(ValueError) as context:
+            config = Config.from_json([tei_path])
             superstyl.load.load_corpus(
-                [tei_path],
+                config,
                 feats="met_line",
                 format="tei",
                 units="words"  # Wrong unit type
@@ -118,8 +124,9 @@ class ErrorHandlingTests(unittest.TestCase):
         
         # WHEN/THEN: Should raise ValueError
         with self.assertRaises(ValueError) as context:
+            config = Config.from_json([tei_path])
             superstyl.load.load_corpus(
-                [tei_path],
+                config,
                 feats="met_syll",
                 format="tei",
                 units="words"  # Wrong unit type
@@ -265,7 +272,8 @@ class ErrorHandlingTests(unittest.TestCase):
             json.dump(config, f)
         
         # WHEN: Loading corpus from config
-        corpus, features = load_corpus_from_config(config_path)
+        config = Config.from_json(config_path)
+        corpus, features = load_corpus(config)
         
         # THEN: Should load successfully with JSON feature list
         self.assertIsNotNone(corpus)
@@ -306,7 +314,8 @@ class ErrorHandlingTests(unittest.TestCase):
             json.dump(config, f)
         
         # WHEN: Loading corpus from config
-        corpus, features = load_corpus_from_config(config_path, is_test=True)
+        config = Config.from_json(config_path)
+        corpus, features = load_corpus(config, use_provided_feat_list=True)
         
         # THEN: Should use the provided feature list
         self.assertIsNotNone(corpus)
