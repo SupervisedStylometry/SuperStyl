@@ -4,9 +4,73 @@ from superstyl.preproc.text_count import count_process
 import superstyl.preproc.embedding as embed
 import tqdm
 import pandas
-
 from typing import Optional, List, Tuple, Union
-from superstyl.config import Config
+
+from superstyl.config import Config, FeatureConfig, NormalizationConfig
+
+
+def _load_single_feature(
+    myTexts: List[dict],
+    feat_config: FeatureConfig,
+) -> Tuple[pandas.DataFrame, List]:
+    """
+    Extract features for a single FeatureConfig.
+    Internal function used by load_corpus.
+    """
+    feats = feat_config.type
+    n = feat_config.n
+    k = feat_config.k
+    freqsType = feat_config.freq_type
+    feat_list = feat_config.feat_list
+    embedding = feat_config.embedding
+    neighbouring_size = feat_config.neighbouring_size
+    culling = feat_config.culling
+
+    embeddedFreqs = False
+    if embedding:
+        print(".......loading embedding.......")
+        model = embed.load_embeddings(embedding)
+        embeddedFreqs = True
+        freqsType = "absolute"
+
+    print(f".......getting features ({feats}, n={n}).......")
+
+    if feat_list is None:
+        feat_list = fex.get_feature_list(myTexts, feats=feats, n=n, freqsType=freqsType)
+        if k > len(feat_list):
+            print(f"K limit ignored ({len(feat_list)} < {k})")
+        else:
+            val = feat_list[k-1][1]
+            feat_list = [m for m in feat_list if m[1] >= val]
+
+    print(".......getting counts.......")
+
+    my_feats = [m[0] for m in feat_list]
+    # Copy myTexts to avoid mutating original for multi-feature
+    texts_copy = [dict(t) for t in myTexts]
+    texts_copy = fex.get_counts(texts_copy, feat_list=my_feats, feats=feats, n=n, freqsType=freqsType)
+
+    if embedding:
+        print(".......embedding counts.......")
+        texts_copy, my_feats = embed.get_embedded_counts(texts_copy, my_feats, model, topn=neighbouring_size)
+        feat_list = [f for f in feat_list if f[0] in my_feats]
+
+    if culling > 0:
+        print(f".......Culling at {culling}%.......")
+        feats_doc_freq = fex.get_doc_frequency(texts_copy)
+        my_feats = [f for f in my_feats if (feats_doc_freq[f] / len(texts_copy) * 100) > culling]
+        feat_list = [f for f in feat_list if f[0] in my_feats]
+
+    print(".......feeding data frame.......")
+
+    loc = {}
+    for t in tqdm.tqdm(texts_copy):
+        text, local_freqs = count_process((t, my_feats), embeddedFreqs=embeddedFreqs)
+        loc[text["name"]] = local_freqs
+
+    feats_df = pandas.DataFrame.from_dict(loc, columns=list(my_feats), orient="index")
+
+    return feats_df, feat_list
 
 
 def load_corpus(
@@ -31,163 +95,119 @@ def load_corpus(
     neighbouring_size: int = 10,
     culling: float = 0,
     config: Optional[Config] = None
-) -> Tuple[pandas.DataFrame, List]:
+) -> Tuple[pandas.DataFrame, Union[List, List[List]]]:
     """
-    Main function to load a corpus from a collection of files.
+    Load a corpus and extract features.
     
-    Can be called either with individual parameters (backward compatible)
-    or with a Config object.
+    Can be called with individual parameters (single feature) or with a Config object
+    (single or multiple features).
     
-    :param data_paths: paths to the source files
-    :param feat_list: an optional list of features (as created by load_corpus), default None
-    :param feats: the type of features, one of 'words', 'chars', 'affixes, 'lemma', 'pos', 'met_line' and 'met_syll'.
-    Affixes are inspired by Sapkota et al. 2015, and include space_prefix, space_suffix, prefix, suffix, and,
-    if keep_punct, punctuation n-grams. From TEI, pos, lemma, met_line or met_syll can
-    be extracted; met_line is the prosodic (stress) annotation of a full verse; met_syll is a char n-gram of prosodic
-    annotation
-    :param n: n grams lengths (default 1)
-    :param k: How many most frequent? The function takes the rank of k (if k is smaller than the total number of features),
-    gets its frequencies, and only include features of superior or equal total frequencies.
-    :param freqsType: return relative, absolute or binarised frequencies (default: relative)
-    :param format: one of txt, xml or tei. /!\ only txt is fully implemented.
-    :param sampling: whether to sample the texts, by cutting it into slices of a given length, until the last possible
-      slice of this length, which means that often the end of the text will be eliminated (default False)
-    :param units: units of length for sampling, one of 'words', 'verses' (default: words). 'verses' is only implemented
-    for the 'tei' format
-    :param size: the size of the samples (in units)
-    :param step: step for sampling with overlap (default is step = size, which means no overlap).
-    Reduce for overlapping slices
-    :param max_samples: Maximum number of (randomly selected) samples per author/class (default is all)
-    :param samples_random: Should random sampling with replacement be performed instead of continuous sampling (default: false)
-    :param keep_punct: whether to keep punctuation and caps (default is False)
-    :param keep_sym: same as keep_punct, and numbers are kept as well (default is False). /!\ does not
-    actually keep symbols
-    :param no_ascii: disables conversion to ASCII (default is conversion)
-    :param identify_lang: if true, the language of each text will be guessed, using langdetect (default is False)
-    :param embedding: optional path to a word2vec embedding in txt format to compute frequencies among a set of
-    semantic neighbourgs (i.e., pseudo-paronyms)
-    :param neighbouring_size: size of semantic neighbouring in the embedding (as per gensim most_similar,
-    with topn=neighbouring_size)
-    :param culling percentage value for culling, meaning in what percentage of samples should a feature be present to be retained (default is 0, meaning no culling)
-    :return a pandas dataFrame of text metadata and feature frequencies; a global list of features with their frequencies
+    Returns:
+        - If single feature: (DataFrame, feat_list)
+        - If multiple features via Config: (DataFrame with prefixed columns, list of feat_lists)
     """
+    
+    # Build Config from individual parameters if not provided
+    if config is None:
+        config = Config()
+        config.corpus.paths = data_paths or []
+        config.corpus.format = format
+        config.corpus.identify_lang = identify_lang
+        config.features = [FeatureConfig(
+            type=feats,
+            n=n,
+            k=k,
+            freq_type=freqsType,
+            feat_list=feat_list,
+            embedding=embedding if embedding else None,
+            neighbouring_size=neighbouring_size,
+            culling=culling,
+        )]
+        config.sampling.enabled = sampling
+        config.sampling.units = units
+        config.sampling.size = size
+        config.sampling.step = step
+        config.sampling.max_samples = max_samples
+        config.sampling.random = samples_random
+        config.normalization.keep_punct = keep_punct
+        config.normalization.keep_sym = keep_sym
+        config.normalization.no_ascii = no_ascii
+    
+    # Use paths from config if data_paths not provided directly
+    if data_paths is None:
+        data_paths = config.corpus.paths
 
-    if feats in ('lemma', 'pos', 'met_line', 'met_syll') and format != 'tei':
-        raise ValueError(
-            f"{feats} features are only possible with adequate TEI format (@lemma, @pos, @met)"
-        )
+    # Validate
+    for feat_config in config.features:
+        if feat_config.type in ('lemma', 'pos', 'met_line', 'met_syll') and config.corpus.format != 'tei':
+            raise ValueError(f"{feat_config.type} requires TEI format.")
+        if feat_config.type in ('met_line', 'met_syll') and config.sampling.units != 'lines':
+            raise ValueError(f"{feat_config.type} requires lines units.")
 
-    if feats in ('met_line', 'met_syll') and units != 'lines':
-        raise ValueError(
-            f"{feats} features are only possible with TEI format that includes lines and @met"
-        )
-
-    embeddedFreqs = False
-    if embedding:
-        print(".......loading embedding.......")
-        model = embed.load_embeddings(embedding)
-        embeddedFreqs = True
-        freqsType = "absolute"  # absolute freqs are required for embedding
-
+    # Load texts once
     print(".......loading texts.......")
-
-    # Create normalization config for pipe functions
+    
     norm_params = {
-        "keep_punct": keep_punct,
-        "keep_sym": keep_sym,
-        "no_ascii": no_ascii
+        "keep_punct": config.normalization.keep_punct,
+        "keep_sym": config.normalization.keep_sym,
+        "no_ascii": config.normalization.no_ascii,
     }
 
-    if sampling:
+    if config.sampling.enabled:
         myTexts = pipe.docs_to_samples(
             data_paths,
-            feats=feats,
-            format=format,
-            units=units,
-            size=size,
-            step=step,
-            max_samples=max_samples,
-            samples_random=samples_random,
-            identify_lang=identify_lang,
+            feats=config.features[0].type,  # Use first feature type for loading
+            format=config.corpus.format,
+            units=config.sampling.units,
+            size=config.sampling.size,
+            step=config.sampling.step,
+            max_samples=config.sampling.max_samples,
+            samples_random=config.sampling.random,
+            identify_lang=config.corpus.identify_lang,
             **norm_params
         )
     else:
         myTexts = pipe.load_texts(
             data_paths,
-            feats=feats,
-            format=format,
-            max_samples=max_samples,
-            identify_lang=identify_lang,
+            feats=config.features[0].type,
+            format=config.corpus.format,
+            max_samples=config.sampling.max_samples,
+            identify_lang=config.corpus.identify_lang,
             **norm_params
         )
 
-    print(".......getting features.......")
-
-    if feat_list is None:
-        feat_list = fex.get_feature_list(myTexts, feats=feats, n=n, freqsType=freqsType)
-        if k > len(feat_list):
-            print(f"K Limit ignored because the size of the list is lower ({len(feat_list)} < {k})")
-        else:
-            # Cut at around rank k
-            val = feat_list[k-1][1]
-            feat_list = [m for m in feat_list if m[1] >= val]
-
-    print(".......getting counts.......")
-
-    my_feats = [m[0] for m in feat_list]  # keeping only the features without the frequencies
-    myTexts = fex.get_counts(myTexts, feat_list=my_feats, feats=feats, n=n, freqsType=freqsType)
-    
-    if embedding:
-        print(".......embedding counts.......")
-        myTexts, my_feats = embed.get_embedded_counts(myTexts, my_feats, model, topn=neighbouring_size)
-        feat_list = [f for f in feat_list if f[0] in my_feats]
-
     unique_texts = [text["name"] for text in myTexts]
-
-    if culling > 0:
-        print(f".......Culling at {culling}%.......")
-        # Counting in how many samples the feat appears
-        feats_doc_freq = fex.get_doc_frequency(myTexts)
-        # Now selecting
-        my_feats = [f for f in my_feats if (feats_doc_freq[f] / len(myTexts) * 100) > culling]
-        feat_list = [f for f in feat_list if f[0] in my_feats]
-
-    print(".......feeding data frame.......")
-
-    loc = {}
-
-    for t in tqdm.tqdm(myTexts):
-        text, local_freqs = count_process((t, my_feats), embeddedFreqs=embeddedFreqs)
-        loc[text["name"]] = local_freqs
-
-    # Saving metadata for later
+    
+    # Build metadata
     metadata = pandas.DataFrame(
         columns=['author', 'lang'],
         index=unique_texts,
         data=[[t["aut"], t["lang"]] for t in myTexts]
     )
 
-    # Free some space before doing this...
-    del myTexts
+    # Single feature case
+    if len(config.features) == 1:
+        feat_config = config.features[0]
+        feats_df, feat_list = _load_single_feature(myTexts, feat_config, config.normalization)
+        corpus = pandas.concat([metadata, feats_df], axis=1)
+        return corpus, feat_list
 
-    feats_df = pandas.DataFrame.from_dict(loc, columns=list(my_feats), orient="index")
-
-    # Free some more
-    del loc
-
-    corpus = pandas.concat([metadata, feats_df], axis=1)
-
-    return corpus, feat_list
-
-
-def load_corpus_with_config(config: Config, feat_list: Optional[List] = None) -> Tuple[pandas.DataFrame, List]:
-    """
-    Load a corpus using a Config object.
+    # Multiple features case - extract and merge
+    print(f".......extracting {len(config.features)} feature sets.......")
     
-    This is a convenience wrapper around load_corpus that uses the Config directly.
-    
-    :param config: Configuration object
-    :param feat_list: Optional pre-existing feature list
-    :return: a pandas dataFrame and a global list of features
-    """
-    return load_corpus(config=config, feat_list=feat_list)
+    all_feat_lists = []
+    merged_feats = metadata.copy()
+
+    for i, feat_config in enumerate(config.features):
+        prefix = feat_config.name or f"f{i+1}"
+        print(f".......processing {prefix}.......")
+        
+        feats_df, feat_list = _load_single_feature(myTexts, feat_config, config.normalization)
+        
+        # Prefix columns to avoid collisions
+        feats_df = feats_df.rename(columns={col: f"{prefix}_{col}" for col in feats_df.columns})
+        
+        merged_feats = pandas.concat([merged_feats, feats_df], axis=1)
+        all_feat_lists.append(feat_list)
+
+    return merged_feats, all_feat_lists
