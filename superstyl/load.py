@@ -154,6 +154,16 @@ def load_corpus(
     # Use paths from config if data_paths not provided directly
     if data_paths is None:
         data_paths = config.corpus.paths
+        
+    # Handle string paths (single file or glob pattern)
+    if isinstance(data_paths, str):
+        import glob
+        # If it's a glob pattern, expand it
+        if '*' in data_paths or '?' in data_paths:
+            data_paths = sorted(glob.glob(data_paths))
+        else:
+            # Single file path - wrap in list
+            data_paths = [data_paths]
 
     # Validate
     for feat_config in config.features:
