@@ -6,6 +6,7 @@ import superstyl.preproc.features_extract
 import superstyl.preproc.embedding
 import superstyl.preproc.select
 import superstyl.preproc.text_count
+from superstyl.config import NormalizationConfig, Config
 import os
 import glob
 
@@ -312,8 +313,9 @@ class Main(unittest.TestCase):
         # SCENARIO: from paths to txt, get myTexts object, i.e., a list of dictionaries
         #     # for each text or samples, with metadata and the text itself
         # WHEN
-        results = superstyl.preproc.pipe.load_texts(self.paths, identify_lang=False, format="txt", keep_punct=False,
-                                                    keep_sym=False, max_samples=None)
+        config = Config.from_kwargs(identify_lang=False, format="txt", keep_punct=False,
+                                    keep_sym=False, max_samples=None)
+        results = superstyl.preproc.pipe.load_texts(self.paths, config)
         # THEN
         expected = [{'name': 'Dupont_Letter1.txt', 'aut': 'Dupont', 'text': 'voici le texte', 'lang': 'NA'},
                     {'name': 'Smith_Letter1.txt', 'aut': 'Smith', 'text': 'this is the text', 'lang': 'NA'},
@@ -323,14 +325,16 @@ class Main(unittest.TestCase):
         self.assertEqual(results, expected)
 
         # WHEN
-        results = superstyl.preproc.pipe.load_texts(self.paths, identify_lang=False, format="txt", keep_punct=False,
-                                                    keep_sym=False, max_samples=1)
+        config = Config.from_kwargs(identify_lang=False, format="txt", keep_punct=False,
+                                    keep_sym=False, max_samples=1)
+        results = superstyl.preproc.pipe.load_texts(self.paths, config)
         # THEN
         self.assertEqual(len([text for text in results if text["aut"] == 'Smith']), 1)
 
         # WHEN
-        results = superstyl.preproc.pipe.load_texts(self.paths, identify_lang=False, format="txt", keep_punct=True,
-                                                     keep_sym=False, max_samples=None)
+        config = Config.from_kwargs(identify_lang=False, format="txt", keep_punct=True,
+                                    keep_sym=False, max_samples=None)
+        results = superstyl.preproc.pipe.load_texts(self.paths, config)
         # THEN
         expected = [{'name': 'Dupont_Letter1.txt', 'aut': 'Dupont', 'text': 'Voici le texte!', 'lang': 'NA'},
                     {'name': 'Smith_Letter1.txt', 'aut': 'Smith', 'text': 'This is the text!', 'lang': 'NA'},
@@ -339,8 +343,9 @@ class Main(unittest.TestCase):
         self.assertEqual(results, expected)
 
         # WHEN
-        results = superstyl.preproc.pipe.load_texts(self.paths, identify_lang=False, format="txt",
-                                                     keep_sym=True, max_samples=None)
+        config = Config.from_kwargs(identify_lang=False, format="txt",
+                                    keep_sym=True, max_samples=None)
+        results = superstyl.preproc.pipe.load_texts(self.paths, config)
         # THEN
         expected = [{'name': 'Dupont_Letter1.txt', 'aut': 'Dupont', 'text': 'Voici le texte!', 'lang': 'NA'},
                    {'name': 'Smith_Letter1.txt', 'aut': 'Smith', 'text': 'This is the text!', 'lang': 'NA'},
@@ -349,8 +354,9 @@ class Main(unittest.TestCase):
         self.assertEqual(results, expected)
 
         # WHEN
-        results = superstyl.preproc.pipe.load_texts(self.paths, identify_lang=True, format="txt", keep_punct=True,
-                                                     keep_sym=False, max_samples=None)
+        config = Config.from_kwargs(identify_lang=True, format="txt", keep_punct=True,
+                                    keep_sym=False, max_samples=None)
+        results = superstyl.preproc.pipe.load_texts(self.paths, config)
         # THEN
         # Just testing that a lang is predicted, not if it is ok or not
         self.assertEqual(len([text for text in results if text["lang"] != 'NA']), 3)
@@ -359,8 +365,9 @@ class Main(unittest.TestCase):
 
     def test_docs_to_samples(self):
         # WHEN
-        results = superstyl.preproc.pipe.docs_to_samples(self.paths, identify_lang=False, size=2, step=None, units="words",
-                                                format="txt", keep_punct=False, keep_sym=False, max_samples=None)
+        config = Config.from_kwargs(identify_lang=False, size=2, step=None, units="words",
+                                    format="txt", keep_punct=False, keep_sym=False, max_samples=None)
+        results = superstyl.preproc.pipe.docs_to_samples(self.paths, config)
         # THEN
         expected = [{'name': 'Dupont_Letter1.txt_0-2', 'aut': 'Dupont', 'text': 'voici le', 'lang': 'NA'},
                     {'name': 'Smith_Letter1.txt_0-2', 'aut': 'Smith', 'text': 'this is', 'lang': 'NA'},
@@ -370,10 +377,11 @@ class Main(unittest.TestCase):
         self.assertEqual(results, expected)
 
         # WHEN
-        results = superstyl.preproc.pipe.docs_to_samples(sorted(self.paths), identify_lang=False, size=2, step=1,
-                                                          units="words", format="txt", keep_punct=True,
-                                                          keep_sym=True,
-                                                          max_samples=None)
+        config = Config.from_kwargs(identify_lang=False, size=2, step=1,
+                                    units="words", format="txt", keep_punct=True,
+                                    keep_sym=True,
+                                    max_samples=None)
+        results = superstyl.preproc.pipe.docs_to_samples(sorted(self.paths), config)
 
         # THEN
         expected = [{'name': 'Dupont_Letter1.txt_0-2', 'aut': 'Dupont', 'text': 'Voici le', 'lang': 'NA'},
@@ -396,37 +404,42 @@ class Main(unittest.TestCase):
         self.assertEqual(results, expected)
 
         # WHEN
-        results = superstyl.preproc.pipe.docs_to_samples(self.paths, identify_lang=True, size=2, step=None,
-                                                          units="words", format="txt", keep_punct=False,
-                                                          keep_sym=False,
-                                                          max_samples=None)
+        config = Config.from_kwargs(identify_lang=True, size=2, step=None,
+                                    units="words", format="txt", keep_punct=False,
+                                    keep_sym=False,
+                                    max_samples=None)
+        results = superstyl.preproc.pipe.docs_to_samples(self.paths, config)
         # THEN
         self.assertEqual(len([text for text in results if text["lang"] != 'NA']), 5)
 
         # WHEN
-        results = superstyl.preproc.pipe.docs_to_samples(self.paths, identify_lang=False, size=2, step=None,
-                                                         units="words", format="txt", keep_punct=False,
-                                                         keep_sym=False,
-                                                         max_samples=1)
+        config = Config.from_kwargs(identify_lang=False, size=2, step=None,
+                                    units="words", format="txt", keep_punct=False,
+                                    keep_sym=False,
+                                    max_samples=1)
+        results = superstyl.preproc.pipe.docs_to_samples(self.paths, config)
         # THEN
         self.assertEqual(len([text for text in results if text["aut"] == 'Smith']), 1)
 
         # TODO: this is just minimal testing for random sampling
         # WHEN
-        results = superstyl.preproc.pipe.docs_to_samples(self.paths, identify_lang=False, size=2, step=None,
-                                                         units="words",
-                                                         format="txt", keep_punct=False, keep_sym=False,
-                                                         max_samples=5, samples_random=True)
+        config = Config.from_kwargs(identify_lang=False, size=2, step=None,
+                                    units="words",
+                                    format="txt", keep_punct=False, keep_sym=False,
+                                    max_samples=5, samples_random=True)
+        results = superstyl.preproc.pipe.docs_to_samples(self.paths, config)
         # THEN
         self.assertEqual(len([text for text in results if text["aut"] == 'Smith']), 5)
 
         # and now tests that error are raised when parameters combinations are not consistent
         # WHEN/THEN
-        self.assertRaises(ValueError, superstyl.preproc.pipe.docs_to_samples, self.paths, size=2, step=1, units="words",
-                                                         format="txt", max_samples=5, samples_random=True)
-        self.assertRaises(ValueError, superstyl.preproc.pipe.docs_to_samples, self.paths, size=2, units="words",
-                                                                             format="txt", max_samples=None,
-                                                                             samples_random=True)
+        self.assertRaises(ValueError, superstyl.preproc.pipe.docs_to_samples, self.paths, 
+                          Config.from_kwargs(size=2, step=1, units="words",
+                                            format="txt", max_samples=5, samples_random=True))
+        self.assertRaises(ValueError, superstyl.preproc.pipe.docs_to_samples, self.paths, 
+                          Config.from_kwargs(size=2, units="words",
+                                            format="txt", max_samples=None,
+                                            samples_random=True))
 
     # TODO: test other loading formats with sampling, that are not txt (and decide on their implementation)
 
@@ -564,27 +577,32 @@ class DataLoading(unittest.TestCase):
         # SCENARIO
         # GIVEN
         text = " Hello,  Mr. 𓀁, how are §§ you; doing? ſõ ❡"
+        norm_conf = NormalizationConfig(keep_punct = False, keep_sym = False, no_ascii = False)
         # WHEN
-        results = superstyl.preproc.pipe.normalise(text)
+        results = superstyl.preproc.pipe.normalise(text, norm_conf)
         # THEN
         expected_default = "hello mr how are you doing s o"
         self.assertEqual(results, expected_default)
         # WHEN
-        results = superstyl.preproc.pipe.normalise(text, no_ascii=True)
+        norm_conf = NormalizationConfig(keep_punct = False, keep_sym = False, no_ascii = True)
+        results = superstyl.preproc.pipe.normalise(text, norm_conf)
         # THEN
         expected_default = "hello mr 𓀁 how are you doing ſ õ"
         self.assertEqual(results, expected_default)
         # WHEN
-        results = superstyl.preproc.pipe.normalise(text, keep_punct=True)
+        norm_conf = NormalizationConfig(keep_punct = True, keep_sym = False, no_ascii = False)
+        results = superstyl.preproc.pipe.normalise(text, norm_conf)
         # THEN
         expected_keeppunct = "Hello, Mr. , how are SSSS you; doing? s o"
         # WHEN
-        results = superstyl.preproc.pipe.normalise(text, keep_punct=True, no_ascii=True)
+        norm_conf = NormalizationConfig(keep_punct = True, keep_sym = False, no_ascii = True)
+        results = superstyl.preproc.pipe.normalise(text, norm_conf)
         # THEN
         expected_keeppunct = "Hello, Mr. 𓀁, how are §§ you; doing? ſ õ"
         self.assertEqual(results, expected_keeppunct)
         # WHEN
-        results = superstyl.preproc.pipe.normalise(text, keep_sym=True)
+        norm_conf = NormalizationConfig(keep_punct = False, keep_sym = True, no_ascii = False)
+        results = superstyl.preproc.pipe.normalise(text, norm_conf)
         # THEN
         expected_keepsym = "Hello, Mr. 𓀁, how are §§ you; doing? ſ\uf217õ ❡"
         self.assertEqual(results, expected_keepsym)
@@ -593,7 +611,8 @@ class DataLoading(unittest.TestCase):
         # GIVEN
         text = 'Coucou 😅'
         # WHEN
-        results = superstyl.preproc.pipe.normalise(text, keep_sym=True)
+        norm_conf = NormalizationConfig(keep_punct = False, keep_sym = True, no_ascii = False)
+        results = superstyl.preproc.pipe.normalise(text, norm_conf)
         # THEN
         expected_keepsym = 'Coucou 😅'
         self.assertEqual(results, expected_keepsym)
@@ -601,16 +620,18 @@ class DataLoading(unittest.TestCase):
         # gives: 'Coucou 😵 💫'
         # because of the way NFC normalisation is handled probably
 
-         # Test for Armenian
+        # Test for Armenian
         # GIVEN
         text = " քան զսակաւս ։ Ահա նշանագրեցի"
         # WHEN
-        results = superstyl.preproc.pipe.normalise(text, no_ascii=True)
+        norm_conf = NormalizationConfig(keep_punct = False, keep_sym = False, no_ascii = True)
+        results = superstyl.preproc.pipe.normalise(text, norm_conf)
         # THEN
         expected_default = "քան զսակաւս ահա նշանագրեցի"
         self.assertEqual(results, expected_default)
         # WHEN
-        results = superstyl.preproc.pipe.normalise(text, keep_punct=True, no_ascii=True)
+        norm_conf = NormalizationConfig(keep_punct = True, keep_sym = False, no_ascii = True)
+        results = superstyl.preproc.pipe.normalise(text, norm_conf)
         # THEN
         expected_keeppunct = "քան զսակաւս ։ Ահա նշանագրեցի"
         self.assertEqual(results, expected_keeppunct)

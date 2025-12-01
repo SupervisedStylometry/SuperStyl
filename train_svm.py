@@ -102,22 +102,7 @@ if __name__ == "__main__":
     if args.config:
         config = Config.from_json(args.config)
         # Override with CLI arguments if provided
-        if args.cross_validate:
-            config.svm.cross_validate = args.cross_validate
-        if args.k:
-            config.svm.k = args.k
-        if args.dim_reduc:
-            config.svm.dim_reduc = args.dim_reduc
-        if args.balance:
-            config.svm.balance = args.balance
-        if args.class_weights:
-            config.svm.class_weights = True
-        if args.kernel != "LinearSVC":
-            config.svm.kernel = args.kernel
-        if args.final:
-            config.svm.final_pred = True
-        if args.get_coefs:
-            config.svm.get_coefs = True
+
     else:
         config = Config.from_kwargs(
             cross_validate=args.cross_validate,

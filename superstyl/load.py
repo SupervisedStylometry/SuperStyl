@@ -158,34 +158,16 @@ def load_corpus(
 
     # Load texts once
     print(".......loading texts.......")
-    
-    norm_params = {
-        "keep_punct": config.normalization.keep_punct,
-        "keep_sym": config.normalization.keep_sym,
-        "no_ascii": config.normalization.no_ascii,
-    }
 
     if config.sampling.enabled:
         myTexts = pipe.docs_to_samples(
             data_paths,
-            feats=config.features[0].type,  # Use first feature type for loading
-            format=config.corpus.format,
-            units=config.sampling.units,
-            size=config.sampling.size,
-            step=config.sampling.step,
-            max_samples=config.sampling.max_samples,
-            samples_random=config.sampling.random,
-            identify_lang=config.corpus.identify_lang,
-            **norm_params
+            config=config
         )
     else:
         myTexts = pipe.load_texts(
             data_paths,
-            feats=config.features[0].type,
-            format=config.corpus.format,
-            max_samples=config.sampling.max_samples,
-            identify_lang=config.corpus.identify_lang,
-            **norm_params
+            config=config
         )
 
     unique_texts = [text["name"] for text in myTexts]
