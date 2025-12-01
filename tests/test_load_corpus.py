@@ -19,7 +19,7 @@ class Main(unittest.TestCase):
 
     def test_load_corpus(self):
         # WHEN
-        corpus, feats = superstyl.load.load_corpus(self.paths)
+        corpus, feats = superstyl.load.load_corpus(data_paths=self.paths)
         # THEN
         expected_feats = [('this', 2/12), ('is', 2/12), ('the', 2/12), ('text', 2/12), ('voici', 1/12),
                     ('le', 1/12), ('texte', 1/12), ('also', 1/12)]
@@ -37,7 +37,7 @@ class Main(unittest.TestCase):
         self.assertEqual(corpus.to_dict(), expected_corpus)
 
         # WHEN
-        corpus, feats = superstyl.load.load_corpus(self.paths, culling=50)
+        corpus, feats = superstyl.load.load_corpus(data_paths=self.paths, culling=50)
         # THEN
         expected_feats = [('this', 2 / 12), ('is', 2 / 12), ('the', 2 / 12), ('text', 2 / 12)]
         expected_corpus = {
@@ -51,7 +51,7 @@ class Main(unittest.TestCase):
         self.assertEqual(corpus.to_dict(), expected_corpus)
 
         # WHEN
-        corpus, feats = superstyl.load.load_corpus(self.paths, feat_list=[('the', 0)], feats="chars", n=3, k=5000, freqsType="absolute",
+        corpus, feats = superstyl.load.load_corpus(data_paths=self.paths, feat_list=[('the', 0)], feats="chars", n=3, k=5000, freqsType="absolute",
                                                    format="txt", keep_punct=False, keep_sym=False, identify_lang=True)
 
         # THEN
@@ -65,7 +65,7 @@ class Main(unittest.TestCase):
         self.assertEqual(corpus.to_dict(), expected_corpus)
 
         # WHEN
-        corpus, feats = superstyl.load.load_corpus(self.paths, feats="words", n=1,
+        corpus, feats = superstyl.load.load_corpus(data_paths=self.paths, feats="words", n=1,
                                                    sampling=True, units="words", size=2, step=None,
                                                    keep_punct=True, keep_sym=False)
 
@@ -127,13 +127,13 @@ class Main(unittest.TestCase):
         self.assertEqual(corpus.to_dict(), expected_corpus)
 
         # WHEN
-        corpus, feats = superstyl.load.load_corpus(self.paths, k=4)
+        corpus, feats = superstyl.load.load_corpus(data_paths=self.paths, k=4)
         # THEN
         expected_feats = [('this', 2 / 12), ('is', 2 / 12), ('the', 2 / 12), ('text', 2 / 12)]
         self.assertEqual(feats, expected_feats)
 
         # WHEN
-        corpus, feats = superstyl.load.load_corpus(self.paths, feats="chars", n=3, format="txt", keep_punct=True,
+        corpus, feats = superstyl.load.load_corpus(data_paths=self.paths, feats="chars", n=3, format="txt", keep_punct=True,
                                                    freqsType="absolute")
 
         # THEN
@@ -186,7 +186,7 @@ class Main(unittest.TestCase):
         self.assertEqual(corpus.to_dict(), expected_corpus)
 
         # WHEN
-        corpus, feats = superstyl.load.load_corpus(self.paths, feats="chars", n=3, format="txt", keep_punct=True,
+        corpus, feats = superstyl.load.load_corpus(data_paths=self.paths, feats="chars", n=3, format="txt", keep_punct=True,
                                                    freqsType="binary")
 
         # THEN
@@ -242,7 +242,7 @@ class Main(unittest.TestCase):
         self.assertEqual(corpus.to_dict(), expected_corpus)
 
         # WHEN
-        corpus, feats = superstyl.load.load_corpus(self.paths, feats="affixes", n=3, format="txt", keep_punct=True)
+        corpus, feats = superstyl.load.load_corpus(data_paths=self.paths, feats="affixes", n=3, format="txt", keep_punct=True)
 
         # THEN
         expected_feats = [('_te', 3/51), ('tex', 3/51), ('ext', 2/51), ('is_', 3/51), ('Thi', 2/51), ('his', 2/51),
@@ -290,7 +290,7 @@ class Main(unittest.TestCase):
 
         # Now, test embedding
         # WHEN
-        corpus, feats = superstyl.load.load_corpus(self.paths, feats="words", n=1, format="txt",
+        corpus, feats = superstyl.load.load_corpus(data_paths=self.paths, feats="words", n=1, format="txt",
                                                   embedding=THIS_DIR+"/embed/test_embedding.wv.txt",
                                                   neighbouring_size=1)
         # THEN

@@ -87,8 +87,8 @@ class ErrorHandlingTests(unittest.TestCase):
         self.assertIn("met_syll", str(context.exception))
         self.assertIn("tei", str(context.exception).lower())
     
-    def test_load_corpus_met_line_requires_lines_unit(self):
-        # SCENARIO: met_line requires units='lines'
+    def test_load_corpus_met_line_requires_verses_unit(self):
+        # SCENARIO: met_line requires units='verses'
         # GIVEN: Attempting to use met_line with units='words'
         
         # Create a dummy TEI file for this test
@@ -107,10 +107,10 @@ class ErrorHandlingTests(unittest.TestCase):
             )
         
         self.assertIn("met_line", str(context.exception))
-        self.assertIn("lines", str(context.exception))
+        self.assertIn("verses", str(context.exception))
     
-    def test_load_corpus_met_syll_requires_lines_unit(self):
-        # SCENARIO: met_syll requires units='lines'
+    def test_load_corpus_met_syll_requires_verses_unit(self):
+        # SCENARIO: met_syll requires units='verses'
         # GIVEN: Attempting to use met_syll with units='words'
         
         # Create a dummy TEI file for this test
@@ -129,7 +129,7 @@ class ErrorHandlingTests(unittest.TestCase):
             )
         
         self.assertIn("met_syll", str(context.exception))
-        self.assertIn("lines", str(context.exception))
+        self.assertIn("verses", str(context.exception))
     
     # =========================================================================
     # Tests pour features_extract.py - ValueError pour paramètres invalides

@@ -87,73 +87,39 @@ def _load_single_feature(
 
 
 def load_corpus(
-    data_paths: Union[List[str], None] = None,
-    feat_list: Optional[List] = None,
-    feats: str = "words",
-    n: int = 1,
-    k: int = 5000,
-    freqsType: str = "relative",
-    format: str = "txt",
-    sampling: bool = False,
-    units: str = "words",
-    size: int = 3000,
-    step: Optional[int] = None,
-    max_samples: Optional[int] = None,
-    samples_random: bool = False,
-    keep_punct: bool = False,
-    keep_sym: bool = False,
-    no_ascii: bool = False,
-    identify_lang: bool = False,
-    embedding: Union[str, bool] = False,
-    neighbouring_size: int = 10,
-    culling: float = 0,
     config: Optional[Config] = None,
     use_provided_feat_list: bool = False,
+    **kwargs
 ) -> Tuple[pandas.DataFrame, Union[List, List[List]]]:
     """
     Load a corpus and extract features.
     
-    Can be called with individual parameters (single feature) or with a Config object
-    (single or multiple features).
+    Can be called with:
+    1. A Config object: load_corpus(config=my_config)
+    2. Individual parameters (backward compatible): 
+       load_corpus(data_paths=paths, feats="chars", n=3)
     
     Args:
-        use_provided_feat_list: If True and a feat_list is provided (via param or Config),
-            return that list unchanged. Use for test sets to match training features.
+        config: Configuration object. If None, built from kwargs.
+        use_provided_feat_list: If True and feat_list provided, return it unchanged.
+                               Use for test sets to match training features.
+        **kwargs: Individual parameters for backward compatibility.
+                  Supported: data_paths, feat_list, feats, n, k, freqsType,
+                  format, sampling, units, size, step, max_samples, samples_random,
+                  keep_punct, keep_sym, no_ascii, identify_lang, embedding,
+                  neighbouring_size, culling
     
     Returns:
         - If single feature: (DataFrame, feat_list)
-        - If multiple features via Config: (DataFrame with prefixed columns, list of feat_lists)
+        - If multiple features: (DataFrame with prefixed columns, list of feat_lists)
     """
-    
-    # Build Config from individual parameters if not provided
+    # Build config from kwargs if not provided
     if config is None:
-        config = Config()
-        config.corpus.paths = data_paths or []
-        config.corpus.format = format
-        config.corpus.identify_lang = identify_lang
-        config.features = [FeatureConfig(
-            type=feats,
-            n=n,
-            k=k,
-            freq_type=freqsType,
-            feat_list=feat_list,
-            embedding=embedding if embedding else None,
-            neighbouring_size=neighbouring_size,
-            culling=culling,
-        )]
-        config.sampling.enabled = sampling
-        config.sampling.units = units
-        config.sampling.size = size
-        config.sampling.step = step
-        config.sampling.max_samples = max_samples
-        config.sampling.random = samples_random
-        config.normalization.keep_punct = keep_punct
-        config.normalization.keep_sym = keep_sym
-        config.normalization.no_ascii = no_ascii
+        config = Config.from_kwargs(**kwargs)
     
-    # Use paths from config if data_paths not provided directly
-    if data_paths is None:
-        data_paths = config.corpus.paths
+    # Validate configuration
+    config.validate()
+    data_paths = config.corpus.paths
         
     # Handle string paths (single file or glob pattern)
     if isinstance(data_paths, str):
@@ -169,8 +135,26 @@ def load_corpus(
     for feat_config in config.features:
         if feat_config.type in ('lemma', 'pos', 'met_line', 'met_syll') and config.corpus.format != 'tei':
             raise ValueError(f"{feat_config.type} requires TEI format.")
-        if feat_config.type in ('met_line', 'met_syll') and config.sampling.units != 'lines':
-            raise ValueError(f"{feat_config.type} requires lines units.")
+        if feat_config.type in ('met_line', 'met_syll') and config.sampling.units != 'verses':
+            raise ValueError(f"{feat_config.type} verses lines units.")
+    data_paths = config.corpus.paths
+        
+    # Handle string paths (single file or glob pattern)
+    if isinstance(data_paths, str):
+        import glob
+        # If it's a glob pattern, expand it
+        if '*' in data_paths or '?' in data_paths:
+            data_paths = sorted(glob.glob(data_paths))
+        else:
+            # Single file path - wrap in list
+            data_paths = [data_paths]
+
+    # Validate
+    for feat_config in config.features:
+        if feat_config.type in ('lemma', 'pos', 'met_line', 'met_syll') and config.corpus.format != 'tei':
+            raise ValueError(f"{feat_config.type} requires TEI format.")
+        if feat_config.type in ('met_line', 'met_syll') and config.sampling.units != 'verses':
+            raise ValueError(f"{feat_config.type} requires verses units.")
 
     # Load texts once
     print(".......loading texts.......")
@@ -222,7 +206,7 @@ def load_corpus(
         corpus = pandas.concat([metadata, feats_df], axis=1)
         return corpus, feat_list
 
-    # Multiple features case - extract and merge
+    # Multiple features case
     print(f".......extracting {len(config.features)} feature sets.......")
     
     all_feat_lists = []

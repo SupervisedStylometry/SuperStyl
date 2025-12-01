@@ -50,11 +50,11 @@ def XML_to_text(path):
         return aut, re.sub(r"\s+", " ", str(myxsl(my_doc)))
 
 
-def txm_to_units(path, units="lines", feats="words"):
+def txm_to_units(path, units="verses", feats="words"):
     """
     Extract units from TXM file
     :param path: path to TXM file
-    :param units: units to extract ("lines"/"verses" or "words")
+    :param units: units to extract ("verses" or "words")
     :param feats: features to extract ("words", "lemma", or "pos")
     :return: list of extracted units
     """
@@ -112,7 +112,7 @@ def txm_to_units(path, units="lines", feats="words"):
     units_tokens = str(myxsl(my_doc, units=etree.XSLT.strparam(units), feats=etree.XSLT.strparam(feats))).splitlines()
     return units_tokens
 
-def tei_to_units(path, feats="words", units="lines"):
+def tei_to_units(path, feats="words", units="verses"):
 
     if feats in ["met_syll", "met_line"]:
         feats = "met"

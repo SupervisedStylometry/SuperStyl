@@ -14,78 +14,51 @@ import imblearn.pipeline as imbp
 from collections import Counter
 from typing import Optional, Dict, Any
 
-# Import Config for type hints
 from superstyl.config import Config
 
 
 def train_svm(
     train: pandas.DataFrame,
     test: Optional[pandas.DataFrame] = None,
-    cross_validate: Optional[str] = None,
-    k: int = 0,
-    dim_reduc: Optional[str] = None,
-    norms: bool = True,
-    balance: Optional[str] = None,
-    class_weights: bool = False,
-    kernel: str = "LinearSVC",
-    final_pred: bool = False,
-    get_coefs: bool = False,
-    config: Optional[Config] = None
+    config: Optional[Config] = None,
+    **kwargs
 ) -> Dict[str, Any]:
     """
-    Function to train svm
-    :param train: train data... (in panda dataframe)
-    :param test: test data (itou)
-    :param cross_validate: whether to perform cross validation (possible values: leave-one-out, k-fold
-      and group-k-fold) if group_k-fold is chosen, each source file will be considered a group, so this is only relevant
-      if sampling was performed and more than one file per class was provided
-    :param k: k parameter for k-fold cross validation
-    :param dim_reduc: dimensionality reduction of input data. Implemented values are pca and som.
-    :param norms: perform normalisations, i.e. z-scores and L2 (default True)
-    :param balance: up/downsampling strategy to use in imbalanced datasets
-    :param class_weights: adjust class weights to balance imbalanced datasets, with weights inversely proportional to class
-     frequencies in the input data as n_samples / (n_classes * np.bincount(y))
-    :param kernel: kernel for SVM
-    :param final_pred: do the final predictions?
-    :param get_coefs, if true, writes to disk (coefficients.csv) and plots the most important coefficients for each class
-    :return: prints the scores, and then returns a dictionary containing the pipeline with a fitted svm model,
-    and, if computed, the classification_report, confusion_matrix, list of misattributions, and final_predictions.
-    """
+    Train SVM model for stylometric analysis.
     
-    # If config is provided, extract SVM parameters from it
-    if config is not None:
-        cross_validate = config.svm.cross_validate
-        k = config.svm.k
-        dim_reduc = config.svm.dim_reduc
-        norms = config.svm.norms
-        balance = config.svm.balance
-        class_weights = config.svm.class_weights
-        kernel = config.svm.kernel
-        final_pred = config.svm.final_pred
-        get_coefs = config.svm.get_coefs
+    Can be called with:
+    1. A Config object: train_svm(train, test, config=my_config)
+    2. Individual parameters (backward compatible):
+       train_svm(train, test, cross_validate="k-fold", k=10)
+    
+    Args:
+        train: Training data (pandas DataFrame)
+        test: Test data (optional)
+        config: Configuration object. If None, built from kwargs.
+        **kwargs: Individual parameters for backward compatibility.
+                  Supported: cross_validate, k, dim_reduc, norms, balance,
+                  class_weights, kernel, final_pred, get_coefs
+    
+    Returns:
+        Dictionary containing: pipeline, and optionally confusion_matrix,
+        classification_report, misattributions, final_predictions, coefficients
+    """
+    # Build config from kwargs if not provided
+    if config is None:
+        config = Config.from_kwargs(**kwargs)
+    
+    # Extract SVM parameters from config
+    cross_validate = config.svm.cross_validate
+    k = config.svm.k
+    dim_reduc = config.svm.dim_reduc
+    norms = config.svm.norms
+    balance = config.svm.balance
+    class_weights = config.svm.class_weights
+    kernel = config.svm.kernel
+    final_pred = config.svm.final_pred
+    get_coefs = config.svm.get_coefs
 
     results = {}
-
-    valid_cross_validate_options = {None, "leave-one-out", "k-fold", 'group-k-fold'}
-    valid_dim_reduc_options = {None, 'pca'}
-    valid_balance_options = {None, 'downsampling', 'upsampling', 'Tomek', 'SMOTE', 'SMOTETomek'}
-    
-    # Validate parameters
-    if cross_validate not in valid_cross_validate_options:
-        raise ValueError(
-            f"Invalid cross-validation option: '{cross_validate}'. "
-            f"Valid options are {valid_cross_validate_options}."
-        )
-    if dim_reduc not in valid_dim_reduc_options:
-        raise ValueError(
-            f"Invalid dimensionality reduction option: '{dim_reduc}'. "
-            f"Valid options are {valid_dim_reduc_options}."
-        )
-    if balance not in valid_balance_options:
-        raise ValueError(
-            f"Invalid balance option: '{balance}'. "
-            f"Valid options are {valid_balance_options}."
-        )
 
     print(".......... Formatting data ........")
     # Save the classes

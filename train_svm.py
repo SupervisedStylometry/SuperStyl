@@ -89,6 +89,7 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
+    # Load data
     print(".......... loading data ........")
     train = pandas.read_csv(args.train_path, index_col=0)
 
@@ -99,7 +100,6 @@ if __name__ == "__main__":
 
     # Determine how to run the SVM
     if args.config:
-        # Load configuration from file
         config = Config.from_json(args.config)
         # Override with CLI arguments if provided
         if args.cross_validate:
@@ -118,26 +118,9 @@ if __name__ == "__main__":
             config.svm.final_pred = True
         if args.get_coefs:
             config.svm.get_coefs = True
-        if args.plot_rolling:
-            config.svm.plot_rolling = True
-        if args.plot_smoothing != 3:
-            config.svm.plot_smoothing = args.plot_smoothing
-        
-        svm = superstyl.svm.train_svm(train, test, config=config)
     else:
-        # Create config from CLI arguments
-        config = Config.from_svm_cli_args(args)
-        
-        # Optionally save the configuration
-        if args.save_config:
-            config.save(args.save_config)
-            print(f"Configuration saved to {args.save_config}")
-        
-        # Run with traditional parameters (backward compatible)
-        svm = superstyl.svm.train_svm(
-            train, test,
+        config = Config.from_kwargs(
             cross_validate=args.cross_validate,
-            k=args.k,
             dim_reduc=args.dim_reduc,
             norms=args.norms,
             balance=args.balance,
@@ -147,28 +130,32 @@ if __name__ == "__main__":
             get_coefs=args.get_coefs
         )
 
-    # Determine output prefix
-    if args.o is not None:
-        output_prefix = args.o + "_"
-    else:
-        output_prefix = ''
+    # Save config if requested
+    if args.save_config:
+        config.save(args.save_config)
+        print(f"Configuration saved to {args.save_config}")
+
+    # Train SVM
+    svm = superstyl.svm.train_svm(train, test, config=config)
+
+    # Output prefix
+    prefix = f"{args.o}_" if args.o else ""
 
     # Save results
-    if args.cross_validate is not None or (args.test_path is not None and not args.final):
-        svm["confusion_matrix"].to_csv(output_prefix + "confusion_matrix.csv")
-        svm["misattributions"].to_csv(output_prefix + "misattributions.csv")
+    if args.cross_validate or (args.test_path and not args.final):
+        svm["confusion_matrix"].to_csv(f"{prefix}confusion_matrix.csv")
+        svm["misattributions"].to_csv(f"{prefix}misattributions.csv")
 
-    joblib.dump(svm["pipeline"], output_prefix + 'mySVM.joblib')
+    joblib.dump(svm["pipeline"], f"{prefix}mySVM.joblib")
 
     if args.final:
-        print(f".......... Writing final predictions to {output_prefix}FINAL_PREDICTIONS.csv ........")
-        svm["final_predictions"].to_csv(output_prefix + "FINAL_PREDICTIONS.csv")
+        print(f".......... Writing final predictions to {prefix}FINAL_PREDICTIONS.csv ........")
+        svm["final_predictions"].to_csv(f"{prefix}FINAL_PREDICTIONS.csv")
 
         if args.plot_rolling:
             print(".......... Plotting rolling stylometry ........")
-            smoothing = args.plot_smoothing if args.plot_smoothing else 0
-            superstyl.svm.plot_rolling(svm["final_predictions"], smoothing=smoothing)
+            superstyl.svm.plot_rolling(svm["final_predictions"], smoothing=args.plot_smoothing)
 
     if args.get_coefs:
         print(".......... Writing coefficients to disk ........")
-        svm["coefficients"].to_csv(output_prefix + "coefficients.csv")
+        svm["coefficients"].to_csv(f"{prefix}coefficients.csv")

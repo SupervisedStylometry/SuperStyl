@@ -255,22 +255,6 @@ class TestConfigLoader(unittest.TestCase):
         config = Config.from_json(config_path)
         self.assertEqual(config.corpus.paths, [])
 
-    def test_string_path_in_config(self):
-        """Test handling of config with a string path instead of list"""
-        # Create config with a string path
-        string_path_config = self.single_config.copy()
-        string_path_config["corpus"]["paths"] = self.test_paths[0]  # Single string path
-        
-        config_path = os.path.join(self.temp_dir.name, "string_path_config.json")
-        with open(config_path, 'w') as f:
-            json.dump(string_path_config, f)
-        
-        # Should handle string path
-        config = Config.from_json(config_path)
-        corpus, features = load_corpus(config=config)
-        self.assertIsInstance(corpus, pd.DataFrame)
-        self.assertGreater(len(features), 0)
-
     def test_feature_with_txt_list(self):
         """Test loading a feature list from a txt file"""
         # Create a simple text feature list

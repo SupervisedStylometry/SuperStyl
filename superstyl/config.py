@@ -86,7 +86,6 @@ class FeatureConfig(BaseConfig):
     embedding: Optional[str] = None
     neighbouring_size: int = 10
     culling: float = 0
-    normalization: Optional[NormalizationConfig] = None
 
     VALID_TYPES = ["words", "chars", "affixes", "lemma", "pos", "met_line", "met_syll"]
     VALID_FREQ_TYPES = ["relative", "absolute", "binary"]
@@ -116,10 +115,10 @@ class FeatureConfig(BaseConfig):
 
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> 'FeatureConfig':
-        data = data.copy()
-        if "normalization" in data and data["normalization"] is not None:
-            data["normalization"] = NormalizationConfig.from_dict(data["normalization"])
-        return cls(**data)
+        # Filter out unknown keys for backward compatibility
+        valid_keys = {f.name for f in fields(cls)}
+        filtered_data = {k: v for k, v in data.items() if k in valid_keys}
+        return cls(**filtered_data)
 
 
 @dataclass
@@ -143,7 +142,9 @@ class CorpusConfig(BaseConfig):
 
 @dataclass
 class SVMConfig(BaseConfig):
-    """Configuration for SVM training."""
+    """
+    Configuration for SVM training.
+    """
     cross_validate: Optional[str] = None
     k: int = 0
     dim_reduc: Optional[str] = None
@@ -190,49 +191,139 @@ class Config(BaseConfig):
     svm: SVMConfig = field(default_factory=SVMConfig)
     output_prefix: Optional[str] = None
 
+    # Mapping from flat kwargs to nested config structure
+    # Format: 'kwarg_name': ('section', 'attr', optional_transform)
+    KWARGS_MAPPING = {
+        # Corpus
+        'data_paths': ('corpus', 'paths', lambda x: x if isinstance(x, list) else [x]),
+        'format': ('corpus', 'format', None),
+        'identify_lang': ('corpus', 'identify_lang', None),
+        
+        # Features (single feature mode)
+        'feats': ('features', 'type', None),
+        'n': ('features', 'n', None),
+        'k': ('features', 'k', None),
+        'freqsType': ('features', 'freq_type', None),
+        'feat_list': ('features', 'feat_list', None),
+        'embedding': ('features', 'embedding', lambda x: x if x else None),
+        'neighbouring_size': ('features', 'neighbouring_size', None),
+        'culling': ('features', 'culling', None),
+        
+        # Sampling
+        'sampling': ('sampling', 'enabled', None),
+        'units': ('sampling', 'units', None),
+        'size': ('sampling', 'size', None),
+        'step': ('sampling', 'step', None),
+        'max_samples': ('sampling', 'max_samples', None),
+        'samples_random': ('sampling', 'random', None),
+        
+        # Normalization
+        'keep_punct': ('normalization', 'keep_punct', None),
+        'keep_sym': ('normalization', 'keep_sym', None),
+        'no_ascii': ('normalization', 'no_ascii', None),
+        
+        # SVM
+        'cross_validate': ('svm', 'cross_validate', None),
+        'dim_reduc': ('svm', 'dim_reduc', None),
+        'norms': ('svm', 'norms', None),
+        'balance': ('svm', 'balance', None),
+        'class_weights': ('svm', 'class_weights', None),
+        'kernel': ('svm', 'kernel', None),
+        'final_pred': ('svm', 'final_pred', None),
+        'get_coefs': ('svm', 'get_coefs', None),
+    }
+
     def validate(self) -> None:
         """
         Validate configuration consistency.
         """
-        if self.features == []:
-            raise ValueError("No features for calculation.")
+        if not self.features:
+            raise ValueError("No features specified for extraction.")
+        
+        if not self.corpus.paths:
+            raise ValueError("No paths specified for corpus loading.")
+            
+        # Validate paths type
+        if not isinstance(self.corpus.paths, list):
+            raise TypeError("Paths in config must be either a list or a glob pattern string.")
+        
         for feat_config in self.features:
             tei_only = ["lemma", "pos", "met_line", "met_syll"]
             if feat_config.type in tei_only and self.corpus.format != "tei":
                 raise ValueError(f"{feat_config.type} requires TEI format.")
-            if feat_config.type in ["met_line", "met_syll"] and self.sampling.units != "lines":
-                raise ValueError(f"{feat_config.type} requires lines units.")
+            if feat_config.type in ["met_line", "met_syll"] and self.sampling.units not in ["verses"]:
+                raise ValueError(f"{feat_config.type} requires verses units.")
 
     def save(self, path: str) -> None:
         with open(path, 'w') as f:
             json.dump(self.to_dict(), f, indent=2, ensure_ascii=False)
 
     @classmethod
+    def from_kwargs(cls, **kwargs) -> 'Config':
+        """
+        Build Config from flat kwargs (backward compatibility).
+        
+        This allows the old-style function calls to work:
+            load_corpus(paths, feats="chars", n=3, keep_punct=True)
+        """
+        config_data = {
+            'corpus': {},
+            'features': {},
+            'sampling': {},
+            'normalization': {},
+            'svm': {}
+        }
+        
+        for kwarg_name, value in kwargs.items():
+            if value is None:
+                continue
+                
+            if kwarg_name in cls.KWARGS_MAPPING:
+                section, attr, transform = cls.KWARGS_MAPPING[kwarg_name]
+                final_value = transform(value) if transform else value
+                config_data[section][attr] = final_value
+        
+        # Build the config with proper nesting
+        return cls.from_dict(config_data)
+
+    @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> 'Config':
         kwargs = {}
         
         if 'corpus' in data:
-            kwargs['corpus'] = CorpusConfig.from_dict(data['corpus'])
+            corpus_data = data['corpus'].copy()
+            # Handle 'paths' key variations
+            if 'paths' not in corpus_data and 'data_paths' in data:
+                corpus_data['paths'] = data['data_paths']
+            kwargs['corpus'] = CorpusConfig.from_dict(corpus_data) if corpus_data else CorpusConfig()
         
         if 'features' in data:
             features_data = data['features']
-            if isinstance(features_data, list):
-                kwargs['features'] = [FeatureConfig.from_dict(f) for f in features_data]
-            else:
+            if isinstance(features_data, dict):
                 kwargs['features'] = [FeatureConfig.from_dict(features_data)]
+            elif isinstance(features_data, list):
+                if features_data:
+                    kwargs['features'] = [FeatureConfig.from_dict(f) for f in features_data]
+                else:
+                    kwargs['features'] = []
         
-        if 'sampling' in data:
+        if 'sampling' in data and data['sampling']:
             sampling_data = data['sampling'].copy()
+            # Handle alternative key names
             if 'sample_size' in sampling_data:
                 sampling_data['size'] = sampling_data.pop('sample_size')
             if 'samples_random' in sampling_data:
                 sampling_data['random'] = sampling_data.pop('samples_random')
+            if 'sample_step' in sampling_data:
+                sampling_data['step'] = sampling_data.pop('sample_step')
+            if 'sample_units' in sampling_data:
+                sampling_data['units'] = sampling_data.pop('sample_units')
             kwargs['sampling'] = SamplingConfig.from_dict(sampling_data)
         
-        if 'normalization' in data:
+        if 'normalization' in data and data['normalization']:
             kwargs['normalization'] = NormalizationConfig.from_dict(data['normalization'])
         
-        if 'svm' in data:
+        if 'svm' in data and data['svm']:
             kwargs['svm'] = SVMConfig.from_dict(data['svm'])
         
         if 'output_prefix' in data:
@@ -243,82 +334,20 @@ class Config(BaseConfig):
     @classmethod
     def from_json(cls, path: str) -> 'Config':
         with open(path, 'r') as f:
-            return cls.from_dict(json.load(f))
-
-    @classmethod
-    def from_cli_args(cls, args) -> 'Config':
-        """Create Config from CLI args (single feature only)."""
-        args_dict = vars(args)
+            data = json.load(f)
         
-        cli_mapping = {
-            's': ('corpus', 'paths', lambda x: x if isinstance(x, list) else [x]),
-            'x': ('corpus', 'format', None),
-            'identify_lang': ('corpus', 'identify_lang', None),
-            't': ('features', 'type', None),
-            'n': ('features', 'n', None),
-            'k': ('features', 'k', None),
-            'freqs': ('features', 'freq_type', None),
-            'embedding': ('features', 'embedding', lambda x: x if x else None),
-            'neighbouring_size': ('features', 'neighbouring_size', None),
-            'culling': ('features', 'culling', None),
-            'sampling': ('sampling', 'enabled', None),
-            'sample_units': ('sampling', 'units', None),
-            'sample_size': ('sampling', 'size', None),
-            'sample_step': ('sampling', 'step', None),
-            'max_samples': ('sampling', 'max_samples', None),
-            'samples_random': ('sampling', 'random', None),
-            'keep_punct': ('normalization', 'keep_punct', None),
-            'keep_sym': ('normalization', 'keep_sym', None),
-            'no_ascii': ('normalization', 'no_ascii', None),
-            'o': (None, 'output_prefix', None),
-        }
+        # Handle flat JSON format (paths at root level)
+        if 'paths' in data and 'corpus' not in data:
+            data['corpus'] = {'paths': data.pop('paths')}
+            if 'format' in data:
+                data['corpus']['format'] = data.pop('format')
+            if 'identify_lang' in data:
+                data['corpus']['identify_lang'] = data.pop('identify_lang')
         
-        config_data = {'corpus': {}, 'features': {}, 'sampling': {}, 'normalization': {}}
-        
-        for cli_arg, (section, attr, transform) in cli_mapping.items():
-            if cli_arg in args_dict and args_dict[cli_arg] is not None:
-                value = transform(args_dict[cli_arg]) if transform else args_dict[cli_arg]
-                if section is None:
-                    config_data[attr] = value
-                else:
-                    config_data[section][attr] = value
-        
-        return cls.from_dict(config_data)
-
-    @classmethod
-    def from_svm_cli_args(cls, args) -> 'Config':
-        """Create Config from SVM CLI args."""
-        args_dict = vars(args)
-        
-        cli_mapping = {
-            'cross_validate': ('svm', 'cross_validate', None),
-            'k': ('svm', 'k', None),
-            'dim_reduc': ('svm', 'dim_reduc', None),
-            'norms': ('svm', 'norms', None),
-            'balance': ('svm', 'balance', None),
-            'class_weights': ('svm', 'class_weights', None),
-            'kernel': ('svm', 'kernel', None),
-            'final': ('svm', 'final_pred', None),
-            'get_coefs': ('svm', 'get_coefs', None),
-            'plot_rolling': ('svm', 'plot_rolling', None),
-            'plot_smoothing': ('svm', 'plot_smoothing', None),
-            'o': (None, 'output_prefix', None),
-        }
-        
-        config_data = {'svm': {}}
-        
-        for cli_arg, (section, attr, transform) in cli_mapping.items():
-            if cli_arg in args_dict and args_dict[cli_arg] is not None:
-                value = transform(args_dict[cli_arg]) if transform else args_dict[cli_arg]
-                if section is None:
-                    config_data[attr] = value
-                else:
-                    config_data[section][attr] = value
-        
-        return cls.from_dict(config_data)
+        return cls.from_dict(data)
 
 
-# Global configuration
+# Global configuration (optional singleton pattern)
 _current_config: Optional[Config] = None
 
 def get_config() -> Optional[Config]:
