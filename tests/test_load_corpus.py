@@ -433,13 +433,14 @@ class Main(unittest.TestCase):
 
         # and now tests that error are raised when parameters combinations are not consistent
         # WHEN/THEN
-        self.assertRaises(ValueError, superstyl.preproc.pipe.docs_to_samples, self.paths, 
-                          Config.from_kwargs(size=2, step=1, units="words",
-                                            format="txt", max_samples=5, samples_random=True))
-        self.assertRaises(ValueError, superstyl.preproc.pipe.docs_to_samples, self.paths, 
-                          Config.from_kwargs(size=2, units="words",
-                                            format="txt", max_samples=None,
-                                            samples_random=True))
+        with self.assertRaises(ValueError):
+            Config.from_kwargs(size=2, step=1, units="words",
+                            format="txt", max_samples=5, samples_random=True)
+
+        with self.assertRaises(ValueError):
+            Config.from_kwargs(size=2, units="words",
+                            format="txt", max_samples=None,
+                            samples_random=True)
 
     # TODO: test other loading formats with sampling, that are not txt (and decide on their implementation)
 

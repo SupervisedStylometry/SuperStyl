@@ -310,8 +310,7 @@ class Sampler:
         """
         Create samples from tokens.
         """
-        if sampling_config.step is None:
-            sampling_config.step = sampling_config.size
+        step = sampling_config.step if sampling_config.step is not None else sampling_config.size
         
         samples = []
         
@@ -330,7 +329,7 @@ class Sampler:
                     "end": current + sampling_config.size,
                     "text": list(tokens[current:current + sampling_config.size])
                 })
-                current += sampling_config.step
+                current += step
         
         return samples
     
@@ -347,10 +346,6 @@ class Sampler:
             List of sample dictionaries
         """
         max_samples = config.sampling.max_samples or 10
-        print("X"*100)
-        print(config.sampling.random)
-        print(config.sampling.step)
-        print("X"*100)
         config.sampling.validate()
         
         tokens = cls.extract_tokens(path, config)
@@ -371,7 +366,7 @@ def max_sampling(documents: List[Dict], max_samples: int = 10) -> List[Dict]:
     # Count documents per author
     author_counts = {}
     for doc in documents:
-        author_counts[doc['aut']] = author_counts.get('aut', 0) + 1
+        author_counts[doc['aut']] = author_counts.get(doc['aut'], 0) + 1
     
     # Filter authors with too many samples
     result = []
