@@ -1,145 +1,53 @@
 from lxml import etree
-import regex as re
-import unidecode
 import nltk.tokenize
 import random
-import langdetect
-import unicodedata
+from typing import List, Dict, Optional, Tuple
+from dataclasses import dataclass
+from abc import ABC, abstractmethod
 
-def XML_to_text(path):
-    """
-    Get main text from xml file
-    :param path: path to the file to transform
-    :return: a tuple with auts, and string (the text).
-    """
+from superstyl.config import Config, NormalizationConfig, SamplingConfig
+from superstyl.preproc.utils import *
 
-    myxsl = etree.XML('''
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    exclude-result-prefixes="xs"
-    version="1.0">
+
+# ============================================================================
+# Constants and Configuration
+# ============================================================================
+
+XSLT_TEMPLATES = {
+    'xml_text': '''
+        <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+            xmlns:xs="http://www.w3.org/2001/XMLSchema"
+            exclude-result-prefixes="xs"
+            version="1.0">
+            <xsl:output method="text"/>
+            <xsl:template match="/">
+                <xsl:apply-templates select="song/text"/>
+            </xsl:template>
+        </xsl:stylesheet>''',
     
-    <xsl:output method="text"/>
-    
-    <xsl:template match="/">
-        <xsl:apply-templates
-            select="song/text"/>
-    </xsl:template>
-    
-</xsl:stylesheet>''')
-    myxsl = etree.XSLT(myxsl)
-
-    with open(path, 'r') as f:
-        my_doc = etree.parse(f)
-
-        auts = my_doc.findall("//author")
-        auts = [a.text for a in auts]
-
-        if not len(auts) == 1:
-            print("Error: more or less than one author in" + path)
-
-            if len(auts) == 0:
-                auts = [None]
-
-        if auts == [None]:
-            aut = "unknown"
-
-        else:
-            aut = auts[0]
-
-        return aut, re.sub(r"\s+", " ", str(myxsl(my_doc)))
-
-
-def txm_to_units(path, units="lines", feats="words"):
-    """
-    Extract units from TXM file
-    :param path: path to TXM file
-    :param units: units to extract ("lines"/"verses" or "words")
-    :param feats: features to extract ("words", "lemma", or "pos")
-    :return: list of extracted units
-    """
-    myxsl = etree.XML('''<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:tei="http://www.tei-c.org/ns/1.0" xmlns:txm="http://textometrie.org/1.0" 
-    version="1.0">
-
-    <xsl:output method="text"/>
-    <xsl:param name="units"></xsl:param>
-    <xsl:param name="feats"></xsl:param>
-
-    <xsl:template match="/">
-        <xsl:choose>
-            <xsl:when test="$units = 'verses'">
-                <xsl:apply-templates select="descendant::tei:l"/>
-            </xsl:when>
-            <xsl:when test="$units = 'words'">
-                <xsl:apply-templates select="descendant::tei:w"/>
-            </xsl:when>
-        </xsl:choose>
-    </xsl:template>
-
-    <xsl:template match="tei:l">
-        <xsl:apply-templates select="descendant::tei:w[
-            not(txm:ana[@type='#frpos'] = 'NOMpro')
-            ]"/>
-        <xsl:text>&#xA;</xsl:text>
-    </xsl:template>
-
-    <xsl:template match="tei:w">
-        <xsl:text> </xsl:text>
-        <xsl:choose>
-            <xsl:when test="$feats = 'lemma'">
-                <xsl:value-of select="txm:lemma"/>
-            </xsl:when>
-            <xsl:when test="$feats = 'pos'">
-                <xsl:value-of select="txm:ana[@type='#frpos']"/>
-            </xsl:when>
-            <xsl:otherwise>
-                <xsl:apply-templates select="txm:form"/>
-            </xsl:otherwise>
-        </xsl:choose>
-        <xsl:if test="$units = 'words'">
-            <!-- Then one word per line -->
-            <xsl:text>&#xA;</xsl:text>
-        </xsl:if>
-    </xsl:template>
-
-</xsl:stylesheet>''')
-    myxsl = etree.XSLT(myxsl)
-
-    with open(path, 'r') as f:
-        my_doc = etree.parse(f)
-
-    units_tokens = str(myxsl(my_doc, units=etree.XSLT.strparam(units), feats=etree.XSLT.strparam(feats))).splitlines()
-    return units_tokens
-
-def tei_to_units(path, feats="words", units="lines"):
-
-    if feats in ["met_syll", "met_line"]:
-        feats = "met"
-    myxsl = etree.XML('''<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-        xmlns:tei="http://www.tei-c.org/ns/1.0"  
-        version="1.0">
-
-        <xsl:output method="text"/>
-
-        <xsl:param name="units"></xsl:param>
-        <xsl:param name="feats"></xsl:param>
-        <xsl:param name="keep_punct"></xsl:param>
-
-        <xsl:template match="/">
-            <xsl:choose>
-                <xsl:when test="$units = 'verses'">
-                    <xsl:apply-templates select="descendant::tei:l"/>
-                </xsl:when>
-                <xsl:when test="$units = 'words'">
-                    <xsl:apply-templates select="descendant::tei:w"/>
-                </xsl:when>
-            </xsl:choose>
-        </xsl:template>
-
-        <xsl:template match="tei:l">
-            <xsl:choose>
-                <xsl:when test="$feats = 'met'">
+    'tei_units': '''
+        <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+            xmlns:tei="http://www.tei-c.org/ns/1.0"  
+            version="1.0">
+            <xsl:output method="text"/>
+            <xsl:param name="units"></xsl:param>
+            <xsl:param name="feats"></xsl:param>
+            <xsl:param name="keep_punct"></xsl:param>
+            
+            <xsl:template match="/">
+                <xsl:choose>
+                    <xsl:when test="$units = 'verses'">
+                        <xsl:apply-templates select="descendant::tei:l"/>
+                    </xsl:when>
+                    <xsl:when test="$units = 'words'">
+                        <xsl:apply-templates select="descendant::tei:w"/>
+                    </xsl:when>
+                </xsl:choose>
+            </xsl:template>
+            
+            <xsl:template match="tei:l">
+                <xsl:choose>
+                    <xsl:when test="$feats = 'met'">
                         <xsl:choose>
                             <xsl:when test="$keep_punct = 'true'">
                                 <xsl:value-of select="@met"/>
@@ -148,286 +56,419 @@ def tei_to_units(path, feats="words", units="lines"):
                                 <xsl:value-of select="translate(@met, '.', '')"/>
                             </xsl:otherwise>
                         </xsl:choose>
-                </xsl:when>
-                <xsl:otherwise>
-                    <xsl:apply-templates select="descendant::tei:w"/>
-                </xsl:otherwise>
-            </xsl:choose>
-            <xsl:text>&#xA;</xsl:text>
-        </xsl:template>
-
-        <xsl:template match="tei:w">
-            <xsl:text> </xsl:text>
-            <xsl:choose>
-                <xsl:when test="$feats = 'met'">
-                    <xsl:value-of select="@met"/>
-                </xsl:when>
-                <xsl:when test="$feats = 'lemma'">
-                    <xsl:value-of select="@lemma"/>
-                </xsl:when>
-                <xsl:when test="$feats = 'pos'">
-                    <xsl:value-of select="@pos"/>
-                </xsl:when>
-                <xsl:otherwise>
-                    <xsl:apply-templates/>
-                </xsl:otherwise>
-            </xsl:choose>
-            <xsl:if test="$units = 'words'">
-                <!-- Then one word per line -->
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:apply-templates select="descendant::tei:w"/>
+                    </xsl:otherwise>
+                </xsl:choose>
                 <xsl:text>&#xA;</xsl:text>
-            </xsl:if>
-        </xsl:template>
+            </xsl:template>
+            
+            <xsl:template match="tei:w">
+                <xsl:text> </xsl:text>
+                <xsl:choose>
+                    <xsl:when test="$feats = 'met'">
+                        <xsl:value-of select="@met"/>
+                    </xsl:when>
+                    <xsl:when test="$feats = 'lemma'">
+                        <xsl:value-of select="@lemma"/>
+                    </xsl:when>
+                    <xsl:when test="$feats = 'pos'">
+                        <xsl:value-of select="@pos"/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:apply-templates/>
+                    </xsl:otherwise>
+                </xsl:choose>
+                <xsl:if test="$units = 'words'">
+                    <xsl:text>&#xA;</xsl:text>
+                </xsl:if>
+            </xsl:template>
+        </xsl:stylesheet>''',
+    
+    'txm_units': '''
+        <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+            xmlns:tei="http://www.tei-c.org/ns/1.0" 
+            xmlns:txm="http://textometrie.org/1.0" 
+            version="1.0">
+            <xsl:output method="text"/>
+            <xsl:param name="units"></xsl:param>
+            <xsl:param name="feats"></xsl:param>
+            
+            <xsl:template match="/">
+                <xsl:choose>
+                    <xsl:when test="$units = 'verses'">
+                        <xsl:apply-templates select="descendant::tei:l"/>
+                    </xsl:when>
+                    <xsl:when test="$units = 'words'">
+                        <xsl:apply-templates select="descendant::tei:w"/>
+                    </xsl:when>
+                </xsl:choose>
+            </xsl:template>
+            
+            <xsl:template match="tei:l">
+                <xsl:apply-templates select="descendant::tei:w[
+                    not(txm:ana[@type='#frpos'] = 'NOMpro')]"/>
+                <xsl:text>&#xA;</xsl:text>
+            </xsl:template>
+            
+            <xsl:template match="tei:w">
+                <xsl:text> </xsl:text>
+                <xsl:choose>
+                    <xsl:when test="$feats = 'lemma'">
+                        <xsl:value-of select="txm:lemma"/>
+                    </xsl:when>
+                    <xsl:when test="$feats = 'pos'">
+                        <xsl:value-of select="txm:ana[@type='#frpos']"/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:apply-templates select="txm:form"/>
+                    </xsl:otherwise>
+                </xsl:choose>
+                <xsl:if test="$units = 'words'">
+                    <xsl:text>&#xA;</xsl:text>
+                </xsl:if>
+            </xsl:template>
+        </xsl:stylesheet>'''
+}
 
-    </xsl:stylesheet>''')
-    myxsl = etree.XSLT(myxsl)
-
-    with open(path, 'r') as f:
-        my_doc = etree.parse(f)
-
-    units_tokens = str(myxsl(my_doc, units=etree.XSLT.strparam(units), feats=etree.XSLT.strparam(feats))).splitlines()
-    return units_tokens
-
-def specialXML_to_text(path, format="tei", feats="words"):
-    aut = path.split('/')[-1].split("_")[0]
-    if format=="tei":
-        units_tokens = tei_to_units(path, feats=feats, units="words")
-
-    if format=="txm":
-        units_tokens = txm_to_units(path, feats=feats, units="words")
-
-    return aut, re.sub(r"\s+", " ", str(' '.join(units_tokens)))
-
-def TXT_to_text(path):
-    """
-    Get main text from xml file
-    :param path: path to the file to transform
-    :return: a tuple with auts, and string (the text).
-    """
-
-    with open(path, 'r') as f:
-        #txt = [line.rstrip() for line in f if line.rstrip() != '']
-        txt = f.readlines()
-
-    # get author from filename (string before first _)
-    aut = path.split('/')[-1].split("_")[0]
-
-    return aut, re.sub(r"\s+", " ", str(' '.join(txt)))
 
 
-def detect_lang(string):
-    """
-    Get the language from a string
-    :param string: a string, duh
-    :return: the language
-    """
 
-    return langdetect.detect(string)  # , k = 3)
+class FileLoader(ABC):
+    """Abstract base class for file loaders."""
+    
+    @abstractmethod
+    def load(self, path: str, **kwargs) -> Tuple[str, str]:
+        """Load file and return (author, text) tuple."""
+        pass
 
 
-def normalise(text, keep_punct=False, keep_sym=False, no_ascii=False):
-    """
-    Function to normalise an input string. By defaults, it removes all but word chars, remove accents,
-    and normalise space, and then normalise unicode.
-    :param keep_punct: if true, in addition, also keeps Punctuation and case distinction
-    :param keep_sym: if true, same as keep_punct, but keeps also N?umbers, Symbols,  Marks, such as combining diacritics,
-    as well as Private use characters, and no Unidecode is applied
-    :param no_ascii: disables conversion to ascii
-    """
-    # Remove all but word chars, remove accents, and normalise space
-    # and then normalise unicode
+class TXTLoader(FileLoader):
+    """Loader for plain text files."""
+    
+    def load(self, path: str, **kwargs) -> Tuple[str, str]:
+        with open(path, 'r') as f:
+            text = ' '.join(f.readlines())
+        
+        author = extract_author_from_path(path)
+        return author, normalize_whitespace(text)
 
-    if keep_sym:
-        out = re.sub(r"[^\p{L}\p{P}\p{N}\p{S}\p{M}\p{Co}]+", " ", text)
 
-    else:
-        if keep_punct:
-            # Keep punctuation (and diacritics for now)
-            out = re.sub(r"[^\p{L}\p{P}\p{M}]+", " ", text)
-
+class XMLLoader(FileLoader):
+    """Loader for XML files."""
+    
+    def __init__(self):
+        self.xslt = etree.XSLT(etree.XML(XSLT_TEMPLATES['xml_text']))
+    
+    def load(self, path: str, **kwargs) -> Tuple[str, str]:
+        with open(path, 'r') as f:
+            doc = etree.parse(f)
+        
+        authors = doc.findall("//author")
+        author_texts = [a.text for a in authors]
+        
+        if len(author_texts) != 1:
+            print(f"Warning: Expected 1 author in {path}, found {len(author_texts)}")
+            author = author_texts[0] if author_texts else "unknown"
         else:
-            #out = re.sub(r"[\W0-9]+", " ", text.lower())
-            out = re.sub(r"[^\p{L}\p{M}]+", " ", text.lower())
+            author = author_texts[0]
+        
+        text = str(self.xslt(doc))
+        return author, normalize_whitespace(text)
 
-        if no_ascii is not True:
-            out = unidecode.unidecode(out)
 
-    # Normalise unicode
-    out = unicodedata.normalize("NFC", out)
+class XMLUnitLoader(ABC):
+    """Base class for XML loaders that extract units."""
+    
+    def __init__(self, template_name: str):
+        self.xslt = etree.XSLT(etree.XML(XSLT_TEMPLATES[template_name]))
+    
+    def extract_units(self, path: str, units: str = "verses", 
+                     feats: str = "words") -> List[str]:
+        """Extract units from XML file."""
+        with open(path, 'r') as f:
+            doc = etree.parse(f)
+        
+        params = self._get_xslt_params(units, feats)
+        result = str(self.xslt(doc, **params))
+        return result.splitlines()
+    
+    @abstractmethod
+    def _get_xslt_params(self, units: str, feats: str) -> Dict:
+        """Get XSLT parameters for transformation."""
+        pass
 
-    out = re.sub(r"\s+", " ", out).strip()
 
-    return out
+class TEIUnitLoader(XMLUnitLoader):
+    """Loader for TEI files with unit extraction."""
+    
+    def __init__(self):
+        super().__init__('tei_units')
+    
+    def _get_xslt_params(self, units: str, feats: str) -> Dict:
+        feats_param = "met" if feats in ["met_syll", "met_line"] else feats
+        return {
+            'units': etree.XSLT.strparam(units),
+            'feats': etree.XSLT.strparam(feats_param)
+        }
+    
+    def load(self, path: str, feats: str = "words", **kwargs) -> Tuple[str, str]:
+        """Load TEI file and return (author, text) tuple."""
+        author = extract_author_from_path(path)
+        units = self.extract_units(path, units="words", feats=feats)
+        text = normalize_whitespace(' '.join(units))
+        return author, text
 
-def max_sampling(myTexts, max_samples=10):
+
+class TXMUnitLoader(XMLUnitLoader):
+    """Loader for TXM files with unit extraction."""
+    
+    def __init__(self):
+        super().__init__('txm_units')
+    
+    def _get_xslt_params(self, units: str, feats: str) -> Dict:
+        return {
+            'units': etree.XSLT.strparam(units),
+            'feats': etree.XSLT.strparam(feats)
+        }
+    
+    def load(self, path: str, feats: str = "words", **kwargs) -> Tuple[str, str]:
+        """Load TXM file and return (author, text) tuple."""
+        author = extract_author_from_path(path)
+        units = self.extract_units(path, units="words", feats=feats)
+        text = normalize_whitespace(' '.join(units))
+        return author, text
+
+
+# Loader factory
+LOADERS = {
+    'txt': TXTLoader(),
+    'xml': XMLLoader(),
+    'tei': TEIUnitLoader(),
+    'txm': TXMUnitLoader()
+}
+
+
+def XML_to_text(path: str) -> Tuple[str, str]:
+    """Legacy function for XML loading."""
+    return LOADERS['xml'].load(path)
+
+
+def TXT_to_text(path: str) -> Tuple[str, str]:
+    """Legacy function for TXT loading."""
+    return LOADERS['txt'].load(path)
+
+
+def tei_to_units(path: str, feats: str = "words", units: str = "verses") -> List[str]:
+    """Legacy function for TEI unit extraction."""
+    return LOADERS['tei'].extract_units(path, units, feats)
+
+
+def txm_to_units(path: str, units: str = "verses", feats: str = "words") -> List[str]:
+    """Legacy function for TXM unit extraction."""
+    return LOADERS['txm'].extract_units(path, units, feats)
+
+
+def specialXML_to_text(path: str, format: str = "tei", feats: str = "words") -> Tuple[str, str]:
+    """Legacy function for special XML loading."""
+    return LOADERS[format].load(path, feats=feats)
+
+
+# ============================================================================
+# Sampling Functions
+# ============================================================================
+
+class Sampler:
     """
-    Select a random number of samples, equal to max_samples, for authors or classes that have more than max_samples
-    :param myTexts: the input myTexts object
-    :param max_samples: the maximum number of samples for any class
-    :return: a myTexts object, with the resulting selection of samples
+    Handles text sampling operations.
     """
-    autsCounts = dict()
-    for text in myTexts:
-        if text['aut'] not in autsCounts.keys():
-            autsCounts[text['aut']] = 1
+    
+    @staticmethod
+    def extract_tokens(path: str, config: Config=Config()) -> List[str]:
+        """
+        Extract tokens from a document based on format and units.
+        """
+        feats=config.features[0].type
 
+        if config.sampling.units == "words" and config.corpus.format == "txt":
+            author, text = LOADERS['txt'].load(path)
+            text = normalise(text, config.normalization)
+            return nltk.tokenize.wordpunct_tokenize(text)
+        
+        elif config.corpus.format == "tei":
+            return LOADERS['tei'].extract_units(path, config.corpus.units, feats)
+        
+        elif config.sampling.units == "verses" and config.corpus.format == "txm":
+            return LOADERS['txm'].extract_units(path, config.sampling.units, feats)
+        
         else:
-            autsCounts[text['aut']] += 1
+            raise ValueError(f"Unsupported combination: units={config.sampling.units}, format={config.corpus.format}")
+    
+    @staticmethod
+    def create_samples(tokens: List[str], sampling_config: SamplingConfig=SamplingConfig()) -> List[Dict]:
+        """
+        Create samples from tokens.
+        """
+        step = sampling_config.step if sampling_config.step is not None else sampling_config.size
+        
+        samples = []
+        
+        if sampling_config.random:
+            for k in range(sampling_config.max_samples):
+                samples.append({
+                    "start": f"{k}s",
+                    "end": f"{k}e",
+                    "text": list(random.choices(tokens, k=sampling_config.size))
+                })
+        else:
+            current = 0
+            while current + sampling_config.size <= len(tokens):
+                samples.append({
+                    "start": current,
+                    "end": current + sampling_config.size,
+                    "text": list(tokens[current:current + sampling_config.size])
+                })
+                current += step
+        
+        return samples
+    
+    @classmethod
+    def get_samples(cls, path: str, config: Config=Config()) -> List[Dict]:
+        """
+        Extract samples from a document.
+        
+        Args:
+            path: Path to document
+            config: Config file
 
-    for autCount in autsCounts.items():
-        if autCount[1] > max_samples:
-            # get random selection
-            toBeSelected = [text for text in myTexts if text['aut'] == autCount[0]]
-            toBeSelected = random.sample(toBeSelected, k=max_samples)
-            # Great, now remove all texts from this author from our samples
-            myTexts = [text for text in myTexts if text['aut'] != autCount[0]]
-            # and now concat
-            myTexts = myTexts + toBeSelected
-
-    return myTexts
+        Returns:
+            List of sample dictionaries
+        """
+        max_samples = config.sampling.max_samples or 10
+        config.sampling.validate()
+        
+        tokens = cls.extract_tokens(path, config)
+        return cls.create_samples(tokens, config.sampling)
 
 
-def load_texts(paths, identify_lang=False, feats="words", format="txt", keep_punct=False, keep_sym=False, no_ascii=False,
-               max_samples=None):
+def max_sampling(documents: List[Dict], max_samples: int = 10) -> List[Dict]:
     """
-    Loads a collection of documents into a 'myTexts' object for further processing.
-    TODO: a proper class
-    :param paths: path to docs
-    :param feats: the type of features, one of 'words', 'chars', 'affixes, 'lemma', 'pos', 'met_line' and 'met_syll'.
-    :param identify_lang: whether or not try to identify lang (default: False)
-    :param format: format of the source files (implemented values: txt [default], xml)
-    :param keep_punct: whether or not to keep punctuation and caps.
-    :param keep_sym: whether or not to keep punctuation, caps, letter variants and numbers (no unidecode).
-    :param no_ascii: disables conversion to ascii
-    :param max_samples: the maximum number of samples for any class
-    :return: a myTexts object
+    Randomly select up to max_samples per author/class.
+    
+    Args:
+        documents: List of text dict
+        max_samples: Maximum samples per author
+    
+    Returns:
+        Filtered list of documents
     """
+    # Count documents per author
+    author_counts = {}
+    for doc in documents:
+        author_counts[doc['aut']] = author_counts.get(doc['aut'], 0) + 1
+    
+    # Filter authors with too many samples
+    result = []
+    for author, count in author_counts.items():
+        author_docs = [d for d in documents if d['aut'] == author]
 
-    myTexts = []
+        if count > max_samples:
+            result.extend(random.sample(author_docs, k=max_samples))
+        else:
+            result.extend(author_docs)
+    
+    return result
+
+
+# ============================================================================
+# Main Loading Functions
+# ============================================================================
+
+def load_texts(paths: List[str], config: Config=Config()) -> List[Dict]:
+    """
+    Load a collection of documents.
+    
+    Args:
+        paths: List of file paths
+        config: Config file
+    
+    Returns:
+        List of document dictionaries
+    """
+    loader = LOADERS.get(config.corpus.format)
+    if not loader:
+        raise ValueError(f"Unsupported format: {config.corpus.format}")
+    
+    documents = []
+    feats=config.features[0].type
 
     for path in paths:
         name = path.split('/')[-1]
-
-        if format=='xml':
-            aut, text = XML_to_text(path)
-
-        if format in ('tei', 'txm'):
-            aut, text = specialXML_to_text(path, format=format, feats=feats)
-
-        else:
-            aut, text = TXT_to_text(path)
-
-        if identify_lang:
-            lang = detect_lang(text)
-        else:
-            lang = "NA"
-
-        # Normalise text once and for all
-        text = normalise(text, keep_punct=keep_punct, keep_sym=keep_sym, no_ascii=no_ascii)
-
-        myTexts.append({"name": name, "aut": aut, "text": text, "lang": lang})
-
-    if max_samples is not None:
-        myTexts = max_sampling(myTexts, max_samples=max_samples)
-
-    return myTexts
+        author, text = loader.load(path, feats=feats)
+        
+        lang = detect_lang(text) if config.corpus.identify_lang else "NA"
+        
+        # Normalize text
+        text = normalise(text, config.normalization)
+        
+        documents.append({
+            "name": name,
+            "aut": author,
+            "text": text,
+            "lang": lang
+        })
+    
+    if config.sampling.max_samples is not None:
+        documents = max_sampling(documents, config.sampling.max_samples)
+    
+    return documents
 
 
-# Load and split in samples of length -n- a collection of files
-def get_samples(path, size, step=None, samples_random=False, max_samples=10,
-                units="words", format="txt", feats="words", keep_punct=False, keep_sym=False, no_ascii=False):
+def docs_to_samples(paths: List[str], config: Config=Config()) -> List[Dict]:
     """
-    Take samples of n words or verses from a document, and then parse it.
-    TODO: ONLY IMPLEMENTED FOR NOW: XML/TEI, TXT and verses or words as units
-    :param path : path to file
-    :param size: sample size
-    :param step: size of the step when sampling successively (determines overlap) default is the same
-    as sample size (i.e. no overlap)
-    :param samples_random: Should random sampling with replacement be performed instead of continuous sampling (default: false)
-    :param max_samples: maximum number of samples per author/clas
-    :param units: the units to use, one of "words" or "verses"
-    :param format: type of document, one of full text, TEI or simple XML (ONLY TEI and TXT IMPLEMENTED)
-    :param feats: the type of features, one of 'words', 'chars', 'affixes, 'lemma', 'pos', 'met_line' and 'met_syll'.
+    Load documents with sampling.
+    
+    Args:
+        paths: List of file paths
+        config: Config file
+    
+    Returns:
+        List of sample dictionaries
     """
+    loader = LOADERS.get(config.corpus.format)
+    if not loader:
+        raise ValueError(f"Unsupported format: {config.corpus.format}")
+    
+    all_samples = []
+    feats=config.features[0].type
 
-    if samples_random and step is not None:
-        raise ValueError("random sampling is not compatible with continuous sampling (remove either the step or the samples_random argument")
-
-    if samples_random and not max_samples:
-        raise ValueError("random sampling needs a fixed number of samples (use the max_samples argument)")
-
-    if step is None:
-        step = size
-
-    if units == "words" and format == "txt":
-        my_doc = TXT_to_text(path)
-        text = normalise(my_doc[1], keep_punct=keep_punct, keep_sym=keep_sym, no_ascii=no_ascii)
-        units_tokens = nltk.tokenize.wordpunct_tokenize(text)
-
-    #Kept only for retrocompatibility with Psysché
-    if units == "verses" and format == "txm":
-        units_tokens = txm_to_units(path, units=units)
-
-    if format == "tei":
-        units_tokens = tei_to_units(path, units=units, feats=feats)
-
-    # and now generating output
-    samples = []
-
-    if samples_random:
-        for k in range(max_samples):
-            samples.append({"start": str(k)+'s', "end": str(k)+'e', "text": list(random.choices(units_tokens, k=size))})
-
-    else:
-        current = 0
-        while current + size <= len(units_tokens):
-            samples.append({"start": current, "end": current + size, "text": list(units_tokens[current:(current + size)])})
-            current = current + step
-
-    return samples
-
-
-def docs_to_samples(paths, size, step=None, units="words", samples_random=False, format="txt", feats="words", keep_punct=False,
-                    keep_sym=False, no_ascii=False, max_samples=None, identify_lang=False):
-    """
-    Loads a collection of documents into a 'myTexts' object for further processing BUT with samples !
-    :param paths: path to docs
-    :param size: sample size
-    :param step: size of the step when sampling successively (determines overlap) default is the same
-    as sample size (i.e. no overlap)
-    :param units: the units to use, one of "words" or "verses"
-    :param samples_random: Should random sampling with replacement be performed instead of continuous sampling (default: false)
-    :param format: type of document, one of full text, TEI or simple XML (ONLY TEI and TXT IMPLEMENTED)
-    :param keep_punct: whether to keep punctuation and caps.
-    :param max_samples: maximum number of samples per author/class.
-    :param identify_lang: whether to try to identify lang (default: False)
-    :param feats: the type of features, one of 'words', 'chars', 'affixes, 'lemma', 'pos', 'met_line' and 'met_syll'.
-    :return: a myTexts object
-    """
-    myTexts = []
     for path in paths:
-        aut = path.split('/')[-1].split('_')[0]
-        if identify_lang:
-            if format == 'xml':
-                aut, text = XML_to_text(path)
-
-            else:
-                aut, text = TXT_to_text(path)
-
+        author = extract_author_from_path(path)
+        
+        # Detect language if needed
+        if config.corpus.identify_lang:
+            _, text = loader.load(path, feats=feats)
             lang = detect_lang(text)
-
         else:
             lang = 'NA'
-
-        samples = get_samples(path, size=size, step=step, samples_random=samples_random, max_samples=max_samples,
-                              units=units, format=format, feats=feats,
-                              keep_punct=keep_punct, keep_sym=keep_sym, no_ascii=no_ascii)
-
+        
+        # Get samples
+        samples = Sampler.get_samples(path, config)
+        
+        # Create sample documents
         for sample in samples:
-            name = path.split('/')[-1] + '_' + str(sample["start"]) + "-" + str(sample["end"])
-            text = normalise(' '.join(sample["text"]), keep_punct=keep_punct, keep_sym=keep_sym, no_ascii=no_ascii)
-            myTexts.append({"name": name, "aut": aut, "text": text, "lang": lang})
-
-    if max_samples is not None:
-        myTexts = max_sampling(myTexts, max_samples=max_samples)
-
-    return myTexts
+            name = f"{path.split('/')[-1]}_{sample['start']}-{sample['end']}"
+            text = normalise(' '.join(sample['text']), config.normalization)
+            
+            all_samples.append({
+                "name": name,
+                "aut": author,
+                "text": text,
+                "lang": lang
+            })
+    
+    if config.sampling.max_samples is not None:
+        all_samples = max_sampling(all_samples, config.sampling.max_samples)
+    
+    return all_samples

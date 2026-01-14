@@ -2,151 +2,135 @@ import pandas
 import csv
 import random
 import json
+from typing import Optional, List, Tuple
 
-# TODO: make same modifs for the no split
-def read_clean_split(path, metadata_path=None, excludes_path=None, savesplit=None, lang=None):
+def _load_metadata(path: str, metadata_path: Optional[str], 
+                   excludes_path: Optional[str], lang: Optional[str]) -> Tuple[Optional[pandas.DataFrame], Optional[List[str]]]:
     """
-    Function to read a csv, clean it, and then split it in train and dev,
-    either randomly or according to a preexisting selection
-    :param path: path to csv file
-    :param metadata_path: path to metadata file
-    :param excludes_path: path to file with list of excludes
-    :param presplit: path to file with preexisting split (optional)
-    :param savesplit: path to save split (optional)
-    :return: saves to disk
+    Load metadata and exclusion list if needed.
     """
-
-    trainf = open(path.split(".")[0] + "_train.csv", 'w')
-    validf = open(path.split(".")[0] + "_valid.csv", 'w')
-
-    selection = {'train': [], 'valid': [], 'elim': []}
-
-    # Do we need to create metadata ?
+    metadata = None
+    excludes = None
+    
     if metadata_path is None and (excludes_path is not None or lang is not None):
-        metadata = pandas.read_csv(path)
-        metadata = pandas.DataFrame(index=metadata.loc[:, "Unnamed: 0"], columns=['lang'], data=list(metadata.loc[:, "lang"]))
-
-    if metadata_path is not None:
-        metadata = pandas.read_csv(metadata_path)
-        metadata = pandas.DataFrame(index=metadata.loc[:, "id"], columns=['lang'], data=list(metadata.loc[:, "true"]))
-
+        data = pandas.read_csv(path)
+        metadata = pandas.DataFrame(
+            index=data.loc[:, "Unnamed: 0"],
+            columns=['lang'],
+            data=list(data.loc[:, "lang"])
+        )
+    elif metadata_path is not None:
+        data = pandas.read_csv(metadata_path)
+        metadata = pandas.DataFrame(
+            index=data.loc[:, "id"],
+            columns=['lang'],
+            data=list(data.loc[:, "true"])
+        )
+    
     if excludes_path is not None:
-        excludes = pandas.read_csv(excludes_path)
-        excludes = list(excludes.iloc[:, 0])
+        excludes_data = pandas.read_csv(excludes_path)
+        excludes = list(excludes_data.iloc[:, 0])
+    
+    return metadata, excludes
 
-    with open(path, "r") as f:
-        head = f.readline()
-        trainf.write(head)
-        validf.write(head)
 
-        # and prepare to write csv lines to them
-        train = csv.writer(trainf)
-        valid = csv.writer(validf)
-
-        print("....evaluating each text.....")
-
-        reader = csv.reader(f, delimiter=",")
-
-        for line in reader:
-
-            # checks
-            if lang is not None:
-                # First check if good language
-                if not metadata.loc[line[0], "lang"] == lang:
-                    selection['elim'].append(line[0])
-                    print("not in: " + lang + " " + line[0])
-                    # if not, eliminate it, and go to next line
-                    continue
-
-            if excludes_path is not None:
-                # then check if to exclude
-                if line[0] in excludes:
-                    selection['elim'].append(line[0])
-                    print("Is a Wilhelmus instance! : " + line[0])
-                    # then eliminate it, and go to next line
-                    continue
-
-            # Now that we have only the good lines, proceed to split
-
-            # 10% for dev
-            if random.randint(1, 10) == 1:
-                selection['valid'].append(line[0])
-                valid.writerow(line)
-
-            # 90% for train
-            else:
-                selection['train'].append(line[0])
-                train.writerow(line)
-
-    trainf.close()
-    validf.close()
-    with open(savesplit, "w") as out:
-        out.write(json.dumps(selection))
-
-# TODO: merge this one and the previous ?
-def read_clean(path, metadata_path=None, excludes_path=None, savesplit=None, lang=None):
+def _should_exclude(line_id: str, metadata: Optional[pandas.DataFrame], 
+                    excludes: Optional[List[str]], lang: Optional[str]) -> Tuple[bool, Optional[str]]:
     """
-    Function to read a csv, clean it.
-    :param path: path to csv file
-    :param metadata_path: path to metadata file
-    :param excludes_path: path to file with list of excludes
+    Determine if a line should be excluded.
+    """
+    if lang is not None and metadata is not None:
+        try:
+            if metadata.loc[line_id, "lang"] != lang:
+                return True, f"not in: {lang} {line_id}"
+        except KeyError:
+            pass
+    
+    if excludes is not None and line_id in excludes:
+        return True, f"Is a Wilhelmus instance! : {line_id}"
+    
+    return False, None
+
+
+def read_clean(path: str, metadata_path: Optional[str] = None, 
+               excludes_path: Optional[str] = None, 
+               savesplit: Optional[str] = None, 
+               lang: Optional[str] = None,
+               split: bool = False,
+               split_ratio: float = 0.1) -> None:
+    """
+    Read a CSV, clean it, and optionally split it into train and validation sets.
+    
+    :param path: path to CSV file
+    :param metadata_path: path to metadata file (optional)
+    :param excludes_path: path to file with list of excludes (optional)
+    :param savesplit: path to save selection JSON (optional)
+    :param lang: only include texts in this language (optional)
+    :param split: if True, split into train/valid sets (default False)
+    :param split_ratio: ratio for validation set when split=True (default 0.1 = 10%)
     :return: saves to disk
     """
-
-    trainf = open(path.split(".")[0] + "_selected.csv", 'w')
-
+    metadata, excludes = _load_metadata(path, metadata_path, excludes_path, lang)
+    
+    base_path = path.rsplit(".", 1)[0]
+    
+    # Initialize selection tracking
     selection = {'train': [], 'elim': []}
-
-    # Do we need to create metadata ?
-    if metadata_path is None and (excludes_path is not None or lang is not None):
-        metadata = pandas.read_csv(path)
-        metadata = pandas.DataFrame(index=metadata.loc[:, "Unnamed: 0"], columns=['lang'], data=list(metadata.loc[:, "lang"]))
-
-    if metadata_path is not None:
-        metadata = pandas.read_csv(metadata_path)
-        metadata = pandas.DataFrame(index=metadata.loc[:, "id"], columns=['lang'], data=list(metadata.loc[:, "true"]))
-
-    if excludes_path is not None:
-        excludes = pandas.read_csv(excludes_path)
-        excludes = list(excludes.iloc[:, 0])
-
-    with open(path, "r") as f:
-        head = f.readline()
-        trainf.write(head)
-
-        # and prepare to write csv lines to them
-        train = csv.writer(trainf)
-
-        print("....evaluating each text.....")
-
-        reader = csv.reader(f, delimiter=",")
-
-        for line in reader:
-
-            # checks
-            if lang is not None:
-                # First check if good language
-                if not metadata.loc[line[0], "lang"] == lang:
-                    selection['elim'].append(line[0])
-                    print("not in: " + lang + " " + line[0])
-                    # if not, eliminate it, and go to next line
+    if split:
+        selection['valid'] = []
+    
+    # Open output files
+    if split:
+        train_path = f"{base_path}_train.csv"
+        valid_path = f"{base_path}_valid.csv"
+        trainf = open(train_path, 'w')
+        validf = open(valid_path, 'w')
+    else:
+        train_path = f"{base_path}_selected.csv"
+        trainf = open(train_path, 'w')
+        validf = None
+    
+    try:
+        with open(path, "r") as f:
+            header = f.readline()
+            trainf.write(header)
+            if validf:
+                validf.write(header)
+            
+            train_writer = csv.writer(trainf)
+            valid_writer = csv.writer(validf) if validf else None
+            
+            print("....evaluating each text.....")
+            reader = csv.reader(f, delimiter=",")
+            
+            for line in reader:
+                line_id = line[0]
+                
+                # Check exclusion
+                is_excluded, reason = _should_exclude(line_id, metadata, excludes, lang)
+                if is_excluded:
+                    selection['elim'].append(line_id)
+                    if reason:
+                        print(reason)
                     continue
-
-            if excludes_path is not None:
-                # then check if to exclude
-                if line[0] in excludes:
-                    selection['elim'].append(line[0])
-                    print("Is a Wilhelmus instance! : " + line[0])
-                    # then eliminate it, and go to next line
-                    continue
-
-            # Now that we have only the good lines, proceed to write
-            selection['train'].append(line[0])
-            train.writerow(line)
-
-    trainf.close()
-    with open(savesplit, "w") as out:
-        out.write(json.dumps(selection))
+                
+                # Route to train or valid
+                if split and random.random() < split_ratio:
+                    selection['valid'].append(line_id)
+                    valid_writer.writerow(line)
+                else:
+                    selection['train'].append(line_id)
+                    train_writer.writerow(line)
+    
+    finally:
+        trainf.close()
+        if validf:
+            validf.close()
+    
+    # Save selection
+    if savesplit:
+        with open(savesplit, "w") as out:
+            out.write(json.dumps(selection))
 
 def apply_selection(path, presplit_path):
     """

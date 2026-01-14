@@ -1,7 +1,8 @@
 import unittest
 import superstyl.load
 import superstyl.preproc.features_extract
-from superstyl.load_from_config import load_corpus_from_config
+from superstyl.load import load_corpus
+from superstyl.config import Config
 import os
 import tempfile
 import json
@@ -33,7 +34,7 @@ class ErrorHandlingTests(unittest.TestCase):
         # WHEN/THEN: Should raise ValueError
         with self.assertRaises(ValueError) as context:
             superstyl.load.load_corpus(
-                self.test_paths,
+                data_paths=self.test_paths,
                 feats="lemma",
                 format="txt"
             )
@@ -48,7 +49,7 @@ class ErrorHandlingTests(unittest.TestCase):
         # WHEN/THEN: Should raise ValueError
         with self.assertRaises(ValueError) as context:
             superstyl.load.load_corpus(
-                self.test_paths,
+                data_paths=self.test_paths,
                 feats="pos",
                 format="txt"
             )
@@ -63,7 +64,7 @@ class ErrorHandlingTests(unittest.TestCase):
         # WHEN/THEN: Should raise ValueError
         with self.assertRaises(ValueError) as context:
             superstyl.load.load_corpus(
-                self.test_paths,
+                data_paths=self.test_paths,
                 feats="met_line",
                 format="txt"
             )
@@ -78,7 +79,7 @@ class ErrorHandlingTests(unittest.TestCase):
         # WHEN/THEN: Should raise ValueError
         with self.assertRaises(ValueError) as context:
             superstyl.load.load_corpus(
-                self.test_paths,
+                data_paths=self.test_paths,
                 feats="met_syll",
                 format="txt"
             )
@@ -86,8 +87,8 @@ class ErrorHandlingTests(unittest.TestCase):
         self.assertIn("met_syll", str(context.exception))
         self.assertIn("tei", str(context.exception).lower())
     
-    def test_load_corpus_met_line_requires_lines_unit(self):
-        # SCENARIO: met_line requires units='lines'
+    def test_load_corpus_met_line_requires_verses_unit(self):
+        # SCENARIO: met_line requires units='verses'
         # GIVEN: Attempting to use met_line with units='words'
         
         # Create a dummy TEI file for this test
@@ -98,17 +99,18 @@ class ErrorHandlingTests(unittest.TestCase):
         # WHEN/THEN: Should raise ValueError
         with self.assertRaises(ValueError) as context:
             superstyl.load.load_corpus(
-                [tei_path],
+                data_paths=[tei_path],
                 feats="met_line",
                 format="tei",
+                sampling=True,
                 units="words"  # Wrong unit type
             )
         
         self.assertIn("met_line", str(context.exception))
-        self.assertIn("lines", str(context.exception))
+        self.assertIn("verses", str(context.exception))
     
-    def test_load_corpus_met_syll_requires_lines_unit(self):
-        # SCENARIO: met_syll requires units='lines'
+    def test_load_corpus_met_syll_requires_verses_unit(self):
+        # SCENARIO: met_syll requires units='verses'
         # GIVEN: Attempting to use met_syll with units='words'
         
         # Create a dummy TEI file for this test
@@ -119,14 +121,15 @@ class ErrorHandlingTests(unittest.TestCase):
         # WHEN/THEN: Should raise ValueError
         with self.assertRaises(ValueError) as context:
             superstyl.load.load_corpus(
-                [tei_path],
+                data_paths=[tei_path],
                 feats="met_syll",
                 format="tei",
+                sampling=True,
                 units="words"  # Wrong unit type
             )
         
         self.assertIn("met_syll", str(context.exception))
-        self.assertIn("lines", str(context.exception))
+        self.assertIn("verses", str(context.exception))
     
     # =========================================================================
     # Tests pour features_extract.py - ValueError pour paramètres invalides
@@ -248,14 +251,16 @@ class ErrorHandlingTests(unittest.TestCase):
         
         # Create config
         config = {
-            "paths": self.test_paths,
-            "format": "txt",
+            "corpus": {
+                "paths": self.test_paths,
+                "format": "txt"
+            },
             "features": [
                 {
                     "name": "test_feature",
                     "type": "words",
                     "n": 1,
-                    "feat_list": feature_list_path  # JSON feature list
+                    "feat_list_path": feature_list_path  # JSON feature list path
                 }
             ]
         }
@@ -265,7 +270,8 @@ class ErrorHandlingTests(unittest.TestCase):
             json.dump(config, f)
         
         # WHEN: Loading corpus from config
-        corpus, features = load_corpus_from_config(config_path)
+        config = Config.from_json(config_path)
+        corpus, features = load_corpus(config=config)
         
         # THEN: Should load successfully with JSON feature list
         self.assertIsNotNone(corpus)
@@ -283,20 +289,22 @@ class ErrorHandlingTests(unittest.TestCase):
         
         # Create config with multiple features (triggers is_test logic)
         config = {
-            "paths": self.test_paths,
-            "format": "txt",
+            "corpus": {
+                "paths": self.test_paths,
+                "format": "txt"
+            },
             "features": [
                 {
                     "name": "feat1",
                     "type": "words",
                     "n": 1,
-                    "feat_list": feature_list_path
+                    "feat_list_path": feature_list_path
                 },
                 {
                     "name": "feat2",
                     "type": "chars",
                     "n": 2,
-                    "feat_list": feature_list_path
+                    "feat_list_path": feature_list_path
                 }
             ]
         }
@@ -306,7 +314,8 @@ class ErrorHandlingTests(unittest.TestCase):
             json.dump(config, f)
         
         # WHEN: Loading corpus from config
-        corpus, features = load_corpus_from_config(config_path, is_test=True)
+        config_obj = Config.from_json(config_path)
+        corpus, features = load_corpus(config=config_obj, use_provided_feat_list=True)
         
         # THEN: Should use the provided feature list
         self.assertIsNotNone(corpus)
