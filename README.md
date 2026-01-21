@@ -250,13 +250,13 @@ BIBTEX:
 MLA:
 
 ```plaintext
-Camps, Jean-Baptiste, and Florian Cafiero. *SUPERvised STYLometry (SuperStyl)*. Version 1.0, 11 Nov. 2024, doi:10.5281/zenodo.14069799.
+Camps, Jean-Baptiste,  Moins, Théo and Florian Cafiero. *SUPERvised STYLometry (SuperStyl)*. Version 1.0, 11 Nov. 2024, doi:10.5281/zenodo.14069799.
 ```
 
 APA:
 
 ```plaintext
-Camps, J.-B., & Cafiero, F. (2024). SUPERvised STYLometry (SuperStyl) (Version v1.0) [Computer software]. https://doi.org/10.5281/zenodo.14069799
+Camps, J.-B., Moins T. & Cafiero, F. (2024). SUPERvised STYLometry (SuperStyl) (Version v1.0) [Computer software]. https://doi.org/10.5281/zenodo.14069799
 ```
 
 
