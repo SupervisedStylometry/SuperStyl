@@ -236,7 +236,7 @@ BIBTEX:
 
 ```bibtex
 @software{camps_cafiero_2024,
-  author       = {Jean-Baptiste Camps and Florian Cafiero},
+  author       = {Jean-Baptiste Camps, Théo Moins and Florian Cafiero},
   title        = {{SUPERvised STYLometry (SuperStyl)}},
   month        = {11},
   year         = {2024},
