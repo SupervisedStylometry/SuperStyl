@@ -297,7 +297,7 @@ class Sampler:
             return nltk.tokenize.wordpunct_tokenize(text)
         
         elif config.corpus.format == "tei":
-            return LOADERS['tei'].extract_units(path, config.corpus.units, feats)
+            return LOADERS['tei'].extract_units(path, config.sampling.units, feats)
         
         elif config.sampling.units == "verses" and config.corpus.format == "txm":
             return LOADERS['txm'].extract_units(path, config.sampling.units, feats)

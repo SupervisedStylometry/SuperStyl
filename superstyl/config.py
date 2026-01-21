@@ -244,7 +244,7 @@ class Config(BaseConfig):
             raise ValueError("No paths specified for corpus loading.")
             
         # Validate paths type
-        if not isinstance(self.corpus.paths, list):
+        if not isinstance(self.corpus.paths, (list, str)):
             raise TypeError("Paths in config must be either a list or a glob pattern string.")
         
         for feat_config in self.features:
