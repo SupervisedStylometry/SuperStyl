@@ -159,12 +159,6 @@ if __name__ == '__main__':
             else:
                 print(".......unknown feature list format. Ignoring.......")
 
-    elif args.config:
-        # Load from new-style JSON config file
-        config = Config.from_json(args.config)
-        # Override paths if provided via CLI
-        if args.s:
-            config.corpus.paths = args.s
     
     else:
         if not args.s:

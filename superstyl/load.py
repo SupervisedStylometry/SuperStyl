@@ -6,13 +6,12 @@ import tqdm
 import pandas
 from typing import Optional, List, Tuple, Union
 
-from superstyl.config import Config, FeatureConfig, NormalizationConfig
+from superstyl.config import Config, FeatureConfig
 
 
 def _load_single_feature(
     myTexts: List[dict],
     feat_config: FeatureConfig,
-    norm_config: NormalizationConfig,
     use_provided_feat_list: bool = False,
 ) -> Tuple[pandas.DataFrame, List]:
     """
@@ -183,7 +182,7 @@ def load_corpus(
     if len(config.features) == 1:
         feat_config = config.features[0]
         feats_df, feat_list = _load_single_feature(
-            myTexts, feat_config, config.normalization, use_provided_feat_list
+            myTexts, feat_config, use_provided_feat_list
         )
         corpus = pandas.concat([metadata, feats_df], axis=1)
         return corpus, feat_list
@@ -199,7 +198,7 @@ def load_corpus(
         print(f".......processing {prefix}.......")
         
         feats_df, feat_list = _load_single_feature(
-            myTexts, feat_config, config.normalization, use_provided_feat_list
+            myTexts, feat_config, use_provided_feat_list
         )
         
         # Prefix columns to avoid collisions
