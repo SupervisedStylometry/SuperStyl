@@ -104,15 +104,40 @@ def train_svm(
             # Ensures that the resampling method does not attempt to use more neighbors than available samples
             # in the minority class, which produced the error.
             min_class_size = min(Counter(classes).values())
-            n_neighbors = min(5, min_class_size - 1)  # Default n_neighbors in SMOTE is 5
-            # In case we have to temper with the n_neighbors, we print a warning message to the user
-            # (might be written more clearly, but we want a short message, right?)
-            if 0 < n_neighbors >= min_class_size:
-                print(f"Warning: Adjusting n_neighbors for SMOTE to {n_neighbors} due to small class size.")
             
-            if n_neighbors == 0:
-                print("Warning: at least one class only has a single individual; cannot apply SMOTE(Tomek).")
+            # For cross-validation, we need to be more conservative since each fold
+            # will have fewer samples. We use a safety margin to account for this.
+            if cross_validate is not None:
+                # In CV, each fold typically has fewer samples
+                # Use a more conservative estimate
+                if cross_validate == 'leave-one-out':
+                    # LOO: each fold removes 1 sample
+                    effective_min = max(1, min_class_size - 1)
+                elif cross_validate == 'k-fold':
+                    k_folds = k if k > 0 else 10
+                    effective_min = max(1, int(min_class_size * (k_folds - 1) / k_folds))
+                elif cross_validate == 'group-k-fold':
+                    # use conservative estimate
+                    k_folds = k if k > 0 else 10
+                    effective_min = max(2, min_class_size // k_folds)
+                else:
+                    effective_min = min_class_size
             else:
+                effective_min = min_class_size
+            
+            # Calculate n_neighbors with safety margin
+            # We need at least 2 samples to have 1 neighbor
+            n_neighbors = min(5, effective_min - 1) if effective_min > 1 else 0
+            
+            # Ensure n_neighbors is at least 1 for SMOTE to work
+            if n_neighbors < 1:
+                print(f"Warning: Smallest class has only {min_class_size} sample(s). Cannot apply SMOTE.")
+                print("         Skipping SMOTE resampling. Consider using 'upsampling' or 'downsampling' instead.")
+            elif n_neighbors < 5:
+                print(f"Warning: Adjusting n_neighbors for SMOTE to {n_neighbors} due to small class size.")
+                print(f"         (Minimum class size: {min_class_size}, effective for CV: {effective_min})")
+            
+            if n_neighbors >= 1:
                 if balance == 'SMOTE':
                     estimators.append(('sampling', over.SMOTE(k_neighbors=n_neighbors, random_state=42)))
                 elif balance == 'SMOTETomek':
@@ -183,6 +208,9 @@ def train_svm(
             pipe.fit(train, classes)
 
         if final_pred:
+            if test is None:
+                raise ValueError("final_pred=True requires a test set!")
+            preds = pipe.predict(test)
             preds = pipe.predict(test)
 
     # And now the simple case where there is only one svm to train
