@@ -216,7 +216,8 @@ class TEIUnitLoader(XMLUnitLoader):
     def load(self, path: str, feats: str = "words", **kwargs) -> Tuple[str, str]:
         """Load TEI file and return (author, text) tuple."""
         author = extract_author_from_path(path)
-        units = self.extract_units(path, units="words", feats=feats)
+        units_type = "verses" if feats in ("met_syll", "met_line") else "words"
+        units = self.extract_units(path, units=units_type, feats=feats)
         text = normalize_whitespace(' '.join(units))
         return author, text
 

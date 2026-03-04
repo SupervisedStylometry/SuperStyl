@@ -134,8 +134,8 @@ def load_corpus(
     for feat_config in config.features:
         if feat_config.type in ('lemma', 'pos', 'met_line', 'met_syll') and config.corpus.format != 'tei':
             raise ValueError(f"{feat_config.type} requires TEI format.")
-        if feat_config.type in ('met_line', 'met_syll') and config.sampling.units != 'verses':
-            raise ValueError(f"{feat_config.type} verses lines units.")
+        if feat_config.type in ('met_line', 'met_syll') and config.sampling.enabled and config.sampling.units != 'verses':
+            raise ValueError(f"{feat_config.type} requires verses units when sampling.")
     data_paths = config.corpus.paths
         
     # Handle string paths (single file or glob pattern)
@@ -197,9 +197,16 @@ def load_corpus(
         prefix = feat_config.name or f"f{i+1}"
         print(f".......processing {prefix}.......")
         
-        feats_df, feat_list = _load_single_feature(
-            myTexts, feat_config, use_provided_feat_list
-        )
+        # Rechargement si le type de texte diffère du premier feature
+        if feat_config.type in ("met_syll", "met_line") and config.features[0].type not in ("met_syll", "met_line"):
+            met_config = _config_with_single_feature(config, feat_config)
+            texts_for_feat = pipe.docs_to_samples(data_paths, config=met_config) if config.sampling.enabled \
+                            else pipe.load_texts(data_paths, config=met_config)
+        else:
+            texts_for_feat = myTexts
+
+        feats_df, feat_list = _load_single_feature(texts_for_feat, feat_config, use_provided_feat_list)
+
         
         # Prefix columns to avoid collisions
         feats_df = feats_df.rename(columns={col: f"{prefix}_{col}" for col in feats_df.columns})
@@ -208,3 +215,10 @@ def load_corpus(
         all_feat_lists.append(feat_list)
 
     return merged_feats, all_feat_lists
+
+def _config_with_single_feature(config: Config, feat_config: FeatureConfig) -> Config:
+    """Retourne une copie de config avec un seul feature."""
+    import copy
+    c = copy.deepcopy(config)
+    c.features = [feat_config]
+    return c
